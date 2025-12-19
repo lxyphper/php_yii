@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "prosecutor",
+      "error_analysis": "学生易因形近词“professor”（教授）混淆，或因不熟悉“prosecute”词根而误猜为“保护者”。",
+      "sentence": "The **prosecutor** presented the witness's testimony to the court to prove the defendant's involvement in the crime.",
+      "options": {
+        "option": [
+          {
+            "definition": "教授",
+            "iscorrect": false
+          },
+          {
+            "definition": "检察官；公诉人",
+            "iscorrect": true
+          },
+          {
+            "definition": "保护者",
+            "iscorrect": false
+          },
+          {
+            "definition": "执行者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

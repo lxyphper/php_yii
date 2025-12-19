@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "appearance",
+      "error_analysis": "易因形近词“apparent”（明显的）误解为“明显性”，或因词根“appear”（出现）误判为“出现的动作”，忽略其“外貌/外观”的核心义。",
+      "sentence": "The new smartphone has a sleek **appearance** that makes it popular among young people.",
+      "options": {
+        "option": [
+          {
+            "definition": "外貌；外观",
+            "iscorrect": true
+          },
+          {
+            "definition": "明显性；显著性",
+            "iscorrect": false
+          },
+          {
+            "definition": "出现；露面",
+            "iscorrect": false
+          },
+          {
+            "definition": "申请；请求",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

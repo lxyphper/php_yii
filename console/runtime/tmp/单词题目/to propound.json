@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to propound",
+      "error_analysis": "易混淆形近词profound（深刻的），或误将词根pound理解为“猛击”而产生错误联想",
+      "sentence": "The scholar will **propound** a new hypothesis about ancient civilizations in her upcoming lecture.",
+      "options": {
+        "option": [
+          {
+            "definition": "提出（观点、问题等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "深刻的",
+            "iscorrect": false
+          },
+          {
+            "definition": "猛击；重击",
+            "iscorrect": false
+          },
+          {
+            "definition": "推进；推动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

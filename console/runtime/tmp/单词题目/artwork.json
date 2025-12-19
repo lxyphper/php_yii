@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "artwork",
+      "error_analysis": "学生易将artwork字面拆分为“art+work”，误解为“艺术工作”（如艺术家的创作过程），而非正确的“艺术作品”",
+      "sentence": "The new museum exhibit features hundreds of pieces of **artwork** by famous painters and sculptors.",
+      "options": {
+        "option": [
+          {
+            "definition": "艺术作品（如绘画、雕塑等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "艺术工作（如艺术家的创作过程）",
+            "iscorrect": false
+          },
+          {
+            "definition": "艺术展览（如博物馆中的展示活动）",
+            "iscorrect": false
+          },
+          {
+            "definition": "艺术技巧（如绘画的方法）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

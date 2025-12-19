@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ravishing",
+      "error_analysis": "学生易因形近词\"ravage\"(破坏)误解为\"破坏的\"，或因词根\"ravish\"过度推导为\"猛烈的\"",
+      "sentence": "At the gala, everyone was captivated by the actress's **ravishing** smile and graceful demeanor.",
+      "options": {
+        "option": [
+          {
+            "definition": "极其迷人的；令人陶醉的",
+            "iscorrect": true
+          },
+          {
+            "definition": "破坏的；毁灭性的",
+            "iscorrect": false
+          },
+          {
+            "definition": "猛烈的；激烈的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无聊的；乏味的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "meter",
+      "error_analysis": "学生易混淆形近词'matter'(事情；物质)，或误将'meter'仅理解为长度单位'米'，忽略其'仪表'的核心常用义。",
+      "sentence": "Please check the water **meter** outside your apartment to see how much you've used this month.",
+      "options": {
+        "option": [
+          {
+            "definition": "仪表（如水表、煤气表等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "事情；物质",
+            "iscorrect": false
+          },
+          {
+            "definition": "米（长度单位）",
+            "iscorrect": false
+          },
+          {
+            "definition": "方法；方式",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

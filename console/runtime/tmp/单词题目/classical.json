@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "classical",
+      "error_analysis": "学生易因形近词“class”（班级）或词根“class”（分类）将“classical”误理解为“班级的”或“分类的”",
+      "sentence": "Many people enjoy listening to **classical** music, such as Mozart's piano concertos.",
+      "options": {
+        "option": [
+          {
+            "definition": "班级的；课堂的",
+            "iscorrect": false
+          },
+          {
+            "definition": "分类的；类别的",
+            "iscorrect": false
+          },
+          {
+            "definition": "经典的；古典的（指文学、艺术等具有长期价值的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "现代的；当代的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to kidnap",
+      "error_analysis": "将“kidnap”误判为与“孩子小睡”相关的动作（如让孩子打盹），因形近词“kid”（孩子）和“nap”（小睡）的字面组合误导",
+      "sentence": "The police are searching for the man who tried to **kidnap** the little girl from the park yesterday.",
+      "options": {
+        "option": [
+          {
+            "definition": "绑架",
+            "iscorrect": true
+          },
+          {
+            "definition": "让孩子打盹",
+            "iscorrect": false
+          },
+          {
+            "definition": "带孩子去散步",
+            "iscorrect": false
+          },
+          {
+            "definition": "偷孩子的玩具",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

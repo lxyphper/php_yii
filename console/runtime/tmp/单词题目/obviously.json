@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "obviously",
+      "error_analysis": "学生易因形近词“occasionally”（偶尔）或词根“ob-”（反对）的误导，将“obviously”错误理解为“偶尔地”或“反对地”。",
+      "sentence": "The sun is shining brightly, so **obviously** we don’t need an umbrella today.",
+      "options": {
+        "option": [
+          {
+            "definition": "明显地",
+            "iscorrect": true
+          },
+          {
+            "definition": "偶尔地",
+            "iscorrect": false
+          },
+          {
+            "definition": "反对地",
+            "iscorrect": false
+          },
+          {
+            "definition": "固执地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

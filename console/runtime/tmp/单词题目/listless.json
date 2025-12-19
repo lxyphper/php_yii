@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "listless",
+      "error_analysis": "学生易因\"list\"(列表)与\"less\"(少)的字面组合误解为\"没有列表的\"，或与形近词\"restless\"混淆为\"不安的\"",
+      "sentence": "After working 12 hours straight, Sarah felt so **listless** that she couldn’t even lift her arms to eat dinner.",
+      "options": {
+        "option": [
+          {
+            "definition": "无精打采的；没活力的",
+            "iscorrect": true
+          },
+          {
+            "definition": "没有列表的；不使用列表的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不安的；坐立难安的",
+            "iscorrect": false
+          },
+          {
+            "definition": "倾斜的；摇晃的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

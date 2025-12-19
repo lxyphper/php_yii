@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to authorize",
+      "error_analysis": "学生易因形近词“author”（作者）误导认为是“创作”，或因词根“author”（权威）联想误解为“使有权威”。",
+      "sentence": "The manager will **authorize** the use of the company car for the business trip tomorrow.",
+      "options": {
+        "option": [
+          {
+            "definition": "授权；批准（给予某人做某事的权力）",
+            "iscorrect": true
+          },
+          {
+            "definition": "创作；写作",
+            "iscorrect": false
+          },
+          {
+            "definition": "使有权威；使成为权威",
+            "iscorrect": false
+          },
+          {
+            "definition": "允许；许可",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

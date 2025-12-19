@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to finish",
+      "error_analysis": "学生易因形近词\"furnish\"(布置)或词根联想\"find\"(找到)误将\"to finish\"理解为\"布置\"或\"找到\"",
+      "sentence": "She plans to **finish** her painting for the art exhibition tomorrow.",
+      "options": {
+        "option": [
+          {
+            "definition": "完成",
+            "iscorrect": true
+          },
+          {
+            "definition": "找到",
+            "iscorrect": false
+          },
+          {
+            "definition": "布置",
+            "iscorrect": false
+          },
+          {
+            "definition": "开始",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

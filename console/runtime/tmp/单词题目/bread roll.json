@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bread roll",
+      "error_analysis": "学生易因“roll”的“卷”义或动词“滚动”义，误将“bread roll”理解为“面包卷”或“滚动的面包”。",
+      "sentence": "For breakfast, she had a **bread roll** with butter and a cup of coffee.",
+      "options": {
+        "option": [
+          {
+            "definition": "小型圆形面包（早餐常吃的圆面包）",
+            "iscorrect": true
+          },
+          {
+            "definition": "面包卷（卷状的面包制品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "滚动的面包（正在滚动的面包）",
+            "iscorrect": false
+          },
+          {
+            "definition": "面包条（长条状的硬面包）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

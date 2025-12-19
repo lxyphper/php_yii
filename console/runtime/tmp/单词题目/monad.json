@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "monad",
+      "error_analysis": "学生易因形近词（如month）误判为“月份”，或因“mon-”词根误导为“单一的物体”，而非“不可分割的基本单位”。",
+      "sentence": "In Leibniz's philosophy, the **monad** is described as an indivisible basic substance that forms the foundation of all existence.",
+      "options": {
+        "option": [
+          {
+            "definition": "（哲学或生物学中的）不可分割的基本单位",
+            "iscorrect": true
+          },
+          {
+            "definition": "月份",
+            "iscorrect": false
+          },
+          {
+            "definition": "单一的物体",
+            "iscorrect": false
+          },
+          {
+            "definition": "疯狂的人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

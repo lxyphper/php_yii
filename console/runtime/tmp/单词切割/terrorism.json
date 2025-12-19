@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "terorism",
+      "terrorizm",
+      "terrorim",
+      "torrorism"
+    ],
+    "correct_chunks": [
+      "terr",
+      "or",
+      "ism"
+    ],
+    "distractor_chunks": [
+      "ter",
+      "izm",
+      "im",
+      "tor"
+    ]
+  },
+  0
+]

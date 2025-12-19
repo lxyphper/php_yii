@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "grin",
+      "error_analysis": "学生易因形近词\"grind\"(研磨)混淆，或误将\"gr-\"联想为\"生长\"(grow)而误解\"grin\"的含义",
+      "sentence": "When she heard the joke, she couldn't help but **grin** widely, showing all her teeth.",
+      "options": {
+        "option": [
+          {
+            "definition": "咧嘴笑（露出牙齿的笑）",
+            "iscorrect": true
+          },
+          {
+            "definition": "研磨；碾碎",
+            "iscorrect": false
+          },
+          {
+            "definition": "生长；成长",
+            "iscorrect": false
+          },
+          {
+            "definition": "微笑（不露出牙齿）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

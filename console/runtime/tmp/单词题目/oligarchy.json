@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "oligarchy",
+      "error_analysis": "学生易因\"olig-\"发音接近\"old\"（老的）而误解为\"老年统治\"，或因混淆\"-archy\"后缀与\"anarchy\"（无政府状态）而误判",
+      "sentence": "The country's political system is often criticized as an **oligarchy**, where power is held by a small group of wealthy elites.",
+      "options": {
+        "option": [
+          {
+            "definition": "少数人统治；寡头政治",
+            "iscorrect": true
+          },
+          {
+            "definition": "老年统治；长者执政",
+            "iscorrect": false
+          },
+          {
+            "definition": "无政府状态；混乱统治",
+            "iscorrect": false
+          },
+          {
+            "definition": "君主专制；帝王统治",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

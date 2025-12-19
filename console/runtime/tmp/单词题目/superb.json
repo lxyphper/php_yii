@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "superb",
+      "error_analysis": "学生易因形近词“super”（超级的）误判“superb”为“超级的”，或因词根“super-”（超）过度联想为“超过的”而非“卓越的”",
+      "sentence": "The chef prepared a **superb** meal that impressed all the guests with its flavor and presentation.",
+      "options": {
+        "option": [
+          {
+            "definition": "极好的；卓越的",
+            "iscorrect": true
+          },
+          {
+            "definition": "超级的；极强的",
+            "iscorrect": false
+          },
+          {
+            "definition": "超过的；超越的",
+            "iscorrect": false
+          },
+          {
+            "definition": "微妙的；难以察觉的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

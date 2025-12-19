@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to plug in",
+      "error_analysis": "易混淆形近词\"pull in\"（车辆进站）或字面误解为\"塞进（非电源空间）\"",
+      "sentence": "Before using the new blender, don’t forget to **plug in** the power cord.",
+      "options": {
+        "option": [
+          {
+            "definition": "（车辆）进站；吸引",
+            "iscorrect": false
+          },
+          {
+            "definition": "塞进（某个狭窄空间）",
+            "iscorrect": false
+          },
+          {
+            "definition": "插入（电源）；接通（电器）",
+            "iscorrect": true
+          },
+          {
+            "definition": "拔出（插头）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

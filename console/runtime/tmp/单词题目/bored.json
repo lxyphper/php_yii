@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bored",
+      "error_analysis": "中国学生易因形近词“board”（木板/董事会）或词根“bore”（钻孔）的字面意思，将“bored”误理解为“木板的”或“钻孔的”。",
+      "sentence": "After waiting for two hours without anything to do, Tom became **bored** and started playing games on his phone.",
+      "options": {
+        "option": [
+          {
+            "definition": "感到厌烦的",
+            "iscorrect": true
+          },
+          {
+            "definition": "木板的；董事会的",
+            "iscorrect": false
+          },
+          {
+            "definition": "钻孔的",
+            "iscorrect": false
+          },
+          {
+            "definition": "出生的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

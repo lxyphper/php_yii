@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to hide",
+      "error_analysis": "中国学生易因“hide”与基础词汇“ride”（骑）拼写相似而混淆词义，或误将动词义与名词“皮革”混淆。",
+      "sentence": "The little girl decided to **hide** behind the sofa when her friends came to play.",
+      "options": {
+        "option": [
+          {
+            "definition": "隐藏；躲藏",
+            "iscorrect": true
+          },
+          {
+            "definition": "骑；乘坐",
+            "iscorrect": false
+          },
+          {
+            "definition": "皮革；兽皮",
+            "iscorrect": false
+          },
+          {
+            "definition": "徒步旅行",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

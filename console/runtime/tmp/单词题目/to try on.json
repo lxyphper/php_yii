@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to try on",
+      "error_analysis": "学生易混淆“try on”（试穿）与“try out”（试验），或因字面拆分误解为“尝试在...上面”",
+      "sentence": "Before purchasing the jacket, Tom asked the salesperson if he could **try it on** in the fitting room.",
+      "options": {
+        "option": [
+          {
+            "definition": "试穿（衣服、鞋子等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "试验（新事物或方法）",
+            "iscorrect": false
+          },
+          {
+            "definition": "尝试在...上面",
+            "iscorrect": false
+          },
+          {
+            "definition": "穿上（强调结果）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

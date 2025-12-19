@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to dream",
+      "error_analysis": "中国学生易因形近词“dread”（害怕）的拼写混淆，或对“to dream”作为动词的字面误导（如误解为“睡眠”）而错误理解其词义。",
+      "sentence": "As a child, he often **dreamed** of being a superhero and saving the world.",
+      "options": {
+        "option": [
+          {
+            "definition": "害怕",
+            "iscorrect": false
+          },
+          {
+            "definition": "睡眠",
+            "iscorrect": false
+          },
+          {
+            "definition": "做梦；梦想",
+            "iscorrect": true
+          },
+          {
+            "definition": "想出",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

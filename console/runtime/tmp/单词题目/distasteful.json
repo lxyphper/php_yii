@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "distasteful",
+      "error_analysis": "学生易因形近词'tasteful'(有品味的)误判为'有品味的'，或因词根'dis-+taste'误译为'没有味道的'(tasteless)。",
+      "sentence": "The way he made fun of the homeless man was **distasteful** to everyone present.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人厌恶的；令人反感的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有品味的；高雅的",
+            "iscorrect": false
+          },
+          {
+            "definition": "没有味道的；无味的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人困惑的；难以理解的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

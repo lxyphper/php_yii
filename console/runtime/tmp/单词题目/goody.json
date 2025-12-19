@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "goody",
+      "error_analysis": "因形近\"good\"而误将\"goody\"理解为\"好的东西\"(泛泛义)，忽略其\"好吃的/小零食\"的具体词义",
+      "sentence": "Mom put a **goody** in my lunch box every day, like a cookie or a piece of fruit.",
+      "options": {
+        "option": [
+          {
+            "definition": "好吃的东西；小零食",
+            "iscorrect": true
+          },
+          {
+            "definition": "好的品质；善良",
+            "iscorrect": false
+          },
+          {
+            "definition": "好的事情；好事",
+            "iscorrect": false
+          },
+          {
+            "definition": "优秀的人；好人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

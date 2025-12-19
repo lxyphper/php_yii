@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bitterness",
+      "error_analysis": "学生易因词根“bitter”（苦的）的字面含义误判为“苦味”，或因形近词“bit”（一点）误判为“少量”",
+      "sentence": "After years of being treated unfairly, she couldn’t hide the **bitterness** in her voice when talking about her former boss.",
+      "options": {
+        "option": [
+          {
+            "definition": "怨恨；痛苦",
+            "iscorrect": true
+          },
+          {
+            "definition": "苦味",
+            "iscorrect": false
+          },
+          {
+            "definition": "少量",
+            "iscorrect": false
+          },
+          {
+            "definition": "咬的动作",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

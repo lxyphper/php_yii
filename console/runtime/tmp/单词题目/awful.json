@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "awful",
+      "error_analysis": "易混淆形近词\"awesome\"(极好的)，或因词根误判为\"令人敬畏的\"，忽略其当前最常用的\"非常糟糕的\"义项",
+      "sentence": "The weather was so **awful** yesterday that we had to cancel our picnic.",
+      "options": {
+        "option": [
+          {
+            "definition": "非常糟糕的；令人讨厌的",
+            "iscorrect": true
+          },
+          {
+            "definition": "极好的；令人惊叹的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人敬畏的；充满恐惧的",
+            "iscorrect": false
+          },
+          {
+            "definition": "中等的；普通的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

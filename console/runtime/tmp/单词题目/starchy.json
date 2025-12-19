@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "starchy",
+      "error_analysis": "易因形近词“starry”（星光灿烂的）及“star”（星星）的字面误导，将“starchy”误判为与星星相关的含义",
+      "sentence": "The potato salad tastes a bit **starchy** because we used unripe potatoes.",
+      "options": {
+        "option": [
+          {
+            "definition": "含淀粉的",
+            "iscorrect": true
+          },
+          {
+            "definition": "星光灿烂的",
+            "iscorrect": false
+          },
+          {
+            "definition": "与星星有关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "粘的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

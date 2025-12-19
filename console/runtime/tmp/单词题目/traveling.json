@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "traveling",
+      "error_analysis": "中国学生易将“traveling”与形近词“trailing”（尾随）混淆，或误通过字面推导为“运输”（非旅行的移动）",
+      "sentence": "She has always loved **traveling** to places with rich cultural heritage.",
+      "options": {
+        "option": [
+          {
+            "definition": "旅行（的动作或状态）",
+            "iscorrect": true
+          },
+          {
+            "definition": "尾随（的动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "运输（的过程）",
+            "iscorrect": false
+          },
+          {
+            "definition": "劳苦（的状态）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

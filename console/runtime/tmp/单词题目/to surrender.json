@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to surrender",
+      "error_analysis": "中国学生易因形近词“surround”（包围）混淆词义，或误通过词根“render”（给予）推导为“提交”。",
+      "sentence": "After being surrounded by the enemy for three days, the soldiers had no choice but to **surrender**.",
+      "options": {
+        "option": [
+          {
+            "definition": "包围",
+            "iscorrect": false
+          },
+          {
+            "definition": "提交",
+            "iscorrect": false
+          },
+          {
+            "definition": "投降；放弃",
+            "iscorrect": true
+          },
+          {
+            "definition": "坚持",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

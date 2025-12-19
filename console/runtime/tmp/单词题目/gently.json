@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gently",
+      "error_analysis": "中国学生易因形近词（如genuinely）或词根误导（如generously）将gently误判为“真诚地”或“慷慨地”",
+      "sentence": "The nurse **gently** placed the bandage on the child's knee.",
+      "options": {
+        "option": [
+          {
+            "definition": "温和地；轻轻地",
+            "iscorrect": true
+          },
+          {
+            "definition": "真诚地",
+            "iscorrect": false
+          },
+          {
+            "definition": "慷慨地",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

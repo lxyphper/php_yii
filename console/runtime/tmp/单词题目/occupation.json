@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "occupation",
+      "error_analysis": "学生易因词根“occupy”（占据）误解为“占据/占领”，或因形近词“operation”（操作）混淆为“操作”。",
+      "sentence": "When filling out the job application form, please indicate your **occupation** in the section labeled \"Employment Information.\"",
+      "options": {
+        "option": [
+          {
+            "definition": "职业",
+            "iscorrect": true
+          },
+          {
+            "definition": "操作",
+            "iscorrect": false
+          },
+          {
+            "definition": "占据/占领",
+            "iscorrect": false
+          },
+          {
+            "definition": "演说",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

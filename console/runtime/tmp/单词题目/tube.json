@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tube",
+      "error_analysis": "学生易混淆形近词“tub”（浴缸），或误将“tube”理解为“瓶子”而非核心的“管/软管”。",
+      "sentence": "She squeezed a small amount of toothpaste from the **tube** onto her brush.",
+      "options": {
+        "option": [
+          {
+            "definition": "管；软管",
+            "iscorrect": true
+          },
+          {
+            "definition": "浴缸",
+            "iscorrect": false
+          },
+          {
+            "definition": "瓶子",
+            "iscorrect": false
+          },
+          {
+            "definition": "电视",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

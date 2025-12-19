@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Polish",
+      "error_analysis": "学生易将“Polish”（波兰的）误判为“擦亮的”（形近词“polish”的动词含义）或“优雅的”（形近词“polished”的形容词含义）",
+      "sentence": "We attended a **Polish** festival where people danced the polonaise and ate bigos.",
+      "options": {
+        "option": [
+          {
+            "definition": "波兰的；波兰人的；波兰语的",
+            "iscorrect": true
+          },
+          {
+            "definition": "擦亮的；抛光的",
+            "iscorrect": false
+          },
+          {
+            "definition": "优雅的；精制的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有礼貌的；客气的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

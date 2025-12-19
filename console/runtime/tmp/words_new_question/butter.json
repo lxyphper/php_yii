@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "butter",
+      "error_analysis": "学生易因形近词\"better\"（更好的）的拼写混淆，将\"butter\"错误理解为\"更好的\"",
+      "sentence": "She spread some **butter** on her toast for breakfast.",
+      "options": {
+        "option": [
+          {
+            "definition": "黄油",
+            "iscorrect": true
+          },
+          {
+            "definition": "更好的",
+            "iscorrect": false
+          },
+          {
+            "definition": "苦的",
+            "iscorrect": false
+          },
+          {
+            "definition": "面糊",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

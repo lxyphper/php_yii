@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "self-relyant",
+      "self-relliant",
+      "self-relient",
+      "selfreliant"
+    ],
+    "correct_chunks": [
+      "self-",
+      "reli",
+      "ant"
+    ],
+    "distractor_chunks": [
+      "rely",
+      "rell",
+      "ent",
+      "selfrel"
+    ]
+  },
+  0
+]

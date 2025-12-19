@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "trench",
+      "error_analysis": "中国学生易因形近词\"trend\"(趋势)或\"bench\"(长椅)的干扰，将\"trench\"误判为\"趋势\"或\"长椅\"。",
+      "sentence": "During the war, soldiers hid in the **trench** to avoid enemy fire.",
+      "options": {
+        "option": [
+          {
+            "definition": "趋势",
+            "iscorrect": false
+          },
+          {
+            "definition": "沟渠；战壕",
+            "iscorrect": true
+          },
+          {
+            "definition": "长椅",
+            "iscorrect": false
+          },
+          {
+            "definition": "挖（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

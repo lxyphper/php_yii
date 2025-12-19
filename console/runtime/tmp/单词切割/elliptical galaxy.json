@@ -1,0 +1,26 @@
+[
+  {
+    "common_misspellings": [
+      "eliptical galaxy",
+      "ellipticle galaxy",
+      "elliptical gelaxy",
+      "elliptical garaxy",
+      "elliptical galasy"
+    ],
+    "correct_chunks": [
+      "ell",
+      "ipt",
+      "ical",
+      "gal",
+      "axy"
+    ],
+    "distractor_chunks": [
+      "el",
+      "icle",
+      "gel",
+      "gar",
+      "asy"
+    ]
+  },
+  0
+]

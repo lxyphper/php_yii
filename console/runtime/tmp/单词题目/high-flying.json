@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "high-flying",
+      "error_analysis": "学生易因\"high\"(高)和\"flying\"(飞)的字面义，将\"high-flying\"误理解为\"飞得高的\"(如鸟类/飞机)，而忽略其比喻义\"有抱负的/成功的\"。",
+      "sentence": "She's the most **high-flying** young manager in the company—she just got promoted to department head last year.",
+      "options": {
+        "option": [
+          {
+            "definition": "有抱负的；成功的（指人或事业）",
+            "iscorrect": true
+          },
+          {
+            "definition": "飞得高的（指鸟类、飞机等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "高度飞行的（指航空活动或技术）",
+            "iscorrect": false
+          },
+          {
+            "definition": "兴奋的；情绪高涨的（指状态）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

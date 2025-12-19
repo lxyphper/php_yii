@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to venerate",
+      "error_analysis": "因拼写与\"generate\"(生成)相似而混淆，或因不熟悉\"ven-\"词根(尊敬)而猜测为\"聚集\"等义",
+      "sentence": "Many people in the community **venerate** the elderly scholar for his lifelong contribution to science.",
+      "options": {
+        "option": [
+          {
+            "definition": "崇敬，敬仰",
+            "iscorrect": true
+          },
+          {
+            "definition": "生成，产生",
+            "iscorrect": false
+          },
+          {
+            "definition": "聚集，召集",
+            "iscorrect": false
+          },
+          {
+            "definition": "批评，指责",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

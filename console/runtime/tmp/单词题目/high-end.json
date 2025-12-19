@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "high-end",
+      "error_analysis": "学生易将\"high-end\"字面拆分为\"高\"+\"端/结束\"，误解为\"高的末端\"或\"高级结束\"，而非正确的\"高端的（指产品/服务高档）\"。",
+      "sentence": "The new boutique sells **high-end** designer clothes that attract celebrities and affluent shoppers.",
+      "options": {
+        "option": [
+          {
+            "definition": "高端的；高档的",
+            "iscorrect": true
+          },
+          {
+            "definition": "高的末端；终点",
+            "iscorrect": false
+          },
+          {
+            "definition": "高度结束的；终止的",
+            "iscorrect": false
+          },
+          {
+            "definition": "高速的；快捷的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

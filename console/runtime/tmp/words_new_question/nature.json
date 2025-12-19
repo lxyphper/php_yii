@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nature",
+      "error_analysis": "学生易因形近词“nurture”（养育）混淆，或误将词根“出生”直接等同于“nature”的核心义（自然/本质）",
+      "sentence": "Many people find solace in the quiet beauty of **nature**, such as forests, rivers, and mountains.",
+      "options": {
+        "option": [
+          {
+            "definition": "养育（指对人的培养或照顾）",
+            "iscorrect": false
+          },
+          {
+            "definition": "出生（指生命的诞生）",
+            "iscorrect": false
+          },
+          {
+            "definition": "自然（指植物、动物和景观等自然世界）",
+            "iscorrect": true
+          },
+          {
+            "definition": "本土（指出生地或原产的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

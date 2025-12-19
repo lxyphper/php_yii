@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to flog",
+      "error_analysis": "学生易因形近词\"flag\"（旗帜）的干扰，将\"flog\"误判为与\"旗帜\"相关的含义（如\"插旗帜\"）",
+      "sentence": "In some ancient societies, criminals were publicly **flogged** as a form of punishment.",
+      "options": {
+        "option": [
+          {
+            "definition": "鞭打；用鞭子抽打",
+            "iscorrect": true
+          },
+          {
+            "definition": "插旗帜；标记",
+            "iscorrect": false
+          },
+          {
+            "definition": "使模糊；变雾",
+            "iscorrect": false
+          },
+          {
+            "definition": "记录日志；登录",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cello",
+      "error_analysis": "学生易因形近词\"cell\"（细胞/牢房）的干扰，将\"cello\"误判为与\"细胞\"或\"小房间\"相关的词",
+      "sentence": "She has been playing the **cello** since she was six years old, and now she performs with the city orchestra.",
+      "options": {
+        "option": [
+          {
+            "definition": "大提琴",
+            "iscorrect": true
+          },
+          {
+            "definition": "细胞",
+            "iscorrect": false
+          },
+          {
+            "definition": "小房间",
+            "iscorrect": false
+          },
+          {
+            "definition": "小提琴",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

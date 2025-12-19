@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sumptuous",
+      "error_analysis": "学生易因“sum”（总和）的形近联想误判为“总的/全部的”，或因词根“sumpt-”（花费）的字面误导猜为“花费的/支出的”",
+      "sentence": "The wedding reception featured a **sumptuous** banquet with gourmet dishes from around the world.",
+      "options": {
+        "option": [
+          {
+            "definition": "豪华的，丰盛的",
+            "iscorrect": true
+          },
+          {
+            "definition": "总的，全部的",
+            "iscorrect": false
+          },
+          {
+            "definition": "花费的，支出的",
+            "iscorrect": false
+          },
+          {
+            "definition": "简单的，朴素的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "reliable",
+      "error_analysis": "中国学生易因形近词“relieve”（缓解）或词根“liable”（有责任/易...的）误解“reliable”的意思",
+      "sentence": "My old bike is still **reliable**; it never breaks down even after years of use.",
+      "options": {
+        "option": [
+          {
+            "definition": "可靠的",
+            "iscorrect": true
+          },
+          {
+            "definition": "可缓解的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有责任的",
+            "iscorrect": false
+          },
+          {
+            "definition": "易出错的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

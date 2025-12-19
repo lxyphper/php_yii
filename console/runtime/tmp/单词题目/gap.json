@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gap",
+      "error_analysis": "学生易因形近词“cap”（帽子）的拼写接近，将“gap”误理解为“帽子”。",
+      "sentence": "There’s a **gap** in the fence where the dog got through.",
+      "options": {
+        "option": [
+          {
+            "definition": "缺口；差距",
+            "iscorrect": true
+          },
+          {
+            "definition": "帽子",
+            "iscorrect": false
+          },
+          {
+            "definition": "地图",
+            "iscorrect": false
+          },
+          {
+            "definition": "喘气",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "distance education",
+      "error_analysis": "学生易将“distance”直译为“距离”，误把“distance education”理解为“距离教育”，忽略其固定短语义“远程教育”",
+      "sentence": "Many universities now offer **distance education** programs for students who cannot attend classes on campus.",
+      "options": {
+        "option": [
+          {
+            "definition": "远程教育",
+            "iscorrect": true
+          },
+          {
+            "definition": "距离教育",
+            "iscorrect": false
+          },
+          {
+            "definition": "远程学习",
+            "iscorrect": false
+          },
+          {
+            "definition": "差异教育",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

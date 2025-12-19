@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to relax",
+      "error_analysis": "中国学生易因形近词“release”（释放）的干扰，将“to relax”误理解为“释放”。",
+      "sentence": "After a long day at work, she likes to **relax** by listening to soft music.",
+      "options": {
+        "option": [
+          {
+            "definition": "放松",
+            "iscorrect": true
+          },
+          {
+            "definition": "释放",
+            "iscorrect": false
+          },
+          {
+            "definition": "缓解",
+            "iscorrect": false
+          },
+          {
+            "definition": "联系",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

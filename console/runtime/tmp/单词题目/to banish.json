@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to banish",
+      "error_analysis": "学生易因形近词“ban”（禁止）或“vanish”（消失）将“banish”误解为“禁止”或“消失”。",
+      "sentence": "After the rebellion, the king decided to **banish** the rebel leader from the kingdom forever.",
+      "options": {
+        "option": [
+          {
+            "definition": "禁止",
+            "iscorrect": false
+          },
+          {
+            "definition": "消失",
+            "iscorrect": false
+          },
+          {
+            "definition": "惩罚",
+            "iscorrect": false
+          },
+          {
+            "definition": "驱逐；流放",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

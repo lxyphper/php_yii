@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cadenza",
+      "error_analysis": "学生易因形近词\"cadence\"(节奏、韵律)及词根\"cad-\"(下降)的误导，将\"cadenza\"误判为节奏、下降旋律或结尾部分。",
+      "sentence": "The violinist's soaring **cadenza** in the Tchaikovsky concerto brought the house down, as it combined virtuosic runs with lyrical phrases.",
+      "options": {
+        "option": [
+          {
+            "definition": "（音乐中的）华彩乐段（通常为协奏曲中展示技巧的独奏部分）",
+            "iscorrect": true
+          },
+          {
+            "definition": "（音乐中的）节奏或韵律",
+            "iscorrect": false
+          },
+          {
+            "definition": "（音乐的）结尾部分",
+            "iscorrect": false
+          },
+          {
+            "definition": "（下降的）旋律线",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

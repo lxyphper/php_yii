@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "climbing",
+      "error_analysis": "学生易混淆形近词\"clinging\"(紧紧抓住)或误将\"climbing\"字面理解为\"爬行(如昆虫的爬动)\"",
+      "sentence": "She enjoys **climbing** mountains with her friends every weekend to stay active.",
+      "options": {
+        "option": [
+          {
+            "definition": "攀登；爬山（运动）",
+            "iscorrect": true
+          },
+          {
+            "definition": "紧紧抓住；依附",
+            "iscorrect": false
+          },
+          {
+            "definition": "爬行（如昆虫的爬动）",
+            "iscorrect": false
+          },
+          {
+            "definition": "叫喊；声称",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

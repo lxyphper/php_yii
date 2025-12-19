@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to watch",
+      "error_analysis": "容易与形近词\"wash\"（洗）混淆，或误将名词\"手表\"的含义延伸到动词（如\"戴手表\"）",
+      "sentence": "My family likes to **watch** movies together every weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "观看（如看电影、电视）",
+            "iscorrect": true
+          },
+          {
+            "definition": "洗（如洗衣服、盘子）",
+            "iscorrect": false
+          },
+          {
+            "definition": "戴（如戴手表、帽子）",
+            "iscorrect": false
+          },
+          {
+            "definition": "等待（如等公交车、朋友）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

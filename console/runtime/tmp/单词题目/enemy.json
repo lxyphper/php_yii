@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "enemy",
+      "error_analysis": "学生易因形近词“energy”（能量）的拼写接近而误判，或因“en-”前缀的“使...成为”含义产生错误联想。",
+      "sentence": "During the war, the soldiers fought bravely against the **enemy** to protect their homeland.",
+      "options": {
+        "option": [
+          {
+            "definition": "敌人；仇敌",
+            "iscorrect": true
+          },
+          {
+            "definition": "能量",
+            "iscorrect": false
+          },
+          {
+            "definition": "使...成为某种状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "朋友",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

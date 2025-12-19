@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "birdwaching",
+      "birdwatcing",
+      "birdwathing",
+      "birdwatchin",
+      "birdwattching"
+    ],
+    "correct_chunks": [
+      "bird",
+      "watch",
+      "ing"
+    ],
+    "distractor_chunks": [
+      "wach",
+      "watc",
+      "wath",
+      "in",
+      "wattch"
+    ]
+  },
+  0
+]

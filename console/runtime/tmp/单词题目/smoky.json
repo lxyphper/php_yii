@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "smoky",
+      "error_analysis": "易混淆形近词\"smoke\"（名词\"烟\"）的词性，或误将其理解为\"吸烟的\"（与\"smoking\"混淆）",
+      "sentence": "After the fire, the room was filled with a thick, **smoky** haze that made it hard to breathe.",
+      "options": {
+        "option": [
+          {
+            "definition": "烟（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "吸烟的（形容词，指人或行为）",
+            "iscorrect": false
+          },
+          {
+            "definition": "有烟的；烟雾缭绕的",
+            "iscorrect": true
+          },
+          {
+            "definition": "雾霾的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

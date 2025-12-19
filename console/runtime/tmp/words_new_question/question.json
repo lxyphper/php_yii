@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "question",
+      "error_analysis": "中国学生易因形近词\"quest\"（探索）而误将\"question\"理解为\"探索\"，或混淆其名词\"问题\"与动词\"质疑\"的含义",
+      "sentence": "The teacher wrote a **question** on the blackboard and asked us to think about it for five minutes.",
+      "options": {
+        "option": [
+          {
+            "definition": "问题（需要回答的内容）",
+            "iscorrect": true
+          },
+          {
+            "definition": "探索（寻找或探索的行为）",
+            "iscorrect": false
+          },
+          {
+            "definition": "质疑（对某事表示怀疑的行为）",
+            "iscorrect": false
+          },
+          {
+            "definition": "队列（人或事物排成的长队）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "next",
+      "error_analysis": "学生易因形近词“nest”（巢穴）的干扰，将“next”误理解为“巢穴”。",
+      "sentence": "Please wait for the **next** train at Platform 3.",
+      "options": {
+        "option": [
+          {
+            "definition": "下一个；接下来的",
+            "iscorrect": true
+          },
+          {
+            "definition": "巢穴",
+            "iscorrect": false
+          },
+          {
+            "definition": "网",
+            "iscorrect": false
+          },
+          {
+            "definition": "附近的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

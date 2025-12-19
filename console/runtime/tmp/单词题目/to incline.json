@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to incline",
+      "error_analysis": "学生易混淆形近词include（包括）或误将词根cline联想为climb（爬），从而误解为“包括”或“攀登”。",
+      "sentence": "After hearing the argument, she began to **incline** towards changing her mind.",
+      "options": {
+        "option": [
+          {
+            "definition": "倾向于；有…的趋势",
+            "iscorrect": true
+          },
+          {
+            "definition": "包括；包含",
+            "iscorrect": false
+          },
+          {
+            "definition": "爬（上）；攀登",
+            "iscorrect": false
+          },
+          {
+            "definition": "关闭；合上",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

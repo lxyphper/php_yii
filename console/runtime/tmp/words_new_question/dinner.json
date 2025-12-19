@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dinner",
+      "error_analysis": "中国学生易混淆形近词'diner'(小餐馆/用餐者)与'dinner'(晚餐/正餐)",
+      "sentence": "We usually have **dinner** at 7 PM with our family, enjoying dishes like roast chicken and vegetables.",
+      "options": {
+        "option": [
+          {
+            "definition": "晚餐；正餐",
+            "iscorrect": true
+          },
+          {
+            "definition": "小餐馆；用餐者",
+            "iscorrect": false
+          },
+          {
+            "definition": "午餐；便餐",
+            "iscorrect": false
+          },
+          {
+            "definition": "早餐；早点",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

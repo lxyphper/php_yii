@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lackluster",
+      "error_analysis": "学生易因词根“lack（缺少）+luster（光泽）”直译为“缺少光泽的”，忽略其引申的“平淡无活力的”含义。",
+      "sentence": "The team's **lackluster** performance in the final match disappointed their fans.",
+      "options": {
+        "option": [
+          {
+            "definition": "平淡的；无活力的（形容表演、成绩等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "缺少光泽的（如金属、头发等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "充满欲望的；贪婪的",
+            "iscorrect": false
+          },
+          {
+            "definition": "缺乏的；不足的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

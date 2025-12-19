@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "however",
+      "error_analysis": "学生易将“however”误理解为“无论怎样”（形近词“wh-+ever”类推）或“多么”（词根“how+ever”字面误导），而忽略其核心义“然而”。",
+      "sentence": "I planned to go for a walk; **however**, it started raining heavily.",
+      "options": {
+        "option": [
+          {
+            "definition": "然而",
+            "iscorrect": true
+          },
+          {
+            "definition": "无论怎样",
+            "iscorrect": false
+          },
+          {
+            "definition": "多么",
+            "iscorrect": false
+          },
+          {
+            "definition": "怎样曾经",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

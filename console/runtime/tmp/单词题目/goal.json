@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "goal",
+      "error_analysis": "学生易因形近词“goat”（山羊）将“goal”误判为动物，或混淆“进球”与“分数”的含义",
+      "sentence": "He scored the winning **goal** in the last minute, helping his team win the championship.",
+      "options": {
+        "option": [
+          {
+            "definition": "进球；目标",
+            "iscorrect": true
+          },
+          {
+            "definition": "山羊",
+            "iscorrect": false
+          },
+          {
+            "definition": "分数",
+            "iscorrect": false
+          },
+          {
+            "definition": "黄金",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

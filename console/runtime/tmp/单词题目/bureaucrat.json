@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bureaucrat",
+      "error_analysis": "中国学生易混淆“bureaucrat”（官僚，人）与“bureaucracy”（官僚主义，制度），或字面翻译为“办事处的工作人员”而忽略其贬义。",
+      "sentence": "The **bureaucrat** insisted that we fill out all 15 forms again, even though we had already submitted them correctly.",
+      "options": {
+        "option": [
+          {
+            "definition": "官僚（政府部门中刻板循规蹈矩的官员）",
+            "iscorrect": true
+          },
+          {
+            "definition": "官僚主义（一种僵化的行政制度）",
+            "iscorrect": false
+          },
+          {
+            "definition": "办事处的普通工作人员",
+            "iscorrect": false
+          },
+          {
+            "definition": "商业公司的经理",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

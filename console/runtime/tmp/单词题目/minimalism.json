@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "minimalism",
+      "error_analysis": "学生易根据词根“minimal”（最小的）和形近词“minimize”（最小化），错误理解为“最小化的行为”或“最低要求的状态”，而非“极简主义（强调最少元素或避免过剩的风格/生活方式）”。",
+      "sentence": "The designer’s apartment reflects **minimalism**—white walls, a few functional furniture pieces, and no unnecessary decorations.",
+      "options": {
+        "option": [
+          {
+            "definition": "最小化的行为或过程",
+            "iscorrect": false
+          },
+          {
+            "definition": "极简主义（一种强调使用最少元素或避免过剩的风格或生活方式）",
+            "iscorrect": true
+          },
+          {
+            "definition": "最低要求的状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "简单性（事物容易理解或使用的性质）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

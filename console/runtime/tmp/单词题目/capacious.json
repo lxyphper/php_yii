@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "capacious",
+      "error_analysis": "学生易因形近词\"capable\"（有能力的）产生混淆，或因词根\"cap-\"（拿）误判为\"有能力的\"而非\"宽敞的\"。",
+      "sentence": "The new suitcase is so **capacious** that it can fit all my winter clothes and a pair of shoes.",
+      "options": {
+        "option": [
+          {
+            "definition": "有能力的；能胜任的",
+            "iscorrect": false
+          },
+          {
+            "definition": "宽敞的；容量大的",
+            "iscorrect": true
+          },
+          {
+            "definition": "贪婪的；贪得无厌的",
+            "iscorrect": false
+          },
+          {
+            "definition": "美味的；可口的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

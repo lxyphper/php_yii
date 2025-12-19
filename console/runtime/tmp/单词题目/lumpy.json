@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lumpy",
+      "error_analysis": "学生易因形近词（如lucky/lazy）混淆，或因词根lump过度推导为“圆形的”。",
+      "sentence": "The soup tasted good, but it was a bit **lumpy** because I didn’t stir the flour properly.",
+      "options": {
+        "option": [
+          {
+            "definition": "有结块的；不均匀的",
+            "iscorrect": true
+          },
+          {
+            "definition": "幸运的",
+            "iscorrect": false
+          },
+          {
+            "definition": "懒惰的",
+            "iscorrect": false
+          },
+          {
+            "definition": "圆形的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

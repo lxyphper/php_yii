@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fantasy",
+      "error_analysis": "学生易因形近词“fantastic”（极好的、奇妙的）而将“fantasy”误解为“极好的事物”或“奇妙的东西”。",
+      "sentence": "As a child, she often escaped into a world of **fantasy** where dragons and fairies lived.",
+      "options": {
+        "option": [
+          {
+            "definition": "幻想；想象",
+            "iscorrect": true
+          },
+          {
+            "definition": "极好的事物；奇妙的东西",
+            "iscorrect": false
+          },
+          {
+            "definition": "现实中的奇异事件",
+            "iscorrect": false
+          },
+          {
+            "definition": "日常的小愿望",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

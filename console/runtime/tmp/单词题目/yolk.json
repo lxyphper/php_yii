@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "yolk",
+      "error_analysis": "中国学生易因形近词混淆，将\"yolk\"误判为\"yoke\"（轭；束缚），或与\"youth\"（青年）等拼写相近词产生联想",
+      "sentence": "When making an omelet, you need to crack the egg and pour the **yolk** into one bowl and the white into another.",
+      "options": {
+        "option": [
+          {
+            "definition": "蛋黄",
+            "iscorrect": true
+          },
+          {
+            "definition": "轭；束缚",
+            "iscorrect": false
+          },
+          {
+            "definition": "青年；青春",
+            "iscorrect": false
+          },
+          {
+            "definition": "民间音乐；人们",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

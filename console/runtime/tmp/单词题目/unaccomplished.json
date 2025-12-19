@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unaccomplished",
+      "error_analysis": "学生易因形近词unaccompanied（无陪伴的）或词根accomplished（熟练的）反义推导，将unaccomplished误理解为“无陪伴的”或“不熟练的”。",
+      "sentence": "Despite working on it for months, the project remained **unaccomplished** due to lack of funding.",
+      "options": {
+        "option": [
+          {
+            "definition": "未完成的；无成就的",
+            "iscorrect": true
+          },
+          {
+            "definition": "无陪伴的；单独的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不熟练的；不精通的",
+            "iscorrect": false
+          },
+          {
+            "definition": "未理解的；不明白的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

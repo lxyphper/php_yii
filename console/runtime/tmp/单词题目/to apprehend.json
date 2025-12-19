@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to apprehend",
+      "error_analysis": "学生易因形近词“appreciate”（欣赏/感激）或词根“prehend”（抓住）的字面意思误解“apprehend”。",
+      "sentence": "The police managed to **apprehend** the suspect within 24 hours of the robbery.",
+      "options": {
+        "option": [
+          {
+            "definition": "欣赏；感激",
+            "iscorrect": false
+          },
+          {
+            "definition": "抓住（物体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "理解；领悟",
+            "iscorrect": false
+          },
+          {
+            "definition": "逮捕（尤指警方）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

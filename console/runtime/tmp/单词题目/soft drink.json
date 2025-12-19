@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "soft drink",
+      "error_analysis": "学生易将\"soft drink\"字面直译为\"软的饮料\"，忽略其\"不含酒精的饮料\"的核心含义",
+      "sentence": "At the party, I chose a **soft drink** instead of beer because I had to drive later.",
+      "options": {
+        "option": [
+          {
+            "definition": "不含酒精的饮料（如可乐、果汁等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "软的饮料（如口感柔软的饮品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "温和的饮料（如温度适中的饮品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "某种饮料（sort of drink的误写）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mountain biking",
+      "error_analysis": "学生易将\"biking\"与形近的\"hiking\"（徒步旅行）混淆，或误将\"biking\"理解为摩托车骑行，从而错解该词。",
+      "sentence": "Many outdoor enthusiasts enjoy **mountain biking** on the rugged trails of the Rockies during weekends.",
+      "options": {
+        "option": [
+          {
+            "definition": "山地自行车运动",
+            "iscorrect": true
+          },
+          {
+            "definition": "山地徒步旅行",
+            "iscorrect": false
+          },
+          {
+            "definition": "山地摩托车运动",
+            "iscorrect": false
+          },
+          {
+            "definition": "登山运动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

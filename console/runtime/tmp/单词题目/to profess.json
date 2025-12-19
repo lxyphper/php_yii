@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to profess",
+      "error_analysis": "混淆形近词\"professor\"误以为\"教授（课程）\"，或词根\"fess\"（坦白）误导为\"承认（错误）\"",
+      "sentence": "She hesitated for a moment before deciding to **profess** her love for him in front of everyone.",
+      "options": {
+        "option": [
+          {
+            "definition": "公开宣称（信仰、感情等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "教授（某门课程）",
+            "iscorrect": false
+          },
+          {
+            "definition": "承认（错误或罪行）",
+            "iscorrect": false
+          },
+          {
+            "definition": "假装（某种情绪）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "loud",
+      "error_analysis": "学生易因形近词\"load\"（装载）的干扰，将\"loud\"错误理解为\"装载\"",
+      "sentence": "The music from the party next door was so **loud** that I couldn’t sleep.",
+      "options": {
+        "option": [
+          {
+            "definition": "大声的",
+            "iscorrect": true
+          },
+          {
+            "definition": "装载",
+            "iscorrect": false
+          },
+          {
+            "definition": "云",
+            "iscorrect": false
+          },
+          {
+            "definition": "骄傲的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

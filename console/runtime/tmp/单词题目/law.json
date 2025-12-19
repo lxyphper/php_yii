@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "law",
+      "error_analysis": "学生易因形近词“lawn”（草坪）的拼写相似，或误将“law”的核心义“法律”与引申义“规律”混淆。",
+      "sentence": "The police reminded everyone to obey the **law** when driving on the road.",
+      "options": {
+        "option": [
+          {
+            "definition": "法律",
+            "iscorrect": true
+          },
+          {
+            "definition": "草坪",
+            "iscorrect": false
+          },
+          {
+            "definition": "规律",
+            "iscorrect": false
+          },
+          {
+            "definition": "生的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

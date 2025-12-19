@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to dragoon",
+      "error_analysis": "学生易因形近词\"dragon\"(龙)联想到\"攻击\"，或因词根\"dragoon\"(龙骑兵)误判为\"招募士兵\"。",
+      "sentence": "Despite her strong reluctance, her siblings still managed to **dragoon** her into organizing the family reunion.",
+      "options": {
+        "option": [
+          {
+            "definition": "强迫某人做某事",
+            "iscorrect": true
+          },
+          {
+            "definition": "像龙一样攻击或威胁",
+            "iscorrect": false
+          },
+          {
+            "definition": "招募或训练士兵",
+            "iscorrect": false
+          },
+          {
+            "definition": "缓慢拖拽某物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

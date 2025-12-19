@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "octagon",
+      "error_analysis": "学生易因形近词“octopus”（章鱼）混淆词义，或因不熟悉“agon”（角/边形）的词根含义而误判为与“八”相关的其他事物。",
+      "sentence": "The stop sign at the intersection is a red **octagon** with white letters reading \"STOP\".",
+      "options": {
+        "option": [
+          {
+            "definition": "八边形；八角形",
+            "iscorrect": true
+          },
+          {
+            "definition": "章鱼",
+            "iscorrect": false
+          },
+          {
+            "definition": "八次竞赛",
+            "iscorrect": false
+          },
+          {
+            "definition": "六边形",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to contort",
+      "error_analysis": "学生易因形近词“control”（控制）或词根“tort”（折磨）的误导，将“contort”误解为“控制”或“折磨”。",
+      "sentence": "When she heard the terrible news, her face **contorted** with grief, making it hard to recognize her.",
+      "options": {
+        "option": [
+          {
+            "definition": "扭曲；使变形（多指身体或面部）",
+            "iscorrect": true
+          },
+          {
+            "definition": "控制；支配",
+            "iscorrect": false
+          },
+          {
+            "definition": "折磨；使痛苦",
+            "iscorrect": false
+          },
+          {
+            "definition": "勾勒轮廓",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

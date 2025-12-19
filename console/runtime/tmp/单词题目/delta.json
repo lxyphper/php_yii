@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "delta",
+      "error_analysis": "易因形近混淆为\"延迟\"(delay)，或因希腊字母Δ的形状误判为\"三角形\"(triangle)",
+      "sentence": "The Nile **delta**, where the river meets the Mediterranean, is one of the most fertile areas in Egypt.",
+      "options": {
+        "option": [
+          {
+            "definition": "（河流的）三角洲",
+            "iscorrect": true
+          },
+          {
+            "definition": "延迟；耽搁",
+            "iscorrect": false
+          },
+          {
+            "definition": "三角形；三角状物",
+            "iscorrect": false
+          },
+          {
+            "definition": "数据；资料",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

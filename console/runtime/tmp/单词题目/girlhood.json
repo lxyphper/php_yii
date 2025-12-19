@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "girlhood",
+      "error_analysis": "学生易将后缀“hood”误理解为具体物品（如风帽）或群体（如邻居），从而将“girlhood”错误解读为“女孩的风帽”或“女孩群体”。",
+      "sentence": "Her **girlhood** was spent in a small village, where she learned to climb trees and catch fireflies with her friends.",
+      "options": {
+        "option": [
+          {
+            "definition": "少女时期",
+            "iscorrect": true
+          },
+          {
+            "definition": "女孩的风帽",
+            "iscorrect": false
+          },
+          {
+            "definition": "女孩的邻居群体",
+            "iscorrect": false
+          },
+          {
+            "definition": "女孩的成年仪式",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to snuggle",
+      "error_analysis": "中国学生易因形近词（如struggle/挣扎）或sn-词根联想（如sneak/偷偷行动）误判词义",
+      "sentence": "On a cold winter night, the child likes to **snuggle** up to his teddy bear in bed.",
+      "options": {
+        "option": [
+          {
+            "definition": "依偎；舒适地蜷伏在某人/某物旁",
+            "iscorrect": true
+          },
+          {
+            "definition": "挣扎；努力做某事",
+            "iscorrect": false
+          },
+          {
+            "definition": "偷偷行动；溜走",
+            "iscorrect": false
+          },
+          {
+            "definition": "凑近嗅；抽鼻子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

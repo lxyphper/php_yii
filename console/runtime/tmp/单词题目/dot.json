@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dot",
+      "error_analysis": "学生易因形近词\"dote\"（溺爱）的干扰，或字面联想\"do\"（做），将\"dot\"错误理解为\"溺爱\"或\"做某事\"。",
+      "sentence": "Please put a **dot** at the end of each sentence to mark the full stop.",
+      "options": {
+        "option": [
+          {
+            "definition": "点（小圆点，如句号、小数点）",
+            "iscorrect": true
+          },
+          {
+            "definition": "溺爱（对某人过分喜爱）",
+            "iscorrect": false
+          },
+          {
+            "definition": "做（执行某个动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "玩偶（儿童玩的布偶或玩具）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

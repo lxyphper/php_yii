@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to denigrate",
+      "error_analysis": "中国学生易因“denigrate”包含“migrate”（迁移）而联想至“迁移”相关义，或因词根“nigra”（黑）误解为“使变黑”，而非正确的“诋毁”。",
+      "sentence": "The critic tried to **denigrate** the young artist's work by calling it \"amateurish and unoriginal.\"",
+      "options": {
+        "option": [
+          {
+            "definition": "诋毁；贬低",
+            "iscorrect": true
+          },
+          {
+            "definition": "迁移；移动",
+            "iscorrect": false
+          },
+          {
+            "definition": "使变黑；污染",
+            "iscorrect": false
+          },
+          {
+            "definition": "指定；指派",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

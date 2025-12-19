@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "market",
+      "error_analysis": "学生易因形近词“mark”（标记）的干扰，或词根猜测错误（将“market”与“mark”关联为“标记的地方”），忽略其核心含义“市场”。",
+      "sentence": "We went to the local **market** to buy fresh vegetables and fruits.",
+      "options": {
+        "option": [
+          {
+            "definition": "标记；记号",
+            "iscorrect": false
+          },
+          {
+            "definition": "评分的地方",
+            "iscorrect": false
+          },
+          {
+            "definition": "市场（买卖商品的场所）",
+            "iscorrect": true
+          },
+          {
+            "definition": "营销活动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

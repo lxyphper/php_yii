@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cheery",
+      "error_analysis": "学生易因形近词“cherry”（樱桃）误判为“樱桃味的”或“甜的”，或因词根“cheer”（欢呼）过度联想为“吵闹的”",
+      "sentence": "He had a **cheery** smile that made everyone feel welcome.",
+      "options": {
+        "option": [
+          {
+            "definition": "愉快的；欢乐的",
+            "iscorrect": true
+          },
+          {
+            "definition": "樱桃味的",
+            "iscorrect": false
+          },
+          {
+            "definition": "吵闹的",
+            "iscorrect": false
+          },
+          {
+            "definition": "甜的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

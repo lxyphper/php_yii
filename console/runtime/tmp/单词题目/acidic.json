@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "acidic",
+      "error_analysis": "中国学生易因形近词“acrid”（辛辣的）混淆“acidic”的含义，或误将其仅理解为“味道酸的”而忽略化学语境中的“酸性”。",
+      "sentence": "The soil in the garden is too **acidic** for growing tomatoes, so we need to use lime to balance it.",
+      "options": {
+        "option": [
+          {
+            "definition": "酸性的（含酸的，pH值小于7的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "辛辣的、刺鼻的（如 acrid 的含义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "味道酸的（如柠檬或醋的味道）",
+            "iscorrect": false
+          },
+          {
+            "definition": "基础的、基本的（如 basic 的含义）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

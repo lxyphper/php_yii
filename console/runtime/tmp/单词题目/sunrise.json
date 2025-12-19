@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sunrise",
+      "error_analysis": "中国学生易混淆形近词“sunset”（日落）与“sunrise”，或因“sun+rise”字面拆分误将其理解为“太阳的上升动作”而非“日出”。",
+      "sentence": "We woke up early to watch the **sunrise** over the mountains.",
+      "options": {
+        "option": [
+          {
+            "definition": "日出（太阳升起的时刻或景象）",
+            "iscorrect": true
+          },
+          {
+            "definition": "日落（太阳落下的时刻）",
+            "iscorrect": false
+          },
+          {
+            "definition": "太阳的上升动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "阳光（太阳发出的光）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

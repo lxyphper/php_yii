@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "neck",
+      "error_analysis": "学生易因形近词\"nest\"(巢)或\"necklace\"(项链)的联想，将\"neck\"误判为\"巢\"或\"项链\"",
+      "sentence": "She wore a scarf around her **neck** to keep warm in the cold wind.",
+      "options": {
+        "option": [
+          {
+            "definition": "脖子",
+            "iscorrect": true
+          },
+          {
+            "definition": "巢",
+            "iscorrect": false
+          },
+          {
+            "definition": "项链",
+            "iscorrect": false
+          },
+          {
+            "definition": "膝盖",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

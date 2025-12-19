@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Slovak",
+      "error_analysis": "学生易因形近词'slack'（松懈的）或混淆东欧国家词汇（如Slovenian）而误解'Slovak'。",
+      "sentence": "She is learning **Slovak** to communicate with her grandparents in Bratislava, the capital city of Slovakia.",
+      "options": {
+        "option": [
+          {
+            "definition": "斯洛伐克语；斯洛伐克人",
+            "iscorrect": true
+          },
+          {
+            "definition": "松懈的；懒散的",
+            "iscorrect": false
+          },
+          {
+            "definition": "斯洛文尼亚人",
+            "iscorrect": false
+          },
+          {
+            "definition": "慢的；迟缓的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gearing",
+      "error_analysis": "学生易将gearing误判为形近词yearning（渴望）或根据词根gear错误推导为“齿轮的转动”",
+      "sentence": "The mechanic checked the **gearing** of the bicycle to fix its loose chain.",
+      "options": {
+        "option": [
+          {
+            "definition": "齿轮装置",
+            "iscorrect": true
+          },
+          {
+            "definition": "渴望",
+            "iscorrect": false
+          },
+          {
+            "definition": "齿轮的转动",
+            "iscorrect": false
+          },
+          {
+            "definition": "轴承",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

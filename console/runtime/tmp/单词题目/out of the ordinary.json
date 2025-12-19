@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "out of the ordinary",
+      "error_analysis": "学生易因\"out of\"的字面含义（从...出来）及结构类似短语（如out of order）的干扰，误将其理解为\"出故障的\"或\"离开普通状态\"。",
+      "sentence": "Her performance in the talent show was **out of the ordinary**—everyone stood up to cheer for her.",
+      "options": {
+        "option": [
+          {
+            "definition": "不寻常的；特别的",
+            "iscorrect": true
+          },
+          {
+            "definition": "出故障的；紊乱的",
+            "iscorrect": false
+          },
+          {
+            "definition": "离开普通的地方",
+            "iscorrect": false
+          },
+          {
+            "definition": "过时的；陈旧的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

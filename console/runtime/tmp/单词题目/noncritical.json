@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "noncritical",
+      "error_analysis": "学生易将\"noncritical\"误解为\"不批评的\"（词根\"critical\"\"批评的\"义项的否定）或与\"uncritical\"混淆为\"不加批判的\"。",
+      "sentence": "In the project timeline, the team decided to prioritize the critical tasks first and handle the **noncritical** ones later.",
+      "options": {
+        "option": [
+          {
+            "definition": "非关键的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不批评的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不加批判的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不危险的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

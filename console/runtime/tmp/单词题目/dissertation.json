@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dissertation",
+      "error_analysis": "中国学生易因形近词\"discussion\"（讨论）或词根\"dis-\"(分开)+\"sert\"(放置)误导，将\"dissertation\"误判为\"讨论\"或\"辩论稿\"。",
+      "sentence": "After years of research, she finally completed her **dissertation** on the impact of AI on healthcare, which earned her a PhD.",
+      "options": {
+        "option": [
+          {
+            "definition": "讨论",
+            "iscorrect": false
+          },
+          {
+            "definition": "博士论文；专题论文",
+            "iscorrect": true
+          },
+          {
+            "definition": "辩论稿",
+            "iscorrect": false
+          },
+          {
+            "definition": "散文",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

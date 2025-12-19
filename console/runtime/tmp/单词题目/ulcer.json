@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ulcer",
+      "error_analysis": "学生易因形近词“uncle”（叔叔）或与“cancer”（癌症）混淆而误判“ulcer”的含义",
+      "sentence": "After years of poor diet, he developed a gastric **ulcer** that caused severe stomach pain.",
+      "options": {
+        "option": [
+          {
+            "definition": "溃疡",
+            "iscorrect": true
+          },
+          {
+            "definition": "叔叔",
+            "iscorrect": false
+          },
+          {
+            "definition": "癌症",
+            "iscorrect": false
+          },
+          {
+            "definition": "环形物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

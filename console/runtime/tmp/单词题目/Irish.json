@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Irish",
+      "error_analysis": "学生易将\"Irish\"与形近词\"iris\"（鸢尾花；虹膜）混淆，或误猜为\"铁的\"（与\"iron\"形近）。",
+      "sentence": "My friend brought me a box of **Irish** chocolates from Dublin, which are famous for their rich flavor.",
+      "options": {
+        "option": [
+          {
+            "definition": "鸢尾花的；虹膜的",
+            "iscorrect": false
+          },
+          {
+            "definition": "铁的；刚强的",
+            "iscorrect": false
+          },
+          {
+            "definition": "爱尔兰的；爱尔兰人的",
+            "iscorrect": true
+          },
+          {
+            "definition": "鱼类的；鱼味的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

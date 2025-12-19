@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to [break] {one's} neck",
+      "error_analysis": "学生易因“break”和“neck”的字面意思误解为“物理上折断脖子（受伤）”",
+      "sentence": "She **broke her neck** to finish the project before the deadline.",
+      "options": {
+        "option": [
+          {
+            "definition": "竭尽全力做某事",
+            "iscorrect": true
+          },
+          {
+            "definition": "不小心折断了脖子（受伤）",
+            "iscorrect": false
+          },
+          {
+            "definition": "脖子感到剧烈疼痛",
+            "iscorrect": false
+          },
+          {
+            "definition": "故意弄坏了自己的脖子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

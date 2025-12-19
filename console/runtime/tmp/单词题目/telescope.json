@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "telescope",
+      "error_analysis": "学生易因`telescope`与“telephone”（电话）、“television”（电视）形近（均含“tele-”前缀）或词根“tele-”（远）+“scope”（看）的过度直译，将其误判为通讯设备而非望远镜。",
+      "sentence": "With a **telescope**, we can see distant stars and planets clearly at night.",
+      "options": {
+        "option": [
+          {
+            "definition": "望远镜",
+            "iscorrect": true
+          },
+          {
+            "definition": "电话",
+            "iscorrect": false
+          },
+          {
+            "definition": "电视",
+            "iscorrect": false
+          },
+          {
+            "definition": "远距通讯设备",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

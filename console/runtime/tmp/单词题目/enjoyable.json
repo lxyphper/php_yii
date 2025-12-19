@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "enjoyable",
+      "error_analysis": "学生易因“enjoy+able”的结构误将“enjoyable”理解为“能享受的”（强调主语能力），而非正确的“令人愉快的”（强调事物性质）。",
+      "sentence": "The picnic by the lake was **enjoyable**; everyone laughed and shared stories.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人愉快的",
+            "iscorrect": true
+          },
+          {
+            "definition": "能享受的",
+            "iscorrect": false
+          },
+          {
+            "definition": "享受的",
+            "iscorrect": false
+          },
+          {
+            "definition": "被享受的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

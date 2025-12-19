@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "karting",
+      "error_analysis": "学生易因形近词\"cart\"(购物车)或\"karate\"(空手道)将\"karting\"误解为与购物车相关的活动或武术训练",
+      "sentence": "Last weekend, we went **karting** at the new track near the mall—everyone had fun racing around the curves.",
+      "options": {
+        "option": [
+          {
+            "definition": "卡丁车运动",
+            "iscorrect": true
+          },
+          {
+            "definition": "购物车搬运",
+            "iscorrect": false
+          },
+          {
+            "definition": "空手道训练",
+            "iscorrect": false
+          },
+          {
+            "definition": "艺术创作活动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

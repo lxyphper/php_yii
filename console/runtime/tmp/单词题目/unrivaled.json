@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unrivaled",
+      "error_analysis": "中国学生易因形近词\"unrelated\"（无关的）误解\"unrivaled\"，或因词根\"rival\"（竞争）误判为\"没有竞争的\"。",
+      "sentence": "Her **unrivaled** talent in painting made her the youngest winner of the national art award.",
+      "options": {
+        "option": [
+          {
+            "definition": "无与伦比的",
+            "iscorrect": true
+          },
+          {
+            "definition": "无关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "没有竞争的",
+            "iscorrect": false
+          },
+          {
+            "definition": "未被解开的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

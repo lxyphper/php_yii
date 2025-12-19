@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "walk",
+      "error_analysis": "学生易因形近词“talk”（说话）或“wall”（墙）的干扰而误判“walk”的词义。",
+      "sentence": "I usually **walk** to school every morning because it's not far.",
+      "options": {
+        "option": [
+          {
+            "definition": "走；步行",
+            "iscorrect": true
+          },
+          {
+            "definition": "说话；交谈",
+            "iscorrect": false
+          },
+          {
+            "definition": "墙；围墙",
+            "iscorrect": false
+          },
+          {
+            "definition": "等待；等候",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

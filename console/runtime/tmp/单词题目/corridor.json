@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "corridor",
+      "error_analysis": "中国学生易因“corridor”与“corner”（角落）形状相似，误将其理解为“角落”",
+      "sentence": "She walked down the **corridor** to her classroom, passing several lockers on the way.",
+      "options": {
+        "option": [
+          {
+            "definition": "走廊",
+            "iscorrect": true
+          },
+          {
+            "definition": "角落",
+            "iscorrect": false
+          },
+          {
+            "definition": "门",
+            "iscorrect": false
+          },
+          {
+            "definition": "楼梯",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

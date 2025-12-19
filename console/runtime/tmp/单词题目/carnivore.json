@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "carnivore",
+      "error_analysis": "学生易因形近词“carnival”（狂欢节）的干扰，或不熟悉词根“carn-”（肉）而错误猜测为与“狂欢”或“植物/玉米”相关的动物",
+      "sentence": "Lions, tigers, and wolves are all examples of **carnivores** that hunt other animals for food.",
+      "options": {
+        "option": [
+          {
+            "definition": "食肉动物",
+            "iscorrect": true
+          },
+          {
+            "definition": "狂欢节的参与者",
+            "iscorrect": false
+          },
+          {
+            "definition": "吃玉米的动物",
+            "iscorrect": false
+          },
+          {
+            "definition": "食草动物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

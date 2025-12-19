@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "enrollment",
+      "error_analysis": "学生易因形近词\"employment\"（就业）混淆，或因\"roll\"（滚动）的字面义误判为\"卷入\"。",
+      "sentence": "The university’s online **enrollment** system will close next Friday, so make sure to submit your application before then.",
+      "options": {
+        "option": [
+          {
+            "definition": "注册；入学",
+            "iscorrect": true
+          },
+          {
+            "definition": "就业；雇佣",
+            "iscorrect": false
+          },
+          {
+            "definition": "卷入；滚动进入",
+            "iscorrect": false
+          },
+          {
+            "definition": "执行；实施",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "omelet",
+      "error_analysis": "学生易将\"omelet\"拆分为\"ome\"+\"let\"并根据\"let\"（让）猜测词义，或误认形近词\"moment\"（时刻）导致错误。",
+      "sentence": "For breakfast, I usually make a cheese **omelet** with a side of toast.",
+      "options": {
+        "option": [
+          {
+            "definition": "煎蛋卷",
+            "iscorrect": true
+          },
+          {
+            "definition": "时刻",
+            "iscorrect": false
+          },
+          {
+            "definition": "让某人做某事",
+            "iscorrect": false
+          },
+          {
+            "definition": "冰淇淋",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

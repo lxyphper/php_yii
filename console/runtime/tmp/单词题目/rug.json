@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rug",
+      "error_analysis": "学生易因形近词\"rag\"(碎布)混淆\"rug\"的词义，或误联想为\"rugby\"(橄榄球)的简写",
+      "sentence": "She placed a colorful **rug** in front of the sofa to keep the floor clean.",
+      "options": {
+        "option": [
+          {
+            "definition": "小地毯；地垫",
+            "iscorrect": true
+          },
+          {
+            "definition": "碎布；破布",
+            "iscorrect": false
+          },
+          {
+            "definition": "橄榄球",
+            "iscorrect": false
+          },
+          {
+            "definition": "围巾；披肩",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

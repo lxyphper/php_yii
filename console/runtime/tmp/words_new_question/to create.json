@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to create",
+      "error_analysis": "中国学生易因形近词“crate”（木箱）或词根联想“creature”（生物）误解“to create”的词义。",
+      "sentence": "She decided to **create** a handmade card for her mother's birthday instead of buying one.",
+      "options": {
+        "option": [
+          {
+            "definition": "创造；创建",
+            "iscorrect": true
+          },
+          {
+            "definition": "木箱",
+            "iscorrect": false
+          },
+          {
+            "definition": "生物",
+            "iscorrect": false
+          },
+          {
+            "definition": "娱乐",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

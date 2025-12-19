@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "passenger",
+      "error_analysis": "易混淆形近词\"passer-by\"(路人)及词根\"pass\"误导的\"传递者\"理解",
+      "sentence": "The bus stopped to pick up **passengers** waiting at the station.",
+      "options": {
+        "option": [
+          {
+            "definition": "乘客",
+            "iscorrect": true
+          },
+          {
+            "definition": "路人",
+            "iscorrect": false
+          },
+          {
+            "definition": "传递者（如传递物品的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "服务员",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

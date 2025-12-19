@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "peaceful",
+      "error_analysis": "学生易因形近词“piece”（碎片）联想误判“peaceful”为“由碎片组成的”，或因词根“peace”（和平）过度直译忽略“宁静的”核心义",
+      "sentence": "The old man sat on the bench, enjoying the **peaceful** morning breeze and watching the birds fly by.",
+      "options": {
+        "option": [
+          {
+            "definition": "宁静的；平静的",
+            "iscorrect": true
+          },
+          {
+            "definition": "由碎片组成的；块状的",
+            "iscorrect": false
+          },
+          {
+            "definition": "和平的（指没有战争或冲突）",
+            "iscorrect": false
+          },
+          {
+            "definition": "忙碌的；繁忙的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

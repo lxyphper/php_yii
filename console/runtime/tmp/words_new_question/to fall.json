@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to fall",
+      "error_analysis": "学生易因形近词\"fail\"（失败）或\"fell\"（砍伐/feel的过去式）将\"fall\"误理解为\"失败\"\"砍伐\"或\"感觉\"",
+      "sentence": "The leaves will **fall** from the trees when autumn comes.",
+      "options": {
+        "option": [
+          {
+            "definition": "落下；跌倒",
+            "iscorrect": true
+          },
+          {
+            "definition": "失败；不及格",
+            "iscorrect": false
+          },
+          {
+            "definition": "砍伐；击倒",
+            "iscorrect": false
+          },
+          {
+            "definition": "感觉；触摸",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

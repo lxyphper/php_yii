@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wide",
+      "error_analysis": "易与形近词“wife”（妻子）混淆，或误将形容词“宽的”当作名词“宽度”（词根误导）",
+      "sentence": "The road is so **wide** that three cars can pass at the same time.",
+      "options": {
+        "option": [
+          {
+            "definition": "妻子",
+            "iscorrect": false
+          },
+          {
+            "definition": "宽度",
+            "iscorrect": false
+          },
+          {
+            "definition": "宽的；宽阔的",
+            "iscorrect": true
+          },
+          {
+            "definition": "广泛的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

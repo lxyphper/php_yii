@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to go down",
+      "error_analysis": "学生易因\"go\"和\"down\"的字面意思误解为\"走下去\"，忽略其\"下降；下跌\"的核心引申义",
+      "sentence": "The price of coffee has **gone down** by 20% since last month.",
+      "options": {
+        "option": [
+          {
+            "definition": "下降；下跌",
+            "iscorrect": true
+          },
+          {
+            "definition": "走下去；下去",
+            "iscorrect": false
+          },
+          {
+            "definition": "增长；上升",
+            "iscorrect": false
+          },
+          {
+            "definition": "被接受；受欢迎",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

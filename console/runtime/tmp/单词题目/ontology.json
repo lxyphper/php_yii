@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ontology",
+      "error_analysis": "学生易将词根“onto-”（存在）错误理解为“物体”或“位置”，导致误解“ontology”为“关于物体/位置的学科”。",
+      "sentence": "In philosophy class, we discussed how **ontology** explores the fundamental nature of existence and what it means to \"be.\"",
+      "options": {
+        "option": [
+          {
+            "definition": "本体论；存在论（哲学中研究存在本质的学科）",
+            "iscorrect": true
+          },
+          {
+            "definition": "关于物体的学科（如物理学中研究物体属性的分支）",
+            "iscorrect": false
+          },
+          {
+            "definition": "关于位置或空间的学科（如地理学中研究空间关系的部分）",
+            "iscorrect": false
+          },
+          {
+            "definition": "关于鸟类的学科（如动物学中研究鸟类的分支）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

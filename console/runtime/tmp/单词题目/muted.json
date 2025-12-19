@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "muted",
+      "error_analysis": "学生易因形近词“mute”（沉默的、静音的）及过去分词字面义，猜测“muted”为“被静音的”或“沉默的”，忽略其“柔和、不强烈”的核心含义",
+      "sentence": "The living room was painted in **muted** tones of blue and gray, creating a calm atmosphere.",
+      "options": {
+        "option": [
+          {
+            "definition": "柔和的；不强烈的",
+            "iscorrect": true
+          },
+          {
+            "definition": "被静音的；无声的",
+            "iscorrect": false
+          },
+          {
+            "definition": "沉默的；不爱说话的",
+            "iscorrect": false
+          },
+          {
+            "definition": "模糊的；不清楚的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

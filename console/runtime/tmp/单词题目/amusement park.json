@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "amusement park",
+      "error_analysis": "学生易将“amusement”与形近词“amazement”（惊讶）混淆，或误将“amusement park”简化为普通“公园”而忽略其娱乐属性。",
+      "sentence": "We spent the whole day at the **amusement park** riding roller coasters and eating cotton candy.",
+      "options": {
+        "option": [
+          {
+            "definition": "游乐园",
+            "iscorrect": true
+          },
+          {
+            "definition": "奇观公园",
+            "iscorrect": false
+          },
+          {
+            "definition": "城市公园",
+            "iscorrect": false
+          },
+          {
+            "definition": "动物园",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

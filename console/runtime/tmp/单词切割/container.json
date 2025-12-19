@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "contaner",
+      "containor",
+      "comtainer",
+      "contienor"
+    ],
+    "correct_chunks": [
+      "con",
+      "tain",
+      "er"
+    ],
+    "distractor_chunks": [
+      "com",
+      "tan",
+      "or",
+      "tien"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to shout",
+      "error_analysis": "中国学生易因形近词“shoot”（射击）混淆“to shout”（大声喊叫）的含义",
+      "sentence": "When the team scored the winning goal, the crowd started to **shout** with joy.",
+      "options": {
+        "option": [
+          {
+            "definition": "射击",
+            "iscorrect": false
+          },
+          {
+            "definition": "关闭",
+            "iscorrect": false
+          },
+          {
+            "definition": "展示",
+            "iscorrect": false
+          },
+          {
+            "definition": "大声说；喊叫",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to outstrip",
+      "error_analysis": "学生易因“strip”（剥）的字面含义，将“outstrip”误理解为“剥去”或“剥夺”。",
+      "sentence": "The company's annual profits **outstripped** expectations by 30%, thanks to its new product line.",
+      "options": {
+        "option": [
+          {
+            "definition": "超过；超越",
+            "iscorrect": true
+          },
+          {
+            "definition": "剥去；脱光",
+            "iscorrect": false
+          },
+          {
+            "definition": "装备；配备",
+            "iscorrect": false
+          },
+          {
+            "definition": "突出；显眼",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

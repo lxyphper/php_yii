@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "noise pollution",
+      "error_analysis": "学生易因形近词\"population\"（人口）干扰，将\"noise pollution\"误理解为\"噪音人口\"。",
+      "sentence": "Residents in the city have been protesting against the increasing **noise pollution** from construction sites and busy roads.",
+      "options": {
+        "option": [
+          {
+            "definition": "噪音污染",
+            "iscorrect": true
+          },
+          {
+            "definition": "噪音人口",
+            "iscorrect": false
+          },
+          {
+            "definition": "污染的噪音",
+            "iscorrect": false
+          },
+          {
+            "definition": "噪音水平",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

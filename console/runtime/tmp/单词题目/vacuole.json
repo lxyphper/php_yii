@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "vacuole",
+      "error_analysis": "学生易因形近词（如vacuum）或词根“vac”（空）误导，将“vacuole”错误理解为真空装置或空容器，而非生物学中的液泡",
+      "sentence": "The plant cell's **vacuole** stores water and nutrients, helping maintain its rigid structure.",
+      "options": {
+        "option": [
+          {
+            "definition": "（细胞内的）液泡",
+            "iscorrect": true
+          },
+          {
+            "definition": "真空装置",
+            "iscorrect": false
+          },
+          {
+            "definition": "空的容器",
+            "iscorrect": false
+          },
+          {
+            "definition": "假期安排",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

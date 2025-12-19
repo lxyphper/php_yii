@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to twirl",
+      "error_analysis": "学生易将\"twirl\"与形近词\"twist\"（扭曲）混淆，或误理解为普通\"转向\"（turn）而非\"快速旋转\"。",
+      "sentence": "The little girl likes to **twirl** her hair around her finger when she's nervous.",
+      "options": {
+        "option": [
+          {
+            "definition": "快速旋转（如物体或身体部位）",
+            "iscorrect": true
+          },
+          {
+            "definition": "扭曲；拧（如毛巾或绳子）",
+            "iscorrect": false
+          },
+          {
+            "definition": "转向；转变方向（如道路或视线）",
+            "iscorrect": false
+          },
+          {
+            "definition": "推动；推进（如门或购物车）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

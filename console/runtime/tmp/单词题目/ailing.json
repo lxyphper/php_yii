@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ailing",
+      "error_analysis": "学生易因形近词‘mailing’（邮寄）干扰误判为‘邮寄的’，或因不熟悉词根‘ail’（生病）误猜为‘疼痛的’。",
+      "sentence": "The **ailing** woman was advised to stay in bed and rest.",
+      "options": {
+        "option": [
+          {
+            "definition": "生病的；体弱的",
+            "iscorrect": true
+          },
+          {
+            "definition": "邮寄的",
+            "iscorrect": false
+          },
+          {
+            "definition": "疼痛的",
+            "iscorrect": false
+          },
+          {
+            "definition": "失败的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

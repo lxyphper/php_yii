@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "jumbo",
+      "error_analysis": "中国学生易因形近词\"jump\"(跳)或\"jumble\"(混乱)产生错误联想，误判为\"跳跃的\"或\"混乱的\"",
+      "sentence": "The supermarket sells **jumbo** packs of chips that are twice the size of regular ones.",
+      "options": {
+        "option": [
+          {
+            "definition": "巨大的；特大的",
+            "iscorrect": true
+          },
+          {
+            "definition": "跳跃的；蹦跳的",
+            "iscorrect": false
+          },
+          {
+            "definition": "混乱的；杂乱的",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速的；敏捷的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

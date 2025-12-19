@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "now",
+      "error_analysis": "学生易因形近词（如new、how、know）混淆，将now误理解为“新的”“怎么”“知道”等含义",
+      "sentence": "Please finish your homework **now**—the teacher will check it in five minutes.",
+      "options": {
+        "option": [
+          {
+            "definition": "现在",
+            "iscorrect": true
+          },
+          {
+            "definition": "新的",
+            "iscorrect": false
+          },
+          {
+            "definition": "怎么",
+            "iscorrect": false
+          },
+          {
+            "definition": "知道",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "table",
+      "error_analysis": "中国学生易因形近词“tale”（故事）混淆，或因“tab”（标签）词根误导产生错误理解。",
+      "sentence": "Mom asked me to set the plates on the **table** before dinner.",
+      "options": {
+        "option": [
+          {
+            "definition": "桌子",
+            "iscorrect": true
+          },
+          {
+            "definition": "故事",
+            "iscorrect": false
+          },
+          {
+            "definition": "标签",
+            "iscorrect": false
+          },
+          {
+            "definition": "表格",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

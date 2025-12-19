@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "away game",
+      "error_analysis": "学生易因\"away\"的字面含义将\"away game\"误解为\"远途比赛\"或\"户外比赛\"，而非正确的\"客场比赛\"",
+      "sentence": "The Lakers will play their next **away game** in Boston against the Celtics, one of their biggest rivals.",
+      "options": {
+        "option": [
+          {
+            "definition": "客场比赛",
+            "iscorrect": true
+          },
+          {
+            "definition": "远途比赛",
+            "iscorrect": false
+          },
+          {
+            "definition": "户外比赛",
+            "iscorrect": false
+          },
+          {
+            "definition": "友谊赛",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

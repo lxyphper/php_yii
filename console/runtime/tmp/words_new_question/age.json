@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "age",
+      "error_analysis": "中国学生易因形近词“ago”（以前）或“edge”（边缘）的干扰，将“age”错误理解为“以前”或“边缘”。",
+      "sentence": "Her **age** is 10, so she can't go to the movie alone without an adult.",
+      "options": {
+        "option": [
+          {
+            "definition": "年龄",
+            "iscorrect": true
+          },
+          {
+            "definition": "以前",
+            "iscorrect": false
+          },
+          {
+            "definition": "边缘",
+            "iscorrect": false
+          },
+          {
+            "definition": "痛苦",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

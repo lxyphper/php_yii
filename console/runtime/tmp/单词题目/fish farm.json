@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fish farm",
+      "error_analysis": "将“fish farm”字面直译为“鱼的农场”，或混淆为“钓鱼场”而非正确的“养鱼场/渔场”",
+      "sentence": "The local **fish farm** supplies fresh trout to nearby markets every week.",
+      "options": {
+        "option": [
+          {
+            "definition": "养鱼场；渔场",
+            "iscorrect": true
+          },
+          {
+            "definition": "鱼的农场",
+            "iscorrect": false
+          },
+          {
+            "definition": "钓鱼场",
+            "iscorrect": false
+          },
+          {
+            "definition": "鱼的形状",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

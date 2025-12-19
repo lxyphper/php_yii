@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "construction",
+      "error_analysis": "易混淆形近词“constitution”（宪法），或因词根“struct”过度推导为“结构”而非核心义“建筑工程”",
+      "sentence": "The city government has approved the **construction** of a new subway line to ease traffic congestion.",
+      "options": {
+        "option": [
+          {
+            "definition": "建筑工程；建造",
+            "iscorrect": true
+          },
+          {
+            "definition": "宪法；章程",
+            "iscorrect": false
+          },
+          {
+            "definition": "结构；构造",
+            "iscorrect": false
+          },
+          {
+            "definition": "建造物；建筑物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

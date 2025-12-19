@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "uninvolved",
+      "error_analysis": "易混淆形近词uninvited（未被邀请的），或错误推导为“不复杂的”（将involved误作“复杂的”）",
+      "sentence": "She stayed **uninvolved** in the argument between her two friends and let them solve it themselves.",
+      "options": {
+        "option": [
+          {
+            "definition": "未参与的；不涉及的",
+            "iscorrect": true
+          },
+          {
+            "definition": "未被邀请的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不复杂的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不感兴趣的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

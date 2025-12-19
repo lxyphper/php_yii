@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "blurb",
+      "error_analysis": "学生易因形近词\"blur\"(模糊)或\"blurt\"(脱口而出)产生错误联想，误判为\"模糊的内容\"或\"脱口而出的话\"",
+      "sentence": "The new cookbook’s **blurb** on the front cover claims it has \"100 easy recipes for beginners.\"",
+      "options": {
+        "option": [
+          {
+            "definition": "书或产品的简短宣传语",
+            "iscorrect": true
+          },
+          {
+            "definition": "模糊的图像或概念",
+            "iscorrect": false
+          },
+          {
+            "definition": "脱口而出的话语",
+            "iscorrect": false
+          },
+          {
+            "definition": "书的目录或索引",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

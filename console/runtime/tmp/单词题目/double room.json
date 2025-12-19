@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "double room",
+      "error_analysis": "学生易将“double room”字面误解为“两倍大的房间”或“两个房间”，或因形近“dining room”混淆为“餐厅”",
+      "sentence": "When booking a hotel for our trip, we asked for a **double room** because we wanted to share a bed and save money.",
+      "options": {
+        "option": [
+          {
+            "definition": "（酒店的）双人房（通常有一张双人床）",
+            "iscorrect": true
+          },
+          {
+            "definition": "餐厅",
+            "iscorrect": false
+          },
+          {
+            "definition": "两个分开的房间",
+            "iscorrect": false
+          },
+          {
+            "definition": "比普通房间大两倍的房间",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

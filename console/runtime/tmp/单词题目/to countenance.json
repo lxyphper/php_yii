@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to countenance",
+      "error_analysis": "学生易混淆名词\"面容\"与动词\"容忍\"的含义，或因形近词\"count\"误以为与\"计数\"相关",
+      "sentence": "The company decided not to **countenance** any form of discrimination in the workplace.",
+      "options": {
+        "option": [
+          {
+            "definition": "容忍；默许（通常指不赞成的事）",
+            "iscorrect": true
+          },
+          {
+            "definition": "露出面容；表现表情",
+            "iscorrect": false
+          },
+          {
+            "definition": "计数；计算",
+            "iscorrect": false
+          },
+          {
+            "definition": "反对；抵制",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

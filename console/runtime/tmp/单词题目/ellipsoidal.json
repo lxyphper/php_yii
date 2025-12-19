@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ellipsoidal",
+      "error_analysis": "学生易因形近词\"elliptical\"（椭圆的）将\"ellipsoidal\"误判为二维椭圆，或因不熟悉\"ellipsoid\"词根猜测为球形/细长形。",
+      "sentence": "The planet Saturn is not perfectly spherical; its rapid rotation causes it to have an **ellipsoidal** shape, wider at the equator than at the poles.",
+      "options": {
+        "option": [
+          {
+            "definition": "椭球形的（三维椭圆形的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "椭圆的（二维椭圆形的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "球形的（正圆形的三维形状）",
+            "iscorrect": false
+          },
+          {
+            "definition": "细长的（长度远大于宽度的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

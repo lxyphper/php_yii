@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "alternating current",
+      "error_analysis": "学生易因“alternating”形近“alternative”（替代的）或“current”的常见义（当前的/水流）而错解“alternating current”。",
+      "sentence": "Most household appliances, such as refrigerators and TVs, run on **alternating current** supplied by the power grid.",
+      "options": {
+        "option": [
+          {
+            "definition": "交流电",
+            "iscorrect": true
+          },
+          {
+            "definition": "替代电流",
+            "iscorrect": false
+          },
+          {
+            "definition": "交替的当前情况",
+            "iscorrect": false
+          },
+          {
+            "definition": "交替的水流",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

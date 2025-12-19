@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fully",
+      "error_analysis": "学生易因\"fully\"与\"full\"（满的）的词根关联误判为\"满地\"，或因形近词\"foolishly\"（愚蠢地）误判为\"愚蠢地\"",
+      "sentence": "I **fully** understand your concerns and will address them immediately.",
+      "options": {
+        "option": [
+          {
+            "definition": "愚蠢地",
+            "iscorrect": false
+          },
+          {
+            "definition": "满地，充满地",
+            "iscorrect": false
+          },
+          {
+            "definition": "部分地",
+            "iscorrect": false
+          },
+          {
+            "definition": "完全地，彻底地",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

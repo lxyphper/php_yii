@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "glacier",
+      "error_analysis": "学生易因形近词\"glasses\"（眼镜）或词根联想\"glass\"（玻璃），将\"glacier\"误判为\"眼镜\"或\"玻璃制品\"",
+      "sentence": "The huge **glacier** in the Alps is slowly melting due to global warming.",
+      "options": {
+        "option": [
+          {
+            "definition": "冰川",
+            "iscorrect": true
+          },
+          {
+            "definition": "眼镜",
+            "iscorrect": false
+          },
+          {
+            "definition": "玻璃制品",
+            "iscorrect": false
+          },
+          {
+            "definition": "角斗士",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

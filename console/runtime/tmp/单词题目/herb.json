@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "herb",
+      "error_analysis": "中国学生易将‘herb’与形近词‘herd’（兽群）混淆，或因字面拆分‘her’+‘b’猜测为‘她的物品’。",
+      "sentence": "The cook added fresh **herbs** like mint and parsley to the soup to boost its flavor.",
+      "options": {
+        "option": [
+          {
+            "definition": "草本植物",
+            "iscorrect": true
+          },
+          {
+            "definition": "兽群",
+            "iscorrect": false
+          },
+          {
+            "definition": "她的物品",
+            "iscorrect": false
+          },
+          {
+            "definition": "中心",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "waist",
+      "error_analysis": "中国学生易混淆形近词\"waste\"(浪费)，或误猜为其他身体部位(如手腕)。",
+      "sentence": "She tied a silk scarf around her **waist** to add a touch of elegance to her dress.",
+      "options": {
+        "option": [
+          {
+            "definition": "腰；腰部",
+            "iscorrect": true
+          },
+          {
+            "definition": "浪费；废弃物",
+            "iscorrect": false
+          },
+          {
+            "definition": "手腕；腕关节",
+            "iscorrect": false
+          },
+          {
+            "definition": "等待；等候",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "compiler",
+      "error_analysis": "学生易将“compiler”与形近词“complier”（顺从者）混淆，或通过词根“pile”（堆）误判为“收集者”。",
+      "sentence": "The new **compiler** from Microsoft helps programmers convert C++ code into runnable applications faster than before.",
+      "options": {
+        "option": [
+          {
+            "definition": "编译器（将源代码转换为可执行程序的计算机工具）",
+            "iscorrect": true
+          },
+          {
+            "definition": "顺从者（遵守规则或命令的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "收集者（将物品堆放在一起的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "翻译者（将一种语言转换为另一种语言的人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

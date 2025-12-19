@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to overthink",
+      "error_analysis": "学生易将“overthink”与“think over”混淆，误理解为“仔细思考”而非“过度思考”。",
+      "sentence": "Sarah always **overthinks** small decisions, like what to wear to a party, and ends up being late.",
+      "options": {
+        "option": [
+          {
+            "definition": "仔细思考",
+            "iscorrect": false
+          },
+          {
+            "definition": "过度思考（指因想太多而导致困扰或无法决定）",
+            "iscorrect": true
+          },
+          {
+            "definition": "超越思考（比他人想得多）",
+            "iscorrect": false
+          },
+          {
+            "definition": "忽略思考",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

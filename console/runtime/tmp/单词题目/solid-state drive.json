@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "solid-state drive",
+      "error_analysis": "学生易因字面直译（将solid-state直译为“固体状态”）或近义词混淆（将solid与hard近义误判为“硬盘驱动器”）错解目标词。",
+      "sentence": "My new laptop uses a **solid-state drive** instead of a traditional hard disk, so it boots up much faster.",
+      "options": {
+        "option": [
+          {
+            "definition": "固态硬盘",
+            "iscorrect": true
+          },
+          {
+            "definition": "固体状态驱动器",
+            "iscorrect": false
+          },
+          {
+            "definition": "硬盘驱动器",
+            "iscorrect": false
+          },
+          {
+            "definition": "固态电池",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

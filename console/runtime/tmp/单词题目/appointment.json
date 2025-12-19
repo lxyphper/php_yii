@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "appointment",
+      "error_analysis": "学生易因词根“appoint”（任命）将“appointment”误解为“任命”，或因形近词“assignment”（任务）混淆为“任务”。",
+      "sentence": "I need to cancel my **appointment** with the dentist because I’m feeling better now.",
+      "options": {
+        "option": [
+          {
+            "definition": "预约；约会",
+            "iscorrect": true
+          },
+          {
+            "definition": "任命；委任",
+            "iscorrect": false
+          },
+          {
+            "definition": "任务；作业",
+            "iscorrect": false
+          },
+          {
+            "definition": "评估；评价",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

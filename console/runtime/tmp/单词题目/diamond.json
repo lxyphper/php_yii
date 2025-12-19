@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "diamond",
+      "error_analysis": "学生易因形近词（如diary）混淆为“日记”，或因“dia-”前缀错误推导为与“对话”相关的含义",
+      "sentence": "She wore a beautiful **diamond** necklace to the party, which sparkled under the lights.",
+      "options": {
+        "option": [
+          {
+            "definition": "日记",
+            "iscorrect": false
+          },
+          {
+            "definition": "对话记录",
+            "iscorrect": false
+          },
+          {
+            "definition": "钻石",
+            "iscorrect": true
+          },
+          {
+            "definition": "数据图表",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "teenage",
+      "error_analysis": "易混淆为“青少年（名词）”（形近teenager）或直译“十几岁的年龄”（词根teen+age误导）",
+      "sentence": "The **teenage** girl spends most of her free time painting.",
+      "options": {
+        "option": [
+          {
+            "definition": "青少年的（形容词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "青少年（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "十几岁的年龄（名词短语）",
+            "iscorrect": false
+          },
+          {
+            "definition": "年轻的（形容词，泛义）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

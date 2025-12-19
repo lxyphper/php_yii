@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stocky",
+      "error_analysis": "学生易因形近词“stock”（库存/树干）误将“stocky”理解为“与库存相关的”或“高大粗壮的”。",
+      "sentence": "My uncle is a **stocky** man who can lift two heavy boxes at once.",
+      "options": {
+        "option": [
+          {
+            "definition": "与库存相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "高大粗壮的",
+            "iscorrect": false
+          },
+          {
+            "definition": "矮壮的，结实的（形容体型）",
+            "iscorrect": true
+          },
+          {
+            "definition": "粘的，黏糊糊的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

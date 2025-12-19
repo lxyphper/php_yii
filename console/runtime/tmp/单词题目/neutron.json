@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "neutron",
+      "error_analysis": "学生易因形近词\"neuron\"(神经元)混淆，或因词根\"neut-\"(中性)错误联想为\"中性物质\"",
+      "sentence": "The nucleus of an atom consists of protons, **neutrons**, and sometimes other subatomic particles.",
+      "options": {
+        "option": [
+          {
+            "definition": "神经元（神经细胞）",
+            "iscorrect": false
+          },
+          {
+            "definition": "中性物质（如中和剂）",
+            "iscorrect": false
+          },
+          {
+            "definition": "中子（物理学中的中性粒子）",
+            "iscorrect": true
+          },
+          {
+            "definition": "营养物（如食物中的养分）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

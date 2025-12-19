@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "con-shaped",
+      "cone-saped",
+      "cone-chaped",
+      "cone-shped"
+    ],
+    "correct_chunks": [
+      "cone",
+      "-sh",
+      "aped"
+    ],
+    "distractor_chunks": [
+      "con",
+      "sap",
+      "cha",
+      "shp"
+    ]
+  },
+  0
+]

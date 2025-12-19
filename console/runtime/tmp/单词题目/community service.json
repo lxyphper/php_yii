@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "community service",
+      "error_analysis": "学生易因\"service\"的\"服役\"义将\"community service\"误理解为\"社区服役\"（惩罚性劳动），或因\"community\"与\"commute\"形近误判为\"通勤服务\"。",
+      "sentence": "Many high school students in the US volunteer for **community service** like cleaning local parks or helping elderly neighbors to meet graduation requirements.",
+      "options": {
+        "option": [
+          {
+            "definition": "社区服务",
+            "iscorrect": true
+          },
+          {
+            "definition": "社区服役（惩罚性劳动）",
+            "iscorrect": false
+          },
+          {
+            "definition": "通勤服务",
+            "iscorrect": false
+          },
+          {
+            "definition": "社区中心",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

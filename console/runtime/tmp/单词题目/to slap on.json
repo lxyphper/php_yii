@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to slap on",
+      "error_analysis": "学生易因“slap”的“打”义将“slap on”误解为“拍打在...上”，或因字面组合误判为“用力放置”。",
+      "sentence": "Before going out, she always **slaps on** some lipstick and runs out the door.",
+      "options": {
+        "option": [
+          {
+            "definition": "随便涂抹；快速添加",
+            "iscorrect": true
+          },
+          {
+            "definition": "打在...上；拍打在...表面",
+            "iscorrect": false
+          },
+          {
+            "definition": "用力放置在...上；把...重重放下",
+            "iscorrect": false
+          },
+          {
+            "definition": "紧紧贴在...上；黏附在...上面",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

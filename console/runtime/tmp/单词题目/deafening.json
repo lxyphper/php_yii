@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "deafening",
+      "error_analysis": "学生可能根据词根“deaf”（聋的）错误认为“deafening”是“耳聋的（指人或动物）”，而非“（声音）震耳欲聋的”",
+      "sentence": "The **deafening** noise from the construction site kept me awake all night.",
+      "options": {
+        "option": [
+          {
+            "definition": "（声音）震耳欲聋的",
+            "iscorrect": true
+          },
+          {
+            "definition": "耳聋的（指人或动物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "导致耳聋的（指事物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "防御的（形近词，defending的误读）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to quit",
+      "error_analysis": "学生易因形近词“quiet”（安静的）将“to quit”误理解为“使安静”或“保持安静”",
+      "sentence": "He promised to **quit** smoking for the sake of his health.",
+      "options": {
+        "option": [
+          {
+            "definition": "使安静；保持安静",
+            "iscorrect": false
+          },
+          {
+            "definition": "停止；放弃（做某事）",
+            "iscorrect": true
+          },
+          {
+            "definition": "非常；相当",
+            "iscorrect": false
+          },
+          {
+            "definition": "离开；出发",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

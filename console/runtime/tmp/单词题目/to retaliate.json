@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to retaliate",
+      "error_analysis": "学生易因形近词“retire”（退休）或词根“re-”的错误联想，将“retaliate”误判为“退休”或“回应”。",
+      "sentence": "The country threatened to **retaliate** if its borders were violated again.",
+      "options": {
+        "option": [
+          {
+            "definition": "退休",
+            "iscorrect": false
+          },
+          {
+            "definition": "报复，反击",
+            "iscorrect": true
+          },
+          {
+            "definition": "回应",
+            "iscorrect": false
+          },
+          {
+            "definition": "取回",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

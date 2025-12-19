@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "simple",
+      "error_analysis": "学生易因形近词“sample”（样本）混淆“simple”的含义，或误将其理解为“单一的”（如与“single”字面联想）。",
+      "sentence": "The instructions for assembling the furniture are **simple**—even a child can follow them.",
+      "options": {
+        "option": [
+          {
+            "definition": "简单的",
+            "iscorrect": true
+          },
+          {
+            "definition": "样本的",
+            "iscorrect": false
+          },
+          {
+            "definition": "单一的",
+            "iscorrect": false
+          },
+          {
+            "definition": "复杂的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "competition",
+      "error_analysis": "学生易因形近词\"composition\"(作文)的拼写相似性，或词根误导(如误将\"competition\"与\"complete\"(完成)关联)产生错误理解。",
+      "sentence": "Our class won first prize in the school science **competition**.",
+      "options": {
+        "option": [
+          {
+            "definition": "竞争；比赛",
+            "iscorrect": true
+          },
+          {
+            "definition": "作文；作曲",
+            "iscorrect": false
+          },
+          {
+            "definition": "完成；结束",
+            "iscorrect": false
+          },
+          {
+            "definition": "复杂；复杂性",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

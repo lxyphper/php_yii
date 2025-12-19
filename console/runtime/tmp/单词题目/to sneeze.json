@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to sneeze",
+      "error_analysis": "学生易因形近词\"freeze\"（冻结）、\"sniff\"（吸鼻子）或词根拆分（如\"sne-\"联想\"snake\"）误判词义",
+      "sentence": "When she smelled the pepper, she couldn’t help but **sneeze** loudly.",
+      "options": {
+        "option": [
+          {
+            "definition": "打喷嚏",
+            "iscorrect": true
+          },
+          {
+            "definition": "冻结",
+            "iscorrect": false
+          },
+          {
+            "definition": "吸鼻子",
+            "iscorrect": false
+          },
+          {
+            "definition": "像蛇一样爬行",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

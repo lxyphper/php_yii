@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "deposition",
+      "error_analysis": "学生易因形近词\"deposit\"(存款/押金)或词根\"depose\"(罢免)误判\"deposition\"的含义",
+      "sentence": "The lawyer requested the witness to give a **deposition** before the trial to strengthen their case.",
+      "options": {
+        "option": [
+          {
+            "definition": "(法律上的)证词；证言",
+            "iscorrect": true
+          },
+          {
+            "definition": "存款；押金",
+            "iscorrect": false
+          },
+          {
+            "definition": "罢免；废黜",
+            "iscorrect": false
+          },
+          {
+            "definition": "沉积物；沉积层",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

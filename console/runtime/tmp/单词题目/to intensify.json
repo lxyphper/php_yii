@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to intensify",
+      "error_analysis": "学生易因形近词'intelligent'（聪明的）产生联想，或错误拆分词根为'in-+tense+-ify'（使不紧张）而误解词义。",
+      "sentence": "The storm began to **intensify** as the wind speed increased to 100 km/h.",
+      "options": {
+        "option": [
+          {
+            "definition": "使聪明；变得机智",
+            "iscorrect": false
+          },
+          {
+            "definition": "加剧；加强",
+            "iscorrect": true
+          },
+          {
+            "definition": "使不紧张；缓解压力",
+            "iscorrect": false
+          },
+          {
+            "definition": "扩展；扩大范围",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

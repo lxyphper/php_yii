@@ -1,0 +1,21 @@
+[
+  {
+    "common_misspellings": [
+      "postoffice",
+      "post ofice",
+      "post offce",
+      "post ofic"
+    ],
+    "correct_chunks": [
+      "post ",
+      "office"
+    ],
+    "distractor_chunks": [
+      "postof",
+      "fice",
+      "ofice",
+      "offce"
+    ]
+  },
+  0
+]

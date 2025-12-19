@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unhurried",
+      "error_analysis": "学生易因\"unhurried\"与\"unhurt\"（未受伤的）形近（均含\"un-\"+\"hur\"开头词）而误判，或因混淆\"hurried\"与\"harried\"（苦恼的）而误解为\"不苦恼的\"。",
+      "sentence": "She sipped her tea in an **unhurried** manner, taking her time to watch the sunset through the window.",
+      "options": {
+        "option": [
+          {
+            "definition": "未受伤的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不苦恼的",
+            "iscorrect": false
+          },
+          {
+            "definition": "从容的；不匆忙的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不受阻碍的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

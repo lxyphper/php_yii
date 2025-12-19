@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stall",
+      "error_analysis": "学生易因形近词\"small\"（小的）或字面联想误判为\"停止\"（stop），忽略其\"拖延\"的核心动词义",
+      "sentence": "The politician tried to **stall** the debate by asking irrelevant questions.",
+      "options": {
+        "option": [
+          {
+            "definition": "小的（adj.）",
+            "iscorrect": false
+          },
+          {
+            "definition": "停止（v.）",
+            "iscorrect": false
+          },
+          {
+            "definition": "摊位（n.）",
+            "iscorrect": false
+          },
+          {
+            "definition": "拖延（v.）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

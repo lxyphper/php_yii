@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "processed",
+      "error_analysis": "学生易将\"processed\"（加工过的）误解为\"处于过程中的\"（名词\"process\"的形容词化错误）或\"正在处理的\"（动词进行时混淆）",
+      "sentence": "Most canned vegetables are **processed** to extend their shelf life.",
+      "options": {
+        "option": [
+          {
+            "definition": "加工过的；处理过的",
+            "iscorrect": true
+          },
+          {
+            "definition": "处于过程中的",
+            "iscorrect": false
+          },
+          {
+            "definition": "正在处理的",
+            "iscorrect": false
+          },
+          {
+            "definition": "继续的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

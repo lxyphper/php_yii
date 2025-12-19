@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "scant",
+      "error_analysis": "学生易因形近词“scan”（扫描）误判“scant”为“扫描的”，或因拼写类似“slant”（倾斜）误以为“倾斜的”",
+      "sentence": "The company provided **scant** information about the new product, leaving customers confused.",
+      "options": {
+        "option": [
+          {
+            "definition": "不足的；少量的",
+            "iscorrect": true
+          },
+          {
+            "definition": "扫描的；浏览的",
+            "iscorrect": false
+          },
+          {
+            "definition": "倾斜的；有偏见的",
+            "iscorrect": false
+          },
+          {
+            "definition": "短的；矮的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

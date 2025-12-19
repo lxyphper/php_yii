@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "feeble",
+      "error_analysis": "因形近词\"fee\"（费用）易联想为\"与费用相关的\"，或因形近\"fable\"（寓言）误判为\"虚构的\"",
+      "sentence": "The old man's legs were so **feeble** that he could barely stand up without a cane.",
+      "options": {
+        "option": [
+          {
+            "definition": "虚弱的；无力的",
+            "iscorrect": true
+          },
+          {
+            "definition": "昂贵的；高费用的",
+            "iscorrect": false
+          },
+          {
+            "definition": "寓言性的；虚构的",
+            "iscorrect": false
+          },
+          {
+            "definition": "敏捷的；灵活的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

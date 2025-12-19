@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "croissant",
+      "error_analysis": "中国学生易因形近词\"crescent\"（新月）或\"cross\"（十字）误将\"croissant\"理解为\"新月形物体\"或\"十字符号\"",
+      "sentence": "For breakfast, she bought a buttery **croissant** and a cup of coffee from the local bakery.",
+      "options": {
+        "option": [
+          {
+            "definition": "可颂面包（羊角面包）",
+            "iscorrect": true
+          },
+          {
+            "definition": "新月形物体",
+            "iscorrect": false
+          },
+          {
+            "definition": "十字符号",
+            "iscorrect": false
+          },
+          {
+            "definition": "奶油蛋糕",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "shortly",
+      "error_analysis": "将“shortly”误理解为“短暂地”（源于对基础词“short”的字面推导）",
+      "sentence": "The meeting will start **shortly**, so please take your seats.",
+      "options": {
+        "option": [
+          {
+            "definition": "不久，很快",
+            "iscorrect": true
+          },
+          {
+            "definition": "短暂地",
+            "iscorrect": false
+          },
+          {
+            "definition": "简短地",
+            "iscorrect": false
+          },
+          {
+            "definition": "矮小地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

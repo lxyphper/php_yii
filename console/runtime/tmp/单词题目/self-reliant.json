@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "self-reliant",
+      "error_analysis": "学生易因词根“reliant”（依赖的）直译为“自我依赖的”，或因形近“reliable”（可靠的）误判为“自我可靠的”。",
+      "sentence": "After living alone for a year, Sarah became more **self-reliant**—she now fixes her own bike, grows her own vegetables, and manages her finances without help.",
+      "options": {
+        "option": [
+          {
+            "definition": "自力更生的",
+            "iscorrect": true
+          },
+          {
+            "definition": "自我依赖的",
+            "iscorrect": false
+          },
+          {
+            "definition": "自我可靠的",
+            "iscorrect": false
+          },
+          {
+            "definition": "自我相关的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

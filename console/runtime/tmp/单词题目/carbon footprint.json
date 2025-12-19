@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "carbon footprint",
+      "error_analysis": "学生易因‘footprint’的字面‘脚印’或形近词‘footpath’，错误将‘carbon footprint’理解为‘碳的物理脚印’或‘碳小路’，而非‘温室气体排放总量’",
+      "sentence": "To reduce your **carbon footprint**, you can take public transport instead of driving a car every day.",
+      "options": {
+        "option": [
+          {
+            "definition": "（个人或组织的）碳足迹（指温室气体排放总量）",
+            "iscorrect": true
+          },
+          {
+            "definition": "碳的物理脚印（如煤炭或碳材料上的脚印）",
+            "iscorrect": false
+          },
+          {
+            "definition": "碳的分布痕迹（如环境中碳元素的残留轨迹）",
+            "iscorrect": false
+          },
+          {
+            "definition": "碳小路（如运输碳的道路）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

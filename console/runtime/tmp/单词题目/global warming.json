@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "global warming",
+      "error_analysis": "学生易因“warming”与形近词“warning”混淆误判为“全球警告”，或因字面直译为“全球的温暖”而忽略其作为全球气候变暖的特定含义。",
+      "sentence": "The report states that **global warming** has led to a 1.1°C increase in average global temperatures since the pre-industrial era.",
+      "options": {
+        "option": [
+          {
+            "definition": "全球气候变暖（指地球大气和海洋温度持续上升的环境问题）",
+            "iscorrect": true
+          },
+          {
+            "definition": "全球警告（指针对全球问题的警示）",
+            "iscorrect": false
+          },
+          {
+            "definition": "全球的温暖（指全球范围内的温暖状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "全球的荣耀（指全球范围内的荣誉）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

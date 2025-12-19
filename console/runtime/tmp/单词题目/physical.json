@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "physical",
+      "error_analysis": "学生易因形近词“physics”（物理）将“physical”误判为“物理的”，或因词根“phys-”（自然）误解为“自然的”。",
+      "sentence": "Regular **physical** activity is essential for maintaining good health.",
+      "options": {
+        "option": [
+          {
+            "definition": "身体的；体力的",
+            "iscorrect": true
+          },
+          {
+            "definition": "物理的",
+            "iscorrect": false
+          },
+          {
+            "definition": "自然的",
+            "iscorrect": false
+          },
+          {
+            "definition": "心理的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

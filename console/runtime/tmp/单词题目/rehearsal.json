@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rehearsal",
+      "error_analysis": "中国学生易因形近词\"reception\"（接待）混淆，或错误拆分词根认为与\"听\"有关，误判为\"听力练习\"。",
+      "sentence": "The cast spent the whole afternoon on the **rehearsal** for tomorrow's play to make sure everything goes smoothly.",
+      "options": {
+        "option": [
+          {
+            "definition": "排练；彩排",
+            "iscorrect": true
+          },
+          {
+            "definition": "接待；接收",
+            "iscorrect": false
+          },
+          {
+            "definition": "听力练习；重听",
+            "iscorrect": false
+          },
+          {
+            "definition": "复习；温习",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "agonizing",
+      "error_analysis": "学生易因形近词`amazing`（令人惊讶的）产生混淆，或因词根`agon`（斗争）误判为“激烈的”。",
+      "sentence": "Waiting for the test results was an **agonizing** experience—every minute felt like an hour.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人极度痛苦的",
+            "iscorrect": true
+          },
+          {
+            "definition": "令人惊讶的",
+            "iscorrect": false
+          },
+          {
+            "definition": "激烈的；紧张的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人困惑的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

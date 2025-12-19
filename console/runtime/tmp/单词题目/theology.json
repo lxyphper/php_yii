@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "theology",
+      "error_analysis": "学生易因形近词“theory”（理论）混淆“theology”的意思，或因词根误解将其误视为“上帝的话语”。",
+      "sentence": "She decided to pursue a degree in **theology** to explore her faith and understand religious doctrines better.",
+      "options": {
+        "option": [
+          {
+            "definition": "理论",
+            "iscorrect": false
+          },
+          {
+            "definition": "上帝的话语",
+            "iscorrect": false
+          },
+          {
+            "definition": "神学（关于上帝和宗教信仰的学术研究）",
+            "iscorrect": true
+          },
+          {
+            "definition": "宗教仪式",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

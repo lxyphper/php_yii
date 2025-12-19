@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "foot",
+      "error_analysis": "中国学生易因形近词“food”（食物）的拼写相似而误将“foot”理解为“食物”",
+      "sentence": "He hurt his **foot** while playing football yesterday.",
+      "options": {
+        "option": [
+          {
+            "definition": "脚",
+            "iscorrect": true
+          },
+          {
+            "definition": "食物",
+            "iscorrect": false
+          },
+          {
+            "definition": "傻瓜",
+            "iscorrect": false
+          },
+          {
+            "definition": "腿",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

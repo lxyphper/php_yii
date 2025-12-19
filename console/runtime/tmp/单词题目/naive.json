@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "naive",
+      "error_analysis": "中国学生易因形近词\"native\"误解为\"本土的\"，或因词根联想错误认为是\"自然的\"",
+      "sentence": "She was so **naive** that she believed everything the stranger told her about his \"magic\" stone.",
+      "options": {
+        "option": [
+          {
+            "definition": "天真的；幼稚的",
+            "iscorrect": true
+          },
+          {
+            "definition": "本土的；本国的",
+            "iscorrect": false
+          },
+          {
+            "definition": "自然的；天然的",
+            "iscorrect": false
+          },
+          {
+            "definition": "新颖的；新奇的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "event",
+      "error_analysis": "中国学生易因形近词‘even’（甚至）‘ever’（曾经）或‘vent’（通风口）字面误导，将‘event’误解为‘甚至的事’‘曾经的事’或‘出风口’。",
+      "sentence": "The concert next week is the biggest **event** in our town this year.",
+      "options": {
+        "option": [
+          {
+            "definition": "事件；活动",
+            "iscorrect": true
+          },
+          {
+            "definition": "甚至的事",
+            "iscorrect": false
+          },
+          {
+            "definition": "出风口",
+            "iscorrect": false
+          },
+          {
+            "definition": "曾经的事",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

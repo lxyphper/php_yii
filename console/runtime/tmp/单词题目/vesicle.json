@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "vesicle",
+      "error_analysis": "易因形近混淆\"vehicle\"(车辆)，或误联想\"vessel\"(血管/容器)的含义",
+      "sentence": "After the minor burn, a tiny **vesicle** filled with fluid appeared on his finger.",
+      "options": {
+        "option": [
+          {
+            "definition": "（细胞内的）囊泡；（皮肤表面的）水疱",
+            "iscorrect": true
+          },
+          {
+            "definition": "车辆；交通工具",
+            "iscorrect": false
+          },
+          {
+            "definition": "血管；容器；船",
+            "iscorrect": false
+          },
+          {
+            "definition": "视觉信号；可见标记",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

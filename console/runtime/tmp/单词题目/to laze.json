@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to laze",
+      "error_analysis": "因形近词\"lazy\"(懒惰的)误导，易将\"to laze\"误解为\"变得懒惰\"，忽略其\"懒散度日\"的核心动作义。",
+      "sentence": "On sunny afternoons, my cat loves to **laze** on the windowsill and watch birds.",
+      "options": {
+        "option": [
+          {
+            "definition": "懒散地度过时间；闲逛",
+            "iscorrect": true
+          },
+          {
+            "definition": "变得懒惰",
+            "iscorrect": false
+          },
+          {
+            "definition": "躺着睡觉",
+            "iscorrect": false
+          },
+          {
+            "definition": "努力追逐",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

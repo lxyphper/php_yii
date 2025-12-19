@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "firewall",
+      "error_analysis": "学生易将“firewall”按“fire+wall”字面直译为物理意义的“防火的墙”，忽略其常见的计算机网络“防火墙”含义。",
+      "sentence": "To protect their data, the company installed a **firewall** to block unauthorized access to its network.",
+      "options": {
+        "option": [
+          {
+            "definition": "（计算机网络的）防火墙",
+            "iscorrect": true
+          },
+          {
+            "definition": "防火的墙（物理意义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "火墙（字面直译）",
+            "iscorrect": false
+          },
+          {
+            "definition": "烟花（firework的混淆）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

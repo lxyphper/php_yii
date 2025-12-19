@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "assessment",
+      "error_analysis": "学生易因形近词\"assistant\"（助手）或与\"assign\"（分配）混淆，将\"assessment\"误判为\"助手\"或\"分配\"。",
+      "sentence": "Before making a decision, the company needs to complete a thorough **assessment** of the market.",
+      "options": {
+        "option": [
+          {
+            "definition": "助手",
+            "iscorrect": false
+          },
+          {
+            "definition": "评估；评价",
+            "iscorrect": true
+          },
+          {
+            "definition": "分配；任务",
+            "iscorrect": false
+          },
+          {
+            "definition": "断言；主张",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

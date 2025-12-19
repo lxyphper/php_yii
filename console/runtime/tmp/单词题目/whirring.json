@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "whirring",
+      "error_analysis": "学生易因形近词\"whisper\"（低语）联想到轻声，或因拟声感误判为翅膀拍动声，而非机器/风扇的旋转嗡嗡声。",
+      "sentence": "As I walked into the old workshop, I heard the faint **whirring** of a distant lathe, mixing with the smell of oil and metal.",
+      "options": {
+        "option": [
+          {
+            "definition": "（机器、风扇等的）嗡嗡旋转声",
+            "iscorrect": true
+          },
+          {
+            "definition": "轻声低语",
+            "iscorrect": false
+          },
+          {
+            "definition": "翅膀快速拍动的声音",
+            "iscorrect": false
+          },
+          {
+            "definition": "尖锐的鸣叫声",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

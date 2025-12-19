@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "constitutionalism",
+      "error_analysis": "学生易混淆形近词“constitutionality”（合宪性）与“constitutionalism”（宪政主义），或因词根过度直译误解为“宪法的原则”",
+      "sentence": "Many democracies around the world embrace **constitutionalism** as a way to prevent abuse of power by the state.",
+      "options": {
+        "option": [
+          {
+            "definition": "宪政主义（主张通过宪法限制政府权力的思想或制度）",
+            "iscorrect": true
+          },
+          {
+            "definition": "合宪性（符合宪法的性质或状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "宪法的原则（宪法所规定的基本准则）",
+            "iscorrect": false
+          },
+          {
+            "definition": "制度主义（强调制度在社会中的作用的思想）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

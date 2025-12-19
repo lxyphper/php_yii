@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ordinance",
+      "error_analysis": "学生易因形近词\"ordinary\"（普通的）误解为\"普通事物\"，或因词根\"ordin-\"（顺序）误判为\"顺序安排\"",
+      "sentence": "The city council passed a new **ordinance** banning smoking in all public parks to improve air quality.",
+      "options": {
+        "option": [
+          {
+            "definition": "法令；条例",
+            "iscorrect": true
+          },
+          {
+            "definition": "普通的事物；平凡的东西",
+            "iscorrect": false
+          },
+          {
+            "definition": "顺序安排；组织规则",
+            "iscorrect": false
+          },
+          {
+            "definition": "圣职任命；授职仪式",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

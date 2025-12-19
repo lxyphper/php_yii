@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nausea",
+      "error_analysis": "因拼写与\"naughty\"（调皮的）相近而误判为\"调皮的\"，或因词根不熟悉而误判为\"焦虑\"或\"疲劳\"等无关含义",
+      "sentence": "The strong smell of the medicine triggered a sudden onset of **nausea** in the child.",
+      "options": {
+        "option": [
+          {
+            "definition": "调皮的",
+            "iscorrect": false
+          },
+          {
+            "definition": "焦虑",
+            "iscorrect": false
+          },
+          {
+            "definition": "恶心；作呕",
+            "iscorrect": true
+          },
+          {
+            "definition": "疲劳",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

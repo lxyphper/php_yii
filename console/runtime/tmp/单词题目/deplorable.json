@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "deplorable",
+      "error_analysis": "学生易因形近词“adorable”（可爱的）产生错误联想，将“deplorable”误判为褒义。",
+      "sentence": "The conditions in the old factory were **deplorable**—no running water, broken windows, and rats everywhere.",
+      "options": {
+        "option": [
+          {
+            "definition": "可爱的；讨人喜欢的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可悲的；糟糕的",
+            "iscorrect": true
+          },
+          {
+            "definition": "令人沮丧的；消沉的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可鄙的；卑劣的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

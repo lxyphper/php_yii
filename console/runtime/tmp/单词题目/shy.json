@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "shy",
+      "error_analysis": "中国学生易混淆形近词\"sky\"（天空）与\"shy\"，或误将\"shy\"与\"shrink\"（收缩）联系导致理解错误。",
+      "sentence": "The little girl felt **shy** when she met new people for the first time.",
+      "options": {
+        "option": [
+          {
+            "definition": "害羞的（adj. 腼腆的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "天空（n. 天空）",
+            "iscorrect": false
+          },
+          {
+            "definition": "收缩的（adj. 缩小的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "狡猾的（adj. 狡诈的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

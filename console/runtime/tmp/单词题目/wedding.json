@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wedding",
+      "error_analysis": "学生易因形近词\"weeding\"(除草)产生误解，或误将\"ding\"联想为\"叮当声\"。",
+      "sentence": "They are busy preparing for their **wedding**—they’ve booked the church and ordered the cake.",
+      "options": {
+        "option": [
+          {
+            "definition": "婚礼（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "除草（活动）",
+            "iscorrect": false
+          },
+          {
+            "definition": "叮当声（拟声词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "漫步（动作）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

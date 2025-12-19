@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "burdensome",
+      "error_analysis": "中国学生易因“burdensome”与“handsome”形近（-some结尾）误联想为“英俊的”，或因词根“burden”+“-some”（误作“一些”）错解为“一些负担”。",
+      "sentence": "Carrying all those books was too **burdensome** for the little girl.",
+      "options": {
+        "option": [
+          {
+            "definition": "繁重的；麻烦的",
+            "iscorrect": true
+          },
+          {
+            "definition": "英俊的",
+            "iscorrect": false
+          },
+          {
+            "definition": "一些负担",
+            "iscorrect": false
+          },
+          {
+            "definition": "有负担的（指人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

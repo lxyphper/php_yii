@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "barrister",
+      "error_analysis": "学生易因形近词\"barista\"(咖啡师)产生混淆，或因\"bar\"词根联想错误理解为\"酒吧工作人员\"",
+      "sentence": "The accused decided to hire a renowned **barrister** to defend him in the upcoming High Court trial.",
+      "options": {
+        "option": [
+          {
+            "definition": "（英国的）大律师（有资格在高等法院出庭辩护）",
+            "iscorrect": true
+          },
+          {
+            "definition": "咖啡师（制作并售卖咖啡的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "酒吧服务员（在酒吧工作的服务人员）",
+            "iscorrect": false
+          },
+          {
+            "definition": "法律顾问（提供法律建议的专业人员）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

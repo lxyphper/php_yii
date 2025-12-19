@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to prattle",
+      "error_analysis": "学生易因形近词\"rattle\"（发出咔嗒声；慌乱）误解为\"发出声音或慌乱地说\"，或误以为是\"快速大声说\"，忽略\"闲聊无关紧要内容\"的核心义",
+      "sentence": "The little girl would **prattle** on about her dolls for hours, not noticing that no one was listening.",
+      "options": {
+        "option": [
+          {
+            "definition": "闲聊，喋喋不休（尤指说无关紧要的话）",
+            "iscorrect": true
+          },
+          {
+            "definition": "发出咔嗒声；慌乱地说",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速且大声地说话",
+            "iscorrect": false
+          },
+          {
+            "definition": "真诚地祈祷",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

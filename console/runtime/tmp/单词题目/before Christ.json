@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "before Christ",
+      "error_analysis": "学生易混淆“Christ”与“Christmas”误判为“圣诞节前”，或因字面直译“基督之前”而忽略“公元前”的常用义",
+      "sentence": "The Great Wall of China was first built around 770 **before Christ**.",
+      "options": {
+        "option": [
+          {
+            "definition": "圣诞节前",
+            "iscorrect": false
+          },
+          {
+            "definition": "基督之前",
+            "iscorrect": false
+          },
+          {
+            "definition": "在基督面前",
+            "iscorrect": false
+          },
+          {
+            "definition": "公元前",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

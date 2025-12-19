@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rhythm",
+      "error_analysis": "易因形近词“rhyme”（押韵）混淆，或误将“rhythm”核心义“节奏”误解为“旋律”等相关概念",
+      "sentence": "The drummer kept a steady **rhythm** that made everyone want to dance.",
+      "options": {
+        "option": [
+          {
+            "definition": "节奏",
+            "iscorrect": true
+          },
+          {
+            "definition": "押韵",
+            "iscorrect": false
+          },
+          {
+            "definition": "旋律",
+            "iscorrect": false
+          },
+          {
+            "definition": "速度",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

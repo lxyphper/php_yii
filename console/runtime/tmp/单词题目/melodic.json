@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "melodic",
+      "error_analysis": "学生易因形近词\"melancholic\"（忧郁的）或词根联想\"melodrama\"（情节剧）将\"melodic\"误判为\"忧郁的\"或\"有情节的\"",
+      "sentence": "The singer's **melodic** voice filled the room, making everyone feel relaxed.",
+      "options": {
+        "option": [
+          {
+            "definition": "旋律的；悦耳的",
+            "iscorrect": true
+          },
+          {
+            "definition": "忧郁的；闷闷不乐的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有情节的；戏剧性的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有节奏的；节拍明显的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

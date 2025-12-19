@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "size",
+      "error_analysis": "中国学生易将“size”（大小）与形近词“site”（地点）、“side”（边）混淆，或误联想为发音相近的“sigh”（叹气）",
+      "sentence": "Can you tell me the **size** of your shoes? I need to buy a pair as a gift.",
+      "options": {
+        "option": [
+          {
+            "definition": "大小；尺寸",
+            "iscorrect": true
+          },
+          {
+            "definition": "地点；场所",
+            "iscorrect": false
+          },
+          {
+            "definition": "边；侧面",
+            "iscorrect": false
+          },
+          {
+            "definition": "叹气；叹息",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

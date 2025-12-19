@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "statistic",
+      "error_analysis": "中国学生易因形近词（如statue/静态的static）或词根（stat-表状态）误导，将statistic误判为“雕像”“静态的事物”或“状态报告”。",
+      "sentence": "The report includes a key **statistic** showing that 70% of students prefer online learning.",
+      "options": {
+        "option": [
+          {
+            "definition": "雕像",
+            "iscorrect": false
+          },
+          {
+            "definition": "静态的事物",
+            "iscorrect": false
+          },
+          {
+            "definition": "统计数据",
+            "iscorrect": true
+          },
+          {
+            "definition": "状态报告",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

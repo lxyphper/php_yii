@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to look",
+      "error_analysis": "中国学生易将系动词用法的“look”误解为动作动词“看”，或因形近词“lock”（锁）产生错误联想",
+      "sentence": "The cake **looks** delicious. I can't wait to try it.",
+      "options": {
+        "option": [
+          {
+            "definition": "看起来",
+            "iscorrect": true
+          },
+          {
+            "definition": "锁（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "看；观看",
+            "iscorrect": false
+          },
+          {
+            "definition": "尝起来",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

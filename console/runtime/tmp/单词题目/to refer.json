@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to refer",
+      "error_analysis": "学生易因形近词prefer（更喜欢）混淆，或因词根re-+fer错误推导为“带回来”",
+      "sentence": "When writing the essay, please **refer** to the notes you took in class for accurate information.",
+      "options": {
+        "option": [
+          {
+            "definition": "提及；参考",
+            "iscorrect": true
+          },
+          {
+            "definition": "更喜欢",
+            "iscorrect": false
+          },
+          {
+            "definition": "带回来；返回",
+            "iscorrect": false
+          },
+          {
+            "definition": "依赖；依靠",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

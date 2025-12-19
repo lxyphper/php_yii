@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "grueling",
+      "error_analysis": "学生易因形近词\"grill\"(拷问)或\"gruesome\"(可怕的)误将\"grueling\"理解为\"令人恐惧的\"或\"严厉拷问的\"",
+      "sentence": "After a **grueling** 12-hour hike up the steep mountain, all the climbers collapsed onto the ground, too exhausted to even drink water.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人精疲力竭的",
+            "iscorrect": true
+          },
+          {
+            "definition": "令人恐惧的",
+            "iscorrect": false
+          },
+          {
+            "definition": "严厉拷问的",
+            "iscorrect": false
+          },
+          {
+            "definition": "逐渐增长的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

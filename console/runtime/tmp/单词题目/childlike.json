@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "childlike",
+      "error_analysis": "易混淆childlike（褒义，天真）与childish（贬义，幼稚），或因词根like直接联想为“像孩子的”而忽略感情色彩",
+      "sentence": "Her **childlike** wonder at the rainbow made everyone smile—it was so pure and infectious.",
+      "options": {
+        "option": [
+          {
+            "definition": "天真无邪的（褒义）",
+            "iscorrect": true
+          },
+          {
+            "definition": "幼稚可笑的（贬义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "像孩子的（中性，未区分褒贬）",
+            "iscorrect": false
+          },
+          {
+            "definition": "童年的（与“childhood”混淆）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

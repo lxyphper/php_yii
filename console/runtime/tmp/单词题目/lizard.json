@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lizard",
+      "error_analysis": "学生可能因“lizard”与基础词汇“list”（列表）拼写接近或拆分词根（如“ard”表示人）而产生混淆",
+      "sentence": "The child pointed at a **lizard** crawling on the wall and asked, \"What's that?\"",
+      "options": {
+        "option": [
+          {
+            "definition": "蜥蜴",
+            "iscorrect": true
+          },
+          {
+            "definition": "列表",
+            "iscorrect": false
+          },
+          {
+            "definition": "名叫 Liz 的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "懒散的动物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

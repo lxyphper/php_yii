@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "deer",
+      "error_analysis": "学生易因形近词'dear'（亲爱的）混淆，将'deer'误判为'亲爱的'或相关含义",
+      "sentence": "We saw a **deer** drinking water by the stream during our hike in the forest.",
+      "options": {
+        "option": [
+          {
+            "definition": "鹿",
+            "iscorrect": true
+          },
+          {
+            "definition": "亲爱的（人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "恐惧",
+            "iscorrect": false
+          },
+          {
+            "definition": "啤酒",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

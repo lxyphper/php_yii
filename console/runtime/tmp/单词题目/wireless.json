@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wireless",
+      "error_analysis": "学生易因\"wire\"词根混淆\"wireless\"与\"wired\"（有线的），或直译为\"没有电线的\"而忽略其\"无线技术/设备\"的核心义。",
+      "sentence": "She uses **wireless** earphones to listen to music while running so she doesn’t get tangled in cords.",
+      "options": {
+        "option": [
+          {
+            "definition": "无线的（指无需电线连接的技术或设备）",
+            "iscorrect": true
+          },
+          {
+            "definition": "有线的",
+            "iscorrect": false
+          },
+          {
+            "definition": "没有电线的",
+            "iscorrect": false
+          },
+          {
+            "definition": "金属线制成的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

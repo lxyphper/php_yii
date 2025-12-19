@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "influential",
+      "error_analysis": "混淆形近词“fluent”（流利的）或词根误猜为“流入的/流动的”",
+      "sentence": "Her **influential** blog posts have changed many people's views on environmental issues.",
+      "options": {
+        "option": [
+          {
+            "definition": "流利的",
+            "iscorrect": false
+          },
+          {
+            "definition": "流入的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有影响力的",
+            "iscorrect": true
+          },
+          {
+            "definition": "流动的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

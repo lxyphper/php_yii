@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "versatile",
+      "error_analysis": "学生易因形近词\"various\"（各种各样的）混淆词义，或因词根\"vers-\"（转）误判为\"易变的\"。",
+      "sentence": "She is a **versatile** artist who can paint, sing, and dance equally well.",
+      "options": {
+        "option": [
+          {
+            "definition": "各种各样的",
+            "iscorrect": false
+          },
+          {
+            "definition": "易变的；多变的",
+            "iscorrect": false
+          },
+          {
+            "definition": "多才多艺的；多功能的",
+            "iscorrect": true
+          },
+          {
+            "definition": "垂直的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "behind",
+      "error_analysis": "中国学生易混淆形近词“beyond”（超过；在...那一边）与“behind”（在...后面），或误将“behind”联想为“隐藏在...后面”（受“hide”字面误导）",
+      "sentence": "The little girl stood **behind** her mother, holding her hand tightly.",
+      "options": {
+        "option": [
+          {
+            "definition": "在...后面（位置上）",
+            "iscorrect": true
+          },
+          {
+            "definition": "超过；在...那一边",
+            "iscorrect": false
+          },
+          {
+            "definition": "隐藏在...后面",
+            "iscorrect": false
+          },
+          {
+            "definition": "在...前面",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

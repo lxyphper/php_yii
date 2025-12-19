@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "antibody",
+      "error_analysis": "学生易因形近词\"antibiotic\"（抗生素）混淆，或因\"anti-+body\"字面误导误判为\"抗病原体的药物\"。",
+      "sentence": "When you get vaccinated, your body produces **antibodies** to fight off future infections caused by the same virus.",
+      "options": {
+        "option": [
+          {
+            "definition": "抗生素（用于杀死细菌的药物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "抗毒素的药物（用于中和毒素的物质）",
+            "iscorrect": false
+          },
+          {
+            "definition": "防止昆虫叮咬的药膏（用于驱赶蚂蚁等昆虫的产品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "抗体（身体产生的对抗病原体的蛋白质）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

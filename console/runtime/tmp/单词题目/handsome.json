@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "handsome",
+      "error_analysis": "学生易因\"hand\"词根联想或形近词\"handy\"（手巧的）混淆，错误认为\"handsome\"与\"手的技能\"相关",
+      "sentence": "The actor playing the prince in the movie is a **handsome** man with blue eyes and dark hair.",
+      "options": {
+        "option": [
+          {
+            "definition": "英俊的",
+            "iscorrect": true
+          },
+          {
+            "definition": "手巧的",
+            "iscorrect": false
+          },
+          {
+            "definition": "方便的",
+            "iscorrect": false
+          },
+          {
+            "definition": "一些的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

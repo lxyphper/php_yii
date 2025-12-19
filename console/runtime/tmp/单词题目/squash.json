@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "squash",
+      "error_analysis": "学生易因形近词“squat”（蹲）或“quash”（撤销）将名词“squash”误判为“蹲”或“撤销”，或因混淆“squash”（壁球）与“pumpkin”（南瓜）误判为“南瓜”",
+      "sentence": "My brother practices **squash** every evening and hopes to join the national team someday.",
+      "options": {
+        "option": [
+          {
+            "definition": "南瓜",
+            "iscorrect": false
+          },
+          {
+            "definition": "蹲",
+            "iscorrect": false
+          },
+          {
+            "definition": "撤销",
+            "iscorrect": false
+          },
+          {
+            "definition": "壁球（运动）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

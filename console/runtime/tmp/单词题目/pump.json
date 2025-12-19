@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pump",
+      "error_analysis": "学生易因形近词\"punch\"（拳打）混淆\"pump\"的核心词义（泵/用泵抽取）",
+      "sentence": "The farmer used a **pump** to get water from the deep well.",
+      "options": {
+        "option": [
+          {
+            "definition": "拳打（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "南瓜（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "泵（名词）；用泵抽取（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "跳跃（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

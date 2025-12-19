@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "binge",
+      "error_analysis": "学生易因与“begin”（开始）或“bring”（带来）形近，将“binge”误理解为“开始”或“带来”。",
+      "sentence": "After finishing their final exams, the students decided to **binge** on their favorite TV series all weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "狂饮；暴食；（长时间大量）狂欢作乐",
+            "iscorrect": true
+          },
+          {
+            "definition": "开始",
+            "iscorrect": false
+          },
+          {
+            "definition": "带来",
+            "iscorrect": false
+          },
+          {
+            "definition": "装箱",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "appalling",
+      "error_analysis": "易混淆形近词\"appealing\"(吸引人的)，或误由词根联想为\"乏味的\"(如pall的\"乏味\"义)",
+      "sentence": "The news of the accident with 20 casualties was absolutely **appalling** to everyone in the community.",
+      "options": {
+        "option": [
+          {
+            "definition": "吸引人的；令人心动的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人震惊的；可怕的",
+            "iscorrect": true
+          },
+          {
+            "definition": "乏味的；无聊的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人困惑的；难懂的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

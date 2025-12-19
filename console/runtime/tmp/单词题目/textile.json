@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "textile",
+      "error_analysis": "将textile误判为与“文本”相关的词（因形近于text）",
+      "sentence": "The local market sells a variety of **textiles**, including silk scarves and cotton blankets.",
+      "options": {
+        "option": [
+          {
+            "definition": "纺织品；织物",
+            "iscorrect": true
+          },
+          {
+            "definition": "文本；课文",
+            "iscorrect": false
+          },
+          {
+            "definition": "文本编辑软件",
+            "iscorrect": false
+          },
+          {
+            "definition": "质地；纹理",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

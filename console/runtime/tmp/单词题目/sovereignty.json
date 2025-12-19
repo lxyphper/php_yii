@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sovereignty",
+      "error_analysis": "中国学生易因形近词“royalty”（皇室）或词根“sovereign”（君主）推导错误，误将“sovereignty”理解为“皇室”或“君主制”。",
+      "sentence": "The country insisted on its **sovereignty** over the disputed islands, refusing any external interference.",
+      "options": {
+        "option": [
+          {
+            "definition": "主权（国家的最高权力）",
+            "iscorrect": true
+          },
+          {
+            "definition": "皇室",
+            "iscorrect": false
+          },
+          {
+            "definition": "君主制",
+            "iscorrect": false
+          },
+          {
+            "definition": "统治权",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

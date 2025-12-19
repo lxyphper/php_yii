@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "renewable resource",
+      "error_analysis": "学生易因“renewable”与形近词“renowned”（著名的）或“reasonable”（合理的）混淆，或因“renew”（更新）词根过度直译误解为“需要更新的资源”。",
+      "sentence": "Solar energy is a typical **renewable resource** that will never run out as long as the sun shines.",
+      "options": {
+        "option": [
+          {
+            "definition": "可再生资源",
+            "iscorrect": true
+          },
+          {
+            "definition": "著名的资源",
+            "iscorrect": false
+          },
+          {
+            "definition": "需要更新的资源",
+            "iscorrect": false
+          },
+          {
+            "definition": "合理的资源",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to slice",
+      "error_analysis": "中国学生易因形近词\"slip\"(滑)或字面拆解\"slice\"中的\"ice\"(冰)，误将\"to slice\"理解为\"滑动\"或\"加冰\"",
+      "sentence": "She **sliced** the fresh bread into thin pieces to make sandwiches.",
+      "options": {
+        "option": [
+          {
+            "definition": "切薄片；切片",
+            "iscorrect": true
+          },
+          {
+            "definition": "滑动；滑倒",
+            "iscorrect": false
+          },
+          {
+            "definition": "加冰；冰镇",
+            "iscorrect": false
+          },
+          {
+            "definition": "砍；劈",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

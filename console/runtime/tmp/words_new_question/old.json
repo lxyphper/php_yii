@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "old",
+      "error_analysis": "学生易因形近词“cold”（冷）的干扰，将“old”误判为“冷的”",
+      "sentence": "The **old** man sat on the bench and watched the children play.",
+      "options": {
+        "option": [
+          {
+            "definition": "年老的",
+            "iscorrect": true
+          },
+          {
+            "definition": "冷的",
+            "iscorrect": false
+          },
+          {
+            "definition": "持有",
+            "iscorrect": false
+          },
+          {
+            "definition": "新的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

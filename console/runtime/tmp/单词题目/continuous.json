@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "continuous",
+      "error_analysis": "学生易因联想到\"continue\"（继续）而错误理解为\"继续的\"，忽略其\"连续的（无中断）\"的核心含义",
+      "sentence": "The **continuous** rain for three days caused flooding in the low-lying areas.",
+      "options": {
+        "option": [
+          {
+            "definition": "连续的（无中断的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "继续的（指动作未停止）",
+            "iscorrect": false
+          },
+          {
+            "definition": "频繁的（有间断的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "共同维持的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

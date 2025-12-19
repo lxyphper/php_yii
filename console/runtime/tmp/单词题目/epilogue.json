@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "epilogue",
+      "error_analysis": "学生易将epilogue与形近词prologue（序言）混淆，或因词根误解为“开头部分”",
+      "sentence": "After reading the last chapter of the book, Mary turned the page and found an **epilogue** that told the fate of the protagonist in her old age.",
+      "options": {
+        "option": [
+          {
+            "definition": "（书或戏剧的）序言",
+            "iscorrect": false
+          },
+          {
+            "definition": "（书的）中间章节",
+            "iscorrect": false
+          },
+          {
+            "definition": "（电视的）单集片段",
+            "iscorrect": false
+          },
+          {
+            "definition": "（书或戏剧的）尾声，跋",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

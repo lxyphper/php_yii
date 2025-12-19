@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "set piece",
+      "error_analysis": "学生易将\"set piece\"直译为\"组装部件\"或\"固定装置\"，忽略其\"预先安排的精彩场面/固定套路环节\"的引申义",
+      "sentence": "The movie’s most memorable scene is a **set piece** where the protagonist escapes from a burning skyscraper using a helicopter.",
+      "options": {
+        "option": [
+          {
+            "definition": "预先安排的精彩场面（如电影、比赛中的固定套路环节）",
+            "iscorrect": true
+          },
+          {
+            "definition": "组装部件；成套零件",
+            "iscorrect": false
+          },
+          {
+            "definition": "固定装置；静态展品",
+            "iscorrect": false
+          },
+          {
+            "definition": "设定的片段（如故事中的背景设定）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

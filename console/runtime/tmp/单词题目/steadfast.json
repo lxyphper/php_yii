@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "steadfast",
+      "error_analysis": "中国学生易因形近词\"steady\"（稳定的）误解为\"稳定的\"，或拆分词根\"stead\"（代替）+\"fast\"（快）错误理解为\"快速代替的\"",
+      "sentence": "Despite facing repeated setbacks, she remained **steadfast** in her belief that hard work would pay off.",
+      "options": {
+        "option": [
+          {
+            "definition": "坚定的；不动摇的",
+            "iscorrect": true
+          },
+          {
+            "definition": "稳定的；持续的",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速代替的；及时替换的",
+            "iscorrect": false
+          },
+          {
+            "definition": "牢固的；紧的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

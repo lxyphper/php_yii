@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "balance",
+      "error_analysis": "学生易因形近词“ball”（球）干扰或对“平衡”意思的过度固化，忽略“balance”的“余额”常见含义。",
+      "sentence": "After paying the rent, his bank **balance** was lower than expected.",
+      "options": {
+        "option": [
+          {
+            "definition": "余额（银行账户中的钱数）",
+            "iscorrect": true
+          },
+          {
+            "definition": "平衡（物体保持稳定的状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "球（圆形的物体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "剩余物（未被使用的部分）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

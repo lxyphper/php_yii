@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "camera",
+      "error_analysis": "中国学生易因形近词混淆，将“camera”误判为“campus”（校园）或“camel”（骆驼）等词的含义",
+      "sentence": "She took out her **camera** to capture the stunning view of the mountains.",
+      "options": {
+        "option": [
+          {
+            "definition": "相机",
+            "iscorrect": true
+          },
+          {
+            "definition": "校园",
+            "iscorrect": false
+          },
+          {
+            "definition": "骆驼",
+            "iscorrect": false
+          },
+          {
+            "definition": "露营",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

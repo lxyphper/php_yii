@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "square",
+      "error_analysis": "学生易因形近词（如'squat'蹲、'squirrel'松鼠）混淆，或词根误导认为指'四边形'而非'正方形'。",
+      "sentence": "Please draw a **square** with a side length of 5 centimeters on the whiteboard.",
+      "options": {
+        "option": [
+          {
+            "definition": "蹲（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "松鼠（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "正方形（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "四边形（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

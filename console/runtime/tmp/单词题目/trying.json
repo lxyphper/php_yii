@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "trying",
+      "error_analysis": "将形容词\"trying\"（令人厌烦的）误判为动名词\"尝试的\"（来自try的现在分词）",
+      "sentence": "After dealing with the noisy kids all day, she found it a **trying** experience.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人厌烦的；难对付的",
+            "iscorrect": true
+          },
+          {
+            "definition": "尝试的；试图的",
+            "iscorrect": false
+          },
+          {
+            "definition": "正在努力的；奋斗的",
+            "iscorrect": false
+          },
+          {
+            "definition": "试验性的；测试的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

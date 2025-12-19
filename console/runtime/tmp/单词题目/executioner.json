@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "executioner",
+      "error_analysis": "易混淆形近词“executive”（执行官）或词根误导为“执行者”，而非正确的“刽子手”",
+      "sentence": "The king ordered the **executioner** to carry out the death penalty on the convicted criminal.",
+      "options": {
+        "option": [
+          {
+            "definition": "执行官",
+            "iscorrect": false
+          },
+          {
+            "definition": "执行者",
+            "iscorrect": false
+          },
+          {
+            "definition": "刽子手",
+            "iscorrect": true
+          },
+          {
+            "definition": "遗嘱执行人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

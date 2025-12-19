@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "muscular",
+      "error_analysis": "易因形近词“musical”（音乐的）产生“与音乐相关”的错误联想，或误将“mus-”词根与“运动”过度关联。",
+      "sentence": "The athlete has a **muscular** build, which helps him perform well in weightlifting.",
+      "options": {
+        "option": [
+          {
+            "definition": "与音乐相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "与运动相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "肌肉的；肌肉发达的",
+            "iscorrect": true
+          },
+          {
+            "definition": "柔软的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

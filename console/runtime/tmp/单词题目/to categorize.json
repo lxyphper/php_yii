@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to categorize",
+      "error_analysis": "中国学生易因形近词“cater”（迎合）或词根“category”（类别）的过度直译，将“to categorize”误理解为“迎合”或“创造类别”而非“分类”。",
+      "sentence": "The librarian will **categorize** the new books by genre (fiction, non-fiction, etc.) so that readers can find what they want quickly.",
+      "options": {
+        "option": [
+          {
+            "definition": "分类",
+            "iscorrect": true
+          },
+          {
+            "definition": "迎合",
+            "iscorrect": false
+          },
+          {
+            "definition": "创造类别",
+            "iscorrect": false
+          },
+          {
+            "definition": "批评",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

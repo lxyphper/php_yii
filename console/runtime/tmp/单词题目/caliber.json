@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "caliber",
+      "error_analysis": "学生易因形近词“calendar”（日历）或词根原意（枪管直径）误解，将“caliber”错误理解为时间相关概念或具体尺寸",
+      "sentence": "The company only hires employees of high **caliber** to ensure quality service",
+      "options": {
+        "option": [
+          {
+            "definition": "（人的）能力，水平；（事物的）质量，水准",
+            "iscorrect": true
+          },
+          {
+            "definition": "日历",
+            "iscorrect": false
+          },
+          {
+            "definition": "（枪管的）直径",
+            "iscorrect": false
+          },
+          {
+            "definition": "卡路里",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

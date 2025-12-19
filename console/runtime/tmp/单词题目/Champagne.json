@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Champagne",
+      "error_analysis": "学生易因形近词“champion”（冠军）将“Champagne”误判为与“冠军”相关的含义",
+      "sentence": "They popped a bottle of **Champagne** to celebrate their wedding anniversary.",
+      "options": {
+        "option": [
+          {
+            "definition": "冠军",
+            "iscorrect": false
+          },
+          {
+            "definition": "平原",
+            "iscorrect": false
+          },
+          {
+            "definition": "香槟（酒）",
+            "iscorrect": true
+          },
+          {
+            "definition": "活动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

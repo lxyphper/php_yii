@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "supperhero",
+      "superhiro",
+      "superero",
+      "superrhero",
+      "superhera"
+    ],
+    "correct_chunks": [
+      "super",
+      "hero"
+    ],
+    "distractor_chunks": [
+      "supper",
+      "hiro",
+      "ero",
+      "superr",
+      "hera"
+    ]
+  },
+  0
+]

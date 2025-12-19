@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bad",
+      "error_analysis": "中国学生易因形近词“bed”（床）或“bag”（包）混淆“bad”的词义",
+      "sentence": "This milk tastes **bad**—you shouldn't drink it.",
+      "options": {
+        "option": [
+          {
+            "definition": "坏的；不好的",
+            "iscorrect": true
+          },
+          {
+            "definition": "床",
+            "iscorrect": false
+          },
+          {
+            "definition": "包",
+            "iscorrect": false
+          },
+          {
+            "definition": "坏地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

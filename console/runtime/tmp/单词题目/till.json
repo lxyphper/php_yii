@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "till",
+      "error_analysis": "学生容易将till（介词/连词，直到）与形近词（如will、fill）的含义混淆，或误理解为动词“耕种”。",
+      "sentence": "Please wait here **till** the rain stops.",
+      "options": {
+        "option": [
+          {
+            "definition": "将要",
+            "iscorrect": false
+          },
+          {
+            "definition": "填满",
+            "iscorrect": false
+          },
+          {
+            "definition": "耕种",
+            "iscorrect": false
+          },
+          {
+            "definition": "直到（某个时间点）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

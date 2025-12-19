@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "van",
+      "error_analysis": "学生易因形近词“fan”（风扇）的干扰，将“van”错误理解为“风扇”",
+      "sentence": "The delivery man loaded the boxes into the **van** and drove to the supermarket.",
+      "options": {
+        "option": [
+          {
+            "definition": "小型货车；客货车",
+            "iscorrect": true
+          },
+          {
+            "definition": "风扇",
+            "iscorrect": false
+          },
+          {
+            "definition": "徒劳的；无用的",
+            "iscorrect": false
+          },
+          {
+            "definition": "消失；绝迹",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

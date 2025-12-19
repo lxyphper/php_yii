@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bazooka",
+      "error_analysis": "学生易因形近词\"book\"（书）或直觉发音联想，将\"bazooka\"误判为\"书籍\"或\"乐器\"",
+      "sentence": "The soldier slung a **bazooka** over his shoulder, aiming at the approaching enemy tank.",
+      "options": {
+        "option": [
+          {
+            "definition": "火箭筒（一种便携式反坦克武器）",
+            "iscorrect": true
+          },
+          {
+            "definition": "书籍（大型或装订特殊的书）",
+            "iscorrect": false
+          },
+          {
+            "definition": "乐器（小型吹奏类管乐器）",
+            "iscorrect": false
+          },
+          {
+            "definition": "动物园设备（用于喂养动物的工具）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to reveal",
+      "error_analysis": "学生易因形近词\"rebel\"(反抗)混淆，或因\"veil\"(面纱)的字面联想误解为\"隐藏\"",
+      "sentence": "The investigation finally managed to **reveal** the truth about the accident.",
+      "options": {
+        "option": [
+          {
+            "definition": "揭示；显示",
+            "iscorrect": true
+          },
+          {
+            "definition": "反抗；反叛",
+            "iscorrect": false
+          },
+          {
+            "definition": "隐藏；掩盖",
+            "iscorrect": false
+          },
+          {
+            "definition": "重复；重申",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

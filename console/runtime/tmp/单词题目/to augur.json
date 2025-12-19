@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to augur",
+      "error_analysis": "将“augur”（预示）误判为“增加”（形近于“augment”）或“测量”（形近于“gauge”）",
+      "sentence": "The sudden drop in temperature and darkening sky **augur** a severe snowstorm tonight.",
+      "options": {
+        "option": [
+          {
+            "definition": "预示，预兆",
+            "iscorrect": true
+          },
+          {
+            "definition": "增加",
+            "iscorrect": false
+          },
+          {
+            "definition": "测量",
+            "iscorrect": false
+          },
+          {
+            "definition": "预测",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to succeed",
+      "error_analysis": "学生易因词根\"suc-（下/随后）+ceed（走）\"误解为\"跟随/继续\"，或因形近词\"proceed（继续进行）\"混淆词义。",
+      "sentence": "After years of hard work, she finally managed to **succeed** in her career as a doctor.",
+      "options": {
+        "option": [
+          {
+            "definition": "成功",
+            "iscorrect": true
+          },
+          {
+            "definition": "继续进行",
+            "iscorrect": false
+          },
+          {
+            "definition": "跟随其后",
+            "iscorrect": false
+          },
+          {
+            "definition": "继承",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

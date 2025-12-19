@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ambitious",
+      "error_analysis": "中国学生易混淆形近词ambiguous（模糊的）或误将ambitious理解为“困难的”（因语境中“宏大目标”的误导）",
+      "sentence": "The company has an **ambitious** goal to double its revenue within two years.",
+      "options": {
+        "option": [
+          {
+            "definition": "模糊的",
+            "iscorrect": false
+          },
+          {
+            "definition": "困难的",
+            "iscorrect": false
+          },
+          {
+            "definition": "努力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有野心的；雄心勃勃的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

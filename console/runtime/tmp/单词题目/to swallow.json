@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to swallow",
+      "error_analysis": "学生易因形近词swell（肿胀）/follow（跟随）误认，或因名词“燕子”误判为“飞翔”",
+      "sentence": "To take the pill, you need to **swallow** it with a sip of water.",
+      "options": {
+        "option": [
+          {
+            "definition": "吞咽",
+            "iscorrect": true
+          },
+          {
+            "definition": "肿胀",
+            "iscorrect": false
+          },
+          {
+            "definition": "飞翔",
+            "iscorrect": false
+          },
+          {
+            "definition": "跟随",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

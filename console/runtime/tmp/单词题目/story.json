@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "story",
+      "error_analysis": "易因形近词\"store\"(商店)混淆，或因熟悉\"故事\"的义项而忽略\"楼层\"的含义",
+      "sentence": "Our new apartment is on the second **story** of the building, so we have a nice view of the park.",
+      "options": {
+        "option": [
+          {
+            "definition": "商店",
+            "iscorrect": false
+          },
+          {
+            "definition": "故事",
+            "iscorrect": false
+          },
+          {
+            "definition": "楼层",
+            "iscorrect": true
+          },
+          {
+            "definition": "传说",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

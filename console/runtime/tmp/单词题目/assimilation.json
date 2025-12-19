@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "assimilation",
+      "error_analysis": "学生易因形近词\"simulation\"（模拟）或词根\"simil\"（像）误将\"assimilation\"理解为\"模拟\"或\"相似性\"。",
+      "sentence": "The **assimilation** of immigrants into the local culture often involves learning the language and adopting new customs.",
+      "options": {
+        "option": [
+          {
+            "definition": "同化（文化或语言等的融合过程）",
+            "iscorrect": true
+          },
+          {
+            "definition": "模拟（对某事物的模仿或复制）",
+            "iscorrect": false
+          },
+          {
+            "definition": "相似性（与另一事物的相像之处）",
+            "iscorrect": false
+          },
+          {
+            "definition": "积累（逐渐收集或增加的过程）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

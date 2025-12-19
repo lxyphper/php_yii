@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "customary",
+      "error_analysis": "中国学生易因形近词\"customer\"（顾客）误解为\"顾客的\"，或因词根\"custom\"（定制）误判为\"定制的\"",
+      "sentence": "In many cultures, it is **customary** to exchange gifts during the holiday season.",
+      "options": {
+        "option": [
+          {
+            "definition": "惯例的；习惯的",
+            "iscorrect": true
+          },
+          {
+            "definition": "顾客的；消费者的",
+            "iscorrect": false
+          },
+          {
+            "definition": "定制的；定做的",
+            "iscorrect": false
+          },
+          {
+            "definition": "传统的；古老的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

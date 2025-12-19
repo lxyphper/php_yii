@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "investment",
+      "error_analysis": "中国学生易因形近词\"invitation\"(邀请)混淆，或因\"vest\"的\"授予\"词根误导，将\"investment\"误理解为\"邀请\"或\"授予\"而非\"投资\"。",
+      "sentence": "Buying a house is often seen as a safe **investment** because its value usually increases over time.",
+      "options": {
+        "option": [
+          {
+            "definition": "邀请",
+            "iscorrect": false
+          },
+          {
+            "definition": "授予",
+            "iscorrect": false
+          },
+          {
+            "definition": "背心",
+            "iscorrect": false
+          },
+          {
+            "definition": "投资（为获取未来回报而投入的资金或资产）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

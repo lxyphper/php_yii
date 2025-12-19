@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gooey",
+      "error_analysis": "学生易将“gooey”与形近词“goofy”（愚蠢的）混淆，或因不熟悉词根“goo”（粘性物质）误猜为“坚硬的”。",
+      "sentence": "The chocolate cake was so **gooey** that it stuck to my fingers.",
+      "options": {
+        "option": [
+          {
+            "definition": "愚蠢的",
+            "iscorrect": false
+          },
+          {
+            "definition": "坚硬的",
+            "iscorrect": false
+          },
+          {
+            "definition": "软而黏的",
+            "iscorrect": true
+          },
+          {
+            "definition": "干燥的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

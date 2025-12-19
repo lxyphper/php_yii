@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mine",
+      "error_analysis": "学生易混淆“mine”的名词义“矿井”与代词义“我的”，或因形近误判为“九”（nine）。",
+      "sentence": "The villagers used to work in the coal **mine** before it shut down.",
+      "options": {
+        "option": [
+          {
+            "definition": "矿井",
+            "iscorrect": true
+          },
+          {
+            "definition": "九",
+            "iscorrect": false
+          },
+          {
+            "definition": "我的",
+            "iscorrect": false
+          },
+          {
+            "definition": "矿物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

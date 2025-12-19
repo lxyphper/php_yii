@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to disconnect",
+      "error_analysis": "中国学生易因形近词（如discard）或词根直译（\"不连接\"状态）而误解\"disconnect\"为\"丢弃\"或\"不连接\"（非动作）。",
+      "sentence": "If you want to switch to Wi-Fi, you need to **disconnect** from the mobile data first.",
+      "options": {
+        "option": [
+          {
+            "definition": "断开（设备、网络等的）连接",
+            "iscorrect": true
+          },
+          {
+            "definition": "丢弃；扔掉",
+            "iscorrect": false
+          },
+          {
+            "definition": "不连接（状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "停止；中止",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

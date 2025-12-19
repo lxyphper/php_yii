@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to switch off",
+      "error_analysis": "学生因“switch”的“切换/交换”义及“off”的“离开”义，易误解为“切换离开”或“交换关闭”，而非核心的“关闭（电器等）”。",
+      "sentence": "Don’t forget to **switch off** the oven after baking.",
+      "options": {
+        "option": [
+          {
+            "definition": "关闭（电器等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "切换离开（如停止关注）",
+            "iscorrect": false
+          },
+          {
+            "definition": "交换关闭",
+            "iscorrect": false
+          },
+          {
+            "definition": "滑动关闭",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

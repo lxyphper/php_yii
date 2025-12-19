@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mean",
+      "error_analysis": "学生易混淆形近词\"main\"(主要的)，或误将形容词\"mean\"理解为动词\"意思是\"的含义",
+      "sentence": "Her boss is so **mean** that he never gives her a day off even when she’s sick.",
+      "options": {
+        "option": [
+          {
+            "definition": "主要的",
+            "iscorrect": false
+          },
+          {
+            "definition": "意思是",
+            "iscorrect": false
+          },
+          {
+            "definition": "刻薄的；吝啬的",
+            "iscorrect": true
+          },
+          {
+            "definition": "平均的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

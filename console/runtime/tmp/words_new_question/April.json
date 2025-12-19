@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "April",
+      "error_analysis": "学生易因形近词\"apple\"（苹果）或\"apply\"（申请）的干扰，误判\"April\"的含义",
+      "sentence": "My birthday is in **April**, so I usually have a party with my friends then.",
+      "options": {
+        "option": [
+          {
+            "definition": "四月",
+            "iscorrect": true
+          },
+          {
+            "definition": "苹果",
+            "iscorrect": false
+          },
+          {
+            "definition": "申请",
+            "iscorrect": false
+          },
+          {
+            "definition": "八月",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

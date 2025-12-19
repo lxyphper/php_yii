@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to guffaw",
+      "error_analysis": "学生易因形近词\"guff\"(空话)误认为\"说空话\"，或因发音类似\"cough\"误认为\"咳嗽\"，或因不了解强度误判为\"轻声笑\"",
+      "sentence": "When the comedian told the joke about the talking dog, the entire audience **guffawed** so loudly that the walls seemed to shake.",
+      "options": {
+        "option": [
+          {
+            "definition": "大笑，狂笑",
+            "iscorrect": true
+          },
+          {
+            "definition": "说空话，讲废话",
+            "iscorrect": false
+          },
+          {
+            "definition": "咳嗽，咳",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻声笑，咯咯笑",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lace",
+      "error_analysis": "中国学生易因“lace”与“lake”（湖）形近而误判为“湖”，或因不熟悉“鞋带”义而选“蕾丝”。",
+      "sentence": "The little boy asked his mom to help him tie the **lace** of his new sneakers.",
+      "options": {
+        "option": [
+          {
+            "definition": "湖",
+            "iscorrect": false
+          },
+          {
+            "definition": "比赛",
+            "iscorrect": false
+          },
+          {
+            "definition": "蕾丝",
+            "iscorrect": false
+          },
+          {
+            "definition": "鞋带",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

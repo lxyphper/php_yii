@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to exercise",
+      "error_analysis": "中国学生易混淆形近词\"exorcise\"(驱邪)，或因\"ex-\"词根错误联想为\"出口/排出\"。",
+      "sentence": "Sarah likes to **exercise** for 30 minutes every evening to stay healthy.",
+      "options": {
+        "option": [
+          {
+            "definition": "锻炼；做运动",
+            "iscorrect": true
+          },
+          {
+            "definition": "驱邪；除魔",
+            "iscorrect": false
+          },
+          {
+            "definition": "出口；排出",
+            "iscorrect": false
+          },
+          {
+            "definition": "兴奋；激动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

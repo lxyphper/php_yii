@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "policy",
+      "error_analysis": "学生易因形近词“police”（警察）混淆，或误将“policy”与“politics”（政治）关联导致理解错误",
+      "sentence": "The government announced a new **policy** to reduce air pollution last week.",
+      "options": {
+        "option": [
+          {
+            "definition": "政策；方针",
+            "iscorrect": true
+          },
+          {
+            "definition": "警察",
+            "iscorrect": false
+          },
+          {
+            "definition": "政治",
+            "iscorrect": false
+          },
+          {
+            "definition": "礼貌",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

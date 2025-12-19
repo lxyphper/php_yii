@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "obvious",
+      "error_analysis": "学生易因形近词observe（观察）产生误解，将obvious误判为“可观察的”或“观察到的”。",
+      "sentence": "It was **obvious** that she was upset when she started crying in front of everyone.",
+      "options": {
+        "option": [
+          {
+            "definition": "明显的；显而易见的",
+            "iscorrect": true
+          },
+          {
+            "definition": "可观察的；值得注意的",
+            "iscorrect": false
+          },
+          {
+            "definition": "在路上的；前进的",
+            "iscorrect": false
+          },
+          {
+            "definition": "重要的；关键的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

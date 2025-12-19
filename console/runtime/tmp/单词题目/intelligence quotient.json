@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "intelligence quotient",
+      "error_analysis": "学生易因“quotient”与“quote”（引用）或“quantity”（数量）形近，误将“intelligence quotient”理解为“智力引用”或“智力数量”",
+      "sentence": "The psychologist explained that a person's **intelligence quotient** is a score derived from standardized tests designed to assess human intelligence.",
+      "options": {
+        "option": [
+          {
+            "definition": "智商",
+            "iscorrect": true
+          },
+          {
+            "definition": "智力测试",
+            "iscorrect": false
+          },
+          {
+            "definition": "智力引用",
+            "iscorrect": false
+          },
+          {
+            "definition": "智力数量",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

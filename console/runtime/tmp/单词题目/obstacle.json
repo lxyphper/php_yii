@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "obstacle",
+      "error_analysis": "学生易因形近词“obstinate”（固执的）或词根“stare”（站）错误理解为“固执的”或“站在对面的物体”",
+      "sentence": "The heavy rain was the main **obstacle** preventing us from reaching the campsite on time.",
+      "options": {
+        "option": [
+          {
+            "definition": "障碍",
+            "iscorrect": true
+          },
+          {
+            "definition": "固执的",
+            "iscorrect": false
+          },
+          {
+            "definition": "站在对面的物体",
+            "iscorrect": false
+          },
+          {
+            "definition": "稳定的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "deal",
+      "error_analysis": "学生易因形近词“meal”（饭）的拼写干扰将“deal”误判为“食物”，或混淆其名词“交易”与动词“处理”的含义",
+      "sentence": "The manager hopes to close the **deal** with the client today to expand the company's market share.",
+      "options": {
+        "option": [
+          {
+            "definition": "交易；协议",
+            "iscorrect": true
+          },
+          {
+            "definition": "饭；一餐",
+            "iscorrect": false
+          },
+          {
+            "definition": "处理；应对（动词义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "亲爱的；昂贵的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

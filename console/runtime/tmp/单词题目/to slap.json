@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to slap",
+      "error_analysis": "学生易因形近词“clap”（拍手）或“sleep”（睡觉）产生错误联想，将“slap”误理解为“拍手”或“睡觉”。",
+      "sentence": "When the man insulted her, she angrily **slapped** him across the face.",
+      "options": {
+        "option": [
+          {
+            "definition": "用手掌打（耳光等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "拍手",
+            "iscorrect": false
+          },
+          {
+            "definition": "睡觉",
+            "iscorrect": false
+          },
+          {
+            "definition": "滑倒",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

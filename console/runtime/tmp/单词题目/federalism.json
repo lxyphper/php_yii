@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "federalism",
+      "error_analysis": "学生易因形近词“feudalism”（封建主义）的视觉干扰，或混淆“federalism”（联邦制）与“federation”（联邦）的词根含义而误解。",
+      "sentence": "The United States is often cited as a classic example of **federalism**, where power is shared between the national government and individual states.",
+      "options": {
+        "option": [
+          {
+            "definition": "封建主义（一种以领主和农奴关系为基础的社会制度）",
+            "iscorrect": false
+          },
+          {
+            "definition": "联邦（由多个自治州组成的统一国家实体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "联邦制（中央政府与地方政府分享权力的政治制度）",
+            "iscorrect": true
+          },
+          {
+            "definition": "联邦主义（强调支持联邦制的政治理念）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

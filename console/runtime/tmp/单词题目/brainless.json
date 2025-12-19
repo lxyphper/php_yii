@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "brainless",
+      "error_analysis": "学生可能因形近词“blameless”（无辜的）产生错误联想，或因词根“brain+less”过度直译为生“理上无大脑的”而非引申义“愚蠢的”。",
+      "sentence": "It was **brainless** of him to drive so fast in the rain—he could have caused a serious accident.",
+      "options": {
+        "option": [
+          {
+            "definition": "愚蠢的；笨的",
+            "iscorrect": true
+          },
+          {
+            "definition": "无辜的；无过错的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无大脑的（生理上）",
+            "iscorrect": false
+          },
+          {
+            "definition": "聪明的；有才智的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "chewy",
+      "error_analysis": "学生易因形近词“cheery”（愉快的）混淆词义，或因“chew”（咀嚼）词根过度推导为“正在咀嚼的”而非“耐嚼的口感”。",
+      "sentence": "The beef jerky is too **chewy** for my little sister to eat.",
+      "options": {
+        "option": [
+          {
+            "definition": "愉快的",
+            "iscorrect": false
+          },
+          {
+            "definition": "正在咀嚼的",
+            "iscorrect": false
+          },
+          {
+            "definition": "耐嚼的，有嚼劲的",
+            "iscorrect": true
+          },
+          {
+            "definition": "柔软的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

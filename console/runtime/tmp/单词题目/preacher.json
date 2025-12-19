@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "preacher",
+      "error_analysis": "学生易因形近词“teacher”（老师）的干扰，或对“pre-”前缀的错误推导（如“提前做准备的人”）而误解词义",
+      "sentence": "The **preacher** gave a moving sermon about love and forgiveness in the church yesterday.",
+      "options": {
+        "option": [
+          {
+            "definition": "布道者；牧师",
+            "iscorrect": true
+          },
+          {
+            "definition": "老师；教师",
+            "iscorrect": false
+          },
+          {
+            "definition": "提前做准备的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "演讲者；发言者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

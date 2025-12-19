@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "elevated",
+      "error_analysis": "中国学生易因形近词\"elevator\"(电梯)误解为\"有电梯的\",或因词根\"elevate\"(提升)误解为\"被提升的\"",
+      "sentence": "The observation deck is located on an **elevated** platform, offering a bird's-eye view of the city.",
+      "options": {
+        "option": [
+          {
+            "definition": "位置高的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有电梯的",
+            "iscorrect": false
+          },
+          {
+            "definition": "被提升的",
+            "iscorrect": false
+          },
+          {
+            "definition": "宽敞的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

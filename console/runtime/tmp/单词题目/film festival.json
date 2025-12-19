@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "film festival",
+      "error_analysis": "学生易因形近词“feast”或词根/字面误导将“film festival”误理解为“电影盛宴”或“电影比赛”",
+      "sentence": "We are going to attend the Shanghai International **film festival** next month to watch some new movies.",
+      "options": {
+        "option": [
+          {
+            "definition": "电影节",
+            "iscorrect": true
+          },
+          {
+            "definition": "电影盛宴",
+            "iscorrect": false
+          },
+          {
+            "definition": "电影比赛",
+            "iscorrect": false
+          },
+          {
+            "definition": "电影展览",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

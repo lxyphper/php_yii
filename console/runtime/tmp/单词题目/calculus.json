@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "calculus",
+      "error_analysis": "学生易将\"calculus\"误判为\"计算\"（来自形近词\"calculate\"的联想）或\"小石子\"（来自词根\"calcul-\"的字面误导）。",
+      "sentence": "Many students find **calculus** challenging because it involves complex concepts like limits and derivatives.",
+      "options": {
+        "option": [
+          {
+            "definition": "微积分（数学中的分支学科）",
+            "iscorrect": true
+          },
+          {
+            "definition": "计算；计算方法",
+            "iscorrect": false
+          },
+          {
+            "definition": "小石子；碎石",
+            "iscorrect": false
+          },
+          {
+            "definition": "日历；日程安排",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

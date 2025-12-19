@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to frown",
+      "error_analysis": "学生易因形近词“brown”（棕色）混淆词义，或因“皱眉头”的动作联想错误理解为“向下看”。",
+      "sentence": "The teacher **frowned** when she noticed the student cheating on the test.",
+      "options": {
+        "option": [
+          {
+            "definition": "皱眉头；皱眉表示不满",
+            "iscorrect": true
+          },
+          {
+            "definition": "棕色的",
+            "iscorrect": false
+          },
+          {
+            "definition": "向下看",
+            "iscorrect": false
+          },
+          {
+            "definition": "小丑",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

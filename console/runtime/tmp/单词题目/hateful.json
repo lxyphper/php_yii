@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hateful",
+      "error_analysis": "学生易因形近词（如helpful/faithful）或词根猜测错误（如将hate+ful误解为“有害的”）而混淆词义",
+      "sentence": "The man's **hateful** words made everyone in the room feel angry.",
+      "options": {
+        "option": [
+          {
+            "definition": "有帮助的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有害的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可恨的；可恶的",
+            "iscorrect": true
+          },
+          {
+            "definition": "忠诚的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

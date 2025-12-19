@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "none",
+      "error_analysis": "中国学生易因形近词混淆，将“none”误联想为“nine”（九）或“noon”（中午）。",
+      "sentence": "I asked all my friends, but **none** of them could help me.",
+      "options": {
+        "option": [
+          {
+            "definition": "没有一个；全无",
+            "iscorrect": true
+          },
+          {
+            "definition": "九",
+            "iscorrect": false
+          },
+          {
+            "definition": "中午",
+            "iscorrect": false
+          },
+          {
+            "definition": "现在",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

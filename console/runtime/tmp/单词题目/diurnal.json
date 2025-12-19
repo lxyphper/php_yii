@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "diurnal",
+      "error_analysis": "学生易因形近词\"diary\"(日记)联想为\"日记的\",或因词根\"di-\"误猜为\"双重的\"。",
+      "sentence": "Owls are nocturnal, so they sleep during the day, but most songbirds are **diurnal** and sing loudly in the morning.",
+      "options": {
+        "option": [
+          {
+            "definition": "白天的；每日活动的",
+            "iscorrect": true
+          },
+          {
+            "definition": "日记的；与日记相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "双重的；两次的",
+            "iscorrect": false
+          },
+          {
+            "definition": "夜间的； nocturnal的同义词",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

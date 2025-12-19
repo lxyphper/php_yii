@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bloody",
+      "error_analysis": "将“bloody”误判为“有血的/血腥的”（词根“blood”字面误导）",
+      "sentence": "It's a **bloody** nuisance waiting for the bus in the rain!",
+      "options": {
+        "option": [
+          {
+            "definition": "（口语）非常的；该死的（用于加强语气）",
+            "iscorrect": true
+          },
+          {
+            "definition": "有血的；血腥的",
+            "iscorrect": false
+          },
+          {
+            "definition": "模糊的；不清楚的",
+            "iscorrect": false
+          },
+          {
+            "definition": "金发的；浅色的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

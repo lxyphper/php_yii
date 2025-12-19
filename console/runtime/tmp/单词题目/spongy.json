@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "spongy",
+      "error_analysis": "中国学生易因形近词“spicy”（辛辣的）混淆，或因“sponge”（海绵）字面义过度推导为“海绵做的”。",
+      "sentence": "The homemade cake had a light, **spongy** texture that melted in my mouth.",
+      "options": {
+        "option": [
+          {
+            "definition": "松软多孔的",
+            "iscorrect": true
+          },
+          {
+            "definition": "辛辣的",
+            "iscorrect": false
+          },
+          {
+            "definition": "海绵做的",
+            "iscorrect": false
+          },
+          {
+            "definition": "潮湿的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

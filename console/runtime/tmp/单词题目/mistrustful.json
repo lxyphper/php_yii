@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mistrustful",
+      "error_analysis": "学生易因\"mis-\"(错误)+\"trustful\"(信任的)组合，误以为是\"轻信的\"(错误信任的)，实际是\"不信任的\"",
+      "sentence": "After being lied to several times, she became **mistrustful** of all his promises.",
+      "options": {
+        "option": [
+          {
+            "definition": "不信任的",
+            "iscorrect": true
+          },
+          {
+            "definition": "轻信的",
+            "iscorrect": false
+          },
+          {
+            "definition": "信任的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有雾的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

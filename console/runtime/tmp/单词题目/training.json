@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "training",
+      "error_analysis": "易受形近词（如trading/贸易、trailing/拖尾）干扰，或误将其与train的“火车”义联系。",
+      "sentence": "The company provides free **training** for employees who want to learn new skills.",
+      "options": {
+        "option": [
+          {
+            "definition": "训练；培训（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "贸易；交易",
+            "iscorrect": false
+          },
+          {
+            "definition": "火车；列车",
+            "iscorrect": false
+          },
+          {
+            "definition": "拖尾；跟随",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

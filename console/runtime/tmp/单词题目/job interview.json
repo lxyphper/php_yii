@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "job interview",
+      "error_analysis": "学生易因形近词（如interval/review）或词根字面（inter-+view=互相看）错误理解为“工作间隔”“工作复习”或“互相检查”",
+      "sentence": "She prepared for weeks before her first **job interview** at the multinational company.",
+      "options": {
+        "option": [
+          {
+            "definition": "求职面试",
+            "iscorrect": true
+          },
+          {
+            "definition": "工作间隔",
+            "iscorrect": false
+          },
+          {
+            "definition": "工作中的互相检查",
+            "iscorrect": false
+          },
+          {
+            "definition": "工作复习",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

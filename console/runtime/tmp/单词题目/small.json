@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "small",
+      "error_analysis": "学生易将形近词\"smell\"(气味)的含义误联到\"small\"，或混淆\"small\"(小的)与\"short\"(短的)的核心语义。",
+      "sentence": "The puppy is so **small** that it can sleep in my palm.",
+      "options": {
+        "option": [
+          {
+            "definition": "小的；小型的",
+            "iscorrect": true
+          },
+          {
+            "definition": "气味",
+            "iscorrect": false
+          },
+          {
+            "definition": "短的",
+            "iscorrect": false
+          },
+          {
+            "definition": "弱的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

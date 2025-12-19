@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "advantage",
+      "error_analysis": "易混淆形近词\"advance\"(进步/前进)及词根\"前面\"导致的\"领先位置/提前\"误解",
+      "sentence": "Having a good command of English gives you an **advantage** when applying for international jobs.",
+      "options": {
+        "option": [
+          {
+            "definition": "优势；有利条件",
+            "iscorrect": true
+          },
+          {
+            "definition": "进步；前进",
+            "iscorrect": false
+          },
+          {
+            "definition": "领先的位置；提前",
+            "iscorrect": false
+          },
+          {
+            "definition": "优点；长处",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

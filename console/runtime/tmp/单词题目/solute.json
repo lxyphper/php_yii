@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "solute",
+      "error_analysis": "学生易因形近词`solution`（溶液）或`solid`（固体）的干扰，将`solute`误判为“溶液”或“固体”",
+      "sentence": "In the saltwater mixture, the salt acts as the **solute** that dissolves in the water (the solvent) to form a homogeneous liquid.",
+      "options": {
+        "option": [
+          {
+            "definition": "溶质（被溶解在溶剂中的物质）",
+            "iscorrect": true
+          },
+          {
+            "definition": "溶液（由溶质和溶剂组成的混合物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "固体（有固定形状和体积的物质）",
+            "iscorrect": false
+          },
+          {
+            "definition": "溶剂（能溶解其他物质的液体）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

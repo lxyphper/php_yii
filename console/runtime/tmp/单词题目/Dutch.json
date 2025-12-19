@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Dutch",
+      "error_analysis": "中国学生易因形近词\"duck\"(鸭子)的拼写/发音联想，将\"Dutch\"误判为与\"鸭子\"相关的含义",
+      "sentence": "My new classmate is **Dutch**—she taught us how to say \"hello\" in her language, which sounds like \"hallo\".",
+      "options": {
+        "option": [
+          {
+            "definition": "荷兰的；荷兰人；荷兰语",
+            "iscorrect": true
+          },
+          {
+            "definition": "鸭子（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "灰尘（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "公爵（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

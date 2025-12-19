@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "multiple",
+      "error_analysis": "易因形近词\"multiply\"(乘法)误判为\"乘法的\",或词根\"multi-\"过度推导为\"许多的\"(强调数量大)。",
+      "sentence": "The project requires **multiple** skills, such as coding, design, and communication.",
+      "options": {
+        "option": [
+          {
+            "definition": "多个的；多种的",
+            "iscorrect": true
+          },
+          {
+            "definition": "乘法的；增加的",
+            "iscorrect": false
+          },
+          {
+            "definition": "许多的（强调数量大）",
+            "iscorrect": false
+          },
+          {
+            "definition": "复杂的；难懂的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "reticent",
+      "error_analysis": "中国学生易因\"reticent\"与\"recent\"（最近的）拼写相似，或词根\"re-\"误导猜为\"保守的\"而误判。",
+      "sentence": "When asked about his personal life, Tom was **reticent** and simply said, \"It's not important.\"",
+      "options": {
+        "option": [
+          {
+            "definition": "最近的",
+            "iscorrect": false
+          },
+          {
+            "definition": "保守的",
+            "iscorrect": false
+          },
+          {
+            "definition": "犹豫的",
+            "iscorrect": false
+          },
+          {
+            "definition": "沉默寡言的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

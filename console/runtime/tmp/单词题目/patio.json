@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "patio",
+      "error_analysis": "中国学生易因“patio”与“piano”（钢琴）形近或拆分为“pat”（轻拍）+“io”而误判其义",
+      "sentence": "We often have breakfast on the **patio** in summer, enjoying the morning sun.",
+      "options": {
+        "option": [
+          {
+            "definition": "钢琴",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻拍的地方",
+            "iscorrect": false
+          },
+          {
+            "definition": "专利",
+            "iscorrect": false
+          },
+          {
+            "definition": "（住宅外的）露台",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

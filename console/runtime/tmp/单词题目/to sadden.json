@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to sadden",
+      "error_analysis": "中国学生易因形近词“sudden”（突然的）将“to sadden”误理解为“使突然”，或误将其当作形容词“悲伤的”。",
+      "sentence": "The story about the lost child **saddened** everyone who heard it.",
+      "options": {
+        "option": [
+          {
+            "definition": "使悲伤；使难过",
+            "iscorrect": true
+          },
+          {
+            "definition": "使突然",
+            "iscorrect": false
+          },
+          {
+            "definition": "悲伤的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "增加；添加",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

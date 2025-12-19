@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "definite",
+      "error_analysis": "学生易因形近词“define”联想为“定义的”，或因词根“fin”过度推导为“有限的”。",
+      "sentence": "I need a **definite** answer by Friday—no \"maybe\" or \"I'll think about it.\"",
+      "options": {
+        "option": [
+          {
+            "definition": "明确的；肯定的",
+            "iscorrect": true
+          },
+          {
+            "definition": "定义的；下定义的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有限的；有界限的",
+            "iscorrect": false
+          },
+          {
+            "definition": "防御的；保护的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

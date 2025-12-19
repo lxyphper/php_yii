@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gunfire",
+      "error_analysis": "学生易因形近词\"gunfight\"（枪战）或词根直译\"枪火\"而误解\"gunfire\"为具体动作或物品，而非\"枪声/炮火\"。",
+      "sentence": "We heard loud **gunfire** from the forest, so we immediately took cover.",
+      "options": {
+        "option": [
+          {
+            "definition": "枪声；炮火（枪支发射的声音或炮火声）",
+            "iscorrect": true
+          },
+          {
+            "definition": "枪战（双方用枪交战的行为）",
+            "iscorrect": false
+          },
+          {
+            "definition": "枪火（枪支发射时产生的火焰）",
+            "iscorrect": false
+          },
+          {
+            "definition": "火器（如枪、炮等武器的统称）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

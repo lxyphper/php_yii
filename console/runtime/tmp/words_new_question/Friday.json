@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Friday",
+      "error_analysis": "学生可能将\"Friday\"拆分为\"Fri\"（类似fried，油炸的）和\"day\"，错误理解为\"油炸日\"。",
+      "sentence": "We usually have pizza for dinner on **Friday** because it's the end of the workweek.",
+      "options": {
+        "option": [
+          {
+            "definition": "星期五",
+            "iscorrect": true
+          },
+          {
+            "definition": "油炸日",
+            "iscorrect": false
+          },
+          {
+            "definition": "自由日",
+            "iscorrect": false
+          },
+          {
+            "definition": "朋友日",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

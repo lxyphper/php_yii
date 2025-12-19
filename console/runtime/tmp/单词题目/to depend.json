@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to depend",
+      "error_analysis": "学生易因形近词“defend”（保卫）的拼写相似而将“to depend”误解为“保卫”。",
+      "sentence": "Whether we go to the park tomorrow **depends on** the weather.",
+      "options": {
+        "option": [
+          {
+            "definition": "依赖；依靠",
+            "iscorrect": true
+          },
+          {
+            "definition": "保卫；防御",
+            "iscorrect": false
+          },
+          {
+            "definition": "悬挂；垂下",
+            "iscorrect": false
+          },
+          {
+            "definition": "花费；消耗",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "common_misspellings": [
+      "worm-blooded",
+      "warm-bluded",
+      "warmblooded"
+    ],
+    "correct_chunks": [
+      "warm",
+      "-blood",
+      "-ed"
+    ],
+    "distractor_chunks": [
+      "worm",
+      "blud",
+      "warmblood"
+    ]
+  },
+  0
+]

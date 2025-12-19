@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "general",
+      "error_analysis": "易因形近词“generate”（生成）误导误判为“生成的”，或词根“gen”导致混淆“产生的”而非“一般的”。",
+      "sentence": "This book is intended for the **general** reader, not just experts in the field.",
+      "options": {
+        "option": [
+          {
+            "definition": "一般的；普遍的",
+            "iscorrect": true
+          },
+          {
+            "definition": "生成的；产生的",
+            "iscorrect": false
+          },
+          {
+            "definition": "慷慨的；大方的",
+            "iscorrect": false
+          },
+          {
+            "definition": "将军；将领",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

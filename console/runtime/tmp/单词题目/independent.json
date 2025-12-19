@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "independent",
+      "error_analysis": "中国学生易因形近词“indifferent”（冷漠的）混淆，或误将“independent”理解为“依赖的”（反义关系错误）",
+      "sentence": "After graduating from high school, Tom decided to move to another city to live **independent** of his family and manage his own finances.",
+      "options": {
+        "option": [
+          {
+            "definition": "独立的；不依赖的",
+            "iscorrect": true
+          },
+          {
+            "definition": "冷漠的；不关心的",
+            "iscorrect": false
+          },
+          {
+            "definition": "依赖的",
+            "iscorrect": false
+          },
+          {
+            "definition": "个人的；个体的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

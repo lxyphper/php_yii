@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "diet",
+      "error_analysis": "学生易将“diet”与形近词“diary”（日记）混淆，或误联想“die”（死）而理解为“死亡”",
+      "sentence": "She changed her **diet** to include more vegetables and less sugar.",
+      "options": {
+        "option": [
+          {
+            "definition": "日记",
+            "iscorrect": false
+          },
+          {
+            "definition": "死亡",
+            "iscorrect": false
+          },
+          {
+            "definition": "日常饮食；节食",
+            "iscorrect": true
+          },
+          {
+            "definition": "菜单",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

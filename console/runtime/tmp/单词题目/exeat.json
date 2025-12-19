@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "exeat",
+      "error_analysis": "学生易因形近词“exit”（出口）误判为“离开的通道”，或因“ex-”+“eat”的字面联想误猜为“外出就餐许可”",
+      "sentence": "The headteacher granted the student an **exeat** to attend his grandmother's birthday party over the weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "（尤指英国学校给学生的）离校许可",
+            "iscorrect": true
+          },
+          {
+            "definition": "出口；离开的通道",
+            "iscorrect": false
+          },
+          {
+            "definition": "外出就餐的许可",
+            "iscorrect": false
+          },
+          {
+            "definition": "努力；发挥（能力）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "matter",
+      "error_analysis": "学生易因词根“materia”（材料）误导将“matter”理解为“物质”，或因形近词“mat”（垫子）产生联想，忽略其“事情”的核心义。",
+      "sentence": "Don't let that small **matter** ruin your day— it's not worth worrying about.",
+      "options": {
+        "option": [
+          {
+            "definition": "事情；问题",
+            "iscorrect": true
+          },
+          {
+            "definition": "垫子；席子",
+            "iscorrect": false
+          },
+          {
+            "definition": "物质；材料",
+            "iscorrect": false
+          },
+          {
+            "definition": "数学（学科）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

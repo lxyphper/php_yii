@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "foreigner",
+      "error_analysis": "学生易因“fore-”（前面）词根误导将“foreigner”理解为“先驱者”，或因形近词“forever”混淆为“永远的人”",
+      "sentence": "When traveling abroad, it's helpful to learn a few phrases in the local language to communicate with **foreigners**.",
+      "options": {
+        "option": [
+          {
+            "definition": "外国人",
+            "iscorrect": true
+          },
+          {
+            "definition": "先驱者",
+            "iscorrect": false
+          },
+          {
+            "definition": "永远的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "工头",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

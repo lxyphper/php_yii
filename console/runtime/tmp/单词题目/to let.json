@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to let",
+      "error_analysis": "将“to let”误理解为“允许/让”（形近词“let”的熟义干扰）",
+      "sentence": "The sign on the door says, “This house is **to let**—contact the agent for details.”",
+      "options": {
+        "option": [
+          {
+            "definition": "出租（房屋、公寓等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "允许；让",
+            "iscorrect": false
+          },
+          {
+            "definition": "放下；降下",
+            "iscorrect": false
+          },
+          {
+            "definition": "离开；出发",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

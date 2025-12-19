@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to confirm",
+      "error_analysis": "易混淆形近词conform（符合）及词根firm导致的“使坚定”误解",
+      "sentence": "Before sending the invitation, she needs to **confirm** if all guests are available on that day.",
+      "options": {
+        "option": [
+          {
+            "definition": "确认；证实",
+            "iscorrect": true
+          },
+          {
+            "definition": "符合；遵守",
+            "iscorrect": false
+          },
+          {
+            "definition": "使坚定；加强",
+            "iscorrect": false
+          },
+          {
+            "definition": "联系；关联",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

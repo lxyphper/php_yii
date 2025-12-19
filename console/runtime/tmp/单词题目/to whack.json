@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to whack",
+      "error_analysis": "学生易因形近词\"hack\"（砍、非法侵入）混淆，将\"whack\"误理解为\"砍\"或\"非法侵入电脑系统\"",
+      "sentence": "The angry man picked up a stick and threatened to **whack** the dog if it didn’t stop barking.",
+      "options": {
+        "option": [
+          {
+            "definition": "猛击；重击",
+            "iscorrect": true
+          },
+          {
+            "definition": "砍；非法侵入（电脑系统）",
+            "iscorrect": false
+          },
+          {
+            "definition": "哭泣；哀号",
+            "iscorrect": false
+          },
+          {
+            "definition": "包裹；缠绕",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

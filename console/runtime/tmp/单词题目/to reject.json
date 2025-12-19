@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to reject",
+      "error_analysis": "中国学生易因形近词“inject”（注射）混淆词义，或因“re-”（再）+“ject”（扔）的字面推导误理解为“再次扔”，而非“拒绝”。",
+      "sentence": "She **rejected** my gift because she didn’t like it.",
+      "options": {
+        "option": [
+          {
+            "definition": "拒绝",
+            "iscorrect": true
+          },
+          {
+            "definition": "注射",
+            "iscorrect": false
+          },
+          {
+            "definition": "再次扔",
+            "iscorrect": false
+          },
+          {
+            "definition": "接受",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

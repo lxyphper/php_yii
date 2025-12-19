@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to murder",
+      "error_analysis": "中国学生易因形近词“mutter”（嘀咕）及“murder”与“哀悼”的拼写接近而误判其“谋杀”词义",
+      "sentence": "The police are investigating a case where a stranger tried to **murder** an old lady in the park.",
+      "options": {
+        "option": [
+          {
+            "definition": "谋杀；杀害（尤指有预谋地）",
+            "iscorrect": true
+          },
+          {
+            "definition": "小声说；嘀咕",
+            "iscorrect": false
+          },
+          {
+            "definition": "哀悼；悲痛",
+            "iscorrect": false
+          },
+          {
+            "definition": "伤害；损害",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sure",
+      "error_analysis": "中国学生易因形近词“pure”（纯的）或词根关联“assure”（保证）误解“sure”为“纯的”或“保证的”。",
+      "sentence": "She is **sure** about passing the exam because she studied hard.",
+      "options": {
+        "option": [
+          {
+            "definition": "确定的；有把握的",
+            "iscorrect": true
+          },
+          {
+            "definition": "纯的；纯净的",
+            "iscorrect": false
+          },
+          {
+            "definition": "保证的；担保的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可靠的；可信赖的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

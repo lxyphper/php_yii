@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to fly",
+      "error_analysis": "形近词“fry”（油炸）的拼写混淆（仅l/r字母差异）是中国学生对动词“to fly”核心词义的主要误判源",
+      "sentence": "The birds spread their wings to **fly** high in the sky.",
+      "options": {
+        "option": [
+          {
+            "definition": "飞；飞行",
+            "iscorrect": true
+          },
+          {
+            "definition": "油炸（对应形近词“fry”）",
+            "iscorrect": false
+          },
+          {
+            "definition": "剥皮（对应形近词“flay”）",
+            "iscorrect": false
+          },
+          {
+            "definition": "逃跑（对应“fly”的僻义用法）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

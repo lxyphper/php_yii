@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dance",
+      "error_analysis": "中国学生易因形近词\"dense\"（密集的）干扰，将\"dance\"错误理解为\"密集的\"",
+      "sentence": "She loves to **dance** at parties and often teaches her friends new moves.",
+      "options": {
+        "option": [
+          {
+            "definition": "跳舞；舞蹈",
+            "iscorrect": true
+          },
+          {
+            "definition": "密集的",
+            "iscorrect": false
+          },
+          {
+            "definition": "傻瓜",
+            "iscorrect": false
+          },
+          {
+            "definition": "长矛",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

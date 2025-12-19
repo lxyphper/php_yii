@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to sharpen",
+      "error_analysis": "学生易因形近词'shape'（塑造）产生联想，或因词根'sharp'（锋利）的字面义忽略其抽象语境中的'提高'含义",
+      "sentence": "To excel in the job interview, it's important to **sharpen** your communication skills beforehand.",
+      "options": {
+        "option": [
+          {
+            "definition": "使锋利；提高（技能、思维等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "塑造；形成",
+            "iscorrect": false
+          },
+          {
+            "definition": "使缩短；变短",
+            "iscorrect": false
+          },
+          {
+            "definition": "使尖锐；变得尖锐",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

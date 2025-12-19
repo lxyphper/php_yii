@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "incompetent",
+      "error_analysis": "学生易因形近词\"incomplete\"（不完整的）或词根\"comp\"的错误联想，将\"incompetent\"误解为“不完整的”或“不竞争的”。",
+      "sentence": "The manager was fired because he was **incompetent** and couldn't handle the team's projects properly.",
+      "options": {
+        "option": [
+          {
+            "definition": "无能力的；不称职的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不完整的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不竞争的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不友好的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to honor",
+      "error_analysis": "易因形近词\"honest\"误解为\"诚实对待\"，或因名词\"荣誉\"推导动词义为\"获得荣誉\"",
+      "sentence": "The school will **honor** the retired teacher at tomorrow's ceremony for her 40 years of dedicated service.",
+      "options": {
+        "option": [
+          {
+            "definition": "尊重；纪念",
+            "iscorrect": true
+          },
+          {
+            "definition": "诚实对待",
+            "iscorrect": false
+          },
+          {
+            "definition": "获得荣誉",
+            "iscorrect": false
+          },
+          {
+            "definition": "表扬；称赞",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

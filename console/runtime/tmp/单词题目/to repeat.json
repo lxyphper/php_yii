@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to repeat",
+      "error_analysis": "中国学生易因形近词‘reply’（回答）、‘report’（报告）的拼写联想，或‘re-’前缀的过度解读（如误以为是‘修改’），将‘repeat’误译为‘回答’、‘报告’或‘修改’。",
+      "sentence": "Please **repeat** the steps to solve the problem.",
+      "options": {
+        "option": [
+          {
+            "definition": "回答（reply）",
+            "iscorrect": false
+          },
+          {
+            "definition": "报告（report）",
+            "iscorrect": false
+          },
+          {
+            "definition": "修改（revise）",
+            "iscorrect": false
+          },
+          {
+            "definition": "重复（做/说）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

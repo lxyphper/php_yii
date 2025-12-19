@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to see",
+      "error_analysis": "学生易将“see”与形近词“sea”（大海）或“seek”（寻找）混淆，因拼写/发音相近导致词义误判",
+      "sentence": "I want to **see** the beautiful sunset over the mountain.",
+      "options": {
+        "option": [
+          {
+            "definition": "看见；看到",
+            "iscorrect": true
+          },
+          {
+            "definition": "大海",
+            "iscorrect": false
+          },
+          {
+            "definition": "寻找",
+            "iscorrect": false
+          },
+          {
+            "definition": "说；讲",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "infomercial",
+      "error_analysis": "学生易将\"infomercial\"拆分为\"info-\"（信息）和\"-mercial\"（商业）过度直译，或混淆与\"commercial\"（简短广告）的区别",
+      "sentence": "During the late-night TV slot, the channel aired a 30-minute **infomercial** for a new fitness equipment, featuring live demonstrations and user reviews.",
+      "options": {
+        "option": [
+          {
+            "definition": "电视购物广告（一种结合信息介绍与产品推广的长时段电视广告）",
+            "iscorrect": true
+          },
+          {
+            "definition": "信息的商业性质（指信息本身的盈利属性）",
+            "iscorrect": false
+          },
+          {
+            "definition": "简短的商业广告（时长通常在15-30秒的产品宣传）",
+            "iscorrect": false
+          },
+          {
+            "definition": "教育性纪录片（旨在传播知识的非盈利电视节目）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

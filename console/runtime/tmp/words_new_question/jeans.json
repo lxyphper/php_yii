@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "jeans",
+      "error_analysis": "中国学生易因形近词（如beans/genes）或词根误解（将jeans视为\"粗斜纹布\"的单数）而错误理解词义",
+      "sentence": "She wore a pair of blue **jeans** and a white T-shirt to the weekend party.",
+      "options": {
+        "option": [
+          {
+            "definition": "牛仔裤",
+            "iscorrect": true
+          },
+          {
+            "definition": "豆子",
+            "iscorrect": false
+          },
+          {
+            "definition": "基因",
+            "iscorrect": false
+          },
+          {
+            "definition": "粗斜纹布（单数）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

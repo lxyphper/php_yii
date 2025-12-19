@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to prove",
+      "error_analysis": "易因形近词improve（改善）混淆词义，或因词根probare（测试）误导为“测试”而非“证明”",
+      "sentence": "She wanted to **prove** that she could finish the project on her own.",
+      "options": {
+        "option": [
+          {
+            "definition": "证明；证实",
+            "iscorrect": true
+          },
+          {
+            "definition": "改善；提高",
+            "iscorrect": false
+          },
+          {
+            "definition": "测试；检验",
+            "iscorrect": false
+          },
+          {
+            "definition": "批准；认可",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

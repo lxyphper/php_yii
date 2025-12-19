@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cloudy",
+      "error_analysis": "学生易混淆形近词“crowded”（拥挤的）或“clumsy”（笨拙的），或因“cloud”（云）的字面义忽略其“模糊的”引申义。",
+      "sentence": "The weather forecast says it will be **cloudy** tomorrow, with a 20% chance of rain.",
+      "options": {
+        "option": [
+          {
+            "definition": "拥挤的",
+            "iscorrect": false
+          },
+          {
+            "definition": "模糊的",
+            "iscorrect": false
+          },
+          {
+            "definition": "多云的",
+            "iscorrect": true
+          },
+          {
+            "definition": "笨拙的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

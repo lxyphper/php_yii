@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to conform",
+      "error_analysis": "中国学生易混淆形近词\"confirm\"（确认），或因词根\"con-+form\"错误推导为\"形成/构成\"",
+      "sentence": "All employees must **conform** to the company's dress code to maintain a professional image.",
+      "options": {
+        "option": [
+          {
+            "definition": "确认；证实",
+            "iscorrect": false
+          },
+          {
+            "definition": "遵守（规则或标准）",
+            "iscorrect": true
+          },
+          {
+            "definition": "形成；构成",
+            "iscorrect": false
+          },
+          {
+            "definition": "反对；反抗",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

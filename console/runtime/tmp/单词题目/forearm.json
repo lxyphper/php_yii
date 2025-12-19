@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "forearm",
+      "error_analysis": "学生易因形近词\"forehead\"（额头）混淆身体部位，或因\"fore-\"（预先）+\"arm\"（武装）的词根组合将名词误解为\"预先武装\"。",
+      "sentence": "She rolled up her sleeve to show the tattoo on her **forearm**.",
+      "options": {
+        "option": [
+          {
+            "definition": "前臂（从肘部到手腕的部分）",
+            "iscorrect": true
+          },
+          {
+            "definition": "额头",
+            "iscorrect": false
+          },
+          {
+            "definition": "预先武装；使做好准备",
+            "iscorrect": false
+          },
+          {
+            "definition": "整个胳膊",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "silly",
+      "error_analysis": "学生易因形近词`silent`（沉默的）或拆分`s-ill-y`误以为是“有病的”。",
+      "sentence": "Don’t be so **silly**—you can’t believe everything he says!",
+      "options": {
+        "option": [
+          {
+            "definition": "愚蠢的；傻的",
+            "iscorrect": true
+          },
+          {
+            "definition": "沉默的；安静的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有病的；不舒服的",
+            "iscorrect": false
+          },
+          {
+            "definition": "简单的；容易的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "prose",
+      "error_analysis": "学生易因形近词“pose”（姿势）混淆，或因“pro-”前缀误导为“进步的文字”。",
+      "sentence": "Her new book combines **prose** and poetry, with the first half being a collection of personal essays.",
+      "options": {
+        "option": [
+          {
+            "definition": "散文； prose 文体",
+            "iscorrect": true
+          },
+          {
+            "definition": "姿势；摆姿势的动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "进步的文字；向前发展的文章",
+            "iscorrect": false
+          },
+          {
+            "definition": "诗歌；韵文",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

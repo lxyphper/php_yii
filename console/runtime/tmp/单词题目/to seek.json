@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to seek",
+      "error_analysis": "易因形近词\"see\"（看见）混淆，误将\"seek\"理解为\"看见\"；或与\"seal\"（密封）等形近词产生错误联想",
+      "sentence": "Many people **seek** advice from experts when they have important decisions to make.",
+      "options": {
+        "option": [
+          {
+            "definition": "寻找；寻求",
+            "iscorrect": true
+          },
+          {
+            "definition": "看见；看到",
+            "iscorrect": false
+          },
+          {
+            "definition": "密封；盖章",
+            "iscorrect": false
+          },
+          {
+            "definition": "发送；派遣",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

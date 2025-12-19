@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "svelte",
+      "error_analysis": "学生易因`svelte`与形近词`velvet`（天鹅绒）或`swell`（膨胀）联想，错误认为其意为“柔软的”或“膨胀的”",
+      "sentence": "She maintained a **svelte** physique through regular exercise and a healthy diet.",
+      "options": {
+        "option": [
+          {
+            "definition": "苗条的；纤细的",
+            "iscorrect": true
+          },
+          {
+            "definition": "柔软的；绒面的",
+            "iscorrect": false
+          },
+          {
+            "definition": "强壮的；结实的",
+            "iscorrect": false
+          },
+          {
+            "definition": "膨胀的；肿胀的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

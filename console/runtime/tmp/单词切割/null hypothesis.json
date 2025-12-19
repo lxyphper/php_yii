@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "nul hypothesis",
+      "null hypotesis",
+      "nall hypothesis",
+      "null hiothesis",
+      "null hypaothesis"
+    ],
+    "correct_chunks": [
+      "null",
+      "hypo",
+      "the",
+      "sis"
+    ],
+    "distractor_chunks": [
+      "nul",
+      "te",
+      "hi",
+      "nall",
+      "pa"
+    ]
+  },
+  0
+]

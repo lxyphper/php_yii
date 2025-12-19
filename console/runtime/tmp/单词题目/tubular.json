@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tubular",
+      "error_analysis": "学生易将'tubular'与形近词'tabular'（表格的）混淆，或因词根'tuber'（块茎）误导认为是'块茎的'",
+      "sentence": "The new bicycle frame uses a **tubular** aluminum structure to keep it light yet strong.",
+      "options": {
+        "option": [
+          {
+            "definition": "表格的",
+            "iscorrect": false
+          },
+          {
+            "definition": "块茎的",
+            "iscorrect": false
+          },
+          {
+            "definition": "管状的",
+            "iscorrect": true
+          },
+          {
+            "definition": "浴缸的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

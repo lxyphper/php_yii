@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bouncy",
+      "error_analysis": "学生易因形近词\"bound\"（有义务的）干扰将\"bouncy\"误判为\"受束缚的\"，或因词根\"bounce\"（弹跳）过度直译忽略其\"活泼的\"引申义",
+      "sentence": "Lily is a **bouncy** child who never seems to run out of energy, even after a long day at school.",
+      "options": {
+        "option": [
+          {
+            "definition": "受束缚的；有义务的",
+            "iscorrect": false
+          },
+          {
+            "definition": "爱跳的；跳跃的",
+            "iscorrect": false
+          },
+          {
+            "definition": "吵闹的；喧嚣的",
+            "iscorrect": false
+          },
+          {
+            "definition": "活泼的；精力充沛的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to cross",
+      "error_analysis": "中国学生易因形近词“cost”（花费）混淆，或因“cross”的“交叉”义误导而忽略其“穿过”的核心动词义。",
+      "sentence": "Before you **cross** the street, make sure to look both ways.",
+      "options": {
+        "option": [
+          {
+            "definition": "穿过（如马路、河流等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "花费（金钱、时间等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "使交叉（如线条、手臂等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "碰撞（如车辆、物体等）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

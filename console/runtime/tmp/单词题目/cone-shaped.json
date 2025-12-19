@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cone-shaped",
+      "error_analysis": "学生易将“cone”与形近词“corn”（玉米）混淆，或误将“cone-shaped”理解为“圆柱形”等常见形状。",
+      "sentence": "The ice cream shop serves scoops in a **cone-shaped** wafer container that tapers to a point at the bottom.",
+      "options": {
+        "option": [
+          {
+            "definition": "锥形的",
+            "iscorrect": true
+          },
+          {
+            "definition": "玉米形状的",
+            "iscorrect": false
+          },
+          {
+            "definition": "圆柱形的",
+            "iscorrect": false
+          },
+          {
+            "definition": "方形的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

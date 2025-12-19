@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "field hockey",
+      "error_analysis": "学生易因形近词\"hockey\"与\"hike\"混淆，或字面拆分\"field\"（场地）和\"hockey\"（曲棍球），将\"field hockey\"误理解为\"田野徒步\"或\"场地足球\"。",
+      "sentence": "She has been playing **field hockey** since she was 10, and now she’s on the school team that competes on the grassy field every weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "草地曲棍球",
+            "iscorrect": true
+          },
+          {
+            "definition": "冰球",
+            "iscorrect": false
+          },
+          {
+            "definition": "田野徒步",
+            "iscorrect": false
+          },
+          {
+            "definition": "场地足球",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "jogging",
+      "error_analysis": "易因形近词\"joking\"(开玩笑)或\"logging\"(伐木)产生误解，或误将其理解为\"轻推的动作\"(词根\"jog\"的次要义)",
+      "sentence": "Every morning, my neighbor goes **jogging** in the park to stay fit.",
+      "options": {
+        "option": [
+          {
+            "definition": "开玩笑的行为",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻推的动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "慢跑（一种缓慢的跑步运动）",
+            "iscorrect": true
+          },
+          {
+            "definition": "伐木或记录的行为",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

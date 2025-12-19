@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to add",
+      "error_analysis": "学生易因形近词“odd”（奇怪的）或词根“dere”（put，放置）误导而误解“to add”的核心含义“添加”",
+      "sentence": "Please **add** some ice to your drink if you want it to be colder.",
+      "options": {
+        "option": [
+          {
+            "definition": "添加；把…加到…里",
+            "iscorrect": true
+          },
+          {
+            "definition": "奇怪的；不寻常的",
+            "iscorrect": false
+          },
+          {
+            "definition": "放置；安放",
+            "iscorrect": false
+          },
+          {
+            "definition": "帮助；援助",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

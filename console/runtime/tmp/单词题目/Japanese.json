@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Japanese",
+      "error_analysis": "学生易将“Japanese”仅理解为“日本人”，忽略其“日语”的词义",
+      "sentence": "He is learning **Japanese** to communicate with Tokyo locals.",
+      "options": {
+        "option": [
+          {
+            "definition": "日本人",
+            "iscorrect": false
+          },
+          {
+            "definition": "日本",
+            "iscorrect": false
+          },
+          {
+            "definition": "日本的",
+            "iscorrect": false
+          },
+          {
+            "definition": "日语",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

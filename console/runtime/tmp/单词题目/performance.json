@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "performance",
+      "error_analysis": "学生易因形近词“performer”（表演者）混淆，将“performance”误理解为“表演者”，或因词根“perform”（执行）加“ance”后缀误判为“执行的人”而非“表演/表现（行为）”。",
+      "sentence": "The singer's **performance** at the music festival received a lot of cheers from the crowd.",
+      "options": {
+        "option": [
+          {
+            "definition": "表演；表现",
+            "iscorrect": true
+          },
+          {
+            "definition": "表演者",
+            "iscorrect": false
+          },
+          {
+            "definition": "执行者",
+            "iscorrect": false
+          },
+          {
+            "definition": "练习",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

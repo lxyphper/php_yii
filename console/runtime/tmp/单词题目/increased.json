@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "increased",
+      "error_analysis": "学生易因形近词“instructed”（指示的）或词根“crease”（折痕）的干扰，误将“increased”理解为“指示的”或“有折痕的”。",
+      "sentence": "The **increased** number of tourists has led to more jobs in the local area.",
+      "options": {
+        "option": [
+          {
+            "definition": "增加的；增多的",
+            "iscorrect": true
+          },
+          {
+            "definition": "指示的；命令的",
+            "iscorrect": false
+          },
+          {
+            "definition": "插入的；嵌入的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有折痕的；起皱的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

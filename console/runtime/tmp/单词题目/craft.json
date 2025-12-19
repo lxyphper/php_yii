@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "craft",
+      "error_analysis": "中国学生易因形近词'draft'（草稿）或词根联想'crafty'（狡猾）而误判'craft'的核心词义（工艺）。",
+      "sentence": "The old potter's **craft** of making clay bowls has been passed down through four generations.",
+      "options": {
+        "option": [
+          {
+            "definition": "草稿；草案",
+            "iscorrect": false
+          },
+          {
+            "definition": "狡猾；诡计",
+            "iscorrect": false
+          },
+          {
+            "definition": "船；航空器",
+            "iscorrect": false
+          },
+          {
+            "definition": "工艺；手艺",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "revenue",
+      "error_analysis": "学生易因形近词“avenue”（大道）或词根“re-”+“venue”（场地）错误联想为“途径/场地”，而非核心词义“收入”。",
+      "sentence": "The company's annual **revenue** increased by 20% due to strong sales of its new product.",
+      "options": {
+        "option": [
+          {
+            "definition": "大道",
+            "iscorrect": false
+          },
+          {
+            "definition": "收入",
+            "iscorrect": true
+          },
+          {
+            "definition": "返回的场地",
+            "iscorrect": false
+          },
+          {
+            "definition": "支出",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

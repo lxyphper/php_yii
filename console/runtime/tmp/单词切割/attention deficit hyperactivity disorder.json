@@ -1,0 +1,35 @@
+[
+  {
+    "common_misspellings": [
+      "atenion deficit hyperactivity disorder",
+      "attention deficet hyperactivity disorder",
+      "attention deficit hyperactity disorder",
+      "attention deficit hyperactivity dissorder",
+      "attention deficit hyperactivity dysorder"
+    ],
+    "correct_chunks": [
+      "at",
+      "ten",
+      "tion",
+      "de",
+      "fi",
+      "cit",
+      "hy",
+      "per",
+      "ac",
+      "tiv",
+      "ity",
+      "dis",
+      "or",
+      "der"
+    ],
+    "distractor_chunks": [
+      "aten",
+      "cet",
+      "act",
+      "diss",
+      "dys"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "directive",
+      "error_analysis": "学生易因形近词\"direct\"（直接的）或词根\"direct\"+\"-ive\"后缀误将\"directive\"理解为形容词\"直接的\"或\"指导的\"，忽略其核心名词词义\"指令\"。",
+      "sentence": "The manager issued a **directive** requiring all employees to submit their reports by Friday.",
+      "options": {
+        "option": [
+          {
+            "definition": "指令；指示（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "直接的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "指导的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "目录（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

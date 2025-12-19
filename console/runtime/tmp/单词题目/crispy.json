@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "crispy",
+      "error_analysis": "学生易因形近混淆\"crispy\"(脆的)与\"creamy\"(乳脂状的)，或因\"crisp\"的\"清新\"义误解其食物语境中的含义",
+      "sentence": "The fried chicken wings are so **crispy** that you can hear the crunch when you bite into them.",
+      "options": {
+        "option": [
+          {
+            "definition": "脆的（食物外皮酥脆的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "乳脂状的（如奶油般柔滑的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "清新的（如天气或空气凉爽宜人的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "柔软的（易弯曲或挤压的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

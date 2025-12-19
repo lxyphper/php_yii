@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "life",
+      "error_analysis": "中国学生易因形近词“lift”（电梯）或“wife”（妻子）产生错误联想，或误将“life”理解为“居住”（动词）而非名词“生命/生活”。",
+      "sentence": "The doctor did everything he could to save the patient's **life**.",
+      "options": {
+        "option": [
+          {
+            "definition": "生命；生活",
+            "iscorrect": true
+          },
+          {
+            "definition": "电梯",
+            "iscorrect": false
+          },
+          {
+            "definition": "居住（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "妻子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

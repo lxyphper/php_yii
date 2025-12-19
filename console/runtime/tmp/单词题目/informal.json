@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "informal",
+      "error_analysis": "易因形近词“information”误判为“信息的”，或词根“inform”（通知）误判为“通知的”",
+      "sentence": "At the company’s **informal** gathering, employees wore jeans and talked freely about their hobbies.",
+      "options": {
+        "option": [
+          {
+            "definition": "非正式的",
+            "iscorrect": true
+          },
+          {
+            "definition": "信息的",
+            "iscorrect": false
+          },
+          {
+            "definition": "通知的",
+            "iscorrect": false
+          },
+          {
+            "definition": "虚弱的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

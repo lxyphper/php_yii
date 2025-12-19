@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to thaw",
+      "error_analysis": "中国学生易因“thaw”与形近词“tow”（拖）、“throw”（投掷）拼写相似而误联想为“拖”或“投掷”",
+      "sentence": "After the heavy snow, the sun came out and the ice on the lake began to **thaw**.",
+      "options": {
+        "option": [
+          {
+            "definition": "（冰、雪等）融化；（冷冻食品）解冻",
+            "iscorrect": true
+          },
+          {
+            "definition": "拖，拉",
+            "iscorrect": false
+          },
+          {
+            "definition": "投掷",
+            "iscorrect": false
+          },
+          {
+            "definition": "变硬",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

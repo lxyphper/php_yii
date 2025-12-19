@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to dialogue",
+      "error_analysis": "学生易根据名词“dialogue”推测动词为“写对话”或“有对话”，忽略其“与某人交换意见”的互动含义",
+      "sentence": "The company plans to **dialogue** with local communities to address environmental concerns.",
+      "options": {
+        "option": [
+          {
+            "definition": "（与某人）对话；交换意见",
+            "iscorrect": true
+          },
+          {
+            "definition": "写对话（如剧本中的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "有一个对话",
+            "iscorrect": false
+          },
+          {
+            "definition": "讨论某个具体问题",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "drummer",
+      "error_analysis": "学生易因形近词\"dreamer\"(梦想家)混淆，或误将\"drummer\"理解为鼓的配件(如鼓槌)而非\"打鼓的人\"。",
+      "sentence": "The band is looking for a skilled **drummer** to play at their weekend concert.",
+      "options": {
+        "option": [
+          {
+            "definition": "鼓手（打鼓的人）",
+            "iscorrect": true
+          },
+          {
+            "definition": "梦想家（有大梦想的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "鼓槌（打鼓用的槌子）",
+            "iscorrect": false
+          },
+          {
+            "definition": "饮酒者（经常喝酒的人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

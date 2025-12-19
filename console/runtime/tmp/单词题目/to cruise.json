@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to cruise",
+      "error_analysis": "中国学生易因形近词\"cross\"（穿过）或词根误导将\"cruise\"误解为\"快速奔跑\"，忽略其\"巡航/悠闲行驶\"的核心义。",
+      "sentence": "The family decided to **cruise** along the coastline in their new yacht during the holiday.",
+      "options": {
+        "option": [
+          {
+            "definition": "（船、车等）巡航；悠闲地行驶",
+            "iscorrect": true
+          },
+          {
+            "definition": "穿过；越过",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速奔跑；冲刺",
+            "iscorrect": false
+          },
+          {
+            "definition": "挤压；碾碎",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

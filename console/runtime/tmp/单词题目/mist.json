@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mist",
+      "error_analysis": "学生易因形近词\"mistake\"（错误）或\"miss\"（错过）的联想，将\"mist\"误判为\"错误\"或\"错过\"。",
+      "sentence": "The morning **mist** hung low over the valley, softening the edges of the trees.",
+      "options": {
+        "option": [
+          {
+            "definition": "薄雾；雾气",
+            "iscorrect": true
+          },
+          {
+            "definition": "错误；过失",
+            "iscorrect": false
+          },
+          {
+            "definition": "错过；想念",
+            "iscorrect": false
+          },
+          {
+            "definition": "清单；列表",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

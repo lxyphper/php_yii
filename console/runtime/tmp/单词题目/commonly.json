@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "commonly",
+      "error_analysis": "学生易因词根“common”（共同的）误导将“commonly”理解为“共同地”，或因形近词（如completely）混淆为“完全地”。",
+      "sentence": "Dogs are **commonly** kept as pets in many households around the world.",
+      "options": {
+        "option": [
+          {
+            "definition": "通常地；常见地",
+            "iscorrect": true
+          },
+          {
+            "definition": "共同地；集体地",
+            "iscorrect": false
+          },
+          {
+            "definition": "完全地；彻底地",
+            "iscorrect": false
+          },
+          {
+            "definition": "明显地；清楚地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stakeholder",
+      "error_analysis": "中国学生易混淆形近词stockholder（股东）或字面误解为“木桩持有者”",
+      "sentence": "When developing a new policy, the company needs to consider the opinions of all **stakeholders**, including employees, customers, and the local community.",
+      "options": {
+        "option": [
+          {
+            "definition": "利益相关者",
+            "iscorrect": true
+          },
+          {
+            "definition": "股东",
+            "iscorrect": false
+          },
+          {
+            "definition": "木桩持有者",
+            "iscorrect": false
+          },
+          {
+            "definition": "赌注参与者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

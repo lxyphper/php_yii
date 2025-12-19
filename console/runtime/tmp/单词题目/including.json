@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "including",
+      "error_analysis": "学生易将“including”误判为动词现在分词（表示“正在包含”的动作），而非介词（用于举例说明“包括...在内”）",
+      "sentence": "The party will have many activities, **including** a live band and a cake-cutting ceremony.",
+      "options": {
+        "option": [
+          {
+            "definition": "包括...在内（用于举例说明）",
+            "iscorrect": true
+          },
+          {
+            "definition": "正在包含（动词现在分词，表示动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "结论的（concluding的形近词干扰）",
+            "iscorrect": false
+          },
+          {
+            "definition": "排除（excluding的反义，前缀混淆）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

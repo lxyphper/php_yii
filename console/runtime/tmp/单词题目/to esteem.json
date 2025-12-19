@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to esteem",
+      "error_analysis": "学生易因形近词“estimate”（估计）或词根“aestimare”（评估）的干扰，将“to esteem”误理解为“估计”或“评估”",
+      "sentence": "Many people **esteem** Dr. Li for his lifelong dedication to helping the poor.",
+      "options": {
+        "option": [
+          {
+            "definition": "尊重，敬重",
+            "iscorrect": true
+          },
+          {
+            "definition": "估计，估量",
+            "iscorrect": false
+          },
+          {
+            "definition": "评估，评价",
+            "iscorrect": false
+          },
+          {
+            "definition": "蒸汽，水汽",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

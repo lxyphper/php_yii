@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to delay",
+      "error_analysis": "学生易因形近词“deliver”（交付）、“delete”（删除）混淆，或因词根“lay”（放置）误判词义",
+      "sentence": "The train was **delayed** by heavy rain, so we had to wait another hour.",
+      "options": {
+        "option": [
+          {
+            "definition": "延迟；推迟",
+            "iscorrect": true
+          },
+          {
+            "definition": "交付；递送",
+            "iscorrect": false
+          },
+          {
+            "definition": "放置；放下",
+            "iscorrect": false
+          },
+          {
+            "definition": "删除；去掉",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

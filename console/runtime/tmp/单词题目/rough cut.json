@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rough cut",
+      "error_analysis": "学生易将\"rough cut\"字面理解为\"粗糙的切割\"（物理动作），忽略其影视语境中的\"初剪版本\"含义",
+      "sentence": "After filming, the director showed us a **rough cut** of the documentary to get our feedback on the pacing.",
+      "options": {
+        "option": [
+          {
+            "definition": "电影/视频的初剪版本",
+            "iscorrect": true
+          },
+          {
+            "definition": "粗糙的切割（如木头或金属的切割）",
+            "iscorrect": false
+          },
+          {
+            "definition": "粗略的文字草稿（如文章或报告的草稿）",
+            "iscorrect": false
+          },
+          {
+            "definition": "粗糙的切口（如物体表面的伤口或裂痕）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

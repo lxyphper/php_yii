@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "garbage",
+      "error_analysis": "学生易因形近词混淆“garbage”（垃圾）与“garage”（车库），或误拆词根联想“包”等无关含义",
+      "sentence": "Please take out the **garbage** before you leave; it's starting to smell.",
+      "options": {
+        "option": [
+          {
+            "definition": "垃圾",
+            "iscorrect": true
+          },
+          {
+            "definition": "车库",
+            "iscorrect": false
+          },
+          {
+            "definition": "包",
+            "iscorrect": false
+          },
+          {
+            "definition": "花园",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

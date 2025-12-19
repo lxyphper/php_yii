@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "urology",
+      "error_analysis": "学生易因与形近词“neurology”（神经学）拼写接近而混淆，或因不熟悉“uro-”（尿）词根而误猜为其他学科。",
+      "sentence": "The patient was referred to the **urology** department for further evaluation of his recurring kidney stones.",
+      "options": {
+        "option": [
+          {
+            "definition": "神经学",
+            "iscorrect": false
+          },
+          {
+            "definition": "生物学",
+            "iscorrect": false
+          },
+          {
+            "definition": "泌尿学",
+            "iscorrect": true
+          },
+          {
+            "definition": "心理学",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

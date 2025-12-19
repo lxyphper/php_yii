@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "jug",
+      "error_analysis": "学生易因形近词“judge”（法官）或联想“juggle”（杂耍）误解“jug”的核心含义（有柄的壶/罐）",
+      "sentence": "She poured some lemonade from the **jug** into a glass for her guest.",
+      "options": {
+        "option": [
+          {
+            "definition": "（有柄有嘴的）壶；罐",
+            "iscorrect": true
+          },
+          {
+            "definition": "法官",
+            "iscorrect": false
+          },
+          {
+            "definition": "杂耍",
+            "iscorrect": false
+          },
+          {
+            "definition": "慢跑",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

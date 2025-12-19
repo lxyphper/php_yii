@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "in addtion",
+      "in eddition",
+      "in addision",
+      "in adition"
+    ],
+    "correct_chunks": [
+      "in",
+      "add",
+      "ition"
+    ],
+    "distractor_chunks": [
+      "addt",
+      "edd",
+      "sion",
+      "adi"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bumpy",
+      "error_analysis": "学生易因形近词“dumpy”（矮胖的）混淆，或因词根“bump”（碰撞）误判为“碰撞的”",
+      "sentence": "The car ride on the dirt road was really **bumpy**—we could feel every rock under the tires.",
+      "options": {
+        "option": [
+          {
+            "definition": "颠簸的；不平的",
+            "iscorrect": true
+          },
+          {
+            "definition": "矮胖的",
+            "iscorrect": false
+          },
+          {
+            "definition": "碰撞的",
+            "iscorrect": false
+          },
+          {
+            "definition": "多块状物的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

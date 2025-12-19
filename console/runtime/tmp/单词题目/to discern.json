@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to discern",
+      "error_analysis": "学生易因形近词\"discard\"(丢弃)及词根\"dis-\"的错误推导，将\"to discern\"误解为\"丢弃\"或\"不关心\"",
+      "sentence": "In the noisy café, she struggled to **discern** the sound of her friend's voice over the chatter.",
+      "options": {
+        "option": [
+          {
+            "definition": "辨别；察觉",
+            "iscorrect": true
+          },
+          {
+            "definition": "丢弃；抛弃",
+            "iscorrect": false
+          },
+          {
+            "definition": "不关心；忽视",
+            "iscorrect": false
+          },
+          {
+            "definition": "关心；担忧",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

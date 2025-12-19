@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "psyche",
+      "error_analysis": "易因形近词\"psycho\"误解为\"精神病人\"，或因词根\"psych-\"误判为\"心理学\"",
+      "sentence": "The trauma from her childhood left a permanent mark on her **psyche**, causing her to struggle with anxiety in social situations.",
+      "options": {
+        "option": [
+          {
+            "definition": "心灵；精神；心理（指人的思想、情感和精神状态）",
+            "iscorrect": true
+          },
+          {
+            "definition": "精神病人；疯子（指患有严重精神疾病的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "心理学；心理学科（研究心理和行为的科学）",
+            "iscorrect": false
+          },
+          {
+            "definition": "周期；循环（指重复发生的一系列事件）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

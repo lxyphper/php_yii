@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "raid",
+      "error_analysis": "学生易因形近词“rain”（雨）或词根“aid”（帮助）的联想，将“raid”误判为“雨”或“帮助”。",
+      "sentence": "The police conducted a **raid** on the illegal casino last night, arresting several suspects.",
+      "options": {
+        "option": [
+          {
+            "definition": "雨",
+            "iscorrect": false
+          },
+          {
+            "definition": "帮助",
+            "iscorrect": false
+          },
+          {
+            "definition": "提高",
+            "iscorrect": false
+          },
+          {
+            "definition": "袭击；突袭",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

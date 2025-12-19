@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dancer",
+      "error_analysis": "易因形近词（如doctor）混淆，或因词根误导将dancer（舞者）误理解为“舞蹈”（dance的名词）",
+      "sentence": "She has been a professional **dancer** since she was 16, performing in ballet companies around the world.",
+      "options": {
+        "option": [
+          {
+            "definition": "医生",
+            "iscorrect": false
+          },
+          {
+            "definition": "舞蹈",
+            "iscorrect": false
+          },
+          {
+            "definition": "舞者；跳舞的人",
+            "iscorrect": true
+          },
+          {
+            "definition": "司机",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

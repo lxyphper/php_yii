@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "spoiler",
+      "error_analysis": "学生易因词根spoil（破坏/宠坏）+er的结构，误将spoiler理解为“破坏者”或“宠坏的人”",
+      "sentence": "When my friend accidentally mentioned the killer's name before I finished the book, I yelled, \"Stop! That's a huge **spoiler**!\"",
+      "options": {
+        "option": [
+          {
+            "definition": "破坏者",
+            "iscorrect": false
+          },
+          {
+            "definition": "宠坏的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "剧透（内容/者）",
+            "iscorrect": true
+          },
+          {
+            "definition": "溢出器",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

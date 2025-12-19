@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "traveler",
+      "error_analysis": "易因形近词“trader”（商人）混淆，或误将“travel”与“trail”（小径）关联而理解为“追踪者”",
+      "sentence": "The young **traveler** packed his backpack and set off for a three-month journey across Europe.",
+      "options": {
+        "option": [
+          {
+            "definition": "旅行者",
+            "iscorrect": true
+          },
+          {
+            "definition": "商人",
+            "iscorrect": false
+          },
+          {
+            "definition": "追踪者",
+            "iscorrect": false
+          },
+          {
+            "definition": "运输者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

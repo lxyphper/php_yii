@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "razor",
+      "error_analysis": "易受形近词\"raiser\"(提升器/饲养者)干扰，或因词根\"raz-\"(如raze摧毁)误判为\"摧毁工具\"",
+      "sentence": "He always keeps a **razor** in his bathroom to shave his beard every morning.",
+      "options": {
+        "option": [
+          {
+            "definition": "剃须刀；刮胡刀",
+            "iscorrect": true
+          },
+          {
+            "definition": "提升器；饲养者",
+            "iscorrect": false
+          },
+          {
+            "definition": "摧毁工具；拆毁器",
+            "iscorrect": false
+          },
+          {
+            "definition": "光线发射器；射线装置",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

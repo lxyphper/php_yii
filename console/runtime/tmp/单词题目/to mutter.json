@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to mutter",
+      "error_analysis": "学生易将'mutter'与形近词'utter'（大声说出）或'matter'（有关系）混淆，误判为'大声表达'或'重要'",
+      "sentence": "When she found out she had lost her keys, she began to **mutter** to herself about being so careless.",
+      "options": {
+        "option": [
+          {
+            "definition": "小声嘟囔；喃喃自语",
+            "iscorrect": true
+          },
+          {
+            "definition": "大声说出；清楚表达",
+            "iscorrect": false
+          },
+          {
+            "definition": "有关系；重要",
+            "iscorrect": false
+          },
+          {
+            "definition": "完全说出；彻底表达",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

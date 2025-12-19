@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to postpone",
+      "error_analysis": "学生易因“post”的“张贴/邮政”义形近联想，或词根“pone”（放置）的字面误导，将“postpone”误判为“张贴”“邮寄”或“放置”。",
+      "sentence": "The teacher had to **postpone** the math exam until next Wednesday because half the class was absent due to the flu.",
+      "options": {
+        "option": [
+          {
+            "definition": "推迟；延期",
+            "iscorrect": true
+          },
+          {
+            "definition": "张贴；发布",
+            "iscorrect": false
+          },
+          {
+            "definition": "邮寄；发送",
+            "iscorrect": false
+          },
+          {
+            "definition": "放置；摆放",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

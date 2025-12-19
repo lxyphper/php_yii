@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "thrilling",
+      "error_analysis": "易混淆形近词“thriving”（繁荣的），或误从“thrill”动词“发抖”推导为“发抖的”",
+      "sentence": "The roller coaster ride was so **thrilling** that we screamed the whole time.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人激动的；刺激的",
+            "iscorrect": true
+          },
+          {
+            "definition": "繁荣的；兴旺的",
+            "iscorrect": false
+          },
+          {
+            "definition": "发抖的；颤抖的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无聊的；乏味的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

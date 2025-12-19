@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "imagery",
+      "error_analysis": "误将imagery理解为\"图像（复数）\"或\"想象\"，忽略其\"文学/艺术中的意象\"这一核心义",
+      "sentence": "The poet uses vivid **imagery** of sunset and oceans to convey a sense of longing in his latest poem.",
+      "options": {
+        "option": [
+          {
+            "definition": "（文学或艺术中的）意象",
+            "iscorrect": true
+          },
+          {
+            "definition": "图像；图片（复数）",
+            "iscorrect": false
+          },
+          {
+            "definition": "想象；幻想",
+            "iscorrect": false
+          },
+          {
+            "definition": "印象；感觉",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

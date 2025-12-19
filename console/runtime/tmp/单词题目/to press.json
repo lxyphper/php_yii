@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to press",
+      "error_analysis": "学生易将动词“to press”误解为“印刷”（来自名词“press”的“印刷机”含义迁移）",
+      "sentence": "Could you **press** the elevator button for me? I can't reach it.",
+      "options": {
+        "option": [
+          {
+            "definition": "印刷",
+            "iscorrect": false
+          },
+          {
+            "definition": "催促",
+            "iscorrect": false
+          },
+          {
+            "definition": "按压",
+            "iscorrect": true
+          },
+          {
+            "definition": "压迫",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

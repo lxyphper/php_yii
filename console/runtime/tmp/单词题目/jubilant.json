@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "jubilant",
+      "error_analysis": "中国学生易因“jubilant”与常见词“reluctant”（不情愿的）拼写结尾均为“-lant”而混淆，或因“ju-”开头联想到“juvenile”（青少年的）而误判词义。",
+      "sentence": "The team was **jubilant** after winning the championship, cheering and hugging each other on the field.",
+      "options": {
+        "option": [
+          {
+            "definition": "欢欣鼓舞的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不情愿的",
+            "iscorrect": false
+          },
+          {
+            "definition": "青少年的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有判断力的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

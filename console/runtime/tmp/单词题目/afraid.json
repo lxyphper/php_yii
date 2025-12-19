@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "afraid",
+      "error_analysis": "学生易因词根\"a-\"（误作\"不\"）与\"fright\"的联想，将\"afraid\"误解为\"不害怕的\"，或因形近词（如无明显形近词，此处用词根干扰替代）误判。",
+      "sentence": "The little girl held her mom's hand tightly, looking **afraid** of the big dog barking at her.",
+      "options": {
+        "option": [
+          {
+            "definition": "害怕的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不害怕的",
+            "iscorrect": false
+          },
+          {
+            "definition": "疲劳的",
+            "iscorrect": false
+          },
+          {
+            "definition": "害羞的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

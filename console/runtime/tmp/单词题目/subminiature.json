@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "subminiature",
+      "error_analysis": "学生易将\"sub-\"误理解为\"水下\"（词根误导）或与形近词\"submarine\"（潜艇）混淆，导致错误理解为\"水下微型的\"或\"潜艇相关的\"。",
+      "sentence": "The engineer designed a **subminiature** sensor that fits inside a watch, making it ideal for wearable technology.",
+      "options": {
+        "option": [
+          {
+            "definition": "潜艇用的；与潜艇相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "水下微型的；用于水下的",
+            "iscorrect": false
+          },
+          {
+            "definition": "超小型的；微型的（比普通微型更小）",
+            "iscorrect": true
+          },
+          {
+            "definition": "迷你的；可爱的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

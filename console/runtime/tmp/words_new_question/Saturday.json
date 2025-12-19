@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Saturday",
+      "error_analysis": "学生易因“Saturday”与形近词“saturate”（饱和）拼写相似，误将其理解为与“饱和”相关的含义",
+      "sentence": "We usually go to the park with our friends on **Saturday**.",
+      "options": {
+        "option": [
+          {
+            "definition": "星期六",
+            "iscorrect": true
+          },
+          {
+            "definition": "饱和的日子",
+            "iscorrect": false
+          },
+          {
+            "definition": "坐的日子（“Sat”联想到“sat”<坐>）",
+            "iscorrect": false
+          },
+          {
+            "definition": "卫星日（“Sat”联想到“satellite”<卫星>）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

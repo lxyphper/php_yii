@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "exhaust",
+      "error_analysis": "学生易因形近词“exhibit”（展览）混淆，或因词根“ex-”（出）和“haust”（抽）误判为“抽出；排出”。",
+      "sentence": "The back-to-back exams **exhausted** Lisa, making her unable to focus on anything else.",
+      "options": {
+        "option": [
+          {
+            "definition": "使疲惫；耗尽",
+            "iscorrect": true
+          },
+          {
+            "definition": "展览；展示",
+            "iscorrect": false
+          },
+          {
+            "definition": "抽出；排出",
+            "iscorrect": false
+          },
+          {
+            "definition": "夸张；夸大",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

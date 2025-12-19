@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "consumption",
+      "error_analysis": "中国学生易因形近词“construction”（建设）混淆，或因词根“sum”（总和）误猜为“总结”。",
+      "sentence": "The report highlights the link between high energy **consumption** and rising carbon emissions.",
+      "options": {
+        "option": [
+          {
+            "definition": "消耗；消费",
+            "iscorrect": true
+          },
+          {
+            "definition": "建设；建造",
+            "iscorrect": false
+          },
+          {
+            "definition": "总结；合计",
+            "iscorrect": false
+          },
+          {
+            "definition": "生产；制造",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "doubt",
+      "error_analysis": "学生易因形近词\"double\"(双倍)或字面拆分\"d+out\"(出去)产生错误理解",
+      "sentence": "I have no **doubt** that she will pass the exam—she’s been studying hard for months.",
+      "options": {
+        "option": [
+          {
+            "definition": "怀疑；疑惑",
+            "iscorrect": true
+          },
+          {
+            "definition": "双倍；两倍",
+            "iscorrect": false
+          },
+          {
+            "definition": "出去；离开",
+            "iscorrect": false
+          },
+          {
+            "definition": "相信；信任",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

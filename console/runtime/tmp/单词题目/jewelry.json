@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "jewelry",
+      "error_analysis": "学生易因形近词\"journey\"(旅行)或词根\"jew\"误解为与犹太相关的物品",
+      "sentence": "On her birthday, Lucy received a beautiful piece of **jewelry** from her grandmother, which was a necklace with a small diamond.",
+      "options": {
+        "option": [
+          {
+            "definition": "旅行",
+            "iscorrect": false
+          },
+          {
+            "definition": "珠宝（总称）",
+            "iscorrect": true
+          },
+          {
+            "definition": "犹太文化物品",
+            "iscorrect": false
+          },
+          {
+            "definition": "日记",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

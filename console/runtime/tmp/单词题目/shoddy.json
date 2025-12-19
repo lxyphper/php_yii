@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "shoddy",
+      "error_analysis": "中国学生易因形近词\"shady\"(可疑的)或\"shod\"(穿鞋的)混淆，将\"shoddy\"误判为\"可疑的\"或\"与鞋相关的\"。",
+      "sentence": "The company received many complaints about the **shoddy** workmanship of their new furniture, which started falling apart within a month.",
+      "options": {
+        "option": [
+          {
+            "definition": "质量差的；粗制滥造的",
+            "iscorrect": true
+          },
+          {
+            "definition": "可疑的；阴暗的",
+            "iscorrect": false
+          },
+          {
+            "definition": "穿鞋的；有鞋的",
+            "iscorrect": false
+          },
+          {
+            "definition": "旧的；二手的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to pillage",
+      "error_analysis": "因形近词“pill”（药片）或“village”（村庄）误判为与药片或村庄相关的动作",
+      "sentence": "During the war, enemy soldiers would **pillage** villages, stealing food, money, and valuables.",
+      "options": {
+        "option": [
+          {
+            "definition": "抢劫；掠夺（尤指战争中）",
+            "iscorrect": true
+          },
+          {
+            "definition": "给...吃药；服用药片",
+            "iscorrect": false
+          },
+          {
+            "definition": "居住在村庄；使成为村庄",
+            "iscorrect": false
+          },
+          {
+            "definition": "搬运；运输",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

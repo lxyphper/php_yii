@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "word",
+      "error_analysis": "学生易因形近词“world”（世界）、“work”（工作）或错误拆分词根“ord”（命令）而误判“word”的含义",
+      "sentence": "Please spell the new **word** for me, I want to write it down.",
+      "options": {
+        "option": [
+          {
+            "definition": "单词；话语",
+            "iscorrect": true
+          },
+          {
+            "definition": "世界",
+            "iscorrect": false
+          },
+          {
+            "definition": "命令",
+            "iscorrect": false
+          },
+          {
+            "definition": "工作",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

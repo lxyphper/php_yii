@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "conceit",
+      "error_analysis": "学生易因形近词\"concept\"(概念)产生错误联想，或误将\"con-\"推导为\"共同\"而误解词义。",
+      "sentence": "His constant boasting about his achievements revealed a deep-seated **conceit** that made others uncomfortable.",
+      "options": {
+        "option": [
+          {
+            "definition": "概念，观念",
+            "iscorrect": false
+          },
+          {
+            "definition": "自负，自高自大",
+            "iscorrect": true
+          },
+          {
+            "definition": "隐藏的想法",
+            "iscorrect": false
+          },
+          {
+            "definition": "共同的目标",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

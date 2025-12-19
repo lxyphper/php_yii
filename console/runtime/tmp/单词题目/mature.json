@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mature",
+      "error_analysis": "易因形近词\"nature\"误判为\"自然的\"，或因词根\"mat-\"（关联\"mother\"）错误联想为\"女性的\"",
+      "sentence": "After facing many challenges, she became more **mature** and learned to handle conflicts with patience.",
+      "options": {
+        "option": [
+          {
+            "definition": "成熟的（指性格或行为）",
+            "iscorrect": true
+          },
+          {
+            "definition": "自然的",
+            "iscorrect": false
+          },
+          {
+            "definition": "女性的",
+            "iscorrect": false
+          },
+          {
+            "definition": "熟透的（指水果）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "sentense",
+      "sendence",
+      "santence",
+      "sentnce"
+    ],
+    "correct_chunks": [
+      "sen",
+      "ten",
+      "ce"
+    ],
+    "distractor_chunks": [
+      "san",
+      "den",
+      "se",
+      "tn"
+    ]
+  },
+  0
+]

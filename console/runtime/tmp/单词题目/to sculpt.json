@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to sculpt",
+      "error_analysis": "中国学生易因形近词\"scold\"（责备）混淆词义，或因词根联想错误将\"sculpt\"理解为\"切割\"（cut）。",
+      "sentence": "The artist spent months to **sculpt** a lifelike statue from a block of marble.",
+      "options": {
+        "option": [
+          {
+            "definition": "责备",
+            "iscorrect": false
+          },
+          {
+            "definition": "切割",
+            "iscorrect": false
+          },
+          {
+            "definition": "雕刻（用硬质材料制作立体作品）",
+            "iscorrect": true
+          },
+          {
+            "definition": "书写",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

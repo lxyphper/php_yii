@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "freezer",
+      "error_analysis": "学生易因“free”（自由/免费）的字面义及“-er”后缀，误将“freezer”理解为“使自由的人/物”或“免费的物品”。",
+      "sentence": "Please put the ice cream in the **freezer** to keep it from melting.",
+      "options": {
+        "option": [
+          {
+            "definition": "冷冻柜；冰柜",
+            "iscorrect": true
+          },
+          {
+            "definition": "使自由的人；解放器",
+            "iscorrect": false
+          },
+          {
+            "definition": "货轮；运输机",
+            "iscorrect": false
+          },
+          {
+            "definition": "冰箱；冷藏箱",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

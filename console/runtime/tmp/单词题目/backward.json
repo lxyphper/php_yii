@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "backward",
+      "error_analysis": "学生易因词根\"back(后面)+ward(朝向)\"直译为\"朝后的\"，或混淆其与副词\"backwards\"(向后地)的含义，忽略其\"落后的\"核心形容词义。",
+      "sentence": "The small town remains **backward** in education compared to the city.",
+      "options": {
+        "option": [
+          {
+            "definition": "落后的；迟钝的",
+            "iscorrect": true
+          },
+          {
+            "definition": "向后地（副词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "朝后的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "返回的（形容词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

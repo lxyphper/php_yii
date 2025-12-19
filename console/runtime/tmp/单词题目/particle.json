@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "particle",
+      "error_analysis": "学生易因形近词\"article\"误判为\"文章/物品\"，或因词根\"part\"误判为\"小部分\"。",
+      "sentence": "Physicists study how a single **particle** of light interacts with matter.",
+      "options": {
+        "option": [
+          {
+            "definition": "文章；物品",
+            "iscorrect": false
+          },
+          {
+            "definition": "粒子；微粒",
+            "iscorrect": true
+          },
+          {
+            "definition": "小部分；片段",
+            "iscorrect": false
+          },
+          {
+            "definition": "特别的东西；细节",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

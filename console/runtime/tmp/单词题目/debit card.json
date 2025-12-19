@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "debit card",
+      "error_analysis": "中国学生易因“debit”与“credit”（信用卡）的语义关联或“debt”（债务）的拼写相似，将“debit card”误判为“信用卡”或“债务卡”。",
+      "sentence": "I prefer using a **debit card** for groceries because it automatically deducts money from my bank account, so I don’t overspend.",
+      "options": {
+        "option": [
+          {
+            "definition": "信用卡（可以透支消费的支付卡）",
+            "iscorrect": false
+          },
+          {
+            "definition": "债务卡（用于偿还债务的卡片）",
+            "iscorrect": false
+          },
+          {
+            "definition": "借记卡（直接从银行账户扣除款项的支付卡）",
+            "iscorrect": true
+          },
+          {
+            "definition": "折扣卡（享受购物折扣的卡片）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "proton",
+      "error_analysis": "中国学生易因形近词\"protein\"(蛋白质)混淆词义，或因\"pro-\"(前/原)和\"-ton\"(吨)的词根误导认为是重量单位。",
+      "sentence": "An atom's nucleus contains neutrons and **protons**, which are positively charged particles.",
+      "options": {
+        "option": [
+          {
+            "definition": "质子（物理学中构成原子核的带正电粒子）",
+            "iscorrect": true
+          },
+          {
+            "definition": "蛋白质（生物体内的营养物质，由氨基酸组成）",
+            "iscorrect": false
+          },
+          {
+            "definition": "原吨（重量单位的前缀形式，如\"proton\"表示10⁻¹²吨）",
+            "iscorrect": false
+          },
+          {
+            "definition": "基础音调（声音的原始频率形式）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

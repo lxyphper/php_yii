@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to ignore",
+      "error_analysis": "学生易因形近词\"ignite\"(点燃)混淆词义，或因词根\"ig-\"(not)+\"norare\"(know)误判为\"不知道\"",
+      "sentence": "When Sarah called out to him, Tom pretended not to hear and continued walking, clearly choosing to **ignore** her.",
+      "options": {
+        "option": [
+          {
+            "definition": "故意不理会；忽视",
+            "iscorrect": true
+          },
+          {
+            "definition": "点燃；使燃烧",
+            "iscorrect": false
+          },
+          {
+            "definition": "不知道；缺乏知识",
+            "iscorrect": false
+          },
+          {
+            "definition": "忘记；不记得",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

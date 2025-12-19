@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to eclipse",
+      "error_analysis": "学生易因形近词\"elapse\"(流逝)或词根\"clip\"(剪辑)猜测，混淆其\"使黯然失色\"的核心比喻义。",
+      "sentence": "Her recent success has completely **eclipsed** her previous achievements in the field.",
+      "options": {
+        "option": [
+          {
+            "definition": "使黯然失色；超越",
+            "iscorrect": true
+          },
+          {
+            "definition": "（时间）流逝",
+            "iscorrect": false
+          },
+          {
+            "definition": "剪辑；削减",
+            "iscorrect": false
+          },
+          {
+            "definition": "发生日食/月食",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

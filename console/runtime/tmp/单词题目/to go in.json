@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to go in",
+      "error_analysis": "学生易将“to go in”与形近的“go on”“go for”等“go+介词”结构混淆，误猜含义",
+      "sentence": "The shop is still open; you can **go in** and buy what you need.",
+      "options": {
+        "option": [
+          {
+            "definition": "进入（不及物，如“进去”）",
+            "iscorrect": true
+          },
+          {
+            "definition": "继续（如“go on”的含义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "喜欢（如“go for”的含义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "出去（如“go out”的含义）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

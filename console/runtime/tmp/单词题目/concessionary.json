@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "concessionary",
+      "error_analysis": "易混淆形近词\"concessive\"(让步的)及词根\"concession\"(让步)，误判为\"让步的\"而非\"优惠的\"",
+      "sentence": "Students can get **concessionary** prices for the museum if they show their student ID cards.",
+      "options": {
+        "option": [
+          {
+            "definition": "优惠的（减价的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "让步的（如用于从句中的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "与让步相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "妥协的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

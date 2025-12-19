@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dump",
+      "error_analysis": "学生易因形近词混淆将“dump”误理解为“愚蠢的”（dumb）或“跳”（jump）",
+      "sentence": "Don’t **dump** your old toys in the living room.",
+      "options": {
+        "option": [
+          {
+            "definition": "倾倒；丢弃",
+            "iscorrect": true
+          },
+          {
+            "definition": "愚蠢的",
+            "iscorrect": false
+          },
+          {
+            "definition": "跳",
+            "iscorrect": false
+          },
+          {
+            "definition": "潮湿的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

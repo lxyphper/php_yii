@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "null hypothesis",
+      "error_analysis": "中国学生易因“null”的词根（如“空”“无效”）或与“new”的形近，将“null hypothesis”误判为“空假设”“无效假设”或“新假设”。",
+      "sentence": "In a study comparing the effectiveness of two teaching methods, the **null hypothesis** states that there is no significant difference in student performance between the two groups.",
+      "options": {
+        "option": [
+          {
+            "definition": "（统计学中的）空假设（即没有内容的假设）",
+            "iscorrect": false
+          },
+          {
+            "definition": "无效假设（即没有法律效力的假设）",
+            "iscorrect": false
+          },
+          {
+            "definition": "（统计学中的）原假设（即假设没有效果或差异的基准假设）",
+            "iscorrect": true
+          },
+          {
+            "definition": "新假设（即最近提出的假设）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

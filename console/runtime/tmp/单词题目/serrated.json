@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "serrated",
+      "error_analysis": "学生易因形近词“separated”（分开的）产生混淆，或因词根“serr-”不熟悉而误猜为“被评级的”（与“rated”关联）。",
+      "sentence": "The bread knife has a **serrated** edge that easily cuts through the hard crust of the bread.",
+      "options": {
+        "option": [
+          {
+            "definition": "有锯齿状的",
+            "iscorrect": true
+          },
+          {
+            "definition": "分开的",
+            "iscorrect": false
+          },
+          {
+            "definition": "被评级的",
+            "iscorrect": false
+          },
+          {
+            "definition": "饱和的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

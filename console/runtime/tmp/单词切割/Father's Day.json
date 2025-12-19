@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "Fathers Day",
+      "Farther's Day",
+      "Father s Day",
+      "Fathers' Day"
+    ],
+    "correct_chunks": [
+      "Father",
+      "'s",
+      "Day"
+    ],
+    "distractor_chunks": [
+      "Fathers",
+      "Farther",
+      "Father s",
+      "Fathers'"
+    ]
+  },
+  0
+]

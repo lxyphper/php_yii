@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sitcom",
+      "error_analysis": "学生易将\"sitcom\"拆分为\"sit\"（坐）和\"com\"（电脑/喜剧），错误联想为\"坐式电脑\"或\"坐下来的喜剧\"。",
+      "sentence": "Friends is one of the most popular **sitcoms** of all time, featuring a group of friends navigating life in New York City.",
+      "options": {
+        "option": [
+          {
+            "definition": "坐式电脑",
+            "iscorrect": false
+          },
+          {
+            "definition": "情景喜剧",
+            "iscorrect": true
+          },
+          {
+            "definition": "坐着的喜剧演员",
+            "iscorrect": false
+          },
+          {
+            "definition": "短篇幽默故事",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

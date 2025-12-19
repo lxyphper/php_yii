@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "thirty",
+      "error_analysis": "学生易因形近词\"thirsty\"(口渴的)的拼写相似而误将\"thirty\"理解为与\"口渴\"相关的词义",
+      "sentence": "There are **thirty** students in our class, and each of them has a new textbook.",
+      "options": {
+        "option": [
+          {
+            "definition": "三十（基数词，用于表示数量为30）",
+            "iscorrect": true
+          },
+          {
+            "definition": "口渴的（形容词，描述身体需要水分的感觉）",
+            "iscorrect": false
+          },
+          {
+            "definition": "十三（基数词，用于表示数量为13）",
+            "iscorrect": false
+          },
+          {
+            "definition": "第三（序数词，用于表示顺序中的第三个位置）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

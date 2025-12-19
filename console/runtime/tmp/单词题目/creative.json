@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "creative",
+      "error_analysis": "易因形近词create（动词“创造”）干扰，误将creative（形容词）理解为动词“创造”或混淆词性",
+      "sentence": "She is known for her **creative** ideas in designing new products.",
+      "options": {
+        "option": [
+          {
+            "definition": "创造（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "有创造力的；创造性的",
+            "iscorrect": true
+          },
+          {
+            "definition": "正在创造的（动词-ing形式）",
+            "iscorrect": false
+          },
+          {
+            "definition": "创造物（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

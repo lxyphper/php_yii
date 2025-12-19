@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ugly",
+      "error_analysis": "中国学生易因词根猜测将\"ugly\"误判为\"坏的\"（认为\"ug-\"表示\"坏\"），或因形近词联想混淆（如误与\"ully\"等基础词关联，但更常见为词根误导）",
+      "sentence": "The old house has a(n) **ugly** roof with broken tiles and peeling paint.",
+      "options": {
+        "option": [
+          {
+            "definition": "丑陋的；难看的",
+            "iscorrect": true
+          },
+          {
+            "definition": "坏的",
+            "iscorrect": false
+          },
+          {
+            "definition": "友好的",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

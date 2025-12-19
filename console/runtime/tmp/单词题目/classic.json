@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "classic",
+      "error_analysis": "因形近词\"class\"（班级）误判为\"班级的\"，或因词根\"class\"（等级）误猜为\"高级的\"",
+      "sentence": "The movie *The Shawshank Redemption* is widely regarded as a **classic** of 20th-century filmmaking.",
+      "options": {
+        "option": [
+          {
+            "definition": "经典的；典范的",
+            "iscorrect": true
+          },
+          {
+            "definition": "班级的；课堂的",
+            "iscorrect": false
+          },
+          {
+            "definition": "高级的；上等的",
+            "iscorrect": false
+          },
+          {
+            "definition": "古典的；古代的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

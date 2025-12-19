@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "prodict placement",
+      "product placemant",
+      "product plasement",
+      "prodcuct placement"
+    ],
+    "correct_chunks": [
+      "pro",
+      "duct",
+      "place",
+      "ment"
+    ],
+    "distractor_chunks": [
+      "dict",
+      "mant",
+      "plas",
+      "dcuct"
+    ]
+  },
+  0
+]

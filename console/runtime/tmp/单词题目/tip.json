@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tip",
+      "error_analysis": "学生易因形近词“top”混淆“tip”的含义，或误将其字面理解为“尖端”而非语境中的“小费”",
+      "sentence": "After dinner, we gave the waiter a $5 **tip** for his good service.",
+      "options": {
+        "option": [
+          {
+            "definition": "小费",
+            "iscorrect": true
+          },
+          {
+            "definition": "顶部",
+            "iscorrect": false
+          },
+          {
+            "definition": "尖端",
+            "iscorrect": false
+          },
+          {
+            "definition": "建议",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

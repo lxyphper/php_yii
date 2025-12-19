@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "DVD",
+      "error_analysis": "学生易将DVD（数字多功能光盘）误解为播放设备（如DVD播放器），或与形近的VCD（视频光盘）混淆。",
+      "sentence": "I found an old **DVD** of my favorite movie in the attic; I can’t wait to watch it on the player tonight.",
+      "options": {
+        "option": [
+          {
+            "definition": "数字多功能光盘（存储介质）",
+            "iscorrect": true
+          },
+          {
+            "definition": "DVD播放器（播放设备）",
+            "iscorrect": false
+          },
+          {
+            "definition": "视频光盘（VCD的主要功能）",
+            "iscorrect": false
+          },
+          {
+            "definition": "压缩光盘（CD的全称对应）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

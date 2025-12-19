@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "insurrection",
+      "error_analysis": "学生易因形近词（如inspection/instruction）误判为“检查”或“指示”，或因词根误猜为无关语义",
+      "sentence": "After years of harsh rule, the villagers organized an **insurrection** to take back their land from the corrupt officials.",
+      "options": {
+        "option": [
+          {
+            "definition": "检查",
+            "iscorrect": false
+          },
+          {
+            "definition": "指示",
+            "iscorrect": false
+          },
+          {
+            "definition": "起义；叛乱",
+            "iscorrect": true
+          },
+          {
+            "definition": "突然袭击",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

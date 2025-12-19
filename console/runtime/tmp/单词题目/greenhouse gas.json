@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "greenhouse gas",
+      "error_analysis": "学生易因字面直译“greenhouse”为“绿色房屋”而将“greenhouse gas”误译为“绿色房屋气体”或“环保气体”。",
+      "sentence": "Carbon dioxide is a major **greenhouse gas** that contributes to global warming.",
+      "options": {
+        "option": [
+          {
+            "definition": "温室气体",
+            "iscorrect": true
+          },
+          {
+            "definition": "绿色房屋使用的气体",
+            "iscorrect": false
+          },
+          {
+            "definition": "环保型气体（因“green”联想到“环保”）",
+            "iscorrect": false
+          },
+          {
+            "definition": "温室里的燃料气体",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

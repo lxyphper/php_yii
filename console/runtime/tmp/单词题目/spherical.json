@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "spherical",
+      "error_analysis": "学生易因形近词“spiral”（螺旋的）混淆，或误将“spherical”当作“球体”（名词）而非“球形的”（形容词）",
+      "sentence": "The crystal ball on the shelf has a perfect **spherical** shape, reflecting light in all directions.",
+      "options": {
+        "option": [
+          {
+            "definition": "球形的",
+            "iscorrect": true
+          },
+          {
+            "definition": "螺旋的",
+            "iscorrect": false
+          },
+          {
+            "definition": "球体",
+            "iscorrect": false
+          },
+          {
+            "definition": "宽敞的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

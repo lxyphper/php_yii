@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "effectively",
+      "error_analysis": "学生易混淆形近词\"efficiently\"(高效地)与\"effectively\"(有效地)，或因词根\"effect\"直译\"有效果地\"而忽略其\"达到预期结果\"的核心义。",
+      "sentence": "The new policy **effectively** reduced traffic congestion in the city within six months.",
+      "options": {
+        "option": [
+          {
+            "definition": "有效地（指达到预期结果）",
+            "iscorrect": true
+          },
+          {
+            "definition": "高效地（节省时间或资源）",
+            "iscorrect": false
+          },
+          {
+            "definition": "有效果地（强调产生效果这一事实）",
+            "iscorrect": false
+          },
+          {
+            "definition": "情感上地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

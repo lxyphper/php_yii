@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to open",
+      "error_analysis": "学生易因形近词“operate”（操作）混淆“to open”的词义，或因“open”与“pen”（钢笔）的字面关联误解为“拿钢笔”。",
+      "sentence": "Please **open** the window to let some fresh air in.",
+      "options": {
+        "option": [
+          {
+            "definition": "操作",
+            "iscorrect": false
+          },
+          {
+            "definition": "拿钢笔",
+            "iscorrect": false
+          },
+          {
+            "definition": "反对",
+            "iscorrect": false
+          },
+          {
+            "definition": "打开（使关闭的东西开启）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

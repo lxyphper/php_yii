@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "curvaceous",
+      "error_analysis": "学生易因形近词curious（好奇的）及词根cur-（关心）的误导而猜错词义",
+      "sentence": "The model's **curvaceous** figure attracted many admiring glances at the fashion show.",
+      "options": {
+        "option": [
+          {
+            "definition": "好奇的",
+            "iscorrect": false
+          },
+          {
+            "definition": "贪婪的",
+            "iscorrect": false
+          },
+          {
+            "definition": "曲线美的（尤指女性身材）",
+            "iscorrect": true
+          },
+          {
+            "definition": "关心的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

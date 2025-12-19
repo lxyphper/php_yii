@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "meat",
+      "error_analysis": "学生易因形近词\"meet\"（遇见）或\"meal\"（饭）的干扰，将\"meat\"错误理解为\"遇见\"或\"饭\"。",
+      "sentence": "She bought some fresh **meat** from the supermarket to cook soup.",
+      "options": {
+        "option": [
+          {
+            "definition": "遇见",
+            "iscorrect": false
+          },
+          {
+            "definition": "饭",
+            "iscorrect": false
+          },
+          {
+            "definition": "肉",
+            "iscorrect": true
+          },
+          {
+            "definition": "同伴",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "willowy",
+      "error_analysis": "学生易因\"will\"（意志）词根误导认为是\"有意志的\"，或因形近\"willing\"（愿意的）混淆为\"顺从的\"",
+      "sentence": "The ballerina moved across the stage with a **willowy** grace that captivated the audience.",
+      "options": {
+        "option": [
+          {
+            "definition": "细长柔软且优雅的（尤指身材或姿态）",
+            "iscorrect": true
+          },
+          {
+            "definition": "有意志的；坚定的",
+            "iscorrect": false
+          },
+          {
+            "definition": "愿意的；顺从的",
+            "iscorrect": false
+          },
+          {
+            "definition": "脆弱的；易折断的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

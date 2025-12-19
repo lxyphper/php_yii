@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "honeyed",
+      "error_analysis": "学生易因\"honey\"（蜂蜜）的字面义将\"honeyed\"误解为\"甜的（味道）\"，忽略其\"甜言蜜语的；讨好的\"比喻义。",
+      "sentence": "The salesman used a **honeyed** tone to convince the customer to buy the product.",
+      "options": {
+        "option": [
+          {
+            "definition": "甜的（指味道）",
+            "iscorrect": false
+          },
+          {
+            "definition": "甜言蜜语的；讨好的",
+            "iscorrect": true
+          },
+          {
+            "definition": "诚实的",
+            "iscorrect": false
+          },
+          {
+            "definition": "尊敬的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "existentialism",
+      "error_analysis": "学生易因形近词\"essentialism\"（本质主义）混淆，或词根\"exist\"过度直译误判为\"存在的状态\"而非哲学流派\"存在主义\"。",
+      "sentence": "Many philosophers linked to **existentialism**, like Jean-Paul Sartre, argue that humans must create their own meaning in a world without inherent purpose.",
+      "options": {
+        "option": [
+          {
+            "definition": "存在主义（一种强调个人自由与责任的哲学流派）",
+            "iscorrect": true
+          },
+          {
+            "definition": "本质主义（强调事物本质属性的哲学观点）",
+            "iscorrect": false
+          },
+          {
+            "definition": "存在的状态（指事物存在的方式或状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "生存主义（强调生存本能与自我保护的理念）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

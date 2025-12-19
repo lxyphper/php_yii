@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "neurosis",
+      "error_analysis": "学生易因词根“neuro-”（神经）误导将其误解为神经物理损伤，或因形近词“necrosis”（坏死）混淆词义。",
+      "sentence": "After struggling with chronic worry for years, Maria was diagnosed with a **neurosis** that made her avoid social interactions completely.",
+      "options": {
+        "option": [
+          {
+            "definition": "神经症；神经官能症（一种心理障碍）",
+            "iscorrect": true
+          },
+          {
+            "definition": "神经损伤（如神经断裂或受损）",
+            "iscorrect": false
+          },
+          {
+            "definition": "坏死（如组织或细胞坏死）",
+            "iscorrect": false
+          },
+          {
+            "definition": "神经痛（如神经引发的剧烈疼痛）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

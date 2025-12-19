@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "landslide",
+      "error_analysis": "学生易因词根拆分（land+slide）误选字面义“山体滑坡”，或因形近词“landscape”误选“风景”。",
+      "sentence": "The candidate won the election by a **landslide**, securing over 75% of the total votes.",
+      "options": {
+        "option": [
+          {
+            "definition": "风景",
+            "iscorrect": false
+          },
+          {
+            "definition": "山体滑坡",
+            "iscorrect": false
+          },
+          {
+            "definition": "压倒性胜利",
+            "iscorrect": true
+          },
+          {
+            "definition": "土地开垦",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

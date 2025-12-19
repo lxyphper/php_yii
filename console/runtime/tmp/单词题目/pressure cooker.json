@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pressure cooker",
+      "error_analysis": "学生易将“cooker”误判为“厨师”（形近于“cook”），或把“pressure”的“压力”过度直译为“按压”，导致误解词义。",
+      "sentence": "My mom uses a **pressure cooker** to cook rice quickly because it saves time.",
+      "options": {
+        "option": [
+          {
+            "definition": "压力厨师",
+            "iscorrect": false
+          },
+          {
+            "definition": "按压式炊具",
+            "iscorrect": false
+          },
+          {
+            "definition": "高压烹饪法",
+            "iscorrect": false
+          },
+          {
+            "definition": "高压锅",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

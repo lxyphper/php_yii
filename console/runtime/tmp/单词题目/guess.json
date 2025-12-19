@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "guess",
+      "error_analysis": "学生易因形近词“guest”（客人）混淆“guess”的词义，或误将其理解为“假设”而非“猜测”。",
+      "sentence": "Can you **guess** what I bought for your birthday?",
+      "options": {
+        "option": [
+          {
+            "definition": "客人",
+            "iscorrect": false
+          },
+          {
+            "definition": "猜测",
+            "iscorrect": true
+          },
+          {
+            "definition": "假设",
+            "iscorrect": false
+          },
+          {
+            "definition": "推测",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

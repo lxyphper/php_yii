@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "small-scale",
+      "error_analysis": "学生易将\"scale\"误联想为\"刻度\"或\"尺寸\"，从而把\"small-scale\"错误理解为\"小刻度的\"或\"小尺寸的\"，忽略其\"小规模的\"核心含义。",
+      "sentence": "The town only has a **small-scale** factory that employs about 50 people.",
+      "options": {
+        "option": [
+          {
+            "definition": "小规模的",
+            "iscorrect": true
+          },
+          {
+            "definition": "小刻度的",
+            "iscorrect": false
+          },
+          {
+            "definition": "小尺寸的",
+            "iscorrect": false
+          },
+          {
+            "definition": "小范围的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

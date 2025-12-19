@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "abatement",
+      "error_analysis": "学生易因形近词\"abandonment\"（放弃）干扰，或词根猜测错误将\"abatement\"误判为\"放弃\"或\"缩写\"。",
+      "sentence": "The city council approved a new policy aimed at the **abatement** of air pollution from factories.",
+      "options": {
+        "option": [
+          {
+            "definition": "减少；减轻",
+            "iscorrect": true
+          },
+          {
+            "definition": "放弃；抛弃",
+            "iscorrect": false
+          },
+          {
+            "definition": "缩写；简化",
+            "iscorrect": false
+          },
+          {
+            "definition": "增加；增强",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

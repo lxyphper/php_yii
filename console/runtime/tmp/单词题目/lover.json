@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lover",
+      "error_analysis": "中国学生易因形近词\"liver\"（肝脏）混淆拼写，或因\"love+er\"拆分误以为是\"爱者\"，忽略其\"恋人\"的核心含义。",
+      "sentence": "They have been **lover**s since their university days and are now saving for their wedding.",
+      "options": {
+        "option": [
+          {
+            "definition": "恋人",
+            "iscorrect": true
+          },
+          {
+            "definition": "肝脏",
+            "iscorrect": false
+          },
+          {
+            "definition": "爱者（泛泛的爱别人的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "爱好者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

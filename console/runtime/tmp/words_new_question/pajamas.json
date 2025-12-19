@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pajamas",
+      "error_analysis": "学生易因“pajamas”中的“jam”（果酱）联想到食物，或误判为与睡眠无关的运动服装。",
+      "sentence": "The kids were so tired that they put on their **pajamas** and went to bed immediately after dinner.",
+      "options": {
+        "option": [
+          {
+            "definition": "睡衣",
+            "iscorrect": true
+          },
+          {
+            "definition": "果酱罐",
+            "iscorrect": false
+          },
+          {
+            "definition": "运动长裤",
+            "iscorrect": false
+          },
+          {
+            "definition": "手工面包",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

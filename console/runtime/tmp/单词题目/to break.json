@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to break",
+      "error_analysis": "形近词\"brake\"（刹车）的干扰，导致学生误将\"break\"理解为\"刹车\"",
+      "sentence": "She accidentally dropped the vase and it started to **break** into pieces.",
+      "options": {
+        "option": [
+          {
+            "definition": "刹车",
+            "iscorrect": false
+          },
+          {
+            "definition": "打破；弄坏",
+            "iscorrect": true
+          },
+          {
+            "definition": "修复；修补",
+            "iscorrect": false
+          },
+          {
+            "definition": "购买；获得",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pesticide",
+      "error_analysis": "学生易将“pest”误记为“pet”（宠物），或因形近“medicine”（药物），将“pesticide”误解为“宠物药品”或“人体药物”。",
+      "sentence": "To protect their vegetable crops, many gardeners use **pesticide** to get rid of harmful insects and fungi.",
+      "options": {
+        "option": [
+          {
+            "definition": "农药；杀虫剂",
+            "iscorrect": true
+          },
+          {
+            "definition": "宠物药品",
+            "iscorrect": false
+          },
+          {
+            "definition": "人体感冒药",
+            "iscorrect": false
+          },
+          {
+            "definition": "农业肥料",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cell",
+      "error_analysis": "学生易将“cell”与形近词“call”（打电话）或“sell”（卖）混淆，导致误判其核心含义。",
+      "sentence": "Red blood **cells** transport oxygen from the lungs to the rest of the body.",
+      "options": {
+        "option": [
+          {
+            "definition": "细胞",
+            "iscorrect": true
+          },
+          {
+            "definition": "打电话",
+            "iscorrect": false
+          },
+          {
+            "definition": "卖",
+            "iscorrect": false
+          },
+          {
+            "definition": "小房间",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

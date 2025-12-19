@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "snail-paced",
+      "error_analysis": "学生易因“snail”（蜗牛）和“paced”（节奏）的字面义误解为“缓慢但有规律的”，或因形近“snake”（蛇）误判为“快速的”。",
+      "sentence": "The traffic on the highway was **snail-paced** after the accident, so I missed the first part of the meeting.",
+      "options": {
+        "option": [
+          {
+            "definition": "极慢的",
+            "iscorrect": true
+          },
+          {
+            "definition": "快速的",
+            "iscorrect": false
+          },
+          {
+            "definition": "缓慢但有规律的",
+            "iscorrect": false
+          },
+          {
+            "definition": "小巧玲珑的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

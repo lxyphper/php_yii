@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "short-tempered",
+      "error_analysis": "学生易通过“short（短）+ temper（脾气）”字面拆分或与“good-tempered”形近混淆，误解为“脾气温和的”",
+      "sentence": "My uncle is so **short-tempered** that he yells at anyone who accidentally bumps into him.",
+      "options": {
+        "option": [
+          {
+            "definition": "易怒的，脾气暴躁的",
+            "iscorrect": true
+          },
+          {
+            "definition": "脾气温和的",
+            "iscorrect": false
+          },
+          {
+            "definition": "缺乏脾气的",
+            "iscorrect": false
+          },
+          {
+            "definition": "脾气持续时间短的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

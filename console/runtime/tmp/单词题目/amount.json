@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "amount",
+      "error_analysis": "学生易因形近词“account”（账户）或词根“mount”（山）误将“amount”理解为“账户”或“山；堆积”。",
+      "sentence": "The total **amount** of money we raised for the charity was $10,000.",
+      "options": {
+        "option": [
+          {
+            "definition": "数量；总额",
+            "iscorrect": true
+          },
+          {
+            "definition": "账户",
+            "iscorrect": false
+          },
+          {
+            "definition": "山；堆积",
+            "iscorrect": false
+          },
+          {
+            "definition": "测量；计算",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

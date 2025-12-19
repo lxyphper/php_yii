@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "glouten",
+      "gluden",
+      "glutenfree",
+      "deit",
+      "diett"
+    ],
+    "correct_chunks": [
+      "gluten",
+      "-free",
+      "diet"
+    ],
+    "distractor_chunks": [
+      "glou",
+      "glud",
+      "free",
+      "dei",
+      "diett"
+    ]
+  },
+  0
+]

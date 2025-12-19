@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to underline",
+      "error_analysis": "学生易因形近词underlie（构成...基础）或词根字面义（在下面画线）误解其核心义（强调/标注以强调）",
+      "sentence": "The teacher asked us to **underline** the key points in the passage to help with revision.",
+      "options": {
+        "option": [
+          {
+            "definition": "构成...的基础；是...的根本",
+            "iscorrect": false
+          },
+          {
+            "definition": "强调；用下划线标注以突出",
+            "iscorrect": true
+          },
+          {
+            "definition": "在...下面画一条线（无强调意图）",
+            "iscorrect": false
+          },
+          {
+            "definition": "经历；承受",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

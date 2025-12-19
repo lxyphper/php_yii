@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "venomous",
+      "error_analysis": "易因形近词“venous”（静脉的）误判为“静脉的”，或因词根“ven-”（如vengeance）误判为“复仇的”",
+      "sentence": "The zookeeper warned us not to touch the **venomous** spider in the glass case.",
+      "options": {
+        "option": [
+          {
+            "definition": "静脉的",
+            "iscorrect": false
+          },
+          {
+            "definition": "复仇的",
+            "iscorrect": false
+          },
+          {
+            "definition": "著名的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有毒的（指动物/植物）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

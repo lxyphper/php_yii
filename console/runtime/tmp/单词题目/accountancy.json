@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "accountancy",
+      "error_analysis": "学生易将accountancy（会计工作/会计学）误判为形近词accountant（会计师），或通过词根account（账户）过度推导为“账户管理”。",
+      "sentence": "After graduating with a degree in **accountancy**, she started working at a top financial firm as an accountant.",
+      "options": {
+        "option": [
+          {
+            "definition": "会计工作；会计学",
+            "iscorrect": true
+          },
+          {
+            "definition": "会计师",
+            "iscorrect": false
+          },
+          {
+            "definition": "账户管理",
+            "iscorrect": false
+          },
+          {
+            "definition": "财务分析",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

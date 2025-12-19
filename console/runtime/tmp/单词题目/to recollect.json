@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to recollect",
+      "error_analysis": "学生易因形近词“collect”（收集）及词根“re-+collect”的错误推导，将“to recollect”误解为“重新收集”或“整理”。",
+      "sentence": "I tried hard to **recollect** what she said at the meeting, but my mind was blank.",
+      "options": {
+        "option": [
+          {
+            "definition": "重新收集（物品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "整理房间",
+            "iscorrect": false
+          },
+          {
+            "definition": "回忆起；想起",
+            "iscorrect": true
+          },
+          {
+            "definition": "再次购买",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

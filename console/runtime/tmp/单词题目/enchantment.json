@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "enchantment",
+      "error_analysis": "易因形近词enforcement（执行）干扰，或词根chant（吟唱）误解为“吟唱行为”。",
+      "sentence": "The old castle was filled with an air of **enchantment**, making everyone who visited feel like they had stepped into a fairy tale.",
+      "options": {
+        "option": [
+          {
+            "definition": "执行；强制",
+            "iscorrect": false
+          },
+          {
+            "definition": "魅力；使人着迷的事物",
+            "iscorrect": true
+          },
+          {
+            "definition": "吟唱；歌曲",
+            "iscorrect": false
+          },
+          {
+            "definition": "纠缠；缠绕",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

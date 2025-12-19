@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "artificial intelligence",
+      "error_analysis": "学生易因形近词“artistic”（艺术的）或词根“art”（工艺/艺术）将“artificial intelligence”误解为“艺术智能”或“工艺智能”",
+      "sentence": "Many tech companies are using **artificial intelligence** to develop self-driving cars and voice-activated assistants.",
+      "options": {
+        "option": [
+          {
+            "definition": "人工智能",
+            "iscorrect": true
+          },
+          {
+            "definition": "艺术智能",
+            "iscorrect": false
+          },
+          {
+            "definition": "工艺智能",
+            "iscorrect": false
+          },
+          {
+            "definition": "虚假智能",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

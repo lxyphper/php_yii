@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rapid-fire",
+      "error_analysis": "学生易将\"rapid-fire\"字面拆解为\"快速的+火\"，误理解为与\"火\"相关的快速（如\"快速起火\"），而忽略其引申义\"连珠炮似的（快而连续）\"。",
+      "sentence": "During the job interview, the recruiter threw **rapid-fire** questions at the candidate, who struggled to answer them all in time.",
+      "options": {
+        "option": [
+          {
+            "definition": "连珠炮似的（形容说话、提问等快而连续的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "快速起火的",
+            "iscorrect": false
+          },
+          {
+            "definition": "猛烈燃烧的",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速射击的（指枪支）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

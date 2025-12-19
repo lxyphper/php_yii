@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "orange",
+      "error_analysis": "学生易因形近词\"range\"（范围）产生联想，或拆分\"or\"+\"ange\"导致错误理解",
+      "sentence": "She peeled an **orange** and shared the segments with her friends.",
+      "options": {
+        "option": [
+          {
+            "definition": "橙子（一种圆形的橙色水果）",
+            "iscorrect": true
+          },
+          {
+            "definition": "范围；排列",
+            "iscorrect": false
+          },
+          {
+            "definition": "或者；否则",
+            "iscorrect": false
+          },
+          {
+            "definition": "天使；安琪儿",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

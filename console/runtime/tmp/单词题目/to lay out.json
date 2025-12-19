@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to lay out",
+      "error_analysis": "学生易因“lay”（放置）和“out”（向外）的字面含义误导，错误理解为“把...放出去”，或混淆形近词“lay off”（解雇）。",
+      "sentence": "Before the party, Mary spent hours **laying out** the table with plates, glasses, and flowers.",
+      "options": {
+        "option": [
+          {
+            "definition": "布置；安排；设计",
+            "iscorrect": true
+          },
+          {
+            "definition": "把...放出去；送出",
+            "iscorrect": false
+          },
+          {
+            "definition": "解雇；辞退",
+            "iscorrect": false
+          },
+          {
+            "definition": "躺下休息",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

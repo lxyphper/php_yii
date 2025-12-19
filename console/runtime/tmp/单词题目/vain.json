@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "vain",
+      "error_analysis": "易混淆形近词“vein”（静脉）或误将“vain”（徒劳的）理解为“空虚的”（词根“空”的误导）",
+      "sentence": "All his efforts to fix the old bike were **vain**; it still wouldn’t start.",
+      "options": {
+        "option": [
+          {
+            "definition": "徒劳的；无用的",
+            "iscorrect": true
+          },
+          {
+            "definition": "静脉的；叶脉的",
+            "iscorrect": false
+          },
+          {
+            "definition": "空虚的；无意义的",
+            "iscorrect": false
+          },
+          {
+            "definition": "自负的；傲慢的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

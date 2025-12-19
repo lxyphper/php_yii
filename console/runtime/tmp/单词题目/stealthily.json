@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stealthily",
+      "error_analysis": "学生易将\"stealthily\"与形近词\"steal\"（偷）关联，误以为是\"偷窃地\"，或因不熟悉\"stealth\"词根而猜测为\"健康地\"（如healthily的干扰）",
+      "sentence": "The cat moved **stealthily** towards the bird, trying not to make any noise.",
+      "options": {
+        "option": [
+          {
+            "definition": "偷窃地",
+            "iscorrect": false
+          },
+          {
+            "definition": "健康地",
+            "iscorrect": false
+          },
+          {
+            "definition": "偷偷地；秘密地",
+            "iscorrect": true
+          },
+          {
+            "definition": "大声地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

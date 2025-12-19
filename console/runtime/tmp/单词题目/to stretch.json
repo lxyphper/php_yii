@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to stretch",
+      "error_analysis": "学生易因形近词\"strengthen\"(加强)或\"strict\"(严格)的干扰，将\"to stretch\"误判为\"加强\"或\"严格\"",
+      "sentence": "After sitting for hours, she stood up to **stretch** her legs and back.",
+      "options": {
+        "option": [
+          {
+            "definition": "伸展；拉伸",
+            "iscorrect": true
+          },
+          {
+            "definition": "加强；增强",
+            "iscorrect": false
+          },
+          {
+            "definition": "严格的；严厉的",
+            "iscorrect": false
+          },
+          {
+            "definition": "收缩；缩小",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

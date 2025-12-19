@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "vengeful",
+      "error_analysis": "学生易因形近词\"valuable\"(有价值的)混淆，或因词根\"venge\"猜测为\"胜利\"而误解为\"胜利的\"",
+      "sentence": "The man became **vengeful** after his friend stole his idea, planning to ruin their partnership in return.",
+      "options": {
+        "option": [
+          {
+            "definition": "有价值的",
+            "iscorrect": false
+          },
+          {
+            "definition": "胜利的",
+            "iscorrect": false
+          },
+          {
+            "definition": "温和的",
+            "iscorrect": false
+          },
+          {
+            "definition": "复仇的，报复心强的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

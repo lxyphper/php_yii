@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to attempt",
+      "error_analysis": "易因形近词\"attend\"误判为\"参加\"，或因词根\"tempt\"（引诱）误判为\"诱惑\"",
+      "sentence": "He will **attempt** to solve the problem using a new method he learned recently.",
+      "options": {
+        "option": [
+          {
+            "definition": "尝试；试图",
+            "iscorrect": true
+          },
+          {
+            "definition": "参加；出席",
+            "iscorrect": false
+          },
+          {
+            "definition": "诱惑；引诱",
+            "iscorrect": false
+          },
+          {
+            "definition": "完成；实现",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

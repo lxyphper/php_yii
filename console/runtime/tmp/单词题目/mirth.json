@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mirth",
+      "error_analysis": "学生易因形近词“birth”（出生）或“myth”（神话）产生错误联想，或误将“mirth”理解为“镜子”（mirror的形近）",
+      "sentence": "The comedian's jokes caused great **mirth** among the audience.",
+      "options": {
+        "option": [
+          {
+            "definition": "欢乐；笑声",
+            "iscorrect": true
+          },
+          {
+            "definition": "出生；诞生",
+            "iscorrect": false
+          },
+          {
+            "definition": "神话；传说",
+            "iscorrect": false
+          },
+          {
+            "definition": "镜子；反射",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

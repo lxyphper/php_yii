@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "revitalizing",
+      "error_analysis": "学生易因词根\"vital\"（重要的）误导将其理解为\"重新重要的\"，或与同前缀词\"revise\"（修改）混淆为\"修改的\"",
+      "sentence": "The city's new park has been a **revitalizing** addition to the downtown area, bringing back energy and visitors to the once quiet streets.",
+      "options": {
+        "option": [
+          {
+            "definition": "使恢复活力的；振兴的",
+            "iscorrect": true
+          },
+          {
+            "definition": "重新重要的；再次关键的",
+            "iscorrect": false
+          },
+          {
+            "definition": "修改的；修订的",
+            "iscorrect": false
+          },
+          {
+            "definition": "更新的；翻新的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

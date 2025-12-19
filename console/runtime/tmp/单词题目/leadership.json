@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "leadership",
+      "error_analysis": "学生易将\"leadership\"（抽象的领导力）误理解为\"领导者\"（具体名词，形近词\"leader\"干扰）或\"领导的行为\"（词根过度推导）",
+      "sentence": "The company's success is largely due to the CEO's strong **leadership** in navigating market changes.",
+      "options": {
+        "option": [
+          {
+            "definition": "领导力（指领导的能力或状态）",
+            "iscorrect": true
+          },
+          {
+            "definition": "领导者（指具体的领导人物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "领导的行为（指领导所做的具体动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "阅读群（指某出版物的读者群体）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

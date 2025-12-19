@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sure-fire",
+      "error_analysis": "将合成词字面直译为“确定的火”，进而误解为与“火”相关的属性（如易燃的、热情的）",
+      "sentence": "The coach said this new training method is a **sure-fire** way to improve our team's performance.",
+      "options": {
+        "option": [
+          {
+            "definition": "必定成功的；万无一失的",
+            "iscorrect": true
+          },
+          {
+            "definition": "易燃的；易着火的",
+            "iscorrect": false
+          },
+          {
+            "definition": "热情洋溢的；充满活力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "确信的；有把握的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

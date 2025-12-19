@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "headline",
+      "error_analysis": "学生易将\"headline\"拆分为\"head\"+\"line\"字面理解为\"头部的线条\"，或混淆形近词\"deadline\"（截止日期）而误判其词义",
+      "sentence": "The **headline** on the morning paper made me gasp: \"Local Hero Saves Three Lives!\"",
+      "options": {
+        "option": [
+          {
+            "definition": "（新闻的）大标题",
+            "iscorrect": true
+          },
+          {
+            "definition": "头部的线条",
+            "iscorrect": false
+          },
+          {
+            "definition": "截止日期",
+            "iscorrect": false
+          },
+          {
+            "definition": "文章的第一行",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

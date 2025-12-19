@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "host",
+      "error_analysis": "学生易因形近词\"ghost\"(鬼魂)混淆，或误联想\"hostile\"(敌对的)而错解其\"主人/主持人\"的核心义。",
+      "sentence": "The **host** of the birthday party welcomed each guest with a warm hug and a glass of juice.",
+      "options": {
+        "option": [
+          {
+            "definition": "鬼魂",
+            "iscorrect": false
+          },
+          {
+            "definition": "敌对者",
+            "iscorrect": false
+          },
+          {
+            "definition": "主人；主持人",
+            "iscorrect": true
+          },
+          {
+            "definition": "邮政；帖子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

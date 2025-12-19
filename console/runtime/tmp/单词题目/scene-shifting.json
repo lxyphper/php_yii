@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "scene-shifting",
+      "error_analysis": "学生易混淆形近词“screen-shifting”（屏幕转换）或“scene-setting”（场景设置），或字面误判为场景移动。",
+      "sentence": "In the new Broadway musical, the **scene-shifting** between New York and Paris was done so seamlessly that the audience barely noticed the changes.",
+      "options": {
+        "option": [
+          {
+            "definition": "（戏剧、电影等中的）换景，场景转换",
+            "iscorrect": true
+          },
+          {
+            "definition": "（电子设备的）屏幕转换",
+            "iscorrect": false
+          },
+          {
+            "definition": "（故事或文章的）场景设置",
+            "iscorrect": false
+          },
+          {
+            "definition": "（舞台上的）场景移动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

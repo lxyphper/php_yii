@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "district",
+      "error_analysis": "易混淆形近词distinct（不同的），或因词根过度推导为“区分”",
+      "sentence": "The new library will be built in the northern **district** of the city, where most young families live.",
+      "options": {
+        "option": [
+          {
+            "definition": "区域；行政区",
+            "iscorrect": true
+          },
+          {
+            "definition": "不同的；明显的",
+            "iscorrect": false
+          },
+          {
+            "definition": "区分；辨别",
+            "iscorrect": false
+          },
+          {
+            "definition": "距离；间距",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

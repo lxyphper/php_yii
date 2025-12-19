@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "CocaCola",
+      "Koca-Cola",
+      "Coca-Kola",
+      "Cooca-Cola",
+      "Coca-Colla"
+    ],
+    "correct_chunks": [
+      "Coca",
+      "-Cola"
+    ],
+    "distractor_chunks": [
+      "Koca",
+      "Kola",
+      "Cooca",
+      "Colla",
+      "Cola"
+    ]
+  },
+  0
+]

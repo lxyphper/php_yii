@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "goalkeeper",
+      "error_analysis": "学生易因形近词\"gatekeeper\"(门卫)或词根字面误导(将\"goalkeeper\"理解为\"目标保持者\")而误判",
+      "sentence": "In the final minute of the football match, the **goalkeeper** made a brilliant save to stop the opponent from scoring.",
+      "options": {
+        "option": [
+          {
+            "definition": "守门员（足球等运动中守球门的人）",
+            "iscorrect": true
+          },
+          {
+            "definition": "门卫（看守大门的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "目标保持者（坚持实现目标的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "得分者（进球的人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

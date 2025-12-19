@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to advance",
+      "error_analysis": "易混淆形近词“advantage”（优势），将“to advance”误理解为“获得优势”；或字面推导为“向前移动（具体位置）”。",
+      "sentence": "The team decided to **advance** their plan to launch the new product next month.",
+      "options": {
+        "option": [
+          {
+            "definition": "推进；使（计划、观点等）前进",
+            "iscorrect": true
+          },
+          {
+            "definition": "获得优势",
+            "iscorrect": false
+          },
+          {
+            "definition": "向前移动（具体位置）",
+            "iscorrect": false
+          },
+          {
+            "definition": "延迟；推迟",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

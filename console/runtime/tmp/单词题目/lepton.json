@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lepton",
+      "error_analysis": "学生易因形近词\"lemon\"(柠檬)或\"lecture\"(讲座)产生错误联想，或混淆\"lepton\"与具体粒子(如电子)。",
+      "sentence": "Electrons and neutrinos are examples of **leptons**, which are elementary particles with very small masses.",
+      "options": {
+        "option": [
+          {
+            "definition": "一种黄色的酸性水果",
+            "iscorrect": false
+          },
+          {
+            "definition": "教师向学生讲解知识的活动",
+            "iscorrect": false
+          },
+          {
+            "definition": "带负电的基本粒子",
+            "iscorrect": false
+          },
+          {
+            "definition": "一种质量非常小的基本粒子（如电子或中微子）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "constantly",
+      "error_analysis": "学生易因形近词consistently（一致地）或词根stant（站）误导为“固定地”，误解其“持续不断地”的核心义。",
+      "sentence": "She is **constantly** checking her phone, even during important meetings.",
+      "options": {
+        "option": [
+          {
+            "definition": "持续不断地；一直",
+            "iscorrect": true
+          },
+          {
+            "definition": "一致地；始终如一地",
+            "iscorrect": false
+          },
+          {
+            "definition": "固定地；恒定地",
+            "iscorrect": false
+          },
+          {
+            "definition": "偶尔地；间或",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

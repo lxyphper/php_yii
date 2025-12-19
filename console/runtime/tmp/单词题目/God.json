@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "God",
+      "error_analysis": "中国学生易将“God”误联想为形近词“good”（好的），或混淆宗教语境中的“神”与日常词汇含义",
+      "sentence": "Many people pray to **God** for peace and happiness in times of trouble.",
+      "options": {
+        "option": [
+          {
+            "definition": "上帝；神（宗教信仰中的至高存在）",
+            "iscorrect": true
+          },
+          {
+            "definition": "好的；优秀的",
+            "iscorrect": false
+          },
+          {
+            "definition": "黄金；金色的",
+            "iscorrect": false
+          },
+          {
+            "definition": "偶像；崇拜的对象（泛指）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

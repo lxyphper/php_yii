@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cytoskeleton",
+      "error_analysis": "学生易因形近词\"cytoplasm\"(细胞质)混淆，或因不熟悉\"cyto-\"(细胞)将\"cytoskeleton\"错猜为\"细胞壁\"等细胞外壳结构",
+      "sentence": "The **cytoskeleton** provides structural support to the cell and helps in cell movement, similar to how a skeleton supports the human body.",
+      "options": {
+        "option": [
+          {
+            "definition": "细胞骨架",
+            "iscorrect": true
+          },
+          {
+            "definition": "细胞质",
+            "iscorrect": false
+          },
+          {
+            "definition": "细胞壁",
+            "iscorrect": false
+          },
+          {
+            "definition": "细胞溶质",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

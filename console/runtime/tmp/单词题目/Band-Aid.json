@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Band-Aid",
+      "error_analysis": "学生易将Band-Aid拆分为band（带子）和aid（帮助），误判为“绑带”，或因band的“乐队”义误联想为“乐队相关工具”。",
+      "sentence": "She reached into her bag and pulled out a **Band-Aid** to cover the small cut on her finger.",
+      "options": {
+        "option": [
+          {
+            "definition": "创可贴（一种贴在伤口上的小型医疗用品）",
+            "iscorrect": true
+          },
+          {
+            "definition": "乐队辅助设备（如乐器配件或舞台工具）",
+            "iscorrect": false
+          },
+          {
+            "definition": "绑带/束带（用于固定或支撑身体部位的带子）",
+            "iscorrect": false
+          },
+          {
+            "definition": "急救包（包含纱布、消毒液等的大型医疗包）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

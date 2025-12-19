@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "thesis",
+      "error_analysis": "中国学生易因形近词（如theory“理论”、theme“主题”）混淆，或对其“学位论文”的核心学术含义模糊。",
+      "sentence": "She spent a year researching and writing her master's **thesis** on climate change impacts in coastal cities.",
+      "options": {
+        "option": [
+          {
+            "definition": "（学位）论文；主要论点",
+            "iscorrect": true
+          },
+          {
+            "definition": "理论",
+            "iscorrect": false
+          },
+          {
+            "definition": "主题",
+            "iscorrect": false
+          },
+          {
+            "definition": "假设",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "photographer",
+      "error_analysis": "易因形近词“photograph”（照片）混淆，或词根“photo-”（光/照片）的字面误导，误将“photographer”理解为“照片”或非职业身份",
+      "sentence": "The **photographer** captured the sunset with his camera and later sold the pictures to a magazine.",
+      "options": {
+        "option": [
+          {
+            "definition": "摄影师",
+            "iscorrect": true
+          },
+          {
+            "definition": "照片",
+            "iscorrect": false
+          },
+          {
+            "definition": "摄影的",
+            "iscorrect": false
+          },
+          {
+            "definition": "光的研究者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

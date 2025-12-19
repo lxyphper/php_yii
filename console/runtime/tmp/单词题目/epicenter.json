@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "epicenter",
+      "error_analysis": "学生易将\"epicenter\"误判为\"史诗的核心\"（形近词\"epic\"+\"center\"联想）或通过词根\"epi-\"猜测为\"周围的区域\"。",
+      "sentence": "The village was located near the **epicenter** of the earthquake, so most of its houses collapsed.",
+      "options": {
+        "option": [
+          {
+            "definition": "（地震的）震中；（事件的）核心",
+            "iscorrect": true
+          },
+          {
+            "definition": "史诗的核心",
+            "iscorrect": false
+          },
+          {
+            "definition": "周围的区域",
+            "iscorrect": false
+          },
+          {
+            "definition": "故事的结尾部分",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

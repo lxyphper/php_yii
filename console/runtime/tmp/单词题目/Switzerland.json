@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Switzerland",
+      "error_analysis": "学生易将形近词“Switzerland”与“Sweden”（瑞典）混淆，误判为“瑞典”",
+      "sentence": "**Switzerland** is famous for its precision watches, delicious chocolate, and stunning Alpine scenery.",
+      "options": {
+        "option": [
+          {
+            "definition": "瑞士",
+            "iscorrect": true
+          },
+          {
+            "definition": "瑞典",
+            "iscorrect": false
+          },
+          {
+            "definition": "斯威士兰",
+            "iscorrect": false
+          },
+          {
+            "definition": "挪威",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

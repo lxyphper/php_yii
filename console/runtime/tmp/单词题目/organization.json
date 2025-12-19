@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "organization",
+      "error_analysis": "学生易因形近词“orientation”（方向）或词根“organ”（器官）误解为“方向”或“生物组织”，而非常用的“机构/团体组织”",
+      "sentence": "The local environmental **organization** is planning a cleanup drive next weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "机构；组织（指团体或机构）",
+            "iscorrect": true
+          },
+          {
+            "definition": "方向；定位",
+            "iscorrect": false
+          },
+          {
+            "definition": "生物组织（如器官的组成结构）",
+            "iscorrect": false
+          },
+          {
+            "definition": "安排；筹备",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

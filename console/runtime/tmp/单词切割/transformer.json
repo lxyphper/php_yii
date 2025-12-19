@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "tranformer",
+      "trensformer",
+      "trasformer",
+      "transformor",
+      "transforrmer"
+    ],
+    "correct_chunks": [
+      "trans",
+      "form",
+      "er"
+    ],
+    "distractor_chunks": [
+      "tran",
+      "trens",
+      "tras",
+      "or"
+    ]
+  },
+  0
+]

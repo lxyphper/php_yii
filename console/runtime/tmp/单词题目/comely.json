@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "comely",
+      "error_analysis": "学生易因形近词\"common\"（常见的）或词根\"com-\"（共同的）误判\"comely\"的含义",
+      "sentence": "The old poem describes a **comely** maiden with raven hair and gentle eyes, who captured the hearts of all who saw her.",
+      "options": {
+        "option": [
+          {
+            "definition": "常见的",
+            "iscorrect": false
+          },
+          {
+            "definition": "共同的",
+            "iscorrect": false
+          },
+          {
+            "definition": "标致的；秀丽的",
+            "iscorrect": true
+          },
+          {
+            "definition": "喜剧的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

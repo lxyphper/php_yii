@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to clench",
+      "error_analysis": "学生易因形近词“clinch”（解决）或“clean”（打扫）的干扰，将“to clench”误理解为“解决（问题）”或“打扫（干净）”",
+      "sentence": "When he heard the bad news, he **clenched** his fists so tightly that his knuckles turned white.",
+      "options": {
+        "option": [
+          {
+            "definition": "紧握（拳头、牙齿等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "解决（问题）",
+            "iscorrect": false
+          },
+          {
+            "definition": "打扫（干净）",
+            "iscorrect": false
+          },
+          {
+            "definition": "退缩",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

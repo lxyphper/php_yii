@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "overcrowded",
+      "error_analysis": "易因over-前缀与overcome（克服）混淆或形近词overgrown（过度生长的），误理解为“克服拥挤的”或“过度生长的”",
+      "sentence": "The subway during rush hour is always **overcrowded**, making it hard to even move.",
+      "options": {
+        "option": [
+          {
+            "definition": "过度拥挤的",
+            "iscorrect": true
+          },
+          {
+            "definition": "过度生长的",
+            "iscorrect": false
+          },
+          {
+            "definition": "克服拥挤的",
+            "iscorrect": false
+          },
+          {
+            "definition": "在拥挤之上的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

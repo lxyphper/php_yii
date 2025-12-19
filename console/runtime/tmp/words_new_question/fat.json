@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fat",
+      "error_analysis": "学生易因形近词“fit”（健康的/合适的）的干扰或对“fat”名词义（脂肪）的联想，误判其形容词义“胖的”。",
+      "sentence": "The cat looks so **fat** because it eats a lot of fish every day.",
+      "options": {
+        "option": [
+          {
+            "definition": "胖的（形容词，指人或动物体型肥胖）",
+            "iscorrect": true
+          },
+          {
+            "definition": "健康的；结实的（形容词，指身体好或强壮）",
+            "iscorrect": false
+          },
+          {
+            "definition": "脂肪（名词，指身体内的脂肪组织）",
+            "iscorrect": false
+          },
+          {
+            "definition": "合适的；恰当的（形容词，指符合要求或条件）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

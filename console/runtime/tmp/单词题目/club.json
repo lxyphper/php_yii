@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "club",
+      "error_analysis": "学生易因“club”与“cub”（幼兽）、“climb”（攀爬）拼写相近，错误联想为“幼兽”或“攀爬”；或混淆其“棍棒”的熟词僻义与核心义“俱乐部”。",
+      "sentence": "Many students in our class joined the new music **club** to practice their favorite songs together.",
+      "options": {
+        "option": [
+          {
+            "definition": "俱乐部；社团",
+            "iscorrect": true
+          },
+          {
+            "definition": "幼兽（如小熊、小狼等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "攀爬；攀登",
+            "iscorrect": false
+          },
+          {
+            "definition": "棍棒；球杆（如高尔夫球杆）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

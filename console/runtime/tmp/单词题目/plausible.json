@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "plausible",
+      "error_analysis": "将“plausible”误判为“令人愉快的”（形近词“pleasing”干扰）或“值得表扬的”（词根“plaudere”（鼓掌）误导）",
+      "sentence": "The explanation he gave for being late sounded **plausible**, but I still had my doubts.",
+      "options": {
+        "option": [
+          {
+            "definition": "似乎合理的；可信的",
+            "iscorrect": true
+          },
+          {
+            "definition": "令人愉快的；讨人喜欢的",
+            "iscorrect": false
+          },
+          {
+            "definition": "丰富的；充足的",
+            "iscorrect": false
+          },
+          {
+            "definition": "值得表扬的；优秀的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

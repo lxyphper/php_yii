@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "environmentalist",
+      "error_analysis": "学生易因词根\"environment\"+\"-alist\"过度直译误判为\"环境工作者\"，或因形近词\"environmentalism\"（环保主义）混淆指人名词与抽象名词",
+      "sentence": "The **environmentalist** gave a speech about saving endangered species at the local school.",
+      "options": {
+        "option": [
+          {
+            "definition": "环保主义者",
+            "iscorrect": true
+          },
+          {
+            "definition": "环境工作者",
+            "iscorrect": false
+          },
+          {
+            "definition": "环保主义",
+            "iscorrect": false
+          },
+          {
+            "definition": "环境科学家",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

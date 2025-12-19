@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "istimated time of arrival",
+      "estimated teme of arrival",
+      "estimated time ov arrival",
+      "estimated time of errival"
+    ],
+    "correct_chunks": [
+      "est",
+      "imated",
+      "time",
+      "of",
+      "arrival"
+    ],
+    "distractor_chunks": [
+      "ist",
+      "teme",
+      "ov",
+      "erriv"
+    ]
+  },
+  0
+]

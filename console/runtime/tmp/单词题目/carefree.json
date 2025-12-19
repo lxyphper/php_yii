@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "carefree",
+      "error_analysis": "学生易因\"care+free\"字面推导为\"关心自由的\"，或混淆形近词\"careless\"(粗心的)而误判",
+      "sentence": "After the long winter, the kids ran outside to play, their **carefree** laughter filling the air.",
+      "options": {
+        "option": [
+          {
+            "definition": "粗心的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无忧无虑的",
+            "iscorrect": true
+          },
+          {
+            "definition": "关心自由的",
+            "iscorrect": false
+          },
+          {
+            "definition": "仔细的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

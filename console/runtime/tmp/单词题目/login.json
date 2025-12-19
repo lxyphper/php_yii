@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "login",
+      "error_analysis": "因形近词\"log\"（日志）的常见义，易误判为\"记录日志\"或\"写日志\"",
+      "sentence": "You need to **login** with your username and password to access your email account.",
+      "options": {
+        "option": [
+          {
+            "definition": "登录（进入计算机系统的操作）",
+            "iscorrect": true
+          },
+          {
+            "definition": "记录日志",
+            "iscorrect": false
+          },
+          {
+            "definition": "原木进口",
+            "iscorrect": false
+          },
+          {
+            "definition": "退出系统",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to laugh",
+      "error_analysis": "学生易因形近词“launch”（发射）或“labor”（劳动）产生错误联想，将“laugh”误判为与“发射”“劳动”相关的动作",
+      "sentence": "When the clown made a funny face, the children started **to laugh** loudly.",
+      "options": {
+        "option": [
+          {
+            "definition": "发射",
+            "iscorrect": false
+          },
+          {
+            "definition": "笑",
+            "iscorrect": true
+          },
+          {
+            "definition": "劳动",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻拍",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

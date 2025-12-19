@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "oort cloud",
+      "error_analysis": "学生易将\"oort\"误联想为\"orbit\"（轨道），从而把\"oort cloud\"理解为\"轨道周围的云状结构\"，或直接按字面译为\"外层云\"而忽略其天文学特定含义。",
+      "sentence": "Astronomers believe the **Oort Cloud**, a vast sphere of icy objects beyond Neptune, is where most long-period comets originate before entering the inner solar system.",
+      "options": {
+        "option": [
+          {
+            "definition": "太阳系外围假设的彗星起源云团（奥尔特云）",
+            "iscorrect": true
+          },
+          {
+            "definition": "行星轨道周围的云状尘埃结构",
+            "iscorrect": false
+          },
+          {
+            "definition": "地球大气层顶部的外层云带",
+            "iscorrect": false
+          },
+          {
+            "definition": "恒星形成区的密集气体云",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

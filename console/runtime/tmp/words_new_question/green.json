@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "green",
+      "error_analysis": "学生易因形近词\"grain\"(谷物)或\"grey\"(灰色)混淆词义，或因\"green\"与\"grow\"(生长)的关联错误推导为\"生长\"。",
+      "sentence": "The leaves on the tree turn **green** as spring comes.",
+      "options": {
+        "option": [
+          {
+            "definition": "绿色的",
+            "iscorrect": true
+          },
+          {
+            "definition": "谷物",
+            "iscorrect": false
+          },
+          {
+            "definition": "生长",
+            "iscorrect": false
+          },
+          {
+            "definition": "灰色的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

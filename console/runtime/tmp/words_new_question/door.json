@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "door",
+      "error_analysis": "中国学生易因形近词“poor”（贫穷的）的干扰，将“door”错误理解为“贫穷的”。",
+      "sentence": "He knocked on the **door** but no one answered.",
+      "options": {
+        "option": [
+          {
+            "definition": "门",
+            "iscorrect": true
+          },
+          {
+            "definition": "贫穷的",
+            "iscorrect": false
+          },
+          {
+            "definition": "地板",
+            "iscorrect": false
+          },
+          {
+            "definition": "画",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

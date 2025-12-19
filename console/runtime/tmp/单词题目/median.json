@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "median",
+      "error_analysis": "学生易混淆形近词\"medium\"（中等的、媒介），或误联想\"media\"（媒体）而将\"median\"理解为\"中等的\"或\"媒体的\"",
+      "sentence": "The **median** age of the participants in the survey was 35, meaning half were younger and half were older than that.",
+      "options": {
+        "option": [
+          {
+            "definition": "中位数的；中间的",
+            "iscorrect": true
+          },
+          {
+            "definition": "中等的；媒介",
+            "iscorrect": false
+          },
+          {
+            "definition": "媒体的；传播的",
+            "iscorrect": false
+          },
+          {
+            "definition": "主要的；重要的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

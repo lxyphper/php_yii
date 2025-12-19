@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "purely",
+      "error_analysis": "学生易因形近词\"poorly\"(糟糕地)混淆，或因词根\"pure\"(纯粹的)过度推导为\"纯洁地\"(道德层面)，忽略其\"完全地\"的核心副词含义。",
+      "sentence": "The accident was **purely** accidental—no one was to blame.",
+      "options": {
+        "option": [
+          {
+            "definition": "完全地；纯粹地",
+            "iscorrect": true
+          },
+          {
+            "definition": "糟糕地；拙劣地",
+            "iscorrect": false
+          },
+          {
+            "definition": "纯洁地；清白地",
+            "iscorrect": false
+          },
+          {
+            "definition": "部分地；不完全地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

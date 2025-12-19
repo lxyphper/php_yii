@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "weird",
+      "error_analysis": "学生易混淆形近词\"wired\"（兴奋的）或误联想\"wear\"（穿），将\"weird\"错解为\"兴奋的\"或\"穿着的\"",
+      "sentence": "The old house has a **weird** atmosphere—every time I enter, I feel like someone is watching me.",
+      "options": {
+        "option": [
+          {
+            "definition": "奇怪的；怪异的",
+            "iscorrect": true
+          },
+          {
+            "definition": "兴奋的；紧张不安的",
+            "iscorrect": false
+          },
+          {
+            "definition": "穿着的；佩戴的",
+            "iscorrect": false
+          },
+          {
+            "definition": "宽的；广阔的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to switch on",
+      "error_analysis": "学生可能因“switch”与“swift”（迅速的）形近或“switch”的“转换”义，将“to switch on”误解为“迅速开启”或“转换到上面”，而非“打开（电器等）”。",
+      "sentence": "Could you please **switch on** the light? It's getting dark in here.",
+      "options": {
+        "option": [
+          {
+            "definition": "打开（电器等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "迅速开启",
+            "iscorrect": false
+          },
+          {
+            "definition": "转换到上面",
+            "iscorrect": false
+          },
+          {
+            "definition": "交换位置",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

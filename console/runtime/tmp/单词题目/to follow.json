@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to follow",
+      "error_analysis": "学生易混淆形近词“fellow”（同伴）而误判“to follow”为“陪伴”，或因词根联想错误理解为“用脚跟随”。",
+      "sentence": "If you can't **follow** the teacher's explanation, please raise your hand.",
+      "options": {
+        "option": [
+          {
+            "definition": "理解",
+            "iscorrect": true
+          },
+          {
+            "definition": "陪伴",
+            "iscorrect": false
+          },
+          {
+            "definition": "用脚跟随",
+            "iscorrect": false
+          },
+          {
+            "definition": "流动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "multiculturalism",
+      "error_analysis": "学生易因词根\"multi-+cultural+ism\"过度直译，将其误理解为\"文化多样性\"（状态）而非\"多元文化主义\"（政策理念），或因形近词\"multilateralism\"（多边主义）产生混淆。",
+      "sentence": "Canada is often cited as a model of **multiculturalism**, where immigrants' cultural traditions are celebrated and protected by law.",
+      "options": {
+        "option": [
+          {
+            "definition": "多元文化主义（一种承认并尊重社会中多种文化的政策或理念）",
+            "iscorrect": true
+          },
+          {
+            "definition": "文化多样性（描述社会中存在多种文化的状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "多边主义（涉及多个国家的外交政策理念）",
+            "iscorrect": false
+          },
+          {
+            "definition": "文化同化政策（要求移民放弃原有文化融入主流文化的政策）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

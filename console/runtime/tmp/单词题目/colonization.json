@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "colonization",
+      "error_analysis": "误将“colon-”联想为“结肠”（colon）或“颜色”（color），导致对“colonization”的错误理解",
+      "sentence": "The **colonization** of the Americas by Spain and Portugal began in the late 15th century.",
+      "options": {
+        "option": [
+          {
+            "definition": "殖民化；殖民地化",
+            "iscorrect": true
+          },
+          {
+            "definition": "结肠化；肠道定植",
+            "iscorrect": false
+          },
+          {
+            "definition": "颜色化；彩色化过程",
+            "iscorrect": false
+          },
+          {
+            "definition": "合作化；协作过程",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

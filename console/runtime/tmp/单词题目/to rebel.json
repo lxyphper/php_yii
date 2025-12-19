@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to rebel",
+      "error_analysis": "中国学生易因形近词“revel”（狂欢）混淆“rebel”词义，或因“re-”前缀错误猜测为“重新做某事”（如“重新相信”）。",
+      "sentence": "Teenagers sometimes **rebel** against their parents' rules to assert their independence.",
+      "options": {
+        "option": [
+          {
+            "definition": "反抗；反叛",
+            "iscorrect": true
+          },
+          {
+            "definition": "狂欢；作乐",
+            "iscorrect": false
+          },
+          {
+            "definition": "重新相信；再信任",
+            "iscorrect": false
+          },
+          {
+            "definition": "反弹；回升",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

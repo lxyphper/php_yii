@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "emergency",
+      "error_analysis": "混淆形近词“emergence”（出现）及词根“emerg-”（出现）的含义，误判为“出现/浮现”。",
+      "sentence": "The hospital has a special entrance for **emergency** cases like heart attacks or car accidents.",
+      "options": {
+        "option": [
+          {
+            "definition": "紧急情况；突发事件",
+            "iscorrect": true
+          },
+          {
+            "definition": "出现；浮现",
+            "iscorrect": false
+          },
+          {
+            "definition": "出现的事物；显现",
+            "iscorrect": false
+          },
+          {
+            "definition": "紧急的行动；救援",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

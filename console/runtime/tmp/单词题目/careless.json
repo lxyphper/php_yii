@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "careless",
+      "error_analysis": "学生易通过词根“care（关心）+less（无）”错误推导“careless”为“不关心的”，而非其核心义“粗心的”。",
+      "sentence": "She lost her keys again because she was too **careless** with her belongings.",
+      "options": {
+        "option": [
+          {
+            "definition": "粗心的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不关心的",
+            "iscorrect": false
+          },
+          {
+            "definition": "小心的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无忧无虑的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

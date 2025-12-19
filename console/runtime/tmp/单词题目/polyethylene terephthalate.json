@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "polyethylene terephthalate",
+      "error_analysis": "学生易因\"terephthalate\"形近\"terrestrial\"（陆地的）或词根拆分（\"poly-多\"+\"ethylene乙烯\"+\"terephthalate\"误判），将其误解为植物纤维或橡胶材料。",
+      "sentence": "Many single-use beverage bottles are made from **polyethylene terephthalate**, a material praised for its light weight and ability to keep liquids fresh.",
+      "options": {
+        "option": [
+          {
+            "definition": "聚对苯二甲酸乙二醇酯（一种常见塑料，用于制造饮料瓶等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "一种陆地植物的天然纤维（如棉花的替代材料）",
+            "iscorrect": false
+          },
+          {
+            "definition": "一种用于轮胎制造的合成橡胶",
+            "iscorrect": false
+          },
+          {
+            "definition": "一种添加在洗涤剂中的清洁成分",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

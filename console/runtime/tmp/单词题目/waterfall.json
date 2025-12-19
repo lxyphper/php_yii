@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "waterfall",
+      "error_analysis": "学生易将“waterfall”拆分为“water”+“fall”，误理解为“秋水”（将fall作名词“秋天”）或“水的降落（动作）”。",
+      "sentence": "We hiked to the top of the mountain and saw a beautiful **waterfall** pouring down the cliff.",
+      "options": {
+        "option": [
+          {
+            "definition": "瀑布",
+            "iscorrect": true
+          },
+          {
+            "definition": "秋水",
+            "iscorrect": false
+          },
+          {
+            "definition": "水的降落（动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "喷泉",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

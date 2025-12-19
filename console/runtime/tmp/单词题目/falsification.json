@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "falsification",
+      "error_analysis": "中国学生易因词根\"fals-\"（假）和\"-ification\"（状态）误将其理解为\"虚假的状态\"，或因形近词\"verification\"（验证）混淆为反义行为。",
+      "sentence": "The company was fined heavily for **falsification** of financial records to hide their losses.",
+      "options": {
+        "option": [
+          {
+            "definition": "伪造；篡改（故意使某物虚假或改变以欺骗的行为）",
+            "iscorrect": true
+          },
+          {
+            "definition": "虚假的状态（本身不真实的性质或状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "验证的过程（确认某事真实性的行为）",
+            "iscorrect": false
+          },
+          {
+            "definition": "错误的产生（导致错误出现的过程）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

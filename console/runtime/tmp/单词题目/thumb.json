@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "thumb",
+      "error_analysis": "学生易将“thumb”（拇指）误判为形近词“thump”（重击），或误将具体的“拇指”当作“手指”的总称。",
+      "sentence": "She accidentally hit her **thumb** with a hammer while hanging a picture.",
+      "options": {
+        "option": [
+          {
+            "definition": "重击",
+            "iscorrect": false
+          },
+          {
+            "definition": "手指（总称）",
+            "iscorrect": false
+          },
+          {
+            "definition": "顶针",
+            "iscorrect": false
+          },
+          {
+            "definition": "拇指",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

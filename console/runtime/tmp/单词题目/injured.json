@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "injured",
+      "error_analysis": "易与形近词injected（注射的）混淆，或误由词根jur（法律）猜为“违法的”",
+      "sentence": "The soccer player was **injured** during the match and had to leave the field immediately.",
+      "options": {
+        "option": [
+          {
+            "definition": "受伤的",
+            "iscorrect": true
+          },
+          {
+            "definition": "注射的",
+            "iscorrect": false
+          },
+          {
+            "definition": "违法的",
+            "iscorrect": false
+          },
+          {
+            "definition": "加入的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

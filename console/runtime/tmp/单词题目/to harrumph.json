@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to harrumph",
+      "error_analysis": "中国学生易因形近词\"harvest\"(收获)或\"rumble\"(隆隆声)猜测词义，忽略其\"表示不满的哼声\"核心义。",
+      "sentence": "When his idea was dismissed by the group, he **harrumphed** and turned away, his face tight with frustration.",
+      "options": {
+        "option": [
+          {
+            "definition": "哼着鼻子说（表示不满或不同意）",
+            "iscorrect": true
+          },
+          {
+            "definition": "收获；收割",
+            "iscorrect": false
+          },
+          {
+            "definition": "发出隆隆声",
+            "iscorrect": false
+          },
+          {
+            "definition": "匆忙行动；赶紧",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

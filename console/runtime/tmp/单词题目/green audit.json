@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "green audit",
+      "error_analysis": "将“green audit”字面误解为“对绿色植物的检查”，或因“green”与“greed”形近而误判为“贪婪行为审查”",
+      "sentence": "The company hired an external firm to conduct a **green audit** to assess its carbon footprint and waste management practices.",
+      "options": {
+        "option": [
+          {
+            "definition": "环境审计（评估组织对环境影响的系统性检查）",
+            "iscorrect": true
+          },
+          {
+            "definition": "对绿色植物或园林养护情况的检查",
+            "iscorrect": false
+          },
+          {
+            "definition": "对企业贪婪行为的审查",
+            "iscorrect": false
+          },
+          {
+            "definition": "对未完成项目的临时检查",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

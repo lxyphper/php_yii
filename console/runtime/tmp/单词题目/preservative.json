@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "preservative",
+      "error_analysis": "学生易因形近词\"conservative\"（保守的）产生混淆，或因词根\"preserve\"（保存）误导而误以为是\"保存的行为\"。",
+      "sentence": "Many processed foods contain **preservatives** to keep them fresh for weeks instead of days.",
+      "options": {
+        "option": [
+          {
+            "definition": "防腐剂（用于防止食物腐烂的化学物质）",
+            "iscorrect": true
+          },
+          {
+            "definition": "保守的人（坚持传统观点的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "保存的过程（使事物保持原状的动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "保护者（守护他人的人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

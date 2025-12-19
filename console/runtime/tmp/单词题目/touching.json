@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "touching",
+      "error_analysis": "将\"touching\"误理解为\"触摸的\"（形近词\"touch\"的词根直译），忽略其引申义\"令人感动的\"",
+      "sentence": "The movie’s ending was so **touching** that many people cried.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人感动的",
+            "iscorrect": true
+          },
+          {
+            "definition": "与触摸有关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "正在做触摸动作的",
+            "iscorrect": false
+          },
+          {
+            "definition": "具有触感的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to place",
+      "error_analysis": "易因形近词\"plate\"（盘子）混淆，或因\"place\"（地方）的名词义过度直译，将动词\"to place\"误理解为\"装盘子\"或\"去地方\"。",
+      "sentence": "Could you please **place** the books on the shelf before leaving?",
+      "options": {
+        "option": [
+          {
+            "definition": "放置；安排",
+            "iscorrect": true
+          },
+          {
+            "definition": "给…装盘子；镀",
+            "iscorrect": false
+          },
+          {
+            "definition": "去地方；到达某地",
+            "iscorrect": false
+          },
+          {
+            "definition": "踱步；调整步伐",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

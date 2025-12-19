@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "adventure",
+      "error_analysis": "易受形近词\"advantage\"(优势)干扰，或因\"venture\"的\"企业\"义误解为\"商业活动\"",
+      "sentence": "During their trip to the Amazon, they had an exciting **adventure** where they encountered wild animals and explored hidden waterfalls.",
+      "options": {
+        "option": [
+          {
+            "definition": "优势；有利条件",
+            "iscorrect": false
+          },
+          {
+            "definition": "冒险；奇遇",
+            "iscorrect": true
+          },
+          {
+            "definition": "企业项目；商业活动",
+            "iscorrect": false
+          },
+          {
+            "definition": "日常任务；常规工作",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

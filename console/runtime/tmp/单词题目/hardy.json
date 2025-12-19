@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hardy",
+      "error_analysis": "易因形近词\"hard\"干扰，将\"hardy\"误解为\"坚硬的\"或\"困难的\"",
+      "sentence": "The **hardy** pine trees in the mountains can survive extreme cold and strong winds.",
+      "options": {
+        "option": [
+          {
+            "definition": "耐寒的；强壮的（指植物、动物或人能承受艰苦环境）",
+            "iscorrect": true
+          },
+          {
+            "definition": "坚硬的；困难的",
+            "iscorrect": false
+          },
+          {
+            "definition": "勤奋的；努力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "严厉的；苛刻的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "paganism",
+      "error_analysis": "学生易因形近词\"peasant\"(农民)或词根\"paganus\"(乡下人)的字面意思，将\"paganism\"误判为\"农民信仰\"或\"乡村传统习俗\"。",
+      "sentence": "Many ancient cultures practiced **paganism**, worshipping gods of the sun, moon, and earth instead of the Abrahamic deities.",
+      "options": {
+        "option": [
+          {
+            "definition": "异教信仰（尤指崇拜自然或多神的非主要世界宗教的信仰）",
+            "iscorrect": true
+          },
+          {
+            "definition": "农民的生活方式或乡村主义",
+            "iscorrect": false
+          },
+          {
+            "definition": "乡村居民的传统宗教实践",
+            "iscorrect": false
+          },
+          {
+            "definition": "泛神论（信仰所有事物都有神灵）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

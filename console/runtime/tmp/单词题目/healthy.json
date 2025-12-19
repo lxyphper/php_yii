@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "healthy",
+      "error_analysis": "易混淆形近词\"wealthy\"(富有的)，或误将\"healthy\"理解为\"强壮的\"(strong)而非\"健康的\"核心义",
+      "sentence": "Eating fruits and vegetables every day is important for maintaining a **healthy** lifestyle.",
+      "options": {
+        "option": [
+          {
+            "definition": "健康的",
+            "iscorrect": true
+          },
+          {
+            "definition": "富有的",
+            "iscorrect": false
+          },
+          {
+            "definition": "强壮的",
+            "iscorrect": false
+          },
+          {
+            "definition": "新鲜的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

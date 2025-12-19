@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "enthalpy",
+      "error_analysis": "中国学生易因形近词\"enthusiasm\"（热情）产生错误联想，或混淆热力学术语\"熵\"（entropy）",
+      "sentence": "In thermodynamics, the **enthalpy** of a system includes both its internal energy and the work done by the system against external pressure.",
+      "options": {
+        "option": [
+          {
+            "definition": "焓（热力学中表示系统能量的状态函数）",
+            "iscorrect": true
+          },
+          {
+            "definition": "热情；热忱",
+            "iscorrect": false
+          },
+          {
+            "definition": "熵（热力学中表示无序程度的量）",
+            "iscorrect": false
+          },
+          {
+            "definition": "能量；活力",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

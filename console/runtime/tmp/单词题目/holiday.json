@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "holiday",
+      "error_analysis": "学生易因形近词“holy”（神圣的）或词根“day”（日子）误将“holiday”理解为“神圣的日子”或“特定的某一天”。",
+      "sentence": "We're going to spend our **holiday** in Japan this year, visiting Tokyo and Kyoto.",
+      "options": {
+        "option": [
+          {
+            "definition": "假期；假日",
+            "iscorrect": true
+          },
+          {
+            "definition": "神圣的日子",
+            "iscorrect": false
+          },
+          {
+            "definition": "特定的某一天",
+            "iscorrect": false
+          },
+          {
+            "definition": "忙碌的工作日",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

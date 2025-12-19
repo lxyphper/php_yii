@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to predict",
+      "error_analysis": "学生易因“pre-”（提前）和“dict”（说）的字面联想将其误理解为“提前通知”，或因形近词“preview”（预览）产生混淆",
+      "sentence": "Scientists use data to **predict** the path of the hurricane.",
+      "options": {
+        "option": [
+          {
+            "definition": "预测；预言",
+            "iscorrect": true
+          },
+          {
+            "definition": "预览",
+            "iscorrect": false
+          },
+          {
+            "definition": "提前通知",
+            "iscorrect": false
+          },
+          {
+            "definition": "猜测（无根据的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

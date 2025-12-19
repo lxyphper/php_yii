@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "sytoplast",
+      "citoplast",
+      "sitoplast",
+      "cytoplst",
+      "cydoplast"
+    ],
+    "correct_chunks": [
+      "cyto",
+      "plast"
+    ],
+    "distractor_chunks": [
+      "syt",
+      "cit",
+      "sit",
+      "plst",
+      "cyd"
+    ]
+  },
+  0
+]

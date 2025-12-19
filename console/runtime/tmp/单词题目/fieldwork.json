@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fieldwork",
+      "error_analysis": "学生易将\"field+work\"直译为\"田野工作\"，忽略其\"学术/专业实地研究\"的核心专业含义",
+      "sentence": "The anthropologist spent six months in the Amazon doing **fieldwork** to study the indigenous tribe's customs.",
+      "options": {
+        "option": [
+          {
+            "definition": "实地调查（尤指学术或专业的实地研究工作）",
+            "iscorrect": true
+          },
+          {
+            "definition": "田野里的体力劳动",
+            "iscorrect": false
+          },
+          {
+            "definition": "领域内的常规办公工作",
+            "iscorrect": false
+          },
+          {
+            "definition": "场地维护工作（如体育场地）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

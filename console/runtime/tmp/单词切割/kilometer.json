@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "cilometer",
+      "kilameter",
+      "kilmeter",
+      "kilomter"
+    ],
+    "correct_chunks": [
+      "kilo",
+      "met",
+      "er"
+    ],
+    "distractor_chunks": [
+      "cil",
+      "kla",
+      "kil",
+      "mt"
+    ]
+  },
+  0
+]

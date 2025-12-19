@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "defective",
+      "error_analysis": "易混淆形近词defensive（防御的）及词根defect（背叛）带来的错误联想",
+      "sentence": "The company recalled all the **defective** smartphones because they kept shutting down unexpectedly.",
+      "options": {
+        "option": [
+          {
+            "definition": "防御的",
+            "iscorrect": false
+          },
+          {
+            "definition": "背叛的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有缺陷的；有毛病的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有效的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

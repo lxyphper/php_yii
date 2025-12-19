@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "forty",
+      "error_analysis": "中国学生易因形近词“fourteen”（十四）或“fort”（堡垒）将“forty”误理解为“十四”或“堡垒”。",
+      "sentence": "There are **forty** students in our class, which is more than last year.",
+      "options": {
+        "option": [
+          {
+            "definition": "四十",
+            "iscorrect": true
+          },
+          {
+            "definition": "十四",
+            "iscorrect": false
+          },
+          {
+            "definition": "堡垒",
+            "iscorrect": false
+          },
+          {
+            "definition": "四",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

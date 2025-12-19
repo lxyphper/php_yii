@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ozone",
+      "error_analysis": "学生易将“ozone”与形近词“zone”（区域）混淆，或误判为“氧气”（因与“氧”相关）",
+      "sentence": "The **ozone** layer in the atmosphere protects Earth from harmful UV rays.",
+      "options": {
+        "option": [
+          {
+            "definition": "臭氧",
+            "iscorrect": true
+          },
+          {
+            "definition": "区域",
+            "iscorrect": false
+          },
+          {
+            "definition": "氧气",
+            "iscorrect": false
+          },
+          {
+            "definition": "气味",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

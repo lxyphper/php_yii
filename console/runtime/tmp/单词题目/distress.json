@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "distress",
+      "error_analysis": "学生易因“distress”与“stress”（压力）形近及“dis-”前缀误导，误以为是“没有压力/减压”，实际为“痛苦/苦恼”。",
+      "sentence": "The mother showed great **distress** when she heard her child was injured in the accident.",
+      "options": {
+        "option": [
+          {
+            "definition": "痛苦；苦恼",
+            "iscorrect": true
+          },
+          {
+            "definition": "没有压力；减压",
+            "iscorrect": false
+          },
+          {
+            "definition": "穿衣困难；脱衣服",
+            "iscorrect": false
+          },
+          {
+            "definition": "分配；分发",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "businesswoman",
+      "error_analysis": "易因形近词“busy”（忙碌的）将“businesswoman”误解为“忙碌的女人”，或因词根拆分错误理解为“女职员”。",
+      "sentence": "The **businesswoman** negotiated a big deal with the foreign company and expanded her business to Asia.",
+      "options": {
+        "option": [
+          {
+            "definition": "女商人",
+            "iscorrect": true
+          },
+          {
+            "definition": "忙碌的女人",
+            "iscorrect": false
+          },
+          {
+            "definition": "女职员",
+            "iscorrect": false
+          },
+          {
+            "definition": "女秘书",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

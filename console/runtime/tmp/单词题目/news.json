@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "news",
+      "error_analysis": "学生易因形近词\"new\"（新的）将\"news\"误解为\"新的事物\"，或因民间词源（四方向首字母）误联想为\"方向\"",
+      "sentence": "Did you hear the **news** about the new park opening this weekend?",
+      "options": {
+        "option": [
+          {
+            "definition": "新闻；消息",
+            "iscorrect": true
+          },
+          {
+            "definition": "新的事物",
+            "iscorrect": false
+          },
+          {
+            "definition": "方向（东/南/西/北）",
+            "iscorrect": false
+          },
+          {
+            "definition": "通知；告示",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

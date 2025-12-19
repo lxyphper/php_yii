@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fantastic",
+      "error_analysis": "易混淆形近词\"fanatic\"(狂热的)，或因词根\"fantasy\"(幻想)误判为\"虚假的\"",
+      "sentence": "The concert last night was **fantastic**—the band played all our favorite songs and the crowd cheered loudly.",
+      "options": {
+        "option": [
+          {
+            "definition": "极好的；令人惊叹的",
+            "iscorrect": true
+          },
+          {
+            "definition": "狂热的；入迷的",
+            "iscorrect": false
+          },
+          {
+            "definition": "虚假的；幻想出来的",
+            "iscorrect": false
+          },
+          {
+            "definition": "普通的；平常的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

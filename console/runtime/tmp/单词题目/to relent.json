@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to relent",
+      "error_analysis": "学生易因“re-”+“lent”（借出）的词根组合错误推导为“再次借出”，或因形近词“relate”（联系）产生误解",
+      "sentence": "After hours of begging, my mom finally **relented** and let me stay up late to finish my project.",
+      "options": {
+        "option": [
+          {
+            "definition": "让步；心软；放宽要求",
+            "iscorrect": true
+          },
+          {
+            "definition": "再次借出；重复提供",
+            "iscorrect": false
+          },
+          {
+            "definition": "联系；有关联",
+            "iscorrect": false
+          },
+          {
+            "definition": "变得无情；持续严厉",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

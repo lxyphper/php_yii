@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "solar system",
+      "error_analysis": "学生易因'solar'与'sole'（单独的）、'soil'（土壤）形近，将'solar system'误判为'单一系统'或'土壤系统'",
+      "sentence": "Astronomers study the planets, moons, and sun that belong to our **solar system**.",
+      "options": {
+        "option": [
+          {
+            "definition": "太阳系",
+            "iscorrect": true
+          },
+          {
+            "definition": "单一系统",
+            "iscorrect": false
+          },
+          {
+            "definition": "土壤系统",
+            "iscorrect": false
+          },
+          {
+            "definition": "太阳能系统",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

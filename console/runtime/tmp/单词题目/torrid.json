@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "torrid",
+      "error_analysis": "学生易因形近词\"torrent\"(激流)误判为\"汹涌的\"，或因\"灼热\"与\"干燥\"的关联误判为\"干燥的\"",
+      "sentence": "The hikers struggled to cope with the **torrid** midday sun in the desert, sweating profusely within minutes.",
+      "options": {
+        "option": [
+          {
+            "definition": "非常热的；灼热的",
+            "iscorrect": true
+          },
+          {
+            "definition": "汹涌的；激流的",
+            "iscorrect": false
+          },
+          {
+            "definition": "干燥的；干旱的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可怕的；恐怖的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

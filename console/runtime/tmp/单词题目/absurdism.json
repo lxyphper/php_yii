@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "absurdism",
+      "error_analysis": "学生易将“absurdism”（荒诞主义，流派）误判为“荒谬性”（混淆近义词absurdity）或“极端荒谬状态”（词根“-ism”被错误理解为状态）",
+      "sentence": "The play \"Waiting for Godot\" by Samuel Beckett is a classic example of **absurdism**, where characters perform meaningless actions to confront the emptiness of human existence.",
+      "options": {
+        "option": [
+          {
+            "definition": "荒诞主义（一种强调人生无意义、通过荒诞行为反映存在困境的文学/哲学流派）",
+            "iscorrect": true
+          },
+          {
+            "definition": "荒谬性；荒诞的事物（如荒诞的事件或想法）",
+            "iscorrect": false
+          },
+          {
+            "definition": "极端的荒谬状态或无法理喻的情况",
+            "iscorrect": false
+          },
+          {
+            "definition": "对荒谬事物的强烈反感或厌恶情绪",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

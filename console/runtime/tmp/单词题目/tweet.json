@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tweet",
+      "error_analysis": "学生易因形近词\"sweet\"(甜的)混淆，或误将\"tweet\"理解为鸟的\"鸣叫\"而非现代常用的\"推文\"义",
+      "sentence": "She posted a funny **tweet** about her cat, and it got hundreds of likes.",
+      "options": {
+        "option": [
+          {
+            "definition": "（名词）Twitter上的帖子；推文",
+            "iscorrect": true
+          },
+          {
+            "definition": "甜的；悦耳的",
+            "iscorrect": false
+          },
+          {
+            "definition": "鸟的鸣叫；啁啾声",
+            "iscorrect": false
+          },
+          {
+            "definition": "对待；处理",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

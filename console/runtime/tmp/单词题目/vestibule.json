@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "vestibule",
+      "error_analysis": "学生易因开头\"vest\"（背心）的形近联想或词根\"vest\"（衣服）的错误推导，将其误解为与衣物相关的词（如背心、衣柜）。",
+      "sentence": "As we entered the hotel, we left our coats in the **vestibule** before heading to the reception desk.",
+      "options": {
+        "option": [
+          {
+            "definition": "门厅；玄关",
+            "iscorrect": true
+          },
+          {
+            "definition": "背心；马甲",
+            "iscorrect": false
+          },
+          {
+            "definition": "衣物储藏室；衣柜",
+            "iscorrect": false
+          },
+          {
+            "definition": "阳台；露台",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

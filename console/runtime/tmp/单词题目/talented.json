@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "talented",
+      "error_analysis": "易因形近词\"tangled\"(纠缠的)产生视觉混淆，或误将\"talented\"与\"able\"(有能力的)混淆导致词义偏差",
+      "sentence": "The young pianist is so **talented** that she can play complex classical pieces without much practice.",
+      "options": {
+        "option": [
+          {
+            "definition": "有天赋的",
+            "iscorrect": true
+          },
+          {
+            "definition": "纠缠的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有能力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "勤奋的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

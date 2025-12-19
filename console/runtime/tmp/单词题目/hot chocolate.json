@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hot chocolate",
+      "error_analysis": "学生易混淆“hot”的“热的”与“辣的”含义，将“hot chocolate”误解为“辣巧克力”，或直译为“热的固体巧克力”而非常用的“热巧克力饮料”。",
+      "sentence": "On a cold winter day, my mom always makes me a mug of **hot chocolate** to warm me up.",
+      "options": {
+        "option": [
+          {
+            "definition": "热巧克力饮料",
+            "iscorrect": true
+          },
+          {
+            "definition": "辣巧克力",
+            "iscorrect": false
+          },
+          {
+            "definition": "热的固体巧克力",
+            "iscorrect": false
+          },
+          {
+            "definition": "巧克力味的热咖啡",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

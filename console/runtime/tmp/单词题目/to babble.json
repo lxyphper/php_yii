@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to babble",
+      "error_analysis": "学生易因形近词\"bubble\"（气泡）混淆为\"冒泡\"，或因\"bab-\"联想\"baby\"错解为\"照顾婴儿\"。",
+      "sentence": "The baby started to **babble** when she saw her favorite toy, making soft, meaningless sounds.",
+      "options": {
+        "option": [
+          {
+            "definition": "喋喋不休地说；含糊不清地说",
+            "iscorrect": true
+          },
+          {
+            "definition": "冒泡；沸腾",
+            "iscorrect": false
+          },
+          {
+            "definition": "照顾婴儿；看护小孩",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速奔跑；冲刺",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

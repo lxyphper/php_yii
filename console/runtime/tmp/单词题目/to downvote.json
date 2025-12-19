@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to downvote",
+      "error_analysis": "学生易因形近词\"devote\"（致力于）产生混淆，或因\"down+vote\"的字面结构误理解为\"向下投票\"。",
+      "sentence": "If you find the post irrelevant to the topic, you can **downvote** it so it gets less visibility on the forum.",
+      "options": {
+        "option": [
+          {
+            "definition": "致力于",
+            "iscorrect": false
+          },
+          {
+            "definition": "向下投票",
+            "iscorrect": false
+          },
+          {
+            "definition": "投反对票（尤指在网络平台上）",
+            "iscorrect": true
+          },
+          {
+            "definition": "减少投票数量",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

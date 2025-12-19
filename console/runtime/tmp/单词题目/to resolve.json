@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to resolve",
+      "error_analysis": "易混淆形近词“reserve”（保留），或误将“resolve to do”理解为“解决做某事”",
+      "sentence": "After failing the exam, he **resolved** to study harder next term.",
+      "options": {
+        "option": [
+          {
+            "definition": "保留（座位、房间等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "解决（问题、冲突等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "下定决心做某事",
+            "iscorrect": true
+          },
+          {
+            "definition": "旋转（围绕...转）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

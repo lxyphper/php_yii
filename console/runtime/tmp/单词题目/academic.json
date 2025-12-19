@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "academic",
+      "error_analysis": "将\"academic\"误理解为\"学院的\"（形近词academy干扰）或\"教育的\"（词根academ-过度联系教育）",
+      "sentence": "Her **academic** work on linguistics has been published in several top journals.",
+      "options": {
+        "option": [
+          {
+            "definition": "学术的",
+            "iscorrect": true
+          },
+          {
+            "definition": "学院的",
+            "iscorrect": false
+          },
+          {
+            "definition": "教育的",
+            "iscorrect": false
+          },
+          {
+            "definition": "实践的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

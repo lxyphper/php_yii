@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "metamorphism",
+      "error_analysis": "易混淆形近词metamorphosis（生物变态），或词根过度推导为一般形态变化，忽略其地质学术语属性",
+      "sentence": "The **metamorphism** of shale under high pressure and temperature results in the formation of slate, a durable material used for roofing.",
+      "options": {
+        "option": [
+          {
+            "definition": "（地质学中的）变质作用（岩石在高温高压下发生的结构或成分变化）",
+            "iscorrect": true
+          },
+          {
+            "definition": "生物的变态发育（如蝴蝶从幼虫到成虫的形态变化）",
+            "iscorrect": false
+          },
+          {
+            "definition": "物体形态的一般变化（如冰融化成水的状态改变）",
+            "iscorrect": false
+          },
+          {
+            "definition": "化学元素的转化过程（如铀衰变成铅的放射性变化）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "chain",
+      "error_analysis": "中国学生易将“chain”与形近词“change”（改变）混淆，或误将字面义“链条”用于比喻义（如“连锁超市”）。",
+      "sentence": "The **chain** of supermarkets has expanded to over 100 locations in the country.",
+      "options": {
+        "option": [
+          {
+            "definition": "改变",
+            "iscorrect": false
+          },
+          {
+            "definition": "椅子",
+            "iscorrect": false
+          },
+          {
+            "definition": "链条",
+            "iscorrect": false
+          },
+          {
+            "definition": "连锁（店）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tired",
+      "error_analysis": "中国学生易因形近词“tried”（尝试过的）或“tire”（轮胎）的联想，将“tired”误判为非“疲劳的”含义。",
+      "sentence": "After working for 12 hours, she felt so **tired** that she could barely stand.",
+      "options": {
+        "option": [
+          {
+            "definition": "疲劳的；疲倦的",
+            "iscorrect": true
+          },
+          {
+            "definition": "尝试过的；努力过的",
+            "iscorrect": false
+          },
+          {
+            "definition": "轮胎的；与轮胎相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "兴奋的；激动的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

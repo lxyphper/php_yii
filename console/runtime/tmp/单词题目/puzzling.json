@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "puzzling",
+      "error_analysis": "学生易混淆puzzling（令人困惑的，修饰物）与puzzled（困惑的，修饰人），或因puzzle的“拼图”义猜测为“正在玩拼图的”。",
+      "sentence": "The math problem was so **puzzling** that even the teacher couldn't explain it clearly.",
+      "options": {
+        "option": [
+          {
+            "definition": "困惑的（用于描述人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "正在玩拼图的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人困惑的（用于描述事物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "令人愉快的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

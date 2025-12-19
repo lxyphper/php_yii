@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "microchip",
+      "error_analysis": "学生易通过词根\"micro-\"(微小的)和\"chip\"(碎片/薯条)错误推导为\"微小的碎片\"或\"微型薯条\"，忽略其核心义\"芯片\"",
+      "sentence": "The new smartphone uses a smaller, more powerful **microchip** to handle complex tasks faster.",
+      "options": {
+        "option": [
+          {
+            "definition": "芯片（电子元件）",
+            "iscorrect": true
+          },
+          {
+            "definition": "微小的碎片",
+            "iscorrect": false
+          },
+          {
+            "definition": "微型薯条",
+            "iscorrect": false
+          },
+          {
+            "definition": "微型麦克风",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

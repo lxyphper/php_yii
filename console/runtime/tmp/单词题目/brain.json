@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "brain",
+      "error_analysis": "学生易因形近词“braid”（辫子）或“rain”（雨）产生误判，或因发音相近的“brand”（品牌）混淆词义",
+      "sentence": "You need to use your **brain** to figure out the answer to this math problem.",
+      "options": {
+        "option": [
+          {
+            "definition": "大脑",
+            "iscorrect": true
+          },
+          {
+            "definition": "辫子",
+            "iscorrect": false
+          },
+          {
+            "definition": "雨",
+            "iscorrect": false
+          },
+          {
+            "definition": "品牌",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

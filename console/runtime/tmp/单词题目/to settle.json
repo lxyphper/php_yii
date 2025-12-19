@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to settle",
+      "error_analysis": "学生易因形近词\"seat\"(座位)或\"set\"(设置)，将\"to settle\"误理解为\"坐下\"或\"设置\"，忽略其核心含义\"定居\"或\"解决\"。",
+      "sentence": "After years of traveling, she finally decided to **settle** in a quiet village near the mountains.",
+      "options": {
+        "option": [
+          {
+            "definition": "定居",
+            "iscorrect": true
+          },
+          {
+            "definition": "坐下",
+            "iscorrect": false
+          },
+          {
+            "definition": "设置",
+            "iscorrect": false
+          },
+          {
+            "definition": "出售",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to participate",
+      "error_analysis": "中国学生易因词根“part”（部分）及形近词“partition”（分割）的干扰，将“to participate”误理解为“分割”。",
+      "sentence": "Many students are eager to **participate** in the school's annual talent show.",
+      "options": {
+        "option": [
+          {
+            "definition": "分割；分成部分",
+            "iscorrect": false
+          },
+          {
+            "definition": "参与；参加",
+            "iscorrect": true
+          },
+          {
+            "definition": "分割；划分",
+            "iscorrect": false
+          },
+          {
+            "definition": "离开；分开",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

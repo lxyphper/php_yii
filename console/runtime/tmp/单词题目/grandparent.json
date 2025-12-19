@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "grandparent",
+      "error_analysis": "学生易因形近词\"parent\"混淆为\"父母\"，或因\"grand-\"字面义误解为\"伟大的父母\"",
+      "sentence": "My **grandparent** often tells me stories about their childhood in the countryside.",
+      "options": {
+        "option": [
+          {
+            "definition": "父母（父亲或母亲）",
+            "iscorrect": false
+          },
+          {
+            "definition": "祖父母或外祖父母（统称）",
+            "iscorrect": true
+          },
+          {
+            "definition": "伟大的父母",
+            "iscorrect": false
+          },
+          {
+            "definition": "曾祖父母（祖父的父母）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

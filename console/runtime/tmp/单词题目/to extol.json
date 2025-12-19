@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to extol",
+      "error_analysis": "学生易因形近词“extort”（敲诈）混淆词义，或因“tol”与“tool”（工具）的发音联想及词根“tollere”（举起）的字面义误猜为“使用工具”或“抬起”。",
+      "sentence": "The critics continued to **extol** the young pianist's extraordinary talent in their reviews.",
+      "options": {
+        "option": [
+          {
+            "definition": "赞美，颂扬",
+            "iscorrect": true
+          },
+          {
+            "definition": "敲诈，勒索",
+            "iscorrect": false
+          },
+          {
+            "definition": "使用工具",
+            "iscorrect": false
+          },
+          {
+            "definition": "抬起，举起",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

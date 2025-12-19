@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to lift",
+      "error_analysis": "中国学生易混淆形近词“left”（左边），或误将“to lift”联想为“离开”（与“leave”混淆）。",
+      "sentence": "Please help me **lift** this heavy box onto the shelf—I can't do it alone.",
+      "options": {
+        "option": [
+          {
+            "definition": "举起；抬起",
+            "iscorrect": true
+          },
+          {
+            "definition": "左边",
+            "iscorrect": false
+          },
+          {
+            "definition": "离开",
+            "iscorrect": false
+          },
+          {
+            "definition": "点亮",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

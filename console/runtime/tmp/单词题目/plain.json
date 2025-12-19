@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "plain",
+      "error_analysis": "将“plain”误联想为形近词“plane”（飞机/平面）或“pain”（痛苦）的含义",
+      "sentence": "She prefers wearing **plain** clothes instead of fancy ones.",
+      "options": {
+        "option": [
+          {
+            "definition": "简单的；朴素的",
+            "iscorrect": true
+          },
+          {
+            "definition": "飞机；平面",
+            "iscorrect": false
+          },
+          {
+            "definition": "痛苦的；令人疼痛的",
+            "iscorrect": false
+          },
+          {
+            "definition": "平原；旷野",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

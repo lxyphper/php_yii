@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to start",
+      "error_analysis": "学生易因形近词\"star\"（星星）或词根拆分误将\"start\"与\"艺术\"（art）关联，导致误解核心词义\"开始\"。",
+      "sentence": "We will **start** the meeting at 10 o'clock sharp.",
+      "options": {
+        "option": [
+          {
+            "definition": "开始；启动",
+            "iscorrect": true
+          },
+          {
+            "definition": "星星；明星",
+            "iscorrect": false
+          },
+          {
+            "definition": "艺术；技艺",
+            "iscorrect": false
+          },
+          {
+            "definition": "跳跃；蹦跳",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "recession",
+      "error_analysis": "易因形近词\"reception\"（接待）或词根\"re-\"+\"cess\"（走）误判为\"接待\"或\"后退\"",
+      "sentence": "Many people lost their jobs during the **recession** in 2008, as businesses struggled to stay open.",
+      "options": {
+        "option": [
+          {
+            "definition": "接待（如酒店的接待服务）",
+            "iscorrect": false
+          },
+          {
+            "definition": "经济衰退（经济活动大幅减少的时期）",
+            "iscorrect": true
+          },
+          {
+            "definition": "后退/撤回（如军队的撤退行动）",
+            "iscorrect": false
+          },
+          {
+            "definition": "恢复/复苏（如健康或经济的好转）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

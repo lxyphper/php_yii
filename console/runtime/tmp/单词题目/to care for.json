@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to care for",
+      "error_analysis": "中国学生易混淆“to care for”与“care about”的含义，将其误理解为“关心（某人的情况）”，或字面直译为“为了关心”，忽略其“照顾；照料”的核心行动性含义",
+      "sentence": "After the surgery, Lisa had to **care for** her father at home for a month.",
+      "options": {
+        "option": [
+          {
+            "definition": "照顾；照料",
+            "iscorrect": true
+          },
+          {
+            "definition": "关心（某人的情况）",
+            "iscorrect": false
+          },
+          {
+            "definition": "喜欢",
+            "iscorrect": false
+          },
+          {
+            "definition": "为了关心",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

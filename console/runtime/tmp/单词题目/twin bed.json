@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "twin bed",
+      "error_analysis": "学生易因“twin”（双胞胎）的字面义，将“twin bed”误判为“双人床”，忽略其“成对单人床”的核心义。",
+      "sentence": "When we booked the hotel room, we asked for two **twin beds** so that my friend and I could each have our own space.",
+      "options": {
+        "option": [
+          {
+            "definition": "单人床（通常成对摆放的小型床）",
+            "iscorrect": true
+          },
+          {
+            "definition": "双人床（供两人同时睡的床）",
+            "iscorrect": false
+          },
+          {
+            "definition": "扭曲的床（形状弯曲变形的床）",
+            "iscorrect": false
+          },
+          {
+            "definition": "婴儿床（适合婴儿使用的小床）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "properly",
+      "error_analysis": "中国学生易将形近音近词“probably”（可能地）与“properly”混淆，或因“proper”的“正式”含义误导认为其为“正式地”",
+      "sentence": "Before cooking, make sure you wash your hands **properly** to avoid spreading germs.",
+      "options": {
+        "option": [
+          {
+            "definition": "正确地；恰当地",
+            "iscorrect": true
+          },
+          {
+            "definition": "可能地",
+            "iscorrect": false
+          },
+          {
+            "definition": "正式地",
+            "iscorrect": false
+          },
+          {
+            "definition": "严格地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

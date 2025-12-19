@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "programmer",
+      "error_analysis": "学生易因“program”的“节目”或“计划”词义，将“programmer”误判为“节目主持人”或“计划制定者”",
+      "sentence": "The **programmer** spent all night fixing the bugs in the new mobile app.",
+      "options": {
+        "option": [
+          {
+            "definition": "节目主持人",
+            "iscorrect": false
+          },
+          {
+            "definition": "计划制定者",
+            "iscorrect": false
+          },
+          {
+            "definition": "程序员",
+            "iscorrect": true
+          },
+          {
+            "definition": "安排活动的人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

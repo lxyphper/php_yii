@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "angelic",
+      "error_analysis": "学生易因形近词\"angular\"(有棱角的)干扰误判，或因词根\"angel\"过度直译忽略\"像天使般的(善良/可爱)\"的核心引申义。",
+      "sentence": "The little girl's **angelic** smile made everyone in the room feel warm and happy.",
+      "options": {
+        "option": [
+          {
+            "definition": "有棱角的",
+            "iscorrect": false
+          },
+          {
+            "definition": "天使般的；可爱的",
+            "iscorrect": true
+          },
+          {
+            "definition": "痛苦的",
+            "iscorrect": false
+          },
+          {
+            "definition": "天使的（仅指归属）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

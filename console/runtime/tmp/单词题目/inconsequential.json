@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "inconsequential",
+      "error_analysis": "学生易因形近词（如inconsiderate）混淆为“不体贴的”，或因词根“in-+consequence”直译为“没有结果的”而误解词义。",
+      "sentence": "During the meeting, they wasted hours arguing about **inconsequential** things like the font size of the agenda, completely forgetting to discuss the new project deadline.",
+      "options": {
+        "option": [
+          {
+            "definition": "无关紧要的，不重要的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不体贴的，不顾及他人的",
+            "iscorrect": false
+          },
+          {
+            "definition": "没有结果的，无后果的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不一致的，不连贯的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

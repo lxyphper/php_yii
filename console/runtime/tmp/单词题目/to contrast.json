@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to contrast",
+      "error_analysis": "中国学生易混淆形近词“contract”（收缩/订合同），或因“contra-”词根误判为“对抗”，而非“对比差异”。",
+      "sentence": "The teacher asked us to **contrast** the two poems and explain their different themes.",
+      "options": {
+        "option": [
+          {
+            "definition": "收缩；订合同",
+            "iscorrect": false
+          },
+          {
+            "definition": "对抗；冲突",
+            "iscorrect": false
+          },
+          {
+            "definition": "对比（显示两者的差异）",
+            "iscorrect": true
+          },
+          {
+            "definition": "比较（强调相似之处）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "common_misspellings": [
+      "emotionnal",
+      "emotinal",
+      "emotsional",
+      "kwotient",
+      "quotent",
+      "cotient"
+    ],
+    "correct_chunks": [
+      "emo",
+      "tion",
+      "al",
+      "quo",
+      "tient"
+    ],
+    "distractor_chunks": [
+      "nn",
+      "tin",
+      "sion",
+      "kw",
+      "tent",
+      "cot"
+    ]
+  },
+  0
+]

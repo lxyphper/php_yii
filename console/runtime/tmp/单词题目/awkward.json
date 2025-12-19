@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "awkward",
+      "error_analysis": "易因与awful（可怕的）、awake（清醒的）形近而混淆，或因字面拆分误以为是“错误的”",
+      "sentence": "It was an **awkward** moment when she realized she was wearing the same dress as her friend.",
+      "options": {
+        "option": [
+          {
+            "definition": "尴尬的；笨拙的",
+            "iscorrect": true
+          },
+          {
+            "definition": "可怕的",
+            "iscorrect": false
+          },
+          {
+            "definition": "错误的",
+            "iscorrect": false
+          },
+          {
+            "definition": "清醒的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "luggage carousel",
+      "error_analysis": "学生可能因\"carousel\"中的\"car\"词根联想，误将其理解为\"行李手推车\"（luggage cart），或因对\"carousel\"旋转特性不熟悉而猜成\"行李存储架\"。",
+      "sentence": "After landing, please head to Terminal 2 and wait for your bags at the **luggage carousel** opposite the arrival exit.",
+      "options": {
+        "option": [
+          {
+            "definition": "行李转盘（机场内旋转的行李传送带）",
+            "iscorrect": true
+          },
+          {
+            "definition": "行李手推车（机场内推行李的小车）",
+            "iscorrect": false
+          },
+          {
+            "definition": "行李存储柜（存放行李的柜子）",
+            "iscorrect": false
+          },
+          {
+            "definition": "行李检查柜台（办理行李托运的柜台）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

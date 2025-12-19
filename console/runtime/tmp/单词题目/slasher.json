@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "slasher",
+      "error_analysis": "中国学生易因形近词\"slacker\"(懒虫)混淆，或因词根\"slash\"(砍)过度推导为\"砍刀\"(工具)而非电影中的连环杀手。",
+      "sentence": "The new horror movie features a masked **slasher** who hunts teenagers in a deserted forest.",
+      "options": {
+        "option": [
+          {
+            "definition": "（电影中的）连环杀手；用刀砍人的人",
+            "iscorrect": true
+          },
+          {
+            "definition": "懒虫；逃避工作的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "砍刀；劈刀",
+            "iscorrect": false
+          },
+          {
+            "definition": "了不起的人；出色的事物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

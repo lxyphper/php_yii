@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to count on",
+      "error_analysis": "学生易因“count”（计数）和“on”（在...上）的字面义，将“count on”误解为与“计数”相关的动作",
+      "sentence": "I know I can **count on** you to help me with the project deadline.",
+      "options": {
+        "option": [
+          {
+            "definition": "在...上面计数",
+            "iscorrect": false
+          },
+          {
+            "definition": "算出...的数量",
+            "iscorrect": false
+          },
+          {
+            "definition": "把...算入总数",
+            "iscorrect": false
+          },
+          {
+            "definition": "依赖；指望",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

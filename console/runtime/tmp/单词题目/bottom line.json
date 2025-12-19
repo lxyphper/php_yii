@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bottom line",
+      "error_analysis": "学生易因词根字面误导，将\"bottom line\"误解为\"底部的线\"（物理意义），而非其核心引申义\"最重要的事实或最终结论\"。",
+      "sentence": "After hours of debate, the **bottom line** is that we don’t have enough money to start the business.",
+      "options": {
+        "option": [
+          {
+            "definition": "最重要的事实或最终结论",
+            "iscorrect": true
+          },
+          {
+            "definition": "页面底部的物理线条",
+            "iscorrect": false
+          },
+          {
+            "definition": "测量或比赛中的基线（如base line）",
+            "iscorrect": false
+          },
+          {
+            "definition": "财务报表中的净利润（如净利润线）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

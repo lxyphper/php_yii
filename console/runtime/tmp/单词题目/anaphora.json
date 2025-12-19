@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "anaphora",
+      "error_analysis": "学生易因词根\"ana-\"(再次)+\"-phora\"(携带)误猜为\"再次传递\"，或因形近词\"aphorism\"(格言)误解为\"简短警句\"",
+      "sentence": "In the sentence \"Mary forgot her umbrella, so she had to walk home in the rain,\" the pronoun \"she\" is a classic example of **anaphora**, as it refers back to \"Mary.\"",
+      "options": {
+        "option": [
+          {
+            "definition": "简短的格言或警句",
+            "iscorrect": false
+          },
+          {
+            "definition": "（语法中的）回指（用代词等指代前文内容）",
+            "iscorrect": true
+          },
+          {
+            "definition": "再次运输或传递某物",
+            "iscorrect": false
+          },
+          {
+            "definition": "解剖学中的骨骼连接结构",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

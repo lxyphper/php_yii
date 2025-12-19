@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "low-cost",
+      "error_analysis": "学生易将合成形容词“low-cost”拆分为动词短语“降低成本”，或因“low”的负面含义误解为“低质量的”",
+      "sentence": "Many people choose **low-cost** airlines to save money on travel.",
+      "options": {
+        "option": [
+          {
+            "definition": "降低成本（动词短语）",
+            "iscorrect": false
+          },
+          {
+            "definition": "低质量的",
+            "iscorrect": false
+          },
+          {
+            "definition": "廉价的；低成本的",
+            "iscorrect": true
+          },
+          {
+            "definition": "低消耗的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

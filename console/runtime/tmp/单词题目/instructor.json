@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "instructor",
+      "error_analysis": "学生易因形近词“instrument”（仪器）干扰或词根“struct”误导，将“instructor”误解为“工具”或“建筑者”。",
+      "sentence": "Our yoga **instructor** will demonstrate the correct posture for the downward-facing dog pose.",
+      "options": {
+        "option": [
+          {
+            "definition": "指导者；教师；教练",
+            "iscorrect": true
+          },
+          {
+            "definition": "仪器；工具",
+            "iscorrect": false
+          },
+          {
+            "definition": "建筑者；建造者",
+            "iscorrect": false
+          },
+          {
+            "definition": "检查员；督查",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to slip away",
+      "error_analysis": "学生易因“slip”的“滑”义直译“to slip away”为“滑倒离开”，忽略其“悄悄/秘密离开”的核心含义",
+      "sentence": "She **slipped away** from the boring lecture to get some fresh air.",
+      "options": {
+        "option": [
+          {
+            "definition": "悄悄离开",
+            "iscorrect": true
+          },
+          {
+            "definition": "滑倒离开",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速跑开",
+            "iscorrect": false
+          },
+          {
+            "definition": "滑落消失",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

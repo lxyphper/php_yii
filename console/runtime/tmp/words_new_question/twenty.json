@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "twenty",
+      "error_analysis": "中国学生易因形近词\"twelve\"（十二）混淆\"twenty\"（二十）的含义",
+      "sentence": "The bakery packs **twenty** cookies into each bag, so you can give two to each of your ten friends.",
+      "options": {
+        "option": [
+          {
+            "definition": "十二",
+            "iscorrect": false
+          },
+          {
+            "definition": "二十",
+            "iscorrect": true
+          },
+          {
+            "definition": "十",
+            "iscorrect": false
+          },
+          {
+            "definition": "三十",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

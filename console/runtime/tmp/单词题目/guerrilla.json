@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "guerrilla",
+      "error_analysis": "中国学生易因形近词“gorilla”（大猩猩）混淆，或误将“guerrilla”理解为正规军士兵。",
+      "sentence": "The **guerrilla** group launched a series of surprise attacks on the enemy's outposts at dawn.",
+      "options": {
+        "option": [
+          {
+            "definition": "大猩猩",
+            "iscorrect": false
+          },
+          {
+            "definition": "正规军士兵",
+            "iscorrect": false
+          },
+          {
+            "definition": "游击队员；游击战的",
+            "iscorrect": true
+          },
+          {
+            "definition": "旅行向导",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to obligate",
+      "error_analysis": "中国学生易因形近词“oblige”（帮忙/迫使）或词根“lig-”（绑）误解“obligate”为“帮忙”“强迫”或“捆绑”。",
+      "sentence": "The new law **obligates** all companies to provide health insurance for their employees.",
+      "options": {
+        "option": [
+          {
+            "definition": "使负有义务（因法律、承诺等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "帮忙；效劳",
+            "iscorrect": false
+          },
+          {
+            "definition": "捆绑；束缚",
+            "iscorrect": false
+          },
+          {
+            "definition": "强迫；迫使",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bull",
+      "error_analysis": "学生易因形近词\"pull\"（拉）的拼写及发音相似，将\"bull\"误理解为\"拉\"。",
+      "sentence": "The farmer kept a strong **bull** to protect his cows from predators.",
+      "options": {
+        "option": [
+          {
+            "definition": "拉（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "公牛（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "账单（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "球（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

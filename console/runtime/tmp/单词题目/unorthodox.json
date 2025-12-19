@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unorthodox",
+      "error_analysis": "中国学生易因拼写结构相似将\"unorthodox\"与\"unnecessary\"（不必要的）混淆，或因\"ortho\"的\"正\"词根猜测为\"不正确的\"。",
+      "sentence": "The artist used an **unorthodox** method to paint the portrait—instead of a brush, he used his fingers.",
+      "options": {
+        "option": [
+          {
+            "definition": "非正统的；异端的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不必要的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不正确的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无秩序的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

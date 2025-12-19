@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to overthrow",
+      "error_analysis": "学生易因“over+throw”字面误导理解为“扔过头”，或与形近词“overturn”混淆为“翻转”。",
+      "sentence": "The people decided to **overthrow** the corrupt government and establish a new one.",
+      "options": {
+        "option": [
+          {
+            "definition": "推翻（政权、制度等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "扔过头；投掷过量",
+            "iscorrect": false
+          },
+          {
+            "definition": "翻转；使倾倒",
+            "iscorrect": false
+          },
+          {
+            "definition": "超过；追上",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stifling",
+      "error_analysis": "学生易因形近词“stiff”（僵硬的）将“stifling”误判为“僵硬的”，或因词根联想误判为“抑制的”",
+      "sentence": "The crowded subway car on a summer afternoon felt **stifling**, making everyone sweat profusely.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人窒息的；闷热的",
+            "iscorrect": true
+          },
+          {
+            "definition": "僵硬的",
+            "iscorrect": false
+          },
+          {
+            "definition": "抑制的",
+            "iscorrect": false
+          },
+          {
+            "definition": "显著的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

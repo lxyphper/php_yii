@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "farewell",
+      "error_analysis": "学生易因“fare”（费用/行程）的常见义或拆分“fare+well”而误将“farewell”理解为与费用或行程进展相关的含义",
+      "sentence": "As the train departed, Lisa waved **farewell** to her friends who were still on the platform.",
+      "options": {
+        "option": [
+          {
+            "definition": "告别； farewell",
+            "iscorrect": true
+          },
+          {
+            "definition": "费用优惠",
+            "iscorrect": false
+          },
+          {
+            "definition": "行程进展顺利",
+            "iscorrect": false
+          },
+          {
+            "definition": "健康祝福",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

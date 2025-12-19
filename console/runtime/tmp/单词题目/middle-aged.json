@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "middle-aged",
+      "error_analysis": "学生易因词根字面拆分（middle+aged）错误理解为“年龄处于中间的”，或因“middle”与“middle school”的联想误判为“中学年龄的”",
+      "sentence": "The **middle-aged** woman often takes her dog for a walk in the park after work.",
+      "options": {
+        "option": [
+          {
+            "definition": "中年的",
+            "iscorrect": true
+          },
+          {
+            "definition": "年龄处于中间的",
+            "iscorrect": false
+          },
+          {
+            "definition": "中学年龄的",
+            "iscorrect": false
+          },
+          {
+            "definition": "年老的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

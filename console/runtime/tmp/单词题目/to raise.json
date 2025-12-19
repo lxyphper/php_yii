@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to raise",
+      "error_analysis": "中国学生易混淆形近词“rise”（上升，不及物），将“raise”误理解为“上升”，忽略其“举起；提高”的及物核心义。",
+      "sentence": "Please **raise** your hand if you have a question to ask.",
+      "options": {
+        "option": [
+          {
+            "definition": "举起；提高",
+            "iscorrect": true
+          },
+          {
+            "definition": "上升",
+            "iscorrect": false
+          },
+          {
+            "definition": "饲养",
+            "iscorrect": false
+          },
+          {
+            "definition": "站立",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to lance",
+      "error_analysis": "学生易因形近词\"launch\"（发射）或词根\"lance\"（长矛）误导，将\"to lance\"误解为\"发射\"或\"用长矛刺\"，而非核心义\"用刀切开\"。",
+      "sentence": "The nurse had to **lance** the infected finger to drain the pus.",
+      "options": {
+        "option": [
+          {
+            "definition": "发射（火箭或导弹）",
+            "iscorrect": false
+          },
+          {
+            "definition": "用长矛刺",
+            "iscorrect": false
+          },
+          {
+            "definition": "用刀切开（伤口或脓肿）",
+            "iscorrect": true
+          },
+          {
+            "definition": "着陆（飞机或飞船）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

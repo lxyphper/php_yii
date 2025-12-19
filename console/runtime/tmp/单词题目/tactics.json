@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tactics",
+      "error_analysis": "中国学生易因形近词`topics`（话题）混淆，或因词根`tact`（接触）误导，将`tactics`误解为“话题”或“接触的技巧”。",
+      "sentence": "The football coach introduced new **tactics** to improve the team's performance in the next match.",
+      "options": {
+        "option": [
+          {
+            "definition": "策略；战术",
+            "iscorrect": true
+          },
+          {
+            "definition": "机智",
+            "iscorrect": false
+          },
+          {
+            "definition": "话题",
+            "iscorrect": false
+          },
+          {
+            "definition": "接触的技巧",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

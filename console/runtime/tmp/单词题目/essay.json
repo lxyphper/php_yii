@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "essay",
+      "error_analysis": "形近词\"easy\"(容易的)的拼写干扰，及对\"say\"(说)的词根联想错误",
+      "sentence": "She wrote a personal **essay** about her experience studying abroad for the school magazine.",
+      "options": {
+        "option": [
+          {
+            "definition": "容易的",
+            "iscorrect": false
+          },
+          {
+            "definition": "说话的内容",
+            "iscorrect": false
+          },
+          {
+            "definition": "散文；随笔",
+            "iscorrect": true
+          },
+          {
+            "definition": "化验报告",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

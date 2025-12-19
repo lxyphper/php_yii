@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "after",
+      "error_analysis": "学生易因形近词affect（影响）混淆，或误将after理解为空间上的“在...后面”",
+      "sentence": "She always drinks a cup of tea **after** dinner to relax.",
+      "options": {
+        "option": [
+          {
+            "definition": "影响",
+            "iscorrect": false
+          },
+          {
+            "definition": "在...后面（空间上）",
+            "iscorrect": false
+          },
+          {
+            "definition": "在...之后（时间上）",
+            "iscorrect": true
+          },
+          {
+            "definition": "以前",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

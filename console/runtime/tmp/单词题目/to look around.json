@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to look around",
+      "error_analysis": "学生易因“look”（看）和“around”（周围）的字面联想，误解为“看周围的事物”，而忽略“参观、查看（地方）”的核心义",
+      "sentence": "We decided to **look around** the new coffee shop before deciding whether to work there.",
+      "options": {
+        "option": [
+          {
+            "definition": "环顾四周；参观，查看（地方）",
+            "iscorrect": true
+          },
+          {
+            "definition": "看周围的事物（如路边的树、行人等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "寻找周围的东西（如丢失的钥匙）",
+            "iscorrect": false
+          },
+          {
+            "definition": "照顾周围的人（如同事、顾客）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

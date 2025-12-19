@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bildungsroman",
+      "error_analysis": "学生易将`bild`联想为`build`（建造）、`roman`联想为“罗马的”，从而错误理解为与建筑或罗马相关的作品。",
+      "sentence": "Many literary critics consider *To Kill a Mockingbird* a classic **bildungsroman** because it traces Scout Finch's moral development from childhood innocence to a deeper understanding of justice.",
+      "options": {
+        "option": [
+          {
+            "definition": "成长小说（关于主角从童年到成年心理/道德发展的小说）",
+            "iscorrect": true
+          },
+          {
+            "definition": "关于罗马建筑的历史著作",
+            "iscorrect": false
+          },
+          {
+            "definition": "描述建筑过程的纪实文学",
+            "iscorrect": false
+          },
+          {
+            "definition": "罗马帝国时期的史诗故事",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

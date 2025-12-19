@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "carbon sequestration",
+      "error_analysis": "学生易因\"sequestration\"与\"separation\"（分离）形近或词根\"quest\"（寻找）误导，将其误判为\"碳分离\"或\"碳寻找\"",
+      "sentence": "Forests play a crucial role in **carbon sequestration** by absorbing CO₂ from the atmosphere and storing it in trees and soil to combat climate change.",
+      "options": {
+        "option": [
+          {
+            "definition": "碳分离（将碳从其他物质中分开的过程）",
+            "iscorrect": false
+          },
+          {
+            "definition": "碳寻找（寻找地下碳资源的行为）",
+            "iscorrect": false
+          },
+          {
+            "definition": "碳分泌（生物体释放碳化合物的生理过程）",
+            "iscorrect": false
+          },
+          {
+            "definition": "碳封存（将二氧化碳固定以减少其进入大气的环保措施）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

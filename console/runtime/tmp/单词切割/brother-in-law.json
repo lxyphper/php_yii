@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "brotherinlaw",
+      "brother-on-law",
+      "broter-in-law",
+      "brother-in-la"
+    ],
+    "correct_chunks": [
+      "brother",
+      "-in-",
+      "law"
+    ],
+    "distractor_chunks": [
+      "brotherin",
+      "-on-",
+      "broter",
+      "-la-"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "practically",
+      "error_analysis": "学生易因形近词“practical”（实际的）误判为“实际地/实用地”，或因词根“practice”（练习）误联为“练习地”，忽略其核心义“几乎/差不多”。",
+      "sentence": "After waiting for an hour, I was **practically** ready to leave when the bus finally arrived.",
+      "options": {
+        "option": [
+          {
+            "definition": "几乎；差不多",
+            "iscorrect": true
+          },
+          {
+            "definition": "实际地；实用地",
+            "iscorrect": false
+          },
+          {
+            "definition": "练习地；熟练地",
+            "iscorrect": false
+          },
+          {
+            "definition": "特意地；故意地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

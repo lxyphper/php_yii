@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "loose",
+      "error_analysis": "学生易混淆形近词\"lose\"（丢失），误将\"loose\"理解为\"丢失的\"，或误判为\"放松的\"动词含义",
+      "sentence": "The jeans she bought are too **loose** around the waist, so she needs to get them altered.",
+      "options": {
+        "option": [
+          {
+            "definition": "丢失的；失去的",
+            "iscorrect": false
+          },
+          {
+            "definition": "宽松的；不紧的",
+            "iscorrect": true
+          },
+          {
+            "definition": "放松的；轻松的",
+            "iscorrect": false
+          },
+          {
+            "definition": "松散的；零散的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

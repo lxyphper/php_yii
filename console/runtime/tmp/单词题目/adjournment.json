@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "adjournment",
+      "error_analysis": "易与形近词“adjustment”（调整）混淆，或因“journ”联想到“journey”（旅行）而误解为“旅行安排”",
+      "sentence": "The chairperson announced the **adjournment** of the meeting until next week due to lack of quorum.",
+      "options": {
+        "option": [
+          {
+            "definition": "调整",
+            "iscorrect": false
+          },
+          {
+            "definition": "休会；延期",
+            "iscorrect": true
+          },
+          {
+            "definition": "旅行安排",
+            "iscorrect": false
+          },
+          {
+            "definition": "结束",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dejection",
+      "error_analysis": "因形近词\"rejection\"(拒绝)及词根\"de-+ject\"(向下扔)误导，易误理解为\"拒绝\"或\"抛弃\"",
+      "sentence": "After failing the exam for the third time, Tom sat in the corner with a look of **dejection** on his face, unable to say a word.",
+      "options": {
+        "option": [
+          {
+            "definition": "沮丧；情绪低落",
+            "iscorrect": true
+          },
+          {
+            "definition": "拒绝；排斥",
+            "iscorrect": false
+          },
+          {
+            "definition": "抛弃；丢弃",
+            "iscorrect": false
+          },
+          {
+            "definition": "困惑；迷茫",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

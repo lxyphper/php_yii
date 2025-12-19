@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "halestorm",
+      "hailstom",
+      "hailstorrm",
+      "hailstrom",
+      "hailsstorm"
+    ],
+    "correct_chunks": [
+      "hail",
+      "st",
+      "orm"
+    ],
+    "distractor_chunks": [
+      "hale",
+      "om",
+      "orr",
+      "ro",
+      "hails"
+    ]
+  },
+  0
+]

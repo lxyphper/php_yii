@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "respect",
+      "error_analysis": "易因形近词（如inspect）混淆为“检查”，或因词根“re-+spect”误导为“再看”",
+      "sentence": "Teachers often remind students to **respect** their elders by listening to their advice and treating them politely.",
+      "options": {
+        "option": [
+          {
+            "definition": "检查（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "期待（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "再看；重复观看（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "尊重（动词）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

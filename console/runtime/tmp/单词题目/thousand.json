@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "thousand",
+      "error_analysis": "学生易因形近词\"thirsty\"(口渴的)拼写相似或词根\"thou\"(古英语\"你\")与\"sand\"(沙子)的错误联想误解词义",
+      "sentence": "There are about five **thousand** students in our school.",
+      "options": {
+        "option": [
+          {
+            "definition": "千（数词，表示1000）",
+            "iscorrect": true
+          },
+          {
+            "definition": "口渴的（形容词，想喝水的状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "你的沙子（名词短语，古英语\"thou\"与\"sand\"的字面组合）",
+            "iscorrect": false
+          },
+          {
+            "definition": "百（数词，表示100）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

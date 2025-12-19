@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "good afternoon",
+      "error_analysis": "学生易将固定问候语拆分为字面含义\"美好的下午\"（名词短语），而非用于下午的问候语",
+      "sentence": "When Tom met his neighbor at 2 PM, he smiled and said, \"**Good afternoon**!\"",
+      "options": {
+        "option": [
+          {
+            "definition": "下午好（用于下午的问候语）",
+            "iscorrect": true
+          },
+          {
+            "definition": "美好的下午（名词短语）",
+            "iscorrect": false
+          },
+          {
+            "definition": "晚上好（用于晚上的问候语）",
+            "iscorrect": false
+          },
+          {
+            "definition": "下午的好时光（名词短语）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

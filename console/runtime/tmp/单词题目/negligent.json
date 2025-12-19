@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "negligent",
+      "error_analysis": "中国学生易因形近词\"negligible\"(微不足道的)或词根\"neglect\"(忽视)的误导，将\"negligent\"错误理解为\"微不足道的\"或\"忽视的\"",
+      "sentence": "The doctor was accused of being **negligent** after the patient's condition worsened due to missed appointments.",
+      "options": {
+        "option": [
+          {
+            "definition": "疏忽的，粗心的",
+            "iscorrect": true
+          },
+          {
+            "definition": "微不足道的",
+            "iscorrect": false
+          },
+          {
+            "definition": "忽视的",
+            "iscorrect": false
+          },
+          {
+            "definition": "消极的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

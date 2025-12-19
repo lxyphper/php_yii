@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "free",
+      "error_analysis": "中国学生易将‘free’与形近词‘flee’（逃跑）、‘fresh’（新鲜的）混淆，或因‘fee’（费用）误判为‘需要付费的’。",
+      "sentence": "You can get a **free** ticket if you sign up for the workshop now.",
+      "options": {
+        "option": [
+          {
+            "definition": "逃跑的",
+            "iscorrect": false
+          },
+          {
+            "definition": "需要付费的",
+            "iscorrect": false
+          },
+          {
+            "definition": "新鲜的",
+            "iscorrect": false
+          },
+          {
+            "definition": "免费的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

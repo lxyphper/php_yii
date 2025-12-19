@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to stop",
+      "error_analysis": "学生易因形近词“step”（踩、踏）及“st-”开头词（如“stand”，站）的干扰，将“to stop”误理解为“踩”或“站”。",
+      "sentence": "The teacher asked the students to **stop** talking and listen to her.",
+      "options": {
+        "option": [
+          {
+            "definition": "停止（做某事）",
+            "iscorrect": true
+          },
+          {
+            "definition": "踩；踏",
+            "iscorrect": false
+          },
+          {
+            "definition": "站；站立",
+            "iscorrect": false
+          },
+          {
+            "definition": "继续（做某事）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

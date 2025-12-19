@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "low-fat",
+      "error_analysis": "学生易将“low-fat”中的“fat”误理解为形容词“胖的”而错解为“不胖的”，或因与“low-cost（低成本）”结构类似而混淆为“低成本的”",
+      "sentence": "I prefer drinking **low-fat** milk instead of whole milk because it's healthier for my heart.",
+      "options": {
+        "option": [
+          {
+            "definition": "低脂的（含脂肪量少的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "不胖的；身材苗条的",
+            "iscorrect": false
+          },
+          {
+            "definition": "低热量的",
+            "iscorrect": false
+          },
+          {
+            "definition": "低成本的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

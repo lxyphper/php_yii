@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "there",
+      "error_analysis": "学生易将“there”与形近词“their”（他们的）、“they’re”（他们是）混淆，导致误判其指代存在或位置的核心含义",
+      "sentence": "Look, **there** is a cat sitting on the old fence in the garden.",
+      "options": {
+        "option": [
+          {
+            "definition": "存在/那里（副词，用于指代位置或表示存在）",
+            "iscorrect": true
+          },
+          {
+            "definition": "他们的（形容词性物主代词，修饰名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "他们是（they are的缩写，用于主语+be动词结构）",
+            "iscorrect": false
+          },
+          {
+            "definition": "这里（副词，指代近处的位置）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

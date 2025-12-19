@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to weather",
+      "error_analysis": "学生易因\"weather\"作名词表\"天气\"的形近联想，误将动词义理解为\"预报天气\"或\"受天气影响\"，忽略其\"经受住困难\"的核心引申义。",
+      "sentence": "The small business managed to **weather** the pandemic and keep its doors open.",
+      "options": {
+        "option": [
+          {
+            "definition": "经受住（困难或挑战）",
+            "iscorrect": true
+          },
+          {
+            "definition": "预报天气",
+            "iscorrect": false
+          },
+          {
+            "definition": "受天气影响",
+            "iscorrect": false
+          },
+          {
+            "definition": "改善天气",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mailbox",
+      "error_analysis": "学生易因形近词\"mailbag\"(邮包)干扰，或对\"mail+box\"字面过度直译，将\"mailbox\"误判为邮包或办公室内文件盒。",
+      "sentence": "Please put the letter in the **mailbox** by the gate before 5 PM, so the postman can collect it tomorrow.",
+      "options": {
+        "option": [
+          {
+            "definition": "邮箱（用于接收或投放邮件的户外容器）",
+            "iscorrect": true
+          },
+          {
+            "definition": "邮包（邮递员装邮件的包）",
+            "iscorrect": false
+          },
+          {
+            "definition": "办公室内装文件的邮件盒",
+            "iscorrect": false
+          },
+          {
+            "definition": "运送邮件的邮船",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "top-notch",
+      "error_analysis": "学生易将\"top\"(顶部)和\"notch\"(缺口)字面组合，误理解为\"顶部的缺口\"或\"最高处的刻痕\"",
+      "sentence": "The hotel has earned a great reputation for its **top-notch** amenities and friendly staff.",
+      "options": {
+        "option": [
+          {
+            "definition": "一流的；顶尖的",
+            "iscorrect": true
+          },
+          {
+            "definition": "顶部的缺口；最高处的刻痕",
+            "iscorrect": false
+          },
+          {
+            "definition": "当前热门的；话题性强的",
+            "iscorrect": false
+          },
+          {
+            "definition": "显著的；值得注意的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "seventeen",
+      "error_analysis": "学生易因形近词\"seventy\"（七十）的干扰，将\"seventeen\"误判为70",
+      "sentence": "My cousin just turned **seventeen** yesterday, so she's now old enough to drive in some states.",
+      "options": {
+        "option": [
+          {
+            "definition": "十七（17）",
+            "iscorrect": true
+          },
+          {
+            "definition": "七十（70）",
+            "iscorrect": false
+          },
+          {
+            "definition": "十六（16）",
+            "iscorrect": false
+          },
+          {
+            "definition": "十八（18）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

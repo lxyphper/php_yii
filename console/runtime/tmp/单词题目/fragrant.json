@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fragrant",
+      "error_analysis": "易与形近词\"flagrant\"(公然的)、\"frail\"(虚弱的)混淆，或误猜为\"碎片的\"(fragment)等形近词含义",
+      "sentence": "The garden was filled with the **fragrant** scent of roses, making everyone feel relaxed.",
+      "options": {
+        "option": [
+          {
+            "definition": "芳香的；有香味的",
+            "iscorrect": true
+          },
+          {
+            "definition": "公然的；臭名昭著的",
+            "iscorrect": false
+          },
+          {
+            "definition": "虚弱的；脆弱的",
+            "iscorrect": false
+          },
+          {
+            "definition": "碎片的；不完整的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

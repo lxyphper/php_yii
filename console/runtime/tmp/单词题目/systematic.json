@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "systematic",
+      "error_analysis": "学生易因词根'system'（系统/制度）过度直译，将'systematic'误判为'系统的（指身体）'或'制度的'，或与形近词'sympathetic'（同情的）混淆。",
+      "sentence": "To improve his English, he adopted a **systematic** approach of studying 30 minutes every morning and reviewing at night.",
+      "options": {
+        "option": [
+          {
+            "definition": "有计划的；有条理的",
+            "iscorrect": true
+          },
+          {
+            "definition": "全身的；系统的（指身体或组织）",
+            "iscorrect": false
+          },
+          {
+            "definition": "制度的；体制的",
+            "iscorrect": false
+          },
+          {
+            "definition": "同情的；有同情心的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

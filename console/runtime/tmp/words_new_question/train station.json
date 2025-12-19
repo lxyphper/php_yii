@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "train station",
+      "error_analysis": "学生易将\"train\"的\"训练\"义代入误认为\"训练站\"，或因\"tram\"与\"train\"形近误判为\"电车站\"",
+      "sentence": "We need to arrive at the **train station** 30 minutes before the departure of our high-speed train to Beijing.",
+      "options": {
+        "option": [
+          {
+            "definition": "火车站",
+            "iscorrect": true
+          },
+          {
+            "definition": "训练站",
+            "iscorrect": false
+          },
+          {
+            "definition": "电车站",
+            "iscorrect": false
+          },
+          {
+            "definition": "汽车站",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

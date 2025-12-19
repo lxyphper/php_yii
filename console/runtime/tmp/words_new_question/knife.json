@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "knife",
+      "error_analysis": "中国学生易因形近词“knight”（骑士）的“kn”开头及相似拼写混淆“knife”的核心词义",
+      "sentence": "Please pass me the **knife**; I need to cut the apple into slices.",
+      "options": {
+        "option": [
+          {
+            "definition": "刀",
+            "iscorrect": true
+          },
+          {
+            "definition": "骑士",
+            "iscorrect": false
+          },
+          {
+            "definition": "知道",
+            "iscorrect": false
+          },
+          {
+            "definition": "编织",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

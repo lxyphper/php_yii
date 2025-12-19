@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "builder",
+      "error_analysis": "易混淆形近词\"binder\"(装订机;粘合剂)及词根误导的\"建筑材料\"",
+      "sentence": "The **builder** arrived early to start laying bricks for the new school in town.",
+      "options": {
+        "option": [
+          {
+            "definition": "建造者；建筑工人",
+            "iscorrect": true
+          },
+          {
+            "definition": "装订机；粘合剂",
+            "iscorrect": false
+          },
+          {
+            "definition": "建筑材料；建材",
+            "iscorrect": false
+          },
+          {
+            "definition": "建筑设计；施工方案",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

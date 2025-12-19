@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "dissosiative identity disorder",
+      "disociative identity disorder",
+      "dissociative idenity disorder",
+      "dissociative identety disorder",
+      "dissociative identity disoder"
+    ],
+    "correct_chunks": [
+      "dissociative",
+      "identity",
+      "disorder"
+    ],
+    "distractor_chunks": [
+      "dissosi",
+      "disoci",
+      "ideni",
+      "idente",
+      "disod"
+    ]
+  },
+  0
+]

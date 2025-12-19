@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "seizure",
+      "error_analysis": "学生易根据形近词“seize”（抓住）的词根联想，误以为“seizure”是“抓住的动作”，忽略其“癫痫发作”的常见义。",
+      "sentence": "After suddenly collapsing on the floor, the boy was rushed to the hospital and diagnosed with a **seizure**.",
+      "options": {
+        "option": [
+          {
+            "definition": "癫痫发作",
+            "iscorrect": true
+          },
+          {
+            "definition": "抓住的动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "测量的结果",
+            "iscorrect": false
+          },
+          {
+            "definition": "扣押的行为",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

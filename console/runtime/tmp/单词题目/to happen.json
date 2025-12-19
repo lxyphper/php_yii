@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to happen",
+      "error_analysis": "中国学生易因“happen”形近“happy”误解为“快乐”，或因词根“hap”（运气）误解为“有运气”",
+      "sentence": "What time did the accident **happen** yesterday?",
+      "options": {
+        "option": [
+          {
+            "definition": "发生",
+            "iscorrect": true
+          },
+          {
+            "definition": "快乐",
+            "iscorrect": false
+          },
+          {
+            "definition": "有运气",
+            "iscorrect": false
+          },
+          {
+            "definition": "使用钢笔",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

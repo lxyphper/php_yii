@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "calligraphy",
+      "error_analysis": "学生易将\"calli-\"误判为\"call\"（打电话），或把\"-graphy\"与\"graph\"（图表）混淆，导致误解为\"呼叫记录\"或\"精美图表\"",
+      "sentence": "The museum exhibits a collection of ancient Chinese **calligraphy** by famous masters like Wang Xizhi.",
+      "options": {
+        "option": [
+          {
+            "definition": "书法；书法艺术",
+            "iscorrect": true
+          },
+          {
+            "definition": "呼叫记录；通话日志",
+            "iscorrect": false
+          },
+          {
+            "definition": "精美图表；图形设计",
+            "iscorrect": false
+          },
+          {
+            "definition": "口头演讲；演说技巧",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unacceptable",
+      "error_analysis": "学生易因形近词“unavailable”（不可用的）或词根直译为“不接受的”（主动）而误解其核心词义“不可接受的”（被动）。",
+      "sentence": "It is **unacceptable** to treat others with such disrespect.",
+      "options": {
+        "option": [
+          {
+            "definition": "不可接受的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不可用的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不接受的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不负责的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

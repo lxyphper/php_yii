@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to suit",
+      "error_analysis": "学生易因名词\"suit\"（西装）的形近联想将动词\"to suit\"误判为\"穿西装\"，或因词根\"sequi\"（跟随）的误导误解为\"跟随\"。",
+      "sentence": "This dress **suits** you perfectly—its color matches your skin tone.",
+      "options": {
+        "option": [
+          {
+            "definition": "适合（某人/某物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "穿西装",
+            "iscorrect": false
+          },
+          {
+            "definition": "跟随",
+            "iscorrect": false
+          },
+          {
+            "definition": "套房",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

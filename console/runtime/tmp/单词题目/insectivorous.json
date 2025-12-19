@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "insectivorous",
+      "error_analysis": "学生易将词根\"vorous\"（吃的）误判为形近词\"virus\"（病毒）或误解为\"有关的\"，导致错解为\"昆虫病毒的\"或\"与昆虫相关的\"。",
+      "sentence": "Bats are **insectivorous** animals that play a key role in controlling mosquito populations.",
+      "options": {
+        "option": [
+          {
+            "definition": "食虫的",
+            "iscorrect": true
+          },
+          {
+            "definition": "与昆虫相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "昆虫病毒的",
+            "iscorrect": false
+          },
+          {
+            "definition": "喜欢昆虫的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

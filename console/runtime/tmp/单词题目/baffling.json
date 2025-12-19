@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "baffling",
+      "error_analysis": "学生易因形近词“battling”（战斗的）混淆，或因“baffle”的“阻碍”义误判为“阻碍的”",
+      "sentence": "The math problem was so **baffling** that none of the students could solve it within the time limit.",
+      "options": {
+        "option": [
+          {
+            "definition": "战斗的",
+            "iscorrect": false
+          },
+          {
+            "definition": "阻碍的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人困惑的",
+            "iscorrect": true
+          },
+          {
+            "definition": "烘焙的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

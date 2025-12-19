@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "bencmark",
+      "benchark",
+      "binchmark",
+      "bensmark",
+      "benchmork"
+    ],
+    "correct_chunks": [
+      "bench",
+      "mark"
+    ],
+    "distractor_chunks": [
+      "benc",
+      "ark",
+      "bin",
+      "bens",
+      "mork"
+    ]
+  },
+  0
+]

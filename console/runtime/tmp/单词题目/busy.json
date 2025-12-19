@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "busy",
+      "error_analysis": "中国学生易因形近词\"bus\"(公交车)联想到\"公交车的\"，或因字面拆分误以为是\"拥挤的\"，混淆核心义\"忙碌的\"。",
+      "sentence": "She is always **busy** with her homework and part-time job after school.",
+      "options": {
+        "option": [
+          {
+            "definition": "忙碌的；繁忙的",
+            "iscorrect": true
+          },
+          {
+            "definition": "公交车的；与公交车相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "拥挤的；挤满人的",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速的；敏捷的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "soap opera",
+      "error_analysis": "学生易因\"soap\"(肥皂)和\"opera\"(歌剧)的字面组合，将\"soap opera\"误解为\"关于肥皂的歌剧\"或\"肥皂相关的戏剧\"",
+      "sentence": "My mom never misses that **soap opera**—it’s full of gossip, secret affairs, and dramatic family fights in a suburban neighborhood.",
+      "options": {
+        "option": [
+          {
+            "definition": "肥皂剧（以家庭情感纠纷或日常琐事为主题的长篇电视连续剧）",
+            "iscorrect": true
+          },
+          {
+            "definition": "关于肥皂生产过程的歌剧",
+            "iscorrect": false
+          },
+          {
+            "definition": "用汤碗作为道具的儿童戏剧",
+            "iscorrect": false
+          },
+          {
+            "definition": "意大利经典歌剧的一种流派",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

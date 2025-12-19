@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ailment",
+      "error_analysis": "学生易因形近词\"element\"（元素）或\"alignment\"（对齐）混淆，或因\"ail\"（使痛苦）词根误导认为是\"严重疾病\"",
+      "sentence": "She’s been absent from work due to a minor **ailment** like a sore throat, but she’ll be back tomorrow.",
+      "options": {
+        "option": [
+          {
+            "definition": "小病，不适",
+            "iscorrect": true
+          },
+          {
+            "definition": "元素",
+            "iscorrect": false
+          },
+          {
+            "definition": "严重的疾病",
+            "iscorrect": false
+          },
+          {
+            "definition": "对齐",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "episode",
+      "error_analysis": "易混淆形近词\"epidemic\"(流行病)，或因词根\"ode\"(歌)错误推导为\"诗歌片段\"",
+      "sentence": "I can't wait to watch the next **episode** of my favorite TV series—it ends with a huge cliffhanger!",
+      "options": {
+        "option": [
+          {
+            "definition": "（电视剧、播客等的）一集；（事件的）一段",
+            "iscorrect": true
+          },
+          {
+            "definition": "流行病；传染病",
+            "iscorrect": false
+          },
+          {
+            "definition": "诗歌中的插曲或片段",
+            "iscorrect": false
+          },
+          {
+            "definition": "长期的阶段或时期",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

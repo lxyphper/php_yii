@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to shock",
+      "error_analysis": "中国学生易因形近词'sock'(袜子)或'shake'(摇晃)混淆，误将'to shock'理解为'给...穿袜子'或'使摇晃'。",
+      "sentence": "The news of her sudden death **shocked** everyone in the office.",
+      "options": {
+        "option": [
+          {
+            "definition": "使震惊；使惊讶",
+            "iscorrect": true
+          },
+          {
+            "definition": "给...穿袜子",
+            "iscorrect": false
+          },
+          {
+            "definition": "使摇晃",
+            "iscorrect": false
+          },
+          {
+            "definition": "储存（货物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

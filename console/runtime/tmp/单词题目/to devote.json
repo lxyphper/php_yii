@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to devote",
+      "error_analysis": "学生易因形近词“vote”（投票）将“devote”误解为“投票支持”，或因词根拆分误以为是“反对投票”。",
+      "sentence": "She decided to **devote** all her free time to learning the piano after watching a concert.",
+      "options": {
+        "option": [
+          {
+            "definition": "致力于；奉献（时间、精力等）给...",
+            "iscorrect": true
+          },
+          {
+            "definition": "投票支持；选择",
+            "iscorrect": false
+          },
+          {
+            "definition": "反对投票；退出投票",
+            "iscorrect": false
+          },
+          {
+            "definition": "投入资金；投资",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

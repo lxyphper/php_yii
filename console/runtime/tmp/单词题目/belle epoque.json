@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "belle epoque",
+      "error_analysis": "将“belle”误联想为英语“bell”（铃），结合“epoque”猜测为与“钟”相关的时代",
+      "sentence": "The **belle epoque** in Paris was a time of great artistic innovation, with painters like Monet and composers like Debussy flourishing.",
+      "options": {
+        "option": [
+          {
+            "definition": "（19世纪末20世纪初欧洲的）美好时代",
+            "iscorrect": true
+          },
+          {
+            "definition": "钟的时代",
+            "iscorrect": false
+          },
+          {
+            "definition": "史诗般的时代",
+            "iscorrect": false
+          },
+          {
+            "definition": "美丽的钟声",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "plenteous",
+      "error_analysis": "学生易因形近词“polite”（有礼貌的）或词根联想“pleasure”（快乐）而误解“plenteous”为“有礼貌的”或“令人愉快的”。",
+      "sentence": "After a year of hard work, the gardener was rewarded with a **plenteous** crop of tomatoes, enough to share with all his neighbors.",
+      "options": {
+        "option": [
+          {
+            "definition": "丰富的，充足的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有礼貌的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人愉快的",
+            "iscorrect": false
+          },
+          {
+            "definition": "珍贵的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

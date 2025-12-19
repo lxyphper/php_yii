@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pageantry",
+      "error_analysis": "学生易因形近词\"page\"(页面)或\"pantry\"(食品柜)误判，将其理解为\"页面布局\"或\"食品存储\"。",
+      "sentence": "The royal coronation was a display of **pageantry**—golden robes, trumpets, and a procession of nobles through the city streets.",
+      "options": {
+        "option": [
+          {
+            "definition": "盛大的仪式或庆典场面",
+            "iscorrect": true
+          },
+          {
+            "definition": "页面的排列或布局",
+            "iscorrect": false
+          },
+          {
+            "definition": "食品柜或存储室",
+            "iscorrect": false
+          },
+          {
+            "definition": "侍从的职责或工作",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to burgeon",
+      "error_analysis": "学生易因形近词\"burden\"(负担)将\"burgeon\"误理解为\"负担\"，或因词根不熟悉猜测为无关含义",
+      "sentence": "With the arrival of spring, the cherry trees in the park began to **burgeon**, their pink blossoms soon covering the branches.",
+      "options": {
+        "option": [
+          {
+            "definition": "迅速生长；繁荣",
+            "iscorrect": true
+          },
+          {
+            "definition": "负担；重压",
+            "iscorrect": false
+          },
+          {
+            "definition": "外科手术；手术操作",
+            "iscorrect": false
+          },
+          {
+            "definition": "催促；力劝",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

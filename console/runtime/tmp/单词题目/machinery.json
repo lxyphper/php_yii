@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "machinery",
+      "error_analysis": "中国学生易将\"machinery\"误判为\"machine（单数机器）\"，或因形近词联想忽略其\"集合名词\"属性。",
+      "sentence": "The factory invested in new **machinery** to improve production efficiency.",
+      "options": {
+        "option": [
+          {
+            "definition": "机器（单数）",
+            "iscorrect": false
+          },
+          {
+            "definition": "机械师",
+            "iscorrect": false
+          },
+          {
+            "definition": "机器设备（总称）",
+            "iscorrect": true
+          },
+          {
+            "definition": "机器零件",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

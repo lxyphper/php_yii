@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "behavior",
+      "error_analysis": "学生易因形近词“belief”（信仰）拼写接近，或误将“behavior”混淆为“behave”（表现）的动词形式而误解其核心词义“行为”。",
+      "sentence": "The teacher was impressed by the child's polite **behavior** at the party.",
+      "options": {
+        "option": [
+          {
+            "definition": "表现（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "信仰",
+            "iscorrect": false
+          },
+          {
+            "definition": "行为",
+            "iscorrect": true
+          },
+          {
+            "definition": "习惯",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

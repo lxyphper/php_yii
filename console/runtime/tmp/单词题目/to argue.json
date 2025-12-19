@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to argue",
+      "error_analysis": "中国学生易混淆形近词“agree”（同意）与“argue”的核心义“争论”，或因词根误判为“解释”。",
+      "sentence": "They often **argue** about which movie to watch on weekends.",
+      "options": {
+        "option": [
+          {
+            "definition": "争论；争辩",
+            "iscorrect": true
+          },
+          {
+            "definition": "同意；赞成",
+            "iscorrect": false
+          },
+          {
+            "definition": "解释；说明",
+            "iscorrect": false
+          },
+          {
+            "definition": "建议；提议",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

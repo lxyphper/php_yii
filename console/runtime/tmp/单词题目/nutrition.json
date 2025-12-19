@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nutrition",
+      "error_analysis": "学生易因形近词（如nature/notion）或词根“nutr-”与“nut”（坚果）混淆，错误理解为“自然”“概念”或“坚果”",
+      "sentence": "Eating a balanced diet is essential for good **nutrition**.",
+      "options": {
+        "option": [
+          {
+            "definition": "营养；滋养",
+            "iscorrect": true
+          },
+          {
+            "definition": "自然；天性",
+            "iscorrect": false
+          },
+          {
+            "definition": "概念；观念",
+            "iscorrect": false
+          },
+          {
+            "definition": "坚果；果仁",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

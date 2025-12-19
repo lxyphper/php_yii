@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to dispirit",
+      "error_analysis": "学生易因词根“spirit”（精神）和前缀“dis-”的错误推导，将“to dispirit”误解为“使有精神”。",
+      "sentence": "The repeated failures in the exam began to **dispirit** her, making her lose interest in studying.",
+      "options": {
+        "option": [
+          {
+            "definition": "使气馁；使沮丧",
+            "iscorrect": true
+          },
+          {
+            "definition": "使有精神；鼓励",
+            "iscorrect": false
+          },
+          {
+            "definition": "争论；辩论",
+            "iscorrect": false
+          },
+          {
+            "definition": "展示；陈列",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "lowpriced",
+      "low-pricced",
+      "law-priced",
+      "low-prised",
+      "low-price"
+    ],
+    "correct_chunks": [
+      "low",
+      "-priced"
+    ],
+    "distractor_chunks": [
+      "lowp",
+      "pricc",
+      "law-",
+      "prised",
+      "price"
+    ]
+  },
+  0
+]

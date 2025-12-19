@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "feasible",
+      "error_analysis": "学生易因形近词\"feeble\"(虚弱的)误判为\"虚弱的\"，或因词根不熟悉而猜测为与\"feel\"相关的\"可感觉的\"",
+      "sentence": "The team is discussing whether the new project plan is **feasible** within the given budget.",
+      "options": {
+        "option": [
+          {
+            "definition": "可行的；可能的",
+            "iscorrect": true
+          },
+          {
+            "definition": "虚弱的；无力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可感觉的；能感知的",
+            "iscorrect": false
+          },
+          {
+            "definition": "灵活的；易弯曲的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

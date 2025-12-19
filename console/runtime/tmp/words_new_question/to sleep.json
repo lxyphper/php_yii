@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to sleep",
+      "error_analysis": "学生易因形近词“sheep”（绵羊）的拼写与发音干扰，将“to sleep”误理解为“绵羊”",
+      "sentence": "After a long day playing outside, the tired girl decided to **sleep** for an hour before dinner.",
+      "options": {
+        "option": [
+          {
+            "definition": "睡觉",
+            "iscorrect": true
+          },
+          {
+            "definition": "绵羊",
+            "iscorrect": false
+          },
+          {
+            "definition": "滑倒",
+            "iscorrect": false
+          },
+          {
+            "definition": "陡峭的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

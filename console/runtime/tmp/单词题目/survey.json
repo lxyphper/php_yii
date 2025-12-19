@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "survey",
+      "error_analysis": "易与形近词'survive'（生存）混淆，或误将词根理解为'测量'而非核心义'调查'",
+      "sentence": "The company plans to **survey** its customers to find out their opinions on the new product.",
+      "options": {
+        "option": [
+          {
+            "definition": "生存",
+            "iscorrect": false
+          },
+          {
+            "definition": "测量",
+            "iscorrect": false
+          },
+          {
+            "definition": "调查",
+            "iscorrect": true
+          },
+          {
+            "definition": "审视",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

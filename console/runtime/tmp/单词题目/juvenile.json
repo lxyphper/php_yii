@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "juvenile",
+      "error_analysis": "易因形近词“jewel”（珠宝）混淆，或词根“juven-”（年轻）过度推导为“幼稚的”（贬义）。",
+      "sentence": "The library has a separate section for **juvenile** books, which are suitable for kids aged 8 to 12.",
+      "options": {
+        "option": [
+          {
+            "definition": "珠宝的",
+            "iscorrect": false
+          },
+          {
+            "definition": "幼稚的",
+            "iscorrect": false
+          },
+          {
+            "definition": "青少年的；儿童的",
+            "iscorrect": true
+          },
+          {
+            "definition": "初级的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

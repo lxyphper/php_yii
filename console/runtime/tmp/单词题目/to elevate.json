@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to elevate",
+      "error_analysis": "中国学生易因形近词“eliminate”（消除）或词根“lev”误导（如“减轻”）错解“to elevate”。",
+      "sentence": "The company plans to **elevate** several employees to management positions next month.",
+      "options": {
+        "option": [
+          {
+            "definition": "提升；抬高（地位、位置等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "消除；排除",
+            "iscorrect": false
+          },
+          {
+            "definition": "减轻；缓解（痛苦、压力等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "使...水平；使平整",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

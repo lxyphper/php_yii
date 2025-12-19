@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to ride",
+      "error_analysis": "中国学生易因形近词“rise”（上升）混淆“ride”，或误将其理解为“驾驶”（drive）",
+      "sentence": "She likes to **ride** her bike to school every morning.",
+      "options": {
+        "option": [
+          {
+            "definition": "上升",
+            "iscorrect": false
+          },
+          {
+            "definition": "驾驶",
+            "iscorrect": false
+          },
+          {
+            "definition": "骑；乘坐（交通工具/动物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "米饭",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

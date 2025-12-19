@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "oceanology",
+      "error_analysis": "学生易将“-ology”误当作“日志”（log）而理解为“海洋日志”，或因形近词混淆将其误认为“海洋的”（形容词）",
+      "sentence": "Her research in **oceanology** focuses on the impact of climate change on coral reefs.",
+      "options": {
+        "option": [
+          {
+            "definition": "海洋学",
+            "iscorrect": true
+          },
+          {
+            "definition": "海洋的",
+            "iscorrect": false
+          },
+          {
+            "definition": "海洋日志",
+            "iscorrect": false
+          },
+          {
+            "definition": "海洋生物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

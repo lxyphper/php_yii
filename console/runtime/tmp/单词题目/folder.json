@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "folder",
+      "error_analysis": "学生易根据词根\"fold\"(折叠)错误推导为\"折叠的动作或折叠者\"，而非正确的\"文件夹\"（用于装文件的折叠式物品）。",
+      "sentence": "Please put the printed report in the **folder** on my desk—I need to hand it in to the teacher this afternoon.",
+      "options": {
+        "option": [
+          {
+            "definition": "文件夹（用于存储文件的折叠式文具或电子目录）",
+            "iscorrect": true
+          },
+          {
+            "definition": "折叠的动作；折叠者（如折叠纸张的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "文件架；文件托（用于放置文件的支架）",
+            "iscorrect": false
+          },
+          {
+            "definition": "追随者；拥护者（支持某人或某事的人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

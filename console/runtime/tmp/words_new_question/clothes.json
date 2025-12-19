@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "clothes",
+      "error_analysis": "中国学生易因形近词\"cloth\"（布料）干扰，将\"clothes\"误理解为\"布料\"。",
+      "sentence": "She folded her clean **clothes** and put them in the wardrobe.",
+      "options": {
+        "option": [
+          {
+            "definition": "衣服（集合名词，指穿的衣物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "布料（织物的原料）",
+            "iscorrect": false
+          },
+          {
+            "definition": "一件衣服（单件衣物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "纺织品（各类纺织制品的统称）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

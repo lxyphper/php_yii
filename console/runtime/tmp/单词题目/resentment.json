@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "resentment",
+      "error_analysis": "中国学生易因形近词“recent”（最近的）误判为“近期的情绪”，或因“re-”+“sent”词根组合误判为“回复/再次发送的事物”。",
+      "sentence": "After years of being overlooked for promotion, his **resentment** towards his boss grew stronger.",
+      "options": {
+        "option": [
+          {
+            "definition": "最近的情绪",
+            "iscorrect": false
+          },
+          {
+            "definition": "回复；再次发送的事物",
+            "iscorrect": false
+          },
+          {
+            "definition": "怨恨；愤恨",
+            "iscorrect": true
+          },
+          {
+            "definition": "抵抗；反抗",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

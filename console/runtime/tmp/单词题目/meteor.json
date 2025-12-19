@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "meteor",
+      "error_analysis": "学生易因形近词\"meter\"（仪表/米）将\"meteor\"误理解为测量工具或长度单位",
+      "sentence": "Last night, we saw a bright **meteor** streak across the sky before it burned up in the atmosphere.",
+      "options": {
+        "option": [
+          {
+            "definition": "流星",
+            "iscorrect": true
+          },
+          {
+            "definition": "仪表；米",
+            "iscorrect": false
+          },
+          {
+            "definition": "气象现象",
+            "iscorrect": false
+          },
+          {
+            "definition": "陨石",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

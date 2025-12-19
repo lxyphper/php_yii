@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to anticipate",
+      "error_analysis": "学生易因形近词“participate”（参与）混淆词义，或因词根“anti-”（提前）和“cipate”（拿）过度直译为“提前拿走”。",
+      "sentence": "The team **anticipated** the opponent's next move and prepared a counterstrategy.",
+      "options": {
+        "option": [
+          {
+            "definition": "预料；预期",
+            "iscorrect": true
+          },
+          {
+            "definition": "参与",
+            "iscorrect": false
+          },
+          {
+            "definition": "提前拿走；抢占",
+            "iscorrect": false
+          },
+          {
+            "definition": "欣赏",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

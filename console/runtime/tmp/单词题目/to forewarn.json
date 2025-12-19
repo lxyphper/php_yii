@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to forewarn",
+      "error_analysis": "学生易因忽略“fore-”的“预先”语义将“forewarn”等同于“warn”（警告），或因形近联想混淆为“foresee”（预见）。",
+      "sentence": "The weather service **forewarned** residents of the upcoming storm, so they had time to stock up on supplies.",
+      "options": {
+        "option": [
+          {
+            "definition": "预先警告",
+            "iscorrect": true
+          },
+          {
+            "definition": "警告",
+            "iscorrect": false
+          },
+          {
+            "definition": "预见",
+            "iscorrect": false
+          },
+          {
+            "definition": "为了警告",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

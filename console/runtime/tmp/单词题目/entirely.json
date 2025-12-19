@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "entirely",
+      "error_analysis": "学生易将\"entirely\"（完全地）与形近词\"entitle\"（授权）的词义混淆，或通过\"enter\"（进入）的词根错误联想为\"进入地\"",
+      "sentence": "The movie is **entirely** in French, so I couldn't understand a word.",
+      "options": {
+        "option": [
+          {
+            "definition": "完全地",
+            "iscorrect": true
+          },
+          {
+            "definition": "授权地",
+            "iscorrect": false
+          },
+          {
+            "definition": "进入地",
+            "iscorrect": false
+          },
+          {
+            "definition": "部分地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

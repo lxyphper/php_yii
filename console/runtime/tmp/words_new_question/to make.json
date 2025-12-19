@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to make",
+      "error_analysis": "中国学生易将“make”与形近词“take”（拿、取）混淆，或误将其核心义理解为泛泛的“做”（如do）而非“制作/使成为”。",
+      "sentence": "She wants to **make** a birthday cake for her mom this weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "制作；使成为",
+            "iscorrect": true
+          },
+          {
+            "definition": "拿；取",
+            "iscorrect": false
+          },
+          {
+            "definition": "做（泛泛的动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "带来；引起",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

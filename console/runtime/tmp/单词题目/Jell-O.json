@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Jell-O",
+      "error_analysis": "学生易将Jell-O与形近词cello（大提琴）混淆，或因词根Jell（凝结）误判为一般凝结物（如胶水）。",
+      "sentence": "After dinner, Mom served us **Jell-O** with fresh strawberries on top, which was a sweet and wobbly treat.",
+      "options": {
+        "option": [
+          {
+            "definition": "果冻（尤指Jell-O品牌的凝胶状甜品）",
+            "iscorrect": true
+          },
+          {
+            "definition": "大提琴（一种弦乐器）",
+            "iscorrect": false
+          },
+          {
+            "definition": "凝结的液体（如胶水或浆糊）",
+            "iscorrect": false
+          },
+          {
+            "definition": "一种厨房电器（如搅拌机）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

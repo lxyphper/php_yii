@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "kitchen",
+      "error_analysis": "因形近词\"chicken\"(鸡肉)干扰，易误将\"kitchen\"理解为与鸡肉相关的词",
+      "sentence": "My mom is cooking dinner in the **kitchen** right now.",
+      "options": {
+        "option": [
+          {
+            "definition": "厨房",
+            "iscorrect": true
+          },
+          {
+            "definition": "鸡肉",
+            "iscorrect": false
+          },
+          {
+            "definition": "工具包",
+            "iscorrect": false
+          },
+          {
+            "definition": "客厅",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

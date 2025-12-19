@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to trot",
+      "error_analysis": "学生易因形近词“troop”（部队）的拼写相似而误判，或误将“trot”理解为“快速奔跑”",
+      "sentence": "The farmer asked his horse to **trot** down the dirt road, so it moved at a steady pace between a walk and a gallop.",
+      "options": {
+        "option": [
+          {
+            "definition": "（马等）小跑；（人）快步走",
+            "iscorrect": true
+          },
+          {
+            "definition": "部队；群",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速奔跑",
+            "iscorrect": false
+          },
+          {
+            "definition": "旅行；行程",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

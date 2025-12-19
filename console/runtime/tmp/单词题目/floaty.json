@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "floaty",
+      "error_analysis": "学生易因形近词“flighty”（轻浮的）或对“float”词根的过度直译（如“浮动的”）而误解“floaty”的核心义“轻盈的（能飘起来的）”。",
+      "sentence": "She wore a **floaty** dress that swayed gently in the breeze.",
+      "options": {
+        "option": [
+          {
+            "definition": "轻盈的（如衣服、布料等能飘起来的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "轻浮的，反复无常的",
+            "iscorrect": false
+          },
+          {
+            "definition": "浮动的（如价格、汇率等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "松软的（如蛋糕、棉花等）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

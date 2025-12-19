@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gangland",
+      "error_analysis": "学生易因\"-land\"结尾的形近词（如farmland）误以为是具体土地，或词根直译为\"帮派的领地\"，忽略其\"黑社会圈子\"的抽象含义。",
+      "sentence": "The police have launched a new operation to crack down on **gangland** activities like drug trafficking and extortion in the downtown area.",
+      "options": {
+        "option": [
+          {
+            "definition": "农田",
+            "iscorrect": false
+          },
+          {
+            "definition": "帮派的领地",
+            "iscorrect": false
+          },
+          {
+            "definition": "黑社会，黑帮圈子",
+            "iscorrect": true
+          },
+          {
+            "definition": "帮派成员",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

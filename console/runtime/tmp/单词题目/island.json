@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "island",
+      "error_analysis": "学生易因形近词\"inland\"(内陆)混淆，或拆分\"is+land\"误判为\"是土地\"",
+      "sentence": "Hawaii is famous for its beautiful beaches and tropical **island** scenery.",
+      "options": {
+        "option": [
+          {
+            "definition": "岛屿",
+            "iscorrect": true
+          },
+          {
+            "definition": "内陆",
+            "iscorrect": false
+          },
+          {
+            "definition": "是土地",
+            "iscorrect": false
+          },
+          {
+            "definition": "半岛",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

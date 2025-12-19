@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "guilt",
+      "error_analysis": "中国学生易混淆形近词\"guild\"(协会)及误将\"guilt\"理解为\"gulf\"(海湾)等拼写相近词",
+      "sentence": "The **guilt** from breaking her promise made her avoid seeing him for weeks.",
+      "options": {
+        "option": [
+          {
+            "definition": "内疚；罪责",
+            "iscorrect": true
+          },
+          {
+            "definition": "协会；行会",
+            "iscorrect": false
+          },
+          {
+            "definition": "海湾；深渊",
+            "iscorrect": false
+          },
+          {
+            "definition": "狡诈；诡计",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

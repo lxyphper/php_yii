@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "healthcare",
+      "error_analysis": "易因形近词haircare（头发护理）混淆，或词根直译误判为个人健康照顾而非系统医疗保健",
+      "sentence": "The government is planning to improve **healthcare** access for rural areas by building more hospitals and clinics.",
+      "options": {
+        "option": [
+          {
+            "definition": "医疗保健（体系/服务）",
+            "iscorrect": true
+          },
+          {
+            "definition": "头发护理",
+            "iscorrect": false
+          },
+          {
+            "definition": "个人健康照顾",
+            "iscorrect": false
+          },
+          {
+            "definition": "健康食品",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

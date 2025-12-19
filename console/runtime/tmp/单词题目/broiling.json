@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "broiling",
+      "error_analysis": "学生易因形近词\"boiling\"(沸腾的)混淆词义，或因词根\"broil\"(烤)误解为\"正在烤的\"(食物)而非形容天气酷热。",
+      "sentence": "We decided to stay indoors because the sun was **broiling** and there was no shade anywhere.",
+      "options": {
+        "option": [
+          {
+            "definition": "沸腾的",
+            "iscorrect": false
+          },
+          {
+            "definition": "正在烤的（指食物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "酷热的（形容天气或温度极高）",
+            "iscorrect": true
+          },
+          {
+            "definition": "潮湿的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

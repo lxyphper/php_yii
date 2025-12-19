@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to boycott",
+      "error_analysis": "学生容易因\"boy\"（男孩）和\"cott\"（小木屋）的形近拆分，错误理解为与\"男孩或小木屋\"相关的含义。",
+      "sentence": "The workers decided to **boycott** the factory’s products to protest against low wages.",
+      "options": {
+        "option": [
+          {
+            "definition": "抵制（拒绝购买/参加以表示抗议）",
+            "iscorrect": true
+          },
+          {
+            "definition": "男孩的小木屋",
+            "iscorrect": false
+          },
+          {
+            "definition": "男孩的行动",
+            "iscorrect": false
+          },
+          {
+            "definition": "购买小木屋",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "symfony",
+      "synphony",
+      "symphoney",
+      "syphony"
+    ],
+    "correct_chunks": [
+      "sym",
+      "ph",
+      "ony"
+    ],
+    "distractor_chunks": [
+      "syn",
+      "f",
+      "oney",
+      "fony"
+    ]
+  },
+  0
+]

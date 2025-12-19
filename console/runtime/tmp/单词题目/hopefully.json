@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hopefully",
+      "error_analysis": "学生易将hop（跳）+fully（完全地）误推为“跳跃地”，或与形近词helpfully（有帮助地）混淆",
+      "sentence": "She looked at the dark sky, **hopefully** waiting for the rain to stop so she could go out.",
+      "options": {
+        "option": [
+          {
+            "definition": "有希望地；但愿",
+            "iscorrect": true
+          },
+          {
+            "definition": "跳跃地；充满跳跃地",
+            "iscorrect": false
+          },
+          {
+            "definition": "有帮助地；有益地",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速地；迅速地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

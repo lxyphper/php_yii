@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wise",
+      "error_analysis": "中国学生易将‘wise’与形近词‘wide’（宽的）或‘wish’（希望）混淆，导致误判其核心词义。",
+      "sentence": "It’s **wise** to listen to your parents when making important choices.",
+      "options": {
+        "option": [
+          {
+            "definition": "明智的；有智慧的",
+            "iscorrect": true
+          },
+          {
+            "definition": "宽的；广阔的",
+            "iscorrect": false
+          },
+          {
+            "definition": "希望的；想要的",
+            "iscorrect": false
+          },
+          {
+            "definition": "路的；途径的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

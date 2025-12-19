@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fancy",
+      "error_analysis": "学生易因形近词“fantasy”（幻想）干扰，将“fancy”的动词义“想要”误判为“幻想”",
+      "sentence": "I **fancy** a cup of coffee; would you like to get one with me?",
+      "options": {
+        "option": [
+          {
+            "definition": "想要（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "幻想（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "想象（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "花哨的（形容词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

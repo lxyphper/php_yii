@@ -1,0 +1,21 @@
+[
+  {
+    "common_misspellings": [
+      "texbook",
+      "testbook",
+      "textbuk",
+      "textbok"
+    ],
+    "correct_chunks": [
+      "text",
+      "book"
+    ],
+    "distractor_chunks": [
+      "tex",
+      "test",
+      "buk",
+      "bok"
+    ]
+  },
+  0
+]

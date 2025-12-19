@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to rotate",
+      "error_analysis": "中国学生易因形近词“relate”（联系）和词根“rot”（腐烂）误判“rotate”的意思。",
+      "sentence": "The Earth **rotates** around the Sun once every 365 days.",
+      "options": {
+        "option": [
+          {
+            "definition": "（使）旋转；（使）转动",
+            "iscorrect": true
+          },
+          {
+            "definition": "联系；关联",
+            "iscorrect": false
+          },
+          {
+            "definition": "（使）腐烂；（使）变坏",
+            "iscorrect": false
+          },
+          {
+            "definition": "（使）滚动；（使）翻滚",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

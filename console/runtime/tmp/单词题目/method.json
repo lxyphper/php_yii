@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "method",
+      "error_analysis": "学生易因形近词\"medal\"(奖牌)或\"metal\"(金属)的干扰，将\"method\"错误理解为\"奖牌\"或\"金属\"",
+      "sentence": "The scientist developed a new **method** to purify water more efficiently.",
+      "options": {
+        "option": [
+          {
+            "definition": "方法；办法",
+            "iscorrect": true
+          },
+          {
+            "definition": "奖牌；勋章",
+            "iscorrect": false
+          },
+          {
+            "definition": "金属；合金",
+            "iscorrect": false
+          },
+          {
+            "definition": "模式；方式",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

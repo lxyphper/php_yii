@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "full-time",
+      "error_analysis": "学生易因“full”（满的）和“time”（时间）的字面义，将“full-time”误解为“时间很长的”或“充满时间的”，而非其核心形容词义“全职的”。",
+      "sentence": "After graduating, she found a **full-time** position at a law firm and stopped doing part-time jobs.",
+      "options": {
+        "option": [
+          {
+            "definition": "全职的",
+            "iscorrect": true
+          },
+          {
+            "definition": "时间很长的",
+            "iscorrect": false
+          },
+          {
+            "definition": "充满时间的",
+            "iscorrect": false
+          },
+          {
+            "definition": "全职工作者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

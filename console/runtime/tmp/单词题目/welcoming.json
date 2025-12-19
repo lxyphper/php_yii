@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "welcoming",
+      "error_analysis": "学生易将形容词“welcoming”（热情的）误解为动词进行时“正在欢迎的”，或与“welcome”的形容词义“受欢迎的”混淆。",
+      "sentence": "The café has a **welcoming** atmosphere, making every guest feel like they're at home.",
+      "options": {
+        "option": [
+          {
+            "definition": "正在欢迎的",
+            "iscorrect": false
+          },
+          {
+            "definition": "受欢迎的",
+            "iscorrect": false
+          },
+          {
+            "definition": "热情的；好客的",
+            "iscorrect": true
+          },
+          {
+            "definition": "涌出的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "indigent",
+      "error_analysis": "学生易将“indigent”与形近词“indignant”（愤怒的）混淆，或误通过词根推导为“不勤奋的”。",
+      "sentence": "The government has launched a program to support **indigent** elderly people who cannot afford medical care.",
+      "options": {
+        "option": [
+          {
+            "definition": "贫穷的；贫困的",
+            "iscorrect": true
+          },
+          {
+            "definition": "愤怒的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不勤奋的",
+            "iscorrect": false
+          },
+          {
+            "definition": "本土的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

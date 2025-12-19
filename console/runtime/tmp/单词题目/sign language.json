@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sign language",
+      "error_analysis": "学生易将'sign'误解为'标志/符号'，从而把'sign language'错误理解为'标志语言'或'符号语言'，而非正确的'手语'。",
+      "sentence": "Many deaf people use **sign language** to communicate with their friends and family every day.",
+      "options": {
+        "option": [
+          {
+            "definition": "手语（聋人等使用的用手势和面部表情交流的语言）",
+            "iscorrect": true
+          },
+          {
+            "definition": "标志语言（如交通标志或公共标识的表达系统）",
+            "iscorrect": false
+          },
+          {
+            "definition": "符号语言（如数学或计算机中的符号系统）",
+            "iscorrect": false
+          },
+          {
+            "definition": "信号语言（如用灯光或声音传递信息的方式，如 Morse 码）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

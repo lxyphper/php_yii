@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to bemoan",
+      "error_analysis": "学生易因词根‘moan’（呻吟、抱怨）误导，将‘bemoan’错误理解为‘抱怨’或‘呻吟’，而非其核心义‘哀叹、悲叹’。",
+      "sentence": "Many older people **bemoan** the decline of traditional values in modern society.",
+      "options": {
+        "option": [
+          {
+            "definition": "哀叹、悲叹",
+            "iscorrect": true
+          },
+          {
+            "definition": "抱怨",
+            "iscorrect": false
+          },
+          {
+            "definition": "呻吟",
+            "iscorrect": false
+          },
+          {
+            "definition": "微笑",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to bond",
+      "error_analysis": "易混淆形近词\"band\"(组队)或名词\"bond\"(债券)的动词误用，如\"发行债券\"或\"绑起来\"",
+      "sentence": "After spending the weekend camping together, the new classmates started to **bond** over their shared love of hiking.",
+      "options": {
+        "option": [
+          {
+            "definition": "建立亲密关系",
+            "iscorrect": true
+          },
+          {
+            "definition": "组队（如乐队）",
+            "iscorrect": false
+          },
+          {
+            "definition": "发行债券",
+            "iscorrect": false
+          },
+          {
+            "definition": "用胶水粘合",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

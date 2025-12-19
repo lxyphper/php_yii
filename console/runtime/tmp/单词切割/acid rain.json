@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "ecid rain",
+      "acid rein",
+      "acit rain",
+      "acid ran",
+      "acdi rain"
+    ],
+    "correct_chunks": [
+      "ac",
+      "id",
+      "r",
+      "ain"
+    ],
+    "distractor_chunks": [
+      "ec",
+      "ein",
+      "it",
+      "an",
+      "di"
+    ]
+  },
+  0
+]

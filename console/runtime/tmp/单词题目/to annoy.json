@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to annoy",
+      "error_analysis": "中国学生易因形近词“enjoy”混淆，误将“to annoy”理解为“喜欢/享受”，或因“noy”联想到“noise”而误判为“制造噪音”。",
+      "sentence": "Her constant tapping on the desk began to **annoy** me during the meeting.",
+      "options": {
+        "option": [
+          {
+            "definition": "喜欢；享受",
+            "iscorrect": false
+          },
+          {
+            "definition": "使烦恼；使生气",
+            "iscorrect": true
+          },
+          {
+            "definition": "制造噪音；吵闹",
+            "iscorrect": false
+          },
+          {
+            "definition": "宣布；通知",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

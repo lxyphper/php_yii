@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "painkiller",
+      "error_analysis": "学生易因“killer”（凶手）的形近联想或“kill”（杀死）的词根直译，将“painkiller”误解为“导致疼痛的东西”或“杀痛剂”",
+      "sentence": "After the surgery, the doctor prescribed a **painkiller** to help her manage the discomfort.",
+      "options": {
+        "option": [
+          {
+            "definition": "止痛药",
+            "iscorrect": true
+          },
+          {
+            "definition": "导致疼痛的东西",
+            "iscorrect": false
+          },
+          {
+            "definition": "杀痛剂",
+            "iscorrect": false
+          },
+          {
+            "definition": "画家",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "corporal punishment",
+      "error_analysis": "将“corporal”误联想为“公司的”（形近词“corporate”干扰）或误推导为“法人相关的惩罚”（词根“corpor-”与“公司”混淆）",
+      "sentence": "The school has banned **corporal punishment** like spanking or caning to prevent physical harm to students.",
+      "options": {
+        "option": [
+          {
+            "definition": "体罚",
+            "iscorrect": true
+          },
+          {
+            "definition": "公司处罚",
+            "iscorrect": false
+          },
+          {
+            "definition": "法人惩罚",
+            "iscorrect": false
+          },
+          {
+            "definition": "精神惩罚",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

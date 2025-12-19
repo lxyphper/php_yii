@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gesture",
+      "error_analysis": "学生易因“gesture”与基础词“guest”（客人）形近，或误将“gest”联想为“get”（得到），从而错误理解为“客人”或“获取的动作”。",
+      "sentence": "She made a friendly **gesture** with her hand to invite us in.",
+      "options": {
+        "option": [
+          {
+            "definition": "客人",
+            "iscorrect": false
+          },
+          {
+            "definition": "获取的动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "玩笑",
+            "iscorrect": false
+          },
+          {
+            "definition": "手势；姿态",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

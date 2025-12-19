@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mineralogy",
+      "error_analysis": "学生易因形近词\"mining\"（采矿）混淆，或忽略\"-logy\"（学科）词根，误将\"mineralogy\"理解为\"采矿技术\"或\"矿物的种类\"。",
+      "sentence": "Her research in **mineralogy** focuses on identifying new crystal structures in rare earth minerals.",
+      "options": {
+        "option": [
+          {
+            "definition": "矿物学（研究矿物的学科）",
+            "iscorrect": true
+          },
+          {
+            "definition": "采矿技术（提取矿物的技术）",
+            "iscorrect": false
+          },
+          {
+            "definition": "矿物的种类（不同类型的矿物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "矿物的用途（矿物的实际应用）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

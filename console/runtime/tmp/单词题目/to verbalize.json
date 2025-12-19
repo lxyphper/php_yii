@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to verbalize",
+      "error_analysis": "易与形近词“visualize”（可视化）混淆，或因词根“verb”（动词）误导误以为是“将...转化为动词”",
+      "sentence": "Many children find it difficult to **verbalize** their anger when they are upset.",
+      "options": {
+        "option": [
+          {
+            "definition": "可视化；想象",
+            "iscorrect": false
+          },
+          {
+            "definition": "将...转化为动词",
+            "iscorrect": false
+          },
+          {
+            "definition": "用言语表达",
+            "iscorrect": true
+          },
+          {
+            "definition": "用文字写下来",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

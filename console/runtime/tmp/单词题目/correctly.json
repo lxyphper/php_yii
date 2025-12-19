@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "correctly",
+      "error_analysis": "学生可能因“correct”的动词义（纠正）将“correctly”误解为“纠正地”，或因形近词“collectively”（共同地）产生混淆",
+      "sentence": "She followed the instructions **correctly** and baked a perfect cake.",
+      "options": {
+        "option": [
+          {
+            "definition": "正确地",
+            "iscorrect": true
+          },
+          {
+            "definition": "纠正地",
+            "iscorrect": false
+          },
+          {
+            "definition": "共同地",
+            "iscorrect": false
+          },
+          {
+            "definition": "仔细地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

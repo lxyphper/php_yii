@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "paper-thin",
+      "error_analysis": "学生易因字面直译\"纸薄的\"而误理解为\"纸做的薄物品\"，或混淆\"paper-thin\"与\"thin paper\"（薄纸）。",
+      "sentence": "The ice on the pond was so **paper-thin** that it broke when the dog stepped on it.",
+      "options": {
+        "option": [
+          {
+            "definition": "极薄的；非常薄的（可指实物或抽象事物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "纸做的薄物品",
+            "iscorrect": false
+          },
+          {
+            "definition": "薄的纸",
+            "iscorrect": false
+          },
+          {
+            "definition": "关于纸的厚度",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

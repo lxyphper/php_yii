@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nonpareil",
+      "error_analysis": "学生易因形近词\"non-parallel\"(不平行的)及词根\"pare\"(削减)误解为\"不平行的\"或\"未被削减的\"",
+      "sentence": "The chef's signature dessert was a **nonpareil** creation, combining unique flavors that no other restaurant could replicate.",
+      "options": {
+        "option": [
+          {
+            "definition": "无与伦比的；卓越的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不平行的；非并行的",
+            "iscorrect": false
+          },
+          {
+            "definition": "未被削减的；完整的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不常见的；稀有的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

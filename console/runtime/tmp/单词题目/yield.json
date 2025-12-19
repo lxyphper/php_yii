@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "yield",
+      "error_analysis": "中国学生最易因形近词“field”（田野）将“yield”误判为“田野”，或因词根不熟悉将其错误联想为“生长”（而非核心义“产出”）。",
+      "sentence": "The experimental plot **yielded** a surprising number of tomatoes despite the drought.",
+      "options": {
+        "option": [
+          {
+            "definition": "田野",
+            "iscorrect": false
+          },
+          {
+            "definition": "生长",
+            "iscorrect": false
+          },
+          {
+            "definition": "产出；产生",
+            "iscorrect": true
+          },
+          {
+            "definition": "收集",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

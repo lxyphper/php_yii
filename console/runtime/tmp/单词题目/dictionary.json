@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dictionary",
+      "error_analysis": "易混淆形近词directory（目录）及词根dict（说）导致的“说话工具”错误联想",
+      "sentence": "When you don’t know the meaning of a word, you can look it up in a **dictionary**.",
+      "options": {
+        "option": [
+          {
+            "definition": "词典；字典",
+            "iscorrect": true
+          },
+          {
+            "definition": "目录；名录",
+            "iscorrect": false
+          },
+          {
+            "definition": "说话的工具；录音机",
+            "iscorrect": false
+          },
+          {
+            "definition": "日记；日志",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

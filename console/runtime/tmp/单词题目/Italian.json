@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Italian",
+      "error_analysis": "学生易因形近词\"italic\"（斜体的）混淆，将\"Italian\"误判为\"斜体的\"。",
+      "sentence": "She ordered a cup of **Italian** coffee and a slice of tiramisu at the café.",
+      "options": {
+        "option": [
+          {
+            "definition": "意大利的；意大利人的；意大利语的",
+            "iscorrect": true
+          },
+          {
+            "definition": "斜体的",
+            "iscorrect": false
+          },
+          {
+            "definition": "意大利风格的",
+            "iscorrect": false
+          },
+          {
+            "definition": "斜体字",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

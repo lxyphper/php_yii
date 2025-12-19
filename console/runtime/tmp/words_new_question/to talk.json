@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to talk",
+      "error_analysis": "学生易因形近词\"walk\"（走）或\"take\"（拿）混淆，将\"talk\"误理解为\"走路\"或\"拿\"。",
+      "sentence": "She likes to **talk** with her friends about their favorite movies every weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "说话；交谈",
+            "iscorrect": true
+          },
+          {
+            "definition": "走路；步行",
+            "iscorrect": false
+          },
+          {
+            "definition": "拿；携带",
+            "iscorrect": false
+          },
+          {
+            "definition": "告诉；讲述",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

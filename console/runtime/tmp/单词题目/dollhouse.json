@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dollhouse",
+      "error_analysis": "易因形近混淆为\"doghouse\"（狗屋），或因词根误释为\"卖玩偶的商店\"",
+      "sentence": "Lucy spent all afternoon arranging the tiny sofa and table inside her new **dollhouse**.",
+      "options": {
+        "option": [
+          {
+            "definition": "狗屋",
+            "iscorrect": false
+          },
+          {
+            "definition": "玩偶商店",
+            "iscorrect": false
+          },
+          {
+            "definition": "玩偶屋（迷你模型屋）",
+            "iscorrect": true
+          },
+          {
+            "definition": "玩具仓库",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

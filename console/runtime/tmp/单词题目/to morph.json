@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to morph",
+      "error_analysis": "学生易因形近词“mop”（拖把）误理解为“打扫”，或因词根不熟悉误猜为“合并”或“生长”",
+      "sentence": "In the movie, the alien creature can **morph** into any human form it wants.",
+      "options": {
+        "option": [
+          {
+            "definition": "（使）变形；（使）改变形态",
+            "iscorrect": true
+          },
+          {
+            "definition": "用拖把擦",
+            "iscorrect": false
+          },
+          {
+            "definition": "合并；融合",
+            "iscorrect": false
+          },
+          {
+            "definition": "生长；长大",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

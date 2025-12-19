@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to allow",
+      "error_analysis": "学生易因形近词“follow”（跟随）误解“allow”词义，或因“all+low”字面拆分错误推导为“全部降低”。",
+      "sentence": "The library rules **allow** readers to borrow up to five books at a time.",
+      "options": {
+        "option": [
+          {
+            "definition": "允许",
+            "iscorrect": true
+          },
+          {
+            "definition": "跟随",
+            "iscorrect": false
+          },
+          {
+            "definition": "全部降低",
+            "iscorrect": false
+          },
+          {
+            "definition": "给予津贴",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

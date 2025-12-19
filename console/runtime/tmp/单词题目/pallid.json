@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pallid",
+      "error_analysis": "学生易因形近词\"paltry\"(微不足道的)或词根\"pall\"(使平淡)误将\"pallid\"理解为\"微不足道的\"或\"平淡的\"",
+      "sentence": "After staying up all night studying, her face looked **pallid** and tired.",
+      "options": {
+        "option": [
+          {
+            "definition": "苍白的；无血色的",
+            "iscorrect": true
+          },
+          {
+            "definition": "微不足道的；不值钱的",
+            "iscorrect": false
+          },
+          {
+            "definition": "平淡的；乏味的",
+            "iscorrect": false
+          },
+          {
+            "definition": "虚弱的；无力的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

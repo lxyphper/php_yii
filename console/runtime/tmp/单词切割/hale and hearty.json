@@ -1,0 +1,26 @@
+[
+  {
+    "common_misspellings": [
+      "hall and hearty",
+      "hail and hearty",
+      "hale ant hearty",
+      "hale and heartty",
+      "hale and herty"
+    ],
+    "correct_chunks": [
+      "h",
+      "ale",
+      "and",
+      "heart",
+      "y"
+    ],
+    "distractor_chunks": [
+      "all",
+      "ail",
+      "nt",
+      "hearth",
+      "hert"
+    ]
+  },
+  0
+]

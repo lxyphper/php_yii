@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to adhere",
+      "error_analysis": "中国学生易因\"adhere\"与\"admit\"(承认)、\"adjust\"(调整)等\"ad-\"开头形近词混淆，或因词根\"her\"(粘)误导误判为\"粘附\"。",
+      "sentence": "To avoid penalties, all participants must **adhere** to the competition rules strictly.",
+      "options": {
+        "option": [
+          {
+            "definition": "承认",
+            "iscorrect": false
+          },
+          {
+            "definition": "坚持（规则、计划等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "粘附",
+            "iscorrect": false
+          },
+          {
+            "definition": "调整",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ideology",
+      "error_analysis": "学生易因词根“-logy”（表学科）误导为“思想/观念的学科”，或因与“idea”形近误以为是“高级想法”。",
+      "sentence": "The government's efforts to promote gender equality are guided by the **ideology** of equal rights for all citizens.",
+      "options": {
+        "option": [
+          {
+            "definition": "意识形态；思想体系",
+            "iscorrect": true
+          },
+          {
+            "definition": "思想/观念的学科",
+            "iscorrect": false
+          },
+          {
+            "definition": "高级想法；重要观点",
+            "iscorrect": false
+          },
+          {
+            "definition": "个人信仰；宗教教义",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

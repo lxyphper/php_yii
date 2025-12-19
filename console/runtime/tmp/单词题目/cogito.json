@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cogito",
+      "error_analysis": "学生易因形近词\"cognitive\"（认知的）或词根\"cogitare\"（思考）误将\"cogito\"理解为普通\"思考\"或\"认知\"，忽略其哲学上\"自我意识的思考\"的特定含义",
+      "sentence": "Descartes' famous assertion \"Cogito, ergo sum\" (\"I think, therefore I am\") relies on the concept of **cogito**, which denotes the act of self-aware thought that confirms one's existence.",
+      "options": {
+        "option": [
+          {
+            "definition": "（哲学上的）我思；自我意识的思考",
+            "iscorrect": true
+          },
+          {
+            "definition": "认知的；有关认知过程的",
+            "iscorrect": false
+          },
+          {
+            "definition": "沉思；仔细考虑",
+            "iscorrect": false
+          },
+          {
+            "definition": "记忆；对过去的回忆",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

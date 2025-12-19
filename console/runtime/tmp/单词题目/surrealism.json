@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "surrealism",
+      "error_analysis": "学生易因形近词\"realism\"（现实主义）混淆，或因词根\"sur-\"错误理解为\"超级\"，将\"surrealism\"误判为\"现实主义\"或\"超级现实主义\"。",
+      "sentence": "The painter's work, with its melting clocks and floating figures, is a classic example of **surrealism**.",
+      "options": {
+        "option": [
+          {
+            "definition": "超现实主义（一种强调梦幻、非理性元素的艺术或文学流派）",
+            "iscorrect": true
+          },
+          {
+            "definition": "现实主义（注重真实、客观描绘的艺术流派）",
+            "iscorrect": false
+          },
+          {
+            "definition": "超级现实主义（强调极端真实细节的艺术流派）",
+            "iscorrect": false
+          },
+          {
+            "definition": "生存主义（关注生存本能与极端环境适应的哲学流派）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

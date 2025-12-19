@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "peculiar",
+      "error_analysis": "易因形近词\"particular\"（特定的）或词根\"peculium\"（私人财产）误判为\"特定的\"或\"私人的\"",
+      "sentence": "She noticed a **peculiar** smell coming from the basement—like burnt rubber mixed with honey.",
+      "options": {
+        "option": [
+          {
+            "definition": "奇怪的；不寻常的",
+            "iscorrect": true
+          },
+          {
+            "definition": "特定的；特别的",
+            "iscorrect": false
+          },
+          {
+            "definition": "私人的；专属的",
+            "iscorrect": false
+          },
+          {
+            "definition": "流行的；普遍的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

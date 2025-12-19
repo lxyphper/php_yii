@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "atomic energy",
+      "error_analysis": "学生易因“atomic”与形近词“automatic”（自动的）混淆而将“atomic energy”误解为“自动能量”，或因词根误拆将其误译为“分子能量”。",
+      "sentence": "The country is investing heavily in **atomic energy** to reduce its dependence on fossil fuels.",
+      "options": {
+        "option": [
+          {
+            "definition": "自动能量",
+            "iscorrect": false
+          },
+          {
+            "definition": "分子能量",
+            "iscorrect": false
+          },
+          {
+            "definition": "原子能（核能）",
+            "iscorrect": true
+          },
+          {
+            "definition": "天文能量",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

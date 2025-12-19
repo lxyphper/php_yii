@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "kiwi",
+      "error_analysis": "学生易将kiwi与形近词\"wiki\"（维基）混淆，或误将其等同于\"kiwifruit\"（猕猴桃）而忽略其核心含义\"几维鸟\"",
+      "sentence": "The **kiwi** is a unique bird that cannot fly, found only in New Zealand.",
+      "options": {
+        "option": [
+          {
+            "definition": "几维鸟（新西兰的无翼鸟）",
+            "iscorrect": true
+          },
+          {
+            "definition": "维基百科（一种协作式在线百科全书）",
+            "iscorrect": false
+          },
+          {
+            "definition": "猕猴桃（一种酸甜的水果）",
+            "iscorrect": false
+          },
+          {
+            "definition": "钥匙（用于开锁的工具）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

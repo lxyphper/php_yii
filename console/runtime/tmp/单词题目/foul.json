@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "foul",
+      "error_analysis": "学生易因形近词“fool”（愚蠢的）、“full”（满的）或“fowl”（家禽的）干扰，误解“foul”含义。",
+      "sentence": "The kitchen had a **foul** smell after leaving the garbage out for three days.",
+      "options": {
+        "option": [
+          {
+            "definition": "愚蠢的",
+            "iscorrect": false
+          },
+          {
+            "definition": "满的",
+            "iscorrect": false
+          },
+          {
+            "definition": "恶臭的；污秽的",
+            "iscorrect": true
+          },
+          {
+            "definition": "家禽的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

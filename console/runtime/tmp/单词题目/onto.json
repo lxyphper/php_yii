@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "onto",
+      "error_analysis": "学生易将onto误判为on（在...之上，静态）或to（朝向，未接触），忽略其“到...上面（并接触）”的核心移动结果义",
+      "sentence": "The cat jumped **onto** the table and knocked over the cup.",
+      "options": {
+        "option": [
+          {
+            "definition": "到...上面（并接触）",
+            "iscorrect": true
+          },
+          {
+            "definition": "在...之上（静态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "朝向（未接触）",
+            "iscorrect": false
+          },
+          {
+            "definition": "进入...里面",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "leathery",
+      "error_analysis": "将“leathery”误判为“皮革制成的”（形近词“leather”的直接联想），或未准确理解其“坚韧/粗糙如皮革”的比喻义",
+      "sentence": "After drying in the sun, the apricots became **leathery** and chewy, making them hard to bite into.",
+      "options": {
+        "option": [
+          {
+            "definition": "皮革制成的",
+            "iscorrect": false
+          },
+          {
+            "definition": "（形容质地）坚韧如皮革的；粗糙的",
+            "iscorrect": true
+          },
+          {
+            "definition": "皮革相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "柔软光滑的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Swiss",
+      "error_analysis": "学生易因形近词\"swim\"（游泳）干扰，将\"Swiss\"错误理解为\"游泳的\"，或混淆为\"瑞典的\"（Swedish）。",
+      "sentence": "She bought a **Swiss** watch as a souvenir from her trip to Europe.",
+      "options": {
+        "option": [
+          {
+            "definition": "瑞士的（形容词，指来自瑞士的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "游泳的（与游泳相关的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "甜的（味道像糖或蜜的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "瑞典的（形容词，指来自瑞典的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

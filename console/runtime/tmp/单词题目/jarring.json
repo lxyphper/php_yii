@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "jarring",
+      "error_analysis": "学生易因形近词“jar”（罐子）联想到“罐装的”，或因“jar”动词义（震动）误判为“震动的”，忽略其“不和谐/令人不安”的核心形容词义。",
+      "sentence": "The sudden shift from quiet conversation to blaring horns was **jarring** and made many people cover their ears.",
+      "options": {
+        "option": [
+          {
+            "definition": "不和谐的；令人不安的",
+            "iscorrect": true
+          },
+          {
+            "definition": "罐装的；与罐子相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "震动的；摇晃的",
+            "iscorrect": false
+          },
+          {
+            "definition": "跳跃的；活泼的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

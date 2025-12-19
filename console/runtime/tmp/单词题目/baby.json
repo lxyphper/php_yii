@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "baby",
+      "error_analysis": "中国学生易将“baby”的核心“婴儿”义与引申的“宝贝”（泛化）或动词“溺爱”义混淆。",
+      "sentence": "The mother is feeding the **baby** with a bottle in the nursery.",
+      "options": {
+        "option": [
+          {
+            "definition": "婴儿（名词，指年幼的孩子）",
+            "iscorrect": true
+          },
+          {
+            "definition": "宝贝（泛化指心爱之物，如玩具或宠物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "溺爱（动词，指过度宠爱）",
+            "iscorrect": false
+          },
+          {
+            "definition": "孩子气的（形容词，指行为像小孩）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

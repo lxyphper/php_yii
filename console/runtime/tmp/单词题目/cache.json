@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cache",
+      "error_analysis": "学生易因形近词“catch”（抓住）或“cash”（现金）混淆，误判“cache”的含义。",
+      "sentence": "Clearing your browser's **cache** can fix issues with loading old web pages.",
+      "options": {
+        "option": [
+          {
+            "definition": "缓存（计算机中的临时存储）",
+            "iscorrect": true
+          },
+          {
+            "definition": "抓住；捕获",
+            "iscorrect": false
+          },
+          {
+            "definition": "现金；现款",
+            "iscorrect": false
+          },
+          {
+            "definition": "盒子；容器",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

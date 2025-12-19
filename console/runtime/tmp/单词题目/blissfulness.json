@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "blissfulness",
+      "error_analysis": "学生易因形近词“bless”（祝福）的干扰，将“blissfulness”误理解为“祝福的状态”",
+      "sentence": "After years of hard work, she finally experienced the **blissfulness** of achieving her lifelong dream and being surrounded by loved ones.",
+      "options": {
+        "option": [
+          {
+            "definition": "幸福；极乐的状态",
+            "iscorrect": true
+          },
+          {
+            "definition": "祝福的状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "平静的状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "普通的快乐",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

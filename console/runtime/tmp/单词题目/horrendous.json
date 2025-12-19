@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "horrendous",
+      "error_analysis": "学生容易因形近词“tremendous”（巨大的）产生错误联想，或通过词根“horr-”过度猜测为“恐怖的”，而忽略其“极其糟糕的”核心含义。",
+      "sentence": "The service at that restaurant was **horrendous**—we waited an hour for our food, and it was cold when it arrived.",
+      "options": {
+        "option": [
+          {
+            "definition": "极其糟糕的",
+            "iscorrect": true
+          },
+          {
+            "definition": "巨大的",
+            "iscorrect": false
+          },
+          {
+            "definition": "恐怖的",
+            "iscorrect": false
+          },
+          {
+            "definition": "危险的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

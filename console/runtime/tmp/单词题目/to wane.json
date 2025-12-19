@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to wane",
+      "error_analysis": "学生易因形近词\"warn\"（警告）或\"wave\"（波动）的干扰，误将\"to wane\"理解为警告或波动",
+      "sentence": "After the initial excitement, his interest in learning French started to **wane**.",
+      "options": {
+        "option": [
+          {
+            "definition": "逐渐减弱；减少",
+            "iscorrect": true
+          },
+          {
+            "definition": "警告；提醒",
+            "iscorrect": false
+          },
+          {
+            "definition": "波动；挥手",
+            "iscorrect": false
+          },
+          {
+            "definition": "变得苍白；憔悴",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

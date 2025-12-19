@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to backflip",
+      "error_analysis": "学生易因\"back+flip\"的字面结构，误理解为\"向后翻转（非人体动作）\"或\"倒退\"，忽略其核心是\"(人)做后空翻\"",
+      "sentence": "The gymnast decided to **backflip** off the balance beam to impress the judges.",
+      "options": {
+        "option": [
+          {
+            "definition": "（人）做后空翻",
+            "iscorrect": true
+          },
+          {
+            "definition": "向后翻转（如书本或盒子）",
+            "iscorrect": false
+          },
+          {
+            "definition": "倒退（指学习或工作进度）",
+            "iscorrect": false
+          },
+          {
+            "definition": "背着背包移动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pricey",
+      "error_analysis": "学生易从词根\"price\"推导为\"与价格有关的\"，或混淆形近词\"prize\"(奖品)导致错误理解",
+      "sentence": "The restaurant has great food, but it’s a bit **pricey** for a student budget.",
+      "options": {
+        "option": [
+          {
+            "definition": "昂贵的",
+            "iscorrect": true
+          },
+          {
+            "definition": "与价格有关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "像奖品一样的",
+            "iscorrect": false
+          },
+          {
+            "definition": "骄傲的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

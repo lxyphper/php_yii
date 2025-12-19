@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to appoint",
+      "error_analysis": "学生易因形近词\"point\"误理解为\"指向；指出\"，或因词根\"放置\"误译为\"摆放\"。",
+      "sentence": "The board decided to **appoint** Ms. Lee as the new CEO after a thorough interview process.",
+      "options": {
+        "option": [
+          {
+            "definition": "任命；委派",
+            "iscorrect": true
+          },
+          {
+            "definition": "指向；指出",
+            "iscorrect": false
+          },
+          {
+            "definition": "放置；摆放",
+            "iscorrect": false
+          },
+          {
+            "definition": "申请；请求",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

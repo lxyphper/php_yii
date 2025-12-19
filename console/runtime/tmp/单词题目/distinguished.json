@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "distinguished",
+      "error_analysis": "中国学生易因形近词“distracted”（分心的）或词根“distinguish”（区分）误解为“分心的”或“被区分的”，而非核心义“杰出的”。",
+      "sentence": "The **distinguished** professor was invited to deliver a keynote speech at the global conference.",
+      "options": {
+        "option": [
+          {
+            "definition": "分心的",
+            "iscorrect": false
+          },
+          {
+            "definition": "被区分的",
+            "iscorrect": false
+          },
+          {
+            "definition": "杰出的；著名的",
+            "iscorrect": true
+          },
+          {
+            "definition": "困惑的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

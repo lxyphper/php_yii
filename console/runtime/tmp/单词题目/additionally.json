@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "additionally",
+      "error_analysis": "学生易因词根\"add\"（增加）直译或混淆形近词\"additive\"（添加剂），将副词\"此外\"误理解为\"增加地\"或\"添加剂\"。",
+      "sentence": "She already bought a notebook and a pen; **additionally**, she picked up a ruler for her math class.",
+      "options": {
+        "option": [
+          {
+            "definition": "此外；另外",
+            "iscorrect": true
+          },
+          {
+            "definition": "添加剂；添加物",
+            "iscorrect": false
+          },
+          {
+            "definition": "增加地；添加地",
+            "iscorrect": false
+          },
+          {
+            "definition": "额外的；附加的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

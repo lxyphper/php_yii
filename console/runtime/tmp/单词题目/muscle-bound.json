@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "muscle-bound",
+      "error_analysis": "学生易因\"muscle+bound\"的字面组合误判为\"肌肉紧绷/发达的\"，忽略\"bound\"的\"受限制\"含义，未理解其\"肌肉发达得行动不便\"的核心贬义。",
+      "sentence": "After months of intense weightlifting without stretching, he became so **muscle-bound** that he could barely bend down to tie his shoes.",
+      "options": {
+        "option": [
+          {
+            "definition": "肌肉发达得行动不便的",
+            "iscorrect": true
+          },
+          {
+            "definition": "肌肉被绑定的",
+            "iscorrect": false
+          },
+          {
+            "definition": "肌肉发达的（如\"muscular\"的常见义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "肌肉疼痛的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ghastly",
+      "error_analysis": "学生易因形近词“ghost”（鬼魂）将“ghastly”误理解为“鬼魂的、幽灵的”，或因词根联想过度局限于“幽灵般的”而忽略其“可怕的、惨不忍睹的”核心含义。",
+      "sentence": "The car crash left a **ghastly** scene with broken glass and twisted metal everywhere.",
+      "options": {
+        "option": [
+          {
+            "definition": "可怕的；惨不忍睹的",
+            "iscorrect": true
+          },
+          {
+            "definition": "鬼魂的；幽灵的",
+            "iscorrect": false
+          },
+          {
+            "definition": "幽灵般的；虚幻的",
+            "iscorrect": false
+          },
+          {
+            "definition": "胃的；与胃相关的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

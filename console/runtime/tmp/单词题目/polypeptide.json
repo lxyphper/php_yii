@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "polypeptide",
+      "error_analysis": "学生易因词根拆分错误（将\"peptide\"误判为无关词义）或形近词干扰（如与\"polyp\"混淆）而误解词义。",
+      "sentence": "The **polypeptide** chain folds into a specific 3D structure to form a functional protein in living organisms.",
+      "options": {
+        "option": [
+          {
+            "definition": "多肽（由多个氨基酸组成的链状分子，是蛋白质的前体）",
+            "iscorrect": true
+          },
+          {
+            "definition": "息肉（人体组织上的良性增生）",
+            "iscorrect": false
+          },
+          {
+            "definition": "多聚体（由许多相同或相似的单元组成的大分子）",
+            "iscorrect": false
+          },
+          {
+            "definition": "娇小的物体（体积小而可爱的东西）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

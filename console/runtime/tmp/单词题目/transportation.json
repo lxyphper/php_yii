@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "transportation",
+      "error_analysis": "核心易错点：1. 形近词干扰（与\"transformation\"混淆，误判为\"转变\"）；2. 词根误导（误以为是\"运输的动作\"，而非\"交通工具/运输系统\"）",
+      "sentence": "The city has improved its public **transportation** system to reduce traffic congestion.",
+      "options": {
+        "option": [
+          {
+            "definition": "转变；变形",
+            "iscorrect": false
+          },
+          {
+            "definition": "运输的行为；运送动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "交通工具；运输系统",
+            "iscorrect": true
+          },
+          {
+            "definition": "传输；传送（如数据或信号）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

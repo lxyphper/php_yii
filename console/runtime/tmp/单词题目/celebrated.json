@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "celebrated",
+      "error_analysis": "学生易将\"celebrated\"误理解为\"庆祝的\"（形近词\"celebrate\"的动词含义联想）或\"被庆祝的\"（词根字面直译）",
+      "sentence": "This **celebrated** restaurant is known for its traditional Italian cuisine and has been featured in many food magazines.",
+      "options": {
+        "option": [
+          {
+            "definition": "著名的；闻名的",
+            "iscorrect": true
+          },
+          {
+            "definition": "庆祝的；用于庆祝的",
+            "iscorrect": false
+          },
+          {
+            "definition": "被庆祝的；受到庆祝的",
+            "iscorrect": false
+          },
+          {
+            "definition": "快乐的；愉悦的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "afterward",
+      "error_analysis": "中国学生易因“ward”的形近义（病房）或词根“ward”（方向）误判“afterward”为“之后的病房”或“朝之后的方向”。",
+      "sentence": "She finished her homework and **afterward** went to the park.",
+      "options": {
+        "option": [
+          {
+            "definition": "之后；后来",
+            "iscorrect": true
+          },
+          {
+            "definition": "之后的病房",
+            "iscorrect": false
+          },
+          {
+            "definition": "朝之后的方向",
+            "iscorrect": false
+          },
+          {
+            "definition": "之前的行动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

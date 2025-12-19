@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "analysis",
+      "error_analysis": "学生易因形近词“analyst”（分析师）混淆“analysis”的词义，或因词根“lysis”（分解）过度推导为“分解”而非“分析”。",
+      "sentence": "The team presented a detailed **analysis** of the market trends to the board.",
+      "options": {
+        "option": [
+          {
+            "definition": "分析（名词，指对事物的详细研究或检查）",
+            "iscorrect": true
+          },
+          {
+            "definition": "分析师（指从事分析工作的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "分解（指将事物拆分成部分的动作或过程）",
+            "iscorrect": false
+          },
+          {
+            "definition": "分析（动词，指对事物进行系统研究）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

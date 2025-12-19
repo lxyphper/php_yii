@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "exasperating",
+      "error_analysis": "中国学生易混淆形近词exaggerating（夸张的），或通过词根asper（粗糙）错误推断为令人失望的。",
+      "sentence": "It's **exasperating** when someone keeps interrupting you while you're trying to explain something important.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人恼怒的；令人恼火的",
+            "iscorrect": true
+          },
+          {
+            "definition": "夸张的；夸大的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人失望的；令人沮丧的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人兴奋的；令人激动的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

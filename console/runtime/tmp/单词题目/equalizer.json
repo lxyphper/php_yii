@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "equalizer",
+      "error_analysis": "学生易因“equal”（平等）+“-er”（人）的词根组合误判为“平等主义者”，或因形近词“equalize”（动词）误判为“使平等的动作”",
+      "sentence": "The forward's header in the final minute was the **equalizer** that made the score 2-2.",
+      "options": {
+        "option": [
+          {
+            "definition": "平等主义者",
+            "iscorrect": false
+          },
+          {
+            "definition": "使平等的动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "（体育比赛中的）扳平比分的进球；使平衡的事物",
+            "iscorrect": true
+          },
+          {
+            "definition": "（音频设备的）均衡器",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

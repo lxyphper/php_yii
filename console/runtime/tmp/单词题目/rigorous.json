@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rigorous",
+      "error_analysis": "学生易因形近词“vigorous”（有活力的）及词根联想“rigid”（僵硬的），误将“rigorous”理解为“有活力的”或“不变通的”",
+      "sentence": "The university has a **rigorous** admission process that includes multiple interviews and exams.",
+      "options": {
+        "option": [
+          {
+            "definition": "严格的；严谨的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有活力的；精力充沛的",
+            "iscorrect": false
+          },
+          {
+            "definition": "僵硬的；不变通的",
+            "iscorrect": false
+          },
+          {
+            "definition": "复杂的；难懂的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "magnitude",
+      "error_analysis": "易因形近词“magnificent”（壮丽的）误判为“壮丽/宏伟”，或因词根“magn”（大）误判为“放大的动作”",
+      "sentence": "Scientists reported that the earthquake had a **magnitude** of 6.8, causing significant damage in the region.",
+      "options": {
+        "option": [
+          {
+            "definition": "大小；量级（尤指自然现象的强度）",
+            "iscorrect": true
+          },
+          {
+            "definition": "壮丽；宏伟",
+            "iscorrect": false
+          },
+          {
+            "definition": "放大的动作；扩大的过程",
+            "iscorrect": false
+          },
+          {
+            "definition": "磁性；磁力",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

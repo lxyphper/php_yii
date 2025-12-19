@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "have to",
+      "error_analysis": "学生易将“have to”拆分为“have（有）”+“to（去）”，错误理解为“有去做某事”，而非“必须/不得不”。",
+      "sentence": "Because of the rain, we **have to** cancel the picnic.",
+      "options": {
+        "option": [
+          {
+            "definition": "不得不，必须",
+            "iscorrect": true
+          },
+          {
+            "definition": "有去做",
+            "iscorrect": false
+          },
+          {
+            "definition": "必须拥有",
+            "iscorrect": false
+          },
+          {
+            "definition": "想要做",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

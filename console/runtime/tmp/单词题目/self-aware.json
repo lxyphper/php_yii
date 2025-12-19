@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "self-aware",
+      "error_analysis": "学生易因\"self-\"开头的形近复合词（如selfish/self-centered）联想错误，将\"self-aware\"误解为\"自私的\"或\"自我中心的\"。",
+      "sentence": "After the argument, Tom became more **self-aware** of how his temper could hurt the people he loved.",
+      "options": {
+        "option": [
+          {
+            "definition": "自私的",
+            "iscorrect": false
+          },
+          {
+            "definition": "自我中心的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有自知之明的；自我意识强的",
+            "iscorrect": true
+          },
+          {
+            "definition": "自我满足的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

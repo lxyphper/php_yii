@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "every",
+      "error_analysis": "易混淆形近词\"ever\"(曾经)、\"very\"(非常)，或拆解词根误判为\"任何的\"",
+      "sentence": "She drinks a cup of coffee **every** morning before going to work.",
+      "options": {
+        "option": [
+          {
+            "definition": "每个；每一",
+            "iscorrect": true
+          },
+          {
+            "definition": "曾经",
+            "iscorrect": false
+          },
+          {
+            "definition": "非常",
+            "iscorrect": false
+          },
+          {
+            "definition": "任何的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

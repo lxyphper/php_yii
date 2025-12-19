@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hesitant",
+      "error_analysis": "中国学生易因形近词\"resistant\"(抵抗的)或\"habit\"(习惯)的拼写联想，将\"hesitant\"误判为\"抵抗的\"或\"习惯的\"",
+      "sentence": "She was **hesitant** to accept the job offer because she wasn’t sure about the working hours.",
+      "options": {
+        "option": [
+          {
+            "definition": "抵抗的",
+            "iscorrect": false
+          },
+          {
+            "definition": "习惯的",
+            "iscorrect": false
+          },
+          {
+            "definition": "忙碌的",
+            "iscorrect": false
+          },
+          {
+            "definition": "犹豫的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

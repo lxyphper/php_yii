@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "theater",
+      "error_analysis": "中国学生易因形近词\"teacher\"（老师）产生错误联想，或因词根\"thea-\"过度推导为\"观看室\"而非核心义\"剧院\"。",
+      "sentence": "We bought tickets to see a play at the new **theater** downtown this weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "老师",
+            "iscorrect": false
+          },
+          {
+            "definition": "观看室",
+            "iscorrect": false
+          },
+          {
+            "definition": "剧院",
+            "iscorrect": true
+          },
+          {
+            "definition": "主题",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

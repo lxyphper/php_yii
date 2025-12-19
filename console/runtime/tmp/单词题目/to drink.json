@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to drink",
+      "error_analysis": "学生易因形近词“dress”（穿衣服）或“drive”（驾驶）的拼写相似，将“to drink”误理解为“穿衣服”或“驾驶”。",
+      "sentence": "Could you please **drink** this juice for me? I'm too full.",
+      "options": {
+        "option": [
+          {
+            "definition": "喝；饮用",
+            "iscorrect": true
+          },
+          {
+            "definition": "穿衣服",
+            "iscorrect": false
+          },
+          {
+            "definition": "驾驶",
+            "iscorrect": false
+          },
+          {
+            "definition": "掉落",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

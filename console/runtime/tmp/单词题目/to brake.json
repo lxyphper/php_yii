@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to brake",
+      "error_analysis": "学生易将“to brake”与形近词“to break”（打破）、“to bake”（烤）混淆，或误猜为“分支”等无关义",
+      "sentence": "When the cat ran across the street, the cyclist had to **brake** hard to avoid hitting it.",
+      "options": {
+        "option": [
+          {
+            "definition": "刹车；使（车辆/自行车等）停止",
+            "iscorrect": true
+          },
+          {
+            "definition": "打破；弄坏",
+            "iscorrect": false
+          },
+          {
+            "definition": "分支；分叉",
+            "iscorrect": false
+          },
+          {
+            "definition": "烤；烘焙",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

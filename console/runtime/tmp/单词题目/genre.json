@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "genre",
+      "error_analysis": "学生易因形近词\"gender\"(性别)混淆，或因词根\"gen-\"误导为\"起源\"。",
+      "sentence": "Her favorite **genre** of books is mystery, as she loves solving puzzles while reading.",
+      "options": {
+        "option": [
+          {
+            "definition": "（文学、艺术等的）类型；流派",
+            "iscorrect": true
+          },
+          {
+            "definition": "性别",
+            "iscorrect": false
+          },
+          {
+            "definition": "起源；根源",
+            "iscorrect": false
+          },
+          {
+            "definition": "（生物的）种类",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "food",
+      "error_analysis": "学生易因形近词\"foot\"（脚）的干扰，将\"food\"误理解为身体部位",
+      "sentence": "We need to buy some fresh **food** like vegetables and fruits for dinner tonight.",
+      "options": {
+        "option": [
+          {
+            "definition": "食物",
+            "iscorrect": true
+          },
+          {
+            "definition": "脚",
+            "iscorrect": false
+          },
+          {
+            "definition": "喂养（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "傻瓜",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "swift",
+      "error_analysis": "学生易因形近词switch（转换）混淆，误将swift理解为“转换”或“开关”",
+      "sentence": "The cheetah made a **swift** turn to catch its prey before it could escape.",
+      "options": {
+        "option": [
+          {
+            "definition": "迅速的；敏捷的",
+            "iscorrect": true
+          },
+          {
+            "definition": "转换；开关",
+            "iscorrect": false
+          },
+          {
+            "definition": "甜的；悦耳的",
+            "iscorrect": false
+          },
+          {
+            "definition": "摇摆；摆动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

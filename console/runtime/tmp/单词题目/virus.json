@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "virus",
+      "error_analysis": "形近词“visa”（签证）、“virtue”（美德）的拼写干扰，及词根“vir”（如“virile”）带来的“活力”误解",
+      "sentence": "The computer suddenly crashed because it was infected by a **virus** from an unknown email.",
+      "options": {
+        "option": [
+          {
+            "definition": "签证（visa的常见义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "病毒（能引起疾病或系统故障的微生物/程序）",
+            "iscorrect": true
+          },
+          {
+            "definition": "美德（virtue的常见义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "活力（virile的引申义，如“男性活力”）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

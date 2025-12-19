@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to surpass",
+      "error_analysis": "学生常因形近词“pass”（通过/传递）的干扰，误将“to surpass”理解为“通过”或“传递”。",
+      "sentence": "The new smartphone’s battery life **surpasses** that of its predecessor by 50%.",
+      "options": {
+        "option": [
+          {
+            "definition": "超过；胜过",
+            "iscorrect": true
+          },
+          {
+            "definition": "通过；传递",
+            "iscorrect": false
+          },
+          {
+            "definition": "使惊讶；使吃惊",
+            "iscorrect": false
+          },
+          {
+            "definition": "压制；抑制",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

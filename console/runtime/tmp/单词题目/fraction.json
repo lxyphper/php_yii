@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fraction",
+      "error_analysis": "学生易因形近词“fiction”（小说）混淆，或因词根“fractus”（破碎）误判为“碎片/破裂”",
+      "sentence": "The recipe calls for a **fraction** of a teaspoon of salt, so be careful not to add too much.",
+      "options": {
+        "option": [
+          {
+            "definition": "分数；一小部分",
+            "iscorrect": true
+          },
+          {
+            "definition": "小说",
+            "iscorrect": false
+          },
+          {
+            "definition": "碎片；破裂",
+            "iscorrect": false
+          },
+          {
+            "definition": "摩擦",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

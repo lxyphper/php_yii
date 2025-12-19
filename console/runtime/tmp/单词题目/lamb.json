@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lamb",
+      "error_analysis": "中国学生易因形近词\"lamp\"(灯)产生错误联想，或混淆词根\"lam\"(逃跑)的含义。",
+      "sentence": "The little **lamb** followed its mother around the meadow, nibbling on fresh grass.",
+      "options": {
+        "option": [
+          {
+            "definition": "羔羊；小羊",
+            "iscorrect": true
+          },
+          {
+            "definition": "灯",
+            "iscorrect": false
+          },
+          {
+            "definition": "逃跑",
+            "iscorrect": false
+          },
+          {
+            "definition": "跛的；瘸的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "marker",
+      "error_analysis": "易受形近词\"market\"(市场)干扰，或误通过词根\"mark+-er\"推导为\"做标记的人\"",
+      "sentence": "The teacher told the students to use a **marker** to circle the important words in the passage.",
+      "options": {
+        "option": [
+          {
+            "definition": "马克笔；标记工具",
+            "iscorrect": true
+          },
+          {
+            "definition": "市场；集市",
+            "iscorrect": false
+          },
+          {
+            "definition": "标记员；做标记的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "分数；成绩",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

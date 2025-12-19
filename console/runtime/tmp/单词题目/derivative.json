@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "derivative",
+      "error_analysis": "学生易将“derivative”与形近词“derisive”（嘲笑的）混淆，或因词根“derive”误判为“来源”。",
+      "sentence": "The author’s new novel is considered **derivative** because it borrows heavily from classic detective stories.",
+      "options": {
+        "option": [
+          {
+            "definition": "嘲笑的",
+            "iscorrect": false
+          },
+          {
+            "definition": "来源",
+            "iscorrect": false
+          },
+          {
+            "definition": "装饰性的",
+            "iscorrect": false
+          },
+          {
+            "definition": "缺乏创意的；衍生的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "major",
+      "error_analysis": "中国学生易因形近词“mayor”（市长）或词根“maior”（大的）误导，将“major”（主要的）误理解为“市长”或“大的”。",
+      "sentence": "The **major** reason for his success is hard work.",
+      "options": {
+        "option": [
+          {
+            "definition": "主要的",
+            "iscorrect": true
+          },
+          {
+            "definition": "市长",
+            "iscorrect": false
+          },
+          {
+            "definition": "大的",
+            "iscorrect": false
+          },
+          {
+            "definition": "专业",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

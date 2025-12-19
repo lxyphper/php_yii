@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "toned",
+      "error_analysis": "学生易因形近词\"tone\"(音调、语气)误判为与声音/语气相关的含义，如\"有音调的\"或\"语气缓和的\"",
+      "sentence": "After months of lifting weights and doing yoga, his **toned** abs became clearly visible through his shirt.",
+      "options": {
+        "option": [
+          {
+            "definition": "（肌肉）结实的、有线条的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有音调的、带声调的",
+            "iscorrect": false
+          },
+          {
+            "definition": "语气缓和的、委婉的",
+            "iscorrect": false
+          },
+          {
+            "definition": "调整过的、校准的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

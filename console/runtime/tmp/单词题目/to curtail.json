@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to curtail",
+      "error_analysis": "中国学生易因形近词“curtain”（窗帘）误判为“挂窗帘”，或因词根“tail”（尾巴）误联想为“切断尾巴”。",
+      "sentence": "The government decided to **curtail** the hours of operation for bars to reduce noise pollution.",
+      "options": {
+        "option": [
+          {
+            "definition": "削减；缩短（活动、权利等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "挂窗帘",
+            "iscorrect": false
+          },
+          {
+            "definition": "切断尾巴",
+            "iscorrect": false
+          },
+          {
+            "definition": "扩大范围",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

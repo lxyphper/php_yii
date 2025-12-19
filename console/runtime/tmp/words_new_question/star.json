@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "star",
+      "error_analysis": "中国学生易混淆形近词“stare”（盯着看）或“start”（开始），或误将“star”仅理解为“星星”而忽略其“明星”的常见义。",
+      "sentence": "Emma Watson became a **star** after playing Hermione in *Harry Potter*.",
+      "options": {
+        "option": [
+          {
+            "definition": "明星",
+            "iscorrect": true
+          },
+          {
+            "definition": "盯着看",
+            "iscorrect": false
+          },
+          {
+            "definition": "开始",
+            "iscorrect": false
+          },
+          {
+            "definition": "星星",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "history",
+      "error_analysis": "学生易因形近词\"story\"（故事）干扰或\"his+story\"字面误导，将\"history\"误判为\"故事\"或\"他的故事\"。",
+      "sentence": "We learned about the **history** of ancient China in our social studies class.",
+      "options": {
+        "option": [
+          {
+            "definition": "历史",
+            "iscorrect": true
+          },
+          {
+            "definition": "故事",
+            "iscorrect": false
+          },
+          {
+            "definition": "他的故事",
+            "iscorrect": false
+          },
+          {
+            "definition": "回忆录",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "composer",
+      "error_analysis": "学生易因词根\"com-+pos-\"过度直译为\"组合者\"，或因形近\"computer\"猜测为\"电脑相关人员\"",
+      "sentence": "The **composer** of this famous symphony won a major music award last year.",
+      "options": {
+        "option": [
+          {
+            "definition": "作曲家；（音乐的）创作者",
+            "iscorrect": true
+          },
+          {
+            "definition": "组合者；整理者",
+            "iscorrect": false
+          },
+          {
+            "definition": "电脑技术员；计算机操作者",
+            "iscorrect": false
+          },
+          {
+            "definition": "冷静的人；镇定者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

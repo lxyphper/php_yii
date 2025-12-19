@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gluten",
+      "error_analysis": "学生易因形近词\"glue\"(胶水)或词根联想错误将\"gluten\"理解为\"胶水\"或谷物中的非蛋白质成分",
+      "sentence": "Many people with celiac disease must avoid foods containing **gluten**, such as bread, pasta, and baked goods.",
+      "options": {
+        "option": [
+          {
+            "definition": "胶水（用于粘合物品的粘性物质）",
+            "iscorrect": false
+          },
+          {
+            "definition": "谷蛋白（存在于小麦、大麦等谷物中的蛋白质）",
+            "iscorrect": true
+          },
+          {
+            "definition": "谷物外壳（包裹谷物种子的硬皮）",
+            "iscorrect": false
+          },
+          {
+            "definition": "淀粉（谷物中的碳水化合物成分）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

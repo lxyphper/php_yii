@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "champion",
+      "error_analysis": "学生易因形近词“champagne”（香槟）混淆词义，或误将“champion”理解为“挑战者”（因与“challenge”拼写接近）",
+      "sentence": "After winning three consecutive matches, he was crowned the **champion** of the regional basketball league.",
+      "options": {
+        "option": [
+          {
+            "definition": "冠军",
+            "iscorrect": true
+          },
+          {
+            "definition": "香槟",
+            "iscorrect": false
+          },
+          {
+            "definition": "挑战者",
+            "iscorrect": false
+          },
+          {
+            "definition": "战士",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

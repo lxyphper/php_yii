@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to look",
+      "error_analysis": "学生易因形近词‘lock’（锁）、‘cook’（做饭）混淆‘look’的词义，或误将其系动词用法‘看起来’理解为动作‘看’。",
+      "sentence": "She **looks** very happy today because she got a new toy.",
+      "options": {
+        "option": [
+          {
+            "definition": "锁（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "看；看起来（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "阅读（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "做饭（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

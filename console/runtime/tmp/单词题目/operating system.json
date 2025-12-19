@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "operating system",
+      "error_analysis": "学生易因“operate”的“手术”义将“operating system”误理解为“手术系统”（词根误导），或混淆“system”与“device”误判为“运行设备”（形近词干扰）",
+      "sentence": "To run this new game on your computer, you must ensure that your **operating system**, such as Windows 11 or macOS Ventura, meets the minimum requirements.",
+      "options": {
+        "option": [
+          {
+            "definition": "计算机或手机等电子设备的核心管理软件，用于控制硬件和软件功能（如Windows或iOS）",
+            "iscorrect": true
+          },
+          {
+            "definition": "用于医疗手术的辅助系统（如手术机器人的操作控制体系）",
+            "iscorrect": false
+          },
+          {
+            "definition": "指导操作流程的制度或方法体系（如工厂生产的操作规范）",
+            "iscorrect": false
+          },
+          {
+            "definition": "正在运行的电子设备（如电脑、手机等终端产品）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

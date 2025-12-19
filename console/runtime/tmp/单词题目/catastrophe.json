@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "catastrophe",
+      "error_analysis": "学生易因“cat”（猫）与“trophy”（奖杯）的形近联想，或“cata-”（向下）+“strophe”（转向）的词根误导，将“catastrophe”误解为与“猫”“奖品”或“向下转向”相关的无关意思。",
+      "sentence": "The hurricane caused a **catastrophe** in the coastal city, destroying thousands of homes and leaving many people homeless.",
+      "options": {
+        "option": [
+          {
+            "definition": "大灾难；灾祸",
+            "iscorrect": true
+          },
+          {
+            "definition": "与猫相关的奖品",
+            "iscorrect": false
+          },
+          {
+            "definition": "向下转向的动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "小型意外事件",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

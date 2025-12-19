@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "farmer",
+      "error_analysis": "学生易混淆形近词\"former\"(以前的)的含义,或因\"far\"的联想误判为\"远行者\"。",
+      "sentence": "The **farmer** wakes up at 5 a.m. every day to water the vegetables and feed the chickens on his small farm.",
+      "options": {
+        "option": [
+          {
+            "definition": "农民；农场主",
+            "iscorrect": true
+          },
+          {
+            "definition": "以前的人；前者",
+            "iscorrect": false
+          },
+          {
+            "definition": "旅行者；远行者",
+            "iscorrect": false
+          },
+          {
+            "definition": "搬运工；装卸工",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rapturous",
+      "error_analysis": "学生易因形近词\"rupture\"(破裂)混淆词根\"rapt\"与\"rupt\"，或误将\"rapt\"联想为\"rapid\"(快速的)而曲解词义",
+      "sentence": "The audience burst into **rapturous** cheers as the team won the championship.",
+      "options": {
+        "option": [
+          {
+            "definition": "狂喜的；热烈的",
+            "iscorrect": true
+          },
+          {
+            "definition": "破裂的；断裂的",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速的；敏捷的",
+            "iscorrect": false
+          },
+          {
+            "definition": "着迷的；专注的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

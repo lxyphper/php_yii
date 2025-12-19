@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to elude",
+      "error_analysis": "学生易将“elude”与形近词“exclude”（排除）或“delude”（欺骗）混淆，或误将其误解为“理解”而非“巧妙避开”。",
+      "sentence": "The solution to the math problem **eluded** me until my teacher explained it step by step.",
+      "options": {
+        "option": [
+          {
+            "definition": "巧妙避开；逃避（尤指通过机智或技巧）",
+            "iscorrect": true
+          },
+          {
+            "definition": "排除；不包括",
+            "iscorrect": false
+          },
+          {
+            "definition": "欺骗；误导",
+            "iscorrect": false
+          },
+          {
+            "definition": "理解；领悟",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

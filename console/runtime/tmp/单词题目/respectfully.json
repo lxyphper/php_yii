@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "respectfully",
+      "error_analysis": "中国学生易因形近词“respectively”（分别地）或词根混淆“respectably”（值得尊重地）而误解“respectfully”。",
+      "sentence": "The young man greeted the elderly woman **respectfully** by taking off his hat.",
+      "options": {
+        "option": [
+          {
+            "definition": "恭敬地",
+            "iscorrect": true
+          },
+          {
+            "definition": "分别地",
+            "iscorrect": false
+          },
+          {
+            "definition": "值得尊重地",
+            "iscorrect": false
+          },
+          {
+            "definition": "热情地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

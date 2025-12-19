@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rebirth",
+      "error_analysis": "学生易因词根\"re-+birth\"直译为\"再次出生\"，忽略其\"复兴、重生\"的抽象核心含义",
+      "sentence": "After years of neglect, the old industrial town experienced a **rebirth** with the opening of art galleries and creative studios.",
+      "options": {
+        "option": [
+          {
+            "definition": "再次出生（字面直译）",
+            "iscorrect": false
+          },
+          {
+            "definition": "复兴；重生（抽象含义）",
+            "iscorrect": true
+          },
+          {
+            "definition": "出生的时刻（混淆birth原义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "重生的（形容词，词性混淆）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

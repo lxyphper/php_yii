@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "accelerated",
+      "error_analysis": "中国学生易因形近词（如accumulated，积累的）或发音联想（如celebrated，著名的）误判accelerated的含义",
+      "sentence": "The university offers an **accelerated** bachelor's program that allows students to graduate in three years instead of four.",
+      "options": {
+        "option": [
+          {
+            "definition": "加速的；加快的",
+            "iscorrect": true
+          },
+          {
+            "definition": "积累的；积聚的",
+            "iscorrect": false
+          },
+          {
+            "definition": "著名的；闻名的",
+            "iscorrect": false
+          },
+          {
+            "definition": "高级的；先进的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

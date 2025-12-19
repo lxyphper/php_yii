@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "comptroller",
+      "error_analysis": "易混淆形近词controller（控制器/管理者），或误通过词根compt联想为计算相关职业（如会计）",
+      "sentence": "The city's **comptroller** will audit the department's spending to make sure no funds are misused.",
+      "options": {
+        "option": [
+          {
+            "definition": "控制器；管理者",
+            "iscorrect": false
+          },
+          {
+            "definition": "审计长；财务总监",
+            "iscorrect": true
+          },
+          {
+            "definition": "计算员；会计",
+            "iscorrect": false
+          },
+          {
+            "definition": "部门经理；主管",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

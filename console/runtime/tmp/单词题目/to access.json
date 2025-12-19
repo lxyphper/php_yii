@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to access",
+      "error_analysis": "学生易混淆形近词assess（评估），或因词根cess（走）误判为“接近/走向”。",
+      "sentence": "You need a password to **access** the online library resources.",
+      "options": {
+        "option": [
+          {
+            "definition": "评估；评价",
+            "iscorrect": false
+          },
+          {
+            "definition": "接近；走向",
+            "iscorrect": false
+          },
+          {
+            "definition": "访问；使用",
+            "iscorrect": true
+          },
+          {
+            "definition": "过量；超过",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

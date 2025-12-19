@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "actually",
+      "error_analysis": "中国学生易因形近词\"accidentally\"（意外地）或词根\"act\"（行动）误导，将\"actually\"误解为\"意外地\"或\"积极地\"。",
+      "sentence": "I thought she liked coffee, but **actually** she prefers tea.",
+      "options": {
+        "option": [
+          {
+            "definition": "实际上；其实",
+            "iscorrect": true
+          },
+          {
+            "definition": "意外地",
+            "iscorrect": false
+          },
+          {
+            "definition": "积极地",
+            "iscorrect": false
+          },
+          {
+            "definition": "目前地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

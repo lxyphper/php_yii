@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hunting",
+      "error_analysis": "学生易因\"hunting\"与\"hunger\"（饥饿）形近而误联想为\"饥饿相关的行为\"，或因词根泛化而忽略\"打猎\"的核心义",
+      "sentence": "Every weekend, the old man goes **hunting** in the forest with his dog to get some wild game for dinner.",
+      "options": {
+        "option": [
+          {
+            "definition": "打猎；狩猎",
+            "iscorrect": true
+          },
+          {
+            "definition": "饥饿的感觉",
+            "iscorrect": false
+          },
+          {
+            "definition": "寻找（一般物品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "暗示的行为",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

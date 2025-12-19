@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "probably",
+      "error_analysis": "学生易因形近词\"probable\"（形容词，可能的）混淆词性，或因词根\"prob-\"（证明）误导为\"证明地\"。",
+      "sentence": "She **probably** forgot about the meeting since she hasn't shown up yet.",
+      "options": {
+        "option": [
+          {
+            "definition": "很可能地（副词，表示极高的可能性）",
+            "iscorrect": true
+          },
+          {
+            "definition": "可能的（形容词，描述事物的可能性）",
+            "iscorrect": false
+          },
+          {
+            "definition": "证明地/验证地（根据词根\"prob-\"猜测的错误含义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "也许（副词，表示较低的可能性，如\"maybe\"）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

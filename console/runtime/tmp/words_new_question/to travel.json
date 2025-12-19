@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to travel",
+      "error_analysis": "中国学生易因形近词“trail”（追踪）或词根“tra-”（穿过）误将“to travel”理解为“追踪”或“搬运”",
+      "sentence": "We decided to **travel** to the mountains this weekend to enjoy the fresh air.",
+      "options": {
+        "option": [
+          {
+            "definition": "旅行；游历",
+            "iscorrect": true
+          },
+          {
+            "definition": "追踪；沿着小径走",
+            "iscorrect": false
+          },
+          {
+            "definition": "搬运（货物）；传输",
+            "iscorrect": false
+          },
+          {
+            "definition": "转移；调动（工作/地点）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

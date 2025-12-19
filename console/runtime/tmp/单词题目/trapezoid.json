@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "trapezoid",
+      "error_analysis": "学生易将\"trapezoid\"与形近词\"trapeze\"(吊杠/秋千)混淆，或因\"trap\"联想到陷阱，导致误判为非几何词义。",
+      "sentence": "In geometry class, we learned that a **trapezoid** has exactly one pair of parallel sides, which sets it apart from a rectangle or square.",
+      "options": {
+        "option": [
+          {
+            "definition": "梯形（一种有一组对边平行的四边形）",
+            "iscorrect": true
+          },
+          {
+            "definition": "吊杠/秋千（一种体操运动器械）",
+            "iscorrect": false
+          },
+          {
+            "definition": "陷阱装置（带有机关的捕捉工具）",
+            "iscorrect": false
+          },
+          {
+            "definition": "圆形（没有棱角的几何形状）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

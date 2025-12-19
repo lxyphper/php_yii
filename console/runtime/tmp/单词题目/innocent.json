@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "innocent",
+      "error_analysis": "易因形近词\"innate\"(天生的)产生混淆，或因词根\"in-+nocent\"错误推导为\"无害的\"",
+      "sentence": "The jury found the defendant **innocent** after new evidence proved he was not at the crime scene.",
+      "options": {
+        "option": [
+          {
+            "definition": "无辜的；无罪的",
+            "iscorrect": true
+          },
+          {
+            "definition": "天生的；与生俱来的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无害的；无恶意的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无知的；缺乏知识的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

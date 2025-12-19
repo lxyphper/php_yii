@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "comfortable",
+      "error_analysis": "学生易因词根\"fort\"（力量/堡垒）误导认为是\"有力量的\"，或因形近词\"common\"（常见的）混淆为\"普通的\"",
+      "sentence": "The hotel room had a **comfortable** bed that helped her sleep well through the night.",
+      "options": {
+        "option": [
+          {
+            "definition": "舒适的",
+            "iscorrect": true
+          },
+          {
+            "definition": "常见的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有力量的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可理解的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

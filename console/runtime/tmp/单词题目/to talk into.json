@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to talk into",
+      "error_analysis": "将固定短语\"talk into\"误理解为\"谈论进入\"或\"说话进入\"，而非其核心含义\"说服某人做某事\"",
+      "sentence": "She managed to **talk her brother into** lending her his car for the weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "说服某人做某事",
+            "iscorrect": true
+          },
+          {
+            "definition": "谈论进入（某地/某事）",
+            "iscorrect": false
+          },
+          {
+            "definition": "说话进入（某个状态或地方）",
+            "iscorrect": false
+          },
+          {
+            "definition": "与某人讨论某事",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

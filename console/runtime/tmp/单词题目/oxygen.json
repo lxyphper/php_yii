@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "oxygen",
+      "error_analysis": "学生易因“oxy”形近“ox”（牛）或“gen”联想“基因”而误判“oxygen”的含义",
+      "sentence": "Scuba divers carry tanks filled with **oxygen** to breathe underwater.",
+      "options": {
+        "option": [
+          {
+            "definition": "氧气",
+            "iscorrect": true
+          },
+          {
+            "definition": "牛的呼吸气体",
+            "iscorrect": false
+          },
+          {
+            "definition": "基因组成成分",
+            "iscorrect": false
+          },
+          {
+            "definition": "氧化物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

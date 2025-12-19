@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fond",
+      "error_analysis": "学生易因形近词“fund”（基金）、“find”（找到）或字面谐音误认为“愚蠢的”，误判“fond”的含义。",
+      "sentence": "She has always been **fond** of reading novels since she was a child.",
+      "options": {
+        "option": [
+          {
+            "definition": "基金",
+            "iscorrect": false
+          },
+          {
+            "definition": "找到",
+            "iscorrect": false
+          },
+          {
+            "definition": "愚蠢的",
+            "iscorrect": false
+          },
+          {
+            "definition": "喜欢的；喜爱的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

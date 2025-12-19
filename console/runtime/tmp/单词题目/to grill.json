@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to grill",
+      "error_analysis": "学生易因形近词“girl”（女孩）混淆，或因“gr-”词根猜测为“研磨”等无关含义。",
+      "sentence": "Let's **grill** some chicken wings for the party; they taste better than fried ones.",
+      "options": {
+        "option": [
+          {
+            "definition": "烤（肉、蔬菜等食物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "变成女孩",
+            "iscorrect": false
+          },
+          {
+            "definition": "把某物磨成粉",
+            "iscorrect": false
+          },
+          {
+            "definition": "问候某人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Hebrew",
+      "error_analysis": "学生易将Hebrew拆分为he+brew（酿造）误理解为“他酿造的东西”，或因形近与hero（英雄）混淆",
+      "sentence": "Many ancient texts in the Bible were written in **Hebrew**.",
+      "options": {
+        "option": [
+          {
+            "definition": "希伯来语；希伯来人",
+            "iscorrect": true
+          },
+          {
+            "definition": "他酿造的东西",
+            "iscorrect": false
+          },
+          {
+            "definition": "英雄",
+            "iscorrect": false
+          },
+          {
+            "definition": "草本植物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to adore",
+      "error_analysis": "学生易因形近词\"adorn\"(装饰)或\"adopt\"(收养)的干扰，误判\"to adore\"的词义。",
+      "sentence": "She has always **adored** her grandmother’s homemade cookies since she was a little girl.",
+      "options": {
+        "option": [
+          {
+            "definition": "热爱；爱慕",
+            "iscorrect": true
+          },
+          {
+            "definition": "装饰",
+            "iscorrect": false
+          },
+          {
+            "definition": "收养",
+            "iscorrect": false
+          },
+          {
+            "definition": "承认",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

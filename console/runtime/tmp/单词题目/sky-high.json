@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sky-high",
+      "error_analysis": "学生易因\"sky\"（天空）和\"high\"（高）的字面义误导，将\"sky-high\"错误理解为\"天空的高度\"或\"物理位置上的极高\"，而非形容抽象事物的\"极高\"。",
+      "sentence": "Due to the limited supply, the prices of fresh vegetables have been **sky-high** this winter.",
+      "options": {
+        "option": [
+          {
+            "definition": "天空的高度",
+            "iscorrect": false
+          },
+          {
+            "definition": "极高的（用于形容价格、需求等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "在天空中很高的位置",
+            "iscorrect": false
+          },
+          {
+            "definition": "像天空一样广阔的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

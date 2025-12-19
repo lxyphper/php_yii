@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "recognized",
+      "error_analysis": "易混淆形近词recommended（推荐），或误将词根cogn（知道）过度直译为“重新认知”而忽略“公认/认出”的核心义",
+      "sentence": "Ms. Zhang is a **recognized** leader in the field of education, with many awards to her name.",
+      "options": {
+        "option": [
+          {
+            "definition": "公认的；知名的",
+            "iscorrect": true
+          },
+          {
+            "definition": "推荐的",
+            "iscorrect": false
+          },
+          {
+            "definition": "重新认知的",
+            "iscorrect": false
+          },
+          {
+            "definition": "回忆的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

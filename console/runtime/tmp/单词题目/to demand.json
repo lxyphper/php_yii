@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to demand",
+      "error_analysis": "易因形近词\"depend\"误解为\"依赖\"，或因词根误导将\"强烈要求\"误判为\"请求\"",
+      "sentence": "The workers will **demand** better pay and working conditions from their employer.",
+      "options": {
+        "option": [
+          {
+            "definition": "依赖",
+            "iscorrect": false
+          },
+          {
+            "definition": "要求（强烈地）",
+            "iscorrect": true
+          },
+          {
+            "definition": "请求",
+            "iscorrect": false
+          },
+          {
+            "definition": "提供",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

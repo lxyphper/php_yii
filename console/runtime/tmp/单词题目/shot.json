@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "shot",
+      "error_analysis": "中国学生易因形近词\"short\"误判为\"短的\"，或因词根关联\"shoot\"误判为\"射击\"（动词义），忽略名词\"机会\"的常见义。",
+      "sentence": "She was excited to get a **shot** at interviewing her favorite author for the school newspaper.",
+      "options": {
+        "option": [
+          {
+            "definition": "短的",
+            "iscorrect": false
+          },
+          {
+            "definition": "射击（shoot的过去式）",
+            "iscorrect": false
+          },
+          {
+            "definition": "机会",
+            "iscorrect": true
+          },
+          {
+            "definition": "镜头（电影中的画面）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

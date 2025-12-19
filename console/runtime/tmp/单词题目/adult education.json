@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "adult education",
+      "error_analysis": "学生易将“adult”与形近词“advanced”（高级的）混淆，或因“adult”的“成熟的”义过度引申，误将“adult education”理解为“高级教育”或“成熟教育”。",
+      "sentence": "The local community center offers various **adult education** programs, such as computer skills training and language classes, for people over 18 who want to learn new things.",
+      "options": {
+        "option": [
+          {
+            "definition": "成人教育（针对成年人的非全日制教育培训，如技能学习或兴趣课程）",
+            "iscorrect": true
+          },
+          {
+            "definition": "高级教育（层次较高的学术或专业教育，如研究生课程）",
+            "iscorrect": false
+          },
+          {
+            "definition": "成熟教育（培养成熟人格或社会责任感的教育）",
+            "iscorrect": false
+          },
+          {
+            "definition": "职业教育（针对特定职业的技能培训，如厨师或电工课程）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

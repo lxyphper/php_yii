@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dome",
+      "error_analysis": "易与形近词\"doom\"(厄运)混淆，或通过词根\"dom\"错误联想为\"家庭的\"",
+      "sentence": "The iconic St. Peter's Basilica in Rome features a stunning **dome** designed by Michelangelo.",
+      "options": {
+        "option": [
+          {
+            "definition": "圆顶（建筑物的半球形顶部）",
+            "iscorrect": true
+          },
+          {
+            "definition": "厄运；劫数",
+            "iscorrect": false
+          },
+          {
+            "definition": "家庭的； domestic的形容词形式",
+            "iscorrect": false
+          },
+          {
+            "definition": "门；入口",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

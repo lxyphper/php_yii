@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "grumbling",
+      "error_analysis": "学生易因形近词“rumble”（隆隆声）误判为“低沉的声音”，或因词根字面误导将其理解为“小声的咕哝声”而非“连续的抱怨”。",
+      "sentence": "The workers' **grumbling** about the long hours finally led to a meeting with the manager.",
+      "options": {
+        "option": [
+          {
+            "definition": "低沉的隆隆声",
+            "iscorrect": false
+          },
+          {
+            "definition": "连续的抱怨",
+            "iscorrect": true
+          },
+          {
+            "definition": "小声的咕哝声",
+            "iscorrect": false
+          },
+          {
+            "definition": "脾气坏的状态",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

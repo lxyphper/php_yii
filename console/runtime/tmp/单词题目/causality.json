@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "causality",
+      "error_analysis": "易混淆形近词“casualty”（伤亡）及词根“cause”的过度推导导致对“因果关系”核心义的偏离",
+      "sentence": "The study aims to establish a clear **causality** between smoking and lung cancer, not just a correlation.",
+      "options": {
+        "option": [
+          {
+            "definition": "因果关系",
+            "iscorrect": true
+          },
+          {
+            "definition": "伤亡；受害者",
+            "iscorrect": false
+          },
+          {
+            "definition": "原因的多样性",
+            "iscorrect": false
+          },
+          {
+            "definition": "偶然事件",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

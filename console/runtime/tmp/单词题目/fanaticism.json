@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fanaticism",
+      "error_analysis": "学生易将fanaticism（极端狂热；狂热主义）误理解为“粉丝的热情支持”（形近词fan的“粉丝”义干扰）或“狂热者群体”（词根fanatic“狂热者”加-ism的字面误导）",
+      "sentence": "The **fanaticism** of the group led them to commit violent acts in the name of their belief.",
+      "options": {
+        "option": [
+          {
+            "definition": "极端狂热；狂热主义",
+            "iscorrect": true
+          },
+          {
+            "definition": "粉丝对偶像的狂热支持",
+            "iscorrect": false
+          },
+          {
+            "definition": "狂热者群体",
+            "iscorrect": false
+          },
+          {
+            "definition": "理性的信仰坚持",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

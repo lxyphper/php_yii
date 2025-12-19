@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "upswing",
+      "error_analysis": "学生易将\"upswing\"字面拆分为\"up\"+\"swing\"，误理解为\"向上摆动\"，忽略其\"（数量、活动等的）增长\"的核心引申义。",
+      "sentence": "The recent **upswing** in demand for electric cars has prompted many factories to expand production.",
+      "options": {
+        "option": [
+          {
+            "definition": "（数量、活动等的）增长，上升趋势",
+            "iscorrect": true
+          },
+          {
+            "definition": "向上摆动（如秋千的上升过程）",
+            "iscorrect": false
+          },
+          {
+            "definition": "突然的向上跳跃",
+            "iscorrect": false
+          },
+          {
+            "definition": "情绪的突然高涨",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

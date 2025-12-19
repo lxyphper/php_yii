@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to pretend",
+      "error_analysis": "易因形近词“prevent”（阻止）混淆，或因“pre-”+“tend”的错误词根联想误解为“预先准备”。",
+      "sentence": "The little girl **pretended** to be a princess and wore a crown made of flowers.",
+      "options": {
+        "option": [
+          {
+            "definition": "阻止；防止",
+            "iscorrect": false
+          },
+          {
+            "definition": "预先准备；倾向于",
+            "iscorrect": false
+          },
+          {
+            "definition": "祈祷；祈求",
+            "iscorrect": false
+          },
+          {
+            "definition": "假装；佯装",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

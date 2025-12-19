@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "eight",
+      "error_analysis": "学生易因“eight”与形近词“height”（高度）、“weight”（重量）的拼写相似（均含“-ight”结构），将其错误理解为“高度”或“重量”。",
+      "sentence": "My little sister is **eight** years old this year.",
+      "options": {
+        "option": [
+          {
+            "definition": "八（数字）",
+            "iscorrect": true
+          },
+          {
+            "definition": "高度（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "重量（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "九（数字）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

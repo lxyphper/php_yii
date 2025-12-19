@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bootstrap",
+      "error_analysis": "将“bootstrap”字面拆解为“boot（靴）+strap（带）”，误理解为“靴带；鞋带”（词根/字面误导）",
+      "sentence": "After losing his job, he decided to **bootstrap** his own tech startup using only his savings.",
+      "options": {
+        "option": [
+          {
+            "definition": "自力更生；白手起家（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "靴带；鞋带（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "引导程序（计算机术语，名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "训练营（形近词“bootcamp”混淆）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to catch on",
+      "error_analysis": "学生易因“catch”（抓住）和“on”（在...上）的字面义误导，将“to catch on”错误理解为“抓住上面的东西”或“追上（进度）”。",
+      "sentence": "The new board game **caught on** quickly at the party—everyone wanted to play it.",
+      "options": {
+        "option": [
+          {
+            "definition": "（某事物）流行起来；（某人）理解，明白",
+            "iscorrect": true
+          },
+          {
+            "definition": "抓住上面的东西",
+            "iscorrect": false
+          },
+          {
+            "definition": "追上（进度或他人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "继续进行",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to mark",
+      "error_analysis": "学生易因形近词“market”（市场）干扰将“to mark”误理解为“去市场”，或因“mark”作名词“痕迹”的字面义误判为“留下痕迹”。",
+      "sentence": "Please **mark** the important dates on your calendar so you don’t forget them.",
+      "options": {
+        "option": [
+          {
+            "definition": "标注；标记",
+            "iscorrect": true
+          },
+          {
+            "definition": "去市场；做市场推广",
+            "iscorrect": false
+          },
+          {
+            "definition": "留下痕迹",
+            "iscorrect": false
+          },
+          {
+            "definition": "评论；发表意见",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

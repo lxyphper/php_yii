@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "herbivore",
+      "error_analysis": "学生易因\"herb\"（草本）词根误导将其误判为\"草本植物\"，或因形近\"herbicide\"（除草剂）混淆词义",
+      "sentence": "Unlike lions that eat meat, a rabbit is a typical **herbivore** that mainly feeds on grass and carrots.",
+      "options": {
+        "option": [
+          {
+            "definition": "食草动物",
+            "iscorrect": true
+          },
+          {
+            "definition": "草本植物",
+            "iscorrect": false
+          },
+          {
+            "definition": "除草剂",
+            "iscorrect": false
+          },
+          {
+            "definition": "食肉动物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

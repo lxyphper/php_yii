@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to breakfast",
+      "error_analysis": "学生易将\"break\"和\"fast\"的字面意思误组合，把\"to breakfast\"理解为\"快速打破\"或\"打破早餐\"。",
+      "sentence": "She likes **to breakfast** early to have more time for reading.",
+      "options": {
+        "option": [
+          {
+            "definition": "快速打破（如快速打碎某物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "打破早餐（如打碎早餐的食物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "做早餐（如准备早餐）",
+            "iscorrect": false
+          },
+          {
+            "definition": "吃早餐",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

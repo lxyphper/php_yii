@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "seller",
+      "error_analysis": "学生易混淆形近词'seller'与'cellar'（地窖），或误将其理解为'销售的物品'而非'销售者'",
+      "sentence": "The online **seller** offered a 10% discount to win more repeat customers.",
+      "options": {
+        "option": [
+          {
+            "definition": "地窖",
+            "iscorrect": false
+          },
+          {
+            "definition": "水手",
+            "iscorrect": false
+          },
+          {
+            "definition": "销售者；卖家",
+            "iscorrect": true
+          },
+          {
+            "definition": "销售的物品",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

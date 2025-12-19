@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "competitive",
+      "error_analysis": "学生易将\"competitive\"与形近词\"competent\"（有能力的）混淆，或误判为\"合作的\"（反义）。",
+      "sentence": "The tech industry is highly **competitive**, so companies must innovate to stay ahead.",
+      "options": {
+        "option": [
+          {
+            "definition": "有能力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有竞争力的；竞争激烈的",
+            "iscorrect": true
+          },
+          {
+            "definition": "合作的",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻松的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

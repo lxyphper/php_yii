@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to reboot",
+      "error_analysis": "学生易因“boot”的“靴子”义误导将“reboot”理解为“重新穿靴子”，或因形近与“rebuild”（重建）混淆。",
+      "sentence": "If your phone freezes, try to **reboot** it by holding the power button for 10 seconds.",
+      "options": {
+        "option": [
+          {
+            "definition": "重启（手机、电脑等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "重新穿靴子",
+            "iscorrect": false
+          },
+          {
+            "definition": "重建",
+            "iscorrect": false
+          },
+          {
+            "definition": "重新加载",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

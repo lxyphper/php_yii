@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "underneath",
+      "error_analysis": "学生易将“underneath”与“under”（泛泛的“在...下面”）或“below”（不接触的“下方”）混淆，忽略其“正下方/隐藏接触”的具体含义",
+      "sentence": "The cat was curled up **underneath** the blanket, hidden from view.",
+      "options": {
+        "option": [
+          {
+            "definition": "在...的正下方；隐藏在下面（强调接触或遮挡）",
+            "iscorrect": true
+          },
+          {
+            "definition": "在...下面（泛泛而言，如under的常用义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "在...下方（不接触，如below的位置关系）",
+            "iscorrect": false
+          },
+          {
+            "definition": "在...上面（如over的相反义）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

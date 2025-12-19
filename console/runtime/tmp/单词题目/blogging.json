@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "blogging",
+      "error_analysis": "学生易因形近词\"logging\"(伐木)或词根\"log\"(日志/伐木)的错误联想，将\"blogging\"误解为\"伐木\"或\"记日常日志\"",
+      "sentence": "She spends an hour every evening **blogging** about her travel experiences and sharing photos with her readers.",
+      "options": {
+        "option": [
+          {
+            "definition": "伐木",
+            "iscorrect": false
+          },
+          {
+            "definition": "写博客（的活动）",
+            "iscorrect": true
+          },
+          {
+            "definition": "记日常日志",
+            "iscorrect": false
+          },
+          {
+            "definition": "祝福",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

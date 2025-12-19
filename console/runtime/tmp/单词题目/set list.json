@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "set list",
+      "error_analysis": "中国学生易因“set”的“设置”或“固定”义，将“set list”误译为“设置列表”或“固定列表”，而非正确的“节目单”。",
+      "sentence": "The band revealed their **set list** for the upcoming concert, including all their hit songs.",
+      "options": {
+        "option": [
+          {
+            "definition": "（演出/活动的）节目单；曲目列表",
+            "iscorrect": true
+          },
+          {
+            "definition": "设置列表（如软件中的选项清单）",
+            "iscorrect": false
+          },
+          {
+            "definition": "固定列表（不可更改的清单）",
+            "iscorrect": false
+          },
+          {
+            "definition": "座位列表（如场馆的座位安排表）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

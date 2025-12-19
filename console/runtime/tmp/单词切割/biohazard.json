@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "biohazzard",
+      "biohezard",
+      "byohazard",
+      "biohasard"
+    ],
+    "correct_chunks": [
+      "bio",
+      "ha",
+      "zard"
+    ],
+    "distractor_chunks": [
+      "byo",
+      "he",
+      "zzard",
+      "sard",
+      "hazz",
+      "has"
+    ]
+  },
+  0
+]

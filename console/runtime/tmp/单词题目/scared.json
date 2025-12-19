@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "scared",
+      "error_analysis": "中国学生易因形近词“scar”（伤疤）将“scared”误判为“有伤疤的”，或混淆其与“scary”（引起惊吓的）的词义。",
+      "sentence": "The little girl was **scared** of the big dog barking at her.",
+      "options": {
+        "option": [
+          {
+            "definition": "害怕的；恐惧的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有伤疤的",
+            "iscorrect": false
+          },
+          {
+            "definition": "引起惊吓的",
+            "iscorrect": false
+          },
+          {
+            "definition": "受伤的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

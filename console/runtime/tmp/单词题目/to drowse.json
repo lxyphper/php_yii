@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to drowse",
+      "error_analysis": "学生易因形近词'drown'(淹死)、'browse'(浏览)或'droop'(下垂)误判'to drowse'的含义",
+      "sentence": "After lunch, she often **drowses** on the sofa while watching TV.",
+      "options": {
+        "option": [
+          {
+            "definition": "打盹，犯困",
+            "iscorrect": true
+          },
+          {
+            "definition": "淹死，淹没",
+            "iscorrect": false
+          },
+          {
+            "definition": "浏览，翻阅",
+            "iscorrect": false
+          },
+          {
+            "definition": "下垂，耷拉",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

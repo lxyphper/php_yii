@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to sign out",
+      "error_analysis": "学生易因\"sign\"(签名)和\"out\"(出去)的字面意思误导，将\"to sign out\"错误理解为\"签名离开\"或\"签署外出文件\"，而忽略其\"注销（系统/账户）\"的核心含义。",
+      "sentence": "Before you leave the computer lab, make sure to **sign out** of your account to protect your privacy.",
+      "options": {
+        "option": [
+          {
+            "definition": "签名离开某个地方",
+            "iscorrect": false
+          },
+          {
+            "definition": "注销（系统或账户）",
+            "iscorrect": true
+          },
+          {
+            "definition": "注册新账户",
+            "iscorrect": false
+          },
+          {
+            "definition": "结束工作任务",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

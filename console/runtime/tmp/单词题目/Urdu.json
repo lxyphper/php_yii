@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Urdu",
+      "error_analysis": "学生易因形近词\"urban\"（城市的）干扰，将\"Urdu\"误判为与\"城市\"相关的形容词，或因不认识而猜测为其他无关事物。",
+      "sentence": "Many people in Pakistan use **Urdu** as their first language, and it's also one of the official languages of India.",
+      "options": {
+        "option": [
+          {
+            "definition": "城市的；都市的",
+            "iscorrect": false
+          },
+          {
+            "definition": "铀矿；铀元素",
+            "iscorrect": false
+          },
+          {
+            "definition": "催促；强烈欲望",
+            "iscorrect": false
+          },
+          {
+            "definition": "乌尔都语（巴基斯坦和印度的官方/少数民族语言）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

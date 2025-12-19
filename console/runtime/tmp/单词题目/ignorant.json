@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ignorant",
+      "error_analysis": "将“ignorant”误理解为“忽视的”（来自形近词ignore的联想）或通过词根“ignor-”错误推导为“忽视的”而非“无知的”",
+      "sentence": "She was **ignorant** of the fact that the meeting had been canceled, so she waited for an hour.",
+      "options": {
+        "option": [
+          {
+            "definition": "无知的；不懂的",
+            "iscorrect": true
+          },
+          {
+            "definition": "忽视的；不理睬的",
+            "iscorrect": false
+          },
+          {
+            "definition": "点燃的；激动的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无辜的；清白的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

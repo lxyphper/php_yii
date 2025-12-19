@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "toggle button",
+      "error_analysis": "中国学生易因“toggle”与“token”（代币）形近而误解为“代币按钮”，或因“toggle”的动作联想错误理解为“扭转按钮”。",
+      "sentence": "In the app's settings, you can find a **toggle button** to switch between notifications being on or off.",
+      "options": {
+        "option": [
+          {
+            "definition": "切换按钮",
+            "iscorrect": true
+          },
+          {
+            "definition": "代币按钮",
+            "iscorrect": false
+          },
+          {
+            "definition": "扭转按钮",
+            "iscorrect": false
+          },
+          {
+            "definition": "拉按钮",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

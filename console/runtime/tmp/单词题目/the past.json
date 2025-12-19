@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "the past",
+      "error_analysis": "易因形近词“pass”（通过）误解为“通过的事物”，或字面拆解为“那个过去的东西”，而非“过去的时间”这一核心抽象含义。",
+      "sentence": "She often thinks about **the past** and how her life has changed since then.",
+      "options": {
+        "option": [
+          {
+            "definition": "过去的时间（尤指已发生的事或经历）",
+            "iscorrect": true
+          },
+          {
+            "definition": "通过的事物（如传递的物品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "那个过去的东西（如旧物品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "未来的计划（如即将做的事）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

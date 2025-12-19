@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lightness",
+      "error_analysis": "学生易根据\"light\"的\"光线\"或\"轻\"的含义，误将\"lightness\"理解为\"亮度\"或\"轻盈\"，忽略其\"轻松；明快\"的核心义。",
+      "sentence": "The party had a wonderful **lightness** to it, with everyone laughing and dancing freely.",
+      "options": {
+        "option": [
+          {
+            "definition": "亮度",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻盈",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻松；明快",
+            "iscorrect": true
+          },
+          {
+            "definition": "浅色",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "prized",
+      "error_analysis": "学生易混淆形近词“prised”（撬开）的含义，或误将“prized”理解为“有奖品的”（来自“prize”名词义的字面推导）",
+      "sentence": "Her grandmother’s ring is one of her most **prized** possessions, as it has been passed down through three generations.",
+      "options": {
+        "option": [
+          {
+            "definition": "珍贵的；珍视的",
+            "iscorrect": true
+          },
+          {
+            "definition": "撬开的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有奖品的；获奖的",
+            "iscorrect": false
+          },
+          {
+            "definition": "价格昂贵的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

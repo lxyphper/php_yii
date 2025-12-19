@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lobster",
+      "error_analysis": "学生易因“lob”（投掷）+“-ster”（指人）的词根误导将其理解为“投掷者”，或与形近词“roster”（花名册）混淆。",
+      "sentence": "We ordered grilled **lobster** with butter sauce for dinner at the seaside restaurant.",
+      "options": {
+        "option": [
+          {
+            "definition": "投掷者",
+            "iscorrect": false
+          },
+          {
+            "definition": "花名册",
+            "iscorrect": false
+          },
+          {
+            "definition": "龙虾",
+            "iscorrect": true
+          },
+          {
+            "definition": "牡蛎",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

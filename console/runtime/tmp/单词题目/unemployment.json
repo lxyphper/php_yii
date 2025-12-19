@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unemployment",
+      "error_analysis": "学生易因形近词employment（就业）或词根un-+employment过度直译，将unemployment误判为“就业”或“不雇用的行为”。",
+      "sentence": "The rise in **unemployment** has led to more people seeking government help.",
+      "options": {
+        "option": [
+          {
+            "definition": "就业（状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "失业（状态）",
+            "iscorrect": true
+          },
+          {
+            "definition": "不雇用的行为",
+            "iscorrect": false
+          },
+          {
+            "definition": "不可雇用的人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

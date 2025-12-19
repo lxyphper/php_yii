@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "narrow",
+      "error_analysis": "学生易因形近词“arrow”（箭）误将“narrow”理解为“箭”或“快速的”，或因字面猜测误判为“小的”而非核心义“窄的”",
+      "sentence": "The old path through the woods is so **narrow** that only one person can walk on it at a time.",
+      "options": {
+        "option": [
+          {
+            "definition": "箭",
+            "iscorrect": false
+          },
+          {
+            "definition": "小的",
+            "iscorrect": false
+          },
+          {
+            "definition": "近的",
+            "iscorrect": false
+          },
+          {
+            "definition": "窄的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

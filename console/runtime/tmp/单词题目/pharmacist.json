@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pharmacist",
+      "error_analysis": "中国学生易将\"pharmacist\"与形近词\"physicist\"(物理学家)混淆，或误判为\"医生\"(因与药物相关但职业定位不同)",
+      "sentence": "When I went to the drugstore to buy cough syrup, the **pharmacist** asked if I had any allergies to medications before giving me the product.",
+      "options": {
+        "option": [
+          {
+            "definition": "药剂师",
+            "iscorrect": true
+          },
+          {
+            "definition": "物理学家",
+            "iscorrect": false
+          },
+          {
+            "definition": "医生",
+            "iscorrect": false
+          },
+          {
+            "definition": "护士",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

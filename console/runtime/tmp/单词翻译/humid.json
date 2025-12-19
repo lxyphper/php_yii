@@ -1,0 +1,36 @@
+[
+  {
+    "translations": {
+      "item": [
+        {
+          "original": "damp",
+          "translated": "潮湿的"
+        },
+        {
+          "original": "sticky",
+          "translated": "黏腻的"
+        },
+        {
+          "original": "muggy",
+          "translated": {
+            "item": [
+              {
+                "original": "humic acid",
+                "translated": "腐植酸"
+              },
+              {
+                "original": "humidifier",
+                "translated": "加湿器"
+              },
+              {
+                "original": "tumid",
+                "translated": "肿胀的"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  0
+]

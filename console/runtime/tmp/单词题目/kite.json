@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "kite",
+      "error_analysis": "学生易因形近词“kit”（工具包）或“knee”（膝盖）的干扰，将“kite”误判为“工具包”或“膝盖”",
+      "sentence": "On sunny weekends, many families go to the beach to fly a **kite** together.",
+      "options": {
+        "option": [
+          {
+            "definition": "风筝",
+            "iscorrect": true
+          },
+          {
+            "definition": "工具包",
+            "iscorrect": false
+          },
+          {
+            "definition": "膝盖",
+            "iscorrect": false
+          },
+          {
+            "definition": "小猫",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

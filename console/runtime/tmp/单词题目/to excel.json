@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to excel",
+      "error_analysis": "混淆形近词“except”（除了）或误用词根“cell”（细胞）推导为无关义",
+      "sentence": "She has always managed to **excel** in mathematics, even when the topics get harder.",
+      "options": {
+        "option": [
+          {
+            "definition": "擅长；突出",
+            "iscorrect": true
+          },
+          {
+            "definition": "除了；不包括",
+            "iscorrect": false
+          },
+          {
+            "definition": "排出细胞；释放细胞",
+            "iscorrect": false
+          },
+          {
+            "definition": "使优秀；改善",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

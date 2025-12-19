@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "social inequality",
+      "error_analysis": "学生易因\"inequality\"的词根\"equ\"（平等）误导，将\"social inequality\"误理解为\"社会差异\"或\"社会不平均\"。",
+      "sentence": "The government has launched several policies to address **social inequality** by reducing the gap between the rich and the poor.",
+      "options": {
+        "option": [
+          {
+            "definition": "社会不平等",
+            "iscorrect": true
+          },
+          {
+            "definition": "社会差异",
+            "iscorrect": false
+          },
+          {
+            "definition": "社会不平均",
+            "iscorrect": false
+          },
+          {
+            "definition": "社会低效率",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

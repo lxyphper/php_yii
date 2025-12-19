@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to swig",
+      "error_analysis": "中国学生易因形近词“swim”（游泳）或“swing”（摆动）误判“to swig”的含义",
+      "sentence": "After a long run, he grabbed his water bottle and **swigged** the entire contents in one go.",
+      "options": {
+        "option": [
+          {
+            "definition": "游泳",
+            "iscorrect": false
+          },
+          {
+            "definition": "大口喝；痛饮",
+            "iscorrect": true
+          },
+          {
+            "definition": "摆动；摇晃",
+            "iscorrect": false
+          },
+          {
+            "definition": "开关；转换",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stormy",
+      "error_analysis": "学生易因形近词\"story\"误解为\"故事的\"，或因词根\"storm\"过度直译忽略其比喻义\"激烈的\"。",
+      "sentence": "The debate between the two candidates got **stormy** as they disagreed on almost every issue.",
+      "options": {
+        "option": [
+          {
+            "definition": "故事的",
+            "iscorrect": false
+          },
+          {
+            "definition": "充满风暴的",
+            "iscorrect": false
+          },
+          {
+            "definition": "激烈的",
+            "iscorrect": true
+          },
+          {
+            "definition": "楼层的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

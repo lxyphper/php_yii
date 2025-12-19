@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cashew",
+      "error_analysis": "学生易因形近词\"cash\"（现金）的干扰，误以为\"cashew\"与金钱相关",
+      "sentence": "She added some roasted **cashews** to the salad for extra crunch.",
+      "options": {
+        "option": [
+          {
+            "definition": "腰果",
+            "iscorrect": true
+          },
+          {
+            "definition": "现金券",
+            "iscorrect": false
+          },
+          {
+            "definition": "砍柴工具",
+            "iscorrect": false
+          },
+          {
+            "definition": "随意的人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

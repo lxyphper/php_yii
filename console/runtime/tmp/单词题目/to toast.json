@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to toast",
+      "error_analysis": "学生易混淆形近词'taste'(品尝)或误将'to toast'仅理解为'烤面包',忽略'举杯敬酒'的核心义",
+      "sentence": "At the wedding reception, the best man stood up to **toast** the newlyweds.",
+      "options": {
+        "option": [
+          {
+            "definition": "品尝",
+            "iscorrect": false
+          },
+          {
+            "definition": "烤面包",
+            "iscorrect": false
+          },
+          {
+            "definition": "举杯敬酒",
+            "iscorrect": true
+          },
+          {
+            "definition": "祝贺",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

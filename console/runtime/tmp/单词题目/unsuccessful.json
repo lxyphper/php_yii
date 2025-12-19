@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unsuccessful",
+      "error_analysis": "学生易混淆形近词“unfulfilled”（不满足的）或“unsuspected”（未被怀疑的），或因词根过度直译忽略“行动未成功”的核心义",
+      "sentence": "Despite practicing for weeks, her attempt to pass the driving test was **unsuccessful**.",
+      "options": {
+        "option": [
+          {
+            "definition": "不成功的；未达成预期结果的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不满足的；未实现愿望的",
+            "iscorrect": false
+          },
+          {
+            "definition": "没有成功能力的；缺乏成功天赋的",
+            "iscorrect": false
+          },
+          {
+            "definition": "未被怀疑的；不被猜忌的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

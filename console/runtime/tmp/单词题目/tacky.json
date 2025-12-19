@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tacky",
+      "error_analysis": "学生易因形近词`sticky`（粘的）或词根`tack`（钉子）联想，误将`tacky`理解为“粘的”或“固定的”。",
+      "sentence": "The decorations at the party were so **tacky**—neon pink balloons everywhere and a giant plastic cake on the table.",
+      "options": {
+        "option": [
+          {
+            "definition": "俗气的；品味差的",
+            "iscorrect": true
+          },
+          {
+            "definition": "粘的；有粘性的",
+            "iscorrect": false
+          },
+          {
+            "definition": "固定的；用钉子钉的",
+            "iscorrect": false
+          },
+          {
+            "definition": "锋利的；尖锐的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "system",
+      "error_analysis": "易因形近词“stem”（茎；干）的干扰或对“system”核心词义“系统”的泛化理解（如“结构”）而误判",
+      "sentence": "The new **system** for handling customer complaints has greatly improved our service quality.",
+      "options": {
+        "option": [
+          {
+            "definition": "系统",
+            "iscorrect": true
+          },
+          {
+            "definition": "茎；干",
+            "iscorrect": false
+          },
+          {
+            "definition": "结构",
+            "iscorrect": false
+          },
+          {
+            "definition": "计划",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

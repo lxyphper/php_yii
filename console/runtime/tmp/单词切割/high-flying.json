@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "highflying",
+      "hig-flying",
+      "high-fliing",
+      "high-flyying"
+    ],
+    "correct_chunks": [
+      "high-",
+      "fly",
+      "ing"
+    ],
+    "distractor_chunks": [
+      "hig-",
+      "fli",
+      "flyy",
+      "ig-"
+    ]
+  },
+  0
+]

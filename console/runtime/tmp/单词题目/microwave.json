@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "microwave",
+      "error_analysis": "学生因拆分\"micro-（微小的）+wave（波）\"错误理解为\"微波（一种电磁波）\"，忽略其最常用的\"微波炉\"义",
+      "sentence": "I forgot to take the soup out of the **microwave** before it started beeping.",
+      "options": {
+        "option": [
+          {
+            "definition": "微波炉（一种用于加热食物的厨房电器）",
+            "iscorrect": true
+          },
+          {
+            "definition": "微波（一种高频电磁波）",
+            "iscorrect": false
+          },
+          {
+            "definition": "显微镜（用于观察微小物体的仪器）",
+            "iscorrect": false
+          },
+          {
+            "definition": "微型波浪（微小的波浪）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

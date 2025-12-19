@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to scurry",
+      "error_analysis": "学生易因形近词“scare”（惊吓）和“hurry”（匆忙）的拼写相似，将“scurry”误理解为“惊吓”或“匆忙”（忽略“跑”的动作）。",
+      "sentence": "The squirrels **scurried** up the tree when they saw the dog coming.",
+      "options": {
+        "option": [
+          {
+            "definition": "匆忙跑；急赶",
+            "iscorrect": true
+          },
+          {
+            "definition": "惊吓；使害怕",
+            "iscorrect": false
+          },
+          {
+            "definition": "匆忙；赶紧",
+            "iscorrect": false
+          },
+          {
+            "definition": "缓慢爬；踱步",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

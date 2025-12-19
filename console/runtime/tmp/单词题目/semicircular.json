@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "semicircular",
+      "error_analysis": "学生易将`circular`的“循环的”义项代入，误解为“半循环的”，或忽略`semi-`前缀直接理解为“圆形的”",
+      "sentence": "The park has a **semicircular** fountain that curves gently along the lake shore, offering a cozy place for people to sit and relax.",
+      "options": {
+        "option": [
+          {
+            "definition": "半圆形的",
+            "iscorrect": true
+          },
+          {
+            "definition": "半循环的",
+            "iscorrect": false
+          },
+          {
+            "definition": "圆形的",
+            "iscorrect": false
+          },
+          {
+            "definition": "分号的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

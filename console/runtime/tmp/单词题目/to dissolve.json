@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to dissolve",
+      "error_analysis": "易因形近词“resolve”（解决）混淆词义，或词根“solv”（松开）过度推导为“消散”",
+      "sentence": "Please wait until the tablet **dissolves** completely in the glass of water before drinking.",
+      "options": {
+        "option": [
+          {
+            "definition": "解决（to find a solution to a problem）",
+            "iscorrect": false
+          },
+          {
+            "definition": "溶解（to become part of a liquid and no longer be seen）",
+            "iscorrect": true
+          },
+          {
+            "definition": "消散（to disappear gradually）",
+            "iscorrect": false
+          },
+          {
+            "definition": "融化（to turn from solid to liquid by heat）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

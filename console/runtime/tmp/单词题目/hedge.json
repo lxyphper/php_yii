@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hedge",
+      "error_analysis": "学生易因形近词\"edge\"（边缘）的干扰，将\"hedge\"误判为\"边缘\"或\"棱角\"",
+      "sentence": "The gardener planted a row of roses along the **hedge** to separate the two yards.",
+      "options": {
+        "option": [
+          {
+            "definition": "树篱（围地的灌木或矮树篱）",
+            "iscorrect": true
+          },
+          {
+            "definition": "边缘；棱角",
+            "iscorrect": false
+          },
+          {
+            "definition": "刺猬；刺状物",
+            "iscorrect": false
+          },
+          {
+            "definition": "隐藏；掩盖",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

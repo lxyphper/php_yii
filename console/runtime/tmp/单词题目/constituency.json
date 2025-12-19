@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "constituency",
+      "error_analysis": "学生易因形近词\"consistency\"(一致性)混淆，或因词根\"constituent\"(成分)误判为\"组成部分\"",
+      "sentence": "The local MP spends most weekends meeting with residents in her **constituency** to discuss community issues.",
+      "options": {
+        "option": [
+          {
+            "definition": "选区；选民群体",
+            "iscorrect": true
+          },
+          {
+            "definition": "一致性；连贯性",
+            "iscorrect": false
+          },
+          {
+            "definition": "组成部分；构成要素",
+            "iscorrect": false
+          },
+          {
+            "definition": "宪法条款；章程内容",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

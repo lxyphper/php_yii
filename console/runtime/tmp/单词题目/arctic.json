@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Arctic",
+      "error_analysis": "中国学生易将'Arctic'与形近词'article'（文章）混淆，或通过词根'arc'（弧）错误联想为'弧形的'。",
+      "sentence": "Polar bears are well adapted to the **Arctic** climate, where temperatures can drop to -40°C in winter.",
+      "options": {
+        "option": [
+          {
+            "definition": "北极的；北极地区的",
+            "iscorrect": true
+          },
+          {
+            "definition": "文章；论文",
+            "iscorrect": false
+          },
+          {
+            "definition": "弧形的；弯曲的",
+            "iscorrect": false
+          },
+          {
+            "definition": "南极的；南极地区的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

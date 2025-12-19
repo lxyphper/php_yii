@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "route",
+      "error_analysis": "学生易因形近词“root”（根）的同音形近混淆，或字面拆分“oute”联想到“out”（出口）而误判“route”的核心义。",
+      "sentence": "The GPS suggested a shorter **route** to the airport to avoid traffic.",
+      "options": {
+        "option": [
+          {
+            "definition": "路线；路径",
+            "iscorrect": true
+          },
+          {
+            "definition": "根；根源",
+            "iscorrect": false
+          },
+          {
+            "definition": "出口；出路",
+            "iscorrect": false
+          },
+          {
+            "definition": "常规；惯例",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "common_misspellings": [
+      "bras instrument",
+      "drass instrument",
+      "brass instument",
+      "brass enstrument",
+      "brass insturment"
+    ],
+    "correct_chunks": [
+      "br",
+      "ass",
+      "in",
+      "str",
+      "ument"
+    ],
+    "distractor_chunks": [
+      "as",
+      "dr",
+      "st",
+      "en",
+      "urment"
+    ]
+  },
+  0
+]

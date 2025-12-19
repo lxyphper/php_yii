@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "headache",
+      "error_analysis": "学生易因形近词“headline”（标题）的拼写相似，误将“headache”理解为“标题”而非其核心义“头疼”。",
+      "sentence": "My **headache** is so bad that I can't focus on my work right now.",
+      "options": {
+        "option": [
+          {
+            "definition": "头疼",
+            "iscorrect": true
+          },
+          {
+            "definition": "标题",
+            "iscorrect": false
+          },
+          {
+            "definition": "头部的伤口",
+            "iscorrect": false
+          },
+          {
+            "definition": "进展",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

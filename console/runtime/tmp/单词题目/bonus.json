@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bonus",
+      "error_analysis": "中国学生易因形近词“bounce”（弹跳）或词根联想“好的”而误解“bonus”为非“奖金/额外奖励”的意思",
+      "sentence": "The company gave all employees a **bonus** for meeting the annual sales target.",
+      "options": {
+        "option": [
+          {
+            "definition": "奖金；额外奖励",
+            "iscorrect": true
+          },
+          {
+            "definition": "弹跳；反弹",
+            "iscorrect": false
+          },
+          {
+            "definition": "好的；优秀的",
+            "iscorrect": false
+          },
+          {
+            "definition": "骨头；骨骼",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

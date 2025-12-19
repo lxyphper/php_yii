@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to champion",
+      "error_analysis": "将动词误解为\"成为冠军\"或\"赢得冠军\"，源于名词\"champion\"（冠军）的字面误导",
+      "sentence": "The organization has long **championed** the rights of marginalized communities through advocacy and policy reform.",
+      "options": {
+        "option": [
+          {
+            "definition": "支持；倡导",
+            "iscorrect": true
+          },
+          {
+            "definition": "成为冠军；赢得冠军",
+            "iscorrect": false
+          },
+          {
+            "definition": "击败（对手）；战胜",
+            "iscorrect": false
+          },
+          {
+            "definition": "羡慕；崇拜（强者）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

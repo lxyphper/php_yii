@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "neutron star",
+      "error_analysis": "学生易将“neutron”误与“neutral”（中性的）混淆或与“new”（新的）形近，导致错选“中性星”或“新星”。",
+      "sentence": "A **neutron star** is the extremely dense remnant left after a massive star explodes as a supernova.",
+      "options": {
+        "option": [
+          {
+            "definition": "中子星",
+            "iscorrect": true
+          },
+          {
+            "definition": "中性星",
+            "iscorrect": false
+          },
+          {
+            "definition": "新星",
+            "iscorrect": false
+          },
+          {
+            "definition": "星云",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

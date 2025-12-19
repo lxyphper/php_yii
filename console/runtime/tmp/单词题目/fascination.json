@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fascination",
+      "error_analysis": "学生易因形近词\"fashion\"(时尚)产生词义混淆，或因词根\"fascinare\"(施魔法)误判为负面的\"迷惑\"",
+      "sentence": "Her **fascination** with ancient Egypt led her to study archaeology at university.",
+      "options": {
+        "option": [
+          {
+            "definition": "时尚",
+            "iscorrect": false
+          },
+          {
+            "definition": "迷惑",
+            "iscorrect": false
+          },
+          {
+            "definition": "着迷；魅力",
+            "iscorrect": true
+          },
+          {
+            "definition": "功能",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to sniff",
+      "error_analysis": "学生易因形近词'snake'（蛇）误将'to sniff'理解为'爬行'，或因'sn-'词根联想误理解为'偷偷看'",
+      "sentence": "The little girl bent down to **sniff** the roses in the garden, smiling at their sweet scent.",
+      "options": {
+        "option": [
+          {
+            "definition": "用鼻子吸气；嗅，闻",
+            "iscorrect": true
+          },
+          {
+            "definition": "爬行；像蛇一样移动",
+            "iscorrect": false
+          },
+          {
+            "definition": "偷偷看；偷听",
+            "iscorrect": false
+          },
+          {
+            "definition": "打喷嚏；打哈欠",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

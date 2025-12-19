@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bulbous",
+      "error_analysis": "学生易混淆形近词\"bulky\"(庞大的)或误将词根\"bulb\"(球茎)推导为\"有球茎的\"",
+      "sentence": "The old man had a **bulbous** nose that stood out prominently on his face.",
+      "options": {
+        "option": [
+          {
+            "definition": "圆胖的；球茎状的",
+            "iscorrect": true
+          },
+          {
+            "definition": "庞大的；笨重的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有球茎的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有弹性的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

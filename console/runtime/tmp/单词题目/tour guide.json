@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tour guide",
+      "error_analysis": "将“tour guide”误理解为“旅游指南”（物品）而非“导游”（带领游客的人员）",
+      "sentence": "Our **tour guide** will meet us at the hotel lobby at 9 AM and show us around the ancient palace.",
+      "options": {
+        "option": [
+          {
+            "definition": "旅游指南（书籍或手册）",
+            "iscorrect": false
+          },
+          {
+            "definition": "导游（带领游客参观的人员）",
+            "iscorrect": true
+          },
+          {
+            "definition": "旅行团组织者（负责安排行程的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "游客信息咨询台（提供旅游信息的服务点）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

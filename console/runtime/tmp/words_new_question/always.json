@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "always",
+      "error_analysis": "学生易因形近词“already”（已经）混淆“always”的含义，或因“all+ways”字面误导理解为“所有道路”。",
+      "sentence": "My mom **always** reminds me to take an umbrella when it rains.",
+      "options": {
+        "option": [
+          {
+            "definition": "总是；永远",
+            "iscorrect": true
+          },
+          {
+            "definition": "已经",
+            "iscorrect": false
+          },
+          {
+            "definition": "所有道路",
+            "iscorrect": false
+          },
+          {
+            "definition": "经常（指较高频率但非必然）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

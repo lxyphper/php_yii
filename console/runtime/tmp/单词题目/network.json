@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "network",
+      "error_analysis": "学生易因词根拆分（net+work）错误理解为“网的工作”，或误将其核心名词含义（网络系统）混淆为“网络工作”（动作）。",
+      "sentence": "The company has built a large computer **network** to connect all its offices around the world.",
+      "options": {
+        "option": [
+          {
+            "definition": "网络（互相连接的系统）",
+            "iscorrect": true
+          },
+          {
+            "definition": "网的工作",
+            "iscorrect": false
+          },
+          {
+            "definition": "网络工作（如从事网络相关的工作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "网络设备（如路由器、交换机等）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "emigre",
+      "error_analysis": "易混淆形近词'emigrant'（普通移民）及忽略'政治流亡'的特定含义，或误将'gre'联想为'green'导致词义偏差",
+      "sentence": "After the military coup, many **emigres** from the authoritarian regime fled to neighboring countries to avoid political persecution.",
+      "options": {
+        "option": [
+          {
+            "definition": "（因政治原因的）流亡者；离开本国的移民",
+            "iscorrect": true
+          },
+          {
+            "definition": "进入他国定居的普通移民",
+            "iscorrect": false
+          },
+          {
+            "definition": "因工作原因迁移的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "绿色环保活动人士",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

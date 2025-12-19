@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to tip",
+      "error_analysis": "学生易将\"to tip\"（给小费）误解为\"倾斜\"（字面推导自\"尖端\"）或\"提示\"（名词义引申）",
+      "sentence": "The customer smiled and **tipped** the barista a few coins for the great coffee.",
+      "options": {
+        "option": [
+          {
+            "definition": "给小费",
+            "iscorrect": true
+          },
+          {
+            "definition": "倾斜",
+            "iscorrect": false
+          },
+          {
+            "definition": "提示",
+            "iscorrect": false
+          },
+          {
+            "definition": "到达顶部",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

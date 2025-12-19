@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unobservant",
+      "error_analysis": "学生易混淆形近词unobtrusive（不引人注目的）或通过词根误推为unobservable（无法观察到的），从而误解unobservant的含义",
+      "sentence": "She walked past the new café three times without noticing it—she’s so **unobservant** when she’s lost in thought.",
+      "options": {
+        "option": [
+          {
+            "definition": "不注意的；观察力差的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不引人注目的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无法被观察到的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不遵守规则的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

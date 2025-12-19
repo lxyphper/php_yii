@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "veteran",
+      "error_analysis": "学生易因形近词\"veterinary\"（兽医的）误解为\"兽医\"，或因词根\"veter\"（老的）错误联想为\"老人\"而非\"有经验的人/老兵\"",
+      "sentence": "As a **veteran** of the film industry, he knows all the tricks of the trade and can solve any problem on set quickly.",
+      "options": {
+        "option": [
+          {
+            "definition": "有经验的人；老兵",
+            "iscorrect": true
+          },
+          {
+            "definition": "兽医",
+            "iscorrect": false
+          },
+          {
+            "definition": "老人",
+            "iscorrect": false
+          },
+          {
+            "definition": "新手",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to stare",
+      "error_analysis": "学生易因形近词“star”（明星/星星）误联想为“崇拜地看”或“闪烁”，或因词根误导认为与“站着”相关。",
+      "sentence": "The little girl couldn’t help **staring** at the colorful cake in the window.",
+      "options": {
+        "option": [
+          {
+            "definition": "盯着看；凝视",
+            "iscorrect": true
+          },
+          {
+            "definition": "崇拜地看（如对明星）",
+            "iscorrect": false
+          },
+          {
+            "definition": "站着看",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速瞥一眼",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

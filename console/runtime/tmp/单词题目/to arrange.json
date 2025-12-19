@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to arrange",
+      "error_analysis": "学生易因形近词“arrest”（逮捕）或词根“range”（范围）误解“to arrange”的词义",
+      "sentence": "Could you help me **arrange** the chairs for the meeting tomorrow?",
+      "options": {
+        "option": [
+          {
+            "definition": "逮捕",
+            "iscorrect": false
+          },
+          {
+            "definition": "划定范围",
+            "iscorrect": false
+          },
+          {
+            "definition": "安排；整理",
+            "iscorrect": true
+          },
+          {
+            "definition": "同意",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

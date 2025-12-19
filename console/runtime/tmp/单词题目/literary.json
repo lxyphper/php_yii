@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "literary",
+      "error_analysis": "学生易混淆形近词\"literal\"（字面的），或误将\"literary\"理解为\"字母的/信件的\"（来自\"letter\"的词根联想）",
+      "sentence": "The author was invited to speak at a **literary** festival celebrating classic works of fiction and poetry.",
+      "options": {
+        "option": [
+          {
+            "definition": "文学的；文学上的",
+            "iscorrect": true
+          },
+          {
+            "definition": "字面的；逐字的",
+            "iscorrect": false
+          },
+          {
+            "definition": "字母的；信件的",
+            "iscorrect": false
+          },
+          {
+            "definition": "读写能力的；有文化的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

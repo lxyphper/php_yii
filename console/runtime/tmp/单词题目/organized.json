@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "organized",
+      "error_analysis": "学生易因形近词\"organic\"(有机的)产生联想，或因词根\"organ\"(器官)误判为\"与器官相关的\"",
+      "sentence": "She is so **organized** that she always keeps her desk tidy and finishes tasks on time.",
+      "options": {
+        "option": [
+          {
+            "definition": "有组织的；有条理的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有机的；天然的",
+            "iscorrect": false
+          },
+          {
+            "definition": "与器官相关的；有器官的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有活力的；精力充沛的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

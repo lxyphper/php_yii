@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to delete",
+      "error_analysis": "学生易因形近词\"deliver\"(交付)或\"detail\"(细节)混淆\"delete\"的核心词义\"删除\"",
+      "sentence": "You can **delete** the unwanted messages from your chat history to keep it clean.",
+      "options": {
+        "option": [
+          {
+            "definition": "删除",
+            "iscorrect": true
+          },
+          {
+            "definition": "交付",
+            "iscorrect": false
+          },
+          {
+            "definition": "细节",
+            "iscorrect": false
+          },
+          {
+            "definition": "耗尽",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

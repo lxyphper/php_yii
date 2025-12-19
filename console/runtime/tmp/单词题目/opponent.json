@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "opponent",
+      "error_analysis": "学生易因形近词“component”（成分）混淆，或因词根“op-”（反对）将“opponent”误判为“相反的人或事物”而非“对手”。",
+      "sentence": "The football team is preparing hard to defeat their **opponent** in the upcoming match.",
+      "options": {
+        "option": [
+          {
+            "definition": "成分；组成部分",
+            "iscorrect": false
+          },
+          {
+            "definition": "相反的人或事物",
+            "iscorrect": false
+          },
+          {
+            "definition": "对手（比赛中的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "合作者；伙伴",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

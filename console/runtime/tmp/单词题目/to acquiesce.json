@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to acquiesce",
+      "error_analysis": "学生易因形近词\"acquire\"(获得)误判为\"获得\"，或因词根\"quiescere\"(安静)过度直译为\"安静下来/沉默\"",
+      "sentence": "After hours of negotiation, the team leader reluctantly agreed to **acquiesce** to the client's demands to change the project timeline.",
+      "options": {
+        "option": [
+          {
+            "definition": "默许，顺从",
+            "iscorrect": true
+          },
+          {
+            "definition": "获得，取得",
+            "iscorrect": false
+          },
+          {
+            "definition": "安静下来，沉默",
+            "iscorrect": false
+          },
+          {
+            "definition": "反对，拒绝",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

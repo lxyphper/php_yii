@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "criticism",
+      "error_analysis": "中国学生易因形近词“crisis”（危机）混淆“criticism”的词义，或误将“-ism”后缀理解为“主义”而偏离“批评”核心义。",
+      "sentence": "The new movie received mixed **criticism** from reviewers—some loved it, while others found it boring.",
+      "options": {
+        "option": [
+          {
+            "definition": "批评；评论",
+            "iscorrect": true
+          },
+          {
+            "definition": "危机；危难",
+            "iscorrect": false
+          },
+          {
+            "definition": "批判主义；批评学说",
+            "iscorrect": false
+          },
+          {
+            "definition": "评论家的职业；批评家身份",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

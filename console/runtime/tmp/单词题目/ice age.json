@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ice age",
+      "error_analysis": "学生易因字面直译将“ice age”误解为“冰的年龄”，或因形近词（如“ice rage”）误判为“冰的愤怒”",
+      "sentence": "Scientists believe the last **ice age** ended about 11,700 years ago, when glaciers began to melt and temperatures rose.",
+      "options": {
+        "option": [
+          {
+            "definition": "冰河时代（地质时期的大规模冰期）",
+            "iscorrect": true
+          },
+          {
+            "definition": "冰的年龄（冰块存在的时间长度）",
+            "iscorrect": false
+          },
+          {
+            "definition": "冰的愤怒（冰的狂暴状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "寒冷的季节（如冬季）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

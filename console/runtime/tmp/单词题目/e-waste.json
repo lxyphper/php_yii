@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "e-waste",
+      "error_analysis": "学生易将“e-”误判为“environmental”（环境的）或“internet”（网络的），从而将“e-waste”误解为“环境废物”或“网络垃圾”",
+      "sentence": "Many countries have implemented policies to recycle **e-waste** like old smartphones and laptops to reduce environmental pollution.",
+      "options": {
+        "option": [
+          {
+            "definition": "环境废物（如塑料、纸张等对环境有害的废物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "网络垃圾（如网上的 spam、无用信息等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "易处理的废物（如可快速降解的垃圾）",
+            "iscorrect": false
+          },
+          {
+            "definition": "电子垃圾（如旧手机、电脑等电子设备的废物）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

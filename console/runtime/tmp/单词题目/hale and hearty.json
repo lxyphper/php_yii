@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hale and hearty",
+      "error_analysis": "学生易因与“half-hearted”结构、发音相似误判为“不热心的”，或因“heart”词根推导为“内心强大的”",
+      "sentence": "My 90-year-old neighbor walks three miles every day and is always **hale and hearty** when we meet.",
+      "options": {
+        "option": [
+          {
+            "definition": "（尤指老人）精神矍铄的；健康的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不热心的；敷衍的",
+            "iscorrect": false
+          },
+          {
+            "definition": "内心强大的",
+            "iscorrect": false
+          },
+          {
+            "definition": "热情友好的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Google",
+      "error_analysis": "中国学生易因形近词“goggle”（护目镜）或与“goose”（鹅）等简单词汇拼写混淆而误解“Google”的含义",
+      "sentence": "If you don’t know the answer, you can **Google** it on your phone.",
+      "options": {
+        "option": [
+          {
+            "definition": "用谷歌搜索",
+            "iscorrect": true
+          },
+          {
+            "definition": "护目镜",
+            "iscorrect": false
+          },
+          {
+            "definition": "鹅",
+            "iscorrect": false
+          },
+          {
+            "definition": "咯咯笑",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

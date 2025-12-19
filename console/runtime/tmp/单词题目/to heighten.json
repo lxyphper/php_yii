@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to heighten",
+      "error_analysis": "将“heighten”误理解为“使变高”（形近词“height”+词根“-en”的过度直译）",
+      "sentence": "The dramatic music helped to **heighten** the suspense in the movie.",
+      "options": {
+        "option": [
+          {
+            "definition": "增强；加剧",
+            "iscorrect": true
+          },
+          {
+            "definition": "使变高；增加高度",
+            "iscorrect": false
+          },
+          {
+            "definition": "提高（成绩或技能）",
+            "iscorrect": false
+          },
+          {
+            "definition": "加快（速度或进程）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

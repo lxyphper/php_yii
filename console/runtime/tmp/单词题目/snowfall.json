@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "snowfall",
+      "error_analysis": "易混淆形近词`snowflake`（雪花），或因`snow+fall`字面直译误理解为“雪的下落过程”，而非“降雪量”。",
+      "sentence": "The weather report said today's **snowfall** will reach 30 centimeters.",
+      "options": {
+        "option": [
+          {
+            "definition": "降雪量",
+            "iscorrect": true
+          },
+          {
+            "definition": "雪花",
+            "iscorrect": false
+          },
+          {
+            "definition": "雪的下落过程",
+            "iscorrect": false
+          },
+          {
+            "definition": "雪天",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

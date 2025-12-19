@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to defeat",
+      "error_analysis": "易混淆形近词defend（防御）及词根de-+feat的错误推导（如贬低功绩）",
+      "sentence": "The home team managed to **defeat** the defending champions in a thrilling final match.",
+      "options": {
+        "option": [
+          {
+            "definition": "击败；战胜",
+            "iscorrect": true
+          },
+          {
+            "definition": "防御；保卫",
+            "iscorrect": false
+          },
+          {
+            "definition": "贬低；削弱（功绩）",
+            "iscorrect": false
+          },
+          {
+            "definition": "定义；解释",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

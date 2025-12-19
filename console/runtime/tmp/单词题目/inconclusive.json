@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "inconclusive",
+      "error_analysis": "学生易因形近词\"inclusive\"（包含的）混淆，或因词根误判为\"不包含的\"而非\"无结论的\"",
+      "sentence": "The initial test results were **inconclusive**, so the researchers decided to run more experiments to confirm the findings.",
+      "options": {
+        "option": [
+          {
+            "definition": "包含的，包括的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不包含的，排除的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无关紧要的，不重要的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无结论的，不确定的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

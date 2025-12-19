@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "welltodo",
+      "wellto-do",
+      "good-to-do",
+      "well-too-do",
+      "well-todo"
+    ],
+    "correct_chunks": [
+      "well",
+      "-to-",
+      "do"
+    ],
+    "distractor_chunks": [
+      "welltodo",
+      "good",
+      "-too-",
+      "wellto",
+      "todo"
+    ]
+  },
+  0
+]

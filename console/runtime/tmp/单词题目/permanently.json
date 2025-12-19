@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "permanently",
+      "error_analysis": "中国学生易因形近词（如temporarily，暂时地）混淆词义，或因词根“per-”（完全）误判为“彻底地”而非“永久地”。",
+      "sentence": "After the fire, the old library was **permanently** closed and replaced by a modern community center.",
+      "options": {
+        "option": [
+          {
+            "definition": "暂时地",
+            "iscorrect": false
+          },
+          {
+            "definition": "永久地",
+            "iscorrect": true
+          },
+          {
+            "definition": "彻底地",
+            "iscorrect": false
+          },
+          {
+            "definition": "频繁地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

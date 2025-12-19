@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "spectroscope",
+      "error_analysis": "易因形近词`spectacles`(眼镜)或词根`scope`(范围)误导，将其误解为眼镜或光谱范围",
+      "sentence": "The astronomer used a **spectroscope** to analyze the light from the distant star and identify its chemical composition.",
+      "options": {
+        "option": [
+          {
+            "definition": "分光镜（用于分析光谱的仪器）",
+            "iscorrect": true
+          },
+          {
+            "definition": "眼镜（矫正视力的器具）",
+            "iscorrect": false
+          },
+          {
+            "definition": "光谱范围（光的波长覆盖区域）",
+            "iscorrect": false
+          },
+          {
+            "definition": "望远镜（观察远处物体的仪器）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

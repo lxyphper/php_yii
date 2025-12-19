@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "sentenarian",
+      "centennarian",
+      "centanarian",
+      "centenerian"
+    ],
+    "correct_chunks": [
+      "cent",
+      "en",
+      "arian"
+    ],
+    "distractor_chunks": [
+      "sent",
+      "centenn",
+      "centa",
+      "erian"
+    ]
+  },
+  0
+]

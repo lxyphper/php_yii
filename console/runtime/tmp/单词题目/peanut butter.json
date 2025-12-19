@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "peanut butter",
+      "error_analysis": "学生易因字面直译将\"peanut butter\"误理解为\"花生黄油\"（忽略其固定短语义\"花生酱\"）",
+      "sentence": "I like to spread **peanut butter** on my toast for breakfast.",
+      "options": {
+        "option": [
+          {
+            "definition": "花生酱",
+            "iscorrect": true
+          },
+          {
+            "definition": "花生黄油",
+            "iscorrect": false
+          },
+          {
+            "definition": "梨酱",
+            "iscorrect": false
+          },
+          {
+            "definition": "花生油",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

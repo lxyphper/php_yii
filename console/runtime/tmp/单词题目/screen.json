@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "screen",
+      "error_analysis": "中国学生易因形近词“scene”（场景）干扰，或因“屏幕”的字面意思误导，忽略“screen”作为“筛选”的动词含义。",
+      "sentence": "The company will **screen** all applicants to find the most qualified one.",
+      "options": {
+        "option": [
+          {
+            "definition": "筛选（动词，指审查以选出合格者）",
+            "iscorrect": true
+          },
+          {
+            "definition": "场景（名词，指发生事件的地方）",
+            "iscorrect": false
+          },
+          {
+            "definition": "屏幕（名词，电子设备的显示部分）",
+            "iscorrect": false
+          },
+          {
+            "definition": "展示（动词，指在屏幕上显示）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

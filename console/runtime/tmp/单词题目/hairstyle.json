@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hairstyle",
+      "error_analysis": "学生易将\"hair+style\"直译为\"头发风格\"，或与\"haircut\"(剪发)混淆，误判为具体剪发动作而非整体发型。",
+      "sentence": "She wanted a fresh look for her birthday, so she went to the salon and got a trendy **hairstyle** with layers and bangs.",
+      "options": {
+        "option": [
+          {
+            "definition": "发型",
+            "iscorrect": true
+          },
+          {
+            "definition": "头发风格",
+            "iscorrect": false
+          },
+          {
+            "definition": "剪发",
+            "iscorrect": false
+          },
+          {
+            "definition": "头发护理",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

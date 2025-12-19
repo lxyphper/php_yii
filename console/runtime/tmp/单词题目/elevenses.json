@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "elevenses",
+      "error_analysis": "学生易因\"eleven\"（十一）的词根联想，将\"elevenses\"误判为\"十一点的正式餐食\"，而非上午十一点左右的小加餐。",
+      "sentence": "In the UK, office workers often have **elevenses**—a quick snack and a cup of tea—around 11 a.m. to keep them going until lunch.",
+      "options": {
+        "option": [
+          {
+            "definition": "上午十一点左右的小加餐（如小吃、茶点等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "十一点钟的正式午餐",
+            "iscorrect": false
+          },
+          {
+            "definition": "十一个相关的物品或人",
+            "iscorrect": false
+          },
+          {
+            "definition": "上午十一点的工作例会",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

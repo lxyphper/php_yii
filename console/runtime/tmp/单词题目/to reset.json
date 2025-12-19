@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to reset",
+      "error_analysis": "中国学生易因形近词\"rest\"(休息)混淆，或因词根\"re-+set\"误导为\"重新放置\"，而非\"重置(恢复初始状态)\"。",
+      "sentence": "If your phone freezes, you should **reset** it by holding the power button for 10 seconds.",
+      "options": {
+        "option": [
+          {
+            "definition": "重置（恢复设备或系统的初始状态）",
+            "iscorrect": true
+          },
+          {
+            "definition": "休息（放松或停止工作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "重新放置（把某物放回原来的位置）",
+            "iscorrect": false
+          },
+          {
+            "definition": "修理（使某物恢复正常工作）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

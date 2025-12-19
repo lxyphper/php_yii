@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "languid",
+      "error_analysis": "学生易因形近词“language”（语言）误判为“与语言相关的”，或因词根不熟悉误猜为“懒惰的”。",
+      "sentence": "She gave a **languid** wave goodbye, too tired to stand up after the long flight.",
+      "options": {
+        "option": [
+          {
+            "definition": "与语言相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "懒惰的",
+            "iscorrect": false
+          },
+          {
+            "definition": "倦怠的；无力的",
+            "iscorrect": true
+          },
+          {
+            "definition": "冗长的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

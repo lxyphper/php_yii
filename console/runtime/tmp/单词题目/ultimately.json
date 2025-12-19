@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ultimately",
+      "error_analysis": "学生可能因\"ultra-\"前缀（表示\"超级\"）错误联想为\"超级地\"，或因与\"immediately\"（立刻）形近（均以\"-ately\"结尾）而混淆词义。",
+      "sentence": "After considering all options, she **ultimately** chose to study abroad.",
+      "options": {
+        "option": [
+          {
+            "definition": "最终地；归根结底",
+            "iscorrect": true
+          },
+          {
+            "definition": "立刻地",
+            "iscorrect": false
+          },
+          {
+            "definition": "超级地；极其地",
+            "iscorrect": false
+          },
+          {
+            "definition": "总共地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

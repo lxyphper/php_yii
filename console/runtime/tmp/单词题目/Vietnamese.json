@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Vietnamese",
+      "error_analysis": "学生易因形近混淆\"Veteran\"(退伍军人)，或因词根拆分错误将\"-namese\"误解为\"names\"(名字)，导致错误理解。",
+      "sentence": "Many **Vietnamese** families gather to make banh chung (sticky rice cakes) during Tet.",
+      "options": {
+        "option": [
+          {
+            "definition": "越南人；越南的",
+            "iscorrect": true
+          },
+          {
+            "definition": "退伍军人",
+            "iscorrect": false
+          },
+          {
+            "definition": "越南人的名字",
+            "iscorrect": false
+          },
+          {
+            "definition": "威尼斯市民",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

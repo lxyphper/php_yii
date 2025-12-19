@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to swipe",
+      "error_analysis": "中国学生易因形近词\"swim\"（游泳）或\"sweep\"（扫）将\"to swipe\"误理解为\"游泳\"或\"打扫\"。",
+      "sentence": "When paying at the supermarket, you can **swipe** your credit card at the terminal instead of using cash.",
+      "options": {
+        "option": [
+          {
+            "definition": "游泳",
+            "iscorrect": false
+          },
+          {
+            "definition": "打扫",
+            "iscorrect": false
+          },
+          {
+            "definition": "刷（卡）；滑动（屏幕）",
+            "iscorrect": true
+          },
+          {
+            "definition": "摆动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "clever",
+      "error_analysis": "中国学生易因形近词\"clover\"（三叶草）或与\"clear\"（清楚的）拼写/发音混淆，误将\"clever\"理解为名词\"三叶草\"或形容词\"清楚的\"。",
+      "sentence": "The little girl found a **clever** way to get the cat down from the tree without using a ladder.",
+      "options": {
+        "option": [
+          {
+            "definition": "聪明的；机灵的",
+            "iscorrect": true
+          },
+          {
+            "definition": "三叶草（一种植物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "清楚的；明白的",
+            "iscorrect": false
+          },
+          {
+            "definition": "勇敢的；无畏的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

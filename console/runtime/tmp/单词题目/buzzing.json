@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "buzzing",
+      "error_analysis": "学生易因形近词\"busy\"（忙碌的）产生错误联想，误将\"buzzing\"理解为\"忙碌的\"而非\"嗡嗡作响的\"",
+      "sentence": "The bees were flying around the garden, their **buzzing** sound filling the air.",
+      "options": {
+        "option": [
+          {
+            "definition": "嗡嗡作响的",
+            "iscorrect": true
+          },
+          {
+            "definition": "忙碌的",
+            "iscorrect": false
+          },
+          {
+            "definition": "起毛的",
+            "iscorrect": false
+          },
+          {
+            "definition": "兴奋的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

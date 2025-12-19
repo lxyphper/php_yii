@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "noteworthy",
+      "error_analysis": "学生易因形近词“notebook”联想为“与笔记本有关的”，或因错误拆解“not + worth + y”误理解为“不值得的”",
+      "sentence": "Her contribution to the project was **noteworthy**; everyone praised her for her innovative ideas.",
+      "options": {
+        "option": [
+          {
+            "definition": "值得注意的；显著的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不值得的",
+            "iscorrect": false
+          },
+          {
+            "definition": "与笔记本有关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "与笔记有关的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

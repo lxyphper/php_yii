@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "suddenly",
+      "error_analysis": "学生易因形近混淆\"suddenly\"与\"sincerely\"(真诚地)，或因词根\"sudden\"忽略\"ly\"后缀误作形容词\"突然的\"",
+      "sentence": "The cat jumped off the table **suddenly** when it heard a noise.",
+      "options": {
+        "option": [
+          {
+            "definition": "突然地",
+            "iscorrect": true
+          },
+          {
+            "definition": "真诚地",
+            "iscorrect": false
+          },
+          {
+            "definition": "突然的",
+            "iscorrect": false
+          },
+          {
+            "definition": "突然",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

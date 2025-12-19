@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "uninspired",
+      "error_analysis": "学生易因词根直译（un-+inspired）误理解为“没有灵感的”，或因形近词（如uninterested）混淆为“不感兴趣的”。",
+      "sentence": "The movie received poor reviews because its plot was **uninspired** and predictable.",
+      "options": {
+        "option": [
+          {
+            "definition": "缺乏创意的；平淡无奇的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不感兴趣的；漠不关心的",
+            "iscorrect": false
+          },
+          {
+            "definition": "没有灵感的；缺乏灵感的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不知情的；信息不足的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

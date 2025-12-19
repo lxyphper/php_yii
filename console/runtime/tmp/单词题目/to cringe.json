@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to cringe",
+      "error_analysis": "中国学生易因形近词“crinkle”（皱缩）或词根“cr-”联想到“crush”（压碎）而误判词义。",
+      "sentence": "She **cringed** when her boss made a rude comment about her work in front of everyone.",
+      "options": {
+        "option": [
+          {
+            "definition": "畏缩；因尴尬或恐惧而退缩",
+            "iscorrect": true
+          },
+          {
+            "definition": "压碎；挤压",
+            "iscorrect": false
+          },
+          {
+            "definition": "皱缩；起皱纹",
+            "iscorrect": false
+          },
+          {
+            "definition": "蹲伏；弯腰",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hell",
+      "error_analysis": "中国学生易混淆形近词\"hall\"(大厅)或误将\"hell\"当作形容词\"地狱般的\"",
+      "sentence": "Many people believe that criminals will go to **hell** for their crimes.",
+      "options": {
+        "option": [
+          {
+            "definition": "地狱（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "大厅（名词，形近词\"hall\"的误导）",
+            "iscorrect": false
+          },
+          {
+            "definition": "地狱般的（形容词，词根\"hell-\"的过度联想）",
+            "iscorrect": false
+          },
+          {
+            "definition": "小山（名词，形近词\"hill\"的误导）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

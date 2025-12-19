@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to bully",
+      "error_analysis": "学生易因形近词\"bull\"(公牛)或\"bullet\"(子弹)联想，将\"to bully\"误判为\"顶撞\"或\"射击\"。",
+      "sentence": "The bigger boy often **bullies** the smaller ones by taking their lunch money.",
+      "options": {
+        "option": [
+          {
+            "definition": "欺负；恐吓",
+            "iscorrect": true
+          },
+          {
+            "definition": "射击；发射（子弹）",
+            "iscorrect": false
+          },
+          {
+            "definition": "顶撞；用角顶（如公牛）",
+            "iscorrect": false
+          },
+          {
+            "definition": "嘲笑；取笑",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tourist",
+      "error_analysis": "易将\"tourist\"误理解为\"旅行（活动）\"（形近词\"tour\"的误导）或\"导游\"（对\"-ist\"后缀的错误联想）",
+      "sentence": "The museum is always crowded with **tourists** taking photos of the ancient artifacts.",
+      "options": {
+        "option": [
+          {
+            "definition": "旅行者；游客（指参观景点的人）",
+            "iscorrect": true
+          },
+          {
+            "definition": "旅行（一次旅游活动）",
+            "iscorrect": false
+          },
+          {
+            "definition": "导游（带领旅游的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "旅游景点（供参观的地方）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "isolated",
+      "error_analysis": "学生易因词根“isol-”（岛屿）猜测为“与岛屿有关的”，或因形近词“insulated”误判为“绝缘的”",
+      "sentence": "The small village in the mountains is **isolated**; there are no roads connecting it to the city.",
+      "options": {
+        "option": [
+          {
+            "definition": "与岛屿有关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "绝缘的",
+            "iscorrect": false
+          },
+          {
+            "definition": "单独的",
+            "iscorrect": false
+          },
+          {
+            "definition": "孤立的；隔绝的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

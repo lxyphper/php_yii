@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "exhilarating",
+      "error_analysis": "学生易混淆形近词“exhausting”（令人疲惫的），或因词根“hilar”不熟悉误猜为“滑稽可笑的”。",
+      "sentence": "Riding the new roller coaster at the amusement park was so **exhilarating** that we waited two hours in line to ride it again.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人兴奋的；令人愉悦的",
+            "iscorrect": true
+          },
+          {
+            "definition": "令人疲惫的",
+            "iscorrect": false
+          },
+          {
+            "definition": "滑稽可笑的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人放松的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

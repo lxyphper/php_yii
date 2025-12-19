@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "bone-chiling",
+      "bone-shilling",
+      "bane-chilling",
+      "bone-chelling",
+      "bon-chilling"
+    ],
+    "correct_chunks": [
+      "bone-",
+      "chill",
+      "-ing"
+    ],
+    "distractor_chunks": [
+      "chil",
+      "shil",
+      "ban",
+      "chel",
+      "bon"
+    ]
+  },
+  0
+]

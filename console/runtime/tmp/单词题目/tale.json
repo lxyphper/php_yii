@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tale",
+      "error_analysis": "学生最易因形近词“tail”（尾巴）混淆，或误将“tale”与“tell”（告诉）的动词义关联导致错误。",
+      "sentence": "My grandma often tells me a **tale** about a magic fox that helps people in the village.",
+      "options": {
+        "option": [
+          {
+            "definition": "故事；传说",
+            "iscorrect": true
+          },
+          {
+            "definition": "尾巴",
+            "iscorrect": false
+          },
+          {
+            "definition": "告诉；讲述",
+            "iscorrect": false
+          },
+          {
+            "definition": "瓷砖；瓦片",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "embarrassing",
+      "error_analysis": "因形近词“embrace”（拥抱）产生错误联想，或因词根字面误导误以为是“令人阻碍的”",
+      "sentence": "When I forgot my lines in the school play, it was such an **embarrassing** moment that I wanted to run off the stage.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人尴尬的",
+            "iscorrect": true
+          },
+          {
+            "definition": "令人包容的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人阻碍的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人烦恼的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

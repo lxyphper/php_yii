@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Mr",
+      "error_analysis": "中国学生易将“Mr”与形近词“Mrs”（夫人）混淆，或因词根误导（“mister”来自“master”）误释为“主人”。",
+      "sentence": "**Mr** Smith is the owner of this small bookstore downtown.",
+      "options": {
+        "option": [
+          {
+            "definition": "先生（对男性的尊称）",
+            "iscorrect": true
+          },
+          {
+            "definition": "夫人（对已婚女性的尊称）",
+            "iscorrect": false
+          },
+          {
+            "definition": "主人（对财产或店铺的拥有者的称呼）",
+            "iscorrect": false
+          },
+          {
+            "definition": "老师（对教师的称呼）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

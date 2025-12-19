@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "effortless",
+      "error_analysis": "学生易忽略后缀“-less”将“effortless”误解为“努力的”，或过度直译“无努力”为“不努力的（懒惰）”",
+      "sentence": "She played the piano with such **effortless** skill that the audience was amazed by how easily she made it look.",
+      "options": {
+        "option": [
+          {
+            "definition": "不费力的；轻松的",
+            "iscorrect": true
+          },
+          {
+            "definition": "努力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不努力的（指人懒惰）",
+            "iscorrect": false
+          },
+          {
+            "definition": "有效的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

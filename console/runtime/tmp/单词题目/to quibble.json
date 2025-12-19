@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to quibble",
+      "error_analysis": "学生易因形近词“quiver”（颤抖）产生混淆，或误将“quibble”理解为“激烈争吵”（而非为小事争论）。",
+      "sentence": "She always **quibbles** about the smallest details, like how the forks are arranged on the table.",
+      "options": {
+        "option": [
+          {
+            "definition": "颤抖；发抖",
+            "iscorrect": false
+          },
+          {
+            "definition": "激烈争吵；吵架",
+            "iscorrect": false
+          },
+          {
+            "definition": "胡言乱语；说废话",
+            "iscorrect": false
+          },
+          {
+            "definition": "为小事争论；吹毛求疵",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

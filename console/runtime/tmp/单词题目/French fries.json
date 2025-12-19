@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "French fries",
+      "error_analysis": "学生易因“fries”与“rice”（米饭）形近误判为“法国米饭”，或因字面直译“French（法国的）+ fries（油炸品）”误选为“法式油炸甜点”。",
+      "sentence": "I ordered a hamburger and a large portion of **French fries** for lunch.",
+      "options": {
+        "option": [
+          {
+            "definition": "薯条（炸土豆条）",
+            "iscorrect": true
+          },
+          {
+            "definition": "法国米饭",
+            "iscorrect": false
+          },
+          {
+            "definition": "法式油炸甜点",
+            "iscorrect": false
+          },
+          {
+            "definition": "法式面包",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

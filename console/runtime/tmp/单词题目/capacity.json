@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "capacity",
+      "error_analysis": "学生易因形近词“capable”（有能力的）将“capacity”误理解为“能力（侧重个人才能）”，忽略其核心的“容量”含义。",
+      "sentence": "The new water tank has a **capacity** of 10,000 liters, which is enough to supply the entire village.",
+      "options": {
+        "option": [
+          {
+            "definition": "容量；容纳能力",
+            "iscorrect": true
+          },
+          {
+            "definition": "能力（侧重个人才能）",
+            "iscorrect": false
+          },
+          {
+            "definition": "首都；资本",
+            "iscorrect": false
+          },
+          {
+            "definition": "帽子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

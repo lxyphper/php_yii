@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "agreement",
+      "error_analysis": "中国学生易混淆形近词\"argument\"（争论）或误将\"agreement\"理解为\"安排\"（因\"-ment\"后缀联想）",
+      "sentence": "After hours of discussion, the two companies finally reached an **agreement** on the terms of the partnership.",
+      "options": {
+        "option": [
+          {
+            "definition": "协议；同意",
+            "iscorrect": true
+          },
+          {
+            "definition": "争论；论点",
+            "iscorrect": false
+          },
+          {
+            "definition": "安排；布置",
+            "iscorrect": false
+          },
+          {
+            "definition": "同意的人；支持者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

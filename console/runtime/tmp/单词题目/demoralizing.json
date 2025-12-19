@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "demoralizing",
+      "error_analysis": "学生易因词根“de-”+“moral”误判为“不道德的”，或因形近词“moralizing”混淆为“说教的”",
+      "sentence": "After failing the exam for the third time, Tom found his teacher's dismissive attitude **demoralizing**.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人士气低落的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不道德的",
+            "iscorrect": false
+          },
+          {
+            "definition": "说教的",
+            "iscorrect": false
+          },
+          {
+            "definition": "要求高的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

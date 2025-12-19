@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to eavesdrop",
+      "error_analysis": "学生易因词根‘eaves’（屋檐）和‘drop’（掉落）的字面意思，将‘to eavesdrop’误解为‘（在屋檐下）掉落’或‘滴下’。",
+      "sentence": "I caught my neighbor **eavesdropping** on our conversation through the open window.",
+      "options": {
+        "option": [
+          {
+            "definition": "偷听；窃听",
+            "iscorrect": true
+          },
+          {
+            "definition": "（在屋檐下）掉落；滴下",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻松放下；卸下",
+            "iscorrect": false
+          },
+          {
+            "definition": "修理屋檐；维护屋顶",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

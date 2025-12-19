@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "loaded",
+      "error_analysis": "学生易将\"loaded\"误理解为\"装载的\"（源于词根\"load\"的字面义），或忽略其\"有大量…的\"（如有钱）等引申义",
+      "sentence": "She just bought a luxury apartment in the city—she must be **loaded**.",
+      "options": {
+        "option": [
+          {
+            "definition": "装载的（carried with a load）",
+            "iscorrect": false
+          },
+          {
+            "definition": "很有钱的（having a lot of money）",
+            "iscorrect": true
+          },
+          {
+            "definition": "装满的（filled with something）",
+            "iscorrect": false
+          },
+          {
+            "definition": "有负担的（burdened with responsibilities）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

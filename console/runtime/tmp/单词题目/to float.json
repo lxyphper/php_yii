@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to float",
+      "error_analysis": "中国学生易将“to float”与形近词“flow”（流动）混淆，或误将其核心义“漂浮（于液体）”窄化为“飘动（于空气）”。",
+      "sentence": "The leaves from the tree **floated** on the surface of the pond until the wind blew them away.",
+      "options": {
+        "option": [
+          {
+            "definition": "漂浮（在液体表面）",
+            "iscorrect": true
+          },
+          {
+            "definition": "流动（如河水或溪流）",
+            "iscorrect": false
+          },
+          {
+            "definition": "飘动（如云朵或旗帜）",
+            "iscorrect": false
+          },
+          {
+            "definition": "聚集（成一群人或动物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

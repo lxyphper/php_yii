@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to disapprove",
+      "error_analysis": "易与形近词disappear（消失）、disprove（证明错误）混淆，误判为“消失”或“反驳”",
+      "sentence": "My parents **disapproved** of my decision to quit my job and travel around the world.",
+      "options": {
+        "option": [
+          {
+            "definition": "消失；不见",
+            "iscorrect": false
+          },
+          {
+            "definition": "证明…错误；反驳",
+            "iscorrect": false
+          },
+          {
+            "definition": "不赞成；反对",
+            "iscorrect": true
+          },
+          {
+            "definition": "不允许；禁止",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

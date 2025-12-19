@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to debate",
+      "error_analysis": "学生易将'debate'拆分为'de-'（向下）+'bate'（减少）误解为'贬低'，或因形近'debt'（债务）误解为'欠债'",
+      "sentence": "The students will **debate** the topic of climate change in class tomorrow.",
+      "options": {
+        "option": [
+          {
+            "definition": "辩论；争论",
+            "iscorrect": true
+          },
+          {
+            "definition": "贬低；减少",
+            "iscorrect": false
+          },
+          {
+            "definition": "欠债；偿还债务",
+            "iscorrect": false
+          },
+          {
+            "definition": "延迟；拖延",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

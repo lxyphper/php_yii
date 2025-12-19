@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "close",
+      "error_analysis": "学生易因形近词“clothes”（衣服）混淆词义，或用“关闭”的字面意思错误推导“close to”中的“靠近”含义。",
+      "sentence": "The bus stop is **close** to my apartment, so I don’t need to take a taxi.",
+      "options": {
+        "option": [
+          {
+            "definition": "衣服",
+            "iscorrect": false
+          },
+          {
+            "definition": "关闭的",
+            "iscorrect": false
+          },
+          {
+            "definition": "近的；靠近的",
+            "iscorrect": true
+          },
+          {
+            "definition": "结束的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

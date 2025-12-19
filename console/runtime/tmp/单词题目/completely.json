@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "completely",
+      "error_analysis": "学生易因形近词\"complexly\"(复杂地)或\"compete\"(竞争)的联想，将\"completely\"误理解为\"复杂地\"或\"竞争地\"",
+      "sentence": "After the rain, the sky was **completely** clear, with no clouds left.",
+      "options": {
+        "option": [
+          {
+            "definition": "完全地；彻底地",
+            "iscorrect": true
+          },
+          {
+            "definition": "复杂地",
+            "iscorrect": false
+          },
+          {
+            "definition": "竞争地",
+            "iscorrect": false
+          },
+          {
+            "definition": "部分地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

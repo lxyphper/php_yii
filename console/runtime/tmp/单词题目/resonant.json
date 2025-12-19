@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "resonant",
+      "error_analysis": "易因形近词'resistant'(抵抗的)干扰，或词根误猜为'有反应的'",
+      "sentence": "Her **resonant** voice filled the hall, making every word easy to hear.",
+      "options": {
+        "option": [
+          {
+            "definition": "（声音）洪亮的；有共鸣的",
+            "iscorrect": true
+          },
+          {
+            "definition": "抵抗的；抗...的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有反应的；易回应的",
+            "iscorrect": false
+          },
+          {
+            "definition": "居住的；定居的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

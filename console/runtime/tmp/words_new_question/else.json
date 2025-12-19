@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "else",
+      "error_analysis": "学生易将“else”误判为“别处”（形近词elsewhere干扰）或“其他的东西”（词性误解为名词）",
+      "sentence": "Do you have anything **else** to add to your shopping list before we go?",
+      "options": {
+        "option": [
+          {
+            "definition": "其他的（用于疑问词或不定代词后）",
+            "iscorrect": true
+          },
+          {
+            "definition": "别处（某个其他的地方）",
+            "iscorrect": false
+          },
+          {
+            "definition": "其他的东西（名词，指额外的物品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "否则（表示转折的连词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

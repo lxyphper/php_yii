@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "jenocide",
+      "genacide",
+      "genocede",
+      "gennocide",
+      "genocidd",
+      "genocid"
+    ],
+    "correct_chunks": [
+      "geno",
+      "cide"
+    ],
+    "distractor_chunks": [
+      "jen",
+      "a",
+      "ced",
+      "genn",
+      "cidd",
+      "cid"
+    ]
+  },
+  0
+]

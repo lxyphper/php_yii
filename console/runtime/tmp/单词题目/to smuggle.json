@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to smuggle",
+      "error_analysis": "学生易因形近词“snuggle”（依偎）混淆，或误猜为与“自满”（smug）相关的含义",
+      "sentence": "The criminals tried to **smuggle** illegal drugs across the border but were caught by the police.",
+      "options": {
+        "option": [
+          {
+            "definition": "依偎；紧抱",
+            "iscorrect": false
+          },
+          {
+            "definition": "自满地做某事",
+            "iscorrect": false
+          },
+          {
+            "definition": "偷偷溜走；潜行",
+            "iscorrect": false
+          },
+          {
+            "definition": "走私；偷运",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

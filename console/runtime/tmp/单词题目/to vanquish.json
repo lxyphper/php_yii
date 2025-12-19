@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to vanquish",
+      "error_analysis": "因与\"vanish\"（消失）拼写、发音高度相似，中国学生易误将\"to vanquish\"理解为\"消失\"。",
+      "sentence": "After a long and fierce battle, the general led his troops to **vanquish** the invading army and reclaim the territory.",
+      "options": {
+        "option": [
+          {
+            "definition": "征服；击败",
+            "iscorrect": true
+          },
+          {
+            "definition": "消失",
+            "iscorrect": false
+          },
+          {
+            "definition": "运输（用货车运送）",
+            "iscorrect": false
+          },
+          {
+            "definition": "放弃；退出",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

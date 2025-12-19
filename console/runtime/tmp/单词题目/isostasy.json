@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "isostasy",
+      "error_analysis": "学生易因“iso-”（相等）和“-stasy”（状态）的词根误导，将“isostasy”错误理解为“均等状态”而非地质学术语“地壳均衡”。",
+      "sentence": "Geologists use the concept of **isostasy** to explain why mountain ranges rise and then gradually sink over millions of years.",
+      "options": {
+        "option": [
+          {
+            "definition": "地壳均衡（说）（地质学术语，指地壳因密度差异而保持平衡的状态）",
+            "iscorrect": true
+          },
+          {
+            "definition": "均等状态（如事物处于平等或均匀的状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "孤立状态（与外界隔绝的状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "各向同性（物理学术语，指性质不随方向改变）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "observation",
+      "error_analysis": "学生易因形近词“conservation”（保护）或词根“serv”与“service”（服务）的联系，将“observation”误解为“保护”或“服务”。",
+      "sentence": "The scientist recorded his **observation** of the bird's mating behavior in his notebook.",
+      "options": {
+        "option": [
+          {
+            "definition": "观察；观测",
+            "iscorrect": true
+          },
+          {
+            "definition": "保护；保存",
+            "iscorrect": false
+          },
+          {
+            "definition": "服务；效劳",
+            "iscorrect": false
+          },
+          {
+            "definition": "预订；保留",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

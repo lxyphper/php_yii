@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "crater",
+      "error_analysis": "学生易因形近词\"creator\"(创造者)或联想\"crate\"(箱子)而误判\"crater\"的含义",
+      "sentence": "The meteorite impact left a massive **crater** in the desert.",
+      "options": {
+        "option": [
+          {
+            "definition": "火山口；坑（如陨石坑）",
+            "iscorrect": true
+          },
+          {
+            "definition": "创造者",
+            "iscorrect": false
+          },
+          {
+            "definition": "箱子",
+            "iscorrect": false
+          },
+          {
+            "definition": "裂缝",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

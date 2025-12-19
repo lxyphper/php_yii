@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to wave",
+      "error_analysis": "中国学生易因形近词\"wake\"误判为\"醒来\"，或因名词\"波浪\"误推动词义为\"波动\"",
+      "sentence": "When I saw my friend across the street, I **waved** to get his attention.",
+      "options": {
+        "option": [
+          {
+            "definition": "挥手；打招呼",
+            "iscorrect": true
+          },
+          {
+            "definition": "醒来；唤醒",
+            "iscorrect": false
+          },
+          {
+            "definition": "波动；摇晃",
+            "iscorrect": false
+          },
+          {
+            "definition": "行走；步行",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

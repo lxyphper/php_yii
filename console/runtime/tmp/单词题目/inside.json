@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "inside",
+      "error_analysis": "学生易将\"inside\"与形近词\"insight\"(洞察力)混淆，或误理解为\"内心的\"(字面联想\"内部\"延伸过当)",
+      "sentence": "She found a hidden note **inside** the old book she bought at the flea market.",
+      "options": {
+        "option": [
+          {
+            "definition": "在...里面（介词/副词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "洞察力（对事物的深刻理解）",
+            "iscorrect": false
+          },
+          {
+            "definition": "内心的（情感或思想深处的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "坚持（坚决做某事）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

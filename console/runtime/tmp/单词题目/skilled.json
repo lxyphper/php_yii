@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "skilled",
+      "error_analysis": "中国学生易因“skilled”与“killed”（杀死）形近而误判，或因“skill”词根过度推导为“技能的”而忽略“熟练的”核心义。",
+      "sentence": "The **skilled** carpenter made a beautiful table in just two hours.",
+      "options": {
+        "option": [
+          {
+            "definition": "熟练的，有技能的",
+            "iscorrect": true
+          },
+          {
+            "definition": "杀死的",
+            "iscorrect": false
+          },
+          {
+            "definition": "技能的",
+            "iscorrect": false
+          },
+          {
+            "definition": "溢出的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

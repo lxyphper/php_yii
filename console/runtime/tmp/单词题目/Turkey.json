@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "turkey",
+      "error_analysis": "学生易将'turkey'拆分为'tur+key'误联想为'钥匙'，或混淆'Turkey'(土耳其)与'turkey'(火鸡)导致误判。",
+      "sentence": "We are going to roast a **turkey** for Thanksgiving dinner this year.",
+      "options": {
+        "option": [
+          {
+            "definition": "钥匙",
+            "iscorrect": false
+          },
+          {
+            "definition": "土耳其人",
+            "iscorrect": false
+          },
+          {
+            "definition": "乌龟",
+            "iscorrect": false
+          },
+          {
+            "definition": "火鸡（动物/食物）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

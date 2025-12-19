@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "list",
+      "error_analysis": "学生易因形近词\"listen\"（听）的干扰，将\"list\"误解为\"听\"的意思。",
+      "sentence": "She made a **list** of groceries to buy before heading to the supermarket.",
+      "options": {
+        "option": [
+          {
+            "definition": "清单；列表（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "听（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "嘴唇（名词复数）",
+            "iscorrect": false
+          },
+          {
+            "definition": "倾斜（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

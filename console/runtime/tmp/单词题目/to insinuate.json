@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to insinuate",
+      "error_analysis": "学生易因形近词“situate”（位于）误解为“安置/位于”，或因词根“in-”（进入）和“sinuate”（弯曲）误判为“缠绕/渗透”。",
+      "sentence": "During the meeting, she **insinuated** that her colleague had taken credit for her work without directly accusing him.",
+      "options": {
+        "option": [
+          {
+            "definition": "暗示，旁敲侧击地说",
+            "iscorrect": true
+          },
+          {
+            "definition": "坚持说",
+            "iscorrect": false
+          },
+          {
+            "definition": "位于/安置",
+            "iscorrect": false
+          },
+          {
+            "definition": "缠绕/渗透",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

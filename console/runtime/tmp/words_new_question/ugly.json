@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ugly",
+      "error_analysis": "中国学生易因词根误导（古意\"可怕的\"）或形近词（如与\"ugly\"形近的\"ully\"无实义但易联想错误）将其理解为非核心义\"可怕的\"。",
+      "sentence": "The old witch in the story had a **ugly** face with a long, crooked nose.",
+      "options": {
+        "option": [
+          {
+            "definition": "可怕的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可爱的",
+            "iscorrect": false
+          },
+          {
+            "definition": "丑陋的",
+            "iscorrect": true
+          },
+          {
+            "definition": "瘦小的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

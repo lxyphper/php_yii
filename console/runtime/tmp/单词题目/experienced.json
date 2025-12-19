@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "experienced",
+      "error_analysis": "易因形近词\"experiment\"(实验)干扰将其误解为\"实验的\"；或因词根过度推导，混淆\"有经验的\"(形容人)与\"经历过的\"(指事件)。",
+      "sentence": "As an **experienced** chef, she knows exactly how to adjust the seasoning for different dishes to suit everyone's taste.",
+      "options": {
+        "option": [
+          {
+            "definition": "有经验的（形容人具备丰富实践经验）",
+            "iscorrect": true
+          },
+          {
+            "definition": "实验的；试验性的（与实验相关的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "经历过的（指事件或过程已发生）",
+            "iscorrect": false
+          },
+          {
+            "definition": "专家的；专业的（具备高级专业技能的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

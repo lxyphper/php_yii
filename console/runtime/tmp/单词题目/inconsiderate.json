@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "inconsiderate",
+      "error_analysis": "学生易混淆形近词'inconsiderable'（不重要的），或因词根直译为'不考虑的'而忽略其'不顾及他人感受'的核心义",
+      "sentence": "It was **inconsiderate** of him to play loud music late at night when his neighbors were trying to sleep.",
+      "options": {
+        "option": [
+          {
+            "definition": "不体贴的；不顾及他人的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不重要的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不考虑的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不显眼的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "luscious",
+      "error_analysis": "学生易因形近词\"luxurious\"(奢侈的)或词根联想\"lush\"(茂盛的)误判\"luscious\"的含义",
+      "sentence": "The ripe peach oozed out a **luscious** juice when I took a bite.",
+      "options": {
+        "option": [
+          {
+            "definition": "美味多汁的",
+            "iscorrect": true
+          },
+          {
+            "definition": "奢侈的",
+            "iscorrect": false
+          },
+          {
+            "definition": "茂盛的",
+            "iscorrect": false
+          },
+          {
+            "definition": "粗糙的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "assault",
+      "error_analysis": "学生易因形近词\"assist\"(帮助)产生误解，或误将\"assault\"与\"salt\"(盐)联系导致字面猜测错误",
+      "sentence": "The police arrested the man who carried out a violent **assault** on a shopkeeper during the robbery.",
+      "options": {
+        "option": [
+          {
+            "definition": "帮助；协助",
+            "iscorrect": false
+          },
+          {
+            "definition": "攻击；袭击",
+            "iscorrect": true
+          },
+          {
+            "definition": "撒盐；加盐",
+            "iscorrect": false
+          },
+          {
+            "definition": "加速；促进",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

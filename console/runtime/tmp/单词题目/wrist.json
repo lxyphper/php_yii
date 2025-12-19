@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wrist",
+      "error_analysis": "因形近词\"write\"(写)、\"wrest\"(扭)、\"waist\"(腰)干扰，易误判为\"书写\"\"扭转\"\"腰\"等含义",
+      "sentence": "She wore a silver bracelet around her **wrist** to match her necklace.",
+      "options": {
+        "option": [
+          {
+            "definition": "手腕；腕关节",
+            "iscorrect": true
+          },
+          {
+            "definition": "书写；笔",
+            "iscorrect": false
+          },
+          {
+            "definition": "扭转；拧",
+            "iscorrect": false
+          },
+          {
+            "definition": "腰；腰部",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

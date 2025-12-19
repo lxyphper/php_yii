@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tranquility",
+      "error_analysis": "学生易因形近词（如transaction/transparency）或词根“tran-”（误作“转移”）将“tranquility”误解为“交易”“透明”或“运输”。",
+      "sentence": "After a long day of busy meetings, he sought **tranquility** in the quiet garden where birds sang softly.",
+      "options": {
+        "option": [
+          {
+            "definition": "交易；事务",
+            "iscorrect": false
+          },
+          {
+            "definition": "透明；透明度",
+            "iscorrect": false
+          },
+          {
+            "definition": "平静；宁静",
+            "iscorrect": true
+          },
+          {
+            "definition": "运输；中转",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

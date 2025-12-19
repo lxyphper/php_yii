@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "grateful",
+      "error_analysis": "中国学生易将“grateful”与形近词“graceful”（优雅的）混淆，或因“gr”开头联想“great”（伟大的）而误判词义。",
+      "sentence": "After receiving the unexpected gift, Sarah felt **grateful** to her friend for thinking of her.",
+      "options": {
+        "option": [
+          {
+            "definition": "感激的；感谢的",
+            "iscorrect": true
+          },
+          {
+            "definition": "优雅的；优美的",
+            "iscorrect": false
+          },
+          {
+            "definition": "伟大的；极好的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人烦躁的；使人恼火的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

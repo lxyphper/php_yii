@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "moon",
+      "error_analysis": "中国学生易因形近词‘noon’（中午）混淆‘moon’的核心词义‘月亮’。",
+      "sentence": "We sat on the grass and watched the **moon** rise slowly over the hills.",
+      "options": {
+        "option": [
+          {
+            "definition": "月亮",
+            "iscorrect": true
+          },
+          {
+            "definition": "中午",
+            "iscorrect": false
+          },
+          {
+            "definition": "月份",
+            "iscorrect": false
+          },
+          {
+            "definition": "情绪",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

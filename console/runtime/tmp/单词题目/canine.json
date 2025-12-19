@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "canine",
+      "error_analysis": "学生易因形近词“cane”（拐杖/甘蔗）误判为“拐杖的/甘蔗的”，或因“can”（能）词根误导为“有能力的”。",
+      "sentence": "When you smile, your **canine** teeth are the pointed ones next to your front teeth.",
+      "options": {
+        "option": [
+          {
+            "definition": "犬齿",
+            "iscorrect": true
+          },
+          {
+            "definition": "拐杖；甘蔗",
+            "iscorrect": false
+          },
+          {
+            "definition": "有能力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "金属罐的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

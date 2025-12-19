@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "according to",
+      "error_analysis": "学生易因“according”与“account”（账户、计算）形近误解为“计算到”，或因“according”（相符）+“to”直译为“符合到”进而误解为“适应”。",
+      "sentence": "**According to** the teacher, the homework is due tomorrow.",
+      "options": {
+        "option": [
+          {
+            "definition": "根据",
+            "iscorrect": true
+          },
+          {
+            "definition": "计算到",
+            "iscorrect": false
+          },
+          {
+            "definition": "适应",
+            "iscorrect": false
+          },
+          {
+            "definition": "因为",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

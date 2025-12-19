@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to petition",
+      "error_analysis": "学生易因“pet”（宠物）的形近联想或对词根“pet”（寻求）的字面误解，将“to petition”误判为与“照顾宠物”或“寻找具体物品”相关。",
+      "sentence": "The students plan to **petition** the school board to add more library hours.",
+      "options": {
+        "option": [
+          {
+            "definition": "照顾宠物",
+            "iscorrect": false
+          },
+          {
+            "definition": "正式向权威提出请求",
+            "iscorrect": true
+          },
+          {
+            "definition": "分割空间",
+            "iscorrect": false
+          },
+          {
+            "definition": "寻找丢失的物品",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

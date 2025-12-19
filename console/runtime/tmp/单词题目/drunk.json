@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "drunk",
+      "error_analysis": "学生易因形近词“drink”（喝）的干扰，将“drunk”误理解为“喝（动词）”或“饮料（名词）”，而非形容词“醉酒的”。",
+      "sentence": "The man could barely walk straight because he was **drunk** after the party.",
+      "options": {
+        "option": [
+          {
+            "definition": "醉酒的（形容词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "喝（动词，过去式）",
+            "iscorrect": false
+          },
+          {
+            "definition": "饮料（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "浸泡（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

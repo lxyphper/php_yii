@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "brain drain",
+      "error_analysis": "中国学生易因字面误导将\"brain drain\"理解为\"大脑枯竭\"（如智力下降），或混淆为形近词\"brainstorm\"（头脑风暴）",
+      "sentence": "Many developing countries are facing a severe **brain drain** as doctors and engineers move to richer nations for better opportunities.",
+      "options": {
+        "option": [
+          {
+            "definition": "大脑枯竭（如因过度使用导致的智力下降）",
+            "iscorrect": false
+          },
+          {
+            "definition": "头脑风暴（集体讨论以产生创意解决方案）",
+            "iscorrect": false
+          },
+          {
+            "definition": "人才外流（指大量有技能的人离开某地区或国家）",
+            "iscorrect": true
+          },
+          {
+            "definition": "人才涌入（指大量有技能的人进入某地区或国家）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

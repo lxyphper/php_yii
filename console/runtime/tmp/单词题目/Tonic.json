@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Tonic",
+      "error_analysis": "学生易因形近词\"topic\"(话题)或\"tone\"(音调)误判，或因\"ton\"(吨)的字面联想错解为\"沉重物品\"。",
+      "sentence": "After being sick for a week, she drank a herbal **tonic** every morning to regain her strength.",
+      "options": {
+        "option": [
+          {
+            "definition": "补药；强身剂",
+            "iscorrect": true
+          },
+          {
+            "definition": "话题；主题",
+            "iscorrect": false
+          },
+          {
+            "definition": "音调；音色",
+            "iscorrect": false
+          },
+          {
+            "definition": "吨；沉重的物品",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

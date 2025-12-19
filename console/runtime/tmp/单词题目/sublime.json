@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sublime",
+      "error_analysis": "学生易将\"sublime\"拆分为\"sub-（下）\"和\"lime（石灰）\"，错误联想为\"与石灰相关\"或\"低级的\"含义",
+      "sentence": "The sunset over the Grand Canyon was a **sublime** sight, making everyone stop and stare in wonder.",
+      "options": {
+        "option": [
+          {
+            "definition": "崇高的；卓越的",
+            "iscorrect": true
+          },
+          {
+            "definition": "与石灰有关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "低于平均水平的",
+            "iscorrect": false
+          },
+          {
+            "definition": "微妙的；不易察觉的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

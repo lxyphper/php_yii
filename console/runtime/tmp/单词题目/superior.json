@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "superior",
+      "error_analysis": "学生易因形近词“super”（超级）或词根“super-”（超过）误将“superior”理解为“超级的”或“极好的”，忽略其“更高级的、优于”的核心比较含义。",
+      "sentence": "The new model is **superior** to the old one in terms of performance.",
+      "options": {
+        "option": [
+          {
+            "definition": "更高级的；优于...的",
+            "iscorrect": true
+          },
+          {
+            "definition": "超级的；极好的",
+            "iscorrect": false
+          },
+          {
+            "definition": "超过的；额外的",
+            "iscorrect": false
+          },
+          {
+            "definition": "出色的；卓越的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

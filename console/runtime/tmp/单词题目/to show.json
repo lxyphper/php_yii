@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to show",
+      "error_analysis": "学生易将“to show”与形近词“to shout”（喊叫）或“to slow”（放慢）混淆，误判其核心词义为“展示”以外的含义",
+      "sentence": "Can you **show** me how to use this new phone? I can't find the camera app.",
+      "options": {
+        "option": [
+          {
+            "definition": "展示；显示",
+            "iscorrect": true
+          },
+          {
+            "definition": "喊叫；呼喊",
+            "iscorrect": false
+          },
+          {
+            "definition": "放慢；减速",
+            "iscorrect": false
+          },
+          {
+            "definition": "下雪；降雪",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

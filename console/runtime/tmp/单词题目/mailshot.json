@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mailshot",
+      "error_analysis": "学生易因形近词\"newshot\"(新闻镜头)联想为\"邮件镜头\"，或因词根字面拆解\"mail+shot\"误以为\"邮件射击\"",
+      "sentence": "The company sent out a **mailshot** to 10,000 customers promoting their new line of organic snacks.",
+      "options": {
+        "option": [
+          {
+            "definition": "邮件射击（如用垃圾邮件攻击）",
+            "iscorrect": false
+          },
+          {
+            "definition": "邮件镜头（如邮件中的产品照片）",
+            "iscorrect": false
+          },
+          {
+            "definition": "批量邮件广告；直邮广告",
+            "iscorrect": true
+          },
+          {
+            "definition": "邮递员的一次投递任务",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

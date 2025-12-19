@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "greenhouse effect",
+      "error_analysis": "学生易将“greenhouse”误拆为“green house”（绿色房屋），或字面直译“温室的效果”，未准确理解为固定术语“温室效应”。",
+      "sentence": "Scientists warn that the increasing levels of carbon dioxide are intensifying the **greenhouse effect**, leading to rising global temperatures.",
+      "options": {
+        "option": [
+          {
+            "definition": "温室效应（指大气中某些气体吸收太阳辐射，使地球表面温度升高的现象）",
+            "iscorrect": true
+          },
+          {
+            "definition": "绿色房屋的影响",
+            "iscorrect": false
+          },
+          {
+            "definition": "温室的效果",
+            "iscorrect": false
+          },
+          {
+            "definition": "绿色植物的效应",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

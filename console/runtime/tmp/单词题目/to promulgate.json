@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to promulgate",
+      "error_analysis": "学生易因形近词\"promote\"混淆为\"促进/提升\"，或因词根\"pro-\"误猜为\"宣传/扩大\"。",
+      "sentence": "The government plans to **promulgate** a new law regulating online privacy next month.",
+      "options": {
+        "option": [
+          {
+            "definition": "促进、提升（如职位或业务）",
+            "iscorrect": false
+          },
+          {
+            "definition": "宣传、推广（如产品或理念）",
+            "iscorrect": false
+          },
+          {
+            "definition": "颁布（法律、政策等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "扩大、增加（范围或规模）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

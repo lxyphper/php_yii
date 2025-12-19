@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mortgage",
+      "error_analysis": "学生易因形近词\"message\"或词根\"mort\"(死亡)+\"gage\"错误联想，将\"mortgage\"误解为\"信息\"或\"死亡担保\"。",
+      "sentence": "They took out a **mortgage** to buy their first house.",
+      "options": {
+        "option": [
+          {
+            "definition": "信息",
+            "iscorrect": false
+          },
+          {
+            "definition": "死亡担保",
+            "iscorrect": false
+          },
+          {
+            "definition": "抵押贷款",
+            "iscorrect": true
+          },
+          {
+            "definition": "房屋租赁",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

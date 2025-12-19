@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "almost",
+      "error_analysis": "混淆形近词\"most\"(最)，或根据词根\"al-\"(=all)猜测为\"全部\"",
+      "sentence": "She **almost** missed the bus because she got up late.",
+      "options": {
+        "option": [
+          {
+            "definition": "最；最多",
+            "iscorrect": false
+          },
+          {
+            "definition": "全部；所有",
+            "iscorrect": false
+          },
+          {
+            "definition": "已经；早已",
+            "iscorrect": false
+          },
+          {
+            "definition": "几乎；差不多",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

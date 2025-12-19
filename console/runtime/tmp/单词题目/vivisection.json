@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "vivisection",
+      "error_analysis": "学生易将词根“vivi-”（活的）与“vivid”（生动的）混淆，结合“section”（部分）误判为“生动的片段”，或直接拆分词根为“活的部分”而非“活体解剖”。",
+      "sentence": "The ethical debate over **vivisection** in medical research has been ongoing for decades, with animal rights activists strongly opposing the practice of operating on live animals for scientific purposes.",
+      "options": {
+        "option": [
+          {
+            "definition": "活体解剖",
+            "iscorrect": true
+          },
+          {
+            "definition": "生动的片段",
+            "iscorrect": false
+          },
+          {
+            "definition": "活的部分",
+            "iscorrect": false
+          },
+          {
+            "definition": "活力测试",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

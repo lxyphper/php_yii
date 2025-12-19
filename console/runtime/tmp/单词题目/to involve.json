@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to involve",
+      "error_analysis": "中国学生易混淆形近词“evolve”（进化），或因词根“volve”（滚动）字面误解为“包裹/卷绕”。",
+      "sentence": "Planning a birthday party often **involves** choosing a theme, buying decorations, and preparing food.",
+      "options": {
+        "option": [
+          {
+            "definition": "涉及；需要",
+            "iscorrect": true
+          },
+          {
+            "definition": "进化；发展",
+            "iscorrect": false
+          },
+          {
+            "definition": "包裹；卷绕",
+            "iscorrect": false
+          },
+          {
+            "definition": "陷入；困住",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

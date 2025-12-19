@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sinewy",
+      "error_analysis": "学生易因形近词\"skinny\"(瘦的)干扰或认为\"sinewy\"与\"线\"有关(词根/字面误导)，将其误判为\"瘦的\"或\"有线条的\"",
+      "sentence": "The old boxer had a **sinewy** build, with muscles that stood out like cords under his skin.",
+      "options": {
+        "option": [
+          {
+            "definition": "瘦的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有线条的",
+            "iscorrect": false
+          },
+          {
+            "definition": "闪亮的",
+            "iscorrect": false
+          },
+          {
+            "definition": "结实的；肌肉发达的（尤指瘦而结实的）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

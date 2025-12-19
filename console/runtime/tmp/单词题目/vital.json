@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "vital",
+      "error_analysis": "易混淆形近词virtual（虚拟的）及词根vita（生命）误导的“有活力的”理解",
+      "sentence": "Drinking enough water is **vital** for maintaining good health.",
+      "options": {
+        "option": [
+          {
+            "definition": "虚拟的",
+            "iscorrect": false
+          },
+          {
+            "definition": "至关重要的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有活力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "视觉的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

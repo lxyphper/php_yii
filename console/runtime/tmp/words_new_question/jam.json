@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "jam",
+      "error_analysis": "学生易将“jam”在“交通堵塞”语境中的含义误判为其常见的“果酱”义",
+      "sentence": "The morning traffic **jam** made me late for work again.",
+      "options": {
+        "option": [
+          {
+            "definition": "堵塞（名词，指交通或空间的拥挤状态）",
+            "iscorrect": true
+          },
+          {
+            "definition": "果酱（名词，水果熬制的糊状食品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "即兴演奏（名词，音乐中的即兴表演）",
+            "iscorrect": false
+          },
+          {
+            "definition": "挤压（动词，用力塞进或挤入）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

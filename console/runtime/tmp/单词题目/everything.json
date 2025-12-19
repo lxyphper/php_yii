@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "everything",
+      "error_analysis": "易因形近词\"everyday\"(日常的)混淆词义，或因\"every+thing\"拆分过度直译为\"每个事物\"",
+      "sentence": "After the accident, he realized that **everything** he cared about was still safe.",
+      "options": {
+        "option": [
+          {
+            "definition": "一切；所有事物",
+            "iscorrect": true
+          },
+          {
+            "definition": "日常的；每天的",
+            "iscorrect": false
+          },
+          {
+            "definition": "每个事物",
+            "iscorrect": false
+          },
+          {
+            "definition": "任何事物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

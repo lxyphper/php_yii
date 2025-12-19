@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to frown on",
+      "error_analysis": "学生易将短语字面理解为“对……皱眉”，忽略其“不赞成、反对”的引申义",
+      "sentence": "In some cultures, people **frown on** public displays of affection.",
+      "options": {
+        "option": [
+          {
+            "definition": "不赞成，反对",
+            "iscorrect": true
+          },
+          {
+            "definition": "对……皱眉（表示厌恶）",
+            "iscorrect": false
+          },
+          {
+            "definition": "关注，留意",
+            "iscorrect": false
+          },
+          {
+            "definition": "支持，鼓励",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

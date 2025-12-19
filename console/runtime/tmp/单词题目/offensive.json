@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "offensive",
+      "error_analysis": "中国学生易因形近词“offering”（提供物）或词根“offend”（冒犯）误导，误判“offensive”的正确含义。",
+      "sentence": "The team's new **offensive** strategy helped them score three goals in the first half.",
+      "options": {
+        "option": [
+          {
+            "definition": "进攻的",
+            "iscorrect": true
+          },
+          {
+            "definition": "提供的",
+            "iscorrect": false
+          },
+          {
+            "definition": "冒犯的",
+            "iscorrect": false
+          },
+          {
+            "definition": "防御的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

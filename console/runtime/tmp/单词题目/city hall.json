@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "city hall",
+      "error_analysis": "学生易拆分字面理解为“城市大厅”，或混淆形近词“city mall”（城市购物中心）",
+      "sentence": "The mayor will hold a press conference at **city hall** tomorrow to announce the new traffic policy.",
+      "options": {
+        "option": [
+          {
+            "definition": "市政厅",
+            "iscorrect": true
+          },
+          {
+            "definition": "城市大厅",
+            "iscorrect": false
+          },
+          {
+            "definition": "城市购物中心",
+            "iscorrect": false
+          },
+          {
+            "definition": "城市礼堂",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

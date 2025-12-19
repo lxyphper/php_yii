@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to entitle",
+      "error_analysis": "学生易因形近词\"title\"（标题）误解为\"给...加标题\"，或因词根\"title\"（头衔）误导为\"授予头衔\"，忽略核心义\"使有权利\"。",
+      "sentence": "Having a membership card **entitles** you to a 10% discount on all items in the store.",
+      "options": {
+        "option": [
+          {
+            "definition": "使有权利；赋予资格",
+            "iscorrect": true
+          },
+          {
+            "definition": "给...命名；加标题",
+            "iscorrect": false
+          },
+          {
+            "definition": "使能够；使可行",
+            "iscorrect": false
+          },
+          {
+            "definition": "授予头衔；给予称号",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

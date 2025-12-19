@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mail",
+      "error_analysis": "易混淆形近词“male”（男性）及误将“mail”联想为“邮箱”（mailbox的错误延伸）",
+      "sentence": "Did you get the **mail** I sent you yesterday? It has your new book.",
+      "options": {
+        "option": [
+          {
+            "definition": "男性",
+            "iscorrect": false
+          },
+          {
+            "definition": "邮箱",
+            "iscorrect": false
+          },
+          {
+            "definition": "主要的",
+            "iscorrect": false
+          },
+          {
+            "definition": "邮件；信件",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

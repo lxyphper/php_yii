@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "essayist",
+      "error_analysis": "学生易因“essay”常被译为“论文”而将“essayist”误解为“论文作者”（词根误导）",
+      "sentence": "The famous **essayist** is known for his personal and reflective pieces published in literary magazines.",
+      "options": {
+        "option": [
+          {
+            "definition": "散文家",
+            "iscorrect": true
+          },
+          {
+            "definition": "论文作者",
+            "iscorrect": false
+          },
+          {
+            "definition": "艺术家",
+            "iscorrect": false
+          },
+          {
+            "definition": "小说家",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

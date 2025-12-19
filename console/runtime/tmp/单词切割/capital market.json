@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "capitel market",
+      "capital markit",
+      "capitl market",
+      "capital marcket",
+      "capatal market"
+    ],
+    "correct_chunks": [
+      "cap",
+      "ital",
+      "mar",
+      "ket"
+    ],
+    "distractor_chunks": [
+      "itel",
+      "itl",
+      "kit",
+      "cket",
+      "atal"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to carve",
+      "error_analysis": "中国学生易因形近词“curve”“cave”或词根“car”（汽车）误导，将“carve”误判为“弯曲”“洞穴”或“驾驶”",
+      "sentence": "The artist spent hours **carving** a beautiful statue from a block of marble.",
+      "options": {
+        "option": [
+          {
+            "definition": "雕刻；切割出（形状）",
+            "iscorrect": true
+          },
+          {
+            "definition": "驾驶；开车",
+            "iscorrect": false
+          },
+          {
+            "definition": "（使）弯曲；成曲线",
+            "iscorrect": false
+          },
+          {
+            "definition": "洞穴；山洞",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "businessman",
+      "error_analysis": "学生易因“business”中的“bus”形近联想为“公共汽车司机”，或因“business”拆为“busy+ness”误判为“忙碌的人”",
+      "sentence": "The **businessman** negotiated a big deal with the foreign company to sell his products overseas.",
+      "options": {
+        "option": [
+          {
+            "definition": "商人；企业家",
+            "iscorrect": true
+          },
+          {
+            "definition": "公共汽车司机",
+            "iscorrect": false
+          },
+          {
+            "definition": "忙碌的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "办公室职员",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

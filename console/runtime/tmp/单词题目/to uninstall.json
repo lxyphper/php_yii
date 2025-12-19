@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to uninstall",
+      "error_analysis": "学生易因形近词“unstable”（不稳定的）或对“un-+install”的反义误解（误选“安装”）而混淆其含义。",
+      "sentence": "Before selling your old laptop, you should **uninstall** all personal software to protect your privacy.",
+      "options": {
+        "option": [
+          {
+            "definition": "卸载（软件或应用程序）",
+            "iscorrect": true
+          },
+          {
+            "definition": "不稳定的",
+            "iscorrect": false
+          },
+          {
+            "definition": "安装（软件或应用程序）",
+            "iscorrect": false
+          },
+          {
+            "definition": "卸载（货物或行李）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

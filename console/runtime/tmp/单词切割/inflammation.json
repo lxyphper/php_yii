@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "inflamation",
+      "inflammasion",
+      "enflammation",
+      "inflemmation"
+    ],
+    "correct_chunks": [
+      "in",
+      "flamm",
+      "ation"
+    ],
+    "distractor_chunks": [
+      "flam",
+      "sion",
+      "en",
+      "flem"
+    ]
+  },
+  0
+]

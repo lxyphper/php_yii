@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Asia",
+      "error_analysis": "学生易将\"Asia\"（亚洲）与形近词\"Asian\"（亚洲人）或\"as\"（作为）混淆，导致误判核心词义",
+      "sentence": "China, India, and Japan are all countries located in **Asia**.",
+      "options": {
+        "option": [
+          {
+            "definition": "亚洲",
+            "iscorrect": true
+          },
+          {
+            "definition": "亚洲人",
+            "iscorrect": false
+          },
+          {
+            "definition": "作为",
+            "iscorrect": false
+          },
+          {
+            "definition": "非洲",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

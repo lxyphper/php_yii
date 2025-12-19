@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "resit",
+      "error_analysis": "学生易因形近词\"resist\"(抵抗)混淆词义，或因\"re-\"+\"sit\"字面推导为\"重新坐下\"，忽略其\"重考\"的核心义",
+      "sentence": "Because she failed the math exam, she has to **resit** it next month to graduate.",
+      "options": {
+        "option": [
+          {
+            "definition": "重考；补考（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "抵抗；抵制（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "重新坐下；再坐（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "休息；放松（动词/名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

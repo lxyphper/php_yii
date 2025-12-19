@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to amend",
+      "error_analysis": "混淆形近词“mend”（修理）导致误判“amend”为“修理”，或词根联想错误认为是“彻底修理”而非“修改（文件等）以纠正”",
+      "sentence": "The government decided to **amend** the tax law to fix the loophole that allowed rich people to avoid paying their share.",
+      "options": {
+        "option": [
+          {
+            "definition": "修改（文件、法律等）以纠正错误",
+            "iscorrect": true
+          },
+          {
+            "definition": "修理（破损的物品，如衣服、家具等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "彻底改进（某物的整体状况）",
+            "iscorrect": false
+          },
+          {
+            "definition": "结束（某事或某个过程）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

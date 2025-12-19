@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to subscribe",
+      "error_analysis": "易混淆形近词describe（描述）及词根scribe（写）导致的“描述/写下”错误理解",
+      "sentence": "If you want to receive the weekly newsletter, you need to **subscribe** to it via the website.",
+      "options": {
+        "option": [
+          {
+            "definition": "订阅；同意",
+            "iscorrect": true
+          },
+          {
+            "definition": "描述；描绘",
+            "iscorrect": false
+          },
+          {
+            "definition": "写下；记录",
+            "iscorrect": false
+          },
+          {
+            "definition": "提交；呈交",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

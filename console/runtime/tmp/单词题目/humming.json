@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "humming",
+      "error_analysis": "学生易将'humming'（嗡嗡声/哼唱）混淆为形近词'hunting'（打猎）或误通过词根'hum'（人类/土）猜测为与'人类活动'相关的含义",
+      "sentence": "The bees were **humming** around the apple tree, busy collecting nectar.",
+      "options": {
+        "option": [
+          {
+            "definition": "打猎",
+            "iscorrect": false
+          },
+          {
+            "definition": "嗡嗡叫（或嗡嗡声）",
+            "iscorrect": true
+          },
+          {
+            "definition": "锤击声",
+            "iscorrect": false
+          },
+          {
+            "definition": "人类的活动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "reckless",
+      "error_analysis": "学生易因形近词reckon（估计）误将reckless理解为“估计的”，或因词根reck（古英语“关心”）不熟悉而猜为“没有理由的”。",
+      "sentence": "The teenager’s **reckless** driving caused a serious accident on the highway.",
+      "options": {
+        "option": [
+          {
+            "definition": "估计的；计算的",
+            "iscorrect": false
+          },
+          {
+            "definition": "没有理由的；无根据的",
+            "iscorrect": false
+          },
+          {
+            "definition": "鲁莽的；不计后果的",
+            "iscorrect": true
+          },
+          {
+            "definition": "粗心的；疏忽的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

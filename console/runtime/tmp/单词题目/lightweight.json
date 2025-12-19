@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lightweight",
+      "error_analysis": "学生易因\"light\"(轻的)+\"weight\"(重量)的字面组合，误将\"lightweight\"理解为\"轻的重量\"，忽略其\"不重要的/无足轻重的\"引申义",
+      "sentence": "The new candidate is considered a **lightweight** in the election because he has no prior political experience.",
+      "options": {
+        "option": [
+          {
+            "definition": "（人或事物）不重要的；无足轻重的",
+            "iscorrect": true
+          },
+          {
+            "definition": "轻的重量",
+            "iscorrect": false
+          },
+          {
+            "definition": "发光的物体",
+            "iscorrect": false
+          },
+          {
+            "definition": "重型设备",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

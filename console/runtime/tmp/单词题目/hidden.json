@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hidden",
+      "error_analysis": "学生易因形近词“happen”（发生）的联想，将“hidden”误理解为“发生的”或“碰巧的”。",
+      "sentence": "The treasure was **hidden** in a cave behind the waterfall.",
+      "options": {
+        "option": [
+          {
+            "definition": "隐藏的",
+            "iscorrect": true
+          },
+          {
+            "definition": "发生的",
+            "iscorrect": false
+          },
+          {
+            "definition": "碰巧的",
+            "iscorrect": false
+          },
+          {
+            "definition": "旧的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

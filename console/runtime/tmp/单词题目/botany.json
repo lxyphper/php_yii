@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "botany",
+      "error_analysis": "学生易将\"botany\"中的\"bot\"与\"机器人\"（bot）联系，或因与\"bottle\"形近，误猜为\"机器人学\"或\"瓶子制造术\"。",
+      "sentence": "Her passion for **botany** led her to spend every weekend exploring the local forest and documenting different plant species.",
+      "options": {
+        "option": [
+          {
+            "definition": "植物学",
+            "iscorrect": true
+          },
+          {
+            "definition": "机器人学",
+            "iscorrect": false
+          },
+          {
+            "definition": "瓶子制造术",
+            "iscorrect": false
+          },
+          {
+            "definition": "园艺学",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

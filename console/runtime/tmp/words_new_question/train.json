@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "train",
+      "error_analysis": "中国学生易因形近将“train”误联想为“rain”（雨），或混淆其动词义“训练”与名词义“火车”。",
+      "sentence": "The soccer coach will **train** the new players every weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "雨",
+            "iscorrect": false
+          },
+          {
+            "definition": "火车",
+            "iscorrect": false
+          },
+          {
+            "definition": "训练（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "一串（如想法）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

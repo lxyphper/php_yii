@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "contest",
+      "error_analysis": "易混淆形近词context（上下文），或因词根con-+test误判为“共同测试”",
+      "sentence": "She decided to enter the singing **contest** to showcase her talent.",
+      "options": {
+        "option": [
+          {
+            "definition": "比赛；竞赛",
+            "iscorrect": true
+          },
+          {
+            "definition": "上下文",
+            "iscorrect": false
+          },
+          {
+            "definition": "共同测试",
+            "iscorrect": false
+          },
+          {
+            "definition": "合同",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

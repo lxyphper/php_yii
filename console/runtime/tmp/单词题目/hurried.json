@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hurried",
+      "error_analysis": "易因形近词“harried”（烦恼的）混淆，或因“hurry”词根过度直译误理解为“催促的”（主动义）。",
+      "sentence": "She ate a **hurried** breakfast before rushing to catch the bus.",
+      "options": {
+        "option": [
+          {
+            "definition": "匆忙的；仓促的",
+            "iscorrect": true
+          },
+          {
+            "definition": "烦恼的；疲惫的",
+            "iscorrect": false
+          },
+          {
+            "definition": "催促的；迫使的",
+            "iscorrect": false
+          },
+          {
+            "definition": "兴奋的；激动的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

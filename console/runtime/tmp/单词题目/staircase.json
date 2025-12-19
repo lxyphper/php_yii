@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "staircase",
+      "error_analysis": "学生易因\"stair+case\"的字面拆分，将\"staircase\"误理解为\"楼梯盒\"或\"楼梯的情况\"",
+      "sentence": "The old house had a grand **staircase** with carved railings leading to the attic.",
+      "options": {
+        "option": [
+          {
+            "definition": "楼梯（指有扶手的阶梯结构）",
+            "iscorrect": true
+          },
+          {
+            "definition": "楼梯盒（用于存放楼梯部件的盒子）",
+            "iscorrect": false
+          },
+          {
+            "definition": "楼梯的案例（与楼梯相关的例子）",
+            "iscorrect": false
+          },
+          {
+            "definition": "楼梯扶手（楼梯旁边的栏杆）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

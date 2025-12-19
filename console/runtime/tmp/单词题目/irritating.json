@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "irritating",
+      "error_analysis": "中国学生易因形近词\"interesting\"（有趣的）或词根错误推导（认为\"irritating\"是\"刺激的\"）而误判",
+      "sentence": "The neighbor’s loud music every night is really **irritating**—it’s hard to concentrate on my studies.",
+      "options": {
+        "option": [
+          {
+            "definition": "有趣的",
+            "iscorrect": false
+          },
+          {
+            "definition": "刺激的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不规则的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人烦躁的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

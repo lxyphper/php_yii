@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fire station",
+      "error_analysis": "学生可能因“fire station”与“fireplace”（壁炉）形近而混淆，或因“fire”+“station”的字面组合错误推导为“火电站”，忽略其“消防站”的核心含义。",
+      "sentence": "When the alarm rang, the firefighters quickly rushed to the **fire station** to get their equipment.",
+      "options": {
+        "option": [
+          {
+            "definition": "消防站（消防机构的驻地，消防员工作及存放装备的地方）",
+            "iscorrect": true
+          },
+          {
+            "definition": "壁炉（用于取暖或做饭的家用设备）",
+            "iscorrect": false
+          },
+          {
+            "definition": "火电站（利用火力发电的工厂）",
+            "iscorrect": false
+          },
+          {
+            "definition": "火灾现场的临时指挥站",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "amino acid",
+      "error_analysis": "学生易因“amino”与“animal”形近误判为“动物酸”，或因不熟悉“amino”词根直译为“胺酸”。",
+      "sentence": "Proteins are made up of long chains of **amino acids**, which are essential for muscle growth and body repair.",
+      "options": {
+        "option": [
+          {
+            "definition": "氨基酸",
+            "iscorrect": true
+          },
+          {
+            "definition": "动物酸",
+            "iscorrect": false
+          },
+          {
+            "definition": "胺酸",
+            "iscorrect": false
+          },
+          {
+            "definition": "植物酸",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

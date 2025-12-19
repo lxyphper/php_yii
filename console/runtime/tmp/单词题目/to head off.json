@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to head off",
+      "error_analysis": "学生易因“head”（前进）和“off”（离开）的字面义误解为“出发”，或混淆“head off”与“head for”（前往）的含义",
+      "sentence": "The manager hurried to **head off** the crisis before it damaged the company's reputation.",
+      "options": {
+        "option": [
+          {
+            "definition": "阻止，防止（某事发生）",
+            "iscorrect": true
+          },
+          {
+            "definition": "出发，动身",
+            "iscorrect": false
+          },
+          {
+            "definition": "前往，驶向",
+            "iscorrect": false
+          },
+          {
+            "definition": "领导，主管",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

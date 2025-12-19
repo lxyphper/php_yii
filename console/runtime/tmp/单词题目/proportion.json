@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "proportion",
+      "error_analysis": "易混淆形近词\"portion\"（部分），或词根\"pro-\"+\"\"portion\"\"过度推导导致误判为\"部分\"。",
+      "sentence": "The **proportion** of female employees in the company has increased to 45% this year.",
+      "options": {
+        "option": [
+          {
+            "definition": "比例；份额",
+            "iscorrect": true
+          },
+          {
+            "definition": "部分；一份",
+            "iscorrect": false
+          },
+          {
+            "definition": "向前的部分；前沿",
+            "iscorrect": false
+          },
+          {
+            "definition": "数量；总数",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

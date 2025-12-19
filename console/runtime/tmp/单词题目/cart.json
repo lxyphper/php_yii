@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cart",
+      "error_analysis": "学生易因形近词\"card\"（卡片）混淆，或误将\"cart\"与\"car\"（汽车）关联，错解为\"卡片\"或\"汽车\"。",
+      "sentence": "The shop assistant helped the customer load the groceries into the **cart** at the supermarket.",
+      "options": {
+        "option": [
+          {
+            "definition": "手推车；购物车",
+            "iscorrect": true
+          },
+          {
+            "definition": "卡片；纸牌",
+            "iscorrect": false
+          },
+          {
+            "definition": "汽车；小轿车",
+            "iscorrect": false
+          },
+          {
+            "definition": "马车；四轮车",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

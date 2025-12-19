@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "coronation",
+      "error_analysis": "学生易因形近词\"corporation\"(公司)或字面拆分\"nation\"(国家)将\"coronation\"误判为\"公司\"或\"国家相关仪式\"",
+      "sentence": "The **coronation** of King Charles III was held at Westminster Abbey in 2023, attracting millions of viewers worldwide.",
+      "options": {
+        "option": [
+          {
+            "definition": "公司",
+            "iscorrect": false
+          },
+          {
+            "definition": "加冕礼",
+            "iscorrect": true
+          },
+          {
+            "definition": "国家庆典",
+            "iscorrect": false
+          },
+          {
+            "definition": "结合仪式",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

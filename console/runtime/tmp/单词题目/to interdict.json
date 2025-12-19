@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to interdict",
+      "error_analysis": "学生可能因形近词\"interrupt\"（打断）或词根\"inter-+dict\"的错误推导，将\"to interdict\"误解为\"打断\"或\"插话\"。",
+      "sentence": "The government decided to **interdict** the sale of unapproved dietary supplements to protect public health.",
+      "options": {
+        "option": [
+          {
+            "definition": "禁止；阻止",
+            "iscorrect": true
+          },
+          {
+            "definition": "打断（谈话或活动）",
+            "iscorrect": false
+          },
+          {
+            "definition": "插话；干预",
+            "iscorrect": false
+          },
+          {
+            "definition": "预测；预告",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

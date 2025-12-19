@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "shaky",
+      "error_analysis": "学生易将\"shaky\"与形近词\"shabby\"（破旧的）混淆，或因词根\"shake\"过度直译为\"颤抖的\"而非\"摇晃的/不稳定的\"。",
+      "sentence": "She stood on the **shaky** ladder to reach the top shelf.",
+      "options": {
+        "option": [
+          {
+            "definition": "摇晃的；不稳定的",
+            "iscorrect": true
+          },
+          {
+            "definition": "破旧的；寒酸的",
+            "iscorrect": false
+          },
+          {
+            "definition": "颤抖的；发抖的",
+            "iscorrect": false
+          },
+          {
+            "definition": "闪亮的；有光泽的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "livestock",
+      "error_analysis": "学生易拆“livestock”为“live+stock”误判“活的股票/库存”，或与“lifestyle”混淆误判“生活方式”",
+      "sentence": "The farmer spends hours every day feeding and watering the **livestock** on his farm, like cows, sheep, and pigs.",
+      "options": {
+        "option": [
+          {
+            "definition": "生活方式",
+            "iscorrect": false
+          },
+          {
+            "definition": "活的股票",
+            "iscorrect": false
+          },
+          {
+            "definition": "鲜活库存",
+            "iscorrect": false
+          },
+          {
+            "definition": "家畜；牲畜",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

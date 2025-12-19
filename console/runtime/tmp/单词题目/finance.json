@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "finance",
+      "error_analysis": "易因形近词\"finish\"(完成)及词根联想\"fine\"(罚款/优秀)产生错误理解",
+      "sentence": "The government plans to increase investment in public **finance** to improve healthcare services.",
+      "options": {
+        "option": [
+          {
+            "definition": "财政；金融",
+            "iscorrect": true
+          },
+          {
+            "definition": "完成",
+            "iscorrect": false
+          },
+          {
+            "definition": "罚款",
+            "iscorrect": false
+          },
+          {
+            "definition": "优秀",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

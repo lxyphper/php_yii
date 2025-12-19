@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "heartbroken",
+      "error_analysis": "学生易将“heartbroken”仅理解为字面的“心脏破碎的”（生理层面），忽略其引申的“因失去而极度悲伤的”（情感层面）核心含义。",
+      "sentence": "After her dog passed away, Sarah was **heartbroken** and couldn’t stop crying for days.",
+      "options": {
+        "option": [
+          {
+            "definition": "心脏破碎的（生理上的损伤）",
+            "iscorrect": false
+          },
+          {
+            "definition": "衷心的（真诚的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "热情的（友好而热情的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "极度悲伤的（因失去某人或某事而痛苦）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

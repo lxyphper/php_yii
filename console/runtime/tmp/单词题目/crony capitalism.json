@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "crony capitalism",
+      "error_analysis": "学生易因“crony”与形近词“corny”（老套的）混淆，或词根联想错误（如认为“crony”与“时间”相关），将其误判为“老套的资本主义”或“长期资本主义”。",
+      "sentence": "The report criticized the country's economic system, where businesses thrive not through innovation but by leveraging political connections—a classic example of **crony capitalism**.",
+      "options": {
+        "option": [
+          {
+            "definition": "裙带资本主义（指商业依赖政府关系而非市场竞争的经济体系）",
+            "iscorrect": true
+          },
+          {
+            "definition": "老套的资本主义（因循守旧、缺乏创新的经济模式）",
+            "iscorrect": false
+          },
+          {
+            "definition": "长期存在的资本主义（持续时间长的资本主义制度）",
+            "iscorrect": false
+          },
+          {
+            "definition": "依赖农业作物的资本主义（以农作物生产为核心的资本主义经济）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

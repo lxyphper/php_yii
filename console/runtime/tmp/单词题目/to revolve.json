@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to revolve",
+      "error_analysis": "学生易因形近词“resolve”（解决）的干扰，将“revolve”误解为“解决；决心”",
+      "sentence": "The Earth **revolves** around the Sun.",
+      "options": {
+        "option": [
+          {
+            "definition": "围绕...旋转；转动",
+            "iscorrect": true
+          },
+          {
+            "definition": "解决；决心",
+            "iscorrect": false
+          },
+          {
+            "definition": "进化；发展",
+            "iscorrect": false
+          },
+          {
+            "definition": "再次卷起来",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

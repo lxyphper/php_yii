@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "anomalous",
+      "error_analysis": "学生易将'anomalous'与形近词'anonymous'（匿名的）混淆，或词根误解为“没有名字的”。",
+      "sentence": "The data showed an **anomalous** pattern—instead of increasing, sales dropped sharply in July.",
+      "options": {
+        "option": [
+          {
+            "definition": "异常的；不规律的",
+            "iscorrect": true
+          },
+          {
+            "definition": "匿名的",
+            "iscorrect": false
+          },
+          {
+            "definition": "自主的",
+            "iscorrect": false
+          },
+          {
+            "definition": "普通的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

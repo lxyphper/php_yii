@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "outside",
+      "error_analysis": "学生易因形近词“outsider”误将“outside”理解为“外人”，或因“out+side”拆分误理解为“外边的边”。",
+      "sentence": "The kids are playing **outside** the classroom, so you can hear their laughter from here.",
+      "options": {
+        "option": [
+          {
+            "definition": "在...外面（介词）；外部的（形容词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "外人（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "外边的边（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "向外的（副词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

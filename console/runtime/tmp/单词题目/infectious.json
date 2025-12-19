@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "infectious",
+      "error_analysis": "中国学生易因形近词\"infamous\"（臭名昭著的）混淆词义，或因词根\"infect\"（感染）过度直译而误判为\"被感染的\"。",
+      "sentence": "Her **infectious** laughter quickly spread to the whole class, making even the shyest students giggle.",
+      "options": {
+        "option": [
+          {
+            "definition": "有传染性的；有感染力的",
+            "iscorrect": true
+          },
+          {
+            "definition": "臭名昭著的",
+            "iscorrect": false
+          },
+          {
+            "definition": "被感染的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人厌烦的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "of course",
+      "error_analysis": "学生易将\"of course\"拆分为\"of\"（的）和\"course\"（课程/路线），误解为\"课程的；路线的\"。",
+      "sentence": "—Can you help me with this homework? —**Of course**! I’d be happy to.",
+      "options": {
+        "option": [
+          {
+            "definition": "当然；自然",
+            "iscorrect": true
+          },
+          {
+            "definition": "课程的；路线的",
+            "iscorrect": false
+          },
+          {
+            "definition": "原因的；由于的",
+            "iscorrect": false
+          },
+          {
+            "definition": "当然不；绝不",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

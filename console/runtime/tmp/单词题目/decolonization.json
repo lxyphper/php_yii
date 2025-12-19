@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "decolonization",
+      "error_analysis": "学生易因形近词\"decoration\"（装饰）产生联想，或因\"colon\"（结肠）的词根误导，将\"decolonization\"错误理解为\"装饰\"或\"结肠切除\"。",
+      "sentence": "The process of **decolonization** in Africa during the 20th century led to the independence of many nations.",
+      "options": {
+        "option": [
+          {
+            "definition": "装饰",
+            "iscorrect": false
+          },
+          {
+            "definition": "结肠切除",
+            "iscorrect": false
+          },
+          {
+            "definition": "去殖民化",
+            "iscorrect": true
+          },
+          {
+            "definition": "殖民扩张",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

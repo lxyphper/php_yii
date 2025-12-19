@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "utility",
+      "error_analysis": "学生易因形近词\"utilize\"（利用）将\"utility\"误解为\"利用\"，或因词根\"util-\"（有用的）过度联想为\"有用的东西\"，忽略其\"公共设施\"的核心义。",
+      "sentence": "The city's **utility** services, including water and electricity, were restored after the storm.",
+      "options": {
+        "option": [
+          {
+            "definition": "公共设施（如水电等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "利用",
+            "iscorrect": false
+          },
+          {
+            "definition": "有用的东西",
+            "iscorrect": false
+          },
+          {
+            "definition": "效率",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cramp",
+      "error_analysis": "学生易因形近词\"camp\"（营地）混淆，或误联想\"crush\"（挤压）等词导致理解偏差",
+      "sentence": "After running a marathon, she felt a sharp **cramp** in her calf and had to stop walking.",
+      "options": {
+        "option": [
+          {
+            "definition": "（肌肉）痉挛；抽筋",
+            "iscorrect": true
+          },
+          {
+            "definition": "营地；露营",
+            "iscorrect": false
+          },
+          {
+            "definition": "挤压；压碎",
+            "iscorrect": false
+          },
+          {
+            "definition": "爬行；匍匐",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

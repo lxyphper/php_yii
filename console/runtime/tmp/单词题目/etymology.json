@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "etymology",
+      "error_analysis": "学生易因形近词\"entomology\"(昆虫学)混淆，或因词根\"etymo-\"不熟悉而误判为其他学科（如种族研究）。",
+      "sentence": "To understand why \"nice\" once meant \"foolish\" in Middle English, linguists often examine its **etymology**.",
+      "options": {
+        "option": [
+          {
+            "definition": "昆虫学（研究昆虫的学科）",
+            "iscorrect": false
+          },
+          {
+            "definition": "词源学（研究词的起源与历史的学科）",
+            "iscorrect": true
+          },
+          {
+            "definition": "种族研究（关于种族特征的学科）",
+            "iscorrect": false
+          },
+          {
+            "definition": "词形变化研究（关于单词形态的学科）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

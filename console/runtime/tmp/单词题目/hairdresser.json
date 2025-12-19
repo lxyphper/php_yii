@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hairdresser",
+      "error_analysis": "学生易因\"dresser\"的形近义（梳妆台/服装师）将\"hairdresser\"误解为\"头发梳妆台\"或\"服装师\"",
+      "sentence": "I need to book an appointment with a **hairdresser** because my hair is too long and I want a new style.",
+      "options": {
+        "option": [
+          {
+            "definition": "理发师；美发师",
+            "iscorrect": true
+          },
+          {
+            "definition": "（放置头发的）梳妆台",
+            "iscorrect": false
+          },
+          {
+            "definition": "（剧院的）服装师",
+            "iscorrect": false
+          },
+          {
+            "definition": "头发护理产品",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

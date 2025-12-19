@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to applaud",
+      "error_analysis": "学生易因\"applaud\"与\"apply\"（应用）形近而误判，或因\"laud\"与\"load\"（装载）字面联想猜错词义",
+      "sentence": "The audience stood up to **applaud** the pianist after his wonderful performance.",
+      "options": {
+        "option": [
+          {
+            "definition": "应用；申请",
+            "iscorrect": false
+          },
+          {
+            "definition": "装载；加载",
+            "iscorrect": false
+          },
+          {
+            "definition": "鼓掌；称赞",
+            "iscorrect": true
+          },
+          {
+            "definition": "批准；同意",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

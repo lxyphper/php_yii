@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "whiskey",
+      "error_analysis": "中国学生易因形近词\"whisk\"（搅拌器）或\"whisker\"（胡须）的联想，将\"whiskey\"错误理解为厨房工具或面部毛发。",
+      "sentence": "He ordered a glass of **whiskey** with ice at the bar.",
+      "options": {
+        "option": [
+          {
+            "definition": "威士忌（一种蒸馏酒）",
+            "iscorrect": true
+          },
+          {
+            "definition": "搅拌器（厨房用具）",
+            "iscorrect": false
+          },
+          {
+            "definition": "胡须（面部毛发）",
+            "iscorrect": false
+          },
+          {
+            "definition": "口哨（发出声音的工具）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

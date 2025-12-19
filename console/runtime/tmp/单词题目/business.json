@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "business",
+      "error_analysis": "学生易因形近词\"busy\"（忙碌）或\"bus\"（公共汽车）将\"business\"误解为\"忙碌（状态）\"或\"公共汽车\"。",
+      "sentence": "Mary opened a small **business** selling organic coffee in her neighborhood last month.",
+      "options": {
+        "option": [
+          {
+            "definition": "商业；生意",
+            "iscorrect": true
+          },
+          {
+            "definition": "忙碌（状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "公共汽车",
+            "iscorrect": false
+          },
+          {
+            "definition": "家庭琐事",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

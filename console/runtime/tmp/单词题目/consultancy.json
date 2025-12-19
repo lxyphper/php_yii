@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "consultancy",
+      "error_analysis": "易将\"consultancy\"误理解为\"顾问（个人，对应consultant）\"或\"咨询的行为（对应consultation）\"",
+      "sentence": "Our team partnered with a **consultancy** to develop a more efficient workflow system.",
+      "options": {
+        "option": [
+          {
+            "definition": "顾问（个人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "咨询公司；咨询服务",
+            "iscorrect": true
+          },
+          {
+            "definition": "咨询的行为",
+            "iscorrect": false
+          },
+          {
+            "definition": "合同协议",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

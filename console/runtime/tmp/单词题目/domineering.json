@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "domineering",
+      "error_analysis": "学生易将\"domineering\"与形近词\"dominant\"（占主导的）混淆，或通过词根\"domin-\"错误推导为\"统治的\"，忽略其\"专横、盛气凌人的\"贬义。",
+      "sentence": "Her **domineering** mother always decided everything for her, refusing to listen to her opinions.",
+      "options": {
+        "option": [
+          {
+            "definition": "专横的；盛气凌人的",
+            "iscorrect": true
+          },
+          {
+            "definition": "占主导地位的；支配的",
+            "iscorrect": false
+          },
+          {
+            "definition": "主人的；统治的",
+            "iscorrect": false
+          },
+          {
+            "definition": "国内的；家庭的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

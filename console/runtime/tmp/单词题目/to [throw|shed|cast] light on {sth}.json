@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to [throw|shed|cast] light on {sth}",
+      "error_analysis": "将短语字面理解为\"用物理光照射某物\"，而非比喻义的\"阐明、解释\"",
+      "sentence": "The new research **cast light on** the reasons why some birds migrate thousands of miles each year.",
+      "options": {
+        "option": [
+          {
+            "definition": "阐明；解释某事的原因或真相",
+            "iscorrect": true
+          },
+          {
+            "definition": "用物理光照射某物（如用灯照亮）",
+            "iscorrect": false
+          },
+          {
+            "definition": "使某物失去光（如脱落或移除光线）",
+            "iscorrect": false
+          },
+          {
+            "definition": "强调某事的重要性或紧迫性",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

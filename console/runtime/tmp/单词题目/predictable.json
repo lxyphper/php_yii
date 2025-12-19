@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "predictable",
+      "error_analysis": "学生易因形近词\"predictive\"(预测性的)或词根\"predict\"的主动义误解\"predictable\"为\"预测的(主动)\"，而非\"可被预测的\"。",
+      "sentence": "The movie's ending was **predictable**—I knew exactly what would happen before it even started.",
+      "options": {
+        "option": [
+          {
+            "definition": "可预测的；意料之中的",
+            "iscorrect": true
+          },
+          {
+            "definition": "预测性的",
+            "iscorrect": false
+          },
+          {
+            "definition": "正在预测的",
+            "iscorrect": false
+          },
+          {
+            "definition": "更可取的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

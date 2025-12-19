@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "material",
+      "error_analysis": "中国学生易因形近词“maternal”（母亲的）或“matter”（事情），或词根“mater”（母亲）错误理解“material”为“母性的”或“事情”。",
+      "sentence": "The construction workers need to buy more **material** for the new building.",
+      "options": {
+        "option": [
+          {
+            "definition": "材料；原料",
+            "iscorrect": true
+          },
+          {
+            "definition": "母亲的；母性的",
+            "iscorrect": false
+          },
+          {
+            "definition": "事情；问题",
+            "iscorrect": false
+          },
+          {
+            "definition": "母性的；与母亲有关的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

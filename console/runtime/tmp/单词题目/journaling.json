@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "journaling",
+      "error_analysis": "易混淆形近词\"journey\"(旅行)或\"journalist\"(记者)，或误将动名词理解为\"日记簿\"(名词)",
+      "sentence": "Many people find **journaling** a helpful way to reflect on their daily experiences and emotions.",
+      "options": {
+        "option": [
+          {
+            "definition": "写日记（的行为）",
+            "iscorrect": true
+          },
+          {
+            "definition": "旅行（的行为）",
+            "iscorrect": false
+          },
+          {
+            "definition": "做记者工作",
+            "iscorrect": false
+          },
+          {
+            "definition": "日记簿/日记本",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

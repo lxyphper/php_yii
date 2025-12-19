@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to mitigate",
+      "error_analysis": "易因形近词“migrate”（迁移）及词根联想“调解”（mediate）而误判词义",
+      "sentence": "The government is taking measures to **mitigate** the impact of the economic crisis on low-income families.",
+      "options": {
+        "option": [
+          {
+            "definition": "减轻；缓解",
+            "iscorrect": true
+          },
+          {
+            "definition": "迁移；移居",
+            "iscorrect": false
+          },
+          {
+            "definition": "调解；斡旋",
+            "iscorrect": false
+          },
+          {
+            "definition": "增加；加剧",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

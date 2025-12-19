@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "success",
+      "error_analysis": "中国学生易因形近词\"succession\"或词根\"suc-+cess\"的错误推导，将\"success\"误理解为\"继承/连续\"或\"跟随/接着发生\"。",
+      "sentence": "After years of practice, his **success** in the piano competition made everyone proud.",
+      "options": {
+        "option": [
+          {
+            "definition": "成功（名词，指达到预期目标或获得成就的状态）",
+            "iscorrect": true
+          },
+          {
+            "definition": "继承；连续",
+            "iscorrect": false
+          },
+          {
+            "definition": "跟随；接着发生",
+            "iscorrect": false
+          },
+          {
+            "definition": "连续的事件",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Egyptian",
+      "error_analysis": "学生易将\"Egyptian\"的形容词用法与形近词\"Egypt\"（名词）混淆，或误猜为\"埃及语\"（词根/字面误导）",
+      "sentence": "The **Egyptian** pyramids at Giza attract millions of tourists every year.",
+      "options": {
+        "option": [
+          {
+            "definition": "埃及",
+            "iscorrect": false
+          },
+          {
+            "definition": "埃及的",
+            "iscorrect": true
+          },
+          {
+            "definition": "埃及语",
+            "iscorrect": false
+          },
+          {
+            "definition": "埃及人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

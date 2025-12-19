@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to drag",
+      "error_analysis": "中国学生易因形近词“drug”（药物）混淆“to drag”的词义，或误将其理解为“推”等相反动作。",
+      "sentence": "She had to **drag** her heavy suitcase up the stairs because the elevator was broken.",
+      "options": {
+        "option": [
+          {
+            "definition": "拖；拉（重物，有阻力地）",
+            "iscorrect": true
+          },
+          {
+            "definition": "给…用药；使服药物",
+            "iscorrect": false
+          },
+          {
+            "definition": "推；推动",
+            "iscorrect": false
+          },
+          {
+            "definition": "画；绘制",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

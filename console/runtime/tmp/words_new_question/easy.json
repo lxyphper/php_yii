@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "easy",
+      "error_analysis": "中国学生易因形近词“ease”（安逸、缓解）的干扰，将“easy”误理解为“安逸的”（形容词）或“使轻松”（动词）。",
+      "sentence": "The math problem is so **easy** that even a primary school student can solve it.",
+      "options": {
+        "option": [
+          {
+            "definition": "容易的；不费力的",
+            "iscorrect": true
+          },
+          {
+            "definition": "安逸的；舒适的",
+            "iscorrect": false
+          },
+          {
+            "definition": "使轻松；缓解（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "随和的；好相处的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

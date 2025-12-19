@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "scuba diving",
+      "error_analysis": "学生易将“scuba diving”误理解为“跳水”（因diving有跳水义）或“自由潜水”（混淆带水肺与无装备潜水的区别）",
+      "sentence": "During our vacation in Bali, we went **scuba diving** and saw colorful coral reefs and tropical fish.",
+      "options": {
+        "option": [
+          {
+            "definition": "跳水",
+            "iscorrect": false
+          },
+          {
+            "definition": "水肺潜水",
+            "iscorrect": true
+          },
+          {
+            "definition": "自由潜水",
+            "iscorrect": false
+          },
+          {
+            "definition": "水下游泳",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

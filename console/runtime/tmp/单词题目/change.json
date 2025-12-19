@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "change",
+      "error_analysis": "易混淆形近词charge（收费/指控），或误将change理解为交换（词根误导）",
+      "sentence": "Could you please give me some **change**? I need to buy a bottle of water from the vending machine.",
+      "options": {
+        "option": [
+          {
+            "definition": "零钱",
+            "iscorrect": true
+          },
+          {
+            "definition": "收费；指控",
+            "iscorrect": false
+          },
+          {
+            "definition": "交换",
+            "iscorrect": false
+          },
+          {
+            "definition": "机会",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

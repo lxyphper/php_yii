@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to sue",
+      "error_analysis": "学生易因形近词（如sew/use）或字面联想而将“to sue”误解为“缝补”“使用”或“请求”，而非核心义“起诉”。",
+      "sentence": "After the accident, the victim decided to **sue** the driver for compensation.",
+      "options": {
+        "option": [
+          {
+            "definition": "起诉；控告",
+            "iscorrect": true
+          },
+          {
+            "definition": "缝补；缝制",
+            "iscorrect": false
+          },
+          {
+            "definition": "使用；利用",
+            "iscorrect": false
+          },
+          {
+            "definition": "请求；要求",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

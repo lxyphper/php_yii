@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to collate",
+      "error_analysis": "学生易因形近词“collect”（收集）误判“collate”为“收集”，或因“late”词根误解为“整理晚到的物品”",
+      "sentence": "Before submitting the report, she needed to **collate** all the data from the surveys and arrange it in chronological order.",
+      "options": {
+        "option": [
+          {
+            "definition": "整理（文件、资料等）并按顺序排列",
+            "iscorrect": true
+          },
+          {
+            "definition": "收集（物品、信息等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "整理晚到的物品",
+            "iscorrect": false
+          },
+          {
+            "definition": "比较（不同文本的内容）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

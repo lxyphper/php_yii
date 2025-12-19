@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to charm",
+      "error_analysis": "学生易因形近词\"harm\"(伤害)或\"charge\"(充电)产生错误联想，误将\"to charm\"理解为负面或无关动作",
+      "sentence": "The magician’s performance **charmed** the entire audience, making them laugh and cheer loudly.",
+      "options": {
+        "option": [
+          {
+            "definition": "伤害",
+            "iscorrect": false
+          },
+          {
+            "definition": "迷住；吸引",
+            "iscorrect": true
+          },
+          {
+            "definition": "充电",
+            "iscorrect": false
+          },
+          {
+            "definition": "指责",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

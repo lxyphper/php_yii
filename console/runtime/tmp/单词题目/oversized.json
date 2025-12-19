@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "oversized",
+      "error_analysis": "学生易因形近词\"overseas\"（海外的）混淆，或因\"over-+sized\"误推为\"过度的\"而非\"尺寸过大的\"",
+      "sentence": "She bought an **oversized** coat that was too big for her, even though she liked its loose style.",
+      "options": {
+        "option": [
+          {
+            "definition": "超大尺寸的",
+            "iscorrect": true
+          },
+          {
+            "definition": "海外的",
+            "iscorrect": false
+          },
+          {
+            "definition": "过度的",
+            "iscorrect": false
+          },
+          {
+            "definition": "超重的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

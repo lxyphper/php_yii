@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "a.m.",
+      "error_analysis": "学生易将“a.m.”与be动词“am”混淆（形近），或与“p.m.”搞反（时段混淆）。",
+      "sentence": "She usually goes for a run at 7 **a.m.** before heading to school.",
+      "options": {
+        "option": [
+          {
+            "definition": "是（be动词，用于第一人称单数）",
+            "iscorrect": false
+          },
+          {
+            "definition": "下午（中午12点之后的时段）",
+            "iscorrect": false
+          },
+          {
+            "definition": "上午（中午12点之前的时段）",
+            "iscorrect": true
+          },
+          {
+            "definition": "午夜（晚上12点整）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

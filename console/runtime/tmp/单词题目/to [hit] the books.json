@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to [hit] the books",
+      "error_analysis": "学生易因“hit”字面义“击打”或形近词“heat”（热）混淆，误解为“击打/加热书籍”。",
+      "sentence": "I have a big exam tomorrow, so I need to **hit the books** tonight instead of watching TV.",
+      "options": {
+        "option": [
+          {
+            "definition": "用功学习；开始认真读书",
+            "iscorrect": true
+          },
+          {
+            "definition": "击打书籍",
+            "iscorrect": false
+          },
+          {
+            "definition": "加热书籍",
+            "iscorrect": false
+          },
+          {
+            "definition": "把书碰掉在地上",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

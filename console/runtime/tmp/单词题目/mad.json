@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mad",
+      "error_analysis": "学生易因形近词\"bad\"（坏的）或\"sad\"（悲伤的）误判\"mad\"的词义",
+      "sentence": "She got **mad** when her sister borrowed her dress without asking.",
+      "options": {
+        "option": [
+          {
+            "definition": "生气的",
+            "iscorrect": true
+          },
+          {
+            "definition": "坏的",
+            "iscorrect": false
+          },
+          {
+            "definition": "悲伤的",
+            "iscorrect": false
+          },
+          {
+            "definition": "疯狂的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

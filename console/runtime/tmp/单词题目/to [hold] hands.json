@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to [hold] hands",
+      "error_analysis": "学生易因“hold”的“握住”和“hands”的“手”字面义，将“hold hands”误解为“拿着手”，或混淆形近词“fold”导致误判为“交叉双手”。",
+      "sentence": "When walking through the park, the little girl and her grandma **held hands** tightly to avoid getting lost.",
+      "options": {
+        "option": [
+          {
+            "definition": "拿着手（如持有或携带某人的手）",
+            "iscorrect": false
+          },
+          {
+            "definition": "手牵手（两人互相握住对方的手）",
+            "iscorrect": true
+          },
+          {
+            "definition": "交叉双手（如折叠双手放在身前）",
+            "iscorrect": false
+          },
+          {
+            "definition": "举起手（如将手举过头顶）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

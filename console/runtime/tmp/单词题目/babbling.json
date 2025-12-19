@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "babbling",
+      "error_analysis": "学生易因形近词“bubbling”（冒泡）混淆“babbling”，或因“baby”关联过度误判为“婴儿照顾”。",
+      "sentence": "As we hiked through the woods, the **babbling** of the stream beside us reminded us of a baby cooing.",
+      "options": {
+        "option": [
+          {
+            "definition": "（溪流等的）潺潺声",
+            "iscorrect": true
+          },
+          {
+            "definition": "（液体的）冒泡声",
+            "iscorrect": false
+          },
+          {
+            "definition": "婴儿的照顾",
+            "iscorrect": false
+          },
+          {
+            "definition": "激烈的争论",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

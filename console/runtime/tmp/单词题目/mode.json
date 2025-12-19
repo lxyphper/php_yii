@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mode",
+      "error_analysis": "易与形近词\"mood\"(情绪)混淆，或误联想\"model\"(模型)而错解为\"情绪\"或\"模型\"",
+      "sentence": "The phone has a power-saving **mode** that extends battery life when it's low.",
+      "options": {
+        "option": [
+          {
+            "definition": "模式；方式",
+            "iscorrect": true
+          },
+          {
+            "definition": "情绪",
+            "iscorrect": false
+          },
+          {
+            "definition": "模型",
+            "iscorrect": false
+          },
+          {
+            "definition": "风格",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

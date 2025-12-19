@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "washer",
+      "error_analysis": "学生易因\"washer\"与\"wash\"（洗）形近，误判为\"洗衣工\"或\"洗衣机\"，忽略其核心含义\"垫圈\"。",
+      "sentence": "The plumber advised changing the **washer** in the bathroom tap to stop the constant dripping.",
+      "options": {
+        "option": [
+          {
+            "definition": "洗衣工",
+            "iscorrect": false
+          },
+          {
+            "definition": "洗衣机",
+            "iscorrect": false
+          },
+          {
+            "definition": "垫圈（防止漏水的橡胶/金属环）",
+            "iscorrect": true
+          },
+          {
+            "definition": "洗涤液",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

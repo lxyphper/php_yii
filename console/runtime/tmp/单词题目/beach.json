@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "beach",
+      "error_analysis": "学生易因形近词\"bench\"（长椅）的干扰，将\"beach\"误理解为\"长椅\"。",
+      "sentence": "We spent the afternoon playing volleyball on the **beach** and building sandcastles with the kids.",
+      "options": {
+        "option": [
+          {
+            "definition": "海滩；沙滩",
+            "iscorrect": true
+          },
+          {
+            "definition": "长椅；长凳",
+            "iscorrect": false
+          },
+          {
+            "definition": "一批；一组",
+            "iscorrect": false
+          },
+          {
+            "definition": "灯塔；信号灯",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

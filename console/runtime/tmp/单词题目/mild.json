@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mild",
+      "error_analysis": "学生易因形近词“wild”（野生的；疯狂的）将“mild”误判为“野生的”或“疯狂的”",
+      "sentence": "The weather today is **mild**—not too hot or cold—perfect for a hike in the park.",
+      "options": {
+        "option": [
+          {
+            "definition": "温和的；轻微的",
+            "iscorrect": true
+          },
+          {
+            "definition": "野生的；疯狂的",
+            "iscorrect": false
+          },
+          {
+            "definition": "遥远的；长途的",
+            "iscorrect": false
+          },
+          {
+            "definition": "尖锐的；剧烈的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

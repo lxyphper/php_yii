@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "haircut",
+      "error_analysis": "学生可能因“hair+cut”的字面拆分，误将“haircut”理解为“剪头发的动作”而非其核心义“发型”。",
+      "sentence": "Lisa is excited about her new **haircut**—she’s been wanting to try a bob style for months.",
+      "options": {
+        "option": [
+          {
+            "definition": "发型；理发",
+            "iscorrect": true
+          },
+          {
+            "definition": "剪头发的动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "头发的碎片",
+            "iscorrect": false
+          },
+          {
+            "definition": "美发服务",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

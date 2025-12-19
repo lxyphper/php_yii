@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to count",
+      "error_analysis": "中国学生易将“to count”（计数）与形近词“counter”（反驳）或“account”（解释）混淆，或错误理解为引申义“认为”。",
+      "sentence": "She is **counting** the flowers in her garden to see how many bloomed this spring.",
+      "options": {
+        "option": [
+          {
+            "definition": "计数",
+            "iscorrect": true
+          },
+          {
+            "definition": "解释",
+            "iscorrect": false
+          },
+          {
+            "definition": "反驳",
+            "iscorrect": false
+          },
+          {
+            "definition": "认为",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

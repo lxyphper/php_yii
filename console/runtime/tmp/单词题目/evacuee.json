@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "evacuee",
+      "error_analysis": "易混淆形近词employee（雇员），或误将evacuee理解为“疏散执行者”而非“被疏散者”",
+      "sentence": "After the flood, the local government set up shelters to accommodate thousands of **evacuees** from the affected areas.",
+      "options": {
+        "option": [
+          {
+            "definition": "被疏散者；撤离者",
+            "iscorrect": true
+          },
+          {
+            "definition": "雇员；受雇者",
+            "iscorrect": false
+          },
+          {
+            "definition": "疏散执行者；撤离组织者",
+            "iscorrect": false
+          },
+          {
+            "definition": "真空设备；吸尘器",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

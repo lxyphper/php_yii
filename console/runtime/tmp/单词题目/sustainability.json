@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sustainability",
+      "error_analysis": "中国学生易因形近词`stability`（稳定性）混淆，或因词根`sustain`（维持）过度直译为“维持能力”，忽略其“可持续性”的核心义。",
+      "sentence": "The city’s plan to plant more trees and cut carbon emissions is a key step toward achieving **sustainability** in urban development.",
+      "options": {
+        "option": [
+          {
+            "definition": "可持续性（生态、经济等系统长期维持平衡的能力）",
+            "iscorrect": true
+          },
+          {
+            "definition": "稳定性（状态或结构的稳固不变）",
+            "iscorrect": false
+          },
+          {
+            "definition": "维持能力（保持某种状态的基本能力）",
+            "iscorrect": false
+          },
+          {
+            "definition": "可支持性（获得外部支持的可能性）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

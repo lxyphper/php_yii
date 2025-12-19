@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to wage",
+      "error_analysis": "将动词\"to wage\"误联想为名词\"工资\"的动词义（如\"支付工资\"）",
+      "sentence": "The government decided to **wage** a nationwide campaign against food waste last year.",
+      "options": {
+        "option": [
+          {
+            "definition": "发动（战争、运动等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "支付（工资或报酬）",
+            "iscorrect": false
+          },
+          {
+            "definition": "挥动（手臂或物体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "赢得（比赛或竞争）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

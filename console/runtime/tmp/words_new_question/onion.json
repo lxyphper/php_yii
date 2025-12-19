@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "onion",
+      "error_analysis": "学生易因形近词\"union\"（联盟/工会）的拼写及发音接近，或因\"ion\"后缀误判为动作，将\"onion\"误解为\"联盟\"\"工会\"或\"动作\"。",
+      "sentence": "I always cry when I cut an **onion** for my pasta sauce.",
+      "options": {
+        "option": [
+          {
+            "definition": "洋葱",
+            "iscorrect": true
+          },
+          {
+            "definition": "联盟",
+            "iscorrect": false
+          },
+          {
+            "definition": "工会",
+            "iscorrect": false
+          },
+          {
+            "definition": "动作",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

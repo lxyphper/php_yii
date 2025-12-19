@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to smooth",
+      "error_analysis": "学生易将‘to smooth’与形近词‘soothe’（安慰）混淆，或误理解为‘清洁’。",
+      "sentence": "Can you help me **smooth** the tablecloth? It’s all wrinkled.",
+      "options": {
+        "option": [
+          {
+            "definition": "安慰",
+            "iscorrect": false
+          },
+          {
+            "definition": "清洁",
+            "iscorrect": false
+          },
+          {
+            "definition": "折叠",
+            "iscorrect": false
+          },
+          {
+            "definition": "抚平（表面的皱痕）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

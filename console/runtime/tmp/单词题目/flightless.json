@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "flightless",
+      "error_analysis": "中国学生易将“flight”理解为“航班”而猜测“flightless”为“没有航班的”，或与形近词“flawless”（完美的）混淆。",
+      "sentence": "Penguins are **flightless** birds that live mainly in the Southern Hemisphere.",
+      "options": {
+        "option": [
+          {
+            "definition": "不会飞的",
+            "iscorrect": true
+          },
+          {
+            "definition": "没有航班的",
+            "iscorrect": false
+          },
+          {
+            "definition": "完美的",
+            "iscorrect": false
+          },
+          {
+            "definition": "害怕飞行的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

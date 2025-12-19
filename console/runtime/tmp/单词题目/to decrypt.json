@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to decrypt",
+      "error_analysis": "易因形近词“describe”（描述）混淆，或误将“crypt”当作“cry”（哭）而猜成“停止哭泣”。",
+      "sentence": "The spy spent hours trying to **decrypt** the enemy's secret message before it was too late.",
+      "options": {
+        "option": [
+          {
+            "definition": "描述",
+            "iscorrect": false
+          },
+          {
+            "definition": "停止哭泣",
+            "iscorrect": false
+          },
+          {
+            "definition": "加密",
+            "iscorrect": false
+          },
+          {
+            "definition": "解密；破译（密码）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

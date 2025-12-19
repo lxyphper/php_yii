@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "enough",
+      "error_analysis": "学生易因形近词\"though\"（虽然）的\"ough\"拼写干扰，将\"enough\"误解为\"虽然\"。",
+      "sentence": "We don’t have **enough** time to finish the project before the deadline.",
+      "options": {
+        "option": [
+          {
+            "definition": "足够的（形容词）；足够地（副词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "虽然；尽管（连词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "困难的；坚韧的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "粗糙的；粗略的（形容词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

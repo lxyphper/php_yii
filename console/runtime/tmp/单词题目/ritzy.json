@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ritzy",
+      "error_analysis": "学生易因形近词\"risky\"（危险的）产生混淆，或因拆分词根\"rit\"联想到\"ritual\"（仪式）而误判为\"仪式的\"",
+      "sentence": "The party was held in a **ritzy** ballroom with gold decorations and a large dance floor.",
+      "options": {
+        "option": [
+          {
+            "definition": "危险的；有风险的",
+            "iscorrect": false
+          },
+          {
+            "definition": "仪式的；正式的",
+            "iscorrect": false
+          },
+          {
+            "definition": "普通的；平常的",
+            "iscorrect": false
+          },
+          {
+            "definition": "豪华的；时髦的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

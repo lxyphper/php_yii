@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "disadvantage",
+      "error_analysis": "学生易因形近词‘disagree’（不同意），或词根‘dis-’（消失）与‘advantage’（优势）的过度直译，将‘disadvantage’误解为‘不同意’或‘失去优势’。",
+      "sentence": "Living in a remote area can be a **disadvantage** when looking for a job.",
+      "options": {
+        "option": [
+          {
+            "definition": "不同意",
+            "iscorrect": false
+          },
+          {
+            "definition": "失去优势",
+            "iscorrect": false
+          },
+          {
+            "definition": "劣势；不利条件",
+            "iscorrect": true
+          },
+          {
+            "definition": "灾难",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

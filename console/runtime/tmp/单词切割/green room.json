@@ -1,0 +1,27 @@
+[
+  {
+    "common_misspellings": [
+      "gren room",
+      "green rom",
+      "grean room",
+      "green roum",
+      "greeen room",
+      "green rooom"
+    ],
+    "correct_chunks": [
+      "gr",
+      "een",
+      "r",
+      "oom"
+    ],
+    "distractor_chunks": [
+      "grn",
+      "rom",
+      "ean",
+      "oum",
+      "greee",
+      "rooo"
+    ]
+  },
+  0
+]

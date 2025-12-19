@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "prickly",
+      "error_analysis": "易因形近词\"picky\"(挑剔的)或词根\"prick\"(刺)误将\"prickly\"理解为\"挑剔的\"或\"有刺的\"",
+      "sentence": "The old man next door is **prickly**—he shouts at kids even when they just laugh loudly in the yard.",
+      "options": {
+        "option": [
+          {
+            "definition": "挑剔的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有刺的",
+            "iscorrect": false
+          },
+          {
+            "definition": "易怒的",
+            "iscorrect": true
+          },
+          {
+            "definition": "无聊的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

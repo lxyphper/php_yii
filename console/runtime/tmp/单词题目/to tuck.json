@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to tuck",
+      "error_analysis": "中国学生易因形近词“truck”（卡车）将“tuck”误判为与“运输”相关的动作",
+      "sentence": "Please **tuck** your shirt into your pants before the meeting.",
+      "options": {
+        "option": [
+          {
+            "definition": "把...塞进（狭窄或隐蔽的地方）",
+            "iscorrect": true
+          },
+          {
+            "definition": "运输（用卡车运送）",
+            "iscorrect": false
+          },
+          {
+            "definition": "粘住（使附着在表面）",
+            "iscorrect": false
+          },
+          {
+            "definition": "拿取（从某处取出）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

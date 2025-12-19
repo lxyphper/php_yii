@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "subculture",
+      "error_analysis": "学生易因\"sub-\"词根误导（误判为\"替代\"或\"下面\"）或形近词\"suburban\"联想，将\"subculture\"错解为\"替代文化\"\"郊区文化\"或\"文化底层部分\"。",
+      "sentence": "The punk **subculture** emerged in the 1970s as a reaction against mainstream rock music and societal norms.",
+      "options": {
+        "option": [
+          {
+            "definition": "亚文化（社会中某一群体的独特文化）",
+            "iscorrect": true
+          },
+          {
+            "definition": "替代文化（取代主流的文化形式）",
+            "iscorrect": false
+          },
+          {
+            "definition": "郊区文化（城市郊区的地域文化）",
+            "iscorrect": false
+          },
+          {
+            "definition": "文化底层部分（主流文化之下的基础文化）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

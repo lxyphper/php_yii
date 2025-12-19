@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "enjoyment",
+      "error_analysis": "学生易混淆形近词“employment”（就业），或误将“enjoyment”窄化为“快乐”（joy）而非“享受”。",
+      "sentence": "She found great **enjoyment** in painting, spending hours every weekend with her brushes and canvases.",
+      "options": {
+        "option": [
+          {
+            "definition": "就业；工作",
+            "iscorrect": false
+          },
+          {
+            "definition": "快乐；喜悦",
+            "iscorrect": false
+          },
+          {
+            "definition": "享受；乐趣",
+            "iscorrect": true
+          },
+          {
+            "definition": "娱乐；消遣",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

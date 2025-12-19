@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to mix",
+      "error_analysis": "学生易因形近词\"miss\"（想念/错过）产生词义混淆，或误将\"mix\"理解为\"混淆\"（引申义而非核心义）",
+      "sentence": "Before baking, you need to **mix** the flour, sugar, and eggs together in a bowl.",
+      "options": {
+        "option": [
+          {
+            "definition": "混合；调配",
+            "iscorrect": true
+          },
+          {
+            "definition": "想念；错过",
+            "iscorrect": false
+          },
+          {
+            "definition": "混淆；弄错",
+            "iscorrect": false
+          },
+          {
+            "definition": "修理；修补",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

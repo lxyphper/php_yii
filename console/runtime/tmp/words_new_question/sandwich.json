@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sandwich",
+      "error_analysis": "因形近词\"sand\"（沙子）产生错误联想，将\"sandwich\"误理解为沙滩相关物品",
+      "sentence": "I bought a chicken **sandwich** and a cup of coffee for my morning breakfast.",
+      "options": {
+        "option": [
+          {
+            "definition": "三明治（夹有肉、奶酪等的面包食品）",
+            "iscorrect": true
+          },
+          {
+            "definition": "沙滩玩具（如沙堡制作模具）",
+            "iscorrect": false
+          },
+          {
+            "definition": "沙子做的甜点（如沙冰蛋糕）",
+            "iscorrect": false
+          },
+          {
+            "definition": "海边的小木屋（供游客居住的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

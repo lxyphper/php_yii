@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "democracy",
+      "error_analysis": "学生易因形近词\"demography\"(人口统计学)或\"demo\"(演示)的熟义误导，将\"democracy\"误解为与\"人口统计\"或\"演示\"相关的概念",
+      "sentence": "After decades of dictatorship, the nation finally embraced **democracy** with its first fair elections.",
+      "options": {
+        "option": [
+          {
+            "definition": "民主；民主制度",
+            "iscorrect": true
+          },
+          {
+            "definition": "人口统计学",
+            "iscorrect": false
+          },
+          {
+            "definition": "演示展示的流程",
+            "iscorrect": false
+          },
+          {
+            "definition": "独裁统治",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

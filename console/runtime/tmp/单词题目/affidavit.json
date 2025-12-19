@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "affidavit",
+      "error_analysis": "学生易因形近词affirm联想为“确认函”，或因词根fid（信任）误导为“忠诚声明”，忽略其“宣誓书”的法律核心义。",
+      "sentence": "The witness was required to sign an **affidavit** stating the exact facts of the accident before the court hearing.",
+      "options": {
+        "option": [
+          {
+            "definition": "（法律上的）宣誓书；书面证词",
+            "iscorrect": true
+          },
+          {
+            "definition": "确认函；证明文件",
+            "iscorrect": false
+          },
+          {
+            "definition": "忠诚声明；信任保证书",
+            "iscorrect": false
+          },
+          {
+            "definition": "情感表达；爱意陈述",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

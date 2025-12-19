@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to bolt",
+      "error_analysis": "学生易将“to bolt”误判为形近词“bold”（大胆的）的动词义，或因名词“螺栓”误解为“用螺栓固定”。",
+      "sentence": "When the rain started pouring, the kids **bolted** inside to grab their umbrellas.",
+      "options": {
+        "option": [
+          {
+            "definition": "变得大胆",
+            "iscorrect": false
+          },
+          {
+            "definition": "用螺栓固定",
+            "iscorrect": false
+          },
+          {
+            "definition": "慢慢走",
+            "iscorrect": false
+          },
+          {
+            "definition": "突然快速跑",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

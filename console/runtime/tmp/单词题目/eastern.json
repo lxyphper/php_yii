@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "eastern",
+      "error_analysis": "学生易因形近词“easter”（复活节）将“eastern”误判为“复活节的”，或因“ease”（容易）的拼写重叠误以为“轻松的”。",
+      "sentence": "The city of Shanghai is located in the **eastern** part of China.",
+      "options": {
+        "option": [
+          {
+            "definition": "复活节的",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻松的；容易的",
+            "iscorrect": false
+          },
+          {
+            "definition": "东方的；东部的",
+            "iscorrect": true
+          },
+          {
+            "definition": "东方人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

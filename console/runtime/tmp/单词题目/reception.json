@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "reception",
+      "error_analysis": "易因形近词“receptionist”误判为“接待员”，或词根“recept-”（接收）误导为“接收”而非“接待处”。",
+      "sentence": "Please leave your luggage at the **reception** and wait for me in the lobby.",
+      "options": {
+        "option": [
+          {
+            "definition": "接待处",
+            "iscorrect": true
+          },
+          {
+            "definition": "接待员",
+            "iscorrect": false
+          },
+          {
+            "definition": "接收",
+            "iscorrect": false
+          },
+          {
+            "definition": "感知",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

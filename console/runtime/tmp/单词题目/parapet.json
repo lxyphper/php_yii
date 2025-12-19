@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "parapet",
+      "error_analysis": "学生易因形近词\"paragraph\"(段落)或词根\"para-\"(保护/旁边)误判为\"段落\"或\"栏杆\"",
+      "sentence": "The workers are repairing the **parapet** on the bridge to prevent people from falling off.",
+      "options": {
+        "option": [
+          {
+            "definition": "（墙顶的）护墙，矮墙",
+            "iscorrect": true
+          },
+          {
+            "definition": "段落",
+            "iscorrect": false
+          },
+          {
+            "definition": "栏杆",
+            "iscorrect": false
+          },
+          {
+            "definition": "遮阳伞",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

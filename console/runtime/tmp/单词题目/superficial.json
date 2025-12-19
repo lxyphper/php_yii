@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "superficial",
+      "error_analysis": "中国学生易因'superficial'与'superior'（优越的）形近或词根'super-'（超级）误导，误判为'优越的'或混淆字面义'表面的'与比喻义'肤浅的'。",
+      "sentence": "Her understanding of the novel is only **superficial**; she didn't even notice the main theme.",
+      "options": {
+        "option": [
+          {
+            "definition": "优越的",
+            "iscorrect": false
+          },
+          {
+            "definition": "表面的",
+            "iscorrect": false
+          },
+          {
+            "definition": "肤浅的",
+            "iscorrect": true
+          },
+          {
+            "definition": "超级的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

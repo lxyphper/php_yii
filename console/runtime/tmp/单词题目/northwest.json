@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "northwest",
+      "error_analysis": "学生易因形近方向词（如“southwest”）混淆或误拆词根导致词义理解错误",
+      "sentence": "The city of Xi'an is located in the **northwest** of China.",
+      "options": {
+        "option": [
+          {
+            "definition": "西北方向（或地区）",
+            "iscorrect": true
+          },
+          {
+            "definition": "西南方向",
+            "iscorrect": false
+          },
+          {
+            "definition": "北和西的任意方向",
+            "iscorrect": false
+          },
+          {
+            "definition": "向西北移动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

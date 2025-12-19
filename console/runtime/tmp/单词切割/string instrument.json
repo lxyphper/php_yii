@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "sring instrument",
+      "string instrement",
+      "strin instrument",
+      "string insrtument"
+    ],
+    "correct_chunks": [
+      "str",
+      "ing",
+      "in",
+      "stru",
+      "ment"
+    ],
+    "distractor_chunks": [
+      "srt",
+      "strn",
+      "srtu",
+      "en",
+      "inst"
+    ]
+  },
+  0
+]

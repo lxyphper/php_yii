@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "treaty",
+      "error_analysis": "学生易因形近词“treat”（款待、治疗）的干扰，将“treaty”误判为与“款待”或“治疗”相关的含义。",
+      "sentence": "The two countries signed a **treaty** to end the war and establish long-term peace.",
+      "options": {
+        "option": [
+          {
+            "definition": "条约；协定",
+            "iscorrect": true
+          },
+          {
+            "definition": "款待；招待",
+            "iscorrect": false
+          },
+          {
+            "definition": "治疗；疗法",
+            "iscorrect": false
+          },
+          {
+            "definition": "旅行；旅程",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

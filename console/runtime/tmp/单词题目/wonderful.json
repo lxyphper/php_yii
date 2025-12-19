@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wonderful",
+      "error_analysis": "易因形近词\"wander\"（漫步）或词根\"wonder\"（奇迹/想知道）的误导，将\"wonderful\"误判为\"漫步的\"或\"令人惊奇的\"。",
+      "sentence": "The party last night was **wonderful**—everyone laughed, danced, and had a great time.",
+      "options": {
+        "option": [
+          {
+            "definition": "极好的",
+            "iscorrect": true
+          },
+          {
+            "definition": "漫步的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人惊奇的",
+            "iscorrect": false
+          },
+          {
+            "definition": "想知道的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "weather",
+      "error_analysis": "最核心易错点是与形近词\"whether\"（是否）混淆，或误联想为\"wear\"（穿着）等形近词",
+      "sentence": "The **weather** forecast says it will rain tomorrow.",
+      "options": {
+        "option": [
+          {
+            "definition": "天气",
+            "iscorrect": true
+          },
+          {
+            "definition": "是否",
+            "iscorrect": false
+          },
+          {
+            "definition": "穿着",
+            "iscorrect": false
+          },
+          {
+            "definition": "重量",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

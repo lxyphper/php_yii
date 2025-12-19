@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "vacationer",
+      "error_analysis": "学生易因形近词“vacation”（假期）的干扰将“vacationer”误理解为“假期”，或因“-er”后缀误导为“安排假期的人”。",
+      "sentence": "The beach was crowded with **vacationers** enjoying the sun and sea.",
+      "options": {
+        "option": [
+          {
+            "definition": "度假者",
+            "iscorrect": true
+          },
+          {
+            "definition": "假期",
+            "iscorrect": false
+          },
+          {
+            "definition": "安排假期的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "观光者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

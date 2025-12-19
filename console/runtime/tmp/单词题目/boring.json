@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "boring",
+      "error_analysis": "中国学生易因形近词\"boiling\"(沸腾的)或词根\"bore\"(钻孔)误将\"boring\"理解为\"沸腾的\"或\"钻孔的\"",
+      "sentence": "The lecture was so **boring** that half the students fell asleep during it.",
+      "options": {
+        "option": [
+          {
+            "definition": "无聊的；令人厌烦的",
+            "iscorrect": true
+          },
+          {
+            "definition": "沸腾的；滚烫的",
+            "iscorrect": false
+          },
+          {
+            "definition": "钻孔的；打洞的",
+            "iscorrect": false
+          },
+          {
+            "definition": "负担重的；压力大的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

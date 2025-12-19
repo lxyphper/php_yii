@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to prophesy",
+      "error_analysis": "学生易因形近词“prop”（支撑）误解为“支撑/支持”，或因词根猜测错误联想为“提议/宣布”。",
+      "sentence": "The old man claimed he could **prophesy** future events using his crystal ball.",
+      "options": {
+        "option": [
+          {
+            "definition": "预言，预告",
+            "iscorrect": true
+          },
+          {
+            "definition": "支撑，支持",
+            "iscorrect": false
+          },
+          {
+            "definition": "提议，建议",
+            "iscorrect": false
+          },
+          {
+            "definition": "承诺，保证",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "common",
+      "error_analysis": "学生易因形近词“comic”（喜剧的）产生拼写混淆，或因词根“communis”错误联想为“共同的”而非“常见的”核心义",
+      "sentence": "It's **common** to see people using smartphones on the subway in big cities.",
+      "options": {
+        "option": [
+          {
+            "definition": "喜剧的",
+            "iscorrect": false
+          },
+          {
+            "definition": "共同的",
+            "iscorrect": false
+          },
+          {
+            "definition": "常见的；普遍的",
+            "iscorrect": true
+          },
+          {
+            "definition": "低级的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

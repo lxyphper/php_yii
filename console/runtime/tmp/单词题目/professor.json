@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "professor",
+      "error_analysis": "易混淆形近词\"professional\"（专业人士），或因词根\"pro-\"（向前）误猜为\"推动者\"",
+      "sentence": "Dr. Johnson has been a **professor** of literature at Oxford University since 2005, teaching courses on Shakespeare.",
+      "options": {
+        "option": [
+          {
+            "definition": "教授（大学中的高级教师职位）",
+            "iscorrect": true
+          },
+          {
+            "definition": "专业人士",
+            "iscorrect": false
+          },
+          {
+            "definition": "推动者",
+            "iscorrect": false
+          },
+          {
+            "definition": "顾问",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

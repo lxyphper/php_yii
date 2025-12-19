@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to announce",
+      "error_analysis": "学生易因形近词“annoy”（使烦恼）混淆词义，或误将“announce”与“发音”（如pronounce）关联。",
+      "sentence": "The school will **announce** the winner of the competition during the morning assembly.",
+      "options": {
+        "option": [
+          {
+            "definition": "宣布；公布",
+            "iscorrect": true
+          },
+          {
+            "definition": "使烦恼；使生气",
+            "iscorrect": false
+          },
+          {
+            "definition": "发音；读出",
+            "iscorrect": false
+          },
+          {
+            "definition": "准备；筹备",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

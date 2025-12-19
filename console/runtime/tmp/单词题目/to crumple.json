@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to crumple",
+      "error_analysis": "学生易混淆形近词“crumble”（崩溃/粉碎），或误将“crumple”理解为“压碎”（词根/字面误导）",
+      "sentence": "She **crumpled** the letter in anger and tossed it into the trash can.",
+      "options": {
+        "option": [
+          {
+            "definition": "揉皱；压皱（使纸、布等形成皱巴巴的形状）",
+            "iscorrect": true
+          },
+          {
+            "definition": "崩溃；粉碎（完全破碎或瓦解）",
+            "iscorrect": false
+          },
+          {
+            "definition": "压碎；碾碎（用压力使变成小块或粉末）",
+            "iscorrect": false
+          },
+          {
+            "definition": "折叠；对折（将...折成两层）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

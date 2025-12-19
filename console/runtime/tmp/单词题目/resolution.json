@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "resolution",
+      "error_analysis": "易混淆形近词revolution（革命），或误由词根solve推断为“解决方法”（solution）",
+      "sentence": "The committee voted unanimously to adopt the **resolution** proposing stricter waste management policies.",
+      "options": {
+        "option": [
+          {
+            "definition": "决议",
+            "iscorrect": true
+          },
+          {
+            "definition": "革命",
+            "iscorrect": false
+          },
+          {
+            "definition": "解决方法",
+            "iscorrect": false
+          },
+          {
+            "definition": "恢复",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

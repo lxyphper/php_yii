@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to levy",
+      "error_analysis": "学生易因形近词\"level\"（水平）或词根\"levare\"（举起）误判为\"使成为水平\"或\"举起\"，而非核心义\"征收（税/费）\"。",
+      "sentence": "The government plans to **levy** a new tax on sugary drinks to combat childhood obesity.",
+      "options": {
+        "option": [
+          {
+            "definition": "征收（税、费等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "使成为水平；弄平",
+            "iscorrect": false
+          },
+          {
+            "definition": "离开；出发",
+            "iscorrect": false
+          },
+          {
+            "definition": "举起；抬起",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

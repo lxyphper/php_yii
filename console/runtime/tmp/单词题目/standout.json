@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "standout",
+      "error_analysis": "学生易因\"stand\"+\"out\"的字面组合误解为\"站在外面的人/物\"，或混淆形近词\"standby\"(备用)、\"standoff\"(僵局)。",
+      "sentence": "Among all the applicants, Mary was a **standout** because of her unique project experience.",
+      "options": {
+        "option": [
+          {
+            "definition": "突出的人/事物；佼佼者",
+            "iscorrect": true
+          },
+          {
+            "definition": "站在外面的人/物",
+            "iscorrect": false
+          },
+          {
+            "definition": "备用的人/物",
+            "iscorrect": false
+          },
+          {
+            "definition": "僵局；对峙",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to photograph",
+      "error_analysis": "学生易因词根\"photo-\"(光)和\"graph\"(写/画)的字面推导，将\"to photograph\"误解为\"用光线绘制图像\"而非\"拍照\"",
+      "sentence": "She loves to **photograph** the sunset over the mountains every evening.",
+      "options": {
+        "option": [
+          {
+            "definition": "拍照；给……拍照",
+            "iscorrect": true
+          },
+          {
+            "definition": "用光线绘制图像",
+            "iscorrect": false
+          },
+          {
+            "definition": "复印文件",
+            "iscorrect": false
+          },
+          {
+            "definition": "制作图表",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

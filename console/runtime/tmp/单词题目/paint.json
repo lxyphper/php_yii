@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "paint",
+      "error_analysis": "最核心易错点是形近词“pain”（疼痛）的干扰，学生易将“paint”误理解为“感到疼痛”（动词）。",
+      "sentence": "The artist likes to **paint** landscapes with watercolors in her free time.",
+      "options": {
+        "option": [
+          {
+            "definition": "绘画；涂（油漆）（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "感到疼痛（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "书写（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "唱歌（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wealthy",
+      "error_analysis": "中国学生易因形近词\"healthy\"（健康的）的拼写及发音接近而混淆\"wealthy\"的核心词义。",
+      "sentence": "The **wealthy** family owns a large villa by the sea and drives luxury cars.",
+      "options": {
+        "option": [
+          {
+            "definition": "健康的",
+            "iscorrect": false
+          },
+          {
+            "definition": "富有的",
+            "iscorrect": true
+          },
+          {
+            "definition": "丰富的",
+            "iscorrect": false
+          },
+          {
+            "definition": "友好的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

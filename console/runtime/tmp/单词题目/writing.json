@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "writing",
+      "error_analysis": "混淆形近词wringing（拧；绞）或误将其理解为“正在写的动作”而非核心义“作品”",
+      "sentence": "His first **writing** was a short story published in a magazine when he was 18.",
+      "options": {
+        "option": [
+          {
+            "definition": "拧；绞",
+            "iscorrect": false
+          },
+          {
+            "definition": "正在写的动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "作品；文字",
+            "iscorrect": true
+          },
+          {
+            "definition": "书写工具",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

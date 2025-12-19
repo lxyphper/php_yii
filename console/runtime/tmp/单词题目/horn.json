@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "horn",
+      "error_analysis": "学生易因形近词“corn”（玉米）混淆“horn”的词义，或误将其仅理解为动物的“角”而忽略“喇叭”的常见用法",
+      "sentence": "The taxi driver honked his **horn** repeatedly to get through the crowded street.",
+      "options": {
+        "option": [
+          {
+            "definition": "喇叭（汽车或其他交通工具的发声装置）",
+            "iscorrect": true
+          },
+          {
+            "definition": "玉米（一种粮食作物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "角（动物头部的坚硬突起）",
+            "iscorrect": false
+          },
+          {
+            "definition": "黄蜂（一种带刺的昆虫）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

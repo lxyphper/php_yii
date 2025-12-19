@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "anything",
+      "error_analysis": "学生易因形近词\"anyway\"（无论如何）的干扰将\"anything\"误作副词，或因\"any+thing\"拆分过度直译，在否定句中误理解为\"一些事物\"。",
+      "sentence": "She didn’t eat **anything** for breakfast because she was in a hurry.",
+      "options": {
+        "option": [
+          {
+            "definition": "任何事物",
+            "iscorrect": true
+          },
+          {
+            "definition": "无论如何",
+            "iscorrect": false
+          },
+          {
+            "definition": "一些事物",
+            "iscorrect": false
+          },
+          {
+            "definition": "每样事物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "leisure",
+      "error_analysis": "中国学生易因形近词“lease”（租赁）及发音接近“pleasure”（快乐）误判“leisure”的含义",
+      "sentence": "She enjoys reading novels in her **leisure** time to unwind after a busy day at work.",
+      "options": {
+        "option": [
+          {
+            "definition": "租赁",
+            "iscorrect": false
+          },
+          {
+            "definition": "快乐",
+            "iscorrect": false
+          },
+          {
+            "definition": "空闲时间；休闲",
+            "iscorrect": true
+          },
+          {
+            "definition": "责任",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

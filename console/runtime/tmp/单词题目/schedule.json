@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "schedule",
+      "error_analysis": "学生易因形近词“scheme”（方案）干扰，或误将“schedule”泛化为“计划”而非具体“时间表”。",
+      "sentence": "Please check the **schedule** for tomorrow's meetings—we have three back-to-back sessions starting at 9 AM.",
+      "options": {
+        "option": [
+          {
+            "definition": "时间表；日程安排",
+            "iscorrect": true
+          },
+          {
+            "definition": "方案；阴谋",
+            "iscorrect": false
+          },
+          {
+            "definition": "纸片；单据",
+            "iscorrect": false
+          },
+          {
+            "definition": "计划；打算",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

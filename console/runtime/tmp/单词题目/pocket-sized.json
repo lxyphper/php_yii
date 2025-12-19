@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pocket-sized",
+      "error_analysis": "容易因字面直译（口袋+尺寸）误解为“口袋里的尺寸”，或混淆形近词pocketed（有口袋的）而误判为“有口袋的”。",
+      "sentence": "She always carries a **pocket-sized** notebook to jot down ideas wherever she goes.",
+      "options": {
+        "option": [
+          {
+            "definition": "小型的；袖珍的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有口袋的",
+            "iscorrect": false
+          },
+          {
+            "definition": "口袋里的尺寸",
+            "iscorrect": false
+          },
+          {
+            "definition": "装满口袋的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

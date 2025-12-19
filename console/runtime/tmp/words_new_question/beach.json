@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "beach",
+      "error_analysis": "学生易因形近词‘bench’（长椅）、‘beech’（山毛榉树）混淆或字面拆分误解为‘疼痛’（ache）",
+      "sentence": "We spent the day at the **beach**, swimming in the sea and building sandcastles.",
+      "options": {
+        "option": [
+          {
+            "definition": "海滩；沙滩",
+            "iscorrect": true
+          },
+          {
+            "definition": "长椅",
+            "iscorrect": false
+          },
+          {
+            "definition": "山毛榉树",
+            "iscorrect": false
+          },
+          {
+            "definition": "疼痛",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

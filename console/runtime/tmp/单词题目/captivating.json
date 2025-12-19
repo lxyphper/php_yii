@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "captivating",
+      "error_analysis": "学生易因形近词capture（捕获）及词根capt-（抓住）误将captivating理解为“捕获的”或“困住的”",
+      "sentence": "The singer's **captivating** performance held the audience's attention for the entire two hours.",
+      "options": {
+        "option": [
+          {
+            "definition": "迷人的；吸引人的",
+            "iscorrect": true
+          },
+          {
+            "definition": "捕获的；被抓住的",
+            "iscorrect": false
+          },
+          {
+            "definition": "困住的；束缚的",
+            "iscorrect": false
+          },
+          {
+            "definition": "重要的；关键的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

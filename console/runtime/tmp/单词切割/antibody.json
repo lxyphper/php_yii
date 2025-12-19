@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "antbody",
+      "antybody",
+      "antibady",
+      "antiboddy"
+    ],
+    "correct_chunks": [
+      "ant",
+      "i",
+      "body"
+    ],
+    "distractor_chunks": [
+      "ant",
+      "anty",
+      "bady",
+      "boddy"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to thump",
+      "error_analysis": "学生易因形近词“thumb”（拇指）误解为“触摸；用拇指按”，或因“ump”部分与“jump”（跳）联想而误解为“跳跃”。",
+      "sentence": "She **thumped** her fist on the desk to emphasize her point.",
+      "options": {
+        "option": [
+          {
+            "definition": "重击；捶打",
+            "iscorrect": true
+          },
+          {
+            "definition": "触摸；用拇指按",
+            "iscorrect": false
+          },
+          {
+            "definition": "跳跃；蹦跳",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻拍；轻打",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

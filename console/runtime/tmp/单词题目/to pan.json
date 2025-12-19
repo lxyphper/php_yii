@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to pan",
+      "error_analysis": "学生易因形近词\"pan\"(平底锅)误解为\"用平底锅烹饪\"，或因词根\"pan-\"(全)误导为\"全面覆盖\"",
+      "sentence": "The movie critics **panned** the new superhero film for its weak plot and poor acting.",
+      "options": {
+        "option": [
+          {
+            "definition": "批评（电影、书籍等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "用平底锅煎（食物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "全面检查（事物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "结果成功（计划等）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

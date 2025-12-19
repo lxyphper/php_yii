@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to articulate",
+      "error_analysis": "学生易因形近词“article”(文章)误解为“写文章”，或因词根“articul-”(连接)误解为“连接；拼接”",
+      "sentence": "During the meeting, he found it hard to **articulate** his concerns, so his teammates didn’t grasp why he was worried.",
+      "options": {
+        "option": [
+          {
+            "definition": "清晰地表达（思想/担忧）",
+            "iscorrect": true
+          },
+          {
+            "definition": "写文章；创作文章",
+            "iscorrect": false
+          },
+          {
+            "definition": "连接；拼接（物体/部分）",
+            "iscorrect": false
+          },
+          {
+            "definition": "艺术化地修饰；使有美感",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "third-rate",
+      "error_analysis": "学生易将\"third-rate\"字面理解为中性的\"第三等级的\"，或混淆为\"三星级的\"（three-star）而忽略其贬义的\"劣质\"含义。",
+      "sentence": "The restaurant we went to yesterday had **third-rate** food—overcooked, tasteless, and way too expensive.",
+      "options": {
+        "option": [
+          {
+            "definition": "第三等级的（中性）",
+            "iscorrect": false
+          },
+          {
+            "definition": "三星级的",
+            "iscorrect": false
+          },
+          {
+            "definition": "劣质的；三流的",
+            "iscorrect": true
+          },
+          {
+            "definition": "第三比率的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

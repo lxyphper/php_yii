@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "working",
+      "error_analysis": "学生易因“work”的“工作”含义将“working”（形容词）误解为“正在工作的”，或因形近词“walking”产生“走路的”错误联想。",
+      "sentence": "After trying several methods, they finally found a **working** solution to the problem.",
+      "options": {
+        "option": [
+          {
+            "definition": "有效的；可行的",
+            "iscorrect": true
+          },
+          {
+            "definition": "走路的",
+            "iscorrect": false
+          },
+          {
+            "definition": "正在工作的",
+            "iscorrect": false
+          },
+          {
+            "definition": "醒着的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

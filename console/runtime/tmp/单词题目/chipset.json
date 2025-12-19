@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "chipset",
+      "error_analysis": "学生易将\"chipset\"字面拆解为\"chip(芯片)+set(集合)\"，误判为\"芯片集合\"，或混淆\"set\"的\"设置\"义导致理解偏差",
+      "sentence": "The new smartphone’s performance is largely determined by its advanced **chipset**, which manages communication between the CPU and other key components.",
+      "options": {
+        "option": [
+          {
+            "definition": "芯片组（计算机或电子设备中负责协调组件通信的一组关联芯片）",
+            "iscorrect": true
+          },
+          {
+            "definition": "芯片集合（随意组合的多个独立芯片）",
+            "iscorrect": false
+          },
+          {
+            "definition": "芯片设置（对芯片参数进行的配置操作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "薯条套餐（包含薯条的餐饮组合）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

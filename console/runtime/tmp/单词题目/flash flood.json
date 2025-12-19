@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "flash flood",
+      "error_analysis": "学生易因“flash”的“闪光”或“快速”字面义误导，将“flash flood”错误理解为“闪光的洪水”或“快速流动的洪水”。",
+      "sentence": "After hours of heavy rain, a **flash flood** swept through the valley, destroying several houses in its path.",
+      "options": {
+        "option": [
+          {
+            "definition": "山洪暴发；骤发洪水",
+            "iscorrect": true
+          },
+          {
+            "definition": "闪光的洪水",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速流动的洪水",
+            "iscorrect": false
+          },
+          {
+            "definition": "持续的洪水",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

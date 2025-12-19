@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "division",
+      "error_analysis": "混淆形近词decision（决定），或误将词根divide的“分开”当作唯一义，忽略“部门”这一常用义",
+      "sentence": "The sales **division** of the company achieved its target for the third quarter.",
+      "options": {
+        "option": [
+          {
+            "definition": "（公司的）部门",
+            "iscorrect": true
+          },
+          {
+            "definition": "决定",
+            "iscorrect": false
+          },
+          {
+            "definition": "分开的动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "分配",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "somewhere",
+      "error_analysis": "学生易因形近词（如somewhat/somehow）混淆，或因some+where的字面组合误判为“一些地方”。",
+      "sentence": "Let's go **somewhere** quiet to talk—I don't want anyone to overhear us.",
+      "options": {
+        "option": [
+          {
+            "definition": "在某处；到某处",
+            "iscorrect": true
+          },
+          {
+            "definition": "稍微；有点",
+            "iscorrect": false
+          },
+          {
+            "definition": "一些地方",
+            "iscorrect": false
+          },
+          {
+            "definition": "不知怎么地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

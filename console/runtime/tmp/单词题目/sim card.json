@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sim card",
+      "error_analysis": "学生易因“sim”与“sum”（总和）形近误判为“汇总卡”，或因“sim”被误认为“similar”（类似的）缩写而理解为“类似卡”",
+      "sentence": "Before activating your new phone, you need to insert the **sim card** into the slot on the side.",
+      "options": {
+        "option": [
+          {
+            "definition": "SIM卡；手机卡（用于手机识别用户身份的卡片）",
+            "iscorrect": true
+          },
+          {
+            "definition": "汇总卡；总和卡（用于记录总和的卡片）",
+            "iscorrect": false
+          },
+          {
+            "definition": "类似卡；相同卡（与其他卡片相似的卡片）",
+            "iscorrect": false
+          },
+          {
+            "definition": "签名卡；签字卡（需要签名确认的卡片）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

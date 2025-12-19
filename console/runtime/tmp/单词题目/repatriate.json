@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "repatriate",
+      "error_analysis": "将\"repatriate\"误联想为与\"爱国\"相关的动作（如\"成为爱国者\"），或通过词根\"patri-\"（国家）过度推导为\"重新热爱国家\"。",
+      "sentence": "After the war, the government decided to **repatriate** all foreign citizens who had been stranded in the country due to the conflict.",
+      "options": {
+        "option": [
+          {
+            "definition": "遣返；使归国",
+            "iscorrect": true
+          },
+          {
+            "definition": "成为爱国者或表现出爱国精神",
+            "iscorrect": false
+          },
+          {
+            "definition": "重新热爱自己的国家",
+            "iscorrect": false
+          },
+          {
+            "definition": "拒绝接受或否认某事",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

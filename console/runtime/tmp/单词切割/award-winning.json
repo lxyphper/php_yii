@@ -1,0 +1,19 @@
+[
+  {
+    "common_misspellings": [
+      "awardwinning",
+      "award-wining",
+      "awared-winning"
+    ],
+    "correct_chunks": [
+      "award-",
+      "winning"
+    ],
+    "distractor_chunks": [
+      "award",
+      "wining",
+      "awared-"
+    ]
+  },
+  0
+]

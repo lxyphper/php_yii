@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tremendous",
+      "error_analysis": "学生易因形近词`tremble`(颤抖)联想为“颤抖的”，或因词根`tremend-(令人害怕的)`误解为“可怕的”，忽略其核心义“极大的”。",
+      "sentence": "The new theme park has drawn a **tremendous** crowd of visitors during the holiday, with long queues at every attraction.",
+      "options": {
+        "option": [
+          {
+            "definition": "极大的；惊人的",
+            "iscorrect": true
+          },
+          {
+            "definition": "颤抖的；发抖的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可怕的；令人恐惧的",
+            "iscorrect": false
+          },
+          {
+            "definition": "微小的；不起眼的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

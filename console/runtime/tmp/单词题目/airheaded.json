@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "airheaded",
+      "error_analysis": "核心易错点为形近词\"lightheaded\"(头晕的)干扰及\"air+headed\"字面误导导致误判为\"空洞的\"或\"无忧无虑的\"",
+      "sentence": "My little sister is so **airheaded** that she put salt in her coffee instead of sugar.",
+      "options": {
+        "option": [
+          {
+            "definition": "头晕的",
+            "iscorrect": false
+          },
+          {
+            "definition": "空洞的；无内容的",
+            "iscorrect": false
+          },
+          {
+            "definition": "愚蠢的；没头脑的",
+            "iscorrect": true
+          },
+          {
+            "definition": "无忧无虑的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

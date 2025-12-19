@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to defraud",
+      "error_analysis": "学生易因形近词“defend”（防御）产生混淆，或因“de-”前缀误解为“揭露欺诈”。",
+      "sentence": "The man was accused of trying to **defraud** elderly people out of their life savings by selling fake insurance.",
+      "options": {
+        "option": [
+          {
+            "definition": "欺骗，诈骗",
+            "iscorrect": true
+          },
+          {
+            "definition": "防御，保护",
+            "iscorrect": false
+          },
+          {
+            "definition": "揭露欺诈",
+            "iscorrect": false
+          },
+          {
+            "definition": "说服，劝服",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

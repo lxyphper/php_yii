@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "caring",
+      "error_analysis": "易混淆形近词carrying（携带），或误将形容词义理解为动词进行时（正在关心）",
+      "sentence": "The **caring** neighbor often brings warm meals to the elderly couple next door.",
+      "options": {
+        "option": [
+          {
+            "definition": "携带的",
+            "iscorrect": false
+          },
+          {
+            "definition": "正在关心的",
+            "iscorrect": false
+          },
+          {
+            "definition": "体贴的；关心他人的",
+            "iscorrect": true
+          },
+          {
+            "definition": "小心的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

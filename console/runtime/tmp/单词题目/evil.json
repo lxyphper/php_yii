@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "evil",
+      "error_analysis": "中国学生易因形近词“eve”（前夜）将“evil”误判为“前夜”，或因字面猜测将其误判为“空的”",
+      "sentence": "The **evil** witch cast a spell on the princess to turn her into a frog.",
+      "options": {
+        "option": [
+          {
+            "definition": "邪恶的",
+            "iscorrect": true
+          },
+          {
+            "definition": "前夜",
+            "iscorrect": false
+          },
+          {
+            "definition": "空的",
+            "iscorrect": false
+          },
+          {
+            "definition": "友好的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

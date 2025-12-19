@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "noble gas",
+      "error_analysis": "学生易将\"noble\"的\"高贵的\"字面义与\"gas\"结合误判为\"高贵的气体\"，或因\"noble\"与\"notable\"形近而误认为\"显著的气体\"",
+      "sentence": "Helium, a **noble gas**, is often used in balloons because it doesn't react with other substances easily.",
+      "options": {
+        "option": [
+          {
+            "definition": "惰性气体（化学中不易与其他物质发生反应的气体，如氦、氖等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "高贵的气体（指具有贵族气质或仅供贵族使用的气体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "显著的气体（指容易被注意到或具有明显特征的气体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "可燃气体（指能够燃烧的气体，如氢气、甲烷等）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

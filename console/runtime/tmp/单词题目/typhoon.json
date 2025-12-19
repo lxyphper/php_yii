@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "typhoon",
+      "error_analysis": "中国学生易因形近词“typhus”（斑疹伤寒）将“typhoon”误理解为疾病",
+      "sentence": "The weather agency issued a red alert for the upcoming **typhoon**, warning of heavy rains and strong winds.",
+      "options": {
+        "option": [
+          {
+            "definition": "台风",
+            "iscorrect": true
+          },
+          {
+            "definition": "斑疹伤寒",
+            "iscorrect": false
+          },
+          {
+            "definition": "大亨",
+            "iscorrect": false
+          },
+          {
+            "definition": "伤寒",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

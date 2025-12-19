@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "commemoration",
+      "error_analysis": "易混淆形近词communication（交流）或commendation（赞扬），或因词根mem（记忆）过度推导为“记忆的记录”而非“纪念活动/行为”",
+      "sentence": "The city held a grand **commemoration** to honor the soldiers who died in the war.",
+      "options": {
+        "option": [
+          {
+            "definition": "交流",
+            "iscorrect": false
+          },
+          {
+            "definition": "赞扬",
+            "iscorrect": false
+          },
+          {
+            "definition": "纪念活动；纪念",
+            "iscorrect": true
+          },
+          {
+            "definition": "记忆的记录",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

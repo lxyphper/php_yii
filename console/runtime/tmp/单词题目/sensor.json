@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sensor",
+      "error_analysis": "学生易因形近词\"senior\"（高级的）或发音接近的\"sender\"（发送者）而误解\"sensor\"的含义",
+      "sentence": "The smart home system uses a motion **sensor** to turn on the lights automatically when someone walks in.",
+      "options": {
+        "option": [
+          {
+            "definition": "高级的；年长的",
+            "iscorrect": false
+          },
+          {
+            "definition": "发送者；发件人",
+            "iscorrect": false
+          },
+          {
+            "definition": "传感器；感应装置",
+            "iscorrect": true
+          },
+          {
+            "definition": "接收器；接收装置",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

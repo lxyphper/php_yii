@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "viciously",
+      "error_analysis": "易混淆形近词'deliciously'(美味地)及词根'vice'(恶习)带来的'罪恶地'误导",
+      "sentence": "She spoke **viciously** about her ex-husband, calling him all sorts of terrible names in front of everyone.",
+      "options": {
+        "option": [
+          {
+            "definition": "恶毒地；凶猛地",
+            "iscorrect": true
+          },
+          {
+            "definition": "美味地；可口地",
+            "iscorrect": false
+          },
+          {
+            "definition": "罪恶地；有恶习地",
+            "iscorrect": false
+          },
+          {
+            "definition": "温柔地；轻轻地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to drive",
+      "error_analysis": "中国学生易混淆形近词“dive”（潜水）与“drive”的核心词义“驾驶（车辆）”，或误将其理解为“骑（马/自行车）”。",
+      "sentence": "She plans to **drive** her brother's car to the party tonight.",
+      "options": {
+        "option": [
+          {
+            "definition": "驾驶（车辆）",
+            "iscorrect": true
+          },
+          {
+            "definition": "潜水",
+            "iscorrect": false
+          },
+          {
+            "definition": "骑（马/自行车）",
+            "iscorrect": false
+          },
+          {
+            "definition": "推动（如机器、项目）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

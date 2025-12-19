@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to abdicate",
+      "error_analysis": "学生易因形近词\"abandon\"（放弃）混淆词义，或因词根\"ab-\"(离开)+\"dicate\"(命令)误判为\"停止命令\"，忽略其\"君主/领导人退位\"的核心含义。",
+      "sentence": "After ruling for 30 years, the king decided to **abdicate** in favor of his son, wanting to live a peaceful retirement.",
+      "options": {
+        "option": [
+          {
+            "definition": "（君主或领导人）退位；放弃权力",
+            "iscorrect": true
+          },
+          {
+            "definition": "放弃（某物，如财产或责任）",
+            "iscorrect": false
+          },
+          {
+            "definition": "停止命令；不再支配",
+            "iscorrect": false
+          },
+          {
+            "definition": "辞职（一般工作或职位）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

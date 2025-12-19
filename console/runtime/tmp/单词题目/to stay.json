@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to stay",
+      "error_analysis": "易因形近词\"study\"(学习)或近义词\"stand\"(站)的干扰,将\"stay\"误判为\"学习\"或\"站立\"",
+      "sentence": "I like to **stay** at home and read books on weekends.",
+      "options": {
+        "option": [
+          {
+            "definition": "停留；待",
+            "iscorrect": true
+          },
+          {
+            "definition": "学习；研究",
+            "iscorrect": false
+          },
+          {
+            "definition": "站；站立",
+            "iscorrect": false
+          },
+          {
+            "definition": "玩；玩耍",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

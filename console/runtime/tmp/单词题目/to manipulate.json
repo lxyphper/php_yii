@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to manipulate",
+      "error_analysis": "学生易因词根“manus”（手）错误联想为“用手操作（工具）”，或混淆为“管理（manage）”而忽略其“操控/篡改”的核心义。",
+      "sentence": "The politician was accused of trying to **manipulate** public opinion by spreading false information.",
+      "options": {
+        "option": [
+          {
+            "definition": "操纵；控制（人、情况或数据等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "用手操作（如机器、工具）",
+            "iscorrect": false
+          },
+          {
+            "definition": "管理；处理（事务或人员）",
+            "iscorrect": false
+          },
+          {
+            "definition": "制造；生产（产品）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

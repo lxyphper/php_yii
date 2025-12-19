@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "front desk",
+      "error_analysis": "学生易将\"front desk\"直译为\"前面的桌子\"，而忽略其\"前台（服务台）\"的固定含义",
+      "sentence": "When you get to the hotel, please go to the **front desk** to register and get your key.",
+      "options": {
+        "option": [
+          {
+            "definition": "前面的桌子",
+            "iscorrect": false
+          },
+          {
+            "definition": "正面的书桌",
+            "iscorrect": false
+          },
+          {
+            "definition": "前台（服务台）",
+            "iscorrect": true
+          },
+          {
+            "definition": "前沿的工作台",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

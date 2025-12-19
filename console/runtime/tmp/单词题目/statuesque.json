@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "statuesque",
+      "error_analysis": "中国学生易因形近词“statue”（雕像）误解为“与雕像相关的”，或因词根字面推导为“僵硬的、静止的”",
+      "sentence": "The model’s **statuesque** figure made her stand out on the runway.",
+      "options": {
+        "option": [
+          {
+            "definition": "(女性)高大优美的，像雕像般的",
+            "iscorrect": true
+          },
+          {
+            "definition": "与雕像相关的，像雕像的（如物体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "僵硬的，像雕像一样静止的",
+            "iscorrect": false
+          },
+          {
+            "definition": "古老的，有历史底蕴的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to use",
+      "error_analysis": "中国学生易混淆形近词“to use”与“to lose”（丢失），或误将其与“滥用”关联。",
+      "sentence": "Please **use** your pen to sign the form.",
+      "options": {
+        "option": [
+          {
+            "definition": "使用（动词，运用某物完成动作）",
+            "iscorrect": true
+          },
+          {
+            "definition": "丢失；失去（动词，遗失某物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "滥用（动词，过度或不当使用）",
+            "iscorrect": false
+          },
+          {
+            "definition": "再利用（动词，再次使用某物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

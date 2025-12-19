@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to portend",
+      "error_analysis": "学生易因形近词\"port\"(港口)或\"tend\"(倾向)错误联想，将\"portend\"理解为与\"港口相关\"或\"倾向于做某事\"",
+      "sentence": "The dark clouds and strong winds seemed to **portend** a severe storm.",
+      "options": {
+        "option": [
+          {
+            "definition": "预示（不好的事情即将发生）",
+            "iscorrect": true
+          },
+          {
+            "definition": "位于港口附近",
+            "iscorrect": false
+          },
+          {
+            "definition": "倾向于做某事",
+            "iscorrect": false
+          },
+          {
+            "definition": "运输货物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

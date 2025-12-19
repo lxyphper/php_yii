@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "festival",
+      "error_analysis": "中国学生易因“festival”与形近词“feast”（盛宴）混淆，或因词根“fest”过度推导而误将其理解为“庆祝餐”。",
+      "sentence": "The annual music **festival** attracts thousands of fans from all over the world.",
+      "options": {
+        "option": [
+          {
+            "definition": "节日",
+            "iscorrect": true
+          },
+          {
+            "definition": "盛宴",
+            "iscorrect": false
+          },
+          {
+            "definition": "庆祝餐",
+            "iscorrect": false
+          },
+          {
+            "definition": "派对",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

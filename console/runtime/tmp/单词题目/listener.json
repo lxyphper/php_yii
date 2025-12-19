@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "listener",
+      "error_analysis": "学生易因形近词“list”（列表）的干扰，将“listener”误判为“列表制作者”",
+      "sentence": "The radio host invited a **listener** to join the show and talk about their favorite song.",
+      "options": {
+        "option": [
+          {
+            "definition": "听者，听众",
+            "iscorrect": true
+          },
+          {
+            "definition": "列表制作者",
+            "iscorrect": false
+          },
+          {
+            "definition": "贷款人",
+            "iscorrect": false
+          },
+          {
+            "definition": "讲师",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

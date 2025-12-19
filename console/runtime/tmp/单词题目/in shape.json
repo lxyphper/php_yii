@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "in shape",
+      "error_analysis": "学生易将固定短语\"in shape\"直译为\"在形状里面\"或误解为\"保持物体形状\"，而非其核心义\"身体健康；状态良好\"",
+      "sentence": "After months of regular exercise, Sarah finally feels **in shape** and ready for the upcoming marathon.",
+      "options": {
+        "option": [
+          {
+            "definition": "身体健康；状态良好",
+            "iscorrect": true
+          },
+          {
+            "definition": "在形状里面",
+            "iscorrect": false
+          },
+          {
+            "definition": "保持物体的形状",
+            "iscorrect": false
+          },
+          {
+            "definition": "以...的形状",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

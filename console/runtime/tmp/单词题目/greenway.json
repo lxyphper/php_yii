@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "greenway",
+      "error_analysis": "学生易因\"green+way\"直译为\"绿色道路\"，或与\"highway\"混淆而忽略其\"专门供步行/骑行的林荫通道\"的特定含义",
+      "sentence": "The city built a new **greenway** along the river, where people can walk, jog, or ride bikes without cars.",
+      "options": {
+        "option": [
+          {
+            "definition": "绿道（供步行或骑行的林荫小径）",
+            "iscorrect": true
+          },
+          {
+            "definition": "绿色道路（普通的绿色路面）",
+            "iscorrect": false
+          },
+          {
+            "definition": "高速公路（类似highway的交通道路）",
+            "iscorrect": false
+          },
+          {
+            "definition": "绿色植物（道路两旁的绿植）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

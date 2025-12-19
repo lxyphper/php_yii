@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "full-bodied",
+      "error_analysis": "学生易因\"full\"（满的）和\"bodied\"（有身体的）的字面意思，将\"full-bodied\"误判为描述人\"体型丰满的\"，而非其常用的\"（酒、咖啡等）浓郁的\"含义。",
+      "sentence": "The barista recommended the **full-bodied** coffee, saying it had a rich, robust flavor that coffee lovers would appreciate.",
+      "options": {
+        "option": [
+          {
+            "definition": "（酒、咖啡等）浓郁的；醇厚的",
+            "iscorrect": true
+          },
+          {
+            "definition": "体型丰满的；身体壮实的",
+            "iscorrect": false
+          },
+          {
+            "definition": "充满活力的；精力充沛的",
+            "iscorrect": false
+          },
+          {
+            "definition": "全面的；详尽无遗的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

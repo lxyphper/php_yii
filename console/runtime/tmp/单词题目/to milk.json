@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to milk",
+      "error_analysis": "学生易将\"to milk\"的僻义（榨取；利用）误判为基本义\"挤牛奶\"，或字面推导为\"给...加牛奶\"，或与形近词\"mill\"混淆为\"磨碎\"。",
+      "sentence": "The company tried to **milk** the new trend for as much profit as possible.",
+      "options": {
+        "option": [
+          {
+            "definition": "挤（牛、羊等的）奶",
+            "iscorrect": false
+          },
+          {
+            "definition": "给...添加牛奶",
+            "iscorrect": false
+          },
+          {
+            "definition": "磨碎",
+            "iscorrect": false
+          },
+          {
+            "definition": "榨取；利用（以获取利益）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

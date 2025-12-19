@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "plaintiff",
+      "error_analysis": "中国学生易因形近词“plaintive”（哀怨的）混淆，或词根“plaint”（抱怨）错误联想为“抱怨者”，而非法律术语“原告”。",
+      "sentence": "In the lawsuit, the **plaintiff** accused the company of breach of contract and demanded $500,000 in compensation.",
+      "options": {
+        "option": [
+          {
+            "definition": "原告（法律案件中的起诉方）",
+            "iscorrect": true
+          },
+          {
+            "definition": "哀怨的人；悲伤的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "抱怨者；申诉者",
+            "iscorrect": false
+          },
+          {
+            "definition": "被告（法律案件中的被起诉方）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "reception desk",
+      "error_analysis": "将'reception desk'字面直译为'接收桌'或误联想为'接待员的桌子'，忽略其作为'接待台/服务台'的固定搭配义。",
+      "sentence": "When you arrive at the hotel, please go to the **reception desk** to check in and get your room key.",
+      "options": {
+        "option": [
+          {
+            "definition": "接待台；服务台",
+            "iscorrect": true
+          },
+          {
+            "definition": "接收桌；收件台",
+            "iscorrect": false
+          },
+          {
+            "definition": "接待员的办公桌",
+            "iscorrect": false
+          },
+          {
+            "definition": "会议室的长桌",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "numbing",
+      "error_analysis": "学生易混淆词根“numb”（麻木）与“num”（数量），误判为“数量多的”，或因形近词“number”（数字）误理解为“计数的”。",
+      "sentence": "The **numbing** cold of the Arctic wind made his face feel like it was frozen.",
+      "options": {
+        "option": [
+          {
+            "definition": "数量多的；大量的",
+            "iscorrect": false
+          },
+          {
+            "definition": "计数的；编号的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人麻木的；使人失去感觉的",
+            "iscorrect": true
+          },
+          {
+            "definition": "令人厌烦的；枯燥的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

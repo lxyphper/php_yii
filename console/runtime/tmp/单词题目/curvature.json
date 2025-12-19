@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "curvature",
+      "error_analysis": "学生易因形近词\"coverage\"（覆盖范围）或词根\"curv-\"（曲线）的过度直译，将\"curvature\"误判为\"覆盖范围\"或\"曲线\"。",
+      "sentence": "The driver had to slow down because of the sharp **curvature** of the mountain road.",
+      "options": {
+        "option": [
+          {
+            "definition": "弯曲程度；曲率",
+            "iscorrect": true
+          },
+          {
+            "definition": "覆盖范围",
+            "iscorrect": false
+          },
+          {
+            "definition": "曲线",
+            "iscorrect": false
+          },
+          {
+            "definition": "生物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to tame",
+      "error_analysis": "中国学生易因“tame”与形近词“time”（时间）或“take”（拿取）混淆，误将“to tame”理解为“计时”或“拿取”",
+      "sentence": "The farmer spent months trying to **tame** the wild bull so it could pull the plow.",
+      "options": {
+        "option": [
+          {
+            "definition": "驯服（动物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "计时",
+            "iscorrect": false
+          },
+          {
+            "definition": "拿取",
+            "iscorrect": false
+          },
+          {
+            "definition": "讲故事",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

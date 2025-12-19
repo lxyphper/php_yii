@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to fasten",
+      "error_analysis": "中国学生易因形近词“fast”（快）将“fasten”误理解为“加速、使变快”或“催促”。",
+      "sentence": "She stopped to **fasten** her shoelace before continuing the race.",
+      "options": {
+        "option": [
+          {
+            "definition": "系牢；固定（如鞋带、安全带等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "加速；使变得更快",
+            "iscorrect": false
+          },
+          {
+            "definition": "催促；促使某人加快速度",
+            "iscorrect": false
+          },
+          {
+            "definition": "喂养；供给食物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

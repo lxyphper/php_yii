@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "disorder",
+      "error_analysis": "中国学生易因形近词'disease'（疾病）混淆'disorder'，或因词根'dis-+order'直译为'没有顺序'而忽略其'混乱/失调'核心义。",
+      "sentence": "After the wild party, the house was in total **disorder**—empty bottles, pizza boxes, and clothes scattered all over the place.",
+      "options": {
+        "option": [
+          {
+            "definition": "混乱；紊乱",
+            "iscorrect": true
+          },
+          {
+            "definition": "疾病",
+            "iscorrect": false
+          },
+          {
+            "definition": "没有顺序",
+            "iscorrect": false
+          },
+          {
+            "definition": "取消订单",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

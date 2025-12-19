@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fatalism",
+      "error_analysis": "将\"fatalism\"误理解为与\"致命/死亡\"相关的概念（如\"致命主义\"），或通过词根\"fatal\"（致命的）错误推导其含义。",
+      "sentence": "Despite his efforts to change his life, he couldn't shake off his **fatalism** and believed everything was predetermined by fate.",
+      "options": {
+        "option": [
+          {
+            "definition": "宿命论（相信一切由命运决定的思想）",
+            "iscorrect": true
+          },
+          {
+            "definition": "致命主义（认为死亡是不可避免的信念）",
+            "iscorrect": false
+          },
+          {
+            "definition": "对致命事件的研究或分析",
+            "iscorrect": false
+          },
+          {
+            "definition": "对自由意志的强调（认为人可以自主决定命运）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

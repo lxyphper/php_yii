@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to rally around",
+      "error_analysis": "学生易因“rally”的“集会”义及“around”的“围绕”义，将“to rally around”直译为“围绕…举行集会”，忽略其“团结支持”的核心含义。",
+      "sentence": "When the company faced a crisis, all employees **rallied around** their CEO to help turn things around.",
+      "options": {
+        "option": [
+          {
+            "definition": "团结起来支持",
+            "iscorrect": true
+          },
+          {
+            "definition": "围绕…举行集会",
+            "iscorrect": false
+          },
+          {
+            "definition": "依赖于",
+            "iscorrect": false
+          },
+          {
+            "definition": "与…结盟",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

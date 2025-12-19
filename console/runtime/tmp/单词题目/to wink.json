@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to wink",
+      "error_analysis": "易与形近词blink（无意识眨眼）混淆，或因win联想为“赢得”",
+      "sentence": "She **winked** at me when the teacher wasn’t looking, telling me she knew the answer.",
+      "options": {
+        "option": [
+          {
+            "definition": "（故意地）眨一只眼；使眼色",
+            "iscorrect": true
+          },
+          {
+            "definition": "无意识地眨眼（如因灰尘或疲劳）",
+            "iscorrect": false
+          },
+          {
+            "definition": "赢得比赛或奖品",
+            "iscorrect": false
+          },
+          {
+            "definition": "点头表示同意",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

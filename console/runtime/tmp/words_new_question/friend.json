@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "friend",
+      "error_analysis": "易与形近词“fiend”（恶魔；恶人）混淆，或误将名词“friend”理解为形容词“友好的”",
+      "sentence": "Sarah has been my closest **friend** since we were kids, always there to help me when I'm in trouble.",
+      "options": {
+        "option": [
+          {
+            "definition": "朋友（名词，指亲密的伙伴）",
+            "iscorrect": true
+          },
+          {
+            "definition": "恶魔；恶人（名词，指邪恶的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "友好的（形容词，指态度亲切的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "同事（名词，指一起工作的人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

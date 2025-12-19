@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "HTML",
+      "error_analysis": "中国学生对\"HTML\"缩写不熟悉，易因形近词（如\"email\"）或字面拆分（如\"ML\"联想到机器学习）错误理解其核心含义",
+      "sentence": "To create a simple web page, you need to use **HTML** to structure content like headings, paragraphs, and links.",
+      "options": {
+        "option": [
+          {
+            "definition": "一种电子邮件格式（用于发送带附件的文本消息）",
+            "iscorrect": false
+          },
+          {
+            "definition": "超文本标记语言（用于构建网页结构的标记语言）",
+            "iscorrect": true
+          },
+          {
+            "definition": "一种机器学习算法（用于处理文本数据分类）",
+            "iscorrect": false
+          },
+          {
+            "definition": "一种网页浏览器应用程序（如Chrome或Safari）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

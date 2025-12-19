@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "generally",
+      "error_analysis": "将副词\"generally\"误理解为形容词\"一般的\"（来自形近词\"general\"），或误判为\"概括地\"（词根过度推导）",
+      "sentence": "People **generally** prefer to stay at home on weekends rather than go out.",
+      "options": {
+        "option": [
+          {
+            "definition": "通常地；一般来说",
+            "iscorrect": true
+          },
+          {
+            "definition": "一般的；普通的",
+            "iscorrect": false
+          },
+          {
+            "definition": "概括地；笼统地",
+            "iscorrect": false
+          },
+          {
+            "definition": "遗传地；基因地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

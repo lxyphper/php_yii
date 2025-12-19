@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "call",
+      "error_analysis": "中国学生易因形近词“calm”（平静的）混淆“call”的含义，或误将其理解为“哭”（cry）等近义词",
+      "sentence": "Can you **call** me later when you finish your homework?",
+      "options": {
+        "option": [
+          {
+            "definition": "打电话；呼叫",
+            "iscorrect": true
+          },
+          {
+            "definition": "平静的",
+            "iscorrect": false
+          },
+          {
+            "definition": "哭；哭泣",
+            "iscorrect": false
+          },
+          {
+            "definition": "大声喊叫",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

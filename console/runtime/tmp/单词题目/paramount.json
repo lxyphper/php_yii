@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "paramount",
+      "error_analysis": "易因形近词“parameter”（参数）混淆，或词根“para-”+“mount”错误猜测为“与参数相关”或“山的”",
+      "sentence": "For a successful project, clear communication between team members is **paramount** to avoiding misunderstandings.",
+      "options": {
+        "option": [
+          {
+            "definition": "参数的；与参数相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "山的；登山的",
+            "iscorrect": false
+          },
+          {
+            "definition": "最重要的；至高无上的",
+            "iscorrect": true
+          },
+          {
+            "definition": "突出的；显著的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

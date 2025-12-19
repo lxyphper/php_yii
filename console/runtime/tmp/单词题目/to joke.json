@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to joke",
+      "error_analysis": "中国学生易因形近词‘jog’（慢跑）或‘jot’（记录）混淆‘to joke’，或误将其理解为‘欺骗’。",
+      "sentence": "My brother loves **to joke** around with his friends after school.",
+      "options": {
+        "option": [
+          {
+            "definition": "记录",
+            "iscorrect": false
+          },
+          {
+            "definition": "慢跑",
+            "iscorrect": false
+          },
+          {
+            "definition": "开玩笑；说笑话",
+            "iscorrect": true
+          },
+          {
+            "definition": "欺骗",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

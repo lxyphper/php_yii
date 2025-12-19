@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "with",
+      "error_analysis": "学生易因形近词（如wish/which）误读，或因字面翻译将with（伴随/带有）误理解为动词“有”（have）。",
+      "sentence": "She came to the party **with** a big cake in her hand.",
+      "options": {
+        "option": [
+          {
+            "definition": "希望",
+            "iscorrect": false
+          },
+          {
+            "definition": "有（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "和...一起；带有（伴随状态）",
+            "iscorrect": true
+          },
+          {
+            "definition": "为了",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

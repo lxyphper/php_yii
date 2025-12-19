@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "refrigerator",
+      "error_analysis": "中国学生易因\"refrigerator\"与\"generator\"(发电机)等形近词（均以\"-ator\"结尾）混淆，或错误拆分词根认为是加热设备（如微波炉）而误解词义。",
+      "sentence": "Please put the milk in the **refrigerator**, or it will go bad.",
+      "options": {
+        "option": [
+          {
+            "definition": "冰箱",
+            "iscorrect": true
+          },
+          {
+            "definition": "发电机",
+            "iscorrect": false
+          },
+          {
+            "definition": "调节器",
+            "iscorrect": false
+          },
+          {
+            "definition": "微波炉",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

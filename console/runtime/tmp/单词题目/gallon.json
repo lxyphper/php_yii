@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gallon",
+      "error_analysis": "学生易因形近词gallop（奔跑）或拼写结尾类似melon（瓜）而误判gallon的含义",
+      "sentence": "The gas station charges $3 per **gallon** of gasoline.",
+      "options": {
+        "option": [
+          {
+            "definition": "加仑（名词，体积单位）",
+            "iscorrect": true
+          },
+          {
+            "definition": "奔跑（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "瓜（名词，水果）",
+            "iscorrect": false
+          },
+          {
+            "definition": "胆汁（名词，身体分泌物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

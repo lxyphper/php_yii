@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mind",
+      "error_analysis": "中国学生易将名词\"mind\"误判为\"心脏\"（因中文\"心\"与\"头脑\"概念混淆），或因形近词\"mild\"误选为\"温和的\"",
+      "sentence": "Listening to music helps clear my **mind** after a busy day.",
+      "options": {
+        "option": [
+          {
+            "definition": "头脑；思维",
+            "iscorrect": true
+          },
+          {
+            "definition": "心脏",
+            "iscorrect": false
+          },
+          {
+            "definition": "温和的",
+            "iscorrect": false
+          },
+          {
+            "definition": "我的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

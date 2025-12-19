@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "memory card",
+      "error_analysis": "容易因形近词“memorial”（纪念的）联想成“纪念卡片”，或因字面直译误理解为“记忆卡片”（非电子存储介质）",
+      "sentence": "Don’t forget to put the **memory card** into your camera before the trip—we need it to store all the photos.",
+      "options": {
+        "option": [
+          {
+            "definition": "存储卡（用于电子设备存储数据的卡片，如SD卡）",
+            "iscorrect": true
+          },
+          {
+            "definition": "纪念卡片（用于纪念某人的卡片，如葬礼或追思会用）",
+            "iscorrect": false
+          },
+          {
+            "definition": "记忆卡片（帮助记忆的卡片，如背单词的闪卡）",
+            "iscorrect": false
+          },
+          {
+            "definition": "会员卡（用于证明会员身份的卡片）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to launder",
+      "error_analysis": "学生易因形近词“laundry”（洗衣店）将“to launder”误解为“洗（衣物）”，忽略其核心比喻义“洗钱”。",
+      "sentence": "The gang was arrested for attempting to **launder** money from their drug sales through a chain of fake restaurants.",
+      "options": {
+        "option": [
+          {
+            "definition": "将非法所得通过合法渠道合法化（即洗钱）",
+            "iscorrect": true
+          },
+          {
+            "definition": "清洗（衣物或纺织品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "晾晒（刚洗好的衣物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "伪造（虚假文件或记录）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

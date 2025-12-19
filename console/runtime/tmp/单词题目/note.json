@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "note",
+      "error_analysis": "中国学生易因形近词\"net\"(网)或混淆\"note\"(便条)与相关词\"notebook\"(笔记本)而错误理解该词核心词义。",
+      "sentence": "Please leave a **note** on the fridge if you finish the milk.",
+      "options": {
+        "option": [
+          {
+            "definition": "便条；笔记",
+            "iscorrect": true
+          },
+          {
+            "definition": "网",
+            "iscorrect": false
+          },
+          {
+            "definition": "笔记本",
+            "iscorrect": false
+          },
+          {
+            "definition": "注意",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "Word War I",
+      "World War 1",
+      "Wold War I",
+      "World Wor I"
+    ],
+    "correct_chunks": [
+      "World",
+      "War",
+      "I"
+    ],
+    "distractor_chunks": [
+      "Word",
+      "1",
+      "Wold",
+      "Wor"
+    ]
+  },
+  0
+]

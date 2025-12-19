@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to improve",
+      "error_analysis": "学生易因形近词\"prove\"（证明）或词根拆分\"im-+prove\"错误理解为\"证明\"或\"加强证明\"",
+      "sentence": "After practicing every day, she noticed her English speaking skills start to **improve** gradually.",
+      "options": {
+        "option": [
+          {
+            "definition": "提高；改善",
+            "iscorrect": true
+          },
+          {
+            "definition": "证明；证实",
+            "iscorrect": false
+          },
+          {
+            "definition": "加强证明；再次证明",
+            "iscorrect": false
+          },
+          {
+            "definition": "移动；转移",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

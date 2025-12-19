@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sore throat",
+      "error_analysis": "学生易将“sore”与形近词“sour”（酸的）混淆，或误猜“sore throat”为“喉咙发炎”。",
+      "sentence": "I can't sing today because of a bad **sore throat**.",
+      "options": {
+        "option": [
+          {
+            "definition": "酸喉咙",
+            "iscorrect": false
+          },
+          {
+            "definition": "喉咙发炎",
+            "iscorrect": false
+          },
+          {
+            "definition": "喉咙痛",
+            "iscorrect": true
+          },
+          {
+            "definition": "喉咙哑",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "consensus",
+      "error_analysis": "学生易因形近词\"consent\"(同意)或词根\"共同感觉\"的误导，将\"consensus\"误理解为\"个人许可\"或\"共同情绪\"，而非\"共识\"",
+      "sentence": "After hours of discussion, the team finally reached a **consensus** on the new project plan.",
+      "options": {
+        "option": [
+          {
+            "definition": "共识（大家都同意的意见）",
+            "iscorrect": true
+          },
+          {
+            "definition": "同意（个人对某事的许可）",
+            "iscorrect": false
+          },
+          {
+            "definition": "共同情绪（集体的感受或情绪）",
+            "iscorrect": false
+          },
+          {
+            "definition": "结果（事件的后果）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

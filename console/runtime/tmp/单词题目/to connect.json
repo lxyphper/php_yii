@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to connect",
+      "error_analysis": "易与形近词\"correct\"（正确）混淆，或因词根\"nect\"（绑）过度直译为\"绑在一起\"。",
+      "sentence": "Can you help me **connect** the laptop to the Wi-Fi?",
+      "options": {
+        "option": [
+          {
+            "definition": "连接；联系",
+            "iscorrect": true
+          },
+          {
+            "definition": "正确；纠正",
+            "iscorrect": false
+          },
+          {
+            "definition": "绑在一起；系牢",
+            "iscorrect": false
+          },
+          {
+            "definition": "收集；聚集",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

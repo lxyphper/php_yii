@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lecture",
+      "error_analysis": "中国学生易因\"lecture\"与\"picture\"\"culture\"等\"-ture\"结尾词形近误判为\"图片\"\"文化\"，或因\"lect\"词根联想错误误判为\"课程\"",
+      "sentence": "I attended a **lecture** on environmental science at the university yesterday.",
+      "options": {
+        "option": [
+          {
+            "definition": "讲座",
+            "iscorrect": true
+          },
+          {
+            "definition": "图片",
+            "iscorrect": false
+          },
+          {
+            "definition": "文化",
+            "iscorrect": false
+          },
+          {
+            "definition": "课程",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "physically",
+      "error_analysis": "学生易因\"physical\"的\"物理的\"词义将\"physically\"误判为\"物理上\"，或混淆\"身体上\"与\"心理上\"的含义",
+      "sentence": "After running a marathon, she felt **physically** exhausted and could barely stand.",
+      "options": {
+        "option": [
+          {
+            "definition": "物理上",
+            "iscorrect": false
+          },
+          {
+            "definition": "身体上；肉体上",
+            "iscorrect": true
+          },
+          {
+            "definition": "心理上",
+            "iscorrect": false
+          },
+          {
+            "definition": "精确地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

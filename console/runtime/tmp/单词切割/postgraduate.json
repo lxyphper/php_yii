@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "posgraduate",
+      "postgradute",
+      "postgreduate",
+      "postgraudate",
+      "postgraddate"
+    ],
+    "correct_chunks": [
+      "post",
+      "grad",
+      "uate"
+    ],
+    "distractor_chunks": [
+      "pos",
+      "gre",
+      "gradu",
+      "grau",
+      "gradd"
+    ]
+  },
+  0
+]

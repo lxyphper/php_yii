@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "momentous",
+      "error_analysis": "学生易因形近词\"momentary\"(短暂的)混淆，或因词根\"moment\"(时刻)字面理解为\"时刻的\"，从而误解\"momentous\"的含义。",
+      "sentence": "The signing of the peace treaty was a **momentous** event in the history of the two countries.",
+      "options": {
+        "option": [
+          {
+            "definition": "短暂的；瞬间的",
+            "iscorrect": false
+          },
+          {
+            "definition": "重大的；重要的",
+            "iscorrect": true
+          },
+          {
+            "definition": "时刻的；即时的",
+            "iscorrect": false
+          },
+          {
+            "definition": "微小的；无关紧要的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

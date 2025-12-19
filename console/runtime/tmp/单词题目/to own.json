@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to own",
+      "error_analysis": "中国学生易因形近词“owe”（欠）的干扰，将“to own”误解为“欠（钱/物）”。",
+      "sentence": "She has always wanted to **own** a small café by the sea since she was a teenager.",
+      "options": {
+        "option": [
+          {
+            "definition": "拥有",
+            "iscorrect": true
+          },
+          {
+            "definition": "欠（钱/物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "承认（错误）",
+            "iscorrect": false
+          },
+          {
+            "definition": "赢得（比赛/奖项）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

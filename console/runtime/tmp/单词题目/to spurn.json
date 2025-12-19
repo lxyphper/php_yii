@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to spurn",
+      "error_analysis": "学生易因形近词“spur”（刺激、推动）而将“spurn”误理解为“刺激”或“推动”",
+      "sentence": "She **spurned** his offer of help, thinking it was a sign of pity.",
+      "options": {
+        "option": [
+          {
+            "definition": "拒绝（带有轻视）",
+            "iscorrect": true
+          },
+          {
+            "definition": "刺激；促进",
+            "iscorrect": false
+          },
+          {
+            "definition": "推动；催促",
+            "iscorrect": false
+          },
+          {
+            "definition": "踢；蹬",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

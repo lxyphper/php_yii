@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "enchanted",
+      "error_analysis": "学生易混淆形近词\"enhanced\"(增强的)，或因词根\"chant\"(吟唱)误解为\"被吟唱的\"。",
+      "sentence": "She was **enchanted** by the sunset over the ocean and stood there for hours, forgetting the time.",
+      "options": {
+        "option": [
+          {
+            "definition": "增强的；提高的",
+            "iscorrect": false
+          },
+          {
+            "definition": "被吟唱的；被歌颂的",
+            "iscorrect": false
+          },
+          {
+            "definition": "着迷的；被迷住的",
+            "iscorrect": true
+          },
+          {
+            "definition": "困惑的；迷惑的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

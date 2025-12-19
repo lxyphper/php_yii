@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "costume",
+      "error_analysis": "中国学生易因形近词\"custom\"（习俗）和词根\"cost\"（费用）的干扰，将\"costume\"误判为\"习俗\"或\"成本\"。",
+      "sentence": "The children dressed up in colorful **costumes** for the Halloween party.",
+      "options": {
+        "option": [
+          {
+            "definition": "（尤指戏服或节日的）服装",
+            "iscorrect": true
+          },
+          {
+            "definition": "习俗；惯例",
+            "iscorrect": false
+          },
+          {
+            "definition": "成本；花费",
+            "iscorrect": false
+          },
+          {
+            "definition": "外套；上衣",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

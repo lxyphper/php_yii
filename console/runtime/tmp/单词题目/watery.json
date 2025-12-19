@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "watery",
+      "error_analysis": "学生易因\"water\"词根联想，将\"watery\"误判为\"与水有关的\"（泛泛义），忽略其\"稀薄的、含水多的\"核心含义；或混淆为\"潮湿的\"。",
+      "sentence": "The coffee was too **watery**, so I added more beans to make it stronger.",
+      "options": {
+        "option": [
+          {
+            "definition": "稀薄的；含水多的",
+            "iscorrect": true
+          },
+          {
+            "definition": "与水有关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "潮湿的",
+            "iscorrect": false
+          },
+          {
+            "definition": "水做的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

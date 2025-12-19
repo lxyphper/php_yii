@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "skimpy",
+      "error_analysis": "学生易将“skimpy”与形近词“skinny”（瘦的）混淆，或误从“skip”（跳跃）联想为“跳跃的”",
+      "sentence": "She refused to wear the **skimpy** dress to the party because it revealed too much of her body.",
+      "options": {
+        "option": [
+          {
+            "definition": "瘦的",
+            "iscorrect": false
+          },
+          {
+            "definition": "简单的",
+            "iscorrect": false
+          },
+          {
+            "definition": "（衣服）暴露的；量少的",
+            "iscorrect": true
+          },
+          {
+            "definition": "跳跃的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

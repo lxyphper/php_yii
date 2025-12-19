@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "perplexing",
+      "error_analysis": "学生易因形近词\"pleasing\"（令人愉快的）产生直觉联想，或因词根\"plex\"误判为\"复杂的\"（complex）",
+      "sentence": "The instructions for assembling the furniture were so **perplexing** that even my dad, who's good at DIY, gave up after an hour.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人愉快的",
+            "iscorrect": false
+          },
+          {
+            "definition": "复杂的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人困惑的",
+            "iscorrect": true
+          },
+          {
+            "definition": "困难的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

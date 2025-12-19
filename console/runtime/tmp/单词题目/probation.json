@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "probation",
+      "error_analysis": "易因形近词（如promotion）混淆为“晋升期”，或因词根“prob”（证明）误导为“证明期”",
+      "sentence": "The new employee will be on **probation** for three months, during which his performance will be closely monitored.",
+      "options": {
+        "option": [
+          {
+            "definition": "试用期；缓刑期",
+            "iscorrect": true
+          },
+          {
+            "definition": "晋升期；提拔期",
+            "iscorrect": false
+          },
+          {
+            "definition": "证明期；验证期",
+            "iscorrect": false
+          },
+          {
+            "definition": "准备期；筹备期",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

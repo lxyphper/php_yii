@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "quasar",
+      "error_analysis": "学生易因\"quasar\"与\"quasi-\"(类似)、\"star\"(星星)的词根联想或\"laser\"(激光)的形近，错误理解为\"准恒星\"或\"激光源\"",
+      "sentence": "A **quasar**, powered by a supermassive black hole at the center of a distant galaxy, emits enormous amounts of energy across the electromagnetic spectrum.",
+      "options": {
+        "option": [
+          {
+            "definition": "类星体（一种由遥远星系中心超大质量黑洞驱动的高亮度天体）",
+            "iscorrect": true
+          },
+          {
+            "definition": "准恒星（类似恒星的天体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "激光源（发射激光的装置）",
+            "iscorrect": false
+          },
+          {
+            "definition": "量子星（由量子效应主导的恒星）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

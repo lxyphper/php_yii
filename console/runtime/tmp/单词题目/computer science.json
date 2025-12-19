@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "computer science",
+      "error_analysis": "学生易因字面拆分将\"computer science\"误理解为\"电脑操作技能\"，或因词根误导认为是\"电脑硬件研究\"",
+      "sentence": "She is majoring in **computer science** at university, where she learns about programming, algorithms, and data structures.",
+      "options": {
+        "option": [
+          {
+            "definition": "计算机科学（研究计算机系统、软件及算法等的学科）",
+            "iscorrect": true
+          },
+          {
+            "definition": "电脑操作技能（如打字、使用办公软件等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "电脑硬件研究（如电脑零件的设计与制造）",
+            "iscorrect": false
+          },
+          {
+            "definition": "电脑安全技术（保护电脑免受病毒攻击的方法）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cupcake",
+      "error_analysis": "学生易将\"cupcake\"拆分为\"cup\"（杯子）和\"cake\"（蛋糕），误理解为\"装在杯子里的蛋糕\"或\"杯子形状的蛋糕\"。",
+      "sentence": "She baked a batch of **cupcakes** for the party, each topped with pink icing and a cherry.",
+      "options": {
+        "option": [
+          {
+            "definition": "纸杯蛋糕",
+            "iscorrect": true
+          },
+          {
+            "definition": "装在杯子里的蛋糕",
+            "iscorrect": false
+          },
+          {
+            "definition": "杯子形状的蛋糕",
+            "iscorrect": false
+          },
+          {
+            "definition": "一杯蛋糕的量",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to accumulate",
+      "error_analysis": "易因形近词（如accelerate/accurate）误判为“加速”“准确”，或因词根“cum”误联想为“come”而理解为“聚集”。",
+      "sentence": "Over time, dust tends to **accumulate** on unused furniture.",
+      "options": {
+        "option": [
+          {
+            "definition": "积累（逐渐堆积）",
+            "iscorrect": true
+          },
+          {
+            "definition": "加速（使速度加快）",
+            "iscorrect": false
+          },
+          {
+            "definition": "准确（没有错误）",
+            "iscorrect": false
+          },
+          {
+            "definition": "聚集（收集并集合）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

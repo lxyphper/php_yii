@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "snaillike",
+      "error_analysis": "学生易因`snaillike`与`snake-like`形近误判为“像蛇的”，或因`like`的动词义误解为“蜗牛喜欢的”。",
+      "sentence": "The old man walked at a **snaillike** pace, taking ten minutes to cross the narrow street.",
+      "options": {
+        "option": [
+          {
+            "definition": "像蜗牛的；缓慢的",
+            "iscorrect": true
+          },
+          {
+            "definition": "像蛇的",
+            "iscorrect": false
+          },
+          {
+            "definition": "蜗牛喜欢的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有硬壳的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

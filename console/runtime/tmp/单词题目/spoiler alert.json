@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "spoiler alert",
+      "error_analysis": "学生易根据\"spoiler\"（破坏者）和\"alert\"（警报）的字面意思，将\"spoiler alert\"误判为\"破坏者警报\"，忽略其在娱乐语境中的\"剧透警告\"特定含义",
+      "sentence": "Before I reveal the ending of the new TV series, I should give a **spoiler alert** for those who haven't watched the latest episode yet.",
+      "options": {
+        "option": [
+          {
+            "definition": "剧透警告（娱乐语境中提醒避免剧透的提示）",
+            "iscorrect": true
+          },
+          {
+            "definition": "破坏者警报（提醒有破坏者存在的警报）",
+            "iscorrect": false
+          },
+          {
+            "definition": "扰流板警报（关于汽车扰流板故障的警报）",
+            "iscorrect": false
+          },
+          {
+            "definition": "紧急警报（需要立即响应的紧急情况警报）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

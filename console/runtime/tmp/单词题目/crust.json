@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "crust",
+      "error_analysis": "学生易因形近词“crush”（压碎）或“rust”（锈）的干扰，将“crust”误判为“压碎”或“锈”。",
+      "sentence": "I always leave the **crust** of my bread for last—its crispy texture is my favorite part!",
+      "options": {
+        "option": [
+          {
+            "definition": "压碎",
+            "iscorrect": false
+          },
+          {
+            "definition": "锈",
+            "iscorrect": false
+          },
+          {
+            "definition": "信任",
+            "iscorrect": false
+          },
+          {
+            "definition": "外皮（如面包/披萨的硬外层）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "theorem",
+      "error_analysis": "学生易因形近词“theme”（主题）或对词根“theo-”的错误联想（如与“神”相关）而误解“theorem”的含义。",
+      "sentence": "In geometry class, we proved the Pythagorean **theorem** by using right triangles and algebraic equations.",
+      "options": {
+        "option": [
+          {
+            "definition": "定理（尤指数学或逻辑中的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "主题；题目；主旋律",
+            "iscorrect": false
+          },
+          {
+            "definition": "神学理论；宗教教义",
+            "iscorrect": false
+          },
+          {
+            "definition": "理论；学说；推测",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

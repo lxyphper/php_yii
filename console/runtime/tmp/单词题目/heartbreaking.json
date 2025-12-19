@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "heartbreaking",
+      "error_analysis": "混淆“heartbreaking”（令人心碎的，修饰事物）与“heartbroken”（心碎的，修饰人）的含义。",
+      "sentence": "The story of the orphaned children in the war is truly **heartbreaking**.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人心碎的；令人悲痛的",
+            "iscorrect": true
+          },
+          {
+            "definition": "心碎的；感到极度悲伤的（形容人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "破坏心脏的；对心脏有害的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人兴奋的；激动人心的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

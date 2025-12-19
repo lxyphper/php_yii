@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unlucky",
+      "error_analysis": "学生易混淆形近词unlikely（不可能的），或误将unlucky理解为“不开心的”（unhappy）",
+      "sentence": "She was **unlucky** to miss the last bus home and had to walk in the rain.",
+      "options": {
+        "option": [
+          {
+            "definition": "不幸的；倒霉的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不可能的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不开心的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不寻常的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

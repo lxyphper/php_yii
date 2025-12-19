@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "member",
+      "error_analysis": "易与形近词\"number\"(数字/数量)混淆，或因词根\"mem-\"(记忆)错误推导为\"记忆的人\"",
+      "sentence": "She has been a **member** of the school drama club since last year.",
+      "options": {
+        "option": [
+          {
+            "definition": "数字；数量",
+            "iscorrect": false
+          },
+          {
+            "definition": "记忆者；记录者",
+            "iscorrect": false
+          },
+          {
+            "definition": "方式；方法",
+            "iscorrect": false
+          },
+          {
+            "definition": "成员；会员",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

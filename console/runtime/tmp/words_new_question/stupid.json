@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stupid",
+      "error_analysis": "学生易因形近词“super”（超级的）或“study”（学习）的拼写混淆产生词义误解",
+      "sentence": "It was **stupid** of him to forget his keys again—he always does that.",
+      "options": {
+        "option": [
+          {
+            "definition": "超级的",
+            "iscorrect": false
+          },
+          {
+            "definition": "学习的",
+            "iscorrect": false
+          },
+          {
+            "definition": "愚蠢的",
+            "iscorrect": true
+          },
+          {
+            "definition": "结实的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

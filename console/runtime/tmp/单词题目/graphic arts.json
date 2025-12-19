@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "graphic arts",
+      "error_analysis": "学生易因词根“graph”（图表）误导将“graphic arts”误解为“图表艺术”，或因形近词“grammar”干扰错看成“语法艺术”。",
+      "sentence": "She studied **graphic arts** in college and now works as a designer for a publishing house, creating book covers and illustrations.",
+      "options": {
+        "option": [
+          {
+            "definition": "语法艺术",
+            "iscorrect": false
+          },
+          {
+            "definition": "图表艺术",
+            "iscorrect": false
+          },
+          {
+            "definition": "平面艺术（如绘画、印刷、设计等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "生动的艺术",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

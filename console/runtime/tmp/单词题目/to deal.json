@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to deal",
+      "error_analysis": "中国学生易因形近词“feel”（感觉）或名词“deal”（交易）的影响，将动词“to deal”误解为“感觉”或“与...做交易”。",
+      "sentence": "The manager needs to **deal** with the customer's complaint before the end of the day.",
+      "options": {
+        "option": [
+          {
+            "definition": "处理；应对",
+            "iscorrect": true
+          },
+          {
+            "definition": "感觉",
+            "iscorrect": false
+          },
+          {
+            "definition": "与...做交易",
+            "iscorrect": false
+          },
+          {
+            "definition": "吃（饭）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "spasmodically",
+      "error_analysis": "学生易将其与形近词“sporadically”（偶尔地）混淆，或因“mod”词根猜测为“有模式地”。",
+      "sentence": "The old machine made a strange noise **spasmodically**, sometimes stopping for minutes before starting again.",
+      "options": {
+        "option": [
+          {
+            "definition": "阵发性地；间歇性地",
+            "iscorrect": true
+          },
+          {
+            "definition": "偶尔地；间或地",
+            "iscorrect": false
+          },
+          {
+            "definition": "有模式地；规律地",
+            "iscorrect": false
+          },
+          {
+            "definition": "持续地；不断地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

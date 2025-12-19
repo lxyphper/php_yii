@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mouse",
+      "error_analysis": "中国学生易因形近词“mouth”（嘴）或词根联想“肌肉”（muscle）混淆“mouse”的词义。",
+      "sentence": "Please use the **mouse** to drag the icon to the trash bin.",
+      "options": {
+        "option": [
+          {
+            "definition": "嘴",
+            "iscorrect": false
+          },
+          {
+            "definition": "鼠标",
+            "iscorrect": true
+          },
+          {
+            "definition": "肌肉",
+            "iscorrect": false
+          },
+          {
+            "definition": "老鼠",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

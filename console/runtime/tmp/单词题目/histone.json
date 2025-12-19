@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "histone",
+      "error_analysis": "学生易因形近词\"history\"（历史）联想为\"历史相关事物\"，或因词根\"hist-\"（组织）与\"-one\"后缀误猜为\"组织结石\"等无关义。",
+      "sentence": "Scientists have found that **histones** help package DNA into a compact structure within the cell nucleus, affecting how genes are read.",
+      "options": {
+        "option": [
+          {
+            "definition": "历史事件的书面记录",
+            "iscorrect": false
+          },
+          {
+            "definition": "组织内形成的硬性结石",
+            "iscorrect": false
+          },
+          {
+            "definition": "与DNA结合的组蛋白（参与基因调控的蛋白质）",
+            "iscorrect": true
+          },
+          {
+            "definition": "调节代谢的内分泌激素",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

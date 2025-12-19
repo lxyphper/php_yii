@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unwillingly",
+      "error_analysis": "学生易混淆形近词“unlikely”（不可能地）的意思，或错误地将“unwillingly”理解为“没有意志地”（词根“will”的误导）",
+      "sentence": "The child **unwillingly** ate his vegetables after his parents threatened to take away his phone.",
+      "options": {
+        "option": [
+          {
+            "definition": "不可能地",
+            "iscorrect": false
+          },
+          {
+            "definition": "没有意志地",
+            "iscorrect": false
+          },
+          {
+            "definition": "不愿意地；勉强地",
+            "iscorrect": true
+          },
+          {
+            "definition": "不仔细地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

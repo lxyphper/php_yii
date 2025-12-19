@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pie chart",
+      "error_analysis": "学生易因“chart”与“chat”形近误理解为“关于派的聊天”，或因“pie”字面意思直译为“馅饼图表”",
+      "sentence": "The report uses a **pie chart** to show the percentage of students who prefer different subjects (like math, English, or art).",
+      "options": {
+        "option": [
+          {
+            "definition": "饼状图（展示数据比例的圆形图表）",
+            "iscorrect": true
+          },
+          {
+            "definition": "关于派的聊天记录（如讨论派的做法或口味）",
+            "iscorrect": false
+          },
+          {
+            "definition": "展示馅饼种类的图表（如苹果派、蓝莓派的数量统计）",
+            "iscorrect": false
+          },
+          {
+            "definition": "折线图（展示数据随时间变化趋势的图表）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

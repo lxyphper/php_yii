@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nonstop",
+      "error_analysis": "学生易因词根“non-+stop”直译为“不停止的”，忽略其“连续不断的”或“直达的”的常用义",
+      "sentence": "The **nonstop** rain kept us indoors all weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "连续不断的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不粘的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不停止的",
+            "iscorrect": false
+          },
+          {
+            "definition": "没有尽头的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

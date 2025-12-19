@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to trek",
+      "error_analysis": "学生易因形近词\"track\"(追踪/轨道)混淆词义，或因\"trek\"与\"tree\"字面联想误判为与树木相关的动作",
+      "sentence": "We decided to **trek** through the Himalayas for two weeks, carrying all our supplies in backpacks.",
+      "options": {
+        "option": [
+          {
+            "definition": "长途徒步旅行（尤指在山区）",
+            "iscorrect": true
+          },
+          {
+            "definition": "追踪；沿着轨道行走",
+            "iscorrect": false
+          },
+          {
+            "definition": "砍伐树木；修剪树枝",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速奔跑；冲刺",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

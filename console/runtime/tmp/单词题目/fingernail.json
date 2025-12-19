@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fingernail",
+      "error_analysis": "学生易将“fingernail”拆解为“手指+钉子”而误解为“手指的钉子”，或混淆形近词“fingertip”（指尖）。",
+      "sentence": "She painted her **fingernails** pink for the party.",
+      "options": {
+        "option": [
+          {
+            "definition": "指甲",
+            "iscorrect": true
+          },
+          {
+            "definition": "手指的钉子",
+            "iscorrect": false
+          },
+          {
+            "definition": "指尖",
+            "iscorrect": false
+          },
+          {
+            "definition": "指甲刀",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

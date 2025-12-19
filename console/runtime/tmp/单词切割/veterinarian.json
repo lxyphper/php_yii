@@ -1,0 +1,26 @@
+[
+  {
+    "common_misspellings": [
+      "weterinarian",
+      "veterinarian",
+      "veterinerian",
+      "vaterinarian",
+      "veterinariion"
+    ],
+    "correct_chunks": [
+      "vet",
+      "er",
+      "i",
+      "nar",
+      "ian"
+    ],
+    "distractor_chunks": [
+      "wet",
+      "veter",
+      "ner",
+      "vat",
+      "ion"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "punctual",
+      "error_analysis": "学生易因形近词\"punctuate\"(加标点)或词根\"punct-\"(点)错误理解为\"有标点的\"或\"有斑点的\"",
+      "sentence": "Sarah is always **punctual** for her morning classes; she never arrives late.",
+      "options": {
+        "option": [
+          {
+            "definition": "准时的，守时的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有标点的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有斑点的",
+            "iscorrect": false
+          },
+          {
+            "definition": "尖锐的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

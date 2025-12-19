@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "enclosed",
+      "error_analysis": "学生易因词根“close”的“结束”义项误判为“结束的”，或混淆其与“included”（包括的）的含义。",
+      "sentence": "Please review the **enclosed** report and provide your feedback by Friday.",
+      "options": {
+        "option": [
+          {
+            "definition": "随信附上的；封闭的",
+            "iscorrect": true
+          },
+          {
+            "definition": "结束的；终止的",
+            "iscorrect": false
+          },
+          {
+            "definition": "包括的；包含的",
+            "iscorrect": false
+          },
+          {
+            "definition": "关闭的；闭合的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

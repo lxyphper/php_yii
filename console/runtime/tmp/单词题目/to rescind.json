@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to rescind",
+      "error_analysis": "学生易因形近词“rescue”（救援）混淆，或因词根“scindere”（切割）的字面误导而误解为“切割回来”而非“撤销”。",
+      "sentence": "The government decided to **rescind** the new tax law after widespread public protest.",
+      "options": {
+        "option": [
+          {
+            "definition": "撤销、废除（法律或协议等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "救援、拯救",
+            "iscorrect": false
+          },
+          {
+            "definition": "切割、分割",
+            "iscorrect": false
+          },
+          {
+            "definition": "重新发送、递送",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

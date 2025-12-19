@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Mandarin",
+      "error_analysis": "中国学生易因形近词\"mandarin orange\"（橘子）或词根\"mand-\"（命令）误将\"Mandarin\"理解为\"橘子\"或\"命令\"",
+      "sentence": "To make friends with her new neighbor from Beijing, Lily decided to learn **Mandarin** so she could chat with his family.",
+      "options": {
+        "option": [
+          {
+            "definition": "普通话",
+            "iscorrect": true
+          },
+          {
+            "definition": "橘子",
+            "iscorrect": false
+          },
+          {
+            "definition": "命令",
+            "iscorrect": false
+          },
+          {
+            "definition": "官僚",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

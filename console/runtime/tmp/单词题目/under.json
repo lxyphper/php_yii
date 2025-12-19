@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "under",
+      "error_analysis": "学生易过度依赖“under”的字面义“在...下面”，无法正确理解其引申义“处于...之中”（如固定搭配）",
+      "sentence": "The new policy is still **under** review by the government.",
+      "options": {
+        "option": [
+          {
+            "definition": "在...下面",
+            "iscorrect": false
+          },
+          {
+            "definition": "直到",
+            "iscorrect": false
+          },
+          {
+            "definition": "理解",
+            "iscorrect": false
+          },
+          {
+            "definition": "处于...之中（正在被...）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to tuck in",
+      "error_analysis": "易混淆形近词\"truck\"(卡车)或结构类似短语\"take in\"(吸收),导致误解为\"卡车运输\"或\"吸收\"",
+      "sentence": "Before going to bed, Mom always **tucks in** my little sister and makes sure her blanket is tight around her.",
+      "options": {
+        "option": [
+          {
+            "definition": "把（衣服/被子等）塞进；掖好",
+            "iscorrect": true
+          },
+          {
+            "definition": "吸收；理解",
+            "iscorrect": false
+          },
+          {
+            "definition": "卡车运输",
+            "iscorrect": false
+          },
+          {
+            "definition": "低头躲避",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

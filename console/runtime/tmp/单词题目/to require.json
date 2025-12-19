@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to require",
+      "error_analysis": "易与形近词acquire（获得）、inquire（询问）混淆，或因词根误判为“请求”而非“要求”",
+      "sentence": "The job **requires** candidates to have at least two years of work experience.",
+      "options": {
+        "option": [
+          {
+            "definition": "获得",
+            "iscorrect": false
+          },
+          {
+            "definition": "询问",
+            "iscorrect": false
+          },
+          {
+            "definition": "要求；需要",
+            "iscorrect": true
+          },
+          {
+            "definition": "请求",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

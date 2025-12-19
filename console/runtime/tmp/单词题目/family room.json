@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "family room",
+      "error_analysis": "学生易因字面直译将\"family room\"误解为\"家人的卧室\"，或因形近词\"farm\"混淆为\"农场仓库\"。",
+      "sentence": "After dinner, the Smiths usually gather in the **family room** to watch a movie and play board games together.",
+      "options": {
+        "option": [
+          {
+            "definition": "家庭客厅；起居室",
+            "iscorrect": true
+          },
+          {
+            "definition": "家人的卧室",
+            "iscorrect": false
+          },
+          {
+            "definition": "家庭办公室",
+            "iscorrect": false
+          },
+          {
+            "definition": "农场仓库",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

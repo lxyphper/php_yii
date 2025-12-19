@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tame",
+      "error_analysis": "学生易因形近联想到“game”（游戏）或发音联想到“take”（拿取）而误解“tame”的核心词义。",
+      "sentence": "The once wild dog has become **tame** and now lets the kids play with it in the yard.",
+      "options": {
+        "option": [
+          {
+            "definition": "温顺的",
+            "iscorrect": true
+          },
+          {
+            "definition": "游戏的",
+            "iscorrect": false
+          },
+          {
+            "definition": "拿取的",
+            "iscorrect": false
+          },
+          {
+            "definition": "团队的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

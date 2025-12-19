@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wiretap",
+      "error_analysis": "学生易因\"wire\"（电线）和\"tap\"（水龙头/轻敲）的字面义，将\"wiretap\"误判为\"电线接头\"或\"轻敲电线\"等与电线相关的具体动作/物品。",
+      "sentence": "The police obtained a warrant to **wiretap** the suspect's phone after finding evidence of his involvement in the fraud.",
+      "options": {
+        "option": [
+          {
+            "definition": "窃听（电话或通讯设备）",
+            "iscorrect": true
+          },
+          {
+            "definition": "电线接头",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻敲电线",
+            "iscorrect": false
+          },
+          {
+            "definition": "安装电线",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

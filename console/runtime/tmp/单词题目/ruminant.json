@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ruminant",
+      "error_analysis": "学生易因“ruminate”的“反思”义将“ruminant”误判为“善于反思的人”，或因形近词“dominant”联想到“主导的生物”。",
+      "sentence": "Cows and sheep are typical **ruminants**—they use their four-chambered stomachs to regurgitate and rechew food for better digestion.",
+      "options": {
+        "option": [
+          {
+            "definition": "反刍动物（如牛、羊等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "善于反思的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "主导的生物",
+            "iscorrect": false
+          },
+          {
+            "definition": "朗姆酒相关的物品",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

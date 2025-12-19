@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "biopsy",
+      "error_analysis": "学生易因形近词\"biography\"(传记)混淆，或因\"bio-\"(生命)词根过度直译为\"生命检测\"而错误理解\"biopsy\"的核心义。",
+      "sentence": "The doctor recommended a **biopsy** to determine if the lump in her breast was cancerous.",
+      "options": {
+        "option": [
+          {
+            "definition": "传记（记录个人生平的文字）",
+            "iscorrect": false
+          },
+          {
+            "definition": "活检（从身体取组织样本进行检查的医疗程序）",
+            "iscorrect": true
+          },
+          {
+            "definition": "生命检测（对生命体进行的全面检测）",
+            "iscorrect": false
+          },
+          {
+            "definition": "生物学实验（关于生物的科学实验）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

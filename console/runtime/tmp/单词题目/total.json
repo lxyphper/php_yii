@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "total",
+      "error_analysis": "中国学生易因“total”与形近词“tall”（高的）拼写接近而误理解为“高的”，或因词根猜测错误关联“tote”（手提袋）导致误解。",
+      "sentence": "The **total** cost of the trip is $500 per person.",
+      "options": {
+        "option": [
+          {
+            "definition": "高的",
+            "iscorrect": false
+          },
+          {
+            "definition": "故事",
+            "iscorrect": false
+          },
+          {
+            "definition": "全部的；总共的",
+            "iscorrect": true
+          },
+          {
+            "definition": "手提的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

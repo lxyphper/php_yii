@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "synonym",
+      "error_analysis": "中国学生易因形近词“symptom”（症状）混淆，或因词根“syn-+ -onym”错误推导为“同名的人”。",
+      "sentence": "The teacher said, \" 'Happy' and 'glad' are **synonyms**—they mean the same thing.\"",
+      "options": {
+        "option": [
+          {
+            "definition": "同义词",
+            "iscorrect": true
+          },
+          {
+            "definition": "症状",
+            "iscorrect": false
+          },
+          {
+            "definition": "同名的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "反义词",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

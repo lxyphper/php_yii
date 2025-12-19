@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Europe",
+      "error_analysis": "学生易将“Europe”拆分为“eu-”（好）和“rope”（绳子），错误联想为“好绳子”等无关含义。",
+      "sentence": "Many tourists from Asia like to visit **Europe** to see famous landmarks like the Eiffel Tower and the Colosseum.",
+      "options": {
+        "option": [
+          {
+            "definition": "欧洲",
+            "iscorrect": true
+          },
+          {
+            "definition": "好绳子",
+            "iscorrect": false
+          },
+          {
+            "definition": "希望",
+            "iscorrect": false
+          },
+          {
+            "definition": "绳子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to break up",
+      "error_analysis": "学生易将\"break up\"字面理解为\"打破、粉碎\"（词根/字面误导），忽略其\"分手/解散\"的核心义",
+      "sentence": "Sarah and Tom decided to **break up** after three years of dating because they wanted different things in life.",
+      "options": {
+        "option": [
+          {
+            "definition": "分手（情侣）；解散（团体）",
+            "iscorrect": true
+          },
+          {
+            "definition": "打破、粉碎（某物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "爆发、突然发生（如战争、火灾）",
+            "iscorrect": false
+          },
+          {
+            "definition": "崩溃、出故障（如机器或情绪）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

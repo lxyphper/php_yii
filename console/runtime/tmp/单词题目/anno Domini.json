@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "anno Domini",
+      "error_analysis": "学生易因\"anno\"形近\"annual\"(每年的)或\"Domini\"(主)的词根误导，将其误解为\"每年的事件\"或\"上帝的统治时期\"。",
+      "sentence": "The Great Wall of China was built over several dynasties, with some sections dating back to 221 BC and others added as late as the 17th century **anno Domini**.",
+      "options": {
+        "option": [
+          {
+            "definition": "公元（缩写为AD，用于表示公历中耶稣诞生后的年份）",
+            "iscorrect": true
+          },
+          {
+            "definition": "每年的周期或年度发生的事件",
+            "iscorrect": false
+          },
+          {
+            "definition": "上帝的统治时期或宗教仪式中的纪年",
+            "iscorrect": false
+          },
+          {
+            "definition": "古代罗马帝国使用的官方纪年系统",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

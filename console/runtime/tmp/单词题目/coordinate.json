@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "coordinate",
+      "error_analysis": "学生易因词根\"co-\"+\"ordinate\"错误推导为\"合作\"，或因形近词\"ordinary\"误解为\"普通的\"",
+      "sentence": "The event planner will **coordinate** the activities of the caterers, decorators, and musicians to ensure everything runs smoothly.",
+      "options": {
+        "option": [
+          {
+            "definition": "协调（使不同部分配合一致，动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "合作（一起工作完成任务）",
+            "iscorrect": false
+          },
+          {
+            "definition": "普通的（不特别或平常的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "指挥（发号施令引导他人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pudgy",
+      "error_analysis": "学生易将\"pudgy\"与形近词\"puzzle\"（困惑的）、\"buddy\"（朋友）混淆，或误猜为\"泥泞的\"（如muddy）。",
+      "sentence": "The little boy’s **pudgy** hands clutched a lollipop, his cheeks puffing out as he sucked on it happily.",
+      "options": {
+        "option": [
+          {
+            "definition": "矮胖的；胖乎乎的",
+            "iscorrect": true
+          },
+          {
+            "definition": "困惑的；难解的",
+            "iscorrect": false
+          },
+          {
+            "definition": "友好的；亲密的",
+            "iscorrect": false
+          },
+          {
+            "definition": "泥泞的；多泥的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

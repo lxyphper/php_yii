@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pilot",
+      "error_analysis": "学生易因形近词\"pillow\"(枕头)或\"pillar\"(柱子)的干扰，将\"pilot\"误理解为\"枕头\"或\"柱子\"",
+      "sentence": "The skilled **pilot** successfully navigated the plane through the storm.",
+      "options": {
+        "option": [
+          {
+            "definition": "飞行员",
+            "iscorrect": true
+          },
+          {
+            "definition": "枕头",
+            "iscorrect": false
+          },
+          {
+            "definition": "柱子",
+            "iscorrect": false
+          },
+          {
+            "definition": "手枪",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

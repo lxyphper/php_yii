@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "asthma",
+      "error_analysis": "学生易因形近词\"ashtray\"（烟灰缸）将\"asthma\"误判为物品，或因对疾病性质不熟悉而猜测为短暂症状。",
+      "sentence": "My little brother can't play soccer for too long because he has **asthma** and needs to use an inhaler every day.",
+      "options": {
+        "option": [
+          {
+            "definition": "哮喘（一种慢性呼吸系统疾病）",
+            "iscorrect": true
+          },
+          {
+            "definition": "烟灰缸（放置烟灰的容器）",
+            "iscorrect": false
+          },
+          {
+            "definition": "短暂的呼吸困难症状",
+            "iscorrect": false
+          },
+          {
+            "definition": "运动员的体能测试项目",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

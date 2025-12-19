@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to upvote",
+      "error_analysis": "学生易将\"up\"+\"vote\"字面拆解为\"向上投票\"或\"增加投票数量\"，忽略其网络语境中\"点赞/投赞成票\"的核心含义",
+      "sentence": "If you like this post, don’t forget to **upvote** it so more people can see it.",
+      "options": {
+        "option": [
+          {
+            "definition": "（在网络平台上）对...投赞成票；点赞",
+            "iscorrect": true
+          },
+          {
+            "definition": "向上移动投票；把投票往上提",
+            "iscorrect": false
+          },
+          {
+            "definition": "升级投票系统；更新投票机制",
+            "iscorrect": false
+          },
+          {
+            "definition": "统计投票结果；计算投票数量",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to consume",
+      "error_analysis": "中国学生易因形近词“continue”（继续）混淆，或因“sum”（总和）词根误导误判为“总结”。",
+      "sentence": "The new smartphone **consumes** less battery than the old model, so it lasts longer.",
+      "options": {
+        "option": [
+          {
+            "definition": "继续",
+            "iscorrect": false
+          },
+          {
+            "definition": "总结",
+            "iscorrect": false
+          },
+          {
+            "definition": "消耗；耗费",
+            "iscorrect": true
+          },
+          {
+            "definition": "花费（金钱）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

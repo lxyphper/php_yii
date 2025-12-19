@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "duet",
+      "error_analysis": "易因形近词\"diet\"(饮食)产生联想，或因词根\"du-\"(二)泛化为\"双人套餐\"等非音乐类含义",
+      "sentence": "The two singers performed a beautiful **duet** at the concert, and the audience cheered loudly.",
+      "options": {
+        "option": [
+          {
+            "definition": "饮食；节食",
+            "iscorrect": false
+          },
+          {
+            "definition": "二重唱；二重奏",
+            "iscorrect": true
+          },
+          {
+            "definition": "双人套餐",
+            "iscorrect": false
+          },
+          {
+            "definition": "双重任务；两项工作",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

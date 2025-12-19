@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "flow chart",
+      "error_analysis": "学生易因“flow”的“流量”含义将“flow chart”误解为“显示流量数据的图表”，或因“flow”与“floor”形近误判为“地板图表”。",
+      "sentence": "To explain the manufacturing process clearly, the engineer drew a **flow chart** showing each step from raw materials to finished products.",
+      "options": {
+        "option": [
+          {
+            "definition": "流程图（展示流程步骤的图表）",
+            "iscorrect": true
+          },
+          {
+            "definition": "流量图表（显示流量数据的图表）",
+            "iscorrect": false
+          },
+          {
+            "definition": "地板图表（画在地板上的图表）",
+            "iscorrect": false
+          },
+          {
+            "definition": "动态图表（可以动态变化的图表）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

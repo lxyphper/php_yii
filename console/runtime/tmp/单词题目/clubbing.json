@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "clubbing",
+      "error_analysis": "易混淆形近词\"climbing\"(爬山)及词根\"club\"(棍棒)的动词义导致误解为\"用棍棒击打\"",
+      "sentence": "Sarah and her friends often go **clubbing** on weekends to dance to loud music and meet new people.",
+      "options": {
+        "option": [
+          {
+            "definition": "去俱乐部玩（尤指跳舞、喝酒）",
+            "iscorrect": true
+          },
+          {
+            "definition": "爬山",
+            "iscorrect": false
+          },
+          {
+            "definition": "用棍棒击打",
+            "iscorrect": false
+          },
+          {
+            "definition": "俱乐部的建设",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

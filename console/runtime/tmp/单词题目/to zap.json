@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to zap",
+      "error_analysis": "学生易因发音接近“炸”误猜为“爆炸”，或因形近词“zip”（快速移动）混淆词义",
+      "sentence": "The electric fly swatter **zapped** the bug instantly.",
+      "options": {
+        "option": [
+          {
+            "definition": "用电流击中",
+            "iscorrect": true
+          },
+          {
+            "definition": "快速移动",
+            "iscorrect": false
+          },
+          {
+            "definition": "爆炸",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻敲",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

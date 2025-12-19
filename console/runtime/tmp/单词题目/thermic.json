@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "thermic",
+      "error_analysis": "中国学生易因形近词“thematic”（主题的）误判“thermic”词义，或因词根“therm-”混淆为“治疗的”。",
+      "sentence": "The **thermic** effect of food refers to the energy your body uses to digest and absorb the nutrients you eat.",
+      "options": {
+        "option": [
+          {
+            "definition": "主题的",
+            "iscorrect": false
+          },
+          {
+            "definition": "治疗的",
+            "iscorrect": false
+          },
+          {
+            "definition": "热的；热量的",
+            "iscorrect": true
+          },
+          {
+            "definition": "温度计的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

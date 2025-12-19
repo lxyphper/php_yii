@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "balanced",
+      "error_analysis": "学生易因形近词“bandaged”（包扎的）误判“balanced”词义，或因词根“balance”（平衡）过度直译为“被平衡的”（忽略引申义“均衡的”）。",
+      "sentence": "To stay healthy, it's important to eat a **balanced** meal with vegetables, protein, and whole grains every day.",
+      "options": {
+        "option": [
+          {
+            "definition": "均衡的；协调的",
+            "iscorrect": true
+          },
+          {
+            "definition": "包扎的；裹着的",
+            "iscorrect": false
+          },
+          {
+            "definition": "被平衡的；处于平衡状态的",
+            "iscorrect": false
+          },
+          {
+            "definition": "平衡的；不倾斜的（物理意义）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

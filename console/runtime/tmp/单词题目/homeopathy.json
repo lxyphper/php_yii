@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "homeopathy",
+      "error_analysis": "学生易因\"home-\"联想到\"家庭\"，将\"homeopathy\"误判为\"家庭疗法\"或\"家庭病理学\"，忽略\"homeo-\"（相似）的词根含义",
+      "sentence": "Many people turn to **homeopathy** for mild ailments, believing that small doses of substances causing symptoms can stimulate the body's healing process.",
+      "options": {
+        "option": [
+          {
+            "definition": "顺势疗法（一种用小剂量引起症状的物质刺激身体自愈的替代医学）",
+            "iscorrect": true
+          },
+          {
+            "definition": "家庭疗法（针对家庭关系问题的心理治疗方法）",
+            "iscorrect": false
+          },
+          {
+            "definition": "同源病理学（研究同源组织病变的医学分支）",
+            "iscorrect": false
+          },
+          {
+            "definition": "传统草药疗法（使用植物提取物治疗疾病的传统方法）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

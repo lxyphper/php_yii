@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to choke",
+      "error_analysis": "学生易因形近词“choose”（选择）的干扰，将“to choke”误判为“选择”",
+      "sentence": "When she tried to eat the big piece of cake quickly, she **choked** and had to drink some water.",
+      "options": {
+        "option": [
+          {
+            "definition": "选择",
+            "iscorrect": false
+          },
+          {
+            "definition": "检查",
+            "iscorrect": false
+          },
+          {
+            "definition": "窒息；呛到",
+            "iscorrect": true
+          },
+          {
+            "definition": "哭泣",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

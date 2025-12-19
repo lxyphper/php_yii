@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "facade",
+      "error_analysis": "易因形近词\"face\"(脸)误解为\"面部\"，或因词根\"fac-\"(做)错误推导为\"事实\"",
+      "sentence": "The old hotel's grand **facade** was covered in ivy, hiding the crumbling walls behind it.",
+      "options": {
+        "option": [
+          {
+            "definition": "建筑物的正面；表面现象",
+            "iscorrect": true
+          },
+          {
+            "definition": "脸；面部",
+            "iscorrect": false
+          },
+          {
+            "definition": "事实；真相",
+            "iscorrect": false
+          },
+          {
+            "definition": "褪色；消失",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

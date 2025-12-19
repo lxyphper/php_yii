@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "card game",
+      "error_analysis": "学生易因“card”的“名片”义将“card game”误解为“名片游戏”，或因“card”与“cart”（马车）形近误判为“马车游戏”",
+      "sentence": "On weekends, my family often gathers to play a **card game** like poker or bridge.",
+      "options": {
+        "option": [
+          {
+            "definition": "纸牌游戏（如扑克、桥牌等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "名片游戏（如交换名片的互动）",
+            "iscorrect": false
+          },
+          {
+            "definition": "马车游戏（如模拟马车行驶的游戏）",
+            "iscorrect": false
+          },
+          {
+            "definition": "卡片制作游戏（如手工制作卡片的活动）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hoodie",
+      "error_analysis": "学生可能根据“hood”（兜帽）和“ie”后缀，错误理解为“小兜帽”或“兜帽部件”，而非带兜帽的上衣（连帽衫）。",
+      "sentence": "He grabbed his blue **hoodie** from the closet and pulled it over his head to stay warm during the walk.",
+      "options": {
+        "option": [
+          {
+            "definition": "小兜帽；兜帽的一部分",
+            "iscorrect": false
+          },
+          {
+            "definition": "带兜帽的上衣；连帽衫",
+            "iscorrect": true
+          },
+          {
+            "definition": "带兜帽的帽子",
+            "iscorrect": false
+          },
+          {
+            "definition": "兜帽的系带；帽绳",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

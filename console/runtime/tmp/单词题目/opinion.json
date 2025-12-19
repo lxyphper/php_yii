@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "opinion",
+      "error_analysis": "学生易将形近词\"option\"（选项）与\"opinion\"混淆，或误猜词根\"op-\"关联\"反对\"而误解词义",
+      "sentence": "What’s your **opinion** on the new school rule? Most students think it’s too strict.",
+      "options": {
+        "option": [
+          {
+            "definition": "看法；意见",
+            "iscorrect": true
+          },
+          {
+            "definition": "选项；选择",
+            "iscorrect": false
+          },
+          {
+            "definition": "反对；对抗",
+            "iscorrect": false
+          },
+          {
+            "definition": "操作；运转",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

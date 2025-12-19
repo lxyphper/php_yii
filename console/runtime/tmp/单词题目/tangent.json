@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tangent",
+      "error_analysis": "混淆形近词'tangible'(可触摸的)或根据词根'tangere'(触摸)错误推断为'触摸的东西',忽略其'离题'的比喻义",
+      "sentence": "During the team meeting, Tom suddenly went off on a **tangent** about his new bike, completely forgetting we were talking about the upcoming exam schedule.",
+      "options": {
+        "option": [
+          {
+            "definition": "离题，偏离主题",
+            "iscorrect": true
+          },
+          {
+            "definition": "可触摸的，实际的",
+            "iscorrect": false
+          },
+          {
+            "definition": "触摸的动作或状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "紧张的，焦虑的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "half",
+      "error_analysis": "学生易因形近词“hall”（大厅）或拼写接近的“help”（帮助）混淆“half”的核心词义“半；一半”",
+      "sentence": "She ate **half** of the apple and gave the other part to her sister.",
+      "options": {
+        "option": [
+          {
+            "definition": "半；一半",
+            "iscorrect": true
+          },
+          {
+            "definition": "大厅",
+            "iscorrect": false
+          },
+          {
+            "definition": "帮助",
+            "iscorrect": false
+          },
+          {
+            "definition": "整个的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

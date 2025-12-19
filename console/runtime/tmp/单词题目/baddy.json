@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "baddy",
+      "error_analysis": "学生易因形近词\"bad\"或\"-y\"后缀误导，将\"baddy\"错解为形容词\"更坏的\"或名词\"坏的东西\"",
+      "sentence": "In the movie, the **baddy** tried to steal the treasure and fight the hero.",
+      "options": {
+        "option": [
+          {
+            "definition": "坏人；反派（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "更坏的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "坏的东西（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "爸爸（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

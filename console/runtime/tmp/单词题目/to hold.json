@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to hold",
+      "error_analysis": "学生易因形近词“fold”（折叠）产生混淆，或因字面误导将“hold”简单等同于“拿”（take）而忽略其“保持（状态）”的核心含义。",
+      "sentence": "Please **hold** the door open so the cat can get in.",
+      "options": {
+        "option": [
+          {
+            "definition": "折叠",
+            "iscorrect": false
+          },
+          {
+            "definition": "拿；取",
+            "iscorrect": false
+          },
+          {
+            "definition": "保持（状态）",
+            "iscorrect": true
+          },
+          {
+            "definition": "关闭",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

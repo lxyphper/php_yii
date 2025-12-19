@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "southward",
+      "error_analysis": "学生易将`southward`拆分为`south`（南方）和`ward`（病房），错误理解为“南方的病房”，或混淆其“向南地”（副词）与“南方”（名词）的含义。",
+      "sentence": "Every autumn, flocks of geese fly **southward** to escape the cold weather.",
+      "options": {
+        "option": [
+          {
+            "definition": "向南地",
+            "iscorrect": true
+          },
+          {
+            "definition": "南方的病房",
+            "iscorrect": false
+          },
+          {
+            "definition": "南方",
+            "iscorrect": false
+          },
+          {
+            "definition": "南方的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "band",
+      "error_analysis": "学生易混淆形近词\"bond\"(纽带)与\"band\"的\"带子\"含义，或误将\"band\"理解为\"捆绑\"(词根bind的误导)",
+      "sentence": "She used a red **band** to tie her hair back before going to the gym.",
+      "options": {
+        "option": [
+          {
+            "definition": "带子；发带",
+            "iscorrect": true
+          },
+          {
+            "definition": "纽带；债券",
+            "iscorrect": false
+          },
+          {
+            "definition": "捆绑；束缚",
+            "iscorrect": false
+          },
+          {
+            "definition": "乐队；乐团",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

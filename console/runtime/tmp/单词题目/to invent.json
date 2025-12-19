@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to invent",
+      "error_analysis": "中国学生易将“invent”与形近词“invest”（投资）混淆，或因“vent”（通风）的字面义误导而误解为“与通风相关的动作”。",
+      "sentence": "Thomas Edison is famous for his ability to **invent** devices like the light bulb and the phonograph.",
+      "options": {
+        "option": [
+          {
+            "definition": "发明；创造（新事物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "投资；投入（资金/时间）",
+            "iscorrect": false
+          },
+          {
+            "definition": "通风；使空气流通",
+            "iscorrect": false
+          },
+          {
+            "definition": "发现；找到（已存在的事物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

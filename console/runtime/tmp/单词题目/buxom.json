@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "buxom",
+      "error_analysis": "学生易因形近词“bulky”（笨重的）或“boxy”（方盒状的）误将“buxom”理解为“体型笨重/方正的”。",
+      "sentence": "The painting depicts a **buxom** woman in a flowing dress, standing in a sunlit garden.",
+      "options": {
+        "option": [
+          {
+            "definition": "体型笨重的",
+            "iscorrect": false
+          },
+          {
+            "definition": "方盒状的（指体型）",
+            "iscorrect": false
+          },
+          {
+            "definition": "（女性）体态丰满圆润的",
+            "iscorrect": true
+          },
+          {
+            "definition": "强壮有力的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

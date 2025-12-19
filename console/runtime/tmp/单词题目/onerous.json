@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "onerous",
+      "error_analysis": "学生易因与\"serious\"（严重的）拼写相似或对词根\"oner-\"（负担）不熟悉，误判为\"严重的\"或\"负责任的\"",
+      "sentence": "The new project requires working 12 hours a day, which is quite **onerous** for the team.",
+      "options": {
+        "option": [
+          {
+            "definition": "繁重的；艰巨的",
+            "iscorrect": true
+          },
+          {
+            "definition": "严重的；严肃的",
+            "iscorrect": false
+          },
+          {
+            "definition": "负责任的；可靠的",
+            "iscorrect": false
+          },
+          {
+            "definition": "唯一的；单独的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

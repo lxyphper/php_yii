@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "measurement",
+      "error_analysis": "学生易因\"measure\"的\"措施\"或\"测量工具\"义，将\"measurement\"误判为\"措施\"或\"测量工具\"",
+      "sentence": "The tailor took the **measurement** of my waist before making the dress.",
+      "options": {
+        "option": [
+          {
+            "definition": "测量结果；尺寸",
+            "iscorrect": true
+          },
+          {
+            "definition": "措施；方法",
+            "iscorrect": false
+          },
+          {
+            "definition": "测量工具；量器",
+            "iscorrect": false
+          },
+          {
+            "definition": "意思；意图",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

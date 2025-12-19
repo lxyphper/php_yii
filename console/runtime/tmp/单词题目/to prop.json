@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to prop",
+      "error_analysis": "学生易因形近词（如drop/pop）误判为“掉落/弹出”，或因名词“道具”的含义误导认为动词是“使用道具”。",
+      "sentence": "She **propped** the broken chair with a brick so it wouldn’t fall over.",
+      "options": {
+        "option": [
+          {
+            "definition": "支撑；撑住",
+            "iscorrect": true
+          },
+          {
+            "definition": "掉落；落下",
+            "iscorrect": false
+          },
+          {
+            "definition": "使用道具",
+            "iscorrect": false
+          },
+          {
+            "definition": "弹出；突然出现",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

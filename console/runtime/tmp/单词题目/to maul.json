@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to maul",
+      "error_analysis": "中国学生易因形近词“haul”（拖运）或“mall”（购物中心）误判，或因字面联想以为是“用嘴轻咬”",
+      "sentence": "The hiker was lucky to survive after being **mauled** by a grizzly bear.",
+      "options": {
+        "option": [
+          {
+            "definition": "猛烈攻击（尤指动物用牙或爪撕咬）",
+            "iscorrect": true
+          },
+          {
+            "definition": "拖运",
+            "iscorrect": false
+          },
+          {
+            "definition": "用嘴轻咬",
+            "iscorrect": false
+          },
+          {
+            "definition": "前往购物中心",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

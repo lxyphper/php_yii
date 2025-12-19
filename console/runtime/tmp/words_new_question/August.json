@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "August",
+      "error_analysis": "学生易混淆大写August（八月）与小写august（威严的）的词义，或通过词根aug（增加）错误关联“增加”含义",
+      "sentence": "Our family usually goes on a trip in **August** when the summer vacation is almost over.",
+      "options": {
+        "option": [
+          {
+            "definition": "八月",
+            "iscorrect": true
+          },
+          {
+            "definition": "威严的",
+            "iscorrect": false
+          },
+          {
+            "definition": "增加",
+            "iscorrect": false
+          },
+          {
+            "definition": "秋天",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

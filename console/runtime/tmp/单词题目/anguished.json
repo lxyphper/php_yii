@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "anguished",
+      "error_analysis": "学生易因形近词`angry`（生气的）将`anguished`误解为“愤怒的”，或误判为“焦虑的”（anxious）",
+      "sentence": "When she heard the news of her father's death, her face wore an **anguished** expression that made everyone feel sorry for her.",
+      "options": {
+        "option": [
+          {
+            "definition": "痛苦的；极度悲伤的",
+            "iscorrect": true
+          },
+          {
+            "definition": "生气的；愤怒的",
+            "iscorrect": false
+          },
+          {
+            "definition": "焦虑的；不安的",
+            "iscorrect": false
+          },
+          {
+            "definition": "疲惫的；累的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "common_misspellings": [
+      "inconcluive",
+      "incomclusive",
+      "unconclusive",
+      "inconcludive",
+      "inconclussive"
+    ],
+    "correct_chunks": [
+      "in",
+      "con",
+      "clus",
+      "ive"
+    ],
+    "distractor_chunks": [
+      "com",
+      "un",
+      "clu",
+      "clud",
+      "cluss",
+      "iv"
+    ]
+  },
+  0
+]

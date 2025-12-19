@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rash",
+      "error_analysis": "学生易因形近词\"rush\"（匆忙）混淆\"rash\"的形容词含义（鲁莽的），或误将名词\"皮疹\"用于需形容词的语境。",
+      "sentence": "Without thinking about the consequences, he made a **rash** choice to invest all his savings in the stock market.",
+      "options": {
+        "option": [
+          {
+            "definition": "匆忙的；急促的",
+            "iscorrect": false
+          },
+          {
+            "definition": "鲁莽的；轻率的",
+            "iscorrect": true
+          },
+          {
+            "definition": "皮疹；疹子",
+            "iscorrect": false
+          },
+          {
+            "definition": "明智的；合理的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

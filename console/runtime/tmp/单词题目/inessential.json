@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "inessential",
+      "error_analysis": "学生易因未正确识别\"in-\"否定前缀而误将\"inessential\"理解为\"必要的\"（形近词\"essential\"干扰），或因词根字面翻译将其误解为\"非本质的\"。",
+      "sentence": "To save space in her suitcase, she removed all the **inessential** items like decorative stickers and extra notebooks.",
+      "options": {
+        "option": [
+          {
+            "definition": "必要的；本质的",
+            "iscorrect": false
+          },
+          {
+            "definition": "非本质的",
+            "iscorrect": false
+          },
+          {
+            "definition": "非必要的；无关紧要的",
+            "iscorrect": true
+          },
+          {
+            "definition": "无关的；不相关的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

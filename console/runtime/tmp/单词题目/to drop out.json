@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to drop out",
+      "error_analysis": "学生易因\"drop\"(掉落)和\"out\"(出去)的字面义，将\"to drop out\"误理解为\"掉出去\"或\"离开物理空间\"，而非\"退学/退出\"。",
+      "sentence": "After struggling with his studies for a year, Tom decided to **drop out** of university and pursue a career in music.",
+      "options": {
+        "option": [
+          {
+            "definition": "退学；退出（某项活动或学校）",
+            "iscorrect": true
+          },
+          {
+            "definition": "掉出去；从...中掉落",
+            "iscorrect": false
+          },
+          {
+            "definition": "放下；让...下车",
+            "iscorrect": false
+          },
+          {
+            "definition": "拜访；顺便进入",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

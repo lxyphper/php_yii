@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unprecedented",
+      "error_analysis": "学生易因形近词\"president\"(总统)将\"unprecedented\"误判为\"与总统无关的\"，或因词根\"cede\"(让)误解为\"不让步的\"",
+      "sentence": "The 2020 global lockdowns caused **unprecedented** disruptions to international travel, affecting billions of people worldwide.",
+      "options": {
+        "option": [
+          {
+            "definition": "前所未有的；史无前例的",
+            "iscorrect": true
+          },
+          {
+            "definition": "与总统无关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不让步的；不妥协的",
+            "iscorrect": false
+          },
+          {
+            "definition": "意外的；出乎意料的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

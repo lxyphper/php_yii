@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dangerous",
+      "error_analysis": "易因形近词“daring”（大胆的）或词根联想“damage”（损害）误判为“大胆的”或“损害的”",
+      "sentence": "Swimming in the deep river alone is very **dangerous** because there are strong currents.",
+      "options": {
+        "option": [
+          {
+            "definition": "危险的",
+            "iscorrect": true
+          },
+          {
+            "definition": "大胆的",
+            "iscorrect": false
+          },
+          {
+            "definition": "损害的",
+            "iscorrect": false
+          },
+          {
+            "definition": "困难的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

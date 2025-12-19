@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "banner",
+      "error_analysis": "中国学生易因形近词“band”（乐队、带子）或词根“ban”（禁止）的联想，将“banner”误判为“乐队”或“禁止标识”。",
+      "sentence": "The school hung a big **banner** at the gate to celebrate the sports day.",
+      "options": {
+        "option": [
+          {
+            "definition": "横幅；标语牌",
+            "iscorrect": true
+          },
+          {
+            "definition": "乐队；带子",
+            "iscorrect": false
+          },
+          {
+            "definition": "禁止标识；禁令",
+            "iscorrect": false
+          },
+          {
+            "definition": "香蕉；果实",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

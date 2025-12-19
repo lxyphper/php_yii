@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "conflict",
+      "error_analysis": "学生易混淆形近词“contact”（联系），或因词根“一起打击”过度直译为“碰撞”而非“冲突”（抽象/具体矛盾）",
+      "sentence": "There was a serious **conflict** between the manager's decision and the employees' expectations.",
+      "options": {
+        "option": [
+          {
+            "definition": "冲突（意见、利益等的矛盾）",
+            "iscorrect": true
+          },
+          {
+            "definition": "联系；接触",
+            "iscorrect": false
+          },
+          {
+            "definition": "碰撞；打斗",
+            "iscorrect": false
+          },
+          {
+            "definition": "确认；证实",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

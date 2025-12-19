@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "hospial",
+      "hospitl",
+      "hosbital",
+      "haspital",
+      "hospitel"
+    ],
+    "correct_chunks": [
+      "hos",
+      "pit",
+      "al"
+    ],
+    "distractor_chunks": [
+      "pi",
+      "pitl",
+      "hosb",
+      "has",
+      "el"
+    ]
+  },
+  0
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "decagon",
+      "error_analysis": "学生易因形近词“decade”（十年）误判为时间词，或因不熟悉“-gon”（边形）而猜成其他“十”相关事物",
+      "sentence": {
+        "b": "decagon"
+      },
+      "options": {
+        "option": [
+          {
+            "definition": "十年",
+            "iscorrect": false
+          },
+          {
+            "definition": "十边形",
+            "iscorrect": true
+          },
+          {
+            "definition": "十个角的动物",
+            "iscorrect": false
+          },
+          {
+            "definition": "十件一组的物品",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

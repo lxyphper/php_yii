@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "below",
+      "error_analysis": "学生易因形近词\"blow\"(吹)产生联想，或因\"be-+low\"词根组合误判为\"变得低\"，而非\"在……下面\"。",
+      "sentence": "Look at the birds flying **below** the clouds.",
+      "options": {
+        "option": [
+          {
+            "definition": "在……下面（位置低于）",
+            "iscorrect": true
+          },
+          {
+            "definition": "吹（风或气体的流动）",
+            "iscorrect": false
+          },
+          {
+            "definition": "变得低（状态或水平下降）",
+            "iscorrect": false
+          },
+          {
+            "definition": "属于（某物的一部分）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

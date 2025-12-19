@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to whisper",
+      "error_analysis": "中国学生易因形近词“whistle”（吹口哨）混淆“to whisper”的核心义“小声说”。",
+      "sentence": "She leaned in and **whispered** a secret in my ear.",
+      "options": {
+        "option": [
+          {
+            "definition": "小声说；低语",
+            "iscorrect": true
+          },
+          {
+            "definition": "吹口哨",
+            "iscorrect": false
+          },
+          {
+            "definition": "大声喊",
+            "iscorrect": false
+          },
+          {
+            "definition": "交谈",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

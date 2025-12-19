@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to constrict",
+      "error_analysis": "学生易混淆形近词“construct”（建造），或因词根“strict”误判为“严格限制”，忽略其“收缩”核心义。",
+      "sentence": "High blood pressure can cause blood vessels to **constrict**, reducing blood flow to the heart.",
+      "options": {
+        "option": [
+          {
+            "definition": "收缩；压缩",
+            "iscorrect": true
+          },
+          {
+            "definition": "建造；构造",
+            "iscorrect": false
+          },
+          {
+            "definition": "严格限制",
+            "iscorrect": false
+          },
+          {
+            "definition": "解释；理解",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

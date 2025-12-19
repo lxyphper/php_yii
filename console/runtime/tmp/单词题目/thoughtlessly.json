@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "thoughtlessly",
+      "error_analysis": "学生易混淆形近词“thoughtfully”（深思熟虑地），或因词根直译误理解为“没有思想地”，而非正确的“欠考虑地”。",
+      "sentence": "She **thoughtlessly** left her phone in the taxi and didn’t realize until hours later.",
+      "options": {
+        "option": [
+          {
+            "definition": "深思熟虑地",
+            "iscorrect": false
+          },
+          {
+            "definition": "没有思想地",
+            "iscorrect": false
+          },
+          {
+            "definition": "仔细地",
+            "iscorrect": false
+          },
+          {
+            "definition": "粗心地；欠考虑地",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

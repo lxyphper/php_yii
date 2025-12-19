@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nature",
+      "error_analysis": "易因形近词“nurture”（养育）混淆，或误通过词根“nat-”联想为“本土的”（native）",
+      "sentence": "The children spent the afternoon exploring the woods and learning about **nature**.",
+      "options": {
+        "option": [
+          {
+            "definition": "自然",
+            "iscorrect": true
+          },
+          {
+            "definition": "养育",
+            "iscorrect": false
+          },
+          {
+            "definition": "本土的",
+            "iscorrect": false
+          },
+          {
+            "definition": "民族",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "slick",
+      "error_analysis": "中国学生易因形近词`slip`（滑）误将`slick`认作“滑倒”（动词），或因发音接近`quick`（快）误认为“快的”（形容词）。",
+      "sentence": "The race car driver made a **slick** turn to overtake the opponent.",
+      "options": {
+        "option": [
+          {
+            "definition": "快的",
+            "iscorrect": false
+          },
+          {
+            "definition": "滑倒",
+            "iscorrect": false
+          },
+          {
+            "definition": "粘贴的",
+            "iscorrect": false
+          },
+          {
+            "definition": "熟练的，灵巧的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

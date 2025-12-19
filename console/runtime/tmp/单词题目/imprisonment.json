@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "imprisonment",
+      "error_analysis": "易与形近词impression（印象）混淆，或误将词根prison（监狱）直接理解为“监狱”而非“监禁”",
+      "sentence": "The judge sentenced the burglar to four years of **imprisonment** for breaking into the house.",
+      "options": {
+        "option": [
+          {
+            "definition": "监禁；关押",
+            "iscorrect": true
+          },
+          {
+            "definition": "印象；感想",
+            "iscorrect": false
+          },
+          {
+            "definition": "监狱；看守所",
+            "iscorrect": false
+          },
+          {
+            "definition": "改进；提高",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

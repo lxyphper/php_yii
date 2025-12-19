@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "remorse",
+      "error_analysis": "中国学生易因形近词“morose”（阴郁的）或词根“re-”（再）与“mor”（死亡）的错误联想，将“remorse”误解为“阴郁”或“绝望”。",
+      "sentence": "After lying to his parents, Tom felt a deep sense of **remorse** and decided to apologize immediately.",
+      "options": {
+        "option": [
+          {
+            "definition": "悔恨，懊悔",
+            "iscorrect": true
+          },
+          {
+            "definition": "阴郁的",
+            "iscorrect": false
+          },
+          {
+            "definition": "绝望",
+            "iscorrect": false
+          },
+          {
+            "definition": "遗憾",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

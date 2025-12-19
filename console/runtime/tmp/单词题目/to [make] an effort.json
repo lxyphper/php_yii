@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to [make] an effort",
+      "error_analysis": "混淆形近词\"effect\"（效果）导致误解为\"产生效果\"，或字面误导为\"做出尝试\"",
+      "sentence": "She decided to **make an effort** to finish her homework before watching TV, even though she was tired.",
+      "options": {
+        "option": [
+          {
+            "definition": "努力；尽力",
+            "iscorrect": true
+          },
+          {
+            "definition": "产生效果",
+            "iscorrect": false
+          },
+          {
+            "definition": "做出尝试",
+            "iscorrect": false
+          },
+          {
+            "definition": "花费金钱",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

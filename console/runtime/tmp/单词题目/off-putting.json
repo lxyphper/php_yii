@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "off-putting",
+      "error_analysis": "学生易因\"put off\"(推迟)的联想误判为\"推迟的\"，或因\"off\"(离开)+\"put\"(放置)的字面义误解为\"放置在外的\"",
+      "sentence": "Her constant complaining about everything was really **off-putting**, so I decided to leave the party early.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人反感的；令人不舒服的",
+            "iscorrect": true
+          },
+          {
+            "definition": "推迟的；拖延的",
+            "iscorrect": false
+          },
+          {
+            "definition": "放置在外的；不在原位的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人兴奋的；激动人心的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

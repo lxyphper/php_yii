@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to bar",
+      "error_analysis": "学生易因“bar”的名词义（酒吧）误解“to bar”为“去酒吧”，或因“bar”的“条/棒”义误解为“用棒击打”。",
+      "sentence": "The restaurant **bars** customers from bringing outside food.",
+      "options": {
+        "option": [
+          {
+            "definition": "禁止；阻止",
+            "iscorrect": true
+          },
+          {
+            "definition": "去酒吧；光顾酒吧",
+            "iscorrect": false
+          },
+          {
+            "definition": "用棒击打；殴打",
+            "iscorrect": false
+          },
+          {
+            "definition": "闩上；插上（门/窗）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to validate",
+      "error_analysis": "学生易因形近词\"valuable\"误判为\"使有价值\"，或因词根\"valid\"过度直译为\"使生效\"，忽略其\"验证真实性/有效性\"的核心义。",
+      "sentence": "The team needs to **validate** the data before presenting it to the client to ensure its accuracy.",
+      "options": {
+        "option": [
+          {
+            "definition": "验证；确认（...的有效性或真实性）",
+            "iscorrect": true
+          },
+          {
+            "definition": "使有价值；重视",
+            "iscorrect": false
+          },
+          {
+            "definition": "使有效；生效",
+            "iscorrect": false
+          },
+          {
+            "definition": "评价；评估",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

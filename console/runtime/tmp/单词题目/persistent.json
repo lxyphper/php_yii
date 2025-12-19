@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "persistent",
+      "error_analysis": "学生易因形近词\"permanent\"(永久的)或词根过度推导，将\"persistent\"误判为\"永久的\"而非其核心义\"持续的\"",
+      "sentence": "Despite the cold weather, the **persistent** wind kept blowing all night, making it hard to sleep.",
+      "options": {
+        "option": [
+          {
+            "definition": "持续的；坚持不懈的",
+            "iscorrect": true
+          },
+          {
+            "definition": "永久的；永恒的",
+            "iscorrect": false
+          },
+          {
+            "definition": "明显的；突出的",
+            "iscorrect": false
+          },
+          {
+            "definition": "强烈的；剧烈的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

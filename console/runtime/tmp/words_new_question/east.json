@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "east",
+      "error_analysis": "学生易因形近词\"easy\"（容易的）干扰，将\"east\"误理解为\"容易的\"。",
+      "sentence": "The sun rises in the **east** every morning, painting the sky pink.",
+      "options": {
+        "option": [
+          {
+            "definition": "东；东方",
+            "iscorrect": true
+          },
+          {
+            "definition": "容易的",
+            "iscorrect": false
+          },
+          {
+            "definition": "吃的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "过去的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

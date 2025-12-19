@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to doubt",
+      "error_analysis": "学生易因形近词“double”（加倍）的拼写干扰，或词根“dubitare”（犹豫）的字面误导，误将“doubt”理解为“使加倍”或“犹豫”。",
+      "sentence": "She **doubted** if the news was true—everyone seemed so calm.",
+      "options": {
+        "option": [
+          {
+            "definition": "怀疑；对...的真实性没有把握",
+            "iscorrect": true
+          },
+          {
+            "definition": "使加倍；翻一番",
+            "iscorrect": false
+          },
+          {
+            "definition": "犹豫；踌躇",
+            "iscorrect": false
+          },
+          {
+            "definition": "债务；欠款",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "juicy",
+      "error_analysis": "学生易因形近词juice（果汁）误判为“果汁的”，或因词根联想误判为“甜的”",
+      "sentence": "The peach is so **juicy** that juice drips down my chin when I bite into it.",
+      "options": {
+        "option": [
+          {
+            "definition": "果汁的；含果汁的",
+            "iscorrect": false
+          },
+          {
+            "definition": "甜的；含糖量高的",
+            "iscorrect": false
+          },
+          {
+            "definition": "新鲜的；刚采摘的",
+            "iscorrect": false
+          },
+          {
+            "definition": "多汁的（用于水果、蔬菜等）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

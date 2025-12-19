@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "one-of-a-kind",
+      "error_analysis": "学生易因字面拆分\"one-of-a-kind\"为\"一种中的一个\"而误解为\"普通的\"或\"同一类的\"，忽略其\"独一无二\"的核心义。",
+      "sentence": "She wore a **one-of-a-kind** dress to the party—its design was unlike anything anyone had seen before.",
+      "options": {
+        "option": [
+          {
+            "definition": "独一无二的；独特的",
+            "iscorrect": true
+          },
+          {
+            "definition": "普通的；常见的",
+            "iscorrect": false
+          },
+          {
+            "definition": "数量稀少的",
+            "iscorrect": false
+          },
+          {
+            "definition": "同一类的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "eagle",
+      "error_analysis": "学生易因形近词\"eager\"(渴望的)或\"glass\"(玻璃)的干扰，将\"eagle\"误判为形容词或无关名词",
+      "sentence": "The **eagle** soared high in the sky, searching for prey with its sharp eyes.",
+      "options": {
+        "option": [
+          {
+            "definition": "鹰（一种大型猛禽，有锐利的眼睛和强壮的翅膀）",
+            "iscorrect": true
+          },
+          {
+            "definition": "渴望的；急切的",
+            "iscorrect": false
+          },
+          {
+            "definition": "玻璃；玻璃杯",
+            "iscorrect": false
+          },
+          {
+            "definition": "边缘；边界",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

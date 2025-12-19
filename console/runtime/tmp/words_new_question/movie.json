@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "movie",
+      "error_analysis": "因形近基础词'move'（移动）而误将'movie'理解为'移动；动作'",
+      "sentence": "Let's go to the cinema and watch a new **movie** tonight.",
+      "options": {
+        "option": [
+          {
+            "definition": "移动；动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "电影",
+            "iscorrect": true
+          },
+          {
+            "definition": "动机；目的",
+            "iscorrect": false
+          },
+          {
+            "definition": "音乐；乐曲",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

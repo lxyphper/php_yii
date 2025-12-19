@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "apple",
+      "error_analysis": "中国学生易因形近词混淆“apple”（苹果）与“apply”（申请）或“maple”（枫树），导致误判词义。",
+      "sentence": "My mom put a fresh **apple** in my lunch box this morning, and it tasted sweet.",
+      "options": {
+        "option": [
+          {
+            "definition": "苹果（一种常见的甜水果）",
+            "iscorrect": true
+          },
+          {
+            "definition": "申请；应用",
+            "iscorrect": false
+          },
+          {
+            "definition": "枫树",
+            "iscorrect": false
+          },
+          {
+            "definition": "充足的；丰富的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

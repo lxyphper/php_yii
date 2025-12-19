@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "smart",
+      "error_analysis": "中国学生易因形近词\"small\"(小的)或动词\"smart\"(刺痛)的字面误导，将形容词\"smart\"误判为\"小的\"或\"刺痛的\"，忽略其最常见的\"聪明的\"含义。",
+      "sentence": "The **smart** student quickly solved the math problem that others found difficult.",
+      "options": {
+        "option": [
+          {
+            "definition": "小的",
+            "iscorrect": false
+          },
+          {
+            "definition": "聪明的",
+            "iscorrect": true
+          },
+          {
+            "definition": "刺痛的",
+            "iscorrect": false
+          },
+          {
+            "definition": "友好的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

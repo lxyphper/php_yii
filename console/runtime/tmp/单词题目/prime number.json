@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "prime number",
+      "error_analysis": "学生易因“prime”的熟义“主要的”或词根“第一”将“prime number”误解为“主要的数字”或“第一个数字”",
+      "sentence": "Ms. Li told her students that 2 is the only even **prime number** since all other even numbers can be divided by 2.",
+      "options": {
+        "option": [
+          {
+            "definition": "质数（只能被1和自身整除的正整数）",
+            "iscorrect": true
+          },
+          {
+            "definition": "主要的数字（如在计算中最重要的数字）",
+            "iscorrect": false
+          },
+          {
+            "definition": "第一个数字（如序列中的初始数字，如1）",
+            "iscorrect": false
+          },
+          {
+            "definition": "优质的数字（如被标记为高级的数字）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

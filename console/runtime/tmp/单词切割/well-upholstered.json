@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "wellupholstered",
+      "well upholstered",
+      "well-uphalstered",
+      "well-uphelstered",
+      "well-upholsterd"
+    ],
+    "correct_chunks": [
+      "well-",
+      "uphol",
+      "stered"
+    ],
+    "distractor_chunks": [
+      "welluphol",
+      "well ",
+      "uphal",
+      "uphel",
+      "sterd"
+    ]
+  },
+  0
+]

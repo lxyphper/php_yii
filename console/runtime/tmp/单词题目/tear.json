@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tear",
+      "error_analysis": "中国学生易因形近词“tire”（疲劳）或字面联想“tea”（茶），误判“tear”（眼泪）的词义",
+      "sentence": "When she watched the sad movie, a **tear** rolled down her cheek.",
+      "options": {
+        "option": [
+          {
+            "definition": "眼泪；泪珠",
+            "iscorrect": true
+          },
+          {
+            "definition": "疲劳；厌倦",
+            "iscorrect": false
+          },
+          {
+            "definition": "茶；茶叶",
+            "iscorrect": false
+          },
+          {
+            "definition": "听见；听到",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

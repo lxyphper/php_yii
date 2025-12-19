@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to skid",
+      "error_analysis": "将“to skid”误判为“平稳滑动”（如slide），忽略其“失控、侧滑”的核心特征",
+      "sentence": "When the driver hit the brakes suddenly on the wet road, the car **skidded** into the guardrail.",
+      "options": {
+        "option": [
+          {
+            "definition": "（车辆等）失控侧滑；打滑",
+            "iscorrect": true
+          },
+          {
+            "definition": "平稳滑动；滑行",
+            "iscorrect": false
+          },
+          {
+            "definition": "跳跃；跳过",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速奔跑；冲刺",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

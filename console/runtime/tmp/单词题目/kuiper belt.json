@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "kuiper belt",
+      "error_analysis": "学生易将\"kuiper\"形近联想为\"keeper\"（守护者），或因\"belt\"的日常含义（腰带/皮带）误判为日常用品相关概念",
+      "sentence": "Scientists believe many short-period comets, such as Halley's Comet, originate from the **kuiper belt**, a region beyond Neptune filled with icy bodies.",
+      "options": {
+        "option": [
+          {
+            "definition": "太阳系边缘海王星以外的冰质天体带（柯伊伯带）",
+            "iscorrect": true
+          },
+          {
+            "definition": "守护者用来保护重要区域的屏障地带",
+            "iscorrect": false
+          },
+          {
+            "definition": "时尚界流行的装饰性腰带款式",
+            "iscorrect": false
+          },
+          {
+            "definition": "工业机器中传递动力的传动皮带",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

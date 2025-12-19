@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "excellent",
+      "error_analysis": "易因形近词\"excel\"（擅长）误解为\"擅长的\"，或因与\"exact\"（精确的）形近而错判为\"精确的\"",
+      "sentence": "The movie received **excellent** reviews from both critics and viewers, making it a big hit.",
+      "options": {
+        "option": [
+          {
+            "definition": "优秀的；杰出的",
+            "iscorrect": true
+          },
+          {
+            "definition": "擅长的",
+            "iscorrect": false
+          },
+          {
+            "definition": "精确的",
+            "iscorrect": false
+          },
+          {
+            "definition": "除外的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

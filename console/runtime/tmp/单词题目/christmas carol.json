@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "christmas carol",
+      "error_analysis": "学生易将\"carol\"与形近词\"car\"（汽车）或\"Carol\"（人名）混淆，误判\"christmas carol\"为\"圣诞汽车\"或\"圣诞卡萝尔\"",
+      "sentence": "Every year, we gather around the piano to sing a **christmas carol** like \"Jingle Bells\" during the holiday party.",
+      "options": {
+        "option": [
+          {
+            "definition": "圣诞汽车",
+            "iscorrect": false
+          },
+          {
+            "definition": "圣诞颂歌",
+            "iscorrect": true
+          },
+          {
+            "definition": "圣诞卡萝尔（人名）",
+            "iscorrect": false
+          },
+          {
+            "definition": "圣诞手推车",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

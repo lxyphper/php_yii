@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "far",
+      "error_analysis": "学生易因形近词（如fat、car）的拼写相似而误判“far”的词义",
+      "sentence": "The supermarket is **far** from here, so we should drive.",
+      "options": {
+        "option": [
+          {
+            "definition": "远的（形容词，指距离长）",
+            "iscorrect": true
+          },
+          {
+            "definition": "胖的（形容词，指体型肥胖）",
+            "iscorrect": false
+          },
+          {
+            "definition": "车（名词，指交通工具）",
+            "iscorrect": false
+          },
+          {
+            "definition": "酒吧（名词，指饮酒场所）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

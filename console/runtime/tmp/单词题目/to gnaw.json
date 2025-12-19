@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to gnaw",
+      "error_analysis": "学生易因形近词\"know\"（知道）产生错误联想，或因不熟悉\"gn-\"开头词的含义而猜测为无关义",
+      "sentence": "The dog kept **gnawing** on the bone until it was completely clean.",
+      "options": {
+        "option": [
+          {
+            "definition": "啃；咬",
+            "iscorrect": true
+          },
+          {
+            "definition": "知道；了解",
+            "iscorrect": false
+          },
+          {
+            "definition": "生长；成长",
+            "iscorrect": false
+          },
+          {
+            "definition": "抓取；夺取",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

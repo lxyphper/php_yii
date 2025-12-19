@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "slow",
+      "error_analysis": "学生易因形近词'snow'（雪）的形状相似混淆，或误将'slow'与'slip'（滑）联系导致错误理解",
+      "sentence": "This is a **slow** train; it stops at every small station along the way.",
+      "options": {
+        "option": [
+          {
+            "definition": "慢的（形容词，指速度低或节奏缓）",
+            "iscorrect": true
+          },
+          {
+            "definition": "雪（名词，指天空中落下的白色冰晶）",
+            "iscorrect": false
+          },
+          {
+            "definition": "滑的（形容词，指表面容易让人摔倒）",
+            "iscorrect": false
+          },
+          {
+            "definition": "快的（形容词，指速度高或动作迅速）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

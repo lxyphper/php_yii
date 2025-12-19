@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "liturgy",
+      "error_analysis": "易因形近词\"literature\"(文学)混淆，或词根误导误判为\"公共服务\"。",
+      "sentence": "The priest strictly followed the ancient **liturgy** during Sunday mass, which included prayers, hymns, and communion.",
+      "options": {
+        "option": [
+          {
+            "definition": "文学",
+            "iscorrect": false
+          },
+          {
+            "definition": "公共服务",
+            "iscorrect": false
+          },
+          {
+            "definition": "一般礼仪",
+            "iscorrect": false
+          },
+          {
+            "definition": "宗教仪式；礼拜仪式",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

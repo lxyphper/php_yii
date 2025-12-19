@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "psychiatry",
+      "error_analysis": "学生易将“psychiatry”与形近词“psychology”（心理学）混淆，或因“psych-”（心理）词根误判为非医学的心理学科。",
+      "sentence": "The hospital’s **psychiatry** unit is staffed by doctors who specialize in treating conditions like schizophrenia and major depression.",
+      "options": {
+        "option": [
+          {
+            "definition": "心理学（研究心理过程和行为的学科）",
+            "iscorrect": false
+          },
+          {
+            "definition": "精神病学（研究精神障碍的医学分支）",
+            "iscorrect": true
+          },
+          {
+            "definition": "心理治疗方法（用于治疗心理问题的技术）",
+            "iscorrect": false
+          },
+          {
+            "definition": "精神健康咨询（为情绪困扰提供支持的服务）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "county",
+      "error_analysis": "易混淆形近词country（国家），或误由词根count（计数）推测为“统计区”",
+      "sentence": "The county council will vote on a new park project for families living in the **county**.",
+      "options": {
+        "option": [
+          {
+            "definition": "县（行政区划）",
+            "iscorrect": true
+          },
+          {
+            "definition": "国家",
+            "iscorrect": false
+          },
+          {
+            "definition": "统计区",
+            "iscorrect": false
+          },
+          {
+            "definition": "城市",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

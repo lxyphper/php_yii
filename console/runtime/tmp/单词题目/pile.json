@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pile",
+      "error_analysis": "学生易因形近词\"pale\"(苍白的)或\"mile\"(英里)产生错误联想",
+      "sentence": "There’s a big **pile** of books on the desk—can you put them away?",
+      "options": {
+        "option": [
+          {
+            "definition": "堆；摞",
+            "iscorrect": true
+          },
+          {
+            "definition": "苍白的",
+            "iscorrect": false
+          },
+          {
+            "definition": "英里",
+            "iscorrect": false
+          },
+          {
+            "definition": "文件",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

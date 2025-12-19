@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to import",
+      "error_analysis": "易因形近词“important”（重要的）混淆词性及词义，或因“port”（港口/携带）词根错误联想为“出口”。",
+      "sentence": "The country plans to **import** more electric vehicles from Japan next year.",
+      "options": {
+        "option": [
+          {
+            "definition": "重要的",
+            "iscorrect": false
+          },
+          {
+            "definition": "出口；输出",
+            "iscorrect": false
+          },
+          {
+            "definition": "报告；汇报",
+            "iscorrect": false
+          },
+          {
+            "definition": "进口；输入",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

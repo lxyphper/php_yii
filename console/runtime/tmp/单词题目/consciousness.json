@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "consciousness",
+      "error_analysis": "学生易因形近词“conscience”（良心）混淆，或误将“consciousness”误解为具体的“清醒状态”",
+      "sentence": "After the fall, she regained **consciousness** slowly and asked where she was.",
+      "options": {
+        "option": [
+          {
+            "definition": "意识（指对自身或周围环境的感知状态）",
+            "iscorrect": true
+          },
+          {
+            "definition": "良心（道德上判断善恶的能力）",
+            "iscorrect": false
+          },
+          {
+            "definition": "清醒的状态（指从昏迷或睡眠中恢复的状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "有意识的行为（故意或有目的的行动）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

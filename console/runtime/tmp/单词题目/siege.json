@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "siege",
+      "error_analysis": "中国学生易因形近词'size'（尺寸）、'sieve'（筛子）混淆'siege'含义，或因词根联想误判为'座位'等意思。",
+      "sentence": "During the war, the city was placed under **siege** by enemy forces for six weeks.",
+      "options": {
+        "option": [
+          {
+            "definition": "尺寸",
+            "iscorrect": false
+          },
+          {
+            "definition": "围攻；围困",
+            "iscorrect": true
+          },
+          {
+            "definition": "筛子",
+            "iscorrect": false
+          },
+          {
+            "definition": "座位",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "foolish",
+      "error_analysis": "学生易将\"fool\"（动词，欺骗）的含义代入，误以为\"foolish\"是\"欺骗的\"，或因形近词\"foolhardy\"联想为\"鲁莽的\"",
+      "sentence": "It was **foolish** of her to lend all her savings to a stranger without asking for any proof.",
+      "options": {
+        "option": [
+          {
+            "definition": "愚蠢的",
+            "iscorrect": true
+          },
+          {
+            "definition": "欺骗的",
+            "iscorrect": false
+          },
+          {
+            "definition": "鲁莽的",
+            "iscorrect": false
+          },
+          {
+            "definition": "天真的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

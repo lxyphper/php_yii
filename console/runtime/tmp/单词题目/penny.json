@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "penny",
+      "error_analysis": "将形近词“pen”（钢笔）的含义迁移到“penny”，误认为与“钢笔”相关",
+      "sentence": "She saved every **penny** to buy her mother a birthday gift.",
+      "options": {
+        "option": [
+          {
+            "definition": "钢笔",
+            "iscorrect": false
+          },
+          {
+            "definition": "便士（英国等国的货币单位）",
+            "iscorrect": true
+          },
+          {
+            "definition": "小铅笔",
+            "iscorrect": false
+          },
+          {
+            "definition": "任何书写工具",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

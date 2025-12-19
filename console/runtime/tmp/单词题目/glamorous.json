@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "glamorous",
+      "error_analysis": "中国学生易因形近将“glamorous”混淆为“光荣的”（glorious），或因词根“glam”不熟悉而猜测为“发光的”。",
+      "sentence": "The actress looked **glamorous** in her silver evening dress at the awards ceremony.",
+      "options": {
+        "option": [
+          {
+            "definition": "有魅力的；迷人的",
+            "iscorrect": true
+          },
+          {
+            "definition": "光荣的；辉煌的",
+            "iscorrect": false
+          },
+          {
+            "definition": "发光的；闪亮的",
+            "iscorrect": false
+          },
+          {
+            "definition": "昂贵的；高价的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

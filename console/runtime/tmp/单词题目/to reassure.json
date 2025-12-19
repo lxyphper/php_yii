@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to reassure",
+      "error_analysis": "学生易因形近词“reassess”（重新评估）产生混淆，或误将“reassure”与“assure”（向某人保证）混淆而忽略其“使安心”的核心义。",
+      "sentence": "When the child was scared of the dark, her mom **reassured** her by saying there were no monsters under the bed.",
+      "options": {
+        "option": [
+          {
+            "definition": "使安心；安慰",
+            "iscorrect": true
+          },
+          {
+            "definition": "重新评估",
+            "iscorrect": false
+          },
+          {
+            "definition": "再次保证",
+            "iscorrect": false
+          },
+          {
+            "definition": "向某人保证",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

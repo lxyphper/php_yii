@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "town",
+      "error_analysis": "学生易因形近词\"ton\"（吨）或\"down\"（向下）的干扰，将\"town\"误解为重量单位或方向词",
+      "sentence": "We spent the weekend in a quiet **town** by the lake.",
+      "options": {
+        "option": [
+          {
+            "definition": "城镇（人口较多的居民聚居地，通常比城市小）",
+            "iscorrect": true
+          },
+          {
+            "definition": "吨（重量单位，等于1000公斤）",
+            "iscorrect": false
+          },
+          {
+            "definition": "向下（方向词，与\"up\"相反）",
+            "iscorrect": false
+          },
+          {
+            "definition": "塔（高耸的建筑物，用于瞭望或装饰）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

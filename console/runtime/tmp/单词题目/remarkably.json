@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "remarkably",
+      "error_analysis": "学生易因形近词\"remark\"（评论）或词根推导错误，将\"remarkably\"误解为\"评论性地\"或\"值得评论地\"。",
+      "sentence": "She played the piano **remarkably** well for a 5-year-old.",
+      "options": {
+        "option": [
+          {
+            "definition": "显著地；非常地",
+            "iscorrect": true
+          },
+          {
+            "definition": "评论性地",
+            "iscorrect": false
+          },
+          {
+            "definition": "值得评论地",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻微地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

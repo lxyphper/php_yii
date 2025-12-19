@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "transaction",
+      "error_analysis": "学生易因形近词\"translation\"(翻译)或词根\"trans-+action\"过度推导为\"转移/运输行为\"而误解其核心义\"交易\"。",
+      "sentence": "The bank will send you a confirmation email once the **transaction** is completed.",
+      "options": {
+        "option": [
+          {
+            "definition": "交易；事务（尤指金融或商业方面的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "翻译；译文",
+            "iscorrect": false
+          },
+          {
+            "definition": "转移；运输行为",
+            "iscorrect": false
+          },
+          {
+            "definition": "转型；转变",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

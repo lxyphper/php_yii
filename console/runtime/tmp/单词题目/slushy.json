@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "slushy",
+      "error_analysis": "学生易因形近词'squishy'(柔软有弹性的)混淆，或因词根'slush'(雪泥)字面误导猜为'雪泥的'。",
+      "sentence": "On a hot summer afternoon, she bought a **slushy** at the mall to quench her thirst.",
+      "options": {
+        "option": [
+          {
+            "definition": "（饮料）冰沙状的，含大量冰的",
+            "iscorrect": true
+          },
+          {
+            "definition": "柔软有弹性的",
+            "iscorrect": false
+          },
+          {
+            "definition": "雪泥的，融雪的",
+            "iscorrect": false
+          },
+          {
+            "definition": "迟钝的，反应慢的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

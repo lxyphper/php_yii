@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "infantry",
+      "error_analysis": "学生易因形近词“infant”（婴儿）或词根“infant”（未成年）误判为与婴儿/未成年相关的群体",
+      "sentence": "The **infantry** advanced slowly through the muddy terrain, supported by tanks and artillery.",
+      "options": {
+        "option": [
+          {
+            "definition": "步兵",
+            "iscorrect": true
+          },
+          {
+            "definition": "婴儿护理人员",
+            "iscorrect": false
+          },
+          {
+            "definition": "未成年士兵",
+            "iscorrect": false
+          },
+          {
+            "definition": "后勤补给队",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

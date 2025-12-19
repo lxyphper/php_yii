@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "detritus",
+      "error_analysis": "学生易因形近词\"detect\"（检测）猜测为\"检测结果\"，或因词根\"trit-\"联想到\"trite\"（陈腐的）误判为\"陈腐的废弃物\"",
+      "sentence": "After the storm, the beach was littered with the **detritus** of broken shells, driftwood, and seaweed.",
+      "options": {
+        "option": [
+          {
+            "definition": "碎屑；残骸；沉积物",
+            "iscorrect": true
+          },
+          {
+            "definition": "检测结果；探测到的东西",
+            "iscorrect": false
+          },
+          {
+            "definition": "陈腐的言论；过时的观点",
+            "iscorrect": false
+          },
+          {
+            "definition": "损害；伤害性事物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

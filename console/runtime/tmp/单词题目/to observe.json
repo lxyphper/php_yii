@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to observe",
+      "error_analysis": "学生易因形近词“preserve”（保存）或词根“serve”（保存）误导，将“observe”误理解为“保存”而非“观察”。",
+      "sentence": "The birdwatchers spent hours in the park to **observe** the migration patterns of the geese.",
+      "options": {
+        "option": [
+          {
+            "definition": "观察（仔细看以了解情况）",
+            "iscorrect": true
+          },
+          {
+            "definition": "保存（使某物安全不被损坏）",
+            "iscorrect": false
+          },
+          {
+            "definition": "保留（为后来使用而保存）",
+            "iscorrect": false
+          },
+          {
+            "definition": "服从（遵守规则或命令）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

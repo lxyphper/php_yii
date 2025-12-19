@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to flaunt",
+      "error_analysis": "中国学生易因形近词\"flourish\"（繁荣）或词根误导（如与\"float\"（漂浮）关联）而误解该词意思。",
+      "sentence": "She always likes to **flaunt** her new designer bags in front of her friends.",
+      "options": {
+        "option": [
+          {
+            "definition": "繁荣；茂盛",
+            "iscorrect": false
+          },
+          {
+            "definition": "漂浮；飘动",
+            "iscorrect": false
+          },
+          {
+            "definition": "炫耀；夸耀",
+            "iscorrect": true
+          },
+          {
+            "definition": "展示；陈列",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

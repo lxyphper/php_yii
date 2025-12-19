@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "community",
+      "error_analysis": "中国学生易因形近词“commodity”（商品）拼写相似混淆“community”，或因“com-”词根误联想为“交流”。",
+      "sentence": "The local **community** organized a festival to celebrate the harvest.",
+      "options": {
+        "option": [
+          {
+            "definition": "社区；群体",
+            "iscorrect": true
+          },
+          {
+            "definition": "商品；货物",
+            "iscorrect": false
+          },
+          {
+            "definition": "交流；沟通",
+            "iscorrect": false
+          },
+          {
+            "definition": "委员会；小组",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

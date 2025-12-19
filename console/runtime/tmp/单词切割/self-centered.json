@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "selfcentered",
+      "self-centred",
+      "sel-centered",
+      "self-centored"
+    ],
+    "correct_chunks": [
+      "self-",
+      "center",
+      "-ed"
+    ],
+    "distractor_chunks": [
+      "selfcenter",
+      "centred",
+      "sel-",
+      "centor"
+    ]
+  },
+  0
+]

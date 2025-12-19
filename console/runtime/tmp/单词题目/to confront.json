@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to confront",
+      "error_analysis": "易因形近词（如confirm/confuse）或词根“front”（前面）字面误导，将“to confront”误解为“确认”“混淆”或“迎接”。",
+      "sentence": "When you **confront** a challenge, it’s important to stay calm and think of solutions.",
+      "options": {
+        "option": [
+          {
+            "definition": "确认",
+            "iscorrect": false
+          },
+          {
+            "definition": "混淆",
+            "iscorrect": false
+          },
+          {
+            "definition": "面对（困难、问题或某人）",
+            "iscorrect": true
+          },
+          {
+            "definition": "迎接（某人/某事）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

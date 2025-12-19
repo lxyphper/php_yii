@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "truth",
+      "error_analysis": "学生易因形近词“trust”（信任）的拼写相似而产生错误联想",
+      "sentence": "The police are trying to find out the **truth** about the accident.",
+      "options": {
+        "option": [
+          {
+            "definition": "事实；真相",
+            "iscorrect": true
+          },
+          {
+            "definition": "信任；信赖",
+            "iscorrect": false
+          },
+          {
+            "definition": "诚实；正直",
+            "iscorrect": false
+          },
+          {
+            "definition": "牙齿；齿状物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

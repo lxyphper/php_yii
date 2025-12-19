@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "subtraction",
+      "error_analysis": "学生易因形近词（如extraction/提取、subscription/订阅）或词根（sub-下+tract拉）误导，将subtraction误解为“提取”“订阅”或“次要部分”。",
+      "sentence": "In math class, we learned that **subtraction** is the operation of taking one number away from another.",
+      "options": {
+        "option": [
+          {
+            "definition": "减法（数学中的一种运算，即从一个数中减去另一个数）",
+            "iscorrect": true
+          },
+          {
+            "definition": "提取（从某物中取出或抽出）",
+            "iscorrect": false
+          },
+          {
+            "definition": "订阅（定期购买或接收某物的服务）",
+            "iscorrect": false
+          },
+          {
+            "definition": "次要部分（不重要或从属的部分）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

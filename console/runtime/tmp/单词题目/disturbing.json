@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "disturbing",
+      "error_analysis": "学生易将形近词distinguished（杰出的）误判为其含义，或通过词根turb（混乱）过度推导为“令人混乱的”。",
+      "sentence": "The news report about the increasing pollution levels in the river was quite **disturbing** for the local residents.",
+      "options": {
+        "option": [
+          {
+            "definition": "杰出的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人混乱的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人不安的",
+            "iscorrect": true
+          },
+          {
+            "definition": "令人厌烦的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

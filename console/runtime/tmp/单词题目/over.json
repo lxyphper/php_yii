@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "over",
+      "error_analysis": "学生常将“over”的“超过（数量/程度）”义误判为“在...上方”（空间位置），或因形近词“oven”（烤箱）/“ever”（曾经）产生干扰。",
+      "sentence": "There were **over** 200 guests at the wedding yesterday.",
+      "options": {
+        "option": [
+          {
+            "definition": "超过（数量/程度）",
+            "iscorrect": true
+          },
+          {
+            "definition": "在...上方（空间位置）",
+            "iscorrect": false
+          },
+          {
+            "definition": "烤箱（形近词“oven”的误判）",
+            "iscorrect": false
+          },
+          {
+            "definition": "曾经（形近词“ever”的误判）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

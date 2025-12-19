@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bed and breakfast",
+      "error_analysis": "学生易将\"bed and breakfast\"字面直译为\"床和早餐\"（具体物品），而非表示\"提供住宿和早餐的小旅馆\"这一整体服务场所",
+      "sentence": "We decided to stay at a cozy **bed and breakfast** in the countryside instead of a big hotel during our weekend trip.",
+      "options": {
+        "option": [
+          {
+            "definition": "提供住宿和早餐的小旅馆",
+            "iscorrect": true
+          },
+          {
+            "definition": "床和早餐（指具体的床与早餐食物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "只提供早餐的家庭式餐馆",
+            "iscorrect": false
+          },
+          {
+            "definition": "带床的早餐房间（指有床的早餐区域）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

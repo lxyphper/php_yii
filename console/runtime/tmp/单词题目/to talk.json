@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to talk",
+      "error_analysis": "学生易因形近词\"walk\"（走）混淆\"talk\"的含义，或误将其理解为\"告诉\"（tell）。",
+      "sentence": "My friends and I like to **talk** about our favorite movies after school.",
+      "options": {
+        "option": [
+          {
+            "definition": "说话；交谈",
+            "iscorrect": true
+          },
+          {
+            "definition": "走；步行",
+            "iscorrect": false
+          },
+          {
+            "definition": "告诉；讲述",
+            "iscorrect": false
+          },
+          {
+            "definition": "听；倾听",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

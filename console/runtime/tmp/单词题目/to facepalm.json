@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to facepalm",
+      "error_analysis": "学生易将\"facepalm\"字面拆分为\"脸+手掌\"，误理解为单纯的\"用手掌碰脸\"而非带情绪的\"拍脸（表示无奈/尴尬）\"",
+      "sentence": "When Tom realized he had forgotten his homework again, he **facepalmed** and let out a long sigh.",
+      "options": {
+        "option": [
+          {
+            "definition": "用手掌拍脸（表示无奈、尴尬或失望）",
+            "iscorrect": true
+          },
+          {
+            "definition": "用手掌轻轻摸脸",
+            "iscorrect": false
+          },
+          {
+            "definition": "面对手掌",
+            "iscorrect": false
+          },
+          {
+            "definition": "拍手掌（鼓掌）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

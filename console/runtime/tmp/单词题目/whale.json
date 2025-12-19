@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "whale",
+      "error_analysis": "学生易因形近词\"wheel\"（轮子）或发音相近的\"wail\"（哀嚎）混淆\"whale\"的词义",
+      "sentence": "During our boat trip, we saw a huge **whale** jumping out of the water.",
+      "options": {
+        "option": [
+          {
+            "definition": "鲸鱼",
+            "iscorrect": true
+          },
+          {
+            "definition": "轮子",
+            "iscorrect": false
+          },
+          {
+            "definition": "哀嚎",
+            "iscorrect": false
+          },
+          {
+            "definition": "白色",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "local goverment",
+      "local govment",
+      "local governmant",
+      "locle government"
+    ],
+    "correct_chunks": [
+      "lo",
+      "cal",
+      "gov",
+      "ern",
+      "ment"
+    ],
+    "distractor_chunks": [
+      "cle",
+      "er",
+      "mant"
+    ]
+  },
+  0
+]

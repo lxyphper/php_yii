@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to emphasize",
+      "error_analysis": "易因形近词empathize（共情）、employ（雇佣）混淆词义，或因词根“phas”（显示）误导为“展示”",
+      "sentence": "The manager **emphasized** the need for teamwork in the project.",
+      "options": {
+        "option": [
+          {
+            "definition": "共情",
+            "iscorrect": false
+          },
+          {
+            "definition": "强调",
+            "iscorrect": true
+          },
+          {
+            "definition": "展示",
+            "iscorrect": false
+          },
+          {
+            "definition": "雇佣",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

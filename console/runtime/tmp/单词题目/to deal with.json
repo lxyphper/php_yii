@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to deal with",
+      "error_analysis": "学生易将\"to deal with\"误解为\"和...做交易\"（来自\"deal\"的名词义\"交易\"）或字面直译\"与...一起处理\"。",
+      "sentence": "She has to **deal with** a lot of paperwork every day at the office.",
+      "options": {
+        "option": [
+          {
+            "definition": "处理；应对",
+            "iscorrect": true
+          },
+          {
+            "definition": "和...做交易",
+            "iscorrect": false
+          },
+          {
+            "definition": "与...一起处理",
+            "iscorrect": false
+          },
+          {
+            "definition": "讨论关于...",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

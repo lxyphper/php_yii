@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gloomy",
+      "error_analysis": "学生易因形近词“glory”（荣耀）产生混淆，或误联想“glow”（发光）导致理解偏差。",
+      "sentence": "The sky was covered with dark clouds, and the usually lively square felt **gloomy** on that cold winter day.",
+      "options": {
+        "option": [
+          {
+            "definition": "阴暗的；忧郁的",
+            "iscorrect": true
+          },
+          {
+            "definition": "荣耀的；辉煌的",
+            "iscorrect": false
+          },
+          {
+            "definition": "发光的；炽热的",
+            "iscorrect": false
+          },
+          {
+            "definition": "忙碌的；繁忙的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

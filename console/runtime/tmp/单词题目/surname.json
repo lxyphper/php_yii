@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "surname",
+      "error_analysis": "学生易因\"sur-\"前缀的字面误导（认为是\"附加/超过\"）与\"name\"组合，错误理解为\"附加的名字\"（如昵称），或因形近词\"surprise\"（惊喜）的\"sur-\"开头产生混淆。",
+      "sentence": "In many Western countries, people usually put their **surname** after their given name, like \"John Smith\" where \"Smith\" is the **surname**.",
+      "options": {
+        "option": [
+          {
+            "definition": "惊喜",
+            "iscorrect": false
+          },
+          {
+            "definition": "昵称",
+            "iscorrect": false
+          },
+          {
+            "definition": "姓氏",
+            "iscorrect": true
+          },
+          {
+            "definition": "表面",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

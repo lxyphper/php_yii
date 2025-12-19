@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sketching",
+      "error_analysis": "学生易因形近词混淆将“sketching”（画素描）误判为“stretching”（伸展）或“stitching”（缝纫）",
+      "sentence": "She spent the afternoon **sketching** the landscape with her pencil, capturing the outline of the mountains and trees.",
+      "options": {
+        "option": [
+          {
+            "definition": "画素描；绘制草图",
+            "iscorrect": true
+          },
+          {
+            "definition": "伸展；拉伸",
+            "iscorrect": false
+          },
+          {
+            "definition": "缝纫；缝合",
+            "iscorrect": false
+          },
+          {
+            "definition": "做骨架；搭建框架",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

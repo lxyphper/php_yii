@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "practicum",
+      "error_analysis": "学生易因形近混淆为\"practitioner\"(从业者)，或因词根\"pract-\"误判为一般\"实践\"而非\"有组织的实习课\"",
+      "sentence": "As part of their teacher training program, the students are required to participate in a **practicum** at a nearby middle school to gain classroom experience.",
+      "options": {
+        "option": [
+          {
+            "definition": "从业者；执业者",
+            "iscorrect": false
+          },
+          {
+            "definition": "实习课；实践训练课程",
+            "iscorrect": true
+          },
+          {
+            "definition": "实践；实际操作",
+            "iscorrect": false
+          },
+          {
+            "definition": "研讨会；专题讲座",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

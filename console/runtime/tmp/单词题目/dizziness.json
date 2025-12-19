@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dizziness",
+      "error_analysis": "学生易因形近词'diligence'（勤奋）混淆，或因'dizzy'的引申义'困惑'而误判'dizziness'为'困惑'而非'头晕'。",
+      "sentence": "After spinning around in circles for a minute, Lily felt a strong **dizziness** and had to sit down immediately.",
+      "options": {
+        "option": [
+          {
+            "definition": "头晕（感）",
+            "iscorrect": true
+          },
+          {
+            "definition": "勤奋",
+            "iscorrect": false
+          },
+          {
+            "definition": "困惑",
+            "iscorrect": false
+          },
+          {
+            "definition": "耀眼",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

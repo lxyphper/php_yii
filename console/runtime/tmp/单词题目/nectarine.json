@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nectarine",
+      "error_analysis": "中国学生易因词根\"nectar\"(花蜜)误推为甜饮料，或因形近\"marine\"(海洋的)误认作海洋相关事物",
+      "sentence": "She picked a ripe **nectarine** from the tree and bit into its smooth, sweet flesh.",
+      "options": {
+        "option": [
+          {
+            "definition": "油桃",
+            "iscorrect": true
+          },
+          {
+            "definition": "花蜜饮料",
+            "iscorrect": false
+          },
+          {
+            "definition": "海洋生物",
+            "iscorrect": false
+          },
+          {
+            "definition": "桃子酱",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

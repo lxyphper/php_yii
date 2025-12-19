@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stricken",
+      "error_analysis": "学生易因形近词\"strict\"（严格的）混淆，或因\"strike\"（打击）字面义过度直译，误将\"stricken\"理解为\"严格的\"或\"物理打击的\"。",
+      "sentence": "The village was **stricken** by a severe flood, leaving many families homeless.",
+      "options": {
+        "option": [
+          {
+            "definition": "严格的；严厉的",
+            "iscorrect": false
+          },
+          {
+            "definition": "遭受灾害/打击的；受...折磨的",
+            "iscorrect": true
+          },
+          {
+            "definition": "打击的；撞击的",
+            "iscorrect": false
+          },
+          {
+            "definition": "卡住的；困住的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

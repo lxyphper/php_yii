@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "chatroom",
+      "error_analysis": "学生易因形近词（如checkroom、catroom）干扰，将chatroom误判为衣帽间、猫房等非聊天场所。",
+      "sentence": "Many teenagers like to make new friends in the **chatroom** while playing online games.",
+      "options": {
+        "option": [
+          {
+            "definition": "衣帽间",
+            "iscorrect": false
+          },
+          {
+            "definition": "猫房",
+            "iscorrect": false
+          },
+          {
+            "definition": "教室",
+            "iscorrect": false
+          },
+          {
+            "definition": "聊天室",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

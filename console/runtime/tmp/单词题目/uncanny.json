@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "uncanny",
+      "error_analysis": "学生易因\"un-+canny\"词根误判为\"不精明的\"，或因形近混淆为\"不常见的\"",
+      "sentence": "She has an **uncanny** ability to know what I'm thinking before I say a word.",
+      "options": {
+        "option": [
+          {
+            "definition": "不精明的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不常见的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不幸的",
+            "iscorrect": false
+          },
+          {
+            "definition": "神秘的；令人不安的奇怪",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

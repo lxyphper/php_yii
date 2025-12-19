@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "chiffon",
+      "error_analysis": "学生易因“chiffon”与“champion”（冠军）拼写相似而混淆，或因“chiffon cake”（雪纺蛋糕）的影响误认为其为食物",
+      "sentence": "Her dress was made of **chiffon**, which flowed gently in the breeze.",
+      "options": {
+        "option": [
+          {
+            "definition": "冠军",
+            "iscorrect": false
+          },
+          {
+            "definition": "蛋糕",
+            "iscorrect": false
+          },
+          {
+            "definition": "雪纺绸；薄纱",
+            "iscorrect": true
+          },
+          {
+            "definition": "谷壳",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

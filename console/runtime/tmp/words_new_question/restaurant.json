@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "restaurant",
+      "error_analysis": "将形近词“rest”（休息）的含义代入，误判为“休息室”或“恢复相关场所”",
+      "sentence": "We decided to try the new **restaurant** on Main Street for lunch—they say their pizza is amazing!",
+      "options": {
+        "option": [
+          {
+            "definition": "餐馆；餐厅（提供饮食的场所）",
+            "iscorrect": true
+          },
+          {
+            "definition": "休息室（供人休息的地方）",
+            "iscorrect": false
+          },
+          {
+            "definition": "康复中心（帮助恢复健康的地方）",
+            "iscorrect": false
+          },
+          {
+            "definition": "书店（销售书籍的地方）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

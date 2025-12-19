@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to hand",
+      "error_analysis": "学生易将\"to hand\"误判为\"传递给\"（形近词\"hand\"作动词的\"传递\"义干扰）或\"拿到手上\"（字面直译误导），忽略其\"在手头\"的核心含义。",
+      "sentence": "I always keep a dictionary **to hand** when I'm writing essays, so I can check words quickly.",
+      "options": {
+        "option": [
+          {
+            "definition": "在手头；可供使用",
+            "iscorrect": true
+          },
+          {
+            "definition": "传递给",
+            "iscorrect": false
+          },
+          {
+            "definition": "拿到手上",
+            "iscorrect": false
+          },
+          {
+            "definition": "交给",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "plump",
+      "error_analysis": "易因形近词\"plenty\"(充足的)或\"pump\"(泵)产生\"充足的\"或\"泵相关的\"错误理解",
+      "sentence": "The little girl with **plump** cheeks looked adorable in her new dress.",
+      "options": {
+        "option": [
+          {
+            "definition": "充足的；大量的",
+            "iscorrect": false
+          },
+          {
+            "definition": "圆胖的；丰满的",
+            "iscorrect": true
+          },
+          {
+            "definition": "泵的；抽水的",
+            "iscorrect": false
+          },
+          {
+            "definition": "突然跳进的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

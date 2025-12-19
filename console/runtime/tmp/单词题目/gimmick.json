@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gimmick",
+      "error_analysis": "学生易因促销场景关联（如免费赠品）或拼写类似工具词（如gadget），将gimmick误判为\"赠品\"或\"小工具\"",
+      "sentence": "To attract more customers, the café's new **gimmick** is offering a free cookie with every coffee purchase.",
+      "options": {
+        "option": [
+          {
+            "definition": "花招；噱头",
+            "iscorrect": true
+          },
+          {
+            "definition": "赠品；小礼物",
+            "iscorrect": false
+          },
+          {
+            "definition": "小工具；装置",
+            "iscorrect": false
+          },
+          {
+            "definition": "游戏；活动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

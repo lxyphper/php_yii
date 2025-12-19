@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "flight",
+      "error_analysis": "中国学生易因形近词“fight”（战斗）或词根关联“fly”（苍蝇）误判“flight”的核心含义（航班/飞行）",
+      "sentence": "I missed my **flight** to London because of the traffic jam.",
+      "options": {
+        "option": [
+          {
+            "definition": "航班；飞行",
+            "iscorrect": true
+          },
+          {
+            "definition": "战斗",
+            "iscorrect": false
+          },
+          {
+            "definition": "漂浮",
+            "iscorrect": false
+          },
+          {
+            "definition": "苍蝇",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

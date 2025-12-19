@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to persevere",
+      "error_analysis": "中国学生易因形近词“preserve”（保存）混淆，或因词根“severe”（严厉的）误导，将“to persevere”误解为“保存”或“严厉对待”。",
+      "sentence": "Even though he failed the exam twice, he chose to **persevere** and study harder for the next attempt.",
+      "options": {
+        "option": [
+          {
+            "definition": "坚持；不屈不挠",
+            "iscorrect": true
+          },
+          {
+            "definition": "保存；保护",
+            "iscorrect": false
+          },
+          {
+            "definition": "严厉对待；严格要求",
+            "iscorrect": false
+          },
+          {
+            "definition": "放弃；停止尝试",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

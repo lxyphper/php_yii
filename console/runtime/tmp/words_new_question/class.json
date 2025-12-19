@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "class",
+      "error_analysis": "学生易混淆形近词\"glass\"(玻璃)，或误将\"social class\"中的\"class\"理解为\"班级\"(常见义的过度延伸)",
+      "sentence": "Researchers found a strong link between income and social **class** in the survey.",
+      "options": {
+        "option": [
+          {
+            "definition": "玻璃",
+            "iscorrect": false
+          },
+          {
+            "definition": "班级",
+            "iscorrect": false
+          },
+          {
+            "definition": "阶级/阶层",
+            "iscorrect": true
+          },
+          {
+            "definition": "经典的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

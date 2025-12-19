@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "conductor",
+      "error_analysis": "学生易因词根“duct”（引导）误判为“管理者”，或因形近词“connector”（连接器）误判为“连接者”。",
+      "sentence": "The **conductor** collected fares from passengers and gave them receipts on the bus.",
+      "options": {
+        "option": [
+          {
+            "definition": "管理者",
+            "iscorrect": false
+          },
+          {
+            "definition": "连接器",
+            "iscorrect": false
+          },
+          {
+            "definition": "（公共汽车/火车）售票员",
+            "iscorrect": true
+          },
+          {
+            "definition": "导演",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

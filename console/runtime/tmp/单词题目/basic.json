@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "basic",
+      "error_analysis": "学生易因形近词“basis”（基础，名词）混淆，将“basic”误理解为名词“基础”，忽略其形容词“基本的”的核心词义。",
+      "sentence": "The course covers all the **basic** concepts of mathematics, such as addition and subtraction.",
+      "options": {
+        "option": [
+          {
+            "definition": "基本的（形容词，指属于某物最根本或必不可少的部分）",
+            "iscorrect": true
+          },
+          {
+            "definition": "基础（名词，指事物存在或发展的根本）",
+            "iscorrect": false
+          },
+          {
+            "definition": "基础的东西（名词，指构成某物的基本要素）",
+            "iscorrect": false
+          },
+          {
+            "definition": "简单的（形容词，指容易理解或完成的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "armpit",
+      "error_analysis": "学生易根据\"arm+pit\"的字面组合猜测为\"胳膊上的凹陷处\"，而非准确的\"腋窝\"",
+      "sentence": "She felt an itch in her **armpit** after wearing the tight shirt all day.",
+      "options": {
+        "option": [
+          {
+            "definition": "腋窝",
+            "iscorrect": true
+          },
+          {
+            "definition": "胳膊上的小坑",
+            "iscorrect": false
+          },
+          {
+            "definition": "胳膊肘",
+            "iscorrect": false
+          },
+          {
+            "definition": "肩膀",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

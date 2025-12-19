@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "police officer",
+      "error_analysis": "混淆“officer”与“official”，将“police officer”误解为“警察官员”（高级职位），而非普通警员。",
+      "sentence": "A **police officer** helped the lost child find his way back to his parents at the mall.",
+      "options": {
+        "option": [
+          {
+            "definition": "警察（普通警员）",
+            "iscorrect": true
+          },
+          {
+            "definition": "警察官员（如局长）",
+            "iscorrect": false
+          },
+          {
+            "definition": "政策官员",
+            "iscorrect": false
+          },
+          {
+            "definition": "警察的工作",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "traditional",
+      "error_analysis": "学生易因形近词“transitional”（过渡的）或词根“trad-”与“trade”（贸易）的联想，误将“traditional”理解为“过渡的”或“贸易的”",
+      "sentence": "In many cultures, wedding ceremonies still follow **traditional** rituals that have been kept for over a thousand years.",
+      "options": {
+        "option": [
+          {
+            "definition": "过渡的",
+            "iscorrect": false
+          },
+          {
+            "definition": "贸易的",
+            "iscorrect": false
+          },
+          {
+            "definition": "传统的",
+            "iscorrect": true
+          },
+          {
+            "definition": "传递的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

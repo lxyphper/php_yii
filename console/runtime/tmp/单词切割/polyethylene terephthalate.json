@@ -1,0 +1,26 @@
+[
+  {
+    "common_misspellings": [
+      "polyethylen terephthalate",
+      "polyethylene terephtalate",
+      "polyethylene terephthalit",
+      "polyethlene terephthalate",
+      "polyethylane terephthalate"
+    ],
+    "correct_chunks": [
+      "poly",
+      "ethyl",
+      "ene",
+      "terephthal",
+      "ate"
+    ],
+    "distractor_chunks": [
+      "ethylen",
+      "terephtal",
+      "it",
+      "ethlene",
+      "ane"
+    ]
+  },
+  0
+]

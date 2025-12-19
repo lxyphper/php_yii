@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "volcano",
+      "error_analysis": "易因形近词“volunteer”（志愿者）及词根“vol”（转）的错误联想，将“volcano”误解为“志愿者”或“旋转的物体”",
+      "sentence": "The eruption of the **volcano** in Iceland in 2010 led to thousands of flight cancellations across Europe.",
+      "options": {
+        "option": [
+          {
+            "definition": "火山",
+            "iscorrect": true
+          },
+          {
+            "definition": "志愿者",
+            "iscorrect": false
+          },
+          {
+            "definition": "旋转的机械",
+            "iscorrect": false
+          },
+          {
+            "definition": "山谷",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

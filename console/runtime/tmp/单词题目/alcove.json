@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "alcove",
+      "error_analysis": "学生易因形近词“cave”（洞穴）或“cove”（小海湾）的联想，将“alcove”误判为自然凹陷空间而非室内凹室。",
+      "sentence": "In the living room, there’s a cozy **alcove** with a bookshelf and an armchair—ideal for curling up with a book.",
+      "options": {
+        "option": [
+          {
+            "definition": "（房间内的）凹室；壁龛",
+            "iscorrect": true
+          },
+          {
+            "definition": "洞穴",
+            "iscorrect": false
+          },
+          {
+            "definition": "小海湾",
+            "iscorrect": false
+          },
+          {
+            "definition": "酒精储存容器",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

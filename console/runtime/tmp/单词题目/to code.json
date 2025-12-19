@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to code",
+      "error_analysis": "学生易因形近词\"cord\"(绳子)或\"cold\"(冷)将\"to code\"误理解为\"捆绑\"或\"变冷\"，或因名词\"code\"(规则)误作\"制定规则\"",
+      "sentence": "The software engineer spends two hours every evening to **code** a new mobile game for kids.",
+      "options": {
+        "option": [
+          {
+            "definition": "编写代码（计算机）",
+            "iscorrect": true
+          },
+          {
+            "definition": "用绳子捆绑",
+            "iscorrect": false
+          },
+          {
+            "definition": "使变冷",
+            "iscorrect": false
+          },
+          {
+            "definition": "制定规则",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

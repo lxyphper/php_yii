@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "despondency",
+      "error_analysis": "易因形近词“dependency”（依赖）及词根“des-”（向下）加“pond”（重量）误解为“依赖”或“沉重负担”",
+      "sentence": "After failing the exam three times, Tom fell into a deep state of **despondency** and refused to try again.",
+      "options": {
+        "option": [
+          {
+            "definition": "依赖；依靠",
+            "iscorrect": false
+          },
+          {
+            "definition": "沮丧；绝望",
+            "iscorrect": true
+          },
+          {
+            "definition": "无回应；沉默",
+            "iscorrect": false
+          },
+          {
+            "definition": "沉重的负担；压力",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

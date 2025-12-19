@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to lament",
+      "error_analysis": "学生易因“lament”与基础词汇“lamp”（灯）形近而误猜为“开灯”，或因对其核心词义（哀悼/痛惜）不熟悉而误解为“抱怨”",
+      "sentence": "Many people came to the funeral to **lament** the passing of the respected teacher.",
+      "options": {
+        "option": [
+          {
+            "definition": "哀悼；痛惜",
+            "iscorrect": true
+          },
+          {
+            "definition": "开灯；点亮灯",
+            "iscorrect": false
+          },
+          {
+            "definition": "抱怨；发牢骚",
+            "iscorrect": false
+          },
+          {
+            "definition": "跳跃；蹦跳",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

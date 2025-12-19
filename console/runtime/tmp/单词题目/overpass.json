@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "overpass",
+      "error_analysis": "学生易将‘over-’（超过）与‘pass’（通过）结合，错误理解为‘超速通过’或‘超过’的动作，而非名词‘天桥’。",
+      "sentence": "The city built a new **overpass** to help pedestrians cross the busy highway safely.",
+      "options": {
+        "option": [
+          {
+            "definition": "天桥；立交桥",
+            "iscorrect": true
+          },
+          {
+            "definition": "超过（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "超速通过（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "地下通道",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

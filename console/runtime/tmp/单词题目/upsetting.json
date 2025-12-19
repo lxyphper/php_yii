@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "upsetting",
+      "error_analysis": "学生可能因形近词“setting”（设置）或“up-”+“set”的字面含义，错误理解为“与设置相关的”或“向上放置的”。",
+      "sentence": "The movie's ending was so **upsetting** that many viewers cried.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人不安的；令人心烦的",
+            "iscorrect": true
+          },
+          {
+            "definition": "与设置相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "向上放置的",
+            "iscorrect": false
+          },
+          {
+            "definition": "调整后的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

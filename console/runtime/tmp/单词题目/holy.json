@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "holy",
+      "error_analysis": "易因形近词“honey”（蜂蜜）混淆，或误从词根“hol-”（完整）推导为“完整的”",
+      "sentence": "The temple is considered a **holy** place by the local people, where they go to pray and show respect.",
+      "options": {
+        "option": [
+          {
+            "definition": "神圣的；圣洁的",
+            "iscorrect": true
+          },
+          {
+            "definition": "蜂蜜",
+            "iscorrect": false
+          },
+          {
+            "definition": "完整的",
+            "iscorrect": false
+          },
+          {
+            "definition": "假期的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

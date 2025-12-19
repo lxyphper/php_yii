@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to think",
+      "error_analysis": "学生易因形近词（如thank, thin, thing）混淆，将“think”误理解为“感谢”“瘦的”或“东西”",
+      "sentence": "I need to **think** about my future before making a decision.",
+      "options": {
+        "option": [
+          {
+            "definition": "思考；考虑",
+            "iscorrect": true
+          },
+          {
+            "definition": "感谢；谢谢",
+            "iscorrect": false
+          },
+          {
+            "definition": "瘦的；薄的",
+            "iscorrect": false
+          },
+          {
+            "definition": "东西；事物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

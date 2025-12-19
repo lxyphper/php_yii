@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "prayer",
+      "error_analysis": "学生易因形近词\"player\"（玩家；运动员）的干扰，将\"prayer\"误解为\"玩家\"或\"运动员\"",
+      "sentence": "Every Sunday, she goes to the church to say a **prayer** for her family's health.",
+      "options": {
+        "option": [
+          {
+            "definition": "祈祷；祈祷文",
+            "iscorrect": true
+          },
+          {
+            "definition": "玩家；运动员",
+            "iscorrect": false
+          },
+          {
+            "definition": "付款人",
+            "iscorrect": false
+          },
+          {
+            "definition": "准备者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

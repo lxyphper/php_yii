@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "jungle",
+      "error_analysis": "学生易因形近词“jingle”（叮当声）或词根联想“young”（年轻），误将“jungle”理解为“叮当声”或“年轻群体”",
+      "sentence": "Many animals like tigers and monkeys live in the dense **jungle** of the Amazon.",
+      "options": {
+        "option": [
+          {
+            "definition": "热带丛林；密林",
+            "iscorrect": true
+          },
+          {
+            "definition": "叮当声",
+            "iscorrect": false
+          },
+          {
+            "definition": "年轻的群体",
+            "iscorrect": false
+          },
+          {
+            "definition": "普通森林",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

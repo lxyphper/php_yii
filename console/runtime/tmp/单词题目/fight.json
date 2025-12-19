@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fight",
+      "error_analysis": "中国学生易混淆形近词“flight”（航班）或“fright”（恐惧），导致误判“fight”的核心含义",
+      "sentence": "The team decided to **fight** for their right to play in the final match.",
+      "options": {
+        "option": [
+          {
+            "definition": "战斗；斗争；打架",
+            "iscorrect": true
+          },
+          {
+            "definition": "航班；飞行",
+            "iscorrect": false
+          },
+          {
+            "definition": "恐惧；惊吓",
+            "iscorrect": false
+          },
+          {
+            "definition": "寻找；发现",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

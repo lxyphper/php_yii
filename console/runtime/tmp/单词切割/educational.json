@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "educitional",
+      "educaional",
+      "iducational",
+      "educattional"
+    ],
+    "correct_chunks": [
+      "edu",
+      "cat",
+      "ion",
+      "al"
+    ],
+    "distractor_chunks": [
+      "idu",
+      "ci",
+      "ca",
+      "catt"
+    ]
+  },
+  0
+]

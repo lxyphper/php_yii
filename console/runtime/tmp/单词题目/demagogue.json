@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "demagogue",
+      "error_analysis": "学生易因形近词\"democracy\"（民主）或词根\"dem-\"(人民)+\"-gogue\"(引导)错误联想为\"民主人士\"或\"人民引导者\"，忽略其贬义\"煽动者\"的核心义。",
+      "sentence": "The **demagogue** stirred up fear in the crowd with lies about immigration, promising to \"save the nation\" if elected.",
+      "options": {
+        "option": [
+          {
+            "definition": "民主人士",
+            "iscorrect": false
+          },
+          {
+            "definition": "人民的引导者",
+            "iscorrect": false
+          },
+          {
+            "definition": "煽动者；蛊惑民心的政客",
+            "iscorrect": true
+          },
+          {
+            "definition": "人口统计学家",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

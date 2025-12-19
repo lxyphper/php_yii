@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to interpret",
+      "error_analysis": "学生易因形近词“interrupt”（打断）的拼写相似性产生混淆，或因“inter-”前缀误导为“插入/干预”",
+      "sentence": "The scientist needs to **interpret** the data from the experiment to draw a valid conclusion.",
+      "options": {
+        "option": [
+          {
+            "definition": "解释；诠释",
+            "iscorrect": true
+          },
+          {
+            "definition": "打断；中断",
+            "iscorrect": false
+          },
+          {
+            "definition": "插入；干预",
+            "iscorrect": false
+          },
+          {
+            "definition": "假装；伪装",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

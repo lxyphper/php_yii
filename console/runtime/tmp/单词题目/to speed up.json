@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to speed up",
+      "error_analysis": "学生易因\"speed\"的\"超速\"义将\"to speed up\"误解为\"超速\"，或混淆其与\"hurry up\"（催促快点）的含义",
+      "sentence": "The engineer adjusted the settings to make the machine **speed up** and finish the task 30 minutes ahead of schedule.",
+      "options": {
+        "option": [
+          {
+            "definition": "加快，加速",
+            "iscorrect": true
+          },
+          {
+            "definition": "超速行驶",
+            "iscorrect": false
+          },
+          {
+            "definition": "催促某人快点",
+            "iscorrect": false
+          },
+          {
+            "definition": "迅速离开某地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

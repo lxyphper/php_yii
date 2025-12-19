@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "kristmas tree",
+      "chrismas tree",
+      "chirstmas tree",
+      "christmas tre",
+      "christmas trie"
+    ],
+    "correct_chunks": [
+      "christ",
+      "mas",
+      "tr",
+      "ee"
+    ],
+    "distractor_chunks": [
+      "kri",
+      "chris",
+      "chir",
+      "tre",
+      "trie"
+    ]
+  },
+  0
+]

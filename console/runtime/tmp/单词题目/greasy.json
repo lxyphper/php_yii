@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "greasy",
+      "error_analysis": "中国学生易因形近词\"greedy\"(贪婪的)和\"great\"(极好的)的拼写相似，将\"greasy\"误判为\"贪婪的\"或\"极好的\"。",
+      "sentence": "After eating the **greasy** fried chicken, my hands felt sticky and I needed to wash them immediately.",
+      "options": {
+        "option": [
+          {
+            "definition": "贪婪的",
+            "iscorrect": false
+          },
+          {
+            "definition": "极好的",
+            "iscorrect": false
+          },
+          {
+            "definition": "油腻的；多油的",
+            "iscorrect": true
+          },
+          {
+            "definition": "绿色的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

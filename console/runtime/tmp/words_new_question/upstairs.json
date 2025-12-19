@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "upstairs",
+      "error_analysis": "学生易将“upstairs”拆分为“up”+“stairs”，误解为“上楼梯”（动作）或“向上的楼梯”（名词），而非其核心义“在楼上；楼上的”（副词/形容词）。",
+      "sentence": "My mom is calling me from **upstairs**; could you tell her I’ll be there in a minute?",
+      "options": {
+        "option": [
+          {
+            "definition": "在楼上；楼上的（副词/形容词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "上楼梯（动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "向上的楼梯（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "暴发户（形近词“upstart”的错误联想）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

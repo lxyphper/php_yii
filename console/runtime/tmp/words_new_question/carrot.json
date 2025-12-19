@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "carrot",
+      "error_analysis": "中国学生易因形近词\"parrot\"(鹦鹉)混淆，或因\"car\"(汽车)联想误判为汽车相关物品。",
+      "sentence": "My mom added some sliced **carrot** to the soup to make it more nutritious.",
+      "options": {
+        "option": [
+          {
+            "definition": "胡萝卜",
+            "iscorrect": true
+          },
+          {
+            "definition": "鹦鹉",
+            "iscorrect": false
+          },
+          {
+            "definition": "汽车零件",
+            "iscorrect": false
+          },
+          {
+            "definition": "卡通人物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

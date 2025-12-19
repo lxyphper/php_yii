@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gregarious",
+      "error_analysis": "学生易因形近词“greedy”（贪婪的）混淆，或因不熟悉“greg-”（群体）词根而误猜为“生长迅速的”。",
+      "sentence": "Sarah is so **gregarious** that she always initiates conversations with strangers at parties and makes friends easily.",
+      "options": {
+        "option": [
+          {
+            "definition": "爱交际的，合群的",
+            "iscorrect": true
+          },
+          {
+            "definition": "贪婪的",
+            "iscorrect": false
+          },
+          {
+            "definition": "生长迅速的",
+            "iscorrect": false
+          },
+          {
+            "definition": "攻击性的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

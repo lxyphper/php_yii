@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "refoulement",
+      "error_analysis": "学生易因形近词\"refusal\"(拒绝)或\"foul\"(污秽)产生联想，或通过\"re-\"+\"foul\"+\"-ment\"词根猜测为\"拒绝\"或\"清除污秽\"，忽略其\"驱回难民\"的法律术语义。",
+      "sentence": "The UN condemned the country's practice of **refoulement**, which forced thousands of refugees back to the conflict zone they had escaped from.",
+      "options": {
+        "option": [
+          {
+            "definition": "（给车辆或设备）重新加油",
+            "iscorrect": false
+          },
+          {
+            "definition": "拒绝给予请求或帮助",
+            "iscorrect": false
+          },
+          {
+            "definition": "驱回（难民至其母国或危险地区）",
+            "iscorrect": true
+          },
+          {
+            "definition": "清除环境中的污秽或污染物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

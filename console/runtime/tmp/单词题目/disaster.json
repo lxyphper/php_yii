@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "disaster",
+      "error_analysis": "学生易因形近词“discover”（发现）混淆，或因词根“aster”（星）错误联想为“星象异常”。",
+      "sentence": "The earthquake was a terrible **disaster** that destroyed thousands of homes.",
+      "options": {
+        "option": [
+          {
+            "definition": "灾难；严重不幸的事",
+            "iscorrect": true
+          },
+          {
+            "definition": "发现",
+            "iscorrect": false
+          },
+          {
+            "definition": "星象异常",
+            "iscorrect": false
+          },
+          {
+            "definition": "讨论",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

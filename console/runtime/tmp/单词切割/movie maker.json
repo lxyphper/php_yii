@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "moive maker",
+      "muvie maker",
+      "movie makor",
+      "movie macker",
+      "movie makeer"
+    ],
+    "correct_chunks": [
+      "mov",
+      "ie",
+      "mak",
+      "er"
+    ],
+    "distractor_chunks": [
+      "ei",
+      "muv",
+      "mack",
+      "or",
+      "eer"
+    ]
+  },
+  0
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "common_misspellings": [
+      "imigrate",
+      "emigrate",
+      "immegrate",
+      "immigret"
+    ],
+    "correct_chunks": [
+      "im",
+      "migrate"
+    ],
+    "distractor_chunks": [
+      "igrate",
+      "em",
+      "megrate",
+      "migret"
+    ]
+  },
+  0
+]

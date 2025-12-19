@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "music",
+      "error_analysis": "学生易因形近词\"muscle\"(肌肉)或\"museum\"(博物馆)的拼写相似性混淆\"music\"的词义",
+      "sentence": "She loves listening to **music** while doing homework.",
+      "options": {
+        "option": [
+          {
+            "definition": "音乐",
+            "iscorrect": true
+          },
+          {
+            "definition": "肌肉",
+            "iscorrect": false
+          },
+          {
+            "definition": "博物馆",
+            "iscorrect": false
+          },
+          {
+            "definition": "电影",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "simple-minded",
+      "error_analysis": "学生易混淆形近词“single-minded”（一心一意的），或误将“simple-minded”字面理解为中性的“单纯的”，忽略其贬义的“愚笨”核心义。",
+      "sentence": "He was so **simple-minded** that he believed every word the stranger said and gave away all his savings without hesitation.",
+      "options": {
+        "option": [
+          {
+            "definition": "一心一意的；专心致志的",
+            "iscorrect": false
+          },
+          {
+            "definition": "头脑简单的；愚笨的",
+            "iscorrect": true
+          },
+          {
+            "definition": "单纯的；天真无邪的（中性）",
+            "iscorrect": false
+          },
+          {
+            "definition": "思想开放的；豁达的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

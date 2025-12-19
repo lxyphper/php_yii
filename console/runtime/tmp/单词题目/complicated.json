@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "complicated",
+      "error_analysis": "中国学生易因形近词\"completed\"（完成的）误判词义，或因词根\"plic-\"（折叠）错误推导为\"混乱的\"",
+      "sentence": "The new software has a **complicated** interface that takes time to learn.",
+      "options": {
+        "option": [
+          {
+            "definition": "复杂的",
+            "iscorrect": true
+          },
+          {
+            "definition": "完成的",
+            "iscorrect": false
+          },
+          {
+            "definition": "混乱的",
+            "iscorrect": false
+          },
+          {
+            "definition": "使复杂化的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "monument",
+      "error_analysis": "学生易因形近词\"moment\"(时刻)混淆，或词根\"monu-\"误猜为\"监控器/提醒器\"",
+      "sentence": "The Statue of Liberty is a famous **monument** symbolizing freedom and democracy in the United States.",
+      "options": {
+        "option": [
+          {
+            "definition": "时刻；瞬间",
+            "iscorrect": false
+          },
+          {
+            "definition": "监控器；提醒器",
+            "iscorrect": false
+          },
+          {
+            "definition": "纪念碑；遗迹",
+            "iscorrect": true
+          },
+          {
+            "definition": "纪念品；礼物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

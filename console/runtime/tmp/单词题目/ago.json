@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ago",
+      "error_analysis": "易因形近混淆\"age\"(年龄)，或因\"go\"的字面义误解为\"走了\"",
+      "sentence": "I met her two years **ago** at a friend's birthday party.",
+      "options": {
+        "option": [
+          {
+            "definition": "以前（表示过去的时间点）",
+            "iscorrect": true
+          },
+          {
+            "definition": "年龄（age的含义，形近干扰）",
+            "iscorrect": false
+          },
+          {
+            "definition": "走了（由\"go\"的字面义推导）",
+            "iscorrect": false
+          },
+          {
+            "definition": "之后（与\"ahead\"混淆的反义干扰）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

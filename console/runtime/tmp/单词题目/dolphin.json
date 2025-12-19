@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dolphin",
+      "error_analysis": "学生易因“ph”字母联想“elephant”（大象）或“dol-”“phin”字面猜测“多鳍鱼”而误解“dolphin”词义",
+      "sentence": "We saw a **dolphin** jumping out of the water during our boat trip.",
+      "options": {
+        "option": [
+          {
+            "definition": "海豚",
+            "iscorrect": true
+          },
+          {
+            "definition": "大象",
+            "iscorrect": false
+          },
+          {
+            "definition": "多鳍鱼",
+            "iscorrect": false
+          },
+          {
+            "definition": "鲸鱼",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "aldehyde",
+      "error_analysis": "中国学生易因形近词\"alcohol\"(酒精)的干扰将\"aldehyde\"误判为\"酒精\"，或因词根\"-hyde\"联想到\"hydride\"(氢化物)而误判为\"氢化物\"",
+      "sentence": "Formaldehyde, a common **aldehyde**, is widely used in manufacturing plastics and synthetic resins.",
+      "options": {
+        "option": [
+          {
+            "definition": "醛（一种有机化合物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "酒精（含乙醇的饮料或溶剂）",
+            "iscorrect": false
+          },
+          {
+            "definition": "氢化物（含氢的化合物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "碱（能中和酸的物质）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

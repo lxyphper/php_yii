@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "transation",
+      "translateion",
+      "tranzlation",
+      "traslation"
+    ],
+    "correct_chunks": [
+      "trans",
+      "lat",
+      "ion"
+    ],
+    "distractor_chunks": [
+      "at",
+      "late",
+      "tranz",
+      "tras",
+      "ation"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tie",
+      "error_analysis": "学生易因形近词“lie”（躺/说谎）混淆“tie”的意思，或忽略其“比赛平局”的常见名词义",
+      "sentence": "The soccer match between Brazil and Argentina ended in a 1-1 **tie**.",
+      "options": {
+        "option": [
+          {
+            "definition": "平局（比赛中不分胜负）",
+            "iscorrect": true
+          },
+          {
+            "definition": "躺（身体平放）",
+            "iscorrect": false
+          },
+          {
+            "definition": "说谎（说不真实的话）",
+            "iscorrect": false
+          },
+          {
+            "definition": "系（用绳子等绑）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

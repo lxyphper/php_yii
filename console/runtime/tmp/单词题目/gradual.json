@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gradual",
+      "error_analysis": "学生易因形近词“graduate”（毕业）误解为“毕业的”，或因词根“grad”（步/等级）过度推导为“分级的”。",
+      "sentence": "The city has seen a **gradual** increase in green spaces over the past decade, with more parks and trees added each year.",
+      "options": {
+        "option": [
+          {
+            "definition": "逐渐的；逐步的",
+            "iscorrect": true
+          },
+          {
+            "definition": "毕业的；毕业生的",
+            "iscorrect": false
+          },
+          {
+            "definition": "分级的；阶段的",
+            "iscorrect": false
+          },
+          {
+            "definition": "感激的；感谢的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

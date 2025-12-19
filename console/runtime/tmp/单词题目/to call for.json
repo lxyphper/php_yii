@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to call for",
+      "error_analysis": "学生易将\"call for\"误解为\"给...打电话\"（形近词\"call\"的常用义干扰）或\"呼唤；召唤\"（字面直译误导），忽略其\"需要；要求\"的核心义。",
+      "sentence": "The current situation **calls for** immediate action to prevent further damage.",
+      "options": {
+        "option": [
+          {
+            "definition": "需要；要求",
+            "iscorrect": true
+          },
+          {
+            "definition": "给...打电话",
+            "iscorrect": false
+          },
+          {
+            "definition": "呼唤；召唤",
+            "iscorrect": false
+          },
+          {
+            "definition": "等待；期待",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

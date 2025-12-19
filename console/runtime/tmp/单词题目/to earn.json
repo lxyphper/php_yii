@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to earn",
+      "error_analysis": "学生易因形近词“learn”（学习）将“earn”误解为“学习”或“学会”",
+      "sentence": "She **earns** $500 a week by working as a part-time teacher.",
+      "options": {
+        "option": [
+          {
+            "definition": "赚得；挣得",
+            "iscorrect": true
+          },
+          {
+            "definition": "学习；学会",
+            "iscorrect": false
+          },
+          {
+            "definition": "渴望；向往",
+            "iscorrect": false
+          },
+          {
+            "definition": "转动；转向",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

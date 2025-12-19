@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "supply chain",
+      "error_analysis": "学生易因\"chain\"的字面意思将\"supply chain\"误解为具体的\"供应链条\"，或混淆为\"供应线\"等相关但非核心的概念",
+      "sentence": "The pandemic caused major disruptions to the global **supply chain**, leading to shortages of many consumer goods.",
+      "options": {
+        "option": [
+          {
+            "definition": "供应链（指产品从生产到销售的整个流程体系）",
+            "iscorrect": true
+          },
+          {
+            "definition": "供应链条（指具体的金属或塑料链条物品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "供应线（如军事中的物资补给线路）",
+            "iscorrect": false
+          },
+          {
+            "definition": "供应渠道（指产品销售的途径或门路）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

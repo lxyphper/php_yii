@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "YouTube",
+      "error_analysis": "学生易将\"YouTube\"拆分为\"You\"和\"Tube\"，误猜为与\"你的管子\"相关的含义",
+      "sentence": "Many creators upload their vlogs and tutorials to **YouTube** to reach a global audience.",
+      "options": {
+        "option": [
+          {
+            "definition": "你的管子/管道",
+            "iscorrect": false
+          },
+          {
+            "definition": "音乐流媒体服务",
+            "iscorrect": false
+          },
+          {
+            "definition": "社交媒体聊天应用",
+            "iscorrect": false
+          },
+          {
+            "definition": "（全球知名的）视频分享平台",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

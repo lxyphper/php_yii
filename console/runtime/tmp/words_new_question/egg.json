@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "egg",
+      "error_analysis": "中国学生易因形近词“leg”（腿）的拼写相似性而误判“egg”的核心含义",
+      "sentence": "She cracked an **egg** into the bowl to make pancakes for breakfast.",
+      "options": {
+        "option": [
+          {
+            "definition": "鸡蛋",
+            "iscorrect": true
+          },
+          {
+            "definition": "腿",
+            "iscorrect": false
+          },
+          {
+            "definition": "年龄",
+            "iscorrect": false
+          },
+          {
+            "definition": "请求",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

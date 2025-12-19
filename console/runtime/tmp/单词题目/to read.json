@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to read",
+      "error_analysis": "易因形近词\"to raid\"(袭击)、\"red\"(红色)或\"reed\"(芦苇)的拼写/发音接近，导致对\"to read\"核心词义的误判",
+      "sentence": "She likes to **read** books about animals before going to bed every night.",
+      "options": {
+        "option": [
+          {
+            "definition": "阅读",
+            "iscorrect": true
+          },
+          {
+            "definition": "袭击",
+            "iscorrect": false
+          },
+          {
+            "definition": "红色",
+            "iscorrect": false
+          },
+          {
+            "definition": "芦苇",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

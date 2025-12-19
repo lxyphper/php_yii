@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "undervalued",
+      "error_analysis": "学生易将“undervalued”（被低估价值的）混淆为形近词“unvalued”（无价值的），或通过词根“under-+value”过度直译为“价值低下的”。",
+      "sentence": "Many old books are **undervalued** by young people, but they actually contain great cultural value.",
+      "options": {
+        "option": [
+          {
+            "definition": "被低估的；价值被看低的",
+            "iscorrect": true
+          },
+          {
+            "definition": "无价值的；未被重视的",
+            "iscorrect": false
+          },
+          {
+            "definition": "价值低下的；品质差的",
+            "iscorrect": false
+          },
+          {
+            "definition": "被遗忘的；被忽略的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

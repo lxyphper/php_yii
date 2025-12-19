@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rain",
+      "error_analysis": "中国学生易混淆形近词“rein”（缰绳）或“pain”（疼痛），误将“rain”理解为“缰绳”或“身体不适感”",
+      "sentence": "We had to cancel the picnic because the **rain** was pouring non-stop.",
+      "options": {
+        "option": [
+          {
+            "definition": "雨（名词，云层降下的水滴）",
+            "iscorrect": true
+          },
+          {
+            "definition": "缰绳（名词，控制动物的皮带）",
+            "iscorrect": false
+          },
+          {
+            "definition": "疼痛（名词，身体的不适感）",
+            "iscorrect": false
+          },
+          {
+            "definition": "范围（名词，事物的界限）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

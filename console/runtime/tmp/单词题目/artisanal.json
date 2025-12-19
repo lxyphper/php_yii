@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "artisanal",
+      "error_analysis": "学生易因形近词“artistic”（艺术的）或词根“art”的错误联想，将“artisanal”误判为“艺术的”或“人造的”。",
+      "sentence": "The bakery is famous for its **artisanal** bread, which is made by hand every morning using traditional methods.",
+      "options": {
+        "option": [
+          {
+            "definition": "手工制作的；工匠的",
+            "iscorrect": true
+          },
+          {
+            "definition": "艺术的；有艺术性的",
+            "iscorrect": false
+          },
+          {
+            "definition": "人造的；非自然的",
+            "iscorrect": false
+          },
+          {
+            "definition": "艺术家的；与艺术家相关的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

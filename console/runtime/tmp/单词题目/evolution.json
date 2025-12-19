@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "evolution",
+      "error_analysis": "易因形近词revolution（革命）混淆，或因词根evolvere（展开）误解为字面“展开”而非“进化”。",
+      "sentence": "Darwin's theory of **evolution** explains how species adapt and change over millions of years.",
+      "options": {
+        "option": [
+          {
+            "definition": "进化；演变",
+            "iscorrect": true
+          },
+          {
+            "definition": "革命；变革",
+            "iscorrect": false
+          },
+          {
+            "definition": "展开；显露",
+            "iscorrect": false
+          },
+          {
+            "definition": "进步；提升",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

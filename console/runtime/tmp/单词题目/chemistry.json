@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "chemistry",
+      "error_analysis": "中国学生易因形近词“chemist”（化学家）将“chemistry”误判为“化学家”，或混淆其与“chemical”（化学制品）的含义。",
+      "sentence": "Sarah is taking **chemistry** this semester because she wants to study medicine in college.",
+      "options": {
+        "option": [
+          {
+            "definition": "化学（学科）",
+            "iscorrect": true
+          },
+          {
+            "definition": "化学家",
+            "iscorrect": false
+          },
+          {
+            "definition": "化学制品",
+            "iscorrect": false
+          },
+          {
+            "definition": "历史",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

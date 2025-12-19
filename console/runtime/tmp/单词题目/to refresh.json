@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to refresh",
+      "error_analysis": "易受形近词“refuse”（拒绝）干扰，或因“re-+fresh”词根直译误解为“使重新新鲜”。",
+      "sentence": "After working for two hours, she decided to take a 10-minute break to **refresh** herself with some water.",
+      "options": {
+        "option": [
+          {
+            "definition": "拒绝",
+            "iscorrect": false
+          },
+          {
+            "definition": "使重新新鲜",
+            "iscorrect": false
+          },
+          {
+            "definition": "使恢复精力；刷新",
+            "iscorrect": true
+          },
+          {
+            "definition": "使变得疲劳",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "monopoly",
+      "error_analysis": "易因形近词\"monotony\"(单调)的拼写联想产生混淆，或因词根\"poly\"（误判为\"多\"）导致对\"单一控制\"词义的偏离",
+      "sentence": "The company holds a **monopoly** on smartphone operating systems, so no other brand can use the same software legally.",
+      "options": {
+        "option": [
+          {
+            "definition": "垄断（指某一主体对某类产品或服务的独家控制）",
+            "iscorrect": true
+          },
+          {
+            "definition": "单调（缺乏变化或趣味的状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "单一的多面体（由多个平面组成的单一立体图形）",
+            "iscorrect": false
+          },
+          {
+            "definition": "大型纪念碑（用于纪念重要人物或事件的建筑）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

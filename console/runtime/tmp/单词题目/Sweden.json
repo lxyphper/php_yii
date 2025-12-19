@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Sweden",
+      "error_analysis": "学生易因形近词\"sweeten\"(使变甜)或\"swede\"(芜菁)的干扰，误将\"Sweden\"理解为非国家含义",
+      "sentence": "I have a pen pal from **Sweden** who loves ice hockey and ABBA.",
+      "options": {
+        "option": [
+          {
+            "definition": "瑞典（北欧国家）",
+            "iscorrect": true
+          },
+          {
+            "definition": "使变甜（动词，如加糖）",
+            "iscorrect": false
+          },
+          {
+            "definition": "芜菁（一种根茎蔬菜）",
+            "iscorrect": false
+          },
+          {
+            "definition": "瑞士（中欧国家，以钟表闻名）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

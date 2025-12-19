@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "domain",
+      "error_analysis": "易因形近词\"domestic\"误解为\"国内的\"，或词根误导为\"统治\"",
+      "sentence": "Her research **domain** includes artificial intelligence and machine learning.",
+      "options": {
+        "option": [
+          {
+            "definition": "领域；范围",
+            "iscorrect": true
+          },
+          {
+            "definition": "国内的；家庭的",
+            "iscorrect": false
+          },
+          {
+            "definition": "统治；管辖",
+            "iscorrect": false
+          },
+          {
+            "definition": "文档；文件",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "disk",
+      "error_analysis": "学生易因形近词“desk”（书桌）的干扰，将“disk”误判为“书桌”。",
+      "sentence": "Before saving the file, make sure the **disk** is properly connected to the laptop.",
+      "options": {
+        "option": [
+          {
+            "definition": "磁盘；圆盘",
+            "iscorrect": true
+          },
+          {
+            "definition": "书桌",
+            "iscorrect": false
+          },
+          {
+            "definition": "菜肴",
+            "iscorrect": false
+          },
+          {
+            "definition": "黄昏",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

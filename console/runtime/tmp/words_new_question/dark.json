@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dark",
+      "error_analysis": "中国学生易因‘dark’与‘desk’（书桌）拼写相近产生直觉混淆，或误将其核心词义‘黑暗的’偏离为‘书桌’。",
+      "sentence": "The room was so **dark** that I couldn't see my own hands.",
+      "options": {
+        "option": [
+          {
+            "definition": "书桌",
+            "iscorrect": false
+          },
+          {
+            "definition": "深的",
+            "iscorrect": false
+          },
+          {
+            "definition": "标记",
+            "iscorrect": false
+          },
+          {
+            "definition": "黑暗的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

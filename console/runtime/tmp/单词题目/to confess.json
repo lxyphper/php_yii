@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to confess",
+      "error_analysis": "学生易因形近词“confuse”（困惑）将“to confess”误解为“使困惑/混淆”，或因词根“con-”+“fess”的错误推导认为是“分享”",
+      "sentence": "After being questioned by the police for hours, the suspect finally decided to **confess** to the theft.",
+      "options": {
+        "option": [
+          {
+            "definition": "承认（错误或罪行）",
+            "iscorrect": true
+          },
+          {
+            "definition": "使困惑；混淆",
+            "iscorrect": false
+          },
+          {
+            "definition": "分享；共同表达",
+            "iscorrect": false
+          },
+          {
+            "definition": "倾诉；吐露（秘密）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

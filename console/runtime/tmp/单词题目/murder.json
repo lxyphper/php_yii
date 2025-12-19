@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "murder",
+      "error_analysis": "易混淆形近词（如murmur/mutter，意为“低语”），或误将“murder”理解为“凶手”（正确应为murderer）",
+      "sentence": "The police are investigating the **murder** of a young woman found in the park last night.",
+      "options": {
+        "option": [
+          {
+            "definition": "低语；喃喃自语",
+            "iscorrect": false
+          },
+          {
+            "definition": "凶手；杀人犯",
+            "iscorrect": false
+          },
+          {
+            "definition": "谋杀（罪）；杀害",
+            "iscorrect": true
+          },
+          {
+            "definition": "抵押；按揭",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

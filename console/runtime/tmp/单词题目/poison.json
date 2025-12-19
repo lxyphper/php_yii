@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "poison",
+      "error_analysis": "中国学生易因形近词“poem”（诗歌）、“potion”（药剂）或发音/拼写接近的“person”（人）而误判“poison”的含义。",
+      "sentence": "The detective found a small bottle of **poison** in the suspect's bag, which matched the substance that killed the victim.",
+      "options": {
+        "option": [
+          {
+            "definition": "毒药；毒物",
+            "iscorrect": true
+          },
+          {
+            "definition": "诗歌",
+            "iscorrect": false
+          },
+          {
+            "definition": "药剂；饮剂",
+            "iscorrect": false
+          },
+          {
+            "definition": "人；个人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

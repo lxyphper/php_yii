@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to get",
+      "error_analysis": "学生易将“get”的核心义（如“收到”）与字面义“拿”混淆，或与形近词“let”（让）误联",
+      "sentence": "I sent you a text this morning—did you **get** it?",
+      "options": {
+        "option": [
+          {
+            "definition": "收到",
+            "iscorrect": true
+          },
+          {
+            "definition": "拿",
+            "iscorrect": false
+          },
+          {
+            "definition": "让",
+            "iscorrect": false
+          },
+          {
+            "definition": "设置",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

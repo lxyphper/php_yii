@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "golden",
+      "error_analysis": "学生易因形近词“garden”（花园的）的拼写干扰，或词根“gold”（黄金）的字面义误导，忽略“golden”表示“极好的”的比喻义",
+      "sentence": "Don't miss this **golden** chance to meet your favorite author—he rarely comes to China.",
+      "options": {
+        "option": [
+          {
+            "definition": "极好的",
+            "iscorrect": true
+          },
+          {
+            "definition": "花园的",
+            "iscorrect": false
+          },
+          {
+            "definition": "由黄金制成的",
+            "iscorrect": false
+          },
+          {
+            "definition": "金色的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

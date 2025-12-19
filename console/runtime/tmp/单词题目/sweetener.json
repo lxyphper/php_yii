@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sweetener",
+      "error_analysis": "学生易因形近词\"sweater\"(毛衣)的拼写相似性或词根\"sweet\"+\"-er\"误判为\"使甜的人\"，忽略其核心词义\"甜味剂\"",
+      "sentence": "To make the lemonade less sour, she added a **sweetener** like honey or sugar.",
+      "options": {
+        "option": [
+          {
+            "definition": "甜味剂",
+            "iscorrect": true
+          },
+          {
+            "definition": "毛衣",
+            "iscorrect": false
+          },
+          {
+            "definition": "使甜的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "甜的能量饮料",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

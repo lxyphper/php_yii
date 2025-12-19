@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "believer",
+      "error_analysis": "学生易因形近词\"believe\"（动词）或忽略\"-er\"指人后缀，将\"believer\"误判为\"相信\"（动词）而非\"信徒；相信...的人\"（名词）",
+      "sentence": "She has always been a **believer** in the power of hard work and never gives up easily.",
+      "options": {
+        "option": [
+          {
+            "definition": "信仰（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "相信（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "信徒；相信...的人",
+            "iscorrect": true
+          },
+          {
+            "definition": "可相信的（形容词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

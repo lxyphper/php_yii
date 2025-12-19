@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gross",
+      "error_analysis": "中国学生易因形近词“grass”（草）误判为“草的”，或因词根“grossus”（厚/大）误猜为“大的；巨大的”",
+      "sentence": "The store's **gross** sales for December were $50,000, but net profits were much lower after expenses.",
+      "options": {
+        "option": [
+          {
+            "definition": "草的；草地的",
+            "iscorrect": false
+          },
+          {
+            "definition": "大的；巨大的",
+            "iscorrect": false
+          },
+          {
+            "definition": "总的；毛的（未扣除成本的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "交叉的；十字的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

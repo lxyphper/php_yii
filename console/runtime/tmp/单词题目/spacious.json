@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "spacious",
+      "error_analysis": "学生易因形近词'suspicious'（可疑的）或'specious'（似是而非的）产生错误联想",
+      "sentence": "The new apartment has a **spacious** living room with large windows, making it perfect for family gatherings.",
+      "options": {
+        "option": [
+          {
+            "definition": "宽敞的",
+            "iscorrect": true
+          },
+          {
+            "definition": "可疑的",
+            "iscorrect": false
+          },
+          {
+            "definition": "似是而非的",
+            "iscorrect": false
+          },
+          {
+            "definition": "具体的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

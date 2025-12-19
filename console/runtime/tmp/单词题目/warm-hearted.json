@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "warm-hearted",
+      "error_analysis": "学生易将合成词\"warm-hearted\"直译为\"温暖的心的\"而忽略其引申义\"热心助人的\"，或与结构类似的\"whole-hearted\"（全心全意的）混淆。",
+      "sentence": "Mrs. Smith is a **warm-hearted** person—she always brings homemade cookies to new neighbors.",
+      "options": {
+        "option": [
+          {
+            "definition": "热心的；乐于助人的",
+            "iscorrect": true
+          },
+          {
+            "definition": "温暖的心的",
+            "iscorrect": false
+          },
+          {
+            "definition": "全心全意的",
+            "iscorrect": false
+          },
+          {
+            "definition": "性格温和的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

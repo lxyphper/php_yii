@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to wobble",
+      "error_analysis": "学生易因形近词“waddle”（蹒跚走）或“bubble”（气泡）误判“to wobble”的意思",
+      "sentence": "The old chair **wobbled** when I sat on it.",
+      "options": {
+        "option": [
+          {
+            "definition": "（使）摇晃；摇摆",
+            "iscorrect": true
+          },
+          {
+            "definition": "蹒跚而行（如鸭子走）",
+            "iscorrect": false
+          },
+          {
+            "definition": "产生气泡",
+            "iscorrect": false
+          },
+          {
+            "definition": "翻倍；加倍",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

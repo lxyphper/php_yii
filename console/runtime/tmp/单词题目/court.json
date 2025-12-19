@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "court",
+      "error_analysis": "学生易因形近词“course”（课程）的干扰，将“court”误理解为“课程”",
+      "sentence": "The lawyer presented new evidence in the **court** to defend his client.",
+      "options": {
+        "option": [
+          {
+            "definition": "法庭",
+            "iscorrect": true
+          },
+          {
+            "definition": "课程",
+            "iscorrect": false
+          },
+          {
+            "definition": "球场",
+            "iscorrect": false
+          },
+          {
+            "definition": "庭院",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

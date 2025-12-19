@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "satire",
+      "error_analysis": "学生易因形近词\"satellite\"(卫星)的拼写联想，或词根\"sat\"(坐)的字面误导，将\"satire\"误判为\"卫星\"或\"座位\"。",
+      "sentence": "The novel uses sharp **satire** to mock the corruption of the upper class.",
+      "options": {
+        "option": [
+          {
+            "definition": "卫星",
+            "iscorrect": false
+          },
+          {
+            "definition": "座位；坐姿",
+            "iscorrect": false
+          },
+          {
+            "definition": "讽刺；讽刺作品",
+            "iscorrect": true
+          },
+          {
+            "definition": "饱和；充满",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

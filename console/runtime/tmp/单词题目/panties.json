@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "panties",
+      "error_analysis": "因形近词“pants”（裤子）的影响，易误判为“女式长裤”或“儿童短裤”",
+      "sentence": "Her mom asked her to put away her **panties** in the drawer with her bras.",
+      "options": {
+        "option": [
+          {
+            "definition": "女式内裤",
+            "iscorrect": true
+          },
+          {
+            "definition": "女式长裤",
+            "iscorrect": false
+          },
+          {
+            "definition": "儿童短裤",
+            "iscorrect": false
+          },
+          {
+            "definition": "运动裤",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

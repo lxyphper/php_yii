@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sonnet",
+      "error_analysis": "学生易因\"son\"（儿子）的形近联想或拆分单词，误将\"sonnet\"理解为与\"儿子\"\"网\"相关的词，或与形近词\"sonata\"（奏鸣曲）混淆。",
+      "sentence": "Shakespeare is famous for writing 154 **sonnets**, which are 14-line poems with a strict rhyme scheme.",
+      "options": {
+        "option": [
+          {
+            "definition": "十四行诗",
+            "iscorrect": true
+          },
+          {
+            "definition": "奏鸣曲",
+            "iscorrect": false
+          },
+          {
+            "definition": "儿子的网",
+            "iscorrect": false
+          },
+          {
+            "definition": "短篇小说",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

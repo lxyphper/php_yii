@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to prefer",
+      "error_analysis": "因形近词“prepare”（准备）的干扰，误将“to prefer”理解为“准备”",
+      "sentence": "She always **prefers** tea to coffee in the morning.",
+      "options": {
+        "option": [
+          {
+            "definition": "准备",
+            "iscorrect": false
+          },
+          {
+            "definition": "携带",
+            "iscorrect": false
+          },
+          {
+            "definition": "参考",
+            "iscorrect": false
+          },
+          {
+            "definition": "更喜欢",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

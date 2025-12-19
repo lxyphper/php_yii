@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "seaside",
+      "error_analysis": "中国学生易因'seaside'与'season'（季节）拼写相似而混淆，或因'side'的'方面'义误解为'海的方面'",
+      "sentence": "We decided to spend our weekend at the **seaside** enjoying the sun and waves.",
+      "options": {
+        "option": [
+          {
+            "definition": "季节",
+            "iscorrect": false
+          },
+          {
+            "definition": "海的方面",
+            "iscorrect": false
+          },
+          {
+            "definition": "海边（尤指人们度假的地方）",
+            "iscorrect": true
+          },
+          {
+            "definition": "海草",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

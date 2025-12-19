@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "front line",
+      "error_analysis": "学生易因\"front\"(前面)和\"line\"(线)的字面组合，误将\"front line\"理解为\"前面的线\"（物理位置的前沿线条），或混淆形近词\"frontier\"(边界)而理解为\"边界线\"。",
+      "sentence": "During the flood, many volunteers rushed to the **front line** to help evacuate trapped residents.",
+      "options": {
+        "option": [
+          {
+            "definition": "第一线（直接参与重要工作或行动的前沿岗位）",
+            "iscorrect": true
+          },
+          {
+            "definition": "前面的线（物理位置上靠前的线条）",
+            "iscorrect": false
+          },
+          {
+            "definition": "边界线（国家或地区的边界）",
+            "iscorrect": false
+          },
+          {
+            "definition": "前排的队伍（队伍中最前面的一排）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

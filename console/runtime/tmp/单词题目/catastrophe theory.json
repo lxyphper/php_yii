@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "catastrophe theory",
+      "error_analysis": "学生易因\"catastrophe\"的\"灾难\"字面义或\"cat\"的形近联想，将其误判为\"灾难理论\"或\"与猫相关的理论\"",
+      "sentence": "In mathematics, **catastrophe theory** explains how small changes in a system can lead to sudden, large-scale shifts in its behavior—like a bridge collapsing after minor structural damage.",
+      "options": {
+        "option": [
+          {
+            "definition": "关于猫的行为或生理特征的理论",
+            "iscorrect": false
+          },
+          {
+            "definition": "研究灾难的成因、影响及应对的理论",
+            "iscorrect": false
+          },
+          {
+            "definition": "关于天体运行中突然变化（如彗星撞击）的理论",
+            "iscorrect": false
+          },
+          {
+            "definition": "突变理论（数学/科学中研究系统状态突然变化的理论）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

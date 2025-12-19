@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "oath",
+      "error_analysis": "因形近词“oat”（燕麦）及字面联想（如“口腔”）产生误解",
+      "sentence": "Before taking office, the new president will take an **oath** to uphold the constitution.",
+      "options": {
+        "option": [
+          {
+            "definition": "誓言；誓约",
+            "iscorrect": true
+          },
+          {
+            "definition": "燕麦；燕麦片",
+            "iscorrect": false
+          },
+          {
+            "definition": "口腔；嘴部",
+            "iscorrect": false
+          },
+          {
+            "definition": "两者都；双方",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

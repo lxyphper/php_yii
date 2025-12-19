@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cosmonaut",
+      "error_analysis": "将\"cosmonaut\"误判为与\"化妆品\"相关的职业（因形近词\"cosmetic\"干扰及对\"cosm-\"词根的错误联想）",
+      "sentence": "Yuri Gagarin, the first human to travel into space, was a famous Soviet **cosmonaut**.",
+      "options": {
+        "option": [
+          {
+            "definition": "（苏联/俄罗斯的）宇航员",
+            "iscorrect": true
+          },
+          {
+            "definition": "化妆品推销员",
+            "iscorrect": false
+          },
+          {
+            "definition": "美容师",
+            "iscorrect": false
+          },
+          {
+            "definition": "天文学家",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

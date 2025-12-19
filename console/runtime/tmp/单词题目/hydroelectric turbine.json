@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hydroelectric turbine",
+      "error_analysis": "学生易混淆“turbine”与“generator”，将“hydroelectric turbine”误判为“水力发电机”，或因“turbine”不熟悉推测为“水力电泵”",
+      "sentence": "The **hydroelectric turbine** in the dam spins rapidly when water flows through it, driving the generator to produce electricity.",
+      "options": {
+        "option": [
+          {
+            "definition": "水力涡轮机",
+            "iscorrect": true
+          },
+          {
+            "definition": "水力发电机",
+            "iscorrect": false
+          },
+          {
+            "definition": "水力电泵",
+            "iscorrect": false
+          },
+          {
+            "definition": "涡轮增压器",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

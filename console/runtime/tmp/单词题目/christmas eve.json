@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "christmas eve",
+      "error_analysis": "学生易将\"eve\"（前夕）误等同于\"evening\"（晚上），导致把\"christmas eve\"理解为\"圣诞节晚上\"而非\"圣诞节前一天晚上（平安夜）\"。",
+      "sentence": "Children in many countries leave stockings by the fireplace on **Christmas Eve** waiting for Santa Claus to come.",
+      "options": {
+        "option": [
+          {
+            "definition": "圣诞节晚上（12月25日晚）",
+            "iscorrect": false
+          },
+          {
+            "definition": "圣诞节的傍晚",
+            "iscorrect": false
+          },
+          {
+            "definition": "圣诞节前一天晚上（平安夜）",
+            "iscorrect": true
+          },
+          {
+            "definition": "圣诞节当天的早晨",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

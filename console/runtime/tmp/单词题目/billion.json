@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "billion",
+      "error_analysis": "学生易将“billion”误理解为“一亿”（10^8）或与形近词“million”（百万）混淆数值",
+      "sentence": "The tech giant reported a **billion**-dollar profit in the third quarter, surpassing analysts' expectations.",
+      "options": {
+        "option": [
+          {
+            "definition": "十亿（10^9）",
+            "iscorrect": true
+          },
+          {
+            "definition": "百万（10^6）",
+            "iscorrect": false
+          },
+          {
+            "definition": "一亿（10^8）",
+            "iscorrect": false
+          },
+          {
+            "definition": "万亿（10^12）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

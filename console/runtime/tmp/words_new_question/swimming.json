@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "swimming",
+      "error_analysis": "易因形近词\"swinging\"（摇摆）混淆，或误将名词\"游泳（活动）\"理解为形容词\"正在游泳的\"",
+      "sentence": "My little brother practices **swimming** every evening to prepare for the school competition.",
+      "options": {
+        "option": [
+          {
+            "definition": "游泳（运动/活动）",
+            "iscorrect": true
+          },
+          {
+            "definition": "摇摆（动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "正在游泳的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "漂浮（状态）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

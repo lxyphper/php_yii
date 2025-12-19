@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "semester",
+      "error_analysis": "中国学生易因形近词“seminar”（研讨会）的拼写相似，将“semester”误理解为“研讨会”。",
+      "sentence": "Our school is offering a new psychology course this **semester**, and it's already fully booked.",
+      "options": {
+        "option": [
+          {
+            "definition": "学期（尤指学校的半年制学期）",
+            "iscorrect": true
+          },
+          {
+            "definition": "研讨会（学术讨论会议）",
+            "iscorrect": false
+          },
+          {
+            "definition": "半年的学术活动（如讲座或工作坊）",
+            "iscorrect": false
+          },
+          {
+            "definition": "夏季开设的短期课程",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

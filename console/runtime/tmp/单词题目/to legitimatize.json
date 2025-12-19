@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to legitimatize",
+      "error_analysis": "学生易因形近词“legislate”（立法）混淆，或词根猜测时误将“使合法化”等同于“证明合理”",
+      "sentence": "The government plans to **legitimatize** the street vendors by issuing them official permits.",
+      "options": {
+        "option": [
+          {
+            "definition": "立法",
+            "iscorrect": false
+          },
+          {
+            "definition": "使合法化",
+            "iscorrect": true
+          },
+          {
+            "definition": "证明...合理",
+            "iscorrect": false
+          },
+          {
+            "definition": "使生效",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

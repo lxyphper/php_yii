@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "buttery",
+      "error_analysis": "学生易根据\"butter\"(黄油)猜测\"buttery\"为\"黄油做的\"，忽略其\"像黄油的；柔软醇厚的\"核心引申义",
+      "sentence": "The croissant had a **buttery** texture that melted in my mouth.",
+      "options": {
+        "option": [
+          {
+            "definition": "柔软的；醇厚的（形容口感或味道）",
+            "iscorrect": true
+          },
+          {
+            "definition": "黄油做的",
+            "iscorrect": false
+          },
+          {
+            "definition": "黄油室（食品贮藏室）",
+            "iscorrect": false
+          },
+          {
+            "definition": "蝴蝶的（与\"butterfly\"混淆）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

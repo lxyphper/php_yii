@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "icosahedron",
+      "error_analysis": "学生易因不认识前缀\"icosa-\"（二十）而将\"二十面体\"误猜为其他数字的面体（如八面体、十二面体），或因\"icosa\"与\"icon\"（图标）形近而猜成与\"图标\"相关的物体。",
+      "sentence": "In geometry class, we learned that a regular **icosahedron** has 20 triangular faces, 30 edges, and 12 vertices.",
+      "options": {
+        "option": [
+          {
+            "definition": "二十面体（几何学术语，具有二十个平面的立体图形）",
+            "iscorrect": true
+          },
+          {
+            "definition": "八面体（具有八个平面的立体图形，如正八面体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "十二面体（具有十二个平面的立体图形，如正十二面体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "带图标的电子设备（如手机或电脑中的快捷方式）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

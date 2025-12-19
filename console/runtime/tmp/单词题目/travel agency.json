@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "travel agency",
+      "error_analysis": "学生易将\"agency\"（机构）混淆为形近词\"agent\"（代理人）或\"agenda\"（议程），导致误判词义。",
+      "sentence": "We booked our flight and hotel through a local **travel agency** to get a better deal for our summer vacation.",
+      "options": {
+        "option": [
+          {
+            "definition": "旅行社",
+            "iscorrect": true
+          },
+          {
+            "definition": "旅行代理人",
+            "iscorrect": false
+          },
+          {
+            "definition": "旅行议程",
+            "iscorrect": false
+          },
+          {
+            "definition": "旅行工具",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "snowboard",
+      "error_analysis": "易与形近词`skateboard`（滑板）混淆，或过度直译`snow+board`为‘雪板’而忽略其‘滑雪板’的特定运动器材含义",
+      "sentence": "Before heading to the ski resort, she packed her **snowboard** and goggles in the bag.",
+      "options": {
+        "option": [
+          {
+            "definition": "滑雪板",
+            "iscorrect": true
+          },
+          {
+            "definition": "滑板",
+            "iscorrect": false
+          },
+          {
+            "definition": "雪板",
+            "iscorrect": false
+          },
+          {
+            "definition": "雪地靴",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

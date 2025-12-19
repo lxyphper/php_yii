@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "climate crisis",
+      "error_analysis": "学生易因“crisis”误作“问题”（字面误导）或“climate”与“climax”形近，将“climate crisis”错解为“气候问题”或“气候的高潮”。",
+      "sentence": "Scientists warn that the **climate crisis** is accelerating, with extreme weather events becoming more frequent and severe.",
+      "options": {
+        "option": [
+          {
+            "definition": "气候危机",
+            "iscorrect": true
+          },
+          {
+            "definition": "气候的高潮",
+            "iscorrect": false
+          },
+          {
+            "definition": "气候问题",
+            "iscorrect": false
+          },
+          {
+            "definition": "环境危机",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

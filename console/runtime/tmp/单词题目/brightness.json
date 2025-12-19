@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "brightness",
+      "error_analysis": "学生易因\"bright\"的\"聪明\"义项将\"brightness\"误判为\"聪明（的程度）\"，或混淆\"brighten\"的动词形式误理解为\"使明亮的动作\"。",
+      "sentence": "The **brightness** of the moon lit up the path, allowing her to walk without a flashlight.",
+      "options": {
+        "option": [
+          {
+            "definition": "明亮；亮度",
+            "iscorrect": true
+          },
+          {
+            "definition": "聪明（的程度）",
+            "iscorrect": false
+          },
+          {
+            "definition": "使明亮的动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "（颜色的）鲜艳度",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

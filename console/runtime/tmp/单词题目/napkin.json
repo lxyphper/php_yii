@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "napkin",
+      "error_analysis": "学生易因\"nap\"（小睡）联想至睡眠相关物品（如枕头），或错误拆分\"nap+kin\"认为与亲属有关。",
+      "sentence": "When I accidentally spilled soup on my shirt at lunch, the waiter quickly brought me a **napkin** to wipe it off.",
+      "options": {
+        "option": [
+          {
+            "definition": "餐巾（用来擦嘴或手的布/纸）",
+            "iscorrect": true
+          },
+          {
+            "definition": "枕头（小睡时用的柔软物品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "亲属（有血缘关系的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "刀叉（吃饭时用的餐具）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

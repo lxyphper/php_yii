@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "leg",
+      "error_analysis": "中国学生易混淆形近词\"log\"(木头)及词根\"法律\"的含义，导致误判\"leg\"的核心词义。",
+      "sentence": "He fell off his bike and scraped his **leg** on the pavement.",
+      "options": {
+        "option": [
+          {
+            "definition": "木头",
+            "iscorrect": false
+          },
+          {
+            "definition": "腿",
+            "iscorrect": true
+          },
+          {
+            "definition": "法律",
+            "iscorrect": false
+          },
+          {
+            "definition": "叶子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "halflife",
+      "haf-life",
+      "half-lif",
+      "harf-life",
+      "half-lief"
+    ],
+    "correct_chunks": [
+      "half-",
+      "life"
+    ],
+    "distractor_chunks": [
+      "haf-",
+      "lif",
+      "harf-",
+      "lief",
+      "halfl"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "purgatory",
+      "error_analysis": "混淆形近词\"purge\"(净化)的含义，或词根\"purg-\"导致\"净化场所\"的错误联想，忽略其\"痛苦经历\"的核心义",
+      "sentence": "After waiting for 3 hours in the crowded, noisy airport terminal, Sarah muttered, \"This feels like **purgatory**.\"",
+      "options": {
+        "option": [
+          {
+            "definition": "（宗教中的）炼狱；痛苦难熬的经历",
+            "iscorrect": true
+          },
+          {
+            "definition": "净化或清除的过程",
+            "iscorrect": false
+          },
+          {
+            "definition": "干净整洁的房间",
+            "iscorrect": false
+          },
+          {
+            "definition": "天堂的入口",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

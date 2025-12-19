@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "alluring",
+      "error_analysis": "学生易混淆形近词'allergic'(过敏的)，或通过词根'lure'(陷阱)错误理解为'有陷阱的'",
+      "sentence": "The sunset over the ocean had an **alluring** glow that made everyone stop to watch.",
+      "options": {
+        "option": [
+          {
+            "definition": "迷人的，吸引人的",
+            "iscorrect": true
+          },
+          {
+            "definition": "过敏的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有陷阱的",
+            "iscorrect": false
+          },
+          {
+            "definition": "持久的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

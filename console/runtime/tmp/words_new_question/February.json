@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "February",
+      "error_analysis": "学生易将\"February\"与形近词\"federal\"（联邦的）或同类别月份词\"January\"（一月）混淆，误判其含义。",
+      "sentence": "Valentine's Day is celebrated on the 14th of **February** every year.",
+      "options": {
+        "option": [
+          {
+            "definition": "一月",
+            "iscorrect": false
+          },
+          {
+            "definition": "联邦的",
+            "iscorrect": false
+          },
+          {
+            "definition": "发烧",
+            "iscorrect": false
+          },
+          {
+            "definition": "二月",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

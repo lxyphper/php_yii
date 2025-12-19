@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sleek",
+      "error_analysis": "学生易因形近词`sleep`误判为“睡眠的；困倦的”，或与`slender`混淆误判为“细长的；苗条的”",
+      "sentence": "She ran her fingers through her **sleek** hair, proud of how soft and shiny it looked.",
+      "options": {
+        "option": [
+          {
+            "definition": "光滑的；柔软有光泽的（指表面或外观）",
+            "iscorrect": true
+          },
+          {
+            "definition": "睡眠的；困倦的",
+            "iscorrect": false
+          },
+          {
+            "definition": "细长的；苗条的",
+            "iscorrect": false
+          },
+          {
+            "definition": "粗糙的；毛糙的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

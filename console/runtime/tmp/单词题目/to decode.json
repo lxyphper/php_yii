@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to decode",
+      "error_analysis": "形近词\"decide\"(决定)的干扰，及词根\"de-+code\"导致的\"去除/破坏代码\"错误理解",
+      "sentence": "After receiving the secret message, the spy needed to **decode** it to find out the meeting time.",
+      "options": {
+        "option": [
+          {
+            "definition": "决定；裁决",
+            "iscorrect": false
+          },
+          {
+            "definition": "解码；破译（信息、密码等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "去除代码；破坏编码",
+            "iscorrect": false
+          },
+          {
+            "definition": "编码；加密",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

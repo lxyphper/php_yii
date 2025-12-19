@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "committed",
+      "error_analysis": "学生易因形近词“committee”（委员会）误判为“委员会的”，或因“commit”的动词含义误判为“犯罪的”或“承诺的”。",
+      "sentence": "The **committed** teacher stayed after school every day to help struggling students with their homework.",
+      "options": {
+        "option": [
+          {
+            "definition": "尽心尽力的；坚定的",
+            "iscorrect": true
+          },
+          {
+            "definition": "委员会的",
+            "iscorrect": false
+          },
+          {
+            "definition": "犯罪的",
+            "iscorrect": false
+          },
+          {
+            "definition": "承诺的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

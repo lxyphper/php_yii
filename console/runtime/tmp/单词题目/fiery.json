@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fiery",
+      "error_analysis": "学生易因\"fiery\"含\"fire\"词根过度直译为\"有火的\"，或混淆形近词\"fierce\"（凶猛的）而忽略其引申义（如\"激烈的\"）。",
+      "sentence": "The politician gave a **fiery** speech that stirred up the crowd.",
+      "options": {
+        "option": [
+          {
+            "definition": "激烈的；情绪激动的",
+            "iscorrect": true
+          },
+          {
+            "definition": "凶猛的；残暴的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有火的；燃烧的",
+            "iscorrect": false
+          },
+          {
+            "definition": "热情的；热心的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

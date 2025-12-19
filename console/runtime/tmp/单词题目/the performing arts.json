@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "the performing arts",
+      "error_analysis": "学生易因词根字面误导将\"performing\"理解为\"执行\"，或因形近词混淆将\"performing\"误看成\"forming\"，从而把\"the performing arts\"误解为\"执行艺术\"或\"形式艺术\"。",
+      "sentence": "The school offers courses in **the performing arts**, such as drama, music, and dance, for students interested in stage performances.",
+      "options": {
+        "option": [
+          {
+            "definition": "表演艺术",
+            "iscorrect": true
+          },
+          {
+            "definition": "执行艺术",
+            "iscorrect": false
+          },
+          {
+            "definition": "形式艺术",
+            "iscorrect": false
+          },
+          {
+            "definition": "美术",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

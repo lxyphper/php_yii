@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "back",
+      "error_analysis": "学生易因形近词“black”（黑色）或字面“背部”的误导，误判“back”在语境中的“向后”含义",
+      "sentence": "Please move **back** a little—you’re blocking the door.",
+      "options": {
+        "option": [
+          {
+            "definition": "向后（副词，指空间上的后退）",
+            "iscorrect": true
+          },
+          {
+            "definition": "黑色（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "背部（名词，身体的后部）",
+            "iscorrect": false
+          },
+          {
+            "definition": "包裹（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

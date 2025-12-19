@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "radioactvity",
+      "radioactivty",
+      "radioactiveity",
+      "radoactivity",
+      "redoactivity"
+    ],
+    "correct_chunks": [
+      "radio",
+      "activ",
+      "ity"
+    ],
+    "distractor_chunks": [
+      "rado",
+      "redo",
+      "actv",
+      "ty",
+      "eity"
+    ]
+  },
+  0
+]

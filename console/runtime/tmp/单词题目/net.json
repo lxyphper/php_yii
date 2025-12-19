@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "net",
+      "error_analysis": "学生易将“net”的形容词义“净的”误判为名词“网”的延伸（词根/字面误导），或因形近词“nest”（巢）产生语义混淆。",
+      "sentence": "The company’s **net** income increased by 15% this quarter.",
+      "options": {
+        "option": [
+          {
+            "definition": "净的（扣除所有费用后的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "网（捕捉或防护用的工具）",
+            "iscorrect": false
+          },
+          {
+            "definition": "巢（鸟类或昆虫的栖息处）",
+            "iscorrect": false
+          },
+          {
+            "definition": "用网捕捉（动词，如捕鱼）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

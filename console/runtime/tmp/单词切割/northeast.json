@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "notheast",
+      "northest",
+      "northeas",
+      "eastnorth",
+      "northeeast"
+    ],
+    "correct_chunks": [
+      "north",
+      "east"
+    ],
+    "distractor_chunks": [
+      "noth",
+      "est",
+      "eas",
+      "eastn"
+    ]
+  },
+  0
+]

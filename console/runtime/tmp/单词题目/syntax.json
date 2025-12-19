@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "syntax",
+      "error_analysis": "学生易因形近词`synthesis`（合成）及词根`tax-`（分类）将`syntax`误解为“合成”或“分类”",
+      "sentence": "The teacher emphasized that mastering the **syntax** of English is crucial for writing grammatically correct sentences.",
+      "options": {
+        "option": [
+          {
+            "definition": "句法（规则）",
+            "iscorrect": true
+          },
+          {
+            "definition": "合成（物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "分类（法）",
+            "iscorrect": false
+          },
+          {
+            "definition": "症状；征兆",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

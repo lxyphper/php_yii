@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "lastname",
+      "lest name",
+      "lats name",
+      "last neme",
+      "last  name"
+    ],
+    "correct_chunks": [
+      "last ",
+      "name"
+    ],
+    "distractor_chunks": [
+      "lastname",
+      "lest ",
+      "neme",
+      "lats "
+    ]
+  },
+  0
+]

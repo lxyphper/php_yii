@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "complete",
+      "error_analysis": "中国学生易因形近词\"compete\"(竞争)混淆词义，或因词根\"plet-\"（填充）过度直译导致误判\"complete\"的核心动词义。",
+      "sentence": "She needs to **complete** her application form before the deadline.",
+      "options": {
+        "option": [
+          {
+            "definition": "完成（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "竞争（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "填充（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "检查（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

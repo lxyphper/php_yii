@@ -1,0 +1,28 @@
+[
+  {
+    "common_misspellings": [
+      "monny laundering",
+      "mony laundering",
+      "money launderring",
+      "money launderin",
+      "money lawndering",
+      "money lauderring"
+    ],
+    "correct_chunks": [
+      "mon",
+      "ey",
+      "laun",
+      "der",
+      "ing"
+    ],
+    "distractor_chunks": [
+      "monn",
+      "y",
+      "derr",
+      "derin",
+      "law",
+      "laud"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "militia",
+      "error_analysis": "学生易因形近词\"military\"（军队）混淆，将\"militia\"误判为\"军队\"或\"军事力量\"",
+      "sentence": "During the crisis, the local **militia** was called upon to help maintain order in the village.",
+      "options": {
+        "option": [
+          {
+            "definition": "民兵组织；民兵",
+            "iscorrect": true
+          },
+          {
+            "definition": "军队；军事力量",
+            "iscorrect": false
+          },
+          {
+            "definition": "军事训练；军务",
+            "iscorrect": false
+          },
+          {
+            "definition": "警察部队；治安机构",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

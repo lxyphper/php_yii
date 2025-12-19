@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "iron",
+      "error_analysis": "将“iron”（熨烫）误联想为形近词“icon”（图标）或误判为名词“铁”",
+      "sentence": "She needs to **iron** her pants before going to work.",
+      "options": {
+        "option": [
+          {
+            "definition": "熨烫（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "图标",
+            "iscorrect": false
+          },
+          {
+            "definition": "铁（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "愤怒的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

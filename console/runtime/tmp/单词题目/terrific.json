@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "terrific",
+      "error_analysis": "学生易因形近词\"terrible\"（可怕的）或词根\"terr-\"（恐惧）误导，将\"terrific\"误判为\"可怕的\"或\"引起恐惧的\"。",
+      "sentence": "The movie we watched last night was **terrific**—we laughed the whole time and couldn't stop talking about it afterwards.",
+      "options": {
+        "option": [
+          {
+            "definition": "极好的；非常棒的",
+            "iscorrect": true
+          },
+          {
+            "definition": "可怕的；糟糕的",
+            "iscorrect": false
+          },
+          {
+            "definition": "引起恐惧的；恐怖的",
+            "iscorrect": false
+          },
+          {
+            "definition": "非常大的；巨大的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

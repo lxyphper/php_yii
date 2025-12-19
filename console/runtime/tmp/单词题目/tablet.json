@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tablet",
+      "error_analysis": "学生易因形近词table（桌子）误将tablet理解为与桌子相关的物品（如小桌子、桌板）。",
+      "sentence": "She used her **tablet** to check her emails while waiting for the bus.",
+      "options": {
+        "option": [
+          {
+            "definition": "小桌子",
+            "iscorrect": false
+          },
+          {
+            "definition": "桌板",
+            "iscorrect": false
+          },
+          {
+            "definition": "药片",
+            "iscorrect": false
+          },
+          {
+            "definition": "平板电脑",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

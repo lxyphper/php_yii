@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "incinerator",
+      "error_analysis": "学生易因形近词\"indicator\"(指示器)混淆，或因词根猜测误以为是储灰容器。",
+      "sentence": "To reduce landfill waste, the city installed a new **incinerator** that burns trash at high temperatures to turn it into ash.",
+      "options": {
+        "option": [
+          {
+            "definition": "焚化炉；垃圾焚化炉",
+            "iscorrect": true
+          },
+          {
+            "definition": "指示器；指示仪",
+            "iscorrect": false
+          },
+          {
+            "definition": "灰桶；储灰容器",
+            "iscorrect": false
+          },
+          {
+            "definition": "发电机；发生器",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

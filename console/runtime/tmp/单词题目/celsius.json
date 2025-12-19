@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "celsius",
+      "error_analysis": "中国学生易因形近词“celery”（芹菜）或词根联想“cell”（细胞）误解“celsius”的词义",
+      "sentence": "The average temperature in Guangzhou in July is usually above 32 **celsius**.",
+      "options": {
+        "option": [
+          {
+            "definition": "芹菜",
+            "iscorrect": false
+          },
+          {
+            "definition": "细胞",
+            "iscorrect": false
+          },
+          {
+            "definition": "摄氏度（温度单位）",
+            "iscorrect": true
+          },
+          {
+            "definition": "温度表",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

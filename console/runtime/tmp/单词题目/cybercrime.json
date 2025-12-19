@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cybercrime",
+      "error_analysis": "学生易因“cyber”与“cycle”（循环）形近或对“cyber”词根理解错误，将“cybercrime”误判为“循环犯罪”或“城市犯罪”。",
+      "sentence": "The police have set up a special unit to combat **cybercrime**, such as hacking into bank accounts or stealing personal information online.",
+      "options": {
+        "option": [
+          {
+            "definition": "网络犯罪",
+            "iscorrect": true
+          },
+          {
+            "definition": "循环犯罪（如重复实施的盗窃）",
+            "iscorrect": false
+          },
+          {
+            "definition": "城市犯罪（如街头抢劫）",
+            "iscorrect": false
+          },
+          {
+            "definition": "传统犯罪（如盗窃现金）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

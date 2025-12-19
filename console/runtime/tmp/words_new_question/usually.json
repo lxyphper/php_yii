@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "usually",
+      "error_analysis": "混淆形近词\"usual\"(形容词，通常的)与\"usually\"(副词，通常地)的词性及含义",
+      "sentence": "She **usually** goes to school by bike.",
+      "options": {
+        "option": [
+          {
+            "definition": "通常地（副词，修饰动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "通常的（形容词，修饰名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "经常的（形容词，描述频率）",
+            "iscorrect": false
+          },
+          {
+            "definition": "习惯地（副词，强调习惯）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

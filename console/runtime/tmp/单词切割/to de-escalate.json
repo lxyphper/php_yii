@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "deescalate",
+      "deiscalate",
+      "deescolate",
+      "deecalate"
+    ],
+    "correct_chunks": [
+      "de-",
+      "es-",
+      "cal-",
+      "ate"
+    ],
+    "distractor_chunks": [
+      "dees-",
+      "is-",
+      "col-",
+      "e-"
+    ]
+  },
+  0
+]

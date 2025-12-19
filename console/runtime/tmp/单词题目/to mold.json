@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to mold",
+      "error_analysis": "学生易因名词“mold”（霉菌）误将动词“to mold”理解为“使发霉”，或因形近词“model”误判为“制作模型”。",
+      "sentence": "The coach believes it takes years to **mold** a young athlete into a champion.",
+      "options": {
+        "option": [
+          {
+            "definition": "塑造；培养",
+            "iscorrect": true
+          },
+          {
+            "definition": "使发霉",
+            "iscorrect": false
+          },
+          {
+            "definition": "制作模型",
+            "iscorrect": false
+          },
+          {
+            "definition": "熔化",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

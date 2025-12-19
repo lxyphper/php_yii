@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unmitigated",
+      "error_analysis": "根据词根un-+mitigate(减轻)错误推导为\"未减轻的\"，忽略其\"完全的、十足的(负面)\"的核心义",
+      "sentence": "The project turned out to be an **unmitigated** disaster—nothing went as planned, and we lost a lot of money.",
+      "options": {
+        "option": [
+          {
+            "definition": "完全的；十足的（尤指负面）",
+            "iscorrect": true
+          },
+          {
+            "definition": "未减轻的；未缓解的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无限的；无限制的",
+            "iscorrect": false
+          },
+          {
+            "definition": "未修改的；未调整的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "green screen",
+      "error_analysis": "学生易因字面直译将\"green screen\"理解为\"绿色的普通屏幕\"，忽略其\"影视后期合成用绿幕\"的专业含义",
+      "sentence": "In the movie studio, actors performed in front of a **green screen** so that the background could be replaced with a fantasy landscape during post-production.",
+      "options": {
+        "option": [
+          {
+            "definition": "（影视制作中用于后期合成的）绿幕",
+            "iscorrect": true
+          },
+          {
+            "definition": "绿色的普通电脑/电视屏幕",
+            "iscorrect": false
+          },
+          {
+            "definition": "环保型电子屏幕",
+            "iscorrect": false
+          },
+          {
+            "definition": "绿色的装饰性屏风",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

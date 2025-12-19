@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to tiptoe",
+      "error_analysis": "学生易因'tip'+'toe'的字面拆分误以为是'用脚趾尖端触碰'或'给脚趾小费'，或与'tiptop'混淆为'顶尖地走'。",
+      "sentence": "She **tiptoed** into the baby's room to avoid waking him up.",
+      "options": {
+        "option": [
+          {
+            "definition": "踮脚走；蹑手蹑脚地走",
+            "iscorrect": true
+          },
+          {
+            "definition": "用脚趾尖端触碰",
+            "iscorrect": false
+          },
+          {
+            "definition": "顶尖地走；走在最高处",
+            "iscorrect": false
+          },
+          {
+            "definition": "给脚趾小费",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "artist",
+      "error_analysis": "中国学生最易混淆“artist”（艺术家）与形近词“artisan”（工匠），或误将其泛化为“艺术爱好者”（词根“art”+“-ist”的过度推导）",
+      "sentence": "The museum is exhibiting paintings by a famous **artist** who specializes in abstract art.",
+      "options": {
+        "option": [
+          {
+            "definition": "艺术家（尤指绘画、雕塑等视觉艺术的创作者）",
+            "iscorrect": true
+          },
+          {
+            "definition": "工匠（擅长手工制作的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "艺术爱好者（喜欢艺术的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "表演艺人（如歌手、演员）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

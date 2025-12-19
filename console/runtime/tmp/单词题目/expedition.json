@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "expedition",
+      "error_analysis": "学生易因形近词\"expenditure\"（支出）或词根\"ped\"（脚）错误联想，将\"expedition\"误判为\"费用\"或\"步行\"。",
+      "sentence": "The team of archaeologists went on an **expedition** to the Amazon rainforest to search for ancient ruins.",
+      "options": {
+        "option": [
+          {
+            "definition": "探险队；远征；考察",
+            "iscorrect": true
+          },
+          {
+            "definition": "支出；费用",
+            "iscorrect": false
+          },
+          {
+            "definition": "步行；脚步",
+            "iscorrect": false
+          },
+          {
+            "definition": "期望；预期",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

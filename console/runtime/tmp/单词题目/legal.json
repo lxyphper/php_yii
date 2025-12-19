@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "legal",
+      "error_analysis": "中国学生易因形近词“league”（联盟）或词根“leg”（腿）误将“legal”理解为“联盟的”或“腿的”。",
+      "sentence": "It is **legal** to drive a car in most countries once you reach the age of 18.",
+      "options": {
+        "option": [
+          {
+            "definition": "合法的；法律的",
+            "iscorrect": true
+          },
+          {
+            "definition": "联盟的；联赛的",
+            "iscorrect": false
+          },
+          {
+            "definition": "腿的；行走的",
+            "iscorrect": false
+          },
+          {
+            "definition": "遗产的；遗留的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

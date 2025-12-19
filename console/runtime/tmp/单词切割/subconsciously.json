@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "subconciously",
+      "subconsiously",
+      "subconsciouslly",
+      "subcomsciously",
+      "sbuconsciously"
+    ],
+    "correct_chunks": [
+      "sub",
+      "con",
+      "scious",
+      "ly"
+    ],
+    "distractor_chunks": [
+      "concious",
+      "consious",
+      "lly",
+      "com",
+      "sbu"
+    ]
+  },
+  0
+]

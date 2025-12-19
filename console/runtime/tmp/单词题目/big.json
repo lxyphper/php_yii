@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "big",
+      "error_analysis": "中国学生易将“big”仅理解为字面“大的”（忽略“重要的”引申义），或因形近词“bag”（包）混淆词义。",
+      "sentence": "Today is a **big** day for Lisa—she's starting her new job.",
+      "options": {
+        "option": [
+          {
+            "definition": "重要的",
+            "iscorrect": true
+          },
+          {
+            "definition": "大的",
+            "iscorrect": false
+          },
+          {
+            "definition": "包",
+            "iscorrect": false
+          },
+          {
+            "definition": "猪",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

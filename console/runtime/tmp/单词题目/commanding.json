@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "commanding",
+      "error_analysis": "将\"commanding\"错误理解为\"命令的；指挥的\"（来自command的动词含义），或混淆形近词\"commenting\"（评论的）",
+      "sentence": "Her **commanding** voice made everyone in the room stop talking immediately.",
+      "options": {
+        "option": [
+          {
+            "definition": "威严的；有说服力的",
+            "iscorrect": true
+          },
+          {
+            "definition": "命令的；指挥的",
+            "iscorrect": false
+          },
+          {
+            "definition": "评论的；议论的",
+            "iscorrect": false
+          },
+          {
+            "definition": "控制的；支配的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

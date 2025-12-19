@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "highpitched",
+      "high-pichied",
+      "high-pitchedd",
+      "high-petched"
+    ],
+    "correct_chunks": [
+      "high",
+      "pitch",
+      "-ed"
+    ],
+    "distractor_chunks": [
+      "highp",
+      "pich",
+      "ied",
+      "dd",
+      "petch"
+    ]
+  },
+  0
+]

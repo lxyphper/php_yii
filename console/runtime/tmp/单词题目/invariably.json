@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "invariably",
+      "error_analysis": "学生可能根据词根“vary”（变化）和前缀“in-”（不）错误推导为“不变化地”，或因形近词“invaluable”（无价的）误判为“无价地”，忽略其副词常用义“总是”。",
+      "sentence": "My grandmother **invariably** bakes chocolate chip cookies for me every time I visit her on weekends.",
+      "options": {
+        "option": [
+          {
+            "definition": "总是；不变地",
+            "iscorrect": true
+          },
+          {
+            "definition": "不变化地",
+            "iscorrect": false
+          },
+          {
+            "definition": "无价地",
+            "iscorrect": false
+          },
+          {
+            "definition": "不可避免地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

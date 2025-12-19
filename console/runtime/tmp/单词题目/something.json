@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "something",
+      "error_analysis": "学生易将\"something\"（单数，某物）误理解为\"一些东西\"（复数，some things）或混淆为指人的\"某人\"（someone）",
+      "sentence": "There's **something** on the table that looks like a book.",
+      "options": {
+        "option": [
+          {
+            "definition": "某物；某事",
+            "iscorrect": true
+          },
+          {
+            "definition": "一些东西",
+            "iscorrect": false
+          },
+          {
+            "definition": "某人",
+            "iscorrect": false
+          },
+          {
+            "definition": "任何东西",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

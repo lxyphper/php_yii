@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "birth",
+      "error_analysis": "形近词\"bird\"（鸟）的干扰，或混淆\"birth\"与\"birthday\"（生日）的含义。",
+      "sentence": "Her **birth** was celebrated with a big party by her family.",
+      "options": {
+        "option": [
+          {
+            "definition": "出生；诞生",
+            "iscorrect": true
+          },
+          {
+            "definition": "鸟",
+            "iscorrect": false
+          },
+          {
+            "definition": "生日",
+            "iscorrect": false
+          },
+          {
+            "definition": "开始",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

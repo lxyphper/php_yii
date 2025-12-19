@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to admire",
+      "error_analysis": "易与形近词‘admit’（承认）混淆，或因词根‘mir’（惊奇）错误理解为‘使惊奇’。",
+      "sentence": "Many people **admire** her for her courage and kindness.",
+      "options": {
+        "option": [
+          {
+            "definition": "钦佩；羡慕",
+            "iscorrect": true
+          },
+          {
+            "definition": "承认",
+            "iscorrect": false
+          },
+          {
+            "definition": "使惊奇",
+            "iscorrect": false
+          },
+          {
+            "definition": "购买",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

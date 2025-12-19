@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "extensive",
+      "error_analysis": "学生易因形近词\"expensive\"混淆为\"昂贵的\"，或因词根\"extens-\"（伸展）误判为\"延伸的\"。",
+      "sentence": "The museum has an **extensive** collection of ancient artifacts from around the world.",
+      "options": {
+        "option": [
+          {
+            "definition": "昂贵的；高价的",
+            "iscorrect": false
+          },
+          {
+            "definition": "广泛的；大量的",
+            "iscorrect": true
+          },
+          {
+            "definition": "延伸的；延长的",
+            "iscorrect": false
+          },
+          {
+            "definition": "紧张的；密集的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

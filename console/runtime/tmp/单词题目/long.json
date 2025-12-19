@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "long",
+      "error_analysis": "学生易将动词“long”（渴望）误判为形近词“lone”（孤独的）或形容词“长的”的动词化误用",
+      "sentence": "Since childhood, she has **longed** for a chance to live in a house with a big garden.",
+      "options": {
+        "option": [
+          {
+            "definition": "渴望（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "孤独的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "长的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "等待（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

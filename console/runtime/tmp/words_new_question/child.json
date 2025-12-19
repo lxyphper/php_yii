@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "child",
+      "error_analysis": "学生易将形近词“chill”（寒冷/放松）或“chick”（小鸡）与“child”混淆，导致误判核心词义。",
+      "sentence": "The **child** in the red coat is building a sandcastle by the sea.",
+      "options": {
+        "option": [
+          {
+            "definition": "孩子",
+            "iscorrect": true
+          },
+          {
+            "definition": "寒冷",
+            "iscorrect": false
+          },
+          {
+            "definition": "小鸡",
+            "iscorrect": false
+          },
+          {
+            "definition": "放松",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

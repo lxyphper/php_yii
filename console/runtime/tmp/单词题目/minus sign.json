@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "minus sign",
+      "error_analysis": "学生易因minus与minute形近混淆为“分钟符号”，或因sign理解为“迹象”误判为“减少的迹象”",
+      "sentence": "In the equation 5 - 3 = 2, the **minus sign** indicates the operation of subtraction.",
+      "options": {
+        "option": [
+          {
+            "definition": "减号",
+            "iscorrect": true
+          },
+          {
+            "definition": "分钟符号",
+            "iscorrect": false
+          },
+          {
+            "definition": "减少的迹象",
+            "iscorrect": false
+          },
+          {
+            "definition": "缺失的标志",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

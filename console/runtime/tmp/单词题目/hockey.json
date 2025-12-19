@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hockey",
+      "error_analysis": "学生易因形近“honey”（蜂蜜）或“hock”（脚踝）而误以为“hockey”是蜂蜜零食或脚踝相关运动",
+      "sentence": "The boys are excited to play **hockey** on the frozen lake with their new sticks and a puck.",
+      "options": {
+        "option": [
+          {
+            "definition": "曲棍球",
+            "iscorrect": true
+          },
+          {
+            "definition": "蜂蜜制成的零食",
+            "iscorrect": false
+          },
+          {
+            "definition": "脚踝相关的运动（如足球）",
+            "iscorrect": false
+          },
+          {
+            "definition": "冰上的舞蹈项目",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

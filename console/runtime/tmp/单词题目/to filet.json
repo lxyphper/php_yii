@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to filet",
+      "error_analysis": "学生易将“to filet”（切肉片/去骨）与形近词“file”（归档）混淆，或因词根（法语“filet”意为“线”）误导为“用线系住”。",
+      "sentence": "The chef instructed the apprentice to **filet** the fish carefully to remove all bones.",
+      "options": {
+        "option": [
+          {
+            "definition": "把（鱼、肉）切成片；去骨切片",
+            "iscorrect": true
+          },
+          {
+            "definition": "归档；整理文件",
+            "iscorrect": false
+          },
+          {
+            "definition": "用线系住",
+            "iscorrect": false
+          },
+          {
+            "definition": "用文件记录",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

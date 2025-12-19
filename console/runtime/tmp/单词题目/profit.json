@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "profit",
+      "error_analysis": "学生易因形近词“prophet”（先知）的拼写与发音混淆“profit”词义，或误将其名词义泛化为“好处”（而非具体经济利润）。",
+      "sentence": "The local bakery made a good **profit** last month by selling holiday cakes.",
+      "options": {
+        "option": [
+          {
+            "definition": "利润（经济上的收益）",
+            "iscorrect": true
+          },
+          {
+            "definition": "先知",
+            "iscorrect": false
+          },
+          {
+            "definition": "好处",
+            "iscorrect": false
+          },
+          {
+            "definition": "项目",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "CT scan",
+      "error_analysis": "学生易因\"CT\"形近\"IT\"或\"scan\"字面义，将\"CT scan\"误解为非医学的\"电脑扫描\"或\"CT（拼音）测试\"",
+      "sentence": "After the accident, the doctor recommended a **CT scan** to check for any internal injuries.",
+      "options": {
+        "option": [
+          {
+            "definition": "计算机断层扫描（一种用于检查内部器官或组织的医学影像技术）",
+            "iscorrect": true
+          },
+          {
+            "definition": "电脑文件或图片的电子扫描（如文档、照片的数字化处理）",
+            "iscorrect": false
+          },
+          {
+            "definition": "CT（中文拼音，如\"测试\"）的常规检查（如课堂小测或体能测试）",
+            "iscorrect": false
+          },
+          {
+            "definition": "信息技术（IT）系统的安全扫描（如病毒或漏洞检测）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

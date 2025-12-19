@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to divide",
+      "error_analysis": "将“divide”误判为形近词“decide”（决定），或窄化理解为“分成两部分”",
+      "sentence": "The teacher asked us to **divide** the class into four groups for the project.",
+      "options": {
+        "option": [
+          {
+            "definition": "决定",
+            "iscorrect": false
+          },
+          {
+            "definition": "分开；划分",
+            "iscorrect": true
+          },
+          {
+            "definition": "分成两部分",
+            "iscorrect": false
+          },
+          {
+            "definition": "设备",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "defense mechanism",
+      "error_analysis": "学生易将\"mechanism\"误联想为形近词\"machine\"(机器)或根据其\"机械的\"词根直译,导致理解为\"防御机器\"或\"防御机械装置\"",
+      "sentence": "When faced with criticism, some people use humor as a **defense mechanism** to avoid feeling hurt.",
+      "options": {
+        "option": [
+          {
+            "definition": "（心理学中的）防御机制",
+            "iscorrect": true
+          },
+          {
+            "definition": "防御机器",
+            "iscorrect": false
+          },
+          {
+            "definition": "防御机械装置",
+            "iscorrect": false
+          },
+          {
+            "definition": "防御策略",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

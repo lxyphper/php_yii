@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to [cross] {one's} fingers",
+      "error_analysis": "将“cross one's fingers”直译为“交叉手指”（字面意思），忽略其“祈求好运”的引申义，或误与“slip through one's fingers”（让某事从指缝溜走）混淆。",
+      "sentence": "I'm **crossing my fingers** that I'll get the job offer tomorrow.",
+      "options": {
+        "option": [
+          {
+            "definition": "祈求好运",
+            "iscorrect": true
+          },
+          {
+            "definition": "交叉手指",
+            "iscorrect": false
+          },
+          {
+            "definition": "让某事从指缝溜走",
+            "iscorrect": false
+          },
+          {
+            "definition": "用手指比划十字",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "thin",
+      "error_analysis": "学生易因形近词“think”（想）、“tin”（罐头）产生混淆，误将“thin”理解为思考或罐头。",
+      "sentence": "The ice on the lake is too **thin** to walk on.",
+      "options": {
+        "option": [
+          {
+            "definition": "薄的；瘦的",
+            "iscorrect": true
+          },
+          {
+            "definition": "想；思考",
+            "iscorrect": false
+          },
+          {
+            "definition": "罐头；锡",
+            "iscorrect": false
+          },
+          {
+            "definition": "比；比较",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

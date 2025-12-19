@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "acrylic",
+      "error_analysis": "学生易因形近词“acquire”（获得）误将“acrylic”理解为“获得的”，或因词根“ac-”（如“acid”酸性）误判为“酸性的”。",
+      "sentence": "She prefers painting with **acrylic** paints because they dry quickly and are easy to clean.",
+      "options": {
+        "option": [
+          {
+            "definition": "获得的；获取的",
+            "iscorrect": false
+          },
+          {
+            "definition": "酸性的；有酸味的",
+            "iscorrect": false
+          },
+          {
+            "definition": "丙烯酸（类）的；丙烯酸树脂的",
+            "iscorrect": true
+          },
+          {
+            "definition": "透明的；清澈的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

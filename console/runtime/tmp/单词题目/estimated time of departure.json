@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "estimated time of departure",
+      "error_analysis": "将\"departure\"误判为形近词\"department\"（部门）导致理解偏差，或对\"estimated\"（估计的）词义把握不精准",
+      "sentence": "The flight attendant announced that the **estimated time of departure** for Flight CA123 has been delayed by two hours due to bad weather.",
+      "options": {
+        "option": [
+          {
+            "definition": "预计出发时间",
+            "iscorrect": true
+          },
+          {
+            "definition": "预计部门时间",
+            "iscorrect": false
+          },
+          {
+            "definition": "确定的出发时间",
+            "iscorrect": false
+          },
+          {
+            "definition": "估计的到达时间",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

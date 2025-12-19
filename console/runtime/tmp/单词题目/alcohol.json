@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "alcohol",
+      "error_analysis": "学生易因形近词\"alcoholic\"（酒鬼）的干扰将\"alcohol\"误理解为\"酗酒者\"，或因混淆\"酒精\"与\"含酒精饮料\"而选错误选项。",
+      "sentence": "This hand sanitizer contains 70% **alcohol**, which kills most germs.",
+      "options": {
+        "option": [
+          {
+            "definition": "酒精",
+            "iscorrect": true
+          },
+          {
+            "definition": "酗酒者",
+            "iscorrect": false
+          },
+          {
+            "definition": "酒（如啤酒、白酒）",
+            "iscorrect": false
+          },
+          {
+            "definition": "碱",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

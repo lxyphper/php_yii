@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "thickness",
+      "error_analysis": "学生易因形近词“thinness”（薄）的干扰或对“thick”（茂密）的过度推导，将“thickness”误判为“薄的程度”或“茂密程度”",
+      "sentence": "The **thickness** of the ice on the lake is about 10 centimeters.",
+      "options": {
+        "option": [
+          {
+            "definition": "厚度（物体上下表面间的距离）",
+            "iscorrect": true
+          },
+          {
+            "definition": "薄的程度（如纸张或布料的轻薄感）",
+            "iscorrect": false
+          },
+          {
+            "definition": "茂密程度（如森林或毛发的密集度）",
+            "iscorrect": false
+          },
+          {
+            "definition": "长度（物体从一端到另一端的距离）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

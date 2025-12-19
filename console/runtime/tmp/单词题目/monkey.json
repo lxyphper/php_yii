@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "monkey",
+      "error_analysis": "中国学生易因形近词“monk”（和尚）产生对“monkey”的错误理解",
+      "sentence": "The little kid laughed as the **monkey** swung from tree to tree in the zoo.",
+      "options": {
+        "option": [
+          {
+            "definition": "猴子",
+            "iscorrect": true
+          },
+          {
+            "definition": "和尚",
+            "iscorrect": false
+          },
+          {
+            "definition": "驴",
+            "iscorrect": false
+          },
+          {
+            "definition": "金钱",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

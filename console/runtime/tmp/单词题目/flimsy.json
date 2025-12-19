@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "flimsy",
+      "error_analysis": "中国学生易因形近词“film”（电影、薄膜）错误联想“flimsy”为“与电影相关的”或“薄的”，忽略其“脆弱的、不结实的”核心含义。",
+      "sentence": "The old chair looked nice, but it was so **flimsy** that it broke when I sat on it.",
+      "options": {
+        "option": [
+          {
+            "definition": "与电影相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "薄的；纤细的",
+            "iscorrect": false
+          },
+          {
+            "definition": "模糊的；不清楚的",
+            "iscorrect": false
+          },
+          {
+            "definition": "脆弱的；不结实的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

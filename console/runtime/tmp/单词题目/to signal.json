@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to signal",
+      "error_analysis": "学生易将“to signal”与形近词“sign”（签名；标记）混淆，误理解为“签名”或“做标记”。",
+      "sentence": "At the restaurant, she **signaled** the waiter to bring the menu.",
+      "options": {
+        "option": [
+          {
+            "definition": "发信号；示意",
+            "iscorrect": true
+          },
+          {
+            "definition": "签名；签署",
+            "iscorrect": false
+          },
+          {
+            "definition": "做标记；标注",
+            "iscorrect": false
+          },
+          {
+            "definition": "象征；代表",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

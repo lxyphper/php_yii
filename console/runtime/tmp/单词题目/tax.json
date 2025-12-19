@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tax",
+      "error_analysis": "中国学生易因形近词“task”（任务）混淆“tax”（税），或因词根“taxare”（评估）错误推导词义。",
+      "sentence": "Many people complain about the high **tax** on housing in big cities.",
+      "options": {
+        "option": [
+          {
+            "definition": "税",
+            "iscorrect": true
+          },
+          {
+            "definition": "任务",
+            "iscorrect": false
+          },
+          {
+            "definition": "评估",
+            "iscorrect": false
+          },
+          {
+            "definition": "负担",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

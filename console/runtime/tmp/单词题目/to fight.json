@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to fight",
+      "error_analysis": "易因形近词\"flight\"(飞行)混淆，或误将\"fight\"与\"fill\"(填充)联系导致理解错误",
+      "sentence": "The villagers decided to **fight** against the construction of a polluting factory near their homes.",
+      "options": {
+        "option": [
+          {
+            "definition": "战斗；抗争",
+            "iscorrect": true
+          },
+          {
+            "definition": "飞行；乘坐航班",
+            "iscorrect": false
+          },
+          {
+            "definition": "填充；装满",
+            "iscorrect": false
+          },
+          {
+            "definition": "害怕；恐惧",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

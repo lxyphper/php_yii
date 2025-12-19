@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "the country",
+      "error_analysis": "学生容易将“the country”误解为“那个国家”（混淆“country”的“国家”义项与“the country”表“乡村”的固定搭配义）",
+      "sentence": "After living in the city for years, she decided to move to **the country** to enjoy a quieter life with more fresh air.",
+      "options": {
+        "option": [
+          {
+            "definition": "乡村；农村",
+            "iscorrect": true
+          },
+          {
+            "definition": "那个国家",
+            "iscorrect": false
+          },
+          {
+            "definition": "那个郡；那个县",
+            "iscorrect": false
+          },
+          {
+            "definition": "那个城镇",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

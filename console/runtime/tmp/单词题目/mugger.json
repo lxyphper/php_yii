@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mugger",
+      "error_analysis": "将'mugger'误判为与'杯子'相关的人（如制杯者），因形近词'mug'（杯子）和词根'-er'的误导",
+      "sentence": "The police caught the **mugger** who had been robbing people of their wallets in the downtown area.",
+      "options": {
+        "option": [
+          {
+            "definition": "制杯工人",
+            "iscorrect": false
+          },
+          {
+            "definition": "咖啡师",
+            "iscorrect": false
+          },
+          {
+            "definition": "拦路抢劫犯",
+            "iscorrect": true
+          },
+          {
+            "definition": "卖杯子的人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

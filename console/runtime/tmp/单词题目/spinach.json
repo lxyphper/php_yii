@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "spinach",
+      "error_analysis": "学生易因形近词\"spice\"(香料)混淆,或因词根\"spin\"(旋转)错误联想为\"旋转的蔬菜\"",
+      "sentence": "My mom always adds a handful of **spinach** to our salad for extra vitamins.",
+      "options": {
+        "option": [
+          {
+            "definition": "香料",
+            "iscorrect": false
+          },
+          {
+            "definition": "菠菜",
+            "iscorrect": true
+          },
+          {
+            "definition": "旋转的蔬菜",
+            "iscorrect": false
+          },
+          {
+            "definition": "卷心菜",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

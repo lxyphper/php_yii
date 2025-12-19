@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to reduce",
+      "error_analysis": "易因形近词（如produce/introduce）混淆或词根“re-+duce”字面误导（如返回）而错误理解",
+      "sentence": "The company decided to **reduce** the number of employees to cut costs.",
+      "options": {
+        "option": [
+          {
+            "definition": "减少；降低",
+            "iscorrect": true
+          },
+          {
+            "definition": "生产；制造",
+            "iscorrect": false
+          },
+          {
+            "definition": "返回；撤回",
+            "iscorrect": false
+          },
+          {
+            "definition": "介绍；引入",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

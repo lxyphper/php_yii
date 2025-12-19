@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to camouflage",
+      "error_analysis": "学生易因形近词“camp”（营地）误将“to camouflage”理解为“露营”，或因词根拆分（如“cam”联想到“camera”）误判为“拍摄”。",
+      "sentence": "The soldiers used branches and leaves to **camouflage** their positions so the enemy couldn’t see them.",
+      "options": {
+        "option": [
+          {
+            "definition": "伪装（通过改变外观使不被发现）",
+            "iscorrect": true
+          },
+          {
+            "definition": "露营（搭建营地）",
+            "iscorrect": false
+          },
+          {
+            "definition": "用相机拍摄",
+            "iscorrect": false
+          },
+          {
+            "definition": "用旗帜装饰",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

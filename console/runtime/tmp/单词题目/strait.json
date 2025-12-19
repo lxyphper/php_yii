@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "strait",
+      "error_analysis": "混淆形近词\"straight\"(直的)与\"strait\"(海峡)的含义",
+      "sentence": "The ship sailed through the narrow **strait** between the two islands to reach the open sea.",
+      "options": {
+        "option": [
+          {
+            "definition": "海峡",
+            "iscorrect": true
+          },
+          {
+            "definition": "直的；直接的",
+            "iscorrect": false
+          },
+          {
+            "definition": "街道",
+            "iscorrect": false
+          },
+          {
+            "definition": "严格的；严厉的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

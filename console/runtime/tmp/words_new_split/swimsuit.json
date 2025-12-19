@@ -1,0 +1,21 @@
+[
+  {
+    "common_misspellings": [
+      "swim suit",
+      "swimmsuit",
+      "swimsut",
+      "swimsiut"
+    ],
+    "correct_chunks": [
+      "swim",
+      "suit"
+    ],
+    "distractor_chunks": [
+      "swim ",
+      "swimm",
+      "sut",
+      "siut"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "race",
+      "error_analysis": "学生易因形近词“rice”（米饭）产生错误联想，或混淆“race”的“比赛”与“种族”含义",
+      "sentence": "She won the 100-meter **race** at the school sports day.",
+      "options": {
+        "option": [
+          {
+            "definition": "比赛",
+            "iscorrect": true
+          },
+          {
+            "definition": "米饭",
+            "iscorrect": false
+          },
+          {
+            "definition": "种族",
+            "iscorrect": false
+          },
+          {
+            "definition": "提高",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

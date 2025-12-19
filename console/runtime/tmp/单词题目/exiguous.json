@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "exiguous",
+      "error_analysis": "学生易因形近词“ambiguous”（模糊的）、“exhaust”（耗尽的）混淆，将“exiguous”误解为“模糊的”或“疲惫的”",
+      "sentence": "The company's budget for research and development was **exiguous**, limiting their ability to launch new products.",
+      "options": {
+        "option": [
+          {
+            "definition": "模糊的；不明确的",
+            "iscorrect": false
+          },
+          {
+            "definition": "耗尽的；疲惫的",
+            "iscorrect": false
+          },
+          {
+            "definition": "精确的；准确的",
+            "iscorrect": false
+          },
+          {
+            "definition": "稀少的；少量的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

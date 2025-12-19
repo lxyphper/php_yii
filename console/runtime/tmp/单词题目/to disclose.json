@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to disclose",
+      "error_analysis": "学生易因形近词\"discover\"（发现）或词根\"dis-+close\"（关闭的反义）误将其理解为\"发现\"或\"打开\"。",
+      "sentence": "The company was forced to **disclose** the truth about its product safety issues after the investigation.",
+      "options": {
+        "option": [
+          {
+            "definition": "揭露，透露（秘密或之前未公开的信息）",
+            "iscorrect": true
+          },
+          {
+            "definition": "发现（新的或未知的事物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "打开（关闭的门、窗等物品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "处理（问题或废弃的物品）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

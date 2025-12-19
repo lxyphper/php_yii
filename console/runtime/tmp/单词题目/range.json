@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "range",
+      "error_analysis": "中国学生易将\"range\"与形近词\"rank\"（排名）、\"rage\"（愤怒）混淆，或误将其动词义\"排列\"当作名词核心义。",
+      "sentence": "The hotel offers a wide **range** of services, including free Wi-Fi and airport shuttle.",
+      "options": {
+        "option": [
+          {
+            "definition": "范围；一系列",
+            "iscorrect": true
+          },
+          {
+            "definition": "排名；等级",
+            "iscorrect": false
+          },
+          {
+            "definition": "愤怒；狂怒",
+            "iscorrect": false
+          },
+          {
+            "definition": "排列；整理",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

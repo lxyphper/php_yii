@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tracklist",
+      "error_analysis": "学生易因'track'的'轨道'义误导，将'tracklist'错误理解为'轨道列表'，忽略其'曲目列表'的核心词义。",
+      "sentence": "The new album's **tracklist** includes 12 songs, with the hit single as the opening track.",
+      "options": {
+        "option": [
+          {
+            "definition": "（专辑或单曲的）曲目列表",
+            "iscorrect": true
+          },
+          {
+            "definition": "轨道列表",
+            "iscorrect": false
+          },
+          {
+            "definition": "追踪器清单",
+            "iscorrect": false
+          },
+          {
+            "definition": "播放列表",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

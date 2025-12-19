@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "union",
+      "error_analysis": "中国学生易因形近词“unit”（单位）干扰，将“union”误判为“单位”，或因“uni-”词根误导为“统一”。",
+      "sentence": "The workers decided to form a **union** to protect their rights and negotiate better working conditions.",
+      "options": {
+        "option": [
+          {
+            "definition": "联合；联盟",
+            "iscorrect": true
+          },
+          {
+            "definition": "单位；单元",
+            "iscorrect": false
+          },
+          {
+            "definition": "统一；一致性",
+            "iscorrect": false
+          },
+          {
+            "definition": "个体；单独的事物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

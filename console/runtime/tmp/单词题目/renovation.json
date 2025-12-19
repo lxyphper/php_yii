@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "renovation",
+      "error_analysis": "易因形近词\"innovation\"(创新)及词根\"re-+nov\"(再次+新)的误导，将\"renovation\"误判为\"创新\"或\"再次创造\"。",
+      "sentence": "The old library underwent a major **renovation** last year—now it has new floors, windows, and a bright children's section.",
+      "options": {
+        "option": [
+          {
+            "definition": "创新；革新",
+            "iscorrect": false
+          },
+          {
+            "definition": "翻新；修复（尤指建筑物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "再次创造；全新设计",
+            "iscorrect": false
+          },
+          {
+            "definition": "装饰；装潢",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

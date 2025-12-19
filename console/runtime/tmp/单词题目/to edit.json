@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to edit",
+      "error_analysis": "学生易因形近词“exit”（退出）或词根“edere”（出版）误将“edit”理解为“退出”或“出版”。",
+      "sentence": "Before submitting the essay to the teacher, she spent an hour to **edit** it for clarity and grammar.",
+      "options": {
+        "option": [
+          {
+            "definition": "编辑；校订",
+            "iscorrect": true
+          },
+          {
+            "definition": "退出；离开",
+            "iscorrect": false
+          },
+          {
+            "definition": "出版；发行",
+            "iscorrect": false
+          },
+          {
+            "definition": "挖掘；发掘",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "native",
+      "error_analysis": "学生易因形近词“nature”（自然）误解为“自然的”，或因词根“nat-”（出生）过度推导为“出生的”。",
+      "sentence": "English is not my **native** language; I learned it when I was 10.",
+      "options": {
+        "option": [
+          {
+            "definition": "本土的；母语的",
+            "iscorrect": true
+          },
+          {
+            "definition": "自然的；天生的",
+            "iscorrect": false
+          },
+          {
+            "definition": "出生的；新生的",
+            "iscorrect": false
+          },
+          {
+            "definition": "原始的；未开化的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

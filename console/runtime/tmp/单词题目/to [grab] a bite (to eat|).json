@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to [grab] a bite (to eat|)",
+      "error_analysis": "学生易将\"grab a bite\"直译为\"抓住一口\"，误解为\"抢一口吃的\"，忽略其\"快速吃点东西\"的引申义。",
+      "sentence": "I’m running late for the meeting—let’s **grab a bite** at the café downstairs before we go.",
+      "options": {
+        "option": [
+          {
+            "definition": "快速吃点东西",
+            "iscorrect": true
+          },
+          {
+            "definition": "抢一口吃的（强调抢夺行为）",
+            "iscorrect": false
+          },
+          {
+            "definition": "咬一口食物（强调咬的动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "抓住一口吃的（强调抓住的动作）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

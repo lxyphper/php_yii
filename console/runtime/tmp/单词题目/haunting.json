@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "haunting",
+      "error_analysis": "学生易因形近词“hunting”（打猎）误解为“打猎的”，或因词根“haunt”（常去）误导为“常去的”，忽略其“令人难忘的”核心形容词义。",
+      "sentence": "The **haunting** melody from the old movie stayed with me long after I finished watching it.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人难忘的；萦绕心头的",
+            "iscorrect": true
+          },
+          {
+            "definition": "打猎的；寻找的",
+            "iscorrect": false
+          },
+          {
+            "definition": "常去的；频繁光顾的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可怕的；吓人的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

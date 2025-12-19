@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to move out",
+      "error_analysis": "学生易因“move”（移动）和“out”（出去）的字面义，将“to move out”误理解为“移出某物”或“出去”，而非“搬离住所”。",
+      "sentence": "Sarah told me she's **moving out** of her parents' house next month to start college.",
+      "options": {
+        "option": [
+          {
+            "definition": "搬离住所（从居住的地方离开）",
+            "iscorrect": true
+          },
+          {
+            "definition": "移出某物（从容器或空间中取出）",
+            "iscorrect": false
+          },
+          {
+            "definition": "出去（如参加社交活动或离开当前位置）",
+            "iscorrect": false
+          },
+          {
+            "definition": "继续前进（从某事中恢复或继续进行）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

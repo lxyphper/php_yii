@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "byte",
+      "error_analysis": "学生易因形近词“bite”（咬）产生错误联想，或对计算机术语不熟悉而误判其含义",
+      "sentence": "The average photo from this phone is about 2 megabytes, so it uses 2 million **bytes** of storage.",
+      "options": {
+        "option": [
+          {
+            "definition": "咬；叮咬",
+            "iscorrect": false
+          },
+          {
+            "definition": "字节（计算机存储单位）",
+            "iscorrect": true
+          },
+          {
+            "definition": "通过；凭借",
+            "iscorrect": false
+          },
+          {
+            "definition": "小工具；装置",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

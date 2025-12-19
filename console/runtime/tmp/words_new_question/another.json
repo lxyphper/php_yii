@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "another",
+      "error_analysis": "学生常将\"another\"误理解为可修饰复数名词的\"其他的\"，混淆其与\"other\"的单复数用法",
+      "sentence": "I ate one apple, and then I wanted **another** one because it was so sweet.",
+      "options": {
+        "option": [
+          {
+            "definition": "又一个；再一个（用于单数可数名词前）",
+            "iscorrect": true
+          },
+          {
+            "definition": "其他的（用于复数名词前）",
+            "iscorrect": false
+          },
+          {
+            "definition": "两者中的另一个",
+            "iscorrect": false
+          },
+          {
+            "definition": "别的东西（复数）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

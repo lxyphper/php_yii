@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ineffective",
+      "error_analysis": "易因形近词“infective”（传染性的）或词根联想混淆为“低效的”（inefficient），误判核心义“无效的”。",
+      "sentence": "The medicine proved **ineffective** against the stubborn cough, so the doctor prescribed a stronger one.",
+      "options": {
+        "option": [
+          {
+            "definition": "无效的；不起作用的",
+            "iscorrect": true
+          },
+          {
+            "definition": "传染性的；感染的",
+            "iscorrect": false
+          },
+          {
+            "definition": "低效的；效率低的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无影响的；不重要的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

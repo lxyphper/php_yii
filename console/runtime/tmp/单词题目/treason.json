@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "treason",
+      "error_analysis": "学生易因形近词“treasure”（宝藏）或“reason”（原因）的干扰，将“treason”误判为“宝藏”或“原因”。",
+      "sentence": "The king accused his advisor of **treason** after discovering he had been sharing state secrets with the enemy.",
+      "options": {
+        "option": [
+          {
+            "definition": "叛国罪；背叛",
+            "iscorrect": true
+          },
+          {
+            "definition": "宝藏；珍宝",
+            "iscorrect": false
+          },
+          {
+            "definition": "原因；理由",
+            "iscorrect": false
+          },
+          {
+            "definition": "治疗；对待",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

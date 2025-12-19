@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to reign",
+      "error_analysis": "核心易错点为形近词“rein”（控制，约束）和“rain”（雨）的干扰，学生易因拼写/发音接近混淆“to reign”（统治）的词义。",
+      "sentence": "Queen Victoria **reigned** over the British Empire for 63 years, making her one of the longest-ruling monarchs in history.",
+      "options": {
+        "option": [
+          {
+            "definition": "统治（君主统治国家）",
+            "iscorrect": true
+          },
+          {
+            "definition": "控制；约束",
+            "iscorrect": false
+          },
+          {
+            "definition": "下雨",
+            "iscorrect": false
+          },
+          {
+            "definition": "领导（国家）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

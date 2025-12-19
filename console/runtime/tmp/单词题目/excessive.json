@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "excessive",
+      "error_analysis": "易混淆形近词\"exciting\"(令人兴奋的)，或因词根\"ex-\"(出)和\"cess\"(走)误判为\"外出的\"",
+      "sentence": "The restaurant charges **excessive** prices for a simple bowl of noodles.",
+      "options": {
+        "option": [
+          {
+            "definition": "过度的；过多的",
+            "iscorrect": true
+          },
+          {
+            "definition": "令人兴奋的",
+            "iscorrect": false
+          },
+          {
+            "definition": "外出的；移动的",
+            "iscorrect": false
+          },
+          {
+            "definition": "额外的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

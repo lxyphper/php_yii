@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to conceptualize",
+      "error_analysis": "易因形近词\"contextualize\"(语境化)混淆，或因词根\"concept\"误导而误认为\"解释概念\"。",
+      "sentence": "Before starting the project, the team needs to **conceptualize** the main goals to avoid confusion later.",
+      "options": {
+        "option": [
+          {
+            "definition": "将...概念化；形成...的概念",
+            "iscorrect": true
+          },
+          {
+            "definition": "使...语境化",
+            "iscorrect": false
+          },
+          {
+            "definition": "解释...的概念",
+            "iscorrect": false
+          },
+          {
+            "definition": "实现...的概念",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

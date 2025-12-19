@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "immediate",
+      "error_analysis": "学生易因形近词“immense”（巨大的）或词根“im-”（不）+“mediate”（中间）错误推导为“遥远的”，而误解“immediate”的核心词义。",
+      "sentence": "The doctor emphasized that the injured child required **immediate** medical attention to prevent further harm.",
+      "options": {
+        "option": [
+          {
+            "definition": "立即的；紧迫的",
+            "iscorrect": true
+          },
+          {
+            "definition": "巨大的",
+            "iscorrect": false
+          },
+          {
+            "definition": "遥远的",
+            "iscorrect": false
+          },
+          {
+            "definition": "调解的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

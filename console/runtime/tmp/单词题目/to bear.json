@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to bear",
+      "error_analysis": "学生易混淆形近词“bare”（暴露）或误将动词“to bear”与名词“熊”的含义关联",
+      "sentence": "After the accident, he had to **bear** the pain of losing his leg for the rest of his life.",
+      "options": {
+        "option": [
+          {
+            "definition": "忍受；承受",
+            "iscorrect": true
+          },
+          {
+            "definition": "暴露；裸露",
+            "iscorrect": false
+          },
+          {
+            "definition": "熊（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "携带；运送",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

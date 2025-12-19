@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "baking",
+      "error_analysis": "中国学生易混淆形近词（如biking/backing）或误将baking理解为烘烤工具而非活动/食品。",
+      "sentence": "My mom loves doing some **baking** on weekends—she makes cookies and cakes for us.",
+      "options": {
+        "option": [
+          {
+            "definition": "烘烤的活动或所做的食品（如饼干、蛋糕等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "骑自行车的活动（biking的含义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "支持或帮助（backing的含义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "烘烤用的工具（如烤箱等）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "salad",
+      "error_analysis": "学生易因形近词\"sand\"（沙子）或词根\"sal\"（盐）误将\"salad\"理解为\"沙子\"或\"盐渍食品\"。",
+      "sentence": "For lunch, I had a fresh **salad** with lettuce, tomatoes, and a light vinaigrette.",
+      "options": {
+        "option": [
+          {
+            "definition": "沙子",
+            "iscorrect": false
+          },
+          {
+            "definition": "盐渍食品",
+            "iscorrect": false
+          },
+          {
+            "definition": "酱汁",
+            "iscorrect": false
+          },
+          {
+            "definition": "沙拉（由生蔬菜、水果等加沙拉酱拌成的凉拌菜）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

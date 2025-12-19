@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "turn",
+      "error_analysis": "中国学生易混淆“turn”（轮流）与形近词“tune”（曲调、调整），或因“转动”的基本义忽略其名词义“轮流”。",
+      "sentence": "It's your **turn** to answer the teacher's question—you were quiet last class!",
+      "options": {
+        "option": [
+          {
+            "definition": "轮流；轮次",
+            "iscorrect": true
+          },
+          {
+            "definition": "曲调；调整",
+            "iscorrect": false
+          },
+          {
+            "definition": "转动；转弯",
+            "iscorrect": false
+          },
+          {
+            "definition": "求助于；转向",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

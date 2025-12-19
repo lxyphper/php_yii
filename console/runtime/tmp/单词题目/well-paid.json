@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "well-paid",
+      "error_analysis": "学生易因词根字面误导将“well-paid”误理解为“支付得好的（如及时/方便）”，而非“高薪的”。",
+      "sentence": "She got a **well-paid** job at a multinational company, so she can afford a new apartment in the city.",
+      "options": {
+        "option": [
+          {
+            "definition": "高薪的",
+            "iscorrect": true
+          },
+          {
+            "definition": "支付得好的（如及时或方便）",
+            "iscorrect": false
+          },
+          {
+            "definition": "准备充分的",
+            "iscorrect": false
+          },
+          {
+            "definition": "制作精良的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "youngish",
+      "error_analysis": "学生易因形近词\"youngest\"（最年轻的）混淆，或因词根误导将\"youngish\"等同于\"young\"（年轻的），忽略\"-ish\"表示\"有点\"的含义。",
+      "sentence": "My new neighbor is a **youngish** man in his late 30s, which makes him the youngest person on our street.",
+      "options": {
+        "option": [
+          {
+            "definition": "有点年轻的；较年轻的",
+            "iscorrect": true
+          },
+          {
+            "definition": "最年轻的",
+            "iscorrect": false
+          },
+          {
+            "definition": "年轻的",
+            "iscorrect": false
+          },
+          {
+            "definition": "年轻的人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

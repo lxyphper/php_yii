@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "human",
+      "error_analysis": "中国学生易因形近混淆\"humid\"(潮湿的)，或因\"hum\"开头误联\"谦逊的\"(humble)。",
+      "sentence": "The **human** brain can perform tasks that no other species on Earth can replicate, like writing poetry or solving math problems.",
+      "options": {
+        "option": [
+          {
+            "definition": "人的；人类的",
+            "iscorrect": true
+          },
+          {
+            "definition": "潮湿的",
+            "iscorrect": false
+          },
+          {
+            "definition": "谦逊的",
+            "iscorrect": false
+          },
+          {
+            "definition": "凶猛的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "desolate",
+      "error_analysis": "学生易因形近词\"desert\"（沙漠/抛弃）误判为\"沙漠的\"或\"抛弃的\"，或因词根\"sol\"（孤独）误判为\"孤独的\"。",
+      "sentence": "After the war, the once-thriving village became a **desolate** place with broken houses and overgrown fields.",
+      "options": {
+        "option": [
+          {
+            "definition": "荒凉的；荒芜的",
+            "iscorrect": true
+          },
+          {
+            "definition": "沙漠的；由沙漠组成的",
+            "iscorrect": false
+          },
+          {
+            "definition": "孤独的；寂寞的",
+            "iscorrect": false
+          },
+          {
+            "definition": "抛弃的；被遗弃的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

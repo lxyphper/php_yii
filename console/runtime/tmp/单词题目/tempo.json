@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tempo",
+      "error_analysis": "学生易因形近词\"temp\"(温度)或\"temple\"(寺庙)产生错误联想，将\"tempo\"误判为温度或寺庙。",
+      "sentence": "The conductor asked the orchestra to slow down the **tempo** of the symphony to emphasize the melancholy theme.",
+      "options": {
+        "option": [
+          {
+            "definition": "温度（temperature的口语缩写）",
+            "iscorrect": false
+          },
+          {
+            "definition": "寺庙（供奉神灵的宗教建筑）",
+            "iscorrect": false
+          },
+          {
+            "definition": "节奏（尤指音乐或演奏的快慢速度）",
+            "iscorrect": true
+          },
+          {
+            "definition": "速度（物体移动的快慢程度）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

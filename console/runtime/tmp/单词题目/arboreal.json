@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "arboreal",
+      "error_analysis": "学生易因形近词\"arable\"(可耕种的)或\"aboriginal\"(土著的)产生错误联想，误判词义。",
+      "sentence": "Many primates, such as gibbons and spider monkeys, are **arboreal** creatures that spend most of their lives in trees.",
+      "options": {
+        "option": [
+          {
+            "definition": "树栖的；与树有关的",
+            "iscorrect": true
+          },
+          {
+            "definition": "可耕种的",
+            "iscorrect": false
+          },
+          {
+            "definition": "土著的",
+            "iscorrect": false
+          },
+          {
+            "definition": "空中的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

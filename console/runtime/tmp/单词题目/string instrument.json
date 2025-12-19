@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "string instrument",
+      "error_analysis": "学生易因“string”的“线/绳子”字面义将“string instrument”误解为“线制工具”，或因与“strong”形近误判为“强壮的乐器”",
+      "sentence": "The guitar, violin, and cello are all examples of **string instruments** commonly used in classical music.",
+      "options": {
+        "option": [
+          {
+            "definition": "弦乐器",
+            "iscorrect": true
+          },
+          {
+            "definition": "线制工具",
+            "iscorrect": false
+          },
+          {
+            "definition": "强壮的乐器",
+            "iscorrect": false
+          },
+          {
+            "definition": "字符串工具",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

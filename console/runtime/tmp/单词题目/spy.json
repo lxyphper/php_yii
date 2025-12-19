@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "spy",
+      "error_analysis": "中国学生易因形近词“sky”（天空）的拼写相似而误判“spy”的含义",
+      "sentence": "My neighbor is a **spy** working for the government.",
+      "options": {
+        "option": [
+          {
+            "definition": "天空",
+            "iscorrect": false
+          },
+          {
+            "definition": "看见",
+            "iscorrect": false
+          },
+          {
+            "definition": "间谍；密探",
+            "iscorrect": true
+          },
+          {
+            "definition": "秘密",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

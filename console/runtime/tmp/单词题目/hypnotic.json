@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hypnotic",
+      "error_analysis": "学生易因形近词“hypocritical”（虚伪的）混淆，或因“hyp-”前缀的错误词根联想（如“低下的”）误解词义。",
+      "sentence": "The rhythmic sound of the waves had a **hypnotic** quality that made her fall asleep quickly.",
+      "options": {
+        "option": [
+          {
+            "definition": "催眠的；有催眠作用的",
+            "iscorrect": true
+          },
+          {
+            "definition": "虚伪的；伪善的",
+            "iscorrect": false
+          },
+          {
+            "definition": "低下的；谦卑的",
+            "iscorrect": false
+          },
+          {
+            "definition": "假设的；推测的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

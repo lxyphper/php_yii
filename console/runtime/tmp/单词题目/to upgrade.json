@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to upgrade",
+      "error_analysis": "易混淆形近词update（误判为“更新”），或因词根grade（等级/年级）误译为“提高年级”或“评分上升”",
+      "sentence": "The company decided to **upgrade** its old software to improve efficiency and user experience.",
+      "options": {
+        "option": [
+          {
+            "definition": "升级；提升（质量、规格或性能等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "更新；使（信息、系统等）现代化",
+            "iscorrect": false
+          },
+          {
+            "definition": "提高年级；升班（如从低年级到高年级）",
+            "iscorrect": false
+          },
+          {
+            "definition": "给（学生）更高分数；评分上升",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "effective",
+      "error_analysis": "中国学生易因形近词“effort”（努力）、“affective”（情感的）或词根“fect”（做）将“effective”误解为“努力的”“情感的”或“做的”。",
+      "sentence": "The new policy proved to be **effective** in reducing air pollution.",
+      "options": {
+        "option": [
+          {
+            "definition": "努力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "情感的",
+            "iscorrect": false
+          },
+          {
+            "definition": "做的；实施的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有效的；起作用的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

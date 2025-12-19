@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hardly",
+      "error_analysis": "将\"hardly\"误理解为\"努力地\"（形近词\"hard\"的联想）或\"艰难地\"（词根\"hard\"字面误导）",
+      "sentence": "She **hardly** ate anything for breakfast because she was in a hurry.",
+      "options": {
+        "option": [
+          {
+            "definition": "几乎不",
+            "iscorrect": true
+          },
+          {
+            "definition": "努力地",
+            "iscorrect": false
+          },
+          {
+            "definition": "艰难地",
+            "iscorrect": false
+          },
+          {
+            "definition": "严厉地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

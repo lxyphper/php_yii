@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dean",
+      "error_analysis": "学生易因形近词“bean”（豆子）的干扰，将“dean”错误联想为与“豆类”相关的含义",
+      "sentence": "The **dean** of the College of Arts will give a speech at the graduation ceremony.",
+      "options": {
+        "option": [
+          {
+            "definition": "（大学的）院长；系主任",
+            "iscorrect": true
+          },
+          {
+            "definition": "豆子",
+            "iscorrect": false
+          },
+          {
+            "definition": "洞穴",
+            "iscorrect": false
+          },
+          {
+            "definition": "刻薄的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

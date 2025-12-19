@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "acronym",
+      "error_analysis": "学生易因形近词\"accompany\"（陪伴）的前半部分相似而误联想为\"陪伴相关词\"，或因\"acro-\"前缀（意为\"顶点\"）误导而误判为\"高级术语\"。",
+      "sentence": "The term \"COVID-19\" is an **acronym** derived from \"Coronavirus Disease 2019,\" using the first letters of each main word.",
+      "options": {
+        "option": [
+          {
+            "definition": "首字母缩写词（如COVID-19、NASA等由短语首字母组成的词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "陪伴他人的行为或状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "对高处或极端环境的恐惧",
+            "iscorrect": false
+          },
+          {
+            "definition": "意义相同或相近的词",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

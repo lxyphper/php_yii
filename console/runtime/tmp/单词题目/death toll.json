@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "death toll",
+      "error_analysis": "学生易因'toll'的熟义（收费/钟声）或与'tool'形近，误将'death toll'理解为死亡收费、死亡钟声或死亡工具。",
+      "sentence": "The **death toll** from the flood reached 200, with rescuers still searching for missing people.",
+      "options": {
+        "option": [
+          {
+            "definition": "死亡人数（遇难人数）",
+            "iscorrect": true
+          },
+          {
+            "definition": "死亡收费（死亡税费）",
+            "iscorrect": false
+          },
+          {
+            "definition": "死亡钟声（死亡鸣响）",
+            "iscorrect": false
+          },
+          {
+            "definition": "死亡工具（致命工具）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

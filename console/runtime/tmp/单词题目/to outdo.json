@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to outdo",
+      "error_analysis": "易因形近词“outdoor”（户外的）误联想为“在户外进行”，或因“out-+do”词根过度直译为“完成，做完”。",
+      "sentence": "She always tries to **outdo** her sister in every competition.",
+      "options": {
+        "option": [
+          {
+            "definition": "超过，胜过",
+            "iscorrect": true
+          },
+          {
+            "definition": "在户外进行",
+            "iscorrect": false
+          },
+          {
+            "definition": "完成，做完",
+            "iscorrect": false
+          },
+          {
+            "definition": "向外移动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

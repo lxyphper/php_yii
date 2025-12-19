@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "farmacy",
+      "pharacy",
+      "pharmasy",
+      "pharamcy"
+    ],
+    "correct_chunks": [
+      "ph",
+      "ar",
+      "ma",
+      "cy"
+    ],
+    "distractor_chunks": [
+      "f",
+      "phar",
+      "asy",
+      "am"
+    ]
+  },
+  0
+]

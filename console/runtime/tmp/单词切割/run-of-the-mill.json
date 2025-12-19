@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "run-ofthe-mill",
+      "run-of-the-mil",
+      "run-of-tha-mill",
+      "runofthemill"
+    ],
+    "correct_chunks": [
+      "run-",
+      "of-",
+      "the-",
+      "mill"
+    ],
+    "distractor_chunks": [
+      "run-ofthe-",
+      "-mil",
+      "-tha-",
+      "runofthe-"
+    ]
+  },
+  0
+]

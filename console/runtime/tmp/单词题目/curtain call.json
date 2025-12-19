@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "curtain call",
+      "error_analysis": "学生易将\"curtain\"(幕布/窗帘)与\"call\"(呼唤/呼叫)字面组合，误理解为\"窗帘的呼唤\"或\"打电话叫人拿窗帘\"。",
+      "sentence": "After the musical ended, the cast came back on stage for a **curtain call**, and the audience cheered wildly.",
+      "options": {
+        "option": [
+          {
+            "definition": "窗帘的呼唤",
+            "iscorrect": false
+          },
+          {
+            "definition": "（戏剧或演出结束后）演员谢幕",
+            "iscorrect": true
+          },
+          {
+            "definition": "打电话叫人拿窗帘",
+            "iscorrect": false
+          },
+          {
+            "definition": "舞台幕布的关闭信号",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

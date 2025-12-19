@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unbelievable",
+      "error_analysis": "易混淆形近词unbearable（难以忍受的），或因词根字面义误判为“不可信的”（指真实性而非惊人程度）",
+      "sentence": "The athlete broke three world records in one day—what an **unbelievable** achievement!",
+      "options": {
+        "option": [
+          {
+            "definition": "令人难以置信的；惊人的",
+            "iscorrect": true
+          },
+          {
+            "definition": "难以忍受的；无法承受的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不可信的；靠不住的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不常见的；稀有的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

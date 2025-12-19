@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "forecast",
+      "error_analysis": "学生可能因“fore-”+“cast”的词根字面义（预先+投掷）或形近词“forehead”（额头）的拼写干扰，错误理解为“预先投掷”或“额头”，而非正确的“预测/预报”。",
+      "sentence": "The weather service will **forecast** rain for tomorrow based on satellite data.",
+      "options": {
+        "option": [
+          {
+            "definition": "预测；预报",
+            "iscorrect": true
+          },
+          {
+            "definition": "额头；前额",
+            "iscorrect": false
+          },
+          {
+            "definition": "预先投掷；向前抛出",
+            "iscorrect": false
+          },
+          {
+            "definition": "演员阵容；角色分配",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

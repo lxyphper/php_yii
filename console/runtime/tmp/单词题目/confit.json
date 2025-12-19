@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "confit",
+      "error_analysis": "易因形近词\"confident\"(自信的)或词根\"con-+fit\"(共同适合)产生错误理解",
+      "sentence": "The pastry chef topped the creme brulee with a spoonful of **confit**, adding a burst of sweet, preserved fruit flavor to the dessert.",
+      "options": {
+        "option": [
+          {
+            "definition": "糖渍水果；油封肉类",
+            "iscorrect": true
+          },
+          {
+            "definition": "自信的；有信心的",
+            "iscorrect": false
+          },
+          {
+            "definition": "共同适合的；一致的",
+            "iscorrect": false
+          },
+          {
+            "definition": "确认；证实",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

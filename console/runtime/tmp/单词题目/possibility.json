@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "possibility",
+      "error_analysis": "易因形近词“possession”（财产）或词根“poss-”（拥有）误导，将“可能性”误判为“财产”或“拥有的东西”",
+      "sentence": "There's a strong **possibility** that we'll delay the project due to bad weather.",
+      "options": {
+        "option": [
+          {
+            "definition": "可能性",
+            "iscorrect": true
+          },
+          {
+            "definition": "财产",
+            "iscorrect": false
+          },
+          {
+            "definition": "拥有的东西",
+            "iscorrect": false
+          },
+          {
+            "definition": "潜力",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

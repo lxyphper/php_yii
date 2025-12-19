@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to iron",
+      "error_analysis": "将“to iron”误联想为与“铁”相关的动作（如炼铁、加固），而非其核心义“熨烫”",
+      "sentence": "She always takes 10 minutes to **iron** her dress before parties to avoid wrinkles.",
+      "options": {
+        "option": [
+          {
+            "definition": "熨烫（衣服等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "炼铁；锻造铁制品",
+            "iscorrect": false
+          },
+          {
+            "definition": "用铁加固；使变得坚硬",
+            "iscorrect": false
+          },
+          {
+            "definition": "打磨金属表面使其光滑",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

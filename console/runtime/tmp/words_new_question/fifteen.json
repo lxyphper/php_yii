@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fifteen",
+      "error_analysis": "易与形近词fifth（第五）、fifty（五十）混淆，或误将teen理解为“青少年”",
+      "sentence": "My little sister just turned **fifteen** yesterday, so we had a birthday party for her.",
+      "options": {
+        "option": [
+          {
+            "definition": "第五",
+            "iscorrect": false
+          },
+          {
+            "definition": "五十",
+            "iscorrect": false
+          },
+          {
+            "definition": "青少年",
+            "iscorrect": false
+          },
+          {
+            "definition": "十五",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

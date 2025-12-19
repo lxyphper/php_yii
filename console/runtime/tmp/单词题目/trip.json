@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "trip",
+      "error_analysis": "学生易因\"tri-\"词根（三）误猜为\"三倍\"，或因形近词\"trick\"（诡计）误判词义",
+      "sentence": "We’re planning a weekend **trip** to the mountains to enjoy the fall leaves.",
+      "options": {
+        "option": [
+          {
+            "definition": "旅行（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "三倍",
+            "iscorrect": false
+          },
+          {
+            "definition": "诡计",
+            "iscorrect": false
+          },
+          {
+            "definition": "绊倒",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

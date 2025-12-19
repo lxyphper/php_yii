@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to forward",
+      "error_analysis": "学生易因\"forward\"作形容词\"向前的\"的字面联想，误将动词\"to forward\"理解为\"向前移动\"，或混淆形近词\"foreword\"（前言）而误判为\"写前言\"。",
+      "sentence": "Could you please **forward** the meeting agenda to all team members? I forgot to include some people.",
+      "options": {
+        "option": [
+          {
+            "definition": "转发（如邮件、消息等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "向前移动",
+            "iscorrect": false
+          },
+          {
+            "definition": "写前言",
+            "iscorrect": false
+          },
+          {
+            "definition": "促进、推动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

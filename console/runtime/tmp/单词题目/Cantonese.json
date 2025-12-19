@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Cantonese",
+      "error_analysis": "学生易因形近词\"canteen\"（食堂）或\"Canada\"（加拿大）的拼写联想，将\"Cantonese\"误判为\"食堂的\"或\"加拿大的\"",
+      "sentence": "My neighbor is from Guangzhou and speaks fluent **Cantonese** at home.",
+      "options": {
+        "option": [
+          {
+            "definition": "粤语（的）；广东人（的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "食堂的；食堂相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "加拿大的；加拿大人（的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "独木舟的；独木舟使用者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

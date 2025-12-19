@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fungus",
+      "error_analysis": "学生易因形近词\"fun\"（乐趣）或词根\"fung-\"与\"func-\"（功能）的混淆而误判\"fungus\"的词义",
+      "sentence": "The damp basement had a layer of green **fungus** growing on the walls.",
+      "options": {
+        "option": [
+          {
+            "definition": "乐趣；有趣的事物",
+            "iscorrect": false
+          },
+          {
+            "definition": "真菌",
+            "iscorrect": true
+          },
+          {
+            "definition": "功能体；功能单位",
+            "iscorrect": false
+          },
+          {
+            "definition": "基金；资金",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "endowment",
+      "error_analysis": "学生易因形近词\"endorsement\"（背书）混淆，或因词根\"endow\"（赋予）过度直译忽略\"捐赠\"这一核心名词义",
+      "sentence": "The university received a $10 million **endowment** from a former student to build a new library.",
+      "options": {
+        "option": [
+          {
+            "definition": "背书；支持",
+            "iscorrect": false
+          },
+          {
+            "definition": "捐赠；资助款",
+            "iscorrect": true
+          },
+          {
+            "definition": "忍受；持久",
+            "iscorrect": false
+          },
+          {
+            "definition": "赋予；给予",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

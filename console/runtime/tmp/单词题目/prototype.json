@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "prototype",
+      "error_analysis": "易与形近词protagonist（主角）混淆，或因词根proto-（原始）、type（类型）误判为“原始类型”",
+      "sentence": "The company displayed the **prototype** of their new electric car at the tech fair, which will be used to test features before mass production.",
+      "options": {
+        "option": [
+          {
+            "definition": "原型（用于测试或量产前的首个模型）",
+            "iscorrect": true
+          },
+          {
+            "definition": "主角（故事或戏剧中的主要人物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "原始类型（早期未发展完全的类型）",
+            "iscorrect": false
+          },
+          {
+            "definition": "象征符号（代表某种概念的符号）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

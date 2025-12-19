@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "intelligent",
+      "error_analysis": "易混淆形近词'intellectual'（知识的）或错误拆分词根误解为'有智力的'，而非核心义'聪明的'",
+      "sentence": "The little girl gave an **intelligent** answer to the teacher's difficult question, and everyone was impressed by her quick thinking.",
+      "options": {
+        "option": [
+          {
+            "definition": "聪明的，有智慧的",
+            "iscorrect": true
+          },
+          {
+            "definition": "知识的，学术的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有智力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有趣的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

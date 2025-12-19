@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to interview",
+      "error_analysis": "形近词\"intervene\"(干预)的干扰，及词根\"inter-+view\"的字面误导(如\"互相观看\")",
+      "sentence": "The company will **interview** five candidates for the sales position next week.",
+      "options": {
+        "option": [
+          {
+            "definition": "面试；采访",
+            "iscorrect": true
+          },
+          {
+            "definition": "干预；介入",
+            "iscorrect": false
+          },
+          {
+            "definition": "互相观看；对视",
+            "iscorrect": false
+          },
+          {
+            "definition": "介绍；引见",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mobster",
+      "error_analysis": "学生易因形近词'monster'(怪物)或词根误解(将'mob'与'移动'联系，误以为是流动人员)而错判。",
+      "sentence": "The police finally arrested the **mobster** who had been running illegal gambling rings in the city.",
+      "options": {
+        "option": [
+          {
+            "definition": "怪物",
+            "iscorrect": false
+          },
+          {
+            "definition": "流动推销员",
+            "iscorrect": false
+          },
+          {
+            "definition": "黑帮成员",
+            "iscorrect": true
+          },
+          {
+            "definition": "派对爱好者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

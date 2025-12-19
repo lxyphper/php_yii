@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to advise",
+      "error_analysis": "学生易混淆形近词advertise（做广告）或误将词根ad-+vise理解为监督/指导，而非建议。",
+      "sentence": "My teacher will **advise** me on which course to take next semester.",
+      "options": {
+        "option": [
+          {
+            "definition": "建议；劝告",
+            "iscorrect": true
+          },
+          {
+            "definition": "做广告；宣传",
+            "iscorrect": false
+          },
+          {
+            "definition": "监督；指导",
+            "iscorrect": false
+          },
+          {
+            "definition": "说服；劝服",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

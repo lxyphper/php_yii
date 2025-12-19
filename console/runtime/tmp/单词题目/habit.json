@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "habit",
+      "error_analysis": "学生易将“habit”与形近词“habitat”（栖息地）混淆，或因词性混淆误将其理解为形容词“惯常的”。",
+      "sentence": "She has a bad **habit** of biting her nails when she's nervous.",
+      "options": {
+        "option": [
+          {
+            "definition": "习惯",
+            "iscorrect": true
+          },
+          {
+            "definition": "栖息地",
+            "iscorrect": false
+          },
+          {
+            "definition": "惯常的",
+            "iscorrect": false
+          },
+          {
+            "definition": "展示",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "smoke",
+      "error_analysis": "易与形近词\"smile\"(微笑)混淆，或误将\"sm\"开头的词联想为\"smell\"(闻；气味)。",
+      "sentence": "After dinner, my grandfather likes to sit on the porch and **smoke** a pipe while reading the newspaper.",
+      "options": {
+        "option": [
+          {
+            "definition": "微笑；笑容",
+            "iscorrect": false
+          },
+          {
+            "definition": "闻；气味",
+            "iscorrect": false
+          },
+          {
+            "definition": "小的；微小的",
+            "iscorrect": false
+          },
+          {
+            "definition": "吸烟；抽烟",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

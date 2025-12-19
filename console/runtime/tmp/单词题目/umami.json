@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "umami",
+      "error_analysis": "学生易因“umami”发音接近“yummy”（美味的）而误判，或拆分“mami”部分猜测为与“妈妈”相关的“家庭味道”。",
+      "sentence": "Soy sauce adds a deep **umami** taste to stir-fried vegetables, making them more flavorful and satisfying.",
+      "options": {
+        "option": [
+          {
+            "definition": "鲜味（五种基本味道之一，如酱油、香菇等食物的独特味道）",
+            "iscorrect": true
+          },
+          {
+            "definition": "美味的（形容食物非常好吃）",
+            "iscorrect": false
+          },
+          {
+            "definition": "家庭的（与母亲或家庭有关的温馨味道）",
+            "iscorrect": false
+          },
+          {
+            "definition": "和蔼的（性格友好亲切）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

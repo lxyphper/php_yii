@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dark",
+      "error_analysis": "学生易因“dark”与形近基础词“mark”（标记）或“park”（公园）的混淆，误解其“黑暗的”核心词义。",
+      "sentence": "The room was so **dark** that I couldn’t see my own hands.",
+      "options": {
+        "option": [
+          {
+            "definition": "黑暗的",
+            "iscorrect": true
+          },
+          {
+            "definition": "标记",
+            "iscorrect": false
+          },
+          {
+            "definition": "公园",
+            "iscorrect": false
+          },
+          {
+            "definition": "潮湿的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

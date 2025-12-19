@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "inferior",
+      "error_analysis": "中国学生易因形近词“infer”（推断）误解为“推断的”，或因混淆“interior”（内部的）误解为“内部的”。",
+      "sentence": "The quality of this smartphone is **inferior** to that of the one we bought last year.",
+      "options": {
+        "option": [
+          {
+            "definition": "（质量、价值等）比…差的；次的",
+            "iscorrect": true
+          },
+          {
+            "definition": "推断的；推论的",
+            "iscorrect": false
+          },
+          {
+            "definition": "内部的；室内的",
+            "iscorrect": false
+          },
+          {
+            "definition": "高级的；优越的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

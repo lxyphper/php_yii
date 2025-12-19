@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "electricty",
+      "elactricity",
+      "electicity",
+      "electricety"
+    ],
+    "correct_chunks": [
+      "elec",
+      "tric",
+      "i",
+      "ty"
+    ],
+    "distractor_chunks": [
+      "elac",
+      "tic",
+      "tricty",
+      "ety"
+    ]
+  },
+  0
+]

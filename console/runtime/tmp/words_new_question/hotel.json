@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hotel",
+      "error_analysis": "容易与形近词“hostel”（青年旅社）混淆，或因“hot”词根猜测为与“热”相关的场所",
+      "sentence": "We booked a room at the **hotel** near the airport for our upcoming trip.",
+      "options": {
+        "option": [
+          {
+            "definition": "酒店；旅馆",
+            "iscorrect": true
+          },
+          {
+            "definition": "青年旅社",
+            "iscorrect": false
+          },
+          {
+            "definition": "热的小房间",
+            "iscorrect": false
+          },
+          {
+            "definition": "医院",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

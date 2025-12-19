@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "supply",
+      "error_analysis": "易与形近词“apply”（应用；申请）混淆，或误将“supply”理解为“补充”（supplement）",
+      "sentence": "Our company will **supply** all the necessary equipment for the project.",
+      "options": {
+        "option": [
+          {
+            "definition": "应用；申请",
+            "iscorrect": false
+          },
+          {
+            "definition": "提供；供应",
+            "iscorrect": true
+          },
+          {
+            "definition": "补充；添加",
+            "iscorrect": false
+          },
+          {
+            "definition": "支持；维持",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

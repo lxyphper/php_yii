@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to click",
+      "error_analysis": "学生易因形近词\"clock\"（时钟）混淆为\"(时钟)滴答作响\"，或因字面拟声误导为\"用力敲击\"",
+      "sentence": "He **clicked** the button to submit his online application.",
+      "options": {
+        "option": [
+          {
+            "definition": "点击（鼠标等）；（使）发出咔嗒声",
+            "iscorrect": true
+          },
+          {
+            "definition": "（时钟）滴答作响",
+            "iscorrect": false
+          },
+          {
+            "definition": "用力敲击",
+            "iscorrect": false
+          },
+          {
+            "definition": "（使）卡住或固定",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

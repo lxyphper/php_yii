@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to win over",
+      "error_analysis": "学生易因\"win\"（赢）和\"over\"（超过）的字面意思，将\"to win over\"误解为\"战胜；赢过（比赛中的对手）\"，忽略其\"争取支持\"的核心含义。",
+      "sentence": "The new manager plans to **win over** the skeptical employees by listening to their ideas.",
+      "options": {
+        "option": [
+          {
+            "definition": "说服；争取过来（使支持自己）",
+            "iscorrect": true
+          },
+          {
+            "definition": "战胜；赢过（比赛中的对手）",
+            "iscorrect": false
+          },
+          {
+            "definition": "赢得更多（数量上超过）",
+            "iscorrect": false
+          },
+          {
+            "definition": "克服（困难或障碍）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

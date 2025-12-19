@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sleet",
+      "error_analysis": "中国学生易因形近词混淆，将`sleet`误判为`sleep`（睡觉）或`sheet`（床单）等基础词",
+      "sentence": "When we woke up this morning, we found the ground covered with a thin layer of **sleet**, making the roads slippery.",
+      "options": {
+        "option": [
+          {
+            "definition": "雨夹雪",
+            "iscorrect": true
+          },
+          {
+            "definition": "睡觉",
+            "iscorrect": false
+          },
+          {
+            "definition": "床单",
+            "iscorrect": false
+          },
+          {
+            "definition": "街道",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

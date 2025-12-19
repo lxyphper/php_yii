@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tray",
+      "error_analysis": "学生易因形近词\"tree\"(树)或\"try\"(尝试)的干扰而误判\"tray\"的核心含义",
+      "sentence": "She placed a **tray** with cups and saucers on the dining table before the party.",
+      "options": {
+        "option": [
+          {
+            "definition": "托盘（盛食物/饮料的扁平容器）",
+            "iscorrect": true
+          },
+          {
+            "definition": "树（木本植物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "尝试（试图做某事的行为）",
+            "iscorrect": false
+          },
+          {
+            "definition": "痕迹（某物留下的印记）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

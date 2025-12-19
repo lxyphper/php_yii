@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "totally",
+      "error_analysis": "将副词“totally”（完全地）误解为“总共；总计”（形近词“total”的名词含义）或误作形容词“完全的”使用",
+      "sentence": "I **totally** forgot to bring my umbrella, so I got soaked in the rain.",
+      "options": {
+        "option": [
+          {
+            "definition": "完全地；彻底地",
+            "iscorrect": true
+          },
+          {
+            "definition": "总共；总计",
+            "iscorrect": false
+          },
+          {
+            "definition": "完全的；全部的",
+            "iscorrect": false
+          },
+          {
+            "definition": "蹒跚地；摇晃地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

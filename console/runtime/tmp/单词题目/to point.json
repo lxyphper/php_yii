@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to point",
+      "error_analysis": "将动词“to point”误理解为名词“点”的相关动作（如“打点”“标点”），或混淆形近词“paint”的“画”",
+      "sentence": "The teacher asked the student to **point** to the map where China is located.",
+      "options": {
+        "option": [
+          {
+            "definition": "指向；指明",
+            "iscorrect": true
+          },
+          {
+            "definition": "画；绘画",
+            "iscorrect": false
+          },
+          {
+            "definition": "打点；加标点",
+            "iscorrect": false
+          },
+          {
+            "definition": "指认；认出",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

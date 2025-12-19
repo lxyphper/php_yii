@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cataract",
+      "error_analysis": "中国学生易因形近词“cat”（猫）猜测与猫相关含义，或因词根“cat-”（向下）误导为“灾难”等错误理解。",
+      "sentence": "My grandmother had to undergo surgery to remove the **cataract** in her left eye to improve her vision.",
+      "options": {
+        "option": [
+          {
+            "definition": "白内障（眼睛晶状体的浑浊疾病）",
+            "iscorrect": true
+          },
+          {
+            "definition": "猫的异常行为",
+            "iscorrect": false
+          },
+          {
+            "definition": "严重的灾难",
+            "iscorrect": false
+          },
+          {
+            "definition": "陡峭的瀑布",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

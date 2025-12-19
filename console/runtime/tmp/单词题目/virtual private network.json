@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "virtual private network",
+      "error_analysis": "学生易因“virtual”与“visual”形近产生“视觉私人网络”的误解，或因“virtual”的“实际”义项误判为“实际私人网络”",
+      "sentence": "When traveling abroad, Sarah uses a **virtual private network** to securely access her company's internal systems without exposing her data to public Wi-Fi risks.",
+      "options": {
+        "option": [
+          {
+            "definition": "虚拟私人网络（一种用于在公共网络上建立安全私人连接的工具，常用于保护数据隐私）",
+            "iscorrect": true
+          },
+          {
+            "definition": "视觉私人网络（通过视觉技术实现的私人网络连接）",
+            "iscorrect": false
+          },
+          {
+            "definition": "实际私人网络（存在于现实物理空间中的私人网络）",
+            "iscorrect": false
+          },
+          {
+            "definition": "公开虚拟网络（向所有用户开放的虚拟网络服务）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

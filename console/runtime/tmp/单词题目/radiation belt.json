@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "radiation belt",
+      "error_analysis": "学生易将\"belt\"的日常义\"腰带/皮带\"代入，误判为\"辐射腰带\"；或因\"radiation\"与\"radio\"形近，猜成\"无线电带\"。",
+      "sentence": "The Earth's **radiation belt**, first detected in 1958, acts as a shield by trapping harmful high-energy particles from space.",
+      "options": {
+        "option": [
+          {
+            "definition": "（天文学中的）辐射带",
+            "iscorrect": true
+          },
+          {
+            "definition": "辐射腰带（佩戴的防护装备）",
+            "iscorrect": false
+          },
+          {
+            "definition": "无线电带（传输信号的波段）",
+            "iscorrect": false
+          },
+          {
+            "definition": "辐射皮带（工业用防辐射材料）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

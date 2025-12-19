@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "battle",
+      "error_analysis": "易混淆形近词bottle（瓶子）及词根bat（蝙蝠/球拍）的误导",
+      "sentence": "The soldiers fought bravely in the **battle** to defend their country.",
+      "options": {
+        "option": [
+          {
+            "definition": "瓶子",
+            "iscorrect": false
+          },
+          {
+            "definition": "战斗；战役",
+            "iscorrect": true
+          },
+          {
+            "definition": "蝙蝠",
+            "iscorrect": false
+          },
+          {
+            "definition": "球拍",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

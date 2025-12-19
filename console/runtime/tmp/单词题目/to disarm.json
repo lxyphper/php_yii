@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to disarm",
+      "error_analysis": "将“arm”误解为“手臂”而误认为“卸下手臂”，或与形近词“disband”（解散）混淆。",
+      "sentence": "The police officers were trained to **disarm** dangerous criminals safely.",
+      "options": {
+        "option": [
+          {
+            "definition": "解除（某人的）武装；使失去武器",
+            "iscorrect": true
+          },
+          {
+            "definition": "卸下（某人的）手臂",
+            "iscorrect": false
+          },
+          {
+            "definition": "解散（某团体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "使沮丧；使失望",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

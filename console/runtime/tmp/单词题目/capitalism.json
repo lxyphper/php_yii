@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "capitalism",
+      "error_analysis": "学生易将\"capital\"误作\"首都\"推导\"capitalism\"为\"首都相关制度\"，或误将\"ism\"理解为\"过程\"而解释为\"资本积累方式\"",
+      "sentence": "Many countries have adopted **capitalism** as their economic system, where private businesses own most industries and compete for profits.",
+      "options": {
+        "option": [
+          {
+            "definition": "首都的行政管理制度",
+            "iscorrect": false
+          },
+          {
+            "definition": "资本的积累与存储方式",
+            "iscorrect": false
+          },
+          {
+            "definition": "资本主义（一种经济体系，其中生产资料归私人所有，企业通过竞争追求利润）",
+            "iscorrect": true
+          },
+          {
+            "definition": "城市的现代化发展模式",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

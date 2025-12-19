@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to let down",
+      "error_analysis": "学生易因“let”（让）和“down”（向下）的字面义，将“to let down”误解为“放下；降低”。",
+      "sentence": "I trusted him to help me, but he **let me down** at the last minute.",
+      "options": {
+        "option": [
+          {
+            "definition": "使失望；辜负",
+            "iscorrect": true
+          },
+          {
+            "definition": "放下；降低",
+            "iscorrect": false
+          },
+          {
+            "definition": "躺下",
+            "iscorrect": false
+          },
+          {
+            "definition": "放过；释放",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

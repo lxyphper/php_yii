@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mannerism",
+      "error_analysis": "学生易将\"mannerism\"误判为\"举止主义\"（词根\"manner\"+\"ism\"误导）或与\"manners\"（礼貌）混淆（形近词干扰）",
+      "sentence": "Her constant hair-twirling is such a noticeable **mannerism** that everyone notices it in meetings.",
+      "options": {
+        "option": [
+          {
+            "definition": "（尤指令人烦的）习惯性动作或说话方式",
+            "iscorrect": true
+          },
+          {
+            "definition": "行为主义（一种心理学流派）",
+            "iscorrect": false
+          },
+          {
+            "definition": "礼貌；礼仪",
+            "iscorrect": false
+          },
+          {
+            "definition": "时尚趋势；流行风格",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

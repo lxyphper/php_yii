@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to idolize",
+      "error_analysis": "易因形近词“idle”（空闲的）产生误解，或误将“idol”（偶像）+“-ize”推导为“使成为偶像”而非“崇拜”。",
+      "sentence": "After watching the movie, the young girl started to **idolize** the lead actor, collecting all his posters and videos.",
+      "options": {
+        "option": [
+          {
+            "definition": "崇拜，极度爱慕",
+            "iscorrect": true
+          },
+          {
+            "definition": "空闲度日，偷懒",
+            "iscorrect": false
+          },
+          {
+            "definition": "使成为偶像",
+            "iscorrect": false
+          },
+          {
+            "definition": "理想化，将…视为完美",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

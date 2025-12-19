@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to face",
+      "error_analysis": "学生易混淆形近词“faze”（使慌乱）与“face”（面对），或误将动词“to face”理解为“给……洗脸”（名词“脸”的字面延伸）",
+      "sentence": "She knew she had to **face** the consequences of her actions sooner or later.",
+      "options": {
+        "option": [
+          {
+            "definition": "面对；面临（困难或后果）",
+            "iscorrect": true
+          },
+          {
+            "definition": "使慌乱",
+            "iscorrect": false
+          },
+          {
+            "definition": "给……洗脸",
+            "iscorrect": false
+          },
+          {
+            "definition": "褪色",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

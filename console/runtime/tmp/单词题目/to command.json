@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to command",
+      "error_analysis": "学生易因形近词\"commend\"(推荐)的拼写混淆，或误将\"command\"与\"comment\"(评论)关联，导致对核心词义\"命令\"的误判。",
+      "sentence": "The general **commanded** his troops to advance immediately before the enemy could reinforce their position.",
+      "options": {
+        "option": [
+          {
+            "definition": "命令；指挥",
+            "iscorrect": true
+          },
+          {
+            "definition": "推荐；称赞",
+            "iscorrect": false
+          },
+          {
+            "definition": "评论；发表意见",
+            "iscorrect": false
+          },
+          {
+            "definition": "要求；请求",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

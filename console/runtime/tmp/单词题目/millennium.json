@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "millennium",
+      "error_analysis": "因形近词'million'（百万）产生联想，误将'millennium'理解为'百万年'或'百万时期'",
+      "sentence": "The ancient temple was built over a **millennium** ago, long before the invention of printing.",
+      "options": {
+        "option": [
+          {
+            "definition": "千年；千禧年",
+            "iscorrect": true
+          },
+          {
+            "definition": "百万年；百万时期",
+            "iscorrect": false
+          },
+          {
+            "definition": "世纪；百年",
+            "iscorrect": false
+          },
+          {
+            "definition": "十年；十年期",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

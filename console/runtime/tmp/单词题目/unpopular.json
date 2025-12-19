@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unpopular",
+      "error_analysis": "学生易混淆形近词unpopulated（无人居住的），或误将unpopular理解为“不普通的”（对popular词根义过度延伸）",
+      "sentence": "Because she always refuses to share with others, Lisa is quite **unpopular** in her dorm.",
+      "options": {
+        "option": [
+          {
+            "definition": "不受欢迎的",
+            "iscorrect": true
+          },
+          {
+            "definition": "无人居住的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不普通的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不活跃的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

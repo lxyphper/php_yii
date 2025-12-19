@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to outclass",
+      "error_analysis": "学生易因\"class\"的\"班级/阶级\"义误解为\"离开班级\"或\"超出阶级\"，忽略其\"远远超过\"的核心义",
+      "sentence": "The new smartphone **outclasses** all its competitors in battery life and performance.",
+      "options": {
+        "option": [
+          {
+            "definition": "离开班级；退出课堂",
+            "iscorrect": false
+          },
+          {
+            "definition": "划分等级；分类",
+            "iscorrect": false
+          },
+          {
+            "definition": "成为被抛弃的人；被排斥者",
+            "iscorrect": false
+          },
+          {
+            "definition": "远远超过；比……优秀得多",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

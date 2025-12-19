@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cinch",
+      "error_analysis": "因形近词“cinema”（电影院）或“inch”（英寸）而误解为与“电影”或“长度单位”相关的含义",
+      "sentence": "After practicing for months, winning the competition was a **cinch** for her.",
+      "options": {
+        "option": [
+          {
+            "definition": "电影院",
+            "iscorrect": false
+          },
+          {
+            "definition": "英寸",
+            "iscorrect": false
+          },
+          {
+            "definition": "容易做的事",
+            "iscorrect": true
+          },
+          {
+            "definition": "困难的事",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

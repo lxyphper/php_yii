@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "normal",
+      "error_analysis": "中国学生易将“normal”与形近词“formal”（正式的）混淆，或误通过词根“norm”（规范）推导为“规范的”",
+      "sentence": "After being sick for a week, she was happy to get back to her **normal** routine.",
+      "options": {
+        "option": [
+          {
+            "definition": "正常的",
+            "iscorrect": true
+          },
+          {
+            "definition": "正式的",
+            "iscorrect": false
+          },
+          {
+            "definition": "规范的",
+            "iscorrect": false
+          },
+          {
+            "definition": "普通的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

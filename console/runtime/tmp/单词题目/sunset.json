@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sunset",
+      "error_analysis": "学生易将“sunset”中的“set”误理解为“设置/放置”（字面直译），或与形近词“sunrise”（日出）混淆",
+      "sentence": "We watched the beautiful **sunset** over the ocean as the sky turned pink and orange.",
+      "options": {
+        "option": [
+          {
+            "definition": "日落",
+            "iscorrect": true
+          },
+          {
+            "definition": "日出",
+            "iscorrect": false
+          },
+          {
+            "definition": "太阳的设置",
+            "iscorrect": false
+          },
+          {
+            "definition": "阳光集合",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

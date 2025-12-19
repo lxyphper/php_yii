@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "almond",
+      "error_analysis": "学生易因形近词\"amend\"（修改）或\"album\"（相册）产生错误联想",
+      "sentence": "I bought a bag of **almonds** to snack on during the movie.",
+      "options": {
+        "option": [
+          {
+            "definition": "杏仁",
+            "iscorrect": true
+          },
+          {
+            "definition": "修改",
+            "iscorrect": false
+          },
+          {
+            "definition": "相册",
+            "iscorrect": false
+          },
+          {
+            "definition": "在...之中",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

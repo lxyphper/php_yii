@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to align",
+      "error_analysis": "学生易因形近词“assign”（分配）混淆，或因“line”词根误判为“排成一行”，忽略抽象“使一致”的核心义。",
+      "sentence": "The company needs to **align** its marketing strategy with the new consumer trends to stay competitive.",
+      "options": {
+        "option": [
+          {
+            "definition": "使一致；协调",
+            "iscorrect": true
+          },
+          {
+            "definition": "分配；指派",
+            "iscorrect": false
+          },
+          {
+            "definition": "排成一行；排列",
+            "iscorrect": false
+          },
+          {
+            "definition": "连接；结合",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "crossword",
+      "error_analysis": "学生易因词根字面拆分(cross+word)误判为\"交叉的单词\"或\"单词交叉\"，而非正确的\"填字游戏\"",
+      "sentence": "She spends her Sunday mornings solving the **crossword** in the newspaper to relax.",
+      "options": {
+        "option": [
+          {
+            "definition": "交叉的单词",
+            "iscorrect": false
+          },
+          {
+            "definition": "人行横道",
+            "iscorrect": false
+          },
+          {
+            "definition": "填字游戏",
+            "iscorrect": true
+          },
+          {
+            "definition": "单词交叉点",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

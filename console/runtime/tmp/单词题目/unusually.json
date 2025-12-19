@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unusually",
+      "error_analysis": "学生易混淆形近词“usually”（通常地）的含义，或过度直译为“不经常地”而非“不寻常地/特别地”",
+      "sentence": "The weather was **unusually** warm for January, so we decided to go for a picnic.",
+      "options": {
+        "option": [
+          {
+            "definition": "通常地",
+            "iscorrect": false
+          },
+          {
+            "definition": "不寻常地；特别地",
+            "iscorrect": true
+          },
+          {
+            "definition": "不经常地",
+            "iscorrect": false
+          },
+          {
+            "definition": "意外地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to disparage",
+      "error_analysis": "学生易因形近词“disparate”（不同的）误解为“使不同/区分”，或因词根“dis-”（否定）+“parage”（平等）误猜为“使不平等”，而非正确的“贬低/诋毁”。",
+      "sentence": "Despite her achievements, some people still **disparage** her work by calling it \"amateurish.\"",
+      "options": {
+        "option": [
+          {
+            "definition": "贬低；诋毁",
+            "iscorrect": true
+          },
+          {
+            "definition": "使不同；区分",
+            "iscorrect": false
+          },
+          {
+            "definition": "使不平等；降低地位",
+            "iscorrect": false
+          },
+          {
+            "definition": "使消失；不见",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

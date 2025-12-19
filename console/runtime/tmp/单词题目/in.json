@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "in",
+      "error_analysis": "学生易因形近词“on”的干扰将“in”误理解为“在……上面”，或混淆“in”（状态）与“into”（动作）的含义",
+      "sentence": "The cat is sleeping **in** the box.",
+      "options": {
+        "option": [
+          {
+            "definition": "在……里面",
+            "iscorrect": true
+          },
+          {
+            "definition": "在……上面",
+            "iscorrect": false
+          },
+          {
+            "definition": "进入……里面",
+            "iscorrect": false
+          },
+          {
+            "definition": "一个",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

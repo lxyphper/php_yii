@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "calmness",
+      "error_analysis": "因形近词“calamity”（灾难）的拼写相似或“ness”后缀的字面误导，易误判为“灾难”或“平静的地方”",
+      "sentence": "When the fire alarm went off, his **calmness** prevented a panic among the students.",
+      "options": {
+        "option": [
+          {
+            "definition": "灾难；不幸",
+            "iscorrect": false
+          },
+          {
+            "definition": "平静的地方",
+            "iscorrect": false
+          },
+          {
+            "definition": "冷静；平静（的状态）",
+            "iscorrect": true
+          },
+          {
+            "definition": "热情；活力",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

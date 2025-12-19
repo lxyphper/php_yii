@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to stave off",
+      "error_analysis": "学生易因形近词\"save\"误以为是\"拯救\"，或因\"stave\"（桶板）的字面义直译为\"移开桶板\"",
+      "sentence": "She drank some water to **stave off** thirst until dinner.",
+      "options": {
+        "option": [
+          {
+            "definition": "推迟；延缓",
+            "iscorrect": true
+          },
+          {
+            "definition": "拯救（如拯救危险）",
+            "iscorrect": false
+          },
+          {
+            "definition": "移开桶板",
+            "iscorrect": false
+          },
+          {
+            "definition": "加速（如加速进程）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

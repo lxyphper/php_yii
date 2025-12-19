@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unbecoming",
+      "error_analysis": "学生易因词根\"un-+becoming\"（变成）字面误导，将\"unbecoming\"误解为\"未变成的\"，而非正确的\"（行为等）不得体的\"",
+      "sentence": "Her loud laughter and casual jeans were considered **unbecoming** for a formal dinner party.",
+      "options": {
+        "option": [
+          {
+            "definition": "（行为、穿着等）不得体的，不适当的",
+            "iscorrect": true
+          },
+          {
+            "definition": "未变成的，未成为的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不屈的，坚定的",
+            "iscorrect": false
+          },
+          {
+            "definition": "未知的，不为人知的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

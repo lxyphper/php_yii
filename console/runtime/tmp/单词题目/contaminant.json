@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "contaminant",
+      "error_analysis": "学生易因形近词\"continent\"(大陆)或\"content\"(内容物)误导，将\"contaminant\"误判为\"大陆\"或\"内容物\"",
+      "sentence": "The factory was fined for releasing harmful **contaminants** into the river, which poisoned thousands of fish.",
+      "options": {
+        "option": [
+          {
+            "definition": "污染物",
+            "iscorrect": true
+          },
+          {
+            "definition": "大陆",
+            "iscorrect": false
+          },
+          {
+            "definition": "内容物",
+            "iscorrect": false
+          },
+          {
+            "definition": "容器",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "desolation",
+      "error_analysis": "学生易因形近词\"destination\"（目的地）或词根\"des-\"（否定）+ \"sol\"（太阳/解决）的误导，错误理解词义",
+      "sentence": "After the war, the once bustling village was reduced to **desolation**, with overgrown paths and crumbling huts scattered around.",
+      "options": {
+        "option": [
+          {
+            "definition": "目的地",
+            "iscorrect": false
+          },
+          {
+            "definition": "解决办法",
+            "iscorrect": false
+          },
+          {
+            "definition": "荒凉；凄凉",
+            "iscorrect": true
+          },
+          {
+            "definition": "破坏；毁灭",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

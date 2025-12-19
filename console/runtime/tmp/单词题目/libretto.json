@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "libretto",
+      "error_analysis": "学生易因形近词\"library\"（图书馆）将\"libretto\"误判为\"图书馆相关物品\"，或因\"lib\"（自由）词根误导为\"自由相关文本\"。",
+      "sentence": "The composer collaborated with the lyricist to refine the **libretto**, ensuring every line of the opera’s text aligned with the music’s mood.",
+      "options": {
+        "option": [
+          {
+            "definition": "歌剧脚本（尤指唱词文本）",
+            "iscorrect": true
+          },
+          {
+            "definition": "图书馆的藏书目录",
+            "iscorrect": false
+          },
+          {
+            "definition": "自由宣言的正式文本",
+            "iscorrect": false
+          },
+          {
+            "definition": "音乐专辑的封面文案",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "family name",
+      "error_analysis": "学生易因字面直译将\"family name\"误解为\"家庭的名字\"（如家庭昵称），或因形近词\"familiar\"干扰理解为\"熟悉的名字\"",
+      "sentence": "In many Western countries, people usually put their **family name** after their given name—for example, in \"John Smith\", Smith is the **family name**.",
+      "options": {
+        "option": [
+          {
+            "definition": "姓氏",
+            "iscorrect": true
+          },
+          {
+            "definition": "家庭的名字（如家庭昵称）",
+            "iscorrect": false
+          },
+          {
+            "definition": "熟悉的名字",
+            "iscorrect": false
+          },
+          {
+            "definition": "家族企业的名称",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

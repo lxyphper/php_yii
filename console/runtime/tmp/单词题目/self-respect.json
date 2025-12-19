@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "self-respect",
+      "error_analysis": "学生易因词根字面误导（将'respect'误解为'重视'而理解为'自我重视'）或结构相似（与'self-confidence'等混淆）而错误理解词义",
+      "sentence": "Losing his job made him feel like he had lost his **self-respect**, as he could no longer provide for his family.",
+      "options": {
+        "option": [
+          {
+            "definition": "自我重视",
+            "iscorrect": false
+          },
+          {
+            "definition": "自信",
+            "iscorrect": false
+          },
+          {
+            "definition": "自尊",
+            "iscorrect": true
+          },
+          {
+            "definition": "自我克制",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

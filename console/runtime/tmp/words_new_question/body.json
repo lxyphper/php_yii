@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "body",
+      "error_analysis": "学生易将“body”在“主体部分”语境中的含义误判为其基本义“身体”或形近词“buddy”（朋友）的含义",
+      "sentence": "The main **body** of the report presents the survey results from 500 participants.",
+      "options": {
+        "option": [
+          {
+            "definition": "身体",
+            "iscorrect": false
+          },
+          {
+            "definition": "朋友",
+            "iscorrect": false
+          },
+          {
+            "definition": "尸体",
+            "iscorrect": false
+          },
+          {
+            "definition": "主体部分",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

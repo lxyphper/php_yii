@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Austrian",
+      "error_analysis": "易混淆形近词\"Australian\"(澳大利亚人)，或因词根联想错误将其与\"Australia\"(澳大利亚)关联",
+      "sentence": "The **Austrian** capital, Vienna, is famous for its classical music and coffee houses.",
+      "options": {
+        "option": [
+          {
+            "definition": "奥地利人；奥地利的",
+            "iscorrect": true
+          },
+          {
+            "definition": "澳大利亚人；澳大利亚的",
+            "iscorrect": false
+          },
+          {
+            "definition": "奥斯特拉人的；奥斯特拉的（虚构词义，基于词根错误联想）",
+            "iscorrect": false
+          },
+          {
+            "definition": "严厉的；苛刻的（混淆自形近词\"austere\"）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

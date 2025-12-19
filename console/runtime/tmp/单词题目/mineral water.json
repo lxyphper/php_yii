@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mineral water",
+      "error_analysis": "中国学生易因形近词“mine”（矿井）误解为“矿井水”，或因“mineral”直译导致“矿物水”的错误理解。",
+      "sentence": "I always buy a bottle of **mineral water** when I go hiking because it's refreshing and has natural minerals.",
+      "options": {
+        "option": [
+          {
+            "definition": "矿井水",
+            "iscorrect": false
+          },
+          {
+            "definition": "矿物水",
+            "iscorrect": false
+          },
+          {
+            "definition": "矿渣水",
+            "iscorrect": false
+          },
+          {
+            "definition": "矿泉水",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

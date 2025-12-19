@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "swimsuit",
+      "error_analysis": "学生易因“suit”关联形近词“suitcase”（行李箱）或直译“swim+suit”为“游泳套装”而误解“swimsuit”。",
+      "sentence": "She bought a new **swimsuit** for her upcoming beach vacation.",
+      "options": {
+        "option": [
+          {
+            "definition": "泳衣",
+            "iscorrect": true
+          },
+          {
+            "definition": "行李箱",
+            "iscorrect": false
+          },
+          {
+            "definition": "游泳套装",
+            "iscorrect": false
+          },
+          {
+            "definition": "泳帽",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

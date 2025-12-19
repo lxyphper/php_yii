@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to compromise",
+      "error_analysis": "混淆形近词\"promise\"(承诺)导致误判，或词根误推为\"共同承诺\"而非\"妥协\"",
+      "sentence": "In order to resolve the dispute, both sides had to **compromise** on their original demands.",
+      "options": {
+        "option": [
+          {
+            "definition": "妥协；让步",
+            "iscorrect": true
+          },
+          {
+            "definition": "承诺；答应",
+            "iscorrect": false
+          },
+          {
+            "definition": "共同承诺；一致同意",
+            "iscorrect": false
+          },
+          {
+            "definition": "损害；削弱",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

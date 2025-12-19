@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "movie maker",
+      "error_analysis": "学生易将'maker'误联想为形近词'marker'（马克笔），或直译为'电影制作软件'而非'电影制作人'。",
+      "sentence": "The **movie maker** spent two years filming the documentary in remote areas.",
+      "options": {
+        "option": [
+          {
+            "definition": "电影制作人（指从事电影制作的人或团队）",
+            "iscorrect": true
+          },
+          {
+            "definition": "马克笔（一种用于书写或绘画的工具）",
+            "iscorrect": false
+          },
+          {
+            "definition": "电影制作软件（如用于编辑视频的计算机程序）",
+            "iscorrect": false
+          },
+          {
+            "definition": "电影观众（前往电影院观看电影的人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

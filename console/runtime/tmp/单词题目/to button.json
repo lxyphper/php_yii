@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to button",
+      "error_analysis": "学生易因名词\"button\"（按钮）的字面联想，将动词\"to button\"误解为\"按（按钮）\"。",
+      "sentence": "It’s cold outside—don’t forget to **button** your jacket before you go out.",
+      "options": {
+        "option": [
+          {
+            "definition": "扣上（纽扣）",
+            "iscorrect": true
+          },
+          {
+            "definition": "按（按钮）",
+            "iscorrect": false
+          },
+          {
+            "definition": "涂黄油",
+            "iscorrect": false
+          },
+          {
+            "definition": "到达底部",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

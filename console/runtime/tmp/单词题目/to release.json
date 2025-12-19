@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to release",
+      "error_analysis": "中国学生易混淆形近词\"relieve\"(缓解)及词根\"lease\"(租赁)导致的\"再次租赁\"错误理解",
+      "sentence": "The company plans to **release** a new smartphone next month.",
+      "options": {
+        "option": [
+          {
+            "definition": "释放；发布（新产品/信息等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "缓解；减轻（痛苦/压力等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "再次租赁；续租（房屋/设备等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "放松；使轻松（情绪/身体等）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "portly",
+      "error_analysis": "学生易因形近词\"portable\"(便携的)或词根\"port\"(港口/携带)误联想为\"便携的\"\"与港口相关的\"或\"庄重的\"",
+      "sentence": "The **portly** man had to squeeze through the narrow doorway of the old café.",
+      "options": {
+        "option": [
+          {
+            "definition": "肥胖的；胖乎乎的（委婉说法）",
+            "iscorrect": true
+          },
+          {
+            "definition": "便携的；可携带的",
+            "iscorrect": false
+          },
+          {
+            "definition": "庄重的；威严的",
+            "iscorrect": false
+          },
+          {
+            "definition": "与港口相关的；码头的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

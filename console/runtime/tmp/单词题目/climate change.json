@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "climate change",
+      "error_analysis": "将“climate change”误理解为“天气变化”（因“climate”常与“weather”混淆，词根/字面误导）",
+      "sentence": "Scientists warn that **climate change** is causing more frequent extreme weather events like hurricanes and droughts.",
+      "options": {
+        "option": [
+          {
+            "definition": "气候变化",
+            "iscorrect": true
+          },
+          {
+            "definition": "天气变化",
+            "iscorrect": false
+          },
+          {
+            "definition": "高潮变化",
+            "iscorrect": false
+          },
+          {
+            "definition": "环境变化",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

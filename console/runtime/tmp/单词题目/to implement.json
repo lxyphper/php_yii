@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to implement",
+      "error_analysis": "学生易因形近词“implement”（名词，工具）的影响将动词“to implement”误理解为“使用工具”，或因与“complement”（补充）形近而误解为“补充”。",
+      "sentence": "The government plans to **implement** a new policy to improve public health next month.",
+      "options": {
+        "option": [
+          {
+            "definition": "实施；执行",
+            "iscorrect": true
+          },
+          {
+            "definition": "使用工具；操作工具",
+            "iscorrect": false
+          },
+          {
+            "definition": "补充；补足",
+            "iscorrect": false
+          },
+          {
+            "definition": "暗示；隐含",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

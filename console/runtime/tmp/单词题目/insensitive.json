@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "insensitive",
+      "error_analysis": "学生易因形近词“insensible”（无感觉的）混淆，或因词根“sens”的“理智”义误导为“不理智的”。",
+      "sentence": "His joke about her weight was **insensitive**—he didn’t realize how much it hurt her.",
+      "options": {
+        "option": [
+          {
+            "definition": "不敏感的（对他人的感受或需求没有意识到的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "无感觉的（昏迷或失去知觉的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "不理智的（缺乏判断力的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "不真诚的（不诚实的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

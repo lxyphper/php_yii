@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to deglaze",
+      "error_analysis": "学生易基于词根“de-”（去除）+“glaze”（釉）将“deglaze”误解为“去除釉层”",
+      "sentence": "After searing the steak, the chef used red wine to **deglaze** the pan, turning the browned bits into a rich sauce.",
+      "options": {
+        "option": [
+          {
+            "definition": "（烹饪中）用液体冲洗热锅以溶解锅底的焦糊物质",
+            "iscorrect": true
+          },
+          {
+            "definition": "去除物体表面的釉层",
+            "iscorrect": false
+          },
+          {
+            "definition": "使玻璃或眼睛表面变模糊",
+            "iscorrect": false
+          },
+          {
+            "definition": "去除食物表面的糖霜",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "credit card",
+      "error_analysis": "学生易因“credit”与“create”形近而误解为“创造卡”，或因“credit”的“学分”含义误判为“学分卡”",
+      "sentence": "When I bought the new laptop, I paid with a **credit card** instead of cash, so I'll need to pay the bill next month.",
+      "options": {
+        "option": [
+          {
+            "definition": "创造卡",
+            "iscorrect": false
+          },
+          {
+            "definition": "学分卡",
+            "iscorrect": false
+          },
+          {
+            "definition": "信用卡",
+            "iscorrect": true
+          },
+          {
+            "definition": "储蓄卡",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

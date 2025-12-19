@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "commis",
+      "error_analysis": "学生易因形近词\"commission\"(佣金)或\"commit\"(承诺)误将\"commis\"理解为\"佣金\"或\"承诺者\"",
+      "sentence": "The **commis** in the restaurant helps the head chef prepare vegetables and arrange plating before service.",
+      "options": {
+        "option": [
+          {
+            "definition": "佣金；手续费",
+            "iscorrect": false
+          },
+          {
+            "definition": "承诺者；践行者",
+            "iscorrect": false
+          },
+          {
+            "definition": "助理厨师；学徒厨师",
+            "iscorrect": true
+          },
+          {
+            "definition": "任务执行者；特派人员",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

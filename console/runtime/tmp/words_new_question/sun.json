@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sun",
+      "error_analysis": "中国学生易因形近词“son”（儿子）的视觉/发音混淆，或误将“sun”理解为“阳光”（sunshine）而犯错",
+      "sentence": "The **sun** rises in the east and sets in the west every day.",
+      "options": {
+        "option": [
+          {
+            "definition": "太阳",
+            "iscorrect": true
+          },
+          {
+            "definition": "儿子",
+            "iscorrect": false
+          },
+          {
+            "definition": "阳光",
+            "iscorrect": false
+          },
+          {
+            "definition": "总和",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

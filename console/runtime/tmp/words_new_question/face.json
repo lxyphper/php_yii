@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "face",
+      "error_analysis": "学生易因形近词“fact”（事实）或混淆名词（脸）与动词（面对）用法而误判“face”的词义",
+      "sentence": "The baby’s **face** lit up when she saw her mother.",
+      "options": {
+        "option": [
+          {
+            "definition": "事实",
+            "iscorrect": false
+          },
+          {
+            "definition": "面对",
+            "iscorrect": false
+          },
+          {
+            "definition": "脸",
+            "iscorrect": true
+          },
+          {
+            "definition": "命运",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

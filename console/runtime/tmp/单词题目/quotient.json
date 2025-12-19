@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "quotient",
+      "error_analysis": "学生易因形近词\"quote\"（引用）将\"quotient\"误理解为\"引用\"或\"引语\"",
+      "sentence": "To find the **quotient** of 12 divided by 3, you simply calculate how many times 3 fits into 12.",
+      "options": {
+        "option": [
+          {
+            "definition": "商（数学中除法的结果）",
+            "iscorrect": true
+          },
+          {
+            "definition": "引用；引语",
+            "iscorrect": false
+          },
+          {
+            "definition": "数量；总量",
+            "iscorrect": false
+          },
+          {
+            "definition": "比例；比率",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

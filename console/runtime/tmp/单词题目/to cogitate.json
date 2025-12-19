@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to cogitate",
+      "error_analysis": "学生易因形近词\"agitate\"（激动/搅动）混淆，或因词根\"cog\"（齿轮）猜测为\"机械转动\"而非\"仔细思考\"。",
+      "sentence": "After receiving the job offer, she decided to **cogitate** for a few days before giving a reply.",
+      "options": {
+        "option": [
+          {
+            "definition": "仔细思考；深思熟虑",
+            "iscorrect": true
+          },
+          {
+            "definition": "激动；搅动",
+            "iscorrect": false
+          },
+          {
+            "definition": "机械转动；齿轮运转",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速行动；加速前进",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

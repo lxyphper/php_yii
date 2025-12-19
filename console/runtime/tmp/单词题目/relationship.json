@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "relationship",
+      "error_analysis": "学生易因形近词“relative”（亲戚）或词根“ship”（船）误导，错误理解“relationship”为“亲戚”或“运输工具”",
+      "sentence": "Sarah and Tom have a close **relationship**; they’ve been best friends since childhood.",
+      "options": {
+        "option": [
+          {
+            "definition": "关系（如人与人之间的情感或社会联系）",
+            "iscorrect": true
+          },
+          {
+            "definition": "亲戚（家庭成员或有血缘关系的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "运输工具（如船或轮船）",
+            "iscorrect": false
+          },
+          {
+            "definition": "联系的行为（如沟通或关联的动作）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

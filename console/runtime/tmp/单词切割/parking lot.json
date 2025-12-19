@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "parkking lot",
+      "parcking lot",
+      "parkin lot",
+      "parking lott",
+      "parking loot"
+    ],
+    "correct_chunks": [
+      "park",
+      "ing",
+      "lot"
+    ],
+    "distractor_chunks": [
+      "parkk",
+      "parc",
+      "parkin",
+      "lott",
+      "loot"
+    ]
+  },
+  0
+]

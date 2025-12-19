@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ten",
+      "error_analysis": "中国学生易因形近词混淆“ten”（十）与“pen”（钢笔）、“hen”（母鸡）",
+      "sentence": "There are **ten** apples in the basket; let's share them equally.",
+      "options": {
+        "option": [
+          {
+            "definition": "十",
+            "iscorrect": true
+          },
+          {
+            "definition": "钢笔",
+            "iscorrect": false
+          },
+          {
+            "definition": "母鸡",
+            "iscorrect": false
+          },
+          {
+            "definition": "倾向",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

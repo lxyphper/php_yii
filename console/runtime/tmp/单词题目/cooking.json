@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cooking",
+      "error_analysis": "学生易因形近词“cookie”（饼干）的联想，或词根“cook”（厨师）的过度延伸，将“cooking”误判为“饼干”或“厨师”。",
+      "sentence": "My mom's **cooking** is the best I've ever tasted—she makes the most delicious dumplings and stir-fries.",
+      "options": {
+        "option": [
+          {
+            "definition": "饭菜（指做好的食物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "饼干（形近词“cookie”的错误联想）",
+            "iscorrect": false
+          },
+          {
+            "definition": "厨师（词根“cook”的过度延伸）",
+            "iscorrect": false
+          },
+          {
+            "definition": "正在烹饪的动作（对动名词用法的片面理解）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

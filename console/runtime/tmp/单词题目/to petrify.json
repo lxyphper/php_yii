@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to petrify",
+      "error_analysis": "学生易因形近词“pet”（宠物）联想“宠爱”，或因词根“petr-”（石头）过度直译“使变成石头”，而忽略其“使惊呆”的常用引申义。",
+      "sentence": "When she saw the snake crawling towards her, she was completely **petrified** and couldn’t move.",
+      "options": {
+        "option": [
+          {
+            "definition": "使惊呆；使吓呆",
+            "iscorrect": true
+          },
+          {
+            "definition": "宠爱；溺爱",
+            "iscorrect": false
+          },
+          {
+            "definition": "使变成石头",
+            "iscorrect": false
+          },
+          {
+            "definition": "使腐烂；使变质",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

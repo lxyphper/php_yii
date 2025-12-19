@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "blue chese",
+      "blue cheez",
+      "bloo cheese",
+      "blue cheece"
+    ],
+    "correct_chunks": [
+      "blue",
+      "chee",
+      "se"
+    ],
+    "distractor_chunks": [
+      "che",
+      "ez",
+      "oo",
+      "ce"
+    ]
+  },
+  0
+]

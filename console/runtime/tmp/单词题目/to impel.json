@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to impel",
+      "error_analysis": "学生易因形近词（如impede/compel）混淆，将impel误判为“阻碍”或“强迫”",
+      "sentence": "The desire to prove herself **impelled** her to take on the challenging project.",
+      "options": {
+        "option": [
+          {
+            "definition": "阻碍",
+            "iscorrect": false
+          },
+          {
+            "definition": "强迫",
+            "iscorrect": false
+          },
+          {
+            "definition": "推动；激励",
+            "iscorrect": true
+          },
+          {
+            "definition": "排斥",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

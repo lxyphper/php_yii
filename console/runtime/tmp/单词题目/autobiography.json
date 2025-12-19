@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "autobiography",
+      "error_analysis": "学生易因词根“auto+bio+graphy”的字面误导（如误解为“个人生物记录”）或形近词“autograph”（签名）的联想（如“签名集”）而混淆词义。",
+      "sentence": "The famous actress published her **autobiography** last year, revealing many unknown details about her childhood and career.",
+      "options": {
+        "option": [
+          {
+            "definition": "自传（自己撰写的关于自己一生的故事）",
+            "iscorrect": true
+          },
+          {
+            "definition": "个人生物记录（如体检报告或基因档案）",
+            "iscorrect": false
+          },
+          {
+            "definition": "签名集（收集的名人签名册）",
+            "iscorrect": false
+          },
+          {
+            "definition": "他人撰写的传记（如学者为名人写的生平）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

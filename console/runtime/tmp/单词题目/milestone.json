@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "milestone",
+      "error_analysis": "易混淆形近词millstone（负担）及字面直译“里程石”（忽略抽象含义）",
+      "sentence": "Graduating from university was a major **milestone** in her life, marking the start of her career.",
+      "options": {
+        "option": [
+          {
+            "definition": "负担；沉重的责任",
+            "iscorrect": false
+          },
+          {
+            "definition": "（重要事件或阶段的）里程碑",
+            "iscorrect": true
+          },
+          {
+            "definition": "标记英里数的石头",
+            "iscorrect": false
+          },
+          {
+            "definition": "道路旁的路标",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

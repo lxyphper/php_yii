@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "witness tampering",
+      "error_analysis": "学生易因不认识“tamper”将“witness tampering”直译为“证人篡改证词”，或因“tampering”与“testifying”形近而误解为“证人作证”",
+      "sentence": "The prosecutor accused the defendant of **witness tampering** after evidence showed he had offered money to the key witness to change her story.",
+      "options": {
+        "option": [
+          {
+            "definition": "干扰证人（法律术语，指威胁或贿赂证人以影响其证词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "证人作证",
+            "iscorrect": false
+          },
+          {
+            "definition": "证人篡改证词",
+            "iscorrect": false
+          },
+          {
+            "definition": "证人处理",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

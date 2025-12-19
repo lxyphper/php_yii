@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wing",
+      "error_analysis": "学生易因形近词“win”（赢）将“wing”误理解为“胜利”，或因字面联想将其误判为“羽毛”等组成部分。",
+      "sentence": "The bird flapped its **wing** to stay in the air.",
+      "options": {
+        "option": [
+          {
+            "definition": "翅膀；机翼",
+            "iscorrect": true
+          },
+          {
+            "definition": "胜利；成功",
+            "iscorrect": false
+          },
+          {
+            "definition": "风；气流",
+            "iscorrect": false
+          },
+          {
+            "definition": "羽毛；羽绒",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

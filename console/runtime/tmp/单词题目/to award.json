@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to award",
+      "error_analysis": "易与形近词\"aware\"（意识到）混淆，或因\"ward\"（病房）的词根误导而误解为\"给病房\"",
+      "sentence": "The committee decided to **award** her the first prize for her outstanding performance in the competition.",
+      "options": {
+        "option": [
+          {
+            "definition": "意识到",
+            "iscorrect": false
+          },
+          {
+            "definition": "授予（奖项、荣誉等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "给病房",
+            "iscorrect": false
+          },
+          {
+            "definition": "回报",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "flood",
+      "error_analysis": "学生易将“flood”与形近词“blood”（血液）混淆，或误猜为“流动”。",
+      "sentence": "When the dam broke, a **flood** rushed through the valley and destroyed all the crops.",
+      "options": {
+        "option": [
+          {
+            "definition": "洪水；大量涌入",
+            "iscorrect": true
+          },
+          {
+            "definition": "血液",
+            "iscorrect": false
+          },
+          {
+            "definition": "流动",
+            "iscorrect": false
+          },
+          {
+            "definition": "火焰",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

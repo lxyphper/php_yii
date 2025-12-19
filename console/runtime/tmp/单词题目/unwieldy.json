@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unwieldy",
+      "error_analysis": "学生易因形近词\"unyieldy\"(不屈服的)或词根\"wield\"(运用)猜测，将\"unwieldy\"误理解为\"不屈服的\"或\"不耐用的\"",
+      "sentence": "The new sofa is so **unwieldy** that we had to take it apart to move it into the living room.",
+      "options": {
+        "option": [
+          {
+            "definition": "不屈服的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不耐用的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不开心的",
+            "iscorrect": false
+          },
+          {
+            "definition": "难以操作的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

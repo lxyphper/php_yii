@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "yeah",
+      "error_analysis": "中国学生易因\"yeah\"与\"year\"（年）拼写相似，或发音接近\"呀\"（语气词）而误判其核心含义",
+      "sentence": "—Do you want to go to the movies tonight? —**Yeah**, I’d love to!",
+      "options": {
+        "option": [
+          {
+            "definition": "是的（口语中表示同意）",
+            "iscorrect": true
+          },
+          {
+            "definition": "年（year的含义，因拼写相似而误判）",
+            "iscorrect": false
+          },
+          {
+            "definition": "呀（语气词，表示惊讶或感叹，因发音相近而误判）",
+            "iscorrect": false
+          },
+          {
+            "definition": "喊叫（yell的含义，因拼写部分相似而误判）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

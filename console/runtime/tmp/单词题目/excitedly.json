@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "excitedly",
+      "error_analysis": "学生易因形近词\"exactly\"（精确地）混淆，或误将词根\"excite\"的副词形式理解为\"刺激地\"而非\"兴奋地\"",
+      "sentence": "When she heard the good news, she jumped up and spoke **excitedly** about her upcoming trip to Paris.",
+      "options": {
+        "option": [
+          {
+            "definition": "兴奋地",
+            "iscorrect": true
+          },
+          {
+            "definition": "精确地",
+            "iscorrect": false
+          },
+          {
+            "definition": "刺激地",
+            "iscorrect": false
+          },
+          {
+            "definition": "缓慢地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

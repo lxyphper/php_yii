@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cramped",
+      "error_analysis": "学生易因形近词“cramp”（抽筋）误将“cramped”理解为“抽筋的”，或因词根联想“cramp”（紧绷）误判为“紧绷的”。",
+      "sentence": "The small apartment felt so **cramped** with all the furniture piled into one room.",
+      "options": {
+        "option": [
+          {
+            "definition": "抽筋的",
+            "iscorrect": false
+          },
+          {
+            "definition": "紧绷的",
+            "iscorrect": false
+          },
+          {
+            "definition": "空旷的",
+            "iscorrect": false
+          },
+          {
+            "definition": "狭窄的；拥挤的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

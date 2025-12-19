@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "perspicacious",
+      "error_analysis": "学生易因形近词\"perspective\"（视角）误判为\"有观点的\"，或因词根\"spic\"（看见）错误推导为\"容易被观察的\"",
+      "sentence": "The **perspicacious** detective immediately noticed the contradiction in the suspect's story and solved the case within hours.",
+      "options": {
+        "option": [
+          {
+            "definition": "洞察力强的；敏锐的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有观点的；视角鲜明的",
+            "iscorrect": false
+          },
+          {
+            "definition": "容易被观察的；显眼的",
+            "iscorrect": false
+          },
+          {
+            "definition": "怀疑的；可疑的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "glad",
+      "error_analysis": "中国学生易因形近词\"glass\"（玻璃）或\"grade\"（年级）混淆\"glad\"词义，误将其理解为\"玻璃\"或\"年级\"。",
+      "sentence": "She was **glad** to hear that her friend had passed the exam.",
+      "options": {
+        "option": [
+          {
+            "definition": "高兴的；愉快的",
+            "iscorrect": true
+          },
+          {
+            "definition": "玻璃",
+            "iscorrect": false
+          },
+          {
+            "definition": "年级；分数",
+            "iscorrect": false
+          },
+          {
+            "definition": "滑行；滑动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stripe",
+      "error_analysis": "学生易因形近词\"strike\"(打击)或\"strip\"(条状物)产生错误理解",
+      "sentence": "The zebra has distinct black and white **stripes** that help it blend into the savanna.",
+      "options": {
+        "option": [
+          {
+            "definition": "打击；罢工",
+            "iscorrect": false
+          },
+          {
+            "definition": "条状物；剥离",
+            "iscorrect": false
+          },
+          {
+            "definition": "条纹",
+            "iscorrect": true
+          },
+          {
+            "definition": "脚步；步骤",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

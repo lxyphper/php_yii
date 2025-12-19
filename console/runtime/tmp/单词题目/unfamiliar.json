@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unfamiliar",
+      "error_analysis": "中国学生易因“familiar”与“fashionable”形近将“unfamiliar”误判为“不时尚的”，或因“不熟悉”与“不常见”词义混淆误判为“不常见的”。",
+      "sentence": "The menu had many **unfamiliar** dishes, so I asked the waiter for recommendations.",
+      "options": {
+        "option": [
+          {
+            "definition": "不熟悉的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不时尚的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不常见的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不幸的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

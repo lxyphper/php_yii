@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to subside",
+      "error_analysis": "学生易因“sub-”前缀（下）和“side”（边/坐）的字面拆解，误将“to subside”理解为“下沉”或“到下面”，忽略其“（情绪、疼痛等）减弱、平息”的核心含义",
+      "sentence": "After the argument, her anger gradually **subsided** and she calmed down.",
+      "options": {
+        "option": [
+          {
+            "definition": "（情绪、疼痛等）减弱、平息",
+            "iscorrect": true
+          },
+          {
+            "definition": "下沉；下降",
+            "iscorrect": false
+          },
+          {
+            "definition": "生存；维持生活",
+            "iscorrect": false
+          },
+          {
+            "definition": "居住；定居",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

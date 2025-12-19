@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "straight",
+      "error_analysis": "学生易因形近词混淆，将“straight”误判为“严格的”(strict)或“奇怪的”(strange)。",
+      "sentence": "Go **straight** along this road, and you’ll see the park on your left.",
+      "options": {
+        "option": [
+          {
+            "definition": "直地；笔直地（沿直线方向行进）",
+            "iscorrect": true
+          },
+          {
+            "definition": "严格的",
+            "iscorrect": false
+          },
+          {
+            "definition": "奇怪的",
+            "iscorrect": false
+          },
+          {
+            "definition": "迷路的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "twice",
+      "error_analysis": "学生易因形近词“twist”（扭曲）误判词义，或混淆“twice”（两次）与“two”（两个）的语义。",
+      "sentence": "She drinks milk **twice** a day to keep healthy.",
+      "options": {
+        "option": [
+          {
+            "definition": "两次；两倍",
+            "iscorrect": true
+          },
+          {
+            "definition": "扭曲；转动",
+            "iscorrect": false
+          },
+          {
+            "definition": "两个",
+            "iscorrect": false
+          },
+          {
+            "definition": "第二",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

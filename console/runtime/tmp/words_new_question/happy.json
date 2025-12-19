@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "happy",
+      "error_analysis": "因形近词happen（发生）的干扰，易将happy误理解为“发生”",
+      "sentence": "She looks **happy** because she got a new toy from her parents.",
+      "options": {
+        "option": [
+          {
+            "definition": "快乐的；幸福的",
+            "iscorrect": true
+          },
+          {
+            "definition": "发生",
+            "iscorrect": false
+          },
+          {
+            "definition": "重的",
+            "iscorrect": false
+          },
+          {
+            "definition": "收获",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "epecenter",
+      "epycenter",
+      "apicenter",
+      "epicentre",
+      "epicnter",
+      "epicentor"
+    ],
+    "correct_chunks": [
+      "epi",
+      "center"
+    ],
+    "distractor_chunks": [
+      "epe",
+      "epy",
+      "api",
+      "centre",
+      "cnter",
+      "entor"
+    ]
+  },
+  0
+]

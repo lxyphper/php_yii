@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "decagon",
+      "error_analysis": "学生易因形近词“decade”（十年）或词根“dec-”（十）的误导，将“decagon”误解为十年期或十进制系统，而非十边形。",
+      "sentence": "The playground has a new fountain with a **decagon** base, which means it has ten sides and ten angles.",
+      "options": {
+        "option": [
+          {
+            "definition": "十边形",
+            "iscorrect": true
+          },
+          {
+            "definition": "十年期",
+            "iscorrect": false
+          },
+          {
+            "definition": "十进制系统",
+            "iscorrect": false
+          },
+          {
+            "definition": "龙的一种",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

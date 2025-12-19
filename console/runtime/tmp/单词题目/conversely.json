@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "conversely",
+      "error_analysis": "学生易混淆形近词\"consequently\"(因此)与\"conversely\"(相反地)，或误从\"converse\"动词义(交谈)猜测其为\"交谈地\"",
+      "sentence": "Some people prefer to work alone; **conversely**, others thrive in team environments.",
+      "options": {
+        "option": [
+          {
+            "definition": "相反地",
+            "iscorrect": true
+          },
+          {
+            "definition": "因此",
+            "iscorrect": false
+          },
+          {
+            "definition": "交谈地",
+            "iscorrect": false
+          },
+          {
+            "definition": "此外",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

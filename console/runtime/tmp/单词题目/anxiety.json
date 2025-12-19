@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "anxiety",
+      "error_analysis": "学生易因\"anxiety\"与\"anger\"（愤怒）发音相近（形近词）或词根\"anx-\"的字面误导而误解其为\"愤怒\"或\"渴望\"",
+      "sentence": "Her **anxiety** about the exam made it hard for her to sleep the night before.",
+      "options": {
+        "option": [
+          {
+            "definition": "焦虑；担忧",
+            "iscorrect": true
+          },
+          {
+            "definition": "愤怒",
+            "iscorrect": false
+          },
+          {
+            "definition": "渴望",
+            "iscorrect": false
+          },
+          {
+            "definition": "兴奋",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

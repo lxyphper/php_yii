@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to fit",
+      "error_analysis": "学生易因形近词fix（修理）的干扰，或误将动词to fit（适合）混淆为形容词fit（健康的）的动词形式。",
+      "sentence": "I bought a new hat online, but it doesn't **fit** my head—too tight!",
+      "options": {
+        "option": [
+          {
+            "definition": "修理",
+            "iscorrect": false
+          },
+          {
+            "definition": "健康的",
+            "iscorrect": false
+          },
+          {
+            "definition": "安装",
+            "iscorrect": false
+          },
+          {
+            "definition": "适合",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

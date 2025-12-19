@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "photosynthesis",
+      "error_analysis": "学生易因形近词（如photography）误判为“摄影相关”，或因词根拆分（photo+合成）误猜为“照片合成”",
+      "sentence": "Plants rely on **photosynthesis** to turn carbon dioxide, water, and sunlight into energy-rich glucose and oxygen, a process vital for all life on Earth.",
+      "options": {
+        "option": [
+          {
+            "definition": "光合作用（植物利用光将二氧化碳、水转化为能量物质的过程）",
+            "iscorrect": true
+          },
+          {
+            "definition": "摄影术（通过光记录图像的传统技术）",
+            "iscorrect": false
+          },
+          {
+            "definition": "照片合成（将多张照片拼接成新图像的方法）",
+            "iscorrect": false
+          },
+          {
+            "definition": "光学检测（利用光分析物质成分的手段）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to ridicule",
+      "error_analysis": "因形近词“ridiculous”（可笑的）干扰，易将动词“to ridicule”误解为“使变得可笑”或混淆词性导致词义偏差。",
+      "sentence": "She felt deeply hurt when her so-called friends began to **ridicule** her dream of becoming an artist.",
+      "options": {
+        "option": [
+          {
+            "definition": "嘲笑；嘲弄",
+            "iscorrect": true
+          },
+          {
+            "definition": "使变得可笑",
+            "iscorrect": false
+          },
+          {
+            "definition": "可笑的事物",
+            "iscorrect": false
+          },
+          {
+            "definition": "摆脱小麻烦",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

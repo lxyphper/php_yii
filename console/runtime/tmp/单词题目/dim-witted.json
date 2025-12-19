@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dim-witted",
+      "error_analysis": "学生易因“dim”（昏暗的）和“witted”（智慧的）的字面组合，将“dim-witted”误解为“思路模糊的”或“缺乏幽默感的”，而非正确的“愚蠢的”。",
+      "sentence": "Despite being given clear instructions, the **dim-witted** boy still managed to break the vase while trying to move it.",
+      "options": {
+        "option": [
+          {
+            "definition": "愚蠢的，迟钝的",
+            "iscorrect": true
+          },
+          {
+            "definition": "思路模糊的（因“dim”表“昏暗”而联想）",
+            "iscorrect": false
+          },
+          {
+            "definition": "缺乏幽默感的（因“wit”表“幽默”而误导）",
+            "iscorrect": false
+          },
+          {
+            "definition": "视力差的（因“dim”表“昏暗”而误解）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

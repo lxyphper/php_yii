@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bathtub",
+      "error_analysis": "学生易将\"bathtub\"拆分为\"bat\"(蝙蝠/打击)和\"tub\"(桶)，误判为\"蝙蝠窝\"或\"打击用的桶\"",
+      "sentence": "After a long day, she filled the **bathtub** with warm water and added some bath bombs to relax.",
+      "options": {
+        "option": [
+          {
+            "definition": "浴缸",
+            "iscorrect": true
+          },
+          {
+            "definition": "蝙蝠窝",
+            "iscorrect": false
+          },
+          {
+            "definition": "打击用的桶",
+            "iscorrect": false
+          },
+          {
+            "definition": "洗衣桶",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

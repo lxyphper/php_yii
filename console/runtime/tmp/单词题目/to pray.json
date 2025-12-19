@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to pray",
+      "error_analysis": "中国学生易因形近词混淆，将\"pray\"误判为\"play\"(玩)、\"pay\"(支付)或\"prey\"(捕食)的意思",
+      "sentence": "Every Sunday, she goes to the church to **pray** for her family's health.",
+      "options": {
+        "option": [
+          {
+            "definition": "祈祷；祷告",
+            "iscorrect": true
+          },
+          {
+            "definition": "玩；演奏",
+            "iscorrect": false
+          },
+          {
+            "definition": "支付；付款",
+            "iscorrect": false
+          },
+          {
+            "definition": "捕食；猎取",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

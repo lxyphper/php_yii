@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "solicitor",
+      "error_analysis": "学生易因形近词\"solicit\"(请求、招揽)或词根误导，将\"solicitor\"误判为\"请求者\"或\"招揽者\"",
+      "sentence": "After the car accident, he hired a **solicitor** to handle the insurance claim and negotiate with the other party.",
+      "options": {
+        "option": [
+          {
+            "definition": "（英国的）事务律师",
+            "iscorrect": true
+          },
+          {
+            "definition": "请求者；招揽者",
+            "iscorrect": false
+          },
+          {
+            "definition": "推销员；促销员",
+            "iscorrect": false
+          },
+          {
+            "definition": "咨询顾问",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "video display",
+      "error_analysis": "学生易将\"video display\"字面直译为\"视频展示\"（忽略\"display\"作\"显示器\"的名词义），或混淆为\"视频播放\"（误将\"display\"等同于\"play\"）",
+      "sentence": "The new smartphone features a 6.7-inch OLED **video display** that delivers sharp and vibrant images for watching movies.",
+      "options": {
+        "option": [
+          {
+            "definition": "视频显示器（屏幕）",
+            "iscorrect": true
+          },
+          {
+            "definition": "视频展示（活动或过程）",
+            "iscorrect": false
+          },
+          {
+            "definition": "视频播放（功能或动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "视频设备（泛称）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

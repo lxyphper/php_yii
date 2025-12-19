@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "aurora",
+      "error_analysis": "学生易因形近词“aura”（气息、氛围）或对“aur-”词根（光）的陌生而误判为非极光义",
+      "sentence": "Photographers braved the freezing Arctic winds to snap the **aurora** that painted the night sky in pink and green streaks.",
+      "options": {
+        "option": [
+          {
+            "definition": "极光",
+            "iscorrect": true
+          },
+          {
+            "definition": "气息；氛围",
+            "iscorrect": false
+          },
+          {
+            "definition": "黄金（金属）",
+            "iscorrect": false
+          },
+          {
+            "definition": "龙卷风",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

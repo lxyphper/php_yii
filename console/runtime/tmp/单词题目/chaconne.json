@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "chaconne",
+      "error_analysis": "学生易因形近词\"chanson\"(歌曲)或直觉联想，将\"chaconne\"误判为\"歌曲\"或\"舞蹈\"",
+      "sentence": "Bach's **Chaconne** in D minor, from his Partita No. 2 for solo violin, is a masterpiece of Baroque variation form built on a repeating bass line.",
+      "options": {
+        "option": [
+          {
+            "definition": "一种巴洛克时期基于固定低音的变奏曲音乐形式",
+            "iscorrect": true
+          },
+          {
+            "definition": "一种法国传统抒情歌曲（如香颂）",
+            "iscorrect": false
+          },
+          {
+            "definition": "一种古典芭蕾中的快速旋转舞蹈动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "一种18世纪欧洲流行的木管乐器",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

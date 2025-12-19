@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to fabricate",
+      "error_analysis": "学生易因形近词\"fabric\"（织物）联想到\"制造（实物）\"，或因词根\"fabric\"（结构）误判为\"构建\"，而非\"伪造\"。",
+      "sentence": "The witness admitted that he had **fabricated** the entire story to protect his friend.",
+      "options": {
+        "option": [
+          {
+            "definition": "编造；伪造",
+            "iscorrect": true
+          },
+          {
+            "definition": "制造（如织物或家具）",
+            "iscorrect": false
+          },
+          {
+            "definition": "构建（如理论或结构）",
+            "iscorrect": false
+          },
+          {
+            "definition": "装饰（如房间或物品）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

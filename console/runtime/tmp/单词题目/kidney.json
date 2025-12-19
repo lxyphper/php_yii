@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "kidney",
+      "error_analysis": "学生易因形近词“kid”（孩子/幼崽）和“knee”（膝盖）的联想，误以为“kidney”与“孩子的膝盖”或“幼崽”相关。",
+      "sentence": "The doctor advised him to reduce salt intake because his **kidney** function was declining.",
+      "options": {
+        "option": [
+          {
+            "definition": "肾脏",
+            "iscorrect": true
+          },
+          {
+            "definition": "孩子的膝盖",
+            "iscorrect": false
+          },
+          {
+            "definition": "幼崽",
+            "iscorrect": false
+          },
+          {
+            "definition": "小玩意儿",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

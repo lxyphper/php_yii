@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "white meat",
+      "error_analysis": "学生易因\"white\"(白色)和\"meat\"(肉)的字面组合，误将\"white meat\"理解为\"白色的肉类（如猪肉、鱼肉）\"，而其正确含义为禽类的肉。",
+      "sentence": "For a healthier meal, try replacing red meat with **white meat** like chicken or turkey in this stir-fry.",
+      "options": {
+        "option": [
+          {
+            "definition": "禽类的肉（如鸡、火鸡）",
+            "iscorrect": true
+          },
+          {
+            "definition": "白色的肉类（如猪肉、鱼肉）",
+            "iscorrect": false
+          },
+          {
+            "definition": "动物的肥肉部分",
+            "iscorrect": false
+          },
+          {
+            "definition": "新鲜的生肉类",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

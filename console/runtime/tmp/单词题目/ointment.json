@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ointment",
+      "error_analysis": "因形近词\"appointment\"（约会）干扰，易误判为\"约会\"；或因词根不熟悉误判为\"油\"等含义。",
+      "sentence": "My mom asked me to apply some **ointment** on the cut to prevent infection.",
+      "options": {
+        "option": [
+          {
+            "definition": "软膏；药膏",
+            "iscorrect": true
+          },
+          {
+            "definition": "约会；预约",
+            "iscorrect": false
+          },
+          {
+            "definition": "油；油脂",
+            "iscorrect": false
+          },
+          {
+            "definition": "点；要点",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

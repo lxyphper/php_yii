@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "amusement",
+      "error_analysis": "学生易因形近词\"amaze\"（惊讶）的联想，将\"amusement\"误判为\"惊讶\"的名词形式，或因不熟悉\"amuse\"词义而通过词根猜测错误。",
+      "sentence": "The children found great **amusement** in chasing butterflies in the garden.",
+      "options": {
+        "option": [
+          {
+            "definition": "娱乐；消遣",
+            "iscorrect": true
+          },
+          {
+            "definition": "惊讶；惊奇",
+            "iscorrect": false
+          },
+          {
+            "definition": "沉思；冥想",
+            "iscorrect": false
+          },
+          {
+            "definition": "使用；利用",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

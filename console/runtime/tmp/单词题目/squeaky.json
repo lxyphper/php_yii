@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "squeaky",
+      "error_analysis": "学生易因形近词`steaky`（像牛排的）混淆，或误将`squeaky`推导为“挤压的”（因与`squeeze`拼写接近）",
+      "sentence": "The old door hinge made a **squeaky** noise every time I opened it.",
+      "options": {
+        "option": [
+          {
+            "definition": "吱吱响的；发 squeak 声的",
+            "iscorrect": true
+          },
+          {
+            "definition": "像牛排的；有牛排味的",
+            "iscorrect": false
+          },
+          {
+            "definition": "挤压的；紧实的",
+            "iscorrect": false
+          },
+          {
+            "definition": "尖叫的；发出尖叫的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

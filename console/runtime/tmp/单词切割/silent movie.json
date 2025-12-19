@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "slient movie",
+      "silant movie",
+      "silent moive",
+      "silent movi"
+    ],
+    "correct_chunks": [
+      "sil",
+      "ent",
+      "mov",
+      "ie"
+    ],
+    "distractor_chunks": [
+      "sli",
+      "ant",
+      "ei",
+      "movi"
+    ]
+  },
+  0
+]

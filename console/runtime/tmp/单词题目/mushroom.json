@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mushroom",
+      "error_analysis": "学生易因拆词（mush+room）误猜为“软糊房间”，或因形近词（如muscle、music room）混淆为“肌肉”“音乐室”。",
+      "sentence": "She picked some fresh **mushrooms** from the garden to make soup.",
+      "options": {
+        "option": [
+          {
+            "definition": "蘑菇",
+            "iscorrect": true
+          },
+          {
+            "definition": "肌肉",
+            "iscorrect": false
+          },
+          {
+            "definition": "软糊状的房间",
+            "iscorrect": false
+          },
+          {
+            "definition": "音乐室",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

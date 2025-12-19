@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to slurp",
+      "error_analysis": "学生易因形近词“slip”（滑）或“slur”（含糊说）的干扰，将“to slurp”误判为“滑；滑倒”或“含糊地说”。",
+      "sentence": "The little boy likes to **slurp** his noodles loudly, which makes his mom laugh.",
+      "options": {
+        "option": [
+          {
+            "definition": "出声地吸（液体或食物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "滑；滑倒",
+            "iscorrect": false
+          },
+          {
+            "definition": "含糊地说",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速咀嚼",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

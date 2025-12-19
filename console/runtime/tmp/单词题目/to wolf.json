@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to wolf",
+      "error_analysis": "学生易将\"to wolf\"误理解为与\"狼\"相关的动作（如\"变成狼\"或\"嚎叫\"），而非其核心义\"狼吞虎咽\"。",
+      "sentence": "After skipping breakfast, Emma **wolfed** her sandwich down before rushing to class.",
+      "options": {
+        "option": [
+          {
+            "definition": "狼吞虎咽（快速大量地吃）",
+            "iscorrect": true
+          },
+          {
+            "definition": "变成狼",
+            "iscorrect": false
+          },
+          {
+            "definition": "像狼一样嚎叫",
+            "iscorrect": false
+          },
+          {
+            "definition": "捕食猎物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

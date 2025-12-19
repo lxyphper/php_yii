@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "conterattack",
+      "counterattck",
+      "counteratak",
+      "countorattack"
+    ],
+    "correct_chunks": [
+      "counter",
+      "at",
+      "tack"
+    ],
+    "distractor_chunks": [
+      "conter",
+      "attck",
+      "atak",
+      "countor"
+    ]
+  },
+  0
+]

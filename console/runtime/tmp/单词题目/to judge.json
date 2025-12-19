@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to judge",
+      "error_analysis": "学生易将动词\"to judge\"误理解为法律语境的\"判决\"（狭义）或从名词\"法官\"推导为\"当法官\"，而非日常常用的\"判断、评价\"。",
+      "sentence": "Before making a decision, it's important to **judge** the situation carefully rather than act impulsively.",
+      "options": {
+        "option": [
+          {
+            "definition": "判断；评价",
+            "iscorrect": true
+          },
+          {
+            "definition": "当法官；担任裁判",
+            "iscorrect": false
+          },
+          {
+            "definition": "判决；裁决",
+            "iscorrect": false
+          },
+          {
+            "definition": "批评；指责",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fun",
+      "error_analysis": "易因形近词\"fan\"（粉丝）或误联想\"功能\"而误解\"fun\"的核心含义",
+      "sentence": "We had a lot of **fun** at the amusement park yesterday—riding roller coasters and eating ice cream.",
+      "options": {
+        "option": [
+          {
+            "definition": "乐趣；愉快的事",
+            "iscorrect": true
+          },
+          {
+            "definition": "粉丝；狂热爱好者",
+            "iscorrect": false
+          },
+          {
+            "definition": "功能；作用",
+            "iscorrect": false
+          },
+          {
+            "definition": "基金；资金",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "supreme",
+      "error_analysis": "学生易将\"supreme\"与形近词\"super\"混淆，误判为\"超级的\"，或通过\"super\"词根猜测为\"极好的\"，忽略其\"最高的、至上的\"核心含义。",
+      "sentence": "The **supreme** court is the highest judicial body in the country, with the final say on all legal disputes.",
+      "options": {
+        "option": [
+          {
+            "definition": "最高的；至上的",
+            "iscorrect": true
+          },
+          {
+            "definition": "超级的；极好的",
+            "iscorrect": false
+          },
+          {
+            "definition": "表面的；外在的",
+            "iscorrect": false
+          },
+          {
+            "definition": "极端的；过激的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

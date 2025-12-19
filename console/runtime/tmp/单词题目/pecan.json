@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pecan",
+      "error_analysis": "学生易因形近词“pear”（梨）或拆分“pe-”+“-can”猜测为“梨”或“罐头”，而非“山核桃”。",
+      "sentence": "She added some crushed **pecans** to the salad for extra crunch.",
+      "options": {
+        "option": [
+          {
+            "definition": "山核桃",
+            "iscorrect": true
+          },
+          {
+            "definition": "梨",
+            "iscorrect": false
+          },
+          {
+            "definition": "罐头",
+            "iscorrect": false
+          },
+          {
+            "definition": "豆",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "adult",
+      "error_analysis": "中国学生易因形近词“adopt”（收养）及词根猜测（如“ult”联想到“最终的”）误判“adult”含义。",
+      "sentence": "The theme park has separate areas for children and **adults**.",
+      "options": {
+        "option": [
+          {
+            "definition": "收养",
+            "iscorrect": false
+          },
+          {
+            "definition": "最终的",
+            "iscorrect": false
+          },
+          {
+            "definition": "成年人",
+            "iscorrect": true
+          },
+          {
+            "definition": "广告",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

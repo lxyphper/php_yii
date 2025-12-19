@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "yellow",
+      "error_analysis": "学生易因形近词“yell”（喊叫）将“yellow”误理解为“喊叫”或“大声说”。",
+      "sentence": "She wore a bright **yellow** dress to the party, which made her stand out in the crowd.",
+      "options": {
+        "option": [
+          {
+            "definition": "黄色（的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "喊叫；大声说",
+            "iscorrect": false
+          },
+          {
+            "definition": "柔和的；圆润的",
+            "iscorrect": false
+          },
+          {
+            "definition": "年轻的；幼小的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

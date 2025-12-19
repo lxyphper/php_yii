@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "booking",
+      "error_analysis": "学生易因\"book\"的名词义（书/账簿）或形近词（如looking）误判\"booking\"为非\"预订\"的含义",
+      "sentence": "I made a **booking** for two at the Italian restaurant downtown tonight.",
+      "options": {
+        "option": [
+          {
+            "definition": "看",
+            "iscorrect": false
+          },
+          {
+            "definition": "书",
+            "iscorrect": false
+          },
+          {
+            "definition": "预订；预约",
+            "iscorrect": true
+          },
+          {
+            "definition": "账簿",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

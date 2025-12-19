@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "structure",
+      "error_analysis": "中国学生容易因形近词“strict”（严格的）产生“严格”的错误联想，或因词根“struct”（建造）过度推导为“建造物”而非“结构”",
+      "sentence": "The teacher emphasized the importance of a good **structure** in writing.",
+      "options": {
+        "option": [
+          {
+            "definition": "结构",
+            "iscorrect": true
+          },
+          {
+            "definition": "严格（的状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "建造物",
+            "iscorrect": false
+          },
+          {
+            "definition": "内容",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

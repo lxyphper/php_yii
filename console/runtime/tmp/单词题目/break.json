@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "break",
+      "error_analysis": "中国学生易混淆形近词“brake”（刹车）与“break”（打破），或误将基本义“打破”替换为引申义“停止”。",
+      "sentence": "The child accidentally **broke** the expensive glass while playing.",
+      "options": {
+        "option": [
+          {
+            "definition": "打破；弄坏",
+            "iscorrect": true
+          },
+          {
+            "definition": "刹车（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "停止；中断",
+            "iscorrect": false
+          },
+          {
+            "definition": "修理；修复",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

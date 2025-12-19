@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "space",
+      "error_analysis": "中国学生易混淆形近词spare（空闲的、多余的）与space的核心义，或误将space理解为间隔/节省",
+      "sentence": "There isn't enough **space** in the closet for all your clothes.",
+      "options": {
+        "option": [
+          {
+            "definition": "空间",
+            "iscorrect": true
+          },
+          {
+            "definition": "空闲的；多余的",
+            "iscorrect": false
+          },
+          {
+            "definition": "间隔；间隙",
+            "iscorrect": false
+          },
+          {
+            "definition": "节省；留出",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

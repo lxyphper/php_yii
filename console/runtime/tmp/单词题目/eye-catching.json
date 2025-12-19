@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "eye-catching",
+      "error_analysis": "学生易因字面直译将\"eye-catching\"错误理解为\"眼睛捕捉的\"，或因\"catching\"的\"传染的\"词义代入误解为\"传染眼睛的\"",
+      "sentence": "The new billboard with bright colors and big letters is very **eye-catching**, so many people stop to look at it.",
+      "options": {
+        "option": [
+          {
+            "definition": "引人注目的；吸引眼球的",
+            "iscorrect": true
+          },
+          {
+            "definition": "眼睛捕捉的；抓住眼睛的",
+            "iscorrect": false
+          },
+          {
+            "definition": "传染眼睛的；眼睛易感染的",
+            "iscorrect": false
+          },
+          {
+            "definition": "视力好的；眼睛敏锐的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

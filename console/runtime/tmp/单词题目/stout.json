@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stout",
+      "error_analysis": "学生易因形近词“strong”（强壮的）误导，将“stout”误解为“强壮的”，而非其核心义“肥胖的；粗壮的”。",
+      "sentence": "The man with a **stout** figure found it impossible to squeeze through the narrow doorway.",
+      "options": {
+        "option": [
+          {
+            "definition": "肥胖的；粗壮的",
+            "iscorrect": true
+          },
+          {
+            "definition": "强壮的",
+            "iscorrect": false
+          },
+          {
+            "definition": "短的",
+            "iscorrect": false
+          },
+          {
+            "definition": "活跃的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

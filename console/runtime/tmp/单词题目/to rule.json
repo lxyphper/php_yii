@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to rule",
+      "error_analysis": "学生易将动词“to rule”误理解为“制定规则”（源于名词“rule”的“规则”含义）或“用尺子测量”（源于形近词“ruler”的“尺子”含义）",
+      "sentence": "The queen **ruled** the kingdom with wisdom for over three decades.",
+      "options": {
+        "option": [
+          {
+            "definition": "制定规则",
+            "iscorrect": false
+          },
+          {
+            "definition": "用尺子测量",
+            "iscorrect": false
+          },
+          {
+            "definition": "统治",
+            "iscorrect": true
+          },
+          {
+            "definition": "滚动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "right",
+      "error_analysis": "学生易将‘right’与形近词‘write’（写）混淆，或误将其‘右边的’义项等同于‘正确的’",
+      "sentence": "You can find the café on the **right** of the park entrance.",
+      "options": {
+        "option": [
+          {
+            "definition": "写",
+            "iscorrect": false
+          },
+          {
+            "definition": "正确的",
+            "iscorrect": false
+          },
+          {
+            "definition": "右边的",
+            "iscorrect": true
+          },
+          {
+            "definition": "明亮的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

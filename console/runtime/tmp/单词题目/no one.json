@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "no one",
+      "error_analysis": "学生易因“one”可指物而误将“no one”理解为“没有一个（东西）”，或混淆其与“none”（可指物）的用法",
+      "sentence": "When I knocked on the door, **no one** responded, so I left.",
+      "options": {
+        "option": [
+          {
+            "definition": "没有人",
+            "iscorrect": true
+          },
+          {
+            "definition": "没有一个（东西）",
+            "iscorrect": false
+          },
+          {
+            "definition": "不是一个",
+            "iscorrect": false
+          },
+          {
+            "definition": "没有什么",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

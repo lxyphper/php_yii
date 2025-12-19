@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "accomplice",
+      "error_analysis": "学生易因形近词\"accompany\"(陪伴)混淆，或拆分词根误以为\"复杂的人\"，导致误判为\"陪伴者\"或\"复杂的人\"",
+      "sentence": "The police arrested the thief and his **accomplice** who had been waiting in the car outside the bank.",
+      "options": {
+        "option": [
+          {
+            "definition": "同谋；共犯",
+            "iscorrect": true
+          },
+          {
+            "definition": "陪伴者；同伴",
+            "iscorrect": false
+          },
+          {
+            "definition": "复杂的人；难对付的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "助手；帮手",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

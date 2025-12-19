@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "business plan",
+      "error_analysis": "学生易因\"plan\"与\"plane\"形近误理解为\"商业飞机\"，或因\"plan\"的\"平面图\"义项误理解为\"商业平面图\"",
+      "sentence": "Before starting their company, they spent months working on a detailed **business plan** to present to investors.",
+      "options": {
+        "option": [
+          {
+            "definition": "商业计划书（用于展示公司目标与策略的文档）",
+            "iscorrect": true
+          },
+          {
+            "definition": "商业飞机（用于商业用途的航空器）",
+            "iscorrect": false
+          },
+          {
+            "definition": "商业平面图（公司或店铺的布局设计图）",
+            "iscorrect": false
+          },
+          {
+            "definition": "商业伙伴（一起从事商业活动的人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "research",
+      "error_analysis": "学生易因形近词\"reserve\"(保留)混淆，或因\"re-+search\"词根过度直译误以为\"再次寻找\"。",
+      "sentence": "The scientists spent two years conducting **research** on the effects of climate change on polar bears.",
+      "options": {
+        "option": [
+          {
+            "definition": "研究（系统性的调查或探究）",
+            "iscorrect": true
+          },
+          {
+            "definition": "保留；预订（如酒店房间或座位）",
+            "iscorrect": false
+          },
+          {
+            "definition": "再次寻找；复查（对已找过的事物再检查）",
+            "iscorrect": false
+          },
+          {
+            "definition": "资源；财力（可供使用的物资或资金）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "adenosine triphosphate",
+      "error_analysis": "学生易因词根\"adeno-（腺）\"和\"triphosphate（三磷酸盐）\"错误联想为\"腺体分泌的激素\"，或混淆\"adenosine\"与形近词\"adenine（腺嘌呤）\"导致误判。",
+      "sentence": "During cellular respiration, glucose is broken down to produce **adenosine triphosphate**, which provides energy for most biochemical reactions in cells.",
+      "options": {
+        "option": [
+          {
+            "definition": "腺苷三磷酸（细胞的能量货币）",
+            "iscorrect": true
+          },
+          {
+            "definition": "腺嘌呤三磷酸盐（一种构成DNA的碱基衍生物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "腺体分泌的三磷酸盐激素（如甲状腺或肾上腺分泌的物质）",
+            "iscorrect": false
+          },
+          {
+            "definition": "三磷酸腺苷酶（催化能量释放的酶类）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

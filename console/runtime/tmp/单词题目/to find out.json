@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to find out",
+      "error_analysis": "学生易拆分短语，误将\"find out\"理解为\"找出外面的东西\"（词根字面误导）或混淆为\"find\"的基本义\"找到（具体物品）\"（形近词干扰）",
+      "sentence": "She decided to **find out** why her phone suddenly stopped working.",
+      "options": {
+        "option": [
+          {
+            "definition": "查明，弄清楚（原因/真相）",
+            "iscorrect": true
+          },
+          {
+            "definition": "找到外面的物体",
+            "iscorrect": false
+          },
+          {
+            "definition": "找到（具体的东西）",
+            "iscorrect": false
+          },
+          {
+            "definition": "发现（意外看到）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

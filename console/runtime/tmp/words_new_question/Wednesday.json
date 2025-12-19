@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Wednesday",
+      "error_analysis": "学生易将“Wednesday”中的“Wed”与“wedding”（婚礼）关联，误判为“婚礼日”",
+      "sentence": "We have a math test on **Wednesday** afternoon, so I need to study tonight.",
+      "options": {
+        "option": [
+          {
+            "definition": "星期三",
+            "iscorrect": true
+          },
+          {
+            "definition": "婚礼日",
+            "iscorrect": false
+          },
+          {
+            "definition": "星期四",
+            "iscorrect": false
+          },
+          {
+            "definition": "周末",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

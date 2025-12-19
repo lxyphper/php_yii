@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "battery",
+      "error_analysis": "因形近词battle（战斗）或词根bat（打/球拍）产生错误联想，误判词义",
+      "sentence": "My phone died because the **battery** ran out, so I need to charge it immediately.",
+      "options": {
+        "option": [
+          {
+            "definition": "电池；电池组",
+            "iscorrect": true
+          },
+          {
+            "definition": "战斗；战役",
+            "iscorrect": false
+          },
+          {
+            "definition": "球拍；球棒",
+            "iscorrect": false
+          },
+          {
+            "definition": "障碍；屏障",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

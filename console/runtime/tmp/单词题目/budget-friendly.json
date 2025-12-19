@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "budget-friendly",
+      "error_analysis": "学生易因“budget”（预算）与“friendly”（友好的）的字面组合，误解为“对预算友好的”，而忽略其“经济实惠的”核心含义。",
+      "sentence": "The café around the corner is **budget-friendly**—we can get a full meal for under $10.",
+      "options": {
+        "option": [
+          {
+            "definition": "对预算友好的",
+            "iscorrect": false
+          },
+          {
+            "definition": "预算充足的",
+            "iscorrect": false
+          },
+          {
+            "definition": "友好的预算",
+            "iscorrect": false
+          },
+          {
+            "definition": "经济实惠的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

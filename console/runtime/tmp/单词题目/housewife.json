@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "housewife",
+      "error_analysis": "学生易因词根拆分（house+wife）错误理解为“房子的妻子”，或混淆形近词“housework（家务）”。",
+      "sentence": "My mom is a dedicated **housewife** who spends most of her time taking care of the family and doing household chores.",
+      "options": {
+        "option": [
+          {
+            "definition": "家庭主妇（负责家务的已婚妇女）",
+            "iscorrect": true
+          },
+          {
+            "definition": "房子的妻子",
+            "iscorrect": false
+          },
+          {
+            "definition": "家务劳动",
+            "iscorrect": false
+          },
+          {
+            "definition": "房东的妻子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "concert",
+      "error_analysis": "易因形近词concentrate误解为\"集中\"，或因词根con-+cert错误推导为\"协议/合同\"",
+      "sentence": "We bought tickets to the pop **concert** next weekend—my favorite band will perform live!",
+      "options": {
+        "option": [
+          {
+            "definition": "音乐会",
+            "iscorrect": true
+          },
+          {
+            "definition": "集中（注意力）",
+            "iscorrect": false
+          },
+          {
+            "definition": "协议；合同",
+            "iscorrect": false
+          },
+          {
+            "definition": "证书",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

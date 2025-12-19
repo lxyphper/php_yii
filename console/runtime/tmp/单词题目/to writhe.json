@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to writhe",
+      "error_analysis": "学生易因形近词\"write\"（写）产生误解，将\"to writhe\"错误联想为与\"写\"相关的动作。",
+      "sentence": "After stepping on a sharp stone, the little boy **writhed** on the ground, screaming in pain.",
+      "options": {
+        "option": [
+          {
+            "definition": "写；书写",
+            "iscorrect": false
+          },
+          {
+            "definition": "（因痛苦、不适等）扭动身体",
+            "iscorrect": true
+          },
+          {
+            "definition": "编织；制作花环",
+            "iscorrect": false
+          },
+          {
+            "definition": "扭曲；缠绕（如绳子）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

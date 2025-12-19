@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lettuce",
+      "error_analysis": "学生易因“lettuce”与“let”（让/出租）形近或拆分单词，误解为“允许”或“出租的物品”。",
+      "sentence": "I need to buy some **lettuce** to make a fresh salad for dinner.",
+      "options": {
+        "option": [
+          {
+            "definition": "生菜（一种可食用的绿色蔬菜，常用于沙拉）",
+            "iscorrect": true
+          },
+          {
+            "definition": "允许；许可（来自“let”的动词含义联想）",
+            "iscorrect": false
+          },
+          {
+            "definition": "出租的房间/场地（来自“let”的“出租”义猜测）",
+            "iscorrect": false
+          },
+          {
+            "definition": "引导的工具（拆分“let”+“tuce”误以为是“让...引导的东西”）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

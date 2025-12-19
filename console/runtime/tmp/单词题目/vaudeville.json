@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "vaudeville",
+      "error_analysis": "学生易因\"-ville\"（常见村庄后缀）的字面联想，将\"vaudeville\"误解为\"村庄\"或\"乡村相关事物\"",
+      "sentence": "At the turn of the 20th century, families often went to local theaters to watch **vaudeville**—a mix of comedy skits, song-and-dance numbers, and magic tricks.",
+      "options": {
+        "option": [
+          {
+            "definition": "19世纪末20世纪初流行的杂耍表演（含喜剧、歌舞等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "小村庄",
+            "iscorrect": false
+          },
+          {
+            "definition": "传统乡村民谣",
+            "iscorrect": false
+          },
+          {
+            "definition": "一种古典戏剧形式",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

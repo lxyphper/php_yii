@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "strawberry",
+      "error_analysis": "将“straw”误理解为“稻草”或“吸管”，从而推测“strawberry”与稻草（如“稻草浆果”）或吸管（如“用吸管喝的浆果”）相关",
+      "sentence": "The little girl picked a red **strawberry** from the plant and put it in her mouth.",
+      "options": {
+        "option": [
+          {
+            "definition": "草莓",
+            "iscorrect": true
+          },
+          {
+            "definition": "稻草制成的浆果",
+            "iscorrect": false
+          },
+          {
+            "definition": "用吸管喝的浆果",
+            "iscorrect": false
+          },
+          {
+            "definition": "生长在树上的果实",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "much",
+      "error_analysis": "学生易将“much”（副词，表程度）误解为形近词“more”（更），或误将其副词用法当作形容词“很多”",
+      "sentence": "He speaks **much** more clearly after practicing every day.",
+      "options": {
+        "option": [
+          {
+            "definition": "更（形近词more的词义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "很多（修饰可数名词的形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "很；非常（用于加强形容词/副词比较级的程度）",
+            "iscorrect": true
+          },
+          {
+            "definition": "大量的（修饰不可数名词的形容词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

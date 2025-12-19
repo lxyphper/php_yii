@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "infographic",
+      "error_analysis": "中国学生易因\"info-\"联想到\"information\"而误判为\"信息资料\"，或因\"-graphic\"联想到\"graph\"而误判为\"图表\"",
+      "sentence": "The report includes an **infographic** that shows the growth of social media usage over the past decade.",
+      "options": {
+        "option": [
+          {
+            "definition": "信息图",
+            "iscorrect": true
+          },
+          {
+            "definition": "信息资料",
+            "iscorrect": false
+          },
+          {
+            "definition": "图表",
+            "iscorrect": false
+          },
+          {
+            "definition": "数据表格",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

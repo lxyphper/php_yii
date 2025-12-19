@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "helpful",
+      "error_analysis": "学生易因形近词“hopeful”（有希望的）产生混淆，或误将“helpful”理解为动词“帮助”（未掌握形容词后缀）",
+      "sentence": "The teacher is always **helpful** when we have questions about our homework.",
+      "options": {
+        "option": [
+          {
+            "definition": "有帮助的；乐于助人的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有希望的",
+            "iscorrect": false
+          },
+          {
+            "definition": "帮助（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "有用的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

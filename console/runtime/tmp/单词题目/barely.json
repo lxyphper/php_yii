@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "barely",
+      "error_analysis": "学生易因形近词\"bare\"（赤裸的）误判\"barely\"为\"赤裸地\"，或因\"bare\"的\"少\"义误猜为\"仅仅\"而非\"几乎不\"。",
+      "sentence": "She **barely** caught the last bus home, as it was pulling away when she arrived.",
+      "options": {
+        "option": [
+          {
+            "definition": "几乎不；勉强",
+            "iscorrect": true
+          },
+          {
+            "definition": "赤裸地；光秃地",
+            "iscorrect": false
+          },
+          {
+            "definition": "仅仅；刚好",
+            "iscorrect": false
+          },
+          {
+            "definition": "完全地；彻底地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

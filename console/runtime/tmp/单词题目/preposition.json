@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "preposition",
+      "error_analysis": "学生易因形近词\"position\"（位置）及词根\"pre-\"+\"position\"直译，将\"preposition\"误解为\"前置位置\"或\"预先定位\"。",
+      "sentence": "In the sentence \"She gave the book **to** her friend,\" \"to\" is a typical **preposition** that links the verb \"gave\" to the noun \"friend.\"",
+      "options": {
+        "option": [
+          {
+            "definition": "介词（连接动词与名词/代词表示关系的语法成分）",
+            "iscorrect": true
+          },
+          {
+            "definition": "预先定位的动作（如提前确定位置）",
+            "iscorrect": false
+          },
+          {
+            "definition": "前面的位置（物体或人所处的前方位置）",
+            "iscorrect": false
+          },
+          {
+            "definition": "前缀的一种（用于构成新词的前置词缀）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

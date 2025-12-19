@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to believe",
+      "error_analysis": "中国学生易因形近词“relieve”（缓解）的干扰，或词根拆分“be+live”导致的“生存”误解而错解“to believe”。",
+      "sentence": "Despite the rumors, she still **believes** her friend is innocent.",
+      "options": {
+        "option": [
+          {
+            "definition": "相信；认为",
+            "iscorrect": true
+          },
+          {
+            "definition": "缓解；减轻",
+            "iscorrect": false
+          },
+          {
+            "definition": "生存；生活",
+            "iscorrect": false
+          },
+          {
+            "definition": "收到；接收",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

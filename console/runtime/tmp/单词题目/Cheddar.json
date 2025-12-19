@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Cheddar",
+      "error_analysis": "中国学生易因形近词“chatter”（闲聊）混淆，或因无词根依据的字面猜测误判为动作/工具。",
+      "sentence": "My dad always puts a slice of **Cheddar** on his hamburger to add more flavor.",
+      "options": {
+        "option": [
+          {
+            "definition": "切达干酪（一种硬质奶酪）",
+            "iscorrect": true
+          },
+          {
+            "definition": "闲聊（非正式的谈话）",
+            "iscorrect": false
+          },
+          {
+            "definition": "切割用的工具",
+            "iscorrect": false
+          },
+          {
+            "definition": "欢呼的声音（兴奋的呼喊）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

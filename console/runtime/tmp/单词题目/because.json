@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "because",
+      "error_analysis": "中国学生易因\"because\"含\"cause\"词根误判为名词\"原因\"，或因与\"before\"形近混淆为\"在…之前\"",
+      "sentence": "She didn’t go to school **because** she was sick.",
+      "options": {
+        "option": [
+          {
+            "definition": "因为（连词，表示原因）",
+            "iscorrect": true
+          },
+          {
+            "definition": "原因（名词，表示导致某事的因素）",
+            "iscorrect": false
+          },
+          {
+            "definition": "在…之前（介词/连词，表示时间顺序）",
+            "iscorrect": false
+          },
+          {
+            "definition": "所以（连词，表示结果）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

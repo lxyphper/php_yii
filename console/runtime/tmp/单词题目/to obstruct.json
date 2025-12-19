@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to obstruct",
+      "error_analysis": "学生易因形近词（如construct/obscure）或词根“ob-+struct”过度直译而误解为“建造”“破坏”或“模糊”。",
+      "sentence": "The fallen tree **obstructed** the road, making it impossible for cars to pass.",
+      "options": {
+        "option": [
+          {
+            "definition": "建造",
+            "iscorrect": false
+          },
+          {
+            "definition": "破坏",
+            "iscorrect": false
+          },
+          {
+            "definition": "模糊",
+            "iscorrect": false
+          },
+          {
+            "definition": "阻碍，妨碍",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

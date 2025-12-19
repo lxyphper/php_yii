@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "column",
+      "error_analysis": "学生易因形近词\"colon\"(冒号)干扰或词根/字面误导只知\"柱子\"含义而忽略\"专栏\"的引申义",
+      "sentence": "The famous writer contributes a weekly **column** to the magazine, which many readers look forward to.",
+      "options": {
+        "option": [
+          {
+            "definition": "专栏（报纸/杂志中的定期文章板块）",
+            "iscorrect": true
+          },
+          {
+            "definition": "冒号（标点符号）",
+            "iscorrect": false
+          },
+          {
+            "definition": "柱子（建筑中的直立结构）",
+            "iscorrect": false
+          },
+          {
+            "definition": "行（表格中的横向排列）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

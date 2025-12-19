@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to bring up",
+      "error_analysis": "中国学生易将\"bring up\"字面误解为\"举起；带上来\"（因\"bring\"表\"带来\"、\"up\"表\"向上\"的字面误导），或混淆为\"长大\"（形近词\"grow up\"的干扰）",
+      "sentence": "When we were talking about weekend plans, Emma **brought up** the idea of going hiking in the mountains.",
+      "options": {
+        "option": [
+          {
+            "definition": "举起；带上来",
+            "iscorrect": false
+          },
+          {
+            "definition": "长大；成长",
+            "iscorrect": false
+          },
+          {
+            "definition": "提出；提及",
+            "iscorrect": true
+          },
+          {
+            "definition": "带进；引入",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

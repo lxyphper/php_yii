@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "painting",
+      "error_analysis": "易因形近词panting（喘气）混淆，或因词根paint（油漆）误判为“涂漆”",
+      "sentence": "The artist spent months working on her new **painting**, which will be exhibited in the gallery next month.",
+      "options": {
+        "option": [
+          {
+            "definition": "绘画（作品）",
+            "iscorrect": true
+          },
+          {
+            "definition": "喘气（呼吸急促的状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "涂漆（用油漆涂抹的动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "颜料（绘画用的彩色物质）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

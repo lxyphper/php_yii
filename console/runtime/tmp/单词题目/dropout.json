@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dropout",
+      "error_analysis": "学生易因\"drop+out\"的字面组合误将\"dropout\"理解为\"退出的动作\"或\"掉落的东西\"，而非核心词义\"辍学者\"（指人）。",
+      "sentence": "After struggling with his studies for a year, Tom became a **dropout** and started working at a local café.",
+      "options": {
+        "option": [
+          {
+            "definition": "辍学者；退学的人",
+            "iscorrect": true
+          },
+          {
+            "definition": "掉落的东西；脱落物",
+            "iscorrect": false
+          },
+          {
+            "definition": "退出（行为）；放弃",
+            "iscorrect": false
+          },
+          {
+            "definition": "下车点；交货点",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

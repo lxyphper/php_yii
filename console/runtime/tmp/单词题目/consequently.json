@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "consequently",
+      "error_analysis": "中国学生易因形近词“consistently”（一致地）混淆词义，或因词根“sequence”（顺序）误判为“按顺序地”。",
+      "sentence": "It rained heavily; **consequently**, the football match was cancelled.",
+      "options": {
+        "option": [
+          {
+            "definition": "一致地",
+            "iscorrect": false
+          },
+          {
+            "definition": "因此；结果",
+            "iscorrect": true
+          },
+          {
+            "definition": "按顺序地",
+            "iscorrect": false
+          },
+          {
+            "definition": "持续地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

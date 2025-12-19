@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to foresee",
+      "error_analysis": "将“fore”误判为“for”（为了）导致理解为“为了看见”，或通过“fore+see”过度直译为“提前看”而忽略“预见”的准确含义",
+      "sentence": "The manager didn't **foresee** that the new policy would cause so many complaints.",
+      "options": {
+        "option": [
+          {
+            "definition": "为了看见",
+            "iscorrect": false
+          },
+          {
+            "definition": "提前看",
+            "iscorrect": false
+          },
+          {
+            "definition": "永远看见",
+            "iscorrect": false
+          },
+          {
+            "definition": "预见；预料到",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

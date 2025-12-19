@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "emulsion",
+      "error_analysis": "学生易因形近词“emotion”（情绪）的干扰，将“emulsion”误判为“情绪”或相关含义。",
+      "sentence": "The new facial cream uses a lightweight **emulsion** that absorbs quickly into the skin.",
+      "options": {
+        "option": [
+          {
+            "definition": "乳剂；乳状液",
+            "iscorrect": true
+          },
+          {
+            "definition": "情绪；情感",
+            "iscorrect": false
+          },
+          {
+            "definition": "模仿；效仿",
+            "iscorrect": false
+          },
+          {
+            "definition": "溶液；溶剂",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

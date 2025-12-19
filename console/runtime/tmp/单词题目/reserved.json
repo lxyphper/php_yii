@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "reserved",
+      "error_analysis": "将形容词“reserved”误理解为动词“reserve”（预定、保留）的过去分词含义（如“预定的；预留的”）",
+      "sentence": "John is so **reserved** that he never shares his feelings with anyone, even his closest friends.",
+      "options": {
+        "option": [
+          {
+            "definition": "内向的；矜持的",
+            "iscorrect": true
+          },
+          {
+            "definition": "预定的；预留的",
+            "iscorrect": false
+          },
+          {
+            "definition": "被保留的（未公开的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "谨慎的；小心的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

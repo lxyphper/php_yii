@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "corrugated",
+      "error_analysis": "学生易混淆形近词correlated（相关的），或因词根不熟悉猜测为“有地毯的”。",
+      "sentence": "The package was wrapped in **corrugated** cardboard to protect the fragile items inside.",
+      "options": {
+        "option": [
+          {
+            "definition": "相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有地毯的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有波纹的；瓦楞的",
+            "iscorrect": true
+          },
+          {
+            "definition": "纠正的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

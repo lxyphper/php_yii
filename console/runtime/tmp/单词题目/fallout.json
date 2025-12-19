@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fallout",
+      "error_analysis": "学生易将\"fallout\"误解为短语\"fall out\"的含义（争吵；闹翻）或通过\"fall+out\"字面推导的\"掉落的物体\"。",
+      "sentence": "The political scandal had serious **fallout**, including the resignation of several government officials.",
+      "options": {
+        "option": [
+          {
+            "definition": "（事件的）余波；后果",
+            "iscorrect": true
+          },
+          {
+            "definition": "争吵；闹翻",
+            "iscorrect": false
+          },
+          {
+            "definition": "掉落的物体；脱落物",
+            "iscorrect": false
+          },
+          {
+            "definition": "放射性尘埃",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

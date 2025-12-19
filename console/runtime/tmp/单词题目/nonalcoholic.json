@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nonalcoholic",
+      "error_analysis": "学生易因形近词\"nonchalant\"（漠不关心的）产生联想，或因词根\"alcoholic\"（酗酒者）误导将其理解为\"不酗酒的人\"（指人）。",
+      "sentence": "I don’t drink alcohol, so I always order a **nonalcoholic** beverage like lemonade at parties.",
+      "options": {
+        "option": [
+          {
+            "definition": "不含酒精的（用于饮料等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "漠不关心的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不酗酒的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "含有酒精的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

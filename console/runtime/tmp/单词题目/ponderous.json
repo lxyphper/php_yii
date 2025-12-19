@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ponderous",
+      "error_analysis": "学生易将ponderous与形近词ponder（思考）混淆，误以为是“深思熟虑的”。",
+      "sentence": "The movers struggled to lift the **ponderous** piano into the truck.",
+      "options": {
+        "option": [
+          {
+            "definition": "沉重的；笨重的",
+            "iscorrect": true
+          },
+          {
+            "definition": "深思熟虑的",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻盈的",
+            "iscorrect": false
+          },
+          {
+            "definition": "珍贵的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

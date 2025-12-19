@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "trash can",
+      "error_analysis": "学生易因“trash”与“cash”形近而误判为“现金罐”，或因“can”的“罐头”义而误解为“垃圾罐头”。",
+      "sentence": "Please throw the empty bottle into the **trash can** next to the door.",
+      "options": {
+        "option": [
+          {
+            "definition": "垃圾桶",
+            "iscorrect": true
+          },
+          {
+            "definition": "现金罐",
+            "iscorrect": false
+          },
+          {
+            "definition": "垃圾罐头",
+            "iscorrect": false
+          },
+          {
+            "definition": "垃圾车",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to want",
+      "error_analysis": "中国学生易因形近词\"wait\"（等待）的拼写相似，将\"to want\"（想要）误判为\"等待\"。",
+      "sentence": "She **wants** to go to the park with her friends this weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "想要",
+            "iscorrect": true
+          },
+          {
+            "definition": "等待",
+            "iscorrect": false
+          },
+          {
+            "definition": "缺乏",
+            "iscorrect": false
+          },
+          {
+            "definition": "漫步",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

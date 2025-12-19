@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "squall",
+      "error_analysis": "学生易因`squall`与基础词`square`（正方形）、`squat`（蹲）形近，或因`squ-`词根联想“挤压”（如`squash`）而误判词义。",
+      "sentence": "We had to take cover when a **squall** suddenly hit the beach, blowing sand everywhere.",
+      "options": {
+        "option": [
+          {
+            "definition": "暴风；狂风",
+            "iscorrect": true
+          },
+          {
+            "definition": "正方形",
+            "iscorrect": false
+          },
+          {
+            "definition": "挤压",
+            "iscorrect": false
+          },
+          {
+            "definition": "蹲",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

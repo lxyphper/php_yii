@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tall",
+      "error_analysis": "中国学生易因形近词“talk”（谈话）的干扰，将“tall”误理解为“说话的”或“交谈的”。",
+      "sentence": "The boy in the blue jacket is very **tall**; he can reach the top shelf without a stool.",
+      "options": {
+        "option": [
+          {
+            "definition": "高的（形容人或物体的高度）",
+            "iscorrect": true
+          },
+          {
+            "definition": "说话的；交谈的",
+            "iscorrect": false
+          },
+          {
+            "definition": "尾巴的；有尾巴的",
+            "iscorrect": false
+          },
+          {
+            "definition": "工具的；用工具的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "copper",
+      "error_analysis": "学生易因形近词“cooper”（桶匠）或俚语义“警察”混淆“copper”的核心义“铜”",
+      "sentence": "The chef used a **copper** pan to cook the soup, as it heats up quickly and evenly.",
+      "options": {
+        "option": [
+          {
+            "definition": "铜；铜币",
+            "iscorrect": true
+          },
+          {
+            "definition": "桶匠",
+            "iscorrect": false
+          },
+          {
+            "definition": "警察",
+            "iscorrect": false
+          },
+          {
+            "definition": "复制件",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

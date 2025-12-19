@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "surely",
+      "error_analysis": "中国学生易因形近词“surly”（粗鲁地）混淆，或因词根“sure”（确定的）过度直译导致误解。",
+      "sentence": "—Is this the last bus to the city? —**Surely** not, there’s another one in 10 minutes.",
+      "options": {
+        "option": [
+          {
+            "definition": "当然；无疑",
+            "iscorrect": true
+          },
+          {
+            "definition": "粗鲁地",
+            "iscorrect": false
+          },
+          {
+            "definition": "惊讶地",
+            "iscorrect": false
+          },
+          {
+            "definition": "确定地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

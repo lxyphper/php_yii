@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "finding",
+      "error_analysis": "学生易将\"finding\"误理解为\"寻找的行为\"（形近词\"find\"的动名词联想）或\"找到的物品\"（词根\"find\"的字面推导），而非其核心义\"调查结果\"。",
+      "sentence": "The team's **finding** showed that the new method was more effective than the old one.",
+      "options": {
+        "option": [
+          {
+            "definition": "调查结果",
+            "iscorrect": true
+          },
+          {
+            "definition": "寻找的行为",
+            "iscorrect": false
+          },
+          {
+            "definition": "找到的物品",
+            "iscorrect": false
+          },
+          {
+            "definition": "发现的瞬间",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

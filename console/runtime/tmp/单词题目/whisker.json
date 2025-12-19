@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "whisker",
+      "error_analysis": "学生易因形近词whisper（低语）混淆，或因词根whisk（搅拌）误判为搅拌器等与搅拌相关的物品",
+      "sentence": "The cat’s **whiskers** twitched slightly as it focused on the mouse hiding behind the couch.",
+      "options": {
+        "option": [
+          {
+            "definition": "胡须（尤指猫、鼠等动物的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "低语；小声说话",
+            "iscorrect": false
+          },
+          {
+            "definition": "搅拌器；打蛋器",
+            "iscorrect": false
+          },
+          {
+            "definition": "手腕；腕部",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "RNA",
+      "error_analysis": "学生易因形近词“rain”（雨）或词根误猜（将“R”理解为“Red”）而混淆RNA的含义",
+      "sentence": "During biology class, the teacher explained that **RNA** carries genetic information from DNA to the ribosomes for protein synthesis.",
+      "options": {
+        "option": [
+          {
+            "definition": "雨；雨水",
+            "iscorrect": false
+          },
+          {
+            "definition": "红色核酸",
+            "iscorrect": false
+          },
+          {
+            "definition": "脱氧核糖核酸",
+            "iscorrect": false
+          },
+          {
+            "definition": "核糖核酸（生物学术语，携带遗传信息的分子）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

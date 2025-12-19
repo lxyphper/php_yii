@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "valuable",
+      "error_analysis": "易混淆形近词\"variable\"(可变的)及词根延伸的\"昂贵的\"误解",
+      "sentence": "The teacher gave us some **valuable** advice on how to improve our writing skills.",
+      "options": {
+        "option": [
+          {
+            "definition": "有价值的；宝贵的",
+            "iscorrect": true
+          },
+          {
+            "definition": "可变的；易变的",
+            "iscorrect": false
+          },
+          {
+            "definition": "昂贵的；高价的",
+            "iscorrect": false
+          },
+          {
+            "definition": "稀有的；罕见的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to inculcate",
+      "error_analysis": "学生易因形近词“inoculate”（接种）混淆，或因词根联想错误理解为“培养（植物/技能）”",
+      "sentence": "Parents often try to **inculcate** good manners in their children from a young age.",
+      "options": {
+        "option": [
+          {
+            "definition": "反复灌输（思想、价值观等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "接种（疫苗）",
+            "iscorrect": false
+          },
+          {
+            "definition": "培养（植物/技能）",
+            "iscorrect": false
+          },
+          {
+            "definition": "计算（数值）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

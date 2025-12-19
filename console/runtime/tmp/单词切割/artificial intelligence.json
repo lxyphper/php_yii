@@ -1,0 +1,26 @@
+[
+  {
+    "common_misspellings": [
+      "ertificial",
+      "artifitial",
+      "inteligence",
+      "entelligence",
+      "intelligance"
+    ],
+    "correct_chunks": [
+      "arti",
+      "ficial",
+      "intel",
+      "ligence"
+    ],
+    "distractor_chunks": [
+      "ert",
+      "tial",
+      "fcial",
+      "ligence",
+      "ent",
+      "gance"
+    ]
+  },
+  0
+]

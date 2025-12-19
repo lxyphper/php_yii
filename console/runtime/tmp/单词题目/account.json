@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "account",
+      "error_analysis": "易混淆形近词count（计数），或因词根ac-+count误判为“计算”",
+      "sentence": "She opened a new bank **account** to save money for her vacation.",
+      "options": {
+        "option": [
+          {
+            "definition": "计数",
+            "iscorrect": false
+          },
+          {
+            "definition": "账户",
+            "iscorrect": true
+          },
+          {
+            "definition": "计算",
+            "iscorrect": false
+          },
+          {
+            "definition": "原因",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

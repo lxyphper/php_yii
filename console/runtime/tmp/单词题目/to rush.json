@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to rush",
+      "error_analysis": "易受形近词\"push\"(推)干扰，或误将\"rush\"理解为单纯的\"跑\"而非\"匆忙行动\"",
+      "sentence": "She had to **rush** to catch the last bus before it pulled away.",
+      "options": {
+        "option": [
+          {
+            "definition": "匆忙行动；赶紧做",
+            "iscorrect": true
+          },
+          {
+            "definition": "推；推动",
+            "iscorrect": false
+          },
+          {
+            "definition": "刷；擦拭",
+            "iscorrect": false
+          },
+          {
+            "definition": "跑；奔跑",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

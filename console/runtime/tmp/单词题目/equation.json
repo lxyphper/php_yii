@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "equation",
+      "error_analysis": "易混淆形近词equator（赤道），或误将词根equ-（相等）过度推导为“平衡状态”而非“数学方程”",
+      "sentence": "Our math teacher asked us to solve the **equation** 2x + 3 = 7 before the end of class.",
+      "options": {
+        "option": [
+          {
+            "definition": "（数学中的）方程",
+            "iscorrect": true
+          },
+          {
+            "definition": "赤道",
+            "iscorrect": false
+          },
+          {
+            "definition": "平衡状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "等同的事物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

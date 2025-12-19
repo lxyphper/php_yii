@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "luxury",
+      "error_analysis": "学生易因形近词“luxuriant”（茂盛的）或发音相近的“lucky”（幸运的）误导，将“luxury”错解为“茂盛的”或“幸运的”",
+      "sentence": "She saved for years to buy that **luxury** watch, which was a symbol of her hard work.",
+      "options": {
+        "option": [
+          {
+            "definition": "奢侈品；奢华",
+            "iscorrect": true
+          },
+          {
+            "definition": "茂盛的；丰富的",
+            "iscorrect": false
+          },
+          {
+            "definition": "明亮的；发光的",
+            "iscorrect": false
+          },
+          {
+            "definition": "幸运的；侥幸的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

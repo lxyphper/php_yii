@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "term",
+      "error_analysis": "中国学生易因形近词\"team\"(团队)混淆\"term\"，或误将其\"术语\"义猜测为\"时间\"。",
+      "sentence": "In physics, the **term** \"gravity\" is used to describe the force that makes things fall to the ground.",
+      "options": {
+        "option": [
+          {
+            "definition": "一起工作或合作的群体（如\"团队\"）",
+            "iscorrect": false
+          },
+          {
+            "definition": "钟表显示的时刻或持续的时间段（如\"时间\"）",
+            "iscorrect": false
+          },
+          {
+            "definition": "学校中划分的教学阶段（如\"学期\"）",
+            "iscorrect": false
+          },
+          {
+            "definition": "专业领域中表示特定概念的专用词语（如\"术语\"）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

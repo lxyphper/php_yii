@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "oviparous",
+      "error_analysis": "学生易因“oviparous”与基础词“various”（各种各样的）形近或与“oval”（椭圆形的）混淆而误判其义",
+      "sentence": "Unlike mammals, which give birth to live young, most reptiles are **oviparous** and lay eggs to reproduce.",
+      "options": {
+        "option": [
+          {
+            "definition": "各种各样的",
+            "iscorrect": false
+          },
+          {
+            "definition": "椭圆形的",
+            "iscorrect": false
+          },
+          {
+            "definition": "卵生的（指动物通过产卵繁殖的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "胎生的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

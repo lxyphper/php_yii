@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "glass",
+      "error_analysis": "核心易错点为形近词“grass”（草）的拼写干扰，及“gl-”开头联想“glad”（高兴）的字面误导",
+      "sentence": "Can you pass me that **glass** of milk? I’m thirsty.",
+      "options": {
+        "option": [
+          {
+            "definition": "草",
+            "iscorrect": false
+          },
+          {
+            "definition": "光泽",
+            "iscorrect": false
+          },
+          {
+            "definition": "高兴",
+            "iscorrect": false
+          },
+          {
+            "definition": "玻璃杯",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

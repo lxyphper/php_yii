@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "one-way ticket",
+      "error_analysis": "学生易因‘one’与‘once’形近或‘one-way’字面义，将‘one-way ticket’误理解为‘一次性票’或‘单向通行的票’，而非旅行中的‘单程票’。",
+      "sentence": "When I booked the flight to Paris, I chose a **one-way ticket** because I wasn’t sure when I’d come back.",
+      "options": {
+        "option": [
+          {
+            "definition": "单程票（只能从出发地到目的地，不包含返回的票）",
+            "iscorrect": true
+          },
+          {
+            "definition": "一次性使用的票（只能用一次的票）",
+            "iscorrect": false
+          },
+          {
+            "definition": "单向通行的票（如只能进入某个区域的票）",
+            "iscorrect": false
+          },
+          {
+            "definition": "往返票（包含出发和返回的票）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

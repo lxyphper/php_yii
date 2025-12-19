@@ -1,0 +1,26 @@
+[
+  {
+    "common_misspellings": [
+      "carbin dioxide",
+      "carben dioxide",
+      "carbon dioxyde",
+      "carbon deoxide",
+      "carbon dioxside"
+    ],
+    "correct_chunks": [
+      "carb",
+      "on",
+      "di",
+      "oxy",
+      "ide"
+    ],
+    "distractor_chunks": [
+      "in",
+      "en",
+      "oxyde",
+      "de",
+      "oxside"
+    ]
+  },
+  0
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to shape",
+      "error_analysis": "学生易因形近词\"shake\"(摇晃)或名词\"shape\"(形状)的字面误导，将动词理解为\"摇晃\"或\"使有形状\"。",
+      "sentence": {
+        "b": "shape"
+      },
+      "options": {
+        "option": [
+          {
+            "definition": "塑造；影响",
+            "iscorrect": true
+          },
+          {
+            "definition": "摇晃；颤抖",
+            "iscorrect": false
+          },
+          {
+            "definition": "使有形状；成型",
+            "iscorrect": false
+          },
+          {
+            "definition": "分享；分担",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

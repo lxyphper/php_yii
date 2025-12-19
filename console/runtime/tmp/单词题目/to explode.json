@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to explode",
+      "error_analysis": "中国学生易因形近词“explore”（探索）混淆词义，或因“ex-”前缀错误联想为“向外扩展”",
+      "sentence": "The firework will **explode** in the sky and create beautiful colors.",
+      "options": {
+        "option": [
+          {
+            "definition": "爆炸；爆发",
+            "iscorrect": true
+          },
+          {
+            "definition": "探索；探究",
+            "iscorrect": false
+          },
+          {
+            "definition": "向外扩展；扩张",
+            "iscorrect": false
+          },
+          {
+            "definition": "利用；开发",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

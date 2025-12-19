@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "seldom",
+      "error_analysis": "学生易因形近词\"sell\"（卖）或词根拆分\"sel-\"+\"dom\"（领域）误解词义",
+      "sentence": "She **seldom** goes to the gym because she prefers home workouts.",
+      "options": {
+        "option": [
+          {
+            "definition": "很少；不常",
+            "iscorrect": true
+          },
+          {
+            "definition": "卖；销售",
+            "iscorrect": false
+          },
+          {
+            "definition": "自己的领域",
+            "iscorrect": false
+          },
+          {
+            "definition": "有时；偶尔",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

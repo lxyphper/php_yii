@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cleanup",
+      "error_analysis": "学生易将名词“cleanup”（清理工作）误判为动词短语“打扫干净”（词根拆分误导）或混淆为“清洁工”（形近词干扰）",
+      "sentence": "After the flood, the city organized a massive **cleanup** to remove debris from the streets.",
+      "options": {
+        "option": [
+          {
+            "definition": "清理工作；整顿（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "打扫干净（动词短语）",
+            "iscorrect": false
+          },
+          {
+            "definition": "清洁工（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "清洁的状态（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

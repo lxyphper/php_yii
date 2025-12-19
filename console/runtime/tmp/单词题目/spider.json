@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "spider",
+      "error_analysis": "学生易因形近词\"slider\"(滑块)或发音相近词\"spy\"(间谍)误判\"spider\"的词义。",
+      "sentence": "The little **spider** spun a web between the trees to catch insects.",
+      "options": {
+        "option": [
+          {
+            "definition": "蜘蛛",
+            "iscorrect": true
+          },
+          {
+            "definition": "滑块",
+            "iscorrect": false
+          },
+          {
+            "definition": "间谍",
+            "iscorrect": false
+          },
+          {
+            "definition": "尖顶",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

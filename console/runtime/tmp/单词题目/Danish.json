@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Danish",
+      "error_analysis": "学生易混淆“Danish”（丹麦的；丹麦人/语）与形近词“danish”（丹麦酥）或音近形近词“Dutch”（荷兰的），导致误判。",
+      "sentence": "The **Danish** team won the European Handball Championship last year, and their players spoke **Danish** during the post-match interview.",
+      "options": {
+        "option": [
+          {
+            "definition": "丹麦的；丹麦人；丹麦语",
+            "iscorrect": true
+          },
+          {
+            "definition": "荷兰的；荷兰人；荷兰语",
+            "iscorrect": false
+          },
+          {
+            "definition": "丹麦酥（一种甜酥饼）",
+            "iscorrect": false
+          },
+          {
+            "definition": "挪威的；挪威人；挪威语",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

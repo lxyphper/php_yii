@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "DM",
+      "error_analysis": "学生易将\"DM\"误理解为长度单位\"分米\"（decimeter的缩写），或混淆其与其他常见缩写（如医学博士）的含义。",
+      "sentence": "If you have any questions about the event, please **DM** me on Instagram and I’ll get back to you soon.",
+      "options": {
+        "option": [
+          {
+            "definition": "直接消息（社交媒体中的私信，Direct Message的缩写）",
+            "iscorrect": true
+          },
+          {
+            "definition": "分米（长度单位，decimeter的缩写）",
+            "iscorrect": false
+          },
+          {
+            "definition": "医学博士（Doctor of Medicine的缩写）",
+            "iscorrect": false
+          },
+          {
+            "definition": "国内邮件（Domestic Mail的缩写）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

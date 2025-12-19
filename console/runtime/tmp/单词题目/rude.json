@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rude",
+      "error_analysis": "学生易因形近词\"ride\"（骑）或\"road\"（路）产生错误联想，混淆\"粗鲁的\"核心词义",
+      "sentence": "It's **rude** to laugh at someone's mistake in public.",
+      "options": {
+        "option": [
+          {
+            "definition": "粗鲁的；无礼的",
+            "iscorrect": true
+          },
+          {
+            "definition": "骑（马/车）",
+            "iscorrect": false
+          },
+          {
+            "definition": "路；道路",
+            "iscorrect": false
+          },
+          {
+            "definition": "红色的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

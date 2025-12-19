@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "satisfying",
+      "error_analysis": "易混淆`satisfying`（体验带来的满足感）与`satisfactory`（结果符合要求的满意），或误将其字面理解为“正在满足的”",
+      "sentence": "After spending hours on the puzzle, finally completing it was a **satisfying** experience.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人满足的（强调体验或过程带来的情感满足）",
+            "iscorrect": true
+          },
+          {
+            "definition": "令人满意的（指结果符合要求）",
+            "iscorrect": false
+          },
+          {
+            "definition": "正在满足的（字面理解为现在分词的进行时态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人愉快的（泛泛的愉快，未体现“满足”的深度）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

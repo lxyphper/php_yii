@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "decongestant",
+      "error_analysis": "学生易因“decongestant”与“decontaminant”（净化剂）拼写相近（均为decon-开头、-ant结尾），或误将词根“congest”（充血）与“digest”（消化）混淆而猜成“助消化剂”。",
+      "sentence": "My doctor recommended taking a **decongestant** to relieve the stuffy nose caused by my cold.",
+      "options": {
+        "option": [
+          {
+            "definition": "解充血药",
+            "iscorrect": true
+          },
+          {
+            "definition": "净化剂",
+            "iscorrect": false
+          },
+          {
+            "definition": "助消化剂",
+            "iscorrect": false
+          },
+          {
+            "definition": "抗组胺药",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "own",
+      "error_analysis": "学生易因形近词“owe”（欠）的干扰，将“own”误理解为“欠”",
+      "sentence": "She finally bought the house she had always wanted and can now call it her **own**.",
+      "options": {
+        "option": [
+          {
+            "definition": "拥有",
+            "iscorrect": true
+          },
+          {
+            "definition": "欠",
+            "iscorrect": false
+          },
+          {
+            "definition": "在…上",
+            "iscorrect": false
+          },
+          {
+            "definition": "打开",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

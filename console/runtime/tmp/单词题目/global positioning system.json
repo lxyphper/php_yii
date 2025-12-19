@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "global positioning system",
+      "error_analysis": "学生易将“positioning”误判为“posing”（摆姿势）或直译为“位置”而忽略“定位”的动作，导致误解短语为“全球摆姿势系统”或“全球位置系统”。",
+      "sentence": "When hiking in the mountains, many people use a **global positioning system** to find their way and avoid getting lost.",
+      "options": {
+        "option": [
+          {
+            "definition": "全球摆姿势系统",
+            "iscorrect": false
+          },
+          {
+            "definition": "全球位置系统",
+            "iscorrect": false
+          },
+          {
+            "definition": "全球定位系统",
+            "iscorrect": true
+          },
+          {
+            "definition": "全球定位服务",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

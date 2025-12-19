@@ -1,0 +1,26 @@
+[
+  {
+    "common_misspellings": [
+      "computor-aided design technician",
+      "computer-aidied design technician",
+      "computer-aided desgin technician",
+      "computer-aided design techician",
+      "computer-aided design technican"
+    ],
+    "correct_chunks": [
+      "computer-",
+      "aided",
+      "design",
+      "techni",
+      "cian"
+    ],
+    "distractor_chunks": [
+      "computor-",
+      "aidied",
+      "desgin",
+      "techin",
+      "can"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "up to snuff",
+      "error_analysis": "将“snuff”的字面义（鼻烟/熄灭）与“up to”结合，误解为“熄灭”“嗅鼻烟”或“直到鼻烟”",
+      "sentence": "The restaurant's service was not **up to snuff**, so we decided not to go there again.",
+      "options": {
+        "option": [
+          {
+            "definition": "熄灭（蜡烛等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "符合标准，达到要求",
+            "iscorrect": true
+          },
+          {
+            "definition": "嗅鼻烟",
+            "iscorrect": false
+          },
+          {
+            "definition": "直到鼻烟（的数量）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

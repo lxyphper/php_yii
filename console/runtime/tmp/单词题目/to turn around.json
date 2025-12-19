@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to turn around",
+      "error_analysis": "将“turn around”字面直译为“绕圈转动”，或混淆“翻转”（turn over）的含义，忽略其“转身；扭转局面”的正确义",
+      "sentence": "When I called her name, she **turned around** and smiled at me.",
+      "options": {
+        "option": [
+          {
+            "definition": "转身；扭转局面（如情况好转）",
+            "iscorrect": true
+          },
+          {
+            "definition": "绕圈转动",
+            "iscorrect": false
+          },
+          {
+            "definition": "翻转（如翻书、翻页）",
+            "iscorrect": false
+          },
+          {
+            "definition": "四处走动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

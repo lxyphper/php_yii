@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "relative",
+      "error_analysis": "中国学生易因形近词“relate”（联系）将“relative”误判为“联系的人”（实际核心词义为名词“亲戚”）",
+      "sentence": "My grandmother invited all her **relatives** to the family reunion last weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "联系的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "亲戚",
+            "iscorrect": true
+          },
+          {
+            "definition": "相关的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "朋友",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

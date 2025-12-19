@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to bungle",
+      "error_analysis": "学生易因形近词\"bundle\"（捆；束）混淆，或误猜为\"堵塞\"（因\"bung\"词根联想）",
+      "sentence": "The chef tried to make a cake but **bungled** it by adding too much salt.",
+      "options": {
+        "option": [
+          {
+            "definition": "搞砸；弄糟",
+            "iscorrect": true
+          },
+          {
+            "definition": "捆；束",
+            "iscorrect": false
+          },
+          {
+            "definition": "堵塞；阻塞",
+            "iscorrect": false
+          },
+          {
+            "definition": "碰撞；撞击",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

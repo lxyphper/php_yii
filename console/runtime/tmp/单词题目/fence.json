@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fence",
+      "error_analysis": "学生易因形近词\"face\"（脸）或词根联想\"fend\"（防御）误判\"fence\"的核心含义",
+      "sentence": "The farmer put a tall **fence** around his vegetable field to stop the deer from eating his crops.",
+      "options": {
+        "option": [
+          {
+            "definition": "栅栏；围栏",
+            "iscorrect": true
+          },
+          {
+            "definition": "脸",
+            "iscorrect": false
+          },
+          {
+            "definition": "防御",
+            "iscorrect": false
+          },
+          {
+            "definition": "金融",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

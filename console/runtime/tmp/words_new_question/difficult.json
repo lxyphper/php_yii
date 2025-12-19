@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "difficult",
+      "error_analysis": "学生易因形近词“different”（不同的）干扰，将“difficult”误判为“不同的”",
+      "sentence": "It's **difficult** to solve this math problem without a calculator.",
+      "options": {
+        "option": [
+          {
+            "definition": "困难的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不同的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无法完成的",
+            "iscorrect": false
+          },
+          {
+            "definition": "复杂的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

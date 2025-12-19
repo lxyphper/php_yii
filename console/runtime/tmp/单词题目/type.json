@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "type",
+      "error_analysis": "学生易因形近词“tape”（磁带）干扰，或误将“type”理解为“典型”而犯错。",
+      "sentence": "What **type** of music do you enjoy listening to in your free time?",
+      "options": {
+        "option": [
+          {
+            "definition": "类型；种类",
+            "iscorrect": true
+          },
+          {
+            "definition": "磁带",
+            "iscorrect": false
+          },
+          {
+            "definition": "典型",
+            "iscorrect": false
+          },
+          {
+            "definition": "打字机",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

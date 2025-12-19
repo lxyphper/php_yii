@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "outdoor",
+      "error_analysis": "中国学生易因词根拆分（out+door）误理解为“门外的”，或与形近词“outward”（向外的）混淆。",
+      "sentence": "We planned an **outdoor** picnic for this weekend because the weather is supposed to be nice.",
+      "options": {
+        "option": [
+          {
+            "definition": "户外的；露天的",
+            "iscorrect": true
+          },
+          {
+            "definition": "向外的；朝外面的",
+            "iscorrect": false
+          },
+          {
+            "definition": "门外的；出了门的",
+            "iscorrect": false
+          },
+          {
+            "definition": "过时的；陈旧的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

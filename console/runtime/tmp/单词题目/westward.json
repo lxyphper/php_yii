@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "westward",
+      "error_analysis": "学生易将\"westward\"拆分为\"west\"（西方）+ \"ward\"（病房）误解为\"西边的病房\"（形近词干扰），或混淆\"westward\"（朝西）与\"western\"（西方的）（词根误导）。",
+      "sentence": "The caravan began its **westward** journey at dawn, heading towards the setting sun.",
+      "options": {
+        "option": [
+          {
+            "definition": "向西的（地）",
+            "iscorrect": true
+          },
+          {
+            "definition": "西边的病房",
+            "iscorrect": false
+          },
+          {
+            "definition": "西方的（如西方的国家）",
+            "iscorrect": false
+          },
+          {
+            "definition": "西边的区域",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

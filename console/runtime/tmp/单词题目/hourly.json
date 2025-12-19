@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hourly",
+      "error_analysis": "中国学生易因形近词“holy”（神圣的）混淆，或因“hour+ly”字面推导误将“hourly”理解为“小时的”而非“每小时的/按小时计算的”。",
+      "sentence": "The factory pays its workers an **hourly** wage, so they earn more if they work extra hours.",
+      "options": {
+        "option": [
+          {
+            "definition": "神圣的",
+            "iscorrect": false
+          },
+          {
+            "definition": "每小时的；按小时计算的",
+            "iscorrect": true
+          },
+          {
+            "definition": "小时的（持续一小时的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "匆忙的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

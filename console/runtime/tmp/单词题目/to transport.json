@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to transport",
+      "error_analysis": "易因形近词“transplant”（移植）混淆词义，或因“port”（港口）的词根联想误判为与港口相关的动作。",
+      "sentence": "The company uses trucks to **transport** goods from the factory to the warehouse every day.",
+      "options": {
+        "option": [
+          {
+            "definition": "运输；运送",
+            "iscorrect": true
+          },
+          {
+            "definition": "移植（器官或植物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "将货物停靠在港口",
+            "iscorrect": false
+          },
+          {
+            "definition": "转移（注意力或所有权）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

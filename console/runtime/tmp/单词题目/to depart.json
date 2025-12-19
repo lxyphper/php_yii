@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to depart",
+      "error_analysis": "因形近词\"department\"（部门）或词根\"part\"（部分），易将\"to depart\"误解为\"属于部门\"或\"分成部分\"",
+      "sentence": "The flight will **depart** from Beijing Capital Airport at 9:30 AM.",
+      "options": {
+        "option": [
+          {
+            "definition": "离开（某地）",
+            "iscorrect": true
+          },
+          {
+            "definition": "分成若干部分",
+            "iscorrect": false
+          },
+          {
+            "definition": "属于某个部门",
+            "iscorrect": false
+          },
+          {
+            "definition": "等待（某物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

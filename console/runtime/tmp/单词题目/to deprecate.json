@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to deprecate",
+      "error_analysis": "易与形近词'depreciate'（贬值、贬低）混淆，或因词根'prec-'（如preach）猜测为'批评说教'",
+      "sentence": "The school deprecated the old rule that forced students to wear uniforms every day.",
+      "options": {
+        "option": [
+          {
+            "definition": "反对；不赞成",
+            "iscorrect": true
+          },
+          {
+            "definition": "（使）贬值；贬低价值",
+            "iscorrect": false
+          },
+          {
+            "definition": "批评；说教",
+            "iscorrect": false
+          },
+          {
+            "definition": "装饰；布置",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

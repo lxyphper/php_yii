@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cocoa",
+      "error_analysis": "中国学生易将cocoa与形近词coca（古柯）或coconut（椰子）混淆，误判为古柯或椰子",
+      "sentence": "She added a spoonful of **cocoa** to her milk to make a warm, chocolatey drink.",
+      "options": {
+        "option": [
+          {
+            "definition": "可可（粉）（用于制作巧克力或热饮的原料）",
+            "iscorrect": true
+          },
+          {
+            "definition": "古柯（一种植物，其叶子可用于制作可卡因）",
+            "iscorrect": false
+          },
+          {
+            "definition": "椰子（一种热带果实，果肉白色、多汁）",
+            "iscorrect": false
+          },
+          {
+            "definition": "咖啡（由咖啡豆磨制而成的苦味饮料）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

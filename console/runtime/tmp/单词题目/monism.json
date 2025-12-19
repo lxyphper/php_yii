@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "monism",
+      "error_analysis": "学生易因“mono-”词根误导，将“monism”错误理解为“单一的主义”（如极端主义），而非哲学上的“一元论”。",
+      "sentence": "In philosophy, **monism** argues that all reality is derived from a single fundamental substance, such as matter or mind.",
+      "options": {
+        "option": [
+          {
+            "definition": "哲学上的一元论（认为世界本质是单一的基本物质或精神）",
+            "iscorrect": true
+          },
+          {
+            "definition": "单一的极端主义或排他性学说（如只允许一种信仰的主义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "垄断或独占的状态（如某企业控制整个市场的情况）",
+            "iscorrect": false
+          },
+          {
+            "definition": "二元论（认为世界有两个独立本质的哲学学说）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

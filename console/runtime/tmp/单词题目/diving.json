@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "diving",
+      "error_analysis": "最核心易错点是形近词'driving'（驾驶）的干扰，或误将'dive'词根关联至'分开'（divide）导致理解偏差。",
+      "sentence": "Lisa enjoys **diving** with her friends to watch coral reefs in the ocean.",
+      "options": {
+        "option": [
+          {
+            "definition": "驾驶",
+            "iscorrect": false
+          },
+          {
+            "definition": "分开的动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "潜水（运动）",
+            "iscorrect": true
+          },
+          {
+            "definition": "游泳",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

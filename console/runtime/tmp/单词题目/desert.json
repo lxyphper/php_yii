@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "desert",
+      "error_analysis": "易与形近词\"dessert\"(甜点)混淆，或误将名词义\"沙漠\"与动词义\"抛弃\"混淆",
+      "sentence": "The Sahara, known for its extreme heat and vast sand dunes, is the world's largest hot **desert**.",
+      "options": {
+        "option": [
+          {
+            "definition": "沙漠",
+            "iscorrect": true
+          },
+          {
+            "definition": "甜点",
+            "iscorrect": false
+          },
+          {
+            "definition": "应得之物",
+            "iscorrect": false
+          },
+          {
+            "definition": "抛弃(动词)",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

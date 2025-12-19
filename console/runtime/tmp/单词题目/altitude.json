@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "altitude",
+      "error_analysis": "学生易混淆形近词attitude（态度）与altitude，或误将其理解为非地理高度的抽象含义",
+      "sentence": "The plane reached an **altitude** of 10,000 meters before beginning its descent.",
+      "options": {
+        "option": [
+          {
+            "definition": "态度；看法",
+            "iscorrect": false
+          },
+          {
+            "definition": "海拔；高度（指地理或飞行的高度）",
+            "iscorrect": true
+          },
+          {
+            "definition": "（抽象的）高度；境界",
+            "iscorrect": false
+          },
+          {
+            "definition": "才能；天资",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

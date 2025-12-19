@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "soda",
+      "error_analysis": "学生易因形近词`soap`（肥皂）混淆`soda`的含义，或误将其理解为非碳酸饮料（如茶/酒）。",
+      "sentence": "I'd like a cold **soda** with my hamburger instead of water.",
+      "options": {
+        "option": [
+          {
+            "definition": "汽水；苏打水",
+            "iscorrect": true
+          },
+          {
+            "definition": "肥皂",
+            "iscorrect": false
+          },
+          {
+            "definition": "茶",
+            "iscorrect": false
+          },
+          {
+            "definition": "啤酒",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

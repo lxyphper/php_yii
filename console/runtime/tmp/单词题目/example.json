@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "example",
+      "error_analysis": "学生易因形近词“examine”（检查）、“sample”（样本）的干扰，或拆分“ample”（充足的）导致对“example”的错误理解。",
+      "sentence": "The teacher used a simple **example** to show how to solve the math problem.",
+      "options": {
+        "option": [
+          {
+            "definition": "样本；样品",
+            "iscorrect": false
+          },
+          {
+            "definition": "检查；审查",
+            "iscorrect": false
+          },
+          {
+            "definition": "例子；实例",
+            "iscorrect": true
+          },
+          {
+            "definition": "足够的；充足的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

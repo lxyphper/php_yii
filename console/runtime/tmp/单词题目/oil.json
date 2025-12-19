@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "oil",
+      "error_analysis": "中国学生易因形近词\"soil\"（土壤）的干扰，将\"oil\"误理解为\"土壤\"。",
+      "sentence": "You need to add a little **oil** to the pan before frying the eggs.",
+      "options": {
+        "option": [
+          {
+            "definition": "油（如食用油、石油）",
+            "iscorrect": true
+          },
+          {
+            "definition": "土壤（覆盖地面的泥土）",
+            "iscorrect": false
+          },
+          {
+            "definition": "煮（把食物或水加热至沸腾）",
+            "iscorrect": false
+          },
+          {
+            "definition": "桨（划船时用的工具）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

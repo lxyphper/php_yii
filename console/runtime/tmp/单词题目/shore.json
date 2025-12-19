@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "shore",
+      "error_analysis": "中国学生易将“shore”误判为形近词“store”（商店）或“short”（短的）的含义",
+      "sentence": "The children laughed as they chased waves along the **shore**, collecting shells in their buckets.",
+      "options": {
+        "option": [
+          {
+            "definition": "海岸；湖滨",
+            "iscorrect": true
+          },
+          {
+            "definition": "商店",
+            "iscorrect": false
+          },
+          {
+            "definition": "短的",
+            "iscorrect": false
+          },
+          {
+            "definition": "确保",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

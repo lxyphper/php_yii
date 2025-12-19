@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to claim",
+      "error_analysis": "学生易因形近词\"climb\"(攀爬)或词根\"呼喊\"误导，将\"to claim\"误解为\"攀爬\"或\"喊叫\"。",
+      "sentence": "The man **claimed** he had never seen the stolen watch before.",
+      "options": {
+        "option": [
+          {
+            "definition": "声称；断言",
+            "iscorrect": true
+          },
+          {
+            "definition": "攀爬",
+            "iscorrect": false
+          },
+          {
+            "definition": "喊叫",
+            "iscorrect": false
+          },
+          {
+            "definition": "清洁",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

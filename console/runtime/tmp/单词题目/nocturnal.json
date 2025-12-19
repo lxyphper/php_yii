@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nocturnal",
+      "error_analysis": "中国学生易因形近词“natural”或词根“noct”误解，误判为“自然的”或“白天的”",
+      "sentence": "Owls are **nocturnal** creatures; they sleep during the day and hunt at night.",
+      "options": {
+        "option": [
+          {
+            "definition": "自然的",
+            "iscorrect": false
+          },
+          {
+            "definition": "白天的",
+            "iscorrect": false
+          },
+          {
+            "definition": "夜间活动的",
+            "iscorrect": true
+          },
+          {
+            "definition": "黑暗的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

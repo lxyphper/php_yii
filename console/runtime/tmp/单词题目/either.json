@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "either",
+      "error_analysis": "学生易混淆“either”的“两者中的任何一个”本义与形近词“neither”的“两者都不”，或误将其等同于“each”（每个，三者及以上）。",
+      "sentence": "You can choose **either** of the two books for your homework—they both cover the topic well.",
+      "options": {
+        "option": [
+          {
+            "definition": "两者中的任何一个",
+            "iscorrect": true
+          },
+          {
+            "definition": "两者都不",
+            "iscorrect": false
+          },
+          {
+            "definition": "每个（三者或以上）",
+            "iscorrect": false
+          },
+          {
+            "definition": "也（用于肯定句末尾）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "script",
+      "error_analysis": "学生易因形近词\"scripture\"（经文）或词根\"写\"误将\"script\"理解为\"经文\"或\"手写体\"，忽略其核心义\"剧本/脚本\"。",
+      "sentence": "The director asked the writer to revise the **script** before filming starts.",
+      "options": {
+        "option": [
+          {
+            "definition": "剧本；脚本",
+            "iscorrect": true
+          },
+          {
+            "definition": "经文；圣典",
+            "iscorrect": false
+          },
+          {
+            "definition": "手写体；草体",
+            "iscorrect": false
+          },
+          {
+            "definition": "临时凭证；代价券",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

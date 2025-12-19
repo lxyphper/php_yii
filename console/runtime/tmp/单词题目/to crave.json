@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to crave",
+      "error_analysis": "学生易因形近词“cave”（洞穴）误将“to crave”理解为“洞穴”，或因“cra-”与“crazy”（疯狂）关联而误解为“疯狂地想要”。",
+      "sentence": "After a long day without food, she **craves** a warm bowl of soup.",
+      "options": {
+        "option": [
+          {
+            "definition": "渴望，渴求",
+            "iscorrect": true
+          },
+          {
+            "definition": "洞穴",
+            "iscorrect": false
+          },
+          {
+            "definition": "疯狂地想要",
+            "iscorrect": false
+          },
+          {
+            "definition": "创造",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

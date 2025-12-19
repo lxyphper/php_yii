@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to appeal",
+      "error_analysis": "学生易因形近词\"appear\"(出现)或词根\"呼唤\"导致的\"呼吁\"误解，混淆其\"吸引\"的核心义。",
+      "sentence": "The new coffee shop on the corner **appeals** to many students because of its cozy atmosphere.",
+      "options": {
+        "option": [
+          {
+            "definition": "出现",
+            "iscorrect": false
+          },
+          {
+            "definition": "呼吁",
+            "iscorrect": false
+          },
+          {
+            "definition": "吸引",
+            "iscorrect": true
+          },
+          {
+            "definition": "申请",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

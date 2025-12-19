@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "excursion",
+      "error_analysis": "学生易因形近词\"execution\"（执行）混淆词义，或因词根\"cur\"（跑）误导为\"逃跑\"，忽略其\"短途旅行\"的核心义",
+      "sentence": "The class went on an **excursion** to the nearby forest to study local plants.",
+      "options": {
+        "option": [
+          {
+            "definition": "短途旅行；远足",
+            "iscorrect": true
+          },
+          {
+            "definition": "执行；死刑",
+            "iscorrect": false
+          },
+          {
+            "definition": "逃跑；逃离",
+            "iscorrect": false
+          },
+          {
+            "definition": "展览；展示",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

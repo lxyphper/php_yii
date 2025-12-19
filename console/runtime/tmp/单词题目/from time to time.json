@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "from time to time",
+      "error_analysis": "学生易因from...to...的结构字面误导为“一直，持续不断”，或与on time/in time形近混淆为“准时/及时”",
+      "sentence": "My grandparents **from time to time** send me handwritten letters, even though they can use smartphones.",
+      "options": {
+        "option": [
+          {
+            "definition": "偶尔，有时",
+            "iscorrect": true
+          },
+          {
+            "definition": "一直，持续不断",
+            "iscorrect": false
+          },
+          {
+            "definition": "准时，按时",
+            "iscorrect": false
+          },
+          {
+            "definition": "立刻，马上",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

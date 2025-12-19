@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to curl",
+      "error_analysis": "中国学生易因形近将“to curl”与“carve”（雕刻）混淆，或因词义关联误判为“弯曲”（curve）而非“卷曲”。",
+      "sentence": "He curled the ribbon around the gift box to make it look more attractive.",
+      "options": {
+        "option": [
+          {
+            "definition": "（使）卷曲",
+            "iscorrect": true
+          },
+          {
+            "definition": "（使）雕刻",
+            "iscorrect": false
+          },
+          {
+            "definition": "（使）弯曲",
+            "iscorrect": false
+          },
+          {
+            "definition": "（使）切割",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

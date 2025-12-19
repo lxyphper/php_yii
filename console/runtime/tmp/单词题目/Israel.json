@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Israel",
+      "error_analysis": "中国学生易因拼写形近（与island“岛屿”相似）或混淆国家名与国民（如Israeli“以色列人”）而误判",
+      "sentence": "Many tourists visit **Israel** every year to explore historical landmarks like the Western Wall in Jerusalem.",
+      "options": {
+        "option": [
+          {
+            "definition": "以色列（亚洲西南部的主权国家）",
+            "iscorrect": true
+          },
+          {
+            "definition": "岛屿（被海洋或湖泊环绕的陆地）",
+            "iscorrect": false
+          },
+          {
+            "definition": "以色列人（以色列的居民或国民）",
+            "iscorrect": false
+          },
+          {
+            "definition": "宗教仪式（宗教活动中的传统程序）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

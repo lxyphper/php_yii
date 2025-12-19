@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to turn down",
+      "error_analysis": "学生易因字面直译\"向下转动\"或混淆\"turn off\"(关掉)而误解\"拒绝\"这一核心抽象义",
+      "sentence": "Lisa had to **turn down** the party invitation because she had a doctor's appointment that evening.",
+      "options": {
+        "option": [
+          {
+            "definition": "向下转动",
+            "iscorrect": false
+          },
+          {
+            "definition": "关掉",
+            "iscorrect": false
+          },
+          {
+            "definition": "拒绝",
+            "iscorrect": true
+          },
+          {
+            "definition": "翻转",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

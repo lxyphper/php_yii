@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "realism",
+      "error_analysis": "学生易将“realism”（艺术/文学中的现实主义风格）误判为“真实性”或“现实感”，因词根“real”（真实的）与“-ism”（主义）的组合导致过度直译。",
+      "sentence": "The director used **realism** in the movie, filming ordinary people going about their daily lives without any exaggeration.",
+      "options": {
+        "option": [
+          {
+            "definition": "现实主义（艺术或文学中注重真实描绘的风格）",
+            "iscorrect": true
+          },
+          {
+            "definition": "真实性（人或事物的真实状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "现实感（对现实的感知或印象）",
+            "iscorrect": false
+          },
+          {
+            "definition": "意识到（动词，明白某事）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

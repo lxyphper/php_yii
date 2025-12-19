@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "callous",
+      "error_analysis": "学生易因形近词callus（老茧）或词根字面义（厚皮的）将callous误判为“有老茧的/粗糙的”",
+      "sentence": "The boss's **callous** response to the employee's personal crisis made everyone in the office feel uneasy.",
+      "options": {
+        "option": [
+          {
+            "definition": "冷漠的；无情的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有老茧的；粗糙的",
+            "iscorrect": false
+          },
+          {
+            "definition": "厚皮的；坚硬的",
+            "iscorrect": false
+          },
+          {
+            "definition": "粗心的；疏忽的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

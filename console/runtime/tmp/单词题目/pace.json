@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pace",
+      "error_analysis": "学生易因形近词“place”（地方）或词根联想“peace”（和平）误判“pace”的核心含义",
+      "sentence": "The runner increased his **pace** to catch up with the leader.",
+      "options": {
+        "option": [
+          {
+            "definition": "地方",
+            "iscorrect": false
+          },
+          {
+            "definition": "速度；步伐",
+            "iscorrect": true
+          },
+          {
+            "definition": "和平",
+            "iscorrect": false
+          },
+          {
+            "definition": "页面",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

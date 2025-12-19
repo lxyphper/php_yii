@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to sketch",
+      "error_analysis": "学生易因形近词“stretch”（伸展）混淆，将“to sketch”误理解为“伸展”或“拉伸”。",
+      "sentence": "The architect asked me to **sketch** a rough plan of the new building before starting the detailed design.",
+      "options": {
+        "option": [
+          {
+            "definition": "画草图；概述",
+            "iscorrect": true
+          },
+          {
+            "definition": "伸展；拉伸",
+            "iscorrect": false
+          },
+          {
+            "definition": "详细绘画",
+            "iscorrect": false
+          },
+          {
+            "definition": "扫描；浏览",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

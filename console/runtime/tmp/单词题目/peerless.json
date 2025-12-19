@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "peerless",
+      "error_analysis": "将“peerless”误判为“无同伴的”（因形近词“peer”及词根“-less”的字面误导）",
+      "sentence": "The pianist's **peerless** performance at the concert left the audience in awe; no other musician could match her skill and passion.",
+      "options": {
+        "option": [
+          {
+            "definition": "无与伦比的；绝世的",
+            "iscorrect": true
+          },
+          {
+            "definition": "无同伴的；孤独的",
+            "iscorrect": false
+          },
+          {
+            "definition": "同辈的；同龄的",
+            "iscorrect": false
+          },
+          {
+            "definition": "普通的；平凡的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

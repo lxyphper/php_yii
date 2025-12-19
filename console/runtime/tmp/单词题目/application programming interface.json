@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "application programming interface",
+      "error_analysis": "学生易因“interface”直译为“界面”或“application”误作“申请”而误解整体词义",
+      "sentence": "Developers use an **application programming interface** to enable different software applications to exchange data seamlessly.",
+      "options": {
+        "option": [
+          {
+            "definition": "应用程序编程接口",
+            "iscorrect": true
+          },
+          {
+            "definition": "应用编程界面",
+            "iscorrect": false
+          },
+          {
+            "definition": "申请编程接口",
+            "iscorrect": false
+          },
+          {
+            "definition": "应用程序设计接口",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

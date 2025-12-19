@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "franchise",
+      "error_analysis": "学生易因形近词“France”（法国）误解为“法国的”，或因词根“franch-”（自由）误判为“自由”。",
+      "sentence": "McDonald's is a well-known brand that sells its **franchise** to independent business owners worldwide.",
+      "options": {
+        "option": [
+          {
+            "definition": "法国的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "自由（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "特许经营权（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "坦白的（形容词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

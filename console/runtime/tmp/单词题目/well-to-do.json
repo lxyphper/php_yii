@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "well-to-do",
+      "error_analysis": "学生易因字面拆解\"well-to-do\"为\"做得好\"或\"进展顺利\"，而非其核心义\"富裕的\"",
+      "sentence": "Her parents come from a **well-to-do** neighborhood, so they could afford to send her to a private school.",
+      "options": {
+        "option": [
+          {
+            "definition": "富裕的",
+            "iscorrect": true
+          },
+          {
+            "definition": "做得好的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有能力做的",
+            "iscorrect": false
+          },
+          {
+            "definition": "健康的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

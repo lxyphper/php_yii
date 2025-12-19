@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to concede",
+      "error_analysis": "学生易因形近词\"conclude\"（得出结论）或词根\"cede\"（割让）错误理解\"to concede\"为\"得出结论\"或\"割让\"。",
+      "sentence": "The candidate had to **concede** the election after the final votes were counted.",
+      "options": {
+        "option": [
+          {
+            "definition": "承认（事实/错误）",
+            "iscorrect": true
+          },
+          {
+            "definition": "得出结论",
+            "iscorrect": false
+          },
+          {
+            "definition": "割让（领土）",
+            "iscorrect": false
+          },
+          {
+            "definition": "关心",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

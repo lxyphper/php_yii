@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "uncomplicated",
+      "error_analysis": "学生易因形近词\"uncompromising\"（不妥协的）混淆，或因词根拆分误将\"uncomplicated\"理解为\"无关联的\"。",
+      "sentence": "The recipe is **uncomplicated**—just mix the ingredients and bake for 20 minutes.",
+      "options": {
+        "option": [
+          {
+            "definition": "简单的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不妥协的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无关联的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不舒服的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

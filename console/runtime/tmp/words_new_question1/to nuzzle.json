@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to nuzzle",
+      "error_analysis": "中国学生易因形近词\"muzzle\"(嘴套)误解为\"给...戴嘴套\"，或因\"nose\"联想误解为\"用鼻子闻\"",
+      "sentence": "The puppy **nuzzled** against my leg, hoping I'd give it a treat.",
+      "options": {
+        "option": [
+          {
+            "definition": "给...戴嘴套",
+            "iscorrect": false
+          },
+          {
+            "definition": "用鼻子闻",
+            "iscorrect": false
+          },
+          {
+            "definition": "用鼻子或脸轻擦（以表示爱意或寻求关注）",
+            "iscorrect": true
+          },
+          {
+            "definition": "依偎在...旁边",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

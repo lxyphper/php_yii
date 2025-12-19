@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to direct",
+      "error_analysis": "学生易因形近词“correct”干扰或词根“rect”字面误导，将“to direct”误解为“纠正”或“调整”。",
+      "sentence": "The famous filmmaker was invited to **direct** the new Broadway play next season.",
+      "options": {
+        "option": [
+          {
+            "definition": "纠正",
+            "iscorrect": false
+          },
+          {
+            "definition": "指导；指挥",
+            "iscorrect": true
+          },
+          {
+            "definition": "调整",
+            "iscorrect": false
+          },
+          {
+            "definition": "直接做",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

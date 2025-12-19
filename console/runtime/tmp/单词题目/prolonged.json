@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "prolonged",
+      "error_analysis": "中国学生易因形近词（如prominent/profound）或词根“pro-+long”的错误推导，将prolonged误解为“突出的”或“深刻的”。",
+      "sentence": "After a **prolonged** negotiation, the two sides finally reached an agreement.",
+      "options": {
+        "option": [
+          {
+            "definition": "持续很久的",
+            "iscorrect": true
+          },
+          {
+            "definition": "突出的",
+            "iscorrect": false
+          },
+          {
+            "definition": "深刻的",
+            "iscorrect": false
+          },
+          {
+            "definition": "被延长的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

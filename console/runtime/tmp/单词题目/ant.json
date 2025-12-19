@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ant",
+      "error_analysis": "学生易混淆形近词\"ant\"(蚂蚁)与\"aunt\"(阿姨)，因二者拼写相似、发音接近",
+      "sentence": "The little **ant** is carrying a piece of bread back to its nest.",
+      "options": {
+        "option": [
+          {
+            "definition": "蚂蚁",
+            "iscorrect": true
+          },
+          {
+            "definition": "阿姨",
+            "iscorrect": false
+          },
+          {
+            "definition": "蚂蚁窝",
+            "iscorrect": false
+          },
+          {
+            "definition": "触角",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

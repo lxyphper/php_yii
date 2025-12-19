@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "prey",
+      "error_analysis": "形近词“pray”（祈祷）的干扰及对“pre-”词根的错误联想（如“预先做某事”）",
+      "sentence": "Owls hunt mice and other small animals as their main **prey**.",
+      "options": {
+        "option": [
+          {
+            "definition": "祈祷；祈求",
+            "iscorrect": false
+          },
+          {
+            "definition": "猎物；被捕食的动物",
+            "iscorrect": true
+          },
+          {
+            "definition": "预先支付；预付",
+            "iscorrect": false
+          },
+          {
+            "definition": "大声呼喊；尖叫",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

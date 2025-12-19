@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "apricot",
+      "error_analysis": "学生易将\"apricot\"与形近词\"apron\"（围裙）混淆，或因\"apr\"联想到\"April\"而误判为\"四月的果实\"。",
+      "sentence": "She picked a ripe **apricot** from the tree and bit into its sweet, juicy flesh.",
+      "options": {
+        "option": [
+          {
+            "definition": "杏（一种甜多汁的水果）",
+            "iscorrect": true
+          },
+          {
+            "definition": "围裙（穿在前面的衣物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "四月的果实（在四月成熟的果实）",
+            "iscorrect": false
+          },
+          {
+            "definition": "小床（供儿童使用的小型床）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "joy",
+      "error_analysis": "中国学生易因形近词“join”（加入）的拼写相似，将“joy”误理解为“加入”。",
+      "sentence": "The children’s faces lit up with **joy** as they opened their Christmas gifts.",
+      "options": {
+        "option": [
+          {
+            "definition": "快乐；喜悦",
+            "iscorrect": true
+          },
+          {
+            "definition": "加入；参加",
+            "iscorrect": false
+          },
+          {
+            "definition": "跳跃；蹦跳",
+            "iscorrect": false
+          },
+          {
+            "definition": "玩具；玩物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

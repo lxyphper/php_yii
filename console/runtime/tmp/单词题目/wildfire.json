@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wildfire",
+      "error_analysis": "学生易因形近词“wildlife”（野生动物）或“wild+fire”字面拆分产生错误理解",
+      "sentence": "The **wildfire** spread quickly through the forest, forcing hundreds of people to evacuate their homes.",
+      "options": {
+        "option": [
+          {
+            "definition": "野生动物",
+            "iscorrect": false
+          },
+          {
+            "definition": "野营火",
+            "iscorrect": false
+          },
+          {
+            "definition": "野火（尤指未被控制的野外火灾）",
+            "iscorrect": true
+          },
+          {
+            "definition": "疯狂的火",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

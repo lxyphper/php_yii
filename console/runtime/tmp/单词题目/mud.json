@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mud",
+      "error_analysis": "中国学生易因形近词（如“mug”“bud”）或音近词（如“mad”）将“mud”误判为“杯子”“芽”或“疯狂的”",
+      "sentence": "After the rain, the kids played in the **mud** and got their clothes covered in dirt.",
+      "options": {
+        "option": [
+          {
+            "definition": "泥；泥浆",
+            "iscorrect": true
+          },
+          {
+            "definition": "杯子；马克杯",
+            "iscorrect": false
+          },
+          {
+            "definition": "芽；花蕾",
+            "iscorrect": false
+          },
+          {
+            "definition": "疯狂的；生气的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

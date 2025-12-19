@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hopeless",
+      "error_analysis": "学生易因形近词（如homeless/helpless）或词根过度直译，将\"hopeless\"误解为\"无家可归的\"或\"无助的\"。",
+      "sentence": "After failing the exam three times, Tom felt **hopeless** about passing it next time.",
+      "options": {
+        "option": [
+          {
+            "definition": "没有希望的；绝望的",
+            "iscorrect": true
+          },
+          {
+            "definition": "无家可归的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无助的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有希望的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "empiricism",
+      "error_analysis": "学生易因形近词“empire”（帝国）误解为“帝国主义”，或因词根“empir-”不熟悉而错误联想为权威主义等无关主义",
+      "sentence": "Many scientists adhere to **empiricism**, believing that no theory can be accepted without evidence from observation or experiment.",
+      "options": {
+        "option": [
+          {
+            "definition": "帝国主义（建立或维持帝国的政策或实践）",
+            "iscorrect": false
+          },
+          {
+            "definition": "权威主义（强调对权威绝对服从的政治理论）",
+            "iscorrect": false
+          },
+          {
+            "definition": "经验主义（认为所有知识都基于感官经验的哲学理论）",
+            "iscorrect": true
+          },
+          {
+            "definition": "传统主义（重视传统习俗并反对变革的理论）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "name",
+      "error_analysis": "学生易因形近词（如same/game/numb）干扰，将name误判为“相同”“游戏”或“麻木的”",
+      "sentence": "Excuse me, could you tell me your **name**?",
+      "options": {
+        "option": [
+          {
+            "definition": "名字（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "相同（same的词义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "游戏（game的词义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "麻木的（numb的词义）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

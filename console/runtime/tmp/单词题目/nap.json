@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nap",
+      "error_analysis": "学生易因形近词“napkin”（餐巾）“map”（地图）的干扰，或字面误导混淆“小睡”与“绒毛”，导致错误理解。",
+      "sentence": "After lunch, Grandma likes to take a short **nap** on the sofa before doing the dishes.",
+      "options": {
+        "option": [
+          {
+            "definition": "小睡；打盹",
+            "iscorrect": true
+          },
+          {
+            "definition": "餐巾",
+            "iscorrect": false
+          },
+          {
+            "definition": "地图",
+            "iscorrect": false
+          },
+          {
+            "definition": "绒毛；短毛",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

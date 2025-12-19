@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "confused",
+      "error_analysis": "易因形近词“confessed”（承认的）或词根“fus”（流）误解为“承认的”或“混合的”",
+      "sentence": "After listening to the complicated explanation, she looked **confused** and asked, \"Could you repeat that?\"",
+      "options": {
+        "option": [
+          {
+            "definition": "承认的",
+            "iscorrect": false
+          },
+          {
+            "definition": "混合的",
+            "iscorrect": false
+          },
+          {
+            "definition": "困惑的；无法理解的",
+            "iscorrect": true
+          },
+          {
+            "definition": "复杂的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

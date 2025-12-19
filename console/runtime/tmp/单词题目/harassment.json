@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "harassment",
+      "error_analysis": "学生易因形近词\"harvest\"(收获)或误拆词根将\"harassment\"误解为\"收获\"或\"马具/利用\"",
+      "sentence": "The company has a strict policy against **harassment** in the workplace to ensure a safe environment for all employees.",
+      "options": {
+        "option": [
+          {
+            "definition": "骚扰；侵扰",
+            "iscorrect": true
+          },
+          {
+            "definition": "收获；收成",
+            "iscorrect": false
+          },
+          {
+            "definition": "马具；利用",
+            "iscorrect": false
+          },
+          {
+            "definition": "尴尬；难堪",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

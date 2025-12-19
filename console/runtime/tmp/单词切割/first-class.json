@@ -1,0 +1,26 @@
+[
+  {
+    "common_misspellings": [
+      "firstclass",
+      "first-clas",
+      "ferst-class",
+      "first-klass",
+      "fist-class"
+    ],
+    "correct_chunks": [
+      "f",
+      "ir",
+      "st-",
+      "cl",
+      "ass"
+    ],
+    "distractor_chunks": [
+      "er",
+      "kl",
+      "clas",
+      "i",
+      "firstclass"
+    ]
+  },
+  0
+]

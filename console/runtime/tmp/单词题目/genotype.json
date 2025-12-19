@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "genotype",
+      "error_analysis": "学生易因词根“gen-”（生成）与“type”的字面推导错解为“生成的类型”，或因形近词“gentle”（温柔的）联想为“温柔的类型”。",
+      "sentence": "Scientists analyzed the **genotype** of the mice to understand how their genes influence coat color.",
+      "options": {
+        "option": [
+          {
+            "definition": "基因型（生物体的基因组成）",
+            "iscorrect": true
+          },
+          {
+            "definition": "生成的类型",
+            "iscorrect": false
+          },
+          {
+            "definition": "温柔的类型",
+            "iscorrect": false
+          },
+          {
+            "definition": "表现型（生物体的外部特征）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

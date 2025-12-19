@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to scale down",
+      "error_analysis": "学生易将“scale”误解为“鳞片”或“攀登”，从而将“scale down”字面理解为“刮下鳞片”或“向下攀登”。",
+      "sentence": "The company decided to **scale down** its production due to low demand.",
+      "options": {
+        "option": [
+          {
+            "definition": "刮下鳞片",
+            "iscorrect": false
+          },
+          {
+            "definition": "向下攀登",
+            "iscorrect": false
+          },
+          {
+            "definition": "缩小；减少规模",
+            "iscorrect": true
+          },
+          {
+            "definition": "降低测量值",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

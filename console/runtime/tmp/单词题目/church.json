@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "church",
+      "error_analysis": "学生易因形近词“chair”（椅子）的干扰，将“church”误判为家具类名词",
+      "sentence": "Many people go to the **church** every Sunday to pray.",
+      "options": {
+        "option": [
+          {
+            "definition": "教堂",
+            "iscorrect": true
+          },
+          {
+            "definition": "椅子",
+            "iscorrect": false
+          },
+          {
+            "definition": "粉笔",
+            "iscorrect": false
+          },
+          {
+            "definition": "追逐",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

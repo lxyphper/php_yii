@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to scald",
+      "error_analysis": "学生易因形近词“scold”（责骂）混淆，或词根猜测误判为“刮伤”",
+      "sentence": "She accidentally **scalded** her hand when pouring hot coffee from the pot.",
+      "options": {
+        "option": [
+          {
+            "definition": "责骂；训斥",
+            "iscorrect": false
+          },
+          {
+            "definition": "刮伤；擦伤",
+            "iscorrect": false
+          },
+          {
+            "definition": "加热；煮沸",
+            "iscorrect": false
+          },
+          {
+            "definition": "烫伤；烫洗",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

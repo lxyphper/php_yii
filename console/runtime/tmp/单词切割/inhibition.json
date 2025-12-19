@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "inhibation",
+      "inhibision",
+      "indibition",
+      "inhebition",
+      "inhibiton"
+    ],
+    "correct_chunks": [
+      "in",
+      "hibit",
+      "ion"
+    ],
+    "distractor_chunks": [
+      "ation",
+      "sion",
+      "dib",
+      "heb",
+      true
+    ]
+  },
+  0
+]

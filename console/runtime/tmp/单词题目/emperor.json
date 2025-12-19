@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "emperor",
+      "error_analysis": "学生易因形近词“empire”（帝国）的拼写相似，将“emperor”误判为“帝国”。",
+      "sentence": "Qin Shi Huang became the first **emperor** of a unified China in 221 BC.",
+      "options": {
+        "option": [
+          {
+            "definition": "皇帝",
+            "iscorrect": true
+          },
+          {
+            "definition": "帝国",
+            "iscorrect": false
+          },
+          {
+            "definition": "国王",
+            "iscorrect": false
+          },
+          {
+            "definition": "统治者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

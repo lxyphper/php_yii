@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tennis",
+      "error_analysis": "中国学生易因形近词\"ten\"(十)猜测词义，或混淆\"tennis\"与\"table tennis\"(乒乓球)而误判",
+      "sentence": "She practices **tennis** every weekend on the outdoor court with her new racket.",
+      "options": {
+        "option": [
+          {
+            "definition": "网球",
+            "iscorrect": true
+          },
+          {
+            "definition": "十个一组的物品",
+            "iscorrect": false
+          },
+          {
+            "definition": "需要持有物品的活动",
+            "iscorrect": false
+          },
+          {
+            "definition": "乒乓球",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

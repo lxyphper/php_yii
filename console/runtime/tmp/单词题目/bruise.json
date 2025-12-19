@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bruise",
+      "error_analysis": "中国学生易因“bruise”与形近词“browse”（浏览）、“brush”（刷子）或发音接近的“breeze”（微风）产生错误联想，误判其词义。",
+      "sentence": "She fell off her bike and got a big **bruise** on her knee.",
+      "options": {
+        "option": [
+          {
+            "definition": "浏览",
+            "iscorrect": false
+          },
+          {
+            "definition": "瘀伤",
+            "iscorrect": true
+          },
+          {
+            "definition": "微风",
+            "iscorrect": false
+          },
+          {
+            "definition": "刷子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

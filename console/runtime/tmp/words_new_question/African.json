@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "African",
+      "error_analysis": "易因形近词American（美国的）混淆词义，或因词根误解为非洲语。",
+      "sentence": "The **African** elephant is the largest land animal on Earth.",
+      "options": {
+        "option": [
+          {
+            "definition": "美国的；美国人",
+            "iscorrect": false
+          },
+          {
+            "definition": "非洲的；非洲人",
+            "iscorrect": true
+          },
+          {
+            "definition": "非洲语",
+            "iscorrect": false
+          },
+          {
+            "definition": "非洲大陆",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

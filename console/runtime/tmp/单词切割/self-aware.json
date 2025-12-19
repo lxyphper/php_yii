@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "selfaware",
+      "self-ware",
+      "self-awear",
+      "sel-aware",
+      "self-awere",
+      "slef-aware"
+    ],
+    "correct_chunks": [
+      "self-",
+      "aware"
+    ],
+    "distractor_chunks": [
+      "selfa",
+      "ware",
+      "awear",
+      "sel",
+      "awere",
+      "slef"
+    ]
+  },
+  0
+]

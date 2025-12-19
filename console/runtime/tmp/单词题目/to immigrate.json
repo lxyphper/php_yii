@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to immigrate",
+      "error_analysis": "易混淆emigrate（移出）的方向及migrate（泛指迁移）的特指性",
+      "sentence": "After years of preparation, Maria finally got the visa to **immigrate** to Australia with her family.",
+      "options": {
+        "option": [
+          {
+            "definition": "（从外国）移入；移民到（某国）",
+            "iscorrect": true
+          },
+          {
+            "definition": "（从本国）移出；移民离开（某国）",
+            "iscorrect": false
+          },
+          {
+            "definition": "（动物或人）迁移；迁徙",
+            "iscorrect": false
+          },
+          {
+            "definition": "模仿；仿效",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

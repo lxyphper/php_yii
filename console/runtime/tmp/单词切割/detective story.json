@@ -1,0 +1,27 @@
+[
+  {
+    "common_misspellings": [
+      "detectve",
+      "detecter",
+      "storry",
+      "stary",
+      "detektive",
+      "storey"
+    ],
+    "correct_chunks": [
+      "detec",
+      "tive",
+      "st",
+      "ory"
+    ],
+    "distractor_chunks": [
+      "tve",
+      "ter",
+      "orry",
+      "ary",
+      "detek",
+      "orey"
+    ]
+  },
+  0
+]

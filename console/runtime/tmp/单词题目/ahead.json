@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ahead",
+      "error_analysis": "学生易因“head”（头）的影响，错误将“ahead”理解为与“头部”相关的含义（如“头部的”“一个头的”）。",
+      "sentence": "The children ran **ahead** to see who could reach the tree first.",
+      "options": {
+        "option": [
+          {
+            "definition": "在前面；领先",
+            "iscorrect": true
+          },
+          {
+            "definition": "头部的；与头有关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "一个头的大小",
+            "iscorrect": false
+          },
+          {
+            "definition": "后面的；落后的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

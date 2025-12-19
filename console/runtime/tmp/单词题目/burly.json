@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "burly",
+      "error_analysis": "学生易因形近词\"curly\"(卷曲的)产生错误联想，或因\"bur-\"与\"bury\"(埋葬)关联而误判为\"被埋葬的\"",
+      "sentence": "The **burly** man easily lifted the heavy box onto the shelf.",
+      "options": {
+        "option": [
+          {
+            "definition": "（人）魁梧的，强壮的",
+            "iscorrect": true
+          },
+          {
+            "definition": "卷曲的",
+            "iscorrect": false
+          },
+          {
+            "definition": "被埋葬的",
+            "iscorrect": false
+          },
+          {
+            "definition": "小巧的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

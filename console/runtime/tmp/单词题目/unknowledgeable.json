@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unknowledgeable",
+      "error_analysis": "学生易混淆形近词`unknowing`（不知情的）或用`unknown`（未知的）猜测该词含义",
+      "sentence": "Despite claiming to be an expert, he proved to be **unknowledgeable** about basic physics concepts during the lecture.",
+      "options": {
+        "option": [
+          {
+            "definition": "不知情的；不知道的",
+            "iscorrect": false
+          },
+          {
+            "definition": "未知的；不为人知的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无知识的；无知的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不熟悉的；陌生的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

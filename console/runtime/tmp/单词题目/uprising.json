@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "uprising",
+      "error_analysis": "学生易因up+rising的字面联想将uprising误判为“上升/上涨”，或混淆形近词upbringing（教养）。",
+      "sentence": "The government suppressed the **uprising** led by workers demanding fair wages and safer factories.",
+      "options": {
+        "option": [
+          {
+            "definition": "起义；暴动",
+            "iscorrect": true
+          },
+          {
+            "definition": "上升；上涨",
+            "iscorrect": false
+          },
+          {
+            "definition": "教养；养育",
+            "iscorrect": false
+          },
+          {
+            "definition": "进步；提升",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

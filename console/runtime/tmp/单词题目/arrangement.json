@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "arrangement",
+      "error_analysis": "学生易将“arrangement”误理解为“排列（物体顺序）”或“整理（物品）”，忽略其“有计划的安排/协议”的核心含义",
+      "sentence": "We have made all the **arrangements** for the upcoming conference, including venue booking and catering.",
+      "options": {
+        "option": [
+          {
+            "definition": "安排；（计划好的）准备工作",
+            "iscorrect": true
+          },
+          {
+            "definition": "排列（物体的顺序）",
+            "iscorrect": false
+          },
+          {
+            "definition": "整理（房间或物品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "争论（意见分歧）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

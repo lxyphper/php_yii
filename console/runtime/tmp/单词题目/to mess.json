@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to mess",
+      "error_analysis": "学生易将'mess'与形近词'mass'(聚集/大量)混淆，或误猜为'发送信息'(与'message'关联)",
+      "sentence": "Please don’t **mess** the living room before our guests arrive—we just cleaned it.",
+      "options": {
+        "option": [
+          {
+            "definition": "弄乱；搞砸",
+            "iscorrect": true
+          },
+          {
+            "definition": "聚集；大量存在",
+            "iscorrect": false
+          },
+          {
+            "definition": "发送信息；传达消息",
+            "iscorrect": false
+          },
+          {
+            "definition": "错过；想念",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

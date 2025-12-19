@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to ditch",
+      "error_analysis": "学生易根据“ditch”的名词义“沟渠”猜测动词为“挖沟渠”，或与形近词“dig”（挖）混淆。",
+      "sentence": "When the rain started, we had to **ditch** our picnic plans and stay indoors.",
+      "options": {
+        "option": [
+          {
+            "definition": "抛弃；放弃",
+            "iscorrect": true
+          },
+          {
+            "definition": "挖沟渠",
+            "iscorrect": false
+          },
+          {
+            "definition": "挖（洞/土）",
+            "iscorrect": false
+          },
+          {
+            "definition": "切换；转变",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

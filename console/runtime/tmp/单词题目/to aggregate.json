@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to aggregate",
+      "error_analysis": "中国学生易因形近词“aggressive”（攻击性的）误判词义，或因词根联想错误理解为“分离”。",
+      "sentence": "The app **aggregates** data from various fitness trackers to give users a single dashboard of their activity.",
+      "options": {
+        "option": [
+          {
+            "definition": "聚集；集合",
+            "iscorrect": true
+          },
+          {
+            "definition": "攻击性的；积极的",
+            "iscorrect": false
+          },
+          {
+            "definition": "分离；分开",
+            "iscorrect": false
+          },
+          {
+            "definition": "总结；概括",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

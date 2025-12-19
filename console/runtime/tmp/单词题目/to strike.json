@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to strike",
+      "error_analysis": "学生易将“strike”的“突然想到”义误解为字面“打击”，或与形近词“stick”（粘住）、“strive”（努力）混淆",
+      "sentence": "An idea **struck** me while I was making coffee—why not try a new recipe?",
+      "options": {
+        "option": [
+          {
+            "definition": "to come to (突然想到)",
+            "iscorrect": true
+          },
+          {
+            "definition": "to stick (粘住)",
+            "iscorrect": false
+          },
+          {
+            "definition": "to hit hard (用力打击)",
+            "iscorrect": false
+          },
+          {
+            "definition": "to strive (努力)",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

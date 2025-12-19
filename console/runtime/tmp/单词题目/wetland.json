@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wetland",
+      "error_analysis": "学生易因\"wet+land\"的字面结构误将\"wetland\"理解为\"湿的土地\"（普通名词短语），而非\"湿地\"（专有生态术语）。",
+      "sentence": "Many birds migrate to the **wetland** every year to breed, as it provides a rich habitat for aquatic plants and animals.",
+      "options": {
+        "option": [
+          {
+            "definition": "湿地",
+            "iscorrect": true
+          },
+          {
+            "definition": "湿的土地",
+            "iscorrect": false
+          },
+          {
+            "definition": "林地",
+            "iscorrect": false
+          },
+          {
+            "definition": "沼泽地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

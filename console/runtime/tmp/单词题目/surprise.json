@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "surprise",
+      "error_analysis": "易与形近词supervise（监督）混淆，或误将词根拆分后联想为“超过价格”等无关含义",
+      "sentence": "When I opened the door, my friends jumped out and shouted \"Happy Birthday!\"—it was a big **surprise** for me.",
+      "options": {
+        "option": [
+          {
+            "definition": "惊喜；使惊讶",
+            "iscorrect": true
+          },
+          {
+            "definition": "监督",
+            "iscorrect": false
+          },
+          {
+            "definition": "超过价格",
+            "iscorrect": false
+          },
+          {
+            "definition": "假设",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

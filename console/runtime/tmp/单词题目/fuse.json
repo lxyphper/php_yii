@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fuse",
+      "error_analysis": "学生易因形近词“use”误判“fuse”为“使用”，或混淆其动词“融合”与名词“保险丝”的词义。",
+      "sentence": "The chef **fused** French and Japanese cooking techniques to create a unique dish.",
+      "options": {
+        "option": [
+          {
+            "definition": "融合（动词，指结合成一体）",
+            "iscorrect": true
+          },
+          {
+            "definition": "使用（动词，指运用某物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "保险丝（名词，指电路保护装置）",
+            "iscorrect": false
+          },
+          {
+            "definition": "忙乱（名词/动词，指不必要的紧张或活动）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

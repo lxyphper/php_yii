@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "biografy",
+      "biograhpy",
+      "biogrophy",
+      "boigraphy"
+    ],
+    "correct_chunks": [
+      "bio",
+      "gra",
+      "phy"
+    ],
+    "distractor_chunks": [
+      "grafy",
+      "grah",
+      "grophy",
+      "boi"
+    ]
+  },
+  0
+]

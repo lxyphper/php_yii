@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to intervene",
+      "error_analysis": "学生易因词根“inter-”（之间）+“vene”（来）的字面义误导，将“to intervene”错误理解为“插入”，或因形近混淆“干预”与“面试”（interview）。",
+      "sentence": "The teacher had to **intervene** when the two students started fighting in the classroom.",
+      "options": {
+        "option": [
+          {
+            "definition": "干预，介入（以阻止或解决冲突）",
+            "iscorrect": true
+          },
+          {
+            "definition": "插入（将某物放进另一物中）",
+            "iscorrect": false
+          },
+          {
+            "definition": "面试（求职时的问答环节）",
+            "iscorrect": false
+          },
+          {
+            "definition": "参与（加入某项活动）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

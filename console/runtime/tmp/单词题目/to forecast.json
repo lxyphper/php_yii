@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to forecast",
+      "error_analysis": "学生易将“fore-（预先）”+“cast（投掷/投射）”错误理解为“预先投掷”，而非正确的“预测（天气、结果等）”",
+      "sentence": "The weather report will **forecast** rain for tomorrow.",
+      "options": {
+        "option": [
+          {
+            "definition": "预测（天气、结果等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "预先投掷",
+            "iscorrect": false
+          },
+          {
+            "definition": "预先铸造",
+            "iscorrect": false
+          },
+          {
+            "definition": "前面的演员阵容",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

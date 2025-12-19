@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "shark",
+      "error_analysis": "学生易因形近词\"sharp\"（锋利的）或\"shock\"（震惊）的联想，误判\"shark\"的核心词义。",
+      "sentence": "The fisherman saw a large **shark** swimming quickly towards the school of fish.",
+      "options": {
+        "option": [
+          {
+            "definition": "鲨鱼",
+            "iscorrect": true
+          },
+          {
+            "definition": "锋利的工具",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人震惊的事件",
+            "iscorrect": false
+          },
+          {
+            "definition": "刮胡子的动作",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

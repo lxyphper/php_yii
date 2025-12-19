@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unyielding",
+      "error_analysis": "易混淆形近词\"unwilling\"(不愿意的)，或误将\"yield\"理解为\"产出\"而认为是\"不产出的\"",
+      "sentence": "Despite facing intense pressure from the company, the workers remained **unyielding** in their fight for fair wages.",
+      "options": {
+        "option": [
+          {
+            "definition": "不愿意的；不情愿的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不产出的；没有收获的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不屈服的；坚定的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不灵活的；僵硬的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

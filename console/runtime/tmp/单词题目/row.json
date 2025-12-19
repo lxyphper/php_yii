@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "row",
+      "error_analysis": "学生易将“row”（争吵）与形近词“raw”（生的）混淆，或误判为其常见义“一排”或“划船”。",
+      "sentence": "The couple had a big **row** last night about who should clean the kitchen.",
+      "options": {
+        "option": [
+          {
+            "definition": "生的、未加工的",
+            "iscorrect": false
+          },
+          {
+            "definition": "争吵（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "一排、一行",
+            "iscorrect": false
+          },
+          {
+            "definition": "划船（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

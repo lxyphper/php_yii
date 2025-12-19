@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "blueprint",
+      "error_analysis": "学生易因“blue”（蓝色）和“print”（印刷品）的字面组合，将“blueprint”误解为“蓝色印刷品”或“工程蓝图”，忽略其比喻义“计划”。",
+      "sentence": "The city government released a **blueprint** for improving public transportation over the next decade.",
+      "options": {
+        "option": [
+          {
+            "definition": "计划；方案",
+            "iscorrect": true
+          },
+          {
+            "definition": "蓝色的印刷品",
+            "iscorrect": false
+          },
+          {
+            "definition": "工程用的蓝色图纸",
+            "iscorrect": false
+          },
+          {
+            "definition": "蓝色的绘画作品",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

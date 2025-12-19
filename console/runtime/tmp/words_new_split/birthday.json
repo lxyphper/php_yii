@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "berthday",
+      "birsday",
+      "birhday",
+      "birthdai",
+      "bithday"
+    ],
+    "correct_chunks": [
+      "birth",
+      "day"
+    ],
+    "distractor_chunks": [
+      "berth",
+      "birs",
+      "birh",
+      "dai",
+      "bith"
+    ]
+  },
+  0
+]

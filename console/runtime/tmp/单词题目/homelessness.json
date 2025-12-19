@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "homelessness",
+      "error_analysis": "学生易混淆形近词homeliness（朴实）与homelessness（无家可归状态），或误将其理解为“家庭缺失的感觉”（词根过度推导）",
+      "sentence": "The city has launched a new program to address the growing problem of **homelessness** among veterans.",
+      "options": {
+        "option": [
+          {
+            "definition": "无家可归的状态",
+            "iscorrect": true
+          },
+          {
+            "definition": "朴实；家常的特质",
+            "iscorrect": false
+          },
+          {
+            "definition": "家庭缺失的感觉",
+            "iscorrect": false
+          },
+          {
+            "definition": "家庭的温暖氛围",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

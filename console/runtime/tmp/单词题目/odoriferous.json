@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "odoriferous",
+      "error_analysis": "学生易因形近词\"odious\"(可憎的)混淆,或因\"-iferous\"与\"-rific\"形近而误解为\"可怕的\"",
+      "sentence": "The garden was filled with the **odoriferous** blooms of jasmine and roses, their sweet scent wafting through the air.",
+      "options": {
+        "option": [
+          {
+            "definition": "有气味的（尤指芳香或刺鼻的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "可憎的，讨厌的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可怕的，令人恐惧的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无气味的，没有味道的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

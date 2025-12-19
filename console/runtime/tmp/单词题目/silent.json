@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "silent",
+      "error_analysis": "学生易因形近词\"silver\"（银的）混淆词义，或因词根联想错误理解为\"静止的\"（受\"still\"字面误导）",
+      "sentence": "The forest was so **silent** that we could hear the wind blowing through the leaves.",
+      "options": {
+        "option": [
+          {
+            "definition": "寂静的；无声的",
+            "iscorrect": true
+          },
+          {
+            "definition": "银的；银色的",
+            "iscorrect": false
+          },
+          {
+            "definition": "静止的；不动的",
+            "iscorrect": false
+          },
+          {
+            "definition": "简单的；容易的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

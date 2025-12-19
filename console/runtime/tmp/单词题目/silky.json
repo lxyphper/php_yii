@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "silky",
+      "error_analysis": "学生易因形近词“silk”（丝绸）误将“silky”理解为“由丝绸制成的”，忽略其“像丝绸般柔软光滑”的核心质地特征。",
+      "sentence": "Her hair felt **silky** against my cheek, like a cloud gently brushing my skin.",
+      "options": {
+        "option": [
+          {
+            "definition": "柔软光滑的",
+            "iscorrect": true
+          },
+          {
+            "definition": "由丝绸制成的",
+            "iscorrect": false
+          },
+          {
+            "definition": "薄而透明的",
+            "iscorrect": false
+          },
+          {
+            "definition": "昂贵奢华的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

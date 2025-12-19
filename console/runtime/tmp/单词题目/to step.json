@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to step",
+      "error_analysis": "因形近词\"stop\"误判为\"停止\"，或因名词\"step\"(台阶)误推为\"搭建台阶\"的动词义",
+      "sentence": "She carefully **stepped** onto the wet rock to avoid slipping.",
+      "options": {
+        "option": [
+          {
+            "definition": "迈步；踩（指用脚移动到某物上）",
+            "iscorrect": true
+          },
+          {
+            "definition": "停止（使不再进行）",
+            "iscorrect": false
+          },
+          {
+            "definition": "搭建台阶（用材料做成台阶）",
+            "iscorrect": false
+          },
+          {
+            "definition": "跳得高（向上跳至高处）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

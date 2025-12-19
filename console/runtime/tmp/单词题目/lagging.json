@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lagging",
+      "error_analysis": "学生易因形近词“logging”（伐木）产生混淆，或对“lag”词根过度推导为“缓慢移动的”。",
+      "sentence": "The country's **lagging** technology sector has been a major obstacle to its economic growth.",
+      "options": {
+        "option": [
+          {
+            "definition": "滞后的；落后的",
+            "iscorrect": true
+          },
+          {
+            "definition": "伐木的；与伐木相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "缓慢移动的；行动迟缓的",
+            "iscorrect": false
+          },
+          {
+            "definition": "拖延的；延迟完成的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

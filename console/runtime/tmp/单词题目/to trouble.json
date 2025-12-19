@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to trouble",
+      "error_analysis": "学生易因形近词“double”（双倍）将“to trouble”误解为“使加倍”，或因词根联想错误理解为“训练”。",
+      "sentence": "Could you please not **trouble** me while I'm studying? I need to focus.",
+      "options": {
+        "option": [
+          {
+            "definition": "使加倍；翻倍",
+            "iscorrect": false
+          },
+          {
+            "definition": "使烦恼；打扰",
+            "iscorrect": true
+          },
+          {
+            "definition": "训练；培养",
+            "iscorrect": false
+          },
+          {
+            "definition": "跌倒；摔倒",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

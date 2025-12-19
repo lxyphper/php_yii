@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "activism",
+      "error_analysis": "学生易因形近词\"active/activity\"将\"activism\"误判为\"活跃性\"或\"活动\"，或因词根\"activ-\"错误推导为\"活动行为\"",
+      "sentence": "Her passion for social change led her to engage in **activism** by joining protests and lobbying for policy reforms.",
+      "options": {
+        "option": [
+          {
+            "definition": "行动主义；激进主义（为政治或社会变革而进行的有组织行动）",
+            "iscorrect": true
+          },
+          {
+            "definition": "活跃性；积极性（指人或事物的活跃状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "活动；行为（指具体的行动或事情）",
+            "iscorrect": false
+          },
+          {
+            "definition": "激活；启动（使某物开始运作的行为）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

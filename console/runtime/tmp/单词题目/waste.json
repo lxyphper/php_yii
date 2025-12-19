@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "waste",
+      "error_analysis": "学生易因形近词“wait”（等待）混淆“waste”的含义，或误联想为发音相近的“漫步”（wander）",
+      "sentence": "Please don’t **waste** your money on things you don’t need.",
+      "options": {
+        "option": [
+          {
+            "definition": "等待",
+            "iscorrect": false
+          },
+          {
+            "definition": "漫步",
+            "iscorrect": false
+          },
+          {
+            "definition": "浪费",
+            "iscorrect": true
+          },
+          {
+            "definition": "西方",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

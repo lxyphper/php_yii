@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mindless",
+      "error_analysis": "学生易因“mind+less”的词根字面义，错误理解为“没脑子的；愚蠢的”（贬义），而忽略其“无需思考的；机械的”核心含义。",
+      "sentence": "She spent hours doing **mindless** paperwork, just copying numbers from one form to another.",
+      "options": {
+        "option": [
+          {
+            "definition": "没脑子的；愚蠢的",
+            "iscorrect": false
+          },
+          {
+            "definition": "注意的；留心的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不关心的；冷漠的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无需思考的；机械的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

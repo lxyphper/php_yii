@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "successful",
+      "error_analysis": "易因形近词“successive”（连续的）产生混淆，或误将“successful”理解为“有能力的”等语义相关但不准确的含义",
+      "sentence": "After years of hard work, she finally became a **successful** writer with several best-selling books.",
+      "options": {
+        "option": [
+          {
+            "definition": "成功的",
+            "iscorrect": true
+          },
+          {
+            "definition": "连续的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有能力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "富裕的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

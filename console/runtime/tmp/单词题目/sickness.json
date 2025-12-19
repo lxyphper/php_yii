@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sickness",
+      "error_analysis": "学生易因形近词`thickness`（厚度）混淆，或因词根`sick`过度推导为仅指“恶心”而忽略核心“疾病”含义",
+      "sentence": "The spread of the **sickness** in the village worried the local health authorities.",
+      "options": {
+        "option": [
+          {
+            "definition": "厚度",
+            "iscorrect": false
+          },
+          {
+            "definition": "恶心",
+            "iscorrect": false
+          },
+          {
+            "definition": "疾病",
+            "iscorrect": true
+          },
+          {
+            "definition": "力量",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to output",
+      "error_analysis": "学生易通过“out+put”字面拆分错误理解为“把...放出去（物理放置）”，或混淆“output”与“put out”（扑灭）等短语动词",
+      "sentence": "Please **output** the report to the printer before the meeting starts.",
+      "options": {
+        "option": [
+          {
+            "definition": "输出（信息、数据等）；生产（产品）",
+            "iscorrect": true
+          },
+          {
+            "definition": "把...放出去（如物理上放置物品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "扑灭（火等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "倾泻（情感/液体等）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

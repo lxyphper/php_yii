@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Greek",
+      "error_analysis": "学生易将\"Greek\"（希腊的）与形近词\"greed\"（贪婪）混淆，或误联\"green\"（绿色）导致选\"贪婪的\"或\"绿色的\"。",
+      "sentence": "Many tourists visit Athens to experience **Greek** culture and history.",
+      "options": {
+        "option": [
+          {
+            "definition": "希腊的；希腊人的；希腊语的",
+            "iscorrect": true
+          },
+          {
+            "definition": "贪婪的；贪心的",
+            "iscorrect": false
+          },
+          {
+            "definition": "绿色的；环保的",
+            "iscorrect": false
+          },
+          {
+            "definition": "谷物的；谷类的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

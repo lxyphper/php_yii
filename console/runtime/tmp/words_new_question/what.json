@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "what",
+      "error_analysis": "学生常将宾语从句中引导词“what”（什么）误当作“why”（为什么）或“how”（怎么），因疑问词功能混淆产生错误",
+      "sentence": "I wonder **what** she is holding in her hand.",
+      "options": {
+        "option": [
+          {
+            "definition": "什么",
+            "iscorrect": true
+          },
+          {
+            "definition": "为什么",
+            "iscorrect": false
+          },
+          {
+            "definition": "怎么",
+            "iscorrect": false
+          },
+          {
+            "definition": "哪个",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "order",
+      "error_analysis": "学生易因形近混淆\"order\"与\"older\"（更老的），或误将名词\"订单\"错解为动词\"命令\"。",
+      "sentence": "I called the restaurant to place an **order** for two pizzas.",
+      "options": {
+        "option": [
+          {
+            "definition": "更老的",
+            "iscorrect": false
+          },
+          {
+            "definition": "命令",
+            "iscorrect": false
+          },
+          {
+            "definition": "订单",
+            "iscorrect": true
+          },
+          {
+            "definition": "顺序",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

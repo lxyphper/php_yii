@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "accidentally",
+      "error_analysis": "中国学生易将“accidentally”与形近词“incidentally”（顺便说一下）混淆，或根据词根“accident”（事故）错误推导为“不幸地”。",
+      "sentence": "I **accidentally** spilled coffee on my notebook while reaching for my phone.",
+      "options": {
+        "option": [
+          {
+            "definition": "意外地",
+            "iscorrect": true
+          },
+          {
+            "definition": "顺便说一下",
+            "iscorrect": false
+          },
+          {
+            "definition": "不幸地",
+            "iscorrect": false
+          },
+          {
+            "definition": "故意地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

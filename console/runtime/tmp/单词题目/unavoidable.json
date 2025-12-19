@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unavoidable",
+      "error_analysis": "学生易因形近词\"unavailable\"（不可用的）或词根混淆\"avoid→adopt\"（不可采纳的）产生错误理解",
+      "sentence": "Due to the heavy rain, the delay of the flight was **unavoidable**.",
+      "options": {
+        "option": [
+          {
+            "definition": "不可避免的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不可用的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不可采纳的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无法接受的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

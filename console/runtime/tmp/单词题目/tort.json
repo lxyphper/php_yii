@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tort",
+      "error_analysis": "学生易因形近词'torture'(酷刑)或词根'tortus'(扭曲)误判，将法律术语'tort'错解为'酷刑'或'扭曲的动作'。",
+      "sentence": "The company was sued for committing a **tort** by leaking customers' personal information without consent.",
+      "options": {
+        "option": [
+          {
+            "definition": "（法律上的）侵权行为",
+            "iscorrect": true
+          },
+          {
+            "definition": "酷刑",
+            "iscorrect": false
+          },
+          {
+            "definition": "扭曲的动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "火炬",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

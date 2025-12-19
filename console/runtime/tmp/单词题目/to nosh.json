@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to nosh",
+      "error_analysis": "学生易因形近词“nod”（点头）、“note”（笔记）干扰，或误将“to nosh”理解为“滋养”（nourish）",
+      "sentence": "My mom always keeps some fruit in the fridge so we can **nosh** on it when we're hungry between meals.",
+      "options": {
+        "option": [
+          {
+            "definition": "点头",
+            "iscorrect": false
+          },
+          {
+            "definition": "滋养",
+            "iscorrect": false
+          },
+          {
+            "definition": "吃零食；吃小吃",
+            "iscorrect": true
+          },
+          {
+            "definition": "写笔记",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

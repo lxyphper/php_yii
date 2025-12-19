@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "available",
+      "error_analysis": "学生易因形近词\"valuable\"(有价值的)或词根\"vail\"(有用)误将\"available\"理解为\"有价值的\"或\"有用的\"",
+      "sentence": "The tickets for the concert are **available** online now—you should buy one before they sell out.",
+      "options": {
+        "option": [
+          {
+            "definition": "有价值的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有用的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可避免的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可获得的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

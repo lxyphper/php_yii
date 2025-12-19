@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "council",
+      "error_analysis": "易混淆形近词\"counsel\"(建议)及词根误导认为与\"计数\"相关",
+      "sentence": "The city **council** will vote on the new park project at its next meeting.",
+      "options": {
+        "option": [
+          {
+            "definition": "委员会；理事会",
+            "iscorrect": true
+          },
+          {
+            "definition": "建议；法律顾问",
+            "iscorrect": false
+          },
+          {
+            "definition": "计数器；计数工具",
+            "iscorrect": false
+          },
+          {
+            "definition": "国家；乡村",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "elated",
+      "error_analysis": "中国学生易混淆形近词“related”（相关的），或误将“elated”理解为“elevated”的“升高的”或“高尚的”。",
+      "sentence": "When she heard she got the scholarship, she felt **elated** and jumped up and down with joy.",
+      "options": {
+        "option": [
+          {
+            "definition": "相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "升高的（物理上的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "兴高采烈的；得意洋洋的",
+            "iscorrect": true
+          },
+          {
+            "definition": "高尚的（道德上的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

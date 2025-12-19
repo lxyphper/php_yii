@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "moody",
+      "error_analysis": "中国学生易因形近词\"muddy\"(泥泞的)产生错误联想，或因词根\"mood\"(情绪)+\"-y\"后缀误判为\"心情愉悦的\"或\"情绪稳定的\"",
+      "sentence": "Sarah has been **moody** lately—one minute she's laughing, and the next she's crying for no reason.",
+      "options": {
+        "option": [
+          {
+            "definition": "情绪多变的（喜怒无常的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "泥泞的",
+            "iscorrect": false
+          },
+          {
+            "definition": "心情愉悦的",
+            "iscorrect": false
+          },
+          {
+            "definition": "情绪稳定的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

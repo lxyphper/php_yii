@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to shake",
+      "error_analysis": "学生易因形近词\"shave\"（刮）的干扰将\"shake\"误理解为\"刮（胡子/头发）\"",
+      "sentence": "When he heard the bad news, he **shook** his head sadly.",
+      "options": {
+        "option": [
+          {
+            "definition": "摇晃；抖动",
+            "iscorrect": true
+          },
+          {
+            "definition": "刮（胡子/头发）",
+            "iscorrect": false
+          },
+          {
+            "definition": "拿走；取走",
+            "iscorrect": false
+          },
+          {
+            "definition": "制造；做",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

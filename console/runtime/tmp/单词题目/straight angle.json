@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "straight angle",
+      "error_analysis": "学生易因\"straight\"的\"直\"字面义，将\"straight angle\"误判为\"直角\"或\"直线\"",
+      "sentence": "During the geometry class, the teacher pointed out that a **straight angle** creates a straight line when its two sides are extended and has a measure of 180 degrees.",
+      "options": {
+        "option": [
+          {
+            "definition": "平角（180度的角）",
+            "iscorrect": true
+          },
+          {
+            "definition": "直角（90度的角）",
+            "iscorrect": false
+          },
+          {
+            "definition": "直线（没有弯曲的线）",
+            "iscorrect": false
+          },
+          {
+            "definition": "锐角（小于90度的角）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

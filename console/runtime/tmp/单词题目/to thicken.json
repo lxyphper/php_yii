@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to thicken",
+      "error_analysis": "学生易将\"to thicken\"与形近词\"threaten\"（威胁）混淆，或因词根\"thick\"过度直译误解为\"使变密\"。",
+      "sentence": "To make the gravy more flavorful, you should **thicken** it by adding a spoonful of cornstarch.",
+      "options": {
+        "option": [
+          {
+            "definition": "使变厚；使变浓",
+            "iscorrect": true
+          },
+          {
+            "definition": "威胁",
+            "iscorrect": false
+          },
+          {
+            "definition": "使变密",
+            "iscorrect": false
+          },
+          {
+            "definition": "使变薄",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

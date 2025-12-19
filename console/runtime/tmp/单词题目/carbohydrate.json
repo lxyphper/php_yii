@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "carbohydrate",
+      "error_analysis": "中国学生易因形近词“carbon”（碳）或词根“carbo-”+“hydrate”的字面误导，将“carbohydrate”误判为“碳元素”“碳氢化合物”等。",
+      "sentence": "Whole grains are a good source of **carbohydrate**, which provides energy for our daily activities.",
+      "options": {
+        "option": [
+          {
+            "definition": "碳水化合物",
+            "iscorrect": true
+          },
+          {
+            "definition": "碳元素",
+            "iscorrect": false
+          },
+          {
+            "definition": "碳氢化合物",
+            "iscorrect": false
+          },
+          {
+            "definition": "水合物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "insect",
+      "error_analysis": "学生易因形近词\"insert\"(插入)混淆，或因词根\"sect\"(切割)错误联想为\"内部切割的部分\"。",
+      "sentence": "The little **insect** with wings flew from flower to flower collecting nectar.",
+      "options": {
+        "option": [
+          {
+            "definition": "昆虫",
+            "iscorrect": true
+          },
+          {
+            "definition": "插入物",
+            "iscorrect": false
+          },
+          {
+            "definition": "内部切割的部分",
+            "iscorrect": false
+          },
+          {
+            "definition": "香（如 incense）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

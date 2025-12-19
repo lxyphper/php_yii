@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nowhere",
+      "error_analysis": "学生易因“nowhere”的字面结构（now+where）错误联想为“现在哪里”，而非正确的“无处；哪里都不”。",
+      "sentence": "After searching for hours, we realized the missing cat was **nowhere** to be found.",
+      "options": {
+        "option": [
+          {
+            "definition": "现在这里",
+            "iscorrect": false
+          },
+          {
+            "definition": "没有现在的地方",
+            "iscorrect": false
+          },
+          {
+            "definition": "无处；哪里都不",
+            "iscorrect": true
+          },
+          {
+            "definition": "任何地方",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

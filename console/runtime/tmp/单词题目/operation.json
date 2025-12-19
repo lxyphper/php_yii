@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "operation",
+      "error_analysis": "中国学生易因形近词（如opinion/oration）或词根oper-（操作）误导，将operation错解为“意见”“演说”或“操作”而非核心义（如手术）。",
+      "sentence": "The patient was rushed to the operating room for an emergency surgical **operation** to remove the tumor.",
+      "options": {
+        "option": [
+          {
+            "definition": "意见",
+            "iscorrect": false
+          },
+          {
+            "definition": "操作",
+            "iscorrect": false
+          },
+          {
+            "definition": "演说",
+            "iscorrect": false
+          },
+          {
+            "definition": "手术",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

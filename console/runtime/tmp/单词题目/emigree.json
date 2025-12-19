@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "emigree",
+      "error_analysis": "学生易因形近词\"employee\"(雇员)产生混淆，或因词根联想误将其等同于普通\"移民\"(emigrant)。",
+      "sentence": "After the coup, many **emigrees** sought asylum in neighboring countries to escape political persecution.",
+      "options": {
+        "option": [
+          {
+            "definition": "（因政治原因等）移居国外的人；流亡者",
+            "iscorrect": true
+          },
+          {
+            "definition": "雇员；受雇者",
+            "iscorrect": false
+          },
+          {
+            "definition": "获得学位的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "主动移居他国的人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

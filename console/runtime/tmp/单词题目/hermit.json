@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hermit",
+      "error_analysis": "形近词\"merit\"(优点)的干扰，及词根\"-mit\"(送、放)导致的\"发射器\"或\"传递者\"的错误理解",
+      "sentence": "After years of living alone in the mountains, the old man was considered a **hermit** by the villagers.",
+      "options": {
+        "option": [
+          {
+            "definition": "优点；长处",
+            "iscorrect": false
+          },
+          {
+            "definition": "发射器；发射物",
+            "iscorrect": false
+          },
+          {
+            "definition": "隐士；隐居者",
+            "iscorrect": true
+          },
+          {
+            "definition": "信使；传递者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

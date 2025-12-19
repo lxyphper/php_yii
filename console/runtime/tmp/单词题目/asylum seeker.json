@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "asylum seeker",
+      "error_analysis": "将“asylum”误判为“精神病院”（旧义干扰），或误将“asylum seeker”理解为“寻找避难所的普通人”（词根猜测偏差）",
+      "sentence": "The government has announced new policies to support **asylum seekers** fleeing political persecution in their home countries.",
+      "options": {
+        "option": [
+          {
+            "definition": "寻求庇护者（指因政治迫害等寻求他国保护的人）",
+            "iscorrect": true
+          },
+          {
+            "definition": "寻求精神病院的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "寻找避难所的灾难受害者",
+            "iscorrect": false
+          },
+          {
+            "definition": "寻求学术资助的人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

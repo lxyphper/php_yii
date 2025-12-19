@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "collecting",
+      "error_analysis": "中国学生易因形近词（如“correcting”纠正、“collating”整理）及词根“lect”（选）的误导，混淆“collecting”的核心词义“收集”。",
+      "sentence": "My grandfather has been **collecting** stamps for over 50 years, and his album now has thousands of them.",
+      "options": {
+        "option": [
+          {
+            "definition": "收集",
+            "iscorrect": true
+          },
+          {
+            "definition": "纠正",
+            "iscorrect": false
+          },
+          {
+            "definition": "整理",
+            "iscorrect": false
+          },
+          {
+            "definition": "选择",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to utter",
+      "error_analysis": "中国学生易因形近词“outer”（外面的）或形容词“utter”（完全的）误解“to utter”为“向外”或“使完全”。",
+      "sentence": "The baby finally **uttered** its first word after months of practice.",
+      "options": {
+        "option": [
+          {
+            "definition": "说出；发出（声音）",
+            "iscorrect": true
+          },
+          {
+            "definition": "向外；出去",
+            "iscorrect": false
+          },
+          {
+            "definition": "使完全；彻底完成",
+            "iscorrect": false
+          },
+          {
+            "definition": "喃喃自语；小声说",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "still life",
+      "error_analysis": "学生易因“still”（静止的/平静的）和“life”（生命/生活）的字面含义，将“still life”误判为“静止的生命”或“平静的生活”",
+      "sentence": "The art gallery is exhibiting a collection of 19th-century **still life** paintings featuring fruits, flowers, and ceramic vases.",
+      "options": {
+        "option": [
+          {
+            "definition": "静物画",
+            "iscorrect": true
+          },
+          {
+            "definition": "静止的生命",
+            "iscorrect": false
+          },
+          {
+            "definition": "平静的生活",
+            "iscorrect": false
+          },
+          {
+            "definition": "仍然存活的生命",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

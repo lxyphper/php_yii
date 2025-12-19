@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to embezzle",
+      "error_analysis": "学生易因形近词“embellish”（装饰）混淆词义，或因词根“em-”（使…）猜测为“放入”或“填充”",
+      "sentence": "The accountant was caught trying to **embezzle** funds from the company’s pension plan.",
+      "options": {
+        "option": [
+          {
+            "definition": "装饰，润色",
+            "iscorrect": false
+          },
+          {
+            "definition": "放入，填充",
+            "iscorrect": false
+          },
+          {
+            "definition": "盗用（公款/公物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "体现，使具体化",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "scented",
+      "error_analysis": "学生易将'scented'与形近词'sent'（发送）混淆，误判为'被发送的'；或因'scent'与'sense'（感觉）发音相近，猜测为'有感觉的'。",
+      "sentence": "The shop sells **scented** candles that fill the room with a sweet smell.",
+      "options": {
+        "option": [
+          {
+            "definition": "被发送的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有感觉的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有香味的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有场景的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

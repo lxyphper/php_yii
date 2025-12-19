@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "for example",
+      "error_analysis": "学生易因“for”的“为了”含义或“example”与“examine”（检查）的形近，将“for example”误解为“为了例子”或“为了检查”。",
+      "sentence": "Many children enjoy outdoor activities, **for example**, playing football or riding bikes.",
+      "options": {
+        "option": [
+          {
+            "definition": "例如",
+            "iscorrect": true
+          },
+          {
+            "definition": "为了例子",
+            "iscorrect": false
+          },
+          {
+            "definition": "为了检查",
+            "iscorrect": false
+          },
+          {
+            "definition": "永远",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pressing",
+      "error_analysis": "学生易因词根“press”（压）的字面误导，将“pressing”误判为“按压的”，忽略其“紧迫的”核心形容词义。",
+      "sentence": "The manager emphasized that solving the budget issue is a **pressing** matter that cannot wait until next month.",
+      "options": {
+        "option": [
+          {
+            "definition": "紧迫的",
+            "iscorrect": true
+          },
+          {
+            "definition": "按压的",
+            "iscorrect": false
+          },
+          {
+            "definition": "印刷的",
+            "iscorrect": false
+          },
+          {
+            "definition": "压力大的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

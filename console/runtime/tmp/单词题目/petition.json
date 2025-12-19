@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "petition",
+      "error_analysis": "因形近词“pet”（宠物）误导，误将“petition”理解为与宠物相关的文件（如“宠物领养申请”）。",
+      "sentence": "Many residents signed a **petition** to stop the construction of a new factory near their neighborhood.",
+      "options": {
+        "option": [
+          {
+            "definition": "请愿书；请愿",
+            "iscorrect": true
+          },
+          {
+            "definition": "宠物领养申请",
+            "iscorrect": false
+          },
+          {
+            "definition": "职位申请表格",
+            "iscorrect": false
+          },
+          {
+            "definition": "社区活动通知",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

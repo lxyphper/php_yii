@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "effluent",
+      "error_analysis": "易混淆形近词\"efficient\"(高效的)，或因词根\"fluent\"(流畅的)误猜为\"流畅的事物\"",
+      "sentence": "The factory was fined for discharging untreated **effluent** into the river, which poisoned the fish population.",
+      "options": {
+        "option": [
+          {
+            "definition": "高效的",
+            "iscorrect": false
+          },
+          {
+            "definition": "流畅的（语言/文字）",
+            "iscorrect": false
+          },
+          {
+            "definition": "废水；污水",
+            "iscorrect": true
+          },
+          {
+            "definition": "努力；尝试",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

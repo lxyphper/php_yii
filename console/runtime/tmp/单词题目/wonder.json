@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wonder",
+      "error_analysis": "中国学生易混淆形近词“wander”（徘徊），或误将“wonder”的动词义（想知道）与名词义（奇迹）、形容词义（精彩的）关联。",
+      "sentence": "When I saw the empty chair, I **wonder**ed why she hadn’t arrived yet.",
+      "options": {
+        "option": [
+          {
+            "definition": "想知道（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "徘徊（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "奇迹（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "精彩的（形容词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

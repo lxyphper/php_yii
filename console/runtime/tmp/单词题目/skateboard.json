@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "skateboard",
+      "error_analysis": "中国学生易因形近词“snowboard”混淆将其误判为“滑雪板”，或因词根拆分错误理解为“滑冰鞋”",
+      "sentence": "Tom spent the afternoon practicing tricks on his new **skateboard** at the park.",
+      "options": {
+        "option": [
+          {
+            "definition": "滑板",
+            "iscorrect": true
+          },
+          {
+            "definition": "滑雪板",
+            "iscorrect": false
+          },
+          {
+            "definition": "滑冰鞋",
+            "iscorrect": false
+          },
+          {
+            "definition": "木板",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

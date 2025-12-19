@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pint",
+      "error_analysis": "学生易将\"pint\"与形近词\"print\"（打印）或\"point\"（点）混淆，误猜为打印、分数等含义",
+      "sentence": "I ordered a **pint** of beer at the pub and enjoyed it with my friends.",
+      "options": {
+        "option": [
+          {
+            "definition": "打印；印刷品",
+            "iscorrect": false
+          },
+          {
+            "definition": "点；分数；观点",
+            "iscorrect": false
+          },
+          {
+            "definition": "针状物；别针",
+            "iscorrect": false
+          },
+          {
+            "definition": "品脱（容量单位，常用于计量液体）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

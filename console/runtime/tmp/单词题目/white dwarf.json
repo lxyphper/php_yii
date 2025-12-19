@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "white dwarf",
+      "error_analysis": "学生易因\"dwarf\"的常见义\"矮人\"将\"white dwarf\"字面直译为\"白色矮人\"，忽略其天文术语义。",
+      "sentence": "Astronomers detected a **white dwarf** in the nearby galaxy, a super-dense object left behind after a medium-sized star runs out of fuel.",
+      "options": {
+        "option": [
+          {
+            "definition": "白色矮人（神话或童话中的小型人形生物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "白矮星（天文术语，恒星演化后期的致密残骸）",
+            "iscorrect": true
+          },
+          {
+            "definition": "白色矮种动物（如矮马、矮狗等小型白色家畜）",
+            "iscorrect": false
+          },
+          {
+            "definition": "白矮树（虚构的小型观赏树木）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

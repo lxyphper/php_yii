@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "part",
+      "error_analysis": "学生易因形近词“past”（过去）或“park”（公园）的干扰，误解“part”的核心义“部分”",
+      "sentence": "The cake was divided into six equal **parts**, and each child got one.",
+      "options": {
+        "option": [
+          {
+            "definition": "部分",
+            "iscorrect": true
+          },
+          {
+            "definition": "过去",
+            "iscorrect": false
+          },
+          {
+            "definition": "公园",
+            "iscorrect": false
+          },
+          {
+            "definition": "聚会",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

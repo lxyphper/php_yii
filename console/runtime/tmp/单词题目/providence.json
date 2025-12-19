@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "providence",
+      "error_analysis": "学生易因形近词“province”（省份）产生错误联想，或通过词根“pro-”+“vid-”（看）误判为“远见”。",
+      "sentence": "When they found the lost hiker just before the storm hit, many believed it was **providence** that saved him.",
+      "options": {
+        "option": [
+          {
+            "definition": "省份",
+            "iscorrect": false
+          },
+          {
+            "definition": "远见",
+            "iscorrect": false
+          },
+          {
+            "definition": "天意",
+            "iscorrect": true
+          },
+          {
+            "definition": "供应",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

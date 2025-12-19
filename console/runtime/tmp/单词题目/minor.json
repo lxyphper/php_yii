@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "minor",
+      "error_analysis": "易因形近词\"minus\"（减）误判为\"减少的\"，或词根误导认为是\"微小的\"而非核心义\"次要的\"。",
+      "sentence": "Although the mistake was **minor**, it still affected the final result of the project.",
+      "options": {
+        "option": [
+          {
+            "definition": "次要的；较小的",
+            "iscorrect": true
+          },
+          {
+            "definition": "减少的；负的",
+            "iscorrect": false
+          },
+          {
+            "definition": "微小的；极小的",
+            "iscorrect": false
+          },
+          {
+            "definition": "未成年人；青少年",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

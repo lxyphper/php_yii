@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to praise",
+      "error_analysis": "学生易将“praise”与形近词“pray”（祈祷）或“price”（价格/定价）混淆，导致错误理解",
+      "sentence": "The teacher **praised** the student for solving the difficult problem correctly.",
+      "options": {
+        "option": [
+          {
+            "definition": "表扬；赞扬",
+            "iscorrect": true
+          },
+          {
+            "definition": "祈祷；祈求",
+            "iscorrect": false
+          },
+          {
+            "definition": "定价；标价",
+            "iscorrect": false
+          },
+          {
+            "definition": "练习；实践",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "proxy server",
+      "error_analysis": "学生易将“proxy”误判为“专业的”（因“pro-”前缀联想）或“前置的”（因“pro-”表示“向前”），从而误解“proxy server”为“专业服务器”或“前置服务器”。",
+      "sentence": "To access the blocked website, many users connect through a **proxy server** that acts as an intermediary between their device and the internet.",
+      "options": {
+        "option": [
+          {
+            "definition": "专业服务器",
+            "iscorrect": false
+          },
+          {
+            "definition": "代理服务器",
+            "iscorrect": true
+          },
+          {
+            "definition": "前置服务器",
+            "iscorrect": false
+          },
+          {
+            "definition": "邻近服务器",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

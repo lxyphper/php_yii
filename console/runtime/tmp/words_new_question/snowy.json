@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "snowy",
+      "error_analysis": "学生易因拼写相近将'snowy'误判为'slow'（慢的），或因词根过度推导误理解为'雪人的'。",
+      "sentence": "The village looks like a fairy tale with **snowy** peaks in the distance.",
+      "options": {
+        "option": [
+          {
+            "definition": "慢的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有雪的",
+            "iscorrect": true
+          },
+          {
+            "definition": "雪人的",
+            "iscorrect": false
+          },
+          {
+            "definition": "寒冷的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

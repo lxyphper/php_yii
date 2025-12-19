@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "artifact",
+      "error_analysis": "学生易因“art+fact”词根误导，将“artifact”错误理解为“艺术作品”或“关于艺术的事实”，而非“有历史价值的人工制品”。",
+      "sentence": "The archaeologists uncovered a 2000-year-old **artifact** in the ancient ruins, which shed light on the daily lives of the civilization.",
+      "options": {
+        "option": [
+          {
+            "definition": "艺术作品",
+            "iscorrect": false
+          },
+          {
+            "definition": "关于艺术的事实",
+            "iscorrect": false
+          },
+          {
+            "definition": "有历史或文化价值的人工制品；文物",
+            "iscorrect": true
+          },
+          {
+            "definition": "自然形成的奇特物品",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

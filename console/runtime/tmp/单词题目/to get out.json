@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to get out",
+      "error_analysis": "学生易因\"get\"（得到）和\"out\"（外面）的字面含义，将\"to get out\"误理解为\"得到外面的东西\"或\"取出物品\"。",
+      "sentence": "When the fire alarm went off, everyone rushed to **get out** of the building as quickly as possible.",
+      "options": {
+        "option": [
+          {
+            "definition": "离开；出去",
+            "iscorrect": true
+          },
+          {
+            "definition": "得到外面的东西",
+            "iscorrect": false
+          },
+          {
+            "definition": "取出；拿出",
+            "iscorrect": false
+          },
+          {
+            "definition": "穿上；戴上",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

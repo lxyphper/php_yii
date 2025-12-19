@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "talk",
+      "error_analysis": "学生易因形近词“walk”（走）的干扰，或误将其名词形式理解为“演讲”而非“交谈”。",
+      "sentence": "My parents often **talk** about their childhood memories over dinner.",
+      "options": {
+        "option": [
+          {
+            "definition": "交谈，谈论（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "走，步行（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "演讲，演说（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "倾听，聆听（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

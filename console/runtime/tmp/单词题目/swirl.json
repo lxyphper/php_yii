@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "swirl",
+      "error_analysis": "学生易因形近词“swim”（游泳）的拼写联想，将“swirl”错误理解为“游泳”或“在水中游动”；或因“sw-”开头的词猜测为“快速移动”。",
+      "sentence": "The water in the sink began to **swirl** as it drained.",
+      "options": {
+        "option": [
+          {
+            "definition": "旋转；漩涡",
+            "iscorrect": true
+          },
+          {
+            "definition": "游泳；在水中游动",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速冲刺；飞奔",
+            "iscorrect": false
+          },
+          {
+            "definition": "卷曲；缠绕",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

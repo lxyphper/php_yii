@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to vandalize",
+      "error_analysis": "因与\"validate\"（验证）拼写接近，或不熟悉\"vandal\"（破坏者）词根，学生易误判为\"验证\"或\"搬运\"等义。",
+      "sentence": "Some teenagers were caught trying to **vandalize** the new playground by painting graffiti on the walls.",
+      "options": {
+        "option": [
+          {
+            "definition": "验证；确认",
+            "iscorrect": false
+          },
+          {
+            "definition": "故意破坏（公共财产等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "搬运；运送",
+            "iscorrect": false
+          },
+          {
+            "definition": "消失；不见",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

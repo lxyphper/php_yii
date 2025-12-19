@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "fischfarm",
+      "fishferm",
+      "fisfarm",
+      "fishvarm",
+      "fishfarmm"
+    ],
+    "correct_chunks": [
+      "fish",
+      "farm"
+    ],
+    "distractor_chunks": [
+      "fisch",
+      "ferm",
+      "fis",
+      "varm",
+      "farmm"
+    ]
+  },
+  0
+]

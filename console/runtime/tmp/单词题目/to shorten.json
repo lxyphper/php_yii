@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to shorten",
+      "error_analysis": "学生易因“short”的“短缺”义误将“shorten”理解为“使短缺/减少”，或因拼写相似混淆“shorten”与“soften”（软化）。",
+      "sentence": "The tailor suggested **shortening** the dress by two inches to fit better.",
+      "options": {
+        "option": [
+          {
+            "definition": "使变短；缩短",
+            "iscorrect": true
+          },
+          {
+            "definition": "使软化；变软",
+            "iscorrect": false
+          },
+          {
+            "definition": "使短缺；减少",
+            "iscorrect": false
+          },
+          {
+            "definition": "使喊叫；大声说",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

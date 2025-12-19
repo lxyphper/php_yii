@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "dubble date",
+      "duble date",
+      "doubel date",
+      "double dete",
+      "double daet"
+    ],
+    "correct_chunks": [
+      "dou",
+      "ble",
+      "da",
+      "te"
+    ],
+    "distractor_chunks": [
+      "dub",
+      "bble",
+      "el",
+      "det",
+      "dae"
+    ]
+  },
+  0
+]

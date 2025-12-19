@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "USB",
+      "error_analysis": "学生可能因“USB”包含“bus”（公共汽车）而错误联想为与“公共汽车”相关的事物",
+      "sentence": "Please plug your phone into the **USB** port on the laptop to charge it or transfer photos.",
+      "options": {
+        "option": [
+          {
+            "definition": "通用串行总线接口（用于设备连接与数据传输的计算机端口）",
+            "iscorrect": true
+          },
+          {
+            "definition": "公共汽车的一种新型缩写（如“城市快速巴士”）",
+            "iscorrect": false
+          },
+          {
+            "definition": "美国巴士（US Bus的缩写，指美国的公共汽车）",
+            "iscorrect": false
+          },
+          {
+            "definition": "一种无线局域网技术（如Wi-Fi的替代方案）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

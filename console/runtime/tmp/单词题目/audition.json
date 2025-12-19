@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "audition",
+      "error_analysis": "混淆形近词\"audio\"(音频)导致误判为\"声音制作\"相关含义，或因词根\"aud-\"(听)过度推导为\"听力检查\"",
+      "sentence": "The young actress spent hours practicing her monologue to impress the directors at the **audition** for the lead role.",
+      "options": {
+        "option": [
+          {
+            "definition": "试镜（演员、歌手等为争取角色而进行的选拔表演）",
+            "iscorrect": true
+          },
+          {
+            "definition": "音频剪辑（声音片段的编辑处理）",
+            "iscorrect": false
+          },
+          {
+            "definition": "听力测试（检查听力水平的考试）",
+            "iscorrect": false
+          },
+          {
+            "definition": "观众反馈（观众对表演的反应或评价）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

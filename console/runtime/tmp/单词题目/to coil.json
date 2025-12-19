@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to coil",
+      "error_analysis": "学生易因形近词“coin”（硬币）误将“to coil”理解为“铸币”，或因词根联想错误认为是“卷曲”（如头发）而非“盘绕”。",
+      "sentence": "The cat **coiled** its tail around its body to keep warm.",
+      "options": {
+        "option": [
+          {
+            "definition": "盘绕；卷",
+            "iscorrect": true
+          },
+          {
+            "definition": "铸币；创造（新词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "卷曲（头发等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "冷却；使凉爽",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

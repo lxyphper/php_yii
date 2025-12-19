@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "plastic",
+      "error_analysis": "易混淆形近词elastic（弹性的），或误将形容词义“可塑的”窄化为名词义“塑料的”",
+      "sentence": "Children’s brains are highly **plastic** , allowing them to learn new skills quickly.",
+      "options": {
+        "option": [
+          {
+            "definition": "可塑的（指易适应或改变）",
+            "iscorrect": true
+          },
+          {
+            "definition": "弹性的（能拉伸恢复原状的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "塑料的（由塑料制成的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "石膏的（由石膏制成的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sanction",
+      "error_analysis": "中国学生易因形近词“sanctuary”（庇护所）将“sanction”误解为“庇护”，或因“san-”词根联想“卫生措施”。",
+      "sentence": "The UN voted to apply economic **sanctions** against the country for its aggressive actions.",
+      "options": {
+        "option": [
+          {
+            "definition": "庇护",
+            "iscorrect": false
+          },
+          {
+            "definition": "批准",
+            "iscorrect": false
+          },
+          {
+            "definition": "卫生措施",
+            "iscorrect": false
+          },
+          {
+            "definition": "制裁",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

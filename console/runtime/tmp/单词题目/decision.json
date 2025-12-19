@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "decision",
+      "error_analysis": "学生易因形近词\"division\"（划分）混淆词义，或因词根\"cis\"（切）过度联想为\"切割\"而非\"决定\"",
+      "sentence": "After hours of discussion, the committee finally made a **decision** to approve the new project.",
+      "options": {
+        "option": [
+          {
+            "definition": "决定；抉择",
+            "iscorrect": true
+          },
+          {
+            "definition": "划分；部门",
+            "iscorrect": false
+          },
+          {
+            "definition": "切割；切断",
+            "iscorrect": false
+          },
+          {
+            "definition": "声明；宣告",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nucleus",
+      "error_analysis": "易因形近词'nuclear'混淆为'核武器'等，或因词根字面误导为'坚果的核'，忽略其抽象'核心'含义",
+      "sentence": "The small village became the **nucleus** of the new town as more families settled there.",
+      "options": {
+        "option": [
+          {
+            "definition": "核心；中心",
+            "iscorrect": true
+          },
+          {
+            "definition": "核武器",
+            "iscorrect": false
+          },
+          {
+            "definition": "坚果的核",
+            "iscorrect": false
+          },
+          {
+            "definition": "核能源",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

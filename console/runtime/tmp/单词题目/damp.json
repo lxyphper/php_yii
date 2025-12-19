@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "damp",
+      "error_analysis": "学生易因形近词“dam”（大坝）误将“damp”理解为“大坝的”，或因与“dump”（倾倒）形近而误判。",
+      "sentence": "The basement walls were **damp** after the heavy rain.",
+      "options": {
+        "option": [
+          {
+            "definition": "大坝的",
+            "iscorrect": false
+          },
+          {
+            "definition": "倾倒的",
+            "iscorrect": false
+          },
+          {
+            "definition": "潮湿的",
+            "iscorrect": true
+          },
+          {
+            "definition": "明亮的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "poultry",
+      "error_analysis": "中国学生易因形近词“pastry”（糕点）、“poverty”（贫穷）的干扰，或词根猜测误判为“小鸡”，而无法识别“poultry”为家禽的总称。",
+      "sentence": "The supermarket has a wide selection of **poultry**, including chicken, duck, and turkey.",
+      "options": {
+        "option": [
+          {
+            "definition": "糕点",
+            "iscorrect": false
+          },
+          {
+            "definition": "贫穷",
+            "iscorrect": false
+          },
+          {
+            "definition": "家禽（鸡、鸭、鹅等的总称）",
+            "iscorrect": true
+          },
+          {
+            "definition": "小鸡",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "painter",
+      "error_analysis": "学生可能因“paint”的“油漆”义（词根误导）将“painter”误判为“油漆工”，或因形近词“panther”（豹子）产生错误联想。",
+      "sentence": "The famous **painter** exhibited his new landscape at the art gallery last week.",
+      "options": {
+        "option": [
+          {
+            "definition": "画家",
+            "iscorrect": true
+          },
+          {
+            "definition": "油漆工",
+            "iscorrect": false
+          },
+          {
+            "definition": "豹子",
+            "iscorrect": false
+          },
+          {
+            "definition": "作家",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

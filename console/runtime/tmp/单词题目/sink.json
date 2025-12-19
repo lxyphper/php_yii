@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sink",
+      "error_analysis": "中国学生易因形近词`sick`（生病的）混淆`sink`的动词词义，或误将名词义“水槽”当作核心义",
+      "sentence": "If you drop a coin into the water, it will **sink** quickly.",
+      "options": {
+        "option": [
+          {
+            "definition": "下沉（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "生病的",
+            "iscorrect": false
+          },
+          {
+            "definition": "水槽（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "唱歌",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

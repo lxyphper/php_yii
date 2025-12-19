@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Thanksgiving",
+      "error_analysis": "将合成词\"Thanksgiving\"误译为\"感谢给予\"等字面意思，而非特定节日\"感恩节\"",
+      "sentence": "Americans usually gather with family to eat turkey and pumpkin pie on **Thanksgiving**.",
+      "options": {
+        "option": [
+          {
+            "definition": "感恩节（美国11月第四个星期四的传统节日）",
+            "iscorrect": true
+          },
+          {
+            "definition": "感谢给予（字面直译）",
+            "iscorrect": false
+          },
+          {
+            "definition": "感恩活动（泛泛的感恩行为）",
+            "iscorrect": false
+          },
+          {
+            "definition": "谢礼（表示感谢的礼物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

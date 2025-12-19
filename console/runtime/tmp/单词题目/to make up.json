@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to make up",
+      "error_analysis": "学生易因“make”（做）和“up”（向上）的字面义误导，将“to make up”误解为“制作”或“向上移动”，而非核心义“编造”。",
+      "sentence": "Sarah **made up** a reason to skip the party because she didn’t want to see her ex.",
+      "options": {
+        "option": [
+          {
+            "definition": "编造（谎言、理由等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "制作（如手工制品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "理解，辨认",
+            "iscorrect": false
+          },
+          {
+            "definition": "向上移动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "late",
+      "error_analysis": "学生易因形近词“latter”（后者）的干扰，误将“late”理解为“后者的”，或忽略其“已故的”的熟词僻义",
+      "sentence": "She apologized for being **late** to the party.",
+      "options": {
+        "option": [
+          {
+            "definition": "晚的；迟到的",
+            "iscorrect": true
+          },
+          {
+            "definition": "后者的",
+            "iscorrect": false
+          },
+          {
+            "definition": "已故的",
+            "iscorrect": false
+          },
+          {
+            "definition": "后来的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

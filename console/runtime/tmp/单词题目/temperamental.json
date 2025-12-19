@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "temperamental",
+      "error_analysis": "将`temperamental`误判为“脾气坏的”（形近词`temper`的过度联想）或“关于脾气的”（词根`-mental`的字面直译）",
+      "sentence": "My new roommate is so **temperamental**—one minute she’s laughing loudly, and the next she’s crying for no reason.",
+      "options": {
+        "option": [
+          {
+            "definition": "喜怒无常的；情绪多变的",
+            "iscorrect": true
+          },
+          {
+            "definition": "脾气坏的；易怒的",
+            "iscorrect": false
+          },
+          {
+            "definition": "关于脾气的；与脾气相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "温度变化的；冷热不定的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

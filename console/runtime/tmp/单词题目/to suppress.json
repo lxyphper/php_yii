@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to suppress",
+      "error_analysis": "学生易因形近词\"express\"（表达）反义联想或词根\"press\"（压）误联\"depress\"（使沮丧），将\"suppress\"误解为\"不表达\"或\"使消沉\"。",
+      "sentence": "Despite his anger, he managed to **suppress** his urge to shout at his boss in the meeting.",
+      "options": {
+        "option": [
+          {
+            "definition": "压制；抑制（情绪、冲动等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "表达；表露（情感、想法等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "使沮丧；使消沉（情绪）",
+            "iscorrect": false
+          },
+          {
+            "definition": "假设；认为（某事可能发生）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

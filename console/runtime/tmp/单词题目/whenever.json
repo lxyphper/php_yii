@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "whenever",
+      "error_analysis": "易混淆形近词\"wherever\"(无论哪里)，或误将\"whenever\"字面理解为\"当...的时候曾经\"",
+      "sentence": "I always call my mom **whenever** I finish work late.",
+      "options": {
+        "option": [
+          {
+            "definition": "无论何时；每当",
+            "iscorrect": true
+          },
+          {
+            "definition": "无论哪里；无论何地",
+            "iscorrect": false
+          },
+          {
+            "definition": "当...的时候；在...时",
+            "iscorrect": false
+          },
+          {
+            "definition": "无论什么；不管什么",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

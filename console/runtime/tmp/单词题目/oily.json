@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "oily",
+      "error_analysis": "学生易因形近词“only”（只有）混淆词义，或因词根“oil”（油）过度推导为“由油制成的”。",
+      "sentence": "The fried chicken was so **oily** that I couldn’t finish it.",
+      "options": {
+        "option": [
+          {
+            "definition": "只有的",
+            "iscorrect": false
+          },
+          {
+            "definition": "油腻的；油性的",
+            "iscorrect": true
+          },
+          {
+            "definition": "由油制成的",
+            "iscorrect": false
+          },
+          {
+            "definition": "光滑的；平顺的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

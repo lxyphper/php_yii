@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fall",
+      "error_analysis": "中国学生易将“fall”与形近词“fail”（失败）混淆，或误将“fall for”中的“fall”直译为“落下”",
+      "sentence": "She tried to resist, but eventually **fell** for his charm.",
+      "options": {
+        "option": [
+          {
+            "definition": "失败",
+            "iscorrect": false
+          },
+          {
+            "definition": "落下；掉落",
+            "iscorrect": false
+          },
+          {
+            "definition": "爱上；被…吸引",
+            "iscorrect": true
+          },
+          {
+            "definition": "砍伐",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

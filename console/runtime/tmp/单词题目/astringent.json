@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "astringent",
+      "error_analysis": "学生易因形近词\"stringent\"（严格的）误判为\"严格的\"，或因\"string\"（线）误解为\"线状的\"",
+      "sentence": "The unripe persimmon has an **astringent** taste that makes your mouth feel dry and tight.",
+      "options": {
+        "option": [
+          {
+            "definition": "收敛的；涩的（味道或物质）",
+            "iscorrect": true
+          },
+          {
+            "definition": "严格的；严厉的",
+            "iscorrect": false
+          },
+          {
+            "definition": "线状的；弦状的",
+            "iscorrect": false
+          },
+          {
+            "definition": "芳香的；有香味的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

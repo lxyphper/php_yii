@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "company",
+      "error_analysis": "中国学生易因形近词\"companion\"混淆\"company\"与\"同伴\"，或因词根\"com-+panis(面包)\"过度直译为\"一起吃面包的人\"。",
+      "sentence": "Our **company** will host a job fair next week to recruit new employees.",
+      "options": {
+        "option": [
+          {
+            "definition": "公司（从事商业活动的组织）",
+            "iscorrect": true
+          },
+          {
+            "definition": "同伴（一起生活或旅行的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "一起吃面包的人（词根直译）",
+            "iscorrect": false
+          },
+          {
+            "definition": "团队（一起工作的群体）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

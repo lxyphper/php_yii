@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "chocolate",
+      "error_analysis": "学生易因\"chocolate\"中的\"late\"（晚的）进行字面拆分，或与形近基础词\"chalk\"（粉笔）混淆，导致错误理解。",
+      "sentence": "She bought a bar of **chocolate** for her little brother as a snack.",
+      "options": {
+        "option": [
+          {
+            "definition": "巧克力",
+            "iscorrect": true
+          },
+          {
+            "definition": "粉笔",
+            "iscorrect": false
+          },
+          {
+            "definition": "晚的东西",
+            "iscorrect": false
+          },
+          {
+            "definition": "可可",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

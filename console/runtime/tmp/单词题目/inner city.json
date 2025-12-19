@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "inner city",
+      "error_analysis": "学生易因字面直译（将“inner city”误解为“城市内部的繁华商业区”）或形近词混淆（将“inner”误作“inter”导致误解为“城际的区域”）而错误理解其核心含义",
+      "sentence": "The government has launched a new program to revitalize the **inner city**, where many residents struggle with unemployment and poor housing.",
+      "options": {
+        "option": [
+          {
+            "definition": "市中心的贫民区（尤指存在贫困、失业等社会问题的老城区）",
+            "iscorrect": true
+          },
+          {
+            "definition": "城际的区域",
+            "iscorrect": false
+          },
+          {
+            "definition": "城市内部的繁华商业区",
+            "iscorrect": false
+          },
+          {
+            "definition": "城市周边的卫星城",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

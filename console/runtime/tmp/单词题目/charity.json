@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "charity",
+      "error_analysis": "学生易因形近词“cherry”（樱桃）产生词义联想错误，或因“char”（烧焦）的词根误导认为与“烧焦状态”相关。",
+      "sentence": "The local **charity** organized a food drive to help homeless people during the winter.",
+      "options": {
+        "option": [
+          {
+            "definition": "慈善；慈善机构",
+            "iscorrect": true
+          },
+          {
+            "definition": "樱桃",
+            "iscorrect": false
+          },
+          {
+            "definition": "魅力；吸引力",
+            "iscorrect": false
+          },
+          {
+            "definition": "烧焦的状态",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

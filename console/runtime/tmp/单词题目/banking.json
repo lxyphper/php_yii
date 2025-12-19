@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "banking",
+      "error_analysis": "易受形近词\"baking\"(烘焙)干扰，或误将\"banking\"理解为银行的具体动作(如存钱)而非\"银行业\"这一抽象名词",
+      "sentence": "With the development of digital technology, online **banking** has become a popular way for people to handle their money and pay bills.",
+      "options": {
+        "option": [
+          {
+            "definition": "银行业；银行服务",
+            "iscorrect": true
+          },
+          {
+            "definition": "烘焙（食物的烤制过程）",
+            "iscorrect": false
+          },
+          {
+            "definition": "银行职员的日常工作（如接待客户）",
+            "iscorrect": false
+          },
+          {
+            "definition": "货币的印刷与发行",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

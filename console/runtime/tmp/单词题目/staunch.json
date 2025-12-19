@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "staunch",
+      "error_analysis": "学生易因形近词“launch”（发射）混淆，或因“sta-”词根错误联想为“开始”。",
+      "sentence": "Despite the criticism, she remained a **staunch** defender of her friend's reputation.",
+      "options": {
+        "option": [
+          {
+            "definition": "坚定的，忠诚的",
+            "iscorrect": true
+          },
+          {
+            "definition": "发射的",
+            "iscorrect": false
+          },
+          {
+            "definition": "开始的",
+            "iscorrect": false
+          },
+          {
+            "definition": "脆弱的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

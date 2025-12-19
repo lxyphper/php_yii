@@ -1,0 +1,26 @@
+[
+  {
+    "common_misspellings": [
+      "obsesive-compulsive disorder",
+      "obsessive-complusive disorder",
+      "obsessive-compulsive dysorder",
+      "obsessive-compulssive disorder",
+      "obsessive-compulsive disorter"
+    ],
+    "correct_chunks": [
+      "ob",
+      "sessive",
+      "com",
+      "pulsive",
+      "disorder"
+    ],
+    "distractor_chunks": [
+      "sesive",
+      "plusive",
+      "dys",
+      "pulssive",
+      "orter"
+    ]
+  },
+  0
+]

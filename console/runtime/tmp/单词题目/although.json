@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "although",
+      "error_analysis": "学生易因形近词“through”（通过）或“altogether”（完全）的干扰，错误理解“although”的转折含义",
+      "sentence": "**Although** it rained heavily, they still went to the park.",
+      "options": {
+        "option": [
+          {
+            "definition": "虽然；尽管",
+            "iscorrect": true
+          },
+          {
+            "definition": "通过",
+            "iscorrect": false
+          },
+          {
+            "definition": "完全；总共",
+            "iscorrect": false
+          },
+          {
+            "definition": "因为",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

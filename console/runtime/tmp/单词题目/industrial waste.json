@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "industrial waste",
+      "error_analysis": "学生易将“waste”的“废物”义误判为“浪费”（行为），导致把“industrial waste”误解为“工业浪费”而非“工业废物”。",
+      "sentence": "The factory was fined for illegally dumping **industrial waste** into the river, leading to serious water pollution.",
+      "options": {
+        "option": [
+          {
+            "definition": "工业废物",
+            "iscorrect": true
+          },
+          {
+            "definition": "工业浪费",
+            "iscorrect": false
+          },
+          {
+            "definition": "工业废水",
+            "iscorrect": false
+          },
+          {
+            "definition": "工业能源",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

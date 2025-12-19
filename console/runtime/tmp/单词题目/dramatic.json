@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dramatic",
+      "error_analysis": "学生易因形近词\"drama\"（戏剧）误将\"dramatic\"理解为\"与戏剧相关的\"，而非其更常用的\"显著的、剧烈的\"或\"戏剧性的\"（指变化大）。",
+      "sentence": "The company saw a **dramatic** rise in profits after launching the new product.",
+      "options": {
+        "option": [
+          {
+            "definition": "显著的；剧烈的",
+            "iscorrect": true
+          },
+          {
+            "definition": "与戏剧相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "夸张的",
+            "iscorrect": false
+          },
+          {
+            "definition": "微小的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

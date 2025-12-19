@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "flourishing",
+      "error_analysis": "因形近词\"flour\"(面粉)易误联想为\"与面粉有关的\"，或因词根误解为\"粉状的\"",
+      "sentence": "The local art scene has been **flourishing** since the new gallery opened last year.",
+      "options": {
+        "option": [
+          {
+            "definition": "繁荣的；兴旺的",
+            "iscorrect": true
+          },
+          {
+            "definition": "与面粉有关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "粉状的；细末状的",
+            "iscorrect": false
+          },
+          {
+            "definition": "正在枯萎的；衰退的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

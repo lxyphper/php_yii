@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cherry",
+      "error_analysis": "学生易因形近词“cheery”（愉快的）的拼写混淆，将“cherry”误判为“愉快的”",
+      "sentence": "She picked a ripe **cherry** from the tree and ate it.",
+      "options": {
+        "option": [
+          {
+            "definition": "樱桃",
+            "iscorrect": true
+          },
+          {
+            "definition": "愉快的",
+            "iscorrect": false
+          },
+          {
+            "definition": "奶酪",
+            "iscorrect": false
+          },
+          {
+            "definition": "珍惜",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

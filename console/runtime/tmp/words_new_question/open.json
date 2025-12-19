@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "open",
+      "error_analysis": "中国学生对“open”的核心错误为因形近词“oven”（烤箱）拼写相似误判词义，或因词根联想（如与“operate”的“操作”混淆）错误推导。",
+      "sentence": "Please **open** the window to let some fresh air in.",
+      "options": {
+        "option": [
+          {
+            "definition": "打开（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "烤箱（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "操作（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "关闭（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

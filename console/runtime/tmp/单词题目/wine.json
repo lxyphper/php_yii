@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wine",
+      "error_analysis": "学生易因形近词“vine”（葡萄藤）的干扰，或误将“wine”理解为“酒”的统称而犯错",
+      "sentence": "She enjoyed a glass of **wine** with her dinner last night.",
+      "options": {
+        "option": [
+          {
+            "definition": "葡萄酒",
+            "iscorrect": true
+          },
+          {
+            "definition": "葡萄藤",
+            "iscorrect": false
+          },
+          {
+            "definition": "酒（泛指所有酒类）",
+            "iscorrect": false
+          },
+          {
+            "definition": "赢；胜利",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

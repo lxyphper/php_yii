@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to chatter",
+      "error_analysis": "中国学生易因形近词\"clatter\"（咔嗒声）混淆误以为\"发出尖锐噪音\"，或因\"chat\"（聊天）词根误导忽略\"喋喋不休\"的程度。",
+      "sentence": "The old ladies **chattered** away about their grandchildren for hours in the park.",
+      "options": {
+        "option": [
+          {
+            "definition": "喋喋不休地闲聊",
+            "iscorrect": true
+          },
+          {
+            "definition": "发出尖锐的噪音",
+            "iscorrect": false
+          },
+          {
+            "definition": "进行简短的聊天",
+            "iscorrect": false
+          },
+          {
+            "definition": "（牙齿）因寒冷而打颤",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

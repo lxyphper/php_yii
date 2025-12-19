@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "database",
+      "error_analysis": "学生易拆分“data+base”误理解为“数据的基础”，或混淆“data”与“date”误判为“日期记录簿”",
+      "sentence": "The marketing team uses a **database** to keep track of all potential clients' contact details.",
+      "options": {
+        "option": [
+          {
+            "definition": "数据的基础",
+            "iscorrect": false
+          },
+          {
+            "definition": "数据库",
+            "iscorrect": true
+          },
+          {
+            "definition": "日期记录簿",
+            "iscorrect": false
+          },
+          {
+            "definition": "基础数据",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

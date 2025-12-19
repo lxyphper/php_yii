@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "justice",
+      "error_analysis": "学生易因形近词\"judge\"（法官）的联想或词根\"just\"（刚刚）的副词义误导，将\"justice\"误理解为\"法官\"或\"刚刚的事\"。",
+      "sentence": "The community fought hard to get **justice** for the innocent man who was wrongly accused.",
+      "options": {
+        "option": [
+          {
+            "definition": "公正；正义",
+            "iscorrect": true
+          },
+          {
+            "definition": "法官",
+            "iscorrect": false
+          },
+          {
+            "definition": "刚刚的事",
+            "iscorrect": false
+          },
+          {
+            "definition": "证明正当",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "subconsciously",
+      "error_analysis": "学生易因形近词\"subsequently\"（随后地）混淆，或因词根\"sub-\"（下）误导为\"秘密地\"。",
+      "sentence": "When she felt anxious before the exam, she would **subconsciously** tap her foot on the floor, not even noticing she was doing it.",
+      "options": {
+        "option": [
+          {
+            "definition": "潜意识地",
+            "iscorrect": true
+          },
+          {
+            "definition": "随后地",
+            "iscorrect": false
+          },
+          {
+            "definition": "秘密地",
+            "iscorrect": false
+          },
+          {
+            "definition": "主观地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

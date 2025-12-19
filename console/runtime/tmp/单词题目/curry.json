@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "curry",
+      "error_analysis": "中国学生易因形近词\"carry\"（携带）产生错误联想，或混淆其名词\"咖喱\"与动词\"讨好\"的含义",
+      "sentence": "We ordered a spicy chicken **curry** and steamed rice at the new Indian café downtown.",
+      "options": {
+        "option": [
+          {
+            "definition": "携带；搬运",
+            "iscorrect": false
+          },
+          {
+            "definition": "咖喱（一种辛辣的调味汁或菜肴）",
+            "iscorrect": true
+          },
+          {
+            "definition": "好奇的；感兴趣的",
+            "iscorrect": false
+          },
+          {
+            "definition": "讨好；奉承（动词义）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

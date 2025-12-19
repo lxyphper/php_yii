@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to cause",
+      "error_analysis": "混淆形近词\"course\"(课程)及误将动词义理解为名词\"原因\"",
+      "sentence": "The heavy rain will **cause** flooding in low-lying areas.",
+      "options": {
+        "option": [
+          {
+            "definition": "引起；导致",
+            "iscorrect": true
+          },
+          {
+            "definition": "课程；路线",
+            "iscorrect": false
+          },
+          {
+            "definition": "原因；起因",
+            "iscorrect": false
+          },
+          {
+            "definition": "选择；挑选",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

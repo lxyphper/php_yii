@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "proverb",
+      "error_analysis": "学生易将proverb拆分为pro-（前）和verb（动词）错误联想为“前置动词”，或因形近词prove（证明）误解为“证明”相关含义",
+      "sentence": "As the old **proverb** goes, \"A friend in need is a friend indeed.\"",
+      "options": {
+        "option": [
+          {
+            "definition": "前置动词；先行动词",
+            "iscorrect": false
+          },
+          {
+            "definition": "证明；证实",
+            "iscorrect": false
+          },
+          {
+            "definition": "谚语；俗语",
+            "iscorrect": true
+          },
+          {
+            "definition": "动词形式；动词变化",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

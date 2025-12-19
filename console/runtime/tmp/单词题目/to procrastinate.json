@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to procrastinate",
+      "error_analysis": "学生易因词根\"pro-\"（向前）误解为\"提前做\"，或因形近词混淆为\"procreate\"（生育）",
+      "sentence": "Despite knowing the deadline was approaching, Tom chose to **procrastinate** on his essay and watched TV instead.",
+      "options": {
+        "option": [
+          {
+            "definition": "拖延；耽搁",
+            "iscorrect": true
+          },
+          {
+            "definition": "生育；繁殖",
+            "iscorrect": false
+          },
+          {
+            "definition": "提前完成；预先做",
+            "iscorrect": false
+          },
+          {
+            "definition": "继续进行；推进",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "steady",
+      "error_analysis": "中国学生易因形近词“ready”（准备好的）混淆，或误将“steady”理解为“持续的”（continuous）或“缓慢的”（slow）",
+      "sentence": "She maintained a **steady** pace throughout the marathon, never speeding up or slowing down.",
+      "options": {
+        "option": [
+          {
+            "definition": "准备好的",
+            "iscorrect": false
+          },
+          {
+            "definition": "稳定的；平稳的",
+            "iscorrect": true
+          },
+          {
+            "definition": "持续的",
+            "iscorrect": false
+          },
+          {
+            "definition": "缓慢的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

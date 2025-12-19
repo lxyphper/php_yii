@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "reluctantly",
+      "error_analysis": "易与形近副词'recently'(最近)混淆，或误从词根're-'推导为'反复地'。",
+      "sentence": "She **reluctantly** agreed to help after I begged her three times.",
+      "options": {
+        "option": [
+          {
+            "definition": "最近地",
+            "iscorrect": false
+          },
+          {
+            "definition": "勉强地；不情愿地",
+            "iscorrect": true
+          },
+          {
+            "definition": "反复地",
+            "iscorrect": false
+          },
+          {
+            "definition": "坚决地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

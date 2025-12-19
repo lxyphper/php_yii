@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "someplace",
+      "error_analysis": "学生易因“some+place”的字面组合，误将“someplace”理解为“一些地方”（对应“some places”的复数含义），而实际上它表示“某个地方”（相当于“somewhere”）。",
+      "sentence": "I'm tired of staying at home; I want to go **someplace** with fresh air.",
+      "options": {
+        "option": [
+          {
+            "definition": "一些地方",
+            "iscorrect": false
+          },
+          {
+            "definition": "以某种方式",
+            "iscorrect": false
+          },
+          {
+            "definition": "某个地方",
+            "iscorrect": true
+          },
+          {
+            "definition": "有点",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

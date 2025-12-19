@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "paranoia",
+      "error_analysis": "中国学生易因形近词（如paralysis，瘫痪）或词根/字面误导（如联想mania，过度狂热）错误理解paranoia的含义",
+      "sentence": "His constant belief that his coworkers are plotting against him is a clear sign of **paranoia**.",
+      "options": {
+        "option": [
+          {
+            "definition": "偏执狂；妄想症（对他人不信任、怀疑被针对的心理状态）",
+            "iscorrect": true
+          },
+          {
+            "definition": "瘫痪（身体无法移动的状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "过度狂热（对某事物的极度痴迷）",
+            "iscorrect": false
+          },
+          {
+            "definition": "焦虑（对未来的担忧或不安）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

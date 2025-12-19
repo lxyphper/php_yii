@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to water",
+      "error_analysis": "学生易将\"to water\"误理解为\"喝（水）\"（词根直译）或与形近词\"wander\"（漫步）混淆",
+      "sentence": "My mom asks me to **water** the roses every morning before she goes to work.",
+      "options": {
+        "option": [
+          {
+            "definition": "给（植物、动物等）浇水；供水",
+            "iscorrect": true
+          },
+          {
+            "definition": "喝（水）",
+            "iscorrect": false
+          },
+          {
+            "definition": "用水清洗",
+            "iscorrect": false
+          },
+          {
+            "definition": "漫步；徘徊",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

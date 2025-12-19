@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to debug",
+      "error_analysis": "将“to debug”误理解为“除虫”（基于“de-”前缀表“去除”与“bug”表“虫子”的字面推导）",
+      "sentence": "The programmer spent hours trying to **debug** the new app because it kept crashing every time users logged in.",
+      "options": {
+        "option": [
+          {
+            "definition": "除虫",
+            "iscorrect": false
+          },
+          {
+            "definition": "首次亮相",
+            "iscorrect": false
+          },
+          {
+            "definition": "解码",
+            "iscorrect": false
+          },
+          {
+            "definition": "调试（计算机程序等）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

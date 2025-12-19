@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to target",
+      "error_analysis": "学生易将to target（主动及物，以...为目标）误解为“成为目标”（被动义），或混淆形近词to tag（贴标签）的含义。",
+      "sentence": "The new marketing campaign aims to **target** millennials who are interested in sustainable products.",
+      "options": {
+        "option": [
+          {
+            "definition": "以...为目标；针对",
+            "iscorrect": true
+          },
+          {
+            "definition": "成为目标",
+            "iscorrect": false
+          },
+          {
+            "definition": "贴标签",
+            "iscorrect": false
+          },
+          {
+            "definition": "追踪",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

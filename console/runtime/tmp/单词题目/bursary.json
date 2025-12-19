@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bursary",
+      "error_analysis": "中国学生易因形近词“bursar”（财务主管）误判为“财务主管”，或因词根“burs-”（钱包）误判为“钱包”",
+      "sentence": "She was awarded a **bursary** by the college to help with her living expenses while studying.",
+      "options": {
+        "option": [
+          {
+            "definition": "（尤指给学生的）助学金",
+            "iscorrect": true
+          },
+          {
+            "definition": "财务主管（学校等机构的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "钱包（尤指皮革制的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "二进制（数学或计算机中的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

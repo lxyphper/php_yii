@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "inverter",
+      "error_analysis": "易混淆形近词inventor（发明家）或词根过度推导为一般反转装置（如倒置器）",
+      "sentence": "The solar panels generate DC electricity, which is then converted to AC by a(n) **inverter** for use in homes.",
+      "options": {
+        "option": [
+          {
+            "definition": "逆变器（将直流电转换为交流电的电子设备）",
+            "iscorrect": true
+          },
+          {
+            "definition": "发明家（创造新事物的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "倒置器（使物体物理反转的装置）",
+            "iscorrect": false
+          },
+          {
+            "definition": "输入器（接收外部信号的电子设备）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

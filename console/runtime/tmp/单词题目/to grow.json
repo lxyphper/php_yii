@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to grow",
+      "error_analysis": "中国学生易因形近词“glow”（发光）或词根联想“grass”（草）导致对“grow”词义的误判",
+      "sentence": "With enough water and sunlight, the flower will **grow** into a beautiful bloom.",
+      "options": {
+        "option": [
+          {
+            "definition": "草",
+            "iscorrect": false
+          },
+          {
+            "definition": "发光",
+            "iscorrect": false
+          },
+          {
+            "definition": "呻吟",
+            "iscorrect": false
+          },
+          {
+            "definition": "生长；长成",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

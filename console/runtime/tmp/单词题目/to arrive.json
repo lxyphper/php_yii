@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to arrive",
+      "error_analysis": "学生易将\"to arrive\"与形近词\"to arise\"（出现）混淆，或因\"rive\"（撕裂）的词根联想产生错误理解。",
+      "sentence": "We waited for two hours before the bus finally **arrived** at the station.",
+      "options": {
+        "option": [
+          {
+            "definition": "到达",
+            "iscorrect": true
+          },
+          {
+            "definition": "出现",
+            "iscorrect": false
+          },
+          {
+            "definition": "撕裂",
+            "iscorrect": false
+          },
+          {
+            "definition": "上升",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

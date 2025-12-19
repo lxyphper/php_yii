@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "astronomical",
+      "error_analysis": "学生易因词根\"astro-\"（天文）优先联想到\"天文学的\"，忽略更常用的\"极大的、天文数字的\"含义",
+      "sentence": "The cost of buying a house in the city has become **astronomical** in recent years.",
+      "options": {
+        "option": [
+          {
+            "definition": "天文学的",
+            "iscorrect": false
+          },
+          {
+            "definition": "极大的，天文数字的",
+            "iscorrect": true
+          },
+          {
+            "definition": "宇航员相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "神秘的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

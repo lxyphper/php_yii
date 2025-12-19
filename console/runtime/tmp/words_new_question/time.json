@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "time",
+      "error_analysis": "学生易因形近词“tide”（潮汐）、“timid”（胆小的）或“lime”（石灰）产生混淆，或误将“time”仅理解为抽象“时间”而忽略其“一段时间”的具体含义",
+      "sentence": "They had a wonderful **time** at the beach yesterday.",
+      "options": {
+        "option": [
+          {
+            "definition": "潮汐",
+            "iscorrect": false
+          },
+          {
+            "definition": "胆小的",
+            "iscorrect": false
+          },
+          {
+            "definition": "石灰",
+            "iscorrect": false
+          },
+          {
+            "definition": "时光",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

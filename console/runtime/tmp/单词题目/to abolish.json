@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to abolish",
+      "error_analysis": "学生易因形近词\"polish\"(抛光)或词根\"ab-\"(离开)与词干结合误判为\"加强\"或\"保留\"",
+      "sentence": "The government announced plans to **abolish** the old tax system that burdened low-income families.",
+      "options": {
+        "option": [
+          {
+            "definition": "抛光；擦亮",
+            "iscorrect": false
+          },
+          {
+            "definition": "加强；巩固",
+            "iscorrect": false
+          },
+          {
+            "definition": "废除；废止",
+            "iscorrect": true
+          },
+          {
+            "definition": "保留；维持",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

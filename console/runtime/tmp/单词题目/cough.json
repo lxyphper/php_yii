@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cough",
+      "error_analysis": "学生易因形近词“couch”（沙发）的拼写接近而将“cough”误判为“沙发”，或与“sneeze”（打喷嚏）混淆",
+      "sentence": "The smoke from the kitchen made her **cough** loudly, so she rushed to open the door.",
+      "options": {
+        "option": [
+          {
+            "definition": "咳嗽",
+            "iscorrect": true
+          },
+          {
+            "definition": "沙发",
+            "iscorrect": false
+          },
+          {
+            "definition": "打喷嚏",
+            "iscorrect": false
+          },
+          {
+            "definition": "牛",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

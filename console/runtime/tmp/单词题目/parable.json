@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "parable",
+      "error_analysis": "易因形近词\"paragraph\"(段落)或词根\"para-\"(比较)误导，误判为\"段落\"或\"比较\"",
+      "sentence": "The teacher told a **parable** about a fox and a grape to teach the students about greed.",
+      "options": {
+        "option": [
+          {
+            "definition": "寓言（比喻故事）",
+            "iscorrect": true
+          },
+          {
+            "definition": "段落",
+            "iscorrect": false
+          },
+          {
+            "definition": "比较（对比）",
+            "iscorrect": false
+          },
+          {
+            "definition": "谚语（俗语）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

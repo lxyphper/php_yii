@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "optimism",
+      "error_analysis": "易因形近词“optimum”（最佳的）和词根“opt”（选择）的干扰，误将“optimism”理解为“最佳状态”或“选择倾向”。",
+      "sentence": "Despite the challenges, her **optimism** kept her believing that things would get better soon.",
+      "options": {
+        "option": [
+          {
+            "definition": "乐观；乐观主义",
+            "iscorrect": true
+          },
+          {
+            "definition": "最佳状态；最优选择",
+            "iscorrect": false
+          },
+          {
+            "definition": "对选择的偏好；选择倾向",
+            "iscorrect": false
+          },
+          {
+            "definition": "积极的意见；正面看法",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

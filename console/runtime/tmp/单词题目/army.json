@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "army",
+      "error_analysis": "学生易因形近词\"arm\"（手臂）或\"amy\"（人名）的联想，误将\"army\"判为与\"手臂\"或\"女性名字\"相关的含义。",
+      "sentence": "The **army** was deployed to help with disaster relief after the earthquake.",
+      "options": {
+        "option": [
+          {
+            "definition": "军队；陆军",
+            "iscorrect": true
+          },
+          {
+            "definition": "手臂的集合",
+            "iscorrect": false
+          },
+          {
+            "definition": "武器的总称",
+            "iscorrect": false
+          },
+          {
+            "definition": "女性名字（如艾米）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

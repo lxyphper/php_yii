@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dishonest",
+      "error_analysis": "学生易因“dish”（盘子）的形近干扰将“dishonest”误联餐具相关，或因“honest”与“honor”（荣誉）的混淆误解为“不荣誉的”。",
+      "sentence": "The salesman promised the phone had no scratches, but I later realized he was **dishonest**—there were deep marks on the screen.",
+      "options": {
+        "option": [
+          {
+            "definition": "不诚实的",
+            "iscorrect": true
+          },
+          {
+            "definition": "与盘子有关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不荣誉的",
+            "iscorrect": false
+          },
+          {
+            "definition": "勤奋的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

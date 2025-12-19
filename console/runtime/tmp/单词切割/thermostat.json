@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "thermstat",
+      "serostat",
+      "terostat",
+      "thermosat"
+    ],
+    "correct_chunks": [
+      "ther",
+      "mo",
+      "stat"
+    ],
+    "distractor_chunks": [
+      "ser",
+      "ter",
+      "therm",
+      "sat"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to distill",
+      "error_analysis": "学生易因形近词“distribute”（分配）干扰或词根“dis-+still”的错误推导，将“to distill”误判为“分配”或“使静止分开”。",
+      "sentence": "To produce pure water, the factory uses a machine to **distill** the contaminated water.",
+      "options": {
+        "option": [
+          {
+            "definition": "蒸馏（液体）；提炼（精华）",
+            "iscorrect": true
+          },
+          {
+            "definition": "分配；分发",
+            "iscorrect": false
+          },
+          {
+            "definition": "使静止；让...停下",
+            "iscorrect": false
+          },
+          {
+            "definition": "打扰；干扰",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

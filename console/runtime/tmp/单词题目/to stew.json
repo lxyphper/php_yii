@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to stew",
+      "error_analysis": "中国学生易因形近词（如stir）或烹饪方法混淆（如steam），将\"to stew\"错误理解为\"搅拌\"或\"蒸\"。",
+      "sentence": "She likes to **stew** beef with carrots and potatoes for a hearty dinner.",
+      "options": {
+        "option": [
+          {
+            "definition": "搅拌（食物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "炖（用慢火煮食物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "蒸（食物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "切（食物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

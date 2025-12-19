@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "immaterial",
+      "error_analysis": "学生易因词根“material”（物质的）的影响，将“immaterial”错误理解为“非物质的”，而忽略其最常用的“不重要的”含义",
+      "sentence": "Whether she wears a dress or jeans is **immaterial** to the interview result.",
+      "options": {
+        "option": [
+          {
+            "definition": "不重要的",
+            "iscorrect": true
+          },
+          {
+            "definition": "非物质的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不成熟的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不道德的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

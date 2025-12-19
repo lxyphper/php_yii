@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "score",
+      "error_analysis": "学生易因形近词“scare”（害怕）混淆“score”的核心义“得分”，或误将其字面义“刻痕”代入现代语境。",
+      "sentence": "Our team will need to **score** at least one more goal to win the game.",
+      "options": {
+        "option": [
+          {
+            "definition": "得分（比赛中进的球或获得的分数）",
+            "iscorrect": true
+          },
+          {
+            "definition": "害怕",
+            "iscorrect": false
+          },
+          {
+            "definition": "刻痕（木头或石头上的痕迹）",
+            "iscorrect": false
+          },
+          {
+            "definition": "海岸",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

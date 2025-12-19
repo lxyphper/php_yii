@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to vary",
+      "error_analysis": "学生易因\"vary\"与\"very\"（非常）拼写接近而误解为\"使……非常\"，或因\"various\"（各种各样的）而误判为\"有各种各样的\"",
+      "sentence": "The prices of fruits **vary** depending on the season.",
+      "options": {
+        "option": [
+          {
+            "definition": "变化；不同",
+            "iscorrect": true
+          },
+          {
+            "definition": "使……非常",
+            "iscorrect": false
+          },
+          {
+            "definition": "有各种各样的",
+            "iscorrect": false
+          },
+          {
+            "definition": "验证",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

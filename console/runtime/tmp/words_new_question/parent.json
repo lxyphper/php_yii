@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "parent",
+      "error_analysis": "中国学生易因形近词\"partner\"(伙伴)、\"parrot\"(鹦鹉)等干扰，将\"parent\"误判为非\"父母\"的含义",
+      "sentence": "My **parent** will come to the school meeting tomorrow to talk about my study.",
+      "options": {
+        "option": [
+          {
+            "definition": "伙伴",
+            "iscorrect": false
+          },
+          {
+            "definition": "鹦鹉",
+            "iscorrect": false
+          },
+          {
+            "definition": "父母（父亲或母亲）",
+            "iscorrect": true
+          },
+          {
+            "definition": "礼物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

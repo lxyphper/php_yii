@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to harass",
+      "error_analysis": "学生易因形近词“harvest”（收获）或“har-”开头联想“严厉”（harsh）产生错误理解",
+      "sentence": "The police advised her to report anyone who **harasses** her with constant unwanted phone calls.",
+      "options": {
+        "option": [
+          {
+            "definition": "收获；收割",
+            "iscorrect": false
+          },
+          {
+            "definition": "严厉批评；指责",
+            "iscorrect": false
+          },
+          {
+            "definition": "骚扰；纠缠",
+            "iscorrect": true
+          },
+          {
+            "definition": "使困惑；迷惑",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

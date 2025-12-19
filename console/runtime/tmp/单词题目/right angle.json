@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "right angle",
+      "error_analysis": "学生易将“right”误理解为“正确的”或“右边的”，从而把“right angle”错误解释为“正确的角”或“右边的角”。",
+      "sentence": "The corner of a square has a **right angle**, which is exactly 90 degrees.",
+      "options": {
+        "option": [
+          {
+            "definition": "直角（90度的角）",
+            "iscorrect": true
+          },
+          {
+            "definition": "正确的角",
+            "iscorrect": false
+          },
+          {
+            "definition": "右边的角",
+            "iscorrect": false
+          },
+          {
+            "definition": "锐角（小于90度的角）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

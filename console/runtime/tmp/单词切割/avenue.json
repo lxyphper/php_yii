@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "awenue",
+      "evenue",
+      "aveune",
+      "auenue"
+    ],
+    "correct_chunks": [
+      "av",
+      "en",
+      "ue"
+    ],
+    "distractor_chunks": [
+      "aw",
+      "ev",
+      "eun",
+      "au",
+      "oo"
+    ]
+  },
+  0
+]

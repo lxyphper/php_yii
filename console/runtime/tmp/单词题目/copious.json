@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "copious",
+      "error_analysis": "将形近词“copy”（复制）的含义误联想至“copious”，导致对“大量的”核心词义的偏离",
+      "sentence": "After the heavy rain, the garden received **copious** amounts of water, making the plants grow vigorously.",
+      "options": {
+        "option": [
+          {
+            "definition": "大量的；丰富的",
+            "iscorrect": true
+          },
+          {
+            "definition": "复制的；抄袭的",
+            "iscorrect": false
+          },
+          {
+            "definition": "共同的；合作的",
+            "iscorrect": false
+          },
+          {
+            "definition": "复杂的；难懂的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

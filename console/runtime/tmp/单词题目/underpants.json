@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "underpants",
+      "error_analysis": "学生易因\"pants\"（裤子）的形近联想误判为\"外裤\"，或因\"under-\"（下面）的词根误导猜成\"长裤\"，忽略其\"内衣\"的核心含义。",
+      "sentence": "He forgot to pack his **underpants** for the camping trip, so he had to buy a new pair at the nearby store.",
+      "options": {
+        "option": [
+          {
+            "definition": "内裤",
+            "iscorrect": true
+          },
+          {
+            "definition": "外裤",
+            "iscorrect": false
+          },
+          {
+            "definition": "长裤",
+            "iscorrect": false
+          },
+          {
+            "definition": "袜子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

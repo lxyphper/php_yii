@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "oval",
+      "error_analysis": "中国学生易因“oval”与“oral”（口头的）形近而误解，或因词根不熟悉误猜为“圆形的”。",
+      "sentence": "The playground has an **oval** track where students run every morning.",
+      "options": {
+        "option": [
+          {
+            "definition": "椭圆形的",
+            "iscorrect": true
+          },
+          {
+            "definition": "口头的",
+            "iscorrect": false
+          },
+          {
+            "definition": "圆形的",
+            "iscorrect": false
+          },
+          {
+            "definition": "过度的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

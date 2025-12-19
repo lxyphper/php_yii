@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "spring",
+      "error_analysis": "中国学生易因形近词\"string\"（绳子）混淆，或仅记住\"春天\"而忽略\"弹簧\"的核心义。",
+      "sentence": "The old mattress feels uncomfortable because one of the **spring**s inside has broken.",
+      "options": {
+        "option": [
+          {
+            "definition": "绳子",
+            "iscorrect": false
+          },
+          {
+            "definition": "春天",
+            "iscorrect": false
+          },
+          {
+            "definition": "弹簧",
+            "iscorrect": true
+          },
+          {
+            "definition": "泉水",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

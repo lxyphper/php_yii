@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "nucular accident",
+      "nuclear acident",
+      "nuclear accidant"
+    ],
+    "correct_chunks": [
+      "nuc",
+      "lear",
+      "acc",
+      "ident"
+    ],
+    "distractor_chunks": [
+      "nucu",
+      "lar",
+      "ac",
+      "idant"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "throat",
+      "error_analysis": "易因形近词'threat'(威胁)或'thread'(线)产生错误联想",
+      "sentence": "After shouting for an hour, she felt a sharp pain in her **throat**.",
+      "options": {
+        "option": [
+          {
+            "definition": "喉咙",
+            "iscorrect": true
+          },
+          {
+            "definition": "威胁",
+            "iscorrect": false
+          },
+          {
+            "definition": "线",
+            "iscorrect": false
+          },
+          {
+            "definition": "王座",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

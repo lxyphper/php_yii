@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "intensity",
+      "error_analysis": "易因形近词“intention”（意图）或“intelligent”（聪明）混淆，将“intensity”错解为“意图”或“智慧”。",
+      "sentence": "The **intensity** of the sunlight made her squint and reach for her sunglasses.",
+      "options": {
+        "option": [
+          {
+            "definition": "意图；目的",
+            "iscorrect": false
+          },
+          {
+            "definition": "强度；强烈",
+            "iscorrect": true
+          },
+          {
+            "definition": "聪明；智慧",
+            "iscorrect": false
+          },
+          {
+            "definition": "紧张；压力",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

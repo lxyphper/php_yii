@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gruesome",
+      "error_analysis": "学生易因形近词\"graceful\"(优雅的)混淆词义，或因\"-some\"后缀的褒义联想(如handsome)误判为褒义形容词",
+      "sentence": "The police discovered a **gruesome** scene in the abandoned house, with blood splattered everywhere and broken furniture scattered around.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人毛骨悚然的",
+            "iscorrect": true
+          },
+          {
+            "definition": "优雅的",
+            "iscorrect": false
+          },
+          {
+            "definition": "英俊的",
+            "iscorrect": false
+          },
+          {
+            "definition": "阴郁的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

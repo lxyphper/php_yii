@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to sneak away",
+      "error_analysis": "学生易因形近词\"steal\"（偷）将\"to sneak away\"误解为\"偷走某物\"，或因字面直译忽略\"偷偷\"核心含义而选\"安静地离开\"",
+      "sentence": "When the party got too noisy, Sarah decided to **sneak away** without saying goodbye to anyone.",
+      "options": {
+        "option": [
+          {
+            "definition": "偷偷溜走",
+            "iscorrect": true
+          },
+          {
+            "definition": "偷走某物",
+            "iscorrect": false
+          },
+          {
+            "definition": "安静地离开",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速跑开",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

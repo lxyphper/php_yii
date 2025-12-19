@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "hid-and-seek",
+      "hide-and-seak",
+      "hide-an-seek",
+      "hided-and-seek",
+      "hide-and-sek"
+    ],
+    "correct_chunks": [
+      "hide",
+      "-and-",
+      "seek"
+    ],
+    "distractor_chunks": [
+      "hid",
+      "seak",
+      "an",
+      "hided",
+      "sek"
+    ]
+  },
+  0
+]

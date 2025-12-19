@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "all the time",
+      "error_analysis": "学生易因字面“所有时间”误解为强调时间总量，或混淆形近短语“all time”（有史以来）",
+      "sentence": "My little sister asks questions **all the time**—she never stops talking!",
+      "options": {
+        "option": [
+          {
+            "definition": "一直，总是",
+            "iscorrect": true
+          },
+          {
+            "definition": "所有时间（指时间的总量）",
+            "iscorrect": false
+          },
+          {
+            "definition": "有史以来（混淆\"all time\"）",
+            "iscorrect": false
+          },
+          {
+            "definition": "每次（混淆\"every time\"）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "acute angle",
+      "error_analysis": "中国学生易因“acute”与“cute”（可爱的）形近而误解为“可爱的角”，或因“acute”的“尖锐的”词根义而直译为“尖锐的角”。",
+      "sentence": "In geometry class, the teacher explained that an **acute angle** is one that measures less than 90 degrees, unlike a right angle which is exactly 90 degrees.",
+      "options": {
+        "option": [
+          {
+            "definition": "锐角",
+            "iscorrect": true
+          },
+          {
+            "definition": "可爱的角",
+            "iscorrect": false
+          },
+          {
+            "definition": "尖锐的角",
+            "iscorrect": false
+          },
+          {
+            "definition": "钝角",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

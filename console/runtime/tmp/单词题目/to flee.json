@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to flee",
+      "error_analysis": "中国学生易因形近词“free”（自由）的联想，将“to flee”误判为“自由”或“释放”。",
+      "sentence": "When the fire broke out, the residents immediately **fled** from the burning building.",
+      "options": {
+        "option": [
+          {
+            "definition": "逃离；逃跑",
+            "iscorrect": true
+          },
+          {
+            "definition": "自由；释放",
+            "iscorrect": false
+          },
+          {
+            "definition": "飞；飞行",
+            "iscorrect": false
+          },
+          {
+            "definition": "喂养；供给",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

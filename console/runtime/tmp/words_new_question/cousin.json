@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cousin",
+      "error_analysis": "学生易因形近词\"count\"（计数/伯爵）或词根拆分（如\"cou-\"+\"-sin\"）误将\"cousin\"理解为\"计数\"\"伯爵\"或\"共同的亲兄弟姐妹\"。",
+      "sentence": "My **cousin** and I often play basketball together on weekends.",
+      "options": {
+        "option": [
+          {
+            "definition": "计数",
+            "iscorrect": false
+          },
+          {
+            "definition": "堂/表兄弟姐妹",
+            "iscorrect": true
+          },
+          {
+            "definition": "共同的亲兄弟姐妹",
+            "iscorrect": false
+          },
+          {
+            "definition": "伯爵",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

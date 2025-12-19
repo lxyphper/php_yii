@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "superstar",
+      "error_analysis": "学生易因“star”的字面义（星星）将“superstar”误理解为“超级星星”（天文物体），而非其常用的“超级明星”（知名人士）含义。",
+      "sentence": "As a young girl, she dreamed of becoming a **superstar** like her favorite singer, who often performed in sold-out concerts and won several national music awards.",
+      "options": {
+        "option": [
+          {
+            "definition": "超级明星（指知名的演员、歌手等公众人物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "超级星星（天文领域的巨大发光星体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "超级商店（销售多种商品的大型连锁超市）",
+            "iscorrect": false
+          },
+          {
+            "definition": "超级英雄（具有特殊能力的虚构或现实中的英雄）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

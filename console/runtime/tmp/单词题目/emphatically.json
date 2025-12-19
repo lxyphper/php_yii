@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "emphatically",
+      "error_analysis": "学生易将\"emphatically\"（强调地、坚决地）与形近词\"empirically\"（经验主义地）混淆，或通过词根\"emphasize\"过度推导为\"重点地\"。",
+      "sentence": "When asked if she would change her mind, she shook her head **emphatically** and said, \"No way!\"",
+      "options": {
+        "option": [
+          {
+            "definition": "经验主义地",
+            "iscorrect": false
+          },
+          {
+            "definition": "重点地",
+            "iscorrect": false
+          },
+          {
+            "definition": "热情地",
+            "iscorrect": false
+          },
+          {
+            "definition": "强调地；坚决地",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

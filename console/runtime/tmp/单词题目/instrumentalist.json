@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "instrumentalist",
+      "error_analysis": "学生易因“instrument”的“仪器/工具”义或“instrumental”的“有帮助的”义，将“instrumentalist”误判为“仪器操作员”“工具制造者”或“有帮助的人”",
+      "sentence": "The orchestra is looking for a skilled **instrumentalist** to play the violin in their upcoming concert.",
+      "options": {
+        "option": [
+          {
+            "definition": "乐器演奏者",
+            "iscorrect": true
+          },
+          {
+            "definition": "仪器操作员",
+            "iscorrect": false
+          },
+          {
+            "definition": "有帮助的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "工具制造者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "purse",
+      "error_analysis": "学生易因形近词“pursue”（追求）的干扰，将“purse”误解为“追求”或“追赶”",
+      "sentence": "She reached into her **purse** to take out her phone and pay for the coffee.",
+      "options": {
+        "option": [
+          {
+            "definition": "（女用）钱包；手提包",
+            "iscorrect": true
+          },
+          {
+            "definition": "追求；追赶",
+            "iscorrect": false
+          },
+          {
+            "definition": "推；推动",
+            "iscorrect": false
+          },
+          {
+            "definition": "钱；货币",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

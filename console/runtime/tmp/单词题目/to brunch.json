@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to brunch",
+      "error_analysis": "学生易因形近词“lunch”误判为“吃午餐”，或因“br-”联想“breakfast”误判为“吃早餐”",
+      "sentence": "We usually **brunch** at 11 a.m. on weekends—late enough for sleep, early enough for a big meal.",
+      "options": {
+        "option": [
+          {
+            "definition": "吃早午餐（介于早餐和午餐之间的 meal）",
+            "iscorrect": true
+          },
+          {
+            "definition": "吃午餐",
+            "iscorrect": false
+          },
+          {
+            "definition": "吃早餐",
+            "iscorrect": false
+          },
+          {
+            "definition": "刷（某物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

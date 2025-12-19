@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to propel",
+      "error_analysis": "学生易因形近词“prop”（支撑）的联想，或不熟悉词根“pel”（推动）而误解为“支撑；维持”等意思",
+      "sentence": "The new engine is designed to **propel** the spacecraft to Mars in just 6 months.",
+      "options": {
+        "option": [
+          {
+            "definition": "推动；推进",
+            "iscorrect": true
+          },
+          {
+            "definition": "支撑；维持",
+            "iscorrect": false
+          },
+          {
+            "definition": "排斥；拒绝",
+            "iscorrect": false
+          },
+          {
+            "definition": "强迫；迫使",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

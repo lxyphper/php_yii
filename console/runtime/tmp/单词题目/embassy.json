@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "embassy",
+      "error_analysis": "学生易因形近词\"emergency\"（紧急情况）混淆词义，或因\"emb-\"前缀错误联想为\"嵌入的事物\"。",
+      "sentence": "The American **embassy** in Beijing provides assistance to U.S. citizens living or traveling in China.",
+      "options": {
+        "option": [
+          {
+            "definition": "大使馆",
+            "iscorrect": true
+          },
+          {
+            "definition": "紧急情况",
+            "iscorrect": false
+          },
+          {
+            "definition": "嵌入的机构",
+            "iscorrect": false
+          },
+          {
+            "definition": "领事馆",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

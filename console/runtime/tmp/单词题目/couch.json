@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "couch",
+      "error_analysis": "中国学生易将\"couch\"与形近词\"coach\"（教练）混淆，或因词根（古法语\"couche\"=床）误导为\"床\"",
+      "sentence": "When guests come over, we usually ask them to sit on the **couch** in the living room.",
+      "options": {
+        "option": [
+          {
+            "definition": "沙发",
+            "iscorrect": true
+          },
+          {
+            "definition": "教练",
+            "iscorrect": false
+          },
+          {
+            "definition": "床",
+            "iscorrect": false
+          },
+          {
+            "definition": "勇气",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

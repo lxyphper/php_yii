@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "expressway",
+      "error_analysis": "学生易因“express”的熟义“表达”和“way”的“方式”进行字面拆解，误将“expressway”理解为“表达的方式”。",
+      "sentence": "We took the **expressway** to avoid the traffic in the city and arrived at the airport in 30 minutes.",
+      "options": {
+        "option": [
+          {
+            "definition": "表达的方式",
+            "iscorrect": false
+          },
+          {
+            "definition": "快递的路径",
+            "iscorrect": false
+          },
+          {
+            "definition": "高速公路",
+            "iscorrect": true
+          },
+          {
+            "definition": "步行道",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

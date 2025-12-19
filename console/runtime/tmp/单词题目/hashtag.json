@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hashtag",
+      "error_analysis": "学生易因“hash”（剁碎的食物）与“tag”（标签）的字面组合误解为“食物标签”，或与形近词“hashmark”（计数斜线）混淆为“计数标记”",
+      "sentence": "Many people use the **hashtag** #TravelGoals on Instagram to share their vacation photos.",
+      "options": {
+        "option": [
+          {
+            "definition": "（社交媒体上的）话题标签（如#符号后的内容）",
+            "iscorrect": true
+          },
+          {
+            "definition": "食物标签（用于标注剁碎的食物种类）",
+            "iscorrect": false
+          },
+          {
+            "definition": "计数用的斜线标记（如统计数量时画的斜线）",
+            "iscorrect": false
+          },
+          {
+            "definition": "编码识别标签（用于计算机数据加密）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

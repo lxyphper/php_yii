@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "jail",
+      "error_analysis": "学生易因形近词（如'mail'邮件、'tail'尾巴）混淆而误解词义",
+      "sentence": "The thief was sent to **jail** for stealing a car.",
+      "options": {
+        "option": [
+          {
+            "definition": "监狱；看守所",
+            "iscorrect": true
+          },
+          {
+            "definition": "邮件",
+            "iscorrect": false
+          },
+          {
+            "definition": "尾巴",
+            "iscorrect": false
+          },
+          {
+            "definition": "珠宝",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

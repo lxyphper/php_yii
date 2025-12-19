@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "exosphere",
+      "error_analysis": "中国学生易因“ex-”（外）和“sphere”（层）的词根联想将“exosphere”误判为“外层空间”，或因形近“atmosphere”（大气层）混淆两者范围。",
+      "sentence": "Above the thermosphere lies the **exosphere**, where gas molecules are so sparse they rarely collide.",
+      "options": {
+        "option": [
+          {
+            "definition": "大气层",
+            "iscorrect": false
+          },
+          {
+            "definition": "外层空间",
+            "iscorrect": false
+          },
+          {
+            "definition": "散逸层（大气层的最外层）",
+            "iscorrect": true
+          },
+          {
+            "definition": "电离层",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

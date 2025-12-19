@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to prohibit",
+      "error_analysis": "中国学生易因形近词（如promote/protect）或词根误解（如将hibit与展示关联）而误判“禁止”的核心义",
+      "sentence": "The school rules **prohibit** students from using mobile phones during class.",
+      "options": {
+        "option": [
+          {
+            "definition": "促进",
+            "iscorrect": false
+          },
+          {
+            "definition": "保护",
+            "iscorrect": false
+          },
+          {
+            "definition": "展示",
+            "iscorrect": false
+          },
+          {
+            "definition": "禁止",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to chat",
+      "error_analysis": "学生易因形近词\"catch\"（抓住）的拼写相似性，将\"to chat\"误判为\"抓住\"。",
+      "sentence": "My friends and I like to **chat** about our favorite movies over coffee on weekends.",
+      "options": {
+        "option": [
+          {
+            "definition": "聊天；闲谈",
+            "iscorrect": true
+          },
+          {
+            "definition": "抓住；接住",
+            "iscorrect": false
+          },
+          {
+            "definition": "图表；海图",
+            "iscorrect": false
+          },
+          {
+            "definition": "检查；核对",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

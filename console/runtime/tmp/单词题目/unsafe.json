@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unsafe",
+      "error_analysis": "学生易因形近词`unsure`（不确定的）或混淆`safe`与`save`（节省）而误判`unsafe`为“不确定的”或“不节省的”。",
+      "sentence": "The sign says it's **unsafe** to swim in this river because of strong currents.",
+      "options": {
+        "option": [
+          {
+            "definition": "不确定的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不节省的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不安全的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不舒服的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

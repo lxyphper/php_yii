@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "understandable",
+      "error_analysis": "将“understandable”（指事物可被理解）误理解为“体谅的/善于理解的”（understanding，指人）或“被理解的”（understood，表完成状态）",
+      "sentence": "After waiting for two hours in the rain, her frustration was totally **understandable**.",
+      "options": {
+        "option": [
+          {
+            "definition": "可理解的",
+            "iscorrect": true
+          },
+          {
+            "definition": "体谅的",
+            "iscorrect": false
+          },
+          {
+            "definition": "被理解的",
+            "iscorrect": false
+          },
+          {
+            "definition": "正在理解的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to nudge",
+      "error_analysis": "学生易将“nudge”与形近词“nod”（点头）混淆，或误理解为“用力推”。",
+      "sentence": "When I started dozing off in class, my deskmate **nudged** me with her elbow to wake me up.",
+      "options": {
+        "option": [
+          {
+            "definition": "轻推（以引起注意）",
+            "iscorrect": true
+          },
+          {
+            "definition": "点头",
+            "iscorrect": false
+          },
+          {
+            "definition": "用力推",
+            "iscorrect": false
+          },
+          {
+            "definition": "移动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

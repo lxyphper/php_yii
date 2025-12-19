@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "happily",
+      "error_analysis": "学生易因\"happily\"与\"happen\"（发生）形近，或\"hap\"词根的字面误导，将其误解为\"碰巧地\"或\"幸运地\"。",
+      "sentence": "The children played **happily** in the park all afternoon.",
+      "options": {
+        "option": [
+          {
+            "definition": "快乐地；愉快地",
+            "iscorrect": true
+          },
+          {
+            "definition": "碰巧地；偶然地",
+            "iscorrect": false
+          },
+          {
+            "definition": "幸运地；幸好",
+            "iscorrect": false
+          },
+          {
+            "definition": "沉重地；猛烈地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

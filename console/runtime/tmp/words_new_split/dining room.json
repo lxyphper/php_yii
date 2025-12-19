@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "diningroom",
+      "dinning room",
+      "dining rrom",
+      "dinningroom"
+    ],
+    "correct_chunks": [
+      "din",
+      "ing ",
+      "room"
+    ],
+    "distractor_chunks": [
+      "dinning ",
+      "diningroom",
+      "rrom",
+      "ning "
+    ]
+  },
+  0
+]

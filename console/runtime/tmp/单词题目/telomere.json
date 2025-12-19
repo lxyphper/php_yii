@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "telomere",
+      "error_analysis": "学生易因形近词“telephone”的“tele-”前缀或“mere”（仅仅）的词义，错误联想为“电话部件”或“微小结构”。",
+      "sentence": "Scientists have found that the length of **telomeres** at the ends of chromosomes decreases as cells divide, which is closely linked to the aging process.",
+      "options": {
+        "option": [
+          {
+            "definition": "染色体末端的端粒结构",
+            "iscorrect": true
+          },
+          {
+            "definition": "电话的核心功能部件",
+            "iscorrect": false
+          },
+          {
+            "definition": "微小的无意义结构",
+            "iscorrect": false
+          },
+          {
+            "definition": "远程信号传感器",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

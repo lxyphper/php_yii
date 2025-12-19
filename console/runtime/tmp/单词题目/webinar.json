@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "webinar",
+      "error_analysis": "学生易因“web”与“website”（网站）形近混淆，或因拆分“web+inar”过度直译为“网络活动”",
+      "sentence": "Our company will host a **webinar** next week to introduce the new product to global clients.",
+      "options": {
+        "option": [
+          {
+            "definition": "网站",
+            "iscorrect": false
+          },
+          {
+            "definition": "网络活动",
+            "iscorrect": false
+          },
+          {
+            "definition": "线下研讨会",
+            "iscorrect": false
+          },
+          {
+            "definition": "网络研讨会",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

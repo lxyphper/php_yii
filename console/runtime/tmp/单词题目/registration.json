@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "registration",
+      "error_analysis": "易混淆形近词regulation（规则），或误将词根re-+gist理解为“重新总结”",
+      "sentence": "You need to fill out the **registration** form online before the deadline to join the workshop.",
+      "options": {
+        "option": [
+          {
+            "definition": "登记；注册",
+            "iscorrect": true
+          },
+          {
+            "definition": "规则；规章",
+            "iscorrect": false
+          },
+          {
+            "definition": "重新总结；概括",
+            "iscorrect": false
+          },
+          {
+            "definition": "注册费；登记费",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "solo",
+      "error_analysis": "中国学生易因形近词\"soul\"（灵魂）混淆，或拆分为\"so+lo\"误猜为\"如此低的\"。",
+      "sentence": "The singer performed a **solo** at the end of the show, and everyone stood up to clap.",
+      "options": {
+        "option": [
+          {
+            "definition": "单独的；独奏（的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "灵魂",
+            "iscorrect": false
+          },
+          {
+            "definition": "如此低的",
+            "iscorrect": false
+          },
+          {
+            "definition": "固体的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to snooze",
+      "error_analysis": "中国学生易因形近词（如snore/sneeze）混淆，将“to snooze”误判为“打鼾”或“打喷嚏”。",
+      "sentence": "I decided to **snooze** for 10 minutes before starting my homework, but I ended up sleeping for an hour.",
+      "options": {
+        "option": [
+          {
+            "definition": "打盹；小睡",
+            "iscorrect": true
+          },
+          {
+            "definition": "打鼾",
+            "iscorrect": false
+          },
+          {
+            "definition": "打喷嚏",
+            "iscorrect": false
+          },
+          {
+            "definition": "吃零食",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

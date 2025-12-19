@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to govern",
+      "error_analysis": "中国学生易因“govern”与“guard”（保护）形近而误判，或因词根误解将其视为“统治”而非“管理事务”",
+      "sentence": "The new policy will **govern** how companies handle customer data.",
+      "options": {
+        "option": [
+          {
+            "definition": "保护",
+            "iscorrect": false
+          },
+          {
+            "definition": "聚集",
+            "iscorrect": false
+          },
+          {
+            "definition": "治理；管理",
+            "iscorrect": true
+          },
+          {
+            "definition": "指导",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

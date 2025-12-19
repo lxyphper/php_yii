@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "shrine",
+      "error_analysis": "形近词\"shine\"(发光)导致学生误将\"shrine\"理解为\"发光的物体\"或\"光芒\"",
+      "sentence": "Many pilgrims travel to the ancient **shrine** in the mountains to pray for good fortune.",
+      "options": {
+        "option": [
+          {
+            "definition": "圣地；神殿",
+            "iscorrect": true
+          },
+          {
+            "definition": "发光的物体；光芒",
+            "iscorrect": false
+          },
+          {
+            "definition": "尖锐的声音",
+            "iscorrect": false
+          },
+          {
+            "definition": "小房间；密室",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

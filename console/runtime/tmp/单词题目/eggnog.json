@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "eggnog",
+      "error_analysis": "学生因\"egg\"（鸡蛋）的字面提示，易错误联想为鸡蛋制成的固体食物（如鸡蛋羹），而非实际的蛋奶酒（液体饮品）",
+      "sentence": "During Christmas, my family always serves **eggnog** with cinnamon on top—it’s a sweet, creamy drink that warms us up.",
+      "options": {
+        "option": [
+          {
+            "definition": "蛋奶酒（一种含鸡蛋、牛奶和酒的甜饮品）",
+            "iscorrect": true
+          },
+          {
+            "definition": "鸡蛋羹（用鸡蛋蒸制的固体食物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "蛋卷（用鸡蛋煎制的卷状食物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "茄子（一种紫色的蔬菜，英文为eggplant）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

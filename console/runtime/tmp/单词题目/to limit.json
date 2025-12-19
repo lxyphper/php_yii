@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to limit",
+      "error_analysis": "学生易因\"limit\"与\"lift\"（提升）、\"list\"（列出）等形近词混淆，或误将\"限制\"理解为\"设置边界\"（词根字面误导）",
+      "sentence": "The school decided to **limit** the number of students in each class to 25.",
+      "options": {
+        "option": [
+          {
+            "definition": "限制；限定",
+            "iscorrect": true
+          },
+          {
+            "definition": "提升；举起",
+            "iscorrect": false
+          },
+          {
+            "definition": "设置边界；划定界限",
+            "iscorrect": false
+          },
+          {
+            "definition": "列出；列举",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

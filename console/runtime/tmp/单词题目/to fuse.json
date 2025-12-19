@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to fuse",
+      "error_analysis": "易因形近词\"use\"误联想为\"使用\"，或因名词\"保险丝\"的字面义误理解为\"熔断\"",
+      "sentence": "The chef decided to **fuse** traditional Chinese spices with Western cooking techniques to create a new dish.",
+      "options": {
+        "option": [
+          {
+            "definition": "融合；合并",
+            "iscorrect": true
+          },
+          {
+            "definition": "使用；利用",
+            "iscorrect": false
+          },
+          {
+            "definition": "熔断；使保险丝断开",
+            "iscorrect": false
+          },
+          {
+            "definition": "混淆；使困惑",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

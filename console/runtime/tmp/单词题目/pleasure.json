@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pleasure",
+      "error_analysis": "中国学生易因形近词\"pressure\"（压力）产生错误联想，或误将\"pleasure\"与\"plea\"（请求）的词根混淆。",
+      "sentence": "It gives me great **pleasure** to announce that our team has won the championship.",
+      "options": {
+        "option": [
+          {
+            "definition": "压力；压迫",
+            "iscorrect": false
+          },
+          {
+            "definition": "快乐；愉悦",
+            "iscorrect": true
+          },
+          {
+            "definition": "请求；恳求",
+            "iscorrect": false
+          },
+          {
+            "definition": "努力；尝试",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

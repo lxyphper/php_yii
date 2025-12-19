@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "writer",
+      "error_analysis": "中国学生易因形近词“waiter”（服务员）混淆，或因词根“write”过度联想为“书写工具”（如钢笔）",
+      "sentence": "J.K. Rowling is a famous **writer** who created the Harry Potter series.",
+      "options": {
+        "option": [
+          {
+            "definition": "作者",
+            "iscorrect": true
+          },
+          {
+            "definition": "服务员",
+            "iscorrect": false
+          },
+          {
+            "definition": "书写工具（如钢笔）",
+            "iscorrect": false
+          },
+          {
+            "definition": "读者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

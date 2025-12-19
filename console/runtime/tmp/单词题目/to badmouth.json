@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to badmouth",
+      "error_analysis": "学生易因形近词“badger”（纠缠）或“bad+mouth”字面结构，误解为“纠缠”或“坏的嘴巴”，而非“说某人坏话”。",
+      "sentence": "She was upset because her colleague kept trying to **badmouth** her to the boss.",
+      "options": {
+        "option": [
+          {
+            "definition": "说某人的坏话；诽谤",
+            "iscorrect": true
+          },
+          {
+            "definition": "纠缠；烦扰",
+            "iscorrect": false
+          },
+          {
+            "definition": "坏的嘴巴（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "品尝坏的食物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

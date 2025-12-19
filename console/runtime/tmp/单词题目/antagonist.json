@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "antagonist",
+      "error_analysis": "学生易因词根“anti-”（反）+“agon”（斗争）误判为“反抗者”，或与形近词“protagonist”（主角）混淆",
+      "sentence": "In the movie *The Dark Knight*, the Joker is the main **antagonist** who constantly opposes Batman.",
+      "options": {
+        "option": [
+          {
+            "definition": "（故事中的）反派角色",
+            "iscorrect": true
+          },
+          {
+            "definition": "反抗者",
+            "iscorrect": false
+          },
+          {
+            "definition": "主角",
+            "iscorrect": false
+          },
+          {
+            "definition": "敌对状态",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

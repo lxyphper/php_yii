@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to mushroom",
+      "error_analysis": "学生易将动词\"to mushroom\"字面理解为与\"蘑菇\"相关的动作（如采蘑菇），而非其核心义\"快速增长/扩散\"",
+      "sentence": "The popularity of electric vehicles has **mushroomed** since the government introduced subsidies to promote green energy.",
+      "options": {
+        "option": [
+          {
+            "definition": "采蘑菇（to pick mushrooms）",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速增长/扩散（to grow or spread rapidly）",
+            "iscorrect": true
+          },
+          {
+            "definition": "变成糊状（to become mushy）",
+            "iscorrect": false
+          },
+          {
+            "definition": "缓慢减少（to decrease slowly）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

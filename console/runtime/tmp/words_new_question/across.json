@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "across",
+      "error_analysis": "学生易因形近词“cross”（动词“穿过”）混淆“across”的介词词性及词义，或误将其理解为“交叉”（名词）。",
+      "sentence": "She walked **across** the park to meet her friend at the café.",
+      "options": {
+        "option": [
+          {
+            "definition": "穿过；横过（介词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "穿过（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "交叉（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "在...内部（介词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

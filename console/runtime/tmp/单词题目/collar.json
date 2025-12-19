@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "collar",
+      "error_analysis": "学生易因形近词“color”（颜色）或混淆“col-”词根（如“柱子”），将“collar”误判为“颜色”或“柱子”。",
+      "sentence": "She adjusted the **collar** of her coat to keep out the wind.",
+      "options": {
+        "option": [
+          {
+            "definition": "衣领；项圈",
+            "iscorrect": true
+          },
+          {
+            "definition": "颜色",
+            "iscorrect": false
+          },
+          {
+            "definition": "柱子",
+            "iscorrect": false
+          },
+          {
+            "definition": "打电话的人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

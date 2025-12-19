@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "webcam",
+      "error_analysis": "学生易因“cam”的形近词（如“camp”）或词根误释（如“凸轮”），将“webcam”错解为非摄像头含义",
+      "sentence": "Please turn on your **webcam** so I can see your face during the video call.",
+      "options": {
+        "option": [
+          {
+            "definition": "网络摄像头",
+            "iscorrect": true
+          },
+          {
+            "definition": "网络营地",
+            "iscorrect": false
+          },
+          {
+            "definition": "网络凸轮",
+            "iscorrect": false
+          },
+          {
+            "definition": "网络广播",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "common_misspellings": [
+      "front end",
+      "front-end",
+      "frantend",
+      "frontand",
+      "fronend",
+      "frontent"
+    ],
+    "correct_chunks": [
+      "front",
+      "end"
+    ],
+    "distractor_chunks": [
+      "front ",
+      " end",
+      "front-",
+      "frant",
+      "and",
+      "fron",
+      "ent"
+    ]
+  },
+  0
+]

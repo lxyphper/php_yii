@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to trick",
+      "error_analysis": "易受形近词“track”（追踪）及名词“trick”（技巧）误导，误将动词“to trick”理解为非“欺骗”义。",
+      "sentence": "The con artist managed to **trick** the elderly woman into giving him her life savings.",
+      "options": {
+        "option": [
+          {
+            "definition": "欺骗；哄骗",
+            "iscorrect": true
+          },
+          {
+            "definition": "追踪；跟踪",
+            "iscorrect": false
+          },
+          {
+            "definition": "款待；招待",
+            "iscorrect": false
+          },
+          {
+            "definition": "耍技巧；玩把戏",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

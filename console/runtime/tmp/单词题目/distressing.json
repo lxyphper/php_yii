@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "distressing",
+      "error_analysis": "中国学生易混淆形近词“distracting”（分心的），或因“stress”（压力）误解为“有压力的”。",
+      "sentence": "Watching the poor child cry in the rain was **distressing** for everyone nearby.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人痛苦的；令人不安的",
+            "iscorrect": true
+          },
+          {
+            "definition": "分心的；分散注意力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有压力的；紧张的",
+            "iscorrect": false
+          },
+          {
+            "definition": "（人）痛苦的；苦恼的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "white-hot",
+      "error_analysis": "学生易将\"white-hot\"直接字面翻译为\"白热的\"（物理意义），或混淆为形近词\"white-collar\"（白领的）",
+      "sentence": "The competition for the new smartphone became **white-hot** as thousands of fans waited in line for hours to buy it.",
+      "options": {
+        "option": [
+          {
+            "definition": "非常激烈的；极热门的（如竞争或趋势）",
+            "iscorrect": true
+          },
+          {
+            "definition": "物理上处于白热状态的（如高温金属）",
+            "iscorrect": false
+          },
+          {
+            "definition": "白色且非常炎热的（如夏日的沙滩）",
+            "iscorrect": false
+          },
+          {
+            "definition": "白领的；从事脑力劳动的（如办公室工作）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

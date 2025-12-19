@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "amazing",
+      "error_analysis": "学生易因形近词“amusing”（有趣的）混淆，或误将“amazing”简化为“非常好的”而忽略“令人惊讶”的核心含义。",
+      "sentence": "The magician’s trick of making the elephant disappear was absolutely **amazing**—everyone in the audience gasped.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人惊讶的；了不起的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有趣的；好笑的",
+            "iscorrect": false
+          },
+          {
+            "definition": "极好的；优秀的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人困惑的；难解的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

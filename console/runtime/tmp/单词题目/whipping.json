@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "whipping",
+      "error_analysis": "中国学生易因形近词\"wiping\"(擦拭)或词根\"whip\"(鞭子)的误导，将\"whipping\"误判为\"擦拭\"或\"鞭子\"。",
+      "sentence": "The naughty child received a **whipping** after breaking the vase.",
+      "options": {
+        "option": [
+          {
+            "definition": "擦拭",
+            "iscorrect": false
+          },
+          {
+            "definition": "鞭子",
+            "iscorrect": false
+          },
+          {
+            "definition": "（作为惩罚的）鞭打",
+            "iscorrect": true
+          },
+          {
+            "definition": "低语",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

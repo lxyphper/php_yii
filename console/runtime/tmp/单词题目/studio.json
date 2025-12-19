@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "studio",
+      "error_analysis": "因形近词\"study\"（学习）误解为\"学习室\"，或词根误导为\"研究室\"",
+      "sentence": "The photographer spent the whole afternoon editing photos in his **studio**.",
+      "options": {
+        "option": [
+          {
+            "definition": "工作室；演播室",
+            "iscorrect": true
+          },
+          {
+            "definition": "学习室",
+            "iscorrect": false
+          },
+          {
+            "definition": "研究室",
+            "iscorrect": false
+          },
+          {
+            "definition": "教室",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

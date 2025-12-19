@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "icy-cold",
+      "error_analysis": "学生易因字面拆分“icy”（冰的）和“cold”（冷的），误将“icy-cold”理解为“含有冰的冷”而非“极度冰冷的”",
+      "sentence": "The swimmer jumped into the lake and immediately felt the **icy-cold** water sting his skin.",
+      "options": {
+        "option": [
+          {
+            "definition": "极度冰冷的（像冰一样）",
+            "iscorrect": true
+          },
+          {
+            "definition": "含有冰的冷",
+            "iscorrect": false
+          },
+          {
+            "definition": "有点冷的",
+            "iscorrect": false
+          },
+          {
+            "definition": "冰做的冷",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

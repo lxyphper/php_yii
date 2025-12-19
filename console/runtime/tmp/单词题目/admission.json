@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "admission",
+      "error_analysis": "学生易因形近词“emission”（排放）混淆词义，或因词根“mit”（送）过度直译将“admission”误解为“发送的物品”。",
+      "sentence": "After passing the exam, she received an **admission** letter from her dream college.",
+      "options": {
+        "option": [
+          {
+            "definition": "录取；入场权",
+            "iscorrect": true
+          },
+          {
+            "definition": "排放；释放",
+            "iscorrect": false
+          },
+          {
+            "definition": "发送的物品；传递的信息",
+            "iscorrect": false
+          },
+          {
+            "definition": "允许；许可",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "silent movie",
+      "error_analysis": "学生易将\"silent movie\"直译为\"沉默的电影\"（误解为剧情压抑），或因\"movie\"与\"move\"形近而理解为\"无声的移动\"",
+      "sentence": "Charlie Chaplin became a global star with his performances in **silent movies**, where humor and emotion were expressed through body language and title cards instead of voice.",
+      "options": {
+        "option": [
+          {
+            "definition": "无声电影（早期没有同步声音，通过肢体语言和字幕叙事的电影）",
+            "iscorrect": true
+          },
+          {
+            "definition": "沉默的电影（剧情沉闷、没有人物对话的电影）",
+            "iscorrect": false
+          },
+          {
+            "definition": "无声的移动（没有声音的动作或移动过程）",
+            "iscorrect": false
+          },
+          {
+            "definition": "安静的电影（氛围平和、没有吵闹情节的电影）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

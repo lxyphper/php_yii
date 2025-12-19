@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "passive",
+      "error_analysis": "学生易因形近词“pass”（通过）产生“可通过的”的错误联想，或因引申义误判为“消极的”，而忽略其核心义“被动的”",
+      "sentence": "In English grammar, the **passive** voice is used when the subject receives the action of the verb.",
+      "options": {
+        "option": [
+          {
+            "definition": "被动的",
+            "iscorrect": true
+          },
+          {
+            "definition": "可通过的",
+            "iscorrect": false
+          },
+          {
+            "definition": "消极的",
+            "iscorrect": false
+          },
+          {
+            "definition": "过去的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

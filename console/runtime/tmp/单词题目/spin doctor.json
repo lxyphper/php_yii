@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "spin doctor",
+      "error_analysis": "学生易因\"spin\"(旋转)和\"doctor\"(医生)的字面意思，将\"spin doctor\"误解为与旋转或医疗相关的职业（如旋转治疗师）。",
+      "sentence": "After the candidate's public gaffe, the campaign team hired a **spin doctor** to reshape the media narrative in their favor.",
+      "options": {
+        "option": [
+          {
+            "definition": "旋转治疗师（如治疗脊柱旋转问题的医生）",
+            "iscorrect": false
+          },
+          {
+            "definition": "研究旋转力学的博士",
+            "iscorrect": false
+          },
+          {
+            "definition": "（尤指为政治家）操纵舆论的公关专家",
+            "iscorrect": true
+          },
+          {
+            "definition": "编造医疗案例的记者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

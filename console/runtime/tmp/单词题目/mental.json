@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mental",
+      "error_analysis": "学生易因形近词“metal”（金属）的干扰，将“mental”误判为“金属的”",
+      "sentence": "**Mental** fatigue can be just as exhausting as physical fatigue.",
+      "options": {
+        "option": [
+          {
+            "definition": "精神的；心理的",
+            "iscorrect": true
+          },
+          {
+            "definition": "金属的",
+            "iscorrect": false
+          },
+          {
+            "definition": "物质的",
+            "iscorrect": false
+          },
+          {
+            "definition": "方法的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

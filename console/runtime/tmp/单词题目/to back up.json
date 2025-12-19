@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to back up",
+      "error_analysis": "学生易因“back”（后面）和“up”（向上）的字面意思，将“to back up”误译为“向后移动”而非其核心含义“支持（用证据）”。",
+      "sentence": "The scientist **backed up** his theory with new experimental data to persuade the jury.",
+      "options": {
+        "option": [
+          {
+            "definition": "向后移动",
+            "iscorrect": false
+          },
+          {
+            "definition": "支持（用证据或信息）",
+            "iscorrect": true
+          },
+          {
+            "definition": "退出（协议或计划）",
+            "iscorrect": false
+          },
+          {
+            "definition": "修改（内容或方案）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

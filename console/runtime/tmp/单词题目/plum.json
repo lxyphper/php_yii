@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "plum",
+      "error_analysis": "学生易因形近词混淆，将“plum”误判为“plump”（丰满的）或“palm”（手掌）等含义。",
+      "sentence": "She picked a ripe **plum** from the tree and took a bite; it was sweet and juicy.",
+      "options": {
+        "option": [
+          {
+            "definition": "李子（一种甜美的水果）",
+            "iscorrect": true
+          },
+          {
+            "definition": "丰满的（形容体型圆润）",
+            "iscorrect": false
+          },
+          {
+            "definition": "手掌（人体手部的掌心部位）",
+            "iscorrect": false
+          },
+          {
+            "definition": "水管工（从事管道维修的职业）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to repair",
+      "error_analysis": "学生易因形近词\"repeat\"(重复)或词根\"pair\"(配对)产生错误联想，误将\"repair\"理解为\"重复\"或\"重新配对\"",
+      "sentence": "My bike broke down yesterday, so I need to **repair** it before going to school tomorrow.",
+      "options": {
+        "option": [
+          {
+            "definition": "修理；修复",
+            "iscorrect": true
+          },
+          {
+            "definition": "重复；复述",
+            "iscorrect": false
+          },
+          {
+            "definition": "配对；组合",
+            "iscorrect": false
+          },
+          {
+            "definition": "准备；筹备",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

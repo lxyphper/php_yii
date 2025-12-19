@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "erratically",
+      "error_analysis": "学生易因形近词erroneously（错误地）和词根err（错误）将erratically误解为“错误地”，而非正确义“不规则地”。",
+      "sentence": "The old clock's hands moved **erratically**, sometimes jumping forward and sometimes stopping altogether.",
+      "options": {
+        "option": [
+          {
+            "definition": "错误地",
+            "iscorrect": false
+          },
+          {
+            "definition": "不规则地",
+            "iscorrect": true
+          },
+          {
+            "definition": "随机地",
+            "iscorrect": false
+          },
+          {
+            "definition": "紧急地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "misdemeanor",
+      "error_analysis": "学生易因形近词“demeanor”（举止）将“misdemeanor”误判为“不良举止”，或因词根“mis-”（错误）误猜为“错误行为”，而未识别其“轻罪”的核心法律含义。",
+      "sentence": "Although the offense was minor, it was still classified as a **misdemeanor** under local law.",
+      "options": {
+        "option": [
+          {
+            "definition": "不良举止",
+            "iscorrect": false
+          },
+          {
+            "definition": "错误的行为",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻罪；不端行为",
+            "iscorrect": true
+          },
+          {
+            "definition": "严重的犯罪",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

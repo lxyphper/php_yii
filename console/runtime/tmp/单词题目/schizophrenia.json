@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "schizophrenia",
+      "error_analysis": "学生易因形近词\"sclerosis\"(硬化症)混淆，或因词根\"schizo-\"(分裂)误导为\"人格分裂症\"",
+      "sentence": "The patient was diagnosed with **schizophrenia** after showing symptoms like hallucinations and disorganized thinking.",
+      "options": {
+        "option": [
+          {
+            "definition": "精神分裂症",
+            "iscorrect": true
+          },
+          {
+            "definition": "硬化症",
+            "iscorrect": false
+          },
+          {
+            "definition": "人格分裂症",
+            "iscorrect": false
+          },
+          {
+            "definition": "神经官能症",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

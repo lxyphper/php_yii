@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "statue",
+      "error_analysis": "易与形近词\"status\"(地位;状态)混淆,或因\"stat-\"词根误联\"station\"(车站)",
+      "sentence": "The city square has a huge **statue** of the famous poet, which attracts many tourists every day.",
+      "options": {
+        "option": [
+          {
+            "definition": "地位；状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "雕像；塑像",
+            "iscorrect": true
+          },
+          {
+            "definition": "车站；站点",
+            "iscorrect": false
+          },
+          {
+            "definition": "国家；州",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

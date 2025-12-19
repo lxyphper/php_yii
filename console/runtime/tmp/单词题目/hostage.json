@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hostage",
+      "error_analysis": "将形近词“host”（主人/主持人）的含义误迁移至“hostage”，或通过词根“host”+后缀“age”错误推导为“主人的状态/时期”",
+      "sentence": "The criminals kept the banker as a **hostage** to demand $1 million from the government.",
+      "options": {
+        "option": [
+          {
+            "definition": "人质",
+            "iscorrect": true
+          },
+          {
+            "definition": "主人；主持人",
+            "iscorrect": false
+          },
+          {
+            "definition": "主人的年龄；主持时期",
+            "iscorrect": false
+          },
+          {
+            "definition": "客人；来访者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to plant",
+      "error_analysis": "学生易因形近词\"plan\"（计划）或名词\"plant\"（植物）的字面义，将动词\"to plant\"误理解为\"计划\"或\"植物\"",
+      "sentence": "My grandparents like to **plant** vegetables in their backyard every spring.",
+      "options": {
+        "option": [
+          {
+            "definition": "种植",
+            "iscorrect": true
+          },
+          {
+            "definition": "计划",
+            "iscorrect": false
+          },
+          {
+            "definition": "植物",
+            "iscorrect": false
+          },
+          {
+            "definition": "生长",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

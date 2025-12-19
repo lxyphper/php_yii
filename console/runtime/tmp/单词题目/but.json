@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "but",
+      "error_analysis": "学生易将介词用法的“but”（除了）误理解为其最常见的连词用法（但是）",
+      "sentence": "We invited everyone to the party **but** Tom.",
+      "options": {
+        "option": [
+          {
+            "definition": "除了",
+            "iscorrect": true
+          },
+          {
+            "definition": "但是",
+            "iscorrect": false
+          },
+          {
+            "definition": "放",
+            "iscorrect": false
+          },
+          {
+            "definition": "并且",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

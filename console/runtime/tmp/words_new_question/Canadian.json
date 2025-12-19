@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Canadian",
+      "error_analysis": "学生易因形近词\"canal\"(运河)或\"candle\"(蜡烛)的拼写干扰，将\"Canadian\"误判为\"运河的\"或\"蜡烛的\"",
+      "sentence": "She bought a **Canadian** maple syrup as a souvenir from her trip to Toronto.",
+      "options": {
+        "option": [
+          {
+            "definition": "运河的",
+            "iscorrect": false
+          },
+          {
+            "definition": "蜡烛的",
+            "iscorrect": false
+          },
+          {
+            "definition": "加拿大的；加拿大人的",
+            "iscorrect": true
+          },
+          {
+            "definition": "能的；可以的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

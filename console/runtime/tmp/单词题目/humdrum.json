@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "humdrum",
+      "error_analysis": "学生易因形近词“drum”（鼓）联想到“热闹的”，或因“hum”（嗡嗡声）与“drum”（鼓）的组合误以为是“吵闹的”，而忽略其核心义“单调乏味”。",
+      "sentence": "After years of working the same **humdrum** job, she decided to quit and travel the world.",
+      "options": {
+        "option": [
+          {
+            "definition": "单调乏味的",
+            "iscorrect": true
+          },
+          {
+            "definition": "热闹的，有节奏的",
+            "iscorrect": false
+          },
+          {
+            "definition": "嗡嗡作响的，吵闹的",
+            "iscorrect": false
+          },
+          {
+            "definition": "人类的，与人相关的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

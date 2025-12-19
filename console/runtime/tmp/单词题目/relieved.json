@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "relieved",
+      "error_analysis": "中国学生易将relieved与形近词related（有关联的）、released（被释放的）混淆，或因词根误判为“减轻的”，而非核心义“放心的”。",
+      "sentence": "After the doctor said her test results were normal, she felt **relieved**.",
+      "options": {
+        "option": [
+          {
+            "definition": "有关联的",
+            "iscorrect": false
+          },
+          {
+            "definition": "放心的；宽慰的",
+            "iscorrect": true
+          },
+          {
+            "definition": "被释放的",
+            "iscorrect": false
+          },
+          {
+            "definition": "减轻的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

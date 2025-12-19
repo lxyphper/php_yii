@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "noumenon",
+      "error_analysis": "学生易因形近词\"noun\"（名词）误判为\"名词性事物\"，或因词根\"nou-\"（类似\"know\"）错推为\"已知的知识对象\"，或与\"phenomenon\"（现象）混淆",
+      "sentence": "In Kant's philosophy, the **noumenon** is the thing-in-itself that exists independently of human perception, distinct from the observable phenomenon we experience through our senses.",
+      "options": {
+        "option": [
+          {
+            "definition": "名词性事物；名词相关的实体",
+            "iscorrect": false
+          },
+          {
+            "definition": "已知的知识对象；可被认知的事物",
+            "iscorrect": false
+          },
+          {
+            "definition": "（哲学中的）本体；自在之物",
+            "iscorrect": true
+          },
+          {
+            "definition": "可观察的现象；感官体验到的事物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to flutter {one's} eyelashes",
+      "error_analysis": "学生易因字面直译“扇动睫毛”忽略其讨好/挑逗的隐含义，或因形近词“flatter”（奉承）干扰而误解。",
+      "sentence": "At the party, she **fluttered her eyelashes** at the waiter to get a free drink.",
+      "options": {
+        "option": [
+          {
+            "definition": "（尤指为了讨好或吸引注意而）眨眼睛",
+            "iscorrect": true
+          },
+          {
+            "definition": "快速扇动睫毛",
+            "iscorrect": false
+          },
+          {
+            "definition": "奉承某人",
+            "iscorrect": false
+          },
+          {
+            "definition": "用力眨眼睛",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

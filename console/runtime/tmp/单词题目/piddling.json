@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "piddling",
+      "error_analysis": "学生易因形近词“paddle”（划桨）或动词“piddle”（闲逛）误导，误将“piddling”理解为“划桨的”或“闲逛的”。",
+      "sentence": "The company refused to invest in the project because they thought the potential profits were **piddling**.",
+      "options": {
+        "option": [
+          {
+            "definition": "划桨的",
+            "iscorrect": false
+          },
+          {
+            "definition": "闲逛的",
+            "iscorrect": false
+          },
+          {
+            "definition": "微不足道的",
+            "iscorrect": true
+          },
+          {
+            "definition": "浪费的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to swim",
+      "error_analysis": "学生易将“swim”与形近词“swing”（摇摆）混淆，或误将其理解为“漂浮”（字面误导）",
+      "sentence": "On hot summer days, many kids love to **swim** in the community pool.",
+      "options": {
+        "option": [
+          {
+            "definition": "游泳",
+            "iscorrect": true
+          },
+          {
+            "definition": "摇摆",
+            "iscorrect": false
+          },
+          {
+            "definition": "漂浮",
+            "iscorrect": false
+          },
+          {
+            "definition": "下沉",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

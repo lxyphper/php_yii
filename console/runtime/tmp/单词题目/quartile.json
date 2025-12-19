@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "quartile",
+      "error_analysis": "学生易因形近词\"quarter\"（四分之一）或词根\"quart-\"（四）误导，将\"quartile\"误判为\"四分之一\"或\"四部分的\"。",
+      "sentence": "The top 25% of students scored above the third **quartile** in the math exam.",
+      "options": {
+        "option": [
+          {
+            "definition": "四分之一",
+            "iscorrect": false
+          },
+          {
+            "definition": "四部分的",
+            "iscorrect": false
+          },
+          {
+            "definition": "（统计中的）四分位数",
+            "iscorrect": true
+          },
+          {
+            "definition": "石英的一种",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

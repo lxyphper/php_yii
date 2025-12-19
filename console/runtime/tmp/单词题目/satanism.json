@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "satanism",
+      "error_analysis": "学生易将satanism误理解为“撒旦的邪恶行为”（satan负面联想+ -ism泛化）或“撒旦的特性”（混淆satanic名词形式）",
+      "sentence": "Many people misunderstand **satanism**, thinking it's just evil acts instead of a religious belief system.",
+      "options": {
+        "option": [
+          {
+            "definition": "撒旦教；撒旦崇拜",
+            "iscorrect": true
+          },
+          {
+            "definition": "撒旦的邪恶行为",
+            "iscorrect": false
+          },
+          {
+            "definition": "撒旦的特性或本质",
+            "iscorrect": false
+          },
+          {
+            "definition": "对撒旦的恐惧",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

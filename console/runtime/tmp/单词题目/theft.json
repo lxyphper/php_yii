@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "theft",
+      "error_analysis": "因形近词“thief”（小偷）的影响，易将“theft”误理解为“小偷”（身份）而非“偷窃行为”",
+      "sentence": "The police are investigating a case of **theft** at the local supermarket.",
+      "options": {
+        "option": [
+          {
+            "definition": "偷窃（行为）",
+            "iscorrect": true
+          },
+          {
+            "definition": "小偷",
+            "iscorrect": false
+          },
+          {
+            "definition": "测试",
+            "iscorrect": false
+          },
+          {
+            "definition": "抢劫（行为）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

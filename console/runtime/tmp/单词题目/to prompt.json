@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to prompt",
+      "error_analysis": "中国学生易因形近词将\"to prompt\"误判为\"承诺\"(promise)或\"促进\"(promote)。",
+      "sentence": "The sudden rain **prompted** us to take shelter immediately.",
+      "options": {
+        "option": [
+          {
+            "definition": "承诺",
+            "iscorrect": false
+          },
+          {
+            "definition": "促进",
+            "iscorrect": false
+          },
+          {
+            "definition": "提醒",
+            "iscorrect": false
+          },
+          {
+            "definition": "促使；提示",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

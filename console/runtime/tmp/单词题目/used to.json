@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "used to",
+      "error_analysis": "混淆“used to”（过去常常做某事）与“be used to doing”（习惯于做某事）或“be used to do”（被用来做某事）",
+      "sentence": "When I was a kid, I **used to** ride my bike to school every day, but now I take the bus.",
+      "options": {
+        "option": [
+          {
+            "definition": "过去常常做某事",
+            "iscorrect": true
+          },
+          {
+            "definition": "被用来做某事",
+            "iscorrect": false
+          },
+          {
+            "definition": "习惯于做某事",
+            "iscorrect": false
+          },
+          {
+            "definition": "过去使用某物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

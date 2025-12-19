@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to race",
+      "error_analysis": "学生易因形近词“rice”（米饭）的干扰或名词“种族”的字面误导，将动词“to race”误理解为“吃米饭”或“种族歧视”。",
+      "sentence": "The children decided to **race** to the park to get the best spot on the bench.",
+      "options": {
+        "option": [
+          {
+            "definition": "吃米饭",
+            "iscorrect": false
+          },
+          {
+            "definition": "（动词）赛跑；快速移动",
+            "iscorrect": true
+          },
+          {
+            "definition": "种族歧视",
+            "iscorrect": false
+          },
+          {
+            "definition": "提高；举起",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

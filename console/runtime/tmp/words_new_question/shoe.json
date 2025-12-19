@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "shoe",
+      "error_analysis": "学生易将“shoe”与形近词“show”（展示）混淆，误理解为“展示”。",
+      "sentence": "She put on her new **shoes** and went out to play.",
+      "options": {
+        "option": [
+          {
+            "definition": "鞋",
+            "iscorrect": true
+          },
+          {
+            "definition": "展示",
+            "iscorrect": false
+          },
+          {
+            "definition": "射击",
+            "iscorrect": false
+          },
+          {
+            "definition": "商店",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

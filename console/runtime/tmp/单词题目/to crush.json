@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to crush",
+      "error_analysis": "学生易将“to crush”（压碎）与形近词“crash”（碰撞）混淆，或误猜为“破裂”。",
+      "sentence": "She used a rolling pin to **crush** the cookies into crumbs for the pie crust.",
+      "options": {
+        "option": [
+          {
+            "definition": "压碎；碾碎",
+            "iscorrect": true
+          },
+          {
+            "definition": "碰撞；崩溃",
+            "iscorrect": false
+          },
+          {
+            "definition": "破裂；裂开",
+            "iscorrect": false
+          },
+          {
+            "definition": "切碎；剁碎",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "x-axis",
+      "error_analysis": "学生易因\"axis\"与\"ax\"（斧头）形近误判为工具类含义，或因\"x\"的字面联想错误推断为\"交叉轴\"。",
+      "sentence": "In the graph, the **x-axis** represents the number of months, and the y-axis displays the total sales.",
+      "options": {
+        "option": [
+          {
+            "definition": "x轴（数学坐标系中的水平轴）",
+            "iscorrect": true
+          },
+          {
+            "definition": "x形的斧头",
+            "iscorrect": false
+          },
+          {
+            "definition": "交叉轴",
+            "iscorrect": false
+          },
+          {
+            "definition": "未知轴",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

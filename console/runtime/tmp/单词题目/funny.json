@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "funny",
+      "error_analysis": "学生易因形近词\"funky\"(时髦的)或词根\"fun\"(乐趣)误导，误将\"funny\"理解为\"时髦的\"或\"有乐趣的\"，而非\"滑稽的\"。",
+      "sentence": "The comedian told a **funny** joke that made everyone laugh out loud.",
+      "options": {
+        "option": [
+          {
+            "definition": "滑稽的；好笑的",
+            "iscorrect": true
+          },
+          {
+            "definition": "时髦的；新潮的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有乐趣的；令人愉快的",
+            "iscorrect": false
+          },
+          {
+            "definition": "奇怪的；不寻常的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

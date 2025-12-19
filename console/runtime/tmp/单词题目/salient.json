@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "salient",
+      "error_analysis": "中国学生易因形近词“silent”（沉默的）误判，或因“sal-”联想到“salt”（盐）而猜成“咸的”。",
+      "sentence": "The most **salient** feature of the new museum is its unique glass roof, which attracts thousands of visitors every year.",
+      "options": {
+        "option": [
+          {
+            "definition": "沉默的；无声的",
+            "iscorrect": false
+          },
+          {
+            "definition": "咸的；含盐的",
+            "iscorrect": false
+          },
+          {
+            "definition": "显著的；突出的",
+            "iscorrect": true
+          },
+          {
+            "definition": "航行的；乘船的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

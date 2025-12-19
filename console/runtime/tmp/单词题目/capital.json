@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "capital",
+      "error_analysis": "易混淆形近词“captain”（船长），或误将经济语境中的“capital”仍理解为“首都”。",
+      "sentence": "To start their new café, they needed to raise enough **capital** to cover rent and equipment.",
+      "options": {
+        "option": [
+          {
+            "definition": "船长",
+            "iscorrect": false
+          },
+          {
+            "definition": "首都",
+            "iscorrect": false
+          },
+          {
+            "definition": "大写字母",
+            "iscorrect": false
+          },
+          {
+            "definition": "资本",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

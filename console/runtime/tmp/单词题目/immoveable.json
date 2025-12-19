@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "immoveable",
+      "error_analysis": "学生易因形近词\"immediate\"(立即的)混淆，或因\"move\"的\"感动\"义误解为\"不感动的\"",
+      "sentence": "The ancient stone statue in the square was so well anchored that it remained **immoveable** despite the strong winds.",
+      "options": {
+        "option": [
+          {
+            "definition": "立即的；马上的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不感动的；无动于衷的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不能移动的；固定的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不谦虚的；放肆的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

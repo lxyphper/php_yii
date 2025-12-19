@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lung",
+      "error_analysis": "中国学生易因形近词\"long\"（长的）或\"lunch\"（午餐）混淆\"lung\"的词义",
+      "sentence": "Smoking is harmful to your **lungs** and can cause serious health problems.",
+      "options": {
+        "option": [
+          {
+            "definition": "长的",
+            "iscorrect": false
+          },
+          {
+            "definition": "肺",
+            "iscorrect": true
+          },
+          {
+            "definition": "午餐",
+            "iscorrect": false
+          },
+          {
+            "definition": "猛冲",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rapture",
+      "error_analysis": "学生易因形近词“rupture”（破裂）混淆，或词根“rapere”（夺取）误导，误将“rapture”理解为“破裂”或“夺取”",
+      "sentence": "When the singer hit the high note, the audience erupted in **rapture**, cheering and clapping wildly.",
+      "options": {
+        "option": [
+          {
+            "definition": "破裂；决裂",
+            "iscorrect": false
+          },
+          {
+            "definition": "夺取；捕获",
+            "iscorrect": false
+          },
+          {
+            "definition": "极度喜悦；狂喜",
+            "iscorrect": true
+          },
+          {
+            "definition": "困惑；迷茫",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

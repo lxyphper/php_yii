@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to magnify",
+      "error_analysis": "学生易因形近词“magnificent”（壮丽的）将“magnify”误解为“使壮丽”，或因词根“magn-”（大）误判为“使变大”。",
+      "sentence": "Using a microscope, we can **magnify** the tiny cells to see their structure clearly.",
+      "options": {
+        "option": [
+          {
+            "definition": "放大（使某物看起来更大）；加剧（如问题）",
+            "iscorrect": true
+          },
+          {
+            "definition": "使壮丽；赞美",
+            "iscorrect": false
+          },
+          {
+            "definition": "使变大；增加尺寸",
+            "iscorrect": false
+          },
+          {
+            "definition": "修改；调整",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

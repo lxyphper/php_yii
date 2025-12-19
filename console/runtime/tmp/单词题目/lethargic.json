@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lethargic",
+      "error_analysis": "因形近词‘lethal’（致命的）误判为‘致命的’，或因字面拼写类似‘leather’（皮革）误判为‘与皮革有关的’",
+      "sentence": "The hot weather made everyone in the office feel **lethargic** and unmotivated to work.",
+      "options": {
+        "option": [
+          {
+            "definition": "致命的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无精打采的；嗜睡的",
+            "iscorrect": true
+          },
+          {
+            "definition": "与皮革有关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "懒惰的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "read-only memory",
+      "error_analysis": "容易因字面直译将'memory'误解为'人类记忆'，而非计算机'存储器'，或忽略其硬件术语属性",
+      "sentence": "Most older computers use ROM, a type of **read-only memory**, to store basic system instructions that cannot be changed.",
+      "options": {
+        "option": [
+          {
+            "definition": "只能读取的人类记忆（如无法改变的回忆）",
+            "iscorrect": false
+          },
+          {
+            "definition": "只能写入数据的计算机存储设备",
+            "iscorrect": false
+          },
+          {
+            "definition": "只读存储器（计算机中只能读取数据而不能写入的硬件）",
+            "iscorrect": true
+          },
+          {
+            "definition": "可以随意读写的临时存储介质",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

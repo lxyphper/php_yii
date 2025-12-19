@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "crank",
+      "error_analysis": "学生易因形近词“crack”（裂缝）混淆，或误猜为与“破碎”相关的义项",
+      "sentence": "The cyclist noticed a loose **crank** on his bike, making it hard to pedal.",
+      "options": {
+        "option": [
+          {
+            "definition": "裂缝",
+            "iscorrect": false
+          },
+          {
+            "definition": "曲柄（机械部件）",
+            "iscorrect": true
+          },
+          {
+            "definition": "破碎的部分",
+            "iscorrect": false
+          },
+          {
+            "definition": "等级",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

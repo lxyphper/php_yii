@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "arpeggio",
+      "error_analysis": "学生易因形近词（如paragraph）或词根（pej-，表“坏”）误导，将arpeggio误判为“段落”或“贬义词”",
+      "sentence": "The pianist played a beautiful **arpeggio** at the start of the piece, where each chord note was plucked one after another instead of together.",
+      "options": {
+        "option": [
+          {
+            "definition": "（音乐中的）琶音（和弦音依次弹出）",
+            "iscorrect": true
+          },
+          {
+            "definition": "段落；文章的节",
+            "iscorrect": false
+          },
+          {
+            "definition": "贬义词；带有负面含义的词",
+            "iscorrect": false
+          },
+          {
+            "definition": "傲慢的态度；自大的行为",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

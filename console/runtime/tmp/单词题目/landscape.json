@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "landscape",
+      "error_analysis": "学生易将\"scape\"误判为\"shape\"（形状）或\"scope\"（范围），导致理解为\"土地形状\"或\"土地范围\"。",
+      "sentence": "The painter spent hours capturing the beautiful **landscape** of the mountains and lakes.",
+      "options": {
+        "option": [
+          {
+            "definition": "风景；地貌",
+            "iscorrect": true
+          },
+          {
+            "definition": "土地形状",
+            "iscorrect": false
+          },
+          {
+            "definition": "土地范围",
+            "iscorrect": false
+          },
+          {
+            "definition": "土地标记",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

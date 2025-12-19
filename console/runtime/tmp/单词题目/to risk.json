@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to risk",
+      "error_analysis": "易混淆形近词“rise”（上升），或误将动词理解为“有风险”（名词含义的误导）",
+      "sentence": "He didn’t want to **risk** missing the last train, so he left the party early.",
+      "options": {
+        "option": [
+          {
+            "definition": "冒险（做某事）；冒...的风险",
+            "iscorrect": true
+          },
+          {
+            "definition": "上升",
+            "iscorrect": false
+          },
+          {
+            "definition": "有风险",
+            "iscorrect": false
+          },
+          {
+            "definition": "避免",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

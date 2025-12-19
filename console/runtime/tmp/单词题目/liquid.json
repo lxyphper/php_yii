@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "liquid",
+      "error_analysis": "中国学生易因形近词“liquor”（酒）的干扰将“liquid”误判为“酒”，或因词根“liqu-”（流动）过度联想为“液化”（动作）而非“液体”本身。",
+      "sentence": "Please pour the **liquid** into the bottle—this will help keep the flowers fresh for longer.",
+      "options": {
+        "option": [
+          {
+            "definition": "液体",
+            "iscorrect": true
+          },
+          {
+            "definition": "酒",
+            "iscorrect": false
+          },
+          {
+            "definition": "液化（过程）",
+            "iscorrect": false
+          },
+          {
+            "definition": "固体",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "scrawny",
+      "error_analysis": "中国学生易因形近词\"scary\"(可怕的)或词根联想(如\"scrape\"刮→粗糙)误判\"scrawny\"的含义。",
+      "sentence": "The stray cat looked so **scrawny** that the little girl decided to feed it every day.",
+      "options": {
+        "option": [
+          {
+            "definition": "骨瘦如柴的",
+            "iscorrect": true
+          },
+          {
+            "definition": "可怕的",
+            "iscorrect": false
+          },
+          {
+            "definition": "粗糙的",
+            "iscorrect": false
+          },
+          {
+            "definition": "活泼的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "anxiously",
+      "error_analysis": "中国学生易因形近词“angrily”（生气地）混淆，或误将“anxiously”理解为“期待地”而忽略“焦虑”成分。",
+      "sentence": "She paced back and forth in the waiting room, **anxiously** checking her phone for any updates from the hospital.",
+      "options": {
+        "option": [
+          {
+            "definition": "焦虑地；急切地",
+            "iscorrect": true
+          },
+          {
+            "definition": "生气地",
+            "iscorrect": false
+          },
+          {
+            "definition": "期待地",
+            "iscorrect": false
+          },
+          {
+            "definition": "兴奋地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to hunch",
+      "error_analysis": "学生易混淆动词“to hunch”（弯腰）与名词“hunch”（直觉）的含义，或因形近词“hunt”“lunch”误判为“打猎”“吃午餐”。",
+      "sentence": "She **hunched** over her phone, scrolling through messages for hours.",
+      "options": {
+        "option": [
+          {
+            "definition": "弯腰驼背地坐或站",
+            "iscorrect": true
+          },
+          {
+            "definition": "猜测（凭直觉判断）",
+            "iscorrect": false
+          },
+          {
+            "definition": "打猎（寻找猎物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "吃午餐（用餐）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

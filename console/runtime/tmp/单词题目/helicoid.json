@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "helicoid",
+      "error_analysis": "学生易因形近词\"helicopter\"（直升机）误判\"helicoid\"为\"直升机相关的\"，或因不熟悉词根\"helic-\"（螺旋）猜测错误含义",
+      "sentence": "The new museum’s staircase features a **helicoid** design that wraps around the central column for both aesthetic and functional purposes.",
+      "options": {
+        "option": [
+          {
+            "definition": "直升机的；与直升机相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "螺旋状的；螺旋面的",
+            "iscorrect": true
+          },
+          {
+            "definition": "像螺旋桨的；螺旋桨相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有翅膀的；翅膀状的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

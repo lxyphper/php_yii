@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stay",
+      "error_analysis": "学生易混淆形近词\"stair\"(楼梯)或误将\"stay\"理解为\"站立\"(与\"stand\"联想)",
+      "sentence": "We decided to **stay** at a cozy inn near the beach for the weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "楼梯",
+            "iscorrect": false
+          },
+          {
+            "definition": "站立",
+            "iscorrect": false
+          },
+          {
+            "definition": "停留；暂住",
+            "iscorrect": true
+          },
+          {
+            "definition": "污渍",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

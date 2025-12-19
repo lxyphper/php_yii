@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "archeology",
+      "error_analysis": "学生易混淆形近词\"architecture\"(建筑学)，或因词根\"arch-\"(原始)误导认为与\"原始建筑/生物\"相关",
+      "sentence": "The team of **archeology** experts spent months excavating the ancient city ruins to uncover artifacts from the Bronze Age.",
+      "options": {
+        "option": [
+          {
+            "definition": "建筑学",
+            "iscorrect": false
+          },
+          {
+            "definition": "原始生物学",
+            "iscorrect": false
+          },
+          {
+            "definition": "古代历史学",
+            "iscorrect": false
+          },
+          {
+            "definition": "考古学",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

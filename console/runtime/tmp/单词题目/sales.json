@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sales",
+      "error_analysis": "中国学生易因形近词\"sails\"（帆）或与\"salesperson\"混淆而误将\"sales\"理解为\"帆\"或\"销售人员\"",
+      "sentence": "The electronics store reported record **sales** last month after launching the new smartphone.",
+      "options": {
+        "option": [
+          {
+            "definition": "销售（额/量）",
+            "iscorrect": true
+          },
+          {
+            "definition": "帆（复数）",
+            "iscorrect": false
+          },
+          {
+            "definition": "销售人员",
+            "iscorrect": false
+          },
+          {
+            "definition": "利润（复数）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

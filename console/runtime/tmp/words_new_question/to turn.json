@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to turn",
+      "error_analysis": "学生易将“turn”与形近词“tune”（调整）混淆，或因词根联想误判为“返回”。",
+      "sentence": "Please **turn** the key gently to unlock the door.",
+      "options": {
+        "option": [
+          {
+            "definition": "转动；旋转",
+            "iscorrect": true
+          },
+          {
+            "definition": "调整；调谐",
+            "iscorrect": false
+          },
+          {
+            "definition": "返回；回来",
+            "iscorrect": false
+          },
+          {
+            "definition": "旅行；游览",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

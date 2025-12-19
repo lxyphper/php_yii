@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "constricted",
+      "error_analysis": "易混淆形近词constructed（建造的），或误将词根与strict（严格的）关联导致理解偏差",
+      "sentence": "After hours of sitting in the small airplane seat, her legs felt **constricted** and numb.",
+      "options": {
+        "option": [
+          {
+            "definition": "收缩的；受限制的",
+            "iscorrect": true
+          },
+          {
+            "definition": "建造的；构造的",
+            "iscorrect": false
+          },
+          {
+            "definition": "严格的；严厉的",
+            "iscorrect": false
+          },
+          {
+            "definition": "困惑的；混乱的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

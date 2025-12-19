@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "empty",
+      "error_analysis": "中国学生易因形近词“empathy”（同理心）混淆词义，或因词根“em-”的错误联想误判为“充实的”。",
+      "sentence": "She looked at the **empty** plate and sighed—she had eaten everything.",
+      "options": {
+        "option": [
+          {
+            "definition": "有同理心的",
+            "iscorrect": false
+          },
+          {
+            "definition": "充实的",
+            "iscorrect": false
+          },
+          {
+            "definition": "空的",
+            "iscorrect": true
+          },
+          {
+            "definition": "繁忙的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

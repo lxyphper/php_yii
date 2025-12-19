@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "linear",
+      "error_analysis": "学生易将\"linear\"与形近词\"literal\"（字面的）混淆，或误从词根\"line\"推导为\"线条的\"而非\"线性的/直线的\"。",
+      "sentence": "The graph shows a **linear** relationship between temperature and pressure—when one increases, the other does too at a constant rate.",
+      "options": {
+        "option": [
+          {
+            "definition": "字面的；逐字的",
+            "iscorrect": false
+          },
+          {
+            "definition": "线性的；直线的",
+            "iscorrect": true
+          },
+          {
+            "definition": "排队的；列成一行的",
+            "iscorrect": false
+          },
+          {
+            "definition": "细长的；纤弱的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "day trip",
+      "error_analysis": "学生易因字面拆分误解为“每天的旅行”或“白天的旅行”，忽略“当天往返”的核心特征。",
+      "sentence": "My family and I went on a **day trip** to the beach yesterday—we woke up early, packed lunch, and were back home before dinner.",
+      "options": {
+        "option": [
+          {
+            "definition": "一日游（当天往返的短途旅行）",
+            "iscorrect": true
+          },
+          {
+            "definition": "每天的旅行",
+            "iscorrect": false
+          },
+          {
+            "definition": "白天的旅行",
+            "iscorrect": false
+          },
+          {
+            "definition": "持续一天的旅行（可在目的地留宿）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

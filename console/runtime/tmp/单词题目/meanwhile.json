@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "meanwhile",
+      "error_analysis": "学生易将“meanwhile”拆分为“mean”和“while”，错误理解为“意思是当…时”或“平均的时间”。",
+      "sentence": "I was studying for my exam; **meanwhile**, my brother was watching TV.",
+      "options": {
+        "option": [
+          {
+            "definition": "同时；在此期间",
+            "iscorrect": true
+          },
+          {
+            "definition": "意思是当…时",
+            "iscorrect": false
+          },
+          {
+            "definition": "平均的时间",
+            "iscorrect": false
+          },
+          {
+            "definition": "卑鄙地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

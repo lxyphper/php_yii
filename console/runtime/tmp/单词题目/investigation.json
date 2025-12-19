@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "investigation",
+      "error_analysis": "因词根“invest”（投资）的误导或形近词“invitation”（邀请）的干扰，误判为“投资行为”或“邀请活动”而非“调查”",
+      "sentence": "The police launched a thorough **investigation** into the theft of the valuable painting.",
+      "options": {
+        "option": [
+          {
+            "definition": "调查过程",
+            "iscorrect": true
+          },
+          {
+            "definition": "投资行为",
+            "iscorrect": false
+          },
+          {
+            "definition": "邀请活动",
+            "iscorrect": false
+          },
+          {
+            "definition": "培训课程",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

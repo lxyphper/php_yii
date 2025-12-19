@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "zeitgeist",
+      "error_analysis": "学生易因\"geist\"与\"ghost\"形近而误解为\"时间幽灵\"，或因误将\"zeit\"联想为\"zeal\"（热情）而组合成\"热情的鬼魂\"。",
+      "sentence": "The rise of social media in the 2010s clearly reflected the **zeitgeist** of connectivity and digital innovation that defined the decade.",
+      "options": {
+        "option": [
+          {
+            "definition": "时代精神；时代思潮",
+            "iscorrect": true
+          },
+          {
+            "definition": "时间幽灵",
+            "iscorrect": false
+          },
+          {
+            "definition": "热情的鬼魂",
+            "iscorrect": false
+          },
+          {
+            "definition": "文化遗产",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

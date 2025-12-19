@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "altar",
+      "error_analysis": "易与形近词“alter”（改变）混淆，或因词根“alt-”（高）误猜为“高处”",
+      "sentence": "The couple exchanged rings in front of the **altar** during their church wedding.",
+      "options": {
+        "option": [
+          {
+            "definition": "祭坛；神坛",
+            "iscorrect": true
+          },
+          {
+            "definition": "改变；修改",
+            "iscorrect": false
+          },
+          {
+            "definition": "高处；海拔",
+            "iscorrect": false
+          },
+          {
+            "definition": "警报；警告",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

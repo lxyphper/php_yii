@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "diagram",
+      "error_analysis": "学生易因形近词\"dialogue\"(对话)混淆,或因词根\"-gram\"错误联想\"program\"(程序)或\"grammar\"(语法)而误解词义。",
+      "sentence": "The teacher drew a **diagram** on the board to explain how the water cycle works.",
+      "options": {
+        "option": [
+          {
+            "definition": "对话；对白",
+            "iscorrect": false
+          },
+          {
+            "definition": "程序；计划",
+            "iscorrect": false
+          },
+          {
+            "definition": "图表；示意图",
+            "iscorrect": true
+          },
+          {
+            "definition": "语法；文法",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

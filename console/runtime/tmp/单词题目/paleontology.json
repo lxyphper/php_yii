@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "paleontology",
+      "error_analysis": "学生易将\"paleontology\"误解为与\"苍白\"(pale)相关的学科，或混淆\"paleo-\"(古老)与\"pale\"(苍白)导致词义偏差",
+      "sentence": "Mary decided to major in **paleontology** because she has always been fascinated by dinosaur fossils and ancient life forms.",
+      "options": {
+        "option": [
+          {
+            "definition": "古生物学（研究古代生命形式的学科）",
+            "iscorrect": true
+          },
+          {
+            "definition": "研究苍白或浅色现象的学科",
+            "iscorrect": false
+          },
+          {
+            "definition": "研究存在本质的哲学分支（本体论）",
+            "iscorrect": false
+          },
+          {
+            "definition": "研究古代文字或手稿的学科（古文字学）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

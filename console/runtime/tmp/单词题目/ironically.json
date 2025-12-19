@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ironically",
+      "error_analysis": "学生易因\"iron\"（铁）的字面联想错误理解为\"坚硬地\"，或混淆形近词\"iconically\"（标志性地）。",
+      "sentence": "She spent years criticizing people who waste money on luxury items, but **ironically**, she just bought a $10,000 handbag.",
+      "options": {
+        "option": [
+          {
+            "definition": "讽刺地；具有讽刺意味地",
+            "iscorrect": true
+          },
+          {
+            "definition": "像铁一样地；坚硬地",
+            "iscorrect": false
+          },
+          {
+            "definition": "标志性地；典型地",
+            "iscorrect": false
+          },
+          {
+            "definition": "严肃地；认真地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

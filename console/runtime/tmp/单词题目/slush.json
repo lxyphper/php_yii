@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "slush",
+      "error_analysis": "因形近词“slip”（滑动）及词根“sl-”（软、滑）的误导，易误判为“滑动”或“黏液”",
+      "sentence": "After the warm rain, the driveway was covered in **slush** that made walking difficult.",
+      "options": {
+        "option": [
+          {
+            "definition": "半融的雪；雪泥",
+            "iscorrect": true
+          },
+          {
+            "definition": "滑动；滑倒",
+            "iscorrect": false
+          },
+          {
+            "definition": "黏液；黏质",
+            "iscorrect": false
+          },
+          {
+            "definition": "溅水；飞溅",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

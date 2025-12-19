@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "suite",
+      "error_analysis": "学生易因形近词\"suit\"（西装/适合）的干扰，将\"suite\"误判为\"西装\"或\"适合的事物\"",
+      "sentence": "The hotel upgraded us to a **suite** with a living room, bedroom, and kitchen.",
+      "options": {
+        "option": [
+          {
+            "definition": "套房",
+            "iscorrect": true
+          },
+          {
+            "definition": "西装",
+            "iscorrect": false
+          },
+          {
+            "definition": "适合的事物",
+            "iscorrect": false
+          },
+          {
+            "definition": "甜点",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

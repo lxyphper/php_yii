@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to single out",
+      "error_analysis": "易因\"single\"(单一的)和\"out\"(出去)的字面组合，误理解为\"单独外出\"或\"使...孤立\"，忽略\"特意挑选\"的核心含义",
+      "sentence": "The teacher **singled out** Mary for her excellent performance in the speech contest.",
+      "options": {
+        "option": [
+          {
+            "definition": "挑选出；特意选出",
+            "iscorrect": true
+          },
+          {
+            "definition": "让...单独外出",
+            "iscorrect": false
+          },
+          {
+            "definition": "使...孤立（因差异而被排斥）",
+            "iscorrect": false
+          },
+          {
+            "definition": "整理好；分类",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

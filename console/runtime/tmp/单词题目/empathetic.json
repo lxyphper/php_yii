@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "empathetic",
+      "error_analysis": "学生易因形近词“emphatic”（强调的）混淆，或误将词根“path”理解为“痛苦”而猜测为“痛苦的”。",
+      "sentence": "When I shared my problem with her, she gave me a(n) **empathetic** response that made me feel truly understood.",
+      "options": {
+        "option": [
+          {
+            "definition": "强调的；有力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "共情的；有同理心的",
+            "iscorrect": true
+          },
+          {
+            "definition": "痛苦的；悲伤的",
+            "iscorrect": false
+          },
+          {
+            "definition": "热情的；热心的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

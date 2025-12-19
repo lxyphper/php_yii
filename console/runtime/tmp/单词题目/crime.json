@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "crime",
+      "error_analysis": "中国学生易因形近词“cream”（奶油）的拼写相似，或同根词混淆将“crime”误判为“罪犯”（criminal）。",
+      "sentence": "The police are investigating a serious **crime** that happened in the downtown area last night.",
+      "options": {
+        "option": [
+          {
+            "definition": "奶油",
+            "iscorrect": false
+          },
+          {
+            "definition": "罪犯",
+            "iscorrect": false
+          },
+          {
+            "definition": "罪行；犯罪",
+            "iscorrect": true
+          },
+          {
+            "definition": "危机",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "prehistory",
+      "error_analysis": "学生易因“pre-+history”词根直译误解为“历史之前的时期”，或混淆其与“ancient history”（古代历史）的区别，忽略“无文字记录”的核心特征。",
+      "sentence": "Archaeologists study stone tools and animal bones to reconstruct life in **prehistory**, a time when no written records were kept.",
+      "options": {
+        "option": [
+          {
+            "definition": "古代历史（有文字记录的早期历史阶段）",
+            "iscorrect": false
+          },
+          {
+            "definition": "历史之前的时期（未强调无文字记录的阶段）",
+            "iscorrect": false
+          },
+          {
+            "definition": "（人类）史前时期（无文字记录的历史阶段）",
+            "iscorrect": true
+          },
+          {
+            "definition": "史前的（形容词，指属于史前时期的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

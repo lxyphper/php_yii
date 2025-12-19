@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "palm",
+      "error_analysis": "学生易因形近词（如pale、calm）混淆，或因词根原义（手掌）误导，将“palm”（棕榈树）误判为“苍白的”“平静的”或“手掌”。",
+      "sentence": "The **palm** trees along the beach sway in the wind every evening.",
+      "options": {
+        "option": [
+          {
+            "definition": "棕榈树（名词，生长在热带的常绿乔木）",
+            "iscorrect": true
+          },
+          {
+            "definition": "手掌（名词，手的内侧部分）",
+            "iscorrect": false
+          },
+          {
+            "definition": "苍白的（形容词，形容脸色或颜色浅淡）",
+            "iscorrect": false
+          },
+          {
+            "definition": "平静的（形容词，形容情绪或环境稳定）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

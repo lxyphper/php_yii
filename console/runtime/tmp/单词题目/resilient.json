@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "resilient",
+      "error_analysis": "学生易因形近词\"resistant\"（抵抗的）产生混淆，或误将\"resilient\"与\"silent\"（沉默的）联系导致字面误解。",
+      "sentence": "After the flood, the village demonstrated its **resilient** spirit by restarting farming within a month.",
+      "options": {
+        "option": [
+          {
+            "definition": "抵抗的；抗...的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有弹性的；适应力强的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不情愿的；勉强的",
+            "iscorrect": false
+          },
+          {
+            "definition": "沉默的；寡言的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

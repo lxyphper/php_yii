@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to maximize",
+      "error_analysis": "学生易因词根“maxi-”（最大）误导将“to maximize”错解为“增加”，或因形近词“magnify”（放大）混淆词义。",
+      "sentence": "To **maximize** the benefits of the training, participants should attend all sessions.",
+      "options": {
+        "option": [
+          {
+            "definition": "使最大化（如利用、效果等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "放大（如图像、声音等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "增加（数量、程度等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "使最小化（如损失、风险等）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

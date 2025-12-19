@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "clothing",
+      "error_analysis": "中国学生易混淆形近词“closing”（关闭）或误将“clothing”理解为“布料”（cloth的复数）",
+      "sentence": "Before going hiking, make sure you wear appropriate **clothing** to stay warm and dry.",
+      "options": {
+        "option": [
+          {
+            "definition": "衣服；服装（总称）",
+            "iscorrect": true
+          },
+          {
+            "definition": "关闭；结尾",
+            "iscorrect": false
+          },
+          {
+            "definition": "布料；织物",
+            "iscorrect": false
+          },
+          {
+            "definition": "烹饪；烹调",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to debase",
+      "error_analysis": "学生易因\"de-\"+\"base\"（基础/低级）的字面联想，将\"debase\"误解为\"削弱基础\"或\"使变得粗俗\"，而非其核心义\"降低价值/地位\"。",
+      "sentence": "Printing too much money will **debase** the currency, making imported goods more expensive.",
+      "options": {
+        "option": [
+          {
+            "definition": "降低（价值、地位或质量）；使贬值",
+            "iscorrect": true
+          },
+          {
+            "definition": "削弱基础；破坏根基",
+            "iscorrect": false
+          },
+          {
+            "definition": "使变得粗俗；使堕落",
+            "iscorrect": false
+          },
+          {
+            "definition": "辩论；争论",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

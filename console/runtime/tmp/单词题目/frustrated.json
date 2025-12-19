@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "frustrated",
+      "error_analysis": "中国学生易因形近词（如fascinated/害怕的）或词根猜测将\"frustrated\"误判为\"着迷的\"\"害怕的\"等含义。",
+      "sentence": "After trying to fix the bike for hours without success, Tom felt **frustrated** and decided to ask for help.",
+      "options": {
+        "option": [
+          {
+            "definition": "着迷的",
+            "iscorrect": false
+          },
+          {
+            "definition": "害怕的",
+            "iscorrect": false
+          },
+          {
+            "definition": "沮丧的；受挫的",
+            "iscorrect": true
+          },
+          {
+            "definition": "无效的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

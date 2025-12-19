@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to poach",
+      "error_analysis": "学生易因形近词\"coach\"（教练）误将\"to poach\"理解为\"训练/指导\"，或混淆其\"偷猎\"与\"水煮\"的含义",
+      "sentence": "The illegal hunters were caught trying to **poach** rhinos in the national park.",
+      "options": {
+        "option": [
+          {
+            "definition": "训练/指导（运动员/学生）",
+            "iscorrect": false
+          },
+          {
+            "definition": "偷猎（动物）；挖走（人才）",
+            "iscorrect": true
+          },
+          {
+            "definition": "水煮（鸡蛋/蔬菜）",
+            "iscorrect": false
+          },
+          {
+            "definition": "保护/守护（珍稀物种）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

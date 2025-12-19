@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to lock",
+      "error_analysis": "中国学生易因形近词“look”（看）或“luck”（运气）的拼写相似，将“to lock”误理解为“看”或“运气”。",
+      "sentence": "Please remember to **lock** the door before you leave.",
+      "options": {
+        "option": [
+          {
+            "definition": "锁上；锁住",
+            "iscorrect": true
+          },
+          {
+            "definition": "看；看起来",
+            "iscorrect": false
+          },
+          {
+            "definition": "运气；好运",
+            "iscorrect": false
+          },
+          {
+            "definition": "阻塞；阻挡",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

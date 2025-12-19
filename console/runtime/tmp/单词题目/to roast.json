@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to roast",
+      "error_analysis": "学生易因形近词“toast”（烤面包）的干扰，将“to roast”误判为“烤面包”或“煮”等烹饪方式。",
+      "sentence": "My mom will **roast** a turkey for Thanksgiving dinner.",
+      "options": {
+        "option": [
+          {
+            "definition": "烤（肉等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "烤面包",
+            "iscorrect": false
+          },
+          {
+            "definition": "煮",
+            "iscorrect": false
+          },
+          {
+            "definition": "炸",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

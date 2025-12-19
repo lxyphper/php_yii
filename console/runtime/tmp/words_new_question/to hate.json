@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to hate",
+      "error_analysis": "中国学生易因形近词“have”（有）混淆，或拆分“hate”为“h+ate”（吃的过去式）而误判词义",
+      "sentence": "Tom ______ getting up early because he always feels tired in the morning.",
+      "options": {
+        "option": [
+          {
+            "definition": "讨厌；憎恨",
+            "iscorrect": true
+          },
+          {
+            "definition": "有；拥有",
+            "iscorrect": false
+          },
+          {
+            "definition": "吃；食用",
+            "iscorrect": false
+          },
+          {
+            "definition": "加热；变热",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

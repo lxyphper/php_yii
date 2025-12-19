@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "side dish",
+      "error_analysis": "学生易将“side dish”按“side（边）+ dish（菜肴）”字面直译，误解为“边菜（旁边的菜肴）”，而非正确的“配菜”。",
+      "sentence": "For dinner, we had steak as the main dish and a **side dish** of mashed potatoes.",
+      "options": {
+        "option": [
+          {
+            "definition": "配菜（主菜之外的辅助菜肴）",
+            "iscorrect": true
+          },
+          {
+            "definition": "边菜（旁边的菜肴）",
+            "iscorrect": false
+          },
+          {
+            "definition": "滑动的菜肴（因“side”与“slide”形近联想）",
+            "iscorrect": false
+          },
+          {
+            "definition": "主菜（与“main dish”混淆）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

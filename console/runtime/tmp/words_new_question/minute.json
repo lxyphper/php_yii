@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "minute",
+      "error_analysis": "学生易将形容词性“minute”误理解为“分钟的”（字面误导），或因词根“min-”过度猜测为“最小的”（词根误导）",
+      "sentence": "The difference in taste between the two coffees is so **minute** that only an expert can tell.",
+      "options": {
+        "option": [
+          {
+            "definition": "微小的；细微的",
+            "iscorrect": true
+          },
+          {
+            "definition": "分钟的；与分钟有关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "最小的；最少的",
+            "iscorrect": false
+          },
+          {
+            "definition": "短暂的；片刻的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to kill",
+      "error_analysis": "学生易因“kill”包含“ill”（生病）词根猜测为“使生病”，或因形近词“fill”（填）产生无关联想",
+      "sentence": "The hunter **killed** a deer in the forest yesterday.",
+      "options": {
+        "option": [
+          {
+            "definition": "杀死",
+            "iscorrect": true
+          },
+          {
+            "definition": "使生病",
+            "iscorrect": false
+          },
+          {
+            "definition": "填满",
+            "iscorrect": false
+          },
+          {
+            "definition": "伤害",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

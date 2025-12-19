@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to expose",
+      "error_analysis": "学生易混淆形近词explore（探索）或因词根ex-（出）+pose（放）直译为“放出”，忽略其“暴露/揭露”的核心义",
+      "sentence": "The journalist decided to **expose** the corruption scandal after gathering enough evidence.",
+      "options": {
+        "option": [
+          {
+            "definition": "暴露；揭露",
+            "iscorrect": true
+          },
+          {
+            "definition": "探索；探究",
+            "iscorrect": false
+          },
+          {
+            "definition": "放出；放置",
+            "iscorrect": false
+          },
+          {
+            "definition": "表达；陈述",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

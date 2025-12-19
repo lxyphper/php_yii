@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "minty",
+      "error_analysis": "学生易因形近词\"mini\"（迷你的）干扰，或误将\"minty\"理解为\"薄荷的（植物本身）\"而非\"有薄荷味的\"",
+      "sentence": "The chewing gum has a **minty** taste that makes my breath fresh.",
+      "options": {
+        "option": [
+          {
+            "definition": "有薄荷味的",
+            "iscorrect": true
+          },
+          {
+            "definition": "迷你的",
+            "iscorrect": false
+          },
+          {
+            "definition": "薄荷的（指植物本身）",
+            "iscorrect": false
+          },
+          {
+            "definition": "新鲜的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

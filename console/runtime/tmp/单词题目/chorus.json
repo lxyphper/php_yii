@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "chorus",
+      "error_analysis": "中国学生易因形近词\"choice\"（选择）混淆，或误将词根\"choros\"联想为\"核心部分\"。",
+      "sentence": "When the singer finished the verse, the audience broke into a loud **chorus** of the song's refrain.",
+      "options": {
+        "option": [
+          {
+            "definition": "选择",
+            "iscorrect": false
+          },
+          {
+            "definition": "合唱队；合唱曲",
+            "iscorrect": true
+          },
+          {
+            "definition": "核心部分",
+            "iscorrect": false
+          },
+          {
+            "definition": "舞蹈队",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

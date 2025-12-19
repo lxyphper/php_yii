@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "individual",
+      "error_analysis": "学生可能因形近词“indivisible”或词根“divid”(分割)误将“individual”理解为“不可分割的”或“分开的”，忽略其常用义“个人的/个体”",
+      "sentence": "Our company values **individual** contributions rather than team efforts.",
+      "options": {
+        "option": [
+          {
+            "definition": "不可分割的",
+            "iscorrect": false
+          },
+          {
+            "definition": "分开的",
+            "iscorrect": false
+          },
+          {
+            "definition": "个人的；个体",
+            "iscorrect": true
+          },
+          {
+            "definition": "独立的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "disloyal",
+      "error_analysis": "学生易混淆“loyal”与形近词“royal”（皇家的），将“disloyal”误判为“非皇家的”；或误将其与“dishonest”（不诚实的）等同。",
+      "sentence": "When he betrayed his team by sharing secrets with the opponent, everyone called him **disloyal**.",
+      "options": {
+        "option": [
+          {
+            "definition": "不忠诚的",
+            "iscorrect": true
+          },
+          {
+            "definition": "非皇家的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不诚实的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不活跃的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "guinea pig",
+      "error_analysis": "学生易将“guinea pig”直译为“几内亚的猪”，或忽略其“实验对象”的比喻义",
+      "sentence": "The company asked employees to be **guinea pigs** for the new app—they’ll use it first to find any problems.",
+      "options": {
+        "option": [
+          {
+            "definition": "几内亚的一种猪",
+            "iscorrect": false
+          },
+          {
+            "definition": "豚鼠（一种小动物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "实验对象（用于测试的人或物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "几内亚的传统宠物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gas",
+      "error_analysis": "学生易因形近词\"gap\"(缺口)或\"glass\"(玻璃)的拼写相似，将\"gas\"误理解为非气体类含义。",
+      "sentence": "Please make sure the stove is off after cooking to avoid leaking **gas**.",
+      "options": {
+        "option": [
+          {
+            "definition": "气体；燃气",
+            "iscorrect": true
+          },
+          {
+            "definition": "缺口；缝隙",
+            "iscorrect": false
+          },
+          {
+            "definition": "玻璃；玻璃杯",
+            "iscorrect": false
+          },
+          {
+            "definition": "猜测；推测",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

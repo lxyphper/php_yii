@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "western",
+      "error_analysis": "中国学生易因词根“west”（西）误导将“western”单纯理解为“西边的”，或因形近混淆“western”与“wrestle”（摔跤）的形容词义。",
+      "sentence": "Many young people in China enjoy eating **western** food like hamburgers and pizza.",
+      "options": {
+        "option": [
+          {
+            "definition": "西方的（尤指欧洲和北美）",
+            "iscorrect": true
+          },
+          {
+            "definition": "西边的",
+            "iscorrect": false
+          },
+          {
+            "definition": "摔跤的",
+            "iscorrect": false
+          },
+          {
+            "definition": "漫步的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pessimistic",
+      "error_analysis": "中国学生易因形近词（如passive）或词根联想（如press）将pessimistic误理解为“被动的”或“有压力的”。",
+      "sentence": "Despite the good news about the economy, John remains **pessimistic** about finding a job soon.",
+      "options": {
+        "option": [
+          {
+            "definition": "被动的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有压力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有害的",
+            "iscorrect": false
+          },
+          {
+            "definition": "悲观的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

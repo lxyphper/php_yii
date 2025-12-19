@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "jealousy",
+      "error_analysis": "学生易因形近词\"jelly\"(果冻)误解为\"胶状物\"，或因词根联想错误认为是\"热情\"。",
+      "sentence": "The **jealousy** between the two friends grew when one got a better job.",
+      "options": {
+        "option": [
+          {
+            "definition": "嫉妒；妒忌",
+            "iscorrect": true
+          },
+          {
+            "definition": "果冻；胶状物",
+            "iscorrect": false
+          },
+          {
+            "definition": "热情；热忱",
+            "iscorrect": false
+          },
+          {
+            "definition": "旅行；旅程",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

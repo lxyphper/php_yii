@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to die",
+      "error_analysis": "中国学生易因形近词\"dye\"(染色)产生错误联想，或误将\"die\"理解为机器停止运转",
+      "sentence": "The old dog **died** peacefully in its sleep last night.",
+      "options": {
+        "option": [
+          {
+            "definition": "给...染色",
+            "iscorrect": false
+          },
+          {
+            "definition": "（机器）停止运转",
+            "iscorrect": false
+          },
+          {
+            "definition": "死亡（指生物失去生命）",
+            "iscorrect": true
+          },
+          {
+            "definition": "（植物）发芽",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

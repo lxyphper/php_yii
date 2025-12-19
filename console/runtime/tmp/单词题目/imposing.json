@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "imposing",
+      "error_analysis": "学生易因形近词“impose”（强加）误判为“强迫的”，或因词根“pose”（放置）误推为“放置的”。",
+      "sentence": "The ancient castle stood on the hill, with its **imposing** walls and towers visible for miles.",
+      "options": {
+        "option": [
+          {
+            "definition": "宏伟的；壮观的；威严的",
+            "iscorrect": true
+          },
+          {
+            "definition": "强加的；强迫的",
+            "iscorrect": false
+          },
+          {
+            "definition": "放置的；安置的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有趣的；吸引人的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

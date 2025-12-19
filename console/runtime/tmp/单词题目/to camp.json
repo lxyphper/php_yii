@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to camp",
+      "error_analysis": "学生易因形近词“campus”（校园）将“to camp”错误理解为“去校园/上学”",
+      "sentence": "We decided to **camp** by the lake this weekend instead of staying in a hotel.",
+      "options": {
+        "option": [
+          {
+            "definition": "露营；野营",
+            "iscorrect": true
+          },
+          {
+            "definition": "去校园；上学",
+            "iscorrect": false
+          },
+          {
+            "definition": "开展运动；发起活动",
+            "iscorrect": false
+          },
+          {
+            "definition": "点燃篝火；生火",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

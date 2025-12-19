@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "kinesiology",
+      "error_analysis": "学生易因形近词\"kinetics\"(动力学)或词根\"kine-\"（运动）的过度联想，将\"kinesiology\"误判为\"机械动力学\"而非\"人体运动学\"",
+      "sentence": "The sports scientist used principles of **kinesiology** to analyze the athlete's running form and reduce the risk of injuries.",
+      "options": {
+        "option": [
+          {
+            "definition": "人体运动学（研究人体运动的学科）",
+            "iscorrect": true
+          },
+          {
+            "definition": "机械动力学（研究机械运动的学科）",
+            "iscorrect": false
+          },
+          {
+            "definition": "亲属关系学（研究亲属关系的学科）",
+            "iscorrect": false
+          },
+          {
+            "definition": "膝盖关节医学（研究膝盖关节的医学分支）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

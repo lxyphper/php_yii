@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Turkish",
+      "error_analysis": "因形近词\"turkey\"（火鸡）产生错误联想，误认为是\"火鸡的\"",
+      "sentence": "She is learning **Turkish** to communicate with her grandparents in Istanbul.",
+      "options": {
+        "option": [
+          {
+            "definition": "土耳其的；土耳其人的；土耳其语的",
+            "iscorrect": true
+          },
+          {
+            "definition": "火鸡的；火鸡肉的",
+            "iscorrect": false
+          },
+          {
+            "definition": "土耳其人（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "转弯的；旋转的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

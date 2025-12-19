@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Australia",
+      "error_analysis": "中国学生易因形近词\"Austria\"（奥地利）混淆词义，或误将国家名当作形容词\"澳大利亚的\"。",
+      "sentence": "Many people dream of traveling to **Australia** to see the Great Barrier Reef and kangaroos.",
+      "options": {
+        "option": [
+          {
+            "definition": "奥地利",
+            "iscorrect": false
+          },
+          {
+            "definition": "澳大利亚的",
+            "iscorrect": false
+          },
+          {
+            "definition": "澳大利亚（国家名）",
+            "iscorrect": true
+          },
+          {
+            "definition": "奥克兰",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

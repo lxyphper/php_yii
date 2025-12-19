@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "painless",
+      "error_analysis": "易因形近词\"pointless\"(无意义的)或词根过度推导为\"无害的\"(harmless)而误解其核心义\"无疼痛的\"",
+      "sentence": "The dentist assured me that the tooth extraction would be **painless**, so I didn’t feel nervous.",
+      "options": {
+        "option": [
+          {
+            "definition": "无疼痛的",
+            "iscorrect": true
+          },
+          {
+            "definition": "无意义的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无害的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不费力的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

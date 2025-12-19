@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "languorous",
+      "error_analysis": "学生易因形近词\"luxurious\"(奢侈的)产生混淆，或通过词根\"langu-\"错误推导为\"虚弱的\"。",
+      "sentence": "The cat stretched out on the windowsill, savoring the **languorous** warmth of the afternoon sun as it drifted lower in the sky.",
+      "options": {
+        "option": [
+          {
+            "definition": "慵懒的；懒洋洋的",
+            "iscorrect": true
+          },
+          {
+            "definition": "奢侈的；豪华的",
+            "iscorrect": false
+          },
+          {
+            "definition": "虚弱的；憔悴的",
+            "iscorrect": false
+          },
+          {
+            "definition": "活跃的；忙碌的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

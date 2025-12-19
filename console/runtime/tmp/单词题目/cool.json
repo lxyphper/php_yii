@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cool",
+      "error_analysis": "中国学生易因形近词\"cook\"(烹饪)的拼写相似产生干扰，或误将\"cool\"的字面义\"冷的\"套用于形容人/物的语境中。",
+      "sentence": "His new sneakers look really **cool**—everyone in class is asking where he got them.",
+      "options": {
+        "option": [
+          {
+            "definition": "酷的；时髦的",
+            "iscorrect": true
+          },
+          {
+            "definition": "烹饪",
+            "iscorrect": false
+          },
+          {
+            "definition": "冷的；寒冷的",
+            "iscorrect": false
+          },
+          {
+            "definition": "冷漠的；不友好的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

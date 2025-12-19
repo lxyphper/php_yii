@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "never",
+      "error_analysis": "学生易混淆形近词\"ever\"的含义，将\"never\"误理解为\"曾经\"（ever的词义）。",
+      "sentence": "She **never** eats meat—she’s a vegetarian.",
+      "options": {
+        "option": [
+          {
+            "definition": "从不；从未",
+            "iscorrect": true
+          },
+          {
+            "definition": "曾经；无论何时",
+            "iscorrect": false
+          },
+          {
+            "definition": "永远；始终",
+            "iscorrect": false
+          },
+          {
+            "definition": "总是；一直",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

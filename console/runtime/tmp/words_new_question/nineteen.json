@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nineteen",
+      "error_analysis": "中国学生易因形近词“ninety”（90）的拼写相似性将“nineteen”误判为90，或因“nine”（9）的词根联想错误理解为9。",
+      "sentence": "There are **nineteen** students in our class, so we need two more chairs for the new comers.",
+      "options": {
+        "option": [
+          {
+            "definition": 19,
+            "iscorrect": true
+          },
+          {
+            "definition": 90,
+            "iscorrect": false
+          },
+          {
+            "definition": 9,
+            "iscorrect": false
+          },
+          {
+            "definition": 29,
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

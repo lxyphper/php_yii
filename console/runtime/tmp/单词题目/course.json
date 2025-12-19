@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "course",
+      "error_analysis": "学生易混淆形近词\"cause\"(原因)而误选，或因词根\"跑\"过度联想为\"跑步\"",
+      "sentence": "She signed up for a **course** in graphic design to learn new skills.",
+      "options": {
+        "option": [
+          {
+            "definition": "课程",
+            "iscorrect": true
+          },
+          {
+            "definition": "原因",
+            "iscorrect": false
+          },
+          {
+            "definition": "跑步",
+            "iscorrect": false
+          },
+          {
+            "definition": "一道菜",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

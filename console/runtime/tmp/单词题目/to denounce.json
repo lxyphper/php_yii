@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to denounce",
+      "error_analysis": "易混淆形近词\"announce\"(宣布)，或因词根\"de-\"(向下/否定)误解为\"低调宣布\"或\"隐瞒\"",
+      "sentence": "The human rights organization decided to **denounce** the company's unethical practices in its latest report.",
+      "options": {
+        "option": [
+          {
+            "definition": "谴责；公开指责",
+            "iscorrect": true
+          },
+          {
+            "definition": "宣布；通告",
+            "iscorrect": false
+          },
+          {
+            "definition": "低调处理；隐瞒",
+            "iscorrect": false
+          },
+          {
+            "definition": "否认；拒绝承认",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "the United States",
+      "error_analysis": "学生易将“the United States”与形近的“the United Nations”（联合国）混淆，或误将“States”理解为“状态”导致误解为“联合的状态”。",
+      "sentence": "Many people dream of studying in **the United States** because of its top universities like Harvard and Stanford.",
+      "options": {
+        "option": [
+          {
+            "definition": "美国",
+            "iscorrect": true
+          },
+          {
+            "definition": "联合国",
+            "iscorrect": false
+          },
+          {
+            "definition": "联合的状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "联合王国",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

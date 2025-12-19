@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "offline",
+      "error_analysis": "学生易因“off”（离开）+“line”（线）的字面误导，将“offline”错误理解为“断开物理线路”，或混淆其与形近词“online”的反义关系，忽略其“不连接互联网”的核心含义。",
+      "sentence": "I can't check your message right now—my laptop is **offline**.",
+      "options": {
+        "option": [
+          {
+            "definition": "不连接互联网的；离线的",
+            "iscorrect": true
+          },
+          {
+            "definition": "断开物理线路（如电话线）",
+            "iscorrect": false
+          },
+          {
+            "definition": "不再生产的",
+            "iscorrect": false
+          },
+          {
+            "definition": "在线的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

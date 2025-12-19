@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "container",
+      "error_analysis": "中国学生易因形近词\"continent\"（大陆）混淆，或词根推导错误认为是\"包含者（指人）\"",
+      "sentence": "Please put the leftover soup into a clean **container** and refrigerate it.",
+      "options": {
+        "option": [
+          {
+            "definition": "容器",
+            "iscorrect": true
+          },
+          {
+            "definition": "大陆",
+            "iscorrect": false
+          },
+          {
+            "definition": "包含者（指人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "内容",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to qualify",
+      "error_analysis": "学生易因形近词“quality”（质量）或词根“qual-”（性质）误将“to qualify”理解为“使有质量”或“描述性质”。",
+      "sentence": "To apply for the scholarship, you need to **qualify** by having a GPA of 3.5 or higher.",
+      "options": {
+        "option": [
+          {
+            "definition": "（使）有资格；合格",
+            "iscorrect": true
+          },
+          {
+            "definition": "使有质量；提高质量",
+            "iscorrect": false
+          },
+          {
+            "definition": "描述或区分性质",
+            "iscorrect": false
+          },
+          {
+            "definition": "限制；修饰",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

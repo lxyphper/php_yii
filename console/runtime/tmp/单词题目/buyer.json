@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "buyer",
+      "error_analysis": "学生易因形近词“baker”（面包师）或“builder”（建造者）的干扰，将“buyer”错误理解为与制作或建造相关的职业。",
+      "sentence": "If you are a **buyer** at this shop, you can get 10% off.",
+      "options": {
+        "option": [
+          {
+            "definition": "买家；购买者",
+            "iscorrect": true
+          },
+          {
+            "definition": "面包师",
+            "iscorrect": false
+          },
+          {
+            "definition": "建造者",
+            "iscorrect": false
+          },
+          {
+            "definition": "销售者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

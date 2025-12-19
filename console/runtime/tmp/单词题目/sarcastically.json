@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sarcastically",
+      "error_analysis": "易因形近词`sincerely`（真诚地）混淆，或因词根`cast`（投射/铸造）错误推导为“投射地”。",
+      "sentence": "When I told him I’d failed the exam, he **sarcastically** said, “Wow, you’re really smart—way to go!”",
+      "options": {
+        "option": [
+          {
+            "definition": "真诚地；由衷地",
+            "iscorrect": false
+          },
+          {
+            "definition": "讽刺地；挖苦地",
+            "iscorrect": true
+          },
+          {
+            "definition": "投射地；铸造地",
+            "iscorrect": false
+          },
+          {
+            "definition": "同情地；怜悯地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

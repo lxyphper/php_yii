@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "enduring",
+      "error_analysis": "因形近“during”误判为“期间的”，或因词根“endure”（忍受）误判为“正在忍受的”，忽略其“持久的”核心义。",
+      "sentence": "The painting's **enduring** beauty has attracted visitors from all over the world for over a century.",
+      "options": {
+        "option": [
+          {
+            "definition": "持久的；永恒的",
+            "iscorrect": true
+          },
+          {
+            "definition": "在...期间的",
+            "iscorrect": false
+          },
+          {
+            "definition": "正在忍受的",
+            "iscorrect": false
+          },
+          {
+            "definition": "暂时的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

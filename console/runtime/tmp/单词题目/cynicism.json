@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cynicism",
+      "error_analysis": "学生易混淆形近词“criticism”（批评），或因词根“cyn-”错误联想为“批判”。",
+      "sentence": "After years of being lied to by politicians, his **cynicism** towards government policies grew stronger.",
+      "options": {
+        "option": [
+          {
+            "definition": "批评；批判",
+            "iscorrect": false
+          },
+          {
+            "definition": "批判；批判主义",
+            "iscorrect": false
+          },
+          {
+            "definition": "愤世嫉俗；怀疑态度",
+            "iscorrect": true
+          },
+          {
+            "definition": "同情；怜悯",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

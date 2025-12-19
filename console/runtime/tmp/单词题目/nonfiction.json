@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nonfiction",
+      "error_analysis": "学生易因词根拆分（non-+fiction）误解为“非小说的虚构内容”，或混淆其与科幻等fiction子类的界限",
+      "sentence": "The library has a separate section for **nonfiction**, where you can find books about science, history, and famous people's lives.",
+      "options": {
+        "option": [
+          {
+            "definition": "虚构的故事（如小说、童话）",
+            "iscorrect": false
+          },
+          {
+            "definition": "科幻小说（基于想象的未来故事）",
+            "iscorrect": false
+          },
+          {
+            "definition": "非小说类真实作品（如科学、历史或传记）",
+            "iscorrect": true
+          },
+          {
+            "definition": "诗歌或戏剧（创造性文学形式）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

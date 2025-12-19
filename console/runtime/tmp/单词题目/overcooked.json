@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "overcooked",
+      "error_analysis": "学生易因形近词“overlooked”（忽视）的拼写相似而误判，或因“over-”与“under-”前缀混淆而误解为“未煮熟的”。",
+      "sentence": "The steak was so **overcooked** that it was tough and hard to chew.",
+      "options": {
+        "option": [
+          {
+            "definition": "（食物）煮过了的，烧过头的",
+            "iscorrect": true
+          },
+          {
+            "definition": "被忽视的",
+            "iscorrect": false
+          },
+          {
+            "definition": "未煮熟的",
+            "iscorrect": false
+          },
+          {
+            "definition": "超额预订的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "virtuous",
+      "error_analysis": "学生易因形近词“virtual”（虚拟的）产生错误联想，或因不熟悉词根“virtue”（美德）而误判词义。",
+      "sentence": "The old man was respected by everyone in the village because of his **virtuous** life, always helping others without asking for anything in return.",
+      "options": {
+        "option": [
+          {
+            "definition": "有美德的；品行端正的",
+            "iscorrect": true
+          },
+          {
+            "definition": "虚拟的；事实上的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有活力的；精力充沛的",
+            "iscorrect": false
+          },
+          {
+            "definition": "各种各样的；不同的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

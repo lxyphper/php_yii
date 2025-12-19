@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "heartbreak",
+      "error_analysis": "学生易因形近词“heartbeat”混淆为“心跳”，或因“heart+break”字面直译误解为“心脏破裂”（物理损伤）而非情感上的“极度伤心”。",
+      "sentence": "Losing her beloved dog after 10 years caused her immense **heartbreak** that lasted for months.",
+      "options": {
+        "option": [
+          {
+            "definition": "极度伤心；心碎",
+            "iscorrect": true
+          },
+          {
+            "definition": "心跳",
+            "iscorrect": false
+          },
+          {
+            "definition": "心脏破裂",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻微心痛",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

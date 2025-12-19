@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "that",
+      "error_analysis": "学生易混淆形近词“than”（比）的含义，或误将“that”当作“this”（这个）、“those”（那些）使用。",
+      "sentence": "The movie **that** we watched last night was really scary.",
+      "options": {
+        "option": [
+          {
+            "definition": "比（用于比较）",
+            "iscorrect": false
+          },
+          {
+            "definition": "这个（指近处的事物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "那个（指代前文提到的事物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "那些（指复数的事物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

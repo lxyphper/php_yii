@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mushy",
+      "error_analysis": "学生易因形近词\"mushroom\"联想到\"蘑菇的\"，或因词根\"mush\"（糊）误判为\"糊状的\"，而忽略其\"过于煽情的\"核心义。",
+      "sentence": "The movie's ending was so **mushy** that some audience members rolled their eyes.",
+      "options": {
+        "option": [
+          {
+            "definition": "（情感上）多愁善感的；过于煽情的",
+            "iscorrect": true
+          },
+          {
+            "definition": "蘑菇的；像蘑菇的",
+            "iscorrect": false
+          },
+          {
+            "definition": "糊状的；浆状的",
+            "iscorrect": false
+          },
+          {
+            "definition": "发霉的；腐烂的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fetus",
+      "error_analysis": "学生易因形近词\"feast\"(盛宴)或发音联想\"fat\"(胖)而误判\"fetus\"的含义",
+      "sentence": "During the ultrasound, the doctor showed the parents the image of the **fetus** growing inside the mother's womb.",
+      "options": {
+        "option": [
+          {
+            "definition": "胎儿",
+            "iscorrect": true
+          },
+          {
+            "definition": "盛宴",
+            "iscorrect": false
+          },
+          {
+            "definition": "肥胖的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "森林",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "frozen",
+      "error_analysis": "学生易因\"free\"（自由）的词根联想误将\"frozen\"理解为\"被释放的\"，或因与\"chosen\"（选择的）形近误联想为\"被选择的\"",
+      "sentence": "Don't forget to put the **frozen** chicken in the fridge to thaw before cooking.",
+      "options": {
+        "option": [
+          {
+            "definition": "被选择的",
+            "iscorrect": false
+          },
+          {
+            "definition": "被释放的",
+            "iscorrect": false
+          },
+          {
+            "definition": "冷冻的",
+            "iscorrect": true
+          },
+          {
+            "definition": "沮丧的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

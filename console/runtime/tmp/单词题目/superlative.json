@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "superlative",
+      "error_analysis": "学生易因形近词\"superlate\"（超级晚的）或词根误解（将\"superlative\"拆为\"super+late\"）而误判为\"超级晚的\"或\"超级大的\"。",
+      "sentence": "In English grammar, adjectives like \"tallest\" and \"most beautiful\" are in the **superlative** degree, indicating the highest level of a quality.",
+      "options": {
+        "option": [
+          {
+            "definition": "（语法）最高级的（表示最高程度的形式）",
+            "iscorrect": true
+          },
+          {
+            "definition": "超级晚的",
+            "iscorrect": false
+          },
+          {
+            "definition": "超级大的",
+            "iscorrect": false
+          },
+          {
+            "definition": "极好的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

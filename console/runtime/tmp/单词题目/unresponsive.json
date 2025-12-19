@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unresponsive",
+      "error_analysis": "学生易因形近词“responsible”（负责的）将“unresponsive”误判为“不负责的”（irresponsible）。",
+      "sentence": "The customer service representative was **unresponsive** to my repeated calls, so I had to file a complaint.",
+      "options": {
+        "option": [
+          {
+            "definition": "不负责的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无反应的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不敏感的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不积极的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

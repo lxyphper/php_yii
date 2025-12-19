@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "ruff cut",
+      "roug cut",
+      "rough cutt",
+      "rough cot"
+    ],
+    "correct_chunks": [
+      "r",
+      "ough",
+      "cut"
+    ],
+    "distractor_chunks": [
+      "uff",
+      "oug",
+      "tt",
+      "ot"
+    ]
+  },
+  0
+]

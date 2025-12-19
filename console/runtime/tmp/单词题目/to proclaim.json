@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to proclaim",
+      "error_analysis": "易因形近词\"claim\"（声称、要求）干扰，将\"proclaim\"误判为非正式的\"声称\"或\"要求\"，忽略其正式\"宣布\"的核心义",
+      "sentence": "The president will **proclaim** the start of the national celebration in his televised speech tonight.",
+      "options": {
+        "option": [
+          {
+            "definition": "宣布；声明（正式场合，如官方或公开场合）",
+            "iscorrect": true
+          },
+          {
+            "definition": "声称（个人未经证实的说法）",
+            "iscorrect": false
+          },
+          {
+            "definition": "要求（权利、所有权或赔偿）",
+            "iscorrect": false
+          },
+          {
+            "definition": "断言（强调肯定但非正式的陈述）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

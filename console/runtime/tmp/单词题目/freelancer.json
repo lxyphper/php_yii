@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "freelancer",
+      "error_analysis": "学生易因\"free\"（免费）和\"lance\"（长矛）的词根误导，将\"freelancer\"误解为\"免费服务者\"或\"战士\"。",
+      "sentence": "After quitting her full-time job, Lisa started working as a **freelancer** , taking on graphic design projects for various clients from home.",
+      "options": {
+        "option": [
+          {
+            "definition": "自由职业者",
+            "iscorrect": true
+          },
+          {
+            "definition": "使用长矛的战士",
+            "iscorrect": false
+          },
+          {
+            "definition": "免费提供服务的志愿者",
+            "iscorrect": false
+          },
+          {
+            "definition": "公司的全职员工",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

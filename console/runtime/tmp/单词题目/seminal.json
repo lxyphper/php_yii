@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "seminal",
+      "error_analysis": "学生易因形近词\"seminar\"(研讨会)误判为\"与研讨会相关的\"，或因词根\"semen\"(种子)错解为\"种子的；生殖的\"",
+      "sentence": "Her **seminal** research on artificial intelligence laid the foundation for modern machine learning.",
+      "options": {
+        "option": [
+          {
+            "definition": "开创性的；有重大影响的",
+            "iscorrect": true
+          },
+          {
+            "definition": "与研讨会相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "种子的；生殖的",
+            "iscorrect": false
+          },
+          {
+            "definition": "次要的；辅助的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

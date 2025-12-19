@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "struggling",
+      "error_analysis": "学生易因形近词\"striking\"(引人注目的)产生错误联想，或误将\"struggling\"直译为\"努力的\"而忽略其\"艰难应对\"的核心含义。",
+      "sentence": "Since the pandemic, many small businesses have been **struggling** to survive.",
+      "options": {
+        "option": [
+          {
+            "definition": "引人注目的",
+            "iscorrect": false
+          },
+          {
+            "definition": "努力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "挣扎的；艰难应对的",
+            "iscorrect": true
+          },
+          {
+            "definition": "严格的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

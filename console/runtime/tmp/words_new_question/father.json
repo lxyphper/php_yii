@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "father",
+      "error_analysis": "形近词‘farther’（更远的）的干扰（拼写仅差一个‘r’且发音相同），及拆分‘fat+her’导致的‘她的胖’的字面误导",
+      "sentence": "My **father** often helps me with my homework.",
+      "options": {
+        "option": [
+          {
+            "definition": "父亲",
+            "iscorrect": true
+          },
+          {
+            "definition": "更远的",
+            "iscorrect": false
+          },
+          {
+            "definition": "她的胖",
+            "iscorrect": false
+          },
+          {
+            "definition": "羽毛",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

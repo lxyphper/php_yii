@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to grapple",
+      "error_analysis": "学生易因形近词\"grapes\"（葡萄）联想到\"抓取\"，或因词根\"grab\"（抓取）误判为\"抓住具体物品\"，忽略其\"努力应对难题\"的核心义。",
+      "sentence": "She had to **grapple with** the challenge of learning a new language in just three months.",
+      "options": {
+        "option": [
+          {
+            "definition": "努力应对（难题/挑战）",
+            "iscorrect": true
+          },
+          {
+            "definition": "抓取（如葡萄等水果）",
+            "iscorrect": false
+          },
+          {
+            "definition": "抓住（如机会等抽象事物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "逃避（困难/挑战）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

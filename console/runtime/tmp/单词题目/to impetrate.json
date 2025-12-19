@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to impetrate",
+      "error_analysis": "学生易因形近词\"impetuous\"(冲动的)或词根\"pet\"(寻求)被误判为\"推动\"而混淆词义",
+      "sentence": "Despite his strong pride, he had to **impetrate** a second chance from the committee after his failed presentation.",
+      "options": {
+        "option": [
+          {
+            "definition": "冲动地行动",
+            "iscorrect": false
+          },
+          {
+            "definition": "推动前进",
+            "iscorrect": false
+          },
+          {
+            "definition": "恳求；祈求",
+            "iscorrect": true
+          },
+          {
+            "definition": "命令；统治",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

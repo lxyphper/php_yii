@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "charming",
+      "error_analysis": "中国学生易因形近词\"harm\"（伤害）、\"changing\"（变化）及词根\"arm\"（手臂）的误导，误将\"charming\"理解为\"有害的\"\"变化的\"或\"与手臂有关的\"。",
+      "sentence": "The little girl with a bright smile is so **charming** that everyone in the room wants to play with her.",
+      "options": {
+        "option": [
+          {
+            "definition": "迷人的；有魅力的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有害的",
+            "iscorrect": false
+          },
+          {
+            "definition": "变化的",
+            "iscorrect": false
+          },
+          {
+            "definition": "与手臂有关的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

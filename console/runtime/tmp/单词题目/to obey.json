@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to obey",
+      "error_analysis": "中国学生易因形近词（如observe）或“ob-”前缀的错误联想（如object的“反对”）将“obey”误解为“观察”或“反对”。",
+      "sentence": "The teacher told the students to **obey** the classroom rules, but some of them still talked loudly during the lesson.",
+      "options": {
+        "option": [
+          {
+            "definition": "服从；遵守",
+            "iscorrect": true
+          },
+          {
+            "definition": "观察；注意",
+            "iscorrect": false
+          },
+          {
+            "definition": "反对；拒绝",
+            "iscorrect": false
+          },
+          {
+            "definition": "获得；得到",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unmatched",
+      "error_analysis": "学生易因形近词\"unmarked\"(无标记的)或词根误解(将\"unmatched\"误判为\"不匹配的\")而犯错",
+      "sentence": "Her skill in playing the piano is **unmatched** among her peers—no one else can play with such passion and precision.",
+      "options": {
+        "option": [
+          {
+            "definition": "无与伦比的，无法匹敌的",
+            "iscorrect": true
+          },
+          {
+            "definition": "无标记的，未被注意的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不匹配的，不协调的",
+            "iscorrect": false
+          },
+          {
+            "definition": "未被提及的，未说到的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

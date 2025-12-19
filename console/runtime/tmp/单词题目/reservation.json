@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "reservation",
+      "error_analysis": "学生易因形近词\"preservation\"(保存)混淆，或因词根\"serve\"(服务)误导，将\"reservation\"误判为\"保存\"或\"服务\"。",
+      "sentence": "I made a **reservation** for two at the Italian restaurant downtown tonight.",
+      "options": {
+        "option": [
+          {
+            "definition": "保存（如文物的保护）",
+            "iscorrect": false
+          },
+          {
+            "definition": "服务（如提供的服务）",
+            "iscorrect": false
+          },
+          {
+            "definition": "预订（如酒店、餐厅的预约）",
+            "iscorrect": true
+          },
+          {
+            "definition": "储备（如食物的储备）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

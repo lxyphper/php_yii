@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "style",
+      "error_analysis": "易混淆形近词“stile”（篱笆门）或因词根“styl-”（如stylus笔）误判为“书写工具”。",
+      "sentence": "Her dress has a classic **style** that never goes out of fashion.",
+      "options": {
+        "option": [
+          {
+            "definition": "风格",
+            "iscorrect": true
+          },
+          {
+            "definition": "篱笆门",
+            "iscorrect": false
+          },
+          {
+            "definition": "书写工具",
+            "iscorrect": false
+          },
+          {
+            "definition": "类型",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

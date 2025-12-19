@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to lecture",
+      "error_analysis": "中国学生易因形近词“collect”（收集）的干扰或词根“lect”（阅读）的误导，将“to lecture”误判为“收集”或“阅读”。",
+      "sentence": "The history professor will **lecture** on the French Revolution to our class next week.",
+      "options": {
+        "option": [
+          {
+            "definition": "讲授，讲课",
+            "iscorrect": true
+          },
+          {
+            "definition": "收集",
+            "iscorrect": false
+          },
+          {
+            "definition": "阅读",
+            "iscorrect": false
+          },
+          {
+            "definition": "听讲座",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

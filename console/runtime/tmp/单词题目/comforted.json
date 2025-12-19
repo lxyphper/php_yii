@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "comforted",
+      "error_analysis": "学生易因形近词\"comfortable\"（舒适的）将\"comforted\"误判为形容词\"舒适的\"，忽略其为动词\"安慰\"的过去式/过去分词",
+      "sentence": "When she felt sad after failing the exam, her mother **comforted** her with a warm cup of tea and kind words.",
+      "options": {
+        "option": [
+          {
+            "definition": "安慰（某人）的过去式/过去分词",
+            "iscorrect": true
+          },
+          {
+            "definition": "舒适的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "使强壮（来自词根\"fort\"的误判）",
+            "iscorrect": false
+          },
+          {
+            "definition": "鼓励（与\"安慰\"语义混淆）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

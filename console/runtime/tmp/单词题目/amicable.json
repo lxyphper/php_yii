@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "amicable",
+      "error_analysis": "学生易将`amicable`与形近反义词`inimical`（敌意的）混淆，或因`am`开头猜测为“充足的”（如`ample`）。",
+      "sentence": "Despite their differences, the two parties reached an **amicable** agreement after hours of discussion.",
+      "options": {
+        "option": [
+          {
+            "definition": "友好的（用于描述关系或互动的和睦，如协议、谈判等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "敌意的（充满恶意或敌对的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "充足的（数量或程度足够的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "和蔼的（指人的性格亲切友善）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

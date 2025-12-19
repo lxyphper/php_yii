@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to whizz",
+      "error_analysis": "学生易因形近词\"whisper\"(低语)混淆，或因\"wh\"开头词猜测为\"旋转\"等义",
+      "sentence": "As I stood on the sidewalk, a motorcycle **whizzed** past me, leaving a trail of exhaust smoke.",
+      "options": {
+        "option": [
+          {
+            "definition": "快速移动；疾驰",
+            "iscorrect": true
+          },
+          {
+            "definition": "低语；小声说",
+            "iscorrect": false
+          },
+          {
+            "definition": "旋转；打转",
+            "iscorrect": false
+          },
+          {
+            "definition": "鞭打；抽打",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

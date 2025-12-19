@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "burial",
+      "error_analysis": "学生易因形近词\"burden\"（负担）混淆，或误将名词\"葬礼\"当作形容词\"埋葬的\"。",
+      "sentence": "The family held a simple **burial** for their beloved dog in the backyard.",
+      "options": {
+        "option": [
+          {
+            "definition": "葬礼；埋葬（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "负担；重负（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "埋葬的；有关埋葬的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "桶；木桶（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

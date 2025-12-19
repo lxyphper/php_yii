@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "colonel",
+      "error_analysis": "学生易因形近词\"colony\"(殖民地)或\"column\"(柱子)误将\"colonel\"理解为与\"殖民地\"或\"柱状物\"相关的词",
+      "sentence": "The **colonel** ordered his troops to prepare for the upcoming mission.",
+      "options": {
+        "option": [
+          {
+            "definition": "上校（军衔）",
+            "iscorrect": true
+          },
+          {
+            "definition": "殖民地",
+            "iscorrect": false
+          },
+          {
+            "definition": "柱子；专栏",
+            "iscorrect": false
+          },
+          {
+            "definition": "谷粒；内核",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

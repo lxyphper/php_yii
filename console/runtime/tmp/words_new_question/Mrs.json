@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Mrs",
+      "error_analysis": "易混淆形近词\"Mr\"（先生）或误将其拆分为\"Mr\"的复数（先生们）",
+      "sentence": "Excuse me, **Mrs** Johnson, could you help me carry this box to the classroom?",
+      "options": {
+        "option": [
+          {
+            "definition": "先生（对男性的尊称）",
+            "iscorrect": false
+          },
+          {
+            "definition": "夫人，太太（已婚女性的尊称）",
+            "iscorrect": true
+          },
+          {
+            "definition": "先生们（Mr的复数形式）",
+            "iscorrect": false
+          },
+          {
+            "definition": "小姐（对未婚女性的尊称）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

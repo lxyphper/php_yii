@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ballet",
+      "error_analysis": "学生易因形近词\"ball\"(球/舞会)或\"belt\"(腰带)误将\"ballet\"理解为\"球类运动\"或\"腰带舞\"",
+      "sentence": "She has been taking **ballet** lessons since she was five and dreams of performing in *Swan Lake* one day.",
+      "options": {
+        "option": [
+          {
+            "definition": "球类运动",
+            "iscorrect": false
+          },
+          {
+            "definition": "腰带舞",
+            "iscorrect": false
+          },
+          {
+            "definition": "芭蕾舞",
+            "iscorrect": true
+          },
+          {
+            "definition": "民间舞蹈",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

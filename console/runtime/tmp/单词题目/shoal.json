@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "shoal",
+      "error_analysis": "学生易因形近词“shoe”（鞋）误判为与鞋相关的含义（如“鞋店”），或混淆其“浅滩”与“鱼群”的核心义项",
+      "sentence": "The sailors dropped anchor just outside the **shoal**, where the water was too shallow for the ship to proceed.",
+      "options": {
+        "option": [
+          {
+            "definition": "浅滩（水浅的地方）",
+            "iscorrect": true
+          },
+          {
+            "definition": "鱼群（一大群鱼）",
+            "iscorrect": false
+          },
+          {
+            "definition": "鞋店（卖鞋的商店）",
+            "iscorrect": false
+          },
+          {
+            "definition": "煤块（成块的煤）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

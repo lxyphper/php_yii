@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to support",
+      "error_analysis": "中国学生易因形近词'suppose'（假设）混淆词义，或因词根'port'（携带）误判为'搬运'。",
+      "sentence": "The community decided to **support** the local library by donating books and money.",
+      "options": {
+        "option": [
+          {
+            "definition": "支持；援助",
+            "iscorrect": true
+          },
+          {
+            "definition": "假设；认为",
+            "iscorrect": false
+          },
+          {
+            "definition": "搬运；携带",
+            "iscorrect": false
+          },
+          {
+            "definition": "报告；汇报",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

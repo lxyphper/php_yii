@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to book",
+      "error_analysis": "学生常因\"book\"的名词义\"书\"，将动词\"to book\"误理解为\"阅读/购买书籍\"或\"记录在书中\"，而非核心义\"预订\"",
+      "sentence": "She decided to **book** a table at her favorite restaurant for Valentine’s Day.",
+      "options": {
+        "option": [
+          {
+            "definition": "阅读（书籍）",
+            "iscorrect": false
+          },
+          {
+            "definition": "购买（书籍）",
+            "iscorrect": false
+          },
+          {
+            "definition": "记录（在书中）",
+            "iscorrect": false
+          },
+          {
+            "definition": "预订（如餐厅座位、酒店房间等）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

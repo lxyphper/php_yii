@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to relive",
+      "error_analysis": "学生易因词根re+live误判为“重新生活/复活”，或因形近词relieve混淆为“缓解/减轻”",
+      "sentence": "Whenever I smell freshly baked cookies, I **relive** my childhood weekends at my grandma's house.",
+      "options": {
+        "option": [
+          {
+            "definition": "重温；回忆起（过去的经历）",
+            "iscorrect": true
+          },
+          {
+            "definition": "重新生活；复活",
+            "iscorrect": false
+          },
+          {
+            "definition": "缓解；减轻",
+            "iscorrect": false
+          },
+          {
+            "definition": "继续生活",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

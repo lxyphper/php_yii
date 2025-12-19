@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "commuter",
+      "error_analysis": "学生易因形近词\"computer\"（电脑）将\"commuter\"误判为\"电脑使用者\"或\"计算机相关人员\"",
+      "sentence": "Every morning, thousands of **commuters** take the subway from the suburbs to downtown for work.",
+      "options": {
+        "option": [
+          {
+            "definition": "通勤者（经常往返于工作地点和家的人）",
+            "iscorrect": true
+          },
+          {
+            "definition": "电脑用户（使用计算机的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "交流者（传递信息或沟通的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "社区志愿者（为社区提供服务的人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

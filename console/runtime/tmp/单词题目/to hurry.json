@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to hurry",
+      "error_analysis": "学生易因形近词“harry”（骚扰）或“hurt”（伤害）的拼写接近而误解“to hurry”的核心词义。",
+      "sentence": "We need to **hurry** if we don’t want to miss the train.",
+      "options": {
+        "option": [
+          {
+            "definition": "匆忙；赶紧",
+            "iscorrect": true
+          },
+          {
+            "definition": "骚扰；纠缠",
+            "iscorrect": false
+          },
+          {
+            "definition": "伤害；使疼痛",
+            "iscorrect": false
+          },
+          {
+            "definition": "等待；等候",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

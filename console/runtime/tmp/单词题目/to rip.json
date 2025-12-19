@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to rip",
+      "error_analysis": "学生易因形近词“ripe（成熟的）”误将“to rip”理解为“成熟”，或因拼写接近“tip”误判为“轻敲”",
+      "sentence": "She accidentally **ripped** her dress when she caught it on a nail.",
+      "options": {
+        "option": [
+          {
+            "definition": "撕裂；扯破",
+            "iscorrect": true
+          },
+          {
+            "definition": "成熟；使成熟",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻敲； tip",
+            "iscorrect": false
+          },
+          {
+            "definition": "包裹；缠绕",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

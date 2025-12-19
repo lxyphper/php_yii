@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "vaccine",
+      "error_analysis": "学生易因形近词\"vacation\"（假期）或词根\"cine\"（电影）\"vac\"（空）的误导，将\"vaccine\"误判为与假期、电影或空容器相关的事物。",
+      "sentence": "The doctor advised her to get the new **vaccine** to protect against the flu.",
+      "options": {
+        "option": [
+          {
+            "definition": "假期",
+            "iscorrect": false
+          },
+          {
+            "definition": "电影票",
+            "iscorrect": false
+          },
+          {
+            "definition": "空瓶",
+            "iscorrect": false
+          },
+          {
+            "definition": "疫苗",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

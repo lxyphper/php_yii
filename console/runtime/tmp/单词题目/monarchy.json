@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "monarchy",
+      "error_analysis": "中国学生易因形近词\"monetary\"(货币的)混淆，或因词根\"mon-\"误联\"monk\"(和尚)导致理解偏差",
+      "sentence": "The United Kingdom is a **monarchy** where the King acts as a symbolic head of state without real political power.",
+      "options": {
+        "option": [
+          {
+            "definition": "货币的；金融的",
+            "iscorrect": false
+          },
+          {
+            "definition": "君主制；君主国",
+            "iscorrect": true
+          },
+          {
+            "definition": "和尚的生活方式",
+            "iscorrect": false
+          },
+          {
+            "definition": "无政府状态",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

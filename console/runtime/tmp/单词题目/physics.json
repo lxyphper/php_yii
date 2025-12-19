@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "physics",
+      "error_analysis": "将名词“physics”误判为形容词“物理的”（源于形近词“physical”的干扰）",
+      "sentence": "My brother is majoring in **physics** and plans to become a researcher in quantum mechanics.",
+      "options": {
+        "option": [
+          {
+            "definition": "物理学（研究物质、能量及它们之间相互作用的科学）",
+            "iscorrect": true
+          },
+          {
+            "definition": "物理的；身体的（与物质或身体有关的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "生理学（研究生物机体结构与功能的科学）",
+            "iscorrect": false
+          },
+          {
+            "definition": "心理学（研究人类心理与行为的科学）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

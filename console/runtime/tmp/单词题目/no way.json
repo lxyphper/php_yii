@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "no way",
+      "error_analysis": "学生易将\"no way\"字面直译为\"没有路\"或\"没有方法\"，而非正确的\"不可能；没门\"。",
+      "sentence": "—Can you lend me $100? —**No way**! I just paid my rent yesterday.",
+      "options": {
+        "option": [
+          {
+            "definition": "不可能；没门（表示拒绝或否定）",
+            "iscorrect": true
+          },
+          {
+            "definition": "没有路（字面意思）",
+            "iscorrect": false
+          },
+          {
+            "definition": "没有方法（误将way理解为\"方法\"）",
+            "iscorrect": false
+          },
+          {
+            "definition": "没关系（表示不介意）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

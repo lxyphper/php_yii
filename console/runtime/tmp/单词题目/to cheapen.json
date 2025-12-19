@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to cheapen",
+      "error_analysis": "学生易因“cheap”（便宜的）和“-en”（使动）的词根联想，将“to cheapen”误理解为“使变得便宜（降价）”，而忽略其“降低...的价值/质量”的核心引申义。",
+      "sentence": "The company's decision to cut corners on production will **cheapen** its most popular product line.",
+      "options": {
+        "option": [
+          {
+            "definition": "降低...的价值/质量",
+            "iscorrect": true
+          },
+          {
+            "definition": "使变得便宜（降价）",
+            "iscorrect": false
+          },
+          {
+            "definition": "使变得昂贵",
+            "iscorrect": false
+          },
+          {
+            "definition": "使变得耐用",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

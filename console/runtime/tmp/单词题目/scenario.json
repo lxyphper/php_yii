@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "scenario",
+      "error_analysis": "学生易因形近词\"scenery\"(风景)混淆，或因词根\"scen\"误判为具体场景，忽略其\"设想的情况\"的核心义",
+      "sentence": "The team discussed various **scenarios** for the product launch, including a delay due to supply issues.",
+      "options": {
+        "option": [
+          {
+            "definition": "风景",
+            "iscorrect": false
+          },
+          {
+            "definition": "具体的现场场景",
+            "iscorrect": false
+          },
+          {
+            "definition": "设想的情况；剧情梗概",
+            "iscorrect": true
+          },
+          {
+            "definition": "日程安排",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

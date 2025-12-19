@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "windmill",
+      "error_analysis": "中国学生易因词根拆分错误（将\"mill\"误理解为\"机器\"\"工厂\"）或形近词联想（\"mill\"与\"wheel\"形近），将\"windmill\"错误理解为\"风机器\"\"风工厂\"或\"风轮\"。",
+      "sentence": "The old **windmill** on the hill has been grinding wheat into flour for over a century.",
+      "options": {
+        "option": [
+          {
+            "definition": "风车（用于磨面或抽水的风动装置）",
+            "iscorrect": true
+          },
+          {
+            "definition": "风机器（将\"mill\"误理解为\"机器\"）",
+            "iscorrect": false
+          },
+          {
+            "definition": "风轮（将\"mill\"与\"wheel\"形近联想）",
+            "iscorrect": false
+          },
+          {
+            "definition": "风工厂（将\"mill\"误理解为\"工厂\"）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

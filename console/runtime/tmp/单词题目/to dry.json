@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to dry",
+      "error_analysis": "中国学生易将“dry”误判为形近词“try”（尝试）或误联想为“drink”（喝）的简写",
+      "sentence": "The sun will **dry** the wet clothes on the balcony in an hour.",
+      "options": {
+        "option": [
+          {
+            "definition": "尝试",
+            "iscorrect": false
+          },
+          {
+            "definition": "喝",
+            "iscorrect": false
+          },
+          {
+            "definition": "使干燥；晒干",
+            "iscorrect": true
+          },
+          {
+            "definition": "哭",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

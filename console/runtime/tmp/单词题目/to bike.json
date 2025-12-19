@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to bike",
+      "error_analysis": "因形近词\"bake\"（烘焙）及对\"bike\"名词义的过度延伸（如\"买自行车\"）导致对动词\"to bike\"的错误理解",
+      "sentence": "She loves to **bike** along the river on weekends to enjoy the fresh air.",
+      "options": {
+        "option": [
+          {
+            "definition": "骑自行车",
+            "iscorrect": true
+          },
+          {
+            "definition": "烘焙",
+            "iscorrect": false
+          },
+          {
+            "definition": "买自行车",
+            "iscorrect": false
+          },
+          {
+            "definition": "修理自行车",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

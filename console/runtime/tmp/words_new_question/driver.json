@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "driver",
+      "error_analysis": "易与形近词diver（潜水者）混淆，或误将抽象义“推动者”当作日常最常用的“司机”义",
+      "sentence": "The taxi **driver** helped the old lady carry her bags to the door.",
+      "options": {
+        "option": [
+          {
+            "definition": "司机",
+            "iscorrect": true
+          },
+          {
+            "definition": "潜水者",
+            "iscorrect": false
+          },
+          {
+            "definition": "推动者",
+            "iscorrect": false
+          },
+          {
+            "definition": "饮酒者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to truncate",
+      "error_analysis": "学生易因形近词“trunk”（树干/行李箱）联想到“砍断树干”或“整理行李箱”，或与“terminate”混淆误判为“终止”。",
+      "sentence": "The editor had to **truncate** the interview to fit it into the magazine’s page limit.",
+      "options": {
+        "option": [
+          {
+            "definition": "截断，缩短（尤指去掉末尾部分）",
+            "iscorrect": true
+          },
+          {
+            "definition": "砍断，截断（树干或植物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "终止，结束（进程或活动）",
+            "iscorrect": false
+          },
+          {
+            "definition": "整理，收拾（行李箱）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

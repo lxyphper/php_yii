@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to export",
+      "error_analysis": "形近词“expert”（专家）的干扰，及词根“ex-（出）+ port（港口/搬运）”导致的过度直译（如“出港”）",
+      "sentence": "The company plans to **export** its new electric vehicles to European countries next quarter.",
+      "options": {
+        "option": [
+          {
+            "definition": "专家",
+            "iscorrect": false
+          },
+          {
+            "definition": "出口（商品或服务）",
+            "iscorrect": true
+          },
+          {
+            "definition": "出港",
+            "iscorrect": false
+          },
+          {
+            "definition": "表达",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

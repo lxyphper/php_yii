@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "comforting",
+      "error_analysis": "学生易混淆形近词\"comfortable\"（舒适的），或误将\"comforting\"理解为\"正在安慰的\"（动词现在分词的主动含义）",
+      "sentence": "The warm hug from her grandma felt **comforting** as she cried about her lost toy.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人安慰的",
+            "iscorrect": true
+          },
+          {
+            "definition": "舒适的",
+            "iscorrect": false
+          },
+          {
+            "definition": "正在安慰的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人兴奋的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

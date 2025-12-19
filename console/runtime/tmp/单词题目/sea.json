@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sea",
+      "error_analysis": "中国学生易因形近词\"see\"（看见）或\"seat\"（座位）混淆\"sea\"，误将其理解为\"看见\"或\"座位\"。",
+      "sentence": "We spent the day playing on the **sea** and building sandcastles with our friends.",
+      "options": {
+        "option": [
+          {
+            "definition": "海（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "看见（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "座位（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "季节（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pepper",
+      "error_analysis": "学生易因形近词\"paper\"（纸）的拼写相似或\"pep\"（活力）的词根联想而误判\"pepper\"的含义。",
+      "sentence": "Could you pass me the **pepper**? I want to add some to my soup.",
+      "options": {
+        "option": [
+          {
+            "definition": "纸",
+            "iscorrect": false
+          },
+          {
+            "definition": "胡椒（粉）",
+            "iscorrect": true
+          },
+          {
+            "definition": "活力",
+            "iscorrect": false
+          },
+          {
+            "definition": "梨",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

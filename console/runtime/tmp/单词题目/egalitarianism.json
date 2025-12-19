@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "egalitarianism",
+      "error_analysis": "易与形近词“elitism”（精英主义）混淆，或因词根“egal”（平等）不熟悉而误猜为“利己主义”（egoism）",
+      "sentence": "Many social movements in the 20th century advocated for **egalitarianism**, aiming to eliminate discrimination based on race, gender, or class.",
+      "options": {
+        "option": [
+          {
+            "definition": "精英主义（认为精英群体应主导社会的思想）",
+            "iscorrect": false
+          },
+          {
+            "definition": "平等主义（强调人人平等、消除歧视的理念）",
+            "iscorrect": true
+          },
+          {
+            "definition": "利己主义（以自我利益为核心的原则）",
+            "iscorrect": false
+          },
+          {
+            "definition": "环保主义（关注环境保护的理念）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

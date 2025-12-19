@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to dignify",
+      "error_analysis": "学生易因形近词“dignity”（尊严，名词）误解“dignify”为“有尊严的”（形容词），或因词根“dign-”（值得）过度推导为“使值得”。",
+      "sentence": "The school decided to **dignify** the annual awards ceremony by inviting a renowned humanitarian to present the prizes.",
+      "options": {
+        "option": [
+          {
+            "definition": "使有尊严；使高贵",
+            "iscorrect": true
+          },
+          {
+            "definition": "有尊严的",
+            "iscorrect": false
+          },
+          {
+            "definition": "使值得",
+            "iscorrect": false
+          },
+          {
+            "definition": "意味着",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

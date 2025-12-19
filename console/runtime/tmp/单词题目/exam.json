@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "exam",
+      "error_analysis": "学生易因形近混淆“exam”（考试）与“example”（例子），或误将其当作“examine”（检查）的动词形式。",
+      "sentence": "She has to study hard for her math **exam** tomorrow.",
+      "options": {
+        "option": [
+          {
+            "definition": "考试（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "例子",
+            "iscorrect": false
+          },
+          {
+            "definition": "检查（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "精确的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "somewhat",
+      "error_analysis": "将somewhat误拆为some+what，理解为“某些东西”（名词短语）而非副词“稍微”",
+      "sentence": "The movie was **somewhat** boring, so I left the cinema 10 minutes early.",
+      "options": {
+        "option": [
+          {
+            "definition": "稍微；有点（副词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "某些东西（名词短语）",
+            "iscorrect": false
+          },
+          {
+            "definition": "某个地方（副词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "以某种方式（副词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

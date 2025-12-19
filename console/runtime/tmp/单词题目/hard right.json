@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hard right",
+      "error_analysis": "学生易将\"hard right\"字面直译为\"坚硬的右边\"或\"用力向右转\"，忽略其\"极右翼（政治立场）\"的熟词僻义",
+      "sentence": "The new political party has gained support by promoting **hard right** views on national identity and border control.",
+      "options": {
+        "option": [
+          {
+            "definition": "极右翼（政治立场）",
+            "iscorrect": true
+          },
+          {
+            "definition": "坚硬的右边",
+            "iscorrect": false
+          },
+          {
+            "definition": "用力向右转（动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "几乎不正确",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

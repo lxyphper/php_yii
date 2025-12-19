@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "incredible",
+      "error_analysis": "学生易混淆形近词\"incredulous\"(怀疑的)，或因词根\"cred\"(相信)误判为\"不可信任的\"，忽略其\"令人惊讶的好/大\"的核心义。",
+      "sentence": "The athlete broke the world record with an **incredible** time of 9.58 seconds in the 100-meter dash.",
+      "options": {
+        "option": [
+          {
+            "definition": "难以置信的；惊人的",
+            "iscorrect": true
+          },
+          {
+            "definition": "怀疑的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不可信任的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不常见的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

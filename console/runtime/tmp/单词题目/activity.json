@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "activity",
+      "error_analysis": "学生易因形近词“actual”（实际的）联想或词根“act”过度推导为“行动的能力”，忽略“activity”核心词义“活动”。",
+      "sentence": "The after-school **activity** includes painting, dancing, and sports for students to join.",
+      "options": {
+        "option": [
+          {
+            "definition": "活动（指具体的行为或事件）",
+            "iscorrect": true
+          },
+          {
+            "definition": "现实性（实际存在的状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "行动的能力（做某事的能力）",
+            "iscorrect": false
+          },
+          {
+            "definition": "活跃的状态（精力充沛的样子）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

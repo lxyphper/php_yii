@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "voluminous",
+      "error_analysis": "学生易因形近词\"volume\"（音量/体积）误解为\"大声的\"或\"体积大的\"，或因词根\"volu-\"（滚动）误判为\"滚动的\"",
+      "sentence": "The lawyer had to go through a **voluminous** stack of documents to prepare for the trial.",
+      "options": {
+        "option": [
+          {
+            "definition": "大量的；冗长的（指文字、文件等数量多）",
+            "iscorrect": true
+          },
+          {
+            "definition": "大声的；音量大的",
+            "iscorrect": false
+          },
+          {
+            "definition": "滚动的；转动的",
+            "iscorrect": false
+          },
+          {
+            "definition": "体积大的；笨重的（指物体占据空间大）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

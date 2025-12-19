@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "claw",
+      "error_analysis": "中国学生易因形近词“clay”（黏土）或误将“claw”与“law”（法律）联系而产生错误理解",
+      "sentence": "The cat used its **claw** to scratch the sofa.",
+      "options": {
+        "option": [
+          {
+            "definition": "爪子（动物的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "黏土",
+            "iscorrect": false
+          },
+          {
+            "definition": "法律条文",
+            "iscorrect": false
+          },
+          {
+            "definition": "拍手的动作",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

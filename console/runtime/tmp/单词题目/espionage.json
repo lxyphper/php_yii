@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "espionage",
+      "error_analysis": "中国学生易因形近词“espouse”（支持；拥护）产生错误联想，或误将其当作“间谍（指人）”。",
+      "sentence": "The company sued its former employee for committing industrial **espionage** to benefit a competitor.",
+      "options": {
+        "option": [
+          {
+            "definition": "间谍活动；谍报工作",
+            "iscorrect": true
+          },
+          {
+            "definition": "支持；拥护",
+            "iscorrect": false
+          },
+          {
+            "definition": "间谍（指人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "浓缩咖啡",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

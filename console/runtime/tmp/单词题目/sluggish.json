@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sluggish",
+      "error_analysis": "中国学生易因形近词“slug”（鼻涕虫）联想到“黏糊糊的”，或因“slip”（滑）误判为“滑的”，忽略其“迟缓”核心义。",
+      "sentence": "After eating a big lunch, Tom felt **sluggish** and didn’t want to move from the sofa.",
+      "options": {
+        "option": [
+          {
+            "definition": "迟缓的；无精打采的",
+            "iscorrect": true
+          },
+          {
+            "definition": "黏糊糊的；泥泞的",
+            "iscorrect": false
+          },
+          {
+            "definition": "滑的；易滑落的",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻微的；不明显的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

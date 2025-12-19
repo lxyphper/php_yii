@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "doorman",
+      "error_analysis": "学生易因“door+man”字面结构直译为“门的男人”，或混淆形近词“doormat”（门垫）而误猜为与门垫相关的职业。",
+      "sentence": "The **doorman** at the luxury hotel smiled and held the door open for the arriving guests.",
+      "options": {
+        "option": [
+          {
+            "definition": "门的男人",
+            "iscorrect": false
+          },
+          {
+            "definition": "门垫管理员",
+            "iscorrect": false
+          },
+          {
+            "definition": "（酒店、公寓等的）看门人；门童",
+            "iscorrect": true
+          },
+          {
+            "definition": "做门的工匠",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ancestry",
+      "error_analysis": "学生易因形近词\"ancestor\"（祖先）的联想，将\"ancestry\"误判为\"祖先们\"（复数），或因词根\"ancest-\"加\"-ry\"后缀错误理解为\"与祖先相关的故事\"，而非\"血统、祖先的总称\"。",
+      "sentence": "She is researching her family's **ancestry** to learn more about where her grandparents came from.",
+      "options": {
+        "option": [
+          {
+            "definition": "祖先们（复数）",
+            "iscorrect": false
+          },
+          {
+            "definition": "血统；祖先的总称",
+            "iscorrect": true
+          },
+          {
+            "definition": "与祖先相关的故事",
+            "iscorrect": false
+          },
+          {
+            "definition": "古老的传统",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

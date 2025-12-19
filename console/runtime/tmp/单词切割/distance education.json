@@ -1,0 +1,26 @@
+[
+  {
+    "common_misspellings": [
+      "distence education",
+      "distance educasion",
+      "distace education",
+      "distance edducation",
+      "distance educateion"
+    ],
+    "correct_chunks": [
+      "dis",
+      "tance",
+      "edu",
+      "cat",
+      "ion"
+    ],
+    "distractor_chunks": [
+      "tence",
+      "tace",
+      "sion",
+      "edd",
+      "teion"
+    ]
+  },
+  0
+]

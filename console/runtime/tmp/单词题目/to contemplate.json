@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to contemplate",
+      "error_analysis": "易混淆形近词contemporary（当代的），或误通过temple（寺庙）词根猜测为“祈祷”",
+      "sentence": "After hearing the news, she sat quietly for hours to **contemplate** her next move.",
+      "options": {
+        "option": [
+          {
+            "definition": "思考；沉思",
+            "iscorrect": true
+          },
+          {
+            "definition": "属于当代的；现代的",
+            "iscorrect": false
+          },
+          {
+            "definition": "在寺庙中祈祷或冥想",
+            "iscorrect": false
+          },
+          {
+            "definition": "控制或管理某个情况",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

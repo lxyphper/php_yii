@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to configure",
+      "error_analysis": "学生易因形近词（如confuse）或词根“fig”的错误联想，将“configure”误解为“困惑”或“计算图形”。",
+      "sentence": "To make the new laptop work with your printer, you need to **configure** the wireless settings first.",
+      "options": {
+        "option": [
+          {
+            "definition": "配置（设备或系统使其能正常工作）",
+            "iscorrect": true
+          },
+          {
+            "definition": "困惑，使混淆",
+            "iscorrect": false
+          },
+          {
+            "definition": "计算或绘制图形",
+            "iscorrect": false
+          },
+          {
+            "definition": "确认，证实",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

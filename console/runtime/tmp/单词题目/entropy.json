@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "entropy",
+      "error_analysis": "学生易因形近词\"energy\"（能量）混淆，或误猜为与\"入口\"（entry）相关的含义",
+      "sentence": "As the old house remained unoccupied for years, the **entropy** of its interior increased—dust accumulated, furniture fell apart, and everything became more disorganized.",
+      "options": {
+        "option": [
+          {
+            "definition": "无序状态；混乱度",
+            "iscorrect": true
+          },
+          {
+            "definition": "能量；活力",
+            "iscorrect": false
+          },
+          {
+            "definition": "入口；进入权",
+            "iscorrect": false
+          },
+          {
+            "definition": "热带气候；炎热",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

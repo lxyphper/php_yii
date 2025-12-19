@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "aweinspiring",
+      "awe-inspireing",
+      "owe-inspiring",
+      "awe-enspiring"
+    ],
+    "correct_chunks": [
+      "awe-",
+      "in-",
+      "spiring"
+    ],
+    "distractor_chunks": [
+      "awe",
+      "inspire",
+      "en-",
+      "owe-"
+    ]
+  },
+  0
+]

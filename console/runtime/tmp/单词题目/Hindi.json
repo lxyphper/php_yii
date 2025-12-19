@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Hindi",
+      "error_analysis": "学生易因形近词\"hind\"（后面的）或对\"India\"（印度）的联想，将\"Hindi\"误判为“后面的”或“印度的”。",
+      "sentence": "Many people in northern India speak **Hindi** as their first language.",
+      "options": {
+        "option": [
+          {
+            "definition": "印地语（印度的官方语言之一）",
+            "iscorrect": true
+          },
+          {
+            "definition": "后面的（后部的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "印度的（与印度相关的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "手工的（用手制作的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

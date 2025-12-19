@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to trivialize",
+      "error_analysis": "学生易因词根“triv-”（琐碎）+“-ize”（使...）错误理解为“使变得琐碎”，或与“simplify”（简化）混淆，忽略其“轻视、贬低”的核心含义。",
+      "sentence": "The manager tried to **trivialize** the team's concerns about safety, saying they were just overreacting.",
+      "options": {
+        "option": [
+          {
+            "definition": "轻视；贬低；使显得不重要",
+            "iscorrect": true
+          },
+          {
+            "definition": "使变得琐碎；让某事变得无足轻重",
+            "iscorrect": false
+          },
+          {
+            "definition": "简化；使过程更容易",
+            "iscorrect": false
+          },
+          {
+            "definition": "夸大；强调",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

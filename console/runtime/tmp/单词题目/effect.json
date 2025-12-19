@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "effect",
+      "error_analysis": "混淆形近词“affect”（动词“影响”）与“effect”（名词“效果”）",
+      "sentence": "The new policy had a positive **effect** on the economy, increasing job opportunities.",
+      "options": {
+        "option": [
+          {
+            "definition": "效果（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "影响（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "努力（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "实现（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

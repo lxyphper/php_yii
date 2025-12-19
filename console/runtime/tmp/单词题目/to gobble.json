@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to gobble",
+      "error_analysis": "学生易因形近词\"grab\"（抓住）混淆词义，或因\"gob\"（嘴）的字面联想误判为\"说话\"或\"慢慢吃\"",
+      "sentence": "After playing football for two hours, Tom sat down and **gobbled** his hamburger in two bites.",
+      "options": {
+        "option": [
+          {
+            "definition": "快速吞咽；狼吞虎咽",
+            "iscorrect": true
+          },
+          {
+            "definition": "抓住；夺取",
+            "iscorrect": false
+          },
+          {
+            "definition": "张嘴；说话",
+            "iscorrect": false
+          },
+          {
+            "definition": "慢慢咀嚼；细嚼",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

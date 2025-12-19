@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to ruminate",
+      "error_analysis": "学生易因词根“rumen”（瘤胃）误解为“咀嚼食物”，或因形近词“rumor”（谣言）误解为“传播谣言”",
+      "sentence": "After the meeting, she sat alone in her office to **ruminate** on the feedback she had received.",
+      "options": {
+        "option": [
+          {
+            "definition": "反复思考；沉思",
+            "iscorrect": true
+          },
+          {
+            "definition": "咀嚼食物；反刍",
+            "iscorrect": false
+          },
+          {
+            "definition": "传播谣言；散布传闻",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速解决；处理",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

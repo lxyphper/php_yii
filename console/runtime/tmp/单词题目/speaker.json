@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "speaker",
+      "error_analysis": "学生易因“speak”（说）的字面含义误将“speaker”仅理解为“说话者”，或与形近词“spear”（矛）混淆。",
+      "sentence": "Please turn up the **speaker** so we can hear the podcast clearly.",
+      "options": {
+        "option": [
+          {
+            "definition": "说话者",
+            "iscorrect": false
+          },
+          {
+            "definition": "矛",
+            "iscorrect": false
+          },
+          {
+            "definition": "演讲者",
+            "iscorrect": false
+          },
+          {
+            "definition": "扬声器",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

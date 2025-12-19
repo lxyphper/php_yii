@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to remove",
+      "error_analysis": "学生易将\"remove\"误判为\"移动\"（形近词\"move\"干扰）或\"再移动\"（词根\"re-+move\"的错误推导）",
+      "sentence": "Please **remove** the empty cups from the table before the guests arrive.",
+      "options": {
+        "option": [
+          {
+            "definition": "移除；去掉",
+            "iscorrect": true
+          },
+          {
+            "definition": "移动；搬动",
+            "iscorrect": false
+          },
+          {
+            "definition": "再移动；重新移动",
+            "iscorrect": false
+          },
+          {
+            "definition": "返回；回来",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

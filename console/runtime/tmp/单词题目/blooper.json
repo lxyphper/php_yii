@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "blooper",
+      "error_analysis": "学生易因形近词\"bloom\"(开花)猜测为\"开花相关事物\"，或因拟声词\"bloop\"(杂音)误判为\"杂音设备\"。",
+      "sentence": "The TV show aired a funny **blooper** reel from the movie set, where the actor accidentally tripped over his own lines and fell off the couch.",
+      "options": {
+        "option": [
+          {
+            "definition": "（广播/电视中的）失误；闹笑话的事",
+            "iscorrect": true
+          },
+          {
+            "definition": "开花的植物；盛开的花朵",
+            "iscorrect": false
+          },
+          {
+            "definition": "发出杂音的电子设备",
+            "iscorrect": false
+          },
+          {
+            "definition": "勇敢的人；无畏的冒险者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

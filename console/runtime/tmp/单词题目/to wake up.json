@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to wake up",
+      "error_analysis": "中国学生易因形近词“walk up”（走上去）产生混淆，或误将“wake up”等同于“get up”（起床）。",
+      "sentence": "I usually **wake up** at 7 a.m. and then stay in bed for a few minutes before getting up.",
+      "options": {
+        "option": [
+          {
+            "definition": "走上去",
+            "iscorrect": false
+          },
+          {
+            "definition": "起床",
+            "iscorrect": false
+          },
+          {
+            "definition": "醒来",
+            "iscorrect": true
+          },
+          {
+            "definition": "叫醒某人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

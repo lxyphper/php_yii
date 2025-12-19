@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "high-achieving",
+      "error_analysis": "学生易因字面拆分\"high\"+\"achieving\"而误解为\"高实现的\"或\"正在取得高成就的\"，忽略其\"成绩优秀的\"整体含义。",
+      "sentence": "The school is proud of its **high-achieving** students who consistently top the national exam rankings.",
+      "options": {
+        "option": [
+          {
+            "definition": "成绩优秀的；成就高的",
+            "iscorrect": true
+          },
+          {
+            "definition": "高实现的；正在达到高目标的",
+            "iscorrect": false
+          },
+          {
+            "definition": "高目标的；有高追求的",
+            "iscorrect": false
+          },
+          {
+            "definition": "高度完成的；已达成高成就的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

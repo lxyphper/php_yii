@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "kangaroo",
+      "error_analysis": "中国学生易因“kangaroo”与“koala”（考拉）形近且均为澳大利亚动物而混淆，或尝试拆分单词进行无根据词根猜测（如认为与“跳”相关但误归为鸟类）",
+      "sentence": "When visiting Australia, many tourists hope to see a **kangaroo** hopping in the wild, as it’s one of the country’s most iconic animals.",
+      "options": {
+        "option": [
+          {
+            "definition": "袋鼠",
+            "iscorrect": true
+          },
+          {
+            "definition": "考拉",
+            "iscorrect": false
+          },
+          {
+            "definition": "会跳的鸟类",
+            "iscorrect": false
+          },
+          {
+            "definition": "来自非洲的大型动物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

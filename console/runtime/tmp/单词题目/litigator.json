@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "litigator",
+      "error_analysis": "学生易因形近词\"legislator\"(立法者)混淆,或因\"lit-\"词根与\"literature\"(文学)关联而误判为文学相关从业者",
+      "sentence": "The company hired a skilled **litigator** to represent them in the contract dispute with their former partner.",
+      "options": {
+        "option": [
+          {
+            "definition": "诉讼律师",
+            "iscorrect": true
+          },
+          {
+            "definition": "立法者",
+            "iscorrect": false
+          },
+          {
+            "definition": "文学研究者",
+            "iscorrect": false
+          },
+          {
+            "definition": "调解员",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

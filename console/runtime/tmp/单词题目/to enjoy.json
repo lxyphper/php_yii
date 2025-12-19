@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to enjoy",
+      "error_analysis": "易因形近词\"joy\"（名词，快乐）的联想将\"enjoy\"误判为\"使快乐\"，或因\"en-+joy\"词根过度直译为\"进入快乐状态\"。",
+      "sentence": "She likes to **enjoy** a cup of tea with her friends in the afternoon.",
+      "options": {
+        "option": [
+          {
+            "definition": "享受；从...中获得乐趣",
+            "iscorrect": true
+          },
+          {
+            "definition": "使快乐（如\"让某人快乐\"）",
+            "iscorrect": false
+          },
+          {
+            "definition": "进入快乐状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "忍受；承受",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

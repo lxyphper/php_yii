@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to imbibe",
+      "error_analysis": "学生易因形近词（如imitate、inhibit）或词根猜测（将bibe与bite关联）错误理解imbibe的意思。",
+      "sentence": "During his travels, he managed to **imbibe** a great deal of local culture and traditions.",
+      "options": {
+        "option": [
+          {
+            "definition": "吸收（知识、文化或酒等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "模仿（行为或声音）",
+            "iscorrect": false
+          },
+          {
+            "definition": "抑制（情绪或行为）",
+            "iscorrect": false
+          },
+          {
+            "definition": "咬（食物或物体）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

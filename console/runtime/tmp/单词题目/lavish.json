@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lavish",
+      "error_analysis": "中国学生易因形近词“lazy”（懒惰的）干扰及词根“lav”（洗）误导，将“lavish”误解为“懒惰的”或“干净的”。",
+      "sentence": "The millionaire threw a **lavish** wedding for his daughter, with hundreds of guests and expensive decorations.",
+      "options": {
+        "option": [
+          {
+            "definition": "懒惰的",
+            "iscorrect": false
+          },
+          {
+            "definition": "干净的",
+            "iscorrect": false
+          },
+          {
+            "definition": "慷慨的；大量的",
+            "iscorrect": true
+          },
+          {
+            "definition": "芳香的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

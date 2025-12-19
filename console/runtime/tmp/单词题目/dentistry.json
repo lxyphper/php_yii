@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dentistry",
+      "error_analysis": "学生易因形近词\"dictionary\"（字典）或词根\"dent\"（牙齿）误解为\"字典\"或\"牙齿护理产品\"，而非\"牙科学\"。",
+      "sentence": "After graduating from medical school, she decided to specialize in **dentistry** to help people maintain good oral health.",
+      "options": {
+        "option": [
+          {
+            "definition": "牙科学；牙科医学",
+            "iscorrect": true
+          },
+          {
+            "definition": "字典；词典",
+            "iscorrect": false
+          },
+          {
+            "definition": "牙膏；牙齿护理产品",
+            "iscorrect": false
+          },
+          {
+            "definition": "牙科诊所；牙医诊室",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "opera",
+      "error_analysis": "因形近\"open\"（打开）或词根关联\"operate\"（操作），易误判为\"开放\"或\"操作\"",
+      "sentence": "My mom bought two tickets for the new **opera** at the city theater this weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "歌剧",
+            "iscorrect": true
+          },
+          {
+            "definition": "打开；开放（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "操作；运转（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "时代；纪元",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

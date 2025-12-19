@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "chubby",
+      "error_analysis": "学生易因形近词“cubby”（小隔间）误判为“小的/狭窄的”，或因“ubby”与“baby”联想误判为“婴儿的”。",
+      "sentence": "The little girl with **chubby** cheeks always makes everyone smile when she waves.",
+      "options": {
+        "option": [
+          {
+            "definition": "小的；狭窄的",
+            "iscorrect": false
+          },
+          {
+            "definition": "婴儿的；幼儿的",
+            "iscorrect": false
+          },
+          {
+            "definition": "活泼的；开朗的",
+            "iscorrect": false
+          },
+          {
+            "definition": "圆胖的；胖乎乎的（可爱的）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

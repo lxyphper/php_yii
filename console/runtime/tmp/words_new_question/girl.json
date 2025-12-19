@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "girl",
+      "error_analysis": "中国学生易因形近词（如gift“礼物”、goal“目标”）的拼写联想而错误理解“girl”的词义。",
+      "sentence": "The little **girl** is laughing while chasing a butterfly in the park.",
+      "options": {
+        "option": [
+          {
+            "definition": "女孩",
+            "iscorrect": true
+          },
+          {
+            "definition": "礼物",
+            "iscorrect": false
+          },
+          {
+            "definition": "目标",
+            "iscorrect": false
+          },
+          {
+            "definition": "男孩",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

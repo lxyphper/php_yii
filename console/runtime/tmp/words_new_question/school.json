@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "school",
+      "error_analysis": "中国学生易因“school”与形近词“pool”（水池）、“scholar”（学者）混淆，或误将次要含义“学派”当作核心含义“学校”。",
+      "sentence": "After breakfast, Jack takes his backpack and walks to **school** to meet his friends.",
+      "options": {
+        "option": [
+          {
+            "definition": "水池",
+            "iscorrect": false
+          },
+          {
+            "definition": "学者",
+            "iscorrect": false
+          },
+          {
+            "definition": "学派",
+            "iscorrect": false
+          },
+          {
+            "definition": "学校",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

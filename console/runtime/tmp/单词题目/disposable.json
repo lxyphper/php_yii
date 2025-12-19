@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "disposable",
+      "error_analysis": "学生易因词根（dispose=处理）将“disposable”误解为“可处理的”，或因形近词（dispensable）混淆为“可有可无的”",
+      "sentence": "The café uses **disposable** plates and cups to reduce washing-up time.",
+      "options": {
+        "option": [
+          {
+            "definition": "一次性的；可丢弃的",
+            "iscorrect": true
+          },
+          {
+            "definition": "可处理的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可支配的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可有可无的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

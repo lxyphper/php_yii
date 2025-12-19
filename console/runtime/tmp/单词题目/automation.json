@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "automation",
+      "error_analysis": "学生易因形近词“automobile”（汽车）将“automation”误理解为与汽车相关的概念，或因词根“auto-”（自动）过度推导为具体的“自动设备”而非抽象的“自动化”。",
+      "sentence": "The factory increased its production efficiency significantly after introducing **automation** into the assembly line.",
+      "options": {
+        "option": [
+          {
+            "definition": "自动化（指利用机器或技术自动完成任务的过程或系统）",
+            "iscorrect": true
+          },
+          {
+            "definition": "汽车制造（the manufacturing of automobiles）",
+            "iscorrect": false
+          },
+          {
+            "definition": "自动设备（a device that operates automatically）",
+            "iscorrect": false
+          },
+          {
+            "definition": "动画制作（the creation of animated films）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

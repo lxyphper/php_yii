@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to blow sb a kiss",
+      "error_analysis": "学生易因字面直译\"blow a kiss\"为\"吹一个吻\"，未理解其\"飞吻\"的固定含义。",
+      "sentence": "When Sarah saw her dad waving from the car, she smiled and **blew him a kiss** before he drove away.",
+      "options": {
+        "option": [
+          {
+            "definition": "给某人飞吻",
+            "iscorrect": true
+          },
+          {
+            "definition": "向某人吹一个实际的吻（如用嘴吹）",
+            "iscorrect": false
+          },
+          {
+            "definition": "给某人一个流动的吻",
+            "iscorrect": false
+          },
+          {
+            "definition": "给某人一个打击的吻",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

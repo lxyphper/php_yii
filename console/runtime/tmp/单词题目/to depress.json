@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to depress",
+      "error_analysis": "将“depress”误理解为具体的“按压；压迫”（形近词“press”的联想）或字面的“向下压”，而非抽象的“使沮丧”",
+      "sentence": "Losing her favorite pet **depressed** her so much that she cried for days.",
+      "options": {
+        "option": [
+          {
+            "definition": "使沮丧；使抑郁",
+            "iscorrect": true
+          },
+          {
+            "definition": "按压；压迫",
+            "iscorrect": false
+          },
+          {
+            "definition": "向下压；压低",
+            "iscorrect": false
+          },
+          {
+            "definition": "抑制；压制",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

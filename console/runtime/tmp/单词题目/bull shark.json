@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bull shark",
+      "error_analysis": "学生易因“bull”（公牛）的字面意思，将“bull shark”错误理解为“公牛形状的鲨鱼”或“以公牛为食的鲨鱼”，而非正确的鲨鱼品种。",
+      "sentence": "The **bull shark** is often spotted in rivers and lakes as well as oceans, showing its remarkable ability to adapt to different water environments.",
+      "options": {
+        "option": [
+          {
+            "definition": "牛鲨（一种能适应不同水域环境的鲨鱼品种）",
+            "iscorrect": true
+          },
+          {
+            "definition": "公牛形状的鲨鱼",
+            "iscorrect": false
+          },
+          {
+            "definition": "以公牛为食的鲨鱼",
+            "iscorrect": false
+          },
+          {
+            "definition": "带有鸟喙的鲨鱼（因“bull”与“bill”（鸟喙）形近混淆）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

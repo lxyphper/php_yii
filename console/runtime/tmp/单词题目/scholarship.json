@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "scholarship",
+      "error_analysis": "学生易因\"scholar\"+\"-ship\"字面推导为\"学者身份\"，或因形近\"school\"联想\"学校相关事物\"，忽略核心义\"奖学金\"。",
+      "sentence": "She received a **scholarship** from the university, which will pay for her books and living expenses next year.",
+      "options": {
+        "option": [
+          {
+            "definition": "奖学金",
+            "iscorrect": true
+          },
+          {
+            "definition": "学者的身份或职业",
+            "iscorrect": false
+          },
+          {
+            "definition": "学校的教学设施",
+            "iscorrect": false
+          },
+          {
+            "definition": "学术论文的发表",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

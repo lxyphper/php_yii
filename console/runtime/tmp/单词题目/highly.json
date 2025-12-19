@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "highly",
+      "error_analysis": "学生易将\"highly\"误理解为\"物理上高地\"（来自形近词\"high\"的副词义），忽略其\"非常/高度地\"的程度副词核心义",
+      "sentence": "This book is **highly** recommended by all the teachers in our school.",
+      "options": {
+        "option": [
+          {
+            "definition": "非常；高度地（表示程度）",
+            "iscorrect": true
+          },
+          {
+            "definition": "物理上高地；在高处",
+            "iscorrect": false
+          },
+          {
+            "definition": "高的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "兴奋地（俚语义）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

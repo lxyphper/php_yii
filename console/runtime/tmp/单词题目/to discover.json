@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to discover",
+      "error_analysis": "学生易因“dis-”+“cover”的词根直译，将“discover”误解为“揭开覆盖物”，而未掌握其“发现未知事物”的核心词义",
+      "sentence": "After years of digging, the archaeologists finally **discovered** an ancient temple hidden under the soil.",
+      "options": {
+        "option": [
+          {
+            "definition": "发现（未知的事物或真相）",
+            "iscorrect": true
+          },
+          {
+            "definition": "揭开（某物的）覆盖物",
+            "iscorrect": false
+          },
+          {
+            "definition": "揭露（秘密或信息）",
+            "iscorrect": false
+          },
+          {
+            "definition": "发明（新的事物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

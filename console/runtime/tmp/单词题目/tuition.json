@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tuition",
+      "error_analysis": "学生易因形近将'tuition'误判为'intuition'（直觉），或混淆其核心词义'学费'与次要含义'指导'。",
+      "sentence": "The university increased **tuition** by 10% this year, making it harder for some students to afford.",
+      "options": {
+        "option": [
+          {
+            "definition": "直觉",
+            "iscorrect": false
+          },
+          {
+            "definition": "学费",
+            "iscorrect": true
+          },
+          {
+            "definition": "指导",
+            "iscorrect": false
+          },
+          {
+            "definition": "导师",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

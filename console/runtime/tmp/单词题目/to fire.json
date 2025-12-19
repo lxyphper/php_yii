@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to fire",
+      "error_analysis": "混淆形近词“hire”（雇佣）与“fire”（解雇），或误将“fire”的名词义“火”引申为“生火”",
+      "sentence": "After repeated mistakes, the manager finally decided to **fire** the new employee.",
+      "options": {
+        "option": [
+          {
+            "definition": "解雇",
+            "iscorrect": true
+          },
+          {
+            "definition": "雇佣",
+            "iscorrect": false
+          },
+          {
+            "definition": "生火；点燃",
+            "iscorrect": false
+          },
+          {
+            "definition": "射击；开火",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

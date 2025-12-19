@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "conventional",
+      "error_analysis": "将“conventional”误判为形近词“convenient”（方便的），或根据“convention”的“会议”义误解为“会议的”",
+      "sentence": "Most people still follow **conventional** wedding traditions, like wearing a white dress and exchanging rings.",
+      "options": {
+        "option": [
+          {
+            "definition": "方便的",
+            "iscorrect": false
+          },
+          {
+            "definition": "会议的",
+            "iscorrect": false
+          },
+          {
+            "definition": "传统的；惯例的",
+            "iscorrect": true
+          },
+          {
+            "definition": "创新的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

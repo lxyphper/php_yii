@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "reforestation",
+      "error_analysis": "学生易混淆形近词deforestation（砍伐森林），或误将re-理解为“保护”而错认为是“保护森林”。",
+      "sentence": "The government launched a **reforestation** program to restore the areas destroyed by wildfires last year.",
+      "options": {
+        "option": [
+          {
+            "definition": "砍伐森林（将森林土地转为农业或城市用地的行为）",
+            "iscorrect": false
+          },
+          {
+            "definition": "保护现有森林（防止非法砍伐或破坏的措施）",
+            "iscorrect": false
+          },
+          {
+            "definition": "重新造林（在被砍伐或破坏的土地上种植新树以恢复森林的行为）",
+            "iscorrect": true
+          },
+          {
+            "definition": "森林火灾预防（通过监控或隔离带防止森林起火的方法）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

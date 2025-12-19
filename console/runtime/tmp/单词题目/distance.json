@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "distance",
+      "error_analysis": "受形近词distant干扰，将名词distance误判为形容词“遥远的”",
+      "sentence": "The **distance** between Beijing and Shanghai is about 1200 kilometers.",
+      "options": {
+        "option": [
+          {
+            "definition": "距离（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "遥远的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "分开的状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "差异",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

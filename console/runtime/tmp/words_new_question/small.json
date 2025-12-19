@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "small",
+      "error_analysis": "学生易因形近词\"smell\"（气味）或\"smile\"（微笑）的干扰，错误理解\"small\"的含义",
+      "sentence": "The cat is so **small** that it can fit in a shoebox.",
+      "options": {
+        "option": [
+          {
+            "definition": "小的",
+            "iscorrect": true
+          },
+          {
+            "definition": "气味",
+            "iscorrect": false
+          },
+          {
+            "definition": "微笑",
+            "iscorrect": false
+          },
+          {
+            "definition": "聪明的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

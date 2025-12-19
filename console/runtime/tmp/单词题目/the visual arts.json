@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "the visual arts",
+      "error_analysis": "学生易因“visual”与形近词“vital”（重要的）或“virtual”（虚拟的）混淆，或误将“visual”直译为“视力的”而误解其含义",
+      "sentence": "Many museums around the world exhibit works from **the visual arts**, such as paintings, sculptures, and photography.",
+      "options": {
+        "option": [
+          {
+            "definition": "视觉艺术（如绘画、雕塑等通过视觉感知的艺术形式）",
+            "iscorrect": true
+          },
+          {
+            "definition": "重要的艺术形式",
+            "iscorrect": false
+          },
+          {
+            "definition": "与视力或视觉功能相关的艺术",
+            "iscorrect": false
+          },
+          {
+            "definition": "虚拟的艺术类型（如数字艺术）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

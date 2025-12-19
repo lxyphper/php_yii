@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to spring",
+      "error_analysis": "学生易因形近名词\"spring\"(春天)将动词\"to spring\"误解为与\"春天\"相关的动作(如\"变绿\")，或因\"弹簧\"词义联想为\"安装弹簧\"",
+      "sentence": "The cat suddenly **sprang** from the chair when it heard a noise outside.",
+      "options": {
+        "option": [
+          {
+            "definition": "突然跳跃；弹起",
+            "iscorrect": true
+          },
+          {
+            "definition": "（使）进入春天；变绿",
+            "iscorrect": false
+          },
+          {
+            "definition": "安装弹簧；用弹簧固定",
+            "iscorrect": false
+          },
+          {
+            "definition": "缓慢生长；发芽",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to play",
+      "error_analysis": "中国学生易因形近词“pay”（支付）误将“to play”理解为“支付”，或因“播放”义混淆核心“玩/进行运动”。",
+      "sentence": "The kids love to **play** football in the park every weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "玩；进行（运动、游戏）",
+            "iscorrect": true
+          },
+          {
+            "definition": "支付",
+            "iscorrect": false
+          },
+          {
+            "definition": "放置",
+            "iscorrect": false
+          },
+          {
+            "definition": "播放",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

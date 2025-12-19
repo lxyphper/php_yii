@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to flop",
+      "error_analysis": "学生易将\"flop\"与形近词\"flap\"（拍打）混淆，或误理解为\"扑通掉落\"而非\"彻底失败\"。",
+      "sentence": "The highly anticipated comedy film **flopped** despite having a famous cast.",
+      "options": {
+        "option": [
+          {
+            "definition": "（翅膀、旗帜等）拍打、摆动",
+            "iscorrect": false
+          },
+          {
+            "definition": "彻底失败（如电影、计划、演出等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "扑通一声掉落（如坐、躺）",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速跑过或移动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to understand",
+      "error_analysis": "学生易将\"understand\"字面拆分为\"under（在...下面）+ stand（站）\"，错误理解为\"站在下面\"。",
+      "sentence": "After reading the story twice, she finally began to **understand** the main idea of the passage.",
+      "options": {
+        "option": [
+          {
+            "definition": "理解；明白",
+            "iscorrect": true
+          },
+          {
+            "definition": "站在下面",
+            "iscorrect": false
+          },
+          {
+            "definition": "低估",
+            "iscorrect": false
+          },
+          {
+            "definition": "忍受",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

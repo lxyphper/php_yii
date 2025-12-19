@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rucksack",
+      "error_analysis": "学生易因“ruck”与“rock”（岩石）形近，或拆分“ruck+sack”误猜为“岩石袋”或“皱折袋”。",
+      "sentence": "Before going on the hiking trip, Tom packed his water bottle, snacks, and a map into his **rucksack**.",
+      "options": {
+        "option": [
+          {
+            "definition": "岩石袋",
+            "iscorrect": false
+          },
+          {
+            "definition": "（尤指露营或徒步旅行用的）帆布背包",
+            "iscorrect": true
+          },
+          {
+            "definition": "皱折袋",
+            "iscorrect": false
+          },
+          {
+            "definition": "手提包",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

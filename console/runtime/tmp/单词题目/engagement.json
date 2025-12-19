@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "engagement",
+      "error_analysis": "学生易因形近词（如arrangement）混淆为“安排”，或因词根“engage”的“雇佣”义误判为“雇佣”",
+      "sentence": "The school aims to improve student **engagement** in classroom activities through interactive lessons.",
+      "options": {
+        "option": [
+          {
+            "definition": "参与；互动",
+            "iscorrect": true
+          },
+          {
+            "definition": "安排；布置",
+            "iscorrect": false
+          },
+          {
+            "definition": "雇佣；聘用",
+            "iscorrect": false
+          },
+          {
+            "definition": "承诺；保证",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

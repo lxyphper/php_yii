@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "belief",
+      "error_analysis": "易混淆形近词“brief”（简短的），或误将“belief”理解为“相信的动作”而非“信念/信仰”",
+      "sentence": "Her **belief** in hard work helped her achieve her goals.",
+      "options": {
+        "option": [
+          {
+            "definition": "信念；信仰",
+            "iscorrect": true
+          },
+          {
+            "definition": "简短的",
+            "iscorrect": false
+          },
+          {
+            "definition": "相信的动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "谎言",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

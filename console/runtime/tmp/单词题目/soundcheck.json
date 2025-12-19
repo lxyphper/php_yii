@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "soundcheck",
+      "error_analysis": "学生易因字面拆分误为“声音检查”（泛化），或因形近词`soundtrack`（原声带）混淆，未掌握“试音”的特定义。",
+      "sentence": "Before the concert, the band spent an hour on the **soundcheck** to ensure all their equipment sounded right.",
+      "options": {
+        "option": [
+          {
+            "definition": "（演出前的）试音",
+            "iscorrect": true
+          },
+          {
+            "definition": "声音质量检查",
+            "iscorrect": false
+          },
+          {
+            "definition": "原声带核对",
+            "iscorrect": false
+          },
+          {
+            "definition": "声音信号检测",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

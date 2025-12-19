@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rule",
+      "error_analysis": "学生易因形近词ruler（尺子）混淆rule的词义，或误将动词义“统治”当作名词核心义",
+      "sentence": "The school has a strict **rule** against using mobile phones during class.",
+      "options": {
+        "option": [
+          {
+            "definition": "规则",
+            "iscorrect": true
+          },
+          {
+            "definition": "尺子",
+            "iscorrect": false
+          },
+          {
+            "definition": "统治",
+            "iscorrect": false
+          },
+          {
+            "definition": "角色",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

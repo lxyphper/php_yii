@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "arm",
+      "error_analysis": "易因形近词\"army\"误判为\"军队\"，或因字面义\"手臂\"（名词）误解动词\"武装\"义",
+      "sentence": "The villagers decided to **arm** themselves with sticks and stones to protect their crops from wild boars.",
+      "options": {
+        "option": [
+          {
+            "definition": "军队",
+            "iscorrect": false
+          },
+          {
+            "definition": "手臂",
+            "iscorrect": false
+          },
+          {
+            "definition": "艺术",
+            "iscorrect": false
+          },
+          {
+            "definition": "武装（动词）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "celebration",
+      "error_analysis": "中国学生易因形近词“celebrity”（名人）混淆，或误将“celebration”推导为“庆祝者”（如celebrant）。",
+      "sentence": "The town held a big **celebration** for its 100th anniversary, with parades and fireworks.",
+      "options": {
+        "option": [
+          {
+            "definition": "名人；名流",
+            "iscorrect": false
+          },
+          {
+            "definition": "庆祝者；参与者",
+            "iscorrect": false
+          },
+          {
+            "definition": "庆祝活动；庆典",
+            "iscorrect": true
+          },
+          {
+            "definition": "仪式；典礼",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

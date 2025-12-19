@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "perspective",
+      "error_analysis": "易混淆形近词prospective（未来的）、perception（感知），或误将次要义“透视法”当作核心义",
+      "sentence": "From a teacher's **perspective**, classroom management is as important as academic teaching.",
+      "options": {
+        "option": [
+          {
+            "definition": "视角；观点",
+            "iscorrect": true
+          },
+          {
+            "definition": "未来的；预期的",
+            "iscorrect": false
+          },
+          {
+            "definition": "感知；知觉",
+            "iscorrect": false
+          },
+          {
+            "definition": "透视法；远景",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

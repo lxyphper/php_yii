@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "deprived",
+      "error_analysis": "学生易将'deprived'与形近词'depressed'（压抑的）混淆，或因词根'priv'（私人）误判为'派生的'。",
+      "sentence": "Children in the **deprived** neighborhood often lack access to proper education and healthcare.",
+      "options": {
+        "option": [
+          {
+            "definition": "压抑的",
+            "iscorrect": false
+          },
+          {
+            "definition": "派生的",
+            "iscorrect": false
+          },
+          {
+            "definition": "被剥夺的；贫困的",
+            "iscorrect": true
+          },
+          {
+            "definition": "绝望的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

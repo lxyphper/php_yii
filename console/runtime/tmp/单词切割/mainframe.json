@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "meinframe",
+      "mainfreme",
+      "mainflame",
+      "mainfame",
+      "mainfram"
+    ],
+    "correct_chunks": [
+      "main",
+      "frame"
+    ],
+    "distractor_chunks": [
+      "mein",
+      "freme",
+      "flame",
+      "fame",
+      "fram"
+    ]
+  },
+  0
+]

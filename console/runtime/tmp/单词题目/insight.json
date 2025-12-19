@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "insight",
+      "error_analysis": "学生易因形近词\"inside\"（里面）干扰或词根\"in-+sight\"（进入+看见）字面误导，将\"insight\"误解为\"里面\"或\"进入视线\"。",
+      "sentence": "After talking to her for an hour, I gained a new **insight** into why she made that decision.",
+      "options": {
+        "option": [
+          {
+            "definition": "洞察力；深刻见解",
+            "iscorrect": true
+          },
+          {
+            "definition": "里面；内部",
+            "iscorrect": false
+          },
+          {
+            "definition": "进入视线；被看见",
+            "iscorrect": false
+          },
+          {
+            "definition": "视力；视觉",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to decipher",
+      "error_analysis": "学生易因形近词\"describe\"（描述）或词根\"cipher\"（误猜为\"计算\"）而误解词义",
+      "sentence": "The archaeologists spent months trying to **decipher** the ancient hieroglyphs on the temple walls.",
+      "options": {
+        "option": [
+          {
+            "definition": "破译；解读（密码、文字等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "描述；描绘",
+            "iscorrect": false
+          },
+          {
+            "definition": "计算；核算",
+            "iscorrect": false
+          },
+          {
+            "definition": "决定；判定",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

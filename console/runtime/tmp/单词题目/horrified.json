@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "horrified",
+      "error_analysis": "学生易因形近词“hurried”（匆忙的）或词根“horr-”（如“horrible”）错误理解为“可怕的”（修饰物），而非“感到惊恐的”（修饰人）。",
+      "sentence": "When she saw the car crash right in front of her, she was **horrified** and couldn’t move for a few seconds.",
+      "options": {
+        "option": [
+          {
+            "definition": "惊恐的；震惊的",
+            "iscorrect": true
+          },
+          {
+            "definition": "匆忙的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可怕的",
+            "iscorrect": false
+          },
+          {
+            "definition": "困惑的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

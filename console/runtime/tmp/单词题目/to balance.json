@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to balance",
+      "error_analysis": "学生易因形近词“blend”（混合）拼写接近，将“to balance”误解为“混合”，或因“bal-”联想到“ball”而误解为“滚动”。",
+      "sentence": "The tightrope walker had to **balance** carefully to avoid falling.",
+      "options": {
+        "option": [
+          {
+            "definition": "混合",
+            "iscorrect": false
+          },
+          {
+            "definition": "滚动",
+            "iscorrect": false
+          },
+          {
+            "definition": "平衡",
+            "iscorrect": true
+          },
+          {
+            "definition": "弹跳",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

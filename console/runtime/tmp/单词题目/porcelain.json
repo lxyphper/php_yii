@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "porcelain",
+      "error_analysis": "中国学生易因“porcelain”与“porridge”（粥）拼写相似而误判，或因词根拆分不当将其与“陶器”等无关含义联系。",
+      "sentence": "She placed the delicate **porcelain** teacup on the saucer, careful not to break it.",
+      "options": {
+        "option": [
+          {
+            "definition": "粥",
+            "iscorrect": false
+          },
+          {
+            "definition": "陶器",
+            "iscorrect": false
+          },
+          {
+            "definition": "瓷器（尤指精致的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "门廊",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "HTTP",
+      "error_analysis": "学生易因字母组合联想形近词（如hat、step）或字面拆分（hyper+text）而误判其为普通名词或程序，而非网络协议。",
+      "sentence": "When you type a website address like \"www.example.com\" into your browser, it uses **HTTP** to request and load the web pages from the server.",
+      "options": {
+        "option": [
+          {
+            "definition": "超文本传输协议（用于网页传输的网络协议）",
+            "iscorrect": true
+          },
+          {
+            "definition": "一种帽子的款式（源自英语单词hat的变形）",
+            "iscorrect": false
+          },
+          {
+            "definition": "脚步的节奏（由step一词衍生而来）",
+            "iscorrect": false
+          },
+          {
+            "definition": "高级文本编辑程序（通过hyper+text+program字面拆分）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "deviant",
+      "error_analysis": "学生易混淆形近词deviate的动词含义（偏离），或通过词根错误推导为“偏离道路的”，忽略其“异常/越轨”的核心义。",
+      "sentence": "The psychologist studied the reasons behind the teenager's **deviant** behavior, which included skipping school and vandalizing public property.",
+      "options": {
+        "option": [
+          {
+            "definition": "异常的；越轨的（形容行为或人不符合社会规范）",
+            "iscorrect": true
+          },
+          {
+            "definition": "偏离（动词，指离开正确的道路或方向）",
+            "iscorrect": false
+          },
+          {
+            "definition": "偏离道路的（形容词，指不在正确路径上）",
+            "iscorrect": false
+          },
+          {
+            "definition": "发展中的（形容词，指正在成长或进步）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

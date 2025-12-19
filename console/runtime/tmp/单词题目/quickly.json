@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "quickly",
+      "error_analysis": "混淆形近词\"quietly\"（安静地）与\"quickly\"（快速地），或误将\"quickly\"理解为\"急切地\"（eagerly）",
+      "sentence": "The rabbit ran **quickly** to escape from the fox.",
+      "options": {
+        "option": [
+          {
+            "definition": "快速地",
+            "iscorrect": true
+          },
+          {
+            "definition": "安静地",
+            "iscorrect": false
+          },
+          {
+            "definition": "急切地",
+            "iscorrect": false
+          },
+          {
+            "definition": "慢慢地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

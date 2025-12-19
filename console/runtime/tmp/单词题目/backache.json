@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "backache",
+      "error_analysis": "易因形近词“backpack”（背包）或不熟悉“ache”（疼痛）而将“backache”误解为背部物品（如背包）或疲劳。",
+      "sentence": "After carrying heavy bags for hours, Lisa complained about a bad **backache** and had to sit down.",
+      "options": {
+        "option": [
+          {
+            "definition": "背痛",
+            "iscorrect": true
+          },
+          {
+            "definition": "背包",
+            "iscorrect": false
+          },
+          {
+            "definition": "背部疲劳",
+            "iscorrect": false
+          },
+          {
+            "definition": "后院",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "estimated time of arrival",
+      "error_analysis": "中国学生易因词根误导将“estimated”误解为“确定的”，或因词义混淆将“arrival”误作“出发”，导致错解为“确定的到达时间”或“预计出发时间”。",
+      "sentence": "The flight attendant announced that the **estimated time of arrival** for our plane is 3:30 PM due to the delay.",
+      "options": {
+        "option": [
+          {
+            "definition": "确定的到达时间",
+            "iscorrect": false
+          },
+          {
+            "definition": "预计出发时间",
+            "iscorrect": false
+          },
+          {
+            "definition": "预计到达时间",
+            "iscorrect": true
+          },
+          {
+            "definition": "平均到达时间",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

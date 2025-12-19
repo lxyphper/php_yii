@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "purposefully",
+      "error_analysis": "学生易因形近词`purposelessly`（无目的地）、`powerfully`（有力地）混淆，或误将`purpose`（目的）与`meaning`（意义）关联而选“有意义地”",
+      "sentence": "She walked **purposefully** towards the manager's office to discuss her new project.",
+      "options": {
+        "option": [
+          {
+            "definition": "有目的地；故意地",
+            "iscorrect": true
+          },
+          {
+            "definition": "无目的地",
+            "iscorrect": false
+          },
+          {
+            "definition": "有力地",
+            "iscorrect": false
+          },
+          {
+            "definition": "有意义地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

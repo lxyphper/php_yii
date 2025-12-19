@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "table",
+      "error_analysis": "学生易因形近词“tale”（故事）混淆，或误将“table”理解为“标签”（受“tab”词根误导）",
+      "sentence": "Please put the book on the **table** near the window.",
+      "options": {
+        "option": [
+          {
+            "definition": "桌子",
+            "iscorrect": true
+          },
+          {
+            "definition": "故事",
+            "iscorrect": false
+          },
+          {
+            "definition": "标签",
+            "iscorrect": false
+          },
+          {
+            "definition": "尾巴",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

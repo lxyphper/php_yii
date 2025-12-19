@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ashamed",
+      "error_analysis": "中国学生易因“ashamed”中的“ash”（灰）形近或词根拆分，错误理解为“有灰的”或“灰暗的”。",
+      "sentence": "She felt **ashamed** after lying to her parents about her exam results.",
+      "options": {
+        "option": [
+          {
+            "definition": "有灰的；覆盖着灰的",
+            "iscorrect": false
+          },
+          {
+            "definition": "像灰一样的；灰暗的",
+            "iscorrect": false
+          },
+          {
+            "definition": "惊讶的；吃惊的",
+            "iscorrect": false
+          },
+          {
+            "definition": "感到羞耻的；惭愧的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

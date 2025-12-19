@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to slam",
+      "error_analysis": "学生易因形近词“slap”（拍）产生错误联想，或误将“slam”理解为“轻轻关闭”。",
+      "sentence": "When she heard the bad news, she **slammed** the door and walked away without saying a word.",
+      "options": {
+        "option": [
+          {
+            "definition": "用力关闭（门、窗等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "用手掌拍（某人/某物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "缓慢滑动（门或抽屉）",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻声打开（窗户）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

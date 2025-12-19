@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "most",
+      "error_analysis": "易混淆形近词\"must\"(必须)及误将最高级含义误判为\"大量的\"(与\"many/much\"混淆)",
+      "sentence": "She is **most** likely to win the competition because she practices every day.",
+      "options": {
+        "option": [
+          {
+            "definition": "最（高级）",
+            "iscorrect": true
+          },
+          {
+            "definition": "必须",
+            "iscorrect": false
+          },
+          {
+            "definition": "大量的",
+            "iscorrect": false
+          },
+          {
+            "definition": "几乎",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

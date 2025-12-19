@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "rond-trip ticket",
+      "roundtrip ticket",
+      "round-trip tecket",
+      "round-trip tiket",
+      "round-trip tickit"
+    ],
+    "correct_chunks": [
+      "round",
+      "-trip",
+      "tic",
+      "ket"
+    ],
+    "distractor_chunks": [
+      "rond",
+      "roundtrip",
+      "tik",
+      "te"
+    ]
+  },
+  0
+]

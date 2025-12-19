@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "disappointed",
+      "error_analysis": "学生易因“dis-”（否定）+“appoint”（任命）的词根组合，误将“disappointed”理解为“未被任命的”。",
+      "sentence": "She was **disappointed** when she didn’t get the job she had applied for.",
+      "options": {
+        "option": [
+          {
+            "definition": "未被任命的",
+            "iscorrect": false
+          },
+          {
+            "definition": "失望的",
+            "iscorrect": true
+          },
+          {
+            "definition": "消失的",
+            "iscorrect": false
+          },
+          {
+            "definition": "困惑的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

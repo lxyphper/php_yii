@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to bend",
+      "error_analysis": "中国学生易因形近词\"band\"(乐队/带子)或音近词\"bind\"(捆绑)误判\"to bend\"的核心词义。",
+      "sentence": "The little girl tried to **bend** the plastic ruler into a circle but it broke.",
+      "options": {
+        "option": [
+          {
+            "definition": "弯曲；使弯曲",
+            "iscorrect": true
+          },
+          {
+            "definition": "乐队；带子",
+            "iscorrect": false
+          },
+          {
+            "definition": "捆绑；束缚",
+            "iscorrect": false
+          },
+          {
+            "definition": "购买；获得",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

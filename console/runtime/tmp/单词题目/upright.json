@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "upright",
+      "error_analysis": "中国学生易因拆分为\"up\"+\"right\"误解为\"正确向上的\"，或因形近联想\"upward\"误判为\"向上的\"",
+      "sentence": "The soldier stood **upright** during the ceremony, keeping his back straight.",
+      "options": {
+        "option": [
+          {
+            "definition": "直立的",
+            "iscorrect": true
+          },
+          {
+            "definition": "向上的",
+            "iscorrect": false
+          },
+          {
+            "definition": "正确向上的",
+            "iscorrect": false
+          },
+          {
+            "definition": "坦率的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

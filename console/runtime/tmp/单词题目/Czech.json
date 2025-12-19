@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Czech",
+      "error_analysis": "学生易因形近词\"check\"（检查）的干扰，将\"Czech\"误判为\"检查\"或相关含义",
+      "sentence": "The **Czech** team won the ice hockey championship last year.",
+      "options": {
+        "option": [
+          {
+            "definition": "检查（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "奶酪（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "捷克的；捷克人；捷克语",
+            "iscorrect": true
+          },
+          {
+            "definition": "巧克力（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

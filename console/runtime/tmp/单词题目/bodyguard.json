@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bodyguard",
+      "error_analysis": "中国学生易因词根拆分（body+guard）过度直译为“身体守卫”，或因“guard”与“guide”形近误联想为“身体向导”。",
+      "sentence": "The famous actor always takes his **bodyguard** with him when he goes out to avoid being surrounded by fans.",
+      "options": {
+        "option": [
+          {
+            "definition": "保镖",
+            "iscorrect": true
+          },
+          {
+            "definition": "身体守卫",
+            "iscorrect": false
+          },
+          {
+            "definition": "身体向导",
+            "iscorrect": false
+          },
+          {
+            "definition": "护理人员",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

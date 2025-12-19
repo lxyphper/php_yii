@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to outperform",
+      "error_analysis": "学生易将“out-”误解为“外面”或混淆“perform”的基础义，从而把“to outperform”错误理解为“在外面表演”或“表现”。",
+      "sentence": "The new smartphone **outperformed** all its competitors in battery life and processing speed.",
+      "options": {
+        "option": [
+          {
+            "definition": "比...表现好；超过",
+            "iscorrect": true
+          },
+          {
+            "definition": "在外面表演；露天演出",
+            "iscorrect": false
+          },
+          {
+            "definition": "表现；执行",
+            "iscorrect": false
+          },
+          {
+            "definition": "过度表现；做得过多",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

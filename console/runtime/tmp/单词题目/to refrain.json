@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to refrain",
+      "error_analysis": "学生易将“to refrain”与形近词“restrain”（约束）或“remain”（保持）混淆，或误通过“re-”词根猜测为“再次做某事”。",
+      "sentence": "She **refrained** from interrupting the meeting even though she had a lot to say.",
+      "options": {
+        "option": [
+          {
+            "definition": "克制，避免（做某事）",
+            "iscorrect": true
+          },
+          {
+            "definition": "约束，抑制（某人做某事）",
+            "iscorrect": false
+          },
+          {
+            "definition": "再次做某事",
+            "iscorrect": false
+          },
+          {
+            "definition": "保持，停留",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

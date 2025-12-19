@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to compress",
+      "error_analysis": "学生易因形近词comprehend（理解）或词根press（压），将compress误判为‘理解’或‘按压’。",
+      "sentence": "To save space, you need to **compress** the photos before uploading them to the cloud.",
+      "options": {
+        "option": [
+          {
+            "definition": "理解",
+            "iscorrect": false
+          },
+          {
+            "definition": "按压",
+            "iscorrect": false
+          },
+          {
+            "definition": "压缩（使体积或空间变小）",
+            "iscorrect": true
+          },
+          {
+            "definition": "包含",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

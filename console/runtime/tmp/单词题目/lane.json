@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lane",
+      "error_analysis": "学生易因形近词\"line\"（线、排）的干扰，将\"lane\"误判为\"线\"或\"排\"。",
+      "sentence": "The cyclist rode slowly along the narrow **lane** leading to the village.",
+      "options": {
+        "option": [
+          {
+            "definition": "车道；小路",
+            "iscorrect": true
+          },
+          {
+            "definition": "线；排",
+            "iscorrect": false
+          },
+          {
+            "definition": "土地；领地",
+            "iscorrect": false
+          },
+          {
+            "definition": "跛的；瘸的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

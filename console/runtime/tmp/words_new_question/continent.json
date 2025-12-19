@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "continent",
+      "error_analysis": "易因形近词\"content\"(内容)干扰，或词根\"contin-\"联想到\"continue\"(继续)而误解为\"内容\"或\"持续的事物\"",
+      "sentence": "Asia is the largest **continent** in the world, covering about 30% of the Earth's land area.",
+      "options": {
+        "option": [
+          {
+            "definition": "内容",
+            "iscorrect": false
+          },
+          {
+            "definition": "大陆；洲",
+            "iscorrect": true
+          },
+          {
+            "definition": "继续；持续",
+            "iscorrect": false
+          },
+          {
+            "definition": "国家",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

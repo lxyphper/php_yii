@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "campsite",
+      "error_analysis": "易因形近词\"campus\"(校园)或词根拆分错误(误释为\"露营网站\")产生误解",
+      "sentence": "We found a perfect **campsite** by the lake, with enough space for our tents and a view of the mountains.",
+      "options": {
+        "option": [
+          {
+            "definition": "校园",
+            "iscorrect": false
+          },
+          {
+            "definition": "露营地",
+            "iscorrect": true
+          },
+          {
+            "definition": "露营网站",
+            "iscorrect": false
+          },
+          {
+            "definition": "篝火堆",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

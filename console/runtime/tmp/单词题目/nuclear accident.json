@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nuclear accident",
+      "error_analysis": "学生易将‘nuclear’误看成‘natural’（自然的）而理解为‘自然事故’，或因‘nucleus’（细胞核）词根误解为‘细胞核事故’",
+      "sentence": "The 1986 Chernobyl disaster is widely regarded as the worst **nuclear accident** in history, causing massive radiation contamination and long-term health effects.",
+      "options": {
+        "option": [
+          {
+            "definition": "核事故（核设施发生的泄漏、爆炸等导致辐射污染的严重意外）",
+            "iscorrect": true
+          },
+          {
+            "definition": "自然事故（如地震、洪水等自然原因引发的事故）",
+            "iscorrect": false
+          },
+          {
+            "definition": "细胞核事故（生物细胞中细胞核受到的意外损伤）",
+            "iscorrect": false
+          },
+          {
+            "definition": "核试验事故（核试验过程中发生的意外）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

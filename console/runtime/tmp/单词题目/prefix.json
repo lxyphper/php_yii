@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "prefix",
+      "error_analysis": "学生常将\"pre-\"（预先）和\"fix\"（固定）直译，误解\"prefix\"为\"预先固定\"（动词），而非\"前缀\"（名词）",
+      "sentence": "The word \"unhappy\" has the **prefix** \"un-\", which changes \"happy\" to its opposite.",
+      "options": {
+        "option": [
+          {
+            "definition": "前缀（加在单词前面改变意思的词缀）",
+            "iscorrect": true
+          },
+          {
+            "definition": "预先固定（如在表格上预先填写内容）",
+            "iscorrect": false
+          },
+          {
+            "definition": "借口，托词（如找理由回避某事）",
+            "iscorrect": false
+          },
+          {
+            "definition": "后缀（加在单词后面的词缀）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

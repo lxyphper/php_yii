@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "confident",
+      "error_analysis": "中国学生易因形近词（如competent）或词根误解（误为“信任他人的”）而错解其词义",
+      "sentence": "She felt **confident** about her presentation because she had practiced many times.",
+      "options": {
+        "option": [
+          {
+            "definition": "自信的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有能力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "信任他人的",
+            "iscorrect": false
+          },
+          {
+            "definition": "机密的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

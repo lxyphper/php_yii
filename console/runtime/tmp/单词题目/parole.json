@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "parole",
+      "error_analysis": "中国学生易将形近词“parrot”（鹦鹉）的含义误联想至“parole”，或因词根“parl-”（说话）错误推导为“发言”。",
+      "sentence": "After completing half of his 10-year sentence, the inmate was granted **parole** and required to check in with a probation officer weekly.",
+      "options": {
+        "option": [
+          {
+            "definition": "鹦鹉",
+            "iscorrect": false
+          },
+          {
+            "definition": "说话；发言",
+            "iscorrect": false
+          },
+          {
+            "definition": "假释；有条件释放（法律术语）",
+            "iscorrect": true
+          },
+          {
+            "definition": "包裹",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

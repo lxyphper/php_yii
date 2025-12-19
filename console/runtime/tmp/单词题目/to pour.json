@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to pour",
+      "error_analysis": "学生易因形近词“poor”（贫穷的）的干扰，误将“pour”理解为“贫穷的”",
+      "sentence": "She asked me to **pour** some water into her glass.",
+      "options": {
+        "option": [
+          {
+            "definition": "倒（液体）；灌注",
+            "iscorrect": true
+          },
+          {
+            "definition": "贫穷的",
+            "iscorrect": false
+          },
+          {
+            "definition": "放；放置",
+            "iscorrect": false
+          },
+          {
+            "definition": "力量",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

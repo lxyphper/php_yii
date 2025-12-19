@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "since",
+      "error_analysis": "学生易因形近词‘sincere’（真诚的）产生误解，或误将‘since’的原因用法仅理解为‘自从’（时间用法）",
+      "sentence": "**Since** you're free this weekend, let's go hiking.",
+      "options": {
+        "option": [
+          {
+            "definition": "因为",
+            "iscorrect": true
+          },
+          {
+            "definition": "真诚的",
+            "iscorrect": false
+          },
+          {
+            "definition": "自从",
+            "iscorrect": false
+          },
+          {
+            "definition": "感觉",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

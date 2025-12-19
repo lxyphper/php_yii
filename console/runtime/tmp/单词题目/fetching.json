@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fetching",
+      "error_analysis": "将fetching误理解为“取来的”或“正在取的”（源于对动词fetch的联想）",
+      "sentence": "She wore a **fetching** dress that caught everyone's attention at the party.",
+      "options": {
+        "option": [
+          {
+            "definition": "吸引人的；迷人的",
+            "iscorrect": true
+          },
+          {
+            "definition": "取来的；拿来的",
+            "iscorrect": false
+          },
+          {
+            "definition": "获取的；得到的",
+            "iscorrect": false
+          },
+          {
+            "definition": "钓鱼的；捕鱼的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

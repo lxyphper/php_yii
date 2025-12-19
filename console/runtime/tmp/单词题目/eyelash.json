@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "eyelash",
+      "error_analysis": "学生易将“eyelash”与形近的“eyebrow”（眉毛）或“eyelid”（眼皮）混淆（形近词干扰），或因“lash”的“系带”义将其误解为“眼睛的系带”（词根/字面误导）。",
+      "sentence": "The baby’s long **eyelashes** fluttered gently as she drifted off to sleep.",
+      "options": {
+        "option": [
+          {
+            "definition": "眉毛",
+            "iscorrect": false
+          },
+          {
+            "definition": "眼皮",
+            "iscorrect": false
+          },
+          {
+            "definition": "眼睛的系带",
+            "iscorrect": false
+          },
+          {
+            "definition": "睫毛",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

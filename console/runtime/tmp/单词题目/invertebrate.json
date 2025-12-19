@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "invertebrate",
+      "error_analysis": "学生容易因词根\"vert\"（颠倒）的误导将\"invertebrate\"理解为\"颠倒的生物\"，或因混淆\"vertebrate\"（脊椎动物）的反义关系误判为\"有脊椎动物\"",
+      "sentence": "Snails, worms, and insects are all examples of **invertebrates** that play important roles in the ecosystem.",
+      "options": {
+        "option": [
+          {
+            "definition": "无脊椎动物",
+            "iscorrect": true
+          },
+          {
+            "definition": "有脊椎动物",
+            "iscorrect": false
+          },
+          {
+            "definition": "颠倒的生物",
+            "iscorrect": false
+          },
+          {
+            "definition": "调查的对象",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

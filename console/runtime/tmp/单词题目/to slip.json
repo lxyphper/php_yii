@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to slip",
+      "error_analysis": "中国学生易因形近词“ship”（船）混淆词义，或因“滑”的字面义过度直译而忽略“偷偷塞进”的引申义",
+      "sentence": "She quickly **slipped** a note into his pocket before leaving the room.",
+      "options": {
+        "option": [
+          {
+            "definition": "偷偷塞进；悄悄放入",
+            "iscorrect": true
+          },
+          {
+            "definition": "航运；用船运输",
+            "iscorrect": false
+          },
+          {
+            "definition": "滑出；滑倒",
+            "iscorrect": false
+          },
+          {
+            "definition": "跳过；略过",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

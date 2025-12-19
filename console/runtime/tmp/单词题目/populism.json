@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "populism",
+      "error_analysis": "易因形近词\"popular\"误判为\"流行主义\"，或因词根\"popul-\"（人民）过度直译为\"人民主义\"",
+      "sentence": "The politician's campaign relied heavily on **populism**, promising to address the grievances of working-class voters ignored by the ruling party.",
+      "options": {
+        "option": [
+          {
+            "definition": "民粹主义",
+            "iscorrect": true
+          },
+          {
+            "definition": "流行主义",
+            "iscorrect": false
+          },
+          {
+            "definition": "人民主义",
+            "iscorrect": false
+          },
+          {
+            "definition": "人口政策",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

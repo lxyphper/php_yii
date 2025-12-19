@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to pay",
+      "error_analysis": "形近词“play”（玩）干扰，导致将“to pay”的核心义“支付”误解为“玩”。",
+      "sentence": "I need to **pay** 15 dollars for the movie ticket.",
+      "options": {
+        "option": [
+          {
+            "definition": "支付；付款",
+            "iscorrect": true
+          },
+          {
+            "definition": "玩；玩耍",
+            "iscorrect": false
+          },
+          {
+            "definition": "铺；铺设",
+            "iscorrect": false
+          },
+          {
+            "definition": "说；讲",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

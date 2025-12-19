@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "visa",
+      "error_analysis": "学生易因形近词\"visit\"混淆为\"参观\"，或因\"vis-\"词根误判为\"视觉\"。",
+      "sentence": "Before traveling to Japan, she had to submit her documents to get a **visa** from the Japanese consulate.",
+      "options": {
+        "option": [
+          {
+            "definition": "参观；访问",
+            "iscorrect": false
+          },
+          {
+            "definition": "视觉；视力",
+            "iscorrect": false
+          },
+          {
+            "definition": "签证",
+            "iscorrect": true
+          },
+          {
+            "definition": "护照",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

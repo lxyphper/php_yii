@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "frivolous",
+      "error_analysis": "学生易因与常见词\"furious\"（愤怒的）拼写接近而误判，或因猜测\"friv\"为\"有趣的\"（与\"fun\"联系）而犯错",
+      "sentence": "The manager criticized the team for spending too much time on **frivolous** details instead of focusing on the main project goals.",
+      "options": {
+        "option": [
+          {
+            "definition": "无关紧要的；琐碎的",
+            "iscorrect": true
+          },
+          {
+            "definition": "愤怒的；狂怒的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有趣的；好玩的",
+            "iscorrect": false
+          },
+          {
+            "definition": "重要的；关键的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

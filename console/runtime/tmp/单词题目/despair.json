@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "despair",
+      "error_analysis": "中国学生易因形近词“desire”（欲望）混淆，或误将“de-+pair”理解为“分开一对”而误解词义。",
+      "sentence": "After failing the exam three times, she fell into deep **despair** and didn’t want to try again.",
+      "options": {
+        "option": [
+          {
+            "definition": "欲望",
+            "iscorrect": false
+          },
+          {
+            "definition": "分开一对",
+            "iscorrect": false
+          },
+          {
+            "definition": "失望",
+            "iscorrect": false
+          },
+          {
+            "definition": "绝望",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

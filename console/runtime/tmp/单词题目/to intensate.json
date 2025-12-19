@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to intensate",
+      "error_analysis": "学生易因形近词（如initiate）或词根猜测（将intensate与tense关联）误判为“开始”或“使紧张”。",
+      "sentence": "The recent heatwave seems to **intensate** the drought conditions in the region, making water shortages more severe.",
+      "options": {
+        "option": [
+          {
+            "definition": "开始（to start or initiate）",
+            "iscorrect": false
+          },
+          {
+            "definition": "使紧张（to make something tense）",
+            "iscorrect": false
+          },
+          {
+            "definition": "加强，加剧（to make or become more intense）",
+            "iscorrect": true
+          },
+          {
+            "definition": "整合（to combine into a whole）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "abnormal",
+      "error_analysis": "中国学生易因形近词\"abundant\"（丰富的）混淆，或因误解\"ab-\"为\"加强\"而将\"abnormal\"理解为\"非常正常的\"。",
+      "sentence": "The doctor said her heartbeat was **abnormal** and recommended further tests.",
+      "options": {
+        "option": [
+          {
+            "definition": "不正常的；异常的",
+            "iscorrect": true
+          },
+          {
+            "definition": "丰富的",
+            "iscorrect": false
+          },
+          {
+            "definition": "非常正常的",
+            "iscorrect": false
+          },
+          {
+            "definition": "错误的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

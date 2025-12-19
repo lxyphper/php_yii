@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to waive",
+      "error_analysis": "学生易因形近词\"wave\"（挥手/波动）产生混淆，或误猜为\"等待\"\"节省\"等含义。",
+      "sentence": "The bank decided to **waive** the late fee for customers who explained their situation.",
+      "options": {
+        "option": [
+          {
+            "definition": "放弃（权利/要求等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "挥手；波动",
+            "iscorrect": false
+          },
+          {
+            "definition": "等待；等候",
+            "iscorrect": false
+          },
+          {
+            "definition": "节省；保存",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

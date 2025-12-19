@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "adnormal",
+      "anormal",
+      "abnermal",
+      "abnarmal",
+      "abnorml"
+    ],
+    "correct_chunks": [
+      "ab",
+      "nor",
+      "mal"
+    ],
+    "distractor_chunks": [
+      "ad",
+      "a",
+      "ner",
+      "nar",
+      "ml"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "shrill",
+      "error_analysis": "学生易因形近词“chill”（寒冷的）或“ill”（生病的）联想，误将“shrill”理解为“寒冷的”或“不舒服的”。",
+      "sentence": "The baby's **shrill** cry woke up the entire neighborhood.",
+      "options": {
+        "option": [
+          {
+            "definition": "尖锐的（声音）",
+            "iscorrect": true
+          },
+          {
+            "definition": "寒冷的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不舒服的",
+            "iscorrect": false
+          },
+          {
+            "definition": "熟练的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

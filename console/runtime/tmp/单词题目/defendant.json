@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "defendant",
+      "error_analysis": "学生易因形近词defender（辩护者）和词根defend（辩护）的联想，将defendant误判为“辩护者”而非“被告”",
+      "sentence": "The judge asked the **defendant** to stand up and plead guilty or not guilty.",
+      "options": {
+        "option": [
+          {
+            "definition": "辩护者",
+            "iscorrect": false
+          },
+          {
+            "definition": "被告",
+            "iscorrect": true
+          },
+          {
+            "definition": "防御者",
+            "iscorrect": false
+          },
+          {
+            "definition": "原告",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

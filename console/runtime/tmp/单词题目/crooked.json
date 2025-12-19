@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "crooked",
+      "error_analysis": "学生易因形近词“cooked”（煮熟的）混淆词义，或因“crook”（骗子）误判为“欺骗的”。",
+      "sentence": "The narrow street in the old town was **crooked**, with many turns and corners.",
+      "options": {
+        "option": [
+          {
+            "definition": "弯曲的",
+            "iscorrect": true
+          },
+          {
+            "definition": "煮熟的",
+            "iscorrect": false
+          },
+          {
+            "definition": "欺骗的",
+            "iscorrect": false
+          },
+          {
+            "definition": "破碎的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

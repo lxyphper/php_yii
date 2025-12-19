@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Before Common Era",
+      "error_analysis": "学生易因\"common\"的\"普通的\"字面义，将\"Common Era\"误判为\"普通时代\"，进而把整个短语理解为\"普通时代之前\"而非标准的\"公元前\"。",
+      "sentence": "The Great Wall of China began to take shape during the Spring and Autumn Period (771–476 **Before Common Era**), a time of frequent wars between rival states.",
+      "options": {
+        "option": [
+          {
+            "definition": "普通时代之前",
+            "iscorrect": false
+          },
+          {
+            "definition": "公元前（即BCE，相当于BC）",
+            "iscorrect": true
+          },
+          {
+            "definition": "常见时期之前",
+            "iscorrect": false
+          },
+          {
+            "definition": "公元后（即CE，相当于AD）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

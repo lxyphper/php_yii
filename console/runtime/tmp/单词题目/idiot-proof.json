@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "idiot-proof",
+      "error_analysis": "学生易将“idiot-proof”字面直译为“白痴的证明”，或误将“proof”理解为“证明”而解为“证明某人是白痴的”（源于词根/字面误导）",
+      "sentence": "My dad bought an **idiot-proof** camera—even I can take good photos with it without reading the manual.",
+      "options": {
+        "option": [
+          {
+            "definition": "（设计得）非常简单易懂的；不会出错的",
+            "iscorrect": true
+          },
+          {
+            "definition": "白痴的证明",
+            "iscorrect": false
+          },
+          {
+            "definition": "证明某人是白痴的",
+            "iscorrect": false
+          },
+          {
+            "definition": "像白痴一样愚蠢的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

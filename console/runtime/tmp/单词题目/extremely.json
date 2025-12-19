@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "extremely",
+      "error_analysis": "学生易将\"extremely\"误联想为形近词\"extra\"的副词形式（如\"额外地\"），或混淆其与形容词\"极端的\"的词性",
+      "sentence": "The movie was **extremely** popular, so tickets sold out within an hour.",
+      "options": {
+        "option": [
+          {
+            "definition": "极其；非常（副词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "额外地（副词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "极端的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "恰好地（副词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

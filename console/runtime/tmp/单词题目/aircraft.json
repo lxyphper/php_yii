@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "aircraft",
+      "error_analysis": "中国学生易因形近词airport混淆为“机场”，或因词根craft（工艺）误导为“航空工艺”",
+      "sentence": "The military base houses various types of **aircraft**, including fighter jets and helicopters.",
+      "options": {
+        "option": [
+          {
+            "definition": "飞机；航空器",
+            "iscorrect": true
+          },
+          {
+            "definition": "机场",
+            "iscorrect": false
+          },
+          {
+            "definition": "航空工艺",
+            "iscorrect": false
+          },
+          {
+            "definition": "空气净化器",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

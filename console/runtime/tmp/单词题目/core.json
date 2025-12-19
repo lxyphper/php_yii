@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "core",
+      "error_analysis": "中国学生易因形近词（如corner/角落）或对“核心”的反义联想（如边缘）而误判“core”的含义",
+      "sentence": "The **core** of the company's success lies in its innovative culture.",
+      "options": {
+        "option": [
+          {
+            "definition": "核心；最重要的部分",
+            "iscorrect": true
+          },
+          {
+            "definition": "角落",
+            "iscorrect": false
+          },
+          {
+            "definition": "边缘",
+            "iscorrect": false
+          },
+          {
+            "definition": "课程",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

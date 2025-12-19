@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to tie",
+      "error_analysis": "形近词“die”（死亡）的干扰及名词“领带”引申的错误动词义（如“戴领带”）",
+      "sentence": "Please **tie** your shoelaces before running, or you might trip.",
+      "options": {
+        "option": [
+          {
+            "definition": "系；绑",
+            "iscorrect": true
+          },
+          {
+            "definition": "死亡",
+            "iscorrect": false
+          },
+          {
+            "definition": "戴（领带）",
+            "iscorrect": false
+          },
+          {
+            "definition": "尝试",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

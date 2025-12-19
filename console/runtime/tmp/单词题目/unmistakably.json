@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unmistakably",
+      "error_analysis": "学生易因词根\"mistake\"（错误）联想为\"没有错误地\"，或直译\"不可误解地\"，忽略其常用义\"明显地/毫无疑问地\"。",
+      "sentence": "The look in his eyes was **unmistakably** anger—his fists were clenched and his face turned red.",
+      "options": {
+        "option": [
+          {
+            "definition": "毫无疑问地；明显地",
+            "iscorrect": true
+          },
+          {
+            "definition": "没有错误地；正确地",
+            "iscorrect": false
+          },
+          {
+            "definition": "不可误解地；清晰地",
+            "iscorrect": false
+          },
+          {
+            "definition": "意外地；突然地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

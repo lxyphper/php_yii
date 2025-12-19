@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gratefulness",
+      "error_analysis": "学生易因形近词`greatness`（伟大）干扰，或误将`grateful`与`grate`（烦躁）联系而误解词义。",
+      "sentence": "Her eyes welled up with tears as she spoke of her **gratefulness** to the nurse who had cared for her during her illness.",
+      "options": {
+        "option": [
+          {
+            "definition": "感激；感恩",
+            "iscorrect": true
+          },
+          {
+            "definition": "伟大；卓越",
+            "iscorrect": false
+          },
+          {
+            "definition": "烦躁；不耐烦",
+            "iscorrect": false
+          },
+          {
+            "definition": "优雅；优美",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to push",
+      "error_analysis": "学生易因形近词\"pull\"（拉）的干扰，将\"to push\"误理解为\"拉\"",
+      "sentence": "The little boy tried to **push** the heavy door open to get into the room.",
+      "options": {
+        "option": [
+          {
+            "definition": "推",
+            "iscorrect": true
+          },
+          {
+            "definition": "拉",
+            "iscorrect": false
+          },
+          {
+            "definition": "放",
+            "iscorrect": false
+          },
+          {
+            "definition": "按",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

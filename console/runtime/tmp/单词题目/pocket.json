@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pocket",
+      "error_analysis": "学生易因形近词\"packet\"(包裹)或词根\"pock\"+\"et\"推导，将\"pocket\"误理解为\"包裹\"或\"小痘痕\"。",
+      "sentence": "She put her phone in her jacket **pocket** to keep it safe.",
+      "options": {
+        "option": [
+          {
+            "definition": "口袋",
+            "iscorrect": true
+          },
+          {
+            "definition": "包裹",
+            "iscorrect": false
+          },
+          {
+            "definition": "小痘痕",
+            "iscorrect": false
+          },
+          {
+            "definition": "钱包",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

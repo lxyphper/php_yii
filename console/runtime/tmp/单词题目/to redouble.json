@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to redouble",
+      "error_analysis": "学生易因\"re-+double\"词根组合过度直译，或误将\"redouble\"拆分为\"red+double\"产生与颜色相关的错误理解。",
+      "sentence": "After failing the first exam, she **redoubled** her efforts to prepare for the retest.",
+      "options": {
+        "option": [
+          {
+            "definition": "加强，加倍（努力等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "使...重新变为两倍大小",
+            "iscorrect": false
+          },
+          {
+            "definition": "将...涂成更深的红色",
+            "iscorrect": false
+          },
+          {
+            "definition": "重复做某事两次",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

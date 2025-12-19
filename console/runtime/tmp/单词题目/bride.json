@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bride",
+      "error_analysis": "核心易错点为形近词\"bridge\"（桥）的干扰，及词根\"br-\"关联\"bright\"（明亮的）导致的\"明亮的人\"误解",
+      "sentence": "The **bride** looked radiant in her white gown as she exchanged rings with the groom at the wedding.",
+      "options": {
+        "option": [
+          {
+            "definition": "新娘",
+            "iscorrect": true
+          },
+          {
+            "definition": "桥",
+            "iscorrect": false
+          },
+          {
+            "definition": "明亮的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "贿赂",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

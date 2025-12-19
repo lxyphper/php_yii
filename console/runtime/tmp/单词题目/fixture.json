@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fixture",
+      "error_analysis": "学生易因形近词\"mixture\"误解为\"混合物\"，或因词根\"fix\"的\"修理\"含义误导为\"修理工具\"",
+      "sentence": "The old apartment's bathroom **fixtures**, such as the leaky faucet and rusty showerhead, need to be replaced.",
+      "options": {
+        "option": [
+          {
+            "definition": "固定装置（如灯具、水管等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "混合物（由多种物质组成的东西）",
+            "iscorrect": false
+          },
+          {
+            "definition": "修理工具（用于修复物品的工具）",
+            "iscorrect": false
+          },
+          {
+            "definition": "临时物品（短期使用的东西）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

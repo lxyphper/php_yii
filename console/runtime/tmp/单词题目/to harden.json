@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to harden",
+      "error_analysis": "中国学生易因“hard”的“困难”义（词根误导）将“harden”误解为“变得困难”，或因形近词“happen”（发生）产生错误联想",
+      "sentence": "The cold rain will **harden** the mud into a solid path by tomorrow.",
+      "options": {
+        "option": [
+          {
+            "definition": "更硬的",
+            "iscorrect": false
+          },
+          {
+            "definition": "发生",
+            "iscorrect": false
+          },
+          {
+            "definition": "使变硬；凝固",
+            "iscorrect": true
+          },
+          {
+            "definition": "变得困难",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

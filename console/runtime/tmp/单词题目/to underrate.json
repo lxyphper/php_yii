@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to underrate",
+      "error_analysis": "学生易因\"under-\"前缀+“rate”（比率）的字面误导将其误解为“降低比率/价格”，或与形近词“undergo”（经历）混淆导致语义偏差。",
+      "sentence": "Many people **underrate** the importance of regular exercise until they start having health problems.",
+      "options": {
+        "option": [
+          {
+            "definition": "低估；看轻",
+            "iscorrect": true
+          },
+          {
+            "definition": "经历；遭受",
+            "iscorrect": false
+          },
+          {
+            "definition": "降低比率；降价",
+            "iscorrect": false
+          },
+          {
+            "definition": "隐瞒；少说",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

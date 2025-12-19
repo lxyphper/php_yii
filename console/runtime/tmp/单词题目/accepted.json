@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "accepted",
+      "error_analysis": "学生易将“accepted”（被接受的）与形近词“excepted”（被除外的）混淆，或误将过去分词理解为主动含义（如“主动接受的”）。",
+      "sentence": "The proposal was **accepted** by the committee without any objections.",
+      "options": {
+        "option": [
+          {
+            "definition": "被接受的；公认的",
+            "iscorrect": true
+          },
+          {
+            "definition": "被除外的",
+            "iscorrect": false
+          },
+          {
+            "definition": "主动接受的",
+            "iscorrect": false
+          },
+          {
+            "definition": "被拒绝的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

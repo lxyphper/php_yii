@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "borderline personality disorder",
+      "error_analysis": "学生易因“borderline”的词根“border”（边界）和“line”（线）进行字面误导，将其错误理解为“边界性人格障碍”或“与边界线有关的人格障碍”。",
+      "sentence": "Many people with **borderline personality disorder** struggle with intense mood swings and an overwhelming fear of abandonment.",
+      "options": {
+        "option": [
+          {
+            "definition": "边缘型人格障碍",
+            "iscorrect": true
+          },
+          {
+            "definition": "边界性人格障碍",
+            "iscorrect": false
+          },
+          {
+            "definition": "与边界线有关的人格障碍",
+            "iscorrect": false
+          },
+          {
+            "definition": "边缘地带人格障碍",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

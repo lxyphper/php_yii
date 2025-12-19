@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cautiously",
+      "error_analysis": "中国学生易因形近词\"curiously\"（好奇地）混淆，或因\"caution\"的\"警告\"义误判为\"警告地\"。",
+      "sentence": "The hiker stepped onto the icy rock **cautiously**, worried it might slip and cause a fall.",
+      "options": {
+        "option": [
+          {
+            "definition": "谨慎地；小心地",
+            "iscorrect": true
+          },
+          {
+            "definition": "好奇地；感兴趣地",
+            "iscorrect": false
+          },
+          {
+            "definition": "警告地；告诫地",
+            "iscorrect": false
+          },
+          {
+            "definition": "仔细地；认真地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

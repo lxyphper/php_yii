@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fickle",
+      "error_analysis": "形近词“fiddle”（摆弄）或“pickle”（困境）干扰，易误判为“反复摆弄”或“麻烦的”",
+      "sentence": "Sarah is too **fickle** to stick with any hobby for more than a month—she just started painting last week and now wants to try gardening.",
+      "options": {
+        "option": [
+          {
+            "definition": "反复摆弄的；不安分的",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速的；敏捷的",
+            "iscorrect": false
+          },
+          {
+            "definition": "多变的；反复无常的",
+            "iscorrect": true
+          },
+          {
+            "definition": "麻烦的；棘手的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

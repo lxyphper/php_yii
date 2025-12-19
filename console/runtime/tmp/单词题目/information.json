@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "information",
+      "error_analysis": "学生易因形近词“instruction”（指示）或词根“inform”（通知）误导，将“information”误判为“指示”或“通知”。",
+      "sentence": "Before booking the hotel, she asked the travel agent for detailed **information** about the amenities and location.",
+      "options": {
+        "option": [
+          {
+            "definition": "信息",
+            "iscorrect": true
+          },
+          {
+            "definition": "指示/说明",
+            "iscorrect": false
+          },
+          {
+            "definition": "通知",
+            "iscorrect": false
+          },
+          {
+            "definition": "介绍",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

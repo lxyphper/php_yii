@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to donate",
+      "error_analysis": "学生易混淆形近词\"don\"（穿）及近义词\"devote\"（致力于），将\"donate\"误理解为\"穿\"或\"致力于\"",
+      "sentence": "Many people **donate** clothes and food to the homeless shelter every winter.",
+      "options": {
+        "option": [
+          {
+            "definition": "捐赠；捐献",
+            "iscorrect": true
+          },
+          {
+            "definition": "穿；戴",
+            "iscorrect": false
+          },
+          {
+            "definition": "致力于；奉献",
+            "iscorrect": false
+          },
+          {
+            "definition": "接受；收到",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

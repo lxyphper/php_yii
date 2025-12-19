@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "attractiveness",
+      "error_analysis": "中国学生易因形近词\"attentiveness\"(注意力)混淆，或因词根\"attract\"加后缀误判为\"吸引的动作\"而非\"吸引人的特质\"",
+      "sentence": "Her confidence and sense of humor greatly enhance her **attractiveness** to others.",
+      "options": {
+        "option": [
+          {
+            "definition": "吸引力；吸引人的特质",
+            "iscorrect": true
+          },
+          {
+            "definition": "注意力；专注度",
+            "iscorrect": false
+          },
+          {
+            "definition": "吸引的行为；引诱的动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "被吸引的感觉；爱慕之情",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

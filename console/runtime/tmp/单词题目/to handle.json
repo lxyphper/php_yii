@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to handle",
+      "error_analysis": "学生易因\"handle\"作名词\"手柄\"的形近联想，误将动词理解为\"抓住/触摸\"；或因\"hand\"（手）的词根误导，错解为\"搬运/传递\"。",
+      "sentence": "The new manager needs to **handle** the customer complaints efficiently to improve the company's reputation.",
+      "options": {
+        "option": [
+          {
+            "definition": "处理；应对",
+            "iscorrect": true
+          },
+          {
+            "definition": "抓住；触摸",
+            "iscorrect": false
+          },
+          {
+            "definition": "搬运；传递",
+            "iscorrect": false
+          },
+          {
+            "definition": "持有；拥有",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

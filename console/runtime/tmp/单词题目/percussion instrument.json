@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "percussion instrument",
+      "error_analysis": "学生易因不熟悉“percussion”（击打）的词义，将“percussion instrument”误判为弦乐器、吹奏乐器等常见乐器类别，或因形近词“perception”（感知）误解为“感知乐器”。",
+      "sentence": "In the orchestra, the timpani and xylophone are classic examples of **percussion instruments**—they make sound when you hit or strike them.",
+      "options": {
+        "option": [
+          {
+            "definition": "打击乐器",
+            "iscorrect": true
+          },
+          {
+            "definition": "弦乐器",
+            "iscorrect": false
+          },
+          {
+            "definition": "吹奏乐器",
+            "iscorrect": false
+          },
+          {
+            "definition": "感知乐器",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

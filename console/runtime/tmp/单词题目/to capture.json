@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to capture",
+      "error_analysis": "中国学生易因形近词\"captain\"(船长)误将\"to capture\"理解为\"指挥/领导\"，或因\"cap\"(帽子)的字面联想误理解为\"戴帽子/覆盖\"",
+      "sentence": "The photographer managed to **capture** her genuine smile before she turned away.",
+      "options": {
+        "option": [
+          {
+            "definition": "捕捉；捕获",
+            "iscorrect": true
+          },
+          {
+            "definition": "指挥；领导",
+            "iscorrect": false
+          },
+          {
+            "definition": "戴帽子；覆盖",
+            "iscorrect": false
+          },
+          {
+            "definition": "复制；拷贝",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

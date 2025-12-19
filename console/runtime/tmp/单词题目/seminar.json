@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "seminar",
+      "error_analysis": "将'seminar'误判为形近词'semester'（学期）的含义，或因词根'semi-'错误推导为'半节课'等义",
+      "sentence": "The professor invited us to a **seminar** on artificial intelligence where students could discuss their research ideas with experts.",
+      "options": {
+        "option": [
+          {
+            "definition": "学期",
+            "iscorrect": false
+          },
+          {
+            "definition": "半节课",
+            "iscorrect": false
+          },
+          {
+            "definition": "研讨会；讨论会",
+            "iscorrect": true
+          },
+          {
+            "definition": "讲座",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

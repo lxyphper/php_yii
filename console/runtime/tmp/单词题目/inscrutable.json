@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "inscrutable",
+      "error_analysis": "因形近词“inscribe”（铭刻）及词根误与“scratch”（刮擦）关联，易被误解为“难以铭刻的”或“不可刮擦的”。",
+      "sentence": "The old man's face remained **inscrutable** as he listened to the news, giving no hint of what he was thinking.",
+      "options": {
+        "option": [
+          {
+            "definition": "难以理解的；神秘的",
+            "iscorrect": true
+          },
+          {
+            "definition": "难以铭刻的；无法题写的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不可刮擦的；耐刮的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不真诚的；虚伪的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fact",
+      "error_analysis": "易混淆形近词\"factor\"(因素)及词根关联\"factory\"(工厂)导致的\"制造/因素\"义误解",
+      "sentence": "The teacher asked the students to distinguish between a **fact** and an opinion in the article.",
+      "options": {
+        "option": [
+          {
+            "definition": "因素",
+            "iscorrect": false
+          },
+          {
+            "definition": "工厂",
+            "iscorrect": false
+          },
+          {
+            "definition": "事实",
+            "iscorrect": true
+          },
+          {
+            "definition": "小说",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

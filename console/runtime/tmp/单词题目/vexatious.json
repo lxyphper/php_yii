@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "vexatious",
+      "error_analysis": "学生易因形近词\"various\"（各种各样的）产生联想，或误将\"vexatious\"理解为\"烦恼的（指人）\"而非\"令人烦恼的（指事物）\"。",
+      "sentence": "The constant phone calls from telemarketers became increasingly **vexatious**, making it hard to focus on work.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人烦恼的；故意找麻烦的",
+            "iscorrect": true
+          },
+          {
+            "definition": "各种各样的",
+            "iscorrect": false
+          },
+          {
+            "definition": "烦恼的（指人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "空洞的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

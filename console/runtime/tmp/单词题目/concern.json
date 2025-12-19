@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "concern",
+      "error_analysis": "中国学生易因形近词\"concert\"(音乐会)混淆词义，或因词根\"cern\"(区分)误判为\"区分\"，忽略其核心义\"关心/担忧\"",
+      "sentence": "Her main **concern** is whether her children are getting enough sleep at night.",
+      "options": {
+        "option": [
+          {
+            "definition": "关心；担忧",
+            "iscorrect": true
+          },
+          {
+            "definition": "音乐会",
+            "iscorrect": false
+          },
+          {
+            "definition": "区分；分开",
+            "iscorrect": false
+          },
+          {
+            "definition": "连接；结合",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

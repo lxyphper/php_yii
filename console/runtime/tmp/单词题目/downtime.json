@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "downtime",
+      "error_analysis": "学生易将\"down+time\"拆分误解为\"低落的时期\"或\"下降的时间\"，忽略其\"设备/系统停止运行的时间\"的核心义。",
+      "sentence": "The IT team is working to reduce the server **downtime** caused by the recent software update.",
+      "options": {
+        "option": [
+          {
+            "definition": "低落的时期",
+            "iscorrect": false
+          },
+          {
+            "definition": "（设备或系统的）停机时间",
+            "iscorrect": true
+          },
+          {
+            "definition": "下降的时间",
+            "iscorrect": false
+          },
+          {
+            "definition": "空闲时间",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

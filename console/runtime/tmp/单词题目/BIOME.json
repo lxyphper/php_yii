@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "BIOME",
+      "error_analysis": "学生易因形近词\"biology\"（生物学）混淆，或因\"bio-\"词根误导认为是\"生物体\"，而非大型生态系统单位",
+      "sentence": "The Amazon rainforest is often cited as the most biodiverse **biome** on Earth, supporting millions of species.",
+      "options": {
+        "option": [
+          {
+            "definition": "生物群系（如森林、沙漠等大型生态系统）",
+            "iscorrect": true
+          },
+          {
+            "definition": "生物学（研究生物的科学）",
+            "iscorrect": false
+          },
+          {
+            "definition": "生物体（单个活的生物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "栖息地（生物生活的具体环境）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

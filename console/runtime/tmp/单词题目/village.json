@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "village",
+      "error_analysis": "学生易因形近词\"villain\"(恶棍)、\"villa\"(别墅)混淆，或误将\"age\"联想为\"年龄\"而误解词义。",
+      "sentence": "We spent the weekend in a small **village** surrounded by mountains, where everyone knows each other.",
+      "options": {
+        "option": [
+          {
+            "definition": "村庄",
+            "iscorrect": true
+          },
+          {
+            "definition": "恶棍",
+            "iscorrect": false
+          },
+          {
+            "definition": "别墅",
+            "iscorrect": false
+          },
+          {
+            "definition": "年龄",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "over",
+      "error_analysis": "学生易将副词“over”（结束）误判为前缀义“超过”（词根误导）或介词义“在...上面”（字面误导）",
+      "sentence": "The concert is **over**, so we can go home now.",
+      "options": {
+        "option": [
+          {
+            "definition": "在...上面",
+            "iscorrect": false
+          },
+          {
+            "definition": "超过",
+            "iscorrect": false
+          },
+          {
+            "definition": "结束",
+            "iscorrect": true
+          },
+          {
+            "definition": "曾经",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

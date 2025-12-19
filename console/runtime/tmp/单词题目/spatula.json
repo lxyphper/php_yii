@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "spatula",
+      "error_analysis": "学生易因形近词“spatial”（空间的）误判为与空间相关的词，或因“spat”（口角）词根猜测为“小口角”。",
+      "sentence": "She used a **spatula** to flip the pancakes before they burned.",
+      "options": {
+        "option": [
+          {
+            "definition": "锅铲；刮勺（厨房用具）",
+            "iscorrect": true
+          },
+          {
+            "definition": "空间的；与空间有关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "小口角；短暂的争吵",
+            "iscorrect": false
+          },
+          {
+            "definition": "郁金香的变种",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

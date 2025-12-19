@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "extraordinary",
+      "error_analysis": "学生易因词根拆分错误（将“extra-”误解为“非常”+“ordinary”=“普通”）误以为是“非常普通的”，或因形近词“ordinary”干扰认为是“普通的”",
+      "sentence": "Her **extraordinary** talent in music made her stand out among all the contestants.",
+      "options": {
+        "option": [
+          {
+            "definition": "非凡的；卓越的",
+            "iscorrect": true
+          },
+          {
+            "definition": "非常普通的",
+            "iscorrect": false
+          },
+          {
+            "definition": "普通的",
+            "iscorrect": false
+          },
+          {
+            "definition": "额外的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

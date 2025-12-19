@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "under the weather",
+      "error_analysis": "学生易因“under”（在...下面）和“weather”（天气）的字面意思，错误理解为“在天气之下”或“受天气影响”。",
+      "sentence": "I'm sorry I can't come to the party tonight—I'm feeling a bit **under the weather** and need to rest.",
+      "options": {
+        "option": [
+          {
+            "definition": "在天气之下；处于恶劣天气中",
+            "iscorrect": false
+          },
+          {
+            "definition": "忍受坏天气",
+            "iscorrect": false
+          },
+          {
+            "definition": "身体不适；有点不舒服",
+            "iscorrect": true
+          },
+          {
+            "definition": "对天气感到担忧",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

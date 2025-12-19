@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "trial",
+      "error_analysis": "易混淆形近词“tribe”（部落）及词根“try”（尝试）的误导，误将“trial”理解为“部落”或“尝试”",
+      "sentence": "The defendant will face a **trial** for fraud in the Supreme Court next week.",
+      "options": {
+        "option": [
+          {
+            "definition": "审判（法庭审理过程）",
+            "iscorrect": true
+          },
+          {
+            "definition": "部落（一群有共同特征的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "尝试（试图做某事的行为）",
+            "iscorrect": false
+          },
+          {
+            "definition": "试验（测试某物的过程）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

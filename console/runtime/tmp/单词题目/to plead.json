@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to plead",
+      "error_analysis": "学生易因形近词\"please\"（请）误解为\"使高兴\"，或因词根猜测与\"pledge\"（承诺）混淆为\"承诺\"",
+      "sentence": "The mother **pleaded** with the judge for leniency towards her son in the courtroom.",
+      "options": {
+        "option": [
+          {
+            "definition": "恳求；恳请",
+            "iscorrect": true
+          },
+          {
+            "definition": "使高兴；取悦",
+            "iscorrect": false
+          },
+          {
+            "definition": "承诺；保证",
+            "iscorrect": false
+          },
+          {
+            "definition": "放置；安置",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

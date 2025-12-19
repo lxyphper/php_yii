@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to compete",
+      "error_analysis": "中国学生易混淆形近词“complete”（完成）/“compute”（计算），或误将“com-+pet”推导为“合作”",
+      "sentence": "Many athletes train hard every day to **compete** in the upcoming Olympic Games.",
+      "options": {
+        "option": [
+          {
+            "definition": "竞争；参赛",
+            "iscorrect": true
+          },
+          {
+            "definition": "完成",
+            "iscorrect": false
+          },
+          {
+            "definition": "计算",
+            "iscorrect": false
+          },
+          {
+            "definition": "合作",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

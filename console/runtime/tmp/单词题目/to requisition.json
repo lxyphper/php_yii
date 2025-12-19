@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to requisition",
+      "error_analysis": "学生易因形近词\"require\"(需要)或\"request\"(请求)产生联想，或因词根\"requis-\"过度推导为\"强烈要求\"，而忽略其\"官方征用\"的核心义。",
+      "sentence": "The local government had to **requisition** emergency supplies from nearby stores to support the earthquake survivors.",
+      "options": {
+        "option": [
+          {
+            "definition": "需要（need or demand）",
+            "iscorrect": false
+          },
+          {
+            "definition": "请求（ask for politely）",
+            "iscorrect": false
+          },
+          {
+            "definition": "征用（officially take or demand for public use）",
+            "iscorrect": true
+          },
+          {
+            "definition": "再次要求（ask again strongly）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

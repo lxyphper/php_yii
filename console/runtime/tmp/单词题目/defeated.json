@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "defeated",
+      "error_analysis": "学生易因形近词\"defended\"（被防御的）混淆，或因\"feat\"（功绩）词根猜测为\"未完成功绩的\"",
+      "sentence": "After a long and fierce battle, the invading army was finally **defeated** and had to surrender.",
+      "options": {
+        "option": [
+          {
+            "definition": "被击败的；失败的",
+            "iscorrect": true
+          },
+          {
+            "definition": "被防御的",
+            "iscorrect": false
+          },
+          {
+            "definition": "未完成功绩的",
+            "iscorrect": false
+          },
+          {
+            "definition": "被删除的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

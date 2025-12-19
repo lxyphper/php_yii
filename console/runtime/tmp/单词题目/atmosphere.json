@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "atmosphere",
+      "error_analysis": "学生易因\"atm\"（ATM机）的形近联想，或\"sphere\"（球体）的词根误导，将\"atmosphere\"错误理解为与\"自动取款机\"或\"球形物体\"相关的概念。",
+      "sentence": "The party had a lively **atmosphere** with people laughing and dancing.",
+      "options": {
+        "option": [
+          {
+            "definition": "（环境中的）氛围",
+            "iscorrect": true
+          },
+          {
+            "definition": "自动取款机（ATM）",
+            "iscorrect": false
+          },
+          {
+            "definition": "球形的玩具",
+            "iscorrect": false
+          },
+          {
+            "definition": "音乐的节奏",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

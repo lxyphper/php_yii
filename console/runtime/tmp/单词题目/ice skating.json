@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ice skating",
+      "error_analysis": "学生容易将“ice skating”与形近的“skiing”（滑雪）混淆，或因字面拆分过度直译而误判为“冰上滑行”（泛化解释）",
+      "sentence": "The Olympic Games include **ice skating** as a popular event, where athletes glide on ice using sharp blades attached to their shoes.",
+      "options": {
+        "option": [
+          {
+            "definition": "滑雪",
+            "iscorrect": false
+          },
+          {
+            "definition": "冰上滑行",
+            "iscorrect": false
+          },
+          {
+            "definition": "滑冰（运动）",
+            "iscorrect": true
+          },
+          {
+            "definition": "冰上滑板",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

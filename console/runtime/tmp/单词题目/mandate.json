@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mandate",
+      "error_analysis": "中国学生易因形近词\"mandarin\"(官员/普通话)产生混淆，或因\"man-\"联想\"manage\"(管理)而误判词义",
+      "sentence": "The government received a clear **mandate** from the public to implement stricter environmental policies.",
+      "options": {
+        "option": [
+          {
+            "definition": "授权；委任",
+            "iscorrect": true
+          },
+          {
+            "definition": "官员；普通话",
+            "iscorrect": false
+          },
+          {
+            "definition": "管理；处理",
+            "iscorrect": false
+          },
+          {
+            "definition": "日期；期限",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to spread",
+      "error_analysis": "因形近词\"speed\"(速度)或\"spend\"(花费)干扰，易误将\"spread\"理解为\"加速\"或\"花费\"",
+      "sentence": "The rumor about the new policy **spread** rapidly through the office.",
+      "options": {
+        "option": [
+          {
+            "definition": "传播；扩散",
+            "iscorrect": true
+          },
+          {
+            "definition": "加速；使快速移动",
+            "iscorrect": false
+          },
+          {
+            "definition": "花费（时间/金钱）",
+            "iscorrect": false
+          },
+          {
+            "definition": "展开；铺开",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

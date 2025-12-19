@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "joint",
+      "error_analysis": "学生易因形近词\"join\"（加入）将\"joint\"误解为\"加入的动作\"，或因词根联想错误推导为\"连接的工具\"。",
+      "sentence": "The doctor examined his injured knee **joint** and advised rest for a week.",
+      "options": {
+        "option": [
+          {
+            "definition": "关节（身体中骨与骨相连的部位）",
+            "iscorrect": true
+          },
+          {
+            "definition": "加入的动作或过程",
+            "iscorrect": false
+          },
+          {
+            "definition": "连接两个物体的工具",
+            "iscorrect": false
+          },
+          {
+            "definition": "由多人共同参与的活动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "circumference",
+      "error_analysis": "学生易混淆形近词“circumstance”（情况），或因词根“circum-”（环绕）误判为“周围的区域”。",
+      "sentence": "The gardener measured the **circumference** of the tree trunk to choose the right size of the fence.",
+      "options": {
+        "option": [
+          {
+            "definition": "周长",
+            "iscorrect": true
+          },
+          {
+            "definition": "情况",
+            "iscorrect": false
+          },
+          {
+            "definition": "周围的区域",
+            "iscorrect": false
+          },
+          {
+            "definition": "循环",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

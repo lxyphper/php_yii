@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to engrave",
+      "error_analysis": "中国学生易因形近词\"engage\"(参与)或词根\"grave\"(坟墓/严重)误导，将\"engrave\"误解为\"参与\"\"埋葬\"或\"使严重\"。",
+      "sentence": "The couple decided to **engrave** their initials on the wedding rings as a symbol of their love.",
+      "options": {
+        "option": [
+          {
+            "definition": "参与；从事",
+            "iscorrect": false
+          },
+          {
+            "definition": "埋葬；安葬",
+            "iscorrect": false
+          },
+          {
+            "definition": "雕刻；在...上刻",
+            "iscorrect": true
+          },
+          {
+            "definition": "使严重；加剧",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

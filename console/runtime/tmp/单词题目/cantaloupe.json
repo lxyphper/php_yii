@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cantaloupe",
+      "error_analysis": "学生易因形近词\"candle\"(蜡烛)或\"candy\"(糖果)产生错误联想，或因\"loupe\"(放大镜)进行词根误导",
+      "sentence": "She cut a fresh **cantaloupe** into slices and served them with yogurt for dessert.",
+      "options": {
+        "option": [
+          {
+            "definition": "哈密瓜",
+            "iscorrect": true
+          },
+          {
+            "definition": "蜡烛",
+            "iscorrect": false
+          },
+          {
+            "definition": "放大镜",
+            "iscorrect": false
+          },
+          {
+            "definition": "糖果",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

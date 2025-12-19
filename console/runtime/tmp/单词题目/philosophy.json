@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "philosophy",
+      "error_analysis": "学生易因形近词\"philanthropy\"(慈善)混淆词义，或因词根\"phil-(爱)+soph-(智慧)\"过度直译为\"聪明/知识\"而非\"哲学\"。",
+      "sentence": "During the lecture, the professor discussed how ancient Greek **philosophy** shaped ideas about ethics and reality that still influence us today.",
+      "options": {
+        "option": [
+          {
+            "definition": "慈善（行为或事业）",
+            "iscorrect": false
+          },
+          {
+            "definition": "哲学（关于存在、知识和道德的研究）",
+            "iscorrect": true
+          },
+          {
+            "definition": "智慧（过人的聪明才智）",
+            "iscorrect": false
+          },
+          {
+            "definition": "心理学（研究心理和行为的学科）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

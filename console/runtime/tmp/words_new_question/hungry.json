@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hungry",
+      "error_analysis": "中国学生易因形近词“angry”（生气的）或字面联想“hung”（悬挂）混淆“hungry”的核心含义“饥饿的”",
+      "sentence": "After skipping breakfast, I felt so **hungry** that I ate two bowls of noodles.",
+      "options": {
+        "option": [
+          {
+            "definition": "饥饿的",
+            "iscorrect": true
+          },
+          {
+            "definition": "生气的",
+            "iscorrect": false
+          },
+          {
+            "definition": "悬挂的",
+            "iscorrect": false
+          },
+          {
+            "definition": "口渴的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hand",
+      "error_analysis": "学生易因形近词“head”（头）、“hard”（硬的）或词根联想“handle”（处理），将“hand”误判为“头”“硬的”或“处理”。",
+      "sentence": "The baby put a toy in his **hand** and smiled.",
+      "options": {
+        "option": [
+          {
+            "definition": "手",
+            "iscorrect": true
+          },
+          {
+            "definition": "头",
+            "iscorrect": false
+          },
+          {
+            "definition": "处理",
+            "iscorrect": false
+          },
+          {
+            "definition": "硬的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

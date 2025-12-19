@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "safe",
+      "error_analysis": "学生易因形近词\"save\"（拯救；节省）混淆\"safe\"的核心形容词含义\"安全的\"",
+      "sentence": "The mother held her baby tightly to keep him **safe** from the busy traffic.",
+      "options": {
+        "option": [
+          {
+            "definition": "安全的",
+            "iscorrect": true
+          },
+          {
+            "definition": "拯救；节省",
+            "iscorrect": false
+          },
+          {
+            "definition": "保险箱",
+            "iscorrect": false
+          },
+          {
+            "definition": "健康的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "shrinkage",
+      "error_analysis": "学生易因形近词“shortage”（短缺）的干扰将“shrinkage”误判为“短缺”，或因词根“shrink”（收缩）加后缀“-age”时过度推导为“收缩的动作”而非“收缩的状态”。",
+      "sentence": "After washing, the cotton shirt experienced significant **shrinkage**, so it no longer fit him.",
+      "options": {
+        "option": [
+          {
+            "definition": "收缩；缩水",
+            "iscorrect": true
+          },
+          {
+            "definition": "短缺；不足",
+            "iscorrect": false
+          },
+          {
+            "definition": "收缩的动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "心理医生的数量",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "passport",
+      "error_analysis": "学生易因词根拆解（pass+port）误判为“通关凭证”，或与形近词password混淆误判为“密码”",
+      "sentence": "You must show your **passport** to the immigration officer before entering the country.",
+      "options": {
+        "option": [
+          {
+            "definition": "护照",
+            "iscorrect": true
+          },
+          {
+            "definition": "密码",
+            "iscorrect": false
+          },
+          {
+            "definition": "通关凭证",
+            "iscorrect": false
+          },
+          {
+            "definition": "港口入口",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

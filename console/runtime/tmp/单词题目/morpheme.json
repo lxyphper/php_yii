@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "morpheme",
+      "error_analysis": "学生易因形近混淆为“吗啡”(morphine)，或因词根“morph-”(形式)误判为“形态单位”",
+      "sentence": "Linguists break down the word \"unhappiness\" into three **morphemes**: \"un-\" (meaning \"not\"), \"happy\" (meaning \"pleased\"), and \"-ness\" (meaning \"state of being\").",
+      "options": {
+        "option": [
+          {
+            "definition": "语素（语言中最小的有意义单位）",
+            "iscorrect": true
+          },
+          {
+            "definition": "吗啡（一种强效止痛药物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "形态单位（物体的形状或结构组成单位）",
+            "iscorrect": false
+          },
+          {
+            "definition": "语法规则（语言的结构和使用规则）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

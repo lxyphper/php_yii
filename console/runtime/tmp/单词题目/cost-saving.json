@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cost-saving",
+      "error_analysis": "学生易将“cost-saving”误理解为“拯救成本的”（因“save”有“拯救”义）或“高成本的”（因与“costly”形近）",
+      "sentence": "The new energy-efficient bulbs are a **cost-saving** choice for households looking to lower their electricity bills.",
+      "options": {
+        "option": [
+          {
+            "definition": "节省成本的",
+            "iscorrect": true
+          },
+          {
+            "definition": "拯救成本的",
+            "iscorrect": false
+          },
+          {
+            "definition": "高成本的",
+            "iscorrect": false
+          },
+          {
+            "definition": "成本储蓄",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

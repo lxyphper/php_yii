@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "geography",
+      "error_analysis": "学生易因形近词\"geometry\"（几何）混淆，或因\"geo-\"+\"graphy\"词根组合错误联想为\"地球绘图\"，而非\"地理（学）\"核心含义。",
+      "sentence": "In our **geography** class, we studied how mountains, rivers, and climates shape different regions of the world.",
+      "options": {
+        "option": [
+          {
+            "definition": "几何（学）",
+            "iscorrect": false
+          },
+          {
+            "definition": "地理（学）",
+            "iscorrect": true
+          },
+          {
+            "definition": "地球绘图",
+            "iscorrect": false
+          },
+          {
+            "definition": "地质学",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

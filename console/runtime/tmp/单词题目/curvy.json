@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "curvy",
+      "error_analysis": "中国学生易混淆“curvy”与形近词“curly”（卷曲的），或误将其当作“曲线”（名词）",
+      "sentence": "The model’s **curvy** silhouette looked stunning in the evening gown.",
+      "options": {
+        "option": [
+          {
+            "definition": "有曲线的；（身材）凹凸有致的",
+            "iscorrect": true
+          },
+          {
+            "definition": "卷曲的（如头发或毛发）",
+            "iscorrect": false
+          },
+          {
+            "definition": "曲线（名词，指弯曲的线条）",
+            "iscorrect": false
+          },
+          {
+            "definition": "好奇的；想知道的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

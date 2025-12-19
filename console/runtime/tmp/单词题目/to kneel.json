@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to kneel",
+      "error_analysis": "学生易因形近词“knit”（编织）或词根“knee”（膝盖）而将“to kneel”误解为“编织”或“踢”等错误意思",
+      "sentence": "The little girl **kneeled** down to pet the cute puppy in the park.",
+      "options": {
+        "option": [
+          {
+            "definition": "跪；跪下",
+            "iscorrect": true
+          },
+          {
+            "definition": "编织；针织",
+            "iscorrect": false
+          },
+          {
+            "definition": "踢；用膝盖撞",
+            "iscorrect": false
+          },
+          {
+            "definition": "紧跟；尾随",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

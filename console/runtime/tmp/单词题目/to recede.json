@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to recede",
+      "error_analysis": "学生易因形近词\"receive\"（接收）或词根\"re-\"（再）与\"cede\"（走）的错误联想，将\"recede\"误解为\"接收\"或\"前进\"",
+      "sentence": "As the tide **receded**, we could see more rocks emerging from the water.",
+      "options": {
+        "option": [
+          {
+            "definition": "后退；消退",
+            "iscorrect": true
+          },
+          {
+            "definition": "接收；收到",
+            "iscorrect": false
+          },
+          {
+            "definition": "前进；推进",
+            "iscorrect": false
+          },
+          {
+            "definition": "加强；巩固",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

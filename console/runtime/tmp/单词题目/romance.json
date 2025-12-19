@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "romance",
+      "error_analysis": "因形近词\"Roman\"（罗马的）及词根误导，误将\"romance\"理解为与罗马相关的事物（如罗马的、拉丁语等）",
+      "sentence": "They met in a café and quickly fell into a beautiful **romance** that lasted for years.",
+      "options": {
+        "option": [
+          {
+            "definition": "浪漫关系；爱情故事",
+            "iscorrect": true
+          },
+          {
+            "definition": "罗马的（与罗马帝国有关的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "罗马人的语言（拉丁语）",
+            "iscorrect": false
+          },
+          {
+            "definition": "传奇冒险故事",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

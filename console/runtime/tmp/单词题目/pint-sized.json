@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pint-sized",
+      "error_analysis": "学生易因“pint”（品脱）的字面意思误导，将“pint-sized”错误理解为“品脱容量的”或“与品脱相关的”，而非其引申义“极小的”。",
+      "sentence": "The new café has a **pint-sized** outdoor seating area that fits just two small tables and a few chairs.",
+      "options": {
+        "option": [
+          {
+            "definition": "极小的；小型的",
+            "iscorrect": true
+          },
+          {
+            "definition": "品脱容量的；与品脱相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "油漆覆盖的；涂色的（形近词“paint”干扰）",
+            "iscorrect": false
+          },
+          {
+            "definition": "尖锐的；有尖头的（形近词“point”干扰）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

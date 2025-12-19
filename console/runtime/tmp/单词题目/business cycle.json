@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "business cycle",
+      "error_analysis": "学生易将“business cycle”（商业周期）与形近短语“business circle”（商业圈）混淆，或因字面直译误解为普通商业活动循环。",
+      "sentence": "Economists often study how factors like interest rates and consumer spending influence the **business cycle**, which typically includes phases of expansion, peak, contraction, and trough.",
+      "options": {
+        "option": [
+          {
+            "definition": "商业周期（经济活动的周期性波动，通常包括扩张、高峰、收缩和低谷四个阶段）",
+            "iscorrect": true
+          },
+          {
+            "definition": "商业圈（从事商业活动的人士或机构组成的群体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "商业活动的日常循环（如进货、销售等环节的重复过程）",
+            "iscorrect": false
+          },
+          {
+            "definition": "商业中的循环利用（如资源或资金的重复使用）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "avian",
+      "error_analysis": "学生易因形近词\"Asian\"（亚洲的）或词根\"avi-\"（联想航空）误将\"avian\"理解为\"亚洲的\"或\"航空的\"",
+      "sentence": "The zoo has a new exhibit featuring various **avian** species, including eagles and parrots.",
+      "options": {
+        "option": [
+          {
+            "definition": "亚洲的",
+            "iscorrect": false
+          },
+          {
+            "definition": "航空的",
+            "iscorrect": false
+          },
+          {
+            "definition": "鸟类的",
+            "iscorrect": true
+          },
+          {
+            "definition": "哺乳动物的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

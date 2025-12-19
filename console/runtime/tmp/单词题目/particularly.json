@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "particularly",
+      "error_analysis": "学生易因形近词\"partly\"(部分地)或词根\"part\"(部分)误将\"particularly\"理解为\"部分地\"而非\"尤其/特别\"。",
+      "sentence": "She enjoys all kinds of music, **particularly** jazz and blues.",
+      "options": {
+        "option": [
+          {
+            "definition": "尤其；特别",
+            "iscorrect": true
+          },
+          {
+            "definition": "部分地",
+            "iscorrect": false
+          },
+          {
+            "definition": "详细地",
+            "iscorrect": false
+          },
+          {
+            "definition": "偶尔地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

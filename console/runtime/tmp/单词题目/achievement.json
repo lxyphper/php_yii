@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "achievement",
+      "error_analysis": "学生易因形近词\"agreement\"（同意）或词根误导将\"achievement\"（成就）误判为\"同意\"或\"努力\"",
+      "sentence": "Her academic **achievement** in math earned her a scholarship.",
+      "options": {
+        "option": [
+          {
+            "definition": "同意",
+            "iscorrect": false
+          },
+          {
+            "definition": "努力",
+            "iscorrect": false
+          },
+          {
+            "definition": "成就",
+            "iscorrect": true
+          },
+          {
+            "definition": "目标",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

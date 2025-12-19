@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to protest",
+      "error_analysis": "易混淆形近词“protect”（保护），或误通过词根“pro-（向前）+test（测试）”推导为“预先测试”",
+      "sentence": "Thousands of people gathered in the square to **protest** against the new environmental policy.",
+      "options": {
+        "option": [
+          {
+            "definition": "抗议；反对",
+            "iscorrect": true
+          },
+          {
+            "definition": "保护；防护",
+            "iscorrect": false
+          },
+          {
+            "definition": "预先测试；试测",
+            "iscorrect": false
+          },
+          {
+            "definition": "促进；推动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

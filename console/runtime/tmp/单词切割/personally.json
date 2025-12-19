@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "personly",
+      "persunally",
+      "personnally",
+      "personelly"
+    ],
+    "correct_chunks": [
+      "per",
+      "son",
+      "al",
+      "ly"
+    ],
+    "distractor_chunks": [
+      "person",
+      "sun",
+      "personn",
+      "el",
+      "personly"
+    ]
+  },
+  0
+]

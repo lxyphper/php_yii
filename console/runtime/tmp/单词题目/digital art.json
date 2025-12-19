@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "digital art",
+      "error_analysis": "学生易因“digit”词根（手指）或中文“数字”歧义，将“digital art”误判为“手指艺术”或“数学艺术”",
+      "sentence": "Many young artists now use software like Photoshop or Procreate to create **digital art** that can be shared online instantly.",
+      "options": {
+        "option": [
+          {
+            "definition": "数字艺术（用Photoshop、Procreate等数字工具创作的艺术）",
+            "iscorrect": true
+          },
+          {
+            "definition": "手指艺术（用手指创作的艺术，如手指画）",
+            "iscorrect": false
+          },
+          {
+            "definition": "数学艺术（涉及数学原理的艺术，如分形艺术）",
+            "iscorrect": false
+          },
+          {
+            "definition": "日记艺术（与日记相关的艺术，如日记中的插画）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

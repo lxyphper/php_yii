@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "throughout",
+      "error_analysis": "学生易因“through”（通过）和“out”（向外）的词根组合，将“throughout”误解为“通过...出去”或与“through”（穿过）混淆。",
+      "sentence": "The story of her courage spread **throughout** the small town within a week.",
+      "options": {
+        "option": [
+          {
+            "definition": "遍及；贯穿（整个时间或空间）",
+            "iscorrect": true
+          },
+          {
+            "definition": "通过...出去",
+            "iscorrect": false
+          },
+          {
+            "definition": "穿过；通过",
+            "iscorrect": false
+          },
+          {
+            "definition": "在...外面",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to graduate",
+      "error_analysis": "混淆形近词\"grade\"（年级/分数）导致误判为\"打分/评级\"，或词根\"grad-\"（步/级）误导为\"升级/晋升\"",
+      "sentence": "She will **graduate** from Harvard next year with a degree in biology.",
+      "options": {
+        "option": [
+          {
+            "definition": "毕业；获得（学位）",
+            "iscorrect": true
+          },
+          {
+            "definition": "打分；评级",
+            "iscorrect": false
+          },
+          {
+            "definition": "升级；晋升",
+            "iscorrect": false
+          },
+          {
+            "definition": "渐变；过渡",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

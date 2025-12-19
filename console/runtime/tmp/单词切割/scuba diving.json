@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "skuba diving",
+      "scooba diving",
+      "scuba diveing",
+      "scuba deving"
+    ],
+    "correct_chunks": [
+      "sc",
+      "uba",
+      "div",
+      "ing"
+    ],
+    "distractor_chunks": [
+      "sk",
+      "oo",
+      "dive",
+      "dev"
+    ]
+  },
+  0
+]

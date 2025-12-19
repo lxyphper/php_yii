@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "live",
+      "error_analysis": "学生易因形近词“life”将“live”（现场的）误判为“生活的”，或混淆动词“居住”与形容词“现场直播的”。",
+      "sentence": "The band will play at a **live** concert tonight, and it will be broadcast to over 10 million viewers.",
+      "options": {
+        "option": [
+          {
+            "definition": "现场直播的",
+            "iscorrect": true
+          },
+          {
+            "definition": "生活的",
+            "iscorrect": false
+          },
+          {
+            "definition": "活的（有生命的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "居住（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

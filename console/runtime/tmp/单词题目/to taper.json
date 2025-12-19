@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to taper",
+      "error_analysis": "学生易因形近词\"paper\"联想到\"造纸\"，或因词根\"tap\"(轻敲)误认为\"轻敲\"。",
+      "sentence": "The path through the forest **tapers** as it climbs the mountain, so we need to walk carefully.",
+      "options": {
+        "option": [
+          {
+            "definition": "逐渐变细；逐渐减少",
+            "iscorrect": true
+          },
+          {
+            "definition": "造纸；用纸包裹",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻敲；敲击",
+            "iscorrect": false
+          },
+          {
+            "definition": "加速；增加",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fireplace",
+      "error_analysis": "学生易因\"fire+place\"字面拆分误判为\"火的地方\"（如火灾现场），或与形近词\"fireworks\"（烟花）混淆",
+      "sentence": "On Christmas Eve, we gathered around the **fireplace** to hang stockings and tell stories.",
+      "options": {
+        "option": [
+          {
+            "definition": "壁炉",
+            "iscorrect": true
+          },
+          {
+            "definition": "火灾现场",
+            "iscorrect": false
+          },
+          {
+            "definition": "烟花",
+            "iscorrect": false
+          },
+          {
+            "definition": "火炉",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

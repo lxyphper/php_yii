@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "legislature",
+      "error_analysis": "学生易因形近词“literature”（文学）混淆，或因词根“legis”（法律）误判为“法律文件”而非“立法机构”。",
+      "sentence": "The **legislature** is responsible for passing new laws in the country.",
+      "options": {
+        "option": [
+          {
+            "definition": "立法机构；议会",
+            "iscorrect": true
+          },
+          {
+            "definition": "文学作品；文献",
+            "iscorrect": false
+          },
+          {
+            "definition": "法律文件；法规文本",
+            "iscorrect": false
+          },
+          {
+            "definition": "执法机构；警察部门",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

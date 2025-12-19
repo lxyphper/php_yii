@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nihilism",
+      "error_analysis": "学生易因词根“nihil”（虚无）的字面含义，误将“nihilism”解读为“对虚无的盲目崇拜”或“消除物质的极端观点”，而非其核心的“否定一切价值与意义的哲学思想”",
+      "sentence": "The philosopher's lecture on **nihilism** argued that all moral values and societal norms are arbitrary and lack inherent meaning.",
+      "options": {
+        "option": [
+          {
+            "definition": "否定一切传统价值、意义或权威的哲学思想（虚无主义）",
+            "iscorrect": true
+          },
+          {
+            "definition": "对零或虚无的盲目崇拜（如数字零的信仰）",
+            "iscorrect": false
+          },
+          {
+            "definition": "主张消除所有物质存在的极端观点",
+            "iscorrect": false
+          },
+          {
+            "definition": "反对政府和权威的政治理念（无政府主义）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

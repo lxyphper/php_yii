@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to ply",
+      "error_analysis": "学生易因形近词\"play\"（玩）产生\"玩；进行（游戏）\"的错误联想，或因词根/字面误导将其误判为\"应用\"（apply）或\"供应\"（supply）。",
+      "sentence": "Street vendors **ply** their wares along the busy street every evening.",
+      "options": {
+        "option": [
+          {
+            "definition": "不断提供（商品或服务）；从事（生意）",
+            "iscorrect": true
+          },
+          {
+            "definition": "玩；进行（游戏或活动）",
+            "iscorrect": false
+          },
+          {
+            "definition": "应用；使用（一般意义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "供应（货物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "penalty",
+      "error_analysis": "因形近词\"penny\"(便士)误判为\"硬币/小钱\"，或因\"pen\"(笔)的词根误导认为与\"书写工具\"相关",
+      "sentence": "If you park illegally, you will have to pay a **penalty** of $50.",
+      "options": {
+        "option": [
+          {
+            "definition": "惩罚；罚金",
+            "iscorrect": true
+          },
+          {
+            "definition": "硬币；便士",
+            "iscorrect": false
+          },
+          {
+            "definition": "笔；书写工具",
+            "iscorrect": false
+          },
+          {
+            "definition": "奖励；奖赏",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

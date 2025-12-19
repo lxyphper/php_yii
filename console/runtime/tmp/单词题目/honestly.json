@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "honestly",
+      "error_analysis": "中国学生易混淆“honestly”（诚实地）与形近词“hastily”（匆忙地）的含义，或误将其等同于“honorably”（光荣地）。",
+      "sentence": "He answered the question **honestly** without hiding anything.",
+      "options": {
+        "option": [
+          {
+            "definition": "诚实地；老实说",
+            "iscorrect": true
+          },
+          {
+            "definition": "匆忙地",
+            "iscorrect": false
+          },
+          {
+            "definition": "光荣地",
+            "iscorrect": false
+          },
+          {
+            "definition": "真诚地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

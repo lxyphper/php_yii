@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "vocabulary",
+      "error_analysis": "学生易因词根“voc-”（表“说话”）错误联想为“口语能力”，或因拼写相似于“vocational”（职业的）而误理解为非“词汇（量）”的含义",
+      "sentence": "To improve your English writing, it's important to expand your **vocabulary** by learning new words every day.",
+      "options": {
+        "option": [
+          {
+            "definition": "词汇（量）",
+            "iscorrect": true
+          },
+          {
+            "definition": "口语能力",
+            "iscorrect": false
+          },
+          {
+            "definition": "职业相关的内容",
+            "iscorrect": false
+          },
+          {
+            "definition": "语法规则",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

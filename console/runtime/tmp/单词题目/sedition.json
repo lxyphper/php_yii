@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sedition",
+      "error_analysis": "学生易因形近词“sedation”（镇静作用）或词根“sed-”（安定）误将“sedition”理解为“镇静；镇静作用”",
+      "sentence": "The police charged the blogger with **sedition** after he posted videos encouraging people to rise up against the authorities.",
+      "options": {
+        "option": [
+          {
+            "definition": "镇静；镇静作用",
+            "iscorrect": false
+          },
+          {
+            "definition": "沉积物",
+            "iscorrect": false
+          },
+          {
+            "definition": "煽动叛乱（的行为）",
+            "iscorrect": true
+          },
+          {
+            "definition": "安定；稳定",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

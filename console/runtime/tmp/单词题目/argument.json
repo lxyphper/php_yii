@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "argument",
+      "error_analysis": "学生易因形近词agreement（同意）的干扰，将argument误理解为“同意”",
+      "sentence": "The **argument** between the two scientists about climate change attracted a lot of attention.",
+      "options": {
+        "option": [
+          {
+            "definition": "同意；协议",
+            "iscorrect": false
+          },
+          {
+            "definition": "论点；论据",
+            "iscorrect": false
+          },
+          {
+            "definition": "增加；扩大",
+            "iscorrect": false
+          },
+          {
+            "definition": "争论；争执",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

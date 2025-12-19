@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tangerine",
+      "error_analysis": "学生易因形近词`tangent`（切线）或词根`tan`（晒黑）误判`tangerine`的含义。",
+      "sentence": "She peeled a **tangerine** and shared the sweet segments with her little brother.",
+      "options": {
+        "option": [
+          {
+            "definition": "橘子；蜜橘",
+            "iscorrect": true
+          },
+          {
+            "definition": "切线；正切（数学术语）",
+            "iscorrect": false
+          },
+          {
+            "definition": "晒黑的；棕褐色的",
+            "iscorrect": false
+          },
+          {
+            "definition": "橙子；柑橘",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

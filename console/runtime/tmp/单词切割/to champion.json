@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "chempion",
+      "champeon",
+      "chapmion",
+      "champon"
+    ],
+    "correct_chunks": [
+      "ch",
+      "amp",
+      "ion"
+    ],
+    "distractor_chunks": [
+      "emp",
+      "eon",
+      "apm",
+      true
+    ]
+  },
+  0
+]

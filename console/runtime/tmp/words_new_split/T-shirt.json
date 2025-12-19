@@ -1,0 +1,21 @@
+[
+  {
+    "common_misspellings": [
+      "Tshirt",
+      "Te-shirt",
+      "T-chirt",
+      "T-shert"
+    ],
+    "correct_chunks": [
+      "T-",
+      "shirt"
+    ],
+    "distractor_chunks": [
+      "Tsh",
+      "Te-",
+      "chirt",
+      "shert"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "algorithm",
+      "error_analysis": "学生易因形近词'alcohol'（酒精）混淆，或因词根'log'（日志/逻辑）误猜为'逻辑记录'等含义。",
+      "sentence": "The search engine uses a complex **algorithm** to rank web pages based on relevance.",
+      "options": {
+        "option": [
+          {
+            "definition": "酒精",
+            "iscorrect": false
+          },
+          {
+            "definition": "算法",
+            "iscorrect": true
+          },
+          {
+            "definition": "逻辑日志",
+            "iscorrect": false
+          },
+          {
+            "definition": "代数公式",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

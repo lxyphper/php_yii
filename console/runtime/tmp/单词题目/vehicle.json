@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "vehicle",
+      "error_analysis": "中国学生易因形近词“vegetable”（蔬菜）混淆“vehicle”的核心义“运输工具”，或误猜为非运输类工具",
+      "sentence": "To get to the airport on time, we need a reliable **vehicle** like a car or a taxi.",
+      "options": {
+        "option": [
+          {
+            "definition": "蔬菜",
+            "iscorrect": false
+          },
+          {
+            "definition": "运输工具（如汽车、自行车等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "容器；器皿",
+            "iscorrect": false
+          },
+          {
+            "definition": "机器；设备",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "British",
+      "error_analysis": "学生易因形近词（如brilliant）联想到“杰出的”，或因词根误导将形容词“英国的”误作名词“英国”",
+      "sentence": "The **British** author won the Booker Prize last year.",
+      "options": {
+        "option": [
+          {
+            "definition": "英国的；英国人的",
+            "iscorrect": true
+          },
+          {
+            "definition": "杰出的",
+            "iscorrect": false
+          },
+          {
+            "definition": "英国（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "明亮的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

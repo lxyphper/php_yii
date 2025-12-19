@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "will",
+      "error_analysis": "中国学生易将助动词will与形近词wall（墙）混淆，或误将其名词义（意志）、情态动词义（愿意）用于表示将来的语境。",
+      "sentence": "They **will** have a party to celebrate their success next weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "墙（名词，指围起来的结构）",
+            "iscorrect": false
+          },
+          {
+            "definition": "意志（名词，指做某事的决心）",
+            "iscorrect": false
+          },
+          {
+            "definition": "愿意（情态动词，表示乐意做某事）",
+            "iscorrect": false
+          },
+          {
+            "definition": "将要（助动词，表示将来的动作或状态）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

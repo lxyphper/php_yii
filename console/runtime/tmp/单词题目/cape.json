@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cape",
+      "error_analysis": "学生易因形近词“cake”（蛋糕）产生联想，或误将“cape”与“cap”（帽子）关联，混淆为“蛋糕”或“帽子”类含义。",
+      "sentence": "She wrapped her woolen **cape** tightly around herself to keep warm in the chilly wind.",
+      "options": {
+        "option": [
+          {
+            "definition": "蛋糕",
+            "iscorrect": false
+          },
+          {
+            "definition": "帽子（如鸭舌帽）",
+            "iscorrect": false
+          },
+          {
+            "definition": "披肩",
+            "iscorrect": false
+          },
+          {
+            "definition": "斗篷",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "role",
+      "error_analysis": "学生易将\"role\"与形近音近词\"roll\"（卷；滚动）或\"rule\"（规则）混淆，导致误判其核心词义。",
+      "sentence": "In the play, her **role** as a teacher requires her to act patiently with the students.",
+      "options": {
+        "option": [
+          {
+            "definition": "角色；作用",
+            "iscorrect": true
+          },
+          {
+            "definition": "卷；滚动",
+            "iscorrect": false
+          },
+          {
+            "definition": "规则；规定",
+            "iscorrect": false
+          },
+          {
+            "definition": "路线；道路",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

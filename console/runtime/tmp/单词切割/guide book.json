@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "guid book",
+      "gueid book",
+      "guide bok",
+      "guide dook"
+    ],
+    "correct_chunks": [
+      "guid",
+      "e",
+      "b",
+      "ook"
+    ],
+    "distractor_chunks": [
+      "guei",
+      "bok",
+      "dook"
+    ]
+  },
+  0
+]

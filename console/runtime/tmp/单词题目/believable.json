@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "believable",
+      "error_analysis": "中国学生易因词根“able”字面误导（认为是“有能力相信的”）或形近词“belong”（属于）混淆，错误理解“believable”词义。",
+      "sentence": "The detective said the suspect's alibi was not **believable** because it had too many contradictions.",
+      "options": {
+        "option": [
+          {
+            "definition": "可信的；可相信的",
+            "iscorrect": true
+          },
+          {
+            "definition": "容易相信别人的",
+            "iscorrect": false
+          },
+          {
+            "definition": "属于的",
+            "iscorrect": false
+          },
+          {
+            "definition": "亲爱的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

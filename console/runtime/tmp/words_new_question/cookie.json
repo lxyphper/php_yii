@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cookie",
+      "error_analysis": "因形近词\"cook\"（厨师/做饭）误导，易将\"cookie\"错误理解为与烹饪相关的职业或动作",
+      "sentence": "My mom baked some chocolate chip **cookies** for me to take to school tomorrow.",
+      "options": {
+        "option": [
+          {
+            "definition": "饼干",
+            "iscorrect": true
+          },
+          {
+            "definition": "厨师",
+            "iscorrect": false
+          },
+          {
+            "definition": "烹饪技巧",
+            "iscorrect": false
+          },
+          {
+            "definition": "小蛋糕",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

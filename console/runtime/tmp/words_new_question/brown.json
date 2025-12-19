@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "brown",
+      "error_analysis": "学生易因形近词\"brow\"（眉毛）或\"born\"（出生）干扰，误判\"brown\"为\"眉毛\"或\"出生\"",
+      "sentence": "Her favorite teddy bear has soft **brown** fur that feels like cotton.",
+      "options": {
+        "option": [
+          {
+            "definition": "棕色（的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "眉毛",
+            "iscorrect": false
+          },
+          {
+            "definition": "出生",
+            "iscorrect": false
+          },
+          {
+            "definition": "勇敢的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

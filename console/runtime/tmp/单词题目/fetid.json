@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fetid",
+      "error_analysis": "学生易因形近词\"fertile\"（肥沃的）或\"fetch\"（取来）产生混淆，或误拆\"fetid\"为\"fe\"+\"tid\"联想\"tidy\"（整洁的）导致词义猜测错误",
+      "sentence": "After days of rain, the drain outside our house became clogged, emitting a **fetid** odor that made us cover our noses.",
+      "options": {
+        "option": [
+          {
+            "definition": "有恶臭的；腐臭的",
+            "iscorrect": true
+          },
+          {
+            "definition": "肥沃的；富饶的",
+            "iscorrect": false
+          },
+          {
+            "definition": "取来的；拿来的",
+            "iscorrect": false
+          },
+          {
+            "definition": "整洁的；整齐的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

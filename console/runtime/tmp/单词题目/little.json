@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "little",
+      "error_analysis": "学生易因形近词\"litter\"(垃圾)混淆，或误将\"little\"与\"lit\"(点燃)关联导致理解错误",
+      "sentence": "The **little** puppy chased a butterfly across the grass.",
+      "options": {
+        "option": [
+          {
+            "definition": "小的；少的",
+            "iscorrect": true
+          },
+          {
+            "definition": "垃圾",
+            "iscorrect": false
+          },
+          {
+            "definition": "点燃的",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

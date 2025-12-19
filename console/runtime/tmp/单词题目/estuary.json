@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "estuary",
+      "error_analysis": "学生易因形近词“estate”（庄园）或“entry”（入口）的干扰，误将“estuary”理解为“庄园”或“入口”。",
+      "sentence": "The Yangtze River forms a large **estuary** where it flows into the East China Sea, supporting rich biodiversity.",
+      "options": {
+        "option": [
+          {
+            "definition": "河口（江河入海口处的湾或三角洲）",
+            "iscorrect": true
+          },
+          {
+            "definition": "庄园（房地产或大片土地）",
+            "iscorrect": false
+          },
+          {
+            "definition": "入口（进入某处的通道）",
+            "iscorrect": false
+          },
+          {
+            "definition": "海湾（大海伸入陆地的部分）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

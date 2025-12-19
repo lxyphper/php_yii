@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "blue",
+      "error_analysis": "中国学生易因形近词“blur”（模糊）或字面误导“blew”（吹）将“blue”误判为“模糊的”或“吹”",
+      "sentence": "She bought a **blue** umbrella to match her white bag.",
+      "options": {
+        "option": [
+          {
+            "definition": "蓝色的",
+            "iscorrect": true
+          },
+          {
+            "definition": "模糊的",
+            "iscorrect": false
+          },
+          {
+            "definition": "吹（blow的过去式）",
+            "iscorrect": false
+          },
+          {
+            "definition": "空白的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

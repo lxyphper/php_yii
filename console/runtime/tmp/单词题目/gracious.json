@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gracious",
+      "error_analysis": "易混淆形近词\"graceful\"(优雅的)及词根\"grace\"误导的\"有恩惠的\"，忽略其\"亲切/仁慈\"的核心义",
+      "sentence": "The hostess was **gracious** enough to offer us a warm meal even though we arrived an hour late.",
+      "options": {
+        "option": [
+          {
+            "definition": "亲切的；仁慈的",
+            "iscorrect": true
+          },
+          {
+            "definition": "优雅的；优美的（如动作/体态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "有恩惠的；有恩典的",
+            "iscorrect": false
+          },
+          {
+            "definition": "强壮的；有力的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

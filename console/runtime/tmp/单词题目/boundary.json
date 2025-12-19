@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "boundary",
+      "error_analysis": "学生易因形近词“bound”的“束缚”或“跳跃”义，将“boundary”误理解为“束缚物”或“跳跃动作”。",
+      "sentence": "The river forms a natural **boundary** between the two countries.",
+      "options": {
+        "option": [
+          {
+            "definition": "边界；界限",
+            "iscorrect": true
+          },
+          {
+            "definition": "束缚物；限制",
+            "iscorrect": false
+          },
+          {
+            "definition": "跳跃的动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "绑定的物品",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

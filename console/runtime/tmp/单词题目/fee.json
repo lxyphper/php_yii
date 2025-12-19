@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fee",
+      "error_analysis": "学生易因形近词混淆，将“fee”误判为“free（免费）”或“feel（感觉）”等含义。",
+      "sentence": "The restaurant charges a 10% service **fee** for each table.",
+      "options": {
+        "option": [
+          {
+            "definition": "费用（如服务费、学费等，名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "免费的（形容词，如“免费的午餐”）",
+            "iscorrect": false
+          },
+          {
+            "definition": "感觉（动词，如“觉得开心”）",
+            "iscorrect": false
+          },
+          {
+            "definition": "饲料（名词，如“动物饲料”）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

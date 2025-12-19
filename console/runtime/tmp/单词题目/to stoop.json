@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to stoop",
+      "error_analysis": "学生易因形近词“stop”（停止）或“stool”（凳子）联想，将“stoop”误判为“停止”或“坐下”。",
+      "sentence": "The old man **stooped** to pick up the newspaper from the ground.",
+      "options": {
+        "option": [
+          {
+            "definition": "停止",
+            "iscorrect": false
+          },
+          {
+            "definition": "坐下",
+            "iscorrect": false
+          },
+          {
+            "definition": "弯腰",
+            "iscorrect": true
+          },
+          {
+            "definition": "愚蠢的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

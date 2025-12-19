@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "fast fud",
+      "fast fod",
+      "fas food",
+      "fust food",
+      "fast foood"
+    ],
+    "correct_chunks": [
+      "fa",
+      "st",
+      "foo",
+      "d"
+    ],
+    "distractor_chunks": [
+      "fu",
+      "fo",
+      "fas",
+      "fooo"
+    ]
+  },
+  0
+]

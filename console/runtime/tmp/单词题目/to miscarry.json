@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to miscarry",
+      "error_analysis": "学生易根据\"mis-+carry\"的词根结构猜测为\"错误携带\"或\"携带失败\"，忽略其核心的\"(孕妇)流产\"含义",
+      "sentence": "The doctor explained that stress could cause a woman to **miscarry** in the early stages of pregnancy.",
+      "options": {
+        "option": [
+          {
+            "definition": "错误地携带某物",
+            "iscorrect": false
+          },
+          {
+            "definition": "（孕妇）流产",
+            "iscorrect": true
+          },
+          {
+            "definition": "计划或行动失败",
+            "iscorrect": false
+          },
+          {
+            "definition": "误送包裹或信件",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

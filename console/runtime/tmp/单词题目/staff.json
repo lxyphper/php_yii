@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "staff",
+      "error_analysis": "将'staff'（员工）误判为形近词'stuff'（东西）",
+      "sentence": "Our hotel **staff** is always ready to help guests with their needs.",
+      "options": {
+        "option": [
+          {
+            "definition": "员工；职员",
+            "iscorrect": true
+          },
+          {
+            "definition": "东西；材料",
+            "iscorrect": false
+          },
+          {
+            "definition": "杖；权杖",
+            "iscorrect": false
+          },
+          {
+            "definition": "教师；教员",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

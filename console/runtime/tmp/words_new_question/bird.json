@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bird",
+      "error_analysis": "中国学生易因形近词“birth”（出生）的拼写与发音接近而混淆“bird”的核心词义“鸟”",
+      "sentence": "I saw a beautiful **bird** perched on the branch of the old oak tree.",
+      "options": {
+        "option": [
+          {
+            "definition": "鸟",
+            "iscorrect": true
+          },
+          {
+            "definition": "出生",
+            "iscorrect": false
+          },
+          {
+            "definition": "投标",
+            "iscorrect": false
+          },
+          {
+            "definition": "一点",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

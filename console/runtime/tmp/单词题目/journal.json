@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "journal",
+      "error_analysis": "易混淆形近词\"journey\"(旅行)，或因词根\"每日\"误导误判为\"日记\"(diary)",
+      "sentence": "She publishes her research findings in a leading scientific **journal** every year.",
+      "options": {
+        "option": [
+          {
+            "definition": "旅行",
+            "iscorrect": false
+          },
+          {
+            "definition": "日记",
+            "iscorrect": false
+          },
+          {
+            "definition": "期刊；杂志",
+            "iscorrect": true
+          },
+          {
+            "definition": "记者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

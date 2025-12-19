@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "insomnia",
+      "error_analysis": "学生易因与“insanity”（精神错乱）拼写相近或不熟悉“somn”（睡眠）词根而误判。",
+      "sentence": "Many people with **insomnia** struggle to fall asleep even when they're extremely tired.",
+      "options": {
+        "option": [
+          {
+            "definition": "精神错乱",
+            "iscorrect": false
+          },
+          {
+            "definition": "消化不良",
+            "iscorrect": false
+          },
+          {
+            "definition": "过度睡眠",
+            "iscorrect": false
+          },
+          {
+            "definition": "失眠症",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

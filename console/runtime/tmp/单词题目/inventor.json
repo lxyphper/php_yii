@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "inventor",
+      "error_analysis": "学生易混淆形近词“inventory”（库存）或“investor”（投资者）",
+      "sentence": "Thomas Edison, a famous American **inventor**, invented the light bulb and many other useful devices.",
+      "options": {
+        "option": [
+          {
+            "definition": "发明者；发明家",
+            "iscorrect": true
+          },
+          {
+            "definition": "库存；存货",
+            "iscorrect": false
+          },
+          {
+            "definition": "投资者；出资人",
+            "iscorrect": false
+          },
+          {
+            "definition": "创造者；创作者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

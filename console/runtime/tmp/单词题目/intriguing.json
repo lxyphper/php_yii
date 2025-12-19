@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "intriguing",
+      "error_analysis": "中国学生易因形近词“intricate”（复杂的）或词根“intrigue”（阴谋）误判“intriguing”为“复杂的”或“有阴谋的”。",
+      "sentence": "The novel's opening chapter presents an **intriguing** mystery about a missing painting, making readers eager to turn the page.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人感兴趣的；引人入胜的",
+            "iscorrect": true
+          },
+          {
+            "definition": "复杂的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有阴谋的",
+            "iscorrect": false
+          },
+          {
+            "definition": "内在的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

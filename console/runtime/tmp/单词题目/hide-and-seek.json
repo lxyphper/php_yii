@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hide-and-seek",
+      "error_analysis": "学生易将\"hide-and-seek\"字面拆解为\"隐藏与寻找\"的一般行为，或因\"hide\"与\"hike\"形近误解为徒步相关活动。",
+      "sentence": "The kids were giggling and running around while playing **hide-and-seek** in the park.",
+      "options": {
+        "option": [
+          {
+            "definition": "捉迷藏（一种儿童游戏）",
+            "iscorrect": true
+          },
+          {
+            "definition": "隐藏并寻找某物的日常行为",
+            "iscorrect": false
+          },
+          {
+            "definition": "徒步旅行中寻找隐藏景点的活动",
+            "iscorrect": false
+          },
+          {
+            "definition": "一种需要逻辑推理的解谜游戏",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

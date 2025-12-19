@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rhombus",
+      "error_analysis": "学生易因\"rhombus\"与形近词\"rhythm\"（节奏）混淆而误判，或因不熟悉词根\"rhomb-\"（旋转）而猜测为\"旋转的物体\"。",
+      "sentence": "The kite's frame was shaped like a **rhombus**, with four equal sides but no right angles.",
+      "options": {
+        "option": [
+          {
+            "definition": "菱形",
+            "iscorrect": true
+          },
+          {
+            "definition": "节奏",
+            "iscorrect": false
+          },
+          {
+            "definition": "旋转的物体",
+            "iscorrect": false
+          },
+          {
+            "definition": "矩形",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

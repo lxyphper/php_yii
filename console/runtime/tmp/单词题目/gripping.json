@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gripping",
+      "error_analysis": "学生易从词根\"grip\"（抓住）推导为\"紧握的\"，或混淆形近词导致对\"吸引人\"核心义的误判",
+      "sentence": "The novel I read last night was so **gripping** that I couldn't put it down until 3 a.m.",
+      "options": {
+        "option": [
+          {
+            "definition": "引人入胜的；扣人心弦的",
+            "iscorrect": true
+          },
+          {
+            "definition": "紧握的；有抓力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "悲伤的；难过的",
+            "iscorrect": false
+          },
+          {
+            "definition": "贪婪的；贪心的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

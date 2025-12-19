@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "street light",
+      "error_analysis": "学生易因字面拆分将“street light”误理解为“街道的光线”，或因形近联想混淆“路牌”等同类street短语",
+      "sentence": "The **street light** outside my window turns on automatically at dusk, lighting up the sidewalk for pedestrians.",
+      "options": {
+        "option": [
+          {
+            "definition": "路灯",
+            "iscorrect": true
+          },
+          {
+            "definition": "路牌",
+            "iscorrect": false
+          },
+          {
+            "definition": "街道的光线",
+            "iscorrect": false
+          },
+          {
+            "definition": "街头信号灯",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

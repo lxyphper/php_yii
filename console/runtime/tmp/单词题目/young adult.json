@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "young adult",
+      "error_analysis": "学生易将\"young adult\"误等同于\"青少年（teenager）\"，混淆两者年龄边界（前者为18-30岁成年群体，后者为13-19岁未成年群体）。",
+      "sentence": "The bookstore's **young adult** section features books about career choices and independent living, aimed at readers aged 18 to 29.",
+      "options": {
+        "option": [
+          {
+            "definition": "青年成年人（通常指18至30岁左右的成年群体）",
+            "iscorrect": true
+          },
+          {
+            "definition": "青少年（13至19岁的未成年群体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "年幼的儿童（12岁以下的低龄群体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "中年成年人（40至60岁的成熟群体）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

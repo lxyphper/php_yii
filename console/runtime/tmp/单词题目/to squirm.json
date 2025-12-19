@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to squirm",
+      "error_analysis": "易因形近词'squirrel'(松鼠)误联想为\"跳跃\"，或误判为\"挣扎\"而非\"扭动(身体)\"",
+      "sentence": "When the teacher mentioned his mistake in front of the class, Tom **squirmed** in his chair and avoided eye contact.",
+      "options": {
+        "option": [
+          {
+            "definition": "（因尴尬或不舒服而）扭动身体",
+            "iscorrect": true
+          },
+          {
+            "definition": "（像松鼠一样）跳跃或快速移动",
+            "iscorrect": false
+          },
+          {
+            "definition": "用力挣扎",
+            "iscorrect": false
+          },
+          {
+            "definition": "像虫子一样爬行",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "graphics processing unit",
+      "error_analysis": "学生易因形近词“graph”（图表）将其误解为“图表处理单元”，或因词根直译将“unit”误作“工具”。",
+      "sentence": "The new laptop’s **graphics processing unit** allows it to run high-end video games smoothly without lag.",
+      "options": {
+        "option": [
+          {
+            "definition": "图形处理单元",
+            "iscorrect": true
+          },
+          {
+            "definition": "图表处理单元",
+            "iscorrect": false
+          },
+          {
+            "definition": "图形处理工具",
+            "iscorrect": false
+          },
+          {
+            "definition": "图形显示单元",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

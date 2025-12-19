@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to wither",
+      "error_analysis": "学生易因形近词“weather”（天气）或误由“with-”词根推导，将“to wither”错误理解为“天气变化”或“和...一起离开”",
+      "sentence": "The flowers in the vase began to **wither** after a few days without water.",
+      "options": {
+        "option": [
+          {
+            "definition": "枯萎；凋谢",
+            "iscorrect": true
+          },
+          {
+            "definition": "（天气）变化；经受天气考验",
+            "iscorrect": false
+          },
+          {
+            "definition": "和...一起离开",
+            "iscorrect": false
+          },
+          {
+            "definition": "低语；小声说",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

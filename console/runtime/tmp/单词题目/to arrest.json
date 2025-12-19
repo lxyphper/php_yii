@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to arrest",
+      "error_analysis": "形近词“rest”（休息）的干扰及词根“rest”（停留）导致的错误联想（如将“arrest”误判为“停止”而非“逮捕”）",
+      "sentence": "The police will **arrest** the suspect as soon as they have enough evidence.",
+      "options": {
+        "option": [
+          {
+            "definition": "休息；放松",
+            "iscorrect": false
+          },
+          {
+            "definition": "逮捕；拘捕",
+            "iscorrect": true
+          },
+          {
+            "definition": "停止；使停留",
+            "iscorrect": false
+          },
+          {
+            "definition": "到达；抵达",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

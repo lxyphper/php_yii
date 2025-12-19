@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nauseous",
+      "error_analysis": "易混淆形近词nervous（紧张的），或误猜为与“营养”相关的含义（如nutritious）",
+      "sentence": "After eating the spoiled seafood, she felt **nauseous** and had to rush to the bathroom.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人恶心的；想吐的",
+            "iscorrect": true
+          },
+          {
+            "definition": "紧张的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有营养的",
+            "iscorrect": false
+          },
+          {
+            "definition": "头晕的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

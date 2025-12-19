@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "work",
+      "error_analysis": "学生易混淆形近词“word”（单词），或误将“work”在“起作用”语境下理解为“工作”。",
+      "sentence": "The new painkiller will **work** in 10 minutes, so you’ll feel better soon.",
+      "options": {
+        "option": [
+          {
+            "definition": "单词",
+            "iscorrect": false
+          },
+          {
+            "definition": "工作",
+            "iscorrect": false
+          },
+          {
+            "definition": "起作用；有效",
+            "iscorrect": true
+          },
+          {
+            "definition": "写字",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wolf",
+      "error_analysis": "中国学生易因形近词“wool”（羊毛）干扰或对复合词“wolfhound”的误解，将“wolf”误判为“羊毛”或“猎狼犬”。",
+      "sentence": "The farmer heard a loud howl from the woods and feared a **wolf** might attack his sheep.",
+      "options": {
+        "option": [
+          {
+            "definition": "狼",
+            "iscorrect": true
+          },
+          {
+            "definition": "羊毛",
+            "iscorrect": false
+          },
+          {
+            "definition": "猎狼犬",
+            "iscorrect": false
+          },
+          {
+            "definition": "狐狸",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

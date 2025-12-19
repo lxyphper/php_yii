@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to expostulate",
+      "error_analysis": "学生易因形近词\"expose\"（暴露）或\"postulate\"（假设），将\"expostulate\"误理解为\"暴露\"或\"假设\"。",
+      "sentence": "When Mary saw her brother about to jump into the river, she rushed over to **expostulate** with him, begging him to think twice before doing something so dangerous.",
+      "options": {
+        "option": [
+          {
+            "definition": "劝诫；忠告（对某人的行为表示反对并试图说服）",
+            "iscorrect": true
+          },
+          {
+            "definition": "暴露；揭示（使隐藏的事物显现）",
+            "iscorrect": false
+          },
+          {
+            "definition": "假设；假定（提出作为前提或真理）",
+            "iscorrect": false
+          },
+          {
+            "definition": "支持；赞成（对某观点或行动表示同意）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

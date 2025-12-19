@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "garlic",
+      "error_analysis": "中国学生易因“garlic”与“garbage”（垃圾）拼写/发音接近或“gar”开头联想到“garage”（车库）而误判其义",
+      "sentence": "I added a clove of **garlic** to the tomato sauce to give it more flavor.",
+      "options": {
+        "option": [
+          {
+            "definition": "大蒜",
+            "iscorrect": true
+          },
+          {
+            "definition": "垃圾",
+            "iscorrect": false
+          },
+          {
+            "definition": "车库",
+            "iscorrect": false
+          },
+          {
+            "definition": "气体",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nor",
+      "error_analysis": "学生易因形近词\"or\"（或者）混淆，或误将\"nor\"当作\"no\"的变体理解为\"不\"，忽略其\"也不\"的否定并列功能。",
+      "sentence": "She neither likes coffee **nor** tea.",
+      "options": {
+        "option": [
+          {
+            "definition": "也不（用于否定句中连接并列成分）",
+            "iscorrect": true
+          },
+          {
+            "definition": "或者（用于肯定句中表示选择）",
+            "iscorrect": false
+          },
+          {
+            "definition": "不（表示否定的副词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "北方（表示方向的名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

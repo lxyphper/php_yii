@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "no",
+      "error_analysis": "学生易因形近词“on”（在...上）的拼写或“know”（知道）的发音混淆而误判“no”的含义",
+      "sentence": "There is **no** milk left in the fridge. Can you buy some on your way home?",
+      "options": {
+        "option": [
+          {
+            "definition": "没有；无",
+            "iscorrect": true
+          },
+          {
+            "definition": "在...上",
+            "iscorrect": false
+          },
+          {
+            "definition": "知道",
+            "iscorrect": false
+          },
+          {
+            "definition": "不",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

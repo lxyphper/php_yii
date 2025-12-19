@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "elementary",
+      "error_analysis": "学生易因词根\"element\"（元素）的干扰，将\"elementary\"误判为\"元素的\"或\"成分的\"。",
+      "sentence": "She began her English study with **elementary** vocabulary lists, which included simple words like \"cat\" and \"dog.\"",
+      "options": {
+        "option": [
+          {
+            "definition": "基础的；初级的",
+            "iscorrect": true
+          },
+          {
+            "definition": "元素的；成分的",
+            "iscorrect": false
+          },
+          {
+            "definition": "本质的；根本的",
+            "iscorrect": false
+          },
+          {
+            "definition": "自然的；原始的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

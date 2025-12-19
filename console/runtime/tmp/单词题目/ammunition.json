@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ammunition",
+      "error_analysis": "学生易因形近词“animation”（动画）或词根“anim”（生命/动物）误将“ammunition”理解为“动画”或“动物相关物品”。",
+      "sentence": "The army truck was loaded with **ammunition** to support the frontline troops.",
+      "options": {
+        "option": [
+          {
+            "definition": "动画",
+            "iscorrect": false
+          },
+          {
+            "definition": "弹药",
+            "iscorrect": true
+          },
+          {
+            "definition": "动物饲料",
+            "iscorrect": false
+          },
+          {
+            "definition": "任务",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

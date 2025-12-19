@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to injure",
+      "error_analysis": "易混淆形近词\"inquire\"(询问)，或因词根联想误与\"jury\"(陪审团)关联为\"审判\"。",
+      "sentence": "The car accident caused the driver to **injure** his leg badly, so he had to go to the hospital immediately.",
+      "options": {
+        "option": [
+          {
+            "definition": "伤害；使受伤",
+            "iscorrect": true
+          },
+          {
+            "definition": "询问；打听",
+            "iscorrect": false
+          },
+          {
+            "definition": "审判；裁决",
+            "iscorrect": false
+          },
+          {
+            "definition": "邀请；恳请",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

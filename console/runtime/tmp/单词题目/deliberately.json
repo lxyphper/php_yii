@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "deliberately",
+      "error_analysis": "中国学生易因形近词“delicate”（精致的）混淆“deliberately”词义，或误将词根“deliberate”（考虑）延伸为“深思熟虑地”而忽略核心义“故意地”。",
+      "sentence": "The child **deliberately** broke the toy to get his mother's attention.",
+      "options": {
+        "option": [
+          {
+            "definition": "故意地",
+            "iscorrect": true
+          },
+          {
+            "definition": "精致地",
+            "iscorrect": false
+          },
+          {
+            "definition": "深思熟虑地",
+            "iscorrect": false
+          },
+          {
+            "definition": "意外地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

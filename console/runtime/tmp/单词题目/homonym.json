@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "homonym",
+      "error_analysis": "学生易因“homo-”（相同）和“-nym”（名称）的词根误导，将“homonym”误判为“同义词”，或混淆其与“同音异义词”的区别",
+      "sentence": "The word \"bank\" is a classic example of a **homonym** because it can mean both a financial institution and the edge of a river.",
+      "options": {
+        "option": [
+          {
+            "definition": "(in language) a word that has the same spelling or pronunciation as another word but a different meaning",
+            "iscorrect": true
+          },
+          {
+            "definition": "a word that has the same meaning as another word",
+            "iscorrect": false
+          },
+          {
+            "definition": "a word that has the same pronunciation as another word but a different meaning",
+            "iscorrect": false
+          },
+          {
+            "definition": "a word that has the opposite meaning to another word",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nerve",
+      "error_analysis": "学生易将\"nerve\"误理解为\"神经\"（词根字面误导）或与形近词\"nerd\"（书呆子）混淆，忽略其\"勇气\"的核心义。",
+      "sentence": "She had the **nerve** to ask her boss for a raise after only a month on the job.",
+      "options": {
+        "option": [
+          {
+            "definition": "勇气",
+            "iscorrect": true
+          },
+          {
+            "definition": "神经",
+            "iscorrect": false
+          },
+          {
+            "definition": "书呆子",
+            "iscorrect": false
+          },
+          {
+            "definition": "紧张",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

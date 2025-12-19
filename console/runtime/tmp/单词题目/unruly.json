@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unruly",
+      "error_analysis": "易因形近词\"unusual\"(不寻常的)或词根\"rule\"(规则)误导，误判为\"不寻常的\"或\"无规则的\"。",
+      "sentence": "The teacher had trouble managing the **unruly** students who kept talking and running around the classroom.",
+      "options": {
+        "option": [
+          {
+            "definition": "难以控制的；不守规矩的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不寻常的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无规则的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不整洁的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

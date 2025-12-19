@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "HTLM",
+      "HMTL",
+      "HLTM",
+      "HTM"
+    ],
+    "correct_chunks": [
+      "H",
+      "T",
+      "M",
+      "L"
+    ],
+    "distractor_chunks": [
+      "TL",
+      "MT",
+      "HL",
+      "HTM"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mango",
+      "error_analysis": "学生易因拆分“mango”为“man+go”错误联想词义，或与形近词“tango”（探戈）混淆",
+      "sentence": "I bought a ripe **mango** from the market and ate it as a snack.",
+      "options": {
+        "option": [
+          {
+            "definition": "芒果",
+            "iscorrect": true
+          },
+          {
+            "definition": "探戈",
+            "iscorrect": false
+          },
+          {
+            "definition": "男人走",
+            "iscorrect": false
+          },
+          {
+            "definition": "香蕉",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

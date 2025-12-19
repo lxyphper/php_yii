@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bedrock",
+      "error_analysis": "学生易因“bed”+“rock”的字面组合，错误理解为“床岩”（地质义）或“床头的岩石”，忽略其比喻义“基础；根本”",
+      "sentence": "Trust is the **bedrock** of a strong relationship.",
+      "options": {
+        "option": [
+          {
+            "definition": "基础；根本",
+            "iscorrect": true
+          },
+          {
+            "definition": "床岩（地质中位于底层的岩石）",
+            "iscorrect": false
+          },
+          {
+            "definition": "床头的装饰岩石",
+            "iscorrect": false
+          },
+          {
+            "definition": "铺盖卷（露营用的床具）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

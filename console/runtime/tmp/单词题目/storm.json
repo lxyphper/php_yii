@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "storm",
+      "error_analysis": "容易与形近词“store”（商店）混淆，或因“stormy”（暴躁的）的形容词义误判为“暴躁的人”。",
+      "sentence": "The dark clouds and strong winds warned us that a **storm** was coming.",
+      "options": {
+        "option": [
+          {
+            "definition": "风暴；暴风雨",
+            "iscorrect": true
+          },
+          {
+            "definition": "商店",
+            "iscorrect": false
+          },
+          {
+            "definition": "暴躁的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "故事",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

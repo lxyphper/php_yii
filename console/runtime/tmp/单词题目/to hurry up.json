@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to hurry up",
+      "error_analysis": "中国学生易将\"to hurry up\"字面理解为\"快点起来\"（因\"up\"表向上/起身），或与形近词\"carry\"混淆为\"携带某物\"。",
+      "sentence": "Mom shouted, \"**Hurry up**! The bus is coming or we'll miss it!\"",
+      "options": {
+        "option": [
+          {
+            "definition": "快点；赶紧",
+            "iscorrect": true
+          },
+          {
+            "definition": "快点起来",
+            "iscorrect": false
+          },
+          {
+            "definition": "携带某物",
+            "iscorrect": false
+          },
+          {
+            "definition": "停止做某事",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

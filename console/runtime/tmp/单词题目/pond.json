@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pond",
+      "error_analysis": "学生易因形近词“pound”（英镑/磅）混淆“pond”的词义",
+      "sentence": "The children were catching frogs in the small **pond** behind their house.",
+      "options": {
+        "option": [
+          {
+            "definition": "池塘（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "英镑（货币单位）",
+            "iscorrect": false
+          },
+          {
+            "definition": "思考（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "游泳池（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

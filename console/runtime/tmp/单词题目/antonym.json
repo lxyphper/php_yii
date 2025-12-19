@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "antonym",
+      "error_analysis": "学生易因形近词（如antique/antibody）或词根“ant-”+“onym”的字面联想，误将antonym理解为与“古董”“抗体”或“反义的名字”相关的含义",
+      "sentence": "In English, \"happy\" and \"sad\" are **antonyms**—they express opposite feelings.",
+      "options": {
+        "option": [
+          {
+            "definition": "反义词",
+            "iscorrect": true
+          },
+          {
+            "definition": "古董",
+            "iscorrect": false
+          },
+          {
+            "definition": "抗体",
+            "iscorrect": false
+          },
+          {
+            "definition": "反义的名字",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

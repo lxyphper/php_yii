@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "freshman",
+      "error_analysis": "学生易因\"fresh\"(新鲜的)和\"man\"(人)的字面组合，误将\"freshman\"理解为\"新员工\"或\"新鲜的人\"，而非\"大一新生\"",
+      "sentence": "As a **freshman**, Jack is excited to join the school football team but nervous about his first math class.",
+      "options": {
+        "option": [
+          {
+            "definition": "大一新生",
+            "iscorrect": true
+          },
+          {
+            "definition": "新员工",
+            "iscorrect": false
+          },
+          {
+            "definition": "新鲜的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "新人（泛泛指）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "line management",
+      "error_analysis": "易因“line”的字面义（线条/生产线）或“line manager”（直属经理）的联想，误判为“线条管理”“生产线管理”或“直属经理的个人管理”",
+      "sentence": "In most companies, **line management** is responsible for overseeing daily operations and ensuring team goals are met, while staff management handles support functions like HR and finance.",
+      "options": {
+        "option": [
+          {
+            "definition": "线条管理",
+            "iscorrect": false
+          },
+          {
+            "definition": "生产线管理",
+            "iscorrect": false
+          },
+          {
+            "definition": "直线管理（组织中直接负责生产或服务的层级管理）",
+            "iscorrect": true
+          },
+          {
+            "definition": "直属经理的个人管理",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

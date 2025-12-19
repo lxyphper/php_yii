@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to stumble",
+      "error_analysis": "学生易因形近词“mumble”（咕哝）或“stroll”（散步）误解，或因词根猜测误判为“踩（脚）”。",
+      "sentence": "She **stumbled** over a rock and nearly fell while hiking in the mountains.",
+      "options": {
+        "option": [
+          {
+            "definition": "说话含糊；咕哝",
+            "iscorrect": false
+          },
+          {
+            "definition": "绊倒；蹒跚",
+            "iscorrect": true
+          },
+          {
+            "definition": "踩（脚）；踏",
+            "iscorrect": false
+          },
+          {
+            "definition": "慢慢散步；闲逛",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to suppose",
+      "error_analysis": "混淆形近词\"propose\"(提议)或因词根\"ponere\"(放)错误推导为\"支持\"",
+      "sentence": "I **suppose** she’ll be here soon since she texted me five minutes ago.",
+      "options": {
+        "option": [
+          {
+            "definition": "假定；认为",
+            "iscorrect": true
+          },
+          {
+            "definition": "提议；建议",
+            "iscorrect": false
+          },
+          {
+            "definition": "支持；支撑",
+            "iscorrect": false
+          },
+          {
+            "definition": "猜测（无依据）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "power politics",
+      "error_analysis": "学生易将\"power politics\"直译为\"权力政治\"而忽略其\"强权政治\"的贬义核心，或混淆为\"党派政治\"等形近短语。",
+      "sentence": "The diplomat criticized the superpower's use of **power politics** to impose its will on smaller nations without considering their sovereignty.",
+      "options": {
+        "option": [
+          {
+            "definition": "强权政治（基于权力而非道德或法律的政治手段）",
+            "iscorrect": true
+          },
+          {
+            "definition": "关于权力结构的政治理论",
+            "iscorrect": false
+          },
+          {
+            "definition": "党派政治（基于政党利益的政治活动）",
+            "iscorrect": false
+          },
+          {
+            "definition": "有影响力的政治人物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

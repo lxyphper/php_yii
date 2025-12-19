@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Arabic",
+      "error_analysis": "易因形近词'arable'（可耕种的）产生混淆，或误将'Arabic'的核心名词义'阿拉伯语'当作形容词义'阿拉伯人的'。",
+      "sentence": "Many people in the Middle East speak **Arabic** as their first language.",
+      "options": {
+        "option": [
+          {
+            "definition": "阿拉伯语",
+            "iscorrect": true
+          },
+          {
+            "definition": "可耕种的",
+            "iscorrect": false
+          },
+          {
+            "definition": "阿拉伯人的",
+            "iscorrect": false
+          },
+          {
+            "definition": "阿拉伯半岛的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

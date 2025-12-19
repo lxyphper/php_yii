@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "temperate",
+      "error_analysis": "学生易将'temperate'与形近词'temper'（脾气）或'temporary'（暂时的）混淆，误以为是'易怒的'或'暂时的'。",
+      "sentence": "The Pacific Northwest of the United States has a **temperate** climate with mild winters and cool summers.",
+      "options": {
+        "option": [
+          {
+            "definition": "温和的；温带的",
+            "iscorrect": true
+          },
+          {
+            "definition": "易怒的；脾气暴躁的",
+            "iscorrect": false
+          },
+          {
+            "definition": "暂时的；临时的",
+            "iscorrect": false
+          },
+          {
+            "definition": "高温的；炎热的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "twelve",
+      "error_analysis": "因形近词twenty（二十）干扰，易将twelve误判为“二十”",
+      "sentence": "There are **twelve** months in a year.",
+      "options": {
+        "option": [
+          {
+            "definition": "十二",
+            "iscorrect": true
+          },
+          {
+            "definition": "二十",
+            "iscorrect": false
+          },
+          {
+            "definition": "二",
+            "iscorrect": false
+          },
+          {
+            "definition": "第十二",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

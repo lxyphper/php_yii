@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bipedal",
+      "error_analysis": "学生易因形近词“pedal”（踏板）产生联想，或因词根“ped-”的错误理解（将“脚”误判为“踏板”），误以为“bipedal”与“踏板”或“脚蹬”相关。",
+      "sentence": "Humans are **bipedal** creatures, which means we walk on two legs instead of four like most mammals.",
+      "options": {
+        "option": [
+          {
+            "definition": "两足的；用两足行走的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有两个踏板的（如乐器或机器）",
+            "iscorrect": false
+          },
+          {
+            "definition": "用脚蹬动的（如自行车）",
+            "iscorrect": false
+          },
+          {
+            "definition": "双轮的（如交通工具）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

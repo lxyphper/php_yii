@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "toenail",
+      "error_analysis": "学生易将\"nail\"误解为\"钉子\"，从而把\"toenail\"错误理解为\"脚趾上的钉子\"。",
+      "sentence": "I need to trim my **toenail** before wearing sandals because it's too long and uncomfortable.",
+      "options": {
+        "option": [
+          {
+            "definition": "脚趾甲",
+            "iscorrect": true
+          },
+          {
+            "definition": "脚趾上的钉子",
+            "iscorrect": false
+          },
+          {
+            "definition": "鞋头的金属装饰钉",
+            "iscorrect": false
+          },
+          {
+            "definition": "脚趾末端的老茧",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

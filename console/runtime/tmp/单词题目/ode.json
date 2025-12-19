@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ode",
+      "error_analysis": "学生易因形近词\"odd\"（奇怪的）混淆，或因词根不熟悉而错误猜测为无关含义（如通知、工具）。",
+      "sentence": "The poet wrote a beautiful **ode** to the sunset, praising its vibrant colors and peaceful glow.",
+      "options": {
+        "option": [
+          {
+            "definition": "颂歌；赞美诗",
+            "iscorrect": true
+          },
+          {
+            "definition": "奇怪的人或物",
+            "iscorrect": false
+          },
+          {
+            "definition": "简短的通知",
+            "iscorrect": false
+          },
+          {
+            "definition": "实用的工具",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

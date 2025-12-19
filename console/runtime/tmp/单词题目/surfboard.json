@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "surfboard",
+      "error_analysis": "学生易因形近词\"cupboard\"（橱柜）的\"board\"联想，或\"surf\"（浏览）的熟词僻义，将\"surfboard\"误判为橱柜或上网设备。",
+      "sentence": "He grabbed his **surfboard** and ran towards the beach as soon as he saw the big waves.",
+      "options": {
+        "option": [
+          {
+            "definition": "冲浪板",
+            "iscorrect": true
+          },
+          {
+            "definition": "橱柜",
+            "iscorrect": false
+          },
+          {
+            "definition": "上网用的平板设备",
+            "iscorrect": false
+          },
+          {
+            "definition": "滑雪板",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

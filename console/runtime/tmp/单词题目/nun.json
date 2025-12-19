@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nun",
+      "error_analysis": "学生易因形近词混淆，如将'nun'误判为'nut'（坚果）或'gun'（枪）",
+      "sentence": "The **nun** from the convent often helps the poor in the village.",
+      "options": {
+        "option": [
+          {
+            "definition": "修女",
+            "iscorrect": true
+          },
+          {
+            "definition": "坚果",
+            "iscorrect": false
+          },
+          {
+            "definition": "枪",
+            "iscorrect": false
+          },
+          {
+            "definition": "没有",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

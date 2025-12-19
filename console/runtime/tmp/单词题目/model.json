@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "model",
+      "error_analysis": "易混淆形近词\"modal\"(情态的)，或忽略\"榜样\"这一常见义而误选\"模型\"",
+      "sentence": "As a successful scientist and dedicated teacher, Dr. Li is widely regarded as a **model** for aspiring researchers.",
+      "options": {
+        "option": [
+          {
+            "definition": "情态的",
+            "iscorrect": false
+          },
+          {
+            "definition": "模块",
+            "iscorrect": false
+          },
+          {
+            "definition": "榜样；模范",
+            "iscorrect": true
+          },
+          {
+            "definition": "模型；原型",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

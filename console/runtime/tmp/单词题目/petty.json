@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "petty",
+      "error_analysis": "中国学生易因形近词\"pretty\"误解为\"漂亮的\"，或因词根\"pet\"(宠物)联想为\"与宠物相关的\"",
+      "sentence": "She refused to argue about such a **petty** matter—whether to put the fork on the left or right of the plate.",
+      "options": {
+        "option": [
+          {
+            "definition": "漂亮的",
+            "iscorrect": false
+          },
+          {
+            "definition": "与宠物相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "琐碎的；不重要的",
+            "iscorrect": true
+          },
+          {
+            "definition": "友好的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

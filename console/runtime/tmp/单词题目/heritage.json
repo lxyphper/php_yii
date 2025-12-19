@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "heritage",
+      "error_analysis": "学生易因“herit-”词根误导，将“heritage”误理解为“继承的行为”，忽略其“文化遗产”的核心含义。",
+      "sentence": "The ancient Great Wall is a symbol of China's rich **heritage**.",
+      "options": {
+        "option": [
+          {
+            "definition": "文化遗产；传统",
+            "iscorrect": true
+          },
+          {
+            "definition": "继承的行为；个人遗产",
+            "iscorrect": false
+          },
+          {
+            "definition": "草本植物；药草",
+            "iscorrect": false
+          },
+          {
+            "definition": "她的财产；私有物品",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mall",
+      "error_analysis": "与形近词'mail'（邮件）混淆，或误将词源义'林荫道'当作当前常用义",
+      "sentence": "Let's meet at the **mall** near the subway station—there are lots of stores and a food court there.",
+      "options": {
+        "option": [
+          {
+            "definition": "邮件",
+            "iscorrect": false
+          },
+          {
+            "definition": "购物中心",
+            "iscorrect": true
+          },
+          {
+            "definition": "林荫道",
+            "iscorrect": false
+          },
+          {
+            "definition": "小商店",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

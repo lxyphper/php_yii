@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "unemployent",
+      "unemploymant",
+      "unempoyment",
+      "unemploiment"
+    ],
+    "correct_chunks": [
+      "un",
+      "employ",
+      "ment"
+    ],
+    "distractor_chunks": [
+      "ent",
+      "mant",
+      "empoy",
+      "emploi"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to sneak",
+      "error_analysis": "学生易因形近词\"speak\"（说话）或\"snack\"（零食）的干扰，误将\"to sneak\"理解为与\"说话\"或\"吃零食\"相关的动作",
+      "sentence": "Tom tried to **sneak** into the house without waking his parents, but he stepped on a toy and made a noise.",
+      "options": {
+        "option": [
+          {
+            "definition": "偷偷地走；潜行",
+            "iscorrect": true
+          },
+          {
+            "definition": "说话；交谈",
+            "iscorrect": false
+          },
+          {
+            "definition": "吃零食；小吃",
+            "iscorrect": false
+          },
+          {
+            "definition": "打破；损坏",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

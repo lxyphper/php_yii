@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "discipline",
+      "error_analysis": "学生易混淆形近词disciple（门徒）或因词根dis-错误联想为“无纪律”",
+      "sentence": "The teacher emphasized that good **discipline** in the classroom is essential for effective learning.",
+      "options": {
+        "option": [
+          {
+            "definition": "纪律；自律",
+            "iscorrect": true
+          },
+          {
+            "definition": "门徒；信徒",
+            "iscorrect": false
+          },
+          {
+            "definition": "无纪律；混乱",
+            "iscorrect": false
+          },
+          {
+            "definition": "惩罚；处罚",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

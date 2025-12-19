@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "holocaust",
+      "error_analysis": "形近词“holiday”导致联想错误（如“假期”），或词根“holo-+caust”错误推导为“大火”，忽略其“大屠杀”的特定含义",
+      "sentence": "The museum documents the **holocaust** of six million Jews during World War II.",
+      "options": {
+        "option": [
+          {
+            "definition": "假期；假日",
+            "iscorrect": false
+          },
+          {
+            "definition": "大火；大规模焚烧",
+            "iscorrect": false
+          },
+          {
+            "definition": "大屠杀（尤指纳粹对犹太人的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "神圣的庆典",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

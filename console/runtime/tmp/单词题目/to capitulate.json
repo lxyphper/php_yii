@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to capitulate",
+      "error_analysis": "学生易因形近词“capital”（首都/资本）或词根“capit-”（头）错误联想，将“to capitulate”误解为“建都”“投资”或“带头”等义。",
+      "sentence": "When the floodwaters rose too high, the villagers had to **capitulate** to the authorities' order to evacuate.",
+      "options": {
+        "option": [
+          {
+            "definition": "投降；屈服",
+            "iscorrect": true
+          },
+          {
+            "definition": "建都；设立首都",
+            "iscorrect": false
+          },
+          {
+            "definition": "投资；注入资本",
+            "iscorrect": false
+          },
+          {
+            "definition": "带头；领导",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

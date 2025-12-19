@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to slumber",
+      "error_analysis": "学生易将\"to slumber\"与形近词\"slum\"（贫民窟）混淆，错误理解为\"居住在贫民窟\"。",
+      "sentence": "After a tiring day of playing outside, the little girl curled up in her blanket and began to **slumber** peacefully.",
+      "options": {
+        "option": [
+          {
+            "definition": "入睡；睡眠（尤指安静或持续的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "居住在贫民窟",
+            "iscorrect": false
+          },
+          {
+            "definition": "滑动；滑倒",
+            "iscorrect": false
+          },
+          {
+            "definition": "小声交谈",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

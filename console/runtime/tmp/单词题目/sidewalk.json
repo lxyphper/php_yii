@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sidewalk",
+      "error_analysis": "学生易因形近词'sideway'（小路/岔路）混淆，或通过'side+walk'词根猜测为'侧边的步行路线'而非正确的'人行道'。",
+      "sentence": "She tripped over a crack in the **sidewalk** while hurrying to catch the bus near the supermarket.",
+      "options": {
+        "option": [
+          {
+            "definition": "人行道（路边供行人行走的硬地路径）",
+            "iscorrect": true
+          },
+          {
+            "definition": "小路/岔路（非主要道路的小径）",
+            "iscorrect": false
+          },
+          {
+            "definition": "侧边的步行路线（沿侧边行走的路径）",
+            "iscorrect": false
+          },
+          {
+            "definition": "自行车道（供自行车行驶的道路）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to construct",
+      "error_analysis": "中国学生易因形近词‘consult’（咨询）的拼写干扰，或词根‘struct’的误导将‘to construct’误理解为‘咨询’或‘组成’。",
+      "sentence": "The engineers plan to **construct** a new bridge over the river next year.",
+      "options": {
+        "option": [
+          {
+            "definition": "构建；建造",
+            "iscorrect": true
+          },
+          {
+            "definition": "咨询",
+            "iscorrect": false
+          },
+          {
+            "definition": "组成",
+            "iscorrect": false
+          },
+          {
+            "definition": "结构",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

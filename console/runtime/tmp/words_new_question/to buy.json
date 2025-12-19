@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to buy",
+      "error_analysis": "中国学生易将“buy”与形近词“by”（通过）或“bye”（再见）混淆，导致误判词义。",
+      "sentence": "My mom will **buy** me a new dress for the party tonight.",
+      "options": {
+        "option": [
+          {
+            "definition": "买",
+            "iscorrect": true
+          },
+          {
+            "definition": "再见",
+            "iscorrect": false
+          },
+          {
+            "definition": "通过",
+            "iscorrect": false
+          },
+          {
+            "definition": "卖",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "demo",
+      "error_analysis": "学生易因形近词“demon”（恶魔）或词根“demo-”（人民）误导，将“demo”错误理解为“恶魔”或“人民”。",
+      "sentence": "The developer showed us a **demo** of the new app, highlighting its key features.",
+      "options": {
+        "option": [
+          {
+            "definition": "演示；示范（品/版）",
+            "iscorrect": true
+          },
+          {
+            "definition": "恶魔；魔鬼",
+            "iscorrect": false
+          },
+          {
+            "definition": "人民；民众",
+            "iscorrect": false
+          },
+          {
+            "definition": "文件；文档",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

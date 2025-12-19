@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bank",
+      "error_analysis": "学生易将“bank”（河岸）与形近词“bark”（树皮）、词根关联的“bench”（长凳）混淆，或因“银行”熟义误判。",
+      "sentence": "We sat on the **bank** of the lake to watch the sunset.",
+      "options": {
+        "option": [
+          {
+            "definition": "河岸",
+            "iscorrect": true
+          },
+          {
+            "definition": "树皮",
+            "iscorrect": false
+          },
+          {
+            "definition": "长凳",
+            "iscorrect": false
+          },
+          {
+            "definition": "银行",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "experience",
+      "error_analysis": "中国学生易因形近词\"experiment\"（实验）或词根\"experi-\"（尝试）的误导，将\"experience\"错解为\"实验\"或\"尝试的行为\"。",
+      "sentence": "Her **experience** as a teacher helped her handle the difficult students easily.",
+      "options": {
+        "option": [
+          {
+            "definition": "经历；经验",
+            "iscorrect": true
+          },
+          {
+            "definition": "实验",
+            "iscorrect": false
+          },
+          {
+            "definition": "尝试的行为",
+            "iscorrect": false
+          },
+          {
+            "definition": "专家建议",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

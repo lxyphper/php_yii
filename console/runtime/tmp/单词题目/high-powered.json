@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "high-powered",
+      "error_analysis": "学生易根据\"high\"+\"powered\"字面推导为\"高动力的\"（指机器），忽略其引申义\"强大的、有影响力的\"（指人或组织）。",
+      "sentence": "The new CEO is a **high-powered** executive who has successfully turned around three struggling companies in the past five years.",
+      "options": {
+        "option": [
+          {
+            "definition": "强大的；有影响力的（指人或组织）",
+            "iscorrect": true
+          },
+          {
+            "definition": "高动力的；大功率的（指机器）",
+            "iscorrect": false
+          },
+          {
+            "definition": "高知名度的；引人注目的",
+            "iscorrect": false
+          },
+          {
+            "definition": "高能量的；精力充沛的（指人或食物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to present",
+      "error_analysis": "中国学生易将动词‘to present’误理解为名词‘present’（礼物）的动词化（如‘送礼物’），或与形近词‘represent’（代表）混淆。",
+      "sentence": "The scientist will **present** her new findings at the international conference next week.",
+      "options": {
+        "option": [
+          {
+            "definition": "展示；呈现",
+            "iscorrect": true
+          },
+          {
+            "definition": "代表",
+            "iscorrect": false
+          },
+          {
+            "definition": "送（礼物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "保存",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

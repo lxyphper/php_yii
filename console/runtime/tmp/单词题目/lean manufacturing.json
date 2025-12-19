@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lean manufacturing",
+      "error_analysis": "学生易将\"lean\"的字面义\"瘦的/倾斜的\"代入，或因\"lean\"与\"clean\"形近，误解为\"清洁制造\"或\"瘦的生产流程\"。",
+      "sentence": "Many factories have adopted **lean manufacturing** to cut down on waste and make their production processes more efficient.",
+      "options": {
+        "option": [
+          {
+            "definition": "精益制造（一种通过消除浪费提高效率的生产方式）",
+            "iscorrect": true
+          },
+          {
+            "definition": "清洁制造（强调生产过程环保无污染）",
+            "iscorrect": false
+          },
+          {
+            "definition": "瘦的制造流程（强调生产人员体型瘦削）",
+            "iscorrect": false
+          },
+          {
+            "definition": "倾斜的生产模式（强调生产设备倾斜放置）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

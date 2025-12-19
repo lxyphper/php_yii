@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "timeconsuming",
+      "time-consumeing",
+      "time-conumeing",
+      "time-consumming",
+      "time-comsuming"
+    ],
+    "correct_chunks": [
+      "time-",
+      "con",
+      "sum",
+      "ing"
+    ],
+    "distractor_chunks": [
+      "timeconsum",
+      "consume",
+      "conume",
+      "consumm",
+      "comsum"
+    ]
+  },
+  0
+]

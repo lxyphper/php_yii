@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "practical",
+      "error_analysis": "学生易因形近词“practice”（练习/实践）将“practical”误解为“练习的”或“实践的”，而非其核心义“实用的；实际的”。",
+      "sentence": "When choosing a backpack for hiking, it's important to pick one that is **practical**—it should have enough pockets and be lightweight for long walks.",
+      "options": {
+        "option": [
+          {
+            "definition": "实用的；实际的",
+            "iscorrect": true
+          },
+          {
+            "definition": "练习的；实践的",
+            "iscorrect": false
+          },
+          {
+            "definition": "真实的；实在的",
+            "iscorrect": false
+          },
+          {
+            "definition": "完美的；理想的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

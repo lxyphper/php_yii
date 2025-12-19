@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "laundry",
+      "error_analysis": "中国学生易因形近词“launch”（发射）混淆，或因包含“dry”（干燥）的拼写错误联想为“干燥剂”。",
+      "sentence": "I need to pick up my **laundry** from the shop around the corner after work.",
+      "options": {
+        "option": [
+          {
+            "definition": "发射；启动",
+            "iscorrect": false
+          },
+          {
+            "definition": "草坪；花园",
+            "iscorrect": false
+          },
+          {
+            "definition": "洗衣店；待洗的衣服",
+            "iscorrect": true
+          },
+          {
+            "definition": "干燥剂；干燥的地方",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

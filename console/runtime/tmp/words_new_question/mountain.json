@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mountain",
+      "error_analysis": "学生易因形近词“fountain”（喷泉）的干扰，将“mountain”误理解为与水相关的事物。",
+      "sentence": "They went hiking in the **mountain** last weekend and took photos of the valley below.",
+      "options": {
+        "option": [
+          {
+            "definition": "喷泉",
+            "iscorrect": false
+          },
+          {
+            "definition": "山",
+            "iscorrect": true
+          },
+          {
+            "definition": "土堆",
+            "iscorrect": false
+          },
+          {
+            "definition": "河流",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

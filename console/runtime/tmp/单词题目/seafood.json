@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "seafood",
+      "error_analysis": "学生易因形近词\"seaweed\"(海草)混淆，或因\"sea+food\"字面误导为\"海洋生物的食物\"。",
+      "sentence": "We ordered lots of **seafood** for dinner, like shrimp, crab, and grilled fish.",
+      "options": {
+        "option": [
+          {
+            "definition": "海鲜（如鱼、虾、蟹等可食用的海洋生物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "海草（生长在海中的植物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "海的食物（指海洋中生物吃的食物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "海员的食物（供海员食用的食物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

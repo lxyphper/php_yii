@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "sytoplasm",
+      "cytplasm",
+      "cytoplam",
+      "cytiplasm",
+      "cytoplazm"
+    ],
+    "correct_chunks": [
+      "cy",
+      "to",
+      "plasm"
+    ],
+    "distractor_chunks": [
+      "sy",
+      "cyt",
+      "plam",
+      "cyti",
+      "plazm"
+    ]
+  },
+  0
+]

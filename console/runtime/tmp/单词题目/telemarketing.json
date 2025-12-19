@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "telemarketing",
+      "error_analysis": "学生易因\"tele-\"与\"电视\"的关联，将\"telemarketing\"误判为\"电视营销\"而非正确的\"电话营销\"",
+      "sentence": "She received a lot of annoying **telemarketing** calls during dinner, trying to sell her a new credit card.",
+      "options": {
+        "option": [
+          {
+            "definition": "电视营销",
+            "iscorrect": false
+          },
+          {
+            "definition": "网络营销",
+            "iscorrect": false
+          },
+          {
+            "definition": "电话营销",
+            "iscorrect": true
+          },
+          {
+            "definition": "直复营销",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

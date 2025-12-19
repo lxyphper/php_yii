@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "obtuse angle",
+      "error_analysis": "学生易因\"obtuse\"与\"acute\"（锐角）形近反义混淆，或与\"obvious\"（明显的）形近，将\"obtuse angle\"误判为\"锐角\"或\"明显的角度\"",
+      "sentence": "When constructing a triangle, if one of the angles measures 120 degrees, it is classified as an **obtuse angle**.",
+      "options": {
+        "option": [
+          {
+            "definition": "锐角（小于90度的角）",
+            "iscorrect": false
+          },
+          {
+            "definition": "钝角（大于90度小于180度的角）",
+            "iscorrect": true
+          },
+          {
+            "definition": "明显的角度",
+            "iscorrect": false
+          },
+          {
+            "definition": "直角（90度的角）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

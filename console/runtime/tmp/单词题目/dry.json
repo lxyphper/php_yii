@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dry",
+      "error_analysis": "核心易错点为因形近词‘try’（尝试）干扰及将‘dry’的动词义‘擦干’误判为形容词义‘干燥的’",
+      "sentence": "Please **dry** your hands before eating.",
+      "options": {
+        "option": [
+          {
+            "definition": "尝试",
+            "iscorrect": false
+          },
+          {
+            "definition": "哭",
+            "iscorrect": false
+          },
+          {
+            "definition": "干燥的",
+            "iscorrect": false
+          },
+          {
+            "definition": "擦干",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

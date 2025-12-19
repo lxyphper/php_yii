@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "blank verse",
+      "error_analysis": "学生易因“blank”的“空白”义误将“blank verse”理解为“空白的诗行”（词根误导），或因与“blanket”形近联想为“毯子诗”（形近干扰）",
+      "sentence": "Many of Shakespeare's plays, including *Hamlet*, are composed in **blank verse**, a form that uses iambic pentameter but does not rhyme at the end of lines.",
+      "options": {
+        "option": [
+          {
+            "definition": "无韵诗（使用五音步但不押韵的诗体）",
+            "iscorrect": true
+          },
+          {
+            "definition": "空白的诗行（未填内容的诗句）",
+            "iscorrect": false
+          },
+          {
+            "definition": "毯子诗（比喻像毯子一样厚重的诗）",
+            "iscorrect": false
+          },
+          {
+            "definition": "自由诗（不遵循任何格律的诗体）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

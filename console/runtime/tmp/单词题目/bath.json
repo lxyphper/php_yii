@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bath",
+      "error_analysis": "中国学生易因形近词“path”（路径）或“bat”（蝙蝠/球棒）的拼写接近而混淆“bath”的词义。",
+      "sentence": "After a long day, she decided to take a **bath** to relax.",
+      "options": {
+        "option": [
+          {
+            "definition": "洗澡；浴室",
+            "iscorrect": true
+          },
+          {
+            "definition": "路径",
+            "iscorrect": false
+          },
+          {
+            "definition": "蝙蝠",
+            "iscorrect": false
+          },
+          {
+            "definition": "球棒",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

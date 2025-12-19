@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "faulty",
+      "error_analysis": "学生易因形近词“fault”（错误）将“faulty”误理解为“错误的”（形容行为/观点），而非其核心含义“有缺陷的、故障的”（形容事物）。",
+      "sentence": "The computer crashed repeatedly because of a **faulty** hard drive.",
+      "options": {
+        "option": [
+          {
+            "definition": "错误的（形容行为或观点）",
+            "iscorrect": false
+          },
+          {
+            "definition": "有缺陷的；故障的",
+            "iscorrect": true
+          },
+          {
+            "definition": "犯错误的（形容人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "无错误的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

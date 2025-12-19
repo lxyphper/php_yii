@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "notably",
+      "error_analysis": "学生可能因“not”的否定前缀误将“notably”理解为“不显著地”，或因混淆“notable”（显著的）与“notice”（注意）而误解为“注意地”。",
+      "sentence": "The city has many attractions, **notably** its ancient temples and beautiful parks.",
+      "options": {
+        "option": [
+          {
+            "definition": "显著地；尤其",
+            "iscorrect": true
+          },
+          {
+            "definition": "不显著地",
+            "iscorrect": false
+          },
+          {
+            "definition": "注意地",
+            "iscorrect": false
+          },
+          {
+            "definition": "不能地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

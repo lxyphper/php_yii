@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "color",
+      "error_analysis": "中国学生易因形近词“collar”（衣领）混淆“color”（给……着色）的词义，或误将动词用法理解为名词“颜色”。",
+      "sentence": "She often uses watercolors to **color** her landscape paintings.",
+      "options": {
+        "option": [
+          {
+            "definition": "给……着色（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "衣领（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "颜色（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "寒冷（形容词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

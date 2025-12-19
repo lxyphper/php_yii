@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nearly",
+      "error_analysis": "将形近词“near”（近的）的含义错误迁移到“nearly”，认为其表示“靠近地”或“附近”",
+      "sentence": "I **nearly** missed the bus this morning because I got up late.",
+      "options": {
+        "option": [
+          {
+            "definition": "几乎；差不多",
+            "iscorrect": true
+          },
+          {
+            "definition": "靠近地；附近",
+            "iscorrect": false
+          },
+          {
+            "definition": "最近地；近来",
+            "iscorrect": false
+          },
+          {
+            "definition": "完全地；彻底地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

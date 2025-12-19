@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Norwegian",
+      "error_analysis": "学生易将“Norwegian”与形近词“northern”（北方的）混淆，或误判为“北欧的”（因关联挪威而扩大范围）",
+      "sentence": "The **Norwegian** skier won the gold medal in the Winter Olympics held in Oslo.",
+      "options": {
+        "option": [
+          {
+            "definition": "挪威的；挪威人；挪威语",
+            "iscorrect": true
+          },
+          {
+            "definition": "北方的；北部的",
+            "iscorrect": false
+          },
+          {
+            "definition": "北欧的；北欧人的",
+            "iscorrect": false
+          },
+          {
+            "definition": "瑞典的；瑞典人的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

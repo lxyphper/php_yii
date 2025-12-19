@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "superego",
+      "error_analysis": "学生易因词根\"super-\"（超级）与\"ego\"（自我）的组合，错误将\"superego\"理解为\"超级自我\"或\"夸大的自我意识\"",
+      "sentence": "According to Freud's psychoanalytic theory, the **superego** functions as an internal moral guide, causing feelings of guilt when we act against our values.",
+      "options": {
+        "option": [
+          {
+            "definition": "超我（精神分析中代表道德良心的内在约束）",
+            "iscorrect": true
+          },
+          {
+            "definition": "超级自我（过度膨胀的自我形象或优越感）",
+            "iscorrect": false
+          },
+          {
+            "definition": "自我（个人意识中处理现实需求的核心部分）",
+            "iscorrect": false
+          },
+          {
+            "definition": "超能力者（具有超凡特殊能力的人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

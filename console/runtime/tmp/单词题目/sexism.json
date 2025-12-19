@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sexism",
+      "error_analysis": "学生易因\"sex\"（性）与\"-ism\"（主义）的字面组合错误理解为\"性主义\"，或混淆形近词\"seismic\"（地震的）导致误判。",
+      "sentence": "The company was accused of **sexism** after it refused to promote women to senior positions for years.",
+      "options": {
+        "option": [
+          {
+            "definition": "性别歧视（基于性别的不公平对待体系）",
+            "iscorrect": true
+          },
+          {
+            "definition": "性主义（对性的极端态度或主张）",
+            "iscorrect": false
+          },
+          {
+            "definition": "地震的（与地震相关的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "性取向（个体对性别的偏好）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

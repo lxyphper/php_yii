@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to expand",
+      "error_analysis": "易与形近词expend（花费）、expect（期待）混淆，或因词根ex-（出）过度猜测为“排出”",
+      "sentence": "The company plans to **expand** its market to Southeast Asia next year.",
+      "options": {
+        "option": [
+          {
+            "definition": "扩大；扩展",
+            "iscorrect": true
+          },
+          {
+            "definition": "期待",
+            "iscorrect": false
+          },
+          {
+            "definition": "花费",
+            "iscorrect": false
+          },
+          {
+            "definition": "排出",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

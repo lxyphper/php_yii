@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "byzantine",
+      "error_analysis": "学生易因形近词“bizarre”（奇怪的）或词根“by-”（次要的）误判，忽略其“复杂繁琐”的核心义。",
+      "sentence": "The company's **byzantine** approval process requires 12 signatures and 6 different departments, delaying the project for months.",
+      "options": {
+        "option": [
+          {
+            "definition": "复杂繁琐的（指制度或流程）",
+            "iscorrect": true
+          },
+          {
+            "definition": "奇怪的；奇异的",
+            "iscorrect": false
+          },
+          {
+            "definition": "次要的；附带的",
+            "iscorrect": false
+          },
+          {
+            "definition": "古老的；传统的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

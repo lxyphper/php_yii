@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "well-read",
+      "error_analysis": "学生易因\"well+read\"的字面结构误译为\"读得好的\"（强调阅读能力），而非正确的\"博览群书的\"（强调阅读量）",
+      "sentence": "As a **well-read** person, she can talk about literature, history, and science with ease.",
+      "options": {
+        "option": [
+          {
+            "definition": "博览群书的，知识渊博的",
+            "iscorrect": true
+          },
+          {
+            "definition": "读得好的（阅读能力强的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "准备充分的",
+            "iscorrect": false
+          },
+          {
+            "definition": "著名的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

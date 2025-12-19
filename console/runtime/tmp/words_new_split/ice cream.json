@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "icecream",
+      "ice creem",
+      "ice kream",
+      "ise cream"
+    ],
+    "correct_chunks": [
+      "ic",
+      "e ",
+      "cr",
+      "eam"
+    ],
+    "distractor_chunks": [
+      "icecr",
+      "creem",
+      "kre",
+      "ise",
+      "ic "
+    ]
+  },
+  0
+]

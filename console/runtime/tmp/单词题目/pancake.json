@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pancake",
+      "error_analysis": "学生易将\"pan\"与\"cake\"字面拆分，误理解为\"锅形蛋糕\"或\"平底锅做的蛋糕\"，忽略其\"煎饼；薄饼\"的核心词义",
+      "sentence": "My mom makes delicious **pancakes** with syrup and berries for breakfast every Sunday.",
+      "options": {
+        "option": [
+          {
+            "definition": "煎饼；薄饼",
+            "iscorrect": true
+          },
+          {
+            "definition": "锅形蛋糕",
+            "iscorrect": false
+          },
+          {
+            "definition": "甜蛋糕",
+            "iscorrect": false
+          },
+          {
+            "definition": "煎蛋饼",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

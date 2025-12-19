@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "grade point average",
+      "error_analysis": "学生易因“grade”的多义性（年级vs成绩），将“grade point average”误理解为“年级分数平均值”",
+      "sentence": "To apply for the scholarship, you need a **grade point average** of at least 3.5 in your major courses.",
+      "options": {
+        "option": [
+          {
+            "definition": "平均绩点（GPA的全称，指学生成绩的平均绩点）",
+            "iscorrect": true
+          },
+          {
+            "definition": "年级分数平均值（将\"grade\"误理解为\"年级\"）",
+            "iscorrect": false
+          },
+          {
+            "definition": "分数要点平均值（将\"point\"误理解为\"要点\"）",
+            "iscorrect": false
+          },
+          {
+            "definition": "毕业分数总和（将\"grade\"误关联为\"毕业\"，形近于\"grad\"）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hairstylist",
+      "error_analysis": "学生易因\"stylist\"的词根误解或与\"hairstyle\"形近，将\"hairstylist\"错误理解为\"发型\"或\"头发的风格\"而非职业。",
+      "sentence": "My sister wants to be a **hairstylist** because she loves creating new looks for people's hair.",
+      "options": {
+        "option": [
+          {
+            "definition": "头发的风格",
+            "iscorrect": false
+          },
+          {
+            "definition": "发型",
+            "iscorrect": false
+          },
+          {
+            "definition": "理发师",
+            "iscorrect": false
+          },
+          {
+            "definition": "发型造型师",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to persecute",
+      "error_analysis": "学生易混淆形近词prosecute（起诉）或误将词根per-（彻底）+secute（跟随）理解为“持续跟随”，而非核心义“迫害”",
+      "sentence": "Throughout history, many people have been **persecuted** for their religious beliefs, forced to leave their homes or face violence.",
+      "options": {
+        "option": [
+          {
+            "definition": "起诉；控告",
+            "iscorrect": false
+          },
+          {
+            "definition": "迫害；虐待（因信仰、种族等原因）",
+            "iscorrect": true
+          },
+          {
+            "definition": "持续跟随；纠缠",
+            "iscorrect": false
+          },
+          {
+            "definition": "保护；辩护",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

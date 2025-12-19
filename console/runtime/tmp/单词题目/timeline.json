@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "timeline",
+      "error_analysis": "学生易因形近词\"deadline\"(截止日期)混淆，或因\"time+line\"错误理解为\"时间限制\"",
+      "sentence": "The team created a **timeline** to track the progress of their new product, marking important dates like the prototype launch and final release.",
+      "options": {
+        "option": [
+          {
+            "definition": "时间线；时间表（按时间顺序排列的事件或进程表）",
+            "iscorrect": true
+          },
+          {
+            "definition": "截止日期（完成某事的最后期限）",
+            "iscorrect": false
+          },
+          {
+            "definition": "时间限制（完成某事的时间范围）",
+            "iscorrect": false
+          },
+          {
+            "definition": "时间长度（某事持续的时间）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stereotype",
+      "error_analysis": "因形近词“stereo”（立体声音响）联想到“立体声音响设备”，或因词根“stereo-（立体）+type（类型）”错误推导为“立体模型或类型”",
+      "sentence": "Many people hold the **stereotype** that all engineers are good at math, but this isn’t always true.",
+      "options": {
+        "option": [
+          {
+            "definition": "立体声音响设备",
+            "iscorrect": false
+          },
+          {
+            "definition": "立体模型或类型",
+            "iscorrect": false
+          },
+          {
+            "definition": "刻板印象；固定观念",
+            "iscorrect": true
+          },
+          {
+            "definition": "固定的行为模式",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "the Milky Way",
+      "error_analysis": "学生易因\"milky\"(乳白的)和\"way\"(路)的字面含义，将其误解为与牛奶相关的道路，而非银河系。",
+      "sentence": "On a clear night, you can see **the Milky Way** stretching across the sky like a faint, glowing band of stars.",
+      "options": {
+        "option": [
+          {
+            "definition": "银河系",
+            "iscorrect": true
+          },
+          {
+            "definition": "乳白的乡村小路",
+            "iscorrect": false
+          },
+          {
+            "definition": "牛奶配送路线",
+            "iscorrect": false
+          },
+          {
+            "definition": "乳状的液体管道",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

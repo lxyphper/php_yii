@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "backbreaking",
+      "error_analysis": "学生易将\"backbreaking\"字面理解为\"背部受伤的\"，或与形近词\"heartbreaking\"混淆为\"令人心碎的\"，而非其核心义\"非常辛苦的（体力劳动）\"。",
+      "sentence": "After working 12 hours in the fields, the farmers found the harvest work absolutely **backbreaking**.",
+      "options": {
+        "option": [
+          {
+            "definition": "非常辛苦的；累人的（尤指体力劳动）",
+            "iscorrect": true
+          },
+          {
+            "definition": "背部受伤的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人心碎的",
+            "iscorrect": false
+          },
+          {
+            "definition": "难以打破的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

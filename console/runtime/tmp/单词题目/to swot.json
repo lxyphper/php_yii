@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to swot",
+      "error_analysis": "学生易将“to swot”（努力学习备考）与形近词“sweat”（出汗/努力工作）混淆，或误以为是泛泛的“努力工作”而非具体的“学习备考”。",
+      "sentence": "She had to **swot** for her math exam all weekend instead of going out with friends.",
+      "options": {
+        "option": [
+          {
+            "definition": "努力学习（尤指为准备考试）",
+            "iscorrect": true
+          },
+          {
+            "definition": "努力工作（泛泛的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "出汗；流汗",
+            "iscorrect": false
+          },
+          {
+            "definition": "打扫；清扫",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

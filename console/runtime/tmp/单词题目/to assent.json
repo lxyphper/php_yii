@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to assent",
+      "error_analysis": "学生易混淆形近词“ascent”（上升），或因词根“sent”（感觉）误导为“表达感受”。",
+      "sentence": "After the presentation, the director nodded to **assent** to the project plan.",
+      "options": {
+        "option": [
+          {
+            "definition": "同意，赞成",
+            "iscorrect": true
+          },
+          {
+            "definition": "上升，上坡",
+            "iscorrect": false
+          },
+          {
+            "definition": "表达感受",
+            "iscorrect": false
+          },
+          {
+            "definition": "拒绝",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

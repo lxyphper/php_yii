@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fair",
+      "error_analysis": "学生易混淆形近词“fare”（费用）与“fair”（公平的），或误将其理解为“美丽的”而非最常用的“公平的”。",
+      "sentence": "It's not **fair** that some students get more time to finish the test than others.",
+      "options": {
+        "option": [
+          {
+            "definition": "费用",
+            "iscorrect": false
+          },
+          {
+            "definition": "美丽的",
+            "iscorrect": false
+          },
+          {
+            "definition": "公平的",
+            "iscorrect": true
+          },
+          {
+            "definition": "晴朗的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

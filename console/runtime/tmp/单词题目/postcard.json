@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "postcard",
+      "error_analysis": "学生易混淆形近词“poster”（海报），或误将“post”理解为“邮资”而以为“postcard”是“邮资卡片”。",
+      "sentence": "When I traveled to Paris, I bought a beautiful **postcard** with the Eiffel Tower on it and sent it to my friend in Beijing.",
+      "options": {
+        "option": [
+          {
+            "definition": "明信片",
+            "iscorrect": true
+          },
+          {
+            "definition": "海报",
+            "iscorrect": false
+          },
+          {
+            "definition": "邮资卡片",
+            "iscorrect": false
+          },
+          {
+            "definition": "贺卡",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

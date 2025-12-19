@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to abide by",
+      "error_analysis": "学生易因“abide”的“居住/忍受”义或“by”的“在...旁边”义，将“abide by”误解为“居住在...旁边”或“忍受”。",
+      "sentence": "All members of the club must **abide by** the rules to maintain a harmonious environment.",
+      "options": {
+        "option": [
+          {
+            "definition": "遵守（规则、协议等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "居住在...旁边",
+            "iscorrect": false
+          },
+          {
+            "definition": "忍受（痛苦、某人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "放弃（计划、希望）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

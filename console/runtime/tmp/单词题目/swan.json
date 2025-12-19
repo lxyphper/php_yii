@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "swan",
+      "error_analysis": "核心易错点为形近词‘swarm’（蜂群）的干扰及‘swim’（游泳）的字面联想，易误判为‘蜂群’或‘游泳的动作’。",
+      "sentence": "The white **swan** glided gracefully across the lake, its long neck curved like a bow.",
+      "options": {
+        "option": [
+          {
+            "definition": "蜂群",
+            "iscorrect": false
+          },
+          {
+            "definition": "天鹅",
+            "iscorrect": true
+          },
+          {
+            "definition": "游泳的动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "游荡（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

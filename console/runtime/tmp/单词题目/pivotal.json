@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pivotal",
+      "error_analysis": "学生易因形近词“partial”（部分的）混淆或词根“pivot”（枢轴）直译，将“pivotal”误判为“部分的”或“枢轴的”。",
+      "sentence": "The CEO's decision was **pivotal** in saving the company from bankruptcy.",
+      "options": {
+        "option": [
+          {
+            "definition": "关键的；至关重要的",
+            "iscorrect": true
+          },
+          {
+            "definition": "部分的；不完全的",
+            "iscorrect": false
+          },
+          {
+            "definition": "枢轴的；旋转的",
+            "iscorrect": false
+          },
+          {
+            "definition": "潜在的；可能的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

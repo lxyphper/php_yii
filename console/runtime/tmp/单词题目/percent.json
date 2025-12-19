@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "percent",
+      "error_analysis": "易因形近词“perfect”（完美的/完全的）混淆，或误将“cent”理解为“分币”而推测为“每分”",
+      "sentence": "The survey shows that 60 **percent** of teenagers spend more than two hours a day on their phones.",
+      "options": {
+        "option": [
+          {
+            "definition": "完美的",
+            "iscorrect": false
+          },
+          {
+            "definition": "每分（货币单位）",
+            "iscorrect": false
+          },
+          {
+            "definition": "百分比；百分率",
+            "iscorrect": true
+          },
+          {
+            "definition": "完全的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

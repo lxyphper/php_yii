@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stratosphere",
+      "error_analysis": "学生易因拆分\"strato-\"(层)和\"-sphere\"(球)误判为\"地层\"，或混淆于\"整个大气层\"。",
+      "sentence": "The ozone layer, which shields Earth from harmful UV radiation, is located in the **stratosphere**—the second layer of our planet's atmosphere.",
+      "options": {
+        "option": [
+          {
+            "definition": "平流层（大气层的第二层）",
+            "iscorrect": true
+          },
+          {
+            "definition": "地层；地球表面的岩层",
+            "iscorrect": false
+          },
+          {
+            "definition": "整个大气层",
+            "iscorrect": false
+          },
+          {
+            "definition": "策略；计谋",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

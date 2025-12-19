@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "polar",
+      "error_analysis": "中国学生易因形近词\"popular\"混淆\"polar\"为\"流行的\"，或因词根\"pole\"（杆子）错误推导为\"杆子的\"。",
+      "sentence": "The **polar** bear is well adapted to living in the cold Arctic region.",
+      "options": {
+        "option": [
+          {
+            "definition": "极地的（属于北极或南极的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "流行的（被广泛喜爱的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "杆子的（与杆子相关的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "对立的（完全相反的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

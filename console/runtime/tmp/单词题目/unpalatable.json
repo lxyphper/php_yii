@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unpalatable",
+      "error_analysis": "学生易因形近词\"unpalpable\"(难以察觉的)或词根误拆(将\"pal\"理解为\"朋友\")而误解词义",
+      "sentence": "The medicine had an **unpalatable** taste, making it hard for the child to swallow.",
+      "options": {
+        "option": [
+          {
+            "definition": "不可口的；难吃的",
+            "iscorrect": true
+          },
+          {
+            "definition": "难以察觉的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不友好的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不快乐的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

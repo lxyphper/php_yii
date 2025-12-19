@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dismayed",
+      "error_analysis": "学生易因形近词“delayed”（延迟）混淆，或误将“dis-+may”词根推导为“不可能的”",
+      "sentence": "When she heard the news of her failed exam, she stood there **dismayed**, unable to say a word.",
+      "options": {
+        "option": [
+          {
+            "definition": "沮丧的；失望的",
+            "iscorrect": true
+          },
+          {
+            "definition": "延迟的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不可能的",
+            "iscorrect": false
+          },
+          {
+            "definition": "愤怒的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "behind",
+      "error_analysis": "中国学生易因形近词\"beyond\"（超过）及词根\"hind\"（后面的）误导，将\"behind\"误理解为\"超过\"或\"后面的（形容词）\"",
+      "sentence": "The cat is hiding **behind** the sofa, so you can't see it.",
+      "options": {
+        "option": [
+          {
+            "definition": "在...后面（介词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "超过（介词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "后面的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "支持（介词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "symtom",
+      "symptam",
+      "simptom",
+      "semptom",
+      "sympom"
+    ],
+    "correct_chunks": [
+      "sym",
+      "pt",
+      "om"
+    ],
+    "distractor_chunks": [
+      "sim",
+      "sem",
+      "tom",
+      "am",
+      "pom"
+    ]
+  },
+  0
+]

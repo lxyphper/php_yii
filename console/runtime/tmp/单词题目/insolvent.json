@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "insolvent",
+      "error_analysis": "学生易因形近词“solvent”（溶剂）干扰误解为“无溶剂的”，或因词根“solvere”（解决）误导为“无法解决的”。",
+      "sentence": "When the business could no longer pay its bills, it was officially deemed **insolvent** by the court.",
+      "options": {
+        "option": [
+          {
+            "definition": "无力偿还债务的；破产的",
+            "iscorrect": true
+          },
+          {
+            "definition": "无溶剂的；不溶解的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无法解决的；难以处理的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不稳固的；不结实的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

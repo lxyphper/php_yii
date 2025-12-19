@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mostly",
+      "error_analysis": "中国学生易将“mostly”与形近词“most”混淆（误作形容词“大多数的”），或与“almost”混淆（误作“几乎”）",
+      "sentence": "She **mostly** uses her phone for chatting with friends.",
+      "options": {
+        "option": [
+          {
+            "definition": "主要地；大部分地",
+            "iscorrect": true
+          },
+          {
+            "definition": "大多数的；最多的",
+            "iscorrect": false
+          },
+          {
+            "definition": "几乎；差不多",
+            "iscorrect": false
+          },
+          {
+            "definition": "最；极其",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

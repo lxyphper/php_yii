@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Portuguese",
+      "error_analysis": "中国学生易因形近词“port”（港口）误判为“与港口相关的”，或混淆“Portugal”（葡萄牙）与“Portuguese”的词性而误选“葡萄牙（国家）”。",
+      "sentence": "My new pen pal is a **Portuguese** girl who lives in Lisbon.",
+      "options": {
+        "option": [
+          {
+            "definition": "港口的；与港口相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "葡萄牙（国家）",
+            "iscorrect": false
+          },
+          {
+            "definition": "葡萄牙的；葡萄牙语的",
+            "iscorrect": true
+          },
+          {
+            "definition": "运输的；与运输相关的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

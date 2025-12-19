@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to beat",
+      "error_analysis": "学生易将“beat”（击败）与形近词“bear”（忍受）混淆，或误将比赛中的“beat”理解为物理“打”（字面误导）",
+      "sentence": "Our school basketball team **beat** the defending champion in the final yesterday.",
+      "options": {
+        "option": [
+          {
+            "definition": "击败（在比赛或竞争中战胜对手）",
+            "iscorrect": true
+          },
+          {
+            "definition": "忍受（承受痛苦或困难）",
+            "iscorrect": false
+          },
+          {
+            "definition": "打（用手或工具击打）",
+            "iscorrect": false
+          },
+          {
+            "definition": "赢得（获得比赛或竞争的胜利）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

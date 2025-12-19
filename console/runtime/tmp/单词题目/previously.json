@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "previously",
+      "error_analysis": "学生易因形近词\"preciously\"(珍贵地)和\"presently\"(目前)的拼写相似性，混淆\"previously\"的词义。",
+      "sentence": "She mentioned that she had **previously** worked as a teacher before joining the company.",
+      "options": {
+        "option": [
+          {
+            "definition": "以前，先前",
+            "iscorrect": true
+          },
+          {
+            "definition": "珍贵地",
+            "iscorrect": false
+          },
+          {
+            "definition": "目前",
+            "iscorrect": false
+          },
+          {
+            "definition": "突然地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

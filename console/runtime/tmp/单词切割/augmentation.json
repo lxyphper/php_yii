@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "augmenation",
+      "agumentation",
+      "augmentetion",
+      "ougmentation",
+      "augmentasion"
+    ],
+    "correct_chunks": [
+      "aug",
+      "ment",
+      "ation"
+    ],
+    "distractor_chunks": [
+      "ag",
+      "men",
+      "etion",
+      "oug",
+      "asion"
+    ]
+  },
+  0
+]

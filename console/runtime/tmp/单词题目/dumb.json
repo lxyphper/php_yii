@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dumb",
+      "error_analysis": "形近词“dump”（倾倒）的干扰，及“愚蠢的”义项与“沉默的”核心义的混淆。",
+      "sentence": "When the teacher asked him a question, he just stood there **dumb**, unable to say a word.",
+      "options": {
+        "option": [
+          {
+            "definition": "沉默的；不能说话的",
+            "iscorrect": true
+          },
+          {
+            "definition": "倾倒；垃圾",
+            "iscorrect": false
+          },
+          {
+            "definition": "愚蠢的；笨的",
+            "iscorrect": false
+          },
+          {
+            "definition": "潮湿的； damp的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

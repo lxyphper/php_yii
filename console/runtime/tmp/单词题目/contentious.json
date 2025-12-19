@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "contentious",
+      "error_analysis": "学生易因形近词“content”（满足的/内容）或词根误解，将“contentious”误判为“满足的”或“内容相关的”",
+      "sentence": "The new environmental policy has become a **contentious** topic in the community, as residents disagree sharply on its impact.",
+      "options": {
+        "option": [
+          {
+            "definition": "有争议的；引起争论的",
+            "iscorrect": true
+          },
+          {
+            "definition": "满足的；满意的",
+            "iscorrect": false
+          },
+          {
+            "definition": "内容丰富的",
+            "iscorrect": false
+          },
+          {
+            "definition": "持续的；连续的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

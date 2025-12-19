@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lion",
+      "error_analysis": "中国学生易因形近词“line”（线）或“loan”（贷款）产生错误联想，混淆“lion”的核心词义“狮子”。",
+      "sentence": "In the zoo, the **lion** roared loudly, making all the visitors stop to watch.",
+      "options": {
+        "option": [
+          {
+            "definition": "狮子",
+            "iscorrect": true
+          },
+          {
+            "definition": "线",
+            "iscorrect": false
+          },
+          {
+            "definition": "贷款",
+            "iscorrect": false
+          },
+          {
+            "definition": "说谎者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

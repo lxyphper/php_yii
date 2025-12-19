@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "series",
+      "error_analysis": "学生易将\"series\"与形近词\"serious\"（严重的）混淆，或误判为\"serum\"（血清）的复数形式导致词义偏差",
+      "sentence": "She watched the entire **series** of the popular TV show in one weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "系列；连续的事物（如电视剧、展览等的完整序列）",
+            "iscorrect": true
+          },
+          {
+            "definition": "严重的；严肃的（形容态度或情况）",
+            "iscorrect": false
+          },
+          {
+            "definition": "血清（复数形式，指血液中的液体成分）",
+            "iscorrect": false
+          },
+          {
+            "definition": "衬线字体（如Times New Roman的笔画末端装饰）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

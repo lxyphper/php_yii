@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to preclude",
+      "error_analysis": "学生易因形近词“precede”（先于）的拼写干扰，或词根“pre-”（预先）+“clud”（关闭）的字面误导，将“preclude”误解为“先于”或“预先关闭”。",
+      "sentence": "The heavy snow **precluded** us from driving to the mountains for the weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "阻止；使不可能",
+            "iscorrect": true
+          },
+          {
+            "definition": "先于（时间或顺序上在...之前）",
+            "iscorrect": false
+          },
+          {
+            "definition": "预先关闭",
+            "iscorrect": false
+          },
+          {
+            "definition": "包括",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

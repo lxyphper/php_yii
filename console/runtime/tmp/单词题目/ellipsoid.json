@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ellipsoid",
+      "error_analysis": "中国学生易因形近词\"ellipsis\"（省略号）误判，或混淆\"ellipsoid\"（椭球体，三维）与\"ellipse\"（椭圆，二维）。",
+      "sentence": "The Earth is not a perfect sphere but an **ellipsoid**, slightly flattened at the poles.",
+      "options": {
+        "option": [
+          {
+            "definition": "椭球体；椭圆体",
+            "iscorrect": true
+          },
+          {
+            "definition": "省略号（标点符号）",
+            "iscorrect": false
+          },
+          {
+            "definition": "椭圆（平面图形）",
+            "iscorrect": false
+          },
+          {
+            "definition": "椭圆的（形容词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

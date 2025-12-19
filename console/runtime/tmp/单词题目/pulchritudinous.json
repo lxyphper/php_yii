@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pulchritudinous",
+      "error_analysis": "学生易因与\"tedious\"（乏味的）形近或与\"plentiful\"（丰富的）拼写近似，将其误判为\"乏味的\"或\"丰富的\"",
+      "sentence": "The artist captured the **pulchritudinous** scenery of the sunset over the ocean in his painting.",
+      "options": {
+        "option": [
+          {
+            "definition": "美丽的",
+            "iscorrect": true
+          },
+          {
+            "definition": "乏味的",
+            "iscorrect": false
+          },
+          {
+            "definition": "丰富的",
+            "iscorrect": false
+          },
+          {
+            "definition": "强壮的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

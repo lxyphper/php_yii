@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "punctuation",
+      "error_analysis": "因形近词\"punishment\"（惩罚）的干扰，易将\"punctuation\"误理解为\"惩罚\"或其名词形式",
+      "sentence": "Good writers pay attention to **punctuation** like commas and periods to make their sentences clear.",
+      "options": {
+        "option": [
+          {
+            "definition": "标点符号（如逗号、句号等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "惩罚；处罚",
+            "iscorrect": false
+          },
+          {
+            "definition": "穿刺；小孔",
+            "iscorrect": false
+          },
+          {
+            "definition": "斑点；小点",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

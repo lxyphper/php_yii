@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to aim",
+      "error_analysis": "学生易因形近词（如arm/air）混淆误解为“武装”/“播出”，或因词根字面误导误解为“设定目标”",
+      "sentence": "The government **aims** to build more affordable housing for low-income families.",
+      "options": {
+        "option": [
+          {
+            "definition": "旨在；目的是",
+            "iscorrect": true
+          },
+          {
+            "definition": "武装；装备",
+            "iscorrect": false
+          },
+          {
+            "definition": "播出；使通风",
+            "iscorrect": false
+          },
+          {
+            "definition": "设定目标；确立方向",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tedious",
+      "error_analysis": "学生易因形近词\"tired\"(累的)将\"tedious\"误解为\"令人疲劳的\"，或因词根猜测错误将其理解为\"重复的\"。",
+      "sentence": "The meeting lasted for three hours and consisted of nothing but **tedious** discussions about budget details.",
+      "options": {
+        "option": [
+          {
+            "definition": "单调乏味的；令人厌烦的",
+            "iscorrect": true
+          },
+          {
+            "definition": "令人疲劳的",
+            "iscorrect": false
+          },
+          {
+            "definition": "重复的",
+            "iscorrect": false
+          },
+          {
+            "definition": "重要的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

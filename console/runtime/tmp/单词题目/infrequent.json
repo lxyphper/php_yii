@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "infrequent",
+      "error_analysis": "中国学生易因形近词（如infectious）或混淆前缀in-的否定用法（误将infrequent理解为“非常频繁的”）而犯错",
+      "sentence": "Bus services to the remote village are **infrequent**, so we usually have to walk there.",
+      "options": {
+        "option": [
+          {
+            "definition": "不常发生的；稀少的",
+            "iscorrect": true
+          },
+          {
+            "definition": "传染性的",
+            "iscorrect": false
+          },
+          {
+            "definition": "非常频繁的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不方便的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

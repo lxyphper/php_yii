@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fish",
+      "error_analysis": "中国学生易将\"fish\"（鱼）与形近词\"fist\"（拳头）混淆，因二者拼写仅差最后一个字母。",
+      "sentence": "My dad caught a big **fish** in the river yesterday.",
+      "options": {
+        "option": [
+          {
+            "definition": "鱼",
+            "iscorrect": true
+          },
+          {
+            "definition": "拳头",
+            "iscorrect": false
+          },
+          {
+            "definition": "钓鱼",
+            "iscorrect": false
+          },
+          {
+            "definition": "盘子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

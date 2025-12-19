@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Nebula",
+      "error_analysis": "学生易因形近词\"nova\"(新星)混淆词义，或因\"nebulous\"(模糊的)的形容词含义及\"云\"的词根误导，将\"Nebula\"误判为\"普通的云\"或\"模糊的物体\"。",
+      "sentence": "The Hubble Space Telescope captured a stunning image of the Orion **Nebula**, a vast cloud of gas and dust where new stars are born.",
+      "options": {
+        "option": [
+          {
+            "definition": "星云",
+            "iscorrect": true
+          },
+          {
+            "definition": "新星",
+            "iscorrect": false
+          },
+          {
+            "definition": "普通的云",
+            "iscorrect": false
+          },
+          {
+            "definition": "模糊的物体",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

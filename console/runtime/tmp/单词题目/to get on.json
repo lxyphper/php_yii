@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to get on",
+      "error_analysis": "学生易因\"get\"（得到）和\"on\"（在...上）的字面义误导，将\"to get on\"错误理解为\"得到上面的东西\"或\"获得某个位置\"",
+      "sentence": "How are you **getting on** with your new job? I hope it's going well.",
+      "options": {
+        "option": [
+          {
+            "definition": "进展（某事进行的情况）",
+            "iscorrect": true
+          },
+          {
+            "definition": "得到上面的东西",
+            "iscorrect": false
+          },
+          {
+            "definition": "上车（乘坐交通工具）",
+            "iscorrect": false
+          },
+          {
+            "definition": "获得某个机会",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

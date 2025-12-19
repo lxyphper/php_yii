@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "classwork",
+      "error_analysis": "学生易将class+work直译为“班级事务”（如班干部工作），或与“homework”（家庭作业）混淆，而非“课堂作业”。",
+      "sentence": "The teacher asked us to finish the **classwork** before the end of the period so she could check it immediately.",
+      "options": {
+        "option": [
+          {
+            "definition": "课堂作业",
+            "iscorrect": true
+          },
+          {
+            "definition": "班级事务（如班干部的工作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "家庭作业",
+            "iscorrect": false
+          },
+          {
+            "definition": "课堂教学（老师的课堂工作）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

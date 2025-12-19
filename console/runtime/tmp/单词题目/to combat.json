@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to combat",
+      "error_analysis": "中国学生易因形近词“comfort”（安慰）的拼写相似，或词根“bat”（打）的过度直译，将“to combat”误解为“安慰”或“结合”。",
+      "sentence": "The city has launched a new campaign to **combat** air pollution.",
+      "options": {
+        "option": [
+          {
+            "definition": "对抗；防止",
+            "iscorrect": true
+          },
+          {
+            "definition": "安慰；使舒适",
+            "iscorrect": false
+          },
+          {
+            "definition": "结合；组合",
+            "iscorrect": false
+          },
+          {
+            "definition": "竞争；比赛",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

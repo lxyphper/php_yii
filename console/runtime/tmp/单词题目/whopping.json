@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "whopping",
+      "error_analysis": "学生易因形近词\"whoop\"(欢呼)或\"shopping\"(购物)干扰，将\"whopping\"误判为\"欢呼的\"或\"购物的\"，忽略其\"巨大的\"核心词义。",
+      "sentence": "The restaurant charged a **whopping** $50 for a simple bowl of noodles, which surprised all the customers.",
+      "options": {
+        "option": [
+          {
+            "definition": "欢呼的；叫喊的",
+            "iscorrect": false
+          },
+          {
+            "definition": "巨大的；庞大的",
+            "iscorrect": true
+          },
+          {
+            "definition": "购物的；买东西的",
+            "iscorrect": false
+          },
+          {
+            "definition": "鞭打的；抽打的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

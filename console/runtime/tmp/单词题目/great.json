@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "great",
+      "error_analysis": "中国学生易混淆形近词“grate”（磨碎/格栅），或误将“great”直译为“巨大的”，忽略其“极好的”核心义。",
+      "sentence": "The movie we watched last night was **great**—we laughed a lot and enjoyed every minute of it.",
+      "options": {
+        "option": [
+          {
+            "definition": "极好的；很棒的",
+            "iscorrect": true
+          },
+          {
+            "definition": "磨碎的；格栅的",
+            "iscorrect": false
+          },
+          {
+            "definition": "巨大的；庞大的",
+            "iscorrect": false
+          },
+          {
+            "definition": "灰色的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

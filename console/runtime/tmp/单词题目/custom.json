@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "custom",
+      "error_analysis": "将custom误判为形近词customer（顾客）的含义",
+      "sentence": "In many countries, it's a common **custom** to shake hands when meeting someone for the first time.",
+      "options": {
+        "option": [
+          {
+            "definition": "习俗；惯例",
+            "iscorrect": true
+          },
+          {
+            "definition": "顾客；消费者",
+            "iscorrect": false
+          },
+          {
+            "definition": "照顾；保护",
+            "iscorrect": false
+          },
+          {
+            "definition": "海关；关税",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

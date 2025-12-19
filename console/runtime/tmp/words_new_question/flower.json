@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "flower",
+      "error_analysis": "易混淆形近词\"flour\"(面粉)及错误拆分\"flow+er\"导致的\"流动的东西\"误解",
+      "sentence": "She picked a beautiful **flower** from the garden and put it in a vase.",
+      "options": {
+        "option": [
+          {
+            "definition": "花",
+            "iscorrect": true
+          },
+          {
+            "definition": "面粉",
+            "iscorrect": false
+          },
+          {
+            "definition": "流动的液体",
+            "iscorrect": false
+          },
+          {
+            "definition": "花园里的工具",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "flawed",
+      "error_analysis": "中国学生易因形近词\"flowed\"（流动的）误判\"flawed\"词义，或因词根联想错误理解为与\"法律\"相关（如\"违法的\"）。",
+      "sentence": "Her argument was **flawed** because she ignored important evidence that contradicted her point.",
+      "options": {
+        "option": [
+          {
+            "definition": "有缺陷的",
+            "iscorrect": true
+          },
+          {
+            "definition": "流动的",
+            "iscorrect": false
+          },
+          {
+            "definition": "违法的",
+            "iscorrect": false
+          },
+          {
+            "definition": "火焰的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

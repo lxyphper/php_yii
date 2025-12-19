@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "villain",
+      "error_analysis": "因形近词“village”（村庄）或词根“villa”（别墅）误导，易将“villain”误判为“村民”或“别墅主人”",
+      "sentence": "In the movie, the **villain** always tries to steal the hero's treasure and harm innocent people.",
+      "options": {
+        "option": [
+          {
+            "definition": "反派；坏人",
+            "iscorrect": true
+          },
+          {
+            "definition": "村民；村庄居民",
+            "iscorrect": false
+          },
+          {
+            "definition": "别墅主人；庄园主",
+            "iscorrect": false
+          },
+          {
+            "definition": "受害者；受难者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

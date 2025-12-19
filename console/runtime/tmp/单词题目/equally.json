@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "equally",
+      "error_analysis": "学生易因“equal”的形容词含义（平等的）而将“equally”误理解为“平等的”（形容词），或因形近词“equity”（公平）而误解为“公平地”。",
+      "sentence": "Please divide the candies **equally** among the children.",
+      "options": {
+        "option": [
+          {
+            "definition": "同样地；均等地",
+            "iscorrect": true
+          },
+          {
+            "definition": "平等的",
+            "iscorrect": false
+          },
+          {
+            "definition": "公平地",
+            "iscorrect": false
+          },
+          {
+            "definition": "等同地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "formality",
+      "error_analysis": "学生易因形近词\"formula\"（公式）或词根\"form\"（形式）的误导，将\"formality\"错误理解为\"公式\"或\"形式\"。",
+      "sentence": "The wedding ceremony included several traditional **formalities**, such as exchanging rings and saying vows.",
+      "options": {
+        "option": [
+          {
+            "definition": "公式；方程式",
+            "iscorrect": false
+          },
+          {
+            "definition": "形式；形状",
+            "iscorrect": false
+          },
+          {
+            "definition": "正式性；礼节",
+            "iscorrect": true
+          },
+          {
+            "definition": "格式化；格式",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

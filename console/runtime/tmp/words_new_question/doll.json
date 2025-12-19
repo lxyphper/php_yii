@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "doll",
+      "error_analysis": "学生易将‘doll’与形近词‘door’（门）、‘dog’（狗）混淆，或误联想为‘dollars’（美元）的简称而理解为‘钱’。",
+      "sentence": "Her grandma gave her a cute **doll** for her birthday.",
+      "options": {
+        "option": [
+          {
+            "definition": "门",
+            "iscorrect": false
+          },
+          {
+            "definition": "美元",
+            "iscorrect": false
+          },
+          {
+            "definition": "玩偶；玩具娃娃",
+            "iscorrect": true
+          },
+          {
+            "definition": "狗",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

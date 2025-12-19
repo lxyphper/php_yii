@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stone",
+      "error_analysis": "学生易因形近词“store”（商店）的干扰，将“stone”误判为“商店”。",
+      "sentence": "The villagers used **stone** to build a wall around their garden.",
+      "options": {
+        "option": [
+          {
+            "definition": "商店",
+            "iscorrect": false
+          },
+          {
+            "definition": "石头",
+            "iscorrect": true
+          },
+          {
+            "definition": "炉子",
+            "iscorrect": false
+          },
+          {
+            "definition": "骨头",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

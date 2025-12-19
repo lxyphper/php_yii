@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to frighten",
+      "error_analysis": "易因形近词“fight”（战斗）产生联想，或误将动词“使恐惧”理解为形容词“感到恐惧”。",
+      "sentence": "The sudden barking of the dog **frightens** the baby, who starts crying loudly.",
+      "options": {
+        "option": [
+          {
+            "definition": "使恐惧",
+            "iscorrect": true
+          },
+          {
+            "definition": "战斗",
+            "iscorrect": false
+          },
+          {
+            "definition": "感到恐惧",
+            "iscorrect": false
+          },
+          {
+            "definition": "恐惧的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to transition",
+      "error_analysis": "学生易因形近词“transit”（运输）或词根“trans-”（穿过）误将“to transition”理解为“运输”或“传递”。",
+      "sentence": "After graduating from college, she decided to **transition** from part-time work to a full-time career in marketing.",
+      "options": {
+        "option": [
+          {
+            "definition": "过渡；转变（从一种状态/阶段到另一种）",
+            "iscorrect": true
+          },
+          {
+            "definition": "运输；运送",
+            "iscorrect": false
+          },
+          {
+            "definition": "传递；传送",
+            "iscorrect": false
+          },
+          {
+            "definition": "翻译；转化",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

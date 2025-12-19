@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to pilfer",
+      "error_analysis": "学生易因形近词“pilot”（飞行员）混淆误以为与“驾驶”相关，或因与“pillage”（掠夺）混淆将词义扩大为“大规模掠夺”。",
+      "sentence": "The boy tried to **pilfer** a candy from the jar when his mom wasn’t looking.",
+      "options": {
+        "option": [
+          {
+            "definition": "驾驶（飞机）",
+            "iscorrect": false
+          },
+          {
+            "definition": "掠夺（村庄）",
+            "iscorrect": false
+          },
+          {
+            "definition": "填充（罐子）",
+            "iscorrect": false
+          },
+          {
+            "definition": "偷窃（小物品）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

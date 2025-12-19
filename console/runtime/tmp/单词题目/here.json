@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "here",
+      "error_analysis": "学生易因形近词“hear”（听）的拼写与发音接近，混淆“here”（这里）的词义",
+      "sentence": "Please put the book **here** on the table; I need it for the meeting later.",
+      "options": {
+        "option": [
+          {
+            "definition": "这里（副词，表示所在的地点）",
+            "iscorrect": true
+          },
+          {
+            "definition": "听（动词，用耳朵接收声音）",
+            "iscorrect": false
+          },
+          {
+            "definition": "那里（副词，表示远处的地点）",
+            "iscorrect": false
+          },
+          {
+            "definition": "她的（代词，指代女性的所属）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

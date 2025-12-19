@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "bed an breakfast",
+      "bed and brekfast",
+      "bed and breakfest",
+      "bed and brekfest"
+    ],
+    "correct_chunks": [
+      "bed",
+      "and",
+      "break",
+      "fast"
+    ],
+    "distractor_chunks": [
+      "an",
+      "brek",
+      "fest",
+      "fst"
+    ]
+  },
+  0
+]

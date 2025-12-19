@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wind",
+      "error_analysis": "中国学生易将动词“wind”（缠绕/上发条）误解为名词“风”的动词形式（如“吹风”），或因形近词“find”（寻找）产生错误联想",
+      "sentence": "To prevent the umbrella from flying away, she decided to **wind** the strap around her wrist.",
+      "options": {
+        "option": [
+          {
+            "definition": "风",
+            "iscorrect": false
+          },
+          {
+            "definition": "吹风；使有风",
+            "iscorrect": false
+          },
+          {
+            "definition": "缠绕；上发条",
+            "iscorrect": true
+          },
+          {
+            "definition": "寻找",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

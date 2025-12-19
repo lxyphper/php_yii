@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "precipice",
+      "error_analysis": "中国学生易因形近词“precipitate”（沉淀物/加速）或拼写相似的“piece”（碎片），将“precipice”误解为“沉淀物”“加速的过程”或“碎片”。",
+      "sentence": "The hikers were warned not to get too close to the **precipice** as it was very steep and unstable.",
+      "options": {
+        "option": [
+          {
+            "definition": "悬崖；绝壁",
+            "iscorrect": true
+          },
+          {
+            "definition": "沉淀物",
+            "iscorrect": false
+          },
+          {
+            "definition": "加速的过程",
+            "iscorrect": false
+          },
+          {
+            "definition": "碎片",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

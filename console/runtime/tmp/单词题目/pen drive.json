@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pen drive",
+      "error_analysis": "学生易将“pen”（钢笔）和“drive”（驱动）字面组合，误理解为“钢笔驱动装置”或“钢笔的驱动程序”",
+      "sentence": "I’ll save the report to my **pen drive** so I can print it at the library tomorrow.",
+      "options": {
+        "option": [
+          {
+            "definition": "钢笔驱动装置",
+            "iscorrect": false
+          },
+          {
+            "definition": "钢笔的驱动程序",
+            "iscorrect": false
+          },
+          {
+            "definition": "硬盘驱动器",
+            "iscorrect": false
+          },
+          {
+            "definition": "U盘；闪存盘",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

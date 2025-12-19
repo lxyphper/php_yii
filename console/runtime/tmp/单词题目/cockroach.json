@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cockroach",
+      "error_analysis": "中国学生易将\"cockroach\"拆分为\"cock\"（公鸡）和\"roach\"（误猜词义），或与形近词\"cocktail\"（鸡尾酒）混淆，导致错误联想。",
+      "sentence": "I saw a big **cockroach** scurrying across the kitchen floor when I was making dinner last night.",
+      "options": {
+        "option": [
+          {
+            "definition": "鸡尾酒",
+            "iscorrect": false
+          },
+          {
+            "definition": "公鸡的巢穴",
+            "iscorrect": false
+          },
+          {
+            "definition": "蟑螂",
+            "iscorrect": true
+          },
+          {
+            "definition": "一种小型爬行动物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

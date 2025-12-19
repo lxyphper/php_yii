@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pulpy",
+      "error_analysis": "学生易因形近词\"puppy\"(小狗)误判为\"小狗的\"，或因词根\"pulp\"(纸浆)误判为\"由纸浆制成的\"",
+      "sentence": "The mango was so ripe that it felt **pulpy** when I squeezed it.",
+      "options": {
+        "option": [
+          {
+            "definition": "柔软多汁的",
+            "iscorrect": true
+          },
+          {
+            "definition": "小狗的",
+            "iscorrect": false
+          },
+          {
+            "definition": "由纸浆制成的",
+            "iscorrect": false
+          },
+          {
+            "definition": "坚硬干燥的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

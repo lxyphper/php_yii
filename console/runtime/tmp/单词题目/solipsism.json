@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "solipsism",
+      "error_analysis": "学生易因形近词\"solitude\"（孤独）误判为\"孤独状态\"，或因词根\"soli-\"（单独）+ \"-ism\"误导为\"个人主义\"，忽略其哲学层面\"唯我论\"的核心义。",
+      "sentence": "The philosopher's argument for **solipsism** led him to doubt if even his closest friend's thoughts were real.",
+      "options": {
+        "option": [
+          {
+            "definition": "唯我论（认为只有自己的意识是真实存在的哲学观点）",
+            "iscorrect": true
+          },
+          {
+            "definition": "孤独或独处的状态（如solitude的常见义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "强调个人利益至上的极端个人主义（词根\"soli-\"误导的过度推导）",
+            "iscorrect": false
+          },
+          {
+            "definition": "对现实世界真实性的普遍怀疑态度（与怀疑论混淆的模糊理解）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

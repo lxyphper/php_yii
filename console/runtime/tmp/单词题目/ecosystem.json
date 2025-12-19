@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ecosystem",
+      "error_analysis": "学生易将\"eco-\"与\"economy\"（经济）混淆，误判为\"经济系统\"，或因\"eco-\"词根（家）错误联想为\"家庭体系\"。",
+      "sentence": "The Amazon rainforest is often referred to as the \"lungs of the Earth\" because its diverse **ecosystem** supports millions of species and produces 20% of the world's oxygen.",
+      "options": {
+        "option": [
+          {
+            "definition": "生态系统",
+            "iscorrect": true
+          },
+          {
+            "definition": "经济体系",
+            "iscorrect": false
+          },
+          {
+            "definition": "家庭系统",
+            "iscorrect": false
+          },
+          {
+            "definition": "生态设备",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to chuckle",
+      "error_analysis": "学生易因形近词\"chicken\"（胆小/鸡肉）或词根\"chuck\"（扔）误猜\"变得胆小\"或\"扔掉\"。",
+      "sentence": "When she heard the joke, she couldn't help but **chuckle** softly to herself.",
+      "options": {
+        "option": [
+          {
+            "definition": "轻声笑；暗笑",
+            "iscorrect": true
+          },
+          {
+            "definition": "变得胆小；害怕",
+            "iscorrect": false
+          },
+          {
+            "definition": "扔掉；丢弃",
+            "iscorrect": false
+          },
+          {
+            "definition": "窒息；哽住",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

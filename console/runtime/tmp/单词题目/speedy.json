@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "speedy",
+      "error_analysis": "学生易因形近词“speech”（演讲）的联想，将“speedy”误判为“与演讲相关的”或“口才好的”。",
+      "sentence": "The restaurant is popular for its **speedy** service—you get your food in five minutes.",
+      "options": {
+        "option": [
+          {
+            "definition": "快速的；迅速的",
+            "iscorrect": true
+          },
+          {
+            "definition": "演讲的；口才好的",
+            "iscorrect": false
+          },
+          {
+            "definition": "加速的；促进的",
+            "iscorrect": false
+          },
+          {
+            "definition": "稳定的；持续的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

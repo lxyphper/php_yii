@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fuzzy",
+      "error_analysis": "易混淆形近词\"fussy\"(挑剔的)，或误将\"fuzzy\"仅理解为物理上的\"有绒毛的\"，忽略其抽象\"模糊的\"核心含义",
+      "sentence": "I can’t remember the details clearly—my memory of that day is a bit **fuzzy**.",
+      "options": {
+        "option": [
+          {
+            "definition": "模糊的；不清晰的",
+            "iscorrect": true
+          },
+          {
+            "definition": "挑剔的；爱抱怨的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有绒毛的；毛茸茸的",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速的；敏捷的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to age",
+      "error_analysis": "学生可能因“age”作名词为“年龄”而误判“to age”为“计算年龄”，或因形近词“ago”（以前）误判为“过去”。",
+      "sentence": "The old book has **aged**—its pages are now yellow and brittle.",
+      "options": {
+        "option": [
+          {
+            "definition": "变老；老化",
+            "iscorrect": true
+          },
+          {
+            "definition": "过去（如“以前”）",
+            "iscorrect": false
+          },
+          {
+            "definition": "计算年龄",
+            "iscorrect": false
+          },
+          {
+            "definition": "同意",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

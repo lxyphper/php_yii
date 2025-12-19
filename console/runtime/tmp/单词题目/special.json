@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "special",
+      "error_analysis": "中国学生易将“special”与形近词“specific”（具体的）或“species”（物种的）混淆，错误理解为“具体的”或“物种的”。",
+      "sentence": "For her birthday, I bought a **special** gift that reminded her of our first meeting.",
+      "options": {
+        "option": [
+          {
+            "definition": "特别的；特殊的",
+            "iscorrect": true
+          },
+          {
+            "definition": "具体的；明确的",
+            "iscorrect": false
+          },
+          {
+            "definition": "物种的；种类的",
+            "iscorrect": false
+          },
+          {
+            "definition": "普通的；平常的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

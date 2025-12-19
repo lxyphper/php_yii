@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "foiled",
+      "error_analysis": "学生易将\"foiled\"误解为\"用箔纸包裹的\"(来自名词\"foil\"的字面义)或\"煮沸的\"(形近词\"boiled\"的联想)",
+      "sentence": "The security guard **foiled** the thief's plan to steal the expensive necklace.",
+      "options": {
+        "option": [
+          {
+            "definition": "阻止了",
+            "iscorrect": true
+          },
+          {
+            "definition": "用箔纸包裹的",
+            "iscorrect": false
+          },
+          {
+            "definition": "煮沸的",
+            "iscorrect": false
+          },
+          {
+            "definition": "归档的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

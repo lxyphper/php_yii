@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to prevail",
+      "error_analysis": "学生易因形近词\"prevent\"(阻止)混淆词义，或因\"prev-\"前缀误猜为\"提前做某事\"，忽略其\"获胜/占上风\"的核心义。",
+      "sentence": "After a long legal battle, justice finally **prevailed** and the innocent man was set free.",
+      "options": {
+        "option": [
+          {
+            "definition": "获胜；占上风",
+            "iscorrect": true
+          },
+          {
+            "definition": "阻止；防止",
+            "iscorrect": false
+          },
+          {
+            "definition": "提前准备",
+            "iscorrect": false
+          },
+          {
+            "definition": "失败；崩溃",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

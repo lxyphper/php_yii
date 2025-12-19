@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "seasoned",
+      "error_analysis": "将\"seasoned\"误理解为\"季节性的\"(形近词\"season\"的\"季节\"义)或\"调味的\"(词根\"season\"作\"调味\"讲的误导)",
+      "sentence": "As a **seasoned** hiker, she knows how to handle unexpected situations in the mountains.",
+      "options": {
+        "option": [
+          {
+            "definition": "经验丰富的",
+            "iscorrect": true
+          },
+          {
+            "definition": "季节性的",
+            "iscorrect": false
+          },
+          {
+            "definition": "调味的",
+            "iscorrect": false
+          },
+          {
+            "definition": "新鲜的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

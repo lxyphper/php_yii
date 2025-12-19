@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "job inerview",
+      "job intarview",
+      "job interviw",
+      "job interrview",
+      "job inverview"
+    ],
+    "correct_chunks": [
+      "job",
+      "in",
+      "ter",
+      "view"
+    ],
+    "distractor_chunks": [
+      "iner",
+      "tar",
+      "terr",
+      "viw",
+      "ver"
+    ]
+  },
+  0
+]

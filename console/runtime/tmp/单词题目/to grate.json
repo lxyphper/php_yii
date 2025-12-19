@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to grate",
+      "error_analysis": "学生易因形近词\"great\"（伟大的）混淆，或误联想\"gate\"（门）",
+      "sentence": "Before adding the cheese to the pasta, she needs to **grate** it into fine shreds.",
+      "options": {
+        "option": [
+          {
+            "definition": "磨碎；擦碎",
+            "iscorrect": true
+          },
+          {
+            "definition": "伟大的；极好的",
+            "iscorrect": false
+          },
+          {
+            "definition": "门；闸门",
+            "iscorrect": false
+          },
+          {
+            "definition": "使烦躁；激怒",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to satisfy",
+      "error_analysis": "学生易因形近词‘sacrifice’（牺牲）混淆词义，或因词根‘satis’（足够）过度直译为‘使足够’而非‘满足’",
+      "sentence": "The restaurant must **satisfy** the health inspector's standards to stay open.",
+      "options": {
+        "option": [
+          {
+            "definition": "满足（需求、要求等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "牺牲（利益、生命等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "使足够（数量或程度上的充足）",
+            "iscorrect": false
+          },
+          {
+            "definition": "使快乐（情绪上的愉悦）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

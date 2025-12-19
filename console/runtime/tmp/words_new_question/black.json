@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "black",
+      "error_analysis": "学生易因形近词“back”（后面）、“blank”（空白）或“block”（阻塞）的干扰，将“black”误理解为上述含义而非核心词义“黑色”。",
+      "sentence": "She was wearing a **black** dress to the funeral.",
+      "options": {
+        "option": [
+          {
+            "definition": "黑色的（像煤或墨一样的颜色）",
+            "iscorrect": true
+          },
+          {
+            "definition": "后面（物体的后部）",
+            "iscorrect": false
+          },
+          {
+            "definition": "空白的（没有内容或文字的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "阻塞的（被挡住不能通过的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bat",
+      "error_analysis": "中国学生易因形近词“cat”（猫）混淆“bat”的词义，或因动词“拍打”的字面误导误判其名词含义",
+      "sentence": "The baseball player picked up his **bat** and got ready to swing.",
+      "options": {
+        "option": [
+          {
+            "definition": "猫",
+            "iscorrect": false
+          },
+          {
+            "definition": "蝙蝠",
+            "iscorrect": false
+          },
+          {
+            "definition": "球棒",
+            "iscorrect": true
+          },
+          {
+            "definition": "拍打",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

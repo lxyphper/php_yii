@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "breakable",
+      "error_analysis": "学生易因形近词“bearable”（可忍受的）混淆，或因词根“break+able”直译为“可打破的”（强调动作）而误解其“易碎的”（强调属性）的核心含义。",
+      "sentence": "Please handle the glass vase carefully—it’s very **breakable**.",
+      "options": {
+        "option": [
+          {
+            "definition": "易碎的；易损坏的",
+            "iscorrect": true
+          },
+          {
+            "definition": "可忍受的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可打破的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可中断的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

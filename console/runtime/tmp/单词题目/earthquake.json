@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "earthquake",
+      "error_analysis": "学生易因“earth+quake”字面组合过度直译为“地球的震动”，或因形近词“quack”（庸医）干扰产生错误联想",
+      "sentence": "The **earthquake** that struck Japan in 2011 caused a massive tsunami.",
+      "options": {
+        "option": [
+          {
+            "definition": "地震",
+            "iscorrect": true
+          },
+          {
+            "definition": "地球庸医",
+            "iscorrect": false
+          },
+          {
+            "definition": "地球的震动",
+            "iscorrect": false
+          },
+          {
+            "definition": "土方工程",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

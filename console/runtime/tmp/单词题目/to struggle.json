@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to struggle",
+      "error_analysis": "学生易将\"struggle\"误判为\"单纯努力\"（形近词strive干扰）或\"成功完成\"（字面猜测）",
+      "sentence": "Even with help, the child **struggled** to tie his shoelaces for the first time.",
+      "options": {
+        "option": [
+          {
+            "definition": "挣扎；艰难地做某事",
+            "iscorrect": true
+          },
+          {
+            "definition": "努力做某事（无艰难含义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "成功完成某事",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速做某事",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

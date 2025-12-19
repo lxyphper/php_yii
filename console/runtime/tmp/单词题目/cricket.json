@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cricket",
+      "error_analysis": "学生易因形近词“ticket”（票）误判，或混淆“板球”与“蟋蟀”的义项。",
+      "sentence": "Many children in England learn to play **cricket** at school, using a bat and ball.",
+      "options": {
+        "option": [
+          {
+            "definition": "板球（运动）",
+            "iscorrect": true
+          },
+          {
+            "definition": "票",
+            "iscorrect": false
+          },
+          {
+            "definition": "蟋蟀",
+            "iscorrect": false
+          },
+          {
+            "definition": "肌肉痉挛",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

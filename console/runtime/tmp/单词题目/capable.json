@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "capable",
+      "error_analysis": "学生易因形近词\"captain\"(船长)、\"cap\"(帽子)或词根字面误导，将\"capable\"误解为\"船长的\"\"戴帽子的\"或\"能覆盖的\"",
+      "sentence": "The new engineer is **capable** of designing a more efficient system.",
+      "options": {
+        "option": [
+          {
+            "definition": "有能力的",
+            "iscorrect": true
+          },
+          {
+            "definition": "船长的",
+            "iscorrect": false
+          },
+          {
+            "definition": "戴帽子的",
+            "iscorrect": false
+          },
+          {
+            "definition": "能覆盖的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

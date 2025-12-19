@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "assistant",
+      "error_analysis": "学生易混淆为动词“帮助”（形近assist）或抽象名词“帮助”（与assistance混淆）",
+      "sentence": "My new **assistant** will help me with scheduling meetings and answering emails.",
+      "options": {
+        "option": [
+          {
+            "definition": "帮助（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "帮助（抽象名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "助理的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "助手；助理（名词）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

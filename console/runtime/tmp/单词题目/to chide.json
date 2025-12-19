@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to chide",
+      "error_analysis": "学生易因形近词“hide”（隐藏）或发音联想“guide”（引导）误判“to chide”的含义。",
+      "sentence": "Mother will **chide** you if you forget to do your homework again.",
+      "options": {
+        "option": [
+          {
+            "definition": "隐藏",
+            "iscorrect": false
+          },
+          {
+            "definition": "引导",
+            "iscorrect": false
+          },
+          {
+            "definition": "责备，斥责",
+            "iscorrect": true
+          },
+          {
+            "definition": "表扬",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

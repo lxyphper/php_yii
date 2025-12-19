@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "international",
+      "error_analysis": "学生易因“inter-”与“intra-”前缀混淆（误将“国际的”理解为“国内的”），或因形近“national”（国家的）产生错误联想。",
+      "sentence": "The company has expanded its business to **international** markets, selling products in over 50 countries.",
+      "options": {
+        "option": [
+          {
+            "definition": "国家的",
+            "iscorrect": false
+          },
+          {
+            "definition": "国内的",
+            "iscorrect": false
+          },
+          {
+            "definition": "国际的",
+            "iscorrect": true
+          },
+          {
+            "definition": "洲际的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

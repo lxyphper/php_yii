@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "adaptable",
+      "error_analysis": "学生易将`adaptable`与形近词`adoptable`（可收养的/可采用的）混淆，或误判为“可调整的”。",
+      "sentence": "She is very **adaptable** and can easily fit into any new work environment.",
+      "options": {
+        "option": [
+          {
+            "definition": "可收养的；可采用的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可调整的；可调节的",
+            "iscorrect": false
+          },
+          {
+            "definition": "能适应的；适应性强的",
+            "iscorrect": true
+          },
+          {
+            "definition": "可应用的；适用的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "colorful",
+      "error_analysis": "学生易将“colorful”仅理解为“颜色多的”，忽略其“丰富多彩、生动”的引申义",
+      "sentence": "The festival was **colorful** with music, dance, and traditional costumes from different regions.",
+      "options": {
+        "option": [
+          {
+            "definition": "丰富多彩的；生动的",
+            "iscorrect": true
+          },
+          {
+            "definition": "颜色多的；彩色的",
+            "iscorrect": false
+          },
+          {
+            "definition": "颜色鲜艳的；明亮的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无色的；缺乏颜色的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

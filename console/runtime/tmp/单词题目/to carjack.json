@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to carjack",
+      "error_analysis": "学生易将“carjack”拆分为“car”（汽车）和“jack”（千斤顶），错误理解为“用千斤顶顶起汽车”",
+      "sentence": "The criminals waited until the driver stopped at a red light before they tried to **carjack** the vehicle.",
+      "options": {
+        "option": [
+          {
+            "definition": "劫持汽车（尤指通过威胁司机）",
+            "iscorrect": true
+          },
+          {
+            "definition": "用千斤顶顶起汽车",
+            "iscorrect": false
+          },
+          {
+            "definition": "偷取汽车的零件",
+            "iscorrect": false
+          },
+          {
+            "definition": "驾驶汽车高速行驶",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

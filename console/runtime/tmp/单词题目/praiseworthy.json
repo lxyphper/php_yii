@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "praiseworthy",
+      "error_analysis": "易将praiseworthy与形近词priceworthy（值得定价的）混淆，或误理解为“充满表扬的”（与praiseful混淆）",
+      "sentence": "Her volunteer work at the hospital is truly **praiseworthy**; she spends every weekend helping elderly patients.",
+      "options": {
+        "option": [
+          {
+            "definition": "值得表扬的；可嘉的",
+            "iscorrect": true
+          },
+          {
+            "definition": "值得定价的",
+            "iscorrect": false
+          },
+          {
+            "definition": "充满表扬的",
+            "iscorrect": false
+          },
+          {
+            "definition": "需要表扬的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

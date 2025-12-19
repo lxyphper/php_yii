@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unnecessary",
+      "error_analysis": "学生易因形近词unnoticeable（不显眼的）混淆，或误将其理解为“不重要的”（因把necessary等同于important）",
+      "sentence": "Adding too many decorations to the cake is **unnecessary**; it already looks perfect.",
+      "options": {
+        "option": [
+          {
+            "definition": "不必要的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不显眼的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不重要的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不自然的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

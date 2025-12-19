@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "airplane",
+      "error_analysis": "易混淆形近词airport（机场），或误将plane理解为“平面”而误解词义",
+      "sentence": "We will take an **airplane** to New York next week to visit my aunt.",
+      "options": {
+        "option": [
+          {
+            "definition": "飞机",
+            "iscorrect": true
+          },
+          {
+            "definition": "机场",
+            "iscorrect": false
+          },
+          {
+            "definition": "空气平面",
+            "iscorrect": false
+          },
+          {
+            "definition": "汽车",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

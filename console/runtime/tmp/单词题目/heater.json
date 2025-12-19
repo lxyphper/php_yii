@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "heater",
+      "error_analysis": "中国学生易因形近词“healer”（治疗者）干扰，或词根误导将“heater”理解为“热量”而非“加热设备”",
+      "sentence": "Please turn on the **heater**; the room is getting too cold.",
+      "options": {
+        "option": [
+          {
+            "definition": "治疗者",
+            "iscorrect": false
+          },
+          {
+            "definition": "加热器（设备）",
+            "iscorrect": true
+          },
+          {
+            "definition": "热量",
+            "iscorrect": false
+          },
+          {
+            "definition": "加热的过程",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

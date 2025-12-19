@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "arsenal",
+      "error_analysis": "学生易因形近词\"arena\"(竞技场)混淆词义,或因词根\"ars\"(与\"art\"同源)误解为与艺术相关的集合",
+      "sentence": "The military base stores all its weapons and explosives in a heavily guarded **arsenal**.",
+      "options": {
+        "option": [
+          {
+            "definition": "军火库；大量储备",
+            "iscorrect": true
+          },
+          {
+            "definition": "竞技场；比赛场地",
+            "iscorrect": false
+          },
+          {
+            "definition": "艺术作品集合；文艺宝库",
+            "iscorrect": false
+          },
+          {
+            "definition": "文章列表；文献目录",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

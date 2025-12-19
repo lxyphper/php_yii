@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "penance",
+      "error_analysis": "学生易因形近词\"penny\"(便士)联想到货币，或因词根\"pen\"(笔)误以为与书写相关，忽略其\"忏悔/赎罪\"的核心义。",
+      "sentence": "After arguing with his sister, Jake volunteered to wash all the dishes as a **penance** for his rude words.",
+      "options": {
+        "option": [
+          {
+            "definition": "便士（英国的货币单位）",
+            "iscorrect": false
+          },
+          {
+            "definition": "书写工具（如钢笔）",
+            "iscorrect": false
+          },
+          {
+            "definition": "忏悔；赎罪（为弥补过错而做的自我惩罚）",
+            "iscorrect": true
+          },
+          {
+            "definition": "惩罚（因违法或错误而受到的处罚）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dishwasher",
+      "error_analysis": "学生易因形近词dishwater（洗碗水）或词根误导（认为是“洗碗的人”）而误解为非电器含义",
+      "sentence": "I need to buy a new **dishwasher** because the old one stopped working after five years of heavy use.",
+      "options": {
+        "option": [
+          {
+            "definition": "洗碗机（一种自动清洗餐具的家用电器）",
+            "iscorrect": true
+          },
+          {
+            "definition": "洗碗水（清洗盘子等餐具的水）",
+            "iscorrect": false
+          },
+          {
+            "definition": "洗碗工（负责清洗餐具的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "洗碗布（用来擦拭餐具的布）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

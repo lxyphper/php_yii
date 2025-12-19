@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "panoramic",
+      "error_analysis": "学生易因形近词“romantic”（浪漫的）或词根“pan-”（全）的误导，错解为“浪漫的”或“全面的”",
+      "sentence": "From the top of the mountain, we enjoyed a **panoramic** view of the valley below, with rivers winding through green fields and villages scattered in the distance.",
+      "options": {
+        "option": [
+          {
+            "definition": "全景的",
+            "iscorrect": true
+          },
+          {
+            "definition": "浪漫的",
+            "iscorrect": false
+          },
+          {
+            "definition": "平底锅形状的",
+            "iscorrect": false
+          },
+          {
+            "definition": "全面的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

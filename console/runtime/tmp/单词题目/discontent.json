@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "discontent",
+      "error_analysis": "学生易将\"content\"理解为\"内容\"并结合\"dis-\"误解为\"无内容\"，或与形近词\"discomfort\"混淆为\"不适\"",
+      "sentence": "The workers' **discontent** with their low salaries led to a strike last week.",
+      "options": {
+        "option": [
+          {
+            "definition": "不满情绪",
+            "iscorrect": true
+          },
+          {
+            "definition": "无内容",
+            "iscorrect": false
+          },
+          {
+            "definition": "身体不适",
+            "iscorrect": false
+          },
+          {
+            "definition": "不连续的状态",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

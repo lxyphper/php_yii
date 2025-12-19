@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "idealism",
+      "error_analysis": "学生易将\"idealism\"误理解为\"理想的状态\"（源于词根\"ideal\"的过度直译）或\"对理想的具体追求\"（忽略\"-ism\"表示主义的抽象含义）",
+      "sentence": "His **idealism** led him to quit his job and start a charity, believing everyone deserves a fair chance.",
+      "options": {
+        "option": [
+          {
+            "definition": "理想主义（一种坚持理想的信念或哲学）",
+            "iscorrect": true
+          },
+          {
+            "definition": "理想的状态或情况",
+            "iscorrect": false
+          },
+          {
+            "definition": "对理想的具体追求",
+            "iscorrect": false
+          },
+          {
+            "definition": "理想化的想法或幻想",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "thermal power",
+      "error_analysis": "将“thermal power”因“thermal”的“保暖的”含义误译为“保暖能量”，或因形近词“thermos”（保温瓶）误联想为“保温瓶的能量”。",
+      "sentence": "The new policy aims to cut the share of **thermal power** in the national energy mix from 70% to 50% by 2030.",
+      "options": {
+        "option": [
+          {
+            "definition": "火力发电（热动力）",
+            "iscorrect": true
+          },
+          {
+            "definition": "保暖能量",
+            "iscorrect": false
+          },
+          {
+            "definition": "保温瓶的能量",
+            "iscorrect": false
+          },
+          {
+            "definition": "温度调节能力",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

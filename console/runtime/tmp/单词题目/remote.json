@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "remote",
+      "error_analysis": "学生易因形近词remove（移除）或词根“远离”的过度直译，将remote误解为“移除的”或“远离的”（而非“偏远的/远程的”）",
+      "sentence": "The village is so **remote** that even cars can't reach it.",
+      "options": {
+        "option": [
+          {
+            "definition": "移除的",
+            "iscorrect": false
+          },
+          {
+            "definition": "偏远的",
+            "iscorrect": true
+          },
+          {
+            "definition": "远离的",
+            "iscorrect": false
+          },
+          {
+            "definition": "提醒的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

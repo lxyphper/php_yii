@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to get away",
+      "error_analysis": "中国学生易因“get”（得到）和“away”（离开）的字面组合，错误理解为“得到离开的机会”或混淆为“下车”（get off）",
+      "sentence": "She tried to **get away** from the crowded party early, but her friends kept asking her to stay.",
+      "options": {
+        "option": [
+          {
+            "definition": "逃离；离开；脱身",
+            "iscorrect": true
+          },
+          {
+            "definition": "下车；离开",
+            "iscorrect": false
+          },
+          {
+            "definition": "得到离开的机会",
+            "iscorrect": false
+          },
+          {
+            "definition": "相处融洽",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

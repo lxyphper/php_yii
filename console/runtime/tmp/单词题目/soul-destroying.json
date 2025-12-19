@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "soul-destroying",
+      "error_analysis": "学生易因词根`soul`（灵魂）和`destroying`（摧毁的）直译，误将其理解为“摧毁灵魂的”，忽略其“令人极度沮丧/消磨意志的”比喻义",
+      "sentence": "After working 12 hours a day in the factory, doing the same repetitive tasks over and over again, John felt that his job was truly **soul-destroying**.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人极度沮丧的；消磨意志的",
+            "iscorrect": true
+          },
+          {
+            "definition": "摧毁灵魂的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人心碎的",
+            "iscorrect": false
+          },
+          {
+            "definition": "灵魂出窍的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

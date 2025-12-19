@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to convict",
+      "error_analysis": "学生易混淆形近词\"convince\"(说服)，或误由词根\"vict\"(胜利)推导为\"征服\"。",
+      "sentence": "After a long trial, the jury voted unanimously to **convict** the defendant of fraud.",
+      "options": {
+        "option": [
+          {
+            "definition": "定罪；宣判有罪",
+            "iscorrect": true
+          },
+          {
+            "definition": "说服；使相信",
+            "iscorrect": false
+          },
+          {
+            "definition": "征服；战胜",
+            "iscorrect": false
+          },
+          {
+            "definition": "释放；免除",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to relate",
+      "error_analysis": "学生易因“relate”与“relax”（放松）拼写接近混淆，或因“late”（晚）字面义错误推导为“延迟”。",
+      "sentence": "The study found that smoking **relates** to a higher risk of heart disease.",
+      "options": {
+        "option": [
+          {
+            "definition": "联系；有关联",
+            "iscorrect": true
+          },
+          {
+            "definition": "放松；休息",
+            "iscorrect": false
+          },
+          {
+            "definition": "延迟；晚到",
+            "iscorrect": false
+          },
+          {
+            "definition": "叙述；讲述",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "inadequate",
+      "error_analysis": "学生易因“adequate”的“适当”义联想将“inadequate”误判为“不适当的”，或因形近混淆“incompetent”（无能的）。",
+      "sentence": "The company’s **inadequate** funding led to the cancellation of the new project.",
+      "options": {
+        "option": [
+          {
+            "definition": "不足的；不够的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不适当的；不合适的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无能的；不称职的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不活跃的；懒散的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "toothache",
+      "error_analysis": "学生易因形近词\"toothpaste\"(牙膏)干扰，或误将\"ache\"的\"渴望\"义代入，将\"toothache\"误解为\"牙膏\"或\"牙齿的渴望\"。",
+      "sentence": "She couldn't eat the ice cream because of a terrible **toothache**.",
+      "options": {
+        "option": [
+          {
+            "definition": "牙痛",
+            "iscorrect": true
+          },
+          {
+            "definition": "牙膏",
+            "iscorrect": false
+          },
+          {
+            "definition": "牙齿的渴望",
+            "iscorrect": false
+          },
+          {
+            "definition": "牙签",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

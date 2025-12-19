@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "animism",
+      "error_analysis": "易因形近词\"animal\"联想到\"动物相关理论\"，或因词根\"anim-\"（生命）误判为\"生命力/动画相关理论\"",
+      "sentence": "Many indigenous cultures practice **animism**, believing that trees, rivers, and even rocks possess their own spirits.",
+      "options": {
+        "option": [
+          {
+            "definition": "泛灵论（认为自然万物有灵魂的信仰）",
+            "iscorrect": true
+          },
+          {
+            "definition": "关于动物的分类或研究的理论",
+            "iscorrect": false
+          },
+          {
+            "definition": "关于生命力或活力的哲学理论",
+            "iscorrect": false
+          },
+          {
+            "definition": "动画制作的艺术或技术",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sweet-scented",
+      "error_analysis": "学生易因`sweet`的字面义将`sweet-scented`误解为“甜的（味道可口的）”，或因与`sweetened`形近而误认为“加糖的”。",
+      "sentence": "The **sweet-scented** jasmine flowers in the vase filled the room with a pleasant smell.",
+      "options": {
+        "option": [
+          {
+            "definition": "有香味的（散发宜人香气的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "甜的（味道可口的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "加糖的（添加糖的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "温柔的（性格温和的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

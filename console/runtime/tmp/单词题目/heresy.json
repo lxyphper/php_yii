@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "heresy",
+      "error_analysis": "学生易因形近词\"hero\"（英雄）或\"heritage\"（遗产）混淆词义，或因\"here\"（这里）的字面意思错误推导\"heresy\"的含义。",
+      "sentence": "In the Middle Ages, anyone accused of spreading **heresy** could face severe punishment from the church.",
+      "options": {
+        "option": [
+          {
+            "definition": "异端邪说；异教",
+            "iscorrect": true
+          },
+          {
+            "definition": "英雄行为；英勇",
+            "iscorrect": false
+          },
+          {
+            "definition": "遗产；传统",
+            "iscorrect": false
+          },
+          {
+            "definition": "此处的事物；本地特色",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hate",
+      "error_analysis": "学生易因形近词“have”（有）或“heat”（热）的拼写混淆而误判“hate”的词义",
+      "sentence": "She says she **hates** rainy days because they make her feel sad.",
+      "options": {
+        "option": [
+          {
+            "definition": "憎恨，厌恶",
+            "iscorrect": true
+          },
+          {
+            "definition": "有（have的含义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "热（heat的含义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "帽子（hat的含义）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

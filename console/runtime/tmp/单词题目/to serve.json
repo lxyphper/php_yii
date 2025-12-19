@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to serve",
+      "error_analysis": "中国学生易因形近词\"save\"（拯救）干扰将\"serve\"误理解为\"拯救\"，或因词根字面误导将其简单等同于\"做\"而非\"服务/端上\"。",
+      "sentence": "The waiter will **serve** the main course in five minutes.",
+      "options": {
+        "option": [
+          {
+            "definition": "拯救",
+            "iscorrect": false
+          },
+          {
+            "definition": "服务；端上（食物/饮料）",
+            "iscorrect": true
+          },
+          {
+            "definition": "做；完成",
+            "iscorrect": false
+          },
+          {
+            "definition": "保留；预订",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

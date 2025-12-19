@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "computer",
+      "error_analysis": "学生易因拼写与“commuter”（通勤者）、“composer”（作曲家）等形近词混淆，或因“-er”后缀误将“computer”理解为“计算者”（从事计算的人）。",
+      "sentence": "My sister uses a **computer** to study online and watch movies every evening.",
+      "options": {
+        "option": [
+          {
+            "definition": "计算机",
+            "iscorrect": true
+          },
+          {
+            "definition": "通勤者",
+            "iscorrect": false
+          },
+          {
+            "definition": "计算者（从事计算的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "作曲家",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

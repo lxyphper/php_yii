@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lobe",
+      "error_analysis": "中国学生易因形近词“love”（爱）或“robe”（长袍）的拼写/发音相似，将“lobe”误判为“爱”或“长袍”。",
+      "sentence": "She pierced her ear **lobe** to wear a new pair of earrings.",
+      "options": {
+        "option": [
+          {
+            "definition": "（身体器官的）叶；耳垂；脑叶",
+            "iscorrect": true
+          },
+          {
+            "definition": "爱；爱情",
+            "iscorrect": false
+          },
+          {
+            "definition": "长袍",
+            "iscorrect": false
+          },
+          {
+            "definition": "抛；扔",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

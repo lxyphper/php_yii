@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to unravel",
+      "error_analysis": "学生易因形近词\"uncover\"（揭露）或词根\"un-\"+\"ravel\"（缠绕）误将\"unravel\"理解为\"揭露具体事物\"或\"解开具体缠绕物\"，而非抽象的\"弄清楚复杂问题/谜团\"。",
+      "sentence": "The detective spent months trying to **unravel** the mystery of the missing painting.",
+      "options": {
+        "option": [
+          {
+            "definition": "揭露（隐藏的事物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "弄清楚（复杂的问题或谜团）",
+            "iscorrect": true
+          },
+          {
+            "definition": "解开（绳子或线等具体物品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "旅行",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

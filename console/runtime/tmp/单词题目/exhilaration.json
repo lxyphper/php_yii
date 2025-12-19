@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "exhilaration",
+      "error_analysis": "中国学生易因形近词\"exhaustion\"（疲惫）干扰或词根\"hilar\"不熟悉而误判为\"疲惫\"或与\"山\"相关含义",
+      "sentence": "The children screamed with **exhilaration** as they rode the roller coaster for the first time.",
+      "options": {
+        "option": [
+          {
+            "definition": "兴奋；愉悦",
+            "iscorrect": true
+          },
+          {
+            "definition": "疲惫；耗尽",
+            "iscorrect": false
+          },
+          {
+            "definition": "登山的过程",
+            "iscorrect": false
+          },
+          {
+            "definition": "困惑；迷茫",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

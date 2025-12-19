@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "case law",
+      "error_analysis": "学生易因词根字面误导，将\"case law\"理解为\"案件中适用的具体法律条文\"（忽略其\"基于司法判决的法律体系\"的核心含义）",
+      "sentence": "In common law systems, **case law** is formed by judges' rulings in past cases, which then guide future decisions.",
+      "options": {
+        "option": [
+          {
+            "definition": "判例法（基于司法判决的法律体系）",
+            "iscorrect": true
+          },
+          {
+            "definition": "案件中适用的具体法律条文",
+            "iscorrect": false
+          },
+          {
+            "definition": "关于案例分析的法律课程",
+            "iscorrect": false
+          },
+          {
+            "definition": "处理案件的法律程序",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

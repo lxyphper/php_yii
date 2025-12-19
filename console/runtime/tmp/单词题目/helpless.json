@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "helpless",
+      "error_analysis": "易因形近词\"helpful\"（有帮助的）混淆，或词根直译\"没有帮助的\"，忽略\"无助的\"核心引申义",
+      "sentence": "When the little girl got lost in the supermarket, she stood there crying and looked **helpless**.",
+      "options": {
+        "option": [
+          {
+            "definition": "有帮助的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无助的",
+            "iscorrect": true
+          },
+          {
+            "definition": "没有帮助的",
+            "iscorrect": false
+          },
+          {
+            "definition": "绝望的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

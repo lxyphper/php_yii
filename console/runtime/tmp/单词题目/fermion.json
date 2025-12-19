@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fermion",
+      "error_analysis": "学生易因形近词\"ferment\"（发酵）或词根\"ferm-\"与\"farm\"（农场）结合\"ion\"后缀，误判为发酵产物或农场相关物质",
+      "sentence": "Electrons and quarks are classic examples of **fermions**, which cannot occupy the same quantum state as another identical particle.",
+      "options": {
+        "option": [
+          {
+            "definition": "发酵过程中产生的有机化合物",
+            "iscorrect": false
+          },
+          {
+            "definition": "农场中使用的离子型肥料",
+            "iscorrect": false
+          },
+          {
+            "definition": "费米子（物理学中遵循泡利不相容原理的粒子）",
+            "iscorrect": true
+          },
+          {
+            "definition": "化学中参与氧化反应的活性离子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

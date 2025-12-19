@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ginormous",
+      "error_analysis": "学生易因形近词“gin”（杜松子酒）或词根“norm”（标准）误判，将“ginormous”理解为与酒相关或符合标准的含义。",
+      "sentence": "The new shopping mall in the city center has a **ginormous** food court that can hold over 1,000 people at once.",
+      "options": {
+        "option": [
+          {
+            "definition": "极大的；巨大的",
+            "iscorrect": true
+          },
+          {
+            "definition": "与杜松子酒有关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "符合标准的",
+            "iscorrect": false
+          },
+          {
+            "definition": "微小的；极小的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

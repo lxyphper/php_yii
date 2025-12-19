@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to discuss",
+      "error_analysis": "易因形近词\"dismiss\"（解雇）干扰，将\"讨论\"误理解为\"解雇\"或\"驳回\"",
+      "sentence": "The team will **discuss** the new project plan in tomorrow's meeting.",
+      "options": {
+        "option": [
+          {
+            "definition": "讨论；探讨",
+            "iscorrect": true
+          },
+          {
+            "definition": "解雇；驳回",
+            "iscorrect": false
+          },
+          {
+            "definition": "发现；发觉",
+            "iscorrect": false
+          },
+          {
+            "definition": "区分；辨别",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dire",
+      "error_analysis": "学生易因形近于\"direct\"而误认为\"直接的\"，或因音近于\"die\"而推测为\"致命的\"",
+      "sentence": "Without immediate help, the villagers will face a **dire** food shortage that threatens their survival.",
+      "options": {
+        "option": [
+          {
+            "definition": "直接的",
+            "iscorrect": false
+          },
+          {
+            "definition": "严重的；危急的",
+            "iscorrect": true
+          },
+          {
+            "definition": "致命的",
+            "iscorrect": false
+          },
+          {
+            "definition": "脏的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

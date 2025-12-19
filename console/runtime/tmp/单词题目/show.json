@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "show",
+      "error_analysis": "学生易因形近词\"shoe\"（鞋）、\"slow\"（慢）产生错误联想，误将\"show\"理解为与\"鞋\"或\"慢\"相关的含义。",
+      "sentence": "Can you **show** me how to solve this math problem? I'm stuck.",
+      "options": {
+        "option": [
+          {
+            "definition": "鞋",
+            "iscorrect": false
+          },
+          {
+            "definition": "慢的；缓慢的",
+            "iscorrect": false
+          },
+          {
+            "definition": "展示；显示",
+            "iscorrect": true
+          },
+          {
+            "definition": "雪；下雪",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

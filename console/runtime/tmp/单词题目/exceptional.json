@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "exceptional",
+      "error_analysis": "学生易因形近词“exception”（例外）将“exceptional”误理解为“例外的”，或因词根推导为“罕见的”",
+      "sentence": "Her **exceptional** leadership skills helped the team win the championship.",
+      "options": {
+        "option": [
+          {
+            "definition": "例外的",
+            "iscorrect": false
+          },
+          {
+            "definition": "杰出的",
+            "iscorrect": true
+          },
+          {
+            "definition": "罕见的",
+            "iscorrect": false
+          },
+          {
+            "definition": "特殊的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

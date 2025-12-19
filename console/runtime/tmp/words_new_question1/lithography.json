@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lithography",
+      "error_analysis": "学生易因形近词\"photography\"（摄影）联想错误，或因词根\"litho-\"（石）+\"-graphy\"（书写）直译为\"石刻\"，忽略其\"平版印刷术\"的核心义。",
+      "sentence": "The museum exhibit showcases 19th-century **lithography** works, created by etching designs on limestone and pressing them onto paper to produce detailed prints.",
+      "options": {
+        "option": [
+          {
+            "definition": "平版印刷术（尤指石版印刷）",
+            "iscorrect": true
+          },
+          {
+            "definition": "摄影术",
+            "iscorrect": false
+          },
+          {
+            "definition": "石刻术",
+            "iscorrect": false
+          },
+          {
+            "definition": "油画技法",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

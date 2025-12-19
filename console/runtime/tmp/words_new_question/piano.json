@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "piano",
+      "error_analysis": "学生易因形近词“panel”（面板）或词根/字面联想（将“pian”误认为“片”）误判“piano”词义",
+      "sentence": "She played a beautiful melody on the **piano** at the party last night.",
+      "options": {
+        "option": [
+          {
+            "definition": "钢琴",
+            "iscorrect": true
+          },
+          {
+            "definition": "面板",
+            "iscorrect": false
+          },
+          {
+            "definition": "薄片",
+            "iscorrect": false
+          },
+          {
+            "definition": "钢琴家",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

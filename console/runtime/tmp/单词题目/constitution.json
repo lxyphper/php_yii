@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "constitution",
+      "error_analysis": "易混淆形近词construction（建筑），或因词根con-+stitute（站立）误猜为“结构/构造”",
+      "sentence": "The new government promised to uphold the **constitution** and protect citizens' basic rights.",
+      "options": {
+        "option": [
+          {
+            "definition": "建筑",
+            "iscorrect": false
+          },
+          {
+            "definition": "结构/构造",
+            "iscorrect": false
+          },
+          {
+            "definition": "宪法",
+            "iscorrect": true
+          },
+          {
+            "definition": "体质",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

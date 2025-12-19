@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gaia",
+      "error_analysis": "学生易因形近词\"gain\"（获得）或\"gala\"（庆典）误解\"gaia\"的含义",
+      "sentence": "In Greek mythology, **Gaia** is the primordial goddess of the earth, giving birth to the sky, sea, and mountains.",
+      "options": {
+        "option": [
+          {
+            "definition": "获得",
+            "iscorrect": false
+          },
+          {
+            "definition": "庆典",
+            "iscorrect": false
+          },
+          {
+            "definition": "引导",
+            "iscorrect": false
+          },
+          {
+            "definition": "希腊神话中的大地女神",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

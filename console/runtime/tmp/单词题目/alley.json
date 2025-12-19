@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "alley",
+      "error_analysis": "学生易因形近词\"ally\"（盟友）的干扰，将\"alley\"误判为\"盟友\"或类似含义",
+      "sentence": "The cat disappeared into the narrow **alley** between the two old buildings.",
+      "options": {
+        "option": [
+          {
+            "definition": "小巷；胡同",
+            "iscorrect": true
+          },
+          {
+            "definition": "盟友；支持者",
+            "iscorrect": false
+          },
+          {
+            "definition": "全部；所有",
+            "iscorrect": false
+          },
+          {
+            "definition": "合金；混合物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

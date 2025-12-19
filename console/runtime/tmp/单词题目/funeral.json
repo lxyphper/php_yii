@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "funeral",
+      "error_analysis": "因形近词“fun”（乐趣）而误将“funeral”理解为“娱乐活动”或“庆祝仪式”",
+      "sentence": "She wore black to the **funeral** of her late mother.",
+      "options": {
+        "option": [
+          {
+            "definition": "葬礼",
+            "iscorrect": true
+          },
+          {
+            "definition": "娱乐活动",
+            "iscorrect": false
+          },
+          {
+            "definition": "庆祝仪式",
+            "iscorrect": false
+          },
+          {
+            "definition": "家庭聚会",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "socialism",
+      "error_analysis": "学生易因\"social\"（社会的/社交的）形近或词根联想，误将\"socialism\"猜为\"社会状态\"或\"社交主义\"",
+      "sentence": "Many countries have adopted **socialism** as their political and economic system, focusing on public ownership and equal rights for all.",
+      "options": {
+        "option": [
+          {
+            "definition": "社会主义",
+            "iscorrect": true
+          },
+          {
+            "definition": "社会状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "社交主义",
+            "iscorrect": false
+          },
+          {
+            "definition": "社会福利体系",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ectothermic",
+      "error_analysis": "易混淆形近词exothermic（放热的）及词根ecto-（外部）+therm（温度）的直译误导（如“外部温度的”）",
+      "sentence": "Snakes, being **ectothermic** animals, often bask in the sun to raise their body temperature on cool mornings.",
+      "options": {
+        "option": [
+          {
+            "definition": "（动物）变温的；冷血的",
+            "iscorrect": true
+          },
+          {
+            "definition": "放热的（化学反应）",
+            "iscorrect": false
+          },
+          {
+            "definition": "外部温度的（指环境）",
+            "iscorrect": false
+          },
+          {
+            "definition": "（动物）恒温的；热血的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to run",
+      "error_analysis": "学生易将“run”的引申义（如运转）误判为核心义“跑”，或因形近词（如rain/ruin）产生无关联想。",
+      "sentence": "The old clock has been **running** for over 50 years without any repairs.",
+      "options": {
+        "option": [
+          {
+            "definition": "跑",
+            "iscorrect": false
+          },
+          {
+            "definition": "雨",
+            "iscorrect": false
+          },
+          {
+            "definition": "毁灭",
+            "iscorrect": false
+          },
+          {
+            "definition": "运转",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ester",
+      "error_analysis": "学生易因形近词'sister'（姐妹）产生错误联想，或因词根'est-'（如estimate估计）加'-er'误判为'估计者'。",
+      "sentence": "The pleasant smell of ripe bananas comes from an **ester** formed by the reaction of acetic acid and ethanol.",
+      "options": {
+        "option": [
+          {
+            "definition": "酯（有机化合物，由酸和醇反应生成，通常有香味）",
+            "iscorrect": true
+          },
+          {
+            "definition": "姐妹（家庭中的女性成员，如姐姐或妹妹）",
+            "iscorrect": false
+          },
+          {
+            "definition": "估计者（进行估计或评估的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "醚（一种有机化合物，常用于麻醉剂）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

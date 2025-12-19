@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "symmetrical",
+      "error_analysis": "易混淆形近词sympathetic（同情的）及词根sym-+metrical的错误推导（如“共同测量的”）",
+      "sentence": "The butterfly's wings are perfectly **symmetrical**, with identical patterns on both sides.",
+      "options": {
+        "option": [
+          {
+            "definition": "对称的",
+            "iscorrect": true
+          },
+          {
+            "definition": "同情的",
+            "iscorrect": false
+          },
+          {
+            "definition": "共同测量的",
+            "iscorrect": false
+          },
+          {
+            "definition": "平衡的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

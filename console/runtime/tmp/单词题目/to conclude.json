@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to conclude",
+      "error_analysis": "学生易因‘-clude’后缀形近将‘conclude’误判为‘include’（包括）或‘exclude’（排除），或因词根推导混淆‘结束’与‘得出结论’的含义",
+      "sentence": "After analyzing all the data, the researchers **concluded** that regular sleep improves cognitive function.",
+      "options": {
+        "option": [
+          {
+            "definition": "得出结论；总结",
+            "iscorrect": true
+          },
+          {
+            "definition": "包括",
+            "iscorrect": false
+          },
+          {
+            "definition": "排除",
+            "iscorrect": false
+          },
+          {
+            "definition": "结束",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

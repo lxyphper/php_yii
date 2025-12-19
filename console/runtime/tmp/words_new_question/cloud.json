@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cloud",
+      "error_analysis": "学生易因形近词\"clown\"（小丑）的拼写相似（仅一词之差）产生错误联想",
+      "sentence": "Look at the big white **cloud** in the sky—it looks like a rabbit!",
+      "options": {
+        "option": [
+          {
+            "definition": "云",
+            "iscorrect": true
+          },
+          {
+            "definition": "小丑",
+            "iscorrect": false
+          },
+          {
+            "definition": "人群",
+            "iscorrect": false
+          },
+          {
+            "definition": "斗篷",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

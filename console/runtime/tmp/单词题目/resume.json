@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "resume",
+      "error_analysis": "学生易因形近词'resemble'（类似）或词根're-+sum'（总结）误判'resume'（继续）的词义",
+      "sentence": "After a short break, the teacher asked the students to **resume** their work on the project.",
+      "options": {
+        "option": [
+          {
+            "definition": "继续",
+            "iscorrect": true
+          },
+          {
+            "definition": "类似",
+            "iscorrect": false
+          },
+          {
+            "definition": "总结",
+            "iscorrect": false
+          },
+          {
+            "definition": "辞职",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to scare",
+      "error_analysis": "学生易因形近词“share”（分享）或词根联想“scar”（伤疤）误判“to scare”的含义。",
+      "sentence": "The loud thunder **scared** the little girl, and she started crying.",
+      "options": {
+        "option": [
+          {
+            "definition": "使害怕；惊吓",
+            "iscorrect": true
+          },
+          {
+            "definition": "分享；分担",
+            "iscorrect": false
+          },
+          {
+            "definition": "留下伤疤；使受伤",
+            "iscorrect": false
+          },
+          {
+            "definition": "关心；在意",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

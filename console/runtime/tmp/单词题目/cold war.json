@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cold war",
+      "error_analysis": "学生易将“cold war”直接直译为“寒冷的战争”（词根/字面误导），或因“cold”与“old”形近而误解为“旧战争”（形近词干扰）",
+      "sentence": "The **cold war** between the US and the Soviet Union lasted from the late 1940s to the early 1990s, marked by political rivalry and proxy battles instead of direct military fights.",
+      "options": {
+        "option": [
+          {
+            "definition": "冷战（指二战后美苏等国之间的非直接军事对抗）",
+            "iscorrect": true
+          },
+          {
+            "definition": "寒冷的战争（在低温环境中进行的军事冲突）",
+            "iscorrect": false
+          },
+          {
+            "definition": "旧战争（过去发生的历史战争）",
+            "iscorrect": false
+          },
+          {
+            "definition": "冷淡的战争（双方态度冷漠的冲突）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

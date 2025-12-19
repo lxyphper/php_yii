@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to contend",
+      "error_analysis": "易与形近词“content”（内容/满足的）混淆，或因词根“tend”（趋向/照料）误猜为“照料”或“趋向”",
+      "sentence": "Many athletes will **contend** for the gold medal in the upcoming Olympics.",
+      "options": {
+        "option": [
+          {
+            "definition": "竞争；争夺",
+            "iscorrect": true
+          },
+          {
+            "definition": "内容；满足的",
+            "iscorrect": false
+          },
+          {
+            "definition": "照料；趋向",
+            "iscorrect": false
+          },
+          {
+            "definition": "控制；管理",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

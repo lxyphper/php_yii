@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to regret",
+      "error_analysis": "易将“regret”与形近词“regard”混淆（误作“看待/尊重”），或因“re-”词根误解为“再次做某事”",
+      "sentence": "She **regretted** not studying harder for the exam when she saw her low score.",
+      "options": {
+        "option": [
+          {
+            "definition": "后悔；遗憾",
+            "iscorrect": true
+          },
+          {
+            "definition": "看待；尊重",
+            "iscorrect": false
+          },
+          {
+            "definition": "再次做某事",
+            "iscorrect": false
+          },
+          {
+            "definition": "忘记；遗忘",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

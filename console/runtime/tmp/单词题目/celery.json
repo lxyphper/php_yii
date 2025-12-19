@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "celery",
+      "error_analysis": "易因形近词\"celebrity\"(名人)或词根\"cell\"(细胞)的误导，将\"celery\"错误联想为\"名人\"或\"细胞相关事物\"",
+      "sentence": "She diced the **celery** and mixed it with carrots and lettuce to make a fresh salad.",
+      "options": {
+        "option": [
+          {
+            "definition": "名人",
+            "iscorrect": false
+          },
+          {
+            "definition": "细胞群",
+            "iscorrect": false
+          },
+          {
+            "definition": "芹菜",
+            "iscorrect": true
+          },
+          {
+            "definition": "细胞店",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

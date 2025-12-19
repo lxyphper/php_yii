@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "valet",
+      "error_analysis": "学生易因形近词“value”（价值）或词根“val”（强）误导，将“valet”错误理解为“价值”或“强壮的人”",
+      "sentence": "When we arrived at the luxury hotel, a **valet** immediately came over to take our car and park it for us.",
+      "options": {
+        "option": [
+          {
+            "definition": "（酒店/餐厅的）停车服务员；贴身男仆",
+            "iscorrect": true
+          },
+          {
+            "definition": "价值；重要性",
+            "iscorrect": false
+          },
+          {
+            "definition": "强壮的人；有力的支持者",
+            "iscorrect": false
+          },
+          {
+            "definition": "服务员；侍者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "frequently",
+      "error_analysis": "学生易因形近词\"frequency\"（频率）及\"frequent\"（频繁的）的干扰，将副词\"frequently\"误理解为\"频率\"或\"频繁的\"。",
+      "sentence": "She **frequently** goes to the gym after work to stay healthy.",
+      "options": {
+        "option": [
+          {
+            "definition": "频繁地；经常地",
+            "iscorrect": true
+          },
+          {
+            "definition": "频率",
+            "iscorrect": false
+          },
+          {
+            "definition": "频繁的",
+            "iscorrect": false
+          },
+          {
+            "definition": "最近地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

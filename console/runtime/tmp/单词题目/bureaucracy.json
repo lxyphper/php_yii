@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bureaucracy",
+      "error_analysis": "易因形近词bureau（办事处）误解为“办公场所集合”，或因词根-cracy（统治）误判为“高效行政管理”",
+      "sentence": "The company's slow decision-making was blamed on its rigid **bureaucracy**, which required multiple approvals for even small changes.",
+      "options": {
+        "option": [
+          {
+            "definition": "官僚主义；官僚机构",
+            "iscorrect": true
+          },
+          {
+            "definition": "办公场所的集合",
+            "iscorrect": false
+          },
+          {
+            "definition": "民主政体",
+            "iscorrect": false
+          },
+          {
+            "definition": "高效的行政管理系统",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

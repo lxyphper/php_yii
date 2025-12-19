@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "regular",
+      "error_analysis": "易混淆形近词\"regulate\"（调节）误判为\"调节的\"，或词根\"reg\"（统治）误导为\"统治的\"",
+      "sentence": "She goes to the gym for a **regular** workout every Monday and Wednesday.",
+      "options": {
+        "option": [
+          {
+            "definition": "定期的；常规的",
+            "iscorrect": true
+          },
+          {
+            "definition": "调节的",
+            "iscorrect": false
+          },
+          {
+            "definition": "统治的",
+            "iscorrect": false
+          },
+          {
+            "definition": "常见的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "spiral galaxy",
+      "error_analysis": "学生易因形近词混淆（spiral与spire“尖顶”、galaxy与gallery“画廊”）将“spiral galaxy”误判为与“尖顶/螺旋画廊”相关的含义",
+      "sentence": "Our Milky Way, the galaxy containing our solar system, is a well-known **spiral galaxy** with distinct curved arms extending from its center.",
+      "options": {
+        "option": [
+          {
+            "definition": "尖顶画廊",
+            "iscorrect": false
+          },
+          {
+            "definition": "螺旋画廊",
+            "iscorrect": false
+          },
+          {
+            "definition": "椭圆星系",
+            "iscorrect": false
+          },
+          {
+            "definition": "螺旋星系",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

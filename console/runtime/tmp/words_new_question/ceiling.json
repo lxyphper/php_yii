@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ceiling",
+      "error_analysis": "中国学生易因形近词“cell”（细胞）或词根联想“cease”（停止）误判“ceiling”词义。",
+      "sentence": "The cat climbed up to the **ceiling** and knocked over a lamp hanging from it.",
+      "options": {
+        "option": [
+          {
+            "definition": "天花板",
+            "iscorrect": true
+          },
+          {
+            "definition": "细胞",
+            "iscorrect": false
+          },
+          {
+            "definition": "停止的动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "地窖",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

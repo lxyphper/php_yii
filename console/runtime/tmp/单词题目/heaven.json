@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "heaven",
+      "error_analysis": "学生易因形近词“haven”（避难所）混淆，或字面误导将“heaven”误判为“天空”。",
+      "sentence": "After a long day of hiking, the cool, shaded valley felt like **heaven** to the tired travelers.",
+      "options": {
+        "option": [
+          {
+            "definition": "天堂；天国",
+            "iscorrect": true
+          },
+          {
+            "definition": "避难所；安全之地",
+            "iscorrect": false
+          },
+          {
+            "definition": "天空；苍穹",
+            "iscorrect": false
+          },
+          {
+            "definition": "上帝；神",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

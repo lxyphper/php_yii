@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to build",
+      "error_analysis": "中国学生易将“to build”与形近词“break”（打破）混淆，或误猜为“bully”（欺负）等无关含义",
+      "sentence": "The workers will **build** a new school in the village next year.",
+      "options": {
+        "option": [
+          {
+            "definition": "建造；建立（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "打破；弄坏",
+            "iscorrect": false
+          },
+          {
+            "definition": "欺负；恐吓",
+            "iscorrect": false
+          },
+          {
+            "definition": "身体构造；体型",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

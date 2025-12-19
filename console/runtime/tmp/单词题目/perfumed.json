@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "perfumed",
+      "error_analysis": "学生易将形近词\"performed\"（表演的）与\"perfumed\"混淆，或误将其直译为\"香水的\"而非\"有香味的\"",
+      "sentence": "She bought a bottle of **perfumed** lotion that smelled like lavender.",
+      "options": {
+        "option": [
+          {
+            "definition": "表演的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有香味的",
+            "iscorrect": true
+          },
+          {
+            "definition": "香水的",
+            "iscorrect": false
+          },
+          {
+            "definition": "预先形成的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

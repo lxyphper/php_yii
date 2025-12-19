@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "cheseburger",
+      "cheezeburger",
+      "cheeseburgar",
+      "cheesebuger",
+      "cheeseburgur"
+    ],
+    "correct_chunks": [
+      "chees",
+      "bur",
+      "ger"
+    ],
+    "distractor_chunks": [
+      "chese",
+      "cheez",
+      "bug",
+      "gar",
+      "gur"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "big",
+      "error_analysis": "中国学生易因形近词（如bag、pig）混淆“big”的核心词义",
+      "sentence": "The elephant is a **big** animal that lives in Africa and Asia.",
+      "options": {
+        "option": [
+          {
+            "definition": "大的",
+            "iscorrect": true
+          },
+          {
+            "definition": "包",
+            "iscorrect": false
+          },
+          {
+            "definition": "猪",
+            "iscorrect": false
+          },
+          {
+            "definition": "小的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

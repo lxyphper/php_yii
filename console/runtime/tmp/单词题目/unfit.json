@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unfit",
+      "error_analysis": "中国学生易因形近词“unfair”（不公平的）混淆“unfit”含义，或因词根“fit”过度直译而忽略其“身体不健康的”常见义。",
+      "sentence": "After months of sitting at a desk all day, Lisa became **unfit** and struggled to climb a flight of stairs.",
+      "options": {
+        "option": [
+          {
+            "definition": "不公平的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不适合的",
+            "iscorrect": false
+          },
+          {
+            "definition": "身体不健康的；体能差的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不熟悉的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "inmoderate",
+      "immodrate",
+      "immoderete",
+      "imadrate"
+    ],
+    "correct_chunks": [
+      "im-",
+      "mod-",
+      "er-",
+      "ate"
+    ],
+    "distractor_chunks": [
+      "in-",
+      "modr-",
+      "ete",
+      "mad-"
+    ]
+  },
+  0
+]

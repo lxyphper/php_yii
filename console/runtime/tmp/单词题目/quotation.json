@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "quotation",
+      "error_analysis": "中国学生易因形近词“quote”（动词“引用”）误将“quotation”理解为动词性“引用行为”，或因词根“quot-”（多少）误理解为“报价”。",
+      "sentence": "The teacher asked us to find a **quotation** from the novel that supports our argument.",
+      "options": {
+        "option": [
+          {
+            "definition": "引语，引文（从书籍、演讲等中摘取并重复使用的话语）",
+            "iscorrect": true
+          },
+          {
+            "definition": "引用（动词，指使用他人话语的行为）",
+            "iscorrect": false
+          },
+          {
+            "definition": "报价，估价（关于某事物价格的陈述）",
+            "iscorrect": false
+          },
+          {
+            "definition": "符号，标记（如数学或音乐中的符号）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

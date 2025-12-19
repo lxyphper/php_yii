@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "railroad",
+      "error_analysis": "学生可能根据“rail”（铁轨）和“road”（路）的词根，仅识别出名词“铁路”的含义，而忽略动词“强迫、匆忙推行”的用法",
+      "sentence": "The manager decided to **railroad** the proposal through the meeting before anyone could object.",
+      "options": {
+        "option": [
+          {
+            "definition": "铁路（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "强迫（提案等）匆忙通过",
+            "iscorrect": true
+          },
+          {
+            "definition": "铁轨维修",
+            "iscorrect": false
+          },
+          {
+            "definition": "道路建设",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ethnocentrism",
+      "error_analysis": "学生易因词根“ethno-”（民族）和“-centrism”（中心主义）的过度直译将其误解为“民族的核心区域”，或因形近词“ethics”（伦理）误判为“伦理中心主义”。",
+      "sentence": "Many sociologists argue that **ethnocentrism** often leads to prejudice against people from different cultural backgrounds.",
+      "options": {
+        "option": [
+          {
+            "definition": "种族中心主义（认为本民族优于其他民族的观念）",
+            "iscorrect": true
+          },
+          {
+            "definition": "民族的核心区域或集中点",
+            "iscorrect": false
+          },
+          {
+            "definition": "伦理中心主义（以伦理道德为核心的思想）",
+            "iscorrect": false
+          },
+          {
+            "definition": "多元文化主义（尊重不同文化的理念）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

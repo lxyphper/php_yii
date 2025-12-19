@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to commute",
+      "error_analysis": "学生易因形近词\"compute\"(计算)或词根\"交换\"的误导，将\"to commute\"错误理解为\"计算\"或\"交换\"，而非核心义\"通勤\"。",
+      "sentence": "She **commutes** 40 minutes by subway from her apartment to the office every weekday.",
+      "options": {
+        "option": [
+          {
+            "definition": "计算",
+            "iscorrect": false
+          },
+          {
+            "definition": "通勤（每天往返于工作地点和家之间）",
+            "iscorrect": true
+          },
+          {
+            "definition": "交换；兑换",
+            "iscorrect": false
+          },
+          {
+            "definition": "沟通；交流",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

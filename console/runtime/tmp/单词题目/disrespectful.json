@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "disrespectful",
+      "error_analysis": "学生易因形近词（如\"disregardful\"）或词根/字面误导（将\"dis-\"否定前缀与其他否定形容词混淆），将\"disrespectful\"误解为\"漠视的\"或\"不负责任的\"",
+      "sentence": "It’s **disrespectful** to talk loudly while the teacher is speaking in class.",
+      "options": {
+        "option": [
+          {
+            "definition": "不尊重的；无礼的",
+            "iscorrect": true
+          },
+          {
+            "definition": "漠视的；不重视的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不负责任的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不服从的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

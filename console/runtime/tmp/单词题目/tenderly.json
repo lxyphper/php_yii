@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tenderly",
+      "error_analysis": "学生易因`tender`的“嫩”义将`tenderly`误理解为“嫩地”，或因形近词`tensely`混淆为“紧张地”",
+      "sentence": "She stroked her baby's cheek **tenderly** as he fell asleep.",
+      "options": {
+        "option": [
+          {
+            "definition": "温柔地；体贴地",
+            "iscorrect": true
+          },
+          {
+            "definition": "嫩地；柔软地",
+            "iscorrect": false
+          },
+          {
+            "definition": "倾向地；趋向地",
+            "iscorrect": false
+          },
+          {
+            "definition": "紧张地；焦虑地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

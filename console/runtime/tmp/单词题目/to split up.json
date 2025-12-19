@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to split up",
+      "error_analysis": "学生易因“split”的“劈开”义与“up”的方向义结合，错误理解为“物理上的分开”，而非“情侣分手或组织解散”",
+      "sentence": "Sarah cried for hours when she found out her boyfriend wanted to **split up** after three years together.",
+      "options": {
+        "option": [
+          {
+            "definition": "（情侣）分手；结束恋爱关系",
+            "iscorrect": true
+          },
+          {
+            "definition": "物理上的劈开或分开（如把蛋糕切成小块）",
+            "iscorrect": false
+          },
+          {
+            "definition": "向上分裂或竖起（如把木头劈成两半向上）",
+            "iscorrect": false
+          },
+          {
+            "definition": "继续维持关系",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

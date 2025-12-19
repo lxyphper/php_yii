@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "interogate",
+      "interragate",
+      "interroggate",
+      "interreogate",
+      "interrogeit"
+    ],
+    "correct_chunks": [
+      "inter",
+      "rog",
+      "ate"
+    ],
+    "distractor_chunks": [
+      "intero",
+      "rag",
+      "rogg",
+      "geit",
+      "interr"
+    ]
+  },
+  0
+]

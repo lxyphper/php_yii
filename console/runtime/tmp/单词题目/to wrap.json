@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to wrap",
+      "error_analysis": "中国学生易因形近词“rap”（说唱）或“warp”（弯曲）的同音/拼写相似性，将“wrap”误判为“说唱”或“使弯曲”",
+      "sentence": "Before the party, Mom asked me to **wrap** the cake in aluminum foil to keep it fresh.",
+      "options": {
+        "option": [
+          {
+            "definition": "包裹；包装",
+            "iscorrect": true
+          },
+          {
+            "definition": "说唱（一首歌曲）",
+            "iscorrect": false
+          },
+          {
+            "definition": "使弯曲；扭曲",
+            "iscorrect": false
+          },
+          {
+            "definition": "鞭打；抽打",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

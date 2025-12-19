@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "reptile",
+      "error_analysis": "中国学生易因形近词“recipe”（食谱）或词根“rept”（爬行）的误解，将“reptile”误判为“食谱”或“爬行的昆虫”。",
+      "sentence": "Lizards and snakes belong to the group of animals called **reptiles**, which are cold-blooded and have dry, scaly skin.",
+      "options": {
+        "option": [
+          {
+            "definition": "食谱",
+            "iscorrect": false
+          },
+          {
+            "definition": "爬行的昆虫",
+            "iscorrect": false
+          },
+          {
+            "definition": "小型哺乳动物",
+            "iscorrect": false
+          },
+          {
+            "definition": "爬行动物",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

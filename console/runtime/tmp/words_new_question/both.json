@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "both",
+      "error_analysis": "学生易将“both”（两者都）与形近词“bath”（洗澡）混淆，或误用于三者及以上的场景",
+      "sentence": "My parents **both** like hiking, so we often go to the mountains on weekends.",
+      "options": {
+        "option": [
+          {
+            "definition": "两者都",
+            "iscorrect": true
+          },
+          {
+            "definition": "洗澡",
+            "iscorrect": false
+          },
+          {
+            "definition": "所有（三者及以上）",
+            "iscorrect": false
+          },
+          {
+            "definition": "每个",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

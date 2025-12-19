@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "erosion",
+      "error_analysis": "学生易因形近词“eruption”（爆发）的干扰，或词根“ero-”与“erotic”（色情）的联想，将“erosion”错误理解为“爆发”或“色情相关状态”",
+      "sentence": "The heavy rain has accelerated the **erosion** of the hillside, washing away large amounts of soil.",
+      "options": {
+        "option": [
+          {
+            "definition": "侵蚀；腐蚀（尤指自然力所致）",
+            "iscorrect": true
+          },
+          {
+            "definition": "爆发；喷发",
+            "iscorrect": false
+          },
+          {
+            "definition": "色情；情欲",
+            "iscorrect": false
+          },
+          {
+            "definition": "错误；过失",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

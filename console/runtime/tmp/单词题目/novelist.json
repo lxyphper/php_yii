@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "novelist",
+      "error_analysis": "易因形近词\"novice\"(新手)或\"novel\"(新奇)的字面义误导，将\"novelist\"误理解为\"新手\"或\"追求新奇的人\"",
+      "sentence": "Harper Lee, the **novelist** who wrote *To Kill a Mockingbird*, won the Pulitzer Prize for Fiction in 1961.",
+      "options": {
+        "option": [
+          {
+            "definition": "小说家",
+            "iscorrect": true
+          },
+          {
+            "definition": "新手；初学者",
+            "iscorrect": false
+          },
+          {
+            "definition": "追求新奇的人；喜欢新鲜事物的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "小说爱好者；喜欢读小说的人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cube",
+      "error_analysis": "中国学生易将\"cube\"误联想为形近词\"cute\"（可爱的），或混淆其名词\"立方体\"与动词\"立方\"的含义",
+      "sentence": "The child played with a red **cube** that could be stacked with other blocks.",
+      "options": {
+        "option": [
+          {
+            "definition": "立方体",
+            "iscorrect": true
+          },
+          {
+            "definition": "可爱的",
+            "iscorrect": false
+          },
+          {
+            "definition": "立方（数学运算）",
+            "iscorrect": false
+          },
+          {
+            "definition": "杯子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

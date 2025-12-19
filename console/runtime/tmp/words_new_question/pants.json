@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pants",
+      "error_analysis": "学生易混淆形近词“pant”（喘气），误将“pants”理解为“喘气”的复数或相关动作",
+      "sentence": "He put on his blue **pants** before heading to the office.",
+      "options": {
+        "option": [
+          {
+            "definition": "长裤（美式英语中常见的下装）",
+            "iscorrect": true
+          },
+          {
+            "definition": "喘气（急促呼吸的动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "锅（烹饪用的金属容器）",
+            "iscorrect": false
+          },
+          {
+            "definition": "短裤（长度至膝盖以上的下装）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lithe",
+      "error_analysis": "学生易因形近词“little”（小的）或发音联想“light”（轻的），误将“lithe”理解为“小的”或“轻的”。",
+      "sentence": "The ballet dancer moved with **lithe** grace across the stage, her body bending and twisting effortlessly.",
+      "options": {
+        "option": [
+          {
+            "definition": "小的",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻的",
+            "iscorrect": false
+          },
+          {
+            "definition": "柔软灵活的（形容身体或动作）",
+            "iscorrect": true
+          },
+          {
+            "definition": "活泼的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

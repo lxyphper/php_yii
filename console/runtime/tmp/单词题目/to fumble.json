@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to fumble",
+      "error_analysis": "学生易因形近词“mumble”（咕哝）误将“to fumble”理解为“含糊地说”。",
+      "sentence": "When she woke up in the dark, she **fumbled** for the light switch on the wall.",
+      "options": {
+        "option": [
+          {
+            "definition": "（用手）摸索；笨拙地寻找/处理",
+            "iscorrect": true
+          },
+          {
+            "definition": "咕哝；含糊地说",
+            "iscorrect": false
+          },
+          {
+            "definition": "笨拙地行走；跌跌撞撞",
+            "iscorrect": false
+          },
+          {
+            "definition": "冒烟；发出气味",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

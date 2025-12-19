@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unleaded",
+      "error_analysis": "学生易因形近词unloaded（卸载的）或词根lead（引导）误导，将unleaded误解为“卸载的”或“未被引导的”",
+      "sentence": "Please fill up the tank with **unleaded** gasoline; it's better for the environment.",
+      "options": {
+        "option": [
+          {
+            "definition": "无铅的",
+            "iscorrect": true
+          },
+          {
+            "definition": "卸载的",
+            "iscorrect": false
+          },
+          {
+            "definition": "未被引导的",
+            "iscorrect": false
+          },
+          {
+            "definition": "未被释放的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

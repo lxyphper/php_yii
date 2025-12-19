@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fourteen",
+      "error_analysis": "易因形近词\"fourth\"混淆为\"第四\"，或错误拆分\"four+teen\"理解为\"四个青少年\"",
+      "sentence": "There are **fourteen** students in our English class this semester.",
+      "options": {
+        "option": [
+          {
+            "definition": "十四（基数词，14）",
+            "iscorrect": true
+          },
+          {
+            "definition": "第四（序数词，第4）",
+            "iscorrect": false
+          },
+          {
+            "definition": "四个青少年",
+            "iscorrect": false
+          },
+          {
+            "definition": "第十四（序数词，第14）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

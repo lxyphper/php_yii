@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fox",
+      "error_analysis": "因形近词\"box\"（盒子）或\"fix\"（修理）产生错误联想",
+      "sentence": "The **fox** sneaked into the chicken coop to steal some eggs.",
+      "options": {
+        "option": [
+          {
+            "definition": "狐狸",
+            "iscorrect": true
+          },
+          {
+            "definition": "盒子",
+            "iscorrect": false
+          },
+          {
+            "definition": "修理",
+            "iscorrect": false
+          },
+          {
+            "definition": "雾",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

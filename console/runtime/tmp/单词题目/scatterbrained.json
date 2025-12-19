@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "scatterbrained",
+      "error_analysis": "学生易因\"scatter\"(分散)和\"brain\"(大脑)的字面组合，误将\"scatterbrained\"理解为\"思维敏捷的\"或\"多才多艺的\"。",
+      "sentence": "My sister is so **scatterbrained** that she forgot her keys three times this week and even left her phone in the supermarket yesterday.",
+      "options": {
+        "option": [
+          {
+            "definition": "心不在焉的；丢三落四的",
+            "iscorrect": true
+          },
+          {
+            "definition": "思维敏捷的；多才多艺的",
+            "iscorrect": false
+          },
+          {
+            "definition": "混乱的；无组织的（形容事物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "聪明的；有才智的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

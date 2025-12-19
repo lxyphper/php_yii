@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "high",
+      "error_analysis": "中国学生易因形近词（如hike/hide）混淆“high”的含义，或误将其理解为“高兴的”（hi的延伸）。",
+      "sentence": "That’s a **high** building—you can see the whole city from the top.",
+      "options": {
+        "option": [
+          {
+            "definition": "高的",
+            "iscorrect": true
+          },
+          {
+            "definition": "徒步旅行的",
+            "iscorrect": false
+          },
+          {
+            "definition": "高兴的",
+            "iscorrect": false
+          },
+          {
+            "definition": "隐藏的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

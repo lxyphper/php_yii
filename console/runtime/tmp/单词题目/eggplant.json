@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "eggplant",
+      "error_analysis": "学生易通过词根“egg”（鸡蛋）和“plant”（植物）的字面组合，错误理解为“鸡蛋植物”或“蛋形蔬菜”，而非其核心词义“茄子”。",
+      "sentence": "I bought some fresh **eggplant** from the market to make stir-fried dishes tonight.",
+      "options": {
+        "option": [
+          {
+            "definition": "茄子",
+            "iscorrect": true
+          },
+          {
+            "definition": "鸡蛋植物",
+            "iscorrect": false
+          },
+          {
+            "definition": "蛋形蔬菜",
+            "iscorrect": false
+          },
+          {
+            "definition": "番茄",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

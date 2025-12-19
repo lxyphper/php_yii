@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "surrender",
+      "error_analysis": "中国学生易因形近词`surround`（包围）和词根`render`（提供）的误导，将`surrender`错误理解为“包围”或“超额提供”。",
+      "sentence": "After being surrounded for three days, the troops had no choice but to **surrender**.",
+      "options": {
+        "option": [
+          {
+            "definition": "包围",
+            "iscorrect": false
+          },
+          {
+            "definition": "超额提供",
+            "iscorrect": false
+          },
+          {
+            "definition": "投降",
+            "iscorrect": true
+          },
+          {
+            "definition": "渲染",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

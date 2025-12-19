@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "checkout",
+      "error_analysis": "学生易将\"checkout\"拆分为\"check\"（检查）和\"out\"（出去）误理解为\"检查离开\"，或与形近词\"checkup\"（体检）混淆。",
+      "sentence": "After picking up all the groceries, she headed to the **checkout** to pay for them.",
+      "options": {
+        "option": [
+          {
+            "definition": "（超市等的）收银台；结账流程",
+            "iscorrect": true
+          },
+          {
+            "definition": "体检",
+            "iscorrect": false
+          },
+          {
+            "definition": "检查离开",
+            "iscorrect": false
+          },
+          {
+            "definition": "登记入住",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

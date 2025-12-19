@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "upheat",
+      "error_analysis": "学生易因形近词\"uphold\"(支持)混淆词义，或因\"up-\"+\"heat\"字面推导为\"向上加热\"而误判",
+      "sentence": "The chef will **upheat** the soup gently to bring out its flavor before serving.",
+      "options": {
+        "option": [
+          {
+            "definition": "加热；使变热",
+            "iscorrect": true
+          },
+          {
+            "definition": "支持；维持",
+            "iscorrect": false
+          },
+          {
+            "definition": "向上加热",
+            "iscorrect": false
+          },
+          {
+            "definition": "冷却；降温",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

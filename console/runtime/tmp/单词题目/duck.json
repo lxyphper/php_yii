@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "duck",
+      "error_analysis": "学生易因形近词（如duke/dock）误判为“公爵”“码头”，或因字面联想误判为“游泳”（以为是鸭子的动作）",
+      "sentence": "The little girl fed the **duck** some bread by the pond.",
+      "options": {
+        "option": [
+          {
+            "definition": "鸭子",
+            "iscorrect": true
+          },
+          {
+            "definition": "公爵",
+            "iscorrect": false
+          },
+          {
+            "definition": "码头",
+            "iscorrect": false
+          },
+          {
+            "definition": "游泳",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

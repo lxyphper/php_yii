@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "attractive",
+      "error_analysis": "中国学生易将“attractive”（有吸引力的，主动）与形近词“attracted”（被吸引的，被动）混淆，误选“被吸引的”。",
+      "sentence": "Her smile is so **attractive** that everyone wants to talk to her.",
+      "options": {
+        "option": [
+          {
+            "definition": "有吸引力的",
+            "iscorrect": true
+          },
+          {
+            "definition": "被吸引的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可达到的",
+            "iscorrect": false
+          },
+          {
+            "definition": "活跃的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

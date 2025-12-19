@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "marine",
+      "error_analysis": "学生易因形近词'marry'（婚姻的）或词根'mar'（损坏）的误导，将'marine'误判为与婚姻或损坏相关的含义。",
+      "sentence": "The aquarium has a large tank for **marine** life like tropical fish and coral.",
+      "options": {
+        "option": [
+          {
+            "definition": "海的；海洋的",
+            "iscorrect": true
+          },
+          {
+            "definition": "婚姻的；与结婚相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "损坏的；有缺陷的",
+            "iscorrect": false
+          },
+          {
+            "definition": "主要的；最重要的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

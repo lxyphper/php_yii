@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "coping mechanism",
+      "error_analysis": "学生易因\"coping\"与\"copy\"形近误解为\"复制机制\"，或因\"mechanism\"字面义误判为\"应对的机械装置\"",
+      "sentence": "After losing her job, Sarah developed a **coping mechanism** of journaling every evening to manage her anxiety.",
+      "options": {
+        "option": [
+          {
+            "definition": "应对机制（指应对压力或困难的策略或方法）",
+            "iscorrect": true
+          },
+          {
+            "definition": "复制机制（如复制文件或数据的流程）",
+            "iscorrect": false
+          },
+          {
+            "definition": "机械应对装置（如用于应对问题的机械工具）",
+            "iscorrect": false
+          },
+          {
+            "definition": "合作机制（如团队协作的流程）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

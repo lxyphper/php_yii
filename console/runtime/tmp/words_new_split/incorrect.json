@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "imcorrect",
+      "uncorrect",
+      "incarrect",
+      "incerrect",
+      "incorract"
+    ],
+    "correct_chunks": [
+      "in",
+      "cor",
+      "rect"
+    ],
+    "distractor_chunks": [
+      "im",
+      "un",
+      "car",
+      "cer",
+      "ract"
+    ]
+  },
+  0
+]

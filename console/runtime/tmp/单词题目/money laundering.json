@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "money laundering",
+      "error_analysis": "学生易因\"laundering\"的字面意思（洗）或形近词\"lending\"（放贷）误解为\"清洗货币\"或\"放贷\"",
+      "sentence": "The police arrested several suspects for operating a **money laundering** scheme that turned drug dealers' illegal profits into legitimate business earnings.",
+      "options": {
+        "option": [
+          {
+            "definition": "洗钱（将非法所得通过各种手段转化为合法收入的行为）",
+            "iscorrect": true
+          },
+          {
+            "definition": "放贷（借出资金以获取利息的行为）",
+            "iscorrect": false
+          },
+          {
+            "definition": "清洗货币（如清洁脏污的纸币或硬币）",
+            "iscorrect": false
+          },
+          {
+            "definition": "货币兑换（将一种货币转换为另一种货币的行为）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

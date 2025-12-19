@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "passionately",
+      "error_analysis": "易混淆形近副词（如patiently/被动地）或误将词根passion（激情）与passive（被动）关联，导致理解为“耐心地”或“被动地”",
+      "sentence": "She talked **passionately** about her favorite book, her eyes lighting up with excitement as she described the characters.",
+      "options": {
+        "option": [
+          {
+            "definition": "热情地；热烈地",
+            "iscorrect": true
+          },
+          {
+            "definition": "耐心地",
+            "iscorrect": false
+          },
+          {
+            "definition": "被动地",
+            "iscorrect": false
+          },
+          {
+            "definition": "暂时地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

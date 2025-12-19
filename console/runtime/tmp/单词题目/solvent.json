@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "solvent",
+      "error_analysis": "学生易因词根“solv-”（解决）或形近“solve”误以为“solvent”是“解决者”或“解决方法”",
+      "sentence": "Water is a common **solvent** that can dissolve many substances like salt and sugar.",
+      "options": {
+        "option": [
+          {
+            "definition": "溶剂",
+            "iscorrect": true
+          },
+          {
+            "definition": "解决者",
+            "iscorrect": false
+          },
+          {
+            "definition": "解决方法",
+            "iscorrect": false
+          },
+          {
+            "definition": "溶解的状态",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

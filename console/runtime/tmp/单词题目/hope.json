@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hope",
+      "error_analysis": "学生易因形近词“rope”（绳子）或“hop”（跳跃）的拼写/发音相似而误判“hope”的核心词义“希望”",
+      "sentence": "After the rain stopped, the farmers felt a renewed **hope** for a good harvest.",
+      "options": {
+        "option": [
+          {
+            "definition": "希望",
+            "iscorrect": true
+          },
+          {
+            "definition": "绳子",
+            "iscorrect": false
+          },
+          {
+            "definition": "跳跃",
+            "iscorrect": false
+          },
+          {
+            "definition": "帮助",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

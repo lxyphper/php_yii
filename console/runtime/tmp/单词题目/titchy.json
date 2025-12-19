@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "titchy",
+      "error_analysis": "学生易将'titchy'与形近词'itchy'(痒的)、'witchy'(女巫似的)混淆，或根据词根'titch'(小个子)误判为\"小个子的\"",
+      "sentence": "The new café has a **titchy** seating area, just enough for two people to sit comfortably.",
+      "options": {
+        "option": [
+          {
+            "definition": "极小的",
+            "iscorrect": true
+          },
+          {
+            "definition": "痒的",
+            "iscorrect": false
+          },
+          {
+            "definition": "女巫似的",
+            "iscorrect": false
+          },
+          {
+            "definition": "小个子的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

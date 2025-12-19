@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "outre",
+      "error_analysis": "学生易因形近词\"outer\"（外面的）产生误解，或通过\"outrage\"（愤怒）词根推导为\"令人愤怒的\"",
+      "sentence": "Her choice of a neon-green wedding dress was considered quite **outre** by her conservative family.",
+      "options": {
+        "option": [
+          {
+            "definition": "过分的；奇异的",
+            "iscorrect": true
+          },
+          {
+            "definition": "外面的；外部的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人愤怒的；愤慨的",
+            "iscorrect": false
+          },
+          {
+            "definition": "杰出的；显著的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

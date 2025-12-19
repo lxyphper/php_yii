@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Doctor of Philosophy",
+      "error_analysis": "将“Doctor of Philosophy”字面直译为“哲学医生”（从事哲学领域的医学从业者），而非其核心含义“哲学博士”（学术学位）",
+      "sentence": "After years of researching environmental ethics, Li was awarded a **Doctor of Philosophy** from Oxford University for her work on sustainable development.",
+      "options": {
+        "option": [
+          {
+            "definition": "哲学博士（学术学位）",
+            "iscorrect": true
+          },
+          {
+            "definition": "哲学医生（研究哲学的医学工作者）",
+            "iscorrect": false
+          },
+          {
+            "definition": "医学博士（专攻哲学方向）",
+            "iscorrect": false
+          },
+          {
+            "definition": "哲学教授（大学里教哲学的教师）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

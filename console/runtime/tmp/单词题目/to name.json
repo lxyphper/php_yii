@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to name",
+      "error_analysis": "学生易因形近词\"tame\"（驯服）产生误解，或因\"name\"名词义（名字）字面推导为\"提到…的名字\"",
+      "sentence": "The zookeepers will **name** the new panda cub after a famous Chinese scientist.",
+      "options": {
+        "option": [
+          {
+            "definition": "给…取名；命名",
+            "iscorrect": true
+          },
+          {
+            "definition": "驯服；使温顺",
+            "iscorrect": false
+          },
+          {
+            "definition": "提到…的名字；提及",
+            "iscorrect": false
+          },
+          {
+            "definition": "责备；指责",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

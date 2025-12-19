@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "blistering",
+      "error_analysis": "学生易因词根“blister”（水疱）误判为“起水疱的”，或因形近词“glistering”（闪闪发光的）混淆词义。",
+      "sentence": "The marathon runners struggled to finish under the **blistering** sun, with temperatures reaching 40°C.",
+      "options": {
+        "option": [
+          {
+            "definition": "闪闪发光的",
+            "iscorrect": false
+          },
+          {
+            "definition": "起水疱的",
+            "iscorrect": false
+          },
+          {
+            "definition": "极热的；猛烈的",
+            "iscorrect": true
+          },
+          {
+            "definition": "咆哮的；狂暴的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

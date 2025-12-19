@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cybersecurity",
+      "error_analysis": "学生易因不熟悉前缀“cyber-”（网络的），将“cybersecurity”误拆为“cycle”（周期）+“security”（安全），或误以为是“电脑硬件安全”。",
+      "sentence": "With the rise of online shopping, **cybersecurity** has become a top priority for both companies and consumers.",
+      "options": {
+        "option": [
+          {
+            "definition": "网络安全（指计算机网络或电子系统的安全）",
+            "iscorrect": true
+          },
+          {
+            "definition": "周期安全（指事物发展周期中的安全）",
+            "iscorrect": false
+          },
+          {
+            "definition": "电脑硬件安全（指计算机物理设备的安全）",
+            "iscorrect": false
+          },
+          {
+            "definition": "城市安全（指城市环境中的安全）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "insecurity",
+      "error_analysis": "易因形近词\"insincerity\"(不真诚)混淆，或因词根\"secure\"(确信的)过度直译误理解为\"不确信\"",
+      "sentence": "Her constant need for praise revealed her deep-seated **insecurity** about her abilities.",
+      "options": {
+        "option": [
+          {
+            "definition": "不安全感（情感上的不稳定或对自身价值的担忧）",
+            "iscorrect": true
+          },
+          {
+            "definition": "不真诚（对他人的虚假或不诚实）",
+            "iscorrect": false
+          },
+          {
+            "definition": "不确信（对某事的不确定或怀疑）",
+            "iscorrect": false
+          },
+          {
+            "definition": "不保险（没有购买保险的状态）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

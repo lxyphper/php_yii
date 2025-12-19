@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to demean",
+      "error_analysis": "学生易因形近词“demand”（要求）产生联想，或因“mean”（刻薄）的字面义误判为“使变得刻薄”。",
+      "sentence": "His rude comments about her work were intended to **demean** her in front of the entire team.",
+      "options": {
+        "option": [
+          {
+            "definition": "要求；需要",
+            "iscorrect": false
+          },
+          {
+            "definition": "使变得刻薄；对…刻薄",
+            "iscorrect": false
+          },
+          {
+            "definition": "贬低；使丢脸",
+            "iscorrect": true
+          },
+          {
+            "definition": "解释；意味着",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

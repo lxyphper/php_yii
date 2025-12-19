@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sand",
+      "error_analysis": "中国学生易因形近词“send”（发送）、“sandwich”（三明治）的无关含义或动词僻义“用砂纸擦”产生错误理解。",
+      "sentence": "The children built a castle with **sand** on the beach.",
+      "options": {
+        "option": [
+          {
+            "definition": "发送",
+            "iscorrect": false
+          },
+          {
+            "definition": "三明治",
+            "iscorrect": false
+          },
+          {
+            "definition": "沙子",
+            "iscorrect": true
+          },
+          {
+            "definition": "用砂纸擦",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

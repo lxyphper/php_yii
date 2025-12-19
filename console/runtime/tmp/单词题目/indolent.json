@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "indolent",
+      "error_analysis": "易混淆形近词\"indulgent\"(纵容的)，或因词根\"dol\"(痛苦)误判为\"不痛苦的\"",
+      "sentence": "Despite having a pile of chores to do, Lisa remained **indolent**, choosing to nap instead of cleaning the house.",
+      "options": {
+        "option": [
+          {
+            "definition": "懒惰的",
+            "iscorrect": true
+          },
+          {
+            "definition": "纵容的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不痛苦的",
+            "iscorrect": false
+          },
+          {
+            "definition": "积极的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

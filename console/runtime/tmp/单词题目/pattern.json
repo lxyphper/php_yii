@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pattern",
+      "error_analysis": "学生易因形近词\"partner\"(伙伴)混淆，或因词根\"pat\"(拍)误导认为是\"拍打动作\"",
+      "sentence": "The artist used a floral **pattern** to decorate the vase, making it look more attractive.",
+      "options": {
+        "option": [
+          {
+            "definition": "伙伴",
+            "iscorrect": false
+          },
+          {
+            "definition": "模式；图案",
+            "iscorrect": true
+          },
+          {
+            "definition": "拍打动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "榜样",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

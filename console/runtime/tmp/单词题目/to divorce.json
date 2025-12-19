@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to divorce",
+      "error_analysis": "学生易因形近词\"diverse\"（不同的）或词根联想\"divide\"（分割）误判，忽略其\"离婚\"的特定含义",
+      "sentence": "After years of unhappiness, Sarah decided to **divorce** her husband and start a new life.",
+      "options": {
+        "option": [
+          {
+            "definition": "离婚（与配偶解除婚姻关系）",
+            "iscorrect": true
+          },
+          {
+            "definition": "使不同；使多样化",
+            "iscorrect": false
+          },
+          {
+            "definition": "分割；划分（如分割财产或领土）",
+            "iscorrect": false
+          },
+          {
+            "definition": "放弃；抛弃（如放弃工作或计划）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

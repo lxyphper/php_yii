@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to yak",
+      "error_analysis": "将动词“to yak”误联想为与名词“yak”（牦牛）相关的动作，如“骑牦牛”或“饲养牦牛”",
+      "sentence": "Sarah and her sister spent the whole afternoon **yaking** about their favorite TV shows instead of doing homework.",
+      "options": {
+        "option": [
+          {
+            "definition": "闲聊；喋喋不休",
+            "iscorrect": true
+          },
+          {
+            "definition": "骑牦牛；饲养牦牛",
+            "iscorrect": false
+          },
+          {
+            "definition": "大声喊叫；叫嚷",
+            "iscorrect": false
+          },
+          {
+            "definition": "抱怨；发牢骚",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

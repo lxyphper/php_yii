@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fashion",
+      "error_analysis": "中国学生易因形近词“passion”（激情）或词根“做”的误导，将“fashion”错误理解为“激情”或“制造”",
+      "sentence": "She has always been interested in the latest **fashion** trends and often designs her own clothes.",
+      "options": {
+        "option": [
+          {
+            "definition": "时尚；时装界",
+            "iscorrect": true
+          },
+          {
+            "definition": "激情；热情",
+            "iscorrect": false
+          },
+          {
+            "definition": "制造；生产",
+            "iscorrect": false
+          },
+          {
+            "definition": "迷住；使着迷",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

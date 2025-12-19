@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "geometry",
+      "error_analysis": "易混淆形近词geography（地理）及词根geo-（地球）+metry（测量）的错误推导（如地球测量）",
+      "sentence": "In high school, we learn **geometry** to study shapes, angles, and spatial relationships.",
+      "options": {
+        "option": [
+          {
+            "definition": "地理学",
+            "iscorrect": false
+          },
+          {
+            "definition": "几何学",
+            "iscorrect": true
+          },
+          {
+            "definition": "地球测量",
+            "iscorrect": false
+          },
+          {
+            "definition": "地质学",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

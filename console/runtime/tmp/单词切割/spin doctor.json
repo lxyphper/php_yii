@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "spen doctor",
+      "spin dactor",
+      "spin docter",
+      "sping doctor"
+    ],
+    "correct_chunks": [
+      "sp",
+      "in",
+      "doc",
+      "tor"
+    ],
+    "distractor_chunks": [
+      "en",
+      "dac",
+      "tc",
+      "ing"
+    ]
+  },
+  0
+]

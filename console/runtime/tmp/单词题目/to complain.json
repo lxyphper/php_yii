@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to complain",
+      "error_analysis": "易因形近词\"explain\"(解释)、\"compliment\"(表扬)混淆，或词根\"com-+plain\"错误推导为\"共同说明\"",
+      "sentence": "She called the restaurant to **complain** about the cold food she received.",
+      "options": {
+        "option": [
+          {
+            "definition": "抱怨；投诉",
+            "iscorrect": true
+          },
+          {
+            "definition": "解释；说明",
+            "iscorrect": false
+          },
+          {
+            "definition": "共同澄清；说清楚",
+            "iscorrect": false
+          },
+          {
+            "definition": "表扬；称赞",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

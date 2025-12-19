@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "obtuse",
+      "error_analysis": "学生易因形近词“obese”（肥胖的）或“obvious”（明显的）混淆，或词根“ob-”误导，误解“obtuse”的核心义“迟钝的”。",
+      "sentence": "She found his **obtuse** response to her joke frustrating—he didn’t even smile.",
+      "options": {
+        "option": [
+          {
+            "definition": "迟钝的；理解慢的",
+            "iscorrect": true
+          },
+          {
+            "definition": "肥胖的",
+            "iscorrect": false
+          },
+          {
+            "definition": "明显的",
+            "iscorrect": false
+          },
+          {
+            "definition": "阻碍的；妨碍的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "uniquely",
+      "error_analysis": "学生易因形近词\"unlikely\"（不太可能的）误判为\"不太可能地\"，或因词根\"uni-\"（单一）误解为\"统一地\"。",
+      "sentence": "The café **uniquely** serves mooncakes with cheese filling, a taste you won’t find anywhere else in the city.",
+      "options": {
+        "option": [
+          {
+            "definition": "独特地；唯一地",
+            "iscorrect": true
+          },
+          {
+            "definition": "统一地；一致地",
+            "iscorrect": false
+          },
+          {
+            "definition": "不太可能地；未必",
+            "iscorrect": false
+          },
+          {
+            "definition": "通常地；惯常地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

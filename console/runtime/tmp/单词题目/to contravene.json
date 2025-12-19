@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to contravene",
+      "error_analysis": "易因形近词\"convene\"(召集)及词根\"contra-\"(相反)+\"vene\"(来)的字面推导产生错误理解",
+      "sentence": "The company was fined for **contravening** the environmental regulations by dumping toxic waste into the river.",
+      "options": {
+        "option": [
+          {
+            "definition": "召集（会议或活动）",
+            "iscorrect": false
+          },
+          {
+            "definition": "违反（法律或规定）",
+            "iscorrect": true
+          },
+          {
+            "definition": "阻止...到来",
+            "iscorrect": false
+          },
+          {
+            "definition": "支持（观点或决定）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

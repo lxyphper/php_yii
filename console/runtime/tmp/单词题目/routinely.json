@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "routinely",
+      "error_analysis": "学生易因形近词\"route\"(路线)将\"routinely\"误理解为\"路线地/按路线地\"，或因词根\"rout\"(溃败)误判为\"彻底地\"",
+      "sentence": "The office cleaner **routinely** checks the supply closet every morning before starting work.",
+      "options": {
+        "option": [
+          {
+            "definition": "常规地；例行公事地",
+            "iscorrect": true
+          },
+          {
+            "definition": "路线地；按路线地",
+            "iscorrect": false
+          },
+          {
+            "definition": "彻底地；完全地",
+            "iscorrect": false
+          },
+          {
+            "definition": "粗略地；大致地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

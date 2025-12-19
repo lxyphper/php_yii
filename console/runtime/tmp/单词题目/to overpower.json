@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to overpower",
+      "error_analysis": "学生易因“over-”+“power”的词根联想错误理解为“比…更有力量”，或因形近词“overtake”误判为“超过（速度/位置）”",
+      "sentence": "The two guards managed to **overpower** the armed thief before he could escape.",
+      "options": {
+        "option": [
+          {
+            "definition": "制服；压倒（使无法抵抗）",
+            "iscorrect": true
+          },
+          {
+            "definition": "比…更有力量（强调力量上的比较）",
+            "iscorrect": false
+          },
+          {
+            "definition": "超过（速度或位置上的超越）",
+            "iscorrect": false
+          },
+          {
+            "definition": "过度使用权力（滥用权力）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

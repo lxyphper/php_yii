@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "many",
+      "error_analysis": "中国学生易因形近词'man'（男人）混淆，将'many'误理解为'男人'或其复数形式。",
+      "sentence": "Many children in the playground are waiting for their parents.",
+      "options": {
+        "option": [
+          {
+            "definition": "许多（修饰可数名词复数）",
+            "iscorrect": true
+          },
+          {
+            "definition": "男人（man的复数形式）",
+            "iscorrect": false
+          },
+          {
+            "definition": "一些（表示不确定的少量）",
+            "iscorrect": false
+          },
+          {
+            "definition": "任何（用于否定句或疑问句）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

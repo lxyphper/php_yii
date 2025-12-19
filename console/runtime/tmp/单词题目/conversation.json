@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "conversation",
+      "error_analysis": "学生易混淆形近词conservation（保护），或因词根vers-（转）错误联想为“转换”",
+      "sentence": "We had a nice **conversation** about our favorite movies while waiting for the bus.",
+      "options": {
+        "option": [
+          {
+            "definition": "交谈；对话",
+            "iscorrect": true
+          },
+          {
+            "definition": "保护；保存",
+            "iscorrect": false
+          },
+          {
+            "definition": "转换；转变",
+            "iscorrect": false
+          },
+          {
+            "definition": "会议；集会",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

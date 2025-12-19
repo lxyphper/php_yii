@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fat",
+      "error_analysis": "学生易因形近词“fit”（健康的）、“fast”（快的）混淆，或误将形容词“肥胖的”理解为名词“脂肪”。",
+      "sentence": "The little boy became **fat** after eating too much chocolate every day.",
+      "options": {
+        "option": [
+          {
+            "definition": "肥胖的（形容词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "健康的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "脂肪（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "快的（形容词/副词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to surmount",
+      "error_analysis": "学生易因词根“mount”（登上/安装）将“to surmount”错误理解为“登上物体”或“安装设备”，而非其核心义“克服困难”。",
+      "sentence": "After months of practice, he finally managed to **surmount** the technical challenges in his project.",
+      "options": {
+        "option": [
+          {
+            "definition": "登上（山顶）",
+            "iscorrect": false
+          },
+          {
+            "definition": "克服（困难）",
+            "iscorrect": true
+          },
+          {
+            "definition": "安装（设备）",
+            "iscorrect": false
+          },
+          {
+            "definition": "超过（某人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

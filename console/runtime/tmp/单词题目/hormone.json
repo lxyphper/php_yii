@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hormone",
+      "error_analysis": "学生易因形近将\"hormone\"与\"homophone\"（同音词）混淆，或因\"horm-\"联想到\"harm\"（伤害）而猜测为\"伤害性物质\"",
+      "sentence": "The thyroid gland produces a **hormone** that regulates metabolism in the human body.",
+      "options": {
+        "option": [
+          {
+            "definition": "激素",
+            "iscorrect": true
+          },
+          {
+            "definition": "同音词",
+            "iscorrect": false
+          },
+          {
+            "definition": "伤害性物质",
+            "iscorrect": false
+          },
+          {
+            "definition": "家庭用品",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

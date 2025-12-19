@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "(in|by) comparison",
+      "error_analysis": "易因字面直译将\"in/by comparison\"理解为\"在比较中\"，或因形近词\"competition\"混淆为\"通过竞争\"",
+      "sentence": "The new smartphone is fast, but **by comparison**, the old one feels like a dinosaur.",
+      "options": {
+        "option": [
+          {
+            "definition": "相比之下",
+            "iscorrect": true
+          },
+          {
+            "definition": "在比较中",
+            "iscorrect": false
+          },
+          {
+            "definition": "通过竞争",
+            "iscorrect": false
+          },
+          {
+            "definition": "为了比较",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

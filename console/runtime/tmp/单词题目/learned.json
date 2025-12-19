@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "learned",
+      "error_analysis": "学生常将形容词\"learned\"（博学的）误理解为动词过去式的衍生义（如\"学习过的\"）",
+      "sentence": "The professor is a **learned** man who has written several books on ancient history.",
+      "options": {
+        "option": [
+          {
+            "definition": "有学问的，博学的",
+            "iscorrect": true
+          },
+          {
+            "definition": "学习过的",
+            "iscorrect": false
+          },
+          {
+            "definition": "被学习的",
+            "iscorrect": false
+          },
+          {
+            "definition": "善于学习的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

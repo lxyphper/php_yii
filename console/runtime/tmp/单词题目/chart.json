@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "chart",
+      "error_analysis": "学生易受形近词\"chair\"（椅子）干扰，或因词根\"art\"误判为\"艺术相关事物\"",
+      "sentence": "The teacher used a **chart** to display the monthly temperature changes for the city.",
+      "options": {
+        "option": [
+          {
+            "definition": "图表",
+            "iscorrect": true
+          },
+          {
+            "definition": "椅子",
+            "iscorrect": false
+          },
+          {
+            "definition": "艺术作品",
+            "iscorrect": false
+          },
+          {
+            "definition": "推车",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

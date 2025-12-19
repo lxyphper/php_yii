@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lilliputian",
+      "error_analysis": "学生可能因不熟悉《格列佛游记》中“Lilliput”（小人国）的背景，误通过形近词（如“lily”）或字面拆分（如“put”）猜测为与植物、放置相关的含义，而非“极小的”。",
+      "sentence": "The toy store sells a variety of **lilliputian** models, including tiny cars and miniature houses that fit in the palm of your hand.",
+      "options": {
+        "option": [
+          {
+            "definition": "极小的；微型的",
+            "iscorrect": true
+          },
+          {
+            "definition": "与百合有关的；像百合的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可放置的；便于存放的",
+            "iscorrect": false
+          },
+          {
+            "definition": "勤奋的；努力工作的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

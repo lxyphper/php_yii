@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "similar",
+      "error_analysis": "最核心易错点为形近词“familiar”（熟悉的）的干扰，学生易将“similar”误理解为“熟悉的”",
+      "sentence": "The two paintings look **similar**, but one is a copy of the other.",
+      "options": {
+        "option": [
+          {
+            "definition": "相似的",
+            "iscorrect": true
+          },
+          {
+            "definition": "熟悉的",
+            "iscorrect": false
+          },
+          {
+            "definition": "简单的",
+            "iscorrect": false
+          },
+          {
+            "definition": "相同的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

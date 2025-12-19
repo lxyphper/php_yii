@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "relief",
+      "error_analysis": "学生易因形近词“belief”（信仰）的拼写及发音接近而误解“relief”的含义",
+      "sentence": "The medicine gave him some **relief** from the pain.",
+      "options": {
+        "option": [
+          {
+            "definition": "信仰",
+            "iscorrect": false
+          },
+          {
+            "definition": "释放",
+            "iscorrect": false
+          },
+          {
+            "definition": "重复",
+            "iscorrect": false
+          },
+          {
+            "definition": "缓解；安慰",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

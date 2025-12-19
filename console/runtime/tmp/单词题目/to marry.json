@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to marry",
+      "error_analysis": "中国学生易因形近词“merry”（快乐的）或词根“mar”（损坏）产生错误联想，误将“to marry”理解为与“快乐”或“损坏”相关的含义。",
+      "sentence": "After years of dating, Sarah and Tom finally decided to **marry** in their hometown church.",
+      "options": {
+        "option": [
+          {
+            "definition": "结婚；与...结婚",
+            "iscorrect": true
+          },
+          {
+            "definition": "快乐的；愉快的",
+            "iscorrect": false
+          },
+          {
+            "definition": "损坏；破坏",
+            "iscorrect": false
+          },
+          {
+            "definition": "长跑；马拉松",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

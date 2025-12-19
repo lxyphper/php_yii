@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mustache",
+      "error_analysis": "学生易将\"mustache\"拆分为\"must\"（必须）和\"ache\"（疼痛），错误理解为\"必须疼痛\"或\"疼痛的感觉\"（形近词+词根拆分误导）",
+      "sentence": "He stroked his **mustache** gently while listening to the old man's story.",
+      "options": {
+        "option": [
+          {
+            "definition": "嘴唇上方的胡须（八字胡）",
+            "iscorrect": true
+          },
+          {
+            "definition": "必须忍受的疼痛",
+            "iscorrect": false
+          },
+          {
+            "definition": "必须完成的任务",
+            "iscorrect": false
+          },
+          {
+            "definition": "一堆堆叠的物品",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

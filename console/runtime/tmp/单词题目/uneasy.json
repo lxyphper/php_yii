@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "uneasy",
+      "error_analysis": "学生易因\"un-+easy\"的字面组合错误推导为\"不容易的\"，忽略其\"心理不安\"的核心词义",
+      "sentence": "She felt **uneasy** about the upcoming job interview, constantly checking her phone for updates.",
+      "options": {
+        "option": [
+          {
+            "definition": "不安的；焦虑的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不容易的；困难的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不舒适的；难受的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不开心的；难过的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

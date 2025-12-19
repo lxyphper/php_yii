@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to watch",
+      "error_analysis": "中国学生易因形近词混淆，将\"watch\"误联想为\"wash\"（洗）或\"wait\"（等待），导致词义判断错误。",
+      "sentence": "My family likes to **watch** movies together every weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "洗；洗涤",
+            "iscorrect": false
+          },
+          {
+            "definition": "等待；等候",
+            "iscorrect": false
+          },
+          {
+            "definition": "观看；注视",
+            "iscorrect": true
+          },
+          {
+            "definition": "警告；提醒",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

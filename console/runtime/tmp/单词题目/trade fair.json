@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "trade fair",
+      "error_analysis": "学生易将\"fair\"误解为\"公平\"，从而把\"trade fair\"错误理解为\"贸易公平\"（而非\"贸易展览会\"）",
+      "sentence": "Many companies will showcase their latest electronics at the annual **trade fair** in Guangzhou.",
+      "options": {
+        "option": [
+          {
+            "definition": "商品交易会；贸易展览会",
+            "iscorrect": true
+          },
+          {
+            "definition": "贸易公平（指公平的贸易原则）",
+            "iscorrect": false
+          },
+          {
+            "definition": "贸易路线（商品运输的路径）",
+            "iscorrect": false
+          },
+          {
+            "definition": "贸易费用（交易产生的费用）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

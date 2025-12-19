@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "steak",
+      "error_analysis": "中国学生易因形近词“steal”（偷）的拼写相似而误判“steak”的含义",
+      "sentence": "I ordered a medium-rare **steak** with mashed potatoes for dinner.",
+      "options": {
+        "option": [
+          {
+            "definition": "牛排；肉排",
+            "iscorrect": true
+          },
+          {
+            "definition": "偷窃；偷盗",
+            "iscorrect": false
+          },
+          {
+            "definition": "木棍；枝条",
+            "iscorrect": false
+          },
+          {
+            "definition": "蒸汽；水汽",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

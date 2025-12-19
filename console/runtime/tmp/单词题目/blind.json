@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "blind",
+      "error_analysis": "学生易因形近词\"bind\"(捆绑)混淆，或误联想为\"黑暗的\"而非\"失明的\"",
+      "sentence": "The old man uses a cane because he is **blind** and cannot see anything.",
+      "options": {
+        "option": [
+          {
+            "definition": "失明的；盲的",
+            "iscorrect": true
+          },
+          {
+            "definition": "捆绑的；束缚的",
+            "iscorrect": false
+          },
+          {
+            "definition": "黑暗的；昏暗的",
+            "iscorrect": false
+          },
+          {
+            "definition": "混合的；融合的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

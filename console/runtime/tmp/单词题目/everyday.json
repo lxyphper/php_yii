@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "everyday",
+      "error_analysis": "混淆形容词\"everyday\"(日常的)与副词短语\"every day\"(每天)，或因字面直译误判其词性与词义",
+      "sentence": "She wears **everyday** clothes to work, not formal ones.",
+      "options": {
+        "option": [
+          {
+            "definition": "日常的（形容词，指普通、每天都用到的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "每天（副词短语，指每一日）",
+            "iscorrect": false
+          },
+          {
+            "definition": "每个白天（字面直译，不符合常用义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "所有日子（过度直译，不符合语境）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

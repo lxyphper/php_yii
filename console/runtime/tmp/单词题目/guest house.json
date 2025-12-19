@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "guest house",
+      "error_analysis": "学生易因字面直译（\"客人的房子\"）或形近词混淆（如\"客房\"\"住家客人\"）误解其含义",
+      "sentence": "We decided to stay at a cozy **guest house** in the village instead of the big hotel in town—its garden and homemade breakfast were perfect for our weekend getaway.",
+      "options": {
+        "option": [
+          {
+            "definition": "小旅馆；民宿",
+            "iscorrect": true
+          },
+          {
+            "definition": "客房（酒店/家里的客人房间）",
+            "iscorrect": false
+          },
+          {
+            "definition": "客人的房子（属于客人的住宅）",
+            "iscorrect": false
+          },
+          {
+            "definition": "住家客人（住在别人家里的访客）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "step",
+      "error_analysis": "学生易因形近词“stop”（停止）产生干扰，或误将“step”字面理解为“台阶”而忽略其“步骤”的核心义。",
+      "sentence": "The first **step** to solve this problem is to read the instructions carefully.",
+      "options": {
+        "option": [
+          {
+            "definition": "步骤",
+            "iscorrect": true
+          },
+          {
+            "definition": "停止",
+            "iscorrect": false
+          },
+          {
+            "definition": "台阶",
+            "iscorrect": false
+          },
+          {
+            "definition": "脚步",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "contented",
+      "error_analysis": "易混淆形近词\"content\"(内容)或\"contended\"(争论的)，误理解为\"有内容的\"或\"争论的\"",
+      "sentence": "After a warm meal and a good book, she felt **contented** sitting quietly by the fireplace.",
+      "options": {
+        "option": [
+          {
+            "definition": "有内容的",
+            "iscorrect": false
+          },
+          {
+            "definition": "争论的",
+            "iscorrect": false
+          },
+          {
+            "definition": "满足的，满意的",
+            "iscorrect": true
+          },
+          {
+            "definition": "被填充的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

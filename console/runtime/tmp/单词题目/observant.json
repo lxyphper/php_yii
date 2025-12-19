@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "observant",
+      "error_analysis": "中国学生易因形近词“obsessive”（痴迷的）混淆，或因词根/后缀误解误以为“被观察的”。",
+      "sentence": "The **observant** detective noticed the tiny scratch on the door that everyone else had missed.",
+      "options": {
+        "option": [
+          {
+            "definition": "痴迷的",
+            "iscorrect": false
+          },
+          {
+            "definition": "被观察的",
+            "iscorrect": false
+          },
+          {
+            "definition": "善于观察的",
+            "iscorrect": true
+          },
+          {
+            "definition": "遵守的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

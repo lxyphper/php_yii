@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hollow",
+      "error_analysis": "学生易混淆形近词“hallow”（使神圣）或误将“hollow”字面理解为“有洞的”而非“中空的/空洞的”",
+      "sentence": "The old tree had a **hollow** trunk where a family of squirrels lived.",
+      "options": {
+        "option": [
+          {
+            "definition": "使神圣的",
+            "iscorrect": false
+          },
+          {
+            "definition": "中空的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有洞的",
+            "iscorrect": false
+          },
+          {
+            "definition": "浅的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

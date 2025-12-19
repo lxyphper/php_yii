@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "suffrage",
+      "error_analysis": "因形近词`suffer`（遭受）干扰，易误判为“痛苦；忍受”",
+      "sentence": "Women in many countries fought for decades to gain **suffrage** and finally won the right to vote in the early 20th century.",
+      "options": {
+        "option": [
+          {
+            "definition": "选举权；投票权",
+            "iscorrect": true
+          },
+          {
+            "definition": "（尤指精神上的）痛苦；忍受",
+            "iscorrect": false
+          },
+          {
+            "definition": "（对他人的）支持；赞助",
+            "iscorrect": false
+          },
+          {
+            "definition": "（液体或气体的）弥漫；渗透",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to incriminate",
+      "error_analysis": "学生易因词根“crim”（犯罪）和前缀“in-”的误解，将“incriminate”错误理解为“使犯罪（教唆）”或“证明无罪”",
+      "sentence": "The new evidence found at the crime scene could **incriminate** the suspect, as it links him directly to the murder weapon.",
+      "options": {
+        "option": [
+          {
+            "definition": "控告某人有罪",
+            "iscorrect": true
+          },
+          {
+            "definition": "使某人犯罪（教唆）",
+            "iscorrect": false
+          },
+          {
+            "definition": "证明某人无罪",
+            "iscorrect": false
+          },
+          {
+            "definition": "包含；合并",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "motorcicle",
+      "motarcycle",
+      "motorcyel",
+      "motorsycle",
+      "morcycle"
+    ],
+    "correct_chunks": [
+      "motor",
+      "cy",
+      "cle"
+    ],
+    "distractor_chunks": [
+      "ci",
+      "ar",
+      "cel",
+      "sy"
+    ]
+  },
+  0
+]

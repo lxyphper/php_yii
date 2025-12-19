@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unfulfilled",
+      "error_analysis": "易混淆形近词“unfinished”（未完成的）或词根误拆为“未填满的”",
+      "sentence": "She felt a deep sense of regret about her **unfulfilled** dreams of becoming a painter, which she had abandoned years ago.",
+      "options": {
+        "option": [
+          {
+            "definition": "未完成的",
+            "iscorrect": false
+          },
+          {
+            "definition": "未填满的",
+            "iscorrect": false
+          },
+          {
+            "definition": "未实现的；未满足的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不满足的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

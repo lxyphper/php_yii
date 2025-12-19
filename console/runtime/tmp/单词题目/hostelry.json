@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hostelry",
+      "error_analysis": "学生易因形近词\"hostel\"(青年旅社)混淆，或词根\"host\"(主人)误判为\"主人的住所\"",
+      "sentence": "After a long day of hiking, the travelers were relieved to find a cozy **hostelry** at the edge of the village, where they could rest and enjoy a hot meal.",
+      "options": {
+        "option": [
+          {
+            "definition": "青年旅社",
+            "iscorrect": false
+          },
+          {
+            "definition": "主人的住所",
+            "iscorrect": false
+          },
+          {
+            "definition": "医院",
+            "iscorrect": false
+          },
+          {
+            "definition": "旅馆；客栈（尤指老式的）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

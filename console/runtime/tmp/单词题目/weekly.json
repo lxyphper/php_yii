@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "weekly",
+      "error_analysis": "学生易混淆形近词weakly（虚弱地），或误将weekly理解为“周末的”（混淆week与weekend）",
+      "sentence": "She contributes a **weekly** article to the local newspaper, which comes out every Saturday.",
+      "options": {
+        "option": [
+          {
+            "definition": "每周的；每周一次的",
+            "iscorrect": true
+          },
+          {
+            "definition": "虚弱地；软弱地",
+            "iscorrect": false
+          },
+          {
+            "definition": "周末的；周末发生的",
+            "iscorrect": false
+          },
+          {
+            "definition": "每周的结束",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to socialize",
+      "error_analysis": "易因形近词“specialize”（专门从事）混淆，或因“social”（社会的）词根误导为“使社会化”而非“社交”。",
+      "sentence": "My friends invited me to a party tonight, but I’m too tired to **socialize** with strangers.",
+      "options": {
+        "option": [
+          {
+            "definition": "进行社交活动",
+            "iscorrect": true
+          },
+          {
+            "definition": "专门从事",
+            "iscorrect": false
+          },
+          {
+            "definition": "使社会化（如适应社会规范）",
+            "iscorrect": false
+          },
+          {
+            "definition": "社会服务",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "slim",
+      "error_analysis": "学生易因形近词“slip”（滑）或混淆“slim”与“thin”的感情色彩（褒义vs中性）而误判其核心义“苗条的”。",
+      "sentence": "She has a **slim** figure that looks great in that red dress.",
+      "options": {
+        "option": [
+          {
+            "definition": "苗条的；修长的（褒义）",
+            "iscorrect": true
+          },
+          {
+            "definition": "滑的；易滑动的",
+            "iscorrect": false
+          },
+          {
+            "definition": "瘦的（中性）",
+            "iscorrect": false
+          },
+          {
+            "definition": "黏的；滑腻的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

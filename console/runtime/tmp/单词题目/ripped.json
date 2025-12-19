@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ripped",
+      "error_analysis": "学生易将形容词“ripped”（肌肉发达的）误判为动词过去分词的字面义“被撕裂的”，或因形近词“ripen”联想为“成熟的”",
+      "sentence": "After months of hitting the gym, Tom has become really **ripped**—his abs are clearly visible.",
+      "options": {
+        "option": [
+          {
+            "definition": "被撕裂的",
+            "iscorrect": false
+          },
+          {
+            "definition": "成熟的",
+            "iscorrect": false
+          },
+          {
+            "definition": "肌肉发达的",
+            "iscorrect": true
+          },
+          {
+            "definition": "快速移动的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

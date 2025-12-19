@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to check",
+      "error_analysis": "中国学生易因形近词“cheer”（欢呼）的拼写干扰，或误将“to check”理解为“to correct”（纠正）",
+      "sentence": "Before submitting the report, please **check** all the data to make sure there are no mistakes.",
+      "options": {
+        "option": [
+          {
+            "definition": "检查；核对",
+            "iscorrect": true
+          },
+          {
+            "definition": "欢呼；喝彩",
+            "iscorrect": false
+          },
+          {
+            "definition": "纠正；改正",
+            "iscorrect": false
+          },
+          {
+            "definition": "改变；更换",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

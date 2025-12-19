@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "desk",
+      "error_analysis": "中国学生易因形近词（如disk/dusk/deck）混淆“desk”的词义，误判为“磁盘”“黄昏”或“甲板”。",
+      "sentence": "She left her notebook on the **desk** before going to the library.",
+      "options": {
+        "option": [
+          {
+            "definition": "书桌",
+            "iscorrect": true
+          },
+          {
+            "definition": "磁盘",
+            "iscorrect": false
+          },
+          {
+            "definition": "黄昏",
+            "iscorrect": false
+          },
+          {
+            "definition": "甲板",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

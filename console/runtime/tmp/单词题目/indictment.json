@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "indictment",
+      "error_analysis": "因形近词“indication”（指示；迹象）干扰，易误将“indictment”理解为“指示”或“迹象”",
+      "sentence": "The government's **indictment** against the CEO includes charges of fraud and embezzlement.",
+      "options": {
+        "option": [
+          {
+            "definition": "指示；迹象",
+            "iscorrect": false
+          },
+          {
+            "definition": "声明；陈述",
+            "iscorrect": false
+          },
+          {
+            "definition": "起诉；控告",
+            "iscorrect": true
+          },
+          {
+            "definition": "判决；裁决",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

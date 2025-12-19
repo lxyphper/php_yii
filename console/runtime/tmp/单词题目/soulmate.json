@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "soulmate",
+      "error_analysis": "学生易因`mate`的常见义（如“伙伴”“朋友”）将`soulmate`误解为普通精神伙伴，忽略其“终身契合”的核心内涵",
+      "sentence": "After years of searching, she finally met her **soulmate**—someone who understood her deepest thoughts and shared her lifelong dreams.",
+      "options": {
+        "option": [
+          {
+            "definition": "精神契合的终身伴侣",
+            "iscorrect": true
+          },
+          {
+            "definition": "工作中志同道合的伙伴",
+            "iscorrect": false
+          },
+          {
+            "definition": "灵魂的守护者",
+            "iscorrect": false
+          },
+          {
+            "definition": "精神上的普通朋友",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

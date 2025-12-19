@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "noise",
+      "error_analysis": "中国学生易因形近词“nose”（鼻子）混淆“noise”的词义，或误将其当作“声音”的泛指（如与“sound”混淆）。",
+      "sentence": "The **noise** from the traffic outside made it hard to concentrate on my homework.",
+      "options": {
+        "option": [
+          {
+            "definition": "鼻子",
+            "iscorrect": false
+          },
+          {
+            "definition": "嗓音",
+            "iscorrect": false
+          },
+          {
+            "definition": "噪音；声响",
+            "iscorrect": true
+          },
+          {
+            "definition": "声音（泛指）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

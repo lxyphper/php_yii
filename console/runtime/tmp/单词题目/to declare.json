@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to declare",
+      "error_analysis": "中国学生易因形近词“decorate”（装饰）混淆词义，或因词根“de-”（向下）误判为“降低”。",
+      "sentence": "The president will **declare** the opening of the new airport at the ceremony tomorrow.",
+      "options": {
+        "option": [
+          {
+            "definition": "装饰；装潢",
+            "iscorrect": false
+          },
+          {
+            "definition": "降低；下降",
+            "iscorrect": false
+          },
+          {
+            "definition": "宣布；声明",
+            "iscorrect": true
+          },
+          {
+            "definition": "否认；拒绝",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

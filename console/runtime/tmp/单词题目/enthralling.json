@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "enthralling",
+      "error_analysis": "学生易因形近词\"entangling\"（纠缠的）或词根\"thrall\"（奴隶）错误理解为\"纠缠的\"或\"奴役的\"",
+      "sentence": "The novel's **enthralling** plot kept me reading until 3 a.m.",
+      "options": {
+        "option": [
+          {
+            "definition": "引人入胜的；令人着迷的",
+            "iscorrect": true
+          },
+          {
+            "definition": "纠缠的；令人困惑的",
+            "iscorrect": false
+          },
+          {
+            "definition": "奴役的；受束缚的",
+            "iscorrect": false
+          },
+          {
+            "definition": "热情的；热心的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

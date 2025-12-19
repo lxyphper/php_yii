@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "supernova",
+      "error_analysis": "学生易将\"super-\"(超)与\"nova\"误判为\"新的\"或\"小说\"，错解为\"超级新事物\"或\"超级小说\"",
+      "sentence": "Astronomers observed a **supernova** in the Milky Way's neighboring galaxy, which outshone billions of stars for a short period.",
+      "options": {
+        "option": [
+          {
+            "definition": "超级新星（天文学中爆炸的恒星，释放极强光亮）",
+            "iscorrect": true
+          },
+          {
+            "definition": "超级小说（情节新颖的长篇故事）",
+            "iscorrect": false
+          },
+          {
+            "definition": "超级新发明（最新的重大创造）",
+            "iscorrect": false
+          },
+          {
+            "definition": "超级市场（大型连锁购物场所）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

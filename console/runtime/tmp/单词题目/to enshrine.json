@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to enshrine",
+      "error_analysis": "学生可能因词根\"shrine\"(圣地)直译为\"进入神龛\"，或因形近词\"enlarge\"(扩大)、\"enhance\"(增强)产生误解。",
+      "sentence": "The new constitution **enshrines** the right to free speech as a fundamental principle.",
+      "options": {
+        "option": [
+          {
+            "definition": "扩大；增大",
+            "iscorrect": false
+          },
+          {
+            "definition": "进入神龛；前往圣地",
+            "iscorrect": false
+          },
+          {
+            "definition": "载入（法律、宪法等）；奉为基本原则",
+            "iscorrect": true
+          },
+          {
+            "definition": "增强；提高",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

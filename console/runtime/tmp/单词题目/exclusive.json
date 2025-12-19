@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "exclusive",
+      "error_analysis": "易因形近词\"expensive\"（昂贵的）或词根\"ex-\"（出）\"clus-\"（关闭）误解为\"排除的\"，忽略\"专属的\"核心义",
+      "sentence": "The club has an **exclusive** membership policy—only invited guests can join.",
+      "options": {
+        "option": [
+          {
+            "definition": "专属的；独有的",
+            "iscorrect": true
+          },
+          {
+            "definition": "昂贵的",
+            "iscorrect": false
+          },
+          {
+            "definition": "排除的",
+            "iscorrect": false
+          },
+          {
+            "definition": "额外的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

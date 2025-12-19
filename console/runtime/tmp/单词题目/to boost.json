@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to boost",
+      "error_analysis": "中国学生易混淆形近词“boast”（吹嘘）及误将“boost”字面联想为“推”（忽略其“主动提高”的核心义）",
+      "sentence": "The company plans to **boost** its online sales by launching a new marketing campaign.",
+      "options": {
+        "option": [
+          {
+            "definition": "提高；增强；促进",
+            "iscorrect": true
+          },
+          {
+            "definition": "吹嘘；自夸",
+            "iscorrect": false
+          },
+          {
+            "definition": "推；推动（字面义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "降低；减少",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

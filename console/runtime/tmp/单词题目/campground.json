@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "campground",
+      "error_analysis": "学生易因“camp+ground”字面拆分误为“露营的地面”，或因“ground”结尾联想到“playground”而误判为“操场”。",
+      "sentence": "We set up our tent at the **campground** which has restrooms and a picnic area for visitors.",
+      "options": {
+        "option": [
+          {
+            "definition": "露营的地面",
+            "iscorrect": false
+          },
+          {
+            "definition": "操场",
+            "iscorrect": false
+          },
+          {
+            "definition": "校园",
+            "iscorrect": false
+          },
+          {
+            "definition": "露营地（供露营的场所）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

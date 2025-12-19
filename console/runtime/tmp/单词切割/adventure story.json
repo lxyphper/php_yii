@@ -1,0 +1,26 @@
+[
+  {
+    "common_misspellings": [
+      "aventure story",
+      "adventur story",
+      "adventure stor",
+      "adventure storry",
+      "adventcher story"
+    ],
+    "correct_chunks": [
+      "ad",
+      "ven",
+      "ture",
+      "sto",
+      "ry"
+    ],
+    "distractor_chunks": [
+      "a",
+      "tur",
+      "stor",
+      "storr",
+      "cher"
+    ]
+  },
+  0
+]

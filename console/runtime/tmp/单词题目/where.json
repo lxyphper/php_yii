@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "where",
+      "error_analysis": "易因形近将“where”（地点）误判为“when”（时间）或“wear”（穿）",
+      "sentence": "Excuse me, could you tell me **where** the nearest supermarket is?",
+      "options": {
+        "option": [
+          {
+            "definition": "哪里（询问地点的疑问副词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "什么时候（询问时间的疑问副词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "穿（衣服、鞋子等的动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "为什么（询问原因的疑问副词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

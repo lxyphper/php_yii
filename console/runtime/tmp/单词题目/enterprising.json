@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "enterprising",
+      "error_analysis": "学生易因词根“enterprise”（企业）误解为“与企业相关的”，或因形近词“entering”（进入的）误判为“进入的”。",
+      "sentence": "The **enterprising** student launched a small online business to sell handmade crafts, impressing his teachers with his initiative.",
+      "options": {
+        "option": [
+          {
+            "definition": "有进取心的；有创业精神的",
+            "iscorrect": true
+          },
+          {
+            "definition": "与企业或商业活动相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "进入的；即将进入的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有经验的；熟练的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

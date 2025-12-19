@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "try",
+      "error_analysis": "学生易因形近词“tree”（树）的拼写混淆，将“try”错误理解为“树”，或因音近词“tire”（疲劳）产生词义联想错误。",
+      "sentence": "I want to **try** cooking a new dish for dinner tonight.",
+      "options": {
+        "option": [
+          {
+            "definition": "尝试",
+            "iscorrect": true
+          },
+          {
+            "definition": "树",
+            "iscorrect": false
+          },
+          {
+            "definition": "疲劳",
+            "iscorrect": false
+          },
+          {
+            "definition": "哭",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

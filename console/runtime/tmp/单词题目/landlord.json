@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "landlord",
+      "error_analysis": "学生易因词根\"land+lord\"直译为\"土地领主\"或\"地主\"，忽略其\"房东\"的核心常用义。",
+      "sentence": "When the pipe burst in the rented apartment, the **landlord** arrived within an hour to arrange for repairs.",
+      "options": {
+        "option": [
+          {
+            "definition": "房东（出租房屋或公寓的人）",
+            "iscorrect": true
+          },
+          {
+            "definition": "土地领主（拥有大片土地的贵族）",
+            "iscorrect": false
+          },
+          {
+            "definition": "地主（占有土地并收取租金的人，尤指旧社会）",
+            "iscorrect": false
+          },
+          {
+            "definition": "农民（从事农业生产的人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

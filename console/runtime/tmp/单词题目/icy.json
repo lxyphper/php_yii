@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "icy",
+      "error_analysis": "中国学生易因形近词“ivy”（常春藤）或词根“ice”（冰）的过度直译误解“icy”的含义",
+      "sentence": "The wind was so **icy** that I could hardly feel my fingers.",
+      "options": {
+        "option": [
+          {
+            "definition": "寒冷的；（风、天气）刺骨的",
+            "iscorrect": true
+          },
+          {
+            "definition": "常春藤（一种爬蔓植物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "冰的；由冰构成的",
+            "iscorrect": false
+          },
+          {
+            "definition": "眼睛的；与眼睛相关的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

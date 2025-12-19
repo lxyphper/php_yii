@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to amass",
+      "error_analysis": "学生易因形近词“amaze”（使惊讶）混淆，或误将词根“mass”（大量）理解为“增加质量”。",
+      "sentence": "The author has **amassed** a huge following on social media since publishing her first novel.",
+      "options": {
+        "option": [
+          {
+            "definition": "使惊讶",
+            "iscorrect": false
+          },
+          {
+            "definition": "积累（大量）",
+            "iscorrect": true
+          },
+          {
+            "definition": "增加质量",
+            "iscorrect": false
+          },
+          {
+            "definition": "集合（人或物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

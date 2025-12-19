@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "so",
+      "error_analysis": "中国学生常因“so”与基础词汇“do”形近而误判为“做”，或混淆其副词（如此）与连词（所以）用法",
+      "sentence": "The music is **so** loud that I can't hear you.",
+      "options": {
+        "option": [
+          {
+            "definition": "如此，这么（副词，表示程度）",
+            "iscorrect": true
+          },
+          {
+            "definition": "做（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "所以（连词，表示结果）",
+            "iscorrect": false
+          },
+          {
+            "definition": "非常（副词，表示程度）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "storyteller",
+      "error_analysis": "学生易因“teller”的“出纳员”义（如bank teller）误解为“故事管理员”，或混淆“讲述”与“写作”误判为“故事作者”。",
+      "sentence": "My grandma is a great **storyteller**—she can make even the simplest fairy tales sound magical.",
+      "options": {
+        "option": [
+          {
+            "definition": "故事出纳员；故事管理员",
+            "iscorrect": false
+          },
+          {
+            "definition": "故事作者；小说家",
+            "iscorrect": false
+          },
+          {
+            "definition": "讲故事的人；说书人",
+            "iscorrect": true
+          },
+          {
+            "definition": "喜欢故事的人；故事迷",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

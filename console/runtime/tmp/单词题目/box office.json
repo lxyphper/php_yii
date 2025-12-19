@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "box office",
+      "error_analysis": "学生易因“box+office”的字面含义误将“box office”理解为“盒子形状的办公室”，或混淆其“售票处”与“票房收入”的核心义",
+      "sentence": "The new action film topped the **box office** for three weeks, making over $500 million worldwide.",
+      "options": {
+        "option": [
+          {
+            "definition": "盒子办公室（指形状像盒子的小型办公空间）",
+            "iscorrect": false
+          },
+          {
+            "definition": "快递盒存放处（用于放置快递盒的地方）",
+            "iscorrect": false
+          },
+          {
+            "definition": "票房（电影等的 ticket 销售收入）",
+            "iscorrect": true
+          },
+          {
+            "definition": "票务窗口（出售电影票的地方）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

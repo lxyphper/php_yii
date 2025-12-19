@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "white",
+      "error_analysis": "学生易因形近词“write”（写）或音近词“wide”（宽的）的联想混淆“white”的词义",
+      "sentence": "She wore a **white** dress to the wedding, which matched the theme perfectly.",
+      "options": {
+        "option": [
+          {
+            "definition": "白色的",
+            "iscorrect": true
+          },
+          {
+            "definition": "写",
+            "iscorrect": false
+          },
+          {
+            "definition": "宽的",
+            "iscorrect": false
+          },
+          {
+            "definition": "明亮的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

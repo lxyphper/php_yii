@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "incarceration",
+      "error_analysis": "学生易因形近词“incarnation”（化身）产生混淆，或因不熟悉词根“carcer”（监狱）而误猜与“汽车”相关的词义",
+      "sentence": "The judge sentenced the criminal to ten years of **incarceration** for his involvement in the armed robbery.",
+      "options": {
+        "option": [
+          {
+            "definition": "化身；体现",
+            "iscorrect": false
+          },
+          {
+            "definition": "监禁；关押",
+            "iscorrect": true
+          },
+          {
+            "definition": "汽车租赁；车辆租用",
+            "iscorrect": false
+          },
+          {
+            "definition": "职业认证；资格证书",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

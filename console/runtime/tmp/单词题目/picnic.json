@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "picnic",
+      "error_analysis": "学生易因形近词\"panic\"(恐慌)或词根\"pic\"(图片)误导，将\"picnic\"错误理解为\"恐慌\"或\"图片相关活动\"",
+      "sentence": "We decided to have a **picnic** in the park this weekend with sandwiches, fruit, and a frisbee.",
+      "options": {
+        "option": [
+          {
+            "definition": "恐慌（因形近词\"panic\"干扰）",
+            "iscorrect": false
+          },
+          {
+            "definition": "图片展览（因词根\"pic\"误导）",
+            "iscorrect": false
+          },
+          {
+            "definition": "披萨（因发音近似\"pizza\"干扰）",
+            "iscorrect": false
+          },
+          {
+            "definition": "野餐（核心常用义）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

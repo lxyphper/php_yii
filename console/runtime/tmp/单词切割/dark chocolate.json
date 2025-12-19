@@ -1,0 +1,26 @@
+[
+  {
+    "common_misspellings": [
+      "derk chocolate",
+      "dark choclate",
+      "dark chocollate",
+      "dark shocolate",
+      "dark chocolete"
+    ],
+    "correct_chunks": [
+      "d",
+      "ark",
+      "ch",
+      "oco",
+      "late"
+    ],
+    "distractor_chunks": [
+      "der",
+      "choc",
+      "chocoll",
+      "sh",
+      "ete"
+    ]
+  },
+  0
+]

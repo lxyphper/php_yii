@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fork",
+      "error_analysis": "学生易因形近词“folk”（民间的）干扰，或误将“fork”理解为“分叉处”（非餐具核心义）",
+      "sentence": "Could you pass me the **fork**? I need it to eat the steak.",
+      "options": {
+        "option": [
+          {
+            "definition": "叉子（餐具）",
+            "iscorrect": true
+          },
+          {
+            "definition": "民间的",
+            "iscorrect": false
+          },
+          {
+            "definition": "分叉处",
+            "iscorrect": false
+          },
+          {
+            "definition": "形式",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

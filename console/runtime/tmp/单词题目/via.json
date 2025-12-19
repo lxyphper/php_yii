@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "via",
+      "error_analysis": "学生易将“via”与形近词“visa”（签证）混淆，或错误理解为“道路”（名词，来自拉丁语词根的误导）",
+      "sentence": "I usually communicate with my pen pal **via** letters.",
+      "options": {
+        "option": [
+          {
+            "definition": "通过；经由（介词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "签证（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "道路（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "徒劳的（形容词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

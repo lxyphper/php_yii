@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "apocalypse",
+      "error_analysis": "学生易因词根“apo-”（揭示）误判为“启示”，或因形近词“apology”（道歉）联想为“道歉”。",
+      "sentence": "The movie depicts a harsh post-**apocalypse** world where survivors fight for food and shelter every day.",
+      "options": {
+        "option": [
+          {
+            "definition": "世界末日；大灾难",
+            "iscorrect": true
+          },
+          {
+            "definition": "启示；揭示",
+            "iscorrect": false
+          },
+          {
+            "definition": "道歉；辩解",
+            "iscorrect": false
+          },
+          {
+            "definition": "掌声；欢呼",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

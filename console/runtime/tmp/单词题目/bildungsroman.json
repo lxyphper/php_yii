@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bildungsroman",
+      "error_analysis": "学生易因\"roman\"联想到\"罗马的\"而误判为与罗马相关，或因\"bild\"与\"build\"形近而误以为是\"建筑小说\"",
+      "sentence": "Many classic works like *To Kill a Mockingbird* are considered **bildungsromane** (the plural form) because they vividly depict the protagonist's moral and psychological development from childhood to maturity.",
+      "options": {
+        "option": [
+          {
+            "definition": "关于罗马历史或文化的小说",
+            "iscorrect": false
+          },
+          {
+            "definition": "成长小说（关于主角从童年到成年心理/道德发展的小说）",
+            "iscorrect": true
+          },
+          {
+            "definition": "关于建筑设计或构建过程的小说",
+            "iscorrect": false
+          },
+          {
+            "definition": "浪漫爱情小说（以爱情故事为核心的小说）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to design",
+      "error_analysis": "中国学生易因形近词\"desire\"(渴望)或词根\"sign\"(标记)误将\"to design\"理解为\"渴望\"或\"做标记/签名\"",
+      "sentence": "Our team will **design** a new logo for the company next month.",
+      "options": {
+        "option": [
+          {
+            "definition": "渴望；想要",
+            "iscorrect": false
+          },
+          {
+            "definition": "设计；筹划",
+            "iscorrect": true
+          },
+          {
+            "definition": "做标记；签名",
+            "iscorrect": false
+          },
+          {
+            "definition": "描述；描绘",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "favorite",
+      "error_analysis": "学生易将\"favorite\"与形近词\"favorable\"混淆，误解为\"有利的；赞成的\"。",
+      "sentence": "My **favorite** movie is The Shawshank Redemption—I’ve watched it more than ten times.",
+      "options": {
+        "option": [
+          {
+            "definition": "最喜欢的（人或物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "有利的；赞成的",
+            "iscorrect": false
+          },
+          {
+            "definition": "支持的；帮助的",
+            "iscorrect": false
+          },
+          {
+            "definition": "常用的；普遍的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

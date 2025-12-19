@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "packet",
+      "error_analysis": "易混淆形近词\"pocket\"(口袋)及近义词\"package\"(大包裹),误将\"packet\"理解为\"口袋\"或\"大包裹\"",
+      "sentence": "She bought a **packet** of chips from the vending machine before heading to class.",
+      "options": {
+        "option": [
+          {
+            "definition": "口袋",
+            "iscorrect": false
+          },
+          {
+            "definition": "大包裹",
+            "iscorrect": false
+          },
+          {
+            "definition": "小包装；一包（如食品、药品等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "信件",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

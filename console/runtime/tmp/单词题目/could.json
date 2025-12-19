@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "could",
+      "error_analysis": "中国学生常将“could”在礼貌请求中的用法误解为“过去的能力”，或与“should（应该）”“would（愿意）”的用法混淆。",
+      "sentence": "Excuse me, **could** you tell me where the nearest restroom is?",
+      "options": {
+        "option": [
+          {
+            "definition": "能；可以（用于礼貌请求或推测）",
+            "iscorrect": true
+          },
+          {
+            "definition": "过去能够（表示过去的能力）",
+            "iscorrect": false
+          },
+          {
+            "definition": "应该（表示责任或建议）",
+            "iscorrect": false
+          },
+          {
+            "definition": "愿意（表示意愿）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "thoughtfully",
+      "error_analysis": "学生可能因形近词“thoughtlessly”（粗心地）或词根“thought”直译（有思想地）误判其“体贴地”的核心含义",
+      "sentence": "She **thoughtfully** brought me an umbrella when she saw I forgot mine.",
+      "options": {
+        "option": [
+          {
+            "definition": "体贴地",
+            "iscorrect": true
+          },
+          {
+            "definition": "粗心地",
+            "iscorrect": false
+          },
+          {
+            "definition": "有思想地",
+            "iscorrect": false
+          },
+          {
+            "definition": "感谢地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

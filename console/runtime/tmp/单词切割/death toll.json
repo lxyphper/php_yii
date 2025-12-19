@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "deth toll",
+      "death tol",
+      "deth tol",
+      "death toul"
+    ],
+    "correct_chunks": [
+      "dea",
+      "th",
+      "to",
+      "ll"
+    ],
+    "distractor_chunks": [
+      "de",
+      "tol",
+      "toul",
+      "eth"
+    ]
+  },
+  0
+]

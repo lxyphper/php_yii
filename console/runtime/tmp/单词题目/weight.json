@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "weight",
+      "error_analysis": "易因形近词\"wait\"(等待)混淆词义，或因词根\"weigh\"(称重)误判为动作义(如\"称重\")",
+      "sentence": "The doctor asked me to step on the scale to check my **weight**.",
+      "options": {
+        "option": [
+          {
+            "definition": "等待",
+            "iscorrect": false
+          },
+          {
+            "definition": "重量；体重",
+            "iscorrect": true
+          },
+          {
+            "definition": "称重的动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "高度",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

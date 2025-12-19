@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "maturity",
+      "error_analysis": "学生易因形近词\"maternity\"(母亲身份)或拼写混淆\"mortality\"(死亡率)，将\"maturity\"错误理解为与母亲或死亡相关的含义。",
+      "sentence": "Her **maturity** in resolving conflicts made her a respected leader among her peers.",
+      "options": {
+        "option": [
+          {
+            "definition": "成熟（指人情感或智力发展到完善的阶段）",
+            "iscorrect": true
+          },
+          {
+            "definition": "母亲身份（如产假相关的状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "死亡率（死亡的比例或状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "成熟的果实（水果完全长成的状态）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

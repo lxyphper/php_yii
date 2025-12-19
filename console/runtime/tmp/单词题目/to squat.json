@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to squat",
+      "error_analysis": "学生易因“squ-”词根联想（如挤压）或形近词“quash”（撤销）干扰，将“to squat”误判为“挤压”或“撤销”。",
+      "sentence": "The child had to **squat** down to pick up the toy from under the table.",
+      "options": {
+        "option": [
+          {
+            "definition": "蹲；蹲坐",
+            "iscorrect": true
+          },
+          {
+            "definition": "挤压；压扁",
+            "iscorrect": false
+          },
+          {
+            "definition": "撤销；废除",
+            "iscorrect": false
+          },
+          {
+            "definition": "浪费；挥霍",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

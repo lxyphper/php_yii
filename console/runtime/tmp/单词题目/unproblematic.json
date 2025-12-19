@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unproblematic",
+      "error_analysis": "学生易因形近词\"unprogrammatic\"（非纲领性的）混淆，或因记错\"problematic\"意思而误判为\"有问题的\"",
+      "sentence": "The process of applying for a visa was surprisingly **unproblematic**; we got it within a week.",
+      "options": {
+        "option": [
+          {
+            "definition": "没有问题的，不成问题的",
+            "iscorrect": true
+          },
+          {
+            "definition": "非纲领性的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有问题的",
+            "iscorrect": false
+          },
+          {
+            "definition": "未解决的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

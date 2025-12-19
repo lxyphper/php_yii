@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to dilute",
+      "error_analysis": "学生易因形近词“diligent”（勤奋的）或词根“di-”（分开）误导，将“to dilute”错误理解为“勤奋的”或“分开/分配”。",
+      "sentence": "To make the juice less sweet, she decided to **dilute** it with some water.",
+      "options": {
+        "option": [
+          {
+            "definition": "稀释；使变淡",
+            "iscorrect": true
+          },
+          {
+            "definition": "勤奋的；用功的",
+            "iscorrect": false
+          },
+          {
+            "definition": "分开；分配",
+            "iscorrect": false
+          },
+          {
+            "definition": "使精致；使脆弱",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

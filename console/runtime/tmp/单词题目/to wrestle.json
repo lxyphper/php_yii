@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to wrestle",
+      "error_analysis": "学生易因形近词\"wrest\"（夺取）或词根联想误将\"to wrestle\"理解为\"夺取\"，而非其核心义\"搏斗/努力处理\"",
+      "sentence": "The team had to **wrestle** with the complex problem for hours before finding a solution.",
+      "options": {
+        "option": [
+          {
+            "definition": "努力处理；搏斗",
+            "iscorrect": true
+          },
+          {
+            "definition": "夺取；强取",
+            "iscorrect": false
+          },
+          {
+            "definition": "手腕转动；摆弄",
+            "iscorrect": false
+          },
+          {
+            "definition": "吹口哨；发出哨声",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

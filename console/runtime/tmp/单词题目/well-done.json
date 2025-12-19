@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "well-done",
+      "error_analysis": "学生易因词根字面误导（well+done直译\"好好做的\"）或形近词well-known混淆，误将well-done理解为\"好好做的\"或\"著名的\"",
+      "sentence": "When I order steak, I always choose **well-done** because I can’t eat meat that’s still pink inside.",
+      "options": {
+        "option": [
+          {
+            "definition": "著名的",
+            "iscorrect": false
+          },
+          {
+            "definition": "好好做的",
+            "iscorrect": false
+          },
+          {
+            "definition": "全熟的",
+            "iscorrect": true
+          },
+          {
+            "definition": "新鲜的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

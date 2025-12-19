@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "want ad",
+      "error_analysis": "学生易将\"want ad\"直译为\"想要的广告\"（如\"想要发布/获取的广告\"），忽略其\"招聘广告\"的固定含义。",
+      "sentence": "The store put a **want ad** in the paper to hire a new cashier.",
+      "options": {
+        "option": [
+          {
+            "definition": "招聘广告",
+            "iscorrect": true
+          },
+          {
+            "definition": "想要发布的广告",
+            "iscorrect": false
+          },
+          {
+            "definition": "想要获取的广告",
+            "iscorrect": false
+          },
+          {
+            "definition": "愿望清单广告",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

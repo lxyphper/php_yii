@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "sincinerator",
+      "incinerater",
+      "incinerateor",
+      "icinerator",
+      "incinnerator"
+    ],
+    "correct_chunks": [
+      "in",
+      "ciner",
+      "ator"
+    ],
+    "distractor_chunks": [
+      "sin",
+      "er",
+      "ateor",
+      "i",
+      "cinner"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "jargon",
+      "error_analysis": "学生易因形近词\"junk\"(垃圾)产生误解，或因字面猜测将其误判为\"胡言乱语\"",
+      "sentence": "The IT engineers used so much **jargon** in their meeting that I couldn’t understand a word they were saying.",
+      "options": {
+        "option": [
+          {
+            "definition": "行话；术语",
+            "iscorrect": true
+          },
+          {
+            "definition": "垃圾；废物",
+            "iscorrect": false
+          },
+          {
+            "definition": "胡言乱语；废话",
+            "iscorrect": false
+          },
+          {
+            "definition": "闲聊；闲谈",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

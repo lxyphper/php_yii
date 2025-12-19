@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to garner",
+      "error_analysis": "中国学生易因形近词“garden”“garnish”或词根误解为“种植”“装饰”或“储存”",
+      "sentence": "The farmer worked hard to **garner** a good harvest from his fields this year.",
+      "options": {
+        "option": [
+          {
+            "definition": "装饰（食物等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "种植（花园）",
+            "iscorrect": false
+          },
+          {
+            "definition": "收集；获得（通过努力积累）",
+            "iscorrect": true
+          },
+          {
+            "definition": "储存（食物等）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

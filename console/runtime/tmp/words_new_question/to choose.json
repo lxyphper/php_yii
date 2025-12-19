@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to choose",
+      "error_analysis": "中国学生易因形近词“chase”（追逐）或词根/字面联想“loose”（松开）而误解“choose”的核心词义（选择）",
+      "sentence": "She needs to **choose** a gift for her mother’s birthday.",
+      "options": {
+        "option": [
+          {
+            "definition": "选择",
+            "iscorrect": true
+          },
+          {
+            "definition": "追逐",
+            "iscorrect": false
+          },
+          {
+            "definition": "松开",
+            "iscorrect": false
+          },
+          {
+            "definition": "购买",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "groundbreaking",
+      "error_analysis": "将“groundbreaking”字面理解为“破土动工”或“地面破裂”（词根/字面误导）",
+      "sentence": "The scientist's **groundbreaking** discovery changed the way we treat cancer.",
+      "options": {
+        "option": [
+          {
+            "definition": "开创性的；突破性的",
+            "iscorrect": true
+          },
+          {
+            "definition": "破土动工的；地面破裂的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有基础的；扎实的",
+            "iscorrect": false
+          },
+          {
+            "definition": "彻底的；完全的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

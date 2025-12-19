@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nonconformist",
+      "error_analysis": "学生易因混淆\"conform\"与形近词\"confirm\"（确认）而误解为\"不确认的人\"，或因词根过度直译将其简单理解为\"不符合的人\"，忽略\"不墨守成规\"的核心语义。",
+      "sentence": "Emma has always been a **nonconformist**—she refuses to follow fashion trends and prefers to wear vintage clothes even when everyone else is in modern styles.",
+      "options": {
+        "option": [
+          {
+            "definition": "不墨守成规的人；特立独行的人",
+            "iscorrect": true
+          },
+          {
+            "definition": "不确认的人；怀疑的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "不符合的人；不一致的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "无组织的人；混乱的人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hospital",
+      "error_analysis": "中国学生易因形近词联想将“hospital”误判为“hostel”（青年旅社）",
+      "sentence": "After the car accident, the injured passenger was rushed to the **hospital** for emergency surgery.",
+      "options": {
+        "option": [
+          {
+            "definition": "医院",
+            "iscorrect": true
+          },
+          {
+            "definition": "青年旅社",
+            "iscorrect": false
+          },
+          {
+            "definition": "酒店",
+            "iscorrect": false
+          },
+          {
+            "definition": "诊所",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

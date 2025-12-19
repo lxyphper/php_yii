@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "subway",
+      "error_analysis": "中国学生易因\"sub+way\"词根误导将\"subway\"错解为\"地下通道\"，或因形近词\"suburb\"混淆为\"郊区公路\"",
+      "sentence": "I take the **subway** to work every morning because it’s faster than driving.",
+      "options": {
+        "option": [
+          {
+            "definition": "地铁（美式英语中的地下铁路系统）",
+            "iscorrect": true
+          },
+          {
+            "definition": "地下通道（行人专用的地下过道）",
+            "iscorrect": false
+          },
+          {
+            "definition": "郊区公路（连接城市与郊区的道路）",
+            "iscorrect": false
+          },
+          {
+            "definition": "水上运输航线（用于船舶航行的水道）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

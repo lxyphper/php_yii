@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "massive",
+      "error_analysis": "中国学生易将‘massive’与形近词‘passive’（被动的）混淆，或通过词根‘mass’（质量）错误推导为‘沉重的’。",
+      "sentence": "She received a **massive** number of emails after her speech went viral.",
+      "options": {
+        "option": [
+          {
+            "definition": "被动的",
+            "iscorrect": false
+          },
+          {
+            "definition": "沉重的",
+            "iscorrect": false
+          },
+          {
+            "definition": "巨大的；大量的",
+            "iscorrect": true
+          },
+          {
+            "definition": "混乱的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

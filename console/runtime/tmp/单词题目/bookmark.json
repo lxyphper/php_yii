@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bookmark",
+      "error_analysis": "学生易拆分\"book+mark\"误判为\"在书上做标记\"(动词)或\"书本上的印记\"(名词)，忽略其核心名词义\"书签\"",
+      "sentence": "I always keep a **bookmark** in my favorite novel so I don’t lose my place.",
+      "options": {
+        "option": [
+          {
+            "definition": "书签（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "在书上做标记（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "书本上的印记（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "预订标记（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

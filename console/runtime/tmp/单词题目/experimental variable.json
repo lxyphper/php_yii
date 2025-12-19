@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "experimental variable",
+      "error_analysis": "易因“variable”与“variety”形近误判为“实验种类”，或因词根“vary”过度直译误为“实验中的变化过程”。",
+      "sentence": "In the study, the researchers manipulated the **experimental variable** (amount of sleep) to observe its effect on test scores.",
+      "options": {
+        "option": [
+          {
+            "definition": "实验变量",
+            "iscorrect": true
+          },
+          {
+            "definition": "实验种类",
+            "iscorrect": false
+          },
+          {
+            "definition": "实验中的变化过程",
+            "iscorrect": false
+          },
+          {
+            "definition": "实验结果",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

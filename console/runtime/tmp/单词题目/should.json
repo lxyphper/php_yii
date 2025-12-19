@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "should",
+      "error_analysis": "学生易因'should'与基础词汇'shoulder'（肩膀）形近，误将其理解为名词'肩膀'，而非情态动词'应该'。",
+      "sentence": "You **should** drink more water if you feel thirsty.",
+      "options": {
+        "option": [
+          {
+            "definition": "肩膀（名词，身体部位）",
+            "iscorrect": false
+          },
+          {
+            "definition": "将要（助动词，表示将来时态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "应该（情态动词，表示建议、义务或合理推断）",
+            "iscorrect": true
+          },
+          {
+            "definition": "能够（情态动词，表示能力或可能性）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

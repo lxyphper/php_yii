@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "producer",
+      "error_analysis": "将\"producer\"误理解为\"产品\"(形近词\"product\"干扰)或\"生产者\"(词根\"produce+er\"过度直译，忽略\"制片人/生产商\"的特定含义)",
+      "sentence": "The **producer** of the movie decided to add more special effects to attract younger audiences.",
+      "options": {
+        "option": [
+          {
+            "definition": "制片人；生产商",
+            "iscorrect": true
+          },
+          {
+            "definition": "产品",
+            "iscorrect": false
+          },
+          {
+            "definition": "生产者（指从事生产的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "处理器",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

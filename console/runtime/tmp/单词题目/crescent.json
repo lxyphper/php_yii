@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "crescent",
+      "error_analysis": "学生易因形近词\"increase\"（增加）或包含\"scent\"（气味）误判为\"增加\"或\"气味\"，或因词根\"cresc-\"（生长）误判为\"生长的\"",
+      "sentence": "The **crescent** moon hung low in the sky, casting a soft glow over the fields.",
+      "options": {
+        "option": [
+          {
+            "definition": "新月；月牙形",
+            "iscorrect": true
+          },
+          {
+            "definition": "增加；增长",
+            "iscorrect": false
+          },
+          {
+            "definition": "气味；香味",
+            "iscorrect": false
+          },
+          {
+            "definition": "生长的；发育中的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

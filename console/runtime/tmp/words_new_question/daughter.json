@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "daughter",
+      "error_analysis": "学生易因形近音近混淆“daughter”（女儿）与“doctor”（医生）",
+      "sentence": "The little girl is my **daughter**; she looks just like her mother.",
+      "options": {
+        "option": [
+          {
+            "definition": "女儿",
+            "iscorrect": true
+          },
+          {
+            "definition": "医生",
+            "iscorrect": false
+          },
+          {
+            "definition": "儿媳",
+            "iscorrect": false
+          },
+          {
+            "definition": "阿姨",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

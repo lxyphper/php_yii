@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "assets",
+      "error_analysis": "学生易因形近词\"assess\"（评估）或\"assist\"（帮助）混淆\"assets\"的含义，误判为\"评估结果\"或\"帮助\"。",
+      "sentence": "The company's main **assets** include its downtown office building, intellectual property, and loyal customer base.",
+      "options": {
+        "option": [
+          {
+            "definition": "资产；财产",
+            "iscorrect": true
+          },
+          {
+            "definition": "评估；评价",
+            "iscorrect": false
+          },
+          {
+            "definition": "帮助；协助",
+            "iscorrect": false
+          },
+          {
+            "definition": "入口；进入权",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

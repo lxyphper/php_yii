@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "miracle",
+      "error_analysis": "学生易因形近词\"mirage\"(海市蜃楼)将\"miracle\"误理解为\"幻想\"或\"幻觉\"",
+      "sentence": "The doctors called her recovery from the terminal illness a **miracle**—no one expected her to survive.",
+      "options": {
+        "option": [
+          {
+            "definition": "幻想；海市蜃楼",
+            "iscorrect": false
+          },
+          {
+            "definition": "奇迹；神迹",
+            "iscorrect": true
+          },
+          {
+            "definition": "悲惨的事；不幸",
+            "iscorrect": false
+          },
+          {
+            "definition": "神秘的事物；谜",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

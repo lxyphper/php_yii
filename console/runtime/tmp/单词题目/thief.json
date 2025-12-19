@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "thief",
+      "error_analysis": "学生易因形近词“chief”（首领）混淆，或误将“thief”理解为“盗窃行为”（受“theft”联想影响）",
+      "sentence": "The police caught the **thief** who stole a wallet from the old lady in the market.",
+      "options": {
+        "option": [
+          {
+            "definition": "首领",
+            "iscorrect": false
+          },
+          {
+            "definition": "小偷；窃贼",
+            "iscorrect": true
+          },
+          {
+            "definition": "盗窃行为",
+            "iscorrect": false
+          },
+          {
+            "definition": "思考者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

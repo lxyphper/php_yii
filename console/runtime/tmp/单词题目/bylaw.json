@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bylaw",
+      "error_analysis": "学生易因“by-”表“次要”的词根义与“law”组合，误判为“次要法律”，或因形近词（如byway/byword）联想为“路边标识”“口头禅”等无关义。",
+      "sentence": "The local homeowners' association enforces a **bylaw** that prohibits loud music after 10 PM.",
+      "options": {
+        "option": [
+          {
+            "definition": "（社团、公司等的）规章制度，细则",
+            "iscorrect": true
+          },
+          {
+            "definition": "次要的法律或辅助性法律",
+            "iscorrect": false
+          },
+          {
+            "definition": "路边的法律标识或指示牌",
+            "iscorrect": false
+          },
+          {
+            "definition": "常用的口头禅或流行语",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

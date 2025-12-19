@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to lengthen",
+      "error_analysis": "学生易因“lengthen”与“strengthen”的形近结构误联想为“加强”，或因词根“long”与“wide”的混淆误选“拓宽”",
+      "sentence": "The tailor suggested we **lengthen** the dress by three centimeters to fit you better.",
+      "options": {
+        "option": [
+          {
+            "definition": "使变长；延长",
+            "iscorrect": true
+          },
+          {
+            "definition": "加强；巩固",
+            "iscorrect": false
+          },
+          {
+            "definition": "拓宽；变宽",
+            "iscorrect": false
+          },
+          {
+            "definition": "减轻；变亮",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

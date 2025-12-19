@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to introduce",
+      "error_analysis": "核心易错点：形近词\"produce\"（生产）干扰（均含\"duce\"后缀）；词根直译\"intro-+duce\"为\"带入\"，忽略\"介绍\"核心义。",
+      "sentence": "At the party, let me **introduce** my cousin to you—she's visiting from Beijing.",
+      "options": {
+        "option": [
+          {
+            "definition": "介绍；使认识",
+            "iscorrect": true
+          },
+          {
+            "definition": "生产；制造",
+            "iscorrect": false
+          },
+          {
+            "definition": "带入；引导进入",
+            "iscorrect": false
+          },
+          {
+            "definition": "结束；总结",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

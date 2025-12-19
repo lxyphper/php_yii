@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to knead",
+      "error_analysis": "学生易因形近词\"need\"误判为\"需要\"，或因与\"knee\"关联误理解为\"膝盖碰到\"",
+      "sentence": "Before baking bread, you need to **knead** the dough for about 10 minutes until it becomes smooth.",
+      "options": {
+        "option": [
+          {
+            "definition": "揉（面团、黏土等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "需要",
+            "iscorrect": false
+          },
+          {
+            "definition": "膝盖碰到",
+            "iscorrect": false
+          },
+          {
+            "definition": "编织（衣物等）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

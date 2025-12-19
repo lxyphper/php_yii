@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cancelation",
+      "error_analysis": "易因形近词“celebration”（庆祝）混淆，或误将“cancel”+“-ation”理解为“取消者”。",
+      "sentence": "Due to the bad weather, the **cancelation** of the outdoor concert was announced this morning.",
+      "options": {
+        "option": [
+          {
+            "definition": "取消；撤销",
+            "iscorrect": true
+          },
+          {
+            "definition": "庆祝；庆典",
+            "iscorrect": false
+          },
+          {
+            "definition": "取消者；撤销者",
+            "iscorrect": false
+          },
+          {
+            "definition": "确认；证实",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "superposition",
+      "error_analysis": "学生易因形近词\"superior\"(优越的)+\"position\"(位置)联想为\"优越位置\"，或因词根\"super-\"(超)+\"position\"(位置)直译为\"超位/高级位置\"，忽略其核心词义\"叠加\"。",
+      "sentence": "In the study of waves, the principle of **superposition** explains how two waves combine to form a new waveform when they meet.",
+      "options": {
+        "option": [
+          {
+            "definition": "叠加；重叠（如波的组合）",
+            "iscorrect": true
+          },
+          {
+            "definition": "优越位置；高位",
+            "iscorrect": false
+          },
+          {
+            "definition": "超位；高级位置",
+            "iscorrect": false
+          },
+          {
+            "definition": "过度放置；过量摆放",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

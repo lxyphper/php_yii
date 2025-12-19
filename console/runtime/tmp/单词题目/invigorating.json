@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "invigorating",
+      "error_analysis": "学生易因形近词“inviting”（诱人的）或误将前缀“in-”理解为否定（导致认为“无活力的”）而错解“invigorating”",
+      "sentence": "After a long hike, the cool mountain air felt **invigorating** and made us want to keep going.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人精力充沛的",
+            "iscorrect": true
+          },
+          {
+            "definition": "诱人的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无活力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人厌倦的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

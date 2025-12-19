@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ear",
+      "error_analysis": "学生易将“ear”的“（玉米等的）穗”义误判为常见义“耳朵”，或因形近词“earn”联想到“赚”。",
+      "sentence": "The farmer is picking the corn **ears** from the field.",
+      "options": {
+        "option": [
+          {
+            "definition": "（玉米等的）穗",
+            "iscorrect": true
+          },
+          {
+            "definition": "耳朵",
+            "iscorrect": false
+          },
+          {
+            "definition": "赚（钱）",
+            "iscorrect": false
+          },
+          {
+            "definition": "眼睛",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

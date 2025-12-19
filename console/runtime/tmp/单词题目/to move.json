@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to move",
+      "error_analysis": "学生易因形近词“movie”（电影）将“to move”误理解为“电影”，或因“be moved”（被感动）的被动用法将其主动态误理解为“感动”。",
+      "sentence": "Could you please **move** the chair to the corner? It’s blocking the door.",
+      "options": {
+        "option": [
+          {
+            "definition": "电影",
+            "iscorrect": false
+          },
+          {
+            "definition": "感动",
+            "iscorrect": false
+          },
+          {
+            "definition": "移动",
+            "iscorrect": true
+          },
+          {
+            "definition": "割草",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

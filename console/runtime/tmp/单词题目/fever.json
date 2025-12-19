@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fever",
+      "error_analysis": "将形近词\"fiber\"（纤维）的含义误联想至\"fever\"",
+      "sentence": "After playing soccer in the rain all afternoon, Jack came down with a **fever** and couldn’t go to school the next day.",
+      "options": {
+        "option": [
+          {
+            "definition": "发烧",
+            "iscorrect": true
+          },
+          {
+            "definition": "纤维",
+            "iscorrect": false
+          },
+          {
+            "definition": "恐惧",
+            "iscorrect": false
+          },
+          {
+            "definition": "少数",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

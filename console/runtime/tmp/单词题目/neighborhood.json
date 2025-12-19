@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "neighborhood",
+      "error_analysis": "易因形近词“neighbor”（邻居）干扰，将“neighborhood”误理解为“邻居”，或因“hood”后缀误导为“邻居的家”。",
+      "sentence": "The new park in our **neighborhood** is a popular spot for kids to ride their bikes.",
+      "options": {
+        "option": [
+          {
+            "definition": "邻居",
+            "iscorrect": false
+          },
+          {
+            "definition": "街区；社区",
+            "iscorrect": true
+          },
+          {
+            "definition": "邻居的家",
+            "iscorrect": false
+          },
+          {
+            "definition": "邻居之间的友谊",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

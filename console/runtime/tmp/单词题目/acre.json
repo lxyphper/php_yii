@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "acre",
+      "error_analysis": "中国学生易因形近词“ache”（疼痛）的拼写/发音联想，或因土地语境过度推导，将“acre”误判为“疼痛”或“农田”。",
+      "sentence": "The family bought a 2-**acre** plot to build their new house.",
+      "options": {
+        "option": [
+          {
+            "definition": "疼痛",
+            "iscorrect": false
+          },
+          {
+            "definition": "农田",
+            "iscorrect": false
+          },
+          {
+            "definition": "穿过",
+            "iscorrect": false
+          },
+          {
+            "definition": "英亩（面积单位）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

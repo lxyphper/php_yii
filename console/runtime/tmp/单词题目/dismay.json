@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dismay",
+      "error_analysis": "学生易因形近词'display'（展示）混淆，或因'dis-+may'词根拆分误判为'不可能'",
+      "sentence": "When she opened the letter and found her exam results were failing, a wave of **dismay** swept over her.",
+      "options": {
+        "option": [
+          {
+            "definition": "展示",
+            "iscorrect": false
+          },
+          {
+            "definition": "不可能",
+            "iscorrect": false
+          },
+          {
+            "definition": "失望；沮丧",
+            "iscorrect": true
+          },
+          {
+            "definition": "延迟",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "chemotherapy",
+      "error_analysis": "学生易因词根“chemo-”（化学）与“therapy”（治疗）的组合，将“chemotherapy”泛化为“一般的化学药物治疗”，或因形近词“chemistry”（化学）的干扰，误将其理解为用于农业的化学疗法。",
+      "sentence": "The doctor recommended **chemotherapy** for her breast cancer, as the tumor was too large for immediate surgery.",
+      "options": {
+        "option": [
+          {
+            "definition": "（癌症的）化疗；化学疗法",
+            "iscorrect": true
+          },
+          {
+            "definition": "一般的化学药物治疗（如治疗头痛的药片）",
+            "iscorrect": false
+          },
+          {
+            "definition": "化学疗法（用于治疗植物病害）",
+            "iscorrect": false
+          },
+          {
+            "definition": "放射治疗（用放射线治疗癌症）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

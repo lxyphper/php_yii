@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "phenomenal",
+      "error_analysis": "学生易因形近词\"phenomenon\"（现象）将\"phenomenal\"误判为\"现象的\"，或因词根\"phenomen-\"推导为\"普通的\"（误以为\"现象级\"是常见）",
+      "sentence": "The young pianist's performance at the concert was **phenomenal**—the audience gave her a standing ovation for five minutes.",
+      "options": {
+        "option": [
+          {
+            "definition": "非凡的；惊人的",
+            "iscorrect": true
+          },
+          {
+            "definition": "现象的；与自然现象相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "普通的；常见的",
+            "iscorrect": false
+          },
+          {
+            "definition": "复杂的；难懂的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

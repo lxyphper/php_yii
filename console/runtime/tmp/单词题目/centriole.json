@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "centriole",
+      "error_analysis": "学生易因形近词（如centimeter/centrifuge）或词根“centri-”（中心）的误导，将centriole误判为长度单位、分离设备或几何中心点",
+      "sentence": "The **centriole**, a small cylindrical structure in animal cells, helps organize microtubules during cell division.",
+      "options": {
+        "option": [
+          {
+            "definition": "厘米（长度单位，等于百分之一米）",
+            "iscorrect": false
+          },
+          {
+            "definition": "（细胞中的）中心粒（参与细胞分裂的圆柱形结构）",
+            "iscorrect": true
+          },
+          {
+            "definition": "质心（几何图形的中心点）",
+            "iscorrect": false
+          },
+          {
+            "definition": "离心机（用于分离混合物的旋转设备）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

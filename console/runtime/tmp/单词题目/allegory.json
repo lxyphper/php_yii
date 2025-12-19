@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "allegory",
+      "error_analysis": "学生易因形近词（如allergic/allegation）混淆词义，或误将词根“leg-”（说）推导为“宣言”而非“比喻”",
+      "sentence": "The novel uses the story of a journey as an **allegory** for the pursuit of self-discovery.",
+      "options": {
+        "option": [
+          {
+            "definition": "寓言；讽喻（用故事象征抽象概念）",
+            "iscorrect": true
+          },
+          {
+            "definition": "过敏反应；过敏性",
+            "iscorrect": false
+          },
+          {
+            "definition": "指控；断言（未经证实的说法）",
+            "iscorrect": false
+          },
+          {
+            "definition": "宣言；声明（正式的公开陈述）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

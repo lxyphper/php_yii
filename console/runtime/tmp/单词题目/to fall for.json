@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to fall for",
+      "error_analysis": "学生易将\"to fall for\"直译为\"为...而落下\"或\"掉进...里面\"（形近词\"fall\"的字面意思干扰），忽略其\"爱上；受骗\"的固定短语义。",
+      "sentence": "Sarah didn’t expect to **fall for** the quiet boy in her class, but his love for books made her heart skip a beat.",
+      "options": {
+        "option": [
+          {
+            "definition": "爱上；受骗",
+            "iscorrect": true
+          },
+          {
+            "definition": "为...而落下；掉进",
+            "iscorrect": false
+          },
+          {
+            "definition": "摔倒在...上",
+            "iscorrect": false
+          },
+          {
+            "definition": "为...下降",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

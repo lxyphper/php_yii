@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "complex",
+      "error_analysis": "学生易因形近词\"complete\"（完全的）或与\"complicate\"（使复杂化）混淆，误将\"complex\"理解为\"完全的\"或\"使复杂化的\"。",
+      "sentence": "The human brain is a **complex** organ with billions of neurons working together to control our thoughts and actions.",
+      "options": {
+        "option": [
+          {
+            "definition": "复杂的（指结构或成分多且相互关联）",
+            "iscorrect": true
+          },
+          {
+            "definition": "完全的（指全部、没有遗漏）",
+            "iscorrect": false
+          },
+          {
+            "definition": "使复杂化的（指让事情变得麻烦）",
+            "iscorrect": false
+          },
+          {
+            "definition": "简单的（指不复杂、容易理解）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to communicate",
+      "error_analysis": "学生易因形近词“commute”（通勤）或词根联想“community”而误解为“通勤”或“建立社区”",
+      "sentence": "It's important to **communicate** your feelings to your friends so they can understand you better.",
+      "options": {
+        "option": [
+          {
+            "definition": "交流；沟通（传递信息或感受）",
+            "iscorrect": true
+          },
+          {
+            "definition": "通勤；乘车往返于工作和住所之间",
+            "iscorrect": false
+          },
+          {
+            "definition": "分享食物或物品；分配资源",
+            "iscorrect": false
+          },
+          {
+            "definition": "建立社区；成为社区的一员",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

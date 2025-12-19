@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "evening",
+      "error_analysis": "学生易将\"evening\"与形近词\"even\"（甚至/平坦的）混淆，误判为\"甚至\"或\"使平坦的动作\"",
+      "sentence": "We usually have dinner with our family in the **evening**.",
+      "options": {
+        "option": [
+          {
+            "definition": "晚上；傍晚",
+            "iscorrect": true
+          },
+          {
+            "definition": "甚至",
+            "iscorrect": false
+          },
+          {
+            "definition": "使平坦的动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "下午",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

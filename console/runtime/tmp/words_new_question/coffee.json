@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "coffee",
+      "error_analysis": "学生易因形近词“copy”（复制）或混淆“coffee”与“cafe”（咖啡馆）而误判其核心含义",
+      "sentence": "She ordered a cup of **coffee** with milk and sugar for her morning break.",
+      "options": {
+        "option": [
+          {
+            "definition": "咖啡（一种由咖啡豆研磨冲泡的热饮）",
+            "iscorrect": true
+          },
+          {
+            "definition": "复制（照原文或原样制作一份）",
+            "iscorrect": false
+          },
+          {
+            "definition": "咖啡馆（提供咖啡等饮品的休闲场所）",
+            "iscorrect": false
+          },
+          {
+            "definition": "咳嗽（呼吸道受刺激时发出的反射性声音）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

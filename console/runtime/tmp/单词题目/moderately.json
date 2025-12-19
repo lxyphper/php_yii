@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "moderately",
+      "error_analysis": "学生易将“moderately”混淆为“modestly”（形近）或误释为“中等地”（词根过度直译，忽略“适度、不过分”的核心义）",
+      "sentence": "The restaurant is **moderately** priced, so it’s a good choice for a casual dinner without spending too much.",
+      "options": {
+        "option": [
+          {
+            "definition": "适度地；不过分地",
+            "iscorrect": true
+          },
+          {
+            "definition": "谦虚地；谦逊地",
+            "iscorrect": false
+          },
+          {
+            "definition": "中等地；中间地",
+            "iscorrect": false
+          },
+          {
+            "definition": "温和地；柔和地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

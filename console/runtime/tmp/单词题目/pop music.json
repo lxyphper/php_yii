@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pop music",
+      "error_analysis": "学生可能将“pop”误理解为口语中的“爸爸”（dad）或“爆裂声”，从而把“pop music”错误解读为“爸爸的音乐”或“有爆裂声的音乐”。",
+      "sentence": "Many teenagers enjoy listening to **pop music** like Taylor Swift's songs on their way to school.",
+      "options": {
+        "option": [
+          {
+            "definition": "流行音乐",
+            "iscorrect": true
+          },
+          {
+            "definition": "爸爸的音乐",
+            "iscorrect": false
+          },
+          {
+            "definition": "有爆裂声的音乐",
+            "iscorrect": false
+          },
+          {
+            "definition": "古典音乐",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

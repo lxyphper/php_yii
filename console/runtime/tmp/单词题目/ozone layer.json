@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ozone layer",
+      "error_analysis": "学生易将\"ozone\"误联想为形近词\"zone\"（区域），从而把\"ozone layer\"误解为\"区域层\"等错误含义",
+      "sentence": "The **ozone layer** in the stratosphere protects Earth from harmful ultraviolet radiation from the sun.",
+      "options": {
+        "option": [
+          {
+            "definition": "臭氧层",
+            "iscorrect": true
+          },
+          {
+            "definition": "区域层",
+            "iscorrect": false
+          },
+          {
+            "definition": "氧气层",
+            "iscorrect": false
+          },
+          {
+            "definition": "云层",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

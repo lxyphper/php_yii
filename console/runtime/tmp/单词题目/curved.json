@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "curved",
+      "error_analysis": "学生易因形近词\"carved\"(雕刻的)混淆，或误将\"cur-\"词根过度推导为\"卷曲的\"",
+      "sentence": "The road ahead is **curved**, so please drive slowly.",
+      "options": {
+        "option": [
+          {
+            "definition": "弯曲的",
+            "iscorrect": true
+          },
+          {
+            "definition": "雕刻的",
+            "iscorrect": false
+          },
+          {
+            "definition": "卷曲的",
+            "iscorrect": false
+          },
+          {
+            "definition": "平坦的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

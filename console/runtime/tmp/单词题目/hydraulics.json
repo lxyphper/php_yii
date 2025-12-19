@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hydraulics",
+      "error_analysis": "学生易因词根“hydr-”（水）误导认为是“水文学”，或因形近词“hydration”（水合作用）混淆词义",
+      "sentence": "The construction machine uses **hydraulics** to lift heavy materials efficiently.",
+      "options": {
+        "option": [
+          {
+            "definition": "液压学；液压系统（利用液体压力操作机械的科学或系统）",
+            "iscorrect": true
+          },
+          {
+            "definition": "水文学（研究地球上水的分布和运动的学科）",
+            "iscorrect": false
+          },
+          {
+            "definition": "水合作用（物质与水结合的化学过程）",
+            "iscorrect": false
+          },
+          {
+            "definition": "水力发电（利用水流产生电力的方式）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

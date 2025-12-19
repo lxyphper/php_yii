@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "amphibian",
+      "error_analysis": "学生易因形近词\"ambition\"(野心)或\"amphitheater\"(圆形剧场)混淆，或因不熟悉词根\"amphi-\"(两者)而误判为\"爬行动物\"。",
+      "sentence": "Frogs, which begin their lives in water as tadpoles and later move to land as adults, are classic examples of **amphibians**.",
+      "options": {
+        "option": [
+          {
+            "definition": "野心；雄心",
+            "iscorrect": false
+          },
+          {
+            "definition": "圆形剧场",
+            "iscorrect": false
+          },
+          {
+            "definition": "爬行动物",
+            "iscorrect": false
+          },
+          {
+            "definition": "两栖动物",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

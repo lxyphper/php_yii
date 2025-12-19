@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "laurasia",
+      "error_analysis": "容易因形近词\"Laura\"（劳拉）和后缀\"-sia\"（地名）误判为与\"劳拉\"相关的现代地区，而非古代超级大陆",
+      "sentence": "Scientists believe that **Laurasia** and Gondwana were the two major supercontinents of the Paleozoic era, which later split into continents like North America, Europe, and Asia.",
+      "options": {
+        "option": [
+          {
+            "definition": "劳拉的故乡（Laura的出生地或关联地区）",
+            "iscorrect": false
+          },
+          {
+            "definition": "月桂树种植区（与月桂树相关的地理区域）",
+            "iscorrect": false
+          },
+          {
+            "definition": "劳亚古陆（古代超级大陆，后分裂为北美、欧洲等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "现代东欧的某个国家（如俄罗斯周边的地区）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

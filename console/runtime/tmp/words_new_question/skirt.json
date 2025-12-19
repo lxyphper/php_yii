@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "skirt",
+      "error_analysis": "中国学生易因形近词\"shirt\"（衬衫）的高度相似性，将\"skirt\"误判为\"衬衫\"。",
+      "sentence": "She paired her new **skirt** with a white T-shirt for the school dance.",
+      "options": {
+        "option": [
+          {
+            "definition": "衬衫",
+            "iscorrect": false
+          },
+          {
+            "definition": "短裤",
+            "iscorrect": false
+          },
+          {
+            "definition": "裙子（尤指短裙）",
+            "iscorrect": true
+          },
+          {
+            "definition": "外套",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

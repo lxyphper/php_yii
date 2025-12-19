@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "conclusion",
+      "error_analysis": "中国学生易因形近词“confusion”（困惑）混淆，或因词根“clu-”（关闭）误判为“结束”而非“结论”。",
+      "sentence": "After analyzing all the data, the researchers reached a **conclusion** that regular exercise improves mental health.",
+      "options": {
+        "option": [
+          {
+            "definition": "困惑",
+            "iscorrect": false
+          },
+          {
+            "definition": "结束",
+            "iscorrect": false
+          },
+          {
+            "definition": "结论",
+            "iscorrect": true
+          },
+          {
+            "definition": "总结",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

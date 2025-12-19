@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "worthwhile",
+      "error_analysis": "学生易因词根拆分（worth+while）错误理解为“值得一段时间的”，或因形近词（如worthless）混淆为“无价值的”",
+      "sentence": "It's **worthwhile** to spend an hour reading this article—you'll learn a lot about history and culture.",
+      "options": {
+        "option": [
+          {
+            "definition": "值得做的；有价值的",
+            "iscorrect": true
+          },
+          {
+            "definition": "值得一段时间的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无价值的；没用的",
+            "iscorrect": false
+          },
+          {
+            "definition": "值得等待的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

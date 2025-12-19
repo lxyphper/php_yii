@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cerebral",
+      "error_analysis": "中国学生易因形近词“cereal”（谷物）将“cerebral”误解为“谷物的”，或因词根联想错误认为其与“庆祝”相关。",
+      "sentence": "The professor's **cerebral** lecture on quantum physics left many students feeling overwhelmed, as it required intense critical thinking.",
+      "options": {
+        "option": [
+          {
+            "definition": "谷物的；麦片的",
+            "iscorrect": false
+          },
+          {
+            "definition": "庆祝的；欢乐的",
+            "iscorrect": false
+          },
+          {
+            "definition": "需动脑的；理智的",
+            "iscorrect": true
+          },
+          {
+            "definition": "中心的；核心的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

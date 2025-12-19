@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to google",
+      "error_analysis": "学生易因形近词“goggle”（护目镜）误解为“戴护目镜”，或因“google”为公司名而误作“运营谷歌公司”。",
+      "sentence": "If you don’t know the meaning of this word, you can **google** it on your phone.",
+      "options": {
+        "option": [
+          {
+            "definition": "（在网上）搜索（尤指用谷歌搜索引擎）",
+            "iscorrect": true
+          },
+          {
+            "definition": "戴护目镜；瞪大眼睛看",
+            "iscorrect": false
+          },
+          {
+            "definition": "运营谷歌公司；为谷歌工作",
+            "iscorrect": false
+          },
+          {
+            "definition": "用谷歌地图查找路线",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

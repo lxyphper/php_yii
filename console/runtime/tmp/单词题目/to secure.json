@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to secure",
+      "error_analysis": "学生易因形近词“sure”（确信）或词根字面误导（使...安全）而误解“to secure”的核心含义（如获得、确保）",
+      "sentence": "After months of negotiations, they finally managed to **secure** the funding for their project.",
+      "options": {
+        "option": [
+          {
+            "definition": "获得；取得",
+            "iscorrect": true
+          },
+          {
+            "definition": "确信；肯定",
+            "iscorrect": false
+          },
+          {
+            "definition": "使...安全；保护",
+            "iscorrect": false
+          },
+          {
+            "definition": "巩固；加强",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

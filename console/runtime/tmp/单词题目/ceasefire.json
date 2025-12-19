@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ceasefire",
+      "error_analysis": "学生易将“ceasefire”拆分为“cease（停止）+fire（火）”，错误理解为“停止使用火源”（日常生活场景）而非战争中的“停火协议”（交战场景）。",
+      "sentence": "After weeks of intense fighting, the government and the rebel group agreed to a **ceasefire** to allow humanitarian aid to reach the affected areas.",
+      "options": {
+        "option": [
+          {
+            "definition": "停火（交战双方停止射击的协议）",
+            "iscorrect": true
+          },
+          {
+            "definition": "停止使用火源（如做饭、取暖时熄火）",
+            "iscorrect": false
+          },
+          {
+            "definition": "和平条约（结束战争的正式协议）",
+            "iscorrect": false
+          },
+          {
+            "definition": "消防演练（测试消防能力的活动）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

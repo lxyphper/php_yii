@@ -1,0 +1,26 @@
+[
+  {
+    "common_misspellings": [
+      "sivil engineering",
+      "civil enginering",
+      "civill engineering",
+      "civil enginiering",
+      "cvil engineering"
+    ],
+    "correct_chunks": [
+      "ci",
+      "vil",
+      "en",
+      "gineer",
+      "ing"
+    ],
+    "distractor_chunks": [
+      "si",
+      "vill",
+      "cv",
+      "engin",
+      "gini"
+    ]
+  },
+  0
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "cold-bluded",
+      "kold-blooded",
+      "cald-blooded",
+      "coldblooded"
+    ],
+    "correct_chunks": [
+      "cold-",
+      "blood",
+      "-ed"
+    ],
+    "distractor_chunks": [
+      "blud",
+      "kold",
+      "cald",
+      "coldblood"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "empress",
+      "error_analysis": "学生易因形近词“express”（表达）的视觉干扰，或忽略“-ess”女性后缀而误解为“皇帝”（emperor）。",
+      "sentence": "In ancient China, the **empress** often wielded significant power behind the throne.",
+      "options": {
+        "option": [
+          {
+            "definition": "表达；快递",
+            "iscorrect": false
+          },
+          {
+            "definition": "皇帝；君主",
+            "iscorrect": false
+          },
+          {
+            "definition": "女皇；皇后",
+            "iscorrect": true
+          },
+          {
+            "definition": "按压；挤压",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

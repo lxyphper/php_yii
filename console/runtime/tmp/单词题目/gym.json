@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gym",
+      "error_analysis": "学生易因形近词\"game\"误判为\"游戏室\"，或因与\"gymnastics\"关联误判为\"体操\"",
+      "sentence": "I go to the **gym** every evening to work out with my friends.",
+      "options": {
+        "option": [
+          {
+            "definition": "游戏室",
+            "iscorrect": false
+          },
+          {
+            "definition": "健身房；体育馆",
+            "iscorrect": true
+          },
+          {
+            "definition": "体操",
+            "iscorrect": false
+          },
+          {
+            "definition": "宝石",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "splendid",
+      "error_analysis": "中国学生易因形近词`spend`（花费）误以为`splendid`表示“昂贵的”，或因形近词`splinter`（碎片）猜测为“分裂的”。",
+      "sentence": "We had a **splendid** time at the beach yesterday—sunshine, waves, and lots of laughter.",
+      "options": {
+        "option": [
+          {
+            "definition": "极好的；壮丽的",
+            "iscorrect": true
+          },
+          {
+            "definition": "昂贵的",
+            "iscorrect": false
+          },
+          {
+            "definition": "分裂的",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

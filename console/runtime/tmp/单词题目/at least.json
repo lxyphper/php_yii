@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "at least",
+      "error_analysis": "易与形近短语“at last”（最后）混淆，或因“least”（最少）字面义误解为“在最少的时候”。",
+      "sentence": "You need to study for **at least** two hours every day to pass the exam.",
+      "options": {
+        "option": [
+          {
+            "definition": "至少",
+            "iscorrect": true
+          },
+          {
+            "definition": "最后",
+            "iscorrect": false
+          },
+          {
+            "definition": "在最少的时候",
+            "iscorrect": false
+          },
+          {
+            "definition": "最多",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

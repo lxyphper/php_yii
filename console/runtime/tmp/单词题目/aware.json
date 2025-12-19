@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "aware",
+      "error_analysis": "易与形近词awake（醒着的）混淆，或误将词根与war（战争）联系导致理解为“战争的”",
+      "sentence": "She became **aware** of the noise outside only after her friend pointed it out.",
+      "options": {
+        "option": [
+          {
+            "definition": "意识到的；知道的",
+            "iscorrect": true
+          },
+          {
+            "definition": "醒着的；未睡着的",
+            "iscorrect": false
+          },
+          {
+            "definition": "战争的；好战的",
+            "iscorrect": false
+          },
+          {
+            "definition": "穿着的；佩戴的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

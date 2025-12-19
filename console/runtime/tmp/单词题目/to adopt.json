@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to adopt",
+      "error_analysis": "易混淆形近词“adapt”（适应）及词根“opt”（选择）导致误判，如将“adopt”错认为“适应”或“选择”。",
+      "sentence": "The school board voted unanimously to **adopt** the new curriculum starting next semester.",
+      "options": {
+        "option": [
+          {
+            "definition": "采用（新的方法、政策或课程等）；收养（孩子或动物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "适应（新环境或变化）",
+            "iscorrect": false
+          },
+          {
+            "definition": "选择（从多个选项中挑选）",
+            "iscorrect": false
+          },
+          {
+            "definition": "调整（改变以适应需求）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

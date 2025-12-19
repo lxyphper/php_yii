@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "satisfaction",
+      "error_analysis": "学生易因形近词\"faction\"（派系）的后缀干扰，或词根\"satis\"（足够）+\"-faction\"（做）的过度直译，将其误理解为与\"派系\"或\"足够的行动\"相关的含义。",
+      "sentence": "The teacher felt great **satisfaction** when all her students passed the exam.",
+      "options": {
+        "option": [
+          {
+            "definition": "派系；小团体",
+            "iscorrect": false
+          },
+          {
+            "definition": "足够的行动；完成的事",
+            "iscorrect": false
+          },
+          {
+            "definition": "满足；满意感",
+            "iscorrect": true
+          },
+          {
+            "definition": "令人满意的事物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

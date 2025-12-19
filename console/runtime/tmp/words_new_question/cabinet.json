@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cabinet",
+      "error_analysis": "学生易因形近词\"cabin\"(小木屋)或\"cab\"(出租车)误判\"cabinet\"的核心含义",
+      "sentence": "She stored her favorite mugs in the wooden **cabinet** above the kitchen sink.",
+      "options": {
+        "option": [
+          {
+            "definition": "小木屋（cabin的常见义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "出租车（cab的常见义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "船舱（cabin的引申义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "橱柜（cabinet的核心家具义）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

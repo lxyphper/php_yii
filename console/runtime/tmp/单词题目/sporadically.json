@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sporadically",
+      "error_analysis": "学生易混淆形近词“spontaneously”（自发地）或错误猜测为“频繁地”，从而误解“sporadically”（偶尔地）的意思",
+      "sentence": "The old factory **sporadically** produces small batches of handmade toys, even though most of its operations have stopped.",
+      "options": {
+        "option": [
+          {
+            "definition": "偶尔地；间或地",
+            "iscorrect": true
+          },
+          {
+            "definition": "自发地；自动地",
+            "iscorrect": false
+          },
+          {
+            "definition": "频繁地；经常地",
+            "iscorrect": false
+          },
+          {
+            "definition": "有规律地；定期地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

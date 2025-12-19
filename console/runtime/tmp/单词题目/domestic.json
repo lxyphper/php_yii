@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "domestic",
+      "error_analysis": "学生易因形近词\"dominate\"（统治）误解\"domestic\"为\"统治的\"，或因\"domesticate\"（驯化）联想为\"驯化的\"",
+      "sentence": "She spends most of her time on **domestic** chores like cooking and cleaning.",
+      "options": {
+        "option": [
+          {
+            "definition": "家庭的；家务的",
+            "iscorrect": true
+          },
+          {
+            "definition": "统治的；主导的",
+            "iscorrect": false
+          },
+          {
+            "definition": "驯化的；被驯服的",
+            "iscorrect": false
+          },
+          {
+            "definition": "民主的；大众的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

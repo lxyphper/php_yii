@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "windstorm",
+      "error_analysis": "学生可能因拆分\"wind+storm\"字面直译（如\"风风暴\"），或混淆与\"rainstorm\"（暴雨）等近义复合词的含义。",
+      "sentence": "The small village suffered severe damage after a powerful **windstorm** blew down several trees and roofs.",
+      "options": {
+        "option": [
+          {
+            "definition": "强风暴",
+            "iscorrect": true
+          },
+          {
+            "definition": "暴雨",
+            "iscorrect": false
+          },
+          {
+            "definition": "风风暴",
+            "iscorrect": false
+          },
+          {
+            "definition": "沙尘暴",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

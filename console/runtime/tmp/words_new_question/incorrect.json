@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "incorrect",
+      "error_analysis": "学生易因形近词\"incomplete\"（不完整的）的干扰，将\"incorrect\"误理解为\"不完整的\"",
+      "sentence": "The teacher marked his answer as **incorrect** because he had misspelled the key word.",
+      "options": {
+        "option": [
+          {
+            "definition": "不正确的；错误的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不完整的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不重要的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不真实的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "conviction",
+      "error_analysis": "中国学生易因形近词“convention”（惯例）或词根“convince”（使信服）误将“conviction”理解为“惯例”或“说服”。",
+      "sentence": "Her **conviction** that education can change lives led her to start a charity for underprivileged children.",
+      "options": {
+        "option": [
+          {
+            "definition": "坚定的信念",
+            "iscorrect": true
+          },
+          {
+            "definition": "惯例",
+            "iscorrect": false
+          },
+          {
+            "definition": "说服（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "定罪",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

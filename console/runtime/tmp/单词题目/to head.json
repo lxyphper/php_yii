@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to head",
+      "error_analysis": "学生易因“head”的名词义“头”将动词“to head”误解为与头部动作相关（如“点头”），或混淆为“领导”（词根猜测）",
+      "sentence": "We are **heading** to the beach this weekend if the weather is nice.",
+      "options": {
+        "option": [
+          {
+            "definition": "朝向，前往",
+            "iscorrect": true
+          },
+          {
+            "definition": "点头",
+            "iscorrect": false
+          },
+          {
+            "definition": "领导",
+            "iscorrect": false
+          },
+          {
+            "definition": "治愈",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "metric ton",
+      "error_analysis": "学生易因“metric”与“metre”（米）的词根关联误判为“米吨”，或因形近词“metallic”（金属的）混淆为“金属吨”。",
+      "sentence": "The cargo ship can carry up to 50,000 **metric tons** of grain per voyage.",
+      "options": {
+        "option": [
+          {
+            "definition": "公吨（1000公斤，公制重量单位）",
+            "iscorrect": true
+          },
+          {
+            "definition": "米吨（每米长度对应的吨数，用于工程密度计算）",
+            "iscorrect": false
+          },
+          {
+            "definition": "金属吨（由金属材料制成的吨级容器）",
+            "iscorrect": false
+          },
+          {
+            "definition": "测量吨（用于精确测量的标准吨单位）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to fish",
+      "error_analysis": "学生易因“fish”的名词义（鱼）误将动词“to fish”理解为“做鱼”，或因形近词“dish”（盘子）误判为“装盘子”。",
+      "sentence": "My grandpa likes to **fish** by the lake every weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "钓鱼",
+            "iscorrect": true
+          },
+          {
+            "definition": "做鱼（烹饪鱼）",
+            "iscorrect": false
+          },
+          {
+            "definition": "装盘子",
+            "iscorrect": false
+          },
+          {
+            "definition": "喂鱼",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

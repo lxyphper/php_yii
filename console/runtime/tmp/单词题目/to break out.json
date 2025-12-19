@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to break out",
+      "error_analysis": "学生易因\"break\"（打破）和\"out\"（出去）的字面义，将\"to break out\"误理解为\"打破出去\"或\"物理性破裂\"，而非抽象的\"（战争、疾病等）爆发\"。",
+      "sentence": "When the COVID-19 pandemic **broke out** in late 2019, governments around the world launched massive vaccination campaigns to stop its spread.",
+      "options": {
+        "option": [
+          {
+            "definition": "（战争、疾病等）爆发",
+            "iscorrect": true
+          },
+          {
+            "definition": "打破并从某处出去",
+            "iscorrect": false
+          },
+          {
+            "definition": "闯入（某地）",
+            "iscorrect": false
+          },
+          {
+            "definition": "（机器或系统）停止运转",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

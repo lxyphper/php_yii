@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "publisher",
+      "error_analysis": "学生易因形近词\"punisher\"(惩罚者)产生混淆，或误将其理解为泛泛的\"发布者\"而非具体的\"出版机构\"。",
+      "sentence": "The new novel will be released next month by a well-known **publisher** specializing in literary fiction.",
+      "options": {
+        "option": [
+          {
+            "definition": "惩罚者",
+            "iscorrect": false
+          },
+          {
+            "definition": "出版商；出版机构",
+            "iscorrect": true
+          },
+          {
+            "definition": "印刷工",
+            "iscorrect": false
+          },
+          {
+            "definition": "发布者（如网站内容上传者）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

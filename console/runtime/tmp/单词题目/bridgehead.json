@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bridgehead",
+      "error_analysis": "学生易因\"bridge+head\"的字面组合误判为\"桥的头部/桥头\"，忽略其军事术语\"桥头堡\"的核心含义",
+      "sentence": "The army quickly secured a **bridgehead** on the enemy's riverbank to support后续 troop movements.",
+      "options": {
+        "option": [
+          {
+            "definition": "桥的头部；桥头",
+            "iscorrect": false
+          },
+          {
+            "definition": "（军事或比喻义的）桥头堡；立足点",
+            "iscorrect": true
+          },
+          {
+            "definition": "桥的入口；桥门",
+            "iscorrect": false
+          },
+          {
+            "definition": "桥的高度；桥顶",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

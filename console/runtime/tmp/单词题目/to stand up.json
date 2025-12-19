@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to stand up",
+      "error_analysis": "学生易因形近短语（如stand out）或字面误导，将to stand up误解为“突出”或“站在上面”",
+      "sentence": "When the teacher entered the classroom, all the students **stood up** to greet her.",
+      "options": {
+        "option": [
+          {
+            "definition": "站起来",
+            "iscorrect": true
+          },
+          {
+            "definition": "突出",
+            "iscorrect": false
+          },
+          {
+            "definition": "站在上面",
+            "iscorrect": false
+          },
+          {
+            "definition": "启动（机器等）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

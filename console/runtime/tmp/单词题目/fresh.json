@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fresh",
+      "error_analysis": "中国学生易将“fresh”与形近词“flesh”（肉）混淆，或误将其“新鲜的”义理解为“新的（未使用过的）”。",
+      "sentence": "The bakery around the corner makes delicious **fresh** bread every morning.",
+      "options": {
+        "option": [
+          {
+            "definition": "新鲜的（刚烤的，未变质的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "肉的",
+            "iscorrect": false
+          },
+          {
+            "definition": "新的（未使用过的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "精力充沛的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

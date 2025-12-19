@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "simile",
+      "error_analysis": "易因形近词\"smile\"(微笑)干扰或词根\"similis\"(相似)误导，误理解为\"微笑\"或\"相似的事物\"",
+      "sentence": "In the poem, the poet uses a **simile** when he describes \"Her hair flows like a river in the wind.\"",
+      "options": {
+        "option": [
+          {
+            "definition": "明喻（一种修辞手法，用like或as比较两个不同事物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "微笑（面部因快乐或友好而露出的表情）",
+            "iscorrect": false
+          },
+          {
+            "definition": "相似的物体或情况（外观或性质相近的事物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "隐喻（不使用like或as的隐含比喻）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

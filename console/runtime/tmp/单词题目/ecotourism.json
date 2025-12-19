@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ecotourism",
+      "error_analysis": "学生易因“eco-”与“economic”混淆将“ecotourism”误解为“经济旅游”，或忽略“eco-”前缀将其等同于“旅游”。",
+      "sentence": "Many countries in Southeast Asia are promoting **ecotourism** to attract visitors who want to experience nature while supporting local conservation efforts.",
+      "options": {
+        "option": [
+          {
+            "definition": "经济旅游",
+            "iscorrect": false
+          },
+          {
+            "definition": "旅游",
+            "iscorrect": false
+          },
+          {
+            "definition": "生态旅游（指前往自然区域、支持保护工作的负责任旅游）",
+            "iscorrect": true
+          },
+          {
+            "definition": "探险旅游",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

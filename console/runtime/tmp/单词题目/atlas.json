@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "atlas",
+      "error_analysis": "学生易因形近词“athlete”（运动员）产生混淆，或因词根误解为“激光设备”等工具。",
+      "sentence": "My dad keeps a large **atlas** on his desk to plan our family road trips.",
+      "options": {
+        "option": [
+          {
+            "definition": "地图集",
+            "iscorrect": true
+          },
+          {
+            "definition": "运动员",
+            "iscorrect": false
+          },
+          {
+            "definition": "激光设备",
+            "iscorrect": false
+          },
+          {
+            "definition": "寰椎",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

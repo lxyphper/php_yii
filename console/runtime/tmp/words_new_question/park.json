@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "park",
+      "error_analysis": "学生易将\"park\"误看成形近词\"part\"（部分），或混淆其与\"停车场\"的含义",
+      "sentence": "We decided to have a picnic in the **park** this weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "公园",
+            "iscorrect": true
+          },
+          {
+            "definition": "部分",
+            "iscorrect": false
+          },
+          {
+            "definition": "停车",
+            "iscorrect": false
+          },
+          {
+            "definition": "停车场",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

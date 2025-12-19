@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "July",
+      "error_analysis": "中国学生易因形近词混淆，将“July”误判为“jury”（陪审团）或“juice”（果汁）",
+      "sentence": "Our summer vacation starts in **July**, right after the final exams in June.",
+      "options": {
+        "option": [
+          {
+            "definition": "七月（月份）",
+            "iscorrect": true
+          },
+          {
+            "definition": "陪审团（司法群体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "果汁（饮料）",
+            "iscorrect": false
+          },
+          {
+            "definition": "六月（月份）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

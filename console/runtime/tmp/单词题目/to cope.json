@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to cope",
+      "error_analysis": "学生易因形近词“copy”（复制）产生错误联想，或误将“cope”理解为“覆盖”（cover）等无关含义",
+      "sentence": "After losing his job, Tom had to **cope** with financial problems and family pressure.",
+      "options": {
+        "option": [
+          {
+            "definition": "应对；处理（困难）",
+            "iscorrect": true
+          },
+          {
+            "definition": "复制；抄写",
+            "iscorrect": false
+          },
+          {
+            "definition": "覆盖；遮盖",
+            "iscorrect": false
+          },
+          {
+            "definition": "合作；协作",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

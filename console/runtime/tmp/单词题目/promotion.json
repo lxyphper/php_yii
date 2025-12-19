@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "promotion",
+      "error_analysis": "中国学生易因形近词“protection”（保护）或词根“mot”（移动）误导，将“promotion”误理解为“保护”或“运动”。",
+      "sentence": "After working hard for three years, Sarah finally got a **promotion** and became the manager of her department.",
+      "options": {
+        "option": [
+          {
+            "definition": "晋升",
+            "iscorrect": true
+          },
+          {
+            "definition": "保护",
+            "iscorrect": false
+          },
+          {
+            "definition": "运动",
+            "iscorrect": false
+          },
+          {
+            "definition": "推动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hair straighteners",
+      "error_analysis": "学生易将“straighteners”与形近词“strengtheners”混淆（误判为“头发增强剂”），或因字面误导认为是“头发拉直剂（药水）”而非“直发器（工具）”。",
+      "sentence": "Mom used the **hair straighteners** to turn her daughter's frizzy curly hair into a smooth, straight style for the birthday party.",
+      "options": {
+        "option": [
+          {
+            "definition": "直发器（用于拉直头发的工具）",
+            "iscorrect": true
+          },
+          {
+            "definition": "头发增强剂（用于强化头发的产品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "头发拉直剂（用于拉直头发的药水）",
+            "iscorrect": false
+          },
+          {
+            "definition": "头发梳理器（用于整理头发的工具）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

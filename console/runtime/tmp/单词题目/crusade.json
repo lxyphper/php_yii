@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "crusade",
+      "error_analysis": "学生易因形近词“cross”（十字）或词根“crux”（十字）错误联想为“十字形物体”或“交叉动作”，忽略其“（为事业的）运动”核心义。",
+      "sentence": "The environmental group launched a **crusade** against plastic waste to protect marine life.",
+      "options": {
+        "option": [
+          {
+            "definition": "（为某种事业的）运动；斗争",
+            "iscorrect": true
+          },
+          {
+            "definition": "十字形的标志或物体",
+            "iscorrect": false
+          },
+          {
+            "definition": "交叉或穿过的动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "剧烈的挤压或破碎",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

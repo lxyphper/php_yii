@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "puzzle",
+      "error_analysis": "学生易因形近词“push”（推）混淆“puzzle”的动词义（使困惑），或误将其理解为“解决”（因“puzzle out”的影响）",
+      "sentence": "The mysterious note **puzzled** Tom—he had no idea who sent it or why.",
+      "options": {
+        "option": [
+          {
+            "definition": "使困惑",
+            "iscorrect": true
+          },
+          {
+            "definition": "推",
+            "iscorrect": false
+          },
+          {
+            "definition": "解决",
+            "iscorrect": false
+          },
+          {
+            "definition": "小水洼",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

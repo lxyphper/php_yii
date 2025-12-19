@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "whodunit",
+      "error_analysis": "学生可能拆分\"who\"和\"dunit\"（误当\"did it\"），将其误解为“谁做了某事”的具体疑问，而非侦探小说/电影类型。",
+      "sentence": "She loves reading **whodunits** because she enjoys trying to solve the mystery before the ending.",
+      "options": {
+        "option": [
+          {
+            "definition": "侦探小说或电影（以“谁是凶手”为核心的故事）",
+            "iscorrect": true
+          },
+          {
+            "definition": "“谁做了这件事”的具体疑问",
+            "iscorrect": false
+          },
+          {
+            "definition": "谁的单元/单位",
+            "iscorrect": false
+          },
+          {
+            "definition": "关于谁的个人经历的故事",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

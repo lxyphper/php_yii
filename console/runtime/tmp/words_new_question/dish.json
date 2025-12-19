@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dish",
+      "error_analysis": "学生易混淆形近词fish（鱼）或误将dish仅理解为“盘子”，忽略其核心义“菜肴”",
+      "sentence": "The chef prepared a special **dish** for tonight's dinner party.",
+      "options": {
+        "option": [
+          {
+            "definition": "菜肴",
+            "iscorrect": true
+          },
+          {
+            "definition": "鱼",
+            "iscorrect": false
+          },
+          {
+            "definition": "盘子",
+            "iscorrect": false
+          },
+          {
+            "definition": "愿望",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

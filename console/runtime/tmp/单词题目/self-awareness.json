@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "self-awareness",
+      "error_analysis": "学生易混淆形近词“self-assessment”（自我评估），或因词根“awareness”与“awakeness”的联想误判为“自我觉醒”。",
+      "sentence": "Developing **self-awareness** helps you recognize your strengths and weaknesses, which is the first step toward personal improvement.",
+      "options": {
+        "option": [
+          {
+            "definition": "自我意识",
+            "iscorrect": true
+          },
+          {
+            "definition": "自我评估",
+            "iscorrect": false
+          },
+          {
+            "definition": "自我觉醒",
+            "iscorrect": false
+          },
+          {
+            "definition": "自我控制",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

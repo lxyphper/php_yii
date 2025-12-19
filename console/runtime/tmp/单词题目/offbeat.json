@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "offbeat",
+      "error_analysis": "学生易因\"off+beat\"的字面组合误解为\"偏离节拍的\"，而忽略其\"不寻常、另类\"的核心义",
+      "sentence": "Her taste in music is quite **offbeat**—she prefers old folk songs from the 1920s instead of modern pop.",
+      "options": {
+        "option": [
+          {
+            "definition": "不寻常的；另类的",
+            "iscorrect": true
+          },
+          {
+            "definition": "偏离节拍的；不合拍的",
+            "iscorrect": false
+          },
+          {
+            "definition": "疲惫的；筋疲力尽的",
+            "iscorrect": false
+          },
+          {
+            "definition": "过时的；落伍的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

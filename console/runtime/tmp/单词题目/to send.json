@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to send",
+      "error_analysis": "核心易错点为形近词“to spend”（花费）的混淆及对“send”核心义“发送/寄”的误判",
+      "sentence": "I need to **send** this package to my friend in New York before the post office closes.",
+      "options": {
+        "option": [
+          {
+            "definition": "发送；寄（某物给某人）",
+            "iscorrect": true
+          },
+          {
+            "definition": "花费（金钱/时间）",
+            "iscorrect": false
+          },
+          {
+            "definition": "送行；送别",
+            "iscorrect": false
+          },
+          {
+            "definition": "接收；收到",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

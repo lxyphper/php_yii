@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "candidate",
+      "error_analysis": "易因形近词“candle”（蜡烛）或词根“candid”（坦白的）误将“candidate”理解为“蜡烛”或“坦白的人”。",
+      "sentence": "They received over 100 **candidates** for the entry-level position.",
+      "options": {
+        "option": [
+          {
+            "definition": "候选人；申请者",
+            "iscorrect": true
+          },
+          {
+            "definition": "蜡烛",
+            "iscorrect": false
+          },
+          {
+            "definition": "坦白的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "糖果",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

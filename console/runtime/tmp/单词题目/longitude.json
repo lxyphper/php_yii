@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "longitude",
+      "error_analysis": "学生易因词根“long”（长）猜测为“长度”，或混淆形近词“longevity”（长寿）误判为“长寿”",
+      "sentence": "The prime meridian, which marks 0 degrees **longitude**, runs through Greenwich, a district in London.",
+      "options": {
+        "option": [
+          {
+            "definition": "长度",
+            "iscorrect": false
+          },
+          {
+            "definition": "长寿",
+            "iscorrect": false
+          },
+          {
+            "definition": "纬度",
+            "iscorrect": false
+          },
+          {
+            "definition": "经度",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

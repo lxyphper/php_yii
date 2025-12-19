@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to waste",
+      "error_analysis": "中国学生易因形近词“waist”（腰）混淆词义，或误将“waste”理解为中性的“花费”（spend）而非负面的“浪费”。",
+      "sentence": "Don't **waste** your time on that boring game—you should study for the exam.",
+      "options": {
+        "option": [
+          {
+            "definition": "浪费（时间、金钱等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "腰（身体部位）",
+            "iscorrect": false
+          },
+          {
+            "definition": "花费（时间、金钱）",
+            "iscorrect": false
+          },
+          {
+            "definition": "丢弃（某物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

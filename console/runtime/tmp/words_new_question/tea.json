@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tea",
+      "error_analysis": "学生易因形近词“tee”（球座）或“tear”（眼泪）产生错误联想，混淆“tea”的词义",
+      "sentence": "She likes to drink a cup of **tea** every morning to start her day.",
+      "options": {
+        "option": [
+          {
+            "definition": "茶",
+            "iscorrect": true
+          },
+          {
+            "definition": "球座（高尔夫球的发球区）",
+            "iscorrect": false
+          },
+          {
+            "definition": "眼泪（tear的过去式/过去分词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "团队（team的口语缩写）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

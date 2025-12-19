@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unqualified",
+      "error_analysis": "学生易因形近词（如unquestioned）或词根误导（将unqualified误解为\"无保留的\"）而混淆其核心义\"无资格的\"",
+      "sentence": "She was turned down for the job because she was **unqualified**—she had no experience in marketing.",
+      "options": {
+        "option": [
+          {
+            "definition": "毫无疑问的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无保留的；完全的",
+            "iscorrect": false
+          },
+          {
+            "definition": "未量化的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无资格的；不合格的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

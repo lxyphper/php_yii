@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "perhaps",
+      "error_analysis": "学生易因形近词\"proper\"（适当的）混淆，或拆分\"per\"+\"happen\"误判为\"经常\"",
+      "sentence": "I’m not sure if I can come to the party tonight—**perhaps** I’ll have to finish my homework first.",
+      "options": {
+        "option": [
+          {
+            "definition": "可能；也许",
+            "iscorrect": true
+          },
+          {
+            "definition": "适当的；合适的",
+            "iscorrect": false
+          },
+          {
+            "definition": "经常；常常",
+            "iscorrect": false
+          },
+          {
+            "definition": "必须；一定",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

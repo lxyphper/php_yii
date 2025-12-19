@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to launch",
+      "error_analysis": "中国学生易混淆形近词“lunch”（午餐）与“to launch”，或因词根“使船下水”的原始义过度直译其常用义。",
+      "sentence": "The tech company will **launch** its first foldable phone at the upcoming conference.",
+      "options": {
+        "option": [
+          {
+            "definition": "推出（新产品、服务等）；发射（火箭、卫星等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "吃午餐",
+            "iscorrect": false
+          },
+          {
+            "definition": "使船下水；将（物体）投掷出去",
+            "iscorrect": false
+          },
+          {
+            "definition": "着陆（火箭、飞机等）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "friendly",
+      "error_analysis": "混淆名词\"朋友\"(friend)与形容词\"友好的\"(friendly)，或误将\"-ly\"理解为所有格而非形容词后缀",
+      "sentence": "The shop assistant gave me a **friendly** smile when I entered the store.",
+      "options": {
+        "option": [
+          {
+            "definition": "友好的（形容词，用于描述人或事物的态度）",
+            "iscorrect": true
+          },
+          {
+            "definition": "朋友（名词，指某人的伙伴）",
+            "iscorrect": false
+          },
+          {
+            "definition": "朋友的（所有格，指属于朋友的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "友好地（副词，用于描述动作的方式）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

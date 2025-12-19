@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cheerfulness",
+      "error_analysis": "将词根“cheer”（欢呼）过度直译，误认为“欢呼的状态”，而非核心含义“愉快；高兴”",
+      "sentence": "Her **cheerfulness** lit up the room, making everyone feel happy and relaxed.",
+      "options": {
+        "option": [
+          {
+            "definition": "愉快；高兴",
+            "iscorrect": true
+          },
+          {
+            "definition": "欢呼的状态；热闹的氛围",
+            "iscorrect": false
+          },
+          {
+            "definition": "啦啦队的表演；热闹的活动",
+            "iscorrect": false
+          },
+          {
+            "definition": "积极的态度；热情",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

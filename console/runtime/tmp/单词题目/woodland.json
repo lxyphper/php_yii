@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "woodland",
+      "error_analysis": "学生易因\"wood+land\"的字面组合误译为\"木头的土地\"，或因\"wood\"的延伸义误理解为\"木材仓库\"。",
+      "sentence": "The **woodland** behind our house is home to many squirrels and deer.",
+      "options": {
+        "option": [
+          {
+            "definition": "林地（有树木生长的地区）",
+            "iscorrect": true
+          },
+          {
+            "definition": "木头的土地（指覆盖着木头的地面）",
+            "iscorrect": false
+          },
+          {
+            "definition": "木材仓库（存放木头的地方）",
+            "iscorrect": false
+          },
+          {
+            "definition": "木堆（堆积在一起的木头）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

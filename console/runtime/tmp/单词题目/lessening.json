@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lessening",
+      "error_analysis": "学生易因形近词“leasing”（租赁）或“lesson”（课）误将“lessening”理解为“租赁”或“上课”，或因“less”的字面义混淆“减少的过程”与“更少的事物”",
+      "sentence": "The doctor noticed a gradual **lessening** of the patient's pain after the treatment.",
+      "options": {
+        "option": [
+          {
+            "definition": "减少；减轻（的过程）",
+            "iscorrect": true
+          },
+          {
+            "definition": "租赁（的过程）",
+            "iscorrect": false
+          },
+          {
+            "definition": "上课（的过程）",
+            "iscorrect": false
+          },
+          {
+            "definition": "更少的事物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

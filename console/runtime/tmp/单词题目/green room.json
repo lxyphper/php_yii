@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "green room",
+      "error_analysis": "中国学生易将\"green room\"字面理解为\"绿色的房间\"或混淆为\"温室\"(greenhouse)等形近词含义",
+      "sentence": "Before the performance, the lead actor practiced his lines in the **green room** while waiting for his cue.",
+      "options": {
+        "option": [
+          {
+            "definition": "演员休息室",
+            "iscorrect": true
+          },
+          {
+            "definition": "绿色的房间",
+            "iscorrect": false
+          },
+          {
+            "definition": "温室（用于种植植物的房间）",
+            "iscorrect": false
+          },
+          {
+            "definition": "花园里的小木屋",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

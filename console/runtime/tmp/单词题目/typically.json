@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "typically",
+      "error_analysis": "学生可能因“type”（类型）的词根联想，将“typically”错误理解为“按类型地”。",
+      "sentence": "**Typically**, a cup of coffee in this café costs around $3.",
+      "options": {
+        "option": [
+          {
+            "definition": "典型地；通常",
+            "iscorrect": true
+          },
+          {
+            "definition": "按类型地",
+            "iscorrect": false
+          },
+          {
+            "definition": "偶尔地",
+            "iscorrect": false
+          },
+          {
+            "definition": "完全地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "paradigm",
+      "error_analysis": "将形近词“paragraph”（段落）的含义误迁移，或通过词根拆分（para-+digm）错误联想为“挖掘的行为”",
+      "sentence": "The rise of e-commerce has created a new **paradigm** for how consumers shop worldwide.",
+      "options": {
+        "option": [
+          {
+            "definition": "段落",
+            "iscorrect": false
+          },
+          {
+            "definition": "挖掘的行为",
+            "iscorrect": false
+          },
+          {
+            "definition": "模式；范例",
+            "iscorrect": true
+          },
+          {
+            "definition": "辅助工具",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "polyglot",
+      "error_analysis": "学生易因形近词\"polygon\"(多边形)或词根\"poly-\"(多)+\"glot\"(不熟悉)误判为\"多边形的\"或\"多才多艺的\"",
+      "sentence": "Maria is a **polyglot** who can speak English, Spanish, French, and Chinese fluently.",
+      "options": {
+        "option": [
+          {
+            "definition": "能说多种语言的人；多语言的",
+            "iscorrect": true
+          },
+          {
+            "definition": "多边形的",
+            "iscorrect": false
+          },
+          {
+            "definition": "多才多艺的",
+            "iscorrect": false
+          },
+          {
+            "definition": "多面的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

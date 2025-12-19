@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gambling",
+      "error_analysis": "学生易因形近词\"game\"（游戏）的联想，将\"gambling\"误理解为\"游戏活动\"，而非核心的\"赌博\"。",
+      "sentence": "John's life fell apart after he got hooked on **gambling**, losing his job and family due to his constant bets on sports and cards.",
+      "options": {
+        "option": [
+          {
+            "definition": "赌博（行为）",
+            "iscorrect": true
+          },
+          {
+            "definition": "游戏活动（如电子游戏）",
+            "iscorrect": false
+          },
+          {
+            "definition": "冒险行为（如尝试新事物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "娱乐消遣（泛指休闲活动）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

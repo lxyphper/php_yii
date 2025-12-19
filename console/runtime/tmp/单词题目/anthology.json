@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "anthology",
+      "error_analysis": "学生易将“anthology”与形近词“anthropology”（人类学）混淆，或误通过词根“anthro-”（人）猜测为“人类相关学科”。",
+      "sentence": "For our poetry unit, we will be reading an **anthology** that features poems from the Romantic era to the present day.",
+      "options": {
+        "option": [
+          {
+            "definition": "（诗歌、散文等的）选集",
+            "iscorrect": true
+          },
+          {
+            "definition": "人类学（学科）",
+            "iscorrect": false
+          },
+          {
+            "definition": "人类历史研究",
+            "iscorrect": false
+          },
+          {
+            "definition": "单个诗人的诗歌全集",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

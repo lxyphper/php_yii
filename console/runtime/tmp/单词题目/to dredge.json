@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to dredge",
+      "error_analysis": "学生易将\"to dredge\"与形近词\"dread\"（害怕）或\"drudge\"（苦工）混淆，或因\"edge\"（边缘）猜测为\"在边缘活动\"。",
+      "sentence": "The workers are using a machine to **dredge** the riverbed, clearing out silt so that larger boats can sail through.",
+      "options": {
+        "option": [
+          {
+            "definition": "害怕",
+            "iscorrect": false
+          },
+          {
+            "definition": "疏浚（河道、港口等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "做苦工",
+            "iscorrect": false
+          },
+          {
+            "definition": "在边缘行走",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

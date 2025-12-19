@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "labyrinthine",
+      "error_analysis": "学生易因\"lab\"形近联想到\"实验室\"或拆分词根为\"劳动\"，误判为\"与实验室相关的\"或\"需要劳动的\"",
+      "sentence": "The company's bureaucratic system is so **labyrinthine** that even old employees struggle to navigate it.",
+      "options": {
+        "option": [
+          {
+            "definition": "迷宫般的；复杂难懂的",
+            "iscorrect": true
+          },
+          {
+            "definition": "与实验室相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "需要大量劳动的",
+            "iscorrect": false
+          },
+          {
+            "definition": "线性的；直接的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to study",
+      "error_analysis": "学生易因形近词“sturdy”（结实的）将“to study”误理解为“变得结实”",
+      "sentence": "She goes to the library every evening to **study** for her math exam.",
+      "options": {
+        "option": [
+          {
+            "definition": "学习；攻读",
+            "iscorrect": true
+          },
+          {
+            "definition": "变得结实",
+            "iscorrect": false
+          },
+          {
+            "definition": "整理书房",
+            "iscorrect": false
+          },
+          {
+            "definition": "停留",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

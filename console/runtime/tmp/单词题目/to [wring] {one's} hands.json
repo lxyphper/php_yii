@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to [wring] {one's} hands",
+      "error_analysis": "学生易因不熟悉“wring”的短语含义，将其误理解为“握手”（动作联想）或“拧手（物理动作）”（字面误导）",
+      "sentence": "When she heard the bad news about her exam, she began to **wring her hands** nervously.",
+      "options": {
+        "option": [
+          {
+            "definition": "握手（表示问候）",
+            "iscorrect": false
+          },
+          {
+            "definition": "绞手（表示焦虑或无助）",
+            "iscorrect": true
+          },
+          {
+            "definition": "拧手（用力绞干，如拧毛巾）",
+            "iscorrect": false
+          },
+          {
+            "definition": "洗手（清洁双手）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

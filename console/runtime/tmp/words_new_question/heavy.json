@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "heavy",
+      "error_analysis": "学生易因形近词“heaven”（天堂）混淆，或用“重”的字面意思误判“heavy meal”等语境义",
+      "sentence": "After the party, she felt sick because she ate a **heavy** meal.",
+      "options": {
+        "option": [
+          {
+            "definition": "（食物）油腻的、难消化的",
+            "iscorrect": true
+          },
+          {
+            "definition": "天堂的",
+            "iscorrect": false
+          },
+          {
+            "definition": "重的（物理重量）",
+            "iscorrect": false
+          },
+          {
+            "definition": "健康的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

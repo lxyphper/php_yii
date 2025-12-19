@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "famous",
+      "error_analysis": "中国学生易将“famous”与形近词“familiar”（熟悉的）混淆，或通过“fam”联想到“family”（家庭的）而误判。",
+      "sentence": "The Eiffel Tower is one of the most **famous** landmarks in Paris.",
+      "options": {
+        "option": [
+          {
+            "definition": "熟悉的",
+            "iscorrect": false
+          },
+          {
+            "definition": "家庭的",
+            "iscorrect": false
+          },
+          {
+            "definition": "常见的",
+            "iscorrect": false
+          },
+          {
+            "definition": "著名的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

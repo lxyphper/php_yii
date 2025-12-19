@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "ano Domini",
+      "anno Damini",
+      "anno Domin",
+      "annu Domini"
+    ],
+    "correct_chunks": [
+      "ann",
+      "o",
+      "Dom",
+      "ini"
+    ],
+    "distractor_chunks": [
+      "an",
+      "Da",
+      "in",
+      "nu"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to augment",
+      "error_analysis": "中国学生易因形近词\"argument\"（争论）混淆词义，或因词根误解将其误判为\"补充；添加\"。",
+      "sentence": "The company plans to **augment** its product line with new eco-friendly items next year.",
+      "options": {
+        "option": [
+          {
+            "definition": "增加；扩大",
+            "iscorrect": true
+          },
+          {
+            "definition": "争论；辩论",
+            "iscorrect": false
+          },
+          {
+            "definition": "补充；添加",
+            "iscorrect": false
+          },
+          {
+            "definition": "预言；预测",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

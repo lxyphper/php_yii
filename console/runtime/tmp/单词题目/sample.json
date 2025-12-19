@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sample",
+      "error_analysis": "学生易因形近词“simple”（简单的）混淆，或误将“sample”理解为“例子”而非“样本/样品”",
+      "sentence": "The company sent me a **sample** of their new skincare product to try before I decided to buy it.",
+      "options": {
+        "option": [
+          {
+            "definition": "样本；样品",
+            "iscorrect": true
+          },
+          {
+            "definition": "简单的",
+            "iscorrect": false
+          },
+          {
+            "definition": "例子",
+            "iscorrect": false
+          },
+          {
+            "definition": "模型",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

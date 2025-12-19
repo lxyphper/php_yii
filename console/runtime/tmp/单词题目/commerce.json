@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "commerce",
+      "error_analysis": "学生易因形近词“common”（常见的）或误将“merce”联想起“mercy”（仁慈）而误解“commerce”的含义",
+      "sentence": "The city's economy relies heavily on **commerce** with neighboring countries.",
+      "options": {
+        "option": [
+          {
+            "definition": "商业；贸易",
+            "iscorrect": true
+          },
+          {
+            "definition": "常见的；普遍的",
+            "iscorrect": false
+          },
+          {
+            "definition": "仁慈；怜悯",
+            "iscorrect": false
+          },
+          {
+            "definition": "开始；着手",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

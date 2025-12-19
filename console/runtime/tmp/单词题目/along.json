@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "along",
+      "error_analysis": "混淆形近词\"alone\"(独自)及字面误导的\"长/延长\"含义",
+      "sentence": "We walked **along** the river bank, chatting about our plans for the weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "沿着；顺着",
+            "iscorrect": true
+          },
+          {
+            "definition": "独自地",
+            "iscorrect": false
+          },
+          {
+            "definition": "长的；延长的",
+            "iscorrect": false
+          },
+          {
+            "definition": "一起（与...同时）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

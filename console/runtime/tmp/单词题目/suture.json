@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "suture",
+      "error_analysis": "学生易因形近词`suite`（套房）混淆，或误猜词根含义导致理解错误",
+      "sentence": "The doctor used a fine **suture** to sew up the patient's cut.",
+      "options": {
+        "option": [
+          {
+            "definition": "套房",
+            "iscorrect": false
+          },
+          {
+            "definition": "结构",
+            "iscorrect": false
+          },
+          {
+            "definition": "缝合线",
+            "iscorrect": true
+          },
+          {
+            "definition": "确定的事物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

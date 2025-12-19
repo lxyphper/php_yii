@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to upset",
+      "error_analysis": "学生易将“upset”拆分为“up+set”，误理解为“向上设置”或“调整”，或混淆形近词“upbeat”导致错误",
+      "sentence": "Her mother’s illness **upset** her greatly.",
+      "options": {
+        "option": [
+          {
+            "definition": "向上设置；调整",
+            "iscorrect": false
+          },
+          {
+            "definition": "乐观的；积极的",
+            "iscorrect": false
+          },
+          {
+            "definition": "使心烦；使难过",
+            "iscorrect": true
+          },
+          {
+            "definition": "提高；增强",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

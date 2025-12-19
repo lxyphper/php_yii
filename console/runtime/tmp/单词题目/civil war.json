@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "civil war",
+      "error_analysis": "学生易因“civil”的“文明的”义项将“civil war”误理解为“文明战争”",
+      "sentence": "The country suffered a devastating **civil war** in the 1990s, with different factions fighting for control of the government.",
+      "options": {
+        "option": [
+          {
+            "definition": "文明战争",
+            "iscorrect": false
+          },
+          {
+            "definition": "公民战争",
+            "iscorrect": false
+          },
+          {
+            "definition": "世界大战",
+            "iscorrect": false
+          },
+          {
+            "definition": "内战",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

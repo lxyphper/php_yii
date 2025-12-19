@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "reformation",
+      "error_analysis": "中国学生易因形近词\"information\"（信息）混淆，或词根\"re-+form\"误判为\"再形式化\"，未抓住\"改革\"核心义。",
+      "sentence": "The government’s **reformation** of the healthcare system has made medical services more accessible to rural residents.",
+      "options": {
+        "option": [
+          {
+            "definition": "改革；改良",
+            "iscorrect": true
+          },
+          {
+            "definition": "信息；情报",
+            "iscorrect": false
+          },
+          {
+            "definition": "再形式化；形式调整",
+            "iscorrect": false
+          },
+          {
+            "definition": "形成；构成",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

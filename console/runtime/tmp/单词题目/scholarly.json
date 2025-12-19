@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "scholarly",
+      "error_analysis": "学生易因形近词\"scholar\"（学者）误判为\"学者的\"，或因词根关联\"school\"（学校）误理解为\"学校的\"",
+      "sentence": "The professor's **scholarly** article on ancient philosophy was cited in several top academic journals.",
+      "options": {
+        "option": [
+          {
+            "definition": "学术的；有学术深度的",
+            "iscorrect": true
+          },
+          {
+            "definition": "学者的（属于学者的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "学校的（与学校相关的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "聪明的；机智的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

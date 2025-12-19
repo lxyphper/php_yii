@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "resourceful",
+      "error_analysis": "学生易因形近词resource（资源）和词根-ful（充满…的）误判为“有资源的/资源丰富的”",
+      "sentence": "When the camping trip was ruined by rain, Sarah proved to be **resourceful**—she built a shelter with branches and found dry wood for a fire.",
+      "options": {
+        "option": [
+          {
+            "definition": "有资源的",
+            "iscorrect": false
+          },
+          {
+            "definition": "资源丰富的",
+            "iscorrect": false
+          },
+          {
+            "definition": "尊敬的",
+            "iscorrect": false
+          },
+          {
+            "definition": "足智多谋的，善于应变的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

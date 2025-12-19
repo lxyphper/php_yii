@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "invaluable",
+      "error_analysis": "学生易通过词根“value”和前缀“in-”的否定联想，误将“invaluable”理解为“无价值的”（与“valueless”混淆）",
+      "sentence": "Her advice during my job search was **invaluable**; it helped me land my dream position.",
+      "options": {
+        "option": [
+          {
+            "definition": "极有价值的",
+            "iscorrect": true
+          },
+          {
+            "definition": "无价值的",
+            "iscorrect": false
+          },
+          {
+            "definition": "难以估价的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不重要的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

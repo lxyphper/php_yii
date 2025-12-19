@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "eyeball",
+      "error_analysis": "学生易因词根拆分（eye+ball）仅识别名词义“眼球”，忽略动词义“仔细看/盯着看”",
+      "sentence": "The security guard **eyeballed** every person entering the building to ensure safety.",
+      "options": {
+        "option": [
+          {
+            "definition": "眉毛",
+            "iscorrect": false
+          },
+          {
+            "definition": "眼球",
+            "iscorrect": false
+          },
+          {
+            "definition": "仔细看；盯着看",
+            "iscorrect": true
+          },
+          {
+            "definition": "睫毛",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

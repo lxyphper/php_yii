@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "economy",
+      "error_analysis": "易因形近词“ecology”（生态学）或词根“eco-”（环境/家）误解为“生态”或“环境管理”。",
+      "sentence": "The government plans to cut taxes to stimulate the **economy** and create more jobs.",
+      "options": {
+        "option": [
+          {
+            "definition": "生态（学）",
+            "iscorrect": false
+          },
+          {
+            "definition": "经济（体系）",
+            "iscorrect": true
+          },
+          {
+            "definition": "环境管理",
+            "iscorrect": false
+          },
+          {
+            "definition": "家庭理财",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

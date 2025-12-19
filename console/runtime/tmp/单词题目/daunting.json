@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "daunting",
+      "error_analysis": "学生易因形近词\"dawning\"（黎明的）误解为\"开始的；有希望的\"，或因词根陌生直觉猜成\"困难的\"但未抓住\"令人畏惧\"的核心。",
+      "sentence": "The task of climbing Mount Everest seemed **daunting** to the inexperienced climber.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人畏惧的；令人退缩的",
+            "iscorrect": true
+          },
+          {
+            "definition": "黎明的；开始的",
+            "iscorrect": false
+          },
+          {
+            "definition": "困难的；麻烦的",
+            "iscorrect": false
+          },
+          {
+            "definition": "捐赠的；赠送的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

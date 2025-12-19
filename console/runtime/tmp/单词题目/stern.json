@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stern",
+      "error_analysis": "学生易因形近词“steer”（驾驶）的拼写干扰，或混淆其形容词“严厉的”与名词“船尾”的义项而误判。",
+      "sentence": "The principal gave a **stern** look to the students who were talking in class.",
+      "options": {
+        "option": [
+          {
+            "definition": "驾驶的",
+            "iscorrect": false
+          },
+          {
+            "definition": "船尾",
+            "iscorrect": false
+          },
+          {
+            "definition": "严厉的",
+            "iscorrect": true
+          },
+          {
+            "definition": "僵硬的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "quirky",
+      "error_analysis": "学生易因形近于\"quick\"（快的/聪明的）或\"quiet\"（安静的）而误解为\"快速的\"\"聪明的\"或\"安静的\"",
+      "sentence": "Her **quirky** fashion sense always makes her stand out—she wears polka-dot dresses with striped socks!",
+      "options": {
+        "option": [
+          {
+            "definition": "古怪的；离奇的",
+            "iscorrect": true
+          },
+          {
+            "definition": "快速的",
+            "iscorrect": false
+          },
+          {
+            "definition": "聪明的",
+            "iscorrect": false
+          },
+          {
+            "definition": "安静的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "shellfish",
+      "error_analysis": "学生易因“shell”（壳）与“fish”（鱼）的字面组合，误将“shellfish”理解为“有壳的鱼”或“贝壳”，而非其核心义“贝类/甲壳类等水生无脊椎动物”。",
+      "sentence": "My mom bought some fresh **shellfish** from the market to make clam chowder and shrimp stir-fry tonight.",
+      "options": {
+        "option": [
+          {
+            "definition": "贝类；甲壳类等水生无脊椎动物",
+            "iscorrect": true
+          },
+          {
+            "definition": "有壳的鱼",
+            "iscorrect": false
+          },
+          {
+            "definition": "贝壳",
+            "iscorrect": false
+          },
+          {
+            "definition": "鱼类的一种",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

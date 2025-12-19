@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "clearly",
+      "error_analysis": "学生易因形近词\"cleanly\"(干净地)产生联想，或误将副词\"clearly\"理解为形容词\"清楚的\"。",
+      "sentence": "She explained the problem **clearly**, so everyone understood it immediately.",
+      "options": {
+        "option": [
+          {
+            "definition": "清楚地；显然地",
+            "iscorrect": true
+          },
+          {
+            "definition": "干净地",
+            "iscorrect": false
+          },
+          {
+            "definition": "清楚的",
+            "iscorrect": false
+          },
+          {
+            "definition": "明亮地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

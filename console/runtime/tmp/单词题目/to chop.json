@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to chop",
+      "error_analysis": "中国学生易因“chop”与形近词“shop”（商店）混淆而误判为“购物”，或因与“chip”（削）形近而误解为“切成碎片”",
+      "sentence": "My dad asked me to **chop** some wood for the fire before dinner.",
+      "options": {
+        "option": [
+          {
+            "definition": "砍；剁",
+            "iscorrect": true
+          },
+          {
+            "definition": "购物",
+            "iscorrect": false
+          },
+          {
+            "definition": "切成碎片",
+            "iscorrect": false
+          },
+          {
+            "definition": "复制",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

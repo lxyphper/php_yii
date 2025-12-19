@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ceremony",
+      "error_analysis": "学生易因形近词\"ceramic\"(陶瓷)及词根\"cere-\"(蜡)的误导，将\"ceremony\"误判为\"陶瓷制品\"或\"蜡制物品\"",
+      "sentence": "The graduation **ceremony** will be held in the school auditorium next Friday.",
+      "options": {
+        "option": [
+          {
+            "definition": "仪式；典礼",
+            "iscorrect": true
+          },
+          {
+            "definition": "陶瓷制品",
+            "iscorrect": false
+          },
+          {
+            "definition": "蜡制物品",
+            "iscorrect": false
+          },
+          {
+            "definition": "隆重的举止",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

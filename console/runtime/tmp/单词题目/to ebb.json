@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to ebb",
+      "error_analysis": "学生易因形近词\"web\"（网）或词根猜测误将\"ebb\"理解为\"边缘\"（edge）。",
+      "sentence": "As the night wore on, the crowd's excitement began to **ebb**, and people started to leave.",
+      "options": {
+        "option": [
+          {
+            "definition": "（潮水）退去；减弱，衰退",
+            "iscorrect": true
+          },
+          {
+            "definition": "网",
+            "iscorrect": false
+          },
+          {
+            "definition": "边缘",
+            "iscorrect": false
+          },
+          {
+            "definition": "增加",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

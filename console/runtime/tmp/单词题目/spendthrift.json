@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "spendthrift",
+      "error_analysis": "学生易因词根“thrift”（节俭）的误导，将spendthrift误判为“花钱节俭的人”",
+      "sentence": "Despite earning a good salary, Tom is a **spendthrift** who always buys expensive clothes and eats at fancy restaurants, leaving him with no savings at the end of the month.",
+      "options": {
+        "option": [
+          {
+            "definition": "挥霍无度的人；败家子",
+            "iscorrect": true
+          },
+          {
+            "definition": "花钱节俭的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "喜欢购物的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "吝啬的人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "back door",
+      "error_analysis": "学生易将比喻义误解为字面的“房屋后面的门”，或混淆为“后院入口”等形近相关义",
+      "sentence": "The politician was caught using a **back door** to secure the contract without going through proper channels.",
+      "options": {
+        "option": [
+          {
+            "definition": "房屋后面的实际门",
+            "iscorrect": false
+          },
+          {
+            "definition": "后院的入口",
+            "iscorrect": false
+          },
+          {
+            "definition": "秘密途径；不正当的方法",
+            "iscorrect": true
+          },
+          {
+            "definition": "隐藏的储物空间",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

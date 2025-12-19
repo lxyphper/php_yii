@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to skip",
+      "error_analysis": "中国学生易因形近词“slip”（滑）或“skate”（滑冰）的联想，将“skip”错误理解为“滑”或“滑冰”。",
+      "sentence": "When reading the novel, I usually **skip** the long descriptions of the scenery to get to the plot faster.",
+      "options": {
+        "option": [
+          {
+            "definition": "跳过；略过",
+            "iscorrect": true
+          },
+          {
+            "definition": "滑；滑倒",
+            "iscorrect": false
+          },
+          {
+            "definition": "滑冰；滑雪",
+            "iscorrect": false
+          },
+          {
+            "definition": "跳跃；蹦跳",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

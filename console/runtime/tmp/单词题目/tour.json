@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tour",
+      "error_analysis": "学生易混淆形近词“tower”（塔）或误由词根联想为“旋转”，而非“旅行；观光”的核心含义",
+      "sentence": "We're planning a **tour** of the ancient city to visit all the historical sites.",
+      "options": {
+        "option": [
+          {
+            "definition": "旅行；观光",
+            "iscorrect": true
+          },
+          {
+            "definition": "塔；高楼",
+            "iscorrect": false
+          },
+          {
+            "definition": "旋转；转圈",
+            "iscorrect": false
+          },
+          {
+            "definition": "工具；设备",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

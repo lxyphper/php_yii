@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "outside",
+      "error_analysis": "学生易因形近词“outset”（开始的）产生误判，或因“out+side”字面误导将其过度直译为“在边外的”。",
+      "sentence": "The company decided to bring in **outside** talent to lead the new department.",
+      "options": {
+        "option": [
+          {
+            "definition": "外部的；来自外面的",
+            "iscorrect": true
+          },
+          {
+            "definition": "开始的；最初的",
+            "iscorrect": false
+          },
+          {
+            "definition": "在边外的",
+            "iscorrect": false
+          },
+          {
+            "definition": "向外的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to parley",
+      "error_analysis": "学生易因形近词（如paralyze/parcel）误以为“使瘫痪”或“包裹”，或因词根“parler”（说话）猜测为“普通交谈”，忽略其“敌对双方谈判”的核心义。",
+      "sentence": "The two warring factions agreed to **parley** at the border to discuss a ceasefire.",
+      "options": {
+        "option": [
+          {
+            "definition": "谈判，和谈（尤指敌对双方之间）",
+            "iscorrect": true
+          },
+          {
+            "definition": "使瘫痪，使无力",
+            "iscorrect": false
+          },
+          {
+            "definition": "包裹，打包",
+            "iscorrect": false
+          },
+          {
+            "definition": "说话，交谈",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

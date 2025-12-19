@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to hope",
+      "error_analysis": "形近词“to hop”（跳）的拼写相似性导致学生将“to hope”误理解为“跳”或“跳跃”。",
+      "sentence": "She always **hopes** to visit Paris with her family during the summer vacation.",
+      "options": {
+        "option": [
+          {
+            "definition": "希望（to want something to happen and believe it might be possible）",
+            "iscorrect": true
+          },
+          {
+            "definition": "跳（to jump on one foot or move quickly）",
+            "iscorrect": false
+          },
+          {
+            "definition": "打开（to make something not closed）",
+            "iscorrect": false
+          },
+          {
+            "definition": "等待（to stay in a place until someone or something comes）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

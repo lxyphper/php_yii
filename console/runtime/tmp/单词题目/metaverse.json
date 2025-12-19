@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "metaverse",
+      "error_analysis": "学生易因形近词\"universe\"（宇宙）及\"meta-+verse\"的错误词根拆分，将\"metaverse\"误判为\"超级宇宙\"或\"元诗节\"等含义。",
+      "sentence": "Many tech companies are investing heavily in building the **metaverse**, where users can interact with each other in a fully immersive digital environment.",
+      "options": {
+        "option": [
+          {
+            "definition": "元宇宙（一个沉浸式的虚拟数字世界）",
+            "iscorrect": true
+          },
+          {
+            "definition": "超级宇宙（比普通宇宙更高级的现实空间）",
+            "iscorrect": false
+          },
+          {
+            "definition": "元诗节（由\"元\"和\"诗节\"组合的文学概念）",
+            "iscorrect": false
+          },
+          {
+            "definition": "多元宇宙（包含多个平行宇宙的集合）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

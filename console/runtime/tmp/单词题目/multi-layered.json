@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "multi-layered",
+      "error_analysis": "学生易混淆形近词\"multiplied\"(乘以的)，或仅将\"layer\"直译为物理层而忽略引申义\"复杂的、多层次的\"",
+      "sentence": "The novel is praised for its **multi-layered** plot, which explores themes of love, betrayal, and redemption.",
+      "options": {
+        "option": [
+          {
+            "definition": "多层次的；复杂的（指事物有多个层面或维度）",
+            "iscorrect": true
+          },
+          {
+            "definition": "乘以的；增加的（如数字相乘后的结果）",
+            "iscorrect": false
+          },
+          {
+            "definition": "物理上多层的；有很多层的（如布料、蛋糕等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "多学科的；跨领域的（涉及多个学科）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

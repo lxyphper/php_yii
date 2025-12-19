@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "spoof",
+      "error_analysis": "学生易因形近词\"spoon\"(勺子)或词根联想\"spoiled\"(被宠坏的)误判\"spoof\"的含义。",
+      "sentence": "The comedy team performed a hilarious **spoof** of the president's speech, exaggerating his mannerisms to make the audience laugh.",
+      "options": {
+        "option": [
+          {
+            "definition": "勺子",
+            "iscorrect": false
+          },
+          {
+            "definition": "讽刺性模仿；恶搞",
+            "iscorrect": true
+          },
+          {
+            "definition": "被宠坏的",
+            "iscorrect": false
+          },
+          {
+            "definition": "证据",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

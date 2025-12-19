@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to culminate",
+      "error_analysis": "学生易因形近词（如calculate/cultivate）或词根\"cum\"（累积）误解为\"计算\"\"培养\"或\"累积\"，而非\"达到顶点\"",
+      "sentence": "The month-long art exhibition will **culminate** in a gala dinner featuring live performances by local artists.",
+      "options": {
+        "option": [
+          {
+            "definition": "达到顶点（或高潮）",
+            "iscorrect": true
+          },
+          {
+            "definition": "计算；估算",
+            "iscorrect": false
+          },
+          {
+            "definition": "累积；积聚",
+            "iscorrect": false
+          },
+          {
+            "definition": "培养；培育",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

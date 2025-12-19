@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "husky",
+      "error_analysis": "学生易因熟词僻义（名词“哈士奇”）或形近词“husband”（丈夫）的干扰，误将形容词“husky”（沙哑的）理解为“哈士奇犬”或“丈夫的”",
+      "sentence": "The singer’s **husky** voice made the song more touching.",
+      "options": {
+        "option": [
+          {
+            "definition": "哈士奇犬",
+            "iscorrect": false
+          },
+          {
+            "definition": "丈夫的",
+            "iscorrect": false
+          },
+          {
+            "definition": "（声音）沙哑的",
+            "iscorrect": true
+          },
+          {
+            "definition": "多壳的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "case",
+      "error_analysis": "中国学生易因形近词“cake”（蛋糕）产生错误联想，或误将“case”核心词义（情况/案例）理解为字面义“盒子”。",
+      "sentence": "In this **case**, we need to change our plan immediately.",
+      "options": {
+        "option": [
+          {
+            "definition": "蛋糕",
+            "iscorrect": false
+          },
+          {
+            "definition": "盒子",
+            "iscorrect": false
+          },
+          {
+            "definition": "情况；案例",
+            "iscorrect": true
+          },
+          {
+            "definition": "投射",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

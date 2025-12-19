@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to blanch",
+      "error_analysis": "因形近词\"branch\"（树枝）干扰易误为\"分枝\"，或因词根\"bl-\"联想到\"bleach\"（漂白）误为\"漂白\"",
+      "sentence": "Before making the salad, you should **blanch** the green beans to soften them slightly.",
+      "options": {
+        "option": [
+          {
+            "definition": "把（蔬菜等）用沸水快速煮一下（焯）",
+            "iscorrect": true
+          },
+          {
+            "definition": "（植物）分枝；分叉",
+            "iscorrect": false
+          },
+          {
+            "definition": "漂白；使变白",
+            "iscorrect": false
+          },
+          {
+            "definition": "使空白；忽略",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

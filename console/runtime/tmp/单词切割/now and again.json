@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "now an again",
+      "now and agin",
+      "now end again",
+      "now and aggain"
+    ],
+    "correct_chunks": [
+      "now",
+      "and",
+      "again"
+    ],
+    "distractor_chunks": [
+      "an",
+      "agin",
+      "end",
+      "aggain"
+    ]
+  },
+  0
+]

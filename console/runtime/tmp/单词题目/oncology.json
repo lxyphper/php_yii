@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "oncology",
+      "error_analysis": "学生易因形近词“ontology”（本体论）或“ecology”（生态学）混淆，或因不熟悉“onco-”（肿瘤）词根而误判词义。",
+      "sentence": "Dr. Lee, a leading expert in **oncology**, has developed a new therapy for lung cancer patients.",
+      "options": {
+        "option": [
+          {
+            "definition": "肿瘤学",
+            "iscorrect": true
+          },
+          {
+            "definition": "本体论",
+            "iscorrect": false
+          },
+          {
+            "definition": "生态学",
+            "iscorrect": false
+          },
+          {
+            "definition": "鸟类学",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

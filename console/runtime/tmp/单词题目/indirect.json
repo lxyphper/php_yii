@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "indirect",
+      "error_analysis": "中国学生易因形近词“indicate”（指示）干扰，将“indirect”误理解为“暗示/指示”，或对“in-+direct”词根过度直译（如“不诚实的”）。",
+      "sentence": "The manager gave an **indirect** hint about the upcoming changes instead of telling us directly.",
+      "options": {
+        "option": [
+          {
+            "definition": "间接的",
+            "iscorrect": true
+          },
+          {
+            "definition": "暗示/指示",
+            "iscorrect": false
+          },
+          {
+            "definition": "不诚实的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无方向的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stimulating",
+      "error_analysis": "中国学生易因形近词“stinging”误判为“刺痛的”，或因词根“stim-”过度直译为“物理刺激的”，忽略其“令人兴奋/深思的”核心义。",
+      "sentence": "The professor's **stimulating** lecture on artificial intelligence kept the entire class engaged and eager to ask questions.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人兴奋的；引人深思的",
+            "iscorrect": true
+          },
+          {
+            "definition": "刺痛的；尖锐的",
+            "iscorrect": false
+          },
+          {
+            "definition": "刺激的（物理上的；引起疼痛的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "被刺激的；受激发的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

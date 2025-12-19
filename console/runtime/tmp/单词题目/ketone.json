@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ketone",
+      "error_analysis": "学生易因形近词\"kettle\"(水壶)或\"tone\"(音调)混淆，误猜\"ketone\"为\"水壶\"或\"关键音调\"。",
+      "sentence": "When the body breaks down fat for energy, it produces **ketones**, which are often monitored in people following low-carb diets.",
+      "options": {
+        "option": [
+          {
+            "definition": "水壶（一种盛水的容器）",
+            "iscorrect": false
+          },
+          {
+            "definition": "关键音调（重要的声音或语气）",
+            "iscorrect": false
+          },
+          {
+            "definition": "酮（一种有机化学化合物，脂肪代谢的产物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "小猫（年幼的猫）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

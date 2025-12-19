@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "blouse",
+      "error_analysis": "学生易因“blouse”与“house”（房子）、“mouse”（老鼠）的形近，或对其“宽松”原意的字面误导，错误联想为“房子”“老鼠”或“宽松的布”",
+      "sentence": "She chose a striped **blouse** to go with her black trousers for the meeting.",
+      "options": {
+        "option": [
+          {
+            "definition": "女衬衫；短上衣",
+            "iscorrect": true
+          },
+          {
+            "definition": "房子",
+            "iscorrect": false
+          },
+          {
+            "definition": "老鼠",
+            "iscorrect": false
+          },
+          {
+            "definition": "宽松的布",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

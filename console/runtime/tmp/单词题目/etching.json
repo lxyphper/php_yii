@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "etching",
+      "error_analysis": "中国学生易混淆形近词“fetching”（迷人的），或因词根“etch”推导为“蚀刻过程”而非“蚀刻版画”。",
+      "sentence": "The museum displayed a 19th-century **etching** with delicate lines, depicting the streets of old London.",
+      "options": {
+        "option": [
+          {
+            "definition": "迷人的",
+            "iscorrect": false
+          },
+          {
+            "definition": "蚀刻版画",
+            "iscorrect": true
+          },
+          {
+            "definition": "蚀刻的过程",
+            "iscorrect": false
+          },
+          {
+            "definition": "素描",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

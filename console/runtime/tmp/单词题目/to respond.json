@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to respond",
+      "error_analysis": "易因形近词\"responsible\"误理解为\"负责\"，或因词根\"spond\"与\"sponsor\"混淆误理解为\"赞助\"",
+      "sentence": "When the teacher asked the question, Mary raised her hand to **respond**.",
+      "options": {
+        "option": [
+          {
+            "definition": "回答；回应",
+            "iscorrect": true
+          },
+          {
+            "definition": "负责",
+            "iscorrect": false
+          },
+          {
+            "definition": "赞助",
+            "iscorrect": false
+          },
+          {
+            "definition": "支持",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to escalate",
+      "error_analysis": "学生易因形近词\"escalator\"(自动扶梯)联想为\"(使)上升(物理位置)\",或词根\"scala\"(梯子)猜测为\"爬梯子\",忽略\"（使）升级/加剧\"的核心义",
+      "sentence": "The dispute between the two families **escalated** when one side refused to apologize for breaking the other's window.",
+      "options": {
+        "option": [
+          {
+            "definition": "（使）升级；（使）加剧",
+            "iscorrect": true
+          },
+          {
+            "definition": "（使）估计；评价",
+            "iscorrect": false
+          },
+          {
+            "definition": "（使）上升（如物理位置）",
+            "iscorrect": false
+          },
+          {
+            "definition": "爬梯子；逐步攀登",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

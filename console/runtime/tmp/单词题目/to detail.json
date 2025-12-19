@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to detail",
+      "error_analysis": "中国学生易因\"detail\"的名词\"细节\"误解动词为\"包含细节\"，或因词根\"de-\"（向下）和\"tail\"（尾巴）联想为\"分解成细节\"。",
+      "sentence": "The detective asked the witness to **detail** what happened on the night of the crime.",
+      "options": {
+        "option": [
+          {
+            "definition": "详细说明；详述",
+            "iscorrect": true
+          },
+          {
+            "definition": "分解成细节；拆分成部分",
+            "iscorrect": false
+          },
+          {
+            "definition": "包含细节；列出细节",
+            "iscorrect": false
+          },
+          {
+            "definition": "跟踪；尾随",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

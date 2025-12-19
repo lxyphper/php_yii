@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "optimal",
+      "error_analysis": "易因形近词\"optional\"(可选的)或词根关联\"optimistic\"(乐观的)误判为\"可选的\"或\"乐观的\"",
+      "sentence": "To get the best results from your workout, you need to find your **optimal** heart rate zone.",
+      "options": {
+        "option": [
+          {
+            "definition": "最佳的；最优的",
+            "iscorrect": true
+          },
+          {
+            "definition": "可选的；非强制的",
+            "iscorrect": false
+          },
+          {
+            "definition": "乐观的；有信心的",
+            "iscorrect": false
+          },
+          {
+            "definition": "明显的；显著的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "enfeebled",
+      "error_analysis": "学生易将enfeebled与形近词enabled（使能够）混淆，或因不认识feeble而误猜为“加强的”。",
+      "sentence": "The long illness **enfeebled** him so much that he could barely walk.",
+      "options": {
+        "option": [
+          {
+            "definition": "使能够的",
+            "iscorrect": false
+          },
+          {
+            "definition": "加强的",
+            "iscorrect": false
+          },
+          {
+            "definition": "虚弱的；使虚弱的",
+            "iscorrect": true
+          },
+          {
+            "definition": "自由的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

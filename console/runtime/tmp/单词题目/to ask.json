@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to ask",
+      "error_analysis": "学生易因形近词“task”（任务）或误将“ask”与“tell”（告诉）混淆而偏离其核心词义（询问/请求）",
+      "sentence": "Could you **ask** the teacher about tomorrow's homework?",
+      "options": {
+        "option": [
+          {
+            "definition": "询问；请求",
+            "iscorrect": true
+          },
+          {
+            "definition": "任务",
+            "iscorrect": false
+          },
+          {
+            "definition": "告诉",
+            "iscorrect": false
+          },
+          {
+            "definition": "请求得到某物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

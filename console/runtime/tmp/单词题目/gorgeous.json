@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gorgeous",
+      "error_analysis": "学生易因形近词\"glorious\"（光荣的）或词根\"gorge\"（峡谷）误将\"gorgeous\"理解为\"光荣的\"或\"巨大的\"",
+      "sentence": "She wore a **gorgeous** red dress to the party, and everyone couldn't take their eyes off her.",
+      "options": {
+        "option": [
+          {
+            "definition": "漂亮的；华丽的",
+            "iscorrect": true
+          },
+          {
+            "definition": "光荣的；辉煌的",
+            "iscorrect": false
+          },
+          {
+            "definition": "巨大的；险峻的",
+            "iscorrect": false
+          },
+          {
+            "definition": "慷慨的；大方的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

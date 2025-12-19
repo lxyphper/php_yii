@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fan",
+      "error_analysis": "中国学生易将“fan”与形近词“fun”（乐趣）混淆，或误将表示“粉丝”的语境理解为“风扇”。",
+      "sentence": "My little sister is a huge **fan** of that cartoon; she collects all its merchandise.",
+      "options": {
+        "option": [
+          {
+            "definition": "粉丝（某人/某物的狂热爱好者）",
+            "iscorrect": true
+          },
+          {
+            "definition": "乐趣（使人快乐的事物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "风扇（用来吹风的电器）",
+            "iscorrect": false
+          },
+          {
+            "definition": "扇子（用来扇风的工具）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

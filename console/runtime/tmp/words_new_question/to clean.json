@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to clean",
+      "error_analysis": "中国学生易将“to clean”与形近词“clear”混淆（误作“清除”），或误理解为“保持干净”（字面引申）。",
+      "sentence": "I need **to clean** the fridge—there are old food scraps inside that are starting to smell.",
+      "options": {
+        "option": [
+          {
+            "definition": "打扫；清洁",
+            "iscorrect": true
+          },
+          {
+            "definition": "清除；使清楚",
+            "iscorrect": false
+          },
+          {
+            "definition": "保持干净；维持清洁",
+            "iscorrect": false
+          },
+          {
+            "definition": "整理；收拾",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

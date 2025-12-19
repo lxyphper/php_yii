@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "extracurricular",
+      "error_analysis": "易因词根\"extra+curricular\"错误理解为\"课程内的额外内容\"，或因形近词\"extraordinary\"混淆为\"非凡的\"",
+      "sentence": "She joined the school’s **extracurricular** drama club to pursue her interest in acting outside of class.",
+      "options": {
+        "option": [
+          {
+            "definition": "课外的（用于描述活动等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "课程内的额外内容",
+            "iscorrect": false
+          },
+          {
+            "definition": "非凡的",
+            "iscorrect": false
+          },
+          {
+            "definition": "课堂内的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

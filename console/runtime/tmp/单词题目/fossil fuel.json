@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fossil fuel",
+      "error_analysis": "学生易将‘fossil’与形近词‘forest’（森林）混淆，或因字面理解误判为‘古老的燃料’",
+      "sentence": "To protect the environment, many governments are encouraging the use of renewable energy instead of **fossil fuels** such as coal and oil.",
+      "options": {
+        "option": [
+          {
+            "definition": "化石燃料",
+            "iscorrect": true
+          },
+          {
+            "definition": "森林燃料",
+            "iscorrect": false
+          },
+          {
+            "definition": "古老的燃料",
+            "iscorrect": false
+          },
+          {
+            "definition": "霜燃料",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

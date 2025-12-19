@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cake",
+      "error_analysis": "学生易因形近词“cage”（笼子）的字形相似而误判“cake”的含义",
+      "sentence": "My mom made a chocolate **cake** for my birthday.",
+      "options": {
+        "option": [
+          {
+            "definition": "蛋糕",
+            "iscorrect": true
+          },
+          {
+            "definition": "笼子",
+            "iscorrect": false
+          },
+          {
+            "definition": "烤（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "猫",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

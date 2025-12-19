@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "slander",
+      "error_analysis": "学生易因形近词`slender`（苗条的）及发音相似，将`slander`误理解为“苗条的”",
+      "sentence": "The actress sued the tabloid for publishing **slander** about her relationship, claiming it damaged her career.",
+      "options": {
+        "option": [
+          {
+            "definition": "诽谤；诋毁",
+            "iscorrect": true
+          },
+          {
+            "definition": "苗条的",
+            "iscorrect": false
+          },
+          {
+            "definition": "着陆器（如月球着陆器）",
+            "iscorrect": false
+          },
+          {
+            "definition": "抱怨；发牢骚",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

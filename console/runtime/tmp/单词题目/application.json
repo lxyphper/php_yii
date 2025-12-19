@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "application",
+      "error_analysis": "中国学生易将“application”与形近词“applicant”（申请人）混淆，或因“apply”的“应用”义而忽略其“申请”的核心义项",
+      "sentence": "To apply for the internship, you need to complete an **application** form and attach your resume.",
+      "options": {
+        "option": [
+          {
+            "definition": "申请（书/表）",
+            "iscorrect": true
+          },
+          {
+            "definition": "申请人",
+            "iscorrect": false
+          },
+          {
+            "definition": "应用",
+            "iscorrect": false
+          },
+          {
+            "definition": "适用",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to wash",
+      "error_analysis": "学生易将“wash”与形近词“watch”（观看）、“wish”（希望）混淆，或误理解为“浇水”",
+      "sentence": "Please help me **wash** the dishes after dinner.",
+      "options": {
+        "option": [
+          {
+            "definition": "洗；洗涤",
+            "iscorrect": true
+          },
+          {
+            "definition": "观看",
+            "iscorrect": false
+          },
+          {
+            "definition": "希望",
+            "iscorrect": false
+          },
+          {
+            "definition": "浇水",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

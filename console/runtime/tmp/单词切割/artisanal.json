@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "artesanal",
+      "artizanal",
+      "artisnal",
+      "artisanel",
+      "aritisanal"
+    ],
+    "correct_chunks": [
+      "ar",
+      "ti",
+      "sa",
+      "nal"
+    ],
+    "distractor_chunks": [
+      "te",
+      "za",
+      "sn",
+      "nel",
+      "iti"
+    ]
+  },
+  0
+]

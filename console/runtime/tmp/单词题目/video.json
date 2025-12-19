@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "video",
+      "error_analysis": "混淆形近词audio（音频）导致将video误判为听觉相关内容，或因词根vid-（看）与view（观点）的错误联想产生歧义",
+      "sentence": "She shared a funny **video** of her cat chasing a butterfly in the garden on WeChat.",
+      "options": {
+        "option": [
+          {
+            "definition": "视频（通过电子手段记录的动态图像内容）",
+            "iscorrect": true
+          },
+          {
+            "definition": "音频（通过电子手段记录的声音内容）",
+            "iscorrect": false
+          },
+          {
+            "definition": "观点（对某事物的看法或意见）",
+            "iscorrect": false
+          },
+          {
+            "definition": "图片（静态的视觉图像）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

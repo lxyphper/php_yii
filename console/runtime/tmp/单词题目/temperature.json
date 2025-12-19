@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "temperature",
+      "error_analysis": "将“temperature”与形近词“temper”（脾气）关联，误以为表示“情绪状态或脾气的程度”",
+      "sentence": "The meteorologist said the **temperature** will drop below zero tonight, so we need to wear warm clothes.",
+      "options": {
+        "option": [
+          {
+            "definition": "温度；气温",
+            "iscorrect": true
+          },
+          {
+            "definition": "情绪状态；脾气的程度",
+            "iscorrect": false
+          },
+          {
+            "definition": "调和的过程；调整的状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "暂时的状态；短期的情况",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

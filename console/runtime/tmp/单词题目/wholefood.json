@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wholefood",
+      "error_analysis": "学生易因\"whole\"的字面义（整个的）或与\"whole milk\"（全脂牛奶）的联想，将\"wholefood\"误理解为\"全脂食物\"或\"完整的未切开的食物\"。",
+      "sentence": "Many people are switching to **wholefoods** like fresh fruits, vegetables, and nuts instead of processed snacks.",
+      "options": {
+        "option": [
+          {
+            "definition": "全食（未经过度加工的天然食物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "全脂食物（含有全部脂肪的食物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "完整的食物（未切开或未分割的整个食物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "全谷物食物（由完整谷物制成的食物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

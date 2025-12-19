@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to exist",
+      "error_analysis": "混淆形近词exit（出口）导致误判为“离开”，或词根误导认为是“显现/站出”",
+      "sentence": "Scientists have long debated whether life could **exist** on other planets.",
+      "options": {
+        "option": [
+          {
+            "definition": "to be real or present (存在)",
+            "iscorrect": true
+          },
+          {
+            "definition": "to leave or go out (离开；出去)",
+            "iscorrect": false
+          },
+          {
+            "definition": "to appear or stand out (显现；站出)",
+            "iscorrect": false
+          },
+          {
+            "definition": "to work or function (工作；运行)",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

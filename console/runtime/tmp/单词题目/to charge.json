@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to charge",
+      "error_analysis": "学生易将形近词“change”（改变）的含义误用到“to charge”上",
+      "sentence": "The café **charged** me 10 euros for a cup of coffee.",
+      "options": {
+        "option": [
+          {
+            "definition": "改变",
+            "iscorrect": false
+          },
+          {
+            "definition": "收费；要价",
+            "iscorrect": true
+          },
+          {
+            "definition": "装载",
+            "iscorrect": false
+          },
+          {
+            "definition": "挑战",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

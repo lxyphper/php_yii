@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rose",
+      "error_analysis": "中国学生常混淆“rise”（上升）的过去式“rose”与“raise”（举起）的过去式“raised”，或误将动词用法的“rose”理解为名词“玫瑰”。",
+      "sentence": "The sun **rose** behind the mountains and painted the sky a soft pink.",
+      "options": {
+        "option": [
+          {
+            "definition": "玫瑰（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "上升（rise的过去式）",
+            "iscorrect": true
+          },
+          {
+            "definition": "举起（raise的过去式）",
+            "iscorrect": false
+          },
+          {
+            "definition": "丢失（lose的过去式）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

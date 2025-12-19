@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "horse racing",
+      "error_analysis": "学生易将“racing”误判为形近词“raising”（饲养），或因“race”的“种族”义误解为“马的种族”",
+      "sentence": "Many people gather at the stadium every weekend to watch the exciting **horse racing** and cheer for their favorite jockeys.",
+      "options": {
+        "option": [
+          {
+            "definition": "赛马",
+            "iscorrect": true
+          },
+          {
+            "definition": "养马",
+            "iscorrect": false
+          },
+          {
+            "definition": "马的种族",
+            "iscorrect": false
+          },
+          {
+            "definition": "马的训练",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "kiss",
+      "error_analysis": "因形近词\"miss\"（想念）的干扰，学生易将\"kiss\"误判为\"想念\"或\"错过\"。",
+      "sentence": "When they met at the airport, she ran to him and gave him a warm **kiss** on the lips.",
+      "options": {
+        "option": [
+          {
+            "definition": "吻",
+            "iscorrect": true
+          },
+          {
+            "definition": "想念",
+            "iscorrect": false
+          },
+          {
+            "definition": "踢",
+            "iscorrect": false
+          },
+          {
+            "definition": "保持",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

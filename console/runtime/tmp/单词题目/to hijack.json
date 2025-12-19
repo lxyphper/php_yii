@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to hijack",
+      "error_analysis": "易与形近词'hike'（徒步旅行）混淆，或因'jack'的常见义（千斤顶/人名）产生字面误解",
+      "sentence": "The criminals planned to **hijack** the airplane and demand a ransom for the passengers.",
+      "options": {
+        "option": [
+          {
+            "definition": "劫持（交通工具或人）",
+            "iscorrect": true
+          },
+          {
+            "definition": "徒步旅行",
+            "iscorrect": false
+          },
+          {
+            "definition": "用千斤顶举起",
+            "iscorrect": false
+          },
+          {
+            "definition": "问候某人（如杰克）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

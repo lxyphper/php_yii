@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cheesecake",
+      "error_analysis": "学生易因形近词（如cheeseburger）或同类甜点联想（如cream cake）误将cheesecake理解为“芝士汉堡”或“奶油蛋糕”",
+      "sentence": "She ordered a slice of **cheesecake** for dessert, which was rich and creamy with a buttery biscuit crust.",
+      "options": {
+        "option": [
+          {
+            "definition": "奶酪蛋糕",
+            "iscorrect": true
+          },
+          {
+            "definition": "芝士汉堡",
+            "iscorrect": false
+          },
+          {
+            "definition": "奶油蛋糕",
+            "iscorrect": false
+          },
+          {
+            "definition": "带奶酪的面包",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

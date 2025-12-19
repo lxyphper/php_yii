@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "broadened",
+      "error_analysis": "易因形近词\"bordered\"(有边界的)拼写干扰或词根\"broad\"与\"broadcast\"(广播)关联导致误判",
+      "sentence": "To attract more tourists, the town has **broadened** its main street and added new shops.",
+      "options": {
+        "option": [
+          {
+            "definition": "有边界的",
+            "iscorrect": false
+          },
+          {
+            "definition": "广播的",
+            "iscorrect": false
+          },
+          {
+            "definition": "扩大的；拓宽的",
+            "iscorrect": true
+          },
+          {
+            "definition": "烦恼的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

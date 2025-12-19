@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "geode",
+      "error_analysis": "学生易因\"geo-\"词根联想到地球相关概念（如地球核心），或因形近\"code\"误判为计算机代码",
+      "sentence": "While exploring the rocky trail, the kids found a plain stone that, when cracked open, revealed a shiny **geode** filled with pink calcite crystals inside.",
+      "options": {
+        "option": [
+          {
+            "definition": "中空的岩石，内有水晶或矿物沉积",
+            "iscorrect": true
+          },
+          {
+            "definition": "地球的核心层",
+            "iscorrect": false
+          },
+          {
+            "definition": "计算机程序的代码片段",
+            "iscorrect": false
+          },
+          {
+            "definition": "植物茎上的节点",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

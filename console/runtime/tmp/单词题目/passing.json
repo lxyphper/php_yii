@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "passing",
+      "error_analysis": "易误将\"passing\"理解为\"通过的/及格的\"（词根\"pass\"误导）或\"激情的\"（形近词\"passion\"干扰）",
+      "sentence": "He mentioned a **passing** thought about quitting his job, but it didn’t last long.",
+      "options": {
+        "option": [
+          {
+            "definition": "短暂的；转瞬即逝的",
+            "iscorrect": true
+          },
+          {
+            "definition": "激情的；热情的",
+            "iscorrect": false
+          },
+          {
+            "definition": "通过的；及格的",
+            "iscorrect": false
+          },
+          {
+            "definition": "重要的；关键的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

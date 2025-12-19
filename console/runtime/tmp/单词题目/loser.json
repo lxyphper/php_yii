@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "loser",
+      "error_analysis": "易因形近词“looser”（更松的）或“loader”（装载者）混淆，或因“lose”字面直译误判为“失去某物的人”。",
+      "sentence": "After losing the final game three times in a row, he started to feel like a **loser**.",
+      "options": {
+        "option": [
+          {
+            "definition": "失败者；输家",
+            "iscorrect": true
+          },
+          {
+            "definition": "更松的（人/物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "失去某物的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "装载者；装卸工",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

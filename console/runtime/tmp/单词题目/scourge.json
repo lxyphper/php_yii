@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "scourge",
+      "error_analysis": "学生易因形近词“scour”（冲刷）将“scourge”误解为“擦洗”或“清洁行为”",
+      "sentence": "The COVID-19 pandemic was a **scourge** that devastated communities around the world.",
+      "options": {
+        "option": [
+          {
+            "definition": "灾难；祸害",
+            "iscorrect": true
+          },
+          {
+            "definition": "擦洗；冲刷",
+            "iscorrect": false
+          },
+          {
+            "definition": "鞭子；笞刑",
+            "iscorrect": false
+          },
+          {
+            "definition": "催促；敦促",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

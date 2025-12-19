@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "habitual",
+      "error_analysis": "学生易因形近词“habit”（习惯，名词）的干扰，将形容词“habitual”误判为名词“习惯”。",
+      "sentence": "Her **habitual** morning coffee is a non-negotiable part of her daily routine.",
+      "options": {
+        "option": [
+          {
+            "definition": "习惯（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "习惯性的；惯常的（形容词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "习惯性地（副词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "常见的（形容词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "well-off",
+      "error_analysis": "学生易因\"well\"（好）和\"off\"（脱离）的字面意思，错误理解为\"状态良好的\"或\"脱离困境的\"，而非\"富裕的\"",
+      "sentence": "The Smiths live in a big house with a swimming pool—they must be quite **well-off**.",
+      "options": {
+        "option": [
+          {
+            "definition": "富裕的；家境好的",
+            "iscorrect": true
+          },
+          {
+            "definition": "著名的；广为人知的",
+            "iscorrect": false
+          },
+          {
+            "definition": "状态良好的；健康的",
+            "iscorrect": false
+          },
+          {
+            "definition": "离开得顺利的；脱身的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

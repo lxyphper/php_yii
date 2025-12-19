@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "receptionist",
+      "error_analysis": "学生易因形近词'receipt'（收据）混淆，将'receptionist'误判为'收银员'，或因词根're-'+'-ception'（拿）误导为'接收货物的人'",
+      "sentence": "At the hotel lobby, the **receptionist** smiled and handed us our room keys after checking our IDs.",
+      "options": {
+        "option": [
+          {
+            "definition": "接待员",
+            "iscorrect": true
+          },
+          {
+            "definition": "收银员",
+            "iscorrect": false
+          },
+          {
+            "definition": "接待处",
+            "iscorrect": false
+          },
+          {
+            "definition": "接收货物的人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

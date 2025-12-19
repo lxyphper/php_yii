@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to acclaim",
+      "error_analysis": "易因形近词“claim”（声称）的干扰，或词根“喊”的字面误导，将“acclaim”误理解为“声称”或“大声喊叫”",
+      "sentence": "The famous actor was **acclaimed** by critics as one of the greatest of his generation.",
+      "options": {
+        "option": [
+          {
+            "definition": "公开称赞；欢呼认可",
+            "iscorrect": true
+          },
+          {
+            "definition": "声称；要求",
+            "iscorrect": false
+          },
+          {
+            "definition": "大声喊叫；惊叫",
+            "iscorrect": false
+          },
+          {
+            "definition": "适应环境；习惯",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

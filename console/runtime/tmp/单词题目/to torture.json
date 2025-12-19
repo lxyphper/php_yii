@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to torture",
+      "error_analysis": "学生易因形近词“tortoise”（乌龟）混淆，或误将“torture”理解为与“扭曲”相关的物理变形而非“折磨”。",
+      "sentence": "The prisoners reported that the guards would **torture** them to get information.",
+      "options": {
+        "option": [
+          {
+            "definition": "折磨；拷问",
+            "iscorrect": true
+          },
+          {
+            "definition": "养乌龟；饲养陆龟",
+            "iscorrect": false
+          },
+          {
+            "definition": "扭曲；使物体变形",
+            "iscorrect": false
+          },
+          {
+            "definition": "旅行；进行观光",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

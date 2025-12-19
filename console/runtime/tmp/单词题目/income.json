@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "income",
+      "error_analysis": "学生易因形近词\"increase\"（增加）或\"in-+come\"字面误导（如\"输入\"）混淆其核心含义\"收入\"",
+      "sentence": "Her monthly **income** from the part-time job is enough to cover her rent and groceries.",
+      "options": {
+        "option": [
+          {
+            "definition": "收入",
+            "iscorrect": true
+          },
+          {
+            "definition": "增加",
+            "iscorrect": false
+          },
+          {
+            "definition": "输入",
+            "iscorrect": false
+          },
+          {
+            "definition": "结果",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

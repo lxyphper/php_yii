@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "red meat",
+      "error_analysis": "学生易因字面误导将“red meat”误理解为“红色的肉”，而非其特指的牛羊肉等未加工时呈红色的肉类。",
+      "sentence": "My doctor advised me to cut down on **red meat** like beef and lamb to improve my heart health.",
+      "options": {
+        "option": [
+          {
+            "definition": "牛羊肉等红肉（未加工时呈红色的肉类，如牛肉、羊肉）",
+            "iscorrect": true
+          },
+          {
+            "definition": "红色的肉",
+            "iscorrect": false
+          },
+          {
+            "definition": "生肉",
+            "iscorrect": false
+          },
+          {
+            "definition": "新鲜的鸡肉",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

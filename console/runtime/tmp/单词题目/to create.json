@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to create",
+      "error_analysis": "易因形近词\"crate\"（箱子）混淆为\"装箱\"，或因词根\"cre-\"（增长）误导为\"增加\"。",
+      "sentence": "The artist spent months to **create** a unique sculpture that reflects her personal experiences.",
+      "options": {
+        "option": [
+          {
+            "definition": "创造；创建",
+            "iscorrect": true
+          },
+          {
+            "definition": "装箱；把…装入箱子",
+            "iscorrect": false
+          },
+          {
+            "definition": "增加；增长",
+            "iscorrect": false
+          },
+          {
+            "definition": "制造；生产",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

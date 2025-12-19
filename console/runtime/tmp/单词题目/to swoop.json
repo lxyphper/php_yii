@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to swoop",
+      "error_analysis": "学生易因形近词'sweep'（打扫；席卷）混淆，或误猜为‘飞翔；盘旋’等与‘快速俯冲’不符的动作",
+      "sentence": "As the sun set, a hawk **swooped** down to grab a mouse from the field.",
+      "options": {
+        "option": [
+          {
+            "definition": "打扫；席卷",
+            "iscorrect": false
+          },
+          {
+            "definition": "飞翔；盘旋",
+            "iscorrect": false
+          },
+          {
+            "definition": "俯冲；猛扑",
+            "iscorrect": true
+          },
+          {
+            "definition": "摇摆；晃动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

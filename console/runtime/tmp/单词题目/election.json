@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "election",
+      "error_analysis": "中国学生易混淆“election”（政治/正式选举）与形近词“selection”（一般选择），或误将其理解为“被选举的人”。",
+      "sentence": "The new student council president will be decided by an **election** where all students can cast their votes next week.",
+      "options": {
+        "option": [
+          {
+            "definition": "选举（尤指组织或政治职位的正式投票选举）",
+            "iscorrect": true
+          },
+          {
+            "definition": "选择、挑选（一般的挑选行为）",
+            "iscorrect": false
+          },
+          {
+            "definition": "被选举出来的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "选举的结果",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

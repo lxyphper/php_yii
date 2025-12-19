@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Bachelor of Arts",
+      "error_analysis": "学生易因“bachelor”的“单身汉”义或“Arts”的“艺术”义，将“Bachelor of Arts”误解为“单身汉的艺术”或“艺术学士学位”。",
+      "sentence": "After four years of studying history and literature, she received her **Bachelor of Arts** from Harvard University.",
+      "options": {
+        "option": [
+          {
+            "definition": "艺术学士学位",
+            "iscorrect": false
+          },
+          {
+            "definition": "单身汉的艺术",
+            "iscorrect": false
+          },
+          {
+            "definition": "文学学士学位（文科的学士学位）",
+            "iscorrect": true
+          },
+          {
+            "definition": "学士学位的艺术课程",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

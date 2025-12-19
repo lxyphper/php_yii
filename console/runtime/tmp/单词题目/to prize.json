@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to prize",
+      "error_analysis": "学生易因形近词“prize”（名词“奖品”）将动词“to prize”误解为“颁发/赢得奖品”，或与“price”（价格）混淆导致“定价”误解",
+      "sentence": "She has always **prized** her grandmother’s old necklace more than any other possession.",
+      "options": {
+        "option": [
+          {
+            "definition": "珍视，重视",
+            "iscorrect": true
+          },
+          {
+            "definition": "颁发奖品给",
+            "iscorrect": false
+          },
+          {
+            "definition": "给...定价",
+            "iscorrect": false
+          },
+          {
+            "definition": "赢得奖品",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "grief",
+      "error_analysis": "中国学生易因形近词\"brief\"（简短）混淆，或因发音接近\"greed\"（贪婪）产生错误联想。",
+      "sentence": "After losing her beloved dog, she was consumed by **grief** and refused to talk to anyone for days.",
+      "options": {
+        "option": [
+          {
+            "definition": "简短的；简洁的",
+            "iscorrect": false
+          },
+          {
+            "definition": "贪婪；贪欲",
+            "iscorrect": false
+          },
+          {
+            "definition": "悲伤；悲痛",
+            "iscorrect": true
+          },
+          {
+            "definition": "缓解；宽慰",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

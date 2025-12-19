@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "NASA",
+      "error_analysis": "学生易因形近词\"nasal\"(鼻的)联想到\"鼻科相关机构\"，或因不熟悉缩写而猜测为\"国家农业/科学类协会\"",
+      "sentence": "The Mars rover Perseverance, launched by **NASA** in 2020, has discovered evidence of ancient water on the red planet.",
+      "options": {
+        "option": [
+          {
+            "definition": "美国国家航空航天局",
+            "iscorrect": true
+          },
+          {
+            "definition": "鼻科医学研究机构",
+            "iscorrect": false
+          },
+          {
+            "definition": "国家农业科学协会",
+            "iscorrect": false
+          },
+          {
+            "definition": "国际环保组织",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

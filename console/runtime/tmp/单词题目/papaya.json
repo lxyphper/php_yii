@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "papaya",
+      "error_analysis": "中国学生易因形近词“paper”（纸）或词根“pap”（糊状食物）的错误联想，将“papaya”误解为“纸制品”或“糊状食物”。",
+      "sentence": "For breakfast, she had a bowl of yogurt with fresh **papaya** slices and a drizzle of honey.",
+      "options": {
+        "option": [
+          {
+            "definition": "木瓜；番木瓜",
+            "iscorrect": true
+          },
+          {
+            "definition": "纸张；纸制品",
+            "iscorrect": false
+          },
+          {
+            "definition": "糊状食物；软糖",
+            "iscorrect": false
+          },
+          {
+            "definition": "爸爸的物品；家庭用品",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

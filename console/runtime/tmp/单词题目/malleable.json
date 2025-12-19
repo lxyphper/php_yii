@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "malleable",
+      "error_analysis": "学生易因形近词\"manageable\"(易管理的)混淆，或因词根\"malle-\"(锤打)字面理解为\"易被锤打的\"，而非引申义\"可塑的\"。",
+      "sentence": "Clay is a highly **malleable** material, which is why it's popular for pottery.",
+      "options": {
+        "option": [
+          {
+            "definition": "可塑的；易改变的",
+            "iscorrect": true
+          },
+          {
+            "definition": "易管理的；易处理的",
+            "iscorrect": false
+          },
+          {
+            "definition": "易被锤打的；易受撞击的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有价值的；珍贵的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

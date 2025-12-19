@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "toddler",
+      "error_analysis": "易因形近词（如tutor）误判为“导师”，或因词根（toddle蹒跚）泛化为“老人”",
+      "sentence": "The **toddler** was trying to walk to his mom but kept tripping over his own feet.",
+      "options": {
+        "option": [
+          {
+            "definition": "学步的小孩（1-3岁左右）",
+            "iscorrect": true
+          },
+          {
+            "definition": "导师",
+            "iscorrect": false
+          },
+          {
+            "definition": "老人",
+            "iscorrect": false
+          },
+          {
+            "definition": "青少年",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

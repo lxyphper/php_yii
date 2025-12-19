@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to visit",
+      "error_analysis": "学生易因词根“vis-”（表“看”）将“to visit”误理解为“观看”，或因形近词“visible”（可见的）联想为“看见”",
+      "sentence": "She decided to **visit** her old teacher after graduating from college.",
+      "options": {
+        "option": [
+          {
+            "definition": "访问；拜访",
+            "iscorrect": true
+          },
+          {
+            "definition": "观看（如watch）",
+            "iscorrect": false
+          },
+          {
+            "definition": "可见的",
+            "iscorrect": false
+          },
+          {
+            "definition": "停留（如stay）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "conservationist",
+      "error_analysis": "易混淆形近词conversationist（健谈者）或误将词根conservation（保护）与conservative（保守）关联，错解为“保守主义者”",
+      "sentence": "The **conservationist** led a campaign to protect the endangered forest from being cut down.",
+      "options": {
+        "option": [
+          {
+            "definition": "健谈者",
+            "iscorrect": false
+          },
+          {
+            "definition": "保守主义者",
+            "iscorrect": false
+          },
+          {
+            "definition": "环保主义者",
+            "iscorrect": true
+          },
+          {
+            "definition": "历史学家",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

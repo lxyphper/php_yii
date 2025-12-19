@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unforeseen",
+      "error_analysis": "学生易因形近词\"unseen\"(看不见的)产生误解，或因词根\"fore\"(提前)+\"seen\"(看见)过度直译为\"未提前计划的\"而非核心的\"未预料到的\"",
+      "sentence": "We had to change our travel plans because of **unforeseen** weather conditions that no one predicted.",
+      "options": {
+        "option": [
+          {
+            "definition": "未预料到的",
+            "iscorrect": true
+          },
+          {
+            "definition": "看不见的",
+            "iscorrect": false
+          },
+          {
+            "definition": "未被遗忘的",
+            "iscorrect": false
+          },
+          {
+            "definition": "未提前计划的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

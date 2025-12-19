@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mood",
+      "error_analysis": "中国学生易因形近词“moon”（月亮）混淆“mood”词义，或误将其等同于语法中的“语气”义。",
+      "sentence": "She’s been in a great **mood** since she got the job offer.",
+      "options": {
+        "option": [
+          {
+            "definition": "心情，情绪",
+            "iscorrect": true
+          },
+          {
+            "definition": "月亮",
+            "iscorrect": false
+          },
+          {
+            "definition": "（语法中的）语气",
+            "iscorrect": false
+          },
+          {
+            "definition": "模式",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

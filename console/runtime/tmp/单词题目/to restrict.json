@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to restrict",
+      "error_analysis": "学生易因形近词“respect”（尊重）混淆词义，或因词根“strict”（严格）误判为“使严格”",
+      "sentence": "The government decided to **restrict** the use of single-use plastics in restaurants to protect the environment.",
+      "options": {
+        "option": [
+          {
+            "definition": "限制；约束",
+            "iscorrect": true
+          },
+          {
+            "definition": "尊重；尊敬",
+            "iscorrect": false
+          },
+          {
+            "definition": "使严格；强制要求",
+            "iscorrect": false
+          },
+          {
+            "definition": "阻止；防止",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

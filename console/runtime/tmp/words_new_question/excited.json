@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "excited",
+      "error_analysis": "学生易将“excited”（感到兴奋的）混淆为形近词“exciting”（令人兴奋的），或通过词根“ex-”（出）和“cite”（唤起）过度推导为“引出的”。",
+      "sentence": "She was so **excited** when she received the birthday present from her parents.",
+      "options": {
+        "option": [
+          {
+            "definition": "感到兴奋的（修饰人）",
+            "iscorrect": true
+          },
+          {
+            "definition": "令人兴奋的（修饰物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "引出或唤起的（词根字面推导）",
+            "iscorrect": false
+          },
+          {
+            "definition": "疲惫的（与“exhausted”形近混淆）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

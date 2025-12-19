@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "debris",
+      "error_analysis": "学生易因形近词\"debate\"(辩论)的视觉相似性误判，或拆解\"de-\"+\"bris\"猜测为无关含义。",
+      "sentence": "After the earthquake, the streets were filled with **debris** from collapsed buildings.",
+      "options": {
+        "option": [
+          {
+            "definition": "辩论；争论",
+            "iscorrect": false
+          },
+          {
+            "definition": "碎片；残骸",
+            "iscorrect": true
+          },
+          {
+            "definition": "轻快的动作；敏捷",
+            "iscorrect": false
+          },
+          {
+            "definition": "垃圾；废物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

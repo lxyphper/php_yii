@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cetacean",
+      "error_analysis": "学生易因形近词\"crustacean\"(甲壳类)的\"-acean\"后缀混淆，或因\"cean\"联想到\"ocean\"而误判为海洋鱼类",
+      "sentence": "The blue whale, the largest **cetacean** on Earth, can grow up to 30 meters long and weigh over 150 tons.",
+      "options": {
+        "option": [
+          {
+            "definition": "鲸目动物（如鲸鱼、海豚）",
+            "iscorrect": true
+          },
+          {
+            "definition": "甲壳类动物（如虾、蟹）",
+            "iscorrect": false
+          },
+          {
+            "definition": "海洋鱼类（如鲨鱼、鳕鱼）",
+            "iscorrect": false
+          },
+          {
+            "definition": "天上的生物（如鸟类、星星）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

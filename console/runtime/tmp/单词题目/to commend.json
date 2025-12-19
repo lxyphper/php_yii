@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to commend",
+      "error_analysis": "核心易错点为形近词\"comment\"(评论)的干扰及\"mend\"词根导致的\"改进\"误解",
+      "sentence": "The teacher **commended** Sarah for her excellent presentation in class.",
+      "options": {
+        "option": [
+          {
+            "definition": "表扬；称赞",
+            "iscorrect": true
+          },
+          {
+            "definition": "评论；发表意见",
+            "iscorrect": false
+          },
+          {
+            "definition": "改进；修补",
+            "iscorrect": false
+          },
+          {
+            "definition": "命令；指挥",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

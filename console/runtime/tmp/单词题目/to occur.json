@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to occur",
+      "error_analysis": "学生易因形近词“recur”（复发）将“occur”误理解为“再次发生”，或因词根“currere”（跑）误导为“流动”。",
+      "sentence": "A strange noise **occurred** in the middle of the night, waking everyone up.",
+      "options": {
+        "option": [
+          {
+            "definition": "发生；出现",
+            "iscorrect": true
+          },
+          {
+            "definition": "再次发生；复发",
+            "iscorrect": false
+          },
+          {
+            "definition": "流动；流传",
+            "iscorrect": false
+          },
+          {
+            "definition": "占据；占用",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

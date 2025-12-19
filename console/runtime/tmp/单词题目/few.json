@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "few",
+      "error_analysis": "学生易因形近词\"fee\"(费用)或\"flew\"(飞)的联想，错误理解\"few\"的含义",
+      "sentence": "**Few** people came to the party because of the heavy rain.",
+      "options": {
+        "option": [
+          {
+            "definition": "很少的，几乎没有的（修饰可数名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "费用（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "飞（动词过去式）",
+            "iscorrect": false
+          },
+          {
+            "definition": "很多的（形容词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

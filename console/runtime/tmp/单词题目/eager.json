@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "eager",
+      "error_analysis": "中国学生易因形近词“eagle”（鹰）或“easy”（容易的）的干扰，误将“eager”理解为与“鹰”或“容易的”相关的词义。",
+      "sentence": "The children were **eager** to open their Christmas presents as soon as they woke up.",
+      "options": {
+        "option": [
+          {
+            "definition": "急切的；渴望的",
+            "iscorrect": true
+          },
+          {
+            "definition": "鹰",
+            "iscorrect": false
+          },
+          {
+            "definition": "容易的",
+            "iscorrect": false
+          },
+          {
+            "definition": "认真的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unsightly",
+      "error_analysis": "学生易因词根“sight”（景象）字面推导，将“unsightly”误理解为“看不见的”或“不显眼的”。",
+      "sentence": "She covered the **unsightly** scar on her arm with a scarf to avoid drawing attention.",
+      "options": {
+        "option": [
+          {
+            "definition": "看不见的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不显眼的",
+            "iscorrect": false
+          },
+          {
+            "definition": "难看的，不雅观的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不舒适的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to mash",
+      "error_analysis": "学生易因“mash”与“wash”形近误判为“洗”，或因与“smash”字面联想误判为“砸烂”。",
+      "sentence": "Before adding the eggs, you need to **mash** the ripe avocados until they’re smooth.",
+      "options": {
+        "option": [
+          {
+            "definition": "洗",
+            "iscorrect": false
+          },
+          {
+            "definition": "砸烂",
+            "iscorrect": false
+          },
+          {
+            "definition": "混合",
+            "iscorrect": false
+          },
+          {
+            "definition": "捣碎（食物至软质）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "height",
+      "error_analysis": "易与形近词weight（重量）混淆，或对其作为high的名词形式（高度）的认知模糊",
+      "sentence": "The **height** of the mountain is about 8,848 meters.",
+      "options": {
+        "option": [
+          {
+            "definition": "高度",
+            "iscorrect": true
+          },
+          {
+            "definition": "重量",
+            "iscorrect": false
+          },
+          {
+            "definition": "高的",
+            "iscorrect": false
+          },
+          {
+            "definition": "温度",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "flabby",
+      "error_analysis": "学生易因形近词“flappy”（拍动的）或对“flab”（松弛肌肉）的不熟悉，将“flabby”误判为“拍动的”或“柔软舒适的”。",
+      "sentence": "After months of inactivity, his once firm arms became **flabby** and weak.",
+      "options": {
+        "option": [
+          {
+            "definition": "（肌肉等）松弛的；松软的",
+            "iscorrect": true
+          },
+          {
+            "definition": "拍动的（如翅膀）",
+            "iscorrect": false
+          },
+          {
+            "definition": "柔软舒适的",
+            "iscorrect": false
+          },
+          {
+            "definition": "肥胖的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

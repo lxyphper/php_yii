@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "storyline",
+      "error_analysis": "学生可能因\"line\"的\"台词\"义或与\"headline\"（标题）的形近，将\"storyline\"误解为\"故事中的台词\"或\"故事标题\"",
+      "sentence": "The movie’s **storyline** was so engaging that I couldn’t stop watching until the end.",
+      "options": {
+        "option": [
+          {
+            "definition": "故事情节（书、电影等的情节）",
+            "iscorrect": true
+          },
+          {
+            "definition": "故事的标题",
+            "iscorrect": false
+          },
+          {
+            "definition": "故事中的台词",
+            "iscorrect": false
+          },
+          {
+            "definition": "讲故事的人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

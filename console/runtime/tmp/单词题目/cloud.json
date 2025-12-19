@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cloud",
+      "error_analysis": "中国学生易因形近词“clown”（小丑）的发音与拼写相似性，将“cloud”误判为“小丑”。",
+      "sentence": "Look at the big white **cloud** in the sky—it looks just like a fluffy cotton candy!",
+      "options": {
+        "option": [
+          {
+            "definition": "云",
+            "iscorrect": true
+          },
+          {
+            "definition": "小丑",
+            "iscorrect": false
+          },
+          {
+            "definition": "斗篷",
+            "iscorrect": false
+          },
+          {
+            "definition": "人群",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

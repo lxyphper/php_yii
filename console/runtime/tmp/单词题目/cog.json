@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cog",
+      "error_analysis": "学生易因形近词（如log、cock）或字面联想（如cook）误解“cog”的核心含义",
+      "sentence": "In the factory, each **cog** in the machine plays a vital role in keeping production running smoothly.",
+      "options": {
+        "option": [
+          {
+            "definition": "齿轮的齿；（比喻）整体中的组成部分",
+            "iscorrect": true
+          },
+          {
+            "definition": "木头；原木",
+            "iscorrect": false
+          },
+          {
+            "definition": "公鸡；雄鸟",
+            "iscorrect": false
+          },
+          {
+            "definition": "烹饪；做饭",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

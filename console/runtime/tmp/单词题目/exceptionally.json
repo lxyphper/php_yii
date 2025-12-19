@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "exceptionally",
+      "error_analysis": "学生易因词根\"exception\"(例外)的字面推导，将\"exceptionally\"误理解为\"例外地\"，而非其核心义\"非常；极其\"。",
+      "sentence": "She sings **exceptionally** well—everyone in the audience stood up to applaud her performance.",
+      "options": {
+        "option": [
+          {
+            "definition": "非常；极其",
+            "iscorrect": true
+          },
+          {
+            "definition": "例外地",
+            "iscorrect": false
+          },
+          {
+            "definition": "期望地",
+            "iscorrect": false
+          },
+          {
+            "definition": "频繁地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

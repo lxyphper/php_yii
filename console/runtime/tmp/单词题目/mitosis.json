@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mitosis",
+      "error_analysis": "学生易因形近词\"mitigate\"（减轻）或生物学词汇混淆（如\"细胞突变\"）误判词义。",
+      "sentence": "During **mitosis**, a cell divides into two identical daughter cells with the same number of chromosomes.",
+      "options": {
+        "option": [
+          {
+            "definition": "有丝分裂（细胞分裂的过程，染色体数目保持不变）",
+            "iscorrect": true
+          },
+          {
+            "definition": "减轻（痛苦、风险或影响的程度）",
+            "iscorrect": false
+          },
+          {
+            "definition": "细胞突变（基因结构发生异常改变）",
+            "iscorrect": false
+          },
+          {
+            "definition": "线粒体的能量转换功能",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

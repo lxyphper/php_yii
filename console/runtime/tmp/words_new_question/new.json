@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "new",
+      "error_analysis": "中国学生易因形近词“now”（现在）的干扰，将“new”（新的）误理解为“现在的”。",
+      "sentence": "I bought a **new** book yesterday; it still has that fresh paper smell.",
+      "options": {
+        "option": [
+          {
+            "definition": "新的",
+            "iscorrect": true
+          },
+          {
+            "definition": "现在的",
+            "iscorrect": false
+          },
+          {
+            "definition": "生疏的",
+            "iscorrect": false
+          },
+          {
+            "definition": "旧的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

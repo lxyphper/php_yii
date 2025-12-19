@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Bronze Age",
+      "error_analysis": "学生易将\"Bronze Age\"字面直译为\"青铜的年龄\"（指青铜制品的年代），或因\"bronze\"与\"brown\"形近误判为\"棕色时代\"。",
+      "sentence": "Archaeologists have found many bronze weapons and vessels from the **Bronze Age**, a key historical period between the Stone Age and Iron Age.",
+      "options": {
+        "option": [
+          {
+            "definition": "青铜时代（历史上以青铜制作为主要特征的时期）",
+            "iscorrect": true
+          },
+          {
+            "definition": "青铜制品的年龄（如某件青铜器的制造年代）",
+            "iscorrect": false
+          },
+          {
+            "definition": "棕色时代（因\"bronze\"与\"brown\"形近而产生的误判）",
+            "iscorrect": false
+          },
+          {
+            "definition": "铁器时代（历史上以铁制作为主要特征的时期）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

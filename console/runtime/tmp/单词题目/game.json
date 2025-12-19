@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "game",
+      "error_analysis": "学生易因形近词“gain”（获得）干扰，或因联想“gambler”（赌徒）而误将“game”理解为“赌博”。",
+      "sentence": "We played a board **game** together after dinner.",
+      "options": {
+        "option": [
+          {
+            "definition": "游戏；比赛",
+            "iscorrect": true
+          },
+          {
+            "definition": "获得",
+            "iscorrect": false
+          },
+          {
+            "definition": "赌博",
+            "iscorrect": false
+          },
+          {
+            "definition": "门",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

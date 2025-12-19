@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "remarkable",
+      "error_analysis": "学生易因形近词“remark”（评论）误判为“值得评论的”，或因词根“re-+mark”误判为“再次标记的”。",
+      "sentence": "Her **remarkable** achievement in science won her international recognition.",
+      "options": {
+        "option": [
+          {
+            "definition": "非凡的；显著的",
+            "iscorrect": true
+          },
+          {
+            "definition": "值得评论的",
+            "iscorrect": false
+          },
+          {
+            "definition": "再次标记的",
+            "iscorrect": false
+          },
+          {
+            "definition": "普通的；平常的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

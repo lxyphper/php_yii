@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sock",
+      "error_analysis": "形近词\"stock\"(库存/股票)的干扰，及动词\"打击\"的字面误导，导致误判名词核心义\"袜子\"。",
+      "sentence": "I need to buy a new pair of **sock** because one of mine has a hole in it.",
+      "options": {
+        "option": [
+          {
+            "definition": "袜子",
+            "iscorrect": true
+          },
+          {
+            "definition": "库存；股票",
+            "iscorrect": false
+          },
+          {
+            "definition": "打击；重击",
+            "iscorrect": false
+          },
+          {
+            "definition": "岩石",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

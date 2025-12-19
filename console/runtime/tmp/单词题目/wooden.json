@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wooden",
+      "error_analysis": "学生易因形近词“woolen”（羊毛制的）的拼写相似性，将“wooden”误判为与羊毛相关的含义。",
+      "sentence": "The old chair in the corner is made of **wooden** planks, so it’s quite heavy.",
+      "options": {
+        "option": [
+          {
+            "definition": "木制的",
+            "iscorrect": true
+          },
+          {
+            "definition": "羊毛制的",
+            "iscorrect": false
+          },
+          {
+            "definition": "树林的",
+            "iscorrect": false
+          },
+          {
+            "definition": "柔软的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to cough",
+      "error_analysis": "学生易因形近混淆，将“to cough”误判为“to cook”（做饭），因二者拼写仅差一个字母",
+      "sentence": "He had a sore throat and began to **cough** repeatedly during the meeting.",
+      "options": {
+        "option": [
+          {
+            "definition": "咳嗽",
+            "iscorrect": true
+          },
+          {
+            "definition": "做饭",
+            "iscorrect": false
+          },
+          {
+            "definition": "打喷嚏",
+            "iscorrect": false
+          },
+          {
+            "definition": "哭",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

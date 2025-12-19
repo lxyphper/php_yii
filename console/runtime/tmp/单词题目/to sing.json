@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to sing",
+      "error_analysis": "中国学生易因形近词\"sign\"（签名/标志）或\"sink\"（下沉）的干扰，将\"sing\"误判为\"签名\"\"标志\"或\"下沉\"。",
+      "sentence": "The children love to **sing** nursery rhymes during recess.",
+      "options": {
+        "option": [
+          {
+            "definition": "唱歌",
+            "iscorrect": true
+          },
+          {
+            "definition": "签名",
+            "iscorrect": false
+          },
+          {
+            "definition": "标志",
+            "iscorrect": false
+          },
+          {
+            "definition": "下沉",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

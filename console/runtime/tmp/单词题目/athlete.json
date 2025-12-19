@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "athlete",
+      "error_analysis": "易混淆形近词“artist”（艺术家）或误将“athlete”理解为“体育活动”（词根“athletic”的名词误判）",
+      "sentence": "Many children dream of becoming a famous **athlete** like Usain Bolt when they grow up.",
+      "options": {
+        "option": [
+          {
+            "definition": "艺术家",
+            "iscorrect": false
+          },
+          {
+            "definition": "运动员",
+            "iscorrect": true
+          },
+          {
+            "definition": "体育活动",
+            "iscorrect": false
+          },
+          {
+            "definition": "外星人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

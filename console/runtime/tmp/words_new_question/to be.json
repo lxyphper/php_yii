@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to be",
+      "error_analysis": "易因\"be\"与\"see\"形近混淆为\"去看\"，或与\"do\"混淆为\"去做\"",
+      "sentence": "She wants **to be** a teacher when she grows up.",
+      "options": {
+        "option": [
+          {
+            "definition": "是；成为（系动词，表示身份或状态）",
+            "iscorrect": true
+          },
+          {
+            "definition": "去看（表示视觉动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "去做（表示具体行动）",
+            "iscorrect": false
+          },
+          {
+            "definition": "去成为蜜蜂（表示变成昆虫）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

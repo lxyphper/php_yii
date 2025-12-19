@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "item",
+      "error_analysis": "学生易因形近词“time”（时间）或字面联想（如“it”+“em”）将“item”误理解为“时间”或“它的”。",
+      "sentence": "Please put each shopping **item** into a separate bag before checking out.",
+      "options": {
+        "option": [
+          {
+            "definition": "时间",
+            "iscorrect": false
+          },
+          {
+            "definition": "它的",
+            "iscorrect": false
+          },
+          {
+            "definition": "（清单、购物中的）项；商品",
+            "iscorrect": true
+          },
+          {
+            "definition": "想法",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

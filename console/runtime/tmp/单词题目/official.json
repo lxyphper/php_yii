@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "official",
+      "error_analysis": "学生易因形近词\"office\"（办公室）将\"official\"误理解为\"办公室\"或\"办公室职员\"",
+      "sentence": "The **official** notice from the government said the park would close next week.",
+      "options": {
+        "option": [
+          {
+            "definition": "官方的（形容词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "办公室",
+            "iscorrect": false
+          },
+          {
+            "definition": "办公室职员",
+            "iscorrect": false
+          },
+          {
+            "definition": "私人的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

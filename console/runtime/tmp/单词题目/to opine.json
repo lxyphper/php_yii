@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to opine",
+      "error_analysis": "因形近词\"open\"误判为\"打开\"，或词根猜测误判为\"反对\"",
+      "sentence": "Many experts **opine** that regular exercise is essential for mental health.",
+      "options": {
+        "option": [
+          {
+            "definition": "发表意见；认为",
+            "iscorrect": true
+          },
+          {
+            "definition": "打开；开放",
+            "iscorrect": false
+          },
+          {
+            "definition": "反对；反抗",
+            "iscorrect": false
+          },
+          {
+            "definition": "渴望；想念",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

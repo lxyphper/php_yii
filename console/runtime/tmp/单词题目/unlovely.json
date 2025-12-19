@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unlovely",
+      "error_analysis": "学生易因形近词（如unlucky）误判为“不幸的”，或因词根直译误理解为“不爱的”（unloving的含义）",
+      "sentence": "The once beautiful park had become an **unlovely** place with trash everywhere and broken benches.",
+      "options": {
+        "option": [
+          {
+            "definition": "不吸引人的；难看的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不幸的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不爱的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不可能的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

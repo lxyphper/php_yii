@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to strive",
+      "error_analysis": "学生易因形近词“stride”（大步走）混淆，或误将“strive”理解为强调困难的“挣扎”。",
+      "sentence": "Despite facing many challenges, she continued to **strive** for her dream of becoming a doctor.",
+      "options": {
+        "option": [
+          {
+            "definition": "努力；奋斗",
+            "iscorrect": true
+          },
+          {
+            "definition": "大步走；迈进",
+            "iscorrect": false
+          },
+          {
+            "definition": "挣扎；搏斗",
+            "iscorrect": false
+          },
+          {
+            "definition": "坚持；持续",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

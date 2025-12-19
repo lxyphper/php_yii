@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pizza",
+      "error_analysis": "学生易因“pizza”与基础词“pie”（派）形近或与意大利食物“pasta”（ pasta）拼写相近而误判其词义",
+      "sentence": "My friends and I shared a large **pizza** with mushrooms and olives at the Italian restaurant yesterday.",
+      "options": {
+        "option": [
+          {
+            "definition": "派（pie）",
+            "iscorrect": false
+          },
+          {
+            "definition": "比萨饼",
+            "iscorrect": true
+          },
+          {
+            "definition": "pasta（ pasta）",
+            "iscorrect": false
+          },
+          {
+            "definition": "蛋糕（cake）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

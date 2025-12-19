@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dark chocolate",
+      "error_analysis": "学生易因“dark”与形近词“dank”（潮湿的）混淆或“dark”的字面意思（浓的）而误将“dark chocolate”误解为“潮湿的巧克力”或“浓巧克力”。",
+      "sentence": "I enjoy **dark chocolate** for its bold flavor and health benefits, such as lower sugar content compared to milk chocolate.",
+      "options": {
+        "option": [
+          {
+            "definition": "黑巧克力",
+            "iscorrect": true
+          },
+          {
+            "definition": "潮湿的巧克力",
+            "iscorrect": false
+          },
+          {
+            "definition": "浓巧克力",
+            "iscorrect": false
+          },
+          {
+            "definition": "苦巧克力",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

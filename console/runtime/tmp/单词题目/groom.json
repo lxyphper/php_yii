@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "groom",
+      "error_analysis": "学生易因形近词“room”误猜为“房间”或“房客”，或混淆动词“梳理”与名词“新郎”的核心词义",
+      "sentence": "The **groom** wore a sharp suit and held a bouquet of roses as he stood at the front of the church.",
+      "options": {
+        "option": [
+          {
+            "definition": "房间",
+            "iscorrect": false
+          },
+          {
+            "definition": "房客",
+            "iscorrect": false
+          },
+          {
+            "definition": "梳理工具",
+            "iscorrect": false
+          },
+          {
+            "definition": "新郎",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

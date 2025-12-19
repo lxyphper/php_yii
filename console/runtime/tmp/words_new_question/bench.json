@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bench",
+      "error_analysis": "学生易将“bench”与形近词“branch”（树枝）混淆，或误选其次要义“工作台”",
+      "sentence": "We sat on the wooden **bench** in the park and enjoyed the sunset.",
+      "options": {
+        "option": [
+          {
+            "definition": "长凳",
+            "iscorrect": true
+          },
+          {
+            "definition": "树枝",
+            "iscorrect": false
+          },
+          {
+            "definition": "工作台",
+            "iscorrect": false
+          },
+          {
+            "definition": "银行",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

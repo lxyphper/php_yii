@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to remain",
+      "error_analysis": "学生易因形近词“main”（主要的）误解“remain”为形容词“主要的”，或因“re-”前缀误猜为“再次停留”（动词）。",
+      "sentence": "After everyone left, the room **remained** messy for hours.",
+      "options": {
+        "option": [
+          {
+            "definition": "保持；仍然是（动词，不及物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "主要的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "再次停留（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "维持（及物动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

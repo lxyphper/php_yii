@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "political",
+      "error_analysis": "学生易混淆形近词\"polite\"(礼貌的)，或误将\"political\"理解为\"政策的\"(词根\"polit-\"与\"policy\"关联的过度推导)",
+      "sentence": "The debate between the two candidates centered on **political** topics like climate change and education funding.",
+      "options": {
+        "option": [
+          {
+            "definition": "政治的",
+            "iscorrect": true
+          },
+          {
+            "definition": "礼貌的",
+            "iscorrect": false
+          },
+          {
+            "definition": "政策的",
+            "iscorrect": false
+          },
+          {
+            "definition": "污染的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gardener",
+      "error_analysis": "核心易错点为因拼写近似混淆“gardener”（园丁）与“guardian”（监护人），或误将“garden+er”过度直译为“花园管理者”而非准确职业义。",
+      "sentence": "My neighbor, Mr. Lee, is a **gardener** who plants roses and weeds the flower beds in our community garden every Sunday.",
+      "options": {
+        "option": [
+          {
+            "definition": "园丁；花匠",
+            "iscorrect": true
+          },
+          {
+            "definition": "监护人；守护者",
+            "iscorrect": false
+          },
+          {
+            "definition": "花园的所有者；花园管理员",
+            "iscorrect": false
+          },
+          {
+            "definition": "收集者；采集者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

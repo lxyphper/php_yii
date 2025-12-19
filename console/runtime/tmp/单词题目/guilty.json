@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "guilty",
+      "error_analysis": "中国学生常因\"guilty\"与形近词\"guided\"（指导的）混淆，或因混淆\"有罪\"与\"有责任\"而误将其理解为\"有责任的\"。",
+      "sentence": "She felt **guilty** about forgetting her friend's birthday.",
+      "options": {
+        "option": [
+          {
+            "definition": "指导的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有责任的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有天赋的",
+            "iscorrect": false
+          },
+          {
+            "definition": "内疚的；有罪的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

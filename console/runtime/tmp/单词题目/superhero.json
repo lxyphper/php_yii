@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "superhero",
+      "error_analysis": "学生易因形近词\"superstar\"（超级明星）混淆，或因\"hero\"的\"男主角\"义项将\"superhero\"误解为\"超级男主角\"。",
+      "sentence": "Many kids look up to Spider-Man as their favorite **superhero** because he protects the city from villains.",
+      "options": {
+        "option": [
+          {
+            "definition": "超级英雄",
+            "iscorrect": true
+          },
+          {
+            "definition": "超级明星",
+            "iscorrect": false
+          },
+          {
+            "definition": "超级男主角",
+            "iscorrect": false
+          },
+          {
+            "definition": "优越的人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

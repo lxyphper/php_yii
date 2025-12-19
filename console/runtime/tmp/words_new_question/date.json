@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "date",
+      "error_analysis": "中国学生易因形近词\"data\"（数据）将\"date\"误理解为\"数据\"",
+      "sentence": "Please write the **date** of your birthday on this form.",
+      "options": {
+        "option": [
+          {
+            "definition": "日期",
+            "iscorrect": true
+          },
+          {
+            "definition": "数据",
+            "iscorrect": false
+          },
+          {
+            "definition": "约会",
+            "iscorrect": false
+          },
+          {
+            "definition": "枣（水果）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

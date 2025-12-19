@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "narrow-minded",
+      "error_analysis": "学生易将'narrow-minded'直译为'心胸狭窄的（强调自私）'，而忽略其'思想狭隘、不愿接受不同意见'的核心含义",
+      "sentence": "My uncle refuses to listen to any opinions different from his; he’s so **narrow-minded** that he thinks only his way is right.",
+      "options": {
+        "option": [
+          {
+            "definition": "思想狭隘的（不愿接受不同意见的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "心胸狭窄的（自私且不愿分享的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "短视的（缺乏远见的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "眯眼的（眼睛细小的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

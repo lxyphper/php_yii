@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "reference",
+      "error_analysis": "学生易因形近词\"preference\"（偏好）混淆，或因\"refer\"的\"推荐\"义误将\"reference\"理解为\"推荐\"。",
+      "sentence": "When writing the essay, you should include at least one **reference** to a scholarly source (e.g., a journal article or book).",
+      "options": {
+        "option": [
+          {
+            "definition": "参考；提及",
+            "iscorrect": true
+          },
+          {
+            "definition": "偏好；喜爱",
+            "iscorrect": false
+          },
+          {
+            "definition": "推荐；介绍",
+            "iscorrect": false
+          },
+          {
+            "definition": "差异；不同",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

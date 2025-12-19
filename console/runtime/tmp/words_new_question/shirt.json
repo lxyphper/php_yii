@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "shirt",
+      "error_analysis": "学生易因形近词“short”（短的）或“shorts”（短裤）混淆，将“shirt”误判为“短的”或“短裤”",
+      "sentence": "She ironed her favorite **shirt** to wear to the job interview.",
+      "options": {
+        "option": [
+          {
+            "definition": "衬衫（男式或女式的上衣，通常有衣领、袖口和前襟）",
+            "iscorrect": true
+          },
+          {
+            "definition": "短的（形容词，指长度不足的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "短裤（穿在腿部的短款裤子，通常指休闲款）",
+            "iscorrect": false
+          },
+          {
+            "definition": "裙子（女性或儿童穿的下装，通常有裙摆）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

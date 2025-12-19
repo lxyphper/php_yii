@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "closed",
+      "error_analysis": "易因形近词“cloned”（克隆的）混淆，或因“close”的“接近/亲密”义误导将“closed”误解为“接近的/亲密的”",
+      "sentence": "The shop is **closed** today, so we can't buy anything from it.",
+      "options": {
+        "option": [
+          {
+            "definition": "关闭的；不开放的",
+            "iscorrect": true
+          },
+          {
+            "definition": "克隆的",
+            "iscorrect": false
+          },
+          {
+            "definition": "接近的",
+            "iscorrect": false
+          },
+          {
+            "definition": "亲密的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

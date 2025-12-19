@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "yesterday",
+      "error_analysis": "学生可能因“yester-”前缀在“yesteryear”（去年）中的含义，错误将“yesterday”理解为“去年”，或因与“tomorrow”（明天）均为“-day”结尾的时间副词而混淆。",
+      "sentence": "I forgot to bring my umbrella to school **yesterday**.",
+      "options": {
+        "option": [
+          {
+            "definition": "昨天",
+            "iscorrect": true
+          },
+          {
+            "definition": "去年",
+            "iscorrect": false
+          },
+          {
+            "definition": "明天",
+            "iscorrect": false
+          },
+          {
+            "definition": "今天",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

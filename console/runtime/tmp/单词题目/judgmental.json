@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "judgmental",
+      "error_analysis": "将\"judgmental\"（爱评判的，贬义）误判为\"有判断力的\"（褒义，来自形近词\"judgment\"的联想）或\"与判断相关的\"（词根直译）",
+      "sentence": "She's so **judgmental**—she always criticizes people for their clothes or hobbies without even getting to know them.",
+      "options": {
+        "option": [
+          {
+            "definition": "爱评判的；吹毛求疵的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有判断力的；明智的",
+            "iscorrect": false
+          },
+          {
+            "definition": "与判断相关的；裁决的",
+            "iscorrect": false
+          },
+          {
+            "definition": "犹豫不决的；拿不定主意的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

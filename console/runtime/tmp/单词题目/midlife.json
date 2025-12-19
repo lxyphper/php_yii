@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "midlife",
+      "error_analysis": "易混淆形近词“midwife”（助产士）或误将“midlife”直译为“生命中期”而非“中年”",
+      "sentence": "Many people experience a sense of uncertainty during their **midlife**, often referred to as a \"midlife crisis.\"",
+      "options": {
+        "option": [
+          {
+            "definition": "中年（通常指40-60岁之间的人生阶段）",
+            "iscorrect": true
+          },
+          {
+            "definition": "助产士（帮助孕妇分娩的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "生命的中间点（如寿命的一半）",
+            "iscorrect": false
+          },
+          {
+            "definition": "青年中期（15-25岁之间的阶段）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

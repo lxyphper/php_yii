@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "exoplanet",
+      "error_analysis": "学生易因词根\"exo-\"（外部的）误判为\"太阳系内的外部行星\"，或因形近词\"explain\"（解释）误猜为与\"解释行星\"相关的含义。",
+      "sentence": "Astronomers recently discovered an **exoplanet** orbiting a star 500 light-years away from our solar system.",
+      "options": {
+        "option": [
+          {
+            "definition": "解释行星的科学概念",
+            "iscorrect": false
+          },
+          {
+            "definition": "太阳系内的外部行星（如木星、土星）",
+            "iscorrect": false
+          },
+          {
+            "definition": "系外行星（围绕太阳系外恒星运行的行星）",
+            "iscorrect": true
+          },
+          {
+            "definition": "有外星生命居住的行星",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

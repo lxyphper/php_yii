@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "singer",
+      "error_analysis": "中国学生易因`singer`与形近词`sinner`（罪人）、`finger`（手指）混淆，或误将“-er”理解为工具而误解词义。",
+      "sentence": "My favorite **singer** will perform her new song at the concert tonight.",
+      "options": {
+        "option": [
+          {
+            "definition": "歌手",
+            "iscorrect": true
+          },
+          {
+            "definition": "罪人",
+            "iscorrect": false
+          },
+          {
+            "definition": "手指",
+            "iscorrect": false
+          },
+          {
+            "definition": "唱歌的工具",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

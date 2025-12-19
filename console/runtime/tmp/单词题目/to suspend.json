@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to suspend",
+      "error_analysis": "易因形近词\"suppose\"（假设）混淆，或词根\"挂\"误导理解为\"悬挂\"",
+      "sentence": "The school decided to **suspend** the sports meeting due to the heavy rain.",
+      "options": {
+        "option": [
+          {
+            "definition": "假设；认为",
+            "iscorrect": false
+          },
+          {
+            "definition": "暂停；中止",
+            "iscorrect": true
+          },
+          {
+            "definition": "悬挂；吊起",
+            "iscorrect": false
+          },
+          {
+            "definition": "支持；维持",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

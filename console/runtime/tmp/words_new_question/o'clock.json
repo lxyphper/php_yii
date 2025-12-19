@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "o'clock",
+      "error_analysis": "学生易因形近“clock”（时钟）或“o'”（of的缩写）误解“o'clock”为“时钟”或“...的时钟”。",
+      "sentence": "What time is it? —It's five **o'clock**, so we need to leave for the movie soon.",
+      "options": {
+        "option": [
+          {
+            "definition": "时钟（如“a big clock”中的“时钟”）",
+            "iscorrect": false
+          },
+          {
+            "definition": "...的时钟（如“the hands of the clock”中的“...的时钟”）",
+            "iscorrect": false
+          },
+          {
+            "definition": "点钟（表示时间的单位，如“three o'clock”指三点钟）",
+            "iscorrect": true
+          },
+          {
+            "definition": "闹钟（如“set the alarm clock”中的“闹钟”）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

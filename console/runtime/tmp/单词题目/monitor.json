@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "monitor",
+      "error_analysis": "中国学生易因形近词“monster”（怪物）产生混淆，或因词根“monere”（警告）误导猜测为“警告者”。",
+      "sentence": "Please make sure the **monitor** is turned on before starting the computer.",
+      "options": {
+        "option": [
+          {
+            "definition": "怪物",
+            "iscorrect": false
+          },
+          {
+            "definition": "警告者",
+            "iscorrect": false
+          },
+          {
+            "definition": "班长",
+            "iscorrect": false
+          },
+          {
+            "definition": "显示器",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

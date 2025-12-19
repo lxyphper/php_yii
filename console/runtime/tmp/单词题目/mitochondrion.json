@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mitochondrion",
+      "error_analysis": "学生易因“mito-”联想到“mitosis”（有丝分裂）而误判为细胞分裂相关结构，或因“chondrion”联想到“软骨素”而误判为软骨组织成分",
+      "sentence": "The **mitochondrion** is often called the \"powerhouse of the cell\" because it produces energy for our bodies through cellular respiration.",
+      "options": {
+        "option": [
+          {
+            "definition": "线粒体（细胞中负责能量生产的细胞器）",
+            "iscorrect": true
+          },
+          {
+            "definition": "有丝分裂时染色体附着的纺锤体结构",
+            "iscorrect": false
+          },
+          {
+            "definition": "软骨组织中支撑骨骼的蛋白质颗粒",
+            "iscorrect": false
+          },
+          {
+            "definition": "细胞内合成蛋白质的核糖体",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

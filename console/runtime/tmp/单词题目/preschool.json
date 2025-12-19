@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "preschool",
+      "error_analysis": "学生易因词根“pre-”（之前）和“school”（学校）误将“preschool”理解为“上学前的阶段”，或与形近的“primary school”（小学）混淆。",
+      "sentence": "My 3-year-old niece goes to a **preschool** every morning, where she makes friends and learns basic math.",
+      "options": {
+        "option": [
+          {
+            "definition": "幼儿园（学前教育机构）",
+            "iscorrect": true
+          },
+          {
+            "definition": "小学",
+            "iscorrect": false
+          },
+          {
+            "definition": "上学前的阶段",
+            "iscorrect": false
+          },
+          {
+            "definition": "预备学校",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

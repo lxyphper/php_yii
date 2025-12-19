@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to solidify",
+      "error_analysis": "学生易因词根\"solid\"(固体)过度直译，将\"to solidify\"误解为\"使变成固体\"，忽略其常用比喻义\"巩固\"。",
+      "sentence": "After several successful projects together, their partnership began to **solidify**.",
+      "options": {
+        "option": [
+          {
+            "definition": "巩固；加强",
+            "iscorrect": true
+          },
+          {
+            "definition": "使变成固体",
+            "iscorrect": false
+          },
+          {
+            "definition": "简化",
+            "iscorrect": false
+          },
+          {
+            "definition": "加速",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

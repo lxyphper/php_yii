@@ -1,0 +1,32 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to evolve",
+      "error_analysis": "形近词“revolve”（旋转）的干扰，以及词根“volve”（卷）导致的“展开”的错误联想。",
+      "sentence": {
+        "b": "evolved"
+      },
+      "options": {
+        "option": [
+          {
+            "definition": "旋转；绕转",
+            "iscorrect": false
+          },
+          {
+            "definition": "展开；打开（如卷状物体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "进化；逐渐发展",
+            "iscorrect": true
+          },
+          {
+            "definition": "返回；回顾",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

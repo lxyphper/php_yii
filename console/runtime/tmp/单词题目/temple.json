@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "temple",
+      "error_analysis": "学生易因形近词“template”（模板）、“temp”（温度），或误将“templ-”与“充足”（ample）关联，导致对“temple”（寺庙）的错误理解。",
+      "sentence": "The old stone **temple** at the foot of the mountain is a popular place for pilgrims.",
+      "options": {
+        "option": [
+          {
+            "definition": "模板",
+            "iscorrect": false
+          },
+          {
+            "definition": "寺庙",
+            "iscorrect": true
+          },
+          {
+            "definition": "充足的空间",
+            "iscorrect": false
+          },
+          {
+            "definition": "温度表",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

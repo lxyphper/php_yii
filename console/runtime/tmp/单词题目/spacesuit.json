@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "spacesuit",
+      "error_analysis": "易受形近词\"spaceship\"(宇宙飞船)干扰，或因\"suit\"字面义\"套装\"误判为\"太空西装\"。",
+      "sentence": "Astronauts must wear a **spacesuit** when they go outside the spacecraft to protect themselves from the harsh environment of space.",
+      "options": {
+        "option": [
+          {
+            "definition": "宇宙飞船",
+            "iscorrect": false
+          },
+          {
+            "definition": "宇航服",
+            "iscorrect": true
+          },
+          {
+            "definition": "太空西装",
+            "iscorrect": false
+          },
+          {
+            "definition": "太空站",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

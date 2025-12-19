@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to foretell",
+      "error_analysis": "中国学生易因词根直译（将“fore-”+“tell”误判为“提前告诉某人某事”）及形近词“forestall”（阻止）的干扰而错解其核心义。",
+      "sentence": "The witch claimed she could **foretell** the king's fate using her magic potion.",
+      "options": {
+        "option": [
+          {
+            "definition": "预言；预测（未来事件）",
+            "iscorrect": true
+          },
+          {
+            "definition": "阻止（某事发生）",
+            "iscorrect": false
+          },
+          {
+            "definition": "提前告诉某人某事",
+            "iscorrect": false
+          },
+          {
+            "definition": "回顾（过去经历）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

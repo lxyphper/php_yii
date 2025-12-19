@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to decay",
+      "error_analysis": "学生易因形近词“delay”（延迟）混淆，或误通过“de-”词根猜测为“向下携带”等错误含义。",
+      "sentence": "If you don’t refrigerate the bread, it will **decay** quickly.",
+      "options": {
+        "option": [
+          {
+            "definition": "（使）腐烂；衰退",
+            "iscorrect": true
+          },
+          {
+            "definition": "延迟；耽搁",
+            "iscorrect": false
+          },
+          {
+            "definition": "向下携带；运送",
+            "iscorrect": false
+          },
+          {
+            "definition": "决定；判定",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "deceitful",
+      "error_analysis": "学生易因形近词\"decent\"(体面的)或对\"deceit\"词根不熟悉，将\"deceitful\"误判为\"正派的\"或\"令人愉快的\"",
+      "sentence": "The salesman gave her a **deceitful** smile and told her the car was in perfect condition, but it broke down the next day.",
+      "options": {
+        "option": [
+          {
+            "definition": "欺骗的；欺诈的",
+            "iscorrect": true
+          },
+          {
+            "definition": "体面的；正派的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人愉快的；可爱的",
+            "iscorrect": false
+          },
+          {
+            "definition": "尊敬的；恭敬的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

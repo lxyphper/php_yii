@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "miscellanea",
+      "error_analysis": "学生易因词根“cell”误导猜测为“细胞相关事物”，或因形近词“miserable”误判为“悲惨的事情”",
+      "sentence": "The old trunk contained a **miscellanea** of items, including vintage postcards, old coins, and handwritten letters from the 1920s.",
+      "options": {
+        "option": [
+          {
+            "definition": "悲惨的经历",
+            "iscorrect": false
+          },
+          {
+            "definition": "细胞的集合",
+            "iscorrect": false
+          },
+          {
+            "definition": "各种事物的集合；杂集",
+            "iscorrect": true
+          },
+          {
+            "definition": "珍贵的文物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

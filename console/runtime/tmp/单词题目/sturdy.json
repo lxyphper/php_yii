@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sturdy",
+      "error_analysis": "中国学生易因形近词\"study\"（学习）或词根联想\"僵硬\"而误解\"sturdy\"的含义",
+      "sentence": "The old wooden table is still **sturdy** enough to hold all my books.",
+      "options": {
+        "option": [
+          {
+            "definition": "坚固的；结实的",
+            "iscorrect": true
+          },
+          {
+            "definition": "学习的；研究的",
+            "iscorrect": false
+          },
+          {
+            "definition": "僵硬的；生硬的",
+            "iscorrect": false
+          },
+          {
+            "definition": "暴风雨的；激烈的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

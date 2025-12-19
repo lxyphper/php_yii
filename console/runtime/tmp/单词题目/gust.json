@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gust",
+      "error_analysis": "学生易因形近词\"guest\"误判为\"客人\"，或因词根联想（如\"gustation\"）误判为\"味道/口味\"",
+      "sentence": "A cold **gust** of wind made her pull her coat tighter around her.",
+      "options": {
+        "option": [
+          {
+            "definition": "一阵（风）",
+            "iscorrect": true
+          },
+          {
+            "definition": "客人",
+            "iscorrect": false
+          },
+          {
+            "definition": "味道；口味",
+            "iscorrect": false
+          },
+          {
+            "definition": "突然的兴趣",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

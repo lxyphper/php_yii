@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to overcome",
+      "error_analysis": "学生易因“over”+“come”的字面组合错误理解为“越过/过来”，或与形近词“overtake”（超过）、“overwhelm”（压倒）混淆。",
+      "sentence": "After months of practice, she finally **overcame** her fear of public speaking.",
+      "options": {
+        "option": [
+          {
+            "definition": "克服；战胜",
+            "iscorrect": true
+          },
+          {
+            "definition": "越过；过来",
+            "iscorrect": false
+          },
+          {
+            "definition": "超过；赶上",
+            "iscorrect": false
+          },
+          {
+            "definition": "压倒；淹没",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

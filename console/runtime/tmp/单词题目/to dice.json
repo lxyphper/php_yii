@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to dice",
+      "error_analysis": "学生易将动词“to dice”误解为“掷骰子”（来自名词“骰子”的形近词义联想）",
+      "sentence": "Before making the salad, she needs to **dice** the cucumbers into small pieces.",
+      "options": {
+        "option": [
+          {
+            "definition": "把（食物）切成小方块",
+            "iscorrect": true
+          },
+          {
+            "definition": "掷骰子",
+            "iscorrect": false
+          },
+          {
+            "definition": "将（食物）切片",
+            "iscorrect": false
+          },
+          {
+            "definition": "煮（食物）至熟透",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wee",
+      "error_analysis": "学生易因与形近词\"weep\"(哭泣)或发音相近词\"weak\"(虚弱的)混淆，误判\"wee\"的含义",
+      "sentence": "The old man kept a **wee** garden in his backyard, growing only a few tomatoes and herbs.",
+      "options": {
+        "option": [
+          {
+            "definition": "小的；微小的",
+            "iscorrect": true
+          },
+          {
+            "definition": "虚弱的",
+            "iscorrect": false
+          },
+          {
+            "definition": "哭泣的",
+            "iscorrect": false
+          },
+          {
+            "definition": "每周的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

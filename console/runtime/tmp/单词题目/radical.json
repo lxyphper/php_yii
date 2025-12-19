@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "radical",
+      "error_analysis": "学生易因形近词“racial”（种族的）混淆词义，或因词根“rad-”（根）误判为“根部的”而非“彻底的/激进的”。",
+      "sentence": "The company announced **radical** reforms to its business model to survive the market crisis.",
+      "options": {
+        "option": [
+          {
+            "definition": "种族的",
+            "iscorrect": false
+          },
+          {
+            "definition": "根部的",
+            "iscorrect": false
+          },
+          {
+            "definition": "彻底的；激进的",
+            "iscorrect": true
+          },
+          {
+            "definition": "半径的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

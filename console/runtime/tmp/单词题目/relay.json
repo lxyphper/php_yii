@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "relay",
+      "error_analysis": "易因形近词\"rely\"误解为\"依赖\"，或拆分\"re-+lay\"误解为\"重新放置\"",
+      "sentence": "Please **relay** this message to your parents when you get home.",
+      "options": {
+        "option": [
+          {
+            "definition": "依赖",
+            "iscorrect": false
+          },
+          {
+            "definition": "传递（信息、消息等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "重新放置",
+            "iscorrect": false
+          },
+          {
+            "definition": "延迟",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

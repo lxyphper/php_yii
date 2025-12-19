@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "portal",
+      "error_analysis": "学生常因形近词“port”（港口/计算机端口）将“portal”误判为“港口”或“计算机端口”，或因词根“port”（携带）误解为“运输工具”。",
+      "sentence": "Many people use the company's **portal** to access news, emails, and internal documents.",
+      "options": {
+        "option": [
+          {
+            "definition": "门户网站；（建筑物的）大型入口",
+            "iscorrect": true
+          },
+          {
+            "definition": "港口；码头",
+            "iscorrect": false
+          },
+          {
+            "definition": "计算机端口；接口",
+            "iscorrect": false
+          },
+          {
+            "definition": "运输工具；搬运设备",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to shrink",
+      "error_analysis": "中国学生易因形近词“sink”（下沉）将“to shrink”误理解为“下沉”，或混淆“收缩”与“缩短”等近义词。",
+      "sentence": "After washing the new shirt in hot water, it **shrank** so much that it no longer fit him.",
+      "options": {
+        "option": [
+          {
+            "definition": "收缩；（使）缩水",
+            "iscorrect": true
+          },
+          {
+            "definition": "下沉；沉没",
+            "iscorrect": false
+          },
+          {
+            "definition": "缩短；使变短",
+            "iscorrect": false
+          },
+          {
+            "definition": "尖叫；惊呼",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

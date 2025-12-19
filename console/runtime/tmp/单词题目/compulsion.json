@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "compulsion",
+      "error_analysis": "中国学生易因形近词“competition”（竞争）或词根拆分（如“com-+pulsion”联想到“共同推动”）误判“compulsion”的含义。",
+      "sentence": "Sarah couldn’t resist the **compulsion** to open the gift before her birthday.",
+      "options": {
+        "option": [
+          {
+            "definition": "竞争",
+            "iscorrect": false
+          },
+          {
+            "definition": "动力",
+            "iscorrect": false
+          },
+          {
+            "definition": "压力",
+            "iscorrect": false
+          },
+          {
+            "definition": "强迫；冲动",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

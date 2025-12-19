@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "synthesis",
+      "error_analysis": "学生易因形近词`synopsis`（大纲）或词根`thesis`（论文）误导，将`synthesis`误解为“大纲”或“论文”。",
+      "sentence": "The new theory is a **synthesis** of traditional philosophy and modern scientific findings.",
+      "options": {
+        "option": [
+          {
+            "definition": "综合；合成",
+            "iscorrect": true
+          },
+          {
+            "definition": "大纲；提要",
+            "iscorrect": false
+          },
+          {
+            "definition": "论文；论题",
+            "iscorrect": false
+          },
+          {
+            "definition": "总结；概要",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

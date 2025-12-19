@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "iceberg",
+      "error_analysis": "因“berg”与“burg”（城堡）、“bridge”（桥）形近，易误猜为“冰城堡”或“冰桥”",
+      "sentence": "The Titanic sank after hitting a huge **iceberg** in the North Atlantic.",
+      "options": {
+        "option": [
+          {
+            "definition": "冰山",
+            "iscorrect": true
+          },
+          {
+            "definition": "冰城堡",
+            "iscorrect": false
+          },
+          {
+            "definition": "冰桥",
+            "iscorrect": false
+          },
+          {
+            "definition": "冰块",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "higher education",
+      "error_analysis": "学生易将\"higher education\"字面直译为\"更高的教育\"，混淆为\"高级职业培训\"或\"更好的基础教育\"，而非正规的大学及以上教育。",
+      "sentence": "Many students in China decide to pursue **higher education** after high school to get a bachelor's or master's degree.",
+      "options": {
+        "option": [
+          {
+            "definition": "高等教育（指大学、学院等正规的 post-secondary 教育）",
+            "iscorrect": true
+          },
+          {
+            "definition": "更高层次的职业技能培训（如高级技工或月嫂培训）",
+            "iscorrect": false
+          },
+          {
+            "definition": "更好的基础教育（如重点初中或示范性高中）",
+            "iscorrect": false
+          },
+          {
+            "definition": "高级的语言学习课程（如商务英语或托福冲刺班）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

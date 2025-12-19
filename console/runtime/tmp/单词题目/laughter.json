@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "laughter",
+      "error_analysis": "中国学生易因与\"daughter\"（女儿）拼写相似混淆，或因\"laugh\"+\"-ter\"后缀误判为\"笑的人\"（类似\"teacher\"构词逻辑）。",
+      "sentence": "The room was filled with loud **laughter** when the comedian told a funny joke.",
+      "options": {
+        "option": [
+          {
+            "definition": "女儿",
+            "iscorrect": false
+          },
+          {
+            "definition": "笑的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "发射",
+            "iscorrect": false
+          },
+          {
+            "definition": "笑声",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

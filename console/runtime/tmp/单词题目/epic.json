@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "epic",
+      "error_analysis": "易混淆形近词“epoch”（时代）及词根误导的“漫长的”理解",
+      "sentence": "The movie tells an **epic** story of a hero who saves his kingdom from destruction.",
+      "options": {
+        "option": [
+          {
+            "definition": "史诗般的（宏大、壮丽的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "时代（纪元）",
+            "iscorrect": false
+          },
+          {
+            "definition": "漫长的（长时间的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "普通的（平凡的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

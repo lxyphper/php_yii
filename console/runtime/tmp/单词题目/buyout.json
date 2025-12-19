@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "buyout",
+      "error_analysis": "学生易因\"buy+out\"字面拆分误判为\"买光\"或\"卖出\"，或与形近词\"buy-in\"（买入）混淆",
+      "sentence": "After months of negotiations, the small tech startup accepted a **buyout** offer from a multinational company, giving up all ownership rights.",
+      "options": {
+        "option": [
+          {
+            "definition": "（公司的）收购（尤指收购全部股份）",
+            "iscorrect": true
+          },
+          {
+            "definition": "买光；售罄",
+            "iscorrect": false
+          },
+          {
+            "definition": "买入（指购买公司股份）",
+            "iscorrect": false
+          },
+          {
+            "definition": "卖出；转让",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

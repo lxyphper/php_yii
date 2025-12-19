@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "elbow",
+      "error_analysis": "中国学生易因形近词\"yellow\"（黄色）或词根\"bow\"（弓/鞠躬）误判\"elbow\"的词义",
+      "sentence": "She accidentally hit her **elbow** on the table while reaching for the cup.",
+      "options": {
+        "option": [
+          {
+            "definition": "肘（手臂的关节部分）",
+            "iscorrect": true
+          },
+          {
+            "definition": "黄色",
+            "iscorrect": false
+          },
+          {
+            "definition": "鞠躬（动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "碗（容器）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "state",
+      "error_analysis": "学生易因形近词“statue”（雕像）或“station”（车站）干扰，或误将“state”（状态）理解为“国家”（语境中核心义的常见错误）",
+      "sentence": "The doctor asked about the **state** of her mental health after the accident.",
+      "options": {
+        "option": [
+          {
+            "definition": "状态",
+            "iscorrect": true
+          },
+          {
+            "definition": "雕像",
+            "iscorrect": false
+          },
+          {
+            "definition": "车站",
+            "iscorrect": false
+          },
+          {
+            "definition": "国家",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

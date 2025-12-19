@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "basket",
+      "error_analysis": "学生易因形近词“basketball”（篮球）或词根“bas”（基础）将“basket”误判为“篮球”或“基础”",
+      "sentence": "The farmer carried a **basket** of fresh vegetables to the village market.",
+      "options": {
+        "option": [
+          {
+            "definition": "篮子",
+            "iscorrect": true
+          },
+          {
+            "definition": "篮球",
+            "iscorrect": false
+          },
+          {
+            "definition": "基础",
+            "iscorrect": false
+          },
+          {
+            "definition": "桶",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "voltage",
+      "error_analysis": "易将“voltage”误判为形近词“volume”（音量/体积），或因词根不熟悉猜测为“伏特”等无关含义",
+      "sentence": "The flashlight won’t work because the battery’s **voltage** is too low.",
+      "options": {
+        "option": [
+          {
+            "definition": "电压",
+            "iscorrect": true
+          },
+          {
+            "definition": "音量；体积",
+            "iscorrect": false
+          },
+          {
+            "definition": "伏特（电压单位）",
+            "iscorrect": false
+          },
+          {
+            "definition": "电流",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

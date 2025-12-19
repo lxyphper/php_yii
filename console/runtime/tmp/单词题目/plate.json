@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "plate",
+      "error_analysis": "学生易因形近词\"plant\"(植物)或\"plane\"(飞机)混淆，或误将\"plate\"理解为非核心义如\"平板\"而非\"盘子\"。",
+      "sentence": "She put the cake on a white **plate** and served it to the guests.",
+      "options": {
+        "option": [
+          {
+            "definition": "植物",
+            "iscorrect": false
+          },
+          {
+            "definition": "飞机",
+            "iscorrect": false
+          },
+          {
+            "definition": "平板",
+            "iscorrect": false
+          },
+          {
+            "definition": "盘子",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

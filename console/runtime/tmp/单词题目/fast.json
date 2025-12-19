@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fast",
+      "error_analysis": "学生易忽略“fast”作为动词/形容词的“禁食”义，直觉选择常见义“快的”，或因形近词“last”“past”产生混淆",
+      "sentence": "She decided to **fast** for a day to cleanse her body.",
+      "options": {
+        "option": [
+          {
+            "definition": "快的",
+            "iscorrect": false
+          },
+          {
+            "definition": "最后",
+            "iscorrect": false
+          },
+          {
+            "definition": "禁食",
+            "iscorrect": true
+          },
+          {
+            "definition": "过去",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

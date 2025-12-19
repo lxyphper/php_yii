@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to exacerbate",
+      "error_analysis": "学生易因形近词\"exaggerate\"(夸大)产生联想，或因词根\"acerb\"(刻薄的)误解为\"使变得刻薄\"，忽略其核心义\"使恶化\"。",
+      "sentence": "The lack of rain has **exacerbated** the drought in the region, making it nearly impossible for farmers to harvest any crops this year.",
+      "options": {
+        "option": [
+          {
+            "definition": "夸大；夸张",
+            "iscorrect": false
+          },
+          {
+            "definition": "使恶化；加剧",
+            "iscorrect": true
+          },
+          {
+            "definition": "使变得刻薄或尖锐",
+            "iscorrect": false
+          },
+          {
+            "definition": "缓解；减轻",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

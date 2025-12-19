@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to register",
+      "error_analysis": "学生易因形近词（如regard/regulate）或词根拆分（re-+gister）误导，将“to register”误判为“认为”“规范”或“记录”。",
+      "sentence": "Please **register** for the new course before the deadline to secure your spot.",
+      "options": {
+        "option": [
+          {
+            "definition": "注册；登记",
+            "iscorrect": true
+          },
+          {
+            "definition": "认为；看待",
+            "iscorrect": false
+          },
+          {
+            "definition": "记录；记载",
+            "iscorrect": false
+          },
+          {
+            "definition": "规范；调节",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "manager",
+      "error_analysis": "学生易因形近词“manner”（方式；举止）混淆，或因词根“manage”过度推导为“处理者”。",
+      "sentence": "The **manager** of the company will hold a meeting with all employees this afternoon to discuss the new project.",
+      "options": {
+        "option": [
+          {
+            "definition": "经理；管理人员",
+            "iscorrect": true
+          },
+          {
+            "definition": "方式；举止",
+            "iscorrect": false
+          },
+          {
+            "definition": "处理者；应对者",
+            "iscorrect": false
+          },
+          {
+            "definition": "监督者；指导者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

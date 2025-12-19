@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "opulent",
+      "error_analysis": "学生易因形近词“oppressive”（压迫的）或“op-”词根的错误联想，将“opulent”错解为“压迫的”或“反对的”。",
+      "sentence": "The millionaire lived in an **opulent** mansion with a private golf course and a fleet of luxury cars.",
+      "options": {
+        "option": [
+          {
+            "definition": "富裕的；豪华的",
+            "iscorrect": true
+          },
+          {
+            "definition": "压迫的；沉重的",
+            "iscorrect": false
+          },
+          {
+            "definition": "反对的；对抗的",
+            "iscorrect": false
+          },
+          {
+            "definition": "丰富的；充足的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

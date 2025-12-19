@@ -1,0 +1,27 @@
+[
+  {
+    "common_misspellings": [
+      "cleen eating",
+      "clan eating",
+      "clen eating",
+      "clean eatting",
+      "clean eatin",
+      "clean eeting"
+    ],
+    "correct_chunks": [
+      "cl",
+      "ean",
+      "eat",
+      "ing"
+    ],
+    "distractor_chunks": [
+      "een",
+      "an",
+      "en",
+      "tt",
+      "in",
+      "ee"
+    ]
+  },
+  0
+]

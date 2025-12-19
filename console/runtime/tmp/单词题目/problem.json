@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "problem",
+      "error_analysis": "学生易因形近词\"program\"（程序）或\"project\"（项目）的干扰，或\"blem\"词根引发\"瑕疵\"联想而误判词义",
+      "sentence": "The main **problem** with the new system is that it’s too slow for our needs.",
+      "options": {
+        "option": [
+          {
+            "definition": "问题；难题（需要解决的困难）",
+            "iscorrect": true
+          },
+          {
+            "definition": "程序；节目",
+            "iscorrect": false
+          },
+          {
+            "definition": "瑕疵；缺陷",
+            "iscorrect": false
+          },
+          {
+            "definition": "项目；计划",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "woman",
+      "error_analysis": "中国学生易因形近词\"womb\"(子宫)或词根拆分\"wo-+man\"(误联想为\"弱的男人\")产生错误理解",
+      "sentence": "The old **woman** is sitting on the bench, feeding the pigeons.",
+      "options": {
+        "option": [
+          {
+            "definition": "女人",
+            "iscorrect": true
+          },
+          {
+            "definition": "子宫",
+            "iscorrect": false
+          },
+          {
+            "definition": "弱的男人",
+            "iscorrect": false
+          },
+          {
+            "definition": "羊毛",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

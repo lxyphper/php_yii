@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "horrifying",
+      "error_analysis": "学生易因形近词“horizon”（地平线）的拼写相似而误联想，或因混淆“horrifying”（令人恐怖的）与“horrified”（感到恐怖的）而错解词义。",
+      "sentence": "The old mansion had a **horrifying** feel, with squeaky floors and dark, empty rooms.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人恐怖的；可怕的",
+            "iscorrect": true
+          },
+          {
+            "definition": "地平线的",
+            "iscorrect": false
+          },
+          {
+            "definition": "感到恐怖的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人愉快的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

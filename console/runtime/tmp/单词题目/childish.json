@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "childish",
+      "error_analysis": "混淆\"childish\"（幼稚的，贬义）与\"childlike\"（孩子般的，褒义）的情感色彩，或字面理解为\"孩子的\"而忽略贬义",
+      "sentence": "His refusal to apologize for breaking the vase was so **childish**—he’s 25, not 5!",
+      "options": {
+        "option": [
+          {
+            "definition": "幼稚的（形容行为或想法不成熟，带贬义）",
+            "iscorrect": true
+          },
+          {
+            "definition": "孩子般的（天真无邪的，褒义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "孩子的（属于孩子的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "活泼的（精力充沛的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

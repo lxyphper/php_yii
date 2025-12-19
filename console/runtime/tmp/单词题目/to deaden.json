@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to deaden",
+      "error_analysis": "学生易因形近词\"dead\"（死）联想，将\"to deaden\"误解为\"使死亡\"或\"杀死\"。",
+      "sentence": "She put on earmuffs to **deaden** the loud music from the party next door.",
+      "options": {
+        "option": [
+          {
+            "definition": "减弱（声音、感觉等的强度）",
+            "iscorrect": true
+          },
+          {
+            "definition": "使死亡",
+            "iscorrect": false
+          },
+          {
+            "definition": "使变死",
+            "iscorrect": false
+          },
+          {
+            "definition": "使消失",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

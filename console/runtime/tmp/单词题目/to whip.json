@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to whip",
+      "error_analysis": "学生易混淆形近词\"whisper\"(低语)，或误将动词义局限于\"用鞭子打\"而忽略\"搅拌(食物)\"的常见义。",
+      "sentence": "She asked me to **whip** the cream until it forms soft peaks for the dessert.",
+      "options": {
+        "option": [
+          {
+            "definition": "搅拌（使成糊状或泡沫）",
+            "iscorrect": true
+          },
+          {
+            "definition": "低语；小声说",
+            "iscorrect": false
+          },
+          {
+            "definition": "用鞭子抽打",
+            "iscorrect": false
+          },
+          {
+            "definition": "擦拭；擦去",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

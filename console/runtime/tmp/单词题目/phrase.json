@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "phrase",
+      "error_analysis": "与形近词“phase”（阶段）混淆，易误判为“阶段”",
+      "sentence": "The teacher asked the students to memorize this common **phrase** for the exam.",
+      "options": {
+        "option": [
+          {
+            "definition": "短语；词组",
+            "iscorrect": true
+          },
+          {
+            "definition": "阶段",
+            "iscorrect": false
+          },
+          {
+            "definition": "句子",
+            "iscorrect": false
+          },
+          {
+            "definition": "段落",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to review",
+      "error_analysis": "易混淆形近词\"revise\"(修改)，或因\"re-+view\"字面推导为\"检查\"，忽略其\"复习/回顾\"的核心义",
+      "sentence": "Before the exam, I need to **review** my notes to remember all the key points.",
+      "options": {
+        "option": [
+          {
+            "definition": "复习；回顾",
+            "iscorrect": true
+          },
+          {
+            "definition": "修改；修订",
+            "iscorrect": false
+          },
+          {
+            "definition": "检查；查看",
+            "iscorrect": false
+          },
+          {
+            "definition": "重复；重做",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

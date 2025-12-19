@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "orchard",
+      "error_analysis": "学生易因形近词“orchid”（兰花）的干扰，或误拆为“or+chard”（甜菜）而将“orchard”错误理解为“兰花”或“甜菜地”。",
+      "sentence": "The farmer spends every morning picking apples in his **orchard** before selling them at the market.",
+      "options": {
+        "option": [
+          {
+            "definition": "果园",
+            "iscorrect": true
+          },
+          {
+            "definition": "兰花",
+            "iscorrect": false
+          },
+          {
+            "definition": "甜菜地",
+            "iscorrect": false
+          },
+          {
+            "definition": "花园",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

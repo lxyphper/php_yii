@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "prevalent",
+      "error_analysis": "易因形近与\"prevent\"(阻止)或\"previous\"(之前的)混淆，或因词根\"pre-\"(前)和\"val\"(价值)误导产生错误理解",
+      "sentence": "Smartphones are **prevalent** among teenagers in most countries.",
+      "options": {
+        "option": [
+          {
+            "definition": "盛行的；普遍的",
+            "iscorrect": true
+          },
+          {
+            "definition": "阻止的；防止的",
+            "iscorrect": false
+          },
+          {
+            "definition": "之前的；先前的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有价值的；珍贵的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

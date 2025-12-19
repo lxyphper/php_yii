@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "postgraduate",
+      "error_analysis": "中国学生易因形近词（如undergraduate）或词根字面误导（将“post-”+“graduate”错误理解为“毕业生”）而混淆其核心词义“研究生”。",
+      "sentence": "After completing her bachelor's degree, Emma decided to pursue a **postgraduate** degree in computer science at Oxford University.",
+      "options": {
+        "option": [
+          {
+            "definition": "本科生",
+            "iscorrect": false
+          },
+          {
+            "definition": "研究生（指硕士或博士研究生）",
+            "iscorrect": true
+          },
+          {
+            "definition": "毕业生",
+            "iscorrect": false
+          },
+          {
+            "definition": "博士后",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

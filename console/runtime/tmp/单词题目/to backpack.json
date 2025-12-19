@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to backpack",
+      "error_analysis": "学生易将动词\"to backpack\"误解为\"背背包\"（形近词名词\"backpack\"的干扰）或\"整理背包\"（词根\"pack\"的\"打包\"与\"back\"的\"后面\"字面误导）",
+      "sentence": "They decided to **backpack** through Europe next summer instead of taking a tour bus.",
+      "options": {
+        "option": [
+          {
+            "definition": "进行背包旅行（指以背包为主要装备的旅行活动）",
+            "iscorrect": true
+          },
+          {
+            "definition": "背背包（携带背包的动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "整理背包（把东西装进背包里）",
+            "iscorrect": false
+          },
+          {
+            "definition": "买背包（购买背包）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "chin",
+      "error_analysis": "将“chin”误判为形近词“chain”（链条）的含义，或根据“in”字面猜测为“内部”",
+      "sentence": "She stroked her **chin** thoughtfully before giving her answer.",
+      "options": {
+        "option": [
+          {
+            "definition": "链条",
+            "iscorrect": false
+          },
+          {
+            "definition": "内部",
+            "iscorrect": false
+          },
+          {
+            "definition": "脸颊",
+            "iscorrect": false
+          },
+          {
+            "definition": "下巴",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

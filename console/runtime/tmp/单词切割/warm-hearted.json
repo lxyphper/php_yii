@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "warm-harted",
+      "war-hearted",
+      "werm-hearted",
+      "warm-heartted",
+      "warm-hearded"
+    ],
+    "correct_chunks": [
+      "warm-",
+      "heart",
+      "ed"
+    ],
+    "distractor_chunks": [
+      "hart",
+      "war-",
+      "werm-",
+      "heartt",
+      "heard"
+    ]
+  },
+  0
+]

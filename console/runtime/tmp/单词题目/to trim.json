@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to trim",
+      "error_analysis": "学生易因形近词\"trip\"误解为\"旅行/绊倒\"，或因字面误导将\"trim\"理解为\"砍/破坏\"",
+      "sentence": "My mom asked me to **trim** the overgrown branches of the apple tree in the yard.",
+      "options": {
+        "option": [
+          {
+            "definition": "修剪（头发、树枝等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "旅行；绊倒",
+            "iscorrect": false
+          },
+          {
+            "definition": "砍；破坏",
+            "iscorrect": false
+          },
+          {
+            "definition": "增加；补充",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

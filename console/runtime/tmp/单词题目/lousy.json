@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lousy",
+      "error_analysis": "中国学生易因“lousy”与“lazy”（懒惰的）拼写相近而误判，或误按词源“louse”（虱子）猜为“有虱子的”。",
+      "sentence": "The weather was so **lousy** yesterday that we had to cancel our picnic.",
+      "options": {
+        "option": [
+          {
+            "definition": "懒惰的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有虱子的",
+            "iscorrect": false
+          },
+          {
+            "definition": "松散的",
+            "iscorrect": false
+          },
+          {
+            "definition": "糟糕的；差劲的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

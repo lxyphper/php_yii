@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "psychotic",
+      "error_analysis": "学生易因形近词“psychological”（心理的）或词根“psych-”（精神/心理）误导，将“psychotic”错误理解为“心理的”而非“精神病的”。",
+      "sentence": "The police were called when the man displayed **psychotic** behavior, shouting at imaginary people and threatening to harm others.",
+      "options": {
+        "option": [
+          {
+            "definition": "精神病的；精神病患者的",
+            "iscorrect": true
+          },
+          {
+            "definition": "心理的；与心理有关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "与心理学研究相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可怜的；令人同情的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

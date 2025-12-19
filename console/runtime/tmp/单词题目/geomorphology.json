@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "geomorphology",
+      "error_analysis": "学生易因形近词\"geography\"(地理学)混淆,或词根\"morph-\"错误推导为\"生物形态学\"",
+      "sentence": "The study of **geomorphology** helps scientists explain how glaciers carve deep valleys and how wind erosion shapes desert dunes over time.",
+      "options": {
+        "option": [
+          {
+            "definition": "地理学（研究地球及其特征、居民和现象的学科）",
+            "iscorrect": false
+          },
+          {
+            "definition": "地貌学（研究地球表面形态及其形成过程的学科）",
+            "iscorrect": true
+          },
+          {
+            "definition": "生物形态学（研究生物体内外形态结构的学科）",
+            "iscorrect": false
+          },
+          {
+            "definition": "地质学（研究地球的组成、结构和历史的学科）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "future",
+      "error_analysis": "学生易因形近词\"feature\"（特征）混淆\"future\"的核心词义\"未来\"",
+      "sentence": "Many people like to plan for their **future** by saving money and setting long-term goals.",
+      "options": {
+        "option": [
+          {
+            "definition": "未来",
+            "iscorrect": true
+          },
+          {
+            "definition": "特征",
+            "iscorrect": false
+          },
+          {
+            "definition": "命运",
+            "iscorrect": false
+          },
+          {
+            "definition": "功能",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

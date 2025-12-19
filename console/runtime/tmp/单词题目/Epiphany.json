@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Epiphany",
+      "error_analysis": "学生易因\"epi-\"（在...之上）和\"phany\"（显示）的词根误解为\"明显的现象\"，或因形近\"epidemic\"（流行病）混淆词义。",
+      "sentence": "While staring at the broken vase, she had an **epiphany** about why her grandma always said \"carefulness is a virtue.\"",
+      "options": {
+        "option": [
+          {
+            "definition": "顿悟；突然明白",
+            "iscorrect": true
+          },
+          {
+            "definition": "明显的现象",
+            "iscorrect": false
+          },
+          {
+            "definition": "流行病",
+            "iscorrect": false
+          },
+          {
+            "definition": "表面的装饰",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

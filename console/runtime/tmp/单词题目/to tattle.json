@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to tattle",
+      "error_analysis": "学生易因形近词“rattle”（发出响声）或词根联想（认为是“说话”）误判为“发出噪音”或“闲聊”，而非“告密”。",
+      "sentence": "If you tell Mom that I broke the vase, you’re **tattling** and I’ll never play with you again!",
+      "options": {
+        "option": [
+          {
+            "definition": "向大人告发某人的小过错",
+            "iscorrect": true
+          },
+          {
+            "definition": "发出叮当的响声",
+            "iscorrect": false
+          },
+          {
+            "definition": "和朋友进行轻松的闲聊",
+            "iscorrect": false
+          },
+          {
+            "definition": "帮助别人修理损坏的物品",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

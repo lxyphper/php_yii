@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "guard",
+      "error_analysis": "易混淆形近词\"guide\"(引导)的含义，或误将\"guard\"理解为\"保证\"(guarantee的混淆)",
+      "sentence": "The security guard was asked to **guard** the entrance to the bank during the holiday.",
+      "options": {
+        "option": [
+          {
+            "definition": "守卫；看守（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "引导；指导（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "保证；担保（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "收集；聚集（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

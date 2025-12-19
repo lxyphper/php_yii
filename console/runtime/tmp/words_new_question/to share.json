@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to share",
+      "error_analysis": "易因形近词'shave'(刮)或词根联想误将'share'理解为'剪切'(shear)等无关义",
+      "sentence": "Can you **share** your book with me? I forgot mine.",
+      "options": {
+        "option": [
+          {
+            "definition": "分享",
+            "iscorrect": true
+          },
+          {
+            "definition": "刮（胡子等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "剪切（毛发等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "关心",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

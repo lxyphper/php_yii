@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "isomer",
+      "error_analysis": "学生易因形近词“isolate”（隔离）或词根“iso-”（相同）+“mer”（误判为“成员”/“部分”）而错误理解为“隔离物”或“相同成员”。",
+      "sentence": "Glucose and fructose are **isomers** because they have the same molecular formula (C₆H₁₂O₆) but different structures.",
+      "options": {
+        "option": [
+          {
+            "definition": "同分异构体（化学中具有相同分子式但结构不同的化合物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "隔离物；孤立的东西",
+            "iscorrect": false
+          },
+          {
+            "definition": "同类成员；相同的成员",
+            "iscorrect": false
+          },
+          {
+            "definition": "相同的部分；同类部件",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

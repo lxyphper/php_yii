@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "extinction",
+      "error_analysis": "学生易因形近词\"extension\"（扩展）产生错误联想，或因词根\"ext-\"（向外）和\"stinct\"（误判为\"刺\"）误解为\"向外刺\"或\"扩展\"。",
+      "sentence": "The rapid loss of habitat has led to the **extinction** of many species in the rainforest.",
+      "options": {
+        "option": [
+          {
+            "definition": "灭绝；消亡",
+            "iscorrect": true
+          },
+          {
+            "definition": "扩展；延伸",
+            "iscorrect": false
+          },
+          {
+            "definition": "穿刺；刺痛",
+            "iscorrect": false
+          },
+          {
+            "definition": "展览；展示",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

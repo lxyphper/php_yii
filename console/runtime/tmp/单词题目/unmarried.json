@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unmarried",
+      "error_analysis": "中国学生易因形近词“unmanned”（无人的）产生混淆，或误将“unmarried”理解为“离婚的”（不再结婚的）",
+      "sentence": "She is still **unmarried** at 30 and focuses on her career.",
+      "options": {
+        "option": [
+          {
+            "definition": "未婚的",
+            "iscorrect": true
+          },
+          {
+            "definition": "无人的",
+            "iscorrect": false
+          },
+          {
+            "definition": "离婚的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不喜欢结婚的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

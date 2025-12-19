@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bear",
+      "error_analysis": "中国学生易将动词“bear”（忍受）与形近词“beer”（啤酒）混淆，或误判为名词“熊”而忽略其核心动词含义",
+      "sentence": "After waiting for two hours, Tom said he couldn't **bear** the delay any longer.",
+      "options": {
+        "option": [
+          {
+            "definition": "忍受；承受",
+            "iscorrect": true
+          },
+          {
+            "definition": "啤酒",
+            "iscorrect": false
+          },
+          {
+            "definition": "熊",
+            "iscorrect": false
+          },
+          {
+            "definition": "出生",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

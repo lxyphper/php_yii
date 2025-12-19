@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unrealistic",
+      "error_analysis": "学生易将\"unrealistic\"误理解为\"不真实的\"（形近词unreal干扰）或通过词根\"real\"推导为\"不实在的\"，忽略其\"不现实、不符合实际\"的核心含义",
+      "sentence": "It’s **unrealistic** to expect him to finish the entire project in just one day.",
+      "options": {
+        "option": [
+          {
+            "definition": "不现实的；不符合实际的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不真实的；虚幻的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不实在的；空洞的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不可信的；靠不住的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

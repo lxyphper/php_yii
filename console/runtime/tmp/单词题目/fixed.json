@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fixed",
+      "error_analysis": "学生易因词根“fix”的“修理”义将“fixed”误解为“被修理的”，或混淆形近词“fitted”而误判为“合适的”",
+      "sentence": "The meeting is held at a **fixed** time every Monday, so you don’t have to check the schedule again.",
+      "options": {
+        "option": [
+          {
+            "definition": "固定的；不变的",
+            "iscorrect": true
+          },
+          {
+            "definition": "被修理的",
+            "iscorrect": false
+          },
+          {
+            "definition": "合适的",
+            "iscorrect": false
+          },
+          {
+            "definition": "专注的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

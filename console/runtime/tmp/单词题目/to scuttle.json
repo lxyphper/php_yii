@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to scuttle",
+      "error_analysis": "学生易因形近词\"scurry\"（急跑）误判为\"快速移动\"，或因词根猜测认为是\"切割处理\"",
+      "sentence": "The team decided to **scuttle** the project after discovering major flaws in the design.",
+      "options": {
+        "option": [
+          {
+            "definition": "故意破坏（计划、协议等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "快速跑",
+            "iscorrect": false
+          },
+          {
+            "definition": "用切割工具处理",
+            "iscorrect": false
+          },
+          {
+            "definition": "平静下来",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

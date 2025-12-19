@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "methane",
+      "error_analysis": "学生易因形近词\"method\"（方法）产生联想，或因\"meth-\"词根误猜为\"甲醇\"（methanol）",
+      "sentence": "Natural gas, which is mostly **methane**, is widely used for heating and cooking in many households.",
+      "options": {
+        "option": [
+          {
+            "definition": "方法；办法",
+            "iscorrect": false
+          },
+          {
+            "definition": "甲醇（一种有毒的酒精）",
+            "iscorrect": false
+          },
+          {
+            "definition": "乙烷（一种含两个碳原子的烷烃）",
+            "iscorrect": false
+          },
+          {
+            "definition": "甲烷（天然气的主要成分，无色易燃气体）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

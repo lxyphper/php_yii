@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "edge",
+      "error_analysis": "中国学生易因形近词\"egg\"(鸡蛋)混淆，或误将\"edge\"的\"优势\"义项理解为\"边缘\"。",
+      "sentence": "Because of his consistent practice, Jack has an **edge** over other players in the tennis match.",
+      "options": {
+        "option": [
+          {
+            "definition": "优势",
+            "iscorrect": true
+          },
+          {
+            "definition": "鸡蛋",
+            "iscorrect": false
+          },
+          {
+            "definition": "边缘",
+            "iscorrect": false
+          },
+          {
+            "definition": "年龄",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

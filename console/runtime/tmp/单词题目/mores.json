@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mores",
+      "error_analysis": "学生易因形近词\"more\"（更多）干扰误以为是\"更多的事物\"，或因拼写接近\"moor\"（沼泽）/ \"Moor\"（摩尔人）而误判为其复数。",
+      "sentence": "The anthropologist studied the **mores** of the indigenous tribe, focusing on their traditional marriage customs and taboos.",
+      "options": {
+        "option": [
+          {
+            "definition": "（社会或群体的）道德观念；风俗习惯",
+            "iscorrect": true
+          },
+          {
+            "definition": "更多的数量或程度",
+            "iscorrect": false
+          },
+          {
+            "definition": "沼泽地（moor的复数）",
+            "iscorrect": false
+          },
+          {
+            "definition": "摩尔人（Moor的复数）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

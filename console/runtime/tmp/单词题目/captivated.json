@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "captivated",
+      "error_analysis": "学生易混淆形近词\"captured\"(被捕获的)，或通过词根\"capt-\"(抓住)误判为\"被拘留的\"，而非抽象的\"被迷住\"。",
+      "sentence": "The audience was **captivated** by the magician's amazing tricks and couldn't take their eyes off him.",
+      "options": {
+        "option": [
+          {
+            "definition": "被迷住的；被吸引的",
+            "iscorrect": true
+          },
+          {
+            "definition": "被捕获的；被抓获的",
+            "iscorrect": false
+          },
+          {
+            "definition": "被拘留的；被扣押的",
+            "iscorrect": false
+          },
+          {
+            "definition": "被说服的；被劝服的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

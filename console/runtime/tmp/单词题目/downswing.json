@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "downswing",
+      "error_analysis": "学生可能根据\"down+swing\"的字面意思，将其误解为\"向下摆动\"（物理动作），而忽略其\"（经济、情绪等的）下降/衰退\"的抽象含义。",
+      "sentence": "The retail industry has been hit hard by a **downswing** in consumer spending this year.",
+      "options": {
+        "option": [
+          {
+            "definition": "（经济、活动等的）下降；衰退",
+            "iscorrect": true
+          },
+          {
+            "definition": "向下摆动（如钟摆的物理运动）",
+            "iscorrect": false
+          },
+          {
+            "definition": "下游的趋势或方向",
+            "iscorrect": false
+          },
+          {
+            "definition": "（车辆的）降档操作",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to crunch",
+      "error_analysis": "学生易将\"to crunch\"（嘎吱咬/处理数字）与形近词\"crush\"（压碎）混淆，或误将\"crunch numbers\"直译为\"压碎数字\"",
+      "sentence": "She likes to **crunch** potato chips while watching TV, and later she has to **crunch** the numbers for her report.",
+      "options": {
+        "option": [
+          {
+            "definition": "（使）嘎吱作响地咬/嚼；处理（数字）",
+            "iscorrect": true
+          },
+          {
+            "definition": "压碎；碾碎",
+            "iscorrect": false
+          },
+          {
+            "definition": "破裂；裂开",
+            "iscorrect": false
+          },
+          {
+            "definition": "挤压；压榨",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

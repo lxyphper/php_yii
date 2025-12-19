@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fiercely",
+      "error_analysis": "学生易因形近词\"fearfully\"（害怕地）产生混淆，或误将其理解为\"温和地\"（与\"fierce\"反义词关联的词根误导）",
+      "sentence": "The two teams competed **fiercely** for the championship, with neither side giving up easily.",
+      "options": {
+        "option": [
+          {
+            "definition": "激烈地；猛烈地",
+            "iscorrect": true
+          },
+          {
+            "definition": "害怕地；恐惧地",
+            "iscorrect": false
+          },
+          {
+            "definition": "温和地；轻柔地",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速地；迅速地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

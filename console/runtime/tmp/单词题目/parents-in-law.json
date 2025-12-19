@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "parents-in-law",
+      "error_analysis": "容易混淆为“自己的父母”（形近词“parents”干扰）或字面翻译为“法律上的父母”（“in-law”字面误导）",
+      "sentence": "My wife and I are going to spend the Spring Festival with her **parents-in-law** this year—they’ve prepared a lot of traditional dishes for us.",
+      "options": {
+        "option": [
+          {
+            "definition": "自己的父母",
+            "iscorrect": false
+          },
+          {
+            "definition": "法律上认可的父母",
+            "iscorrect": false
+          },
+          {
+            "definition": "配偶的父母（岳父母或公婆）",
+            "iscorrect": true
+          },
+          {
+            "definition": "配偶的父亲",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

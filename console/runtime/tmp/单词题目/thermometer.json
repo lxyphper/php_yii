@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "thermometer",
+      "error_analysis": "学生易因形近词“thermos”（保温瓶）或词根“therm-”（热）+“meter”（仪表）的过度猜测，将“thermometer”误判为“保温瓶”或“恒温器”。",
+      "sentence": "Before taking your temperature, make sure the **thermometer** is clean and placed under your tongue for at least 30 seconds.",
+      "options": {
+        "option": [
+          {
+            "definition": "保温瓶",
+            "iscorrect": false
+          },
+          {
+            "definition": "恒温器",
+            "iscorrect": false
+          },
+          {
+            "definition": "加热器",
+            "iscorrect": false
+          },
+          {
+            "definition": "温度计",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

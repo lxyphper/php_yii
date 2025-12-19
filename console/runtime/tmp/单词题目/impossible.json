@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "impossible",
+      "error_analysis": "中国学生易因形近词（如impolite/impatient）误判为“不礼貌的”“不耐烦的”，或因词根im-的加强义（如important）误理解为“很可能的”",
+      "sentence": "It’s **impossible** to finish this project in just one day—we need at least a week.",
+      "options": {
+        "option": [
+          {
+            "definition": "不可能的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不礼貌的",
+            "iscorrect": false
+          },
+          {
+            "definition": "很可能的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不耐烦的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

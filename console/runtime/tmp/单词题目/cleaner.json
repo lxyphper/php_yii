@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cleaner",
+      "error_analysis": "混淆形近词“clearer”（更清楚的）及误将名词“cleaner”（清洁工/清洁工具）理解为形容词比较级“更干净的”",
+      "sentence": "We need to hire a **cleaner** to keep the house tidy.",
+      "options": {
+        "option": [
+          {
+            "definition": "清洁工；清洁工具",
+            "iscorrect": true
+          },
+          {
+            "definition": "更清楚的",
+            "iscorrect": false
+          },
+          {
+            "definition": "更干净的",
+            "iscorrect": false
+          },
+          {
+            "definition": "清洁剂",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

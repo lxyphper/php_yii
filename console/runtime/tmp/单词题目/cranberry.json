@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cranberry",
+      "error_analysis": "学生易将“cran”误联想起形近词“cream（奶油）”或词根“crane（鹤）”，从而猜测为“奶油浆果”或“鹤莓”。",
+      "sentence": "I love adding dried **cranberries** to my oatmeal for a sweet and tangy flavor.",
+      "options": {
+        "option": [
+          {
+            "definition": "蔓越莓（一种红色的酸浆果，常用于制作果酱或果汁）",
+            "iscorrect": true
+          },
+          {
+            "definition": "奶油浆果（因“cran”与“cream（奶油）”形近而误判）",
+            "iscorrect": false
+          },
+          {
+            "definition": "鹤莓（因“cran”与“crane（鹤）”同源而误猜）",
+            "iscorrect": false
+          },
+          {
+            "definition": "糖果浆果（因“cran”与“candy（糖果）”形近而误判）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

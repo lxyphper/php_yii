@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unusual",
+      "error_analysis": "学生易因\"usual\"的\"常用\"义项将\"unusual\"误判为\"不常用的\"（词根误导），或与形近词\"unwell\"（不舒服的）混淆（形近干扰）。",
+      "sentence": "It's **unusual** to find a cat that likes swimming in this area.",
+      "options": {
+        "option": [
+          {
+            "definition": "不寻常的；罕见的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不常用的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不舒服的",
+            "iscorrect": false
+          },
+          {
+            "definition": "独特的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

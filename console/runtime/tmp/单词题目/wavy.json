@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wavy",
+      "error_analysis": "中国学生易因形近词“waxy”（蜡状的）混淆“wavy”，或因词根“wave”过度推导为“波动的（如情绪、价格）”。",
+      "sentence": "She likes to wear her hair in a **wavy** style for parties because it looks more elegant than straight hair.",
+      "options": {
+        "option": [
+          {
+            "definition": "有波浪形的；波浪状的",
+            "iscorrect": true
+          },
+          {
+            "definition": "蜡状的",
+            "iscorrect": false
+          },
+          {
+            "definition": "波动的（如情绪、价格）",
+            "iscorrect": false
+          },
+          {
+            "definition": "多风的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

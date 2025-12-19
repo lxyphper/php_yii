@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to engage",
+      "error_analysis": "学生易混淆形近词encourage（鼓励），或因词根gage（抵押）猜测为“抵押/保证”，忽略其核心义“参与”。",
+      "sentence": "Students are more likely to **engage** in class discussions if the topic is interesting.",
+      "options": {
+        "option": [
+          {
+            "definition": "参与（参加）",
+            "iscorrect": true
+          },
+          {
+            "definition": "鼓励（激励）",
+            "iscorrect": false
+          },
+          {
+            "definition": "抵押（担保）",
+            "iscorrect": false
+          },
+          {
+            "definition": "雇佣（聘用）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to expel",
+      "error_analysis": "易与形近词explain（解释）混淆，或因词根猜测错误将expel理解为“排放”。",
+      "sentence": "The school decided to **expel** the student after he was caught cheating in the exam for the third time.",
+      "options": {
+        "option": [
+          {
+            "definition": "解释；说明",
+            "iscorrect": false
+          },
+          {
+            "definition": "驱逐；开除",
+            "iscorrect": true
+          },
+          {
+            "definition": "排放；释放",
+            "iscorrect": false
+          },
+          {
+            "definition": "到期；失效",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

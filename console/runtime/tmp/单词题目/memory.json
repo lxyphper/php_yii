@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "memory",
+      "error_analysis": "中国学生易因形近词\"member\"(成员)产生混淆，或因词根\"mem-\"误联想为\"记录/备忘录\"而非核心义\"记忆\"。",
+      "sentence": "She has a good **memory** for names—she can remember everyone she met at the party.",
+      "options": {
+        "option": [
+          {
+            "definition": "成员；会员",
+            "iscorrect": false
+          },
+          {
+            "definition": "记忆；回忆",
+            "iscorrect": true
+          },
+          {
+            "definition": "记录；备忘录",
+            "iscorrect": false
+          },
+          {
+            "definition": "纪念物；纪念碑",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

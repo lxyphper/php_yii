@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mercenary",
+      "error_analysis": "易因形近词merchant（商人）及词根merc（商品）误判为“商人”或“商业的”",
+      "sentence": "The general hired a group of **mercenaries** to fight in the civil war, as they would take sides with whoever offered the highest pay.",
+      "options": {
+        "option": [
+          {
+            "definition": "雇佣兵",
+            "iscorrect": true
+          },
+          {
+            "definition": "商人",
+            "iscorrect": false
+          },
+          {
+            "definition": "商业的",
+            "iscorrect": false
+          },
+          {
+            "definition": "志愿者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

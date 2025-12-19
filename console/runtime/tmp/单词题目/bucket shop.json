@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bucket shop",
+      "error_analysis": "学生易将\"bucket\"（桶）与\"shop\"（商店）直译为\"卖桶的商店\"，忽略其\"廉价机票/非法证券代售点\"的引申义",
+      "sentence": "To get a cheap flight to Tokyo, Lisa chose a **bucket shop** recommended by her friend over a regular travel agency.",
+      "options": {
+        "option": [
+          {
+            "definition": "（出售廉价机票的）小店",
+            "iscorrect": true
+          },
+          {
+            "definition": "卖桶的商店",
+            "iscorrect": false
+          },
+          {
+            "definition": "饮料桶专卖店",
+            "iscorrect": false
+          },
+          {
+            "definition": "遗愿清单商店（如出售\"bucket list\"相关商品）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

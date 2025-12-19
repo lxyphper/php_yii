@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sunshine",
+      "error_analysis": "学生易将'sunshine'拆分为'sun'+'shine'误解为“太阳照耀”（动作），或混淆其与'sunny'的词性/词义（如误选“晴朗的”）。",
+      "sentence": "After the rain, the kids ran outside to play in the warm **sunshine**.",
+      "options": {
+        "option": [
+          {
+            "definition": "阳光（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "太阳照耀（动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "晴朗的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "遮阳伞（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

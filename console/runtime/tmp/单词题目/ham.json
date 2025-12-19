@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ham",
+      "error_analysis": "学生易因形近词“harm”（伤害）或误将“ham”当作“汉堡”（hamburger）的缩写而误解其含义。",
+      "sentence": "For breakfast, she had a slice of **ham** with eggs and toast.",
+      "options": {
+        "option": [
+          {
+            "definition": "伤害",
+            "iscorrect": false
+          },
+          {
+            "definition": "汉堡",
+            "iscorrect": false
+          },
+          {
+            "definition": "火腿",
+            "iscorrect": true
+          },
+          {
+            "definition": "手",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

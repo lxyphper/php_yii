@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "mathmatics",
+      "mashematics",
+      "mathematicks",
+      "mathemattics"
+    ],
+    "correct_chunks": [
+      "math",
+      "e",
+      "mat",
+      "ics"
+    ],
+    "distractor_chunks": [
+      "mathmat",
+      "mas",
+      "icks",
+      "matt"
+    ]
+  },
+  0
+]

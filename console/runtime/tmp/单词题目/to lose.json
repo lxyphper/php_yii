@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to lose",
+      "error_analysis": "混淆形近词“loose”（松开）与“lose”（丢失/失去）",
+      "sentence": "If you don't put your keys in a safe place, you might **lose** them easily.",
+      "options": {
+        "option": [
+          {
+            "definition": "松开；放松",
+            "iscorrect": false
+          },
+          {
+            "definition": "丢失；失去",
+            "iscorrect": true
+          },
+          {
+            "definition": "忘记；忽略",
+            "iscorrect": false
+          },
+          {
+            "definition": "浪费；消耗",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

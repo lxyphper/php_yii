@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "house",
+      "error_analysis": "易因形近词“horse”（马）产生拼写混淆，或混淆“house”（具体房子）与“home”（家）的含义。",
+      "sentence": "We’re going to paint our **house** blue next month.",
+      "options": {
+        "option": [
+          {
+            "definition": "房子",
+            "iscorrect": true
+          },
+          {
+            "definition": "马",
+            "iscorrect": false
+          },
+          {
+            "definition": "家",
+            "iscorrect": false
+          },
+          {
+            "definition": "软管",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to hinder",
+      "error_analysis": "学生易因形近词“handle”（处理）或词根“hind”（后面的）误导，误将“hinder”理解为“处理”或“拖延”。",
+      "sentence": "The heavy rain **hindered** the team from finishing the project on schedule.",
+      "options": {
+        "option": [
+          {
+            "definition": "阻碍，妨碍",
+            "iscorrect": true
+          },
+          {
+            "definition": "处理，应对",
+            "iscorrect": false
+          },
+          {
+            "definition": "拖延，延迟",
+            "iscorrect": false
+          },
+          {
+            "definition": "支持，促进",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

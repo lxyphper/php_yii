@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "painful",
+      "error_analysis": "易混淆形近词“plentiful”（充足的），或因词根“pain”过度直译忽略“令人痛苦的、艰难的”引申义",
+      "sentence": "After hours of **painful** negotiation, they finally reached an agreement.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人痛苦的；艰难的",
+            "iscorrect": true
+          },
+          {
+            "definition": "充足的",
+            "iscorrect": false
+          },
+          {
+            "definition": "疼痛的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有力量的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

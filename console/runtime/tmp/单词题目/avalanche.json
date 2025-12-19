@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "avalanche",
+      "error_analysis": "中国学生易将\"avalanche\"与形近词\"avocado\"（牛油果）混淆，或通过词根\"val\"（价值）、\"lan\"（土地）猜测为\"有价值的物品\"或\"土地的崩塌\"。",
+      "sentence": "After three days of continuous snow, the mountain guides advised against climbing due to the high risk of an **avalanche**.",
+      "options": {
+        "option": [
+          {
+            "definition": "雪崩",
+            "iscorrect": true
+          },
+          {
+            "definition": "牛油果",
+            "iscorrect": false
+          },
+          {
+            "definition": "有价值的物品",
+            "iscorrect": false
+          },
+          {
+            "definition": "土地的崩塌",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

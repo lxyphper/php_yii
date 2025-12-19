@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sanctity",
+      "error_analysis": "中国学生易因形近词（如sanction/sanitary）误判为“制裁”或“卫生”，或因词根混淆（如sanity）误判为“理智”。",
+      "sentence": "The villagers have always respected the **sanctity** of the ancient temple, considering it a place where the divine and human worlds meet.",
+      "options": {
+        "option": [
+          {
+            "definition": "神圣性；圣洁",
+            "iscorrect": true
+          },
+          {
+            "definition": "制裁；批准",
+            "iscorrect": false
+          },
+          {
+            "definition": "理智；清醒",
+            "iscorrect": false
+          },
+          {
+            "definition": "卫生；清洁",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

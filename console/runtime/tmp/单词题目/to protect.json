@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to protect",
+      "error_analysis": "中国学生易混淆形近词“protest”（抗议），或因词根“pro-”（向前）和“tect”（覆盖）错误联想为“投射”（project）。",
+      "sentence": "Parents always try to **protect** their children from danger.",
+      "options": {
+        "option": [
+          {
+            "definition": "保护",
+            "iscorrect": true
+          },
+          {
+            "definition": "抗议",
+            "iscorrect": false
+          },
+          {
+            "definition": "投射",
+            "iscorrect": false
+          },
+          {
+            "definition": "完美",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

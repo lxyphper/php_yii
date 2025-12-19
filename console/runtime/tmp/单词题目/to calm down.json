@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to calm down",
+      "error_analysis": "学生易因“down”的字面义（向下）误解为“将某物平稳放下”，或因“calm”与“call”形近混淆为“斥责”。",
+      "sentence": "When the teacher noticed the students were arguing, she told them to **calm down** and listen to each other.",
+      "options": {
+        "option": [
+          {
+            "definition": "（使）冷静下来",
+            "iscorrect": true
+          },
+          {
+            "definition": "斥责某人",
+            "iscorrect": false
+          },
+          {
+            "definition": "将某物平稳地放下",
+            "iscorrect": false
+          },
+          {
+            "definition": "放慢速度",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

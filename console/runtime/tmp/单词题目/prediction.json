@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "prediction",
+      "error_analysis": "学生易因形近词（如preparation）或词根误解（将“提前说”误判为“提前做”）而混淆“预测”的含义",
+      "sentence": "The weather forecast made a **prediction** of rain for tomorrow, so don’t forget your umbrella.",
+      "options": {
+        "option": [
+          {
+            "definition": "预测；预言",
+            "iscorrect": true
+          },
+          {
+            "definition": "准备；筹备",
+            "iscorrect": false
+          },
+          {
+            "definition": "计划；安排",
+            "iscorrect": false
+          },
+          {
+            "definition": "生产；制造",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

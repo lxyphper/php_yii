@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "also",
+      "error_analysis": "学生易因形近词\"already\"（已经）或词根联想\"all+so\"（全部）误解\"also\"的核心义",
+      "sentence": "She likes reading, and she **also** enjoys painting.",
+      "options": {
+        "option": [
+          {
+            "definition": "也；同样",
+            "iscorrect": true
+          },
+          {
+            "definition": "已经",
+            "iscorrect": false
+          },
+          {
+            "definition": "全部；完全",
+            "iscorrect": false
+          },
+          {
+            "definition": "总是",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

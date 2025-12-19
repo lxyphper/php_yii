@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sadness",
+      "error_analysis": "学生可能因形近词'sand'（沙子）误将'sadness'联想为'沙子的状态'，或因对'-ness'后缀的错误理解误视为'悲伤的人'",
+      "sentence": "The little girl’s eyes were filled with **sadness** after her dog ran away.",
+      "options": {
+        "option": [
+          {
+            "definition": "悲伤（的状态）",
+            "iscorrect": true
+          },
+          {
+            "definition": "沙子的状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "悲伤的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "严肃的态度",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

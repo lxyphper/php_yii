@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "polytheism",
+      "error_analysis": "中国学生可能因对“theism”（有神论）不熟悉，将“polytheism”错误推导为“多理论主义”（词根误导），或因形近混淆“polytheism”与“monotheism”（一神论）而误选“信仰唯一神”（形近词干扰）",
+      "sentence": "Ancient Greek and Roman religions are classic examples of **polytheism**, where people worshipped gods like Zeus, Athena, and Jupiter.",
+      "options": {
+        "option": [
+          {
+            "definition": "多神论（信仰多个神的宗教或哲学）",
+            "iscorrect": true
+          },
+          {
+            "definition": "一神论（信仰唯一神的宗教或哲学）",
+            "iscorrect": false
+          },
+          {
+            "definition": "多理论主义（认为存在多种理论的主义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "泛神论（信仰神存在于万物中的哲学）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

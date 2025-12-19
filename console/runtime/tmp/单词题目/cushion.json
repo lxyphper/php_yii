@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cushion",
+      "error_analysis": "中国学生易因形近词“cousin”（堂兄弟）或对“push”（推）的字面联想，误解“cushion”的核心名词义。",
+      "sentence": "She put a soft **cushion** on the chair so her grandma could sit more comfortably.",
+      "options": {
+        "option": [
+          {
+            "definition": "堂兄弟/姐妹",
+            "iscorrect": false
+          },
+          {
+            "definition": "坐垫；靠垫",
+            "iscorrect": true
+          },
+          {
+            "definition": "推的动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "窗帘",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

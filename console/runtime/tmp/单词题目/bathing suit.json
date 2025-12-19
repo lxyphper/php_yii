@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bathing suit",
+      "error_analysis": "学生易将“bathing suit”字面理解为“洗澡时穿的套装”（如浴袍），而非其核心义“泳衣”。",
+      "sentence": "The kids couldn't wait to put on their **bathing suits** and play in the beach waves.",
+      "options": {
+        "option": [
+          {
+            "definition": "泳衣",
+            "iscorrect": true
+          },
+          {
+            "definition": "洗澡时穿的浴袍",
+            "iscorrect": false
+          },
+          {
+            "definition": "适合洗澡的休闲装",
+            "iscorrect": false
+          },
+          {
+            "definition": "游泳时戴的帽子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

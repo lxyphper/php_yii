@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to shred",
+      "error_analysis": "中国学生易因形近词‘shed’（脱落、丢弃）的干扰，误将‘to shred’理解为‘脱落、丢弃’",
+      "sentence": "Please **shred** the old letters before throwing them away to prevent identity theft.",
+      "options": {
+        "option": [
+          {
+            "definition": "撕碎、切碎",
+            "iscorrect": true
+          },
+          {
+            "definition": "脱落、丢弃",
+            "iscorrect": false
+          },
+          {
+            "definition": "穿线、引线",
+            "iscorrect": false
+          },
+          {
+            "definition": "使变红、染红",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

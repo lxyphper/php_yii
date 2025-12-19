@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to educate",
+      "error_analysis": "学生易因形近词“dedicate”（奉献）干扰或词根“duc”（引导）过度推导，将“to educate”误判为“奉献”或“引导”。",
+      "sentence": "The school’s main goal is to **educate** children to become responsible citizens.",
+      "options": {
+        "option": [
+          {
+            "definition": "教育",
+            "iscorrect": true
+          },
+          {
+            "definition": "奉献",
+            "iscorrect": false
+          },
+          {
+            "definition": "引导",
+            "iscorrect": false
+          },
+          {
+            "definition": "估计",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

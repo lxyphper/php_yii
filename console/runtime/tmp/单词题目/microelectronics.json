@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "microelectronics",
+      "error_analysis": "学生易因词根拆分过度直译，将\"microelectronics\"错误理解为\"微型电子设备\"（具体产品）而非\"微电子学\"（学科领域）。",
+      "sentence": "The rapid development of **microelectronics** has enabled the production of smaller and more powerful smartphones.",
+      "options": {
+        "option": [
+          {
+            "definition": "微电子学（研究微小电子电路的学科领域）",
+            "iscorrect": true
+          },
+          {
+            "definition": "微型电子设备（如手机中的小型电子元件）",
+            "iscorrect": false
+          },
+          {
+            "definition": "微生物学（研究微小生物的学科）",
+            "iscorrect": false
+          },
+          {
+            "definition": "电子显微镜（用于观察微小物体的设备）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "racket",
+      "error_analysis": "学生易因形近词“rocket”（火箭）混淆“racket”的核心词义（球拍），或由“rack”（架子）联想误猜。",
+      "sentence": "He forgot to bring his tennis **racket** to the court, so he had to borrow one from his friend.",
+      "options": {
+        "option": [
+          {
+            "definition": "球拍",
+            "iscorrect": true
+          },
+          {
+            "definition": "火箭",
+            "iscorrect": false
+          },
+          {
+            "definition": "架子",
+            "iscorrect": false
+          },
+          {
+            "definition": "喧闹声",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

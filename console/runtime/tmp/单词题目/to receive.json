@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to receive",
+      "error_analysis": "易与形近词recover（恢复）混淆，或误联想为perceive（感知）的词义",
+      "sentence": "He was excited to **receive** a handwritten letter from his childhood friend.",
+      "options": {
+        "option": [
+          {
+            "definition": "收到；接到",
+            "iscorrect": true
+          },
+          {
+            "definition": "恢复；康复",
+            "iscorrect": false
+          },
+          {
+            "definition": "感知；察觉",
+            "iscorrect": false
+          },
+          {
+            "definition": "返回；归还",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "polymer",
+      "error_analysis": "学生易因形近词（如polyester）或词根猜测（误将polymer等同于塑料）而错误理解词义",
+      "sentence": "Many common materials like plastic bags and rubber tires are made from **polymers**, which are large molecules formed by joining many smaller units together.",
+      "options": {
+        "option": [
+          {
+            "definition": "聚酯",
+            "iscorrect": false
+          },
+          {
+            "definition": "塑料",
+            "iscorrect": false
+          },
+          {
+            "definition": "单体",
+            "iscorrect": false
+          },
+          {
+            "definition": "聚合物",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

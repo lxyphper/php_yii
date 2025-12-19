@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "eloquence",
+      "error_analysis": "中国学生易因形近词混淆，将\"eloquence\"误判为\"elegance\"（优雅），或因对\"loqu\"（说）词根不熟悉而误解为\"流利\"等无关义。",
+      "sentence": "His **eloquence** in the debate, where he articulated complex ideas with passion and persuasion, won him a standing ovation from the audience.",
+      "options": {
+        "option": [
+          {
+            "definition": "雄辩；口才（有说服力的表达能力）",
+            "iscorrect": true
+          },
+          {
+            "definition": "优雅；高雅（举止或外表的优美）",
+            "iscorrect": false
+          },
+          {
+            "definition": "流利；流畅（说话或写作的顺畅程度）",
+            "iscorrect": false
+          },
+          {
+            "definition": "准确；精确（内容或数据的正确性）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

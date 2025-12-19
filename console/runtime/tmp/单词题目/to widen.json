@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to widen",
+      "error_analysis": "学生易因词根“wide”（宽）的字面联想误将“to widen”理解为“延长”（lengthen），或因形近词“wander”（漫步）产生错误联想。",
+      "sentence": "The government decided to **widen** the highway to reduce traffic congestion.",
+      "options": {
+        "option": [
+          {
+            "definition": "使变宽；拓宽",
+            "iscorrect": true
+          },
+          {
+            "definition": "延长；加长",
+            "iscorrect": false
+          },
+          {
+            "definition": "漫步；徘徊",
+            "iscorrect": false
+          },
+          {
+            "definition": "修建；建造",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

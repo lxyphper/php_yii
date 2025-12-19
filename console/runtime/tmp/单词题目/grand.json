@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "grand",
+      "error_analysis": "易混淆形近词\"grant\"(授予)及词根误导导致误判为\"伟大的\"(great)而非\"壮丽的/盛大的\"",
+      "sentence": "The opening ceremony of the Olympics was a **grand** event that impressed millions of viewers worldwide.",
+      "options": {
+        "option": [
+          {
+            "definition": "授予；允许",
+            "iscorrect": false
+          },
+          {
+            "definition": "壮丽的；盛大的",
+            "iscorrect": true
+          },
+          {
+            "definition": "伟大的；杰出的",
+            "iscorrect": false
+          },
+          {
+            "definition": "微小的；不重要的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

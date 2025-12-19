@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unfruitful",
+      "error_analysis": "学生易混淆形近词\"unfaithful\"（不忠诚的）或误按词根\"fruit\"字面理解为\"没有水果的\"。",
+      "sentence": "After hours of **unfruitful** discussion, the team decided to take a break and try a new approach.",
+      "options": {
+        "option": [
+          {
+            "definition": "无成果的；徒劳的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不忠诚的；不忠的",
+            "iscorrect": false
+          },
+          {
+            "definition": "没有水果的；不结果实的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不新鲜的；变质的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

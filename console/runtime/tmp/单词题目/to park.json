@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to park",
+      "error_analysis": "学生易将动词“to park”误解为“去公园”（基于名词“park”的字面联想）或“打包”（形近词“pack”的干扰）",
+      "sentence": "Please **park** your car in the parking lot, not on the sidewalk.",
+      "options": {
+        "option": [
+          {
+            "definition": "停放（车辆等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "去公园",
+            "iscorrect": false
+          },
+          {
+            "definition": "打包（你的物品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "修理（你的汽车）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

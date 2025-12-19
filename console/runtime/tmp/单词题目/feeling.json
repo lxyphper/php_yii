@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "feeling",
+      "error_analysis": "中国学生易混淆形近词“filling”（填充物），或误将“feeling”当作动词-ing形式而非名词“感觉”",
+      "sentence": "After watching the movie, she had a strong **feeling** of sadness.",
+      "options": {
+        "option": [
+          {
+            "definition": "感觉；情绪（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "填充物；馅料",
+            "iscorrect": false
+          },
+          {
+            "definition": "感到（动词-ing形式）",
+            "iscorrect": false
+          },
+          {
+            "definition": "触摸；手感",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

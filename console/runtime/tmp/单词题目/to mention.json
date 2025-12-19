@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to mention",
+      "error_analysis": "中国学生易因形近词“motion”（动作）混淆，或因“ment-”词根误猜为“思考”。",
+      "sentence": "During the meeting, she didn’t **mention** anything about the new project.",
+      "options": {
+        "option": [
+          {
+            "definition": "提及；提到",
+            "iscorrect": true
+          },
+          {
+            "definition": "动作；移动",
+            "iscorrect": false
+          },
+          {
+            "definition": "思考；考虑",
+            "iscorrect": false
+          },
+          {
+            "definition": "记住；牢记",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

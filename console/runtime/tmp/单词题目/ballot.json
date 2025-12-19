@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ballot",
+      "error_analysis": "学生易因形近词\"ball\"（球）或词根误导，将\"ballot\"错误理解为\"球\"\"子弹\"或\"舞会\"，而非核心义\"投票；选票\"",
+      "sentence": "Voters will cast their **ballot** for the new mayor in the upcoming election.",
+      "options": {
+        "option": [
+          {
+            "definition": "投票；选票",
+            "iscorrect": true
+          },
+          {
+            "definition": "球；球类运动",
+            "iscorrect": false
+          },
+          {
+            "definition": "子弹；弹丸",
+            "iscorrect": false
+          },
+          {
+            "definition": "舞会；盛宴",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "family tree",
+      "error_analysis": "学生易因“tree”与“treat”形近将“family tree”误理解为“家庭款待”，或因字面直译将其理解为“家庭中的树木”",
+      "sentence": "During the family reunion, Aunt Lisa showed us a **family tree** that lists all our relatives from great-grandparents to our youngest cousin.",
+      "options": {
+        "option": [
+          {
+            "definition": "家谱；家族亲属关系图",
+            "iscorrect": true
+          },
+          {
+            "definition": "家庭款待",
+            "iscorrect": false
+          },
+          {
+            "definition": "家庭中的树木",
+            "iscorrect": false
+          },
+          {
+            "definition": "家族成员共同培育的树",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

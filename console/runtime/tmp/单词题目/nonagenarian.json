@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nonagenarian",
+      "error_analysis": "学生易因对表示年龄的拉丁语词根不熟悉而混淆年龄范围（如误判为八十多岁或百岁老人），或因“non-”前缀误解为“非”而错误理解为“没有年龄的人”。",
+      "sentence": "My neighbor, a **nonagenarian**, celebrated her 95th birthday with her entire family last week.",
+      "options": {
+        "option": [
+          {
+            "definition": "九十多岁的人（90-99岁之间的人）",
+            "iscorrect": true
+          },
+          {
+            "definition": "八十多岁的人（80-89岁之间的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "百岁老人（100岁及以上的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "没有年龄的人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

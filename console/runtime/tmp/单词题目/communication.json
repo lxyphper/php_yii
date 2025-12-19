@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "communication",
+      "error_analysis": "学生易因形近词“communism”（共产主义）混淆，或因词根“communi-”过度直译为“集体活动”。",
+      "sentence": "Effective **communication** between teachers and students is key to a successful learning environment.",
+      "options": {
+        "option": [
+          {
+            "definition": "交流；沟通",
+            "iscorrect": true
+          },
+          {
+            "definition": "共产主义",
+            "iscorrect": false
+          },
+          {
+            "definition": "集体活动",
+            "iscorrect": false
+          },
+          {
+            "definition": "通讯工具",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

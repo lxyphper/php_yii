@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "optimistic",
+      "error_analysis": "易受形近词“optional”（可选的）干扰，或因词根“opt-”（最佳）误导为“最优化的”",
+      "sentence": "Despite the rainy weather, Sarah remained **optimistic** about her outdoor picnic and brought all the snacks anyway.",
+      "options": {
+        "option": [
+          {
+            "definition": "乐观的",
+            "iscorrect": true
+          },
+          {
+            "definition": "可选的",
+            "iscorrect": false
+          },
+          {
+            "definition": "最佳的",
+            "iscorrect": false
+          },
+          {
+            "definition": "悲观的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

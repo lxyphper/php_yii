@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "feverish",
+      "error_analysis": "学生易因词根\"fever\"（发烧）的误导忽略\"feverish\"的引申义\"狂热的\"，或因形近词\"favourite\"（最喜欢的）混淆词义。",
+      "sentence": "The team worked with **feverish** energy to meet the deadline.",
+      "options": {
+        "option": [
+          {
+            "definition": "发烧的",
+            "iscorrect": false
+          },
+          {
+            "definition": "最喜欢的",
+            "iscorrect": false
+          },
+          {
+            "definition": "狂热的",
+            "iscorrect": true
+          },
+          {
+            "definition": "激烈的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

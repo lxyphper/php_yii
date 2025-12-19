@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to fizzle",
+      "error_analysis": "学生易将“fizzle”误解为与“嘶嘶声”（形近词“fizz”）相关的动作，而非“计划/努力失败”",
+      "sentence": "The team's attempt to win the championship **fizzled** after their star player got injured.",
+      "options": {
+        "option": [
+          {
+            "definition": "（计划、努力等）失败；泡汤",
+            "iscorrect": true
+          },
+          {
+            "definition": "发出嘶嘶声（如汽水冒泡）",
+            "iscorrect": false
+          },
+          {
+            "definition": "变得兴奋或活跃",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速移动或奔跑",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

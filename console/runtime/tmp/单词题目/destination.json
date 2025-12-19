@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "destination",
+      "error_analysis": "中国学生易因形近词“destiny”（命运）或对“destin-”词根的错误联想（如与“破坏”相关），将“destination”误判为“命运”或“破坏的地方”。",
+      "sentence": "We finally reached our **destination** after a 12-hour drive through the winding mountains.",
+      "options": {
+        "option": [
+          {
+            "definition": "目的地",
+            "iscorrect": true
+          },
+          {
+            "definition": "命运",
+            "iscorrect": false
+          },
+          {
+            "definition": "破坏的地方",
+            "iscorrect": false
+          },
+          {
+            "definition": "终点线",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

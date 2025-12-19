@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lyric",
+      "error_analysis": "学生易因形近词“logic”（逻辑）或误判“ly”后缀为副词而错误理解“lyric”的含义",
+      "sentence": "The singer forgot the **lyric** of her favorite song and had to hum along.",
+      "options": {
+        "option": [
+          {
+            "definition": "逻辑；逻辑学",
+            "iscorrect": false
+          },
+          {
+            "definition": "液体；液态物",
+            "iscorrect": false
+          },
+          {
+            "definition": "歌词；抒情诗",
+            "iscorrect": true
+          },
+          {
+            "definition": "抒情的；充满感情的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "population",
+      "error_analysis": "中国学生易因形近词“popular”（流行的）混淆词义，或误将词根“popul-”（人民）过度直译为“大众”而非“人口”。",
+      "sentence": "The **population** of Tokyo is estimated to be over 37 million, making it one of the most populous cities in the world.",
+      "options": {
+        "option": [
+          {
+            "definition": "人口；（某地区的）全体居民",
+            "iscorrect": true
+          },
+          {
+            "definition": "流行的事物；受欢迎的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "人民；大众",
+            "iscorrect": false
+          },
+          {
+            "definition": "居住的地方；栖息地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

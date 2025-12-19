@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "disgusting",
+      "error_analysis": "易因形近词“distinguish”（区分）的干扰或词根“gust”（味觉）的字面误导，将其错误理解为“区分的”或“没有味觉的”",
+      "sentence": "The smell from the garbage can was so **disgusting** that I had to hold my nose.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人厌恶的",
+            "iscorrect": true
+          },
+          {
+            "definition": "区分的；有辨别力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "没有味觉的；丧失味觉的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人兴奋的；激动人心的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

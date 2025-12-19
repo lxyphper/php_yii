@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sightseeing",
+      "error_analysis": "学生易因词根拆分（sight+seeing）错误理解为“视力检查”，或因形近词（sightseer）混淆为“观光者”。",
+      "sentence": "During our trip to Tokyo, we spent a whole day on **sightseeing**, visiting temples, parks, and museums.",
+      "options": {
+        "option": [
+          {
+            "definition": "观光（活动）",
+            "iscorrect": true
+          },
+          {
+            "definition": "观光者",
+            "iscorrect": false
+          },
+          {
+            "definition": "视力检查",
+            "iscorrect": false
+          },
+          {
+            "definition": "景象",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

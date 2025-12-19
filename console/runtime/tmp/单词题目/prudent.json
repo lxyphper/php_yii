@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "prudent",
+      "error_analysis": "中国学生易因形近词“proud”（骄傲的）或词根关联“prudish”（拘谨的），误将“prudent”理解为上述含义。",
+      "sentence": "Before making a big investment, it's **prudent** to research the market thoroughly.",
+      "options": {
+        "option": [
+          {
+            "definition": "谨慎的",
+            "iscorrect": true
+          },
+          {
+            "definition": "骄傲的",
+            "iscorrect": false
+          },
+          {
+            "definition": "拘谨的",
+            "iscorrect": false
+          },
+          {
+            "definition": "急躁的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

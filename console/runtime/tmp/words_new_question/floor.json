@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "floor",
+      "error_analysis": "学生易因形近词“flour”（面粉）的干扰，将“floor”误理解为“面粉”。",
+      "sentence": "Please wipe the **floor** with a damp cloth; it's dirty after the party.",
+      "options": {
+        "option": [
+          {
+            "definition": "地板；楼层",
+            "iscorrect": true
+          },
+          {
+            "definition": "面粉",
+            "iscorrect": false
+          },
+          {
+            "definition": "花朵",
+            "iscorrect": false
+          },
+          {
+            "definition": "流动的液体",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

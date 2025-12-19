@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "river",
+      "error_analysis": "将形近词“rival”（对手）或“liver”（肝脏）误联想为“river”的含义",
+      "sentence": "The children enjoyed skipping stones across the **river** on a sunny afternoon.",
+      "options": {
+        "option": [
+          {
+            "definition": "河流",
+            "iscorrect": true
+          },
+          {
+            "definition": "对手",
+            "iscorrect": false
+          },
+          {
+            "definition": "肝脏",
+            "iscorrect": false
+          },
+          {
+            "definition": "撕裂",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to compare",
+      "error_analysis": "中国学生易因形近词“compete”（竞争）混淆“compare”的含义，或因“com-”（共同）和“pare”（削/准备）的字面联想误判为“配对”。",
+      "sentence": "When buying a phone, it’s wise to **compare** different models before making a decision.",
+      "options": {
+        "option": [
+          {
+            "definition": "比较；对比",
+            "iscorrect": true
+          },
+          {
+            "definition": "竞争；比赛",
+            "iscorrect": false
+          },
+          {
+            "definition": "配对；组合",
+            "iscorrect": false
+          },
+          {
+            "definition": "完成；结束",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

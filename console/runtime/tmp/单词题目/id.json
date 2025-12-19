@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "id",
+      "error_analysis": "学生易将\"id\"与形近缩写\"ad\"（广告）混淆，或误记为心理学\"本我\"而非日常最常用的\"身份标识\"。",
+      "sentence": "You need to present your **id** at the hotel reception to check in.",
+      "options": {
+        "option": [
+          {
+            "definition": "广告（ad的缩写）",
+            "iscorrect": false
+          },
+          {
+            "definition": "身份标识（identification的缩写）",
+            "iscorrect": true
+          },
+          {
+            "definition": "本我（心理学概念）",
+            "iscorrect": false
+          },
+          {
+            "definition": "帮助（aid的缩写）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

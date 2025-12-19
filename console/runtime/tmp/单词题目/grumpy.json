@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "grumpy",
+      "error_analysis": "学生易因形近词“grubby”（肮脏的）混淆词义，或因“gr”开头的词猜测为“愤怒的”。",
+      "sentence": "My dad gets **grumpy** in the morning if he doesn’t have his coffee.",
+      "options": {
+        "option": [
+          {
+            "definition": "肮脏的；不洁的",
+            "iscorrect": false
+          },
+          {
+            "definition": "脾气坏的；易怒的",
+            "iscorrect": true
+          },
+          {
+            "definition": "愤怒的；咆哮的",
+            "iscorrect": false
+          },
+          {
+            "definition": "孤独的；寂寞的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

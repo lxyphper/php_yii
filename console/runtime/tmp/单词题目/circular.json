@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "circular",
+      "error_analysis": "中国学生易因形近词\"circle\"（环绕）的联想将\"circular\"误判为\"环绕的\"，或因词根\"circ-\"（环）推导误为\"循环的\"。",
+      "sentence": "The café has a **circular** table in the center, which can seat eight people.",
+      "options": {
+        "option": [
+          {
+            "definition": "圆形的",
+            "iscorrect": true
+          },
+          {
+            "definition": "环绕的",
+            "iscorrect": false
+          },
+          {
+            "definition": "循环的",
+            "iscorrect": false
+          },
+          {
+            "definition": "传阅的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

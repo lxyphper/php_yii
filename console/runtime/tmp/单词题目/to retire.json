@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to retire",
+      "error_analysis": "学生易因词根“tire”（疲劳）误导将“to retire”误解为“变得疲劳”，或因形近词“retreat”（撤退）混淆为“后退”。",
+      "sentence": "After working as a doctor for 35 years, Mr. Lee will **retire** next month and spend more time with his grandchildren.",
+      "options": {
+        "option": [
+          {
+            "definition": "退休；退职",
+            "iscorrect": true
+          },
+          {
+            "definition": "变得疲劳；感到疲倦",
+            "iscorrect": false
+          },
+          {
+            "definition": "撤退；后退",
+            "iscorrect": false
+          },
+          {
+            "definition": "辞职；放弃职位",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unprepossessing",
+      "error_analysis": "学生易将\"unprepossessing\"拆分为un-+pre-+possess+-ing，误解为\"不预先拥有\"，或与形近词\"unprofessional\"（不专业的）混淆。",
+      "sentence": "The café looked **unprepossessing** from the outside, but inside it was warm and cozy.",
+      "options": {
+        "option": [
+          {
+            "definition": "不预先拥有的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不专业的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不吸引人的；不起眼的",
+            "iscorrect": true
+          },
+          {
+            "definition": "没准备好的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

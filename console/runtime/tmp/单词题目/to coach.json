@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to coach",
+      "error_analysis": "中国学生易因形近词“coast”（滑行）或词根误导（将“coach”（马车）推导为“运输”）误解“to coach”。",
+      "sentence": "The former athlete now **coaches** high school students for the track and field competition.",
+      "options": {
+        "option": [
+          {
+            "definition": "指导；训练",
+            "iscorrect": true
+          },
+          {
+            "definition": "滑行",
+            "iscorrect": false
+          },
+          {
+            "definition": "运输",
+            "iscorrect": false
+          },
+          {
+            "definition": "教",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

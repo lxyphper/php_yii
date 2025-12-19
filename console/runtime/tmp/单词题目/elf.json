@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "elf",
+      "error_analysis": "中国学生易因形近词“self”（自己）、“else”（其他）的联想，误判“elf”的词义",
+      "sentence": "The little girl believed that a friendly **elf** had left her a gift under the Christmas tree.",
+      "options": {
+        "option": [
+          {
+            "definition": "小精灵；小妖精",
+            "iscorrect": true
+          },
+          {
+            "definition": "自己（oneself）",
+            "iscorrect": false
+          },
+          {
+            "definition": "其他（other）",
+            "iscorrect": false
+          },
+          {
+            "definition": "错误（mistake）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to amplify",
+      "error_analysis": "学生易因形近词\"simplify\"（简化）混淆词义，或因词根\"ampl-\"（大的）过度直译为\"使充足\"或\"使物理上变大\"。",
+      "sentence": "To make sure everyone in the auditorium could hear, the speaker asked the technician to **amplify** his voice.",
+      "options": {
+        "option": [
+          {
+            "definition": "放大（声音、信号等）；增强（效果、影响）",
+            "iscorrect": true
+          },
+          {
+            "definition": "简化",
+            "iscorrect": false
+          },
+          {
+            "definition": "使充足；增加数量",
+            "iscorrect": false
+          },
+          {
+            "definition": "使物理上变大",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

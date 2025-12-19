@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "climate",
+      "error_analysis": "学生易因形近词“climax”（高潮）将“climate”误判为“高潮；顶点”",
+      "sentence": "The **climate** in Southeast Asia is characterized by high temperatures and heavy rainfall throughout most of the year.",
+      "options": {
+        "option": [
+          {
+            "definition": "气候",
+            "iscorrect": true
+          },
+          {
+            "definition": "高潮；顶点",
+            "iscorrect": false
+          },
+          {
+            "definition": "倾斜；斜坡",
+            "iscorrect": false
+          },
+          {
+            "definition": "天气",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

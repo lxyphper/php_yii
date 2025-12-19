@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "social media",
+      "error_analysis": "因“social”的“社会的”字面义，将“social media”误译为“社会媒体”",
+      "sentence": "Many teenagers spend hours every day on **social media** like TikTok and WeChat to chat with their friends.",
+      "options": {
+        "option": [
+          {
+            "definition": "社交媒体（指微信、抖音等供用户社交的网络平台）",
+            "iscorrect": true
+          },
+          {
+            "definition": "社会媒体（指报道社会事件的官方媒体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "大众媒体（指电视、报纸等面向大众的传统媒体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "社交网络（指用户之间建立联系的在线网络，如LinkedIn）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

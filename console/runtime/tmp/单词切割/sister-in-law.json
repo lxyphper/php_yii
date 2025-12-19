@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "sisterinlaw",
+      "siter-in-law",
+      "sister-on-law",
+      "sister-inla"
+    ],
+    "correct_chunks": [
+      "sister",
+      "-in-",
+      "law"
+    ],
+    "distractor_chunks": [
+      "sisterin",
+      "siter",
+      "-on-",
+      "-inla"
+    ]
+  },
+  0
+]

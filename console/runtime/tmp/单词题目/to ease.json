@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to ease",
+      "error_analysis": "学生易因形近词\"easy\"将\"to ease\"误解为\"使容易\"，或因名词\"ease\"（轻松）推导动词为\"使放松\"，忽略其\"减轻负面事物\"的核心义。",
+      "sentence": "The doctor gave her some medicine to **ease** the pain in her knee.",
+      "options": {
+        "option": [
+          {
+            "definition": "减轻；缓解（痛苦、压力等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "使容易；简化",
+            "iscorrect": false
+          },
+          {
+            "definition": "使放松；使安心",
+            "iscorrect": false
+          },
+          {
+            "definition": "租赁；出租",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

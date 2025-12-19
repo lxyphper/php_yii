@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to ordain",
+      "error_analysis": "学生易因形近词“order”（命令）或词根联想“ordinary”（普通），将“ordain”误判为“命令”或“使普通”。",
+      "sentence": "The church announced that the bishop will **ordain** five new deacons at the upcoming ceremony.",
+      "options": {
+        "option": [
+          {
+            "definition": "to officially appoint someone as a priest or minister",
+            "iscorrect": true
+          },
+          {
+            "definition": "to give a command or instruction",
+            "iscorrect": false
+          },
+          {
+            "definition": "to make something ordinary or common",
+            "iscorrect": false
+          },
+          {
+            "definition": "to arrange something in a particular way",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

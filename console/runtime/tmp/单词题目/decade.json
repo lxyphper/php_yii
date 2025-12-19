@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "decade",
+      "error_analysis": "学生易因形近词“decide”（决定）混淆词义，或因词根“dec-”（十）模糊理解为“十个单位”而非“十年”。",
+      "sentence": "The company has grown exponentially in the last **decade**, expanding from a small startup to a global brand.",
+      "options": {
+        "option": [
+          {
+            "definition": "决定",
+            "iscorrect": false
+          },
+          {
+            "definition": "十年",
+            "iscorrect": true
+          },
+          {
+            "definition": "十个月",
+            "iscorrect": false
+          },
+          {
+            "definition": "十次",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

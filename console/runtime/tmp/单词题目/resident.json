@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "resident",
+      "error_analysis": "易因形近词\"president\"(总统)混淆，或因词根\"reside\"(居住)误判为\"居住的动作\"而非\"居民\"。",
+      "sentence": "Most **residents** in this small village know each other well and often help one another.",
+      "options": {
+        "option": [
+          {
+            "definition": "总统",
+            "iscorrect": false
+          },
+          {
+            "definition": "居民",
+            "iscorrect": true
+          },
+          {
+            "definition": "抵抗者",
+            "iscorrect": false
+          },
+          {
+            "definition": "居住（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

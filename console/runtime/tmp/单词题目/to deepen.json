@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to deepen",
+      "error_analysis": "易混淆形近词“deafen”（使聋），或误将抽象意义（如加深关系）理解为具体的“挖深”动作",
+      "sentence": "Regular communication helps to **deepen** the bond between family members.",
+      "options": {
+        "option": [
+          {
+            "definition": "加深；使深化（如关系、理解等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "使聋；使听不见",
+            "iscorrect": false
+          },
+          {
+            "definition": "挖深；使变深（具体动作，如挖洞）",
+            "iscorrect": false
+          },
+          {
+            "definition": "加快；使加速",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

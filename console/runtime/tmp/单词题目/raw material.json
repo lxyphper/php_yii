@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "raw material",
+      "error_analysis": "学生可能因“raw”的“生的”字面义将“raw material”误解为“生的食材”，忽略其“工业用原材料”的核心义。",
+      "sentence": "Our factory uses **raw material** such as cotton and steel to make clothes and cars.",
+      "options": {
+        "option": [
+          {
+            "definition": "生的食材（如未加工的肉类或蔬菜）",
+            "iscorrect": false
+          },
+          {
+            "definition": "排的材料（如队列中的物品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "（工业或生产用的）原材料",
+            "iscorrect": true
+          },
+          {
+            "definition": "现成的材料（如预先制作好的部件）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

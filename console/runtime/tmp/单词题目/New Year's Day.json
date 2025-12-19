@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "New Year's Day",
+      "error_analysis": "学生易将\"New Year's Day\"与\"New Year Eve\"（除夕）混淆（形近词干扰），或误将\"Day\"理解为\"白天\"而解为\"新年的白天\"（词根/字面误导）。",
+      "sentence": "We usually have a big family dinner on **New Year's Day** to celebrate the start of the new year.",
+      "options": {
+        "option": [
+          {
+            "definition": "元旦（1月1日）",
+            "iscorrect": true
+          },
+          {
+            "definition": "除夕（12月31日晚上）",
+            "iscorrect": false
+          },
+          {
+            "definition": "新年的白天",
+            "iscorrect": false
+          },
+          {
+            "definition": "新年期间的任意一天",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

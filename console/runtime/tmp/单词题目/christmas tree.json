@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "christmas tree",
+      "error_analysis": "学生易将\"christmas\"拆分为\"Christ（基督）\"和\"mas\"，误判为\"基督的树\"或\"宗教仪式用树\"。",
+      "sentence": "We hang colorful lights and stars on the **christmas tree** to get ready for the Christmas party.",
+      "options": {
+        "option": [
+          {
+            "definition": "圣诞树（圣诞节期间装饰的常青树）",
+            "iscorrect": true
+          },
+          {
+            "definition": "基督的树（宗教仪式中使用的神圣树木）",
+            "iscorrect": false
+          },
+          {
+            "definition": "基督教徒的树（基督教徒专属种植的树木）",
+            "iscorrect": false
+          },
+          {
+            "definition": "冬季装饰树（冬天用来装饰房屋的普通树木）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

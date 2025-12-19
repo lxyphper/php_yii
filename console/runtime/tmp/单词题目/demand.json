@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "demand",
+      "error_analysis": "易混淆形近词\"depend\"(依赖)，或误将\"demand\"等同于普通\"需要\"(need)或\"请求\"(request)，忽略其\"强制要求\"的核心意味",
+      "sentence": "The workers plan to **demand** higher wages from the company during the meeting.",
+      "options": {
+        "option": [
+          {
+            "definition": "依赖；依靠",
+            "iscorrect": false
+          },
+          {
+            "definition": "请求；恳求",
+            "iscorrect": false
+          },
+          {
+            "definition": "需要；必需",
+            "iscorrect": false
+          },
+          {
+            "definition": "要求；需求",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

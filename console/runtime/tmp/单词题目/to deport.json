@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to deport",
+      "error_analysis": "易受形近词“depart”（离开）干扰，或词根“port”（携带）误导为“带走”，而非“驱逐出境”",
+      "sentence": "The government decided to **deport** the illegal immigrants who had overstayed their visas.",
+      "options": {
+        "option": [
+          {
+            "definition": "（某人）离开（某地）",
+            "iscorrect": false
+          },
+          {
+            "definition": "携带（某物）离开",
+            "iscorrect": false
+          },
+          {
+            "definition": "驱逐（某人）出境",
+            "iscorrect": true
+          },
+          {
+            "definition": "报告（某事）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

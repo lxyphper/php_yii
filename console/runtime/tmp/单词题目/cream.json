@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cream",
+      "error_analysis": "中国学生易因形近词“clean”（干净的）、“dream”（梦想）或词根“cre-”（创造）误判“cream”的意思",
+      "sentence": "I like to put **cream** on my cereal for breakfast.",
+      "options": {
+        "option": [
+          {
+            "definition": "干净的",
+            "iscorrect": false
+          },
+          {
+            "definition": "梦想",
+            "iscorrect": false
+          },
+          {
+            "definition": "创造",
+            "iscorrect": false
+          },
+          {
+            "definition": "奶油；乳霜",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

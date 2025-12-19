@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to instruct",
+      "error_analysis": "形近词“construct”（建造）的干扰及词根“struct”（结构）导致的“构建内部”错误联想",
+      "sentence": "The teacher will **instruct** the students on how to solve the math problem step by step.",
+      "options": {
+        "option": [
+          {
+            "definition": "指导；教授",
+            "iscorrect": true
+          },
+          {
+            "definition": "建造；构建",
+            "iscorrect": false
+          },
+          {
+            "definition": "使进入结构；建立内部结构",
+            "iscorrect": false
+          },
+          {
+            "definition": "破坏；摧毁",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

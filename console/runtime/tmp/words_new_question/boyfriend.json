@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "boyfriend",
+      "error_analysis": "学生可能将\"boyfriend\"错误拆分为\"boy\"+\"friend\"，理解为\"男性朋友\"（普通朋友），而非\"男朋友\"（恋人关系）",
+      "sentence": "Lisa introduced her **boyfriend** to her parents at the dinner party.",
+      "options": {
+        "option": [
+          {
+            "definition": "男朋友（恋人关系的男性伴侣）",
+            "iscorrect": true
+          },
+          {
+            "definition": "男性朋友（普通朋友）",
+            "iscorrect": false
+          },
+          {
+            "definition": "少年时代的朋友",
+            "iscorrect": false
+          },
+          {
+            "definition": "好哥们（口语中的男性伙伴）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

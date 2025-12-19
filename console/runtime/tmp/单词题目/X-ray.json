@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "X-ray",
+      "error_analysis": "学生易因\"ray\"（光线）的字面意思，误将\"X-ray\"理解为抽象的\"X射线\"，忽略其最常用的\"X光片；X光检查\"的具体含义",
+      "sentence": "The doctor asked me to get an **X-ray** of my chest to check for any problems.",
+      "options": {
+        "option": [
+          {
+            "definition": "X光片；X光检查",
+            "iscorrect": true
+          },
+          {
+            "definition": "X射线（抽象的电磁辐射）",
+            "iscorrect": false
+          },
+          {
+            "definition": "X形的光线",
+            "iscorrect": false
+          },
+          {
+            "definition": "用X光照射（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

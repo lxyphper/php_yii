@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to take",
+      "error_analysis": "学生易将“take”（拿/取）与形近词“make”（做）或“talk”（说）混淆，或误将其固定搭配中的含义理解为字面的“拿”。",
+      "sentence": "Please **take** the glass of water from the kitchen counter—it’s for your mom.",
+      "options": {
+        "option": [
+          {
+            "definition": "拿；取",
+            "iscorrect": true
+          },
+          {
+            "definition": "做；制作",
+            "iscorrect": false
+          },
+          {
+            "definition": "说；谈论",
+            "iscorrect": false
+          },
+          {
+            "definition": "带；带来",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

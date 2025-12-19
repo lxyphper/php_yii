@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to bring",
+      "error_analysis": "中国学生易因形近词“ring”（响铃/环形）或与“take”（带走）的方向混淆而误解“bring”的词义。",
+      "sentence": "Please **bring** your homework to class tomorrow.",
+      "options": {
+        "option": [
+          {
+            "definition": "带来",
+            "iscorrect": true
+          },
+          {
+            "definition": "响铃",
+            "iscorrect": false
+          },
+          {
+            "definition": "带走",
+            "iscorrect": false
+          },
+          {
+            "definition": "环形",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

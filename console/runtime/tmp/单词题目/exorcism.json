@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "exorcism",
+      "error_analysis": "学生易因形近词\"exercise\"（锻炼）产生联想，或因词根\"ex-\"（出）+ \"ism\"（行为）误猜为\"排出某物的行为\"（如排毒）。",
+      "sentence": "The priest was called to perform an **exorcism** on the old house believed to be haunted by evil spirits.",
+      "options": {
+        "option": [
+          {
+            "definition": "驱邪仪式",
+            "iscorrect": true
+          },
+          {
+            "definition": "锻炼活动",
+            "iscorrect": false
+          },
+          {
+            "definition": "排毒过程",
+            "iscorrect": false
+          },
+          {
+            "definition": "宗教节日",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

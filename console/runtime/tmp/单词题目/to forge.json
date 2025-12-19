@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to forge",
+      "error_analysis": "学生易因形近词\"forget\"（忘记）产生混淆，或误将\"forge\"字面理解为\"锻造（金属）\"而忽略其更常见的\"伪造\"义项",
+      "sentence": "The criminal attempted to **forge** the bank manager's signature on the check to steal money.",
+      "options": {
+        "option": [
+          {
+            "definition": "忘记",
+            "iscorrect": false
+          },
+          {
+            "definition": "伪造（文件、签名等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "锻造（金属）",
+            "iscorrect": false
+          },
+          {
+            "definition": "强迫",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

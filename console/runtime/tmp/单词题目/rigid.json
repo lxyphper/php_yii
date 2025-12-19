@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rigid",
+      "error_analysis": "中国学生易因形近词“rapid”（快速的）混淆，或因词根联想“right”（正确的）误判为“正确的”。",
+      "sentence": "The toy car’s body is made of **rigid** plastic, so it doesn’t break easily when it falls.",
+      "options": {
+        "option": [
+          {
+            "definition": "快速的",
+            "iscorrect": false
+          },
+          {
+            "definition": "正确的",
+            "iscorrect": false
+          },
+          {
+            "definition": "坚硬的；不易破碎的",
+            "iscorrect": true
+          },
+          {
+            "definition": "严格的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

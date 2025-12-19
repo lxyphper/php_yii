@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sectarianism",
+      "error_analysis": "学生易因形近词\"section\"（部分）或\"secular\"（世俗的），将\"sectarianism\"误判为\"部分划分主义\"或\"世俗主义\"",
+      "sentence": "The civil war was fueled by **sectarianism**, as different religious groups fought for control of the region.",
+      "options": {
+        "option": [
+          {
+            "definition": "部分划分主义",
+            "iscorrect": false
+          },
+          {
+            "definition": "世俗主义",
+            "iscorrect": false
+          },
+          {
+            "definition": "地方主义",
+            "iscorrect": false
+          },
+          {
+            "definition": "宗派主义（因宗教或政治派别产生的偏见或冲突）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

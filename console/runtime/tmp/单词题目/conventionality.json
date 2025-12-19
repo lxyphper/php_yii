@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "conventionality",
+      "error_analysis": "学生易因形近词“convenience”（方便）误判为“方便性”，或因词根“convention”（会议）误猜为“会议相关性质”。",
+      "sentence": "The artist rejected the **conventionality** of classical painting and chose to experiment with abstract forms.",
+      "options": {
+        "option": [
+          {
+            "definition": "传统性；惯例性",
+            "iscorrect": true
+          },
+          {
+            "definition": "方便性",
+            "iscorrect": false
+          },
+          {
+            "definition": "会议的性质",
+            "iscorrect": false
+          },
+          {
+            "definition": "创新性",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

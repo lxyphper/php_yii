@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "roughly",
+      "error_analysis": "学生易将\"roughly\"误解为\"粗糙地\"（形近词\"rough\"的副词延伸）或\"粗略地\"（词根\"rough\"的字面误导），忽略其最常用的\"大约\"含义。",
+      "sentence": "The meeting will start at **roughly** 3 o'clock, so please arrive a few minutes early.",
+      "options": {
+        "option": [
+          {
+            "definition": "大约；大致",
+            "iscorrect": true
+          },
+          {
+            "definition": "粗糙地；粗暴地",
+            "iscorrect": false
+          },
+          {
+            "definition": "粗略地；简略地",
+            "iscorrect": false
+          },
+          {
+            "definition": "强硬地；坚韧地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

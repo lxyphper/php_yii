@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "defeat",
+      "error_analysis": "形近词\"defend\"(防御)的干扰，及词根\"de-\"(否定)+\"feat\"(功绩)的字面误导，导致误判为\"保护\"或\"否定成就\"。",
+      "sentence": "The home team managed to **defeat** the defending champions in a thrilling match.",
+      "options": {
+        "option": [
+          {
+            "definition": "防御；保护",
+            "iscorrect": false
+          },
+          {
+            "definition": "延迟；拖延",
+            "iscorrect": false
+          },
+          {
+            "definition": "击败；战胜",
+            "iscorrect": true
+          },
+          {
+            "definition": "否定功绩；贬低成就",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

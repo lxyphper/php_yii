@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to baste",
+      "error_analysis": "学生易因形近词\"taste\"（品尝）或词根联想\"base\"（基础）误判词义",
+      "sentence": "Before putting the turkey in the oven, make sure to **baste** it with melted butter every 30 minutes to keep it moist.",
+      "options": {
+        "option": [
+          {
+            "definition": "（烹饪时）用肉汁或油脂涂抹",
+            "iscorrect": true
+          },
+          {
+            "definition": "品尝（食物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "建立（基础）",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速烤（食物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

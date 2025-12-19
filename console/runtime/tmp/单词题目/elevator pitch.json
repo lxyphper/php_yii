@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "elevator pitch",
+      "error_analysis": "学生易将\"elevator pitch\"字面理解为电梯相关的物理特征（如电梯的音调、投掷）或无关场景（如电梯里的摊位）",
+      "sentence": "When networking at the conference, Sarah prepared a concise **elevator pitch** to explain her startup idea to potential investors in 60 seconds.",
+      "options": {
+        "option": [
+          {
+            "definition": "简短有力的自我介绍/商业提案（通常在短时间内完成）",
+            "iscorrect": true
+          },
+          {
+            "definition": "电梯内的投掷动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "电梯里的摊位或展示台",
+            "iscorrect": false
+          },
+          {
+            "definition": "电梯的音调或声音",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

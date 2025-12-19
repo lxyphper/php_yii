@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "intricate",
+      "error_analysis": "学生易因形近词'intimate'(亲密的)或词根误解(将'tric'与'trick'联系)而误判'intricate'的含义",
+      "sentence": "The watchmaker spent hours repairing the **intricate** mechanism inside the antique clock, which had hundreds of tiny gears working together.",
+      "options": {
+        "option": [
+          {
+            "definition": "复杂的",
+            "iscorrect": true
+          },
+          {
+            "definition": "亲密的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有诡计的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有趣的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "obsessive-compulsive disorder",
+      "error_analysis": "学生易混淆\"compulsive\"与形近词\"compulsory\"（义务的/强制的），或仅根据\"obsessive\"（着迷的）和\"compulsive\"（强迫的）字面意思，未识别其为心理障碍术语\"强迫症\"。",
+      "sentence": "Sarah spends hours every day checking if the doors are locked again and again, which her doctor says is a symptom of **obsessive-compulsive disorder**.",
+      "options": {
+        "option": [
+          {
+            "definition": "强迫症",
+            "iscorrect": true
+          },
+          {
+            "definition": "因义务性着迷导致的行为障碍",
+            "iscorrect": false
+          },
+          {
+            "definition": "对某事物过度痴迷的强制状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "由强迫性习惯引起的身体疾病",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

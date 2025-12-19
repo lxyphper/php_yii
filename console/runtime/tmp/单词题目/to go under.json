@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to go under",
+      "error_analysis": "学生易将“to go under”直译为“去下面”或“沉没”，忽略其比喻义“破产；倒闭”",
+      "sentence": "After months of financial struggles, the small business finally had to **go under**.",
+      "options": {
+        "option": [
+          {
+            "definition": "破产；倒闭",
+            "iscorrect": true
+          },
+          {
+            "definition": "走到下面；进入下方",
+            "iscorrect": false
+          },
+          {
+            "definition": "沉没；沉下去",
+            "iscorrect": false
+          },
+          {
+            "definition": "仔细检查",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

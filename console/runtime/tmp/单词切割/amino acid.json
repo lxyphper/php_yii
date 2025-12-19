@@ -1,0 +1,21 @@
+[
+  {
+    "common_misspellings": [
+      "aminoacid",
+      "emino acid",
+      "amino ecid",
+      "amino aid"
+    ],
+    "correct_chunks": [
+      "amino",
+      "acid"
+    ],
+    "distractor_chunks": [
+      "aminoacid",
+      "emino",
+      "ecid",
+      "aid"
+    ]
+  },
+  0
+]

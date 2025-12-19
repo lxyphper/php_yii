@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "far",
+      "error_analysis": "中国学生易因形近词（如farm/fat）或发音相近词（如fast）混淆“far”的核心词义“远的”",
+      "sentence": "The park is not **far** from my house, so I walk there every day.",
+      "options": {
+        "option": [
+          {
+            "definition": "远的；遥远的",
+            "iscorrect": true
+          },
+          {
+            "definition": "农场",
+            "iscorrect": false
+          },
+          {
+            "definition": "胖的",
+            "iscorrect": false
+          },
+          {
+            "definition": "快的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

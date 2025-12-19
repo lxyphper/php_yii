@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rhomboid",
+      "error_analysis": "学生易将\"rhomboid\"与形近词\"rhombus\"（菱形）混淆，或通过\"oid\"后缀错误推断为\"类似菱形的物体\"而非具体几何形状（斜方形）。",
+      "sentence": "The architect chose a **rhomboid** for the patio tile pattern, which features two sets of parallel sides but no right angles.",
+      "options": {
+        "option": [
+          {
+            "definition": "菱形（四边长度相等的正菱形）",
+            "iscorrect": false
+          },
+          {
+            "definition": "类似菱形的宝石或装饰性物体",
+            "iscorrect": false
+          },
+          {
+            "definition": "斜方形；邻边不等且无直角的平行四边形",
+            "iscorrect": true
+          },
+          {
+            "definition": "矩形（四个角均为直角的四边形）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

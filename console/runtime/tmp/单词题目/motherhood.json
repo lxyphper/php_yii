@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "motherhood",
+      "error_analysis": "将后缀“hood”误理解为名词“罩子/头巾”，从而把“motherhood”误解为“母亲的罩子”；或混淆形近词“motherland”（祖国）导致误判。",
+      "sentence": "She often talks about the joys and challenges of **motherhood** since she became a mom last year.",
+      "options": {
+        "option": [
+          {
+            "definition": "母性；母亲的身份或状态",
+            "iscorrect": true
+          },
+          {
+            "definition": "母亲的罩子",
+            "iscorrect": false
+          },
+          {
+            "definition": "祖国",
+            "iscorrect": false
+          },
+          {
+            "definition": "母亲的爱",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

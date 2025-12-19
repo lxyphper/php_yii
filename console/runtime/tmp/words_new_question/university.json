@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "university",
+      "error_analysis": "中国学生易因形近词“universe”（宇宙）混淆，或因“uni-”词根猜测为与“单一/诗句”相关的错误含义",
+      "sentence": "She decided to apply to a top **university** in the U.S. for her master's degree.",
+      "options": {
+        "option": [
+          {
+            "definition": "大学",
+            "iscorrect": true
+          },
+          {
+            "definition": "宇宙",
+            "iscorrect": false
+          },
+          {
+            "definition": "单一的学科",
+            "iscorrect": false
+          },
+          {
+            "definition": "诗歌集会",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

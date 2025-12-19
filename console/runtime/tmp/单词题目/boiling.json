@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "boiling",
+      "error_analysis": "学生易因形近词“building”（建筑）产生错误联想，或误将“boiling”字面理解为“正在煮的”而非其核心状态义“滚烫的/极其炎热的”。",
+      "sentence": "After running for 30 minutes, Tom felt like he was in a **boiling** room—he couldn’t stop sweating.",
+      "options": {
+        "option": [
+          {
+            "definition": "建筑的",
+            "iscorrect": false
+          },
+          {
+            "definition": "正在煮的",
+            "iscorrect": false
+          },
+          {
+            "definition": "滚烫的；极其炎热的",
+            "iscorrect": true
+          },
+          {
+            "definition": "潮湿的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

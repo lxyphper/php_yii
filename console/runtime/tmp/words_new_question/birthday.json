@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "birthday",
+      "error_analysis": "中国学生易因“birth”+名词结构混淆“birthday”与“birthplace”（出生地），或因“birth”与“bird”发音接近错解为“鸟日”",
+      "sentence": "My little sister is excited because we're having a party for her **birthday** tomorrow.",
+      "options": {
+        "option": [
+          {
+            "definition": "生日",
+            "iscorrect": true
+          },
+          {
+            "definition": "出生地",
+            "iscorrect": false
+          },
+          {
+            "definition": "鸟日（鸟的节日）",
+            "iscorrect": false
+          },
+          {
+            "definition": "出生的过程",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

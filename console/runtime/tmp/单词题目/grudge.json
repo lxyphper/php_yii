@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "grudge",
+      "error_analysis": "学生易因形近词\"drudge\"(苦工)或词根联想\"judge\"(判断)误解\"grudge\"的核心含义(怨恨)",
+      "sentence": "Even though Mary apologized, John still held a **grudge** against her for forgetting his birthday.",
+      "options": {
+        "option": [
+          {
+            "definition": "苦工；辛苦劳作",
+            "iscorrect": false
+          },
+          {
+            "definition": "判断；评判",
+            "iscorrect": false
+          },
+          {
+            "definition": "怨恨；怀恨",
+            "iscorrect": true
+          },
+          {
+            "definition": "抱怨；发牢骚",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

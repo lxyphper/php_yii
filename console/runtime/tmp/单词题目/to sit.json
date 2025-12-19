@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to sit",
+      "error_analysis": "学生易因形近词“set”（设置）或“site”（地点）混淆“sit”的核心义“坐”",
+      "sentence": "Please **sit** down and wait for your turn in the waiting room.",
+      "options": {
+        "option": [
+          {
+            "definition": "坐（指将臀部放在椅子等物体上的动作）",
+            "iscorrect": true
+          },
+          {
+            "definition": "设置（如摆放餐具、调整设备）",
+            "iscorrect": false
+          },
+          {
+            "definition": "地点（如建筑工地、网站）",
+            "iscorrect": false
+          },
+          {
+            "definition": "站立（如站起来、保持直立）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

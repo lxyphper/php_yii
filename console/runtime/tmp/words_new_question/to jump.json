@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to jump",
+      "error_analysis": "学生易因形近词“dump”（倾倒）、“bump”（碰撞）的形状相似，或“ump”结尾的字面联想，错误理解“jump”的核心词义。",
+      "sentence": "The little girl will **jump** over the puddle to avoid getting her shoes wet.",
+      "options": {
+        "option": [
+          {
+            "definition": "跳跃",
+            "iscorrect": true
+          },
+          {
+            "definition": "倾倒",
+            "iscorrect": false
+          },
+          {
+            "definition": "碰撞",
+            "iscorrect": false
+          },
+          {
+            "definition": "慢跑",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

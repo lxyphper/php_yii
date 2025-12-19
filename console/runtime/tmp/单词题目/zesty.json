@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "zesty",
+      "error_analysis": "学生易因形近词\"testy\"(易怒的)混淆，或因词根\"zest\"(热情)误判为\"热情的\"",
+      "sentence": "The tomato soup has a **zesty** flavor with a hint of garlic and basil, making it perfect for a cold day.",
+      "options": {
+        "option": [
+          {
+            "definition": "（食物）辛辣开胃的；（人/事物）充满活力的",
+            "iscorrect": true
+          },
+          {
+            "definition": "易怒的",
+            "iscorrect": false
+          },
+          {
+            "definition": "热情的",
+            "iscorrect": false
+          },
+          {
+            "definition": "安静的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

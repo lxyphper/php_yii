@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lengthened",
+      "error_analysis": "学生易因形近词\"strengthened\"(加强)的干扰，或对\"length\"(长度)的时间义过度延伸，将\"lengthened\"误理解为\"加强的\"或\"变久的\"。",
+      "sentence": "To accommodate more participants, the organizer **lengthened** the workshop from 2 hours to 3 hours.",
+      "options": {
+        "option": [
+          {
+            "definition": "延长的；加长的",
+            "iscorrect": true
+          },
+          {
+            "definition": "加强的；增强的",
+            "iscorrect": false
+          },
+          {
+            "definition": "变久的；持续更久的",
+            "iscorrect": false
+          },
+          {
+            "definition": "变宽的；加宽的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

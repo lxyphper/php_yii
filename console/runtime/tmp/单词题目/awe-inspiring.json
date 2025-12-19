@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "awe-inspiring",
+      "error_analysis": "学生易将'awe'与形近词'awful'（可怕的）混淆，或忽略'awe'的敬畏义而仅理解为'inspiring'（令人鼓舞的）。",
+      "sentence": "The view from the top of the mountain was so **awe-inspiring** that everyone stopped to take photos.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人敬畏的；令人惊叹的",
+            "iscorrect": true
+          },
+          {
+            "definition": "可怕的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人鼓舞的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人困惑的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

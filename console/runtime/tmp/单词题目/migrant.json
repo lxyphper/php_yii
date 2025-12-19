@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "migrant",
+      "error_analysis": "中国学生易混淆\"migrant\"(流动迁移者)与形近词\"immigrant\"(入境定居者)，或误将其理解为\"迁徙的动物\"(词根过度推导)。",
+      "sentence": "Many **migrants** from rural areas move to cities in search of better job opportunities.",
+      "options": {
+        "option": [
+          {
+            "definition": "（尤指为工作或生存而）迁移的人；流动工人",
+            "iscorrect": true
+          },
+          {
+            "definition": "入境后定居的移民",
+            "iscorrect": false
+          },
+          {
+            "definition": "定期迁徙的动物",
+            "iscorrect": false
+          },
+          {
+            "definition": "本地出生的城市居民",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

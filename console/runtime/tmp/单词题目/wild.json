@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wild",
+      "error_analysis": "学生易因发音相近的\"wide\"（宽的）或形近的\"wind\"（风）\"mild\"（温和的）混淆，误将\"wild\"理解为\"宽的\"\"有风的\"或\"温和的\"",
+      "sentence": "The zookeeper warned us not to feed the **wild** animals because they might be dangerous.",
+      "options": {
+        "option": [
+          {
+            "definition": "野生的",
+            "iscorrect": true
+          },
+          {
+            "definition": "宽的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有风的",
+            "iscorrect": false
+          },
+          {
+            "definition": "温和的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

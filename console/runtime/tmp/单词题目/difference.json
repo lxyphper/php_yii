@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "difference",
+      "error_analysis": "学生易因形近词\"different\"（不同的，形容词）混淆\"difference\"的词性和词义，误将其理解为形容词\"不同的\"，或因形近词\"difficulty\"（困难）产生视觉混淆。",
+      "sentence": "The main **difference** between the two books is their plot structure.",
+      "options": {
+        "option": [
+          {
+            "definition": "差异；不同之处",
+            "iscorrect": true
+          },
+          {
+            "definition": "不同的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "困难",
+            "iscorrect": false
+          },
+          {
+            "definition": "区分（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

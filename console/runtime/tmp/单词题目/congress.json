@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "congress",
+      "error_analysis": "形近词progress（进步）导致的词义混淆，及词根con-（一起）+gress（走）误导的“游行/前进”理解",
+      "sentence": "The U.S. **congress** will vote on the new climate bill next week.",
+      "options": {
+        "option": [
+          {
+            "definition": "进步；进展",
+            "iscorrect": false
+          },
+          {
+            "definition": "国会；代表大会",
+            "iscorrect": true
+          },
+          {
+            "definition": "游行；前进",
+            "iscorrect": false
+          },
+          {
+            "definition": "共识；一致意见",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

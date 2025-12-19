@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to tend",
+      "error_analysis": "学生易因形近词“tender”（温柔的）或“tense”（紧张的）将“to tend”误解为“变得温柔”或“拉紧”，忽略其“倾向于”的核心动词含义。",
+      "sentence": "Many students **tend** to feel nervous before important exams.",
+      "options": {
+        "option": [
+          {
+            "definition": "倾向于",
+            "iscorrect": true
+          },
+          {
+            "definition": "变得温柔",
+            "iscorrect": false
+          },
+          {
+            "definition": "拉紧；使紧张",
+            "iscorrect": false
+          },
+          {
+            "definition": "潮汐上涨",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

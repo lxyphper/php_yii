@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to leave",
+      "error_analysis": "中国学生易因形近词\"live\"误判\"to leave\"为\"居住\"，或混淆其\"离开\"与\"留下\"的核心义。",
+      "sentence": "After finishing his meal, he decided to **leave** the restaurant and go home.",
+      "options": {
+        "option": [
+          {
+            "definition": "离开",
+            "iscorrect": true
+          },
+          {
+            "definition": "居住",
+            "iscorrect": false
+          },
+          {
+            "definition": "留下",
+            "iscorrect": false
+          },
+          {
+            "definition": "领导",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

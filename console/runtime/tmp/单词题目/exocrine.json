@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "exocrine",
+      "error_analysis": "学生易因形近词“exotic”（异域的）或“exorcise”（驱邪的）产生联想，或因不认识词根“crine”（分泌）而误猜为“外部的”。",
+      "sentence": "The pancreas has both **exocrine** functions (secreting digestive enzymes into the intestine) and endocrine functions (releasing hormones into the blood).",
+      "options": {
+        "option": [
+          {
+            "definition": "外分泌的",
+            "iscorrect": true
+          },
+          {
+            "definition": "异域的",
+            "iscorrect": false
+          },
+          {
+            "definition": "驱邪的",
+            "iscorrect": false
+          },
+          {
+            "definition": "外部的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

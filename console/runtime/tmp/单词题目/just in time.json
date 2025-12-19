@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "just in time",
+      "error_analysis": "中国学生易因字面拆分（将“just”理解为“仅仅”）或与“on time”（准时）混淆，忽略“刚好赶上避免延误”的核心含义",
+      "sentence": "The bus was about to leave when we arrived **just in time** to get on it.",
+      "options": {
+        "option": [
+          {
+            "definition": "刚好及时（指刚好赶上，避免延误）",
+            "iscorrect": true
+          },
+          {
+            "definition": "准时（按预定时间到达）",
+            "iscorrect": false
+          },
+          {
+            "definition": "仅仅及时（强调“仅仅”，暗示不够）",
+            "iscorrect": false
+          },
+          {
+            "definition": "刚好有时间（指有空闲时间做某事）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

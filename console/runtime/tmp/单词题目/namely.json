@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "namely",
+      "error_analysis": "学生易因形近词\"name\"联想为\"命名地\"，或因\"name+-ly\"字面推导为\"像名字一样地\"，忽略其\"即，也就是\"的核心义。",
+      "sentence": "I have a plan for the weekend, **namely**, going to the library and reading.",
+      "options": {
+        "option": [
+          {
+            "definition": "即，也就是",
+            "iscorrect": true
+          },
+          {
+            "definition": "命名地（给...起名字）",
+            "iscorrect": false
+          },
+          {
+            "definition": "像名字一样地",
+            "iscorrect": false
+          },
+          {
+            "definition": "自然地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

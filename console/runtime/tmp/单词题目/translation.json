@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "translation",
+      "error_analysis": "学生易因形近词\"transformation\"（转变）混淆\"translation\"，或因\"trans-\"词根误联想为\"传输/转变\"而非\"翻译\"。",
+      "sentence": "The **translation** of the ancient Chinese poem into English won a prestigious literary award.",
+      "options": {
+        "option": [
+          {
+            "definition": "翻译",
+            "iscorrect": true
+          },
+          {
+            "definition": "转变",
+            "iscorrect": false
+          },
+          {
+            "definition": "传输",
+            "iscorrect": false
+          },
+          {
+            "definition": "转录",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unexpectedly",
+      "error_analysis": "学生易因形近词“unexceptionally”（无例外地）混淆，或因“un-”否定“expect”而错误理解为“不期待地”。",
+      "sentence": "She **unexpectedly** showed up at my birthday party, making me jump with joy.",
+      "options": {
+        "option": [
+          {
+            "definition": "出乎意料地",
+            "iscorrect": true
+          },
+          {
+            "definition": "无例外地",
+            "iscorrect": false
+          },
+          {
+            "definition": "不期待地",
+            "iscorrect": false
+          },
+          {
+            "definition": "不小心地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

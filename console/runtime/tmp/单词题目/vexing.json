@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "vexing",
+      "error_analysis": "学生易因形近词（如exciting）或词根陌生而误判为“兴奋的”或“复杂的”。",
+      "sentence": "The **vexing** problem of how to balance work and family has troubled many young professionals.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人烦恼的",
+            "iscorrect": true
+          },
+          {
+            "definition": "兴奋的",
+            "iscorrect": false
+          },
+          {
+            "definition": "混合的",
+            "iscorrect": false
+          },
+          {
+            "definition": "复杂的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

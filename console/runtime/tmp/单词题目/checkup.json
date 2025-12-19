@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "checkup",
+      "error_analysis": "易将名词\"体检\"误判为动词\"检查\"（词根误导）或形近词\"结账\"（checkout）",
+      "sentence": "I need to schedule a **checkup** with my doctor next week because I've been feeling tired lately.",
+      "options": {
+        "option": [
+          {
+            "definition": "体检；医生的检查（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "检查（动词，如检查作业）",
+            "iscorrect": false
+          },
+          {
+            "definition": "结账（离开酒店时的检查）",
+            "iscorrect": false
+          },
+          {
+            "definition": "登记入住（酒店的登记手续）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

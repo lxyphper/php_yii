@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "shiny",
+      "error_analysis": "易因形近词'shy'（害羞的）产生错误联想，或误将'shiny'理解为'正在发光的'（对'shine'动词派生的过度推导）",
+      "sentence": "Her new shoes are so **shiny** that they reflect her face.",
+      "options": {
+        "option": [
+          {
+            "definition": "害羞的",
+            "iscorrect": false
+          },
+          {
+            "definition": "正在发光的",
+            "iscorrect": false
+          },
+          {
+            "definition": "闪亮的；发光的",
+            "iscorrect": true
+          },
+          {
+            "definition": "光滑的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

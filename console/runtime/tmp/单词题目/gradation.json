@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gradation",
+      "error_analysis": "易混淆形近词\"graduation\"(毕业)及词根\"grad\"(步/等级)导致的\"毕业\"或\"升级\"错误联想",
+      "sentence": "The artist used subtle **gradation** of blue to create a sense of depth in the ocean painting.",
+      "options": {
+        "option": [
+          {
+            "definition": "（颜色、数量等的）渐变；等级序列",
+            "iscorrect": true
+          },
+          {
+            "definition": "毕业仪式；学位授予",
+            "iscorrect": false
+          },
+          {
+            "definition": "逐步升级；前进的步骤",
+            "iscorrect": false
+          },
+          {
+            "definition": "退化；品质恶化",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

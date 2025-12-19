@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "odd",
+      "error_analysis": "学生易因形近词‘old’误将‘odd’理解为‘老的’，或混淆其‘奇数的’与‘偶数的’含义",
+      "sentence": "Five is an **odd** number, so it can’t be split into two equal groups.",
+      "options": {
+        "option": [
+          {
+            "definition": "奇数的",
+            "iscorrect": true
+          },
+          {
+            "definition": "老的",
+            "iscorrect": false
+          },
+          {
+            "definition": "偶数的",
+            "iscorrect": false
+          },
+          {
+            "definition": "奇怪的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

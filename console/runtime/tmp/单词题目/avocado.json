@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "avocado",
+      "error_analysis": "学生易因形近词\"advocate\"(提倡者)的干扰，将\"avocado\"误判为与\"主张、支持\"相关的含义",
+      "sentence": "I usually spread mashed **avocado** on toast for breakfast; it's rich in healthy fats.",
+      "options": {
+        "option": [
+          {
+            "definition": "提倡者；支持者",
+            "iscorrect": false
+          },
+          {
+            "definition": "鳄梨；牛油果",
+            "iscorrect": true
+          },
+          {
+            "definition": "无价值的东西；废物",
+            "iscorrect": false
+          },
+          {
+            "definition": "蔬菜；青菜",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

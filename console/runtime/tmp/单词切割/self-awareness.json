@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "selfawareness",
+      "self-awarness",
+      "self-awearness",
+      "self-awarenes"
+    ],
+    "correct_chunks": [
+      "self-",
+      "a",
+      "ware",
+      "ness"
+    ],
+    "distractor_chunks": [
+      "selfa",
+      "awar",
+      "awear",
+      "awaren"
+    ]
+  },
+  0
+]

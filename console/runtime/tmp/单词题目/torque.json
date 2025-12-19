@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "torque",
+      "error_analysis": "学生易因形近词\"torch\"（火炬）产生错误联想，或误将其理解为\"扭转\"（动词）",
+      "sentence": "The mechanic explained that the engine’s high **torque** allowed the truck to pull heavy loads up steep hills.",
+      "options": {
+        "option": [
+          {
+            "definition": "扭矩（使物体绕轴旋转的力）",
+            "iscorrect": true
+          },
+          {
+            "definition": "火炬；火把",
+            "iscorrect": false
+          },
+          {
+            "definition": "扭转；扭曲（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "洪流；急流",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

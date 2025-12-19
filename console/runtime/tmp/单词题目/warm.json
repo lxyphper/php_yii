@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "warm",
+      "error_analysis": "中国学生易混淆形近词“warn”（警告），或误联想“war”（战争）导致理解偏差。",
+      "sentence": "The sun came out, turning the cold morning into a **warm** and pleasant day.",
+      "options": {
+        "option": [
+          {
+            "definition": "温暖的",
+            "iscorrect": true
+          },
+          {
+            "definition": "警告",
+            "iscorrect": false
+          },
+          {
+            "definition": "战争",
+            "iscorrect": false
+          },
+          {
+            "definition": "潮湿的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

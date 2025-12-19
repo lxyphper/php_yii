@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cure",
+      "error_analysis": "易混淆形近词\"care\"(关心)和\"curse\"(诅咒)，导致误判\"cure\"的核心词义",
+      "sentence": "The doctor said this new medicine could **cure** his chronic headache.",
+      "options": {
+        "option": [
+          {
+            "definition": "治愈；治疗",
+            "iscorrect": true
+          },
+          {
+            "definition": "关心；照顾",
+            "iscorrect": false
+          },
+          {
+            "definition": "诅咒；咒骂",
+            "iscorrect": false
+          },
+          {
+            "definition": "曲线；弯曲",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

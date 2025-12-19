@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "discussion",
+      "error_analysis": "学生易因形近词\"decision\"（决定）或\"discus\"（铁饼）的干扰，将\"discussion\"误判为\"决定\"或\"铁饼\"",
+      "sentence": "After a long **discussion**, the team finally reached an agreement on the project.",
+      "options": {
+        "option": [
+          {
+            "definition": "讨论",
+            "iscorrect": true
+          },
+          {
+            "definition": "决定",
+            "iscorrect": false
+          },
+          {
+            "definition": "铁饼",
+            "iscorrect": false
+          },
+          {
+            "definition": "辩论",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

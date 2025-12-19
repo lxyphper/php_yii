@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "character",
+      "error_analysis": "学生易因形近词\"characteristic\"混淆\"character\"与\"特征\"，或因\"Chinese character\"的搭配误将其理解为\"符号/汉字\"",
+      "sentence": "Despite facing many challenges, she maintained a strong **character** and never gave up.",
+      "options": {
+        "option": [
+          {
+            "definition": "品格；性格",
+            "iscorrect": true
+          },
+          {
+            "definition": "特征；特点",
+            "iscorrect": false
+          },
+          {
+            "definition": "符号；字符",
+            "iscorrect": false
+          },
+          {
+            "definition": "角色；人物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

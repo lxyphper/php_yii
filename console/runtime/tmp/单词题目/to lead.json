@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to lead",
+      "error_analysis": "学生易因形近词（如read/lean）混淆动词义，或误联名词“铅”的意思。",
+      "sentence": "The captain will **lead** the team to the final match.",
+      "options": {
+        "option": [
+          {
+            "definition": "读（read的过去式/过去分词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "铅（一种重金属）",
+            "iscorrect": false
+          },
+          {
+            "definition": "领导；引导",
+            "iscorrect": true
+          },
+          {
+            "definition": "倾斜；倚靠（lean的动词义）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

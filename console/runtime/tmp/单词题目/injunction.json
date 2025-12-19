@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "injunction",
+      "error_analysis": "易因形近词\"injection\"(注射)及词根\"junction\"(连接)产生错误联想",
+      "sentence": "The court issued an **injunction** to prevent the factory from releasing toxic gases into the air.",
+      "options": {
+        "option": [
+          {
+            "definition": "注射",
+            "iscorrect": false
+          },
+          {
+            "definition": "连接点",
+            "iscorrect": false
+          },
+          {
+            "definition": "法院禁令",
+            "iscorrect": true
+          },
+          {
+            "definition": "建议",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

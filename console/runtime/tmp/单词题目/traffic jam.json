@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "traffic jam",
+      "error_analysis": "学生可能因“jam”的“果酱”义而错误联想为与“果酱”相关的交通场景",
+      "sentence": "I was late for work this morning because there was a huge **traffic jam** on the highway.",
+      "options": {
+        "option": [
+          {
+            "definition": "交通堵塞",
+            "iscorrect": true
+          },
+          {
+            "definition": "交通果酱",
+            "iscorrect": false
+          },
+          {
+            "definition": "交通跳跃",
+            "iscorrect": false
+          },
+          {
+            "definition": "交通信号",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

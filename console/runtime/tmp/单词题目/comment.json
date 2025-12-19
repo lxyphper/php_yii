@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "comment",
+      "error_analysis": "易与形近词\"commit\"(承诺；犯罪)混淆，或因词根\"com-\"(共同)+\"ment-\"(思考)误判为\"会议；讨论\"",
+      "sentence": "After reading the article, she decided to leave a **comment** to share her opinion.",
+      "options": {
+        "option": [
+          {
+            "definition": "评论",
+            "iscorrect": true
+          },
+          {
+            "definition": "承诺；犯罪",
+            "iscorrect": false
+          },
+          {
+            "definition": "会议；讨论",
+            "iscorrect": false
+          },
+          {
+            "definition": "注释；注解",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

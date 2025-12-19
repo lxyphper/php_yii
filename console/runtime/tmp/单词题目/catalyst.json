@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "catalyst",
+      "error_analysis": "学生易因形近词\"catalogue\"（目录）混淆，或因\"cata-\"前缀的负面联想（如catastrophe）误判为\"灾难的根源\"",
+      "sentence": "The new policy acted as a **catalyst** for economic growth in the region.",
+      "options": {
+        "option": [
+          {
+            "definition": "催化剂；促进因素",
+            "iscorrect": true
+          },
+          {
+            "definition": "目录；一览表",
+            "iscorrect": false
+          },
+          {
+            "definition": "灾难的根源",
+            "iscorrect": false
+          },
+          {
+            "definition": "列表中的条目",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

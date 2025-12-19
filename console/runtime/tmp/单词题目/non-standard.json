@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "non-standard",
+      "error_analysis": "学生易因形近词“status”（状态）混淆“standard”（标准），将“non-standard”误判为“无状态的”，或因词根过度直译误解为“低标准的”。",
+      "sentence": "The factory produces some **non-standard** parts for old cars that no longer have official specifications.",
+      "options": {
+        "option": [
+          {
+            "definition": "非标准的",
+            "iscorrect": true
+          },
+          {
+            "definition": "无状态的",
+            "iscorrect": false
+          },
+          {
+            "definition": "低标准的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不常见的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

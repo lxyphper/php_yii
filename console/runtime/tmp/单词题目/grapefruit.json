@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "grapefruit",
+      "error_analysis": "因包含\"grape\"(葡萄)和\"fruit\"(水果)，学生易误判为\"葡萄\"或\"葡萄类水果\"",
+      "sentence": "She added a slice of **grapefruit** to her salad for a tangy, refreshing flavor.",
+      "options": {
+        "option": [
+          {
+            "definition": "葡萄",
+            "iscorrect": false
+          },
+          {
+            "definition": "西柚（葡萄柚）",
+            "iscorrect": true
+          },
+          {
+            "definition": "葡萄味的水果",
+            "iscorrect": false
+          },
+          {
+            "definition": "苹果",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

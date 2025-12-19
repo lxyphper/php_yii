@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ethernet",
+      "error_analysis": "学生因\"ether\"（乙醚）和\"net\"（网）的字面义，易错误联想为与化学试剂相关的网络或设备。",
+      "sentence": "To connect your computer to the office network, you need to plug the cable into the **ethernet** port on the back of the tower.",
+      "options": {
+        "option": [
+          {
+            "definition": "以太网（一种计算机网络技术，用于有线设备连接）",
+            "iscorrect": true
+          },
+          {
+            "definition": "乙醚传输网络（用于化学试剂输送的管道系统）",
+            "iscorrect": false
+          },
+          {
+            "definition": "乙烯存储容器（工业中保存乙烯的专用设备）",
+            "iscorrect": false
+          },
+          {
+            "definition": "无线通信协议（如Wi-Fi的替代技术）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to derail",
+      "error_analysis": "中国学生易因形近词\"detail\"联想到\"详细说明\"，或因词根\"de-\"+\"rail\"错误猜测为\"拆除栏杆\"。",
+      "sentence": "The team's championship hopes were **derailed** by a key player's sudden injury.",
+      "options": {
+        "option": [
+          {
+            "definition": "详细说明",
+            "iscorrect": false
+          },
+          {
+            "definition": "拆除栏杆",
+            "iscorrect": false
+          },
+          {
+            "definition": "阻碍（计划、进程等）使失败",
+            "iscorrect": true
+          },
+          {
+            "definition": "延迟；拖延",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

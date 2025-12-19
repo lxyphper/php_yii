@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "draught",
+      "error_analysis": "学生易因形近词“draft”（草稿）的干扰，或与“draw”发音接近而联想到“拉；拖”，从而误判“draught”的含义。",
+      "sentence": "Close the window, please—there's a cold **draught** coming in that's making me shiver.",
+      "options": {
+        "option": [
+          {
+            "definition": "草稿",
+            "iscorrect": false
+          },
+          {
+            "definition": "拉；拖",
+            "iscorrect": false
+          },
+          {
+            "definition": "穿堂风",
+            "iscorrect": true
+          },
+          {
+            "definition": "一饮",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dozen",
+      "error_analysis": "易因形近词\"doze\"(打盹)混淆词义，或误将\"dozen\"联想为\"做\"的衍生词，忽略其\"十二\"的核心数量含义",
+      "sentence": "I need a **dozen** roses for the party—could you pick them up on your way?",
+      "options": {
+        "option": [
+          {
+            "definition": "十二；一打",
+            "iscorrect": true
+          },
+          {
+            "definition": "打盹；小睡",
+            "iscorrect": false
+          },
+          {
+            "definition": "做；制作",
+            "iscorrect": false
+          },
+          {
+            "definition": "几个；一些",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

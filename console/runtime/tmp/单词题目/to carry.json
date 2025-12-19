@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to carry",
+      "error_analysis": "因形近词\"curry\"（咖喱/讨好）及与\"car\"（汽车）的联想，易将\"carry\"误理解为\"讨好\"或\"驾驶\"。",
+      "sentence": "She always **carries** a notebook in her bag to write down ideas whenever they come.",
+      "options": {
+        "option": [
+          {
+            "definition": "携带；搬运",
+            "iscorrect": true
+          },
+          {
+            "definition": "讨好；奉承（来自对\"curry favor\"的误记）",
+            "iscorrect": false
+          },
+          {
+            "definition": "驾驶（汽车）（因与\"car\"形近产生的联想）",
+            "iscorrect": false
+          },
+          {
+            "definition": "关心；照料（与\"care\"混淆）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cluster",
+      "error_analysis": "易混淆形近词“clutter”（杂乱），或误猜为“关闭的装置”（如“clasp”的联想）",
+      "sentence": "A **cluster** of children gathered around the ice cream truck, eager to buy cones.",
+      "options": {
+        "option": [
+          {
+            "definition": "群；簇；组",
+            "iscorrect": true
+          },
+          {
+            "definition": "杂乱；混乱",
+            "iscorrect": false
+          },
+          {
+            "definition": "关闭的装置；扣环",
+            "iscorrect": false
+          },
+          {
+            "definition": "单独的个体；单个物品",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "examination",
+      "error_analysis": "中国学生易因形近词\"explanation\"（解释）或词根误拆（如认为与\"测量\"相关）而误解\"examination\"的核心义（考试/检查）",
+      "sentence": "She was nervous about the final **examination** because it would determine whether she could graduate.",
+      "options": {
+        "option": [
+          {
+            "definition": "考试；检查",
+            "iscorrect": true
+          },
+          {
+            "definition": "解释",
+            "iscorrect": false
+          },
+          {
+            "definition": "感叹",
+            "iscorrect": false
+          },
+          {
+            "definition": "测量",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to outmaneuver",
+      "error_analysis": "易混淆形近词“outnumber”（数量超过），或误将“out-+maneuver”直译为“用更多策略击败”而非“以策略胜过”",
+      "sentence": "In the chess match, the young player managed to **outmaneuver** his experienced opponent with a clever pawn move.",
+      "options": {
+        "option": [
+          {
+            "definition": "以策略或机动胜过；智胜",
+            "iscorrect": true
+          },
+          {
+            "definition": "数量上超过",
+            "iscorrect": false
+          },
+          {
+            "definition": "用更多策略击败",
+            "iscorrect": false
+          },
+          {
+            "definition": "在机动中失败",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

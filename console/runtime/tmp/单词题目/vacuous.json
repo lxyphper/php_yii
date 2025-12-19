@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "vacuous",
+      "error_analysis": "混淆形近词\"vacant\"(空的)或词根\"vac-\"误导的\"空的\"理解，忽略\"无意义/愚蠢\"的核心义",
+      "sentence": "His speech was filled with **vacuous** phrases like \"follow your dreams\" without any concrete advice.",
+      "options": {
+        "option": [
+          {
+            "definition": "无意义的；愚蠢的",
+            "iscorrect": true
+          },
+          {
+            "definition": "空的；未被占用的",
+            "iscorrect": false
+          },
+          {
+            "definition": "真空的",
+            "iscorrect": false
+          },
+          {
+            "definition": "活跃的；忙碌的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

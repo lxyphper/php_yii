@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "maximum",
+      "error_analysis": "易与形近词“minimum”（最小）混淆，或误将名词“最大值”理解为动词“最大化”",
+      "sentence": "The elevator can carry a **maximum** of 10 people at a time.",
+      "options": {
+        "option": [
+          {
+            "definition": "最大值；最大量",
+            "iscorrect": true
+          },
+          {
+            "definition": "最小值；最小量",
+            "iscorrect": false
+          },
+          {
+            "definition": "最大化（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "平均量；平均值",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

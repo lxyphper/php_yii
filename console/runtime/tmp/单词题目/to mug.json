@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to mug",
+      "error_analysis": "将动词“to mug”（抢劫）误联想为与名词“mug”（杯子）相关的动作，如“拿杯子”或“给某人杯子”",
+      "sentence": "She was **mugged** in the alley while carrying her groceries home late.",
+      "options": {
+        "option": [
+          {
+            "definition": "抢劫（尤指从背后袭击）",
+            "iscorrect": true
+          },
+          {
+            "definition": "拿（杯子）",
+            "iscorrect": false
+          },
+          {
+            "definition": "给某人递杯子",
+            "iscorrect": false
+          },
+          {
+            "definition": "拥抱",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

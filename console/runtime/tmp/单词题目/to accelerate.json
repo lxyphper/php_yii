@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to accelerate",
+      "error_analysis": "易因形近词\"accumulate\"(积累)的干扰，将\"to accelerate\"误判为\"积累\"或\"积聚\"",
+      "sentence": "The driver had to **accelerate** to overtake the truck before the upcoming turn.",
+      "options": {
+        "option": [
+          {
+            "definition": "加速；促进",
+            "iscorrect": true
+          },
+          {
+            "definition": "积累；积聚",
+            "iscorrect": false
+          },
+          {
+            "definition": "庆祝；庆贺",
+            "iscorrect": false
+          },
+          {
+            "definition": "减速；放缓",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

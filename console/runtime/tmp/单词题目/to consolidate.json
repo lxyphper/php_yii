@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to consolidate",
+      "error_analysis": "易混淆形近词\"console\"(安慰)及词根\"solid\"(固体)，导致误判为\"安慰\"或\"使变固体\"",
+      "sentence": "After winning the election, the new president plans to **consolidate** his power by appointing loyal supporters to key government positions.",
+      "options": {
+        "option": [
+          {
+            "definition": "巩固；加强（地位、权力等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "安慰；慰藉（情绪）",
+            "iscorrect": false
+          },
+          {
+            "definition": "使变固体；凝固（液体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "收集；聚集（物品）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

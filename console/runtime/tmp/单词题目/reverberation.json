@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "reverberation",
+      "error_analysis": "学生易因词根\"verber\"(鞭打)猜测为\"暴力行为\"，或因形近词\"reverence\"(尊敬)误判为\"尊敬的态度\"",
+      "sentence": "The **reverberation** of the gunshot echoed through the valley for several seconds.",
+      "options": {
+        "option": [
+          {
+            "definition": "回响；回荡",
+            "iscorrect": true
+          },
+          {
+            "definition": "重复的鞭打或攻击",
+            "iscorrect": false
+          },
+          {
+            "definition": "尊敬或敬畏的情感",
+            "iscorrect": false
+          },
+          {
+            "definition": "相反的方向或转变",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

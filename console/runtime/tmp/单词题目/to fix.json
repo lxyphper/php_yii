@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to fix",
+      "error_analysis": "学生易将“to fix”与形近词“mix”（混合）、“fit”（适合）混淆，或因词根“固定”的字面义误解为“系紧”而非核心义“修理”。",
+      "sentence": "My bike has a flat tire—can you **fix** it for me?",
+      "options": {
+        "option": [
+          {
+            "definition": "修理；修补",
+            "iscorrect": true
+          },
+          {
+            "definition": "混合；搅拌",
+            "iscorrect": false
+          },
+          {
+            "definition": "适合；合身",
+            "iscorrect": false
+          },
+          {
+            "definition": "系紧；固定",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

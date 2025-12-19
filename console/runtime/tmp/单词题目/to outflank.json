@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to outflank",
+      "error_analysis": "学生易因词根out-+flank猜测为“从侧翼出去”，或因形近词（如outflow、flap）误判为“流出”或“拍打出去”",
+      "sentence": "To avoid a direct confrontation, the general decided to **outflank** the enemy by attacking from their unprotected side.",
+      "options": {
+        "option": [
+          {
+            "definition": "包抄（敌人的侧翼）；智取（对手）",
+            "iscorrect": true
+          },
+          {
+            "definition": "从侧翼出去",
+            "iscorrect": false
+          },
+          {
+            "definition": "流出（液体等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "拍打出去",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rotten",
+      "error_analysis": "因形近词“written”（写）干扰易误判为“写的”，或因词根不熟悉误猜为“新鲜的”",
+      "sentence": "The milk smells terrible—maybe it's **rotten** and we should throw it away.",
+      "options": {
+        "option": [
+          {
+            "definition": "腐烂的；变质的",
+            "iscorrect": true
+          },
+          {
+            "definition": "写的；书面的",
+            "iscorrect": false
+          },
+          {
+            "definition": "新鲜的；刚摘的",
+            "iscorrect": false
+          },
+          {
+            "definition": "坚硬的；结实的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

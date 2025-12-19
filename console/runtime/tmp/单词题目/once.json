@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "once",
+      "error_analysis": "学生易因形近词“one”误判“once”为“一个”，或混淆其“一次”与“曾经”的含义。",
+      "sentence": "She watched that movie **once**, but she still remembers all the dialogue clearly.",
+      "options": {
+        "option": [
+          {
+            "definition": "一个",
+            "iscorrect": false
+          },
+          {
+            "definition": "曾经",
+            "iscorrect": false
+          },
+          {
+            "definition": "一次",
+            "iscorrect": true
+          },
+          {
+            "definition": "一旦",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

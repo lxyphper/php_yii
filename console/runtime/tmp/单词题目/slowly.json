@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "slowly",
+      "error_analysis": "学生易因形近词\"slightly\"（稍微）的干扰或词根字面误导，将\"slowly\"误理解为\"稍微地\"或\"慢的事物\"",
+      "sentence": "The old man walked **slowly** across the street to avoid the busy traffic.",
+      "options": {
+        "option": [
+          {
+            "definition": "缓慢地",
+            "iscorrect": true
+          },
+          {
+            "definition": "稍微地",
+            "iscorrect": false
+          },
+          {
+            "definition": "慢的事物",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

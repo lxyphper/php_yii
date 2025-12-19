@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "chestnut",
+      "error_analysis": "学生易因chest（胸部）与nut（坚果）的拆分，误将chestnut理解为“胸部的坚果”或与胸部相关的物品（如胸针）",
+      "sentence": "She roasted some **chestnuts** over the fire and enjoyed their sweet, creamy taste.",
+      "options": {
+        "option": [
+          {
+            "definition": "栗子",
+            "iscorrect": true
+          },
+          {
+            "definition": "胸针",
+            "iscorrect": false
+          },
+          {
+            "definition": "胸部的坚果",
+            "iscorrect": false
+          },
+          {
+            "definition": "老套的笑话",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

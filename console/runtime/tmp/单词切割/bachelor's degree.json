@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "bachellor's degree",
+      "bachelors degree",
+      "bachelar's degree",
+      "bachelor's degre",
+      "bachelors' degree"
+    ],
+    "correct_chunks": [
+      "bache",
+      "lor's",
+      "de",
+      "gree"
+    ],
+    "distractor_chunks": [
+      "llor",
+      "elar",
+      "s",
+      "gre",
+      "s'"
+    ]
+  },
+  0
+]

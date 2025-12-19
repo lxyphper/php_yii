@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to pinch",
+      "error_analysis": "将“to pinch”误判为“用别针固定”（形近词“pin”的干扰）或“拳打”（形近词“punch”的混淆）",
+      "sentence": "She **pinched** her son's cheek gently to show affection.",
+      "options": {
+        "option": [
+          {
+            "definition": "捏；掐",
+            "iscorrect": true
+          },
+          {
+            "definition": "用别针固定",
+            "iscorrect": false
+          },
+          {
+            "definition": "拳打",
+            "iscorrect": false
+          },
+          {
+            "definition": "推",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

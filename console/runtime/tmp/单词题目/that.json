@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "that",
+      "error_analysis": "中国学生易混淆形近词\"than\"(比)的含义，或误将连词\"that\"理解为\"那个\"的实义",
+      "sentence": "Can you hand me **that** cup by the window? It's my favorite one with a cat pattern.",
+      "options": {
+        "option": [
+          {
+            "definition": "那个（指远处的人或物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "比（用于比较，如\"than\"）",
+            "iscorrect": false
+          },
+          {
+            "definition": "所以（表示因果关系，如\"so\"）",
+            "iscorrect": false
+          },
+          {
+            "definition": "这个（指近处的人或物，如\"this\"）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

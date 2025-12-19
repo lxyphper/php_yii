@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to halt",
+      "error_analysis": "因形近词\"half\"（一半）误导，易将\"to halt\"理解为\"减半；分成一半\"",
+      "sentence": "The police officer signaled the speeding car to **halt** immediately to check its license.",
+      "options": {
+        "option": [
+          {
+            "definition": "停止；使停止",
+            "iscorrect": true
+          },
+          {
+            "definition": "减半；分成一半",
+            "iscorrect": false
+          },
+          {
+            "definition": "持有；抓住",
+            "iscorrect": false
+          },
+          {
+            "definition": "加速；加快",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "garage",
+      "error_analysis": "中国学生易因形近词\"garbage\"(垃圾)混淆\"garage\"词义，或误判为普通仓库。",
+      "sentence": "My dad is fixing the car in the **garage** this weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "垃圾",
+            "iscorrect": false
+          },
+          {
+            "definition": "仓库",
+            "iscorrect": false
+          },
+          {
+            "definition": "车库；汽车修理厂",
+            "iscorrect": true
+          },
+          {
+            "definition": "愤怒",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

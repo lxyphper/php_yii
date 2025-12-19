@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to pose",
+      "error_analysis": "学生易因形近词\"post\"误解为\"发布\"，或因词根\"ponere\"(放置)误导为\"放置物品\"",
+      "sentence": "The new policy will **pose** a serious challenge to small businesses.",
+      "options": {
+        "option": [
+          {
+            "definition": "造成（问题/威胁）",
+            "iscorrect": true
+          },
+          {
+            "definition": "发布（消息/帖子）",
+            "iscorrect": false
+          },
+          {
+            "definition": "放置（物品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "假装（表情/态度）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

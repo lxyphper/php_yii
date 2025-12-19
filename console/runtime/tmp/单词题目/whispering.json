@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "whispering",
+      "error_analysis": "学生易因形近词“whistling”（吹口哨）干扰误判为“吹口哨”，或因词根拆分错误误猜“轻声希望”。",
+      "sentence": "As she entered the library, she heard someone **whispering** in the corner, so she walked over to see who it was.",
+      "options": {
+        "option": [
+          {
+            "definition": "低语，耳语（的动作）",
+            "iscorrect": true
+          },
+          {
+            "definition": "吹口哨（的动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻声希望（的状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "沙沙声（如树叶的声音）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

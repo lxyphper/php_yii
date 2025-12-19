@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "costly",
+      "error_analysis": "学生易因形近词\"cost\"（成本）误导，将\"costly\"错误理解为\"关于成本的\"或\"有成本的\"。",
+      "sentence": "Buying a new car can be a **costly** decision for many young people.",
+      "options": {
+        "option": [
+          {
+            "definition": "昂贵的；代价高的",
+            "iscorrect": true
+          },
+          {
+            "definition": "关于成本的；有成本的",
+            "iscorrect": false
+          },
+          {
+            "definition": "成本地；以成本方式",
+            "iscorrect": false
+          },
+          {
+            "definition": "舒适的；温暖的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

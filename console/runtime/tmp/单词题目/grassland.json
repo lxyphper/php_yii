@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "grassland",
+      "error_analysis": "学生易因词根拆分(grass+land)错误理解为小面积\"草坪\"(lawn)，或混淆为用于放牧的\"牧场\"(pasture)。",
+      "sentence": "The African savanna is a type of tropical **grassland** where lions and zebras roam freely.",
+      "options": {
+        "option": [
+          {
+            "definition": "草原（大片长草的自然地区）",
+            "iscorrect": true
+          },
+          {
+            "definition": "草坪（小面积人工种植的草地）",
+            "iscorrect": false
+          },
+          {
+            "definition": "牧场（用于放牧的草地）",
+            "iscorrect": false
+          },
+          {
+            "definition": "草甸（有花的低矮草地）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

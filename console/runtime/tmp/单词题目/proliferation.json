@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "proliferation",
+      "error_analysis": "学生易因形近词“proclamation”（宣言）混淆词义，或因词根误拆为“pro-+life”误以为与“生命延续”相关。",
+      "sentence": "The rapid **proliferation** of online shopping apps has led to a significant decline in traditional brick-and-mortar stores.",
+      "options": {
+        "option": [
+          {
+            "definition": "激增；扩散（快速大量增长或扩散）",
+            "iscorrect": true
+          },
+          {
+            "definition": "宣言；声明（公开或官方的宣布）",
+            "iscorrect": false
+          },
+          {
+            "definition": "生命的延续；繁殖（生命的持续或后代繁衍）",
+            "iscorrect": false
+          },
+          {
+            "definition": "人口扩张；种群增长（人口或物种数量的增加）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

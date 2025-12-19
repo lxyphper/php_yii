@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "boat",
+      "error_analysis": "学生易因形近词\"coat\"（外套）的拼写相似（仅一个字母之差）而误判\"boat\"的含义",
+      "sentence": "We rented a **boat** to go fishing on the lake last weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "船",
+            "iscorrect": true
+          },
+          {
+            "definition": "外套",
+            "iscorrect": false
+          },
+          {
+            "definition": "燕麦饼",
+            "iscorrect": false
+          },
+          {
+            "definition": "靴子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

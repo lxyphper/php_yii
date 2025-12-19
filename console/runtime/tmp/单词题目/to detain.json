@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to detain",
+      "error_analysis": "易因形近词retain（保留）混淆，或词根误推为“释放”（如认为de-表示“离开”而误解为放走）",
+      "sentence": "The customs officers decided to **detain** the traveler because his luggage contained prohibited items.",
+      "options": {
+        "option": [
+          {
+            "definition": "拘留；扣押",
+            "iscorrect": true
+          },
+          {
+            "definition": "保留；保持",
+            "iscorrect": false
+          },
+          {
+            "definition": "释放；放走",
+            "iscorrect": false
+          },
+          {
+            "definition": "耽搁；延误",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

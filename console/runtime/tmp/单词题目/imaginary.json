@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "imaginary",
+      "error_analysis": "中国学生易混淆形近词“imaginative”（有想象力的）、“imaginable”（可想象的），或因词根“image”误解为“图像的”。",
+      "sentence": "As a child, she often talked to her **imaginary** friend, a tiny fairy who lived in her toy box.",
+      "options": {
+        "option": [
+          {
+            "definition": "虚构的；想象出来的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有想象力的；富于创造力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可想象的；能想到的",
+            "iscorrect": false
+          },
+          {
+            "definition": "图像的；形象的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

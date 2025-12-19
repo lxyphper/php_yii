@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "art",
+      "error_analysis": "易因形近词“part”（部分）或词根误导将“art”误解为“技艺”而非核心义“艺术”",
+      "sentence": "Many people visit the museum to appreciate different forms of **art**, such as paintings and sculptures.",
+      "options": {
+        "option": [
+          {
+            "definition": "艺术",
+            "iscorrect": true
+          },
+          {
+            "definition": "部分",
+            "iscorrect": false
+          },
+          {
+            "definition": "技艺",
+            "iscorrect": false
+          },
+          {
+            "definition": "手臂",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

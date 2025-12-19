@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "power",
+      "error_analysis": "中国学生易因形近词“powder”（粉末）或词根“pot-”过度推导为“体力”而误判“power”的含义",
+      "sentence": "The lamp won't turn on if there's no electric **power**.",
+      "options": {
+        "option": [
+          {
+            "definition": "粉末",
+            "iscorrect": false
+          },
+          {
+            "definition": "体力",
+            "iscorrect": false
+          },
+          {
+            "definition": "塔",
+            "iscorrect": false
+          },
+          {
+            "definition": "电力",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

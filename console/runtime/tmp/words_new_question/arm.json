@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "arm",
+      "error_analysis": "学生易将“arm”的动词义（武装）混淆为名词义（手臂），或因形近词“army”误判为“军队”",
+      "sentence": "The country plans to **arm** its border guards with advanced technology to enhance security.",
+      "options": {
+        "option": [
+          {
+            "definition": "手臂（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "军队（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "武器（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "武装（动词，装备）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

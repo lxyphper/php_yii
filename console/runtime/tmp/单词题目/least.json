@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "least",
+      "error_analysis": "中国学生易因形近词“last”（最后）的干扰，将“least”误理解为“最后的”。",
+      "sentence": "Among all the subjects, math is the **least** interesting to me.",
+      "options": {
+        "option": [
+          {
+            "definition": "最少的；最小的",
+            "iscorrect": true
+          },
+          {
+            "definition": "最后的；末尾的",
+            "iscorrect": false
+          },
+          {
+            "definition": "较少的；更少的",
+            "iscorrect": false
+          },
+          {
+            "definition": "最多的；最大的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "denim",
+      "error_analysis": "学生易因形近词“deny”（否认）的联想或“den-”词根（如“洞穴”）的错误猜测，将“denim”误判为与“否认”或“洞穴”相关的事物。",
+      "sentence": "She bought a new jacket made of **denim** for the upcoming camping trip.",
+      "options": {
+        "option": [
+          {
+            "definition": "牛仔布；牛仔裤",
+            "iscorrect": true
+          },
+          {
+            "definition": "否认的行为",
+            "iscorrect": false
+          },
+          {
+            "definition": "洞穴里的物品",
+            "iscorrect": false
+          },
+          {
+            "definition": "昏暗的布料",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

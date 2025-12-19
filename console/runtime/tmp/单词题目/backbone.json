@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "backbone",
+      "error_analysis": "学生易将backbone字面拆分为\"背+骨头\"误判为\"脊椎骨\"，或混淆形近词background（背景），忽略其比喻义\"支柱/核心\"。",
+      "sentence": "The backbone of the team's success is its strong defense.",
+      "options": {
+        "option": [
+          {
+            "definition": "脊椎骨",
+            "iscorrect": false
+          },
+          {
+            "definition": "背景",
+            "iscorrect": false
+          },
+          {
+            "definition": "支柱，核心",
+            "iscorrect": true
+          },
+          {
+            "definition": "背包",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

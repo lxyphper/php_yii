@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "linguistics",
+      "error_analysis": "学生易因形近混淆\"linguistics\"与\"literature\"（文学），或因词根\"lingu-\"（语言）误将其理解为\"语言学家\"（linguist）。",
+      "sentence": "She is studying **linguistics** to learn about how languages work.",
+      "options": {
+        "option": [
+          {
+            "definition": "文学",
+            "iscorrect": false
+          },
+          {
+            "definition": "语言学家",
+            "iscorrect": false
+          },
+          {
+            "definition": "语言学",
+            "iscorrect": true
+          },
+          {
+            "definition": "行话",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Valentine's Day",
+      "error_analysis": "学生可能因“Valentine”与形近词“valley”（山谷）或拆分词根“valent”（误以为“有价值的”）而误判词义",
+      "sentence": "Many couples exchange chocolates and flowers on **Valentine's Day** to show their love for each other.",
+      "options": {
+        "option": [
+          {
+            "definition": "情人节（2月14日，情侣表达爱意的节日）",
+            "iscorrect": true
+          },
+          {
+            "definition": "山谷节（庆祝山谷或自然景观的节日）",
+            "iscorrect": false
+          },
+          {
+            "definition": "有价值的日子（强调事物价值或重要性的节日）",
+            "iscorrect": false
+          },
+          {
+            "definition": "勇敢者节（纪念勇敢人物的节日）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

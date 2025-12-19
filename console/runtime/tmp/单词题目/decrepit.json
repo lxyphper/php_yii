@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "decrepit",
+      "error_analysis": "学生易因形近词\"depict\"(描绘)混淆词义，或因词根联想误判为\"腐烂的\"(如与\"decay\"关联)",
+      "sentence": "After years of neglect, the once-grand theater had become **decrepit**, with peeling paint and broken seats.",
+      "options": {
+        "option": [
+          {
+            "definition": "破旧的；衰弱的",
+            "iscorrect": true
+          },
+          {
+            "definition": "描绘的",
+            "iscorrect": false
+          },
+          {
+            "definition": "腐烂的",
+            "iscorrect": false
+          },
+          {
+            "definition": "精力充沛的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

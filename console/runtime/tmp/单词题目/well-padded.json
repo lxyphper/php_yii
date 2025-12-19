@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "well-padded",
+      "error_analysis": "学生易因与\"well-paid\"（高薪的）形近或\"pad\"（垫子）的字面意思，误将\"well-padded\"理解为\"高薪的\"或\"有很多垫子的\"",
+      "sentence": "The old armchair was so **well-padded** that it felt like sitting on a cloud.",
+      "options": {
+        "option": [
+          {
+            "definition": "（家具、衣物等）填充厚实的；松软的",
+            "iscorrect": true
+          },
+          {
+            "definition": "高薪的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有很多垫子的",
+            "iscorrect": false
+          },
+          {
+            "definition": "（人）发福的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

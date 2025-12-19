@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tall",
+      "error_analysis": "学生易因形近词混淆，将“tall”误判为“talk”（谈话）或“tail”（尾巴）",
+      "sentence": "The boy is so **tall** that he can reach the top shelf without a ladder.",
+      "options": {
+        "option": [
+          {
+            "definition": "高的",
+            "iscorrect": true
+          },
+          {
+            "definition": "谈话",
+            "iscorrect": false
+          },
+          {
+            "definition": "尾巴",
+            "iscorrect": false
+          },
+          {
+            "definition": "小的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

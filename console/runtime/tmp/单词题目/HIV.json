@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "HIV",
+      "error_analysis": "学生易因形近词“hive”（蜂巢）的联想或对其缩写含义的错误猜测而误判HIV的真正含义",
+      "sentence": "Medical research has made significant progress in treating **HIV**, the virus that weakens the immune system and can lead to AIDS.",
+      "options": {
+        "option": [
+          {
+            "definition": "人类免疫缺陷病毒（导致艾滋病的病毒）",
+            "iscorrect": true
+          },
+          {
+            "definition": "蜂巢（蜜蜂居住的结构）",
+            "iscorrect": false
+          },
+          {
+            "definition": "高强度冲击（high impact的缩写）",
+            "iscorrect": false
+          },
+          {
+            "definition": "人类传染性病毒（human infectious virus的缩写）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

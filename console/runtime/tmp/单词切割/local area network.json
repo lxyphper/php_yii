@@ -1,0 +1,28 @@
+[
+  {
+    "common_misspellings": [
+      "loacl area network",
+      "local aera network",
+      "local area netwrok",
+      "lacal area network",
+      "local aree network",
+      "local area netwerk"
+    ],
+    "correct_chunks": [
+      "lo",
+      "cal",
+      "area",
+      "net",
+      "work"
+    ],
+    "distractor_chunks": [
+      "acl",
+      "lac",
+      "aer",
+      "ee",
+      "netw",
+      "werk"
+    ]
+  },
+  0
+]

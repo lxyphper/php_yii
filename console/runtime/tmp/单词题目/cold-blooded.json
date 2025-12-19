@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cold-blooded",
+      "error_analysis": "中国学生易将\"cold-blooded\"字面理解为\"体温随环境变化的（动物）\"，忽略其常用引申义\"冷酷无情的\"。",
+      "sentence": "The **cold-blooded** murderer showed no remorse for killing three innocent people.",
+      "options": {
+        "option": [
+          {
+            "definition": "体温随环境变化的（如爬行动物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "冷静的；镇定的",
+            "iscorrect": false
+          },
+          {
+            "definition": "冷酷无情的；残忍的",
+            "iscorrect": true
+          },
+          {
+            "definition": "冷漠的；不热情的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

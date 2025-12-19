@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "certainly",
+      "error_analysis": "学生易因形近词“certain”（确定的，形容词）或词根“cert-”混淆，将“certainly”误理解为形容词或“证明”等含义。",
+      "sentence": "—Will you come to the party tonight? —**Certainly**! I’ve been looking forward to it.",
+      "options": {
+        "option": [
+          {
+            "definition": "当然；肯定地（副词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "确定的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "证明（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "当然的（形容词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

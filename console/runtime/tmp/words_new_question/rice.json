@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rice",
+      "error_analysis": "学生易混淆形近词\"rise\"（上升）和\"race\"（种族/比赛），导致错误理解\"rice\"的含义。",
+      "sentence": "My grandma always steams **rice** with fresh bamboo shoots for lunch.",
+      "options": {
+        "option": [
+          {
+            "definition": "大米（一种主要的粮食作物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "上升；增加",
+            "iscorrect": false
+          },
+          {
+            "definition": "种族；比赛",
+            "iscorrect": false
+          },
+          {
+            "definition": "冰；冰块",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

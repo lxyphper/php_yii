@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unless",
+      "error_analysis": "易与形近词\"until\"(直到)混淆，或因字面拆解\"un-+less\"误解为\"不缺少\"。",
+      "sentence": "You won’t pass the exam **unless** you study hard.",
+      "options": {
+        "option": [
+          {
+            "definition": "除非；如果不",
+            "iscorrect": true
+          },
+          {
+            "definition": "直到",
+            "iscorrect": false
+          },
+          {
+            "definition": "不缺少",
+            "iscorrect": false
+          },
+          {
+            "definition": "除了",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

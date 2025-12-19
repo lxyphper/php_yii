@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gauge",
+      "error_analysis": "学生易因形近词\"gaze\"（凝视）或\"grade\"（等级）的干扰，误将\"gauge\"的核心义判为\"凝视\"或\"等级\"。",
+      "sentence": "We used a thermometer to **gauge** the water temperature before putting the fish into the tank.",
+      "options": {
+        "option": [
+          {
+            "definition": "测量；评估",
+            "iscorrect": true
+          },
+          {
+            "definition": "凝视",
+            "iscorrect": false
+          },
+          {
+            "definition": "等级",
+            "iscorrect": false
+          },
+          {
+            "definition": "保证",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

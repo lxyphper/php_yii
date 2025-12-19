@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "roll",
+      "error_analysis": "中国学生易因形近词“role”（角色）混淆，或误将“roll”字面理解为“卷起”等动作。",
+      "sentence": "The little boy asked his dad to **roll** the car down the hill so he could chase it.",
+      "options": {
+        "option": [
+          {
+            "definition": "滚动；使滚动",
+            "iscorrect": true
+          },
+          {
+            "definition": "角色",
+            "iscorrect": false
+          },
+          {
+            "definition": "卷起（如袖子）",
+            "iscorrect": false
+          },
+          {
+            "definition": "折叠",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

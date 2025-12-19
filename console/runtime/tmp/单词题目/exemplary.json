@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "exemplary",
+      "error_analysis": "学生易因形近词\"example\"（例子）联想为\"例子的；举例的\"，或因词根\"ex-\"（出）+ \"emplum\"（例子）误导为\"与例子相关的\"而非\"模范的\"。",
+      "sentence": "The school awarded Lisa a medal for her **exemplary** behavior, which all her classmates looked up to as a perfect model.",
+      "options": {
+        "option": [
+          {
+            "definition": "例子的；用于举例的",
+            "iscorrect": false
+          },
+          {
+            "definition": "模范的；典范的",
+            "iscorrect": true
+          },
+          {
+            "definition": "豁免的；免除的",
+            "iscorrect": false
+          },
+          {
+            "definition": "极端的；过度的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "baggage",
+      "error_analysis": "中国学生易因形近词“bag”（包）将“baggage”误理解为“单个小袋子”，或通过词根猜测为“包的材料/数量”。",
+      "sentence": "Before checking in, please make sure all your **baggage** is tagged with your name and address.",
+      "options": {
+        "option": [
+          {
+            "definition": "一个小袋子",
+            "iscorrect": false
+          },
+          {
+            "definition": "包的制作材料",
+            "iscorrect": false
+          },
+          {
+            "definition": "行李（旅行时携带的物品总称）",
+            "iscorrect": true
+          },
+          {
+            "definition": "多个袋子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

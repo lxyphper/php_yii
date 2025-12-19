@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unlikely",
+      "error_analysis": "易因形近词\"unlike\"误判为\"不像\"，或因词根过度否定误判为\"不可能的\"",
+      "sentence": "Given the heavy rain, it's **unlikely** that the football match will be held as planned.",
+      "options": {
+        "option": [
+          {
+            "definition": "不太可能的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不像",
+            "iscorrect": false
+          },
+          {
+            "definition": "不可能的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不喜欢的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

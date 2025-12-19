@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "guessing game",
+      "error_analysis": "学生易因“game”误作“比赛”或形近词“greeting”干扰，将“guessing game”错解为“猜测比赛”或“问候游戏”",
+      "sentence": "At the party, we played a **guessing game** where everyone had to guess the name of the celebrity written on their back.",
+      "options": {
+        "option": [
+          {
+            "definition": "猜谜游戏",
+            "iscorrect": true
+          },
+          {
+            "definition": "猜测比赛",
+            "iscorrect": false
+          },
+          {
+            "definition": "推理游戏",
+            "iscorrect": false
+          },
+          {
+            "definition": "问候游戏",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "equal",
+      "error_analysis": "中国学生易因形近混淆\"equal\"与\"eager\"(渴望的)，或因词根\"equ-\"过度推导为\"公平的\"(fair)。",
+      "sentence": "The amount of water in both cups is **equal**, so you don’t have to worry about who gets more.",
+      "options": {
+        "option": [
+          {
+            "definition": "相等的",
+            "iscorrect": true
+          },
+          {
+            "definition": "渴望的",
+            "iscorrect": false
+          },
+          {
+            "definition": "公平的",
+            "iscorrect": false
+          },
+          {
+            "definition": "使等同",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

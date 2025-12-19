@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "docudrama",
+      "error_analysis": "混淆\"docudrama\"与\"documentary\"(纪录片)或\"drama\"(戏剧)，误以为是纯记录或纯虚构作品",
+      "sentence": "The new **docudrama** about the 2008 Beijing Olympics blends real competition footage with scripted personal stories to highlight the athletes' journeys.",
+      "options": {
+        "option": [
+          {
+            "definition": "纪录片（完全基于真实事件的非虚构影视作品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "戏剧（完全虚构的舞台或影视表演作品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "新闻专题片（深入报道某一主题的新闻节目）",
+            "iscorrect": false
+          },
+          {
+            "definition": "纪实剧（结合纪录片真实元素与戏剧叙事的作品）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

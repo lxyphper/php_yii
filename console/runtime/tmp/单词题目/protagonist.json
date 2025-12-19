@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "protagonist",
+      "error_analysis": "最易因形近词（如protector）或词根（proto-+agon）误导，将protagonist误判为“保护者”或“先驱者”。",
+      "sentence": "In the novel *To Kill a Mockingbird*, Atticus Finch is the **protagonist** who stands up for justice despite societal pressure.",
+      "options": {
+        "option": [
+          {
+            "definition": "（小说、电影等的）主角，主人公",
+            "iscorrect": true
+          },
+          {
+            "definition": "保护者",
+            "iscorrect": false
+          },
+          {
+            "definition": "先驱者；开创者",
+            "iscorrect": false
+          },
+          {
+            "definition": "反派角色",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

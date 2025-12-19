@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "regulation",
+      "error_analysis": "学生易因形近词\"regular\"(常规的)将\"regulation\"误理解为\"规律性\"，而非其核心义\"规定/法规\"",
+      "sentence": "The new **regulation** requires all restaurants to install smoke detectors by next month.",
+      "options": {
+        "option": [
+          {
+            "definition": "规定；法规",
+            "iscorrect": true
+          },
+          {
+            "definition": "规律性；常规性",
+            "iscorrect": false
+          },
+          {
+            "definition": "调整；校准",
+            "iscorrect": false
+          },
+          {
+            "definition": "注册；登记",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

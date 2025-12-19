@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to outshine",
+      "error_analysis": "学生易将\"out-\"误解为\"去除\"而误判为\"使停止发光\"，或混淆\"outshine\"与\"stand out\"的含义（仅突出而非更出色）",
+      "sentence": "In the talent show, Sarah's singing **outshone** all the other performers, making her the clear winner.",
+      "options": {
+        "option": [
+          {
+            "definition": "to be much better or more impressive than others",
+            "iscorrect": true
+          },
+          {
+            "definition": "to cause something to stop shining",
+            "iscorrect": false
+          },
+          {
+            "definition": "to stand out by being the tallest",
+            "iscorrect": false
+          },
+          {
+            "definition": "to shine brightly in the open air",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

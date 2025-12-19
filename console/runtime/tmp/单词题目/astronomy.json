@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "astronomy",
+      "error_analysis": "易因形近词\"astronaut\"(宇航员)混淆，或词根\"astro-\"(星)误导为与宇航员、太空旅行相关的内容",
+      "sentence": "My little brother is so fascinated by **astronomy** that he spends every night looking at the stars with his telescope and reading books about planets.",
+      "options": {
+        "option": [
+          {
+            "definition": "天文学（研究星星、行星等天体的学科）",
+            "iscorrect": true
+          },
+          {
+            "definition": "宇航员的职业或训练内容",
+            "iscorrect": false
+          },
+          {
+            "definition": "通过星星预测未来的迷信活动（占星术）",
+            "iscorrect": false
+          },
+          {
+            "definition": "太空飞船的设计与制造原理",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

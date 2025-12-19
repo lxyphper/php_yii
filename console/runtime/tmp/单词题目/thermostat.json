@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "thermostat",
+      "error_analysis": "易混淆形近词“thermos”（保温瓶）误判为“保温容器”，或词根“thermo-”（热）+“-stat”（保持）过度推导为“加热设备”。",
+      "sentence": "I need to adjust the **thermostat** in the living room because it's too hot—let's set it to 22 degrees Celsius.",
+      "options": {
+        "option": [
+          {
+            "definition": "恒温器（控制温度的装置）",
+            "iscorrect": true
+          },
+          {
+            "definition": "保温瓶（用来保持液体温度的容器）",
+            "iscorrect": false
+          },
+          {
+            "definition": "加热设备（用来产生热量的装置）",
+            "iscorrect": false
+          },
+          {
+            "definition": "温度传感器（检测环境温度的设备）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

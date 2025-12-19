@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "adverb",
+      "error_analysis": "学生易因形近词“verb”（动词）及词根“verb”的误导，将“adverb”错误理解为“动词”或“与动词相关的前缀”。",
+      "sentence": "In the sentence \"She runs quickly,\" \"quickly\" is an **adverb** that modifies the verb \"runs.\"",
+      "options": {
+        "option": [
+          {
+            "definition": "副词（语法中用来修饰动词、形容词或其他副词的词性）",
+            "iscorrect": true
+          },
+          {
+            "definition": "动词（表示动作或状态的词类）",
+            "iscorrect": false
+          },
+          {
+            "definition": "附加在动词前的前缀（如“un-”或“re-”）",
+            "iscorrect": false
+          },
+          {
+            "definition": "形容词（修饰名词的词类）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

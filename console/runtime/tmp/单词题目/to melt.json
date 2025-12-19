@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to melt",
+      "error_analysis": "中国学生易因形近词“mend”（修理）或字面误导将“melt”误解为“溶解”（dissolve）。",
+      "sentence": "The ice cream started to **melt** quickly in the hot sun.",
+      "options": {
+        "option": [
+          {
+            "definition": "融化（固体变为液体）",
+            "iscorrect": true
+          },
+          {
+            "definition": "修理（使损坏的东西恢复原状）",
+            "iscorrect": false
+          },
+          {
+            "definition": "溶解（在液体中分散并消失）",
+            "iscorrect": false
+          },
+          {
+            "definition": "混合（将不同物质合并成一体）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mystery",
+      "error_analysis": "学生易因形近词“history”（历史）或字面拆分“my+story”（我的故事）误将“mystery”理解为“历史”或“故事”。",
+      "sentence": "The disappearance of the ancient treasure remains a **mystery**—experts have no idea where it went.",
+      "options": {
+        "option": [
+          {
+            "definition": "历史",
+            "iscorrect": false
+          },
+          {
+            "definition": "故事",
+            "iscorrect": false
+          },
+          {
+            "definition": "神秘事物；谜",
+            "iscorrect": true
+          },
+          {
+            "definition": "个人经历",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

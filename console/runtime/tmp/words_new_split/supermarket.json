@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "supermerket",
+      "supemarket",
+      "supermarkt",
+      "supermarkit",
+      "supormarket"
+    ],
+    "correct_chunks": [
+      "super",
+      "market"
+    ],
+    "distractor_chunks": [
+      "mer",
+      "sup",
+      "markt",
+      "kit",
+      "por"
+    ]
+  },
+  0
+]

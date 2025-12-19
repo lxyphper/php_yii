@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rubenesque",
+      "error_analysis": "学生易因不熟悉画家鲁本斯(Rubens)的风格，将\"rubenesque\"错误联想为\"皇室的\"(queen形近)或\"橡胶般的\"(rubber形近)，或误判为\"瘦长的\"(与丰满相反)",
+      "sentence": "The woman in Rubens' painting is depicted with a **rubenesque** figure—soft, curvy, and full of healthy vitality, which was typical of his art.",
+      "options": {
+        "option": [
+          {
+            "definition": "（女性）丰满曲线美的",
+            "iscorrect": true
+          },
+          {
+            "definition": "皇室的，女王般的",
+            "iscorrect": false
+          },
+          {
+            "definition": "橡胶般的，有弹性的",
+            "iscorrect": false
+          },
+          {
+            "definition": "瘦长的，纤细的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

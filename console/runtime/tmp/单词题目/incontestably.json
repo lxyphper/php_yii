@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "incontestably",
+      "error_analysis": "学生易因词根“contest”（争论）将“incontestably”误理解为“不争论地”，或因形近混淆“inconceivably”（难以想象地）而误解词义。",
+      "sentence": "Her contribution to the project was **incontestably** the most significant.",
+      "options": {
+        "option": [
+          {
+            "definition": "无可争辩地；毫无疑问地",
+            "iscorrect": true
+          },
+          {
+            "definition": "难以想象地",
+            "iscorrect": false
+          },
+          {
+            "definition": "顺从地；不反抗地",
+            "iscorrect": false
+          },
+          {
+            "definition": "无结论地；未决地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "common_misspellings": [
+      "rendom-access memory",
+      "random-acces memory",
+      "ramdom-access memory",
+      "random-akcess memory",
+      "random-access memary"
+    ],
+    "correct_chunks": [
+      "ran",
+      "dom-",
+      "ac",
+      "cess",
+      "mem"
+    ],
+    "distractor_chunks": [
+      "ren",
+      "ces",
+      "ram",
+      "ak",
+      "mar"
+    ]
+  },
+  0
+]

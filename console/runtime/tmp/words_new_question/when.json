@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "when",
+      "error_analysis": "中国学生易因“when”与形近词“where”（哪里）形状相似，而误将其理解为“哪里”",
+      "sentence": "—**When** did you go to the park yesterday? —At 2 o'clock in the afternoon.",
+      "options": {
+        "option": [
+          {
+            "definition": "哪里",
+            "iscorrect": false
+          },
+          {
+            "definition": "哪个",
+            "iscorrect": false
+          },
+          {
+            "definition": "为什么",
+            "iscorrect": false
+          },
+          {
+            "definition": "什么时候",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

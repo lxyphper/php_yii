@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "leisurely",
+      "error_analysis": "学生易将“leisurely”（从容的）误判为“懒惰的”（因与“lazily”形近且中文“悠闲”与“懒惰”边界模糊）",
+      "sentence": "We spent a **leisurely** afternoon at the café, chatting and laughing.",
+      "options": {
+        "option": [
+          {
+            "definition": "从容的；不慌不忙的",
+            "iscorrect": true
+          },
+          {
+            "definition": "懒惰的",
+            "iscorrect": false
+          },
+          {
+            "definition": "奢侈的",
+            "iscorrect": false
+          },
+          {
+            "definition": "忙碌的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "radiator",
+      "error_analysis": "学生易因形近词“radio”（收音机）联想到“收音机”，或因词根“radi-”（辐射）猜测为“辐射体”。",
+      "sentence": "In winter, we turn on the **radiator** to keep the room warm.",
+      "options": {
+        "option": [
+          {
+            "definition": "收音机",
+            "iscorrect": false
+          },
+          {
+            "definition": "辐射体；放射器",
+            "iscorrect": false
+          },
+          {
+            "definition": "散热器；暖气片",
+            "iscorrect": true
+          },
+          {
+            "definition": "发电机",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

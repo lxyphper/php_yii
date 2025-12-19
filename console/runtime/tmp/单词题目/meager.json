@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "meager",
+      "error_analysis": "学生易因形近词“meek”（温顺的）或误联“mechanical”（机械的），将“meager”误解为“温顺的”或“机械的”",
+      "sentence": "The refugees survived on a **meager** supply of food and water for weeks.",
+      "options": {
+        "option": [
+          {
+            "definition": "温顺的",
+            "iscorrect": false
+          },
+          {
+            "definition": "机械的",
+            "iscorrect": false
+          },
+          {
+            "definition": "贫乏的；不足的",
+            "iscorrect": true
+          },
+          {
+            "definition": "大量的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

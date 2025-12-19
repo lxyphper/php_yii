@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "strongly",
+      "error_analysis": "学生易因词根“strong”（强壮的）将“strongly”误译为“强壮地”，或混淆形近词“stronger”（更强的）。",
+      "sentence": "I **strongly** believe that education is the key to a better future.",
+      "options": {
+        "option": [
+          {
+            "definition": "强烈地；坚决地",
+            "iscorrect": true
+          },
+          {
+            "definition": "更强的",
+            "iscorrect": false
+          },
+          {
+            "definition": "强壮地",
+            "iscorrect": false
+          },
+          {
+            "definition": "坚固地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

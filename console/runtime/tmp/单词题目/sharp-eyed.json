@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sharp-eyed",
+      "error_analysis": "学生易将\"sharp-eyed\"字面直译为\"眼睛锋利的\"或误解为\"视力好的\"，忽略其\"观察力强\"的核心引申义",
+      "sentence": "The **sharp-eyed** detective noticed a tiny scratch on the window that everyone else had missed.",
+      "options": {
+        "option": [
+          {
+            "definition": "眼睛锋利的（如眼神凶狠）",
+            "iscorrect": false
+          },
+          {
+            "definition": "目光敏锐的；观察力强的",
+            "iscorrect": true
+          },
+          {
+            "definition": "视力好的（如看得清楚远处）",
+            "iscorrect": false
+          },
+          {
+            "definition": "眼神尖锐的（如令人感到不适）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

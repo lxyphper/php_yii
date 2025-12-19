@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "insecurty",
+      "insecuity",
+      "unsecurity",
+      "inseccurity",
+      "insekurity"
+    ],
+    "correct_chunks": [
+      "in",
+      "secur",
+      "ity"
+    ],
+    "distractor_chunks": [
+      "un",
+      "secu",
+      "ty",
+      "seccur",
+      "sekur"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "quality",
+      "error_analysis": "易与形近词quantity（数量）混淆，或因与qualify（合格）联想错误理解为“合格性”",
+      "sentence": "The company prides itself on producing products of high **quality** that last for years.",
+      "options": {
+        "option": [
+          {
+            "definition": "质量；品质",
+            "iscorrect": true
+          },
+          {
+            "definition": "数量；数目",
+            "iscorrect": false
+          },
+          {
+            "definition": "合格性；资格",
+            "iscorrect": false
+          },
+          {
+            "definition": "容量；容积",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

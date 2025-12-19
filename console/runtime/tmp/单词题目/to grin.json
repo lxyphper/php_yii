@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to grin",
+      "error_analysis": "因形近词“grim”（严厉的）误导，易将“grin”误解为“皱眉”或“表现严厉”",
+      "sentence": "When the magician pulled a rabbit out of his hat, the audience **grinned** and cheered loudly.",
+      "options": {
+        "option": [
+          {
+            "definition": "咧嘴笑",
+            "iscorrect": true
+          },
+          {
+            "definition": "皱眉",
+            "iscorrect": false
+          },
+          {
+            "definition": "研磨",
+            "iscorrect": false
+          },
+          {
+            "definition": "微笑",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mentor",
+      "error_analysis": "学生易因形近词\"monitor\"(班长/监控器)或\"mention\"(提及)的干扰，将\"mentor\"误判为\"监控者\"或\"提及者\"",
+      "sentence": "As a young writer, she was lucky to have a famous author as her **mentor** who helped her improve her storytelling skills.",
+      "options": {
+        "option": [
+          {
+            "definition": "导师；指导者",
+            "iscorrect": true
+          },
+          {
+            "definition": "班长；监控器",
+            "iscorrect": false
+          },
+          {
+            "definition": "提及者；说起的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "经理；管理者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

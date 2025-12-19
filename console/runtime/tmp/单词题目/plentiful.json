@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "plentiful",
+      "error_analysis": "中国学生易将plentiful误判为“足够的”（形近词plenty的“足够”义）、“多样的”（“多”的混淆）或“充满的”（词根-ful的字面误导）",
+      "sentence": "The local market offers **plentiful** fresh fruits and vegetables, so families can always find what they need.",
+      "options": {
+        "option": [
+          {
+            "definition": "丰富的；大量的",
+            "iscorrect": true
+          },
+          {
+            "definition": "足够的",
+            "iscorrect": false
+          },
+          {
+            "definition": "多样的",
+            "iscorrect": false
+          },
+          {
+            "definition": "充满的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "doctrine",
+      "error_analysis": "学生易因形近词\"document\"（文件）及词根\"doc\"（文档）的误导，将\"doctrine\"错误理解为\"文件\"或\"文档\"。",
+      "sentence": "Many religions have a **doctrine** that guides their followers' behavior.",
+      "options": {
+        "option": [
+          {
+            "definition": "教义；学说；信条",
+            "iscorrect": true
+          },
+          {
+            "definition": "文件；文档",
+            "iscorrect": false
+          },
+          {
+            "definition": "医生的诊断建议",
+            "iscorrect": false
+          },
+          {
+            "definition": "教导的具体行为",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

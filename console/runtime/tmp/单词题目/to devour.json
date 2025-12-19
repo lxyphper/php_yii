@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to devour",
+      "error_analysis": "中国学生易因形近词“devote”（致力于）混淆，或因词根字面猜测为“放弃/丢弃”",
+      "sentence": "The hungry boy **devoured** the entire pizza in five minutes.",
+      "options": {
+        "option": [
+          {
+            "definition": "致力于；奉献",
+            "iscorrect": false
+          },
+          {
+            "definition": "狼吞虎咽地吃；快速吃掉",
+            "iscorrect": true
+          },
+          {
+            "definition": "发现；发觉",
+            "iscorrect": false
+          },
+          {
+            "definition": "放弃；丢弃",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

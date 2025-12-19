@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "receipt",
+      "error_analysis": "易混淆形近词'recipe'(食谱)或误从'receive'(接收)推测词义，导致将'receipt'误解为‘食谱’或‘接收物’",
+      "sentence": "Please keep the **receipt** in case you need to return the item.",
+      "options": {
+        "option": [
+          {
+            "definition": "食谱",
+            "iscorrect": false
+          },
+          {
+            "definition": "收据",
+            "iscorrect": true
+          },
+          {
+            "definition": "接收物",
+            "iscorrect": false
+          },
+          {
+            "definition": "账单",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

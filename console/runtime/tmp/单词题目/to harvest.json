@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to harvest",
+      "error_analysis": "学生易将“to harvest”与形近词“harness”（利用）混淆，或误记为“种植”（反义动作）",
+      "sentence": "Farmers usually **harvest** wheat in late June in northern China.",
+      "options": {
+        "option": [
+          {
+            "definition": "收割；收获（庄稼、作物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "利用（如太阳能、风能等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "庇护；藏匿（某人/某物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "种植；栽培（植物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

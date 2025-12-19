@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sale",
+      "error_analysis": "中国学生易因形近词“sail”（航行）、“sake”（缘故）或“salt”（盐）混淆“sale”的含义，误将其理解为“航行”“缘故”或“盐”。",
+      "sentence": "Many people rushed to the mall for the big **sale** on summer clothes.",
+      "options": {
+        "option": [
+          {
+            "definition": "销售；大减价",
+            "iscorrect": true
+          },
+          {
+            "definition": "航行（sail的含义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "缘故（sake的含义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "盐（salt的含义）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

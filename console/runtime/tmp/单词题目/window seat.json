@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "window seat",
+      "error_analysis": "学生可能因\"seat\"与\"set\"拼写相近误解为\"窗户套装\"，或因字面直译误解为\"窗户上的固定座位\"",
+      "sentence": "When I travel by plane, I always ask for a **window seat** so I can take photos of the clouds.",
+      "options": {
+        "option": [
+          {
+            "definition": "窗户套装（如窗户框架及玻璃的组合）",
+            "iscorrect": false
+          },
+          {
+            "definition": "窗户上的固定座位（如家庭窗台改造的坐台）",
+            "iscorrect": false
+          },
+          {
+            "definition": "（飞机、火车或汽车上的）靠窗座位",
+            "iscorrect": true
+          },
+          {
+            "definition": "商店橱窗内的展示用座位",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

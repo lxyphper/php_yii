@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "irony",
+      "error_analysis": "将irony误联想为与“铁”相关的含义（如“坚硬”或“铁质”）",
+      "sentence": "It was a cruel **irony** that the man who hated noise most ended up living next to a loud nightclub.",
+      "options": {
+        "option": [
+          {
+            "definition": "反讽；讽刺",
+            "iscorrect": true
+          },
+          {
+            "definition": "坚硬；铁质的特性",
+            "iscorrect": false
+          },
+          {
+            "definition": "铁制品；铁器",
+            "iscorrect": false
+          },
+          {
+            "definition": "力量；强度",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

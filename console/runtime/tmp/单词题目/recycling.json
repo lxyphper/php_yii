@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "recycling",
+      "error_analysis": "学生易因形近词“cycling”（骑自行车）或词根“cycle”（循环）的误导，将“recycling”错解为“骑自行车”或“循环运动”。",
+      "sentence": "Many families now separate their waste for **recycling** to reduce pollution and save resources.",
+      "options": {
+        "option": [
+          {
+            "definition": "回收利用",
+            "iscorrect": true
+          },
+          {
+            "definition": "骑自行车",
+            "iscorrect": false
+          },
+          {
+            "definition": "循环运动",
+            "iscorrect": false
+          },
+          {
+            "definition": "周期变化",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

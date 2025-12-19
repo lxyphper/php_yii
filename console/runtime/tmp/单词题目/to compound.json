@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to compound",
+      "error_analysis": "学生易因名词“化合物”的联想误将动词“to compound”理解为“合成/混合”，或混淆其与“结合”“使复杂”的含义。",
+      "sentence": "Ignoring the warning signs will only **compound** the risk of a major accident.",
+      "options": {
+        "option": [
+          {
+            "definition": "使恶化；加重",
+            "iscorrect": true
+          },
+          {
+            "definition": "合成；混合",
+            "iscorrect": false
+          },
+          {
+            "definition": "结合；联合",
+            "iscorrect": false
+          },
+          {
+            "definition": "使复杂；使麻烦",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

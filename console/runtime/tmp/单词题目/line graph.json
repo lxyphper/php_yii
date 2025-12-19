@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "line graph",
+      "error_analysis": "学生易因字面拆分\"line=直线\"和\"graph=图\"误解为\"直线图\"，或因\"line\"含义宽泛误判为\"线条图\"",
+      "sentence": "The economist used a **line graph** to illustrate the fluctuations in oil prices over the past decade.",
+      "options": {
+        "option": [
+          {
+            "definition": "折线图",
+            "iscorrect": true
+          },
+          {
+            "definition": "直线图",
+            "iscorrect": false
+          },
+          {
+            "definition": "线条图",
+            "iscorrect": false
+          },
+          {
+            "definition": "线描图",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

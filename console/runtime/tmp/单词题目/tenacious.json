@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tenacious",
+      "error_analysis": "中国学生易因形近词\"tense\"(紧张的)或词根\"ten-\"(持有)错误联想为\"丰富的\"而误判其含义。",
+      "sentence": "Despite repeated failures, the scientist remained **tenacious** in her research to find a cure.",
+      "options": {
+        "option": [
+          {
+            "definition": "紧张的",
+            "iscorrect": false
+          },
+          {
+            "definition": "丰富的",
+            "iscorrect": false
+          },
+          {
+            "definition": "坚韧的；顽强的",
+            "iscorrect": true
+          },
+          {
+            "definition": "站得住脚的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

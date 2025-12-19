@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "kindergarten",
+      "error_analysis": "学生易将\"kindergarten\"拆分为熟词\"kind\"（善良/种类）和\"garden\"（花园），误判为\"善良的花园\"或\"种类花园\"",
+      "sentence": "Many kids learn to sing, draw, and make friends in **kindergarten** before they go to primary school.",
+      "options": {
+        "option": [
+          {
+            "definition": "幼儿园",
+            "iscorrect": true
+          },
+          {
+            "definition": "善良的花园",
+            "iscorrect": false
+          },
+          {
+            "definition": "种类花园",
+            "iscorrect": false
+          },
+          {
+            "definition": "爱心菜园",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

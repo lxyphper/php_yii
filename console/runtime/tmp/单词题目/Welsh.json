@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Welsh",
+      "error_analysis": "学生易因形近词\"wash\"（洗）或\"well\"（好的）猜测，将\"Welsh\"误判为\"洗的\"或\"好的\"",
+      "sentence": "The **Welsh** dragon is a national symbol of Wales, appearing on its flag.",
+      "options": {
+        "option": [
+          {
+            "definition": "洗的；清洁的",
+            "iscorrect": false
+          },
+          {
+            "definition": "好的；健康的",
+            "iscorrect": false
+          },
+          {
+            "definition": "威尔士的；威尔士人的",
+            "iscorrect": true
+          },
+          {
+            "definition": "轮子的；旋转的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

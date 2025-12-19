@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stove",
+      "error_analysis": "学生易因形近词“stone”（石头）的干扰，将“stove”错误理解为“石头”。",
+      "sentence": "She cooked the soup on the **stove** and served it with bread.",
+      "options": {
+        "option": [
+          {
+            "definition": "炉子；炉灶",
+            "iscorrect": true
+          },
+          {
+            "definition": "石头",
+            "iscorrect": false
+          },
+          {
+            "definition": "撞破的东西",
+            "iscorrect": false
+          },
+          {
+            "definition": "商店",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

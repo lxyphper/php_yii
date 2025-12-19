@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to giggle",
+      "error_analysis": "因形近词“goggle”（瞪大眼睛）干扰，易误将“giggle”理解为与“眼部动作”相关的含义",
+      "sentence": "When the little girl heard the funny joke, she couldn't help but **giggle** loudly, covering her mouth with her hands.",
+      "options": {
+        "option": [
+          {
+            "definition": "咯咯笑；傻笑",
+            "iscorrect": true
+          },
+          {
+            "definition": "瞪大眼睛看",
+            "iscorrect": false
+          },
+          {
+            "definition": "摇晃；抖动",
+            "iscorrect": false
+          },
+          {
+            "definition": "快乐；愉悦",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

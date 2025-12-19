@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "clown",
+      "error_analysis": "中国学生易将\"clown\"与形近词\"crown\"（皇冠）混淆，或通过\"own\"词根错误猜测为\"私有的人\"。",
+      "sentence": "The **clown** at the birthday party made all the kids laugh with his funny tricks.",
+      "options": {
+        "option": [
+          {
+            "definition": "小丑",
+            "iscorrect": true
+          },
+          {
+            "definition": "皇冠",
+            "iscorrect": false
+          },
+          {
+            "definition": "私有的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "医生",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

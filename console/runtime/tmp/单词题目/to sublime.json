@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to sublime",
+      "error_analysis": "学生易因形近词“subside”（消退）干扰或词根“sub-”（常表“下”）误导，将“to sublime”误解为“下沉/消退”。",
+      "sentence": "Dry ice is known to **sublime** when exposed to room temperature, turning directly into carbon dioxide gas without melting first.",
+      "options": {
+        "option": [
+          {
+            "definition": "（使）升华（物理/化学过程中从固体直接变为气体）",
+            "iscorrect": true
+          },
+          {
+            "definition": "（使）消退/下沉",
+            "iscorrect": false
+          },
+          {
+            "definition": "（使）下降/降低",
+            "iscorrect": false
+          },
+          {
+            "definition": "（使）变得崇高/卓越",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

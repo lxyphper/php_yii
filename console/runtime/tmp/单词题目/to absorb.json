@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to absorb",
+      "error_analysis": "中国学生易将“to absorb”与形近词“adopt”（采用）、“abort”（中止）混淆，或通过词根错误联想为“放弃”。",
+      "sentence": "The dry soil will **absorb** all the rainwater within minutes after the storm.",
+      "options": {
+        "option": [
+          {
+            "definition": "吸收；使渗入",
+            "iscorrect": true
+          },
+          {
+            "definition": "采用；收养",
+            "iscorrect": false
+          },
+          {
+            "definition": "中止；放弃",
+            "iscorrect": false
+          },
+          {
+            "definition": "缺席；不在场",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

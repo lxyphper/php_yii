@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "beauteous",
+      "error_analysis": "易因形近词“bounteous”（慷慨的）或“beastly”（野兽般的）混淆，或误将其当作“beautify”（美化）的形容词形式",
+      "sentence": "The sunset painted the sky in **beauteous** shades of pink and orange, leaving everyone in awe.",
+      "options": {
+        "option": [
+          {
+            "definition": "美丽的",
+            "iscorrect": true
+          },
+          {
+            "definition": "慷慨的",
+            "iscorrect": false
+          },
+          {
+            "definition": "野兽般的",
+            "iscorrect": false
+          },
+          {
+            "definition": "美化的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

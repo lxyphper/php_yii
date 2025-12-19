@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "continually",
+      "error_analysis": "学生易混淆“continually”（频繁重复，有间隔）与形近词“continuously”（连续无间隔）的含义，或误将其理解为“单纯继续地”而忽略“反复”特征。",
+      "sentence": "She **continually** checks her email throughout the day, even during meetings—she can't seem to focus on anything else for long.",
+      "options": {
+        "option": [
+          {
+            "definition": "频繁地；不断地（强调重复发生）",
+            "iscorrect": true
+          },
+          {
+            "definition": "连续不断地（无间隔）",
+            "iscorrect": false
+          },
+          {
+            "definition": "继续地（强调动作持续不中断）",
+            "iscorrect": false
+          },
+          {
+            "definition": "一直地（始终）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

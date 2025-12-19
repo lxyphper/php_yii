@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stress",
+      "error_analysis": "中国学生易因形近词“street”（街道）或“strict”（严格）混淆“stress”，误将其理解为“街道”或“严格”。",
+      "sentence": "The doctor said that her headaches were caused by **stress** from work.",
+      "options": {
+        "option": [
+          {
+            "definition": "街道",
+            "iscorrect": false
+          },
+          {
+            "definition": "严格",
+            "iscorrect": false
+          },
+          {
+            "definition": "压力",
+            "iscorrect": true
+          },
+          {
+            "definition": "压（动作）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "review",
+      "error_analysis": "混淆形近词revise（修改）与review（复习），或因词根re-+view过度直译而误解为“检查”",
+      "sentence": "Before the math exam, our teacher told us to **review** the important concepts we learned last week.",
+      "options": {
+        "option": [
+          {
+            "definition": "修改；修订",
+            "iscorrect": false
+          },
+          {
+            "definition": "复习；评论",
+            "iscorrect": true
+          },
+          {
+            "definition": "检查；核对",
+            "iscorrect": false
+          },
+          {
+            "definition": "回顾；回忆",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

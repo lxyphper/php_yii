@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hot spring",
+      "error_analysis": "将\"spring\"误理解为\"春天\"或\"弹簧\"，导致把\"hot spring\"误解为\"炎热的春天\"或\"热的弹簧\"",
+      "sentence": "After hiking for hours, we were thrilled to find a **hot spring** where we could soak our tired feet and relax.",
+      "options": {
+        "option": [
+          {
+            "definition": "温泉",
+            "iscorrect": true
+          },
+          {
+            "definition": "炎热的春天",
+            "iscorrect": false
+          },
+          {
+            "definition": "热的弹簧",
+            "iscorrect": false
+          },
+          {
+            "definition": "热的跳跃",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

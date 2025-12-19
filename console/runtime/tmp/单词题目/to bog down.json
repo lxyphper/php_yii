@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to bog down",
+      "error_analysis": "学生易将\"to bog down\"直译为\"陷入沼泽\"（忽略比喻义），或因\"bog\"形近\"bag\"而误解为与\"装袋\"相关的动作。",
+      "sentence": "The team's progress **bogged down** after they lost their key engineer.",
+      "options": {
+        "option": [
+          {
+            "definition": "陷入沼泽",
+            "iscorrect": false
+          },
+          {
+            "definition": "（使）停滞不前；陷入困境",
+            "iscorrect": true
+          },
+          {
+            "definition": "用袋子装起来",
+            "iscorrect": false
+          },
+          {
+            "definition": "鞠躬屈服",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

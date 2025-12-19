@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "landmark",
+      "error_analysis": "学生易因形近词“landscape”（风景）混淆，或因“land+mark”字面直译误理解为“土地标记”。",
+      "sentence": "The Great Wall is a well-known **landmark** of China, symbolizing the country's rich history.",
+      "options": {
+        "option": [
+          {
+            "definition": "风景",
+            "iscorrect": false
+          },
+          {
+            "definition": "土地标记",
+            "iscorrect": false
+          },
+          {
+            "definition": "地标；里程碑（重要事件）",
+            "iscorrect": true
+          },
+          {
+            "definition": "陆地边界",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

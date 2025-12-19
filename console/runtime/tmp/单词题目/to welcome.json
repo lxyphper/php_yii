@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to welcome",
+      "error_analysis": "学生易因\"well+come\"的字面结构过度直译误解为\"让...好好来\"，或因形近词\"well\"（健康的）产生错误联想。",
+      "sentence": "The family **welcomed** the new neighbor with a basket of fresh fruits.",
+      "options": {
+        "option": [
+          {
+            "definition": "欢迎；热情接待",
+            "iscorrect": true
+          },
+          {
+            "definition": "让...好好来；允许...进入",
+            "iscorrect": false
+          },
+          {
+            "definition": "使...变得健康",
+            "iscorrect": false
+          },
+          {
+            "definition": "等待...到来",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

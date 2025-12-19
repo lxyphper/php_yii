@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to condense",
+      "error_analysis": "中国学生易因形近词\"condemn\"(谴责)产生误解，或因词根\"dense\"(密的)过度推导为\"使变密\"而非\"浓缩/缩短\"。",
+      "sentence": "The chef needs to **condense** the sauce by simmering it for an hour to thicken it.",
+      "options": {
+        "option": [
+          {
+            "definition": "谴责",
+            "iscorrect": false
+          },
+          {
+            "definition": "使变密",
+            "iscorrect": false
+          },
+          {
+            "definition": "浓缩（液体）；缩短（文字、信息）",
+            "iscorrect": true
+          },
+          {
+            "definition": "扩展",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

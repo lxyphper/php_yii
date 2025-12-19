@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "passport",
+      "error_analysis": "易与形近词password（密码）混淆，或误通过词根port（港口）联想为“港口通行证”",
+      "sentence": "You need to show your **passport** when you go through customs at the airport.",
+      "options": {
+        "option": [
+          {
+            "definition": "密码",
+            "iscorrect": false
+          },
+          {
+            "definition": "护照",
+            "iscorrect": true
+          },
+          {
+            "definition": "港口通行证",
+            "iscorrect": false
+          },
+          {
+            "definition": "登机牌",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

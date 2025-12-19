@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hot",
+      "error_analysis": "学生常将“hot”局限于“热的”基本义，忽略其“热门的、流行的”引申义，在非温度语境中易犯字面理解错误。",
+      "sentence": "The new K-pop song is so **hot** that it’s been at the top of the charts for three weeks.",
+      "options": {
+        "option": [
+          {
+            "definition": "热的",
+            "iscorrect": false
+          },
+          {
+            "definition": "热门的，流行的",
+            "iscorrect": true
+          },
+          {
+            "definition": "打的（击打）",
+            "iscorrect": false
+          },
+          {
+            "definition": "辣的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

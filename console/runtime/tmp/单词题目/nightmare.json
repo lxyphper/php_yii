@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nightmare",
+      "error_analysis": "学生易将“nightmare”拆分为“night（夜晚）+mare（母马）”，误解为与“夜晚的母马”相关的词，而非正确的“噩梦”。",
+      "sentence": "After watching that horror movie, she had a terrible **nightmare** about being chased by a monster.",
+      "options": {
+        "option": [
+          {
+            "definition": "噩梦",
+            "iscorrect": true
+          },
+          {
+            "definition": "夜晚的母马",
+            "iscorrect": false
+          },
+          {
+            "definition": "甜美的夜梦",
+            "iscorrect": false
+          },
+          {
+            "definition": "深夜的散步",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

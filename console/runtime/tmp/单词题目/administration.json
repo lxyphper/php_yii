@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "administration",
+      "error_analysis": "中国学生易混淆形近词“admission”（录取），或因词根“ministrare”（服务）过度直译，将“administration”误判为“录取”或“服务部门”。",
+      "sentence": "The school **administration** will announce the new rules for the upcoming semester next week.",
+      "options": {
+        "option": [
+          {
+            "definition": "行政部门；管理",
+            "iscorrect": true
+          },
+          {
+            "definition": "录取；进入许可",
+            "iscorrect": false
+          },
+          {
+            "definition": "服务部门；服侍",
+            "iscorrect": false
+          },
+          {
+            "definition": "公告；声明",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

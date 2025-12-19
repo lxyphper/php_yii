@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "save",
+      "error_analysis": "学生易因形近词“safe”（安全的）的干扰，或词根字面误导（如根据词源“salvare”（拯救）），将“save”误理解为“安全的”或“拯救”。",
+      "sentence": "Using energy-efficient bulbs can **save** you a lot of money on electricity bills.",
+      "options": {
+        "option": [
+          {
+            "definition": "节省",
+            "iscorrect": true
+          },
+          {
+            "definition": "安全的",
+            "iscorrect": false
+          },
+          {
+            "definition": "拯救",
+            "iscorrect": false
+          },
+          {
+            "definition": "服务",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

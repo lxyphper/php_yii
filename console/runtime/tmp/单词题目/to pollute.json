@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to pollute",
+      "error_analysis": "学生易因形近词“poll”（投票/调查）而将“to pollute”误解为与“投票”相关的动作",
+      "sentence": "Factories that dump waste into rivers often **pollute** the water, making it unsafe for fish to live in.",
+      "options": {
+        "option": [
+          {
+            "definition": "污染；弄脏",
+            "iscorrect": true
+          },
+          {
+            "definition": "投票；进行民意调查",
+            "iscorrect": false
+          },
+          {
+            "definition": "拉；拖",
+            "iscorrect": false
+          },
+          {
+            "definition": "抛光；润色",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Fahrenheit",
+      "error_analysis": "学生易因形近词\"height\"（高度）混淆，或误将其视为普通\"温度\"而非具体华氏度单位",
+      "sentence": "The weather forecast said it would reach 95 **Fahrenheit** today, so we decided to go to the beach.",
+      "options": {
+        "option": [
+          {
+            "definition": "华氏度（温度单位）",
+            "iscorrect": true
+          },
+          {
+            "definition": "高度；身高",
+            "iscorrect": false
+          },
+          {
+            "definition": "热度；高温",
+            "iscorrect": false
+          },
+          {
+            "definition": "频率；次数",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

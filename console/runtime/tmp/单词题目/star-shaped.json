@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "star-shaped",
+      "error_analysis": "学生易因\"star\"的\"明星\"义项或形近\"start\"而误将\"star-shaped\"理解为\"明星形状的\"或\"开始形状的\"",
+      "sentence": "The cookies were cut into **star-shaped** pieces, making them look like little stars twinkling in the sky.",
+      "options": {
+        "option": [
+          {
+            "definition": "星形的",
+            "iscorrect": true
+          },
+          {
+            "definition": "明星形状的",
+            "iscorrect": false
+          },
+          {
+            "definition": "开始形状的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有星星的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

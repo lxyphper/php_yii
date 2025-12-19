@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "babyish",
+      "error_analysis": "学生可能因“baby”（婴儿/小）和“-ish”（…的）过度直译，将“babyish”错误理解为“小巧可爱的”或“婴儿的”。",
+      "sentence": "Her habit of sucking her thumb when nervous seems a bit **babyish** for a 16-year-old.",
+      "options": {
+        "option": [
+          {
+            "definition": "孩子气的；幼稚的",
+            "iscorrect": true
+          },
+          {
+            "definition": "小巧可爱的",
+            "iscorrect": false
+          },
+          {
+            "definition": "婴儿的",
+            "iscorrect": false
+          },
+          {
+            "definition": "害羞的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

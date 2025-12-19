@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "universal",
+      "error_analysis": "易混淆形近词\"university\"（大学）而误判为\"大学的\"，或因词根\"uni-\"（一）过度直译为\"单一的\"。",
+      "sentence": "The new app features a **universal** interface that works seamlessly on both iOS and Android devices.",
+      "options": {
+        "option": [
+          {
+            "definition": "普遍的；通用的",
+            "iscorrect": true
+          },
+          {
+            "definition": "大学的；高等教育的",
+            "iscorrect": false
+          },
+          {
+            "definition": "单一的；统一的",
+            "iscorrect": false
+          },
+          {
+            "definition": "宇宙的；太空的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

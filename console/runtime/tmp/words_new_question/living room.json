@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "living room",
+      "error_analysis": "学生易因字面拆分“living（生活）+ room（房间）”误理解为“生活的房间”，或因“living”与“liver（肝脏）”形近误判为“肝脏房间”",
+      "sentence": "After dinner, my family likes to gather in the **living room** to watch movies and chat with each other.",
+      "options": {
+        "option": [
+          {
+            "definition": "客厅",
+            "iscorrect": true
+          },
+          {
+            "definition": "生活的房间",
+            "iscorrect": false
+          },
+          {
+            "definition": "肝脏房间",
+            "iscorrect": false
+          },
+          {
+            "definition": "卧室",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "blood sugar",
+      "error_analysis": "学生易因“blood + 名词”的结构联想，将“blood sugar”与“blood pressure”（血压）混淆，或因字面直译忽略其医学术语“血糖”的精准含义。",
+      "sentence": "If you have diabetes, you need to check your **blood sugar** levels regularly to avoid complications.",
+      "options": {
+        "option": [
+          {
+            "definition": "血糖",
+            "iscorrect": true
+          },
+          {
+            "definition": "血压",
+            "iscorrect": false
+          },
+          {
+            "definition": "血中的糖",
+            "iscorrect": false
+          },
+          {
+            "definition": "血汗",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

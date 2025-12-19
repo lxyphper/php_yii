@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to provide",
+      "error_analysis": "易混淆形近词\"prove\"(证明)，或因词根\"pro-\"(向前)+\"vide\"(看)错误推导为\"展示\"",
+      "sentence": "The school will **provide** free textbooks for all new students.",
+      "options": {
+        "option": [
+          {
+            "definition": "提供；供给",
+            "iscorrect": true
+          },
+          {
+            "definition": "证明；证实",
+            "iscorrect": false
+          },
+          {
+            "definition": "展示；呈现",
+            "iscorrect": false
+          },
+          {
+            "definition": "保护；防护",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

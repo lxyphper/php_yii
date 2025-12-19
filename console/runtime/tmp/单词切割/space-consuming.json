@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "space-consumeing",
+      "spaceconsuming",
+      "spac-consuming",
+      "space-consumming",
+      "spase-consuming"
+    ],
+    "correct_chunks": [
+      "space-",
+      "consum",
+      "ing"
+    ],
+    "distractor_chunks": [
+      "consume",
+      "spac",
+      "consumm",
+      "spase"
+    ]
+  },
+  0
+]

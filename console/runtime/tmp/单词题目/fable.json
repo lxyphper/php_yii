@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fable",
+      "error_analysis": "学生易因形近词“able”（能够）混淆“fable”的词性与词义，或因“f-”开头猜测为“谎言”（如“fake”）。",
+      "sentence": "The teacher told us a **fable** about a fox and a grape to teach us a lesson.",
+      "options": {
+        "option": [
+          {
+            "definition": "能够的；有能力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "寓言；神话故事",
+            "iscorrect": true
+          },
+          {
+            "definition": "极好的事物；精彩的东西",
+            "iscorrect": false
+          },
+          {
+            "definition": "谎言；虚假的陈述",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

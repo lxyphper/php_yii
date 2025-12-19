@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "on the other hand",
+      "error_analysis": "学生易将固定短语\"on the other hand\"字面拆解为\"在另一只手上\"，忽略其\"另一方面\"的引申义",
+      "sentence": "I enjoy traveling to new places; **on the other hand**, I hate packing my suitcase.",
+      "options": {
+        "option": [
+          {
+            "definition": "在另一只手上",
+            "iscorrect": false
+          },
+          {
+            "definition": "另一方面",
+            "iscorrect": true
+          },
+          {
+            "definition": "在其他手上",
+            "iscorrect": false
+          },
+          {
+            "definition": "从另一只手来看",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to plunge",
+      "error_analysis": "学生易因形近词\"plenty\"（大量）误判为\"大量存在\"，或因词根联想错误认为是\"种植\"",
+      "sentence": "The stock market **plunged** by 10% after the bad news was announced.",
+      "options": {
+        "option": [
+          {
+            "definition": "大量存在；有很多",
+            "iscorrect": false
+          },
+          {
+            "definition": "突然下降；暴跌",
+            "iscorrect": true
+          },
+          {
+            "definition": "种植；栽培",
+            "iscorrect": false
+          },
+          {
+            "definition": "承诺；保证",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

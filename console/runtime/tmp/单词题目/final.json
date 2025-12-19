@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "final",
+      "error_analysis": "学生易因形近词“fine”（好的）误判“final”为“好的”，或因与“finish”（完成）联想误判为“完成的”。",
+      "sentence": "Our team will play in the **final** of the basketball tournament tomorrow.",
+      "options": {
+        "option": [
+          {
+            "definition": "好的；令人满意的",
+            "iscorrect": false
+          },
+          {
+            "definition": "完成的；结束的",
+            "iscorrect": false
+          },
+          {
+            "definition": "决赛；期末考试（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "最终地；终于（副词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

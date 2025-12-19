@@ -1,0 +1,21 @@
+[
+  {
+    "common_misspellings": [
+      "todo",
+      "too do",
+      "tu do",
+      "to du"
+    ],
+    "correct_chunks": [
+      "to ",
+      "do"
+    ],
+    "distractor_chunks": [
+      "todo",
+      "too ",
+      "tu ",
+      "du"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "magnetosphere",
+      "error_analysis": "学生易因词根\"magnet\"(磁铁)+\"sphere\"(球体)直译误为\"磁铁球\"，或因形近词\"atmosphere\"(大气层)混淆为\"磁大气层\"",
+      "sentence": "The Earth's **magnetosphere** acts as a shield against harmful solar winds, preventing most charged particles from reaching the surface.",
+      "options": {
+        "option": [
+          {
+            "definition": "磁铁球（由磁铁制成的球形物体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "磁大气层（含有磁性物质的大气层）",
+            "iscorrect": false
+          },
+          {
+            "definition": "磁层（地球或行星周围由磁场形成的区域）",
+            "iscorrect": true
+          },
+          {
+            "definition": "磁场探测器（用于测量磁场的仪器）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

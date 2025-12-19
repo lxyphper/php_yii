@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "precisely",
+      "error_analysis": "中国学生易因形近词“precious”（珍贵的）或词根“pre-”（之前）误将“precisely”理解为“珍贵地”或“提前地”",
+      "sentence": "The meeting will start **precisely** at 3 PM, so don’t be late.",
+      "options": {
+        "option": [
+          {
+            "definition": "精确地；恰好",
+            "iscorrect": true
+          },
+          {
+            "definition": "珍贵地",
+            "iscorrect": false
+          },
+          {
+            "definition": "提前地",
+            "iscorrect": false
+          },
+          {
+            "definition": "目前地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

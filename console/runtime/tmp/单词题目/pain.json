@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pain",
+      "error_analysis": "学生易将\"pain\"与形近词\"pan\"(平底锅)或\"pane\"(窗玻璃)混淆，导致错误理解其核心词义\"疼痛\"",
+      "sentence": "She felt a sharp **pain** in her leg after falling off the bike.",
+      "options": {
+        "option": [
+          {
+            "definition": "平底锅",
+            "iscorrect": false
+          },
+          {
+            "definition": "窗玻璃",
+            "iscorrect": false
+          },
+          {
+            "definition": "疼痛",
+            "iscorrect": true
+          },
+          {
+            "definition": "油漆",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

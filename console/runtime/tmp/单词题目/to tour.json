@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to tour",
+      "error_analysis": "学生易因词根“tourn-”（转）误导将“to tour”理解为“转动”，或因形近词“torn”（撕裂）误理解为“撕裂”。",
+      "sentence": "They decided to **tour** the ancient castle during their trip to Scotland.",
+      "options": {
+        "option": [
+          {
+            "definition": "游览；观光",
+            "iscorrect": true
+          },
+          {
+            "definition": "转动；旋转",
+            "iscorrect": false
+          },
+          {
+            "definition": "撕裂；撕开",
+            "iscorrect": false
+          },
+          {
+            "definition": "拖；牵引",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

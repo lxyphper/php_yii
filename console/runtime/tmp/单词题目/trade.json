@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "trade",
+      "error_analysis": "中国学生易因形近词“trace”（痕迹）混淆，或因“tr-”词根联想误判为“运输”等含义",
+      "sentence": "The port serves as a major hub for international **trade** between China and Africa.",
+      "options": {
+        "option": [
+          {
+            "definition": "贸易；交易",
+            "iscorrect": true
+          },
+          {
+            "definition": "痕迹",
+            "iscorrect": false
+          },
+          {
+            "definition": "运输",
+            "iscorrect": false
+          },
+          {
+            "definition": "训练",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

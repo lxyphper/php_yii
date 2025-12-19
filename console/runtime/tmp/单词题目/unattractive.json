@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unattractive",
+      "error_analysis": "易因形近词unattentive（不注意的）或unattended（无人照料的）产生混淆，或词根拆解时误联想起“不注意”类含义",
+      "sentence": "The café’s messy tables, sticky floors, and loud music made it **unattractive** to people looking for a cozy place to chat.",
+      "options": {
+        "option": [
+          {
+            "definition": "没有吸引力的；不吸引人的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不注意的；疏忽的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无人照料的；未被关注的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不活跃的；懒散的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "jacket",
+      "error_analysis": "学生易因形近词“packet”（包裹）混淆，或误将“jacket”与“jack”（人名/千斤顶）关联导致理解错误",
+      "sentence": "My dad gave me a new **jacket** for my birthday, and I wear it every day to school.",
+      "options": {
+        "option": [
+          {
+            "definition": "夹克（短上衣）",
+            "iscorrect": true
+          },
+          {
+            "definition": "包裹（纸/塑料袋）",
+            "iscorrect": false
+          },
+          {
+            "definition": "杰克（男子名）",
+            "iscorrect": false
+          },
+          {
+            "definition": "千斤顶（机械装置）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "woodwind instrument",
+      "error_analysis": "学生易将\"woodwind\"字面拆分为\"wood（木）+ wind（风）\"，错误理解为\"木制风力工具\"，或混淆其与\"木制乐器\"的区别。",
+      "sentence": "The flute and clarinet, both belonging to the **woodwind instrument** family, produce sound by blowing air through a mouthpiece—unlike string instruments like the violin.",
+      "options": {
+        "option": [
+          {
+            "definition": "木管乐器",
+            "iscorrect": true
+          },
+          {
+            "definition": "木制的风力驱动工具",
+            "iscorrect": false
+          },
+          {
+            "definition": "所有木制的乐器",
+            "iscorrect": false
+          },
+          {
+            "definition": "用木头做的弦乐器",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

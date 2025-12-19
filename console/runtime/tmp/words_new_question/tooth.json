@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tooth",
+      "error_analysis": "学生易因形近词\"truth\"（真理）的干扰，将\"tooth\"误理解为\"真理\"",
+      "sentence": "The little boy cried because he lost a **tooth** while eating an apple.",
+      "options": {
+        "option": [
+          {
+            "definition": "牙齿",
+            "iscorrect": true
+          },
+          {
+            "definition": "真理",
+            "iscorrect": false
+          },
+          {
+            "definition": "工具",
+            "iscorrect": false
+          },
+          {
+            "definition": "困难的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

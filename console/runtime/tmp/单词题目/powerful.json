@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "powerful",
+      "error_analysis": "易混淆形近词（如plentiful/充足的）及误将“power”的“权力”义过度延伸（如认为仅指“有权力的”）",
+      "sentence": "The new gaming laptop has a **powerful** graphics card that handles even the most demanding games with ease.",
+      "options": {
+        "option": [
+          {
+            "definition": "强大的；有力量的",
+            "iscorrect": true
+          },
+          {
+            "definition": "充足的；丰富的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有权力的；有权势的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有目的的；果断的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nutty",
+      "error_analysis": "中国学生常因\"nut\"（坚果）的词根联想，将\"nutty\"误判为\"坚果味的\"或\"坚硬的\"，忽略其\"疯狂的；古怪的\"核心义。",
+      "sentence": "My uncle has a **nutty** habit of collecting old shoes—he has over 500 pairs!",
+      "options": {
+        "option": [
+          {
+            "definition": "坚果味的；有坚果的",
+            "iscorrect": false
+          },
+          {
+            "definition": "调皮的；淘气的",
+            "iscorrect": false
+          },
+          {
+            "definition": "疯狂的；古怪的",
+            "iscorrect": true
+          },
+          {
+            "definition": "坚硬的；结实的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

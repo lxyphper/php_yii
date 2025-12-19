@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "exhilarated",
+      "error_analysis": "学生易因形近词\"exhausted\"（疲惫的）混淆，或因不熟悉词根\"hilar\"（高兴）而误判词义",
+      "sentence": "When she saw her favorite band perform live, she felt **exhilarated** and screamed with joy.",
+      "options": {
+        "option": [
+          {
+            "definition": "兴奋的；高兴的",
+            "iscorrect": true
+          },
+          {
+            "definition": "疲惫的",
+            "iscorrect": false
+          },
+          {
+            "definition": "释放的",
+            "iscorrect": false
+          },
+          {
+            "definition": "困惑的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

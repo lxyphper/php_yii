@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unconscious",
+      "error_analysis": "中国学生易因形近词“conscience”（良心）将“unconscious”误解为“没有良心的”，或因词根过度直译（un-+conscious）误解为“不小心的”。",
+      "sentence": "After hitting his head on the wall, he fell to the ground and remained **unconscious** for several minutes.",
+      "options": {
+        "option": [
+          {
+            "definition": "无意识的；失去意识的",
+            "iscorrect": true
+          },
+          {
+            "definition": "没有良心的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不小心的；疏忽的",
+            "iscorrect": false
+          },
+          {
+            "definition": "没意识到的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

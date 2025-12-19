@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to nod",
+      "error_analysis": "因形近词“no”（不）的干扰，误将“to nod”理解为“摇头（表示否定）”",
+      "sentence": "When the teacher asked if anyone wanted to answer, Mary **nodded** and raised her hand.",
+      "options": {
+        "option": [
+          {
+            "definition": "点头（表示同意、打招呼等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "摇头（表示否定）",
+            "iscorrect": false
+          },
+          {
+            "definition": "打盹；打瞌睡",
+            "iscorrect": false
+          },
+          {
+            "definition": "用手打招呼",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

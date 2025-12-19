@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "micorelectronics",
+      "microelectornics",
+      "miroelectronics",
+      "microelectroniccs"
+    ],
+    "correct_chunks": [
+      "mi",
+      "cro",
+      "elec",
+      "tron",
+      "ics"
+    ],
+    "distractor_chunks": [
+      "cor",
+      "torn",
+      "ro",
+      "ccs"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "timeless",
+      "error_analysis": "学生易因\"time+less\"的字面结构误解为\"时间短暂的\"，或与形近词\"timely\"（及时的）混淆",
+      "sentence": "The Beatles' music is considered **timeless**; it still sounds fresh and popular today.",
+      "options": {
+        "option": [
+          {
+            "definition": "永恒的；经典的",
+            "iscorrect": true
+          },
+          {
+            "definition": "时间短暂的",
+            "iscorrect": false
+          },
+          {
+            "definition": "及时的",
+            "iscorrect": false
+          },
+          {
+            "definition": "过时的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sage",
+      "error_analysis": "学生易因形近词`sake`（缘故）混淆词义，或误将“智者”（比喻义）字面理解为“鼠尾草”（植物义）",
+      "sentence": "The villagers often sought advice from the old **sage** who lived at the edge of the forest.",
+      "options": {
+        "option": [
+          {
+            "definition": "智者；贤哲",
+            "iscorrect": true
+          },
+          {
+            "definition": "缘故",
+            "iscorrect": false
+          },
+          {
+            "definition": "鼠尾草",
+            "iscorrect": false
+          },
+          {
+            "definition": "舞台",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

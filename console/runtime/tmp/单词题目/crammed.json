@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "crammed",
+      "error_analysis": "学生易将“crammed”（挤满的）与形近词“cramped”（狭窄的）混淆，或误猜为“崩溃的”（因与“crash”形近）",
+      "sentence": "The subway during rush hour was so **crammed** that I could barely move.",
+      "options": {
+        "option": [
+          {
+            "definition": "挤满的；塞满的",
+            "iscorrect": true
+          },
+          {
+            "definition": "狭窄的",
+            "iscorrect": false
+          },
+          {
+            "definition": "崩溃的",
+            "iscorrect": false
+          },
+          {
+            "definition": "爬行的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

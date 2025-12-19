@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "arbitration",
+      "error_analysis": "学生易因形近词\"arbitrary\"（任意的）将\"arbitration\"误解为\"任意性\"或\"武断的决定\"",
+      "sentence": "The two companies agreed to resolve their payment dispute through **arbitration** to avoid a lengthy court battle.",
+      "options": {
+        "option": [
+          {
+            "definition": "仲裁；调解",
+            "iscorrect": true
+          },
+          {
+            "definition": "任意性；武断的决定",
+            "iscorrect": false
+          },
+          {
+            "definition": "仲裁者；裁判人",
+            "iscorrect": false
+          },
+          {
+            "definition": "争论；辩论",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

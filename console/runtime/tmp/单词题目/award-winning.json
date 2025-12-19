@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "award-winning",
+      "error_analysis": "学生易因\"award\"(奖项)和\"winning\"(赢得)的字面组合，错误将\"award-winning\"理解为\"赢得奖项的动作\"(动词短语)，而非形容词\"获奖的\"。",
+      "sentence": "Her **award-winning** novel has been translated into 10 languages.",
+      "options": {
+        "option": [
+          {
+            "definition": "获奖的；得奖的",
+            "iscorrect": true
+          },
+          {
+            "definition": "赢得奖项的动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "奖励获胜者的",
+            "iscorrect": false
+          },
+          {
+            "definition": "获胜的奖项",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

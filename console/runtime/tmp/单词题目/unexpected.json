@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unexpected",
+      "error_analysis": "学生易将\"unexpected\"词根直译为\"不期待的\"（主观无期待），或与形近词\"unexceptional\"（普通的）混淆，忽略其\"意外的\"（客观超出预期）的核心含义。",
+      "sentence": "The party was going great until a **unexpected** thunderstorm forced us to move indoors.",
+      "options": {
+        "option": [
+          {
+            "definition": "意外的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不期待的",
+            "iscorrect": false
+          },
+          {
+            "definition": "普通的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人失望的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

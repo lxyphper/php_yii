@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "highland",
+      "error_analysis": "学生易因“high+land”的字面组合误将“highland”理解为“高原”或混淆为“山脉”",
+      "sentence": "The Scottish **highlands** are famous for their rugged beauty and traditional culture.",
+      "options": {
+        "option": [
+          {
+            "definition": "高原（大片海拔较高的平坦地区）",
+            "iscorrect": false
+          },
+          {
+            "definition": "公路（连接城市的主要道路）",
+            "iscorrect": false
+          },
+          {
+            "definition": "山脉（连续起伏的高山地带）",
+            "iscorrect": false
+          },
+          {
+            "definition": "高地（海拔较高的丘陵或山地地区）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

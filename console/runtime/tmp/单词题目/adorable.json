@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "adorable",
+      "error_analysis": "学生易因形近词\"admirable\"(令人钦佩的)混淆，或因词根\"adore\"(崇拜)过度推导为\"令人崇拜的\"",
+      "sentence": "The little girl in the pink dress with a big smile looked so **adorable** that even the grumpy old man stopped to wave at her.",
+      "options": {
+        "option": [
+          {
+            "definition": "可爱的；讨人喜欢的",
+            "iscorrect": true
+          },
+          {
+            "definition": "令人钦佩的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人崇拜的",
+            "iscorrect": false
+          },
+          {
+            "definition": "装饰性的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tectonics",
+      "error_analysis": "学生易因形近词“tonics”（补品）混淆，或因“tect-”词根猜测为“文本结构”而误判。",
+      "sentence": "The theory of plate **tectonics** explains how the Earth's crust is divided into large, moving sections called plates.",
+      "options": {
+        "option": [
+          {
+            "definition": "（地质或建筑的）构造学",
+            "iscorrect": true
+          },
+          {
+            "definition": "补品；补药",
+            "iscorrect": false
+          },
+          {
+            "definition": "文本结构分析",
+            "iscorrect": false
+          },
+          {
+            "definition": "建筑装饰风格",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

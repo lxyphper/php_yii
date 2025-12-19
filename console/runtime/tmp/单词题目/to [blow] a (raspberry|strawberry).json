@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to [blow] a (raspberry|strawberry)",
+      "error_analysis": "学生易因\"raspberry/strawberry\"（树莓/草莓）的字面义与\"blow\"（吹）的直译，误解为\"吹树莓/草莓\"的具体动作，而非固定短语表示嘲笑的声音。",
+      "sentence": "When the actor tripped over his own feet on stage, a few kids in the front row started to **blow a raspberry** to tease him.",
+      "options": {
+        "option": [
+          {
+            "definition": "发出咂舌声（表示嘲笑或戏弄）",
+            "iscorrect": true
+          },
+          {
+            "definition": "吹树莓（如吹掉表面的杂质）",
+            "iscorrect": false
+          },
+          {
+            "definition": "用嘴吹草莓（如冷却草莓甜点）",
+            "iscorrect": false
+          },
+          {
+            "definition": "吹草莓汁（如喝饮料时的动作）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sort of {~noun}",
+      "error_analysis": "学生易将“sort of {~noun}”误解为“...的种类”（因“sort”本身有“种类”义，忽略其作为固定短语的副词用法）",
+      "sentence": "I think the new restaurant is **sort of a letdown**—the food is okay, but not as amazing as everyone said.",
+      "options": {
+        "option": [
+          {
+            "definition": "有点/稍微...（某种事物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "...的种类",
+            "iscorrect": false
+          },
+          {
+            "definition": "排序的...（如排序后的...）",
+            "iscorrect": false
+          },
+          {
+            "definition": "类似...的东西",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

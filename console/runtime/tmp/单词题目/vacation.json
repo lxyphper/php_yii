@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "vacation",
+      "error_analysis": "易因形近词\"vacant\"(空的)及词根\"vac-\"(空)的误导，将\"vacation\"误理解为\"空缺\"或\"空的状态\"而非\"假期\"。",
+      "sentence": "We are planning a family **vacation** to the beach this summer.",
+      "options": {
+        "option": [
+          {
+            "definition": "假期；休假",
+            "iscorrect": true
+          },
+          {
+            "definition": "空缺；空闲的位置",
+            "iscorrect": false
+          },
+          {
+            "definition": "职业；行业",
+            "iscorrect": false
+          },
+          {
+            "definition": "空的状态；真空",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

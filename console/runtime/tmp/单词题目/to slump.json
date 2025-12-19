@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to slump",
+      "error_analysis": "混淆形近词slum（贫民窟）导致误判为“与贫民窟相关”，或误猜为“滑动”（slip）等含义",
+      "sentence": "The stock market **slumped** sharply after the bad news about the economy was released.",
+      "options": {
+        "option": [
+          {
+            "definition": "（价格、股市等）暴跌",
+            "iscorrect": true
+          },
+          {
+            "definition": "变成贫民窟",
+            "iscorrect": false
+          },
+          {
+            "definition": "缓慢滑动",
+            "iscorrect": false
+          },
+          {
+            "definition": "绊倒；使困惑",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

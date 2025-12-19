@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "outsourcing",
+      "error_analysis": "学生易因词根“out-+source”直译为“外部资源”，或与形近词“outstanding”混淆，误解“outsourcing”为非“外包”义。",
+      "sentence": "Many companies use **outsourcing** to reduce costs by hiring external firms to handle their customer service.",
+      "options": {
+        "option": [
+          {
+            "definition": "外包（将业务委托给外部公司的行为）",
+            "iscorrect": true
+          },
+          {
+            "definition": "杰出的；显著的",
+            "iscorrect": false
+          },
+          {
+            "definition": "外部资源；外来来源",
+            "iscorrect": false
+          },
+          {
+            "definition": "向外扩张；拓展外部市场",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

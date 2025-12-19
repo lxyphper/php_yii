@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "old",
+      "error_analysis": "中国学生易因形近词\"cold\"（冷）或\"hold\"（持有）的干扰，将\"old\"错误理解为\"冷\"或\"持有\"",
+      "sentence": "My grandma has an **old** watch that she’s had for over 50 years.",
+      "options": {
+        "option": [
+          {
+            "definition": "老的；旧的",
+            "iscorrect": true
+          },
+          {
+            "definition": "冷的",
+            "iscorrect": false
+          },
+          {
+            "definition": "持有的",
+            "iscorrect": false
+          },
+          {
+            "definition": "新的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hegemony",
+      "error_analysis": "学生易因拼写与常见词“harmony”（和谐）相似而误判，或因不熟悉词根“heg-”（领导）而无法正确推导词义",
+      "sentence": "The country sought to maintain its **hegemony** in the region through economic and military influence.",
+      "options": {
+        "option": [
+          {
+            "definition": "和谐；融洽",
+            "iscorrect": false
+          },
+          {
+            "definition": "垄断；独占",
+            "iscorrect": false
+          },
+          {
+            "definition": "霸权；领导权",
+            "iscorrect": true
+          },
+          {
+            "definition": "等级制度；阶层",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

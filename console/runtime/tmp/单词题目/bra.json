@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bra",
+      "error_analysis": "学生易因形近词\"bar\"（酒吧）产生错误理解",
+      "sentence": "She forgot to pack her **bra** for the trip, so she had to buy a new one at the mall.",
+      "options": {
+        "option": [
+          {
+            "definition": "酒吧",
+            "iscorrect": false
+          },
+          {
+            "definition": "勇敢的",
+            "iscorrect": false
+          },
+          {
+            "definition": "树枝",
+            "iscorrect": false
+          },
+          {
+            "definition": "胸罩",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

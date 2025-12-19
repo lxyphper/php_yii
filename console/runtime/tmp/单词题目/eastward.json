@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "eastward",
+      "error_analysis": "学生易将\"eastward\"拆分为\"east\"+\"ward\"（病房）误作\"东边的病房\"，或混淆形近词\"eastbound\"误判为\"向东行驶的\"",
+      "sentence": "The plane flew **eastward** for three hours to reach Beijing from Shanghai.",
+      "options": {
+        "option": [
+          {
+            "definition": "向东的；向东地",
+            "iscorrect": true
+          },
+          {
+            "definition": "东边的病房",
+            "iscorrect": false
+          },
+          {
+            "definition": "向东行驶的",
+            "iscorrect": false
+          },
+          {
+            "definition": "东方的守卫",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

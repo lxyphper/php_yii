@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "misery",
+      "error_analysis": "学生易因形近词“mercy”（仁慈）混淆词义，或因“mis-”前缀误判为“错误”",
+      "sentence": "After losing his job and his house, John fell into deep **misery** and couldn't sleep at night.",
+      "options": {
+        "option": [
+          {
+            "definition": "痛苦；苦难",
+            "iscorrect": true
+          },
+          {
+            "definition": "仁慈；怜悯",
+            "iscorrect": false
+          },
+          {
+            "definition": "错误；过失",
+            "iscorrect": false
+          },
+          {
+            "definition": "错过的机会",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "half-price",
+      "error_analysis": "中国学生易因形近（如将“half”误看成“high”）或词根泛化（将“half”的“一半”等同于“低”）而误解为“高价”或“低价”",
+      "sentence": "The bookstore is selling all novels at **half-price** this weekend to attract more customers.",
+      "options": {
+        "option": [
+          {
+            "definition": "高价",
+            "iscorrect": false
+          },
+          {
+            "definition": "低价",
+            "iscorrect": false
+          },
+          {
+            "definition": "半价",
+            "iscorrect": true
+          },
+          {
+            "definition": "全价",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

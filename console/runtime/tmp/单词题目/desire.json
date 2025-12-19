@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "desire",
+      "error_analysis": "中国学生易因形近词“desert”（沙漠）、“deserve”（应得）或“despair”（绝望）的干扰而误解“desire”的核心词义“渴望”。",
+      "sentence": "After saving money for years, he finally fulfilled his **desire** to buy a house by the sea.",
+      "options": {
+        "option": [
+          {
+            "definition": "沙漠",
+            "iscorrect": false
+          },
+          {
+            "definition": "应得",
+            "iscorrect": false
+          },
+          {
+            "definition": "绝望",
+            "iscorrect": false
+          },
+          {
+            "definition": "渴望；欲望",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

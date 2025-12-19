@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to sell",
+      "error_analysis": "学生易因形近词'tell'（告诉）的视觉相似性将'sell'误判为'告诉'",
+      "sentence": "She decided to **sell** her old bike to get some money for a new one.",
+      "options": {
+        "option": [
+          {
+            "definition": "卖；销售",
+            "iscorrect": true
+          },
+          {
+            "definition": "告诉",
+            "iscorrect": false
+          },
+          {
+            "definition": "给；赠送",
+            "iscorrect": false
+          },
+          {
+            "definition": "密封；印章",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

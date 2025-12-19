@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "interface",
+      "error_analysis": "学生易因词根“inter-”（之间）和“face”（表面）字面推导为“面对面的交流”，或混淆形近词“interfere”（干扰）而误解词义。",
+      "sentence": "The new smartphone has a user-friendly **interface** that makes it easy for elderly people to navigate.",
+      "options": {
+        "option": [
+          {
+            "definition": "（计算机或设备的）用户界面",
+            "iscorrect": true
+          },
+          {
+            "definition": "干扰，妨碍",
+            "iscorrect": false
+          },
+          {
+            "definition": "面对面的交流",
+            "iscorrect": false
+          },
+          {
+            "definition": "中间的表面",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

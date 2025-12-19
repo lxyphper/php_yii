@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to win",
+      "error_analysis": "中国学生易因形近词（如wind“缠绕”、wine“酒”）混淆“to win”的核心词义（赢得）",
+      "sentence": "She trained every day for a year and finally got to **win** the gold medal in the Olympics.",
+      "options": {
+        "option": [
+          {
+            "definition": "缠绕；卷绕",
+            "iscorrect": false
+          },
+          {
+            "definition": "喝酒；饮酒",
+            "iscorrect": false
+          },
+          {
+            "definition": "赢得；获得",
+            "iscorrect": true
+          },
+          {
+            "definition": "翅膀；翼",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

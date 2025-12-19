@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "some",
+      "error_analysis": "中国学生易因形近词\"same\"（相同的）或词根后缀误解（如\"handsome\"中的\"具有...特征的\"）误判\"some\"的核心词义。",
+      "sentence": "She gave me **some** flowers for my birthday.",
+      "options": {
+        "option": [
+          {
+            "definition": "一些（不定代词，表示数量不多的人或物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "相同的（形容词，指与另一事物没有差异的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "总和（名词，指几个数加起来的总数）",
+            "iscorrect": false
+          },
+          {
+            "definition": "具有...特征的（形容词后缀，表示\"有...性质的\"）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

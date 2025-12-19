@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "back end",
+      "error_analysis": "学生易将\"back end\"字面拆分为\"后面的结束\"，误解为物理物体的后面部分或事件的结尾，而非技术领域的\"后端\"。",
+      "sentence": "The company is hiring engineers to work on the **back end** of their new e-commerce platform.",
+      "options": {
+        "option": [
+          {
+            "definition": "（软件、系统等的）后端（指处理数据或逻辑的核心部分）",
+            "iscorrect": true
+          },
+          {
+            "definition": "物理物体的后面部分（如车的尾部）",
+            "iscorrect": false
+          },
+          {
+            "definition": "事件的最后阶段或结尾",
+            "iscorrect": false
+          },
+          {
+            "definition": "向后的方向或位置",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

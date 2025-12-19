@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to manifest",
+      "error_analysis": "学生易因形近词\"maintain\"（维持）混淆词义，或因词根\"mani-\"误导为\"操作\"。",
+      "sentence": "Her frustration began to **manifest** as tears after she heard the bad news.",
+      "options": {
+        "option": [
+          {
+            "definition": "显示；显现",
+            "iscorrect": true
+          },
+          {
+            "definition": "维持；保持",
+            "iscorrect": false
+          },
+          {
+            "definition": "操作；操纵",
+            "iscorrect": false
+          },
+          {
+            "definition": "声明；宣布",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

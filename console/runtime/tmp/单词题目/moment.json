@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "moment",
+      "error_analysis": "中国学生易将moment误联想为形近词momentum的“势头/动力”，或根据词根猜测为“运动/动作”。",
+      "sentence": "She paused for a **moment** before answering the teacher's question.",
+      "options": {
+        "option": [
+          {
+            "definition": "瞬间；片刻",
+            "iscorrect": true
+          },
+          {
+            "definition": "势头；动力",
+            "iscorrect": false
+          },
+          {
+            "definition": "运动；动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "机会；时机",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

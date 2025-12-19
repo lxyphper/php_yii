@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to computerize",
+      "error_analysis": "学生易因词根“compute”（计算）误导将“to computerize”误解为“计算；算出”，或因形近词“computer”联想为“购买电脑”。",
+      "sentence": "The company decided to **computerize** its inventory system to reduce paperwork and improve efficiency.",
+      "options": {
+        "option": [
+          {
+            "definition": "使计算机化；用计算机处理",
+            "iscorrect": true
+          },
+          {
+            "definition": "计算；算出",
+            "iscorrect": false
+          },
+          {
+            "definition": "购买电脑",
+            "iscorrect": false
+          },
+          {
+            "definition": "修理电脑",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

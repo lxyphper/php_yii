@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to disconcert",
+      "error_analysis": "学生易因形近词\"concert\"(音乐会)或词根误解，将\"disconcert\"误判为\"取消音乐会\"或\"使不和谐\"。",
+      "sentence": "The unexpected question from the interviewer **disconcerted** her, making her stumble over her words and forget her prepared speech.",
+      "options": {
+        "option": [
+          {
+            "definition": "使不安；使困惑",
+            "iscorrect": true
+          },
+          {
+            "definition": "取消音乐会",
+            "iscorrect": false
+          },
+          {
+            "definition": "断开联系",
+            "iscorrect": false
+          },
+          {
+            "definition": "使不和谐",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

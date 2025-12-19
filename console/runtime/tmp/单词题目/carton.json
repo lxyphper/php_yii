@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "carton",
+      "error_analysis": "学生易因形近词“cart”（手推车）、“cotton”（棉花）或词根“cart”（车）误将“carton”理解为“手推车”“棉花”等。",
+      "sentence": "Could you pass me the **carton** of milk from the fridge? I want to pour some for breakfast.",
+      "options": {
+        "option": [
+          {
+            "definition": "硬纸盒；纸箱",
+            "iscorrect": true
+          },
+          {
+            "definition": "手推车",
+            "iscorrect": false
+          },
+          {
+            "definition": "棉花",
+            "iscorrect": false
+          },
+          {
+            "definition": "小推车",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

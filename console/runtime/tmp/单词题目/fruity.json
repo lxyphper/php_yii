@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fruity",
+      "error_analysis": "学生易因词根\"fruit\"（水果）字面误导，将\"fruity\"错误理解为\"水果的；包含水果的\"，或混淆形近词\"fruitful\"（多产的）的含义。",
+      "sentence": "The wine has a **fruity** aroma with hints of apple and peach, making it popular among sweet wine lovers.",
+      "options": {
+        "option": [
+          {
+            "definition": "有水果味的；果香的",
+            "iscorrect": true
+          },
+          {
+            "definition": "多产的；有成效的",
+            "iscorrect": false
+          },
+          {
+            "definition": "水果的；包含水果的",
+            "iscorrect": false
+          },
+          {
+            "definition": "新鲜的；多汁的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

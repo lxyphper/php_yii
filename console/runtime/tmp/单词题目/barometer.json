@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "barometer",
+      "error_analysis": "中国学生易因形近词“barrier”（障碍）或词根“bar”（酒吧）联想，误判“barometer”为“障碍”或“酒吧仪表”。",
+      "sentence": "The meteorologist checked the **barometer** to see if the pressure drop would bring rain.",
+      "options": {
+        "option": [
+          {
+            "definition": "气压计；晴雨表",
+            "iscorrect": true
+          },
+          {
+            "definition": "障碍；屏障",
+            "iscorrect": false
+          },
+          {
+            "definition": "酒吧计时器；酒馆仪表",
+            "iscorrect": false
+          },
+          {
+            "definition": "湿度计；湿度测量仪",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

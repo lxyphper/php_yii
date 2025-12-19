@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to condemn",
+      "error_analysis": "学生易因形近词“condense”（浓缩）产生错误联想，或误将“condemn”理解为“诅咒”（词根“damn”的误导）而非“谴责/宣判”。",
+      "sentence": "The government quickly issued a statement to **condemn** the violent protests that disrupted public order.",
+      "options": {
+        "option": [
+          {
+            "definition": "浓缩；精简",
+            "iscorrect": false
+          },
+          {
+            "definition": "诅咒；咒骂",
+            "iscorrect": false
+          },
+          {
+            "definition": "谴责；宣判有罪",
+            "iscorrect": true
+          },
+          {
+            "definition": "宽恕；原谅",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

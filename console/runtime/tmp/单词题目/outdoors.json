@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "outdoors",
+      "error_analysis": "学生易因拆分out+doors的字面意思错误理解为“门外面”，或混淆其与形近词outdoor的词性（形容词vs副词/名词）",
+      "sentence": "We decided to have the party **outdoors** because the weather was so perfect for a barbecue.",
+      "options": {
+        "option": [
+          {
+            "definition": "门外面",
+            "iscorrect": false
+          },
+          {
+            "definition": "向外（方向）",
+            "iscorrect": false
+          },
+          {
+            "definition": "户外；野外（副词/名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "户外的（形容词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

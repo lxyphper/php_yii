@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "edgy",
+      "error_analysis": "将“edgy”误理解为“边缘的”（形近词“edge”的联想）或“锋利的”（词根“edge”的错误推导）",
+      "sentence": "She felt **edgy** before her big exam, unable to sit still for more than a minute.",
+      "options": {
+        "option": [
+          {
+            "definition": "边缘的（与边缘有关的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "锋利的（尖锐的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "前卫的（大胆且现代的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "紧张不安的（焦虑的）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

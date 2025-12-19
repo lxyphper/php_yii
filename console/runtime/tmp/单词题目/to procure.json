@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to procure",
+      "error_analysis": "学生易因形近词\"produce\"（生产）混淆，或词根\"pro-+cur\"（向前跑）误解为\"促进\"，导致误判词义。",
+      "sentence": "The company needs to **procure** new equipment to expand its production line.",
+      "options": {
+        "option": [
+          {
+            "definition": "获取；取得",
+            "iscorrect": true
+          },
+          {
+            "definition": "生产；制造",
+            "iscorrect": false
+          },
+          {
+            "definition": "促进；推动",
+            "iscorrect": false
+          },
+          {
+            "definition": "提供；供给",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "brandy",
+      "error_analysis": "学生易因形近词\"brand\"（品牌）的干扰，将\"brandy\"误判为\"品牌\"或\"商标\"相关含义",
+      "sentence": "After dinner, my grandfather likes to have a small glass of **brandy** to relax.",
+      "options": {
+        "option": [
+          {
+            "definition": "白兰地（一种蒸馏酒）",
+            "iscorrect": true
+          },
+          {
+            "definition": "品牌；商标",
+            "iscorrect": false
+          },
+          {
+            "definition": "辫子；发辫",
+            "iscorrect": false
+          },
+          {
+            "definition": "品牌的；有商标的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

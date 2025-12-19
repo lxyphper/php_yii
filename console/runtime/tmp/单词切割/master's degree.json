@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "masters degree",
+      "mastar's degree",
+      "master's degre",
+      "mster's degree"
+    ],
+    "correct_chunks": [
+      "mas",
+      "ter",
+      "'s",
+      "deg",
+      "ree"
+    ],
+    "distractor_chunks": [
+      "masters",
+      "mastar",
+      "degre",
+      "mster"
+    ]
+  },
+  0
+]

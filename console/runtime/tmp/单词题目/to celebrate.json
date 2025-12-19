@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to celebrate",
+      "error_analysis": "易因形近词\"calculate\"(计算)或词根联想\"celebrity\"(名人)误判词义",
+      "sentence": "People usually **celebrate** Christmas with family and friends by sharing a big dinner and exchanging gifts.",
+      "options": {
+        "option": [
+          {
+            "definition": "庆祝（节日、事件等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "计算；核算",
+            "iscorrect": false
+          },
+          {
+            "definition": "出名；成为名人",
+            "iscorrect": false
+          },
+          {
+            "definition": "祝贺（某人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

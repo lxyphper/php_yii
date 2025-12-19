@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "profit-minded",
+      "error_analysis": "学生易因词根误导将\"profit-minded\"误解为\"有商业头脑的\"(混淆business-minded)，或误将\"minded\"当\"介意的\"理解为\"在意利润的\"",
+      "sentence": "The company's **profit-minded** strategy led them to cut costs even if it meant reducing employee benefits.",
+      "options": {
+        "option": [
+          {
+            "definition": "重视利润的；唯利是图的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有商业头脑的",
+            "iscorrect": false
+          },
+          {
+            "definition": "介意利润多少的",
+            "iscorrect": false
+          },
+          {
+            "definition": "利润驱动的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

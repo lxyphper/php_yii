@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fatherhood",
+      "error_analysis": "学生易因“hood”的“头巾”义将“fatherhood”误理解为“父亲的头巾”（词根误导），或因形近词“fatherland”混淆为“父亲的土地”（形近词干扰）",
+      "sentence": "After the birth of his son, David began to appreciate the challenges and joys of **fatherhood**.",
+      "options": {
+        "option": [
+          {
+            "definition": "父亲的身份；父亲的职责",
+            "iscorrect": true
+          },
+          {
+            "definition": "父亲的头巾",
+            "iscorrect": false
+          },
+          {
+            "definition": "父亲的土地",
+            "iscorrect": false
+          },
+          {
+            "definition": "父亲的年龄",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

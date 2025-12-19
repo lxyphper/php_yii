@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "diseased",
+      "error_analysis": "易因形近词\"deceased\"(已故的)或词根\"dis-\"的否定误解，将\"diseased\"误判为\"已故的\"或\"无病的\"",
+      "sentence": "The farmer had to cut down the **diseased** trees to prevent the spread of the virus.",
+      "options": {
+        "option": [
+          {
+            "definition": "患病的；有病害的",
+            "iscorrect": true
+          },
+          {
+            "definition": "已故的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无病的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有...倾向的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

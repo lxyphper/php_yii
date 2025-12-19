@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to burglarize",
+      "error_analysis": "学生易因“burglar（窃贼）+ -ize（使成为）”的词根联想，误将“burglarize”理解为“成为窃贼”，而非其核心义“入室盗窃”。",
+      "sentence": "The police found fingerprints that proved someone had **burglarized** the apartment last night.",
+      "options": {
+        "option": [
+          {
+            "definition": "入室盗窃",
+            "iscorrect": true
+          },
+          {
+            "definition": "成为窃贼",
+            "iscorrect": false
+          },
+          {
+            "definition": "窃贼",
+            "iscorrect": false
+          },
+          {
+            "definition": "偷窃",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

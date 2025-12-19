@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mineral",
+      "error_analysis": "学生易因形近词\"minister\"（部长）混淆，或误将\"mineral\"理解为与\"迷你\"相关的小物品。",
+      "sentence": "The country's economy relies heavily on the export of **mineral** resources such as copper and gold.",
+      "options": {
+        "option": [
+          {
+            "definition": "部长；大臣",
+            "iscorrect": false
+          },
+          {
+            "definition": "矿物；矿物质",
+            "iscorrect": true
+          },
+          {
+            "definition": "迷你的物品",
+            "iscorrect": false
+          },
+          {
+            "definition": "精神的；心理的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

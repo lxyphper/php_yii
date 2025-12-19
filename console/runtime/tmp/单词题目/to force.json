@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to force",
+      "error_analysis": "学生易因形近词\"forge\"(伪造)混淆词义，或因\"force\"的\"力量\"词根误判为\"加强/给予力量\"",
+      "sentence": "The teacher had to **force** the students to hand in their homework on time because some of them were lazy.",
+      "options": {
+        "option": [
+          {
+            "definition": "强迫；迫使",
+            "iscorrect": true
+          },
+          {
+            "definition": "伪造；锻造",
+            "iscorrect": false
+          },
+          {
+            "definition": "加强；给予力量",
+            "iscorrect": false
+          },
+          {
+            "definition": "推动；促使",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "conduit",
+      "error_analysis": "学生易因形近词\"conduct\"（行为）或词根\"duct\"（引导）错误推导为\"引导者\"，误解其核心义\"管道/输送渠道\"。",
+      "sentence": "The internet serves as a key **conduit** for spreading news and ideas across the world.",
+      "options": {
+        "option": [
+          {
+            "definition": "管道；输送渠道",
+            "iscorrect": true
+          },
+          {
+            "definition": "行为；举止",
+            "iscorrect": false
+          },
+          {
+            "definition": "引导者；指挥者",
+            "iscorrect": false
+          },
+          {
+            "definition": "会议；大会",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

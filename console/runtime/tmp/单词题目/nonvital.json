@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nonvital",
+      "error_analysis": "学生易因“vital”的“有活力的”义项将“nonvital”误解为“没有活力的”，或因形近词“nonverbal”误解为“非语言的”。",
+      "sentence": "When packing for the trip, she left behind all the **nonvital** items like decorative pillows and extra books to save space.",
+      "options": {
+        "option": [
+          {
+            "definition": "不重要的",
+            "iscorrect": true
+          },
+          {
+            "definition": "没有活力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "非语言的",
+            "iscorrect": false
+          },
+          {
+            "definition": "非暴力的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "abbess",
+      "error_analysis": "将“abbess”误判为“修道院”（形近于“abbey”）或忽略“-ess”后缀导致性别混淆（如误判为“男修道院院长”）",
+      "sentence": "The **abbess** greeted the visitors at the entrance of the convent and explained the rules of the community.",
+      "options": {
+        "option": [
+          {
+            "definition": "修道院",
+            "iscorrect": false
+          },
+          {
+            "definition": "男修道院院长",
+            "iscorrect": false
+          },
+          {
+            "definition": "女修道院院长",
+            "iscorrect": true
+          },
+          {
+            "definition": "女修道院",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

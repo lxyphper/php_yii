@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "redshift",
+      "error_analysis": "学生易根据\"red+shift\"字面猜测为\"红色移动\"，而非天文学中的特定术语\"红移\"",
+      "sentence": "Astronomers observed a significant **redshift** in the spectrum of the distant galaxy, indicating it is moving away from Earth.",
+      "options": {
+        "option": [
+          {
+            "definition": "（天文学中的）红移（指天体光谱向红端偏移的现象）",
+            "iscorrect": true
+          },
+          {
+            "definition": "红色的移动或偏移",
+            "iscorrect": false
+          },
+          {
+            "definition": "重新划分红色区域",
+            "iscorrect": false
+          },
+          {
+            "definition": "红色阴影的移动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

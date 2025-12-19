@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to massage",
+      "error_analysis": "学生易因形近词\"message\"（信息）混淆，或拆分\"mass+age\"误解为\"累积大量年龄\"",
+      "sentence": "After a long day of hiking, Sarah decided to go to the spa to have her shoulders **massaged** to relieve the tension.",
+      "options": {
+        "option": [
+          {
+            "definition": "按摩",
+            "iscorrect": true
+          },
+          {
+            "definition": "传递信息",
+            "iscorrect": false
+          },
+          {
+            "definition": "累积大量年龄",
+            "iscorrect": false
+          },
+          {
+            "definition": "摩擦表面",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

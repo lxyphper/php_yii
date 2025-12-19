@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "phobia",
+      "error_analysis": "学生易因词根混淆（将\"phob-\"<恐惧>误作\"phil-\"<爱>）或\"-ia\"后缀，将\"phobia\"误判为\"爱好\"或\"疾病\"",
+      "sentence": "Many people have a **phobia** of spiders, which makes them feel extremely scared even at the sight of a small one.",
+      "options": {
+        "option": [
+          {
+            "definition": "恐惧；恐惧症",
+            "iscorrect": true
+          },
+          {
+            "definition": "爱好；兴趣",
+            "iscorrect": false
+          },
+          {
+            "definition": "照片；图像",
+            "iscorrect": false
+          },
+          {
+            "definition": "疾病；病症",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

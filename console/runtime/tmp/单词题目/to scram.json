@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to scram",
+      "error_analysis": "学生易因形近词“scramble”（爬）或“scratch”（抓）误将“to scram”理解为“爬”或“抓挠”",
+      "sentence": "When the fire alarm went off, everyone **scrammed** out of the building.",
+      "options": {
+        "option": [
+          {
+            "definition": "迅速离开；跑掉",
+            "iscorrect": true
+          },
+          {
+            "definition": "爬；攀登",
+            "iscorrect": false
+          },
+          {
+            "definition": "抓；挠",
+            "iscorrect": false
+          },
+          {
+            "definition": "填满；塞进",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

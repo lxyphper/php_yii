@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "packed",
+      "error_analysis": "将“packed”误理解为“打包的”（词根“pack”直译）或“小包的”（形近词“packet”干扰）",
+      "sentence": "The concert hall was so **packed** that we could barely move.",
+      "options": {
+        "option": [
+          {
+            "definition": "打包的",
+            "iscorrect": false
+          },
+          {
+            "definition": "小包的",
+            "iscorrect": false
+          },
+          {
+            "definition": "破损的",
+            "iscorrect": false
+          },
+          {
+            "definition": "拥挤的；挤满的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

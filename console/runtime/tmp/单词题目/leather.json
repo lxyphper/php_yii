@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "leather",
+      "error_analysis": "将形近词feather（羽毛）或letter（信件）的含义误联想至leather",
+      "sentence": "He chose a **leather** wallet because it's more durable than a fabric one.",
+      "options": {
+        "option": [
+          {
+            "definition": "皮革",
+            "iscorrect": true
+          },
+          {
+            "definition": "羽毛",
+            "iscorrect": false
+          },
+          {
+            "definition": "信件",
+            "iscorrect": false
+          },
+          {
+            "definition": "布料",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "holding",
+      "error_analysis": "学生易将名词\"holding\"（持有物/财产）误解为动词\"hold\"的\"保持/抓住\"动作，或与形近词\"handling\"（处理）混淆为\"处理的事物\"",
+      "sentence": "The company's main **holding** is a 500-acre farm in the countryside.",
+      "options": {
+        "option": [
+          {
+            "definition": "保持/抓住的动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "处理的事物",
+            "iscorrect": false
+          },
+          {
+            "definition": "举办的活动",
+            "iscorrect": false
+          },
+          {
+            "definition": "持有物；财产（尤指土地或股票）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

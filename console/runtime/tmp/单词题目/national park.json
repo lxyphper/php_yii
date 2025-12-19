@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "national park",
+      "error_analysis": "学生易因\"national\"与形近词\"natural\"混淆，将\"national park\"误判为\"自然公园\"",
+      "sentence": "Yellowstone is the first **national park** in the world, established in 1872 to protect its unique geysers and wildlife.",
+      "options": {
+        "option": [
+          {
+            "definition": "自然公园",
+            "iscorrect": false
+          },
+          {
+            "definition": "民族公园",
+            "iscorrect": false
+          },
+          {
+            "definition": "国家停车场",
+            "iscorrect": false
+          },
+          {
+            "definition": "国家公园",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

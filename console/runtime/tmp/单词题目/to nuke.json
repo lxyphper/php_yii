@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to nuke",
+      "error_analysis": "学生易因词根\"nuclear\"（核的）的字面误导，将\"to nuke\"错误理解为\"用核武器攻击\"，而非其口语化的\"用微波炉加热（食物）\"含义。",
+      "sentence": "I’m hungry—let’s **nuke** some leftovers for dinner.",
+      "options": {
+        "option": [
+          {
+            "definition": "用微波炉加热（食物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "用核武器攻击",
+            "iscorrect": false
+          },
+          {
+            "definition": "护理（病人或伤口）",
+            "iscorrect": false
+          },
+          {
+            "definition": "指出（观点或事物的）细微差别",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to solve",
+      "error_analysis": "易混淆形近词\"save\"(拯救)及词根/名词误导的\"溶解\"义",
+      "sentence": "The team worked hard to **solve** the technical problem before the deadline.",
+      "options": {
+        "option": [
+          {
+            "definition": "解决（问题等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "拯救（生命等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "溶解（固体等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "解释（原因等）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

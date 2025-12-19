@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "on board",
+      "error_analysis": "学生易因\"board\"字面义误解为\"在木板上\"，或混淆\"on board\"与\"on the board\"（在黑板上）",
+      "sentence": "All passengers must be **on board** 15 minutes before the flight departs.",
+      "options": {
+        "option": [
+          {
+            "definition": "在飞机/船/车上",
+            "iscorrect": true
+          },
+          {
+            "definition": "在木板上",
+            "iscorrect": false
+          },
+          {
+            "definition": "在黑板上",
+            "iscorrect": false
+          },
+          {
+            "definition": "在桌子上",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

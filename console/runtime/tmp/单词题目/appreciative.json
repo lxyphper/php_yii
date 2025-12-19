@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "appreciative",
+      "error_analysis": "易混淆形近词apprehensive（焦虑的），或词根误导认为是“有价值的”",
+      "sentence": "After receiving the thoughtful gift, Sarah gave her friend a warm smile and said she was very **appreciative** of the gesture.",
+      "options": {
+        "option": [
+          {
+            "definition": "感激的；欣赏的",
+            "iscorrect": true
+          },
+          {
+            "definition": "焦虑的；担忧的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有价值的；珍贵的",
+            "iscorrect": false
+          },
+          {
+            "definition": "理解的；明白的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

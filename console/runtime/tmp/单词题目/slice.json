@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "slice",
+      "error_analysis": "学生易因形近词“slide”（滑动）干扰或字面误导，将“slice”误判为“滑动”或“块”",
+      "sentence": "Can you pass me a **slice** of watermelon? It looks delicious.",
+      "options": {
+        "option": [
+          {
+            "definition": "片（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "滑动（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "块（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "滑倒（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

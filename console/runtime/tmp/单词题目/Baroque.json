@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Baroque",
+      "error_analysis": "学生易因形近词\"broke\"（破碎的）或\"bar\"（酒吧）联想到\"破碎的\"或\"与酒吧相关的\"，或因不熟悉词根而误判。",
+      "sentence": "The cathedral's **Baroque** facade, adorned with intricate carvings and gilded domes, is a prime example of 17th-century architectural grandeur.",
+      "options": {
+        "option": [
+          {
+            "definition": "破碎的；损坏的",
+            "iscorrect": false
+          },
+          {
+            "definition": "与酒吧相关的；酒馆的",
+            "iscorrect": false
+          },
+          {
+            "definition": "巴洛克式的；复杂华丽的",
+            "iscorrect": true
+          },
+          {
+            "definition": "简单的；基础的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

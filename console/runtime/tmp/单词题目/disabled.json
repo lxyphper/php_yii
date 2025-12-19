@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "disabled",
+      "error_analysis": "学生常因\"dis-+able\"的词根组合，错误将\"disabled\"理解为\"不能的\"（unable），而非\"残疾的\"。",
+      "sentence": "The new library has a ramp to provide easy access for **disabled** people.",
+      "options": {
+        "option": [
+          {
+            "definition": "残疾的；有障碍的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不能的；无法做到的",
+            "iscorrect": false
+          },
+          {
+            "definition": "使残疾；使丧失能力",
+            "iscorrect": false
+          },
+          {
+            "definition": "无效的；失效的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to fail",
+      "error_analysis": "中国学生易因形近词“fall”（掉落）的干扰，将“to fail”误理解为“掉落”。",
+      "sentence": "He studied hard for the exam, but he still **failed** to pass it.",
+      "options": {
+        "option": [
+          {
+            "definition": "掉落；跌倒",
+            "iscorrect": false
+          },
+          {
+            "definition": "放弃",
+            "iscorrect": false
+          },
+          {
+            "definition": "错误",
+            "iscorrect": false
+          },
+          {
+            "definition": "失败；未能做到",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

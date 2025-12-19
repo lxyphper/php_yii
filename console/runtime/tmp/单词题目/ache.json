@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ache",
+      "error_analysis": "学生易因“ache”与“cake”（蛋糕）、“break”（打破）等形近词的视觉相似性，误将其词义与“食物”或“损坏”关联。",
+      "sentence": "After running a marathon, her legs started to **ache** badly.",
+      "options": {
+        "option": [
+          {
+            "definition": "疼痛（持续的轻微疼痛）",
+            "iscorrect": true
+          },
+          {
+            "definition": "蛋糕（一种甜的 baked 食物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "打破（使物体分裂成碎片）",
+            "iscorrect": false
+          },
+          {
+            "definition": "拿走（把某物从一个地方带到另一个地方）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

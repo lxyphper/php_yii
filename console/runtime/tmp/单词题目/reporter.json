@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "reporter",
+      "error_analysis": "学生易因形近词\"report\"（报告）的干扰，将\"reporter\"误理解为\"报告（文件）\"，而非其核心词义\"记者\"。",
+      "sentence": "The **reporter** interviewed the famous actor after the movie premiere.",
+      "options": {
+        "option": [
+          {
+            "definition": "记者",
+            "iscorrect": true
+          },
+          {
+            "definition": "报告（文件）",
+            "iscorrect": false
+          },
+          {
+            "definition": "搬运工（负责运输的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "报告人（做口头汇报的人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

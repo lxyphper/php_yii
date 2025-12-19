@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ranch",
+      "error_analysis": "核心易错点为形近词“branch”（树枝）的干扰，及词根“ran”（跑）引发的“跑道”误判。",
+      "sentence": "My uncle owns a large **ranch** in Texas where he raises cattle and horses.",
+      "options": {
+        "option": [
+          {
+            "definition": "树枝；分支",
+            "iscorrect": false
+          },
+          {
+            "definition": "跑道；奔跑的地方",
+            "iscorrect": false
+          },
+          {
+            "definition": "果园；菜园",
+            "iscorrect": false
+          },
+          {
+            "definition": "牧场；大农场",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

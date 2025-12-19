@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "altogether",
+      "error_analysis": "学生易将`altogether`与形近词`all together`（一起）混淆，或通过词根拆分为“全部一起”而误判为“总共”。",
+      "sentence": "The plan is **altogether** impractical—we can't afford it.",
+      "options": {
+        "option": [
+          {
+            "definition": "一起；共同",
+            "iscorrect": false
+          },
+          {
+            "definition": "总共；总计",
+            "iscorrect": false
+          },
+          {
+            "definition": "完全地；彻底地",
+            "iscorrect": true
+          },
+          {
+            "definition": "部分地；不完全地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

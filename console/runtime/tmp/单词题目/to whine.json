@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to whine",
+      "error_analysis": "学生易因形近词“wine”（酒）误解为“喝酒”，或因发音接近“win”（赢）误解为“赢”",
+      "sentence": "The little boy **whined** for hours because his mom wouldn’t buy him a toy car.",
+      "options": {
+        "option": [
+          {
+            "definition": "喝酒",
+            "iscorrect": false
+          },
+          {
+            "definition": "赢",
+            "iscorrect": false
+          },
+          {
+            "definition": "抱怨；发牢骚",
+            "iscorrect": true
+          },
+          {
+            "definition": "低语",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

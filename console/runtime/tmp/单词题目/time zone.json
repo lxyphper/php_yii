@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "time zone",
+      "error_analysis": "学生易将\"time zone\"字面直译为\"时间区域\"，忽略其固定搭配义\"时区\"",
+      "sentence": "When you travel from Beijing to New York, you have to adjust your watch because you cross several **time zones**.",
+      "options": {
+        "option": [
+          {
+            "definition": "时区",
+            "iscorrect": true
+          },
+          {
+            "definition": "时间区域",
+            "iscorrect": false
+          },
+          {
+            "definition": "时间带",
+            "iscorrect": false
+          },
+          {
+            "definition": "时间表",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

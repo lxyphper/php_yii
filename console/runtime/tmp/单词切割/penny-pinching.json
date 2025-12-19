@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "pennypinching",
+      "peny-pinching",
+      "penny-penching",
+      "penny-pintching",
+      "penny-pinchin"
+    ],
+    "correct_chunks": [
+      "pen",
+      "ny-",
+      "pin",
+      "ching"
+    ],
+    "distractor_chunks": [
+      "peny-",
+      "penching",
+      "pintching",
+      "pinchin",
+      "pennyp"
+    ]
+  },
+  0
+]

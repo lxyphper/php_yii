@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pretentious",
+      "error_analysis": "学生易因形近词\"pretend\"(假装)误判为\"假装的\"，或因词根\"pre-\"(预先)+\"tend\"(倾向)错误推导为\"预先倾向的\"",
+      "sentence": "She rolled her eyes at his **pretentious** speech about his \"elite\" education and expensive taste.",
+      "options": {
+        "option": [
+          {
+            "definition": "自命不凡的；炫耀的",
+            "iscorrect": true
+          },
+          {
+            "definition": "假装的；虚伪的",
+            "iscorrect": false
+          },
+          {
+            "definition": "预先倾向的；有预谋的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有潜力的；有前途的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

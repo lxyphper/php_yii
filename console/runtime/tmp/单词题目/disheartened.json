@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "disheartened",
+      "error_analysis": "学生易因词根\"heart\"（心）和前缀\"dis-\"（否定）直译为\"心碎的\"，或因形近\"disheveled\"（凌乱的）误选",
+      "sentence": "After failing the driving test for the third time, Tom felt **disheartened** and decided to take a break from practicing.",
+      "options": {
+        "option": [
+          {
+            "definition": "心碎的；极度悲伤的",
+            "iscorrect": false
+          },
+          {
+            "definition": "凌乱的；不整洁的",
+            "iscorrect": false
+          },
+          {
+            "definition": "灰心的；沮丧的",
+            "iscorrect": true
+          },
+          {
+            "definition": "厌恶的；反感的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

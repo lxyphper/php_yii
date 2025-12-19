@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "electrolyte",
+      "error_analysis": "学生易因形近词\"electorate\"(选民)或词根\"electro-\"(电)误导，将\"electrolyte\"错误理解为\"选民\"或\"电导体\"",
+      "sentence": "Sports drinks contain **electrolytes** like sodium and potassium to help replenish what you lose through sweat.",
+      "options": {
+        "option": [
+          {
+            "definition": "电解质（能导电的物质，如盐溶液中的离子，可维持体内平衡）",
+            "iscorrect": true
+          },
+          {
+            "definition": "选民（有投票权的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "电导体（能传导电流的物体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "电子元件（电子设备的组成部分）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

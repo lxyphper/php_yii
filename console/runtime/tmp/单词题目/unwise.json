@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unwise",
+      "error_analysis": "中国学生易因“unwise”与形近词“unwilling”（不愿意的）拼写相似而混淆词义，或因“wise”的“聪明”义而误理解为“不聪明的”。",
+      "sentence": "It would be **unwise** to invest all your money in one stock without doing any research.",
+      "options": {
+        "option": [
+          {
+            "definition": "不明智的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不愿意的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不聪明的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不常见的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

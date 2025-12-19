@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unsurpassed",
+      "error_analysis": "中国学生易因形近词`unpassed`（未通过的）或词根错误推导（将`surpass`误判为“通过”）而误解`unsurpassed`为“未通过的”或“没超过的”。",
+      "sentence": "Her skill in painting is **unsurpassed** in the local art community.",
+      "options": {
+        "option": [
+          {
+            "definition": "未通过的",
+            "iscorrect": false
+          },
+          {
+            "definition": "没超过的；不如的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无与伦比的；卓越的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不常见的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

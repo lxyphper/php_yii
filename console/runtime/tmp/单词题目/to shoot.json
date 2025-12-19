@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to shoot",
+      "error_analysis": "形近词\"short\"（短的）导致学生将\"shoot\"误解为\"缩短；使变短\"。",
+      "sentence": "Can you help me **shoot** a quick video of the kids playing in the park?",
+      "options": {
+        "option": [
+          {
+            "definition": "拍摄（照片/视频等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "缩短；使变短",
+            "iscorrect": false
+          },
+          {
+            "definition": "发射（子弹/箭等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "喊叫；大声说",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

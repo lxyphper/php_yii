@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "injection",
+      "error_analysis": "易因形近词\"infection\"（感染）混淆，或因词根\"ject\"（扔）错误联想为\"投入物\"。",
+      "sentence": "The nurse administered an **injection** of penicillin to the patient with a high fever.",
+      "options": {
+        "option": [
+          {
+            "definition": "感染",
+            "iscorrect": false
+          },
+          {
+            "definition": "注射；注射剂",
+            "iscorrect": true
+          },
+          {
+            "definition": "投入物；插入物",
+            "iscorrect": false
+          },
+          {
+            "definition": "检查",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

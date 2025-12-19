@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "classy",
+      "error_analysis": "易因形近词\"class\"（班级）误解为\"班级的\"，或因\"class\"（阶级）词根猜测为\"有阶级的\"",
+      "sentence": "The restaurant has a **classy** atmosphere with soft jazz, warm lighting, and delicate silverware on each table.",
+      "options": {
+        "option": [
+          {
+            "definition": "高雅的；有品味的",
+            "iscorrect": true
+          },
+          {
+            "definition": "班级的；课堂的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有阶级的；等级分明的",
+            "iscorrect": false
+          },
+          {
+            "definition": "经典的；传统的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

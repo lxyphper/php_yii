@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "article",
+      "error_analysis": "学生易因形近词“art”（艺术）将“article”误解为“艺术作品”，或因字面联想误判为“物品”",
+      "sentence": "She read an interesting **article** about space exploration in the magazine.",
+      "options": {
+        "option": [
+          {
+            "definition": "文章",
+            "iscorrect": true
+          },
+          {
+            "definition": "艺术作品",
+            "iscorrect": false
+          },
+          {
+            "definition": "物品",
+            "iscorrect": false
+          },
+          {
+            "definition": "冠词",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

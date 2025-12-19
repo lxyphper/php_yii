@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "miserly",
+      "error_analysis": "学生易将'miserly'与形近词'misery'（痛苦）混淆，或因'mis-'前缀误判为'错误的'",
+      "sentence": "Despite earning a high salary, Mr. Smith was so **miserly** that he refused to buy his children new clothes even when theirs were worn out.",
+      "options": {
+        "option": [
+          {
+            "definition": "吝啬的，小气的",
+            "iscorrect": true
+          },
+          {
+            "definition": "痛苦的",
+            "iscorrect": false
+          },
+          {
+            "definition": "错误的",
+            "iscorrect": false
+          },
+          {
+            "definition": "仅仅的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

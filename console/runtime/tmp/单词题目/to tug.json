@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to tug",
+      "error_analysis": "学生易因形近词“tuck”（塞进）或“tag”（贴标签）混淆，或误将“tug”理解为“用拖船拖”。",
+      "sentence": "The child **tugged** at her mother’s skirt to ask for a candy.",
+      "options": {
+        "option": [
+          {
+            "definition": "拉；拽",
+            "iscorrect": true
+          },
+          {
+            "definition": "塞进；折叠",
+            "iscorrect": false
+          },
+          {
+            "definition": "用拖船拖",
+            "iscorrect": false
+          },
+          {
+            "definition": "贴标签；标记",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

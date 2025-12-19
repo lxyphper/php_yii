@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "foot",
+      "error_analysis": "形近词\"food\"（食物）的干扰，或对\"foot\"比喻义（如床脚）的字面误导（误判为\"基础\"）",
+      "sentence": "The cat sat at the **foot** of the bed.",
+      "options": {
+        "option": [
+          {
+            "definition": "脚（名词，可指物体的底部/末端）",
+            "iscorrect": true
+          },
+          {
+            "definition": "食物（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "基础（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "英尺（长度单位）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

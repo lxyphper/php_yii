@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to founder",
+      "error_analysis": "学生易将动词\"to founder\"误判为\"创立\"（形近名词\"founder\"（创始人）或词根\"found\"（建立）的干扰）",
+      "sentence": "The new restaurant **foundered** within six months due to lack of customers.",
+      "options": {
+        "option": [
+          {
+            "definition": "创立，建立",
+            "iscorrect": false
+          },
+          {
+            "definition": "成为创始人",
+            "iscorrect": false
+          },
+          {
+            "definition": "（船）沉没；（计划、事业等）失败",
+            "iscorrect": true
+          },
+          {
+            "definition": "发现",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

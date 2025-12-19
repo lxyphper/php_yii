@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "occasion",
+      "error_analysis": "易混淆形近词\"occupation\"(职业)或误将\"occasion\"字面联想为\"机会\"(chance)的同义词",
+      "sentence": "We are planning a big party for the **occasion** of our parents' 50th wedding anniversary.",
+      "options": {
+        "option": [
+          {
+            "definition": "场合；时机",
+            "iscorrect": true
+          },
+          {
+            "definition": "职业；工作",
+            "iscorrect": false
+          },
+          {
+            "definition": "机会；机遇",
+            "iscorrect": false
+          },
+          {
+            "definition": "原因；理由",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

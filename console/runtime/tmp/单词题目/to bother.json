@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to bother",
+      "error_analysis": "因与“brother”（兄弟）拼写接近易误联想，或拆分为“both”（两者都）+“er”误理解为“两者都的人”",
+      "sentence": "I don’t want to **bother** you, but could you pass me the pen?",
+      "options": {
+        "option": [
+          {
+            "definition": "兄弟",
+            "iscorrect": false
+          },
+          {
+            "definition": "两者都的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "打扰；麻烦",
+            "iscorrect": true
+          },
+          {
+            "definition": "其他的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

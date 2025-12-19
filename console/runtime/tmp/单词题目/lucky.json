@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lucky",
+      "error_analysis": "学生易因形近词“likely”（可能的）混淆词义，或误将“lucky”理解为“运气的名词形式”",
+      "sentence": "The little girl felt **lucky** when she found her lost toy in the park.",
+      "options": {
+        "option": [
+          {
+            "definition": "可能的",
+            "iscorrect": false
+          },
+          {
+            "definition": "幸运的",
+            "iscorrect": true
+          },
+          {
+            "definition": "运气（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "懒惰的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

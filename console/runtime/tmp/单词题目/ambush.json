@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ambush",
+      "error_analysis": "学生易因形近词“ambulance”（救护车）联想到“救护”相关义，或因包含“bush”（灌木）误判为“围绕灌木的动作”。",
+      "sentence": "The soldiers lay in wait to **ambush** the enemy as they crossed the narrow bridge.",
+      "options": {
+        "option": [
+          {
+            "definition": "救护车（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "围绕灌木移动（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "野心（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "伏击；埋伏（动词/名词）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

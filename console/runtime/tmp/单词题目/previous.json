@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "previous",
+      "error_analysis": "中国学生易混淆形近词“precious”（珍贵的），或误将“pre-”联想为“提前的”而非“之前的”。",
+      "sentence": "She mentioned in her **previous** letter that she would visit us next month.",
+      "options": {
+        "option": [
+          {
+            "definition": "之前的；先前的",
+            "iscorrect": true
+          },
+          {
+            "definition": "珍贵的；宝贵的",
+            "iscorrect": false
+          },
+          {
+            "definition": "提前的；预先的",
+            "iscorrect": false
+          },
+          {
+            "definition": "视觉的；可见的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

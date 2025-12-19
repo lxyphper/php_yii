@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "thunder",
+      "error_analysis": "学生易因形近词\"under\"（在...下面）或拆分\"th+under\"错误联想，将\"thunder\"误解为与\"下面\"相关的概念（如\"在...下面的空间\"\"地下的震动\"）",
+      "sentence": "We heard loud **thunder** after the lightning flashed across the sky.",
+      "options": {
+        "option": [
+          {
+            "definition": "雷声",
+            "iscorrect": true
+          },
+          {
+            "definition": "在...下面的空间",
+            "iscorrect": false
+          },
+          {
+            "definition": "地下的震动",
+            "iscorrect": false
+          },
+          {
+            "definition": "奇迹",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

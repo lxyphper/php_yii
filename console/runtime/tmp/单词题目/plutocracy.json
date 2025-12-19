@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "plutocracy",
+      "error_analysis": "学生易因形近词\"democracy\"(民主)混淆\"-cracy\"后缀含义，或因\"pluto-\"（冥王）的神话联想误解为与死亡相关的统治",
+      "sentence": "Critics argue that the country's political system has evolved into a **plutocracy**, where billionaires and corporate leaders hold disproportionate power over policy decisions.",
+      "options": {
+        "option": [
+          {
+            "definition": "富豪统治；财阀统治",
+            "iscorrect": true
+          },
+          {
+            "definition": "民主统治；人民主权",
+            "iscorrect": false
+          },
+          {
+            "definition": "冥王统治；地狱政权",
+            "iscorrect": false
+          },
+          {
+            "definition": "贵族统治；精英政权",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to worship",
+      "error_analysis": "学生易因“worship”与“worth”（值得）拼写相近而误判，或因拆分“wor”+“ship”误以为是“担心的状态”",
+      "sentence": "Many people **worship** famous musicians and collect all their albums.",
+      "options": {
+        "option": [
+          {
+            "definition": "崇拜；敬仰",
+            "iscorrect": true
+          },
+          {
+            "definition": "值得",
+            "iscorrect": false
+          },
+          {
+            "definition": "担心",
+            "iscorrect": false
+          },
+          {
+            "definition": "军舰",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

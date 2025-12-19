@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "smelly",
+      "error_analysis": "学生易因形近词\"smile\"（微笑）混淆词义，或因词根\"smell\"（闻）误判为中性的\"可闻的\"。",
+      "sentence": "After leaving the garbage in the kitchen for a week, the apartment became **smelly** and unpleasant.",
+      "options": {
+        "option": [
+          {
+            "definition": "有臭味的",
+            "iscorrect": true
+          },
+          {
+            "definition": "微笑的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可闻的",
+            "iscorrect": false
+          },
+          {
+            "definition": "愚蠢的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "aromatic",
+      "error_analysis": "学生易因形近词“romantic”（浪漫的）、“dramatic”（戏剧的）的干扰，或错误拆分“a-”+“romantic”得出“不浪漫的”的字面误导而错解“aromatic”。",
+      "sentence": "The **aromatic** coffee beans filled the kitchen with a warm, inviting smell.",
+      "options": {
+        "option": [
+          {
+            "definition": "芳香的，有香味的",
+            "iscorrect": true
+          },
+          {
+            "definition": "浪漫的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不浪漫的",
+            "iscorrect": false
+          },
+          {
+            "definition": "戏剧的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

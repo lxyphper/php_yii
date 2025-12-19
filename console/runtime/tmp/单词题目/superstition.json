@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "superstition",
+      "error_analysis": "中国学生易因形近词\"supervision\"（监督）混淆\"superstition\"，或因\"super-\"（超）的词根联想错误推导为\"超自然现象\"等含义",
+      "sentence": "Many people still hold the **superstition** that breaking a mirror brings seven years of bad luck.",
+      "options": {
+        "option": [
+          {
+            "definition": "迷信",
+            "iscorrect": true
+          },
+          {
+            "definition": "监督",
+            "iscorrect": false
+          },
+          {
+            "definition": "超自然现象",
+            "iscorrect": false
+          },
+          {
+            "definition": "过度的尊敬",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

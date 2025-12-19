@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "beverage",
+      "error_analysis": "学生易因形近词\"average\"（平均）混淆，或因\"ver\"部分接近\"verb\"（动词）而误猜为与\"动词\"相关含义",
+      "sentence": "Would you like to order a hot **beverage** like tea or coffee with your meal?",
+      "options": {
+        "option": [
+          {
+            "definition": "平均",
+            "iscorrect": false
+          },
+          {
+            "definition": "动词",
+            "iscorrect": false
+          },
+          {
+            "definition": "饮料",
+            "iscorrect": true
+          },
+          {
+            "definition": "信息",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

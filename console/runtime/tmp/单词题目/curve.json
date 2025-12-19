@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "curve",
+      "error_analysis": "易与形近词carve（雕刻）混淆，或误联想为电流（current）等无关词义",
+      "sentence": "The cyclist had to slow down for the sharp **curve** ahead.",
+      "options": {
+        "option": [
+          {
+            "definition": "弯曲处；曲线（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "雕刻（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "直线（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "电流（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

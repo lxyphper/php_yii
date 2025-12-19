@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "male",
+      "error_analysis": "混淆形近词'mail'（邮件）与'male'（男性的），或误将'male'理解为与邮件相关的含义",
+      "sentence": "The **male** lion has a thick mane that makes it easily recognizable in the savanna.",
+      "options": {
+        "option": [
+          {
+            "definition": "男性的；雄性的",
+            "iscorrect": true
+          },
+          {
+            "definition": "邮件；信件",
+            "iscorrect": false
+          },
+          {
+            "definition": "坏的；恶意的",
+            "iscorrect": false
+          },
+          {
+            "definition": "成熟的；成年人的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

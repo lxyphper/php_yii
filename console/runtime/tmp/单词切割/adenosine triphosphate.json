@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "adenosin triphosphate",
+      "adenosine tryphosphate",
+      "adenosine triphosfate",
+      "adenosine trphosphate"
+    ],
+    "correct_chunks": [
+      "adeno",
+      "sine",
+      "tri",
+      "phosphate"
+    ],
+    "distractor_chunks": [
+      "sin",
+      "try",
+      "fosfate",
+      "tr",
+      "adyn"
+    ]
+  },
+  0
+]

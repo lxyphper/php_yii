@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "monstrous",
+      "error_analysis": "学生易因词根\"monster\"(怪物)误导，将\"monstrous\"误解为\"像怪物的\"，忽略其\"极大的/荒谬的\"常用义。",
+      "sentence": "The amount of homework the teacher gave us yesterday was **monstrous**—it took me three hours to finish.",
+      "options": {
+        "option": [
+          {
+            "definition": "像怪物的",
+            "iscorrect": false
+          },
+          {
+            "definition": "极大的；多到离谱的",
+            "iscorrect": true
+          },
+          {
+            "definition": "纪念碑的",
+            "iscorrect": false
+          },
+          {
+            "definition": "友好的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

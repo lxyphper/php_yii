@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "shutdown",
+      "error_analysis": "学生易因“shut+down”字面误导为“向下关闭”，或因形近混淆“shout”（喊叫）导致错误理解。",
+      "sentence": "The government ordered a **shutdown** of all non-essential businesses during the pandemic.",
+      "options": {
+        "option": [
+          {
+            "definition": "大声喊叫",
+            "iscorrect": false
+          },
+          {
+            "definition": "向下关闭",
+            "iscorrect": false
+          },
+          {
+            "definition": "停业；停工",
+            "iscorrect": true
+          },
+          {
+            "definition": "故障",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

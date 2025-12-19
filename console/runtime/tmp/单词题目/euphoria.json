@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "euphoria",
+      "error_analysis": "学生易因形近词（如euphemism/委婉语）或词根过度推导（如将“eu-好+phoria携带”误解为普通幸福）而混淆其核心义“极度兴奋”。",
+      "sentence": "After winning the championship, the team was swept by a wave of **euphoria** that made them dance in the locker room all night.",
+      "options": {
+        "option": [
+          {
+            "definition": "极度兴奋；狂喜",
+            "iscorrect": true
+          },
+          {
+            "definition": "委婉语",
+            "iscorrect": false
+          },
+          {
+            "definition": "悦耳的声音",
+            "iscorrect": false
+          },
+          {
+            "definition": "平凡的幸福",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

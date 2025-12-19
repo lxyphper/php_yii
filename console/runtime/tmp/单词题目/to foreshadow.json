@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to foreshadow",
+      "error_analysis": "学生因\"shadow\"（影子/遮蔽）的字面义，易将\"foreshadow\"错解为\"遮蔽\"或\"投射影子\"，而非正确的\"预示\"。",
+      "sentence": "In the first chapter, the broken mirror **foreshadows** the protagonist's upcoming misfortune.",
+      "options": {
+        "option": [
+          {
+            "definition": "预示，预兆",
+            "iscorrect": true
+          },
+          {
+            "definition": "遮蔽，使有阴影",
+            "iscorrect": false
+          },
+          {
+            "definition": "投射影子，覆盖",
+            "iscorrect": false
+          },
+          {
+            "definition": "提前跟踪，尾随",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to inquire",
+      "error_analysis": "易混淆形近词\"require\"（误判为\"需要\"）及词根联想错误（将\"inquire\"与\"acquire\"关联为\"获得\"）",
+      "sentence": "The journalist decided to **inquire** about the missing documents from the local government.",
+      "options": {
+        "option": [
+          {
+            "definition": "询问；打听",
+            "iscorrect": true
+          },
+          {
+            "definition": "需要；要求",
+            "iscorrect": false
+          },
+          {
+            "definition": "获得；取得",
+            "iscorrect": false
+          },
+          {
+            "definition": "等待；等候",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

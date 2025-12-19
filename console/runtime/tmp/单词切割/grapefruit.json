@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "grapfruit",
+      "grapefuit",
+      "grepefruit",
+      "grapefroot"
+    ],
+    "correct_chunks": [
+      "grape",
+      "fr",
+      "uit"
+    ],
+    "distractor_chunks": [
+      "grap",
+      "fuit",
+      "grepe",
+      "froot"
+    ]
+  },
+  0
+]

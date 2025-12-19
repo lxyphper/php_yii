@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pharmacology",
+      "error_analysis": "学生易因形近词\"pharmacy\"(药店)混淆词义，或因\"pharma-\"与\"farm\"(农场)音近误联为\"农业学\"",
+      "sentence": "Her research in **pharmacology** focuses on how new drugs interact with the human body at a molecular level.",
+      "options": {
+        "option": [
+          {
+            "definition": "药理学（研究药物的学科）",
+            "iscorrect": true
+          },
+          {
+            "definition": "药店（出售药物的地方）",
+            "iscorrect": false
+          },
+          {
+            "definition": "农业学（研究农业的学科）",
+            "iscorrect": false
+          },
+          {
+            "definition": "药物销售（药物的买卖活动）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

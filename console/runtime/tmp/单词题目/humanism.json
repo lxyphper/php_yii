@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "humanism",
+      "error_analysis": "学生易将\"humanism\"混淆为\"人道主义\"（humanitarianism）或误推导为\"人类中心主义\"，忽略其\"强调人的价值、理性和古典文化\"的核心内涵",
+      "sentence": "The Renaissance movement was deeply influenced by **humanism**, which emphasized the value of individualism, reason, and the study of classical Greek and Roman texts.",
+      "options": {
+        "option": [
+          {
+            "definition": "人文主义（强调人的价值、理性和古典文化的思想体系）",
+            "iscorrect": true
+          },
+          {
+            "definition": "人道主义（关注慈善和救助他人的理念）",
+            "iscorrect": false
+          },
+          {
+            "definition": "人类中心主义（认为人类是宇宙中心的观点）",
+            "iscorrect": false
+          },
+          {
+            "definition": "人性论（关于人性本质的理论）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

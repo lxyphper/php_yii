@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to learn",
+      "error_analysis": "因形近词\"earn\"(赚得)或\"lean\"(倾斜)的干扰，误将\"learn\"理解为\"赚得\"或\"倾斜\"",
+      "sentence": "She decided to **learn** French before her trip to Paris next year.",
+      "options": {
+        "option": [
+          {
+            "definition": "学习；学会",
+            "iscorrect": true
+          },
+          {
+            "definition": "赚得；获得（钱/名声）",
+            "iscorrect": false
+          },
+          {
+            "definition": "倾斜；倚靠",
+            "iscorrect": false
+          },
+          {
+            "definition": "教；教导",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

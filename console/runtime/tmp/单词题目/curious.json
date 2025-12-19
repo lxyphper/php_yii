@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "curious",
+      "error_analysis": "学生易因“curious”与同后缀的“serious”（严肃的）形近或“cur-”词根联想（如“current”当前）而误解为“严肃的”或“当前的”",
+      "sentence": "The little boy was **curious** about the strange noise coming from the basement.",
+      "options": {
+        "option": [
+          {
+            "definition": "好奇的",
+            "iscorrect": true
+          },
+          {
+            "definition": "严肃的",
+            "iscorrect": false
+          },
+          {
+            "definition": "当前的",
+            "iscorrect": false
+          },
+          {
+            "definition": "愤怒的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

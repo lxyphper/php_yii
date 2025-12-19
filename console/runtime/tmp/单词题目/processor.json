@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "processor",
+      "error_analysis": "混淆形近词\"process\"（过程）的含义，或误判词根\"-or\"指人（如\"处理者\"）而非指物（如\"处理器\"）",
+      "sentence": "The new laptop has a powerful **processor** that allows it to run multiple programs smoothly.",
+      "options": {
+        "option": [
+          {
+            "definition": "处理器（如电脑的中央处理器）",
+            "iscorrect": true
+          },
+          {
+            "definition": "过程；步骤",
+            "iscorrect": false
+          },
+          {
+            "definition": "处理者；经办人",
+            "iscorrect": false
+          },
+          {
+            "definition": "程序；手续",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

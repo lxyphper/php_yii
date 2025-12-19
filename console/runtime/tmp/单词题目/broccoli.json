@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "broccoli",
+      "error_analysis": "学生易因形近将broccoli误判为“小册子”（brochure）或因拼写接近误认为“肉汤”（broth）",
+      "sentence": "My mom always adds some **broccoli** to the stir-fry to make it healthier.",
+      "options": {
+        "option": [
+          {
+            "definition": "西兰花",
+            "iscorrect": true
+          },
+          {
+            "definition": "小册子",
+            "iscorrect": false
+          },
+          {
+            "definition": "肉汤",
+            "iscorrect": false
+          },
+          {
+            "definition": "胸针",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

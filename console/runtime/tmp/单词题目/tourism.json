@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tourism",
+      "error_analysis": "学生易因形近词\"tourist\"(游客)混淆为\"游客群体\"，或因\"ism\"词根误判为\"旅行主义\"，忽略其\"旅游业\"的核心产业义。",
+      "sentence": "The government is investing heavily in **tourism** to attract more foreign visitors and boost the local economy.",
+      "options": {
+        "option": [
+          {
+            "definition": "旅游业",
+            "iscorrect": true
+          },
+          {
+            "definition": "游客群体",
+            "iscorrect": false
+          },
+          {
+            "definition": "旅行主义",
+            "iscorrect": false
+          },
+          {
+            "definition": "长途旅行",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

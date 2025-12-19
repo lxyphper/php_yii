@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "docufiction",
+      "error_analysis": "学生易将“docu-”误联想为“医生”（doc的缩写），或仅根据“fiction”认为是纯虚构作品，忽略其“纪实+虚构”的核心特征。",
+      "sentence": "Truman Capote's *In Cold Blood* is a landmark work of **docufiction**, as it blends exhaustive research into a real murder case with a novelistic structure.",
+      "options": {
+        "option": [
+          {
+            "definition": "纪实小说（基于真实事件的虚构文学作品）",
+            "iscorrect": true
+          },
+          {
+            "definition": "医生撰写的小说",
+            "iscorrect": false
+          },
+          {
+            "definition": "纯虚构的文学作品",
+            "iscorrect": false
+          },
+          {
+            "definition": "纪实纪录片",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "shift",
+      "error_analysis": "学生易因形近词“shirt”（衬衫）或音近词“shove”（推）的联想而误判“shift”的含义",
+      "sentence": "To reduce costs, the factory will **shift** some of its operations to a cheaper location next month.",
+      "options": {
+        "option": [
+          {
+            "definition": "转移；搬迁",
+            "iscorrect": true
+          },
+          {
+            "definition": "衬衫",
+            "iscorrect": false
+          },
+          {
+            "definition": "推；猛推",
+            "iscorrect": false
+          },
+          {
+            "definition": "筛；筛选",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

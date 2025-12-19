@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "santa claus",
+      "error_analysis": "学生易因“claus”与形近词“clause”（条款）或“claw”（爪子）混淆，或拆分“santa”（圣徒）与“claus”（姓氏）误判为普通人名组合。",
+      "sentence": "Children hang stockings by the fireplace waiting for **Santa Claus** to bring them presents on Christmas Eve.",
+      "options": {
+        "option": [
+          {
+            "definition": "圣诞老人（传统上在圣诞夜给孩子们送礼物的人物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "圣徒条款（“圣徒”与“条款”的组合）",
+            "iscorrect": false
+          },
+          {
+            "definition": "圣徒克劳斯（“圣徒”与姓氏“克劳斯”的普通人名）",
+            "iscorrect": false
+          },
+          {
+            "definition": "圣徒爪子（“圣徒”与“爪子”的错误联想）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "low",
+      "error_analysis": "中国学生易因形近词“law”（法律）产生拼写混淆，或误将“low”理解为“慢的”（与“slow”联想）",
+      "sentence": "The shelf is too **low** for the tall man to reach the top.",
+      "options": {
+        "option": [
+          {
+            "definition": "低的；矮的",
+            "iscorrect": true
+          },
+          {
+            "definition": "法律",
+            "iscorrect": false
+          },
+          {
+            "definition": "慢的",
+            "iscorrect": false
+          },
+          {
+            "definition": "卑微的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

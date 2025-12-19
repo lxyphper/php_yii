@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to tailor",
+      "error_analysis": "学生易将动词“to tailor”误解为“裁剪（衣服）”（来自名词“裁缝”的字面联想）或“尾随”（形近词“tail”的干扰）。",
+      "sentence": "The teacher will **tailor** the lesson plan to the needs of the new students.",
+      "options": {
+        "option": [
+          {
+            "definition": "调整以适应（特定需求）",
+            "iscorrect": true
+          },
+          {
+            "definition": "裁剪（布料或衣服）",
+            "iscorrect": false
+          },
+          {
+            "definition": "尾随/跟踪",
+            "iscorrect": false
+          },
+          {
+            "definition": "为...设计（服装）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

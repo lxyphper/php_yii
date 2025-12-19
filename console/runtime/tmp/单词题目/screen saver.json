@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "screen saver",
+      "error_analysis": "学生易因“saver”的字面含义（节省者/拯救者），将“screen saver”错误理解为“屏幕节省器”或“屏幕拯救者”，忽略其“保护屏幕的程序”这一核心义",
+      "sentence": "When you leave your computer unused for a few minutes, the **screen saver** will start automatically to prevent the screen from getting permanent marks.",
+      "options": {
+        "option": [
+          {
+            "definition": "屏幕保护程序（电脑闲置时自动启动以防止屏幕烧屏的软件）",
+            "iscorrect": true
+          },
+          {
+            "definition": "屏幕节省器（用于降低屏幕电量消耗的设备）",
+            "iscorrect": false
+          },
+          {
+            "definition": "屏幕拯救者（用于修复屏幕损坏的工具或软件）",
+            "iscorrect": false
+          },
+          {
+            "definition": "屏幕保存器（用于存储屏幕显示内容的工具）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

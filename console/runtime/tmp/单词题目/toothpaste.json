@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "toothpaste",
+      "error_analysis": "学生易将\"toothpaste\"拆分为\"tooth（牙齿）+paste（粘贴）\"，误理解为\"牙齿粘贴剂\"（词根/字面误导）。",
+      "sentence": "I need to buy some **toothpaste** because I ran out of it this morning.",
+      "options": {
+        "option": [
+          {
+            "definition": "牙膏",
+            "iscorrect": true
+          },
+          {
+            "definition": "牙齿粘贴剂",
+            "iscorrect": false
+          },
+          {
+            "definition": "牙签",
+            "iscorrect": false
+          },
+          {
+            "definition": "牙刷",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

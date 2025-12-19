@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "collage",
+      "error_analysis": "易因形近词\"college\"（大学）混淆，或因\"col-\"（收集）词根误导为\"收集物\"",
+      "sentence": "In art class, Lily made a **collage** using old magazines, photos, and fabric to represent her favorite memories.",
+      "options": {
+        "option": [
+          {
+            "definition": "拼贴画（用图片、纸张等粘贴而成的艺术作品）",
+            "iscorrect": true
+          },
+          {
+            "definition": "大学（高等教育机构）",
+            "iscorrect": false
+          },
+          {
+            "definition": "收集的物品（如书籍、玩具等的集合）",
+            "iscorrect": false
+          },
+          {
+            "definition": "单一的绘画作品（用颜料绘制的图画）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

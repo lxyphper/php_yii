@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "milkshake",
+      "error_analysis": "学生易将\"milkshake\"拆分为\"milk\"（牛奶）和\"shake\"（摇晃），字面误解为\"摇牛奶的动作\"或\"牛奶摇匀后的液体\"，而非正确的\"奶昔\"（甜饮品）",
+      "sentence": "After lunch, she decided to treat herself to a vanilla **milkshake** from her favorite bakery.",
+      "options": {
+        "option": [
+          {
+            "definition": "奶昔（一种由牛奶、冰淇淋等混合制成的甜饮品）",
+            "iscorrect": true
+          },
+          {
+            "definition": "牛奶蛋糕（由牛奶和面粉制成的甜点）",
+            "iscorrect": false
+          },
+          {
+            "definition": "摇牛奶的动作（将牛奶摇匀的过程）",
+            "iscorrect": false
+          },
+          {
+            "definition": "混合牛奶和冰淇淋的摇晃步骤",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

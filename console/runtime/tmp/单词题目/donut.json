@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "donut",
+      "error_analysis": "中国学生易因形近词\"donate\"（捐赠）混淆词义，或误拆\"do+nut\"理解为\"坚果相关食物\"",
+      "sentence": "She bought a chocolate-covered **donut** for her morning snack.",
+      "options": {
+        "option": [
+          {
+            "definition": "捐赠（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "坚果点心",
+            "iscorrect": false
+          },
+          {
+            "definition": "甜甜圈",
+            "iscorrect": true
+          },
+          {
+            "definition": "圆形贴纸",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

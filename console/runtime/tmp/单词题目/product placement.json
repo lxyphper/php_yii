@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "product placement",
+      "error_analysis": "学生易因\"product\"(产品)和\"placement\"(放置)的字面含义，将其误理解为\"产品放置/陈列\"（如商店内的摆放），而非正确的\"植入式广告\"。",
+      "sentence": "In the movie, the main character drinks a specific brand of soda during a key scene—this is a classic example of **product placement**.",
+      "options": {
+        "option": [
+          {
+            "definition": "植入式广告（产品在电影、电视等媒体内容中的隐性推广）",
+            "iscorrect": true
+          },
+          {
+            "definition": "产品陈列（如超市货架上的产品摆放）",
+            "iscorrect": false
+          },
+          {
+            "definition": "产品替换（如损坏或过期产品的更换）",
+            "iscorrect": false
+          },
+          {
+            "definition": "产品定位（如企业对产品的市场目标设定）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sprocket",
+      "error_analysis": "学生易因形近词\"socket\"(插座)混淆，或误将\"齿状结构\"联想为\"尖刺\"等无关义",
+      "sentence": "The bike's chain came loose and fell off the **sprocket** as he was riding up the hill.",
+      "options": {
+        "option": [
+          {
+            "definition": "插座；插孔",
+            "iscorrect": false
+          },
+          {
+            "definition": "尖刺；钉子",
+            "iscorrect": false
+          },
+          {
+            "definition": "链轮；齿状滑轮",
+            "iscorrect": true
+          },
+          {
+            "definition": "围巾；披肩",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

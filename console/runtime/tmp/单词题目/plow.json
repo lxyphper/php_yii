@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "plow",
+      "error_analysis": "学生易因形近词\"flow\"（流动）干扰，将\"plow\"误判为与\"流动\"相关的含义",
+      "sentence": "The farmer **plowed** the field carefully before sowing the seeds.",
+      "options": {
+        "option": [
+          {
+            "definition": "犁地（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "流动",
+            "iscorrect": false
+          },
+          {
+            "definition": "种植",
+            "iscorrect": false
+          },
+          {
+            "definition": "收割",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

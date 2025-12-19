@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "elliptical galaxy",
+      "error_analysis": "学生易将“elliptical”的“隐晦的”义项错误迁移至“galaxy”，或混淆描述星系形状的“spiral”（螺旋的）而误判。",
+      "sentence": "Unlike spiral galaxies with bright, winding arms, an **elliptical galaxy** appears as a smooth, oval mass with no distinct structure and minimal star-forming material.",
+      "options": {
+        "option": [
+          {
+            "definition": "椭圆星系",
+            "iscorrect": true
+          },
+          {
+            "definition": "螺旋星系",
+            "iscorrect": false
+          },
+          {
+            "definition": "隐晦的星系",
+            "iscorrect": false
+          },
+          {
+            "definition": "不规则星系",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

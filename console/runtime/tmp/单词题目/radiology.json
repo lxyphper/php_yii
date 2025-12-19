@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "radiology",
+      "error_analysis": "学生易因词根\"radio-\"（无线电/辐射）或形近词\"radiation\"（辐射）误判为\"无线电学\"或\"辐射研究\"",
+      "sentence": "After the accident, the doctor recommended a **radiology** scan to check for internal injuries.",
+      "options": {
+        "option": [
+          {
+            "definition": "放射学；影像学",
+            "iscorrect": true
+          },
+          {
+            "definition": "无线电学",
+            "iscorrect": false
+          },
+          {
+            "definition": "辐射研究",
+            "iscorrect": false
+          },
+          {
+            "definition": "生物学分支",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

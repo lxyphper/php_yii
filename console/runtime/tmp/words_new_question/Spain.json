@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Spain",
+      "error_analysis": "学生易因形近词\"spin\"(旋转)、\"sprain\"(扭伤)或拆词\"pain\"(痛苦)混淆\"Spain\"的词义",
+      "sentence": "Many tourists dream of visiting Barcelona, a famous city in **Spain**, to see the Sagrada Família.",
+      "options": {
+        "option": [
+          {
+            "definition": "旋转（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "扭伤（名词/动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "痛苦（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "西班牙（国家名）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

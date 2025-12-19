@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gauzy",
+      "error_analysis": "学生易因形近词“gusty”（有阵风的）或“gauge”（测量）混淆，或误将“gauzy”理解为“粗糙的”（源于“gauze”的错误推测）",
+      "sentence": "The morning light filtered through the **gauzy** curtain, casting a soft glow over the bedroom.",
+      "options": {
+        "option": [
+          {
+            "definition": "薄而透明的（用于织物等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "有阵风的",
+            "iscorrect": false
+          },
+          {
+            "definition": "测量的",
+            "iscorrect": false
+          },
+          {
+            "definition": "粗糙的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

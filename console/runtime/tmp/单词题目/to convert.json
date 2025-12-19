@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to convert",
+      "error_analysis": "易因形近词“concert”（音乐会）干扰或词根“vert”（转）过度直译，误将“convert”理解为“音乐会”或“旋转”。",
+      "sentence": "The factory uses a machine to **convert** raw materials into finished products.",
+      "options": {
+        "option": [
+          {
+            "definition": "转换；将……转换成",
+            "iscorrect": true
+          },
+          {
+            "definition": "音乐会",
+            "iscorrect": false
+          },
+          {
+            "definition": "旋转",
+            "iscorrect": false
+          },
+          {
+            "definition": "说服",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

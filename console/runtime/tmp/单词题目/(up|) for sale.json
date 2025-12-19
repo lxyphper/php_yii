@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "(up|) for sale",
+      "error_analysis": "混淆'sale'与形近词'sail'(航行)，或误将'up'直译为'向上'导致理解为'向上销售'",
+      "sentence": "The old house at the end of the street has been **up for sale** for three months, but no one has made an offer yet.",
+      "options": {
+        "option": [
+          {
+            "definition": "待售；供出售",
+            "iscorrect": true
+          },
+          {
+            "definition": "为了航行；用于航行",
+            "iscorrect": false
+          },
+          {
+            "definition": "向上销售；涨价销售",
+            "iscorrect": false
+          },
+          {
+            "definition": "正在促销；打折出售",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "media",
+      "error_analysis": "学生易因“medi-”词根（中间）或“medium”（中等）的联想，将“media”错误理解为“中间事物”或“中等的东西”，而非“媒体”。",
+      "sentence": "The **media** have been reporting extensively on the new government policy.",
+      "options": {
+        "option": [
+          {
+            "definition": "媒体（新闻、广播、电视等的总称）",
+            "iscorrect": true
+          },
+          {
+            "definition": "中间的事物；调解工具",
+            "iscorrect": false
+          },
+          {
+            "definition": "调解；斡旋",
+            "iscorrect": false
+          },
+          {
+            "definition": "中等的东西（复数）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

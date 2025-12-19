@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ellipse",
+      "error_analysis": "学生易因形近词混淆，将“ellipse”误判为“日食/月食”（eclipse）或“省略号”（ellipsis）。",
+      "sentence": "The Earth's orbit around the Sun is an **ellipse**, with the Sun positioned at one of its two focal points.",
+      "options": {
+        "option": [
+          {
+            "definition": "椭圆（形）",
+            "iscorrect": true
+          },
+          {
+            "definition": "日食/月食",
+            "iscorrect": false
+          },
+          {
+            "definition": "省略号",
+            "iscorrect": false
+          },
+          {
+            "definition": "环形",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "volume",
+      "error_analysis": "学生易因形近词\"volunteer\"（志愿者）或误将\"volume\"理解为\"数量\"（如\"a large volume of\"的误导）",
+      "sentence": "Could you please lower the **volume** of the music? It's too loud for me to concentrate.",
+      "options": {
+        "option": [
+          {
+            "definition": "音量",
+            "iscorrect": true
+          },
+          {
+            "definition": "志愿者",
+            "iscorrect": false
+          },
+          {
+            "definition": "数量",
+            "iscorrect": false
+          },
+          {
+            "definition": "重量",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

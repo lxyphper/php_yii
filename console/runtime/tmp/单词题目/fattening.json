@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fattening",
+      "error_analysis": "学生易因形近词\"flattening\"(使平坦的)混淆，或因词根\"fat\"错误理解为\"有脂肪的\"，而非\"导致变胖的\"",
+      "sentence": "Many people avoid eating cakes and cookies because they are considered **fattening** and may lead to weight gain.",
+      "options": {
+        "option": [
+          {
+            "definition": "使变胖的；增肥的（指食物等易导致体重增加的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "使平坦的；使平整的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有脂肪的；含脂肪多的",
+            "iscorrect": false
+          },
+          {
+            "definition": "喂养的；饲养的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

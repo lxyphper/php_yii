@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "worried",
+      "error_analysis": "中国学生易因形近词（如\"worse\"更糟的、\"hurried\"匆忙的）或词根拆分（如\"wor\"+\"ried\"误以为工作过的）误解\"worried\"的含义。",
+      "sentence": "She looked **worried** when she heard the bad news about her friend.",
+      "options": {
+        "option": [
+          {
+            "definition": "担心的",
+            "iscorrect": true
+          },
+          {
+            "definition": "更糟的",
+            "iscorrect": false
+          },
+          {
+            "definition": "匆忙的",
+            "iscorrect": false
+          },
+          {
+            "definition": "工作过的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

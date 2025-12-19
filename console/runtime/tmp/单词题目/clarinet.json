@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "clarinet",
+      "error_analysis": "因形近词\"clarify\"(澄清)及词根\"clari-\"(清晰)误导，易误认为与\"澄清\"或\"透明\"相关的物品",
+      "sentence": "The musician picked up her **clarinet** and began to play a melodious tune in the orchestra.",
+      "options": {
+        "option": [
+          {
+            "definition": "单簧管（一种木管乐器，通常有簧片）",
+            "iscorrect": true
+          },
+          {
+            "definition": "澄清剂（用于净化液体的化学物质）",
+            "iscorrect": false
+          },
+          {
+            "definition": "清晰度测试仪（测量声音或图像清晰程度的设备）",
+            "iscorrect": false
+          },
+          {
+            "definition": "小提琴（一种用弓演奏的弦乐器）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

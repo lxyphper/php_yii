@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Australian",
+      "error_analysis": "学生易混淆形近词\"Austrian\"（奥地利的），或误将其与其他地区词汇（如\"American\"）关联",
+      "sentence": "My new classmate is an **Australian** who often talks about his hometown in Melbourne.",
+      "options": {
+        "option": [
+          {
+            "definition": "澳大利亚的；澳大利亚人",
+            "iscorrect": true
+          },
+          {
+            "definition": "奥地利的；奥地利人",
+            "iscorrect": false
+          },
+          {
+            "definition": "美国的；美国人",
+            "iscorrect": false
+          },
+          {
+            "definition": "加拿大的；加拿大人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

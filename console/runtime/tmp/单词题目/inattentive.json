@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "inattentive",
+      "error_analysis": "易因形近词\"inactive\"误判为\"不活跃的\"，或因词根\"attentive\"过度推导为\"不关心的\"",
+      "sentence": "The teacher reminded the **inattentive** student to stop daydreaming and focus on the lesson.",
+      "options": {
+        "option": [
+          {
+            "definition": "不注意的；疏忽的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不活跃的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不关心的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不诚实的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

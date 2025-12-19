@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "perimeter",
+      "error_analysis": "学生易因形近词“permanent”（永久的）混淆，或误将“peri-”+“meter”推导为“测量工具”。",
+      "sentence": "The gardener measured the **perimeter** of the rectangular flower bed to determine how much fencing was needed.",
+      "options": {
+        "option": [
+          {
+            "definition": "周长；周边",
+            "iscorrect": true
+          },
+          {
+            "definition": "永久的；持久的",
+            "iscorrect": false
+          },
+          {
+            "definition": "测量工具；计量仪",
+            "iscorrect": false
+          },
+          {
+            "definition": "中心区域；核心部分",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

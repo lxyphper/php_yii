@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "astroid",
+      "astoroid",
+      "esteroid",
+      "asterod"
+    ],
+    "correct_chunks": [
+      "as",
+      "ter",
+      "oid"
+    ],
+    "distractor_chunks": [
+      "troid",
+      "tor",
+      "es",
+      "rod"
+    ]
+  },
+  0
+]

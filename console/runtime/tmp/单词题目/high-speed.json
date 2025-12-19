@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "high-speed",
+      "error_analysis": "学生易将合成词\"high-speed\"错误拆分为\"高的速度\"（名词短语），而非形容词\"高速的\"。",
+      "sentence": "The new **high-speed** railway reduces the travel time between Beijing and Shanghai to 4.5 hours.",
+      "options": {
+        "option": [
+          {
+            "definition": "高速的（形容词，用于描述具有高速度的事物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "高的速度（名词短语，指速度的数值高）",
+            "iscorrect": false
+          },
+          {
+            "definition": "公路的（形近词\"highway\"的误导，指与公路相关的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速的频率（混淆\"speed\"与\"frequency\"，指频率高）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

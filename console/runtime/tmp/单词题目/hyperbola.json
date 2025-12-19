@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hyperbola",
+      "error_analysis": "学生易混淆形近词hyperbole（夸张），或通过词根hyper-（超过）和-bola（球/投掷）误判为“超级球体”或“套索”。",
+      "sentence": "The graph of the equation x²/4 - y²/9 = 1 forms a **hyperbola** that opens left and right.",
+      "options": {
+        "option": [
+          {
+            "definition": "（数学中的）双曲线",
+            "iscorrect": true
+          },
+          {
+            "definition": "（修辞中的）夸张手法",
+            "iscorrect": false
+          },
+          {
+            "definition": "超级球体；过度膨胀的物体",
+            "iscorrect": false
+          },
+          {
+            "definition": "用于捕捉的套索工具",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

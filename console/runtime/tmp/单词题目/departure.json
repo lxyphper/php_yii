@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "departure",
+      "error_analysis": "中国学生易因形近词\"department\"（部门）混淆，或词根\"part\"（部分）猜测，误将\"departure\"理解为\"部门\"或\"部分\"。",
+      "sentence": "The flight's **departure** was delayed because of fog, so we had to wait at the airport for another two hours.",
+      "options": {
+        "option": [
+          {
+            "definition": "部门",
+            "iscorrect": false
+          },
+          {
+            "definition": "部分",
+            "iscorrect": false
+          },
+          {
+            "definition": "离开；出发",
+            "iscorrect": true
+          },
+          {
+            "definition": "到达",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

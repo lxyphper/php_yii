@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "driveway",
+      "error_analysis": "中国学生易因词根字面误导将'driveway'误判为'用于驾驶的公共道路'，或因形近词混淆为'公园旁的大道'。",
+      "sentence": "When I got home, I parked my car in the **driveway** because the garage was full.",
+      "options": {
+        "option": [
+          {
+            "definition": "住宅前连接马路与车库的私人车道",
+            "iscorrect": true
+          },
+          {
+            "definition": "用于驾驶的公共道路（如高速公路）",
+            "iscorrect": false
+          },
+          {
+            "definition": "公园旁的大道",
+            "iscorrect": false
+          },
+          {
+            "definition": "行人行走的人行道",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

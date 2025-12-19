@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unprofitable",
+      "error_analysis": "学生易因形近词（如uncomfortable）或词根profit泛化（如“没有好处的”）而误判unprofitable为非“不盈利的”。",
+      "sentence": "After years of declining sales, the factory was deemed **unprofitable** and shut down.",
+      "options": {
+        "option": [
+          {
+            "definition": "不盈利的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不舒服的",
+            "iscorrect": false
+          },
+          {
+            "definition": "没有好处的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不生产的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

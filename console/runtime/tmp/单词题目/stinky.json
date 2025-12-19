@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stinky",
+      "error_analysis": "学生易因形近词混淆，将\"stinky\"误判为\"stingy\"（吝啬的）或\"sticky\"（粘的）",
+      "sentence": "The leftover fish in the fridge has become **stinky**; we should throw it away immediately.",
+      "options": {
+        "option": [
+          {
+            "definition": "有臭味的；发臭的",
+            "iscorrect": true
+          },
+          {
+            "definition": "吝啬的；小气的",
+            "iscorrect": false
+          },
+          {
+            "definition": "粘的；粘性的",
+            "iscorrect": false
+          },
+          {
+            "definition": "吵闹的；喧嚣的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

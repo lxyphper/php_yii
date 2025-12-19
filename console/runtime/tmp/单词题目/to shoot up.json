@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to shoot up",
+      "error_analysis": "学生易因\"shoot\"的\"射击\"本义或字面直译，将\"to shoot up\"误解为\"向上开枪\"或\"用力投掷\"。",
+      "sentence": "Our daughter has **shot up** by 12 cm this year—she can now reach the top shelf of the cupboard!",
+      "options": {
+        "option": [
+          {
+            "definition": "to grow or increase very quickly",
+            "iscorrect": true
+          },
+          {
+            "definition": "to fire a gun towards the sky",
+            "iscorrect": false
+          },
+          {
+            "definition": "to throw something up with force",
+            "iscorrect": false
+          },
+          {
+            "definition": "to jump up suddenly in surprise",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

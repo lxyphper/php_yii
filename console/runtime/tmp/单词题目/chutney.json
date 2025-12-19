@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "chutney",
+      "error_analysis": "学生易因形近词\"chute\"（滑道）混淆猜测为\"滑道\"，或拆词为\"chat+hut\"猜测为\"聊天小屋\"",
+      "sentence": "She served the samosas with a spicy mango **chutney** on the side.",
+      "options": {
+        "option": [
+          {
+            "definition": "（印度风味的）酸辣酱",
+            "iscorrect": true
+          },
+          {
+            "definition": "滑道；降落伞",
+            "iscorrect": false
+          },
+          {
+            "definition": "聊天小屋",
+            "iscorrect": false
+          },
+          {
+            "definition": "奶酪",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

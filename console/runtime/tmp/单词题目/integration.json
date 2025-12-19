@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "integration",
+      "error_analysis": "学生易因形近词\"integrity\"(正直)或\"intention\"(意图)产生错误联想，或误将\"整合\"理解为\"正直\"或\"意图\"",
+      "sentence": "The school’s new program aims to promote the **integration** of students from different cultural backgrounds into a unified community.",
+      "options": {
+        "option": [
+          {
+            "definition": "整合；融合",
+            "iscorrect": true
+          },
+          {
+            "definition": "正直；诚实",
+            "iscorrect": false
+          },
+          {
+            "definition": "意图；目的",
+            "iscorrect": false
+          },
+          {
+            "definition": "完整；完全",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "good night",
+      "error_analysis": "学生易将\"good night\"直译为\"好的夜晚\"（词根字面误导），而非其作为交际用语的\"晚安\"。",
+      "sentence": "After reading a bedtime story to her daughter, Mom kissed her forehead and said, \"**Good night**, my little angel.\"",
+      "options": {
+        "option": [
+          {
+            "definition": "晚安（晚上告别或睡前的常用问候语）",
+            "iscorrect": true
+          },
+          {
+            "definition": "好的夜晚（描述夜晚的质量好坏）",
+            "iscorrect": false
+          },
+          {
+            "definition": "晚上好（傍晚见面时的问候语）",
+            "iscorrect": false
+          },
+          {
+            "definition": "美好的夜晚（强调夜晚的愉快感受）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

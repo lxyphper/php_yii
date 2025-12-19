@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "horse",
+      "error_analysis": "容易与形近词“house”（房子）混淆，导致误判为“房子”",
+      "sentence": "The farmer rides his **horse** to check the fields every morning.",
+      "options": {
+        "option": [
+          {
+            "definition": "马",
+            "iscorrect": true
+          },
+          {
+            "definition": "房子",
+            "iscorrect": false
+          },
+          {
+            "definition": "软管",
+            "iscorrect": false
+          },
+          {
+            "definition": "小时",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

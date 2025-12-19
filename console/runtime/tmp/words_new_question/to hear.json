@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to hear",
+      "error_analysis": "学生易因形近词\"here\"（这里）或\"hair\"（头发）的干扰，将\"hear\"误判为表地点的\"在这里\"或名词\"头发\"。",
+      "sentence": "Can you **hear** the music from the next room?",
+      "options": {
+        "option": [
+          {
+            "definition": "听见；听到（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "在这里（副词，表地点）",
+            "iscorrect": false
+          },
+          {
+            "definition": "头发（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "害怕（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

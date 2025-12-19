@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "emotion",
+      "error_analysis": "学生易因形近词'motion'（运动）或词根'em-+motion'的错误推导，将'emotion'误解为'运动'或'活动'",
+      "sentence": "When she heard the good news, a strong **emotion** of joy filled her heart.",
+      "options": {
+        "option": [
+          {
+            "definition": "情绪；情感",
+            "iscorrect": true
+          },
+          {
+            "definition": "运动；动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "活动；动态",
+            "iscorrect": false
+          },
+          {
+            "definition": "动机；目的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

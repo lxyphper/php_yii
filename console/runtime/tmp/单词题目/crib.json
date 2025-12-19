@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "crib",
+      "error_analysis": "学生易因形近词\"crab\"(螃蟹)或字面误导将\"crib\"误解为\"箱子\"等容器",
+      "sentence": "The baby fell asleep quickly in her new **crib** next to the window.",
+      "options": {
+        "option": [
+          {
+            "definition": "婴儿床",
+            "iscorrect": true
+          },
+          {
+            "definition": "螃蟹",
+            "iscorrect": false
+          },
+          {
+            "definition": "箱子",
+            "iscorrect": false
+          },
+          {
+            "definition": "庄稼",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

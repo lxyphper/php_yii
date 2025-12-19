@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "firm",
+      "error_analysis": "中国学生易因形近词“farm”（农场）干扰，误将“firm”理解为“农场的”，或混淆其形容词与名词义。",
+      "sentence": "She gave me a **firm** handshake to show her confidence.",
+      "options": {
+        "option": [
+          {
+            "definition": "坚定的；有力的",
+            "iscorrect": true
+          },
+          {
+            "definition": "农场的",
+            "iscorrect": false
+          },
+          {
+            "definition": "公司",
+            "iscorrect": false
+          },
+          {
+            "definition": "柔软的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

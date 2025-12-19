@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to add",
+      "error_analysis": "中国学生易因形近词“aid”（帮助）混淆“add”的含义，或误将其核心义“添加”扩展为“合计”（如“add up”的引申义）。",
+      "sentence": "Please **add** a spoonful of honey to your tea if you prefer it sweeter.",
+      "options": {
+        "option": [
+          {
+            "definition": "添加；增加",
+            "iscorrect": true
+          },
+          {
+            "definition": "帮助；援助",
+            "iscorrect": false
+          },
+          {
+            "definition": "合计；总计",
+            "iscorrect": false
+          },
+          {
+            "definition": "修改；调整",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

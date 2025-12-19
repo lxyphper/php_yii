@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to wear",
+      "error_analysis": "中国学生易将“wear”与形近词“wait”（等待）或“were”（是）混淆，或因“ear”词根误联想为“听”。",
+      "sentence": "She always **wears** a blue scarf in winter to keep warm.",
+      "options": {
+        "option": [
+          {
+            "definition": "穿；戴",
+            "iscorrect": true
+          },
+          {
+            "definition": "等待",
+            "iscorrect": false
+          },
+          {
+            "definition": "听；听见",
+            "iscorrect": false
+          },
+          {
+            "definition": "是",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

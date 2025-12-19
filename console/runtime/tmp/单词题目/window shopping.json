@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "window shopping",
+      "error_analysis": "学生易因字面翻译将\"window shopping\"误解为\"与窗户相关的购物\"（如购买窗户商品或在窗户边购物）",
+      "sentence": "Lisa spent the afternoon **window shopping** in the downtown area—she admired the new dresses in the boutique windows but didn’t take any into the fitting room.",
+      "options": {
+        "option": [
+          {
+            "definition": "逛商店看橱窗里的商品但不购买",
+            "iscorrect": true
+          },
+          {
+            "definition": "购买窗户或窗户相关的商品",
+            "iscorrect": false
+          },
+          {
+            "definition": "逛商店时购买橱窗里的商品",
+            "iscorrect": false
+          },
+          {
+            "definition": "在窗户旁边进行的购物活动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

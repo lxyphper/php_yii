@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to ingest",
+      "error_analysis": "学生易因形近词\"invest\"(投资)混淆词义，或因词根\"gest\"（携带）错误联想为\"做手势/展示\"，忽略其\"摄入体内\"的核心义。",
+      "sentence": "After taking the medicine, you should wait 30 minutes before **ingesting** any food to avoid reducing its effectiveness.",
+      "options": {
+        "option": [
+          {
+            "definition": "投资（资金或时间）",
+            "iscorrect": false
+          },
+          {
+            "definition": "摄入（食物、药物等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "做手势；展示",
+            "iscorrect": false
+          },
+          {
+            "definition": "消化（食物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

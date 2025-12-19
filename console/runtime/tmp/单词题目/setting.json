@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "setting",
+      "error_analysis": "易混淆形近词settling（定居；解决），或误将其理解为set的动名词“设置的动作”",
+      "sentence": "The novel’s **setting** is a small village in the 19th century, where the characters face many traditional challenges.",
+      "options": {
+        "option": [
+          {
+            "definition": "（故事、小说等的）背景；环境",
+            "iscorrect": true
+          },
+          {
+            "definition": "定居；解决（问题）",
+            "iscorrect": false
+          },
+          {
+            "definition": "设置的动作；调整（设备等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "（太阳的）落下；沉降",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

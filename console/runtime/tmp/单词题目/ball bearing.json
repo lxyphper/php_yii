@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ball bearing",
+      "error_analysis": "学生易因\"bearing\"的常见义（如\"方向\"\"忍受\"）将\"ball bearing\"误猜为\"球的方向\"或\"球的忍受\"，忽略其机械术语\"滚珠轴承\"的含义",
+      "sentence": "The mechanic replaced the worn-out **ball bearing** in the bike's wheel to make it spin smoothly again.",
+      "options": {
+        "option": [
+          {
+            "definition": "滚珠轴承",
+            "iscorrect": true
+          },
+          {
+            "definition": "球的方向",
+            "iscorrect": false
+          },
+          {
+            "definition": "球的忍受",
+            "iscorrect": false
+          },
+          {
+            "definition": "球的支撑",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

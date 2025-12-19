@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Easter",
+      "error_analysis": "学生易因形近词\"eastern\"（东方的）混淆\"Easter\"的含义，或误将其当作耶稣诞生的节日。",
+      "sentence": "Children often look forward to **Easter** because they get to hunt for colorful eggs and receive gifts from the Easter Bunny.",
+      "options": {
+        "option": [
+          {
+            "definition": "复活节（基督教重要节日，纪念耶稣复活）",
+            "iscorrect": true
+          },
+          {
+            "definition": "东方的（与东方地区或文化相关的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "耶稣诞生的节日（纪念耶稣出生的基督教节日）",
+            "iscorrect": false
+          },
+          {
+            "definition": "春季的传统野餐活动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

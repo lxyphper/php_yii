@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to affirm",
+      "error_analysis": "学生易因形近词\"afford\"（负担得起）产生混淆，或因词根\"firm\"（坚定的）误判为\"加强/巩固\"",
+      "sentence": "The witness was asked to **affirm** the truth of her statement before the judge.",
+      "options": {
+        "option": [
+          {
+            "definition": "负担得起",
+            "iscorrect": false
+          },
+          {
+            "definition": "加强；巩固",
+            "iscorrect": false
+          },
+          {
+            "definition": "郑重声明；断言",
+            "iscorrect": true
+          },
+          {
+            "definition": "确认；证实",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

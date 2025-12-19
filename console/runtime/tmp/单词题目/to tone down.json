@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to tone down",
+      "error_analysis": "学生易将\"to tone down\"字面理解为\"降低音调\"（来自\"tone\"的\"音调\"义与\"down\"的\"向下\"结合），忽略其引申义\"缓和（情绪、言论等）\"。",
+      "sentence": "After realizing his speech was making the audience uncomfortable, he quickly decided to **tone down** his sarcastic remarks.",
+      "options": {
+        "option": [
+          {
+            "definition": "缓和，减弱（情绪、言论等的强度）",
+            "iscorrect": true
+          },
+          {
+            "definition": "降低音调（声音的高低）",
+            "iscorrect": false
+          },
+          {
+            "definition": "关掉（电器设备）",
+            "iscorrect": false
+          },
+          {
+            "definition": "调整曲调（音乐的旋律）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to measure",
+      "error_analysis": "学生易因形近词“treasure”（珍惜）或“pleasure”（享受）的拼写干扰，误将“to measure”理解为“珍惜”或“享受”",
+      "sentence": "The tailor needs to **measure** your waist before making the dress.",
+      "options": {
+        "option": [
+          {
+            "definition": "测量（用工具确定大小、长度等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "珍惜（重视并爱护）",
+            "iscorrect": false
+          },
+          {
+            "definition": "意味着（表示……的意思）",
+            "iscorrect": false
+          },
+          {
+            "definition": "享受（从……中得到快乐）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

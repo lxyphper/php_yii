@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "angle",
+      "error_analysis": "学生易因形近混淆“angle”（角）与“angel”（天使），或误将其核心词义理解为“天使”",
+      "sentence": "The carpenter measured the **angle** of the roof to ensure it was steep enough.",
+      "options": {
+        "option": [
+          {
+            "definition": "角；角度",
+            "iscorrect": true
+          },
+          {
+            "definition": "天使",
+            "iscorrect": false
+          },
+          {
+            "definition": "角落",
+            "iscorrect": false
+          },
+          {
+            "definition": "钓鱼",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

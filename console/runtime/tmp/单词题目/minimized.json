@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "minimized",
+      "error_analysis": "学生易因“min-”词根误导将“minimized”误理解为“变小的”，或因拼写接近“minuted”（记录的）产生混淆",
+      "sentence": "To save money, the family **minimized** their monthly expenses on entertainment.",
+      "options": {
+        "option": [
+          {
+            "definition": "变小的",
+            "iscorrect": false
+          },
+          {
+            "definition": "记录的",
+            "iscorrect": false
+          },
+          {
+            "definition": "最大化的",
+            "iscorrect": false
+          },
+          {
+            "definition": "使减少到最低限度",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "chipper",
+      "error_analysis": "学生易因形近词\"chip\"(芯片/削切)误将\"chipper\"联想为\"碎片的\"或\"锋利的\"",
+      "sentence": "Despite the early morning rain, Sarah was still **chipper** and ready to start her day with a smile.",
+      "options": {
+        "option": [
+          {
+            "definition": "愉快的；活泼的",
+            "iscorrect": true
+          },
+          {
+            "definition": "碎片的；像芯片的",
+            "iscorrect": false
+          },
+          {
+            "definition": "锋利的；用于切割的",
+            "iscorrect": false
+          },
+          {
+            "definition": "疲惫的；累的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

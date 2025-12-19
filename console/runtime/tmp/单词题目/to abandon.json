@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to abandon",
+      "error_analysis": "学生易因形近词“abundant”（丰富的）或词根“ab-”（离开）+“bandon”（误判为“绑定”），将“abandon”误解为“丰富”或“释放”。",
+      "sentence": "Due to financial difficulties, the company decided to **abandon** its plan to build a new factory.",
+      "options": {
+        "option": [
+          {
+            "definition": "放弃；遗弃",
+            "iscorrect": true
+          },
+          {
+            "definition": "丰富的；充足的",
+            "iscorrect": false
+          },
+          {
+            "definition": "释放；解开",
+            "iscorrect": false
+          },
+          {
+            "definition": "加速；推进",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

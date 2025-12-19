@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "meal",
+      "error_analysis": "中国学生易因形近词“mail”（邮件）的干扰，将“meal”错误理解为“邮件”",
+      "sentence": "She prepared a delicious **meal** for her family last night.",
+      "options": {
+        "option": [
+          {
+            "definition": "一餐，饭",
+            "iscorrect": true
+          },
+          {
+            "definition": "邮件",
+            "iscorrect": false
+          },
+          {
+            "definition": "遇见",
+            "iscorrect": false
+          },
+          {
+            "definition": "金属",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

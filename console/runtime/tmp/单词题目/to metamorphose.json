@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to metamorphose",
+      "error_analysis": "易与形近词“metaphor”（隐喻）混淆，或错误拆解词根“meta-”（超越）和“morph”（形态）误以为是“超越形态”。",
+      "sentence": "The caterpillar will **metamorphose** into a butterfly after spending weeks in a cocoon.",
+      "options": {
+        "option": [
+          {
+            "definition": "（使）变形；（使）彻底改变",
+            "iscorrect": true
+          },
+          {
+            "definition": "隐喻；比喻",
+            "iscorrect": false
+          },
+          {
+            "definition": "超越形态；凌驾于形态之上",
+            "iscorrect": false
+          },
+          {
+            "definition": "缓解疼痛；使用吗啡",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

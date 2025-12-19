@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "echo",
+      "error_analysis": "学生易因形近词\"eco\"（生态）的干扰，将\"echo\"误判为\"生态（环境相关的）\"。",
+      "sentence": "The sound of the gunshot bounced off the mountains and returned as a loud **echo**.",
+      "options": {
+        "option": [
+          {
+            "definition": "回声；回响",
+            "iscorrect": true
+          },
+          {
+            "definition": "生态（与环境相关的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "容易的；不费力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "重复的话语",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

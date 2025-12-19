@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "user-friendly",
+      "error_analysis": "学生易将其字面理解为“对用户态度友好的”，忽略其“易于使用的”核心含义",
+      "sentence": "The new smartphone app has a **user-friendly** interface that even elderly people can navigate without help.",
+      "options": {
+        "option": [
+          {
+            "definition": "易于使用的",
+            "iscorrect": true
+          },
+          {
+            "definition": "对用户态度友好的",
+            "iscorrect": false
+          },
+          {
+            "definition": "专注于用户需求的",
+            "iscorrect": false
+          },
+          {
+            "definition": "受用户喜爱的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

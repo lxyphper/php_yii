@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to beg",
+      "error_analysis": "学生易因形近词“bag”（包）将“to beg”误解为“装包/拿包”，或混淆“beg”与“begin”（开始）导致错误理解",
+      "sentence": "The homeless man had to **beg** for food on the street because he had no money.",
+      "options": {
+        "option": [
+          {
+            "definition": "恳求；乞讨",
+            "iscorrect": true
+          },
+          {
+            "definition": "装包；拿包",
+            "iscorrect": false
+          },
+          {
+            "definition": "开始；着手",
+            "iscorrect": false
+          },
+          {
+            "definition": "打赌；赌注",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

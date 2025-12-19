@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to stockpile",
+      "error_analysis": "学生易因“stock”（股票）的形近联想误解为“交易股票”，或因“stock+pile”的字面直译误解为“堆放在一起”",
+      "sentence": "Before the winter storm, many families decided to **stockpile** non-perishable food and batteries.",
+      "options": {
+        "option": [
+          {
+            "definition": "交易股票",
+            "iscorrect": false
+          },
+          {
+            "definition": "堆放在一起",
+            "iscorrect": false
+          },
+          {
+            "definition": "储存以备后用",
+            "iscorrect": true
+          },
+          {
+            "definition": "分发物资",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

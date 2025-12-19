@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "moutain biking",
+      "mountian biking",
+      "mountain bikeing",
+      "mountain bicking"
+    ],
+    "correct_chunks": [
+      "moun",
+      "tain",
+      "bik",
+      "ing"
+    ],
+    "distractor_chunks": [
+      "mout",
+      "tian",
+      "bike",
+      "bic"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "snout",
+      "error_analysis": "学生易因形近词\"snack\"(零食)或\"snake\"(蛇)的联想，误将\"snout\"理解为\"零食\"或\"蛇身\"",
+      "sentence": "The pig pushed the mud with its **snout** to find food.",
+      "options": {
+        "option": [
+          {
+            "definition": "（动物的）口鼻部",
+            "iscorrect": true
+          },
+          {
+            "definition": "零食",
+            "iscorrect": false
+          },
+          {
+            "definition": "蛇身",
+            "iscorrect": false
+          },
+          {
+            "definition": "咆哮",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

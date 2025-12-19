@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "message",
+      "error_analysis": "中国学生易混淆形近词\"massage\"(按摩)与\"message\"，或误将其与\"mess\"(混乱)关联导致理解偏差。",
+      "sentence": "Please give this **message** to your teacher when you see her—she needs it urgently.",
+      "options": {
+        "option": [
+          {
+            "definition": "信息；消息",
+            "iscorrect": true
+          },
+          {
+            "definition": "按摩；推拿",
+            "iscorrect": false
+          },
+          {
+            "definition": "混乱的状态；一团糟",
+            "iscorrect": false
+          },
+          {
+            "definition": "段落；通道",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

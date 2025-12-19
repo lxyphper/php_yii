@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sign",
+      "error_analysis": "易混淆形近词\"sing\"(唱歌)，或误将语境中\"迹象\"理解为\"签名\"",
+      "sentence": "There's a dark cloud in the sky—it's a clear **sign** that it's going to rain soon.",
+      "options": {
+        "option": [
+          {
+            "definition": "迹象",
+            "iscorrect": true
+          },
+          {
+            "definition": "唱歌",
+            "iscorrect": false
+          },
+          {
+            "definition": "签名（在文件上写名字）",
+            "iscorrect": false
+          },
+          {
+            "definition": "符号（如交通标志）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

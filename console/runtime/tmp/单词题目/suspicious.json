@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "suspicious",
+      "error_analysis": "中国学生易因`suspicious`与`spacious`（宽敞的）形近而误判，或因词根联想错误认为是“犹豫的”。",
+      "sentence": "The old man gave a **suspicious** glance at the stranger who kept pacing outside his house.",
+      "options": {
+        "option": [
+          {
+            "definition": "宽敞的",
+            "iscorrect": false
+          },
+          {
+            "definition": "犹豫的",
+            "iscorrect": false
+          },
+          {
+            "definition": "怀疑的；可疑的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不确定的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

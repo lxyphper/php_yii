@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tsunami",
+      "error_analysis": "学生易因形近词\"tuna\"(金枪鱼)或\"sunny\"(阳光的)产生错误联想，将\"tsunami\"误判为与鱼或天气相关的词。",
+      "sentence": "The coastal town was devastated by a huge **tsunami** triggered by a powerful undersea earthquake.",
+      "options": {
+        "option": [
+          {
+            "definition": "金枪鱼（一种海鱼）",
+            "iscorrect": false
+          },
+          {
+            "definition": "阳光充足的日子",
+            "iscorrect": false
+          },
+          {
+            "definition": "海啸（由地震等引起的巨大海浪）",
+            "iscorrect": true
+          },
+          {
+            "definition": "轻微的海风",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

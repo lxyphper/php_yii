@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hearing",
+      "error_analysis": "学生易因形近词“heading”（标题）产生混淆，或因词根“hear”（听）的字面意思误将“听证会”语境中的“hearing”理解为“听力”。",
+      "sentence": "The city planning commission announced a public **hearing** to gather opinions on the new highway project.",
+      "options": {
+        "option": [
+          {
+            "definition": "听证会",
+            "iscorrect": true
+          },
+          {
+            "definition": "标题",
+            "iscorrect": false
+          },
+          {
+            "definition": "听力",
+            "iscorrect": false
+          },
+          {
+            "definition": "正在听",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

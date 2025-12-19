@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "robotics",
+      "error_analysis": "学生易因形近词“robot”（机器人）误将“robotics”理解为“机器人（复数）”，或因“-ics”的动作义（如“aerobics”）误判为“机器人的动作”",
+      "sentence": "Many students are interested in **robotics** because they want to create intelligent machines that can help humans.",
+      "options": {
+        "option": [
+          {
+            "definition": "机器人（复数）",
+            "iscorrect": false
+          },
+          {
+            "definition": "机器人的动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "机器人学（研究机器人的科学与技术）",
+            "iscorrect": true
+          },
+          {
+            "definition": "机器人的设计",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

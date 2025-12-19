@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to quote",
+      "error_analysis": "中国学生易混淆形近词\"quit\"(放弃)与\"quote\"(引用)，或因词根\"quotare\"(计算)误判为\"计算\"。",
+      "sentence": "The teacher asked us to **quote** a sentence from the passage to support our argument.",
+      "options": {
+        "option": [
+          {
+            "definition": "引用（他人的话或文字）",
+            "iscorrect": true
+          },
+          {
+            "definition": "放弃（停止做某事）",
+            "iscorrect": false
+          },
+          {
+            "definition": "计算（价格或数量）",
+            "iscorrect": false
+          },
+          {
+            "definition": "覆盖（表面或范围）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sadistically",
+      "error_analysis": "学生易因形近词`sadly`（悲伤地）或词根`sad`（悲伤）的字面误导，将`sadistically`误解为“悲伤地”或“悲伤主义地”。",
+      "sentence": "The bully laughed **sadistically** as he watched the smaller kid cry.",
+      "options": {
+        "option": [
+          {
+            "definition": "悲伤地",
+            "iscorrect": false
+          },
+          {
+            "definition": "施虐狂地；残忍地取乐地",
+            "iscorrect": true
+          },
+          {
+            "definition": "悲伤主义地",
+            "iscorrect": false
+          },
+          {
+            "definition": "沮丧地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

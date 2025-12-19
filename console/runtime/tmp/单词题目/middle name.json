@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "middle name",
+      "error_analysis": "因“middle”（中间的）和“name”（名字）的字面意思，误将“middle name”理解为“中间的名字”（即一串名字中的中间那个，而非英语文化中的“中间名”）",
+      "sentence": "In the US, many people have a **middle name** between their first name and last name, like Mary Ann Wilson.",
+      "options": {
+        "option": [
+          {
+            "definition": "（欧美人姓名中的）中间名（如Mary Ann Wilson中的Ann）",
+            "iscorrect": true
+          },
+          {
+            "definition": "中间的名字（如“张三李四”中的“四”）",
+            "iscorrect": false
+          },
+          {
+            "definition": "中等长度的名字（如“Lisa”比“Elizabeth”短）",
+            "iscorrect": false
+          },
+          {
+            "definition": "昵称或别名（如“Jack”是“John”的昵称）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

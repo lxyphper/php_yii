@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "karst",
+      "error_analysis": "中国学生易因形近联想到\"cart\"(手推车)或\"karate\"(空手道)而误判\"karst\"词义。",
+      "sentence": "The region is famous for its **karst** landscape, featuring deep caves and towering limestone pillars.",
+      "options": {
+        "option": [
+          {
+            "definition": "喀斯特地貌（石灰岩地区的岩溶地貌）",
+            "iscorrect": true
+          },
+          {
+            "definition": "手推车（a small wheeled vehicle for carrying things）",
+            "iscorrect": false
+          },
+          {
+            "definition": "空手道（a Japanese martial art）",
+            "iscorrect": false
+          },
+          {
+            "definition": "某种坚硬的金属（a type of hard metal）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

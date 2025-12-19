@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "chair",
+      "error_analysis": "中国学生易因形近词“chain”（链条）混淆“chair”词义，或因“chairman”（主席）联想错误认为其有“主席”义。",
+      "sentence": "Please pull the **chair** closer to the table so you can reach your plate.",
+      "options": {
+        "option": [
+          {
+            "definition": "椅子",
+            "iscorrect": true
+          },
+          {
+            "definition": "链条",
+            "iscorrect": false
+          },
+          {
+            "definition": "主席",
+            "iscorrect": false
+          },
+          {
+            "definition": "粉笔",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

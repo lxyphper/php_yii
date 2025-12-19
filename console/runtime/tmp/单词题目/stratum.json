@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stratum",
+      "error_analysis": "学生易因形近词“strange”误猜为“奇怪的事物”，或因词根未知误猜为“雕像”等无关义",
+      "sentence": "The survey reveals significant differences in lifestyle between each **stratum** of the population.",
+      "options": {
+        "option": [
+          {
+            "definition": "层；（社会）阶层",
+            "iscorrect": true
+          },
+          {
+            "definition": "奇怪的事物",
+            "iscorrect": false
+          },
+          {
+            "definition": "雕像",
+            "iscorrect": false
+          },
+          {
+            "definition": "体育场",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

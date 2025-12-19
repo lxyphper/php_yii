@@ -1,0 +1,27 @@
+[
+  {
+    "common_misspellings": [
+      "patien",
+      "petient",
+      "patiant",
+      "ziro",
+      "sero",
+      "zeo"
+    ],
+    "correct_chunks": [
+      "pat",
+      "ient",
+      "ze",
+      "ro"
+    ],
+    "distractor_chunks": [
+      "tien",
+      "pet",
+      "tia",
+      "zi",
+      "se",
+      "zeo"
+    ]
+  },
+  0
+]

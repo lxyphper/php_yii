@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "soot",
+      "error_analysis": "学生易因形近词“shoot”（射击）的拼写及发音接近而误判“soot”的含义",
+      "sentence": "After the fire, the walls were covered in **soot** from the burning wood.",
+      "options": {
+        "option": [
+          {
+            "definition": "煤烟；烟灰",
+            "iscorrect": true
+          },
+          {
+            "definition": "射击",
+            "iscorrect": false
+          },
+          {
+            "definition": "脚",
+            "iscorrect": false
+          },
+          {
+            "definition": "西装",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

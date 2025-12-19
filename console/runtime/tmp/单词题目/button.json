@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "button",
+      "error_analysis": "学生易因形近词\"butter\"（黄油）或\"bottle\"（瓶子）混淆\"button\"的核心含义（纽扣/按钮）",
+      "sentence": "Her coat has a missing **button**; she needs to sew a new one on.",
+      "options": {
+        "option": [
+          {
+            "definition": "纽扣；按钮",
+            "iscorrect": true
+          },
+          {
+            "definition": "黄油",
+            "iscorrect": false
+          },
+          {
+            "definition": "瓶子",
+            "iscorrect": false
+          },
+          {
+            "definition": "面包",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

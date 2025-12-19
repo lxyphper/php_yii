@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to split",
+      "error_analysis": "中国学生易因形近词“spit”（吐痰）的错误联想或与“spoil”（破坏）混淆而误解“to split”的含义",
+      "sentence": "The kids decided to **split** the cake into four equal parts so everyone could have a piece.",
+      "options": {
+        "option": [
+          {
+            "definition": "分开；分裂",
+            "iscorrect": true
+          },
+          {
+            "definition": "吐痰",
+            "iscorrect": false
+          },
+          {
+            "definition": "破坏",
+            "iscorrect": false
+          },
+          {
+            "definition": "溢出",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

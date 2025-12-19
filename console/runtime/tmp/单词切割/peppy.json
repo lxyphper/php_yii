@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "pepy",
+      "pippy",
+      "pappy",
+      "pepppy"
+    ],
+    "correct_chunks": [
+      "pe",
+      "pp",
+      "y"
+    ],
+    "distractor_chunks": [
+      "py",
+      "pi",
+      "pa",
+      "ppp"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "freely",
+      "error_analysis": "学生易因形近词“free”的“免费”义，将“freely”误判为“免费地”",
+      "sentence": "You can express your opinions **freely** in the discussion—everyone’s voice matters.",
+      "options": {
+        "option": [
+          {
+            "definition": "免费地",
+            "iscorrect": false
+          },
+          {
+            "definition": "频繁地",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻易地",
+            "iscorrect": false
+          },
+          {
+            "definition": "自由地；随意地",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

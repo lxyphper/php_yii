@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "consecration",
+      "error_analysis": "学生易混淆形近词conservation（保护），或因不熟悉词根secr-（神圣）而误猜为与“切割”“秘密”相关的含义",
+      "sentence": "The ancient temple underwent a **consecration** ceremony to revere the newly enshrined deity.",
+      "options": {
+        "option": [
+          {
+            "definition": "保护；保存",
+            "iscorrect": false
+          },
+          {
+            "definition": "切割；分割",
+            "iscorrect": false
+          },
+          {
+            "definition": "神圣化； consecration仪式（如圣职任命、圣物供奉）",
+            "iscorrect": true
+          },
+          {
+            "definition": "秘密；机密",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

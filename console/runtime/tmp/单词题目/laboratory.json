@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "laboratory",
+      "error_analysis": "中国学生易因形近词“library”（图书馆）或词根“labor”（劳动）误导，将“laboratory”错误理解为“图书馆”或“劳动场所”。",
+      "sentence": "The scientists are conducting experiments in the **laboratory** to develop a new vaccine.",
+      "options": {
+        "option": [
+          {
+            "definition": "图书馆",
+            "iscorrect": false
+          },
+          {
+            "definition": "劳动场所",
+            "iscorrect": false
+          },
+          {
+            "definition": "实验室",
+            "iscorrect": true
+          },
+          {
+            "definition": "教室",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

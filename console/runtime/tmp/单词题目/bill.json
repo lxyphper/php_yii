@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bill",
+      "error_analysis": "核心易错点为形近词“bell”（铃）的干扰及对“bill”“法案”含义的过度联想",
+      "sentence": "When we finished eating, the waitress brought over the **bill** for our meal.",
+      "options": {
+        "option": [
+          {
+            "definition": "账单",
+            "iscorrect": true
+          },
+          {
+            "definition": "铃",
+            "iscorrect": false
+          },
+          {
+            "definition": "法案",
+            "iscorrect": false
+          },
+          {
+            "definition": "鸟喙",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

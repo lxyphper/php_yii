@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "whereas",
+      "error_analysis": "学生易将\"whereas\"拆分为\"where\"（哪里）和\"as\"（作为），错误理解为字面组合的\"在哪里作为\"。",
+      "sentence": "Some people prefer morning exercise, **whereas** others find evening workouts more effective.",
+      "options": {
+        "option": [
+          {
+            "definition": "然而；但是（表示对比转折）",
+            "iscorrect": true
+          },
+          {
+            "definition": "在哪里作为（where + as的字面翻译）",
+            "iscorrect": false
+          },
+          {
+            "definition": "当...的时候（混淆时间状语引导词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "因为（混淆因果关系）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

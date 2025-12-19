@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to crawl",
+      "error_analysis": "易与形近词\"crash\"(碰撞)混淆，或误猜为\"抓挠\"(如联想\"claw\"的动作)",
+      "sentence": "The baby learned to **crawl** before she could walk, moving slowly on her hands and knees across the floor.",
+      "options": {
+        "option": [
+          {
+            "definition": "爬行；匍匐前进",
+            "iscorrect": true
+          },
+          {
+            "definition": "碰撞；坠毁",
+            "iscorrect": false
+          },
+          {
+            "definition": "抓挠；用爪子划",
+            "iscorrect": false
+          },
+          {
+            "definition": "攀爬；攀登",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

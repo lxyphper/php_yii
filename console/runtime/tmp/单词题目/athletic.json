@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "athletic",
+      "error_analysis": "易混淆形近词“academic”（学术的），或误将“athletic”理解为“运动员”（athlete的名词形式）",
+      "sentence": "The new student joined the basketball team because she is very **athletic** and loves playing sports.",
+      "options": {
+        "option": [
+          {
+            "definition": "学术的",
+            "iscorrect": false
+          },
+          {
+            "definition": "运动员",
+            "iscorrect": false
+          },
+          {
+            "definition": "擅长运动的",
+            "iscorrect": true
+          },
+          {
+            "definition": "强壮的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

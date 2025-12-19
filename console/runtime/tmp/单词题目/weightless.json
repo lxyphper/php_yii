@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "weightless",
+      "error_analysis": "易混淆同缀词`worthless`（无价值的），或误将`weight`+`-less`直译为“轻的”而非“无重量的”",
+      "sentence": "Astronauts feel **weightless** when they are in orbit around the Earth.",
+      "options": {
+        "option": [
+          {
+            "definition": "无重量的；失重的",
+            "iscorrect": true
+          },
+          {
+            "definition": "无价值的；没用的",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻的；不重的",
+            "iscorrect": false
+          },
+          {
+            "definition": "重要的；沉重的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

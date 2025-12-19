@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gratifying",
+      "error_analysis": "易因形近词\"grateful\"(感激的)或词根联想错误误认为\"伟大的\"。",
+      "sentence": "It was **gratifying** to see that their hard work had finally paid off.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人满意的；令人高兴的",
+            "iscorrect": true
+          },
+          {
+            "definition": "感激的；感谢的",
+            "iscorrect": false
+          },
+          {
+            "definition": "伟大的；重大的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人困惑的；难以理解的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

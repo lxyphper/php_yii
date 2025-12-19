@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "off and on",
+      "error_analysis": "学生易将“off and on”字面直译为“打开又关闭”（动作），而非“断断续续地”（状态）",
+      "sentence": "She practiced the piano **off and on** during her summer vacation, so her skills improved a little but not much.",
+      "options": {
+        "option": [
+          {
+            "definition": "断断续续地；有时（指状态或过程）",
+            "iscorrect": true
+          },
+          {
+            "definition": "打开又关闭（指反复的动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "完全停止后再开始（指中断后的重新启动）",
+            "iscorrect": false
+          },
+          {
+            "definition": "偶尔（指频率极低的情况）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

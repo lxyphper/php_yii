@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "space probe",
+      "error_analysis": "学生易因“probe”形近“prove”误理解为“太空证明”，或字面解读为“太空探索”（动作）而非“太空探测器”（设备）",
+      "sentence": "NASA's latest **space probe** successfully reached Mars and sent back high-resolution images of the planet's surface.",
+      "options": {
+        "option": [
+          {
+            "definition": "太空探测器",
+            "iscorrect": true
+          },
+          {
+            "definition": "太空证明",
+            "iscorrect": false
+          },
+          {
+            "definition": "太空探索",
+            "iscorrect": false
+          },
+          {
+            "definition": "太空站",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

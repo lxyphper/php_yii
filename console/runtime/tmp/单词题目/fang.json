@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fang",
+      "error_analysis": "学生易因形近词“fan”（风扇）或拼音联想“房”而误判“fang”的含义",
+      "sentence": "The snake opened its mouth, revealing two long, sharp **fangs** ready to strike.",
+      "options": {
+        "option": [
+          {
+            "definition": "（动物的）尖牙，獠牙",
+            "iscorrect": true
+          },
+          {
+            "definition": "风扇；爱好者",
+            "iscorrect": false
+          },
+          {
+            "definition": "房子；房间",
+            "iscorrect": false
+          },
+          {
+            "definition": "旗帜；标志",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

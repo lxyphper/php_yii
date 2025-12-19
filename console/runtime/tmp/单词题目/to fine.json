@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to fine",
+      "error_analysis": "学生易将动词“to fine”误解为形容词“fine”（好的、精细的）的动词化（如“使变好”）或形近词“find”（寻找）的混淆",
+      "sentence": "The driver was **fined** 200 yuan for running a red light.",
+      "options": {
+        "option": [
+          {
+            "definition": "罚款；处罚",
+            "iscorrect": true
+          },
+          {
+            "definition": "使变好；改善",
+            "iscorrect": false
+          },
+          {
+            "definition": "寻找；发现",
+            "iscorrect": false
+          },
+          {
+            "definition": "细化；使精细",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

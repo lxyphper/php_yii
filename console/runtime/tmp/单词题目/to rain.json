@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to rain",
+      "error_analysis": "中国学生易因形近音近词“reign”（统治）或“rein”（控制）的干扰，将动词“to rain”误理解为“统治”或“控制”。",
+      "sentence": "The weather forecast says it is going to **rain** heavily this afternoon.",
+      "options": {
+        "option": [
+          {
+            "definition": "（动词）下雨",
+            "iscorrect": true
+          },
+          {
+            "definition": "统治；支配",
+            "iscorrect": false
+          },
+          {
+            "definition": "控制；驾驭",
+            "iscorrect": false
+          },
+          {
+            "definition": "一场雨（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

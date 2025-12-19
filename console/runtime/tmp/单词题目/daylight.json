@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "daylight",
+      "error_analysis": "学生易因\"day\"（天）和\"light\"（光）的字面组合，将\"daylight\"误判为\"白天（时间段）\"或\"黎明\"。",
+      "sentence": "The room was bright with **daylight** streaming through the windows.",
+      "options": {
+        "option": [
+          {
+            "definition": "日光；白天的光线",
+            "iscorrect": true
+          },
+          {
+            "definition": "白天（时间段）",
+            "iscorrect": false
+          },
+          {
+            "definition": "黎明（一天的开始）",
+            "iscorrect": false
+          },
+          {
+            "definition": "自然光（包括月光等）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

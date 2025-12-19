@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "perception",
+      "error_analysis": "中国学生易将\"perception\"与形近词\"reception\"（接待）混淆，或通过词根\"per-\"（每）+ \"cept\"（接受）错误推导为\"每一次接受\"。",
+      "sentence": "The media's coverage has greatly influenced people's **perception** of the new policy.",
+      "options": {
+        "option": [
+          {
+            "definition": "感知；认知",
+            "iscorrect": true
+          },
+          {
+            "definition": "接待",
+            "iscorrect": false
+          },
+          {
+            "definition": "每一次接受",
+            "iscorrect": false
+          },
+          {
+            "definition": "视角",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

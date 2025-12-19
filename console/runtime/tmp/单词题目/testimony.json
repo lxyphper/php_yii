@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "testimony",
+      "error_analysis": "学生易因形近词“test”（测试）或词根“test”的字面误导，将“testimony”误理解为“测试结果”或“考试证明”。",
+      "sentence": "The witness's **testimony** helped the jury reach a verdict.",
+      "options": {
+        "option": [
+          {
+            "definition": "测试结果",
+            "iscorrect": false
+          },
+          {
+            "definition": "考试证明",
+            "iscorrect": false
+          },
+          {
+            "definition": "遗嘱",
+            "iscorrect": false
+          },
+          {
+            "definition": "证词；证据",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

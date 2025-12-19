@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mini-sized",
+      "error_analysis": "学生易将\"mini-sized\"误判为\"次要尺寸的\"（形近词\"minor\"干扰）或\"最小尺寸的\"（词根\"mini\"过度关联\"minimum\"）",
+      "sentence": "The new café offers **mini-sized** cupcakes that are perfect for a quick snack without feeling too full.",
+      "options": {
+        "option": [
+          {
+            "definition": "小尺寸的；迷你的",
+            "iscorrect": true
+          },
+          {
+            "definition": "次要尺寸的",
+            "iscorrect": false
+          },
+          {
+            "definition": "最小尺寸的",
+            "iscorrect": false
+          },
+          {
+            "definition": "中等尺寸的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

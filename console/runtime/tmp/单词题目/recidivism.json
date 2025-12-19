@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "recidivism",
+      "error_analysis": "学生易因\"re-\"词根误导认为是\"再次发生的某事\"（如疾病复发），或因形近词\"recital\"（独奏会）混淆词义。",
+      "sentence": "The government is implementing new programs to reduce **recidivism** among former prisoners.",
+      "options": {
+        "option": [
+          {
+            "definition": "（犯罪的）再犯；累犯",
+            "iscorrect": true
+          },
+          {
+            "definition": "（疾病或坏习惯的）复发",
+            "iscorrect": false
+          },
+          {
+            "definition": "（艺术或音乐的）独奏会；朗诵",
+            "iscorrect": false
+          },
+          {
+            "definition": "（对错误的）承认；坦白",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

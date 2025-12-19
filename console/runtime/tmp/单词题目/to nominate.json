@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to nominate",
+      "error_analysis": "学生易因形近词\"notify\"（通知）或词根\"nom\"（名字）误将\"nominate\"理解为\"通知\"或\"命名\"",
+      "sentence": "The committee decided to **nominate** her for the Best Actress award due to her outstanding performance in the film.",
+      "options": {
+        "option": [
+          {
+            "definition": "通知",
+            "iscorrect": false
+          },
+          {
+            "definition": "命名",
+            "iscorrect": false
+          },
+          {
+            "definition": "提名（某人担任某职位或奖项）",
+            "iscorrect": true
+          },
+          {
+            "definition": "推荐",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

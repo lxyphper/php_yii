@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to ward off",
+      "error_analysis": "学生易因形近词“warn off”（警告离开）的干扰，或对“ward”动词含义不熟悉，误将“ward off”理解为“警告离开”或“保护”。",
+      "sentence": "She used insect repellent to **ward off** mosquitoes during the camping trip.",
+      "options": {
+        "option": [
+          {
+            "definition": "警告某人不要靠近",
+            "iscorrect": false
+          },
+          {
+            "definition": "避开；防止（危险或不愉快的事物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "保护某人免受伤害",
+            "iscorrect": false
+          },
+          {
+            "definition": "从病房离开",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

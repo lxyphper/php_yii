@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to prescribe",
+      "error_analysis": "学生易因形近词“describe”（描述）混淆，或因词根“pre-+scribe”（预先+写）误解为“提前写/记录”。",
+      "sentence": "The doctor will **prescribe** some pills for your headache.",
+      "options": {
+        "option": [
+          {
+            "definition": "开（药）；处方",
+            "iscorrect": true
+          },
+          {
+            "definition": "描述",
+            "iscorrect": false
+          },
+          {
+            "definition": "提前写/记录",
+            "iscorrect": false
+          },
+          {
+            "definition": "规定",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

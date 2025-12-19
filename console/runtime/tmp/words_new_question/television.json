@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "television",
+      "error_analysis": "中国学生易因形近词telephone（电话）混淆，或因词根tele-（远）+vision（视觉）错误推导为“远视”或“远程视觉设备”",
+      "sentence": "My parents like to watch the evening news on the **television** after dinner.",
+      "options": {
+        "option": [
+          {
+            "definition": "电视",
+            "iscorrect": true
+          },
+          {
+            "definition": "电话",
+            "iscorrect": false
+          },
+          {
+            "definition": "远视（视力问题）",
+            "iscorrect": false
+          },
+          {
+            "definition": "望远镜",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

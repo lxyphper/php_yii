@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "blueberry",
+      "error_analysis": "学生易因\"blue\"（蓝色）与\"berry\"（浆果）的字面组合，或与形近词\"bluebird\"（蓝鸟）混淆，误将\"blueberry\"理解为非浆果类事物（如蓝色的鸟）。",
+      "sentence": "She picked some fresh **blueberries** from the bush and added them to her yogurt for a healthy snack.",
+      "options": {
+        "option": [
+          {
+            "definition": "蓝莓（一种蓝色的可食用浆果）",
+            "iscorrect": true
+          },
+          {
+            "definition": "蓝鸟（一种蓝色的鸟类）",
+            "iscorrect": false
+          },
+          {
+            "definition": "黑莓（一种黑色的浆果）",
+            "iscorrect": false
+          },
+          {
+            "definition": "蓝色的花朵（一种蓝色的开花植物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

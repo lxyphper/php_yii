@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pubescent",
+      "error_analysis": "学生易因形近词\"pub\"(酒吧)或词根联想\"pubic\"(阴毛的)，误判为\"与酒吧相关的\"或\"阴毛的\"",
+      "sentence": "Many parents find it challenging to communicate with their **pubescent** children, who often experience mood swings and a strong desire for independence.",
+      "options": {
+        "option": [
+          {
+            "definition": "青春期的；未成年的（11-14岁左右）",
+            "iscorrect": true
+          },
+          {
+            "definition": "与酒吧相关的；常去酒吧的",
+            "iscorrect": false
+          },
+          {
+            "definition": "阴毛的；私密部位的",
+            "iscorrect": false
+          },
+          {
+            "definition": "公共的；公开的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

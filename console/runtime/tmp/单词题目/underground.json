@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "underground",
+      "error_analysis": "学生易因“under+ground”的字面意思将其误解为“地面下的空间”，而忽略其最常用的“地铁”（名词）含义。",
+      "sentence": "I usually take the **underground** to work because it’s faster than driving.",
+      "options": {
+        "option": [
+          {
+            "definition": "地铁（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "地面下的空间",
+            "iscorrect": false
+          },
+          {
+            "definition": "水下的物体",
+            "iscorrect": false
+          },
+          {
+            "definition": "秘密的会议",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

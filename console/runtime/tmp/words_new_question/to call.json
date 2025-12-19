@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to call",
+      "error_analysis": "中国学生易因形近词“calm”（冷静）的拼写干扰，或未掌握“call”引申义“打电话”而误解词义。",
+      "sentence": "I need to **call** my mom to tell her I’ll be late for dinner.",
+      "options": {
+        "option": [
+          {
+            "definition": "打电话",
+            "iscorrect": true
+          },
+          {
+            "definition": "冷静",
+            "iscorrect": false
+          },
+          {
+            "definition": "叫过来",
+            "iscorrect": false
+          },
+          {
+            "definition": "哭",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

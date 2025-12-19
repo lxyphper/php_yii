@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to throw",
+      "error_analysis": "学生易因形近词\"through\"（通过）将\"throw\"误理解为\"通过\"，或因字面拆分\"row\"（排）错误猜测为\"排列\"。",
+      "sentence": "The boy decided to **throw** the ball to his friend across the yard.",
+      "options": {
+        "option": [
+          {
+            "definition": "扔；投掷",
+            "iscorrect": true
+          },
+          {
+            "definition": "通过；穿过",
+            "iscorrect": false
+          },
+          {
+            "definition": "排列；排成行",
+            "iscorrect": false
+          },
+          {
+            "definition": "抓住；握住",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

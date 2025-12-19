@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to refute",
+      "error_analysis": "学生易混淆形近词\"refuse\"(拒绝)而误判\"refute\"为\"拒绝\"，或因\"re-\"前缀错误拆解为\"重复做某事\"",
+      "sentence": "The scientist presented data to **refute** the claim that climate change is not caused by human activities.",
+      "options": {
+        "option": [
+          {
+            "definition": "反驳；驳斥",
+            "iscorrect": true
+          },
+          {
+            "definition": "拒绝；回绝",
+            "iscorrect": false
+          },
+          {
+            "definition": "重复做某事",
+            "iscorrect": false
+          },
+          {
+            "definition": "支持；证实",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

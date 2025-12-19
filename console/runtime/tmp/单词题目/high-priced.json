@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "high-priced",
+      "error_analysis": "学生易因结构形近（如high-profile、high-quality）将其误理解为“高知名度的”或“高质量的”，或因词根字面误导将“价格高”等同于“价值高”",
+      "sentence": "The boutique on Main Street sells **high-priced** designer clothes that most people can't afford.",
+      "options": {
+        "option": [
+          {
+            "definition": "高价的；昂贵的",
+            "iscorrect": true
+          },
+          {
+            "definition": "高知名度的；引人注目的",
+            "iscorrect": false
+          },
+          {
+            "definition": "高价值的；珍贵的",
+            "iscorrect": false
+          },
+          {
+            "definition": "高质量的；优质的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

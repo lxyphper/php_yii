@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "first-rate",
+      "error_analysis": "学生易因“first”（第一）和“rate”（等级/比率）的字面拆分，错误理解为“高比率的”或“初级的”，或混淆形近词“firsthand”（第一手的）。",
+      "sentence": "The restaurant is famous for its **first-rate** cuisine and friendly staff.",
+      "options": {
+        "option": [
+          {
+            "definition": "第一手的",
+            "iscorrect": false
+          },
+          {
+            "definition": "高比率的",
+            "iscorrect": false
+          },
+          {
+            "definition": "优秀的；一流的",
+            "iscorrect": true
+          },
+          {
+            "definition": "初级的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

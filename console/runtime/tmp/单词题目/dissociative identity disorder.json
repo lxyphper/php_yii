@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dissociative identity disorder",
+      "error_analysis": "学生易因\"dissociative\"（分离的）的词根误解，或混淆\"精神分裂症\"等类似心理学术语而误判",
+      "sentence": "The patient, who had experienced severe childhood trauma, was diagnosed with **dissociative identity disorder** after displaying multiple distinct personalities that were unaware of each other.",
+      "options": {
+        "option": [
+          {
+            "definition": "分离性身份障碍（多重人格障碍）",
+            "iscorrect": true
+          },
+          {
+            "definition": "精神分裂症（Schizophrenia）",
+            "iscorrect": false
+          },
+          {
+            "definition": "身份认同障碍（Identity Crisis Disorder）",
+            "iscorrect": false
+          },
+          {
+            "definition": "人格失调障碍（Personality Dysregulation Disorder）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "(every|) once in a while",
+      "error_analysis": "学生易因字面\"once（一次）+ in a while（在一会儿里）\"错误理解为\"短暂的时间\"，而非\"偶尔发生的频率\"",
+      "sentence": "My grandma likes to bake cookies **every once in a while**, so we get to enjoy them not too often but just enough to look forward to the next time.",
+      "options": {
+        "option": [
+          {
+            "definition": "偶尔；有时候",
+            "iscorrect": true
+          },
+          {
+            "definition": "短暂的时间",
+            "iscorrect": false
+          },
+          {
+            "definition": "经常；频繁地",
+            "iscorrect": false
+          },
+          {
+            "definition": "从前；很久以前",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "refinery",
+      "error_analysis": "学生易因形近词\"repository\"（仓库）混淆，或误将词根\"refine\"（提炼）的名词形式理解为提炼的过程而非场所。",
+      "sentence": "The oil company built a new **refinery** near the coast to process crude oil into gasoline and diesel.",
+      "options": {
+        "option": [
+          {
+            "definition": "提炼厂；精炼厂",
+            "iscorrect": true
+          },
+          {
+            "definition": "仓库；贮藏室",
+            "iscorrect": false
+          },
+          {
+            "definition": "提炼的过程；精炼操作",
+            "iscorrect": false
+          },
+          {
+            "definition": "制冷设备；冰箱",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

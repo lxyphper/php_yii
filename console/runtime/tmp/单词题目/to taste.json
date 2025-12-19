@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to taste",
+      "error_analysis": "学生易因形近词“test”（测试）的干扰，将“to taste”误判为“测试”",
+      "sentence": "She likes to **taste** different kinds of coffee every morning to find her favorite.",
+      "options": {
+        "option": [
+          {
+            "definition": "品尝；有…味道",
+            "iscorrect": true
+          },
+          {
+            "definition": "测试",
+            "iscorrect": false
+          },
+          {
+            "definition": "触摸",
+            "iscorrect": false
+          },
+          {
+            "definition": "闻到",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

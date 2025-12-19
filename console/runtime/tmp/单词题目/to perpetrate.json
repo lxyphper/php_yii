@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to perpetrate",
+      "error_analysis": "学生易混淆形近词\"perpetuate\"(延续)，或误将\"perpetrate\"理解为一般的\"执行/完成\"（词根\"per-\"+\"\"petrare\"\"的错误推导）",
+      "sentence": "The police are still trying to identify who **perpetrated** the theft of the valuable painting from the museum.",
+      "options": {
+        "option": [
+          {
+            "definition": "延续；保持（如传统、记忆）",
+            "iscorrect": false
+          },
+          {
+            "definition": "犯（罪）；做（坏事）",
+            "iscorrect": true
+          },
+          {
+            "definition": "执行；完成（如任务、计划）",
+            "iscorrect": false
+          },
+          {
+            "definition": "渗透；扩散（如液体、思想）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

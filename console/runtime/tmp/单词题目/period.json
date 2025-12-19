@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "period",
+      "error_analysis": "学生易将‘period’的核心义‘时期/阶段’与形近词‘permit’（允许）的联想混淆，或误选‘句号’（标点符号）作为句子中的核心义",
+      "sentence": "The Tang Dynasty, which lasted from 618 to 907 AD, is often considered a golden **period** in Chinese history.",
+      "options": {
+        "option": [
+          {
+            "definition": "句号",
+            "iscorrect": false
+          },
+          {
+            "definition": "允许",
+            "iscorrect": false
+          },
+          {
+            "definition": "时期/阶段",
+            "iscorrect": true
+          },
+          {
+            "definition": "周长",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

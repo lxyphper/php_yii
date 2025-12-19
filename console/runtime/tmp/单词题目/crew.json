@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "crew",
+      "error_analysis": "学生易因形近词“crow”（乌鸦）或“crowd”（人群）的干扰，将“crew”误理解为“乌鸦”或“人群”，或字面猜测为“碎片”。",
+      "sentence": "The **crew** of the ship sailed to the remote island before sunset.",
+      "options": {
+        "option": [
+          {
+            "definition": "乌鸦",
+            "iscorrect": false
+          },
+          {
+            "definition": "人群",
+            "iscorrect": false
+          },
+          {
+            "definition": "全体船员；全体工作人员",
+            "iscorrect": true
+          },
+          {
+            "definition": "碎片",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

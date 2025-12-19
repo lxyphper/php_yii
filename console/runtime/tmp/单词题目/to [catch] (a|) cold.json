@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to [catch] (a|) cold",
+      "error_analysis": "学生易将“catch”的“抓住”与“cold”的“冷”字面结合，误解为“抓住寒冷”而非“感冒”",
+      "sentence": "After playing soccer in the rain without a jacket, Lily **caught a cold** and couldn’t go to school today.",
+      "options": {
+        "option": [
+          {
+            "definition": "感冒",
+            "iscorrect": true
+          },
+          {
+            "definition": "抓住寒冷",
+            "iscorrect": false
+          },
+          {
+            "definition": "觉得冷",
+            "iscorrect": false
+          },
+          {
+            "definition": "变得冷漠",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

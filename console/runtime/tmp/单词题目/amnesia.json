@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "amnesia",
+      "error_analysis": "中国学生易因形近词（如insomnia，失眠）混淆或错误理解词根（a-表否定+mnesis记忆）而将amnesia误判为“失眠”或“增强记忆”。",
+      "sentence": "After the car accident, Sarah suffered from **amnesia** and couldn’t remember anything about her past.",
+      "options": {
+        "option": [
+          {
+            "definition": "健忘症；记忆丧失",
+            "iscorrect": true
+          },
+          {
+            "definition": "失眠",
+            "iscorrect": false
+          },
+          {
+            "definition": "增强记忆",
+            "iscorrect": false
+          },
+          {
+            "definition": "记忆混乱",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

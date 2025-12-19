@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unstoppable",
+      "error_analysis": "学生易因词根\"stop\"过度直译为\"无法停止的\"，或混淆形近词\"unstable\"（不稳定的）而误解其核心义\"势不可挡的\"。",
+      "sentence": "After winning 10 games in a row, the young athlete's **unstoppable** drive made everyone believe she would take the gold medal.",
+      "options": {
+        "option": [
+          {
+            "definition": "势不可挡的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不稳定的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无法停止的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无法想象的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

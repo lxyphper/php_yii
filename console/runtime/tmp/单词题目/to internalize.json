@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to internalize",
+      "error_analysis": "学生易因“internal”（内部的）和“-ize”（使动）的字面意思，错误理解为“将...物理性地放入内部”，忽略其“内化（吸收并成为自身一部分）”的引申义",
+      "sentence": "After years of practice, she finally managed to **internalize** the piano techniques and play without thinking.",
+      "options": {
+        "option": [
+          {
+            "definition": "将...内化（吸收并成为自身的一部分）",
+            "iscorrect": true
+          },
+          {
+            "definition": "将...物理性地放入内部空间",
+            "iscorrect": false
+          },
+          {
+            "definition": "使...国际化",
+            "iscorrect": false
+          },
+          {
+            "definition": "将...表露或外化",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

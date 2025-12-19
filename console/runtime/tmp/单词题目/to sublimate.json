@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to sublimate",
+      "error_analysis": "学生易因形近词“sublime”（崇高的）误解为“使崇高”，或因词根“sub-”（下）和“lim-”（限制）误解为“压制”。",
+      "sentence": "Many artists **sublimate** their personal struggles into creative works that inspire others.",
+      "options": {
+        "option": [
+          {
+            "definition": "（情感、欲望）升华，转化为更积极的形式",
+            "iscorrect": true
+          },
+          {
+            "definition": "使变得崇高；使提升到崇高的境界",
+            "iscorrect": false
+          },
+          {
+            "definition": "压制；使从属；把…置于次要地位",
+            "iscorrect": false
+          },
+          {
+            "definition": "降低；减少；使处于较低位置",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "reactive",
+      "error_analysis": "中国学生易将\"reactive\"误判为\"active\"的近义词（如\"活跃的\"），或通过词根\"re-+active\"猜测为\"再次活跃\"。",
+      "sentence": "The team's approach was **reactive**; they only fixed problems after they occurred, not before.",
+      "options": {
+        "option": [
+          {
+            "definition": "反应的；被动反应的",
+            "iscorrect": true
+          },
+          {
+            "definition": "活跃的；积极的",
+            "iscorrect": false
+          },
+          {
+            "definition": "再次活跃的；恢复活跃的",
+            "iscorrect": false
+          },
+          {
+            "definition": "响应的；积极回应的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

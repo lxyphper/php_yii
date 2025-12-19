@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "decoration",
+      "error_analysis": "学生易因形近词（如decision/description）混淆词义，或误将de-视为否定前缀而误解为“破坏”相关含义。",
+      "sentence": "The Christmas tree was covered with colorful **decorations** like lights and baubles.",
+      "options": {
+        "option": [
+          {
+            "definition": "决定",
+            "iscorrect": false
+          },
+          {
+            "definition": "描述",
+            "iscorrect": false
+          },
+          {
+            "definition": "装饰（品）",
+            "iscorrect": true
+          },
+          {
+            "definition": "破坏（行为）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

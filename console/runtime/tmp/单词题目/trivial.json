@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "trivial",
+      "error_analysis": "学生易因形近词\"triple\"(三倍的)或词根\"tri-\"(三)误导，将\"trivial\"误解为\"三倍的\"或\"复杂的\"",
+      "sentence": "Don't waste time arguing about **trivial** things like what to eat for breakfast—we have bigger problems to solve.",
+      "options": {
+        "option": [
+          {
+            "definition": "琐碎的；不重要的",
+            "iscorrect": true
+          },
+          {
+            "definition": "三倍的；三重的",
+            "iscorrect": false
+          },
+          {
+            "definition": "复杂的；难懂的",
+            "iscorrect": false
+          },
+          {
+            "definition": "关键的；重要的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

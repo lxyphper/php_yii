@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "indispensable",
+      "error_analysis": "易与形近词\"independent\"(独立的)混淆，或因词根\"dispense\"(分发)误解为\"不可分发的\"",
+      "sentence": "A good dictionary is **indispensable** for anyone learning a new language.",
+      "options": {
+        "option": [
+          {
+            "definition": "独立的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无法分配的",
+            "iscorrect": false
+          },
+          {
+            "definition": "必不可少的",
+            "iscorrect": true
+          },
+          {
+            "definition": "昂贵的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

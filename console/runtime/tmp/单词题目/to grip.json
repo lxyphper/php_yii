@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to grip",
+      "error_analysis": "中国学生易因形近词“gift”（礼物）或词根“rip”（撕裂）误判“to grip”的含义",
+      "sentence": "He **gripped** the steering wheel tightly when he saw the deer jump in front of the car.",
+      "options": {
+        "option": [
+          {
+            "definition": "礼物",
+            "iscorrect": false
+          },
+          {
+            "definition": "撕裂",
+            "iscorrect": false
+          },
+          {
+            "definition": "旅行",
+            "iscorrect": false
+          },
+          {
+            "definition": "紧握",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

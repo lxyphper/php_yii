@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "protein",
+      "error_analysis": "学生易因形近词\"protest\"(抗议)或\"protect\"(保护)的干扰，将\"protein\"误判为\"抗议\"或\"保护物\"。",
+      "sentence": "Eating eggs and chicken is a good way to get enough **protein** for your body.",
+      "options": {
+        "option": [
+          {
+            "definition": "蛋白质",
+            "iscorrect": true
+          },
+          {
+            "definition": "抗议",
+            "iscorrect": false
+          },
+          {
+            "definition": "保护物",
+            "iscorrect": false
+          },
+          {
+            "definition": "专业人士",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

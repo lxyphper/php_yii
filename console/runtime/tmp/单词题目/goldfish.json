@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "goldfish",
+      "error_analysis": "学生易因字面拆分\"gold+fish\"而误解为\"黄金制成的鱼\"（工艺品）或\"金色的鱼\"（强调颜色），而非正确的\"金鱼\"（特定观赏鱼种）",
+      "sentence": "My grandma keeps a few **goldfish** in the glass tank on the balcony; they swim around happily every day.",
+      "options": {
+        "option": [
+          {
+            "definition": "金鱼（一种常见的观赏鱼）",
+            "iscorrect": true
+          },
+          {
+            "definition": "黄金制成的鱼（工艺品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "金色的鱼（强调颜色的鱼类）",
+            "iscorrect": false
+          },
+          {
+            "definition": "一种珍贵的黄金矿石",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

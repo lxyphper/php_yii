@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tragedy",
+      "error_analysis": "学生易因形近词“trajectory”（轨迹）混淆，或因词根误解为“小不幸”而非“重大悲剧事件”",
+      "sentence": "The plane crash that killed all passengers is a terrible **tragedy** for their loved ones.",
+      "options": {
+        "option": [
+          {
+            "definition": "轨迹",
+            "iscorrect": false
+          },
+          {
+            "definition": "小不幸",
+            "iscorrect": false
+          },
+          {
+            "definition": "悲剧；重大灾难",
+            "iscorrect": true
+          },
+          {
+            "definition": "喜剧",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

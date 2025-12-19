@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to weaken",
+      "error_analysis": "中国学生易因\"weaken\"与形近词\"waken\"（唤醒）混淆，或因\"week\"（星期）的形近而误解其与\"时间\"相关",
+      "sentence": "The long drought has **weakened** the soil's ability to hold water.",
+      "options": {
+        "option": [
+          {
+            "definition": "削弱；使变弱",
+            "iscorrect": true
+          },
+          {
+            "definition": "唤醒；使醒来",
+            "iscorrect": false
+          },
+          {
+            "definition": "使成为星期；度过周末",
+            "iscorrect": false
+          },
+          {
+            "definition": "加宽；使变宽",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

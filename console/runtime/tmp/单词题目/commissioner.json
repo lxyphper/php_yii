@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "commissioner",
+      "error_analysis": "易因形近词\"commander\"(指挥官)及词根\"commission\"(委员会)的误导，将\"commissioner\"误判为\"指挥官\"或\"委员会\"。",
+      "sentence": "The city planning **commissioner** will present the new housing policy to the council next week.",
+      "options": {
+        "option": [
+          {
+            "definition": "（政府或组织的）委员；专员",
+            "iscorrect": true
+          },
+          {
+            "definition": "指挥官",
+            "iscorrect": false
+          },
+          {
+            "definition": "委员会",
+            "iscorrect": false
+          },
+          {
+            "definition": "委托者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

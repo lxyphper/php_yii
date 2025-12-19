@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pathetic",
+      "error_analysis": "学生易因形近词\"patient\"(耐心的)或词根\"path\"(情感)混淆，将\"pathetic\"误解为\"耐心的\"或\"同情的\"(主动)",
+      "sentence": "The old man lived alone in a small, dirty room, and his **pathetic** condition made everyone feel sorry for him.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人同情的；可怜的",
+            "iscorrect": true
+          },
+          {
+            "definition": "耐心的",
+            "iscorrect": false
+          },
+          {
+            "definition": "同情的(对他人表示怜悯的)",
+            "iscorrect": false
+          },
+          {
+            "definition": "有激情的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

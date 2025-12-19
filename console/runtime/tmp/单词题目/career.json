@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "career",
+      "error_analysis": "中国学生易因形近词\"car\"(汽车)或\"care\"(关心)产生错误联想，将\"career\"误理解为\"汽车\"或\"关心的事\"",
+      "sentence": "She has built a successful **career** in medicine over the past 20 years.",
+      "options": {
+        "option": [
+          {
+            "definition": "职业；事业",
+            "iscorrect": true
+          },
+          {
+            "definition": "汽车",
+            "iscorrect": false
+          },
+          {
+            "definition": "关心；照料",
+            "iscorrect": false
+          },
+          {
+            "definition": "课程；进程",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

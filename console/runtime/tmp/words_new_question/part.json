@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "part",
+      "error_analysis": "中国学生易因形近词（如pair“一对”、pass“通过”）混淆或词根误导（将名词“part”误理解为动词“分开”的含义）而错误识别其“部分”的核心词义",
+      "sentence": "This is a key **part** of the project—we can’t ignore it.",
+      "options": {
+        "option": [
+          {
+            "definition": "部分",
+            "iscorrect": true
+          },
+          {
+            "definition": "一对",
+            "iscorrect": false
+          },
+          {
+            "definition": "分开",
+            "iscorrect": false
+          },
+          {
+            "definition": "通过",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

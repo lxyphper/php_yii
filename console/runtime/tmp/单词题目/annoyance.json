@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "annoyance",
+      "error_analysis": "中国学生易因形近词\"announcement\"(公告)混淆词义，或因词根\"annoy\"的动词属性错误理解其为\"使烦恼的动作\"而非\"烦恼的事物/状态\"",
+      "sentence": "The loud music from the party next door was a constant **annoyance** for me while I was trying to study.",
+      "options": {
+        "option": [
+          {
+            "definition": "公告；通知",
+            "iscorrect": false
+          },
+          {
+            "definition": "烦恼；令人讨厌的事物",
+            "iscorrect": true
+          },
+          {
+            "definition": "使烦恼的动作；打扰",
+            "iscorrect": false
+          },
+          {
+            "definition": "愤怒；怒气",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

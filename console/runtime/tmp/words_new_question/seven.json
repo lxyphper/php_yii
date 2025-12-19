@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "seven",
+      "error_analysis": "学生易因形近词\"even\"（甚至）或\"sever\"（切断）产生错误联想，误判\"seven\"的基础词义",
+      "sentence": "There are **seven** days in a week.",
+      "options": {
+        "option": [
+          {
+            "definition": "七（基数词，表示数量）",
+            "iscorrect": true
+          },
+          {
+            "definition": "甚至（表示递进关系）",
+            "iscorrect": false
+          },
+          {
+            "definition": "切断（动词，使分离）",
+            "iscorrect": false
+          },
+          {
+            "definition": "第七（序数词，表示顺序）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

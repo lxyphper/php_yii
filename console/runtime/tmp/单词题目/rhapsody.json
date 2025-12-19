@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rhapsody",
+      "error_analysis": "学生易因“rhapsody”与“rap”（说唱）发音/拼写接近而误解为“说唱乐”，或因“haps”（与“happen”相关）猜测为“偶然事件”。",
+      "sentence": "Beethoven's **Rhapsody on a Theme of Paganini** is a beloved work that showcases his genius for blending virtuosity with emotional depth.",
+      "options": {
+        "option": [
+          {
+            "definition": "说唱乐",
+            "iscorrect": false
+          },
+          {
+            "definition": "偶然发生的事件",
+            "iscorrect": false
+          },
+          {
+            "definition": "狂想曲；热情洋溢的音乐作品",
+            "iscorrect": true
+          },
+          {
+            "definition": "悲伤的诗歌",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to trade",
+      "error_analysis": "易因形近词'trace'（追踪）或字面联想'运输'产生错误理解",
+      "sentence": "Many farmers **trade** their vegetables for rice at the local market.",
+      "options": {
+        "option": [
+          {
+            "definition": "交换；交易",
+            "iscorrect": true
+          },
+          {
+            "definition": "追踪；查找",
+            "iscorrect": false
+          },
+          {
+            "definition": "运输；运送",
+            "iscorrect": false
+          },
+          {
+            "definition": "对待；治疗",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

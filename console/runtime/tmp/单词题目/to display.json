@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to display",
+      "error_analysis": "中国学生易因形近词“displace”（取代）或词根误解（“dis-”表“不”导致“隐藏”）误判词义",
+      "sentence": "The museum will **display** the new collection of ancient coins next week.",
+      "options": {
+        "option": [
+          {
+            "definition": "展示；陈列",
+            "iscorrect": true
+          },
+          {
+            "definition": "取代；替换",
+            "iscorrect": false
+          },
+          {
+            "definition": "隐藏；不展示",
+            "iscorrect": false
+          },
+          {
+            "definition": "演奏；播放",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

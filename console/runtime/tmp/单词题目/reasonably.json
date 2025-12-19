@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "reasonably",
+      "error_analysis": "学生易根据词根“reason”（理由）错误理解为“有理由地”，而忽略其“合理地；适度地”的常用义",
+      "sentence": "The jacket is **reasonably** priced, so I decided to buy it.",
+      "options": {
+        "option": [
+          {
+            "definition": "合理地；适度地",
+            "iscorrect": true
+          },
+          {
+            "definition": "有理由地",
+            "iscorrect": false
+          },
+          {
+            "definition": "非常地",
+            "iscorrect": false
+          },
+          {
+            "definition": "昂贵地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

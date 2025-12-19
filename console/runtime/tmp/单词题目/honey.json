@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "honey",
+      "error_analysis": "学生易因形近词\"money\"（钱）或词根\"hon\"（如honor）误导，将\"honey\"错误理解为\"钱\"或\"荣誉\"。",
+      "sentence": "Would you like some **honey** in your coffee to make it sweeter?",
+      "options": {
+        "option": [
+          {
+            "definition": "蜂蜜",
+            "iscorrect": true
+          },
+          {
+            "definition": "钱",
+            "iscorrect": false
+          },
+          {
+            "definition": "荣誉",
+            "iscorrect": false
+          },
+          {
+            "definition": "亲爱的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

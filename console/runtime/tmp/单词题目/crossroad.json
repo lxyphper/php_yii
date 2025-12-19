@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "crossroad",
+      "error_analysis": "学生易因形近词“crossword”（填字游戏）混淆，或通过“cross+road”字面推导误理解为“交叉的路”而非“十字路口”。",
+      "sentence": "At the **crossroad**, turn left to get to the supermarket.",
+      "options": {
+        "option": [
+          {
+            "definition": "十字路口",
+            "iscorrect": true
+          },
+          {
+            "definition": "填字游戏",
+            "iscorrect": false
+          },
+          {
+            "definition": "交叉的路",
+            "iscorrect": false
+          },
+          {
+            "definition": "人行横道",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

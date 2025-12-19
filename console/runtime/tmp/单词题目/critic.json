@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "critic",
+      "error_analysis": "学生易因形近词\"critical\"（形容词，批评的）混淆词性，误将\"critic\"理解为形容词；或因词根\"crit-\"（判断）误导，混淆为\"创造者\"（creator）的形近义。",
+      "sentence": "The famous **critic** wrote a scathing review of the new movie, saying it lacked originality and depth.",
+      "options": {
+        "option": [
+          {
+            "definition": "批评家；评论家（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "批评的；关键的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "创造者；发明者（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "评论；评价（名词，指文章或意见）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

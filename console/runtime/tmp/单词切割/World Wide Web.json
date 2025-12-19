@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "Werld Wid Web",
+      "Wold Wide Wep",
+      "World Wid Wab",
+      "Werld Wide Webb"
+    ],
+    "correct_chunks": [
+      "World",
+      "Wide",
+      "Web"
+    ],
+    "distractor_chunks": [
+      "Werld",
+      "Wold",
+      "Wid",
+      "Wep",
+      "Wab",
+      "Webb"
+    ]
+  },
+  0
+]

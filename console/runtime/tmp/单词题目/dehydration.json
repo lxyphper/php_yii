@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dehydration",
+      "error_analysis": "学生易因“dehydration”与“decoration”（装饰）拼写相似而误判，或因不熟悉“hydr-”（水）词根将其错误理解为“干燥”等无关含义。",
+      "sentence": "After running a marathon without drinking water, he suffered from **dehydration** and had to be taken to the hospital.",
+      "options": {
+        "option": [
+          {
+            "definition": "装饰",
+            "iscorrect": false
+          },
+          {
+            "definition": "干燥",
+            "iscorrect": false
+          },
+          {
+            "definition": "排水",
+            "iscorrect": false
+          },
+          {
+            "definition": "脱水（状态）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

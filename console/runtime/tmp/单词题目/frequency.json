@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "frequency",
+      "error_analysis": "学生易因形近词“frequent”（频繁的）及词根“-cy”（状态）的误导，将“frequency”误理解为“频繁的次数”或“频繁的状态”而非“频率”。",
+      "sentence": "The **frequency** of bus services to the airport has been increased to meet holiday demand.",
+      "options": {
+        "option": [
+          {
+            "definition": "频繁的状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "流利度",
+            "iscorrect": false
+          },
+          {
+            "definition": "频繁的次数",
+            "iscorrect": false
+          },
+          {
+            "definition": "频率",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

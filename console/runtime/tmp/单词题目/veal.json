@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "veal",
+      "error_analysis": "学生易因“veal”与基础词“meal”（饭）形近，误联想为“素食餐”或“简单食物”",
+      "sentence": "The menu features grilled **veal** with a side of mashed potatoes, a popular choice among meat lovers.",
+      "options": {
+        "option": [
+          {
+            "definition": "小牛肉",
+            "iscorrect": true
+          },
+          {
+            "definition": "素食餐",
+            "iscorrect": false
+          },
+          {
+            "definition": "面纱",
+            "iscorrect": false
+          },
+          {
+            "definition": "简单的饭",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

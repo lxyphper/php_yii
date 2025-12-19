@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to file",
+      "error_analysis": "易将动词“to file”误解为“用锉刀锉”（形近词“file”作名词“锉刀”的联想）或混淆为“填充”（形近词“fill”的干扰）",
+      "sentence": "To avoid penalties, make sure you **file** your visa application before the end of the month.",
+      "options": {
+        "option": [
+          {
+            "definition": "提交（文件、申请等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "用锉刀锉",
+            "iscorrect": false
+          },
+          {
+            "definition": "填充（如表格、容器）",
+            "iscorrect": false
+          },
+          {
+            "definition": "整理（如文件、物品）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

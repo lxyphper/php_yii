@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "graffiti",
+      "error_analysis": "学生易因形近词\"graphic\"(图形的)误判为\"图形作品\"，或因词根\"graff-\"(刮)误猜为\"刮擦的痕迹\"",
+      "sentence": "The old building was covered in colorful **graffiti**, which were painted by local artists without permission.",
+      "options": {
+        "option": [
+          {
+            "definition": "涂鸦（在公共场合的乱画）",
+            "iscorrect": true
+          },
+          {
+            "definition": "图形设计作品",
+            "iscorrect": false
+          },
+          {
+            "definition": "刮擦的痕迹",
+            "iscorrect": false
+          },
+          {
+            "definition": "手写的便条",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

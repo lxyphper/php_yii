@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ice cream",
+      "error_analysis": "学生易因拆分词根（ice=冰，cream=乳霜）误判为“冰乳霜”，或因形近（cream→team）误判为“冰球队”",
+      "sentence": "On a hot summer day, many kids like to eat **ice cream** with a cone or a bowl.",
+      "options": {
+        "option": [
+          {
+            "definition": "冰淇淋",
+            "iscorrect": true
+          },
+          {
+            "definition": "冰乳霜（护肤品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "冰球队",
+            "iscorrect": false
+          },
+          {
+            "definition": "冰块",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "balmy",
+      "error_analysis": "学生易因形近词“balm”（膏；安慰）误将“balmy”理解为“安慰的”或“止痛的”，或因“bald”（秃头）误判为“秃头的”。",
+      "sentence": "We spent a lovely **balmy** evening by the beach, watching the sunset without needing jackets.",
+      "options": {
+        "option": [
+          {
+            "definition": "温暖宜人的（指天气）",
+            "iscorrect": true
+          },
+          {
+            "definition": "安慰的；令人安心的",
+            "iscorrect": false
+          },
+          {
+            "definition": "止痛的；舒缓的",
+            "iscorrect": false
+          },
+          {
+            "definition": "秃头的；无发的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

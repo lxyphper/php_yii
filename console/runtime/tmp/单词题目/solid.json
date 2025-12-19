@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "solid",
+      "error_analysis": "中国学生易因形近词‘sold’（卖）误将‘solid’理解为‘销售的’，或因词根‘sol-’（单独）误猜为‘单独的’。",
+      "sentence": "The ice on the lake is thick and **solid**, so it's safe to walk on.",
+      "options": {
+        "option": [
+          {
+            "definition": "坚实的；固体的",
+            "iscorrect": true
+          },
+          {
+            "definition": "销售的；被卖的",
+            "iscorrect": false
+          },
+          {
+            "definition": "单独的；孤独的",
+            "iscorrect": false
+          },
+          {
+            "definition": "灵魂的；精神的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "good",
+      "error_analysis": "学生易将“good”误联想为形近词“god”（上帝），或混淆其与复数形式“goods”（商品）的含义",
+      "sentence": "This apple tastes really **good**—sweet and juicy.",
+      "options": {
+        "option": [
+          {
+            "definition": "好的；令人满意的",
+            "iscorrect": true
+          },
+          {
+            "definition": "上帝",
+            "iscorrect": false
+          },
+          {
+            "definition": "商品",
+            "iscorrect": false
+          },
+          {
+            "definition": "健康的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

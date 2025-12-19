@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wintry",
+      "error_analysis": "中国学生易因形近词\"windy\"（多风的）混淆词义，或因拆分\"win+try\"误以为是\"胜利的\"。",
+      "sentence": "The **wintry** air made her nose turn red as she walked to school.",
+      "options": {
+        "option": [
+          {
+            "definition": "多风的",
+            "iscorrect": false
+          },
+          {
+            "definition": "胜利的",
+            "iscorrect": false
+          },
+          {
+            "definition": "冬天的；寒冷的",
+            "iscorrect": true
+          },
+          {
+            "definition": "潮湿的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

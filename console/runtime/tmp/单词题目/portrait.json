@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "portrait",
+      "error_analysis": "学生易因\"port\"（港口）的形近词根误导，将\"portrait\"错误理解为与港口相关的图像，或混淆\"portray\"（描绘）而误判为动作",
+      "sentence": "The artist spent months painting a detailed **portrait** of the queen, which now hangs in the palace.",
+      "options": {
+        "option": [
+          {
+            "definition": "港口的照片",
+            "iscorrect": false
+          },
+          {
+            "definition": "便携的物品",
+            "iscorrect": false
+          },
+          {
+            "definition": "肖像；画像",
+            "iscorrect": true
+          },
+          {
+            "definition": "描绘；描述",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

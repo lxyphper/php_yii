@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "deportation",
+      "error_analysis": "学生易因形近词“deportment”（举止）或误猜词根“port”（港口），将“deportation”错解为“举止”或“离港”。",
+      "sentence": "The government announced the **deportation** of all illegal immigrants who had overstayed their visas.",
+      "options": {
+        "option": [
+          {
+            "definition": "驱逐出境",
+            "iscorrect": true
+          },
+          {
+            "definition": "举止",
+            "iscorrect": false
+          },
+          {
+            "definition": "离港",
+            "iscorrect": false
+          },
+          {
+            "definition": "出口",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

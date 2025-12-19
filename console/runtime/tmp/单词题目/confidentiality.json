@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "confidentiality",
+      "error_analysis": "因形近\"confidence\"(信心)或词根误解，易将\"confidentiality\"误判为\"信心\"或\"信任度\"",
+      "sentence": "Company policy emphasizes the **confidentiality** of customer data to protect their privacy.",
+      "options": {
+        "option": [
+          {
+            "definition": "机密性；保密性",
+            "iscorrect": true
+          },
+          {
+            "definition": "信心；自信",
+            "iscorrect": false
+          },
+          {
+            "definition": "信任度；信赖",
+            "iscorrect": false
+          },
+          {
+            "definition": "秘密的内容；隐私信息",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "coalition",
+      "error_analysis": "因形近词“coal”（煤）而误判为与煤炭相关的事物",
+      "sentence": "To pass the new law, the environmental group formed a **coalition** with labor unions and business leaders.",
+      "options": {
+        "option": [
+          {
+            "definition": "联盟；联合（尤指政治或组织间的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "煤炭堆；煤矿",
+            "iscorrect": false
+          },
+          {
+            "definition": "收集物；聚集物",
+            "iscorrect": false
+          },
+          {
+            "definition": "碰撞；冲突",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

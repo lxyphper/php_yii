@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "truly",
+      "error_analysis": "学生易因形近词\"true\"（形容词，真实的）的影响，将\"truly\"（副词，真实地/真诚地）误判为形容词或混淆词义",
+      "sentence": "She smiled and said, \"I am **truly** grateful for your help.\"",
+      "options": {
+        "option": [
+          {
+            "definition": "真实的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "真诚地；确实（副词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "真理（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "信任（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

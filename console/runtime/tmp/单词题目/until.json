@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "until",
+      "error_analysis": "学生易将“until”误理解为形近词“unless”（除非）或混淆其与“before”（在...之前）的时间逻辑",
+      "sentence": "Please stay here **until** I return from the store.",
+      "options": {
+        "option": [
+          {
+            "definition": "直到...为止",
+            "iscorrect": true
+          },
+          {
+            "definition": "除非",
+            "iscorrect": false
+          },
+          {
+            "definition": "在...之前",
+            "iscorrect": false
+          },
+          {
+            "definition": "才",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

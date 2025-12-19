@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "water pollution",
+      "error_analysis": "易因形近短语water purification（水净化）混淆，或因pollution与population拼写相似而误解为“水的人口”",
+      "sentence": "The river became dirty and unsafe for swimming due to **water pollution** from nearby factories.",
+      "options": {
+        "option": [
+          {
+            "definition": "水污染",
+            "iscorrect": true
+          },
+          {
+            "definition": "水净化",
+            "iscorrect": false
+          },
+          {
+            "definition": "水的人口",
+            "iscorrect": false
+          },
+          {
+            "definition": "水的流动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "beautiful",
+      "error_analysis": "学生易因形近词\"beastly\"(野兽般的)误将\"beautiful\"理解为\"丑陋的\"，或因\"beautify\"(美化)误理解为动词\"美化\"",
+      "sentence": "The sunset over the ocean was so **beautiful** that everyone stopped to take photos.",
+      "options": {
+        "option": [
+          {
+            "definition": "美丽的（形容词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "野兽般的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "美化（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "丰富的（形容词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

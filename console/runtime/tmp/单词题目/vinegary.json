@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "vinegary",
+      "error_analysis": "学生易因形近词\"vine\"（葡萄藤）或词根误解，将\"vinegary\"误判为\"与葡萄藤相关的\"或\"藤本植物的\"",
+      "sentence": "The salad dressing tasted too **vinegary** for my liking, so I added some honey to balance it.",
+      "options": {
+        "option": [
+          {
+            "definition": "有醋味的；尖酸的",
+            "iscorrect": true
+          },
+          {
+            "definition": "与葡萄藤或葡萄园相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "藤本植物的",
+            "iscorrect": false
+          },
+          {
+            "definition": "新鲜多汁的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

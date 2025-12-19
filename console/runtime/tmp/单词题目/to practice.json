@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to practice",
+      "error_analysis": "中国学生易将“to practice”与“表演（展示技能）”“锻炼（身体活动）”混淆，误将“反复练习以提高”理解为“展示”或“身体活动”",
+      "sentence": "She **practices** the violin every evening to prepare for the upcoming competition.",
+      "options": {
+        "option": [
+          {
+            "definition": "反复练习（以提高技能）",
+            "iscorrect": true
+          },
+          {
+            "definition": "表演（展示已掌握的技能）",
+            "iscorrect": false
+          },
+          {
+            "definition": "锻炼（进行身体活动）",
+            "iscorrect": false
+          },
+          {
+            "definition": "说教（宣扬观点）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

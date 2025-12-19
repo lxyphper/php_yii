@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to discourage",
+      "error_analysis": "学生易因词根“dis-+courage”误理解为“没有勇气”（名词），或混淆形近词“encourage”（鼓励）而反义误用。",
+      "sentence": "Her parents tried to **discourage** her from dropping out of school.",
+      "options": {
+        "option": [
+          {
+            "definition": "劝阻；使某人不想做某事",
+            "iscorrect": true
+          },
+          {
+            "definition": "鼓励",
+            "iscorrect": false
+          },
+          {
+            "definition": "没有勇气",
+            "iscorrect": false
+          },
+          {
+            "definition": "支持",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

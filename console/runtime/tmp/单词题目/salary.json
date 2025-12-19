@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "salary",
+      "error_analysis": "学生易因形近词\"sailor\"(水手)误判词义，或因\"sal-\"联想\"salt\"(盐)产生错误关联。",
+      "sentence": "She asked for a raise in her **salary** after working at the company for two years.",
+      "options": {
+        "option": [
+          {
+            "definition": "薪水；薪金",
+            "iscorrect": true
+          },
+          {
+            "definition": "水手；海员",
+            "iscorrect": false
+          },
+          {
+            "definition": "盐；食盐",
+            "iscorrect": false
+          },
+          {
+            "definition": "销售；销售额",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to take",
+      "error_analysis": "学生易混淆形近词\"talk\"(说话)，或误将\"take\"仅理解为字面的\"拿；取\"，忽略其\"乘坐(交通工具)\"的常见引申义",
+      "sentence": "I usually **take** the bus to school every morning—it’s cheaper than taking a taxi.",
+      "options": {
+        "option": [
+          {
+            "definition": "说话",
+            "iscorrect": false
+          },
+          {
+            "definition": "拿；取",
+            "iscorrect": false
+          },
+          {
+            "definition": "乘坐（交通工具）",
+            "iscorrect": true
+          },
+          {
+            "definition": "带走",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

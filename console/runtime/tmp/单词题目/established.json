@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "established",
+      "error_analysis": "学生易将形容词\"established\"直译为\"被建立的\"（动词义影响），忽略其\"公认的、老牌的\"核心状态义",
+      "sentence": "The café around the corner is an **established** spot for locals to meet.",
+      "options": {
+        "option": [
+          {
+            "definition": "被建立的",
+            "iscorrect": false
+          },
+          {
+            "definition": "公认的；老牌的",
+            "iscorrect": true
+          },
+          {
+            "definition": "正在建立的",
+            "iscorrect": false
+          },
+          {
+            "definition": "建立者的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "astronaut",
+      "error_analysis": "因形近词\"astronomy\"(天文学)及词根\"astro-\"(星)的误导，易误判为\"天文学家\"。",
+      "sentence": "The **astronaut** will perform a spacewalk outside the International Space Station next week.",
+      "options": {
+        "option": [
+          {
+            "definition": "天文学家",
+            "iscorrect": false
+          },
+          {
+            "definition": "占星家",
+            "iscorrect": false
+          },
+          {
+            "definition": "宇航员",
+            "iscorrect": true
+          },
+          {
+            "definition": "航空飞行员",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

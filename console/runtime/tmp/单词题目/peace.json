@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "peace",
+      "error_analysis": "中国学生易混淆形近词‘peace’（和平）与‘piece’（碎片/块），或误联想‘pea’（豌豆）导致词义错误",
+      "sentence": "The two countries signed a treaty to keep **peace** along their border.",
+      "options": {
+        "option": [
+          {
+            "definition": "和平",
+            "iscorrect": true
+          },
+          {
+            "definition": "碎片/块",
+            "iscorrect": false
+          },
+          {
+            "definition": "豌豆",
+            "iscorrect": false
+          },
+          {
+            "definition": "暂停",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

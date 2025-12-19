@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "diagenesis",
+      "error_analysis": "学生易因形近词\"diagnosis\"(诊断)混淆,或通过词根\"dia-\"(穿过)+\"genesis\"(生成)过度猜测为一般\"生成过程\",而非地质学特定的\"成岩作用\"",
+      "sentence": "The transformation of sediments into solid rock through compaction and mineral alteration is a critical step in **diagenesis**, which occurs after sediment deposition.",
+      "options": {
+        "option": [
+          {
+            "definition": "诊断（医学术语）",
+            "iscorrect": false
+          },
+          {
+            "definition": "（地质学中的）成岩作用",
+            "iscorrect": true
+          },
+          {
+            "definition": "生物进化的初始阶段",
+            "iscorrect": false
+          },
+          {
+            "definition": "化学元素的合成过程",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

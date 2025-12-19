@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to contact",
+      "error_analysis": "中国学生易混淆形近词contract（合同/收缩）与contact的含义，或误联想为contain（包含）、connect（连接）的词义。",
+      "sentence": "If you need help with your order, please **contact** our support team using the phone number on our website.",
+      "options": {
+        "option": [
+          {
+            "definition": "联系；接触",
+            "iscorrect": true
+          },
+          {
+            "definition": "签订合同；收缩",
+            "iscorrect": false
+          },
+          {
+            "definition": "包含；容纳",
+            "iscorrect": false
+          },
+          {
+            "definition": "连接；联合",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

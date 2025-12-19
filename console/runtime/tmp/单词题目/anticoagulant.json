@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "anticoagulant",
+      "error_analysis": "学生易将anticoagulant与同有anti-前缀的形近词（如antibiotic/抗生素）混淆，或因不认识coagulant而错误猜测词义。",
+      "sentence": "After his heart attack, the doctor prescribed a **anticoagulant** to prevent blood clots from forming in his arteries.",
+      "options": {
+        "option": [
+          {
+            "definition": "用于防止血液凝结的药物（如华法林）",
+            "iscorrect": true
+          },
+          {
+            "definition": "用于杀死细菌的药物（如青霉素）",
+            "iscorrect": false
+          },
+          {
+            "definition": "用于对抗氧化损伤的物质（如维生素C）",
+            "iscorrect": false
+          },
+          {
+            "definition": "用于缓解抑郁情绪的药物（如舍曲林）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

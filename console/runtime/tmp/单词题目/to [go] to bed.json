@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to [go] to bed",
+      "error_analysis": "学生易将\"go to bed\"字面直译为\"去床边\"，或因形近词\"bead\"误判为\"去串珠子\"",
+      "sentence": "After finishing his homework, Tom usually **goes to bed** at 9 o'clock.",
+      "options": {
+        "option": [
+          {
+            "definition": "睡觉",
+            "iscorrect": true
+          },
+          {
+            "definition": "去床边",
+            "iscorrect": false
+          },
+          {
+            "definition": "去串珠子",
+            "iscorrect": false
+          },
+          {
+            "definition": "去购物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

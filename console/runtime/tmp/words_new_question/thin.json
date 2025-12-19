@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "thin",
+      "error_analysis": "最核心易错点为形近词\"think\"（想）的拼写干扰，学生易因拼写相似混淆词义",
+      "sentence": "The ice on the lake is too **thin** to skate on.",
+      "options": {
+        "option": [
+          {
+            "definition": "薄的；细的；瘦的",
+            "iscorrect": true
+          },
+          {
+            "definition": "想；认为",
+            "iscorrect": false
+          },
+          {
+            "definition": "锡制的",
+            "iscorrect": false
+          },
+          {
+            "definition": "厚的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

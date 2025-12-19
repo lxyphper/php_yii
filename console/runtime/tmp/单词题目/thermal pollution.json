@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "thermal pollution",
+      "error_analysis": "学生易因\"thermal\"与\"terminal\"（终端）形近误判为\"终端污染\"，或因\"thermal\"（热的）字面义过度直译为\"温度污染\"。",
+      "sentence": "The power plant's continuous discharge of hot wastewater into the river has caused serious **thermal pollution**, leading to the death of most fish in the area.",
+      "options": {
+        "option": [
+          {
+            "definition": "热污染（工业或电力生产中排放的热水对水体的污染）",
+            "iscorrect": true
+          },
+          {
+            "definition": "终端污染（由终端设备产生的污染）",
+            "iscorrect": false
+          },
+          {
+            "definition": "温度污染（由温度异常变化引起的污染）",
+            "iscorrect": false
+          },
+          {
+            "definition": "治疗性污染（由医疗治疗过程产生的污染）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

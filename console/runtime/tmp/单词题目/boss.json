@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "boss",
+      "error_analysis": "学生易因“boss”与“base”（基础）、“bus”（公共汽车）形近而误判，或因“bossy”（专横的）联想混淆其核心名词义（老板）。",
+      "sentence": "My **boss** asked me to finish the report by Friday.",
+      "options": {
+        "option": [
+          {
+            "definition": "老板",
+            "iscorrect": true
+          },
+          {
+            "definition": "基础",
+            "iscorrect": false
+          },
+          {
+            "definition": "专横的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "公共汽车",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

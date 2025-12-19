@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "randomly",
+      "error_analysis": "学生易混淆形近词“regularly”（定期地）的含义，或因“ran”（跑）的联想误判为“快速地”。",
+      "sentence": "The teacher called students' names **randomly** to answer the question in class.",
+      "options": {
+        "option": [
+          {
+            "definition": "随机地",
+            "iscorrect": true
+          },
+          {
+            "definition": "定期地",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速地",
+            "iscorrect": false
+          },
+          {
+            "definition": "仔细地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

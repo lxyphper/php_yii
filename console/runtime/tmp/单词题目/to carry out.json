@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to carry out",
+      "error_analysis": "中国学生易将“carry out”字面理解为“携带出去”，而非其核心义“执行/实施”",
+      "sentence": "The team will **carry out** the experiment tomorrow morning to test the new theory.",
+      "options": {
+        "option": [
+          {
+            "definition": "执行；实施",
+            "iscorrect": true
+          },
+          {
+            "definition": "携带出去",
+            "iscorrect": false
+          },
+          {
+            "definition": "继续进行",
+            "iscorrect": false
+          },
+          {
+            "definition": "完成；结束",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

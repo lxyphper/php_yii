@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "hambuger",
+      "hambeger",
+      "hamburber",
+      "hamburgur"
+    ],
+    "correct_chunks": [
+      "ham",
+      "burg",
+      "er"
+    ],
+    "distractor_chunks": [
+      "buger",
+      "beger",
+      "burber",
+      "burgur"
+    ]
+  },
+  0
+]

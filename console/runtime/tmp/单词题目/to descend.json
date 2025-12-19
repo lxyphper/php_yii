@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to descend",
+      "error_analysis": "学生易混淆形近词ascend（上升）的反义，或因scend与send形近猜测为“发送”",
+      "sentence": "As the sun began to set, the hot air balloon slowly **descended** towards the meadow.",
+      "options": {
+        "option": [
+          {
+            "definition": "下降；下来",
+            "iscorrect": true
+          },
+          {
+            "definition": "上升；攀登",
+            "iscorrect": false
+          },
+          {
+            "definition": "发送；传送",
+            "iscorrect": false
+          },
+          {
+            "definition": "依赖；依靠",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

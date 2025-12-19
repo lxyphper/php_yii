@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "title",
+      "error_analysis": "容易与形近词“tile”（瓷砖）混淆，或误将“title”理解为“权利”（受“entitle”影响）",
+      "sentence": "Please write the **title** of your story on the first line.",
+      "options": {
+        "option": [
+          {
+            "definition": "标题；头衔",
+            "iscorrect": true
+          },
+          {
+            "definition": "瓷砖",
+            "iscorrect": false
+          },
+          {
+            "definition": "权利",
+            "iscorrect": false
+          },
+          {
+            "definition": "潮汐",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "conspiracy",
+      "error_analysis": "中国学生易因形近词\"conspicuous\"（显眼的）或词根\"con-\"+\"spire\"的错误联想而误解\"conspiracy\"。",
+      "sentence": "The journalists exposed a **conspiracy** between the politician and the businessman to rig the election.",
+      "options": {
+        "option": [
+          {
+            "definition": "阴谋；密谋",
+            "iscorrect": true
+          },
+          {
+            "definition": "显眼的事物",
+            "iscorrect": false
+          },
+          {
+            "definition": "共同呼吸的集会",
+            "iscorrect": false
+          },
+          {
+            "definition": "尖顶建筑群",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

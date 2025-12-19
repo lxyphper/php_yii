@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "disappointing",
+      "error_analysis": "易混淆形近词“disappearing”（消失的）及词根误解为“未被任命的”",
+      "sentence": "The movie we watched last night was **disappointing**—it didn’t live up to our expectations at all.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人失望的",
+            "iscorrect": true
+          },
+          {
+            "definition": "消失的",
+            "iscorrect": false
+          },
+          {
+            "definition": "未被任命的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人惊讶的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

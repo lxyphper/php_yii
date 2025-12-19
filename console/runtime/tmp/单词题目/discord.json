@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "discord",
+      "error_analysis": "学生易因形近词（如discount、discard）猜测为“折扣”或“丢弃”，或因词根dis-+cord错误联想为“断开的绳子”等无关含义",
+      "sentence": "The constant **discord** between the two siblings often made their parents upset.",
+      "options": {
+        "option": [
+          {
+            "definition": "不和；分歧；纷争",
+            "iscorrect": true
+          },
+          {
+            "definition": "折扣；打折",
+            "iscorrect": false
+          },
+          {
+            "definition": "丢弃；抛弃",
+            "iscorrect": false
+          },
+          {
+            "definition": "断开的绳子；电线",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

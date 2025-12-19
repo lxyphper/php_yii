@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to publish",
+      "error_analysis": "中国学生易因形近词\"punish\"(惩罚)混淆词义，或误将\"publish\"泛化为\"公开\"而非核心的\"出版\"义",
+      "sentence": "The author spent two years writing the novel and finally found a publisher to **publish** it last month.",
+      "options": {
+        "option": [
+          {
+            "definition": "惩罚；处罚",
+            "iscorrect": false
+          },
+          {
+            "definition": "出版；发行",
+            "iscorrect": true
+          },
+          {
+            "definition": "公开；宣布",
+            "iscorrect": false
+          },
+          {
+            "definition": "宣传；推广",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

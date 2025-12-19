@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "placebo",
+      "error_analysis": "学生易因形近词“place”（地方）联想到“地方物品”，或因词根“plac-”（如placid平静的）误判为“平静的药物”",
+      "sentence": "In the clinical trial, half the participants received the new drug, while the other half got a **placebo** to compare the effects.",
+      "options": {
+        "option": [
+          {
+            "definition": "安慰剂（药物试验中的无效对照剂）",
+            "iscorrect": true
+          },
+          {
+            "definition": "地方的物品/放置的东西",
+            "iscorrect": false
+          },
+          {
+            "definition": "平静的药物",
+            "iscorrect": false
+          },
+          {
+            "definition": "止痛药",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

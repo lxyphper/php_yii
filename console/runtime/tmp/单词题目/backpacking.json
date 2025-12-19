@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "backpacking",
+      "error_analysis": "学生易因词根拆分（backpack+ing）错误理解为“整理背包”，或因形近词“packing”（打包）误导为“打包行李”。",
+      "sentence": "During their summer vacation, they went **backpacking** through the mountains of Nepal, staying in cheap hostels and carrying all their supplies in large backpacks.",
+      "options": {
+        "option": [
+          {
+            "definition": "背包旅行（徒步长途旅行）",
+            "iscorrect": true
+          },
+          {
+            "definition": "整理背包",
+            "iscorrect": false
+          },
+          {
+            "definition": "打包行李",
+            "iscorrect": false
+          },
+          {
+            "definition": "使用背包",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

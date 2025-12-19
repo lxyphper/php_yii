@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "discomfort",
+      "error_analysis": "学生易因形近词discomfit（使困惑）的干扰将discomfort误理解为“困惑”，或因词根过度直译将“不适”误判为“痛苦”。",
+      "sentence": "After sitting in the hard chair for hours, she felt a dull **discomfort** in her lower back.",
+      "options": {
+        "option": [
+          {
+            "definition": "不适；轻微疼痛",
+            "iscorrect": true
+          },
+          {
+            "definition": "困惑；尴尬",
+            "iscorrect": false
+          },
+          {
+            "definition": "痛苦；剧痛",
+            "iscorrect": false
+          },
+          {
+            "definition": "不满；不满足",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

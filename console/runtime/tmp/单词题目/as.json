@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "as",
+      "error_analysis": "学生易将介词用法的\"as\"误理解为\"像\"（like的含义）或混淆其连词用法（如\"当…时\"）",
+      "sentence": "The company hired her **as** a marketing specialist last month.",
+      "options": {
+        "option": [
+          {
+            "definition": "作为",
+            "iscorrect": true
+          },
+          {
+            "definition": "像",
+            "iscorrect": false
+          },
+          {
+            "definition": "当…时",
+            "iscorrect": false
+          },
+          {
+            "definition": "和…一样",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

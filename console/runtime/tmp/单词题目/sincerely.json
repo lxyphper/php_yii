@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sincerely",
+      "error_analysis": "混淆形近词seriously（严肃地）与sincerely（真诚地），或误将其理解为“认真地”而非“真诚地”",
+      "sentence": "I **sincerely** hope you can forgive me for my mistake.",
+      "options": {
+        "option": [
+          {
+            "definition": "真诚地；衷心地",
+            "iscorrect": true
+          },
+          {
+            "definition": "严肃地；严重地",
+            "iscorrect": false
+          },
+          {
+            "definition": "认真地；仔细地",
+            "iscorrect": false
+          },
+          {
+            "definition": "正式地；礼节性地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "milk",
+      "error_analysis": "中国学生易因形近词（如mail、mill、mild）干扰，将“milk”误判为“邮件”“磨坊”或“温和的”。",
+      "sentence": "Would you like some **milk** in your coffee? It makes it taste richer.",
+      "options": {
+        "option": [
+          {
+            "definition": "牛奶（名词，指牛分泌的可饮用液体）",
+            "iscorrect": true
+          },
+          {
+            "definition": "邮件（名词，指通过邮政或电子方式发送的信息）",
+            "iscorrect": false
+          },
+          {
+            "definition": "磨坊（名词，指加工粮食的场所）",
+            "iscorrect": false
+          },
+          {
+            "definition": "温和的（形容词，指性格或态度不严厉）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

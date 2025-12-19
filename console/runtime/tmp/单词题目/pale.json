@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pale",
+      "error_analysis": "中国学生易因形近词\"pal\"(朋友)或发音联想\"怕了\"而误判\"pale\"为\"朋友的\"或\"害怕的\"",
+      "sentence": "After staying up all night to finish her exam, Lucy's face looked **pale** and exhausted.",
+      "options": {
+        "option": [
+          {
+            "definition": "苍白的",
+            "iscorrect": true
+          },
+          {
+            "definition": "朋友的",
+            "iscorrect": false
+          },
+          {
+            "definition": "害怕的",
+            "iscorrect": false
+          },
+          {
+            "definition": "销售的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

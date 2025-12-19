@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "daily",
+      "error_analysis": "学生易因形近词“dairy”（乳制品）混淆“daily”的词义，或误将其与“day”关联为“白天的”。",
+      "sentence": "Taking a **daily** walk is part of his healthy routine.",
+      "options": {
+        "option": [
+          {
+            "definition": "每天的；日常的",
+            "iscorrect": true
+          },
+          {
+            "definition": "乳制品的",
+            "iscorrect": false
+          },
+          {
+            "definition": "日记的",
+            "iscorrect": false
+          },
+          {
+            "definition": "白天的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

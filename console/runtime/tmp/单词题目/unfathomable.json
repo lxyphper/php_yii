@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unfathomable",
+      "error_analysis": "易受形近词“unfashionable”（不流行的）干扰，或因词根“fathom”（测量）直译为“无法测量的”而忽略引申义“难以理解的”",
+      "sentence": "The reason for his sudden resignation remains **unfathomable** to all of us; none of us can figure out why he left.",
+      "options": {
+        "option": [
+          {
+            "definition": "不流行的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无法测量的",
+            "iscorrect": false
+          },
+          {
+            "definition": "难以理解的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不可信的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

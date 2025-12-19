@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "eighteen",
+      "error_analysis": "学生易因形近词“eighty”（八十）的干扰或对“eight”（八）的字面联想，将“eighteen”误判为“八十”或“八”。",
+      "sentence": "My little sister will be **eighteen** next year, and she's already planning her birthday party with 18 friends.",
+      "options": {
+        "option": [
+          {
+            "definition": "八",
+            "iscorrect": false
+          },
+          {
+            "definition": "十八",
+            "iscorrect": true
+          },
+          {
+            "definition": "八十",
+            "iscorrect": false
+          },
+          {
+            "definition": "第十八",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

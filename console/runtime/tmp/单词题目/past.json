@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "past",
+      "error_analysis": "易混淆形近词pass的含义（如传递、通过），或误将past当作pass的过去式（passed）",
+      "sentence": "“The children laughed as they ran **past** the ice cream truck.”",
+      "options": {
+        "option": [
+          {
+            "definition": "动词，传递；通过（如pass a book）",
+            "iscorrect": false
+          },
+          {
+            "definition": "动词pass的过去式（如He passed the exam）",
+            "iscorrect": false
+          },
+          {
+            "definition": "介词，经过（从...旁边路过）",
+            "iscorrect": true
+          },
+          {
+            "definition": "名词/动词，粘贴；粘贴物（如paste a poster）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

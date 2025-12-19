@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to cheat",
+      "error_analysis": "核心易错点是形近词“cheap”（便宜的）、“chat”（聊天）导致的错误联想，学生易将“to cheat”误判为与“便宜”或“聊天”相关的含义。",
+      "sentence": "He was caught trying to **cheat** in the exam by using a hidden phone.",
+      "options": {
+        "option": [
+          {
+            "definition": "欺骗；作弊",
+            "iscorrect": true
+          },
+          {
+            "definition": "便宜的",
+            "iscorrect": false
+          },
+          {
+            "definition": "聊天",
+            "iscorrect": false
+          },
+          {
+            "definition": "检查",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

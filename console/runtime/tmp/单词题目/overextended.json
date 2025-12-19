@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "overextended",
+      "error_analysis": "学生易通过词根“over-+extend”直译为“过度扩展的”，而忽略其“（财务、时间或精力上）负担过重的”核心义",
+      "sentence": "After taking on three part-time jobs, she realized she was **overextended** and couldn’t handle all the work.",
+      "options": {
+        "option": [
+          {
+            "definition": "过度扩展的",
+            "iscorrect": false
+          },
+          {
+            "definition": "过度劳累的",
+            "iscorrect": false
+          },
+          {
+            "definition": "（财务、时间或精力上）负担过重的",
+            "iscorrect": true
+          },
+          {
+            "definition": "高估的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "epistemology",
+      "error_analysis": "学生易因形近词\"epidemiology\"(流行病学)干扰，或误将词根\"epistem-\"与\"stem\"(茎)关联，导致误解为与疾病或植物相关的学科。",
+      "sentence": "In philosophy class, we explored how **epistemology** addresses questions like \"What is knowledge?\" and \"How do we know what we know?\"",
+      "options": {
+        "option": [
+          {
+            "definition": "流行病学（研究疾病传播的学科）",
+            "iscorrect": false
+          },
+          {
+            "definition": "植物茎部结构与功能研究",
+            "iscorrect": false
+          },
+          {
+            "definition": "认识论（关于知识的本质、来源和范围的哲学研究）",
+            "iscorrect": true
+          },
+          {
+            "definition": "昆虫行为模式与生态研究",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

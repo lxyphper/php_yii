@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "summary",
+      "error_analysis": "学生易因形近词\"summer\"(夏天)混淆，或因词根\"sum\"(总和)误判为\"总和/合计\"",
+      "sentence": "After reading the long article, she wrote a **summary** to capture the main points.",
+      "options": {
+        "option": [
+          {
+            "definition": "摘要；总结",
+            "iscorrect": true
+          },
+          {
+            "definition": "夏天",
+            "iscorrect": false
+          },
+          {
+            "definition": "总和；合计",
+            "iscorrect": false
+          },
+          {
+            "definition": "峰会",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

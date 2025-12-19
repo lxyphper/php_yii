@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wholly",
+      "error_analysis": "学生易因形近词\"holy\"（神圣的）音近及拼写相似，将\"wholly\"误判为\"神圣地\"，或因词根\"whole\"过度直译为\"整个地\"",
+      "sentence": "The project was **wholly** funded by private donations, so the government had no say in its decision-making.",
+      "options": {
+        "option": [
+          {
+            "definition": "完全地；彻底地",
+            "iscorrect": true
+          },
+          {
+            "definition": "神圣地",
+            "iscorrect": false
+          },
+          {
+            "definition": "整个地",
+            "iscorrect": false
+          },
+          {
+            "definition": "部分地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

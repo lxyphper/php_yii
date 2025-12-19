@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "other",
+      "error_analysis": "中国学生易混淆“other”与形近词“another”，误将“other”理解为“另一个”（单数）而非“其他的”（复数或泛指）",
+      "sentence": "Some children like playing football, while **other** kids prefer reading books.",
+      "options": {
+        "option": [
+          {
+            "definition": "其他的（后面跟复数名词或泛指）",
+            "iscorrect": true
+          },
+          {
+            "definition": "另一个（单数，后面跟单数名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "不同的（与...不一样）",
+            "iscorrect": false
+          },
+          {
+            "definition": "剩下的（指已提及的人或物中余下的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

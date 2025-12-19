@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "college",
+      "error_analysis": "中国学生易因形近词“collage”（拼贴画）干扰，或联系“collect”（收集）产生“收集物品的地方”的错误联想。",
+      "sentence": "She plans to attend a **college** in Boston to study graphic design next year.",
+      "options": {
+        "option": [
+          {
+            "definition": "拼贴画（用纸张、照片等粘贴而成的艺术作品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "学院；专科学校；（英国的）大学",
+            "iscorrect": true
+          },
+          {
+            "definition": "收集物品的地方（如仓库、收藏馆）",
+            "iscorrect": false
+          },
+          {
+            "definition": "同事群体（一起工作的人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

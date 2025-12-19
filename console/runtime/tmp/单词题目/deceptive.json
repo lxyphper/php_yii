@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "deceptive",
+      "error_analysis": "学生易因形近词\"decisive\"(果断的)混淆，或因\"de-\"+\"cept\"词根错误推导为\"不接受的\"",
+      "sentence": "Her smile seemed friendly, but it was actually **deceptive**—she had hidden motives.",
+      "options": {
+        "option": [
+          {
+            "definition": "果断的",
+            "iscorrect": false
+          },
+          {
+            "definition": "欺骗性的；误导的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不接受的；拒绝的",
+            "iscorrect": false
+          },
+          {
+            "definition": "描述性的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

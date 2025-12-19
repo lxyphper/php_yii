@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "guest",
+      "error_analysis": "中国学生易因形近词“guess”（猜测）或“gesture”（手势）的干扰，将“guest”误理解为“猜测”或“手势”",
+      "sentence": "Our **guest** from New York will arrive at 7 pm.",
+      "options": {
+        "option": [
+          {
+            "definition": "客人",
+            "iscorrect": true
+          },
+          {
+            "definition": "猜测",
+            "iscorrect": false
+          },
+          {
+            "definition": "手势",
+            "iscorrect": false
+          },
+          {
+            "definition": "旅行",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

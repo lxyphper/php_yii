@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to move heaven and earth",
+      "error_analysis": "学生易因\"move\"的字面义或\"heaven and earth\"的夸张表达，误判为\"改变天地\"或\"移动重物\"。",
+      "sentence": "When her son went missing, Lisa promised she would **move heaven and earth** to find him safe and sound.",
+      "options": {
+        "option": [
+          {
+            "definition": "竭尽全力，想尽一切办法",
+            "iscorrect": true
+          },
+          {
+            "definition": "改变天地或自然环境",
+            "iscorrect": false
+          },
+          {
+            "definition": "缓慢移动沉重的东西",
+            "iscorrect": false
+          },
+          {
+            "definition": "做不可能完成的任务",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

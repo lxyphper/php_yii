@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stingy",
+      "error_analysis": "学生易因形近词\"sting\"（刺痛）误判为\"刺痛的\"，或因词根联想错误理解为\"尖锐的\"",
+      "sentence": "My uncle is so **stingy** that he never buys his kids new clothes, even when they outgrow the old ones.",
+      "options": {
+        "option": [
+          {
+            "definition": "吝啬的",
+            "iscorrect": true
+          },
+          {
+            "definition": "刺痛的",
+            "iscorrect": false
+          },
+          {
+            "definition": "尖锐的",
+            "iscorrect": false
+          },
+          {
+            "definition": "臭的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

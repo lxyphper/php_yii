@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "introverted",
+      "error_analysis": "学生易因形近词\"introductory\"（介绍的）或词根\"intro-\"的字面误导，将\"introverted\"错解为\"介绍性的\"或\"入门的\"",
+      "sentence": "Sarah is so **introverted** that she prefers reading alone at home to going to parties with friends.",
+      "options": {
+        "option": [
+          {
+            "definition": "（人）内向的，不爱交际的",
+            "iscorrect": true
+          },
+          {
+            "definition": "介绍性的，入门的",
+            "iscorrect": false
+          },
+          {
+            "definition": "倒置的，反转的",
+            "iscorrect": false
+          },
+          {
+            "definition": "外向的，爱交际的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

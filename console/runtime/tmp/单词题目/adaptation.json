@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "adaptation",
+      "error_analysis": "核心易错点为形近词adoption（收养；采纳）的干扰，及词根apt误导的“才能”之意",
+      "sentence": "The polar bear's thick fur is an important **adaptation** to the Arctic's extreme cold.",
+      "options": {
+        "option": [
+          {
+            "definition": "适应（指生物对环境的适应特征或过程）",
+            "iscorrect": true
+          },
+          {
+            "definition": "收养；采纳",
+            "iscorrect": false
+          },
+          {
+            "definition": "改编（指根据原著创作的电影或戏剧等作品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "才能；天资",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

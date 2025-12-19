@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "priest",
+      "error_analysis": "学生易因形近词“pest”（害虫）的干扰或词根“pri-”的误导（如“主要的人”）而误解“priest”的含义",
+      "sentence": "The **priest** will lead the Sunday service at the local church this weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "牧师；神父",
+            "iscorrect": true
+          },
+          {
+            "definition": "害虫",
+            "iscorrect": false
+          },
+          {
+            "definition": "主要的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "碎片",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

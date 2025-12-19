@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Afghan",
+      "error_analysis": "学生易因形近词\"African\"（非洲的；非洲人）的干扰，将\"Afghan\"误判为\"非洲的；非洲人\"。",
+      "sentence": "Many **Afghan** refugees have found shelter in neighboring countries after the conflict.",
+      "options": {
+        "option": [
+          {
+            "definition": "非洲的；非洲人",
+            "iscorrect": false
+          },
+          {
+            "definition": "阿富汗的；阿富汗人",
+            "iscorrect": true
+          },
+          {
+            "definition": "阿根廷的；阿根廷人",
+            "iscorrect": false
+          },
+          {
+            "definition": "澳大利亚的；澳大利亚人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

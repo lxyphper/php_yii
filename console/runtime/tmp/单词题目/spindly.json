@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "spindly",
+      "error_analysis": "学生易因形近词\"spin\"（旋转）联想为\"旋转的\"，或因\"细长\"表象忽略\"脆弱\"的贬义，误判为\"苗条的\"。",
+      "sentence": "The old chair had **spindly** legs that wobbled every time someone sat on it.",
+      "options": {
+        "option": [
+          {
+            "definition": "细长而脆弱的",
+            "iscorrect": true
+          },
+          {
+            "definition": "旋转的；易转动的",
+            "iscorrect": false
+          },
+          {
+            "definition": "辛辣的；刺激性的",
+            "iscorrect": false
+          },
+          {
+            "definition": "苗条的；纤细的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

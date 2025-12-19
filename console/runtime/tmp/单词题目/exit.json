@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "exit",
+      "error_analysis": "学生易因形近词“exist”（存在）混淆“exit”的词义，或误将其理解为“excite”（兴奋）的错误拼写",
+      "sentence": "Please follow the signs to the nearest **exit** in case of fire or other emergencies.",
+      "options": {
+        "option": [
+          {
+            "definition": "出口（名词）；退出（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "存在（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "兴奋（形容词/动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "努力（动词）；施加（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

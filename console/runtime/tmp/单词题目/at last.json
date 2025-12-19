@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "at last",
+      "error_analysis": "学生易将\"at last\"字面直译为\"在最后（位置或时间点）\"，而非其核心义\"终于\"。",
+      "sentence": "After waiting for two hours in the rain, the taxi arrived **at last**.",
+      "options": {
+        "option": [
+          {
+            "definition": "终于；最终",
+            "iscorrect": true
+          },
+          {
+            "definition": "在最后（位置或时间点）",
+            "iscorrect": false
+          },
+          {
+            "definition": "最后一个（人或物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "在结束时（如事件末尾）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Antarctic",
+      "error_analysis": "中国学生易因形近词\"arctic\"（北极的）干扰，将\"Antarctic\"误判为\"北极的\"，或因词根\"anti-\"误导认为是\"反北极的\"。",
+      "sentence": "Scientists have discovered new species of penguins in the **Antarctic** region, where temperatures can drop to -80°C in winter.",
+      "options": {
+        "option": [
+          {
+            "definition": "北极的",
+            "iscorrect": false
+          },
+          {
+            "definition": "南极的；南极洲的",
+            "iscorrect": true
+          },
+          {
+            "definition": "反北极的",
+            "iscorrect": false
+          },
+          {
+            "definition": "寒冷的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

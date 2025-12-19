@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cosmos",
+      "error_analysis": "学生易因形近词\"cosmetic\"(化妆品)或\"costume\"(服装)的联想，将\"cosmos\"误解为日常物品而非核心词义。",
+      "sentence": "Astronomers use powerful telescopes to explore the **cosmos** and learn about distant galaxies.",
+      "options": {
+        "option": [
+          {
+            "definition": "宇宙",
+            "iscorrect": true
+          },
+          {
+            "definition": "化妆品",
+            "iscorrect": false
+          },
+          {
+            "definition": "服装",
+            "iscorrect": false
+          },
+          {
+            "definition": "舒适的房间",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

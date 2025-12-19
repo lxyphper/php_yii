@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "goddess",
+      "error_analysis": "学生易因“goddess”与“god”（男性神灵）形近，忽略“-ess”女性后缀，误将其理解为“男性神灵”或“上帝”。",
+      "sentence": "Athena, the Greek **goddess** of wisdom, is often depicted with an owl on her shoulder.",
+      "options": {
+        "option": [
+          {
+            "definition": "女神",
+            "iscorrect": true
+          },
+          {
+            "definition": "男性神灵",
+            "iscorrect": false
+          },
+          {
+            "definition": "上帝的甜点",
+            "iscorrect": false
+          },
+          {
+            "definition": "善良的化身",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

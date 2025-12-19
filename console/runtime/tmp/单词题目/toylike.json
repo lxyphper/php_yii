@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "toylike",
+      "error_analysis": "学生易因“like”作动词的常见义误解为“喜欢玩具的”，或因形近词“tool”混淆为“像工具的”。",
+      "sentence": "The small desk lamp has a **toylike** design—bright colors, rounded shapes, and a cute cartoon pattern on the base.",
+      "options": {
+        "option": [
+          {
+            "definition": "像玩具的",
+            "iscorrect": true
+          },
+          {
+            "definition": "喜欢玩具的",
+            "iscorrect": false
+          },
+          {
+            "definition": "像工具的",
+            "iscorrect": false
+          },
+          {
+            "definition": "由玩具制成的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

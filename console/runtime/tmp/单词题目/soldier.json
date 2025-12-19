@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "soldier",
+      "error_analysis": "学生易因`sold`（卖）的词根联想误判为“推销员”，或因形近词`solid`（固体）误解为“固体”。",
+      "sentence": "The young man decided to join the army and become a **soldier** to protect his country.",
+      "options": {
+        "option": [
+          {
+            "definition": "士兵",
+            "iscorrect": true
+          },
+          {
+            "definition": "推销员",
+            "iscorrect": false
+          },
+          {
+            "definition": "固体",
+            "iscorrect": false
+          },
+          {
+            "definition": "水手",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

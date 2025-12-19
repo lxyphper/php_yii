@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "web page",
+      "error_analysis": "学生易因“web”与“wet”（湿的）形近误判为“湿页”，或因“page”的“页码”义误理解为“网络页码”",
+      "sentence": "You can find detailed information about the upcoming art show on the gallery's official **web page**.",
+      "options": {
+        "option": [
+          {
+            "definition": "网页",
+            "iscorrect": true
+          },
+          {
+            "definition": "湿页",
+            "iscorrect": false
+          },
+          {
+            "definition": "网络页码",
+            "iscorrect": false
+          },
+          {
+            "definition": "网状纸张",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

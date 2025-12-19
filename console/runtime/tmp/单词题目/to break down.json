@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to break down",
+      "error_analysis": "学生易根据\"break\"（打破）和\"down\"（向下）的字面意思，误将\"to break down\"理解为\"打碎；摧毁\"。",
+      "sentence": "On his way to work this morning, Tom's car **broke down** near the highway and he had to call a tow truck.",
+      "options": {
+        "option": [
+          {
+            "definition": "（机器等）出故障",
+            "iscorrect": true
+          },
+          {
+            "definition": "打碎；摧毁",
+            "iscorrect": false
+          },
+          {
+            "definition": "爆发；突然发生",
+            "iscorrect": false
+          },
+          {
+            "definition": "结束；解散",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pound",
+      "error_analysis": "易将动词义“（心脏）狂跳”误判为形近词“骄傲的”（proud）或名词义“磅（重量单位）”",
+      "sentence": "Her heart was **pounding** so hard that she could barely hear her own thoughts while waiting for the interview result.",
+      "options": {
+        "option": [
+          {
+            "definition": "（心脏）狂跳",
+            "iscorrect": true
+          },
+          {
+            "definition": "骄傲的",
+            "iscorrect": false
+          },
+          {
+            "definition": "磅（重量单位）",
+            "iscorrect": false
+          },
+          {
+            "definition": "推",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

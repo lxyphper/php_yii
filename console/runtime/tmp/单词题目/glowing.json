@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "glowing",
+      "error_analysis": "学生易因形近词\"growing\"（成长的）混淆，或因词根\"glow\"（发光）忽略比喻义\"热情赞扬的\"",
+      "sentence": "The new café got **glowing** reviews from food bloggers, attracting many visitors.",
+      "options": {
+        "option": [
+          {
+            "definition": "成长的",
+            "iscorrect": false
+          },
+          {
+            "definition": "发光的",
+            "iscorrect": false
+          },
+          {
+            "definition": "热情赞扬的",
+            "iscorrect": true
+          },
+          {
+            "definition": "平淡的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

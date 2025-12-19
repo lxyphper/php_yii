@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "meridian",
+      "error_analysis": "学生易因形近词“median”（中间的）误判为“中间的；中位数”，或因词根“meri-”猜测与“海”有关而误判为“海事的”",
+      "sentence": "The Prime **meridian**, which passes through Greenwich, divides the Earth into the Eastern and Western Hemispheres.",
+      "options": {
+        "option": [
+          {
+            "definition": "子午线；经线；正午",
+            "iscorrect": true
+          },
+          {
+            "definition": "中间的；中位数",
+            "iscorrect": false
+          },
+          {
+            "definition": "海事的；海边的",
+            "iscorrect": false
+          },
+          {
+            "definition": "仁慈的；宽容的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

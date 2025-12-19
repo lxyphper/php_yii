@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pig",
+      "error_analysis": "中国学生易因形近词“big”（大的）或“pin”（针）混淆，将“pig”误判为“大的”或“针”",
+      "sentence": "Look at that cute **pig** rolling in the mud.",
+      "options": {
+        "option": [
+          {
+            "definition": "猪",
+            "iscorrect": true
+          },
+          {
+            "definition": "大的",
+            "iscorrect": false
+          },
+          {
+            "definition": "针",
+            "iscorrect": false
+          },
+          {
+            "definition": "鸽子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

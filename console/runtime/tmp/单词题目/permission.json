@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "permission",
+      "error_analysis": "学生易因形近词“permit”（许可证）或词根“miss-”（送）误导，误将“permission”理解为具体证件或传递。",
+      "sentence": "Before using the lab equipment, you must ask the teacher for **permission**.",
+      "options": {
+        "option": [
+          {
+            "definition": "允许；许可",
+            "iscorrect": true
+          },
+          {
+            "definition": "许可证；执照",
+            "iscorrect": false
+          },
+          {
+            "definition": "传递；发送",
+            "iscorrect": false
+          },
+          {
+            "definition": "任务；使命",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

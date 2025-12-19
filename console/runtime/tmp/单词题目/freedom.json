@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "freedom",
+      "error_analysis": "中国学生易因“free”的“免费”义项将“freedom”误解为“免费的状态”，或因形近词“freight”（货物）混淆词义",
+      "sentence": "The bird flew away, enjoying the **freedom** of the sky.",
+      "options": {
+        "option": [
+          {
+            "definition": "自由（指不受束缚、可以自由行动的状态）",
+            "iscorrect": true
+          },
+          {
+            "definition": "免费的状态（指不需要支付费用的状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "货物（指运输的物品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "冻结的状态（指液体变成固体的状态）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

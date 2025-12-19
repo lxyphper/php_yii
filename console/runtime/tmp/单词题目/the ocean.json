@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "the ocean",
+      "error_analysis": "学生易因形近词“option”（选项）或“oasis”（绿洲）而误解“ocean”的含义",
+      "sentence": "We saw a lot of whales swimming in **the ocean** during our trip to Hawaii.",
+      "options": {
+        "option": [
+          {
+            "definition": "大洋；海洋",
+            "iscorrect": true
+          },
+          {
+            "definition": "选项",
+            "iscorrect": false
+          },
+          {
+            "definition": "绿洲",
+            "iscorrect": false
+          },
+          {
+            "definition": "欧洲的事物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

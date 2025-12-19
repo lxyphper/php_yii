@@ -1,0 +1,21 @@
+[
+  {
+    "common_misspellings": [
+      "cutprice",
+      "cat-price",
+      "cut-prize",
+      "cutt-price"
+    ],
+    "correct_chunks": [
+      "cut-",
+      "price"
+    ],
+    "distractor_chunks": [
+      "cutp",
+      "cat-",
+      "prize",
+      "cutt-"
+    ]
+  },
+  0
+]

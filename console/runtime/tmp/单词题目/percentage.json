@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "percentage",
+      "error_analysis": "易混淆形近词\"percent\"（误当具体数值），或因\"-age\"词根误猜为\"百分年龄\"。",
+      "sentence": "The **percentage** of students who passed the exam increased by 10% compared to last year.",
+      "options": {
+        "option": [
+          {
+            "definition": "比例；百分比",
+            "iscorrect": true
+          },
+          {
+            "definition": "百分之……（具体数值）",
+            "iscorrect": false
+          },
+          {
+            "definition": "百分年龄",
+            "iscorrect": false
+          },
+          {
+            "definition": "百分率的计算",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "magnetic resonance imaging",
+      "error_analysis": "学生易因不熟悉'resonance'（共振）的词义，将短语误判为'磁反应成像'或'磁成像'。",
+      "sentence": "The doctor recommended a **magnetic resonance imaging** scan to get a detailed view of the patient's brain tumor.",
+      "options": {
+        "option": [
+          {
+            "definition": "磁共振成像",
+            "iscorrect": true
+          },
+          {
+            "definition": "磁反应成像",
+            "iscorrect": false
+          },
+          {
+            "definition": "磁成像",
+            "iscorrect": false
+          },
+          {
+            "definition": "电磁成像",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

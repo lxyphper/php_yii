@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gender gap",
+      "error_analysis": "学生易因\"gap\"的字面义\"缺口、间隔\"将\"gender gap\"误理解为\"性别缺口\"或\"性别间隔\"，而非其核心义\"性别差距\"（指男女不平等差距）。",
+      "sentence": "The **gender gap** in workplace pay remains a major issue—women in many countries earn 70-80% of what men do for the same job.",
+      "options": {
+        "option": [
+          {
+            "definition": "性别差距（指男女在收入、教育等方面的不平等差距）",
+            "iscorrect": true
+          },
+          {
+            "definition": "性别缺口（如物理上的缺口或空间缝隙）",
+            "iscorrect": false
+          },
+          {
+            "definition": "性别间隔（如时间或空间上的性别分隔）",
+            "iscorrect": false
+          },
+          {
+            "definition": "性别差异（指男女之间的任何不同）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

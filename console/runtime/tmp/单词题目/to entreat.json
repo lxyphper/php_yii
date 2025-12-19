@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to entreat",
+      "error_analysis": "因形近词“treat”（对待/治疗）干扰，或词根“en-+treat”错误推导为“催促处理”，导致误解词义",
+      "sentence": "The mother fell to her knees and **entreated** the guard to let her see her sick child.",
+      "options": {
+        "option": [
+          {
+            "definition": "恳求，哀求",
+            "iscorrect": true
+          },
+          {
+            "definition": "对待；治疗",
+            "iscorrect": false
+          },
+          {
+            "definition": "催促处理；安排",
+            "iscorrect": false
+          },
+          {
+            "definition": "款待；请客",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

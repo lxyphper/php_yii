@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "greenhouse",
+      "error_analysis": "学生易将\"greenhouse\"字面拆解为\"green\"+\"house\"，误判为\"绿色的房子\"，忽略其\"温室\"的核心词义",
+      "sentence": "Farmers use **greenhouses** to grow fresh vegetables like tomatoes and peppers during cold winter months.",
+      "options": {
+        "option": [
+          {
+            "definition": "温室（用于种植植物的暖房）",
+            "iscorrect": true
+          },
+          {
+            "definition": "绿色的住宅（外墙涂成绿色的房子）",
+            "iscorrect": false
+          },
+          {
+            "definition": "用绿色植物装饰的房子（室内摆满绿植的房屋）",
+            "iscorrect": false
+          },
+          {
+            "definition": "环保型房屋（节能、低碳的绿色建筑）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "abstract",
+      "error_analysis": "易因形近词“attract”（吸引）混淆，或因词根“tract”（拉）过度直译为“提取”，而非正确的“抽象的”（形容词）或“摘要”（名词）。",
+      "sentence": "The artist’s paintings feature **abstract** shapes and colors, which are not based on real objects.",
+      "options": {
+        "option": [
+          {
+            "definition": "抽象的",
+            "iscorrect": true
+          },
+          {
+            "definition": "吸引的",
+            "iscorrect": false
+          },
+          {
+            "definition": "提取的",
+            "iscorrect": false
+          },
+          {
+            "definition": "具体的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

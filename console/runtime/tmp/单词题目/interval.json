@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "interval",
+      "error_analysis": "学生易因形近词\"interview\"(面试)混淆,或因词根\"inter-\"(之间)与\"val\"(价值)错误结合误解为\"中间的价值\"。",
+      "sentence": "There was a 10-minute **interval** between the two parts of the concert, allowing the audience to stretch their legs.",
+      "options": {
+        "option": [
+          {
+            "definition": "间隔；间隙",
+            "iscorrect": true
+          },
+          {
+            "definition": "面试；访谈",
+            "iscorrect": false
+          },
+          {
+            "definition": "中间的价值；内在价值",
+            "iscorrect": false
+          },
+          {
+            "definition": "干预；介入",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

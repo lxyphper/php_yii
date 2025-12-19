@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "in cloud nine",
+      "on clod nine",
+      "on claud nine",
+      "on cloud nin",
+      "on cloud nigh"
+    ],
+    "correct_chunks": [
+      "on",
+      "cloud",
+      "nine"
+    ],
+    "distractor_chunks": [
+      "in",
+      "clod",
+      "claud",
+      "nin",
+      "nigh"
+    ]
+  },
+  0
+]

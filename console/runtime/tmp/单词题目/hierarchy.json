@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hierarchy",
+      "error_analysis": "学生易因形近词\"history\"（历史）误记词义，或因词根\"hier-\"（神圣的）和\"archy\"（统治）猜测为\"宗教统治\"。",
+      "sentence": "In many companies, there is a clear **hierarchy** where employees report to their managers, who in turn report to senior directors.",
+      "options": {
+        "option": [
+          {
+            "definition": "历史",
+            "iscorrect": false
+          },
+          {
+            "definition": "等级制度",
+            "iscorrect": true
+          },
+          {
+            "definition": "宗教统治",
+            "iscorrect": false
+          },
+          {
+            "definition": "象形文字",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

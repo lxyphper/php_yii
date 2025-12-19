@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "electical",
+      "electrikal",
+      "engeneering",
+      "engineiring",
+      "enginearing"
+    ],
+    "correct_chunks": [
+      "electr",
+      "ical",
+      "engine",
+      "ering"
+    ],
+    "distractor_chunks": [
+      "electi",
+      "electrik",
+      "engene",
+      "engineir",
+      "enginear"
+    ]
+  },
+  0
+]

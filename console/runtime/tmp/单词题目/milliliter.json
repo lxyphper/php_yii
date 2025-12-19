@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "milliliter",
+      "error_analysis": "学生易因形近词\"millimeter\"（毫米）的干扰将\"milliliter\"误判为长度单位，或因对\"milli-\"前缀（千分之一）不熟悉而无法准确关联\"毫升\"（千分之一升）",
+      "sentence": "To make the cake, you need to add 250 **milliliters** of milk to the mixture.",
+      "options": {
+        "option": [
+          {
+            "definition": "毫米（长度单位，等于千分之一米）",
+            "iscorrect": false
+          },
+          {
+            "definition": "千升（体积单位，等于一千升）",
+            "iscorrect": false
+          },
+          {
+            "definition": "毫升（体积单位，等于千分之一升）",
+            "iscorrect": true
+          },
+          {
+            "definition": "迷你升（小型的升，用于描述小容量容器）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

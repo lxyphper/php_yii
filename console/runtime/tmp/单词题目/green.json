@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "green",
+      "error_analysis": "易因形近词“great”（伟大的）或“greet”（问候）混淆“green”的核心词义“绿色的”",
+      "sentence": "The leaves on the tree turn **green** in spring.",
+      "options": {
+        "option": [
+          {
+            "definition": "绿色的",
+            "iscorrect": true
+          },
+          {
+            "definition": "伟大的",
+            "iscorrect": false
+          },
+          {
+            "definition": "问候",
+            "iscorrect": false
+          },
+          {
+            "definition": "生长的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

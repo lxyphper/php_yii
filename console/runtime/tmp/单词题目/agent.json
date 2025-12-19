@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "agent",
+      "error_analysis": "学生易因形近词\"age\"（年龄）产生\"年龄相关的人\"的错误联想，或因词根\"ag-\"（做）过度猜测为\"普通执行者\"而非\"代理人/经纪人\"。",
+      "sentence": "I need to call my travel **agent** to confirm the flight tickets for our vacation.",
+      "options": {
+        "option": [
+          {
+            "definition": "代理人；经纪人",
+            "iscorrect": true
+          },
+          {
+            "definition": "年龄较大的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "普通执行者",
+            "iscorrect": false
+          },
+          {
+            "definition": "议程制定者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

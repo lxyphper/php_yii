@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "incomparable",
+      "error_analysis": "学生易因形近词“incompatible”（不兼容的）混淆词义，或因词根“in-+comparable”字面推导为“不可比较的”而忽略其“无与伦比的”褒义核心。",
+      "sentence": "The chef's signature dish is **incomparable**—every bite tastes like a work of art, and no other restaurant can replicate it.",
+      "options": {
+        "option": [
+          {
+            "definition": "无与伦比的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不兼容的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不可比较的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不常见的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

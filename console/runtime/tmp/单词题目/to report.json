@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to report",
+      "error_analysis": "易混淆形近词\"support\"(支持)及词根\"re-+port\"的字面误导(再次携带)",
+      "sentence": "The journalist will **report** on the new policy in tomorrow's newspaper.",
+      "options": {
+        "option": [
+          {
+            "definition": "支持；支撑",
+            "iscorrect": false
+          },
+          {
+            "definition": "再次携带；运输",
+            "iscorrect": false
+          },
+          {
+            "definition": "报道；汇报",
+            "iscorrect": true
+          },
+          {
+            "definition": "记录；登记",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

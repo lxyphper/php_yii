@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "World Wide Web",
+      "error_analysis": "学生易因\"World Wide\"（世界范围的）和\"web\"（网）的字面含义，将其直译为\"全球网络\"或\"世界宽网\"，而非核心常用义\"万维网\"。",
+      "sentence": "The **World Wide Web** has revolutionized how people access information globally since its invention in 1989.",
+      "options": {
+        "option": [
+          {
+            "definition": "万维网",
+            "iscorrect": true
+          },
+          {
+            "definition": "全球网络",
+            "iscorrect": false
+          },
+          {
+            "definition": "世界宽网",
+            "iscorrect": false
+          },
+          {
+            "definition": "网页集合",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

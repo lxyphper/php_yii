@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "diode",
+      "error_analysis": "中国学生易因形近词“dioxide”（二氧化物）及词根“di-”（二）的联想，将“diode”误判为化学物质或双极类化合物。",
+      "sentence": "The **diode** in the power supply prevents reverse current from damaging the battery by allowing electricity to flow in only one direction.",
+      "options": {
+        "option": [
+          {
+            "definition": "二极管（电子元件，允许电流单向流动）",
+            "iscorrect": true
+          },
+          {
+            "definition": "二氧化物（如二氧化碳等化学物质）",
+            "iscorrect": false
+          },
+          {
+            "definition": "双极体（由两个电极组成的装置）",
+            "iscorrect": false
+          },
+          {
+            "definition": "电解质（能导电的溶液或物质）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

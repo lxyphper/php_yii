@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to cut",
+      "error_analysis": "学生容易因形近词“cat”（猫）或词根派生（如“cutter”）而误解“cut”的含义",
+      "sentence": "Please **cut** the bread into slices with a knife.",
+      "options": {
+        "option": [
+          {
+            "definition": "切割；切开",
+            "iscorrect": true
+          },
+          {
+            "definition": "猫",
+            "iscorrect": false
+          },
+          {
+            "definition": "切割机",
+            "iscorrect": false
+          },
+          {
+            "definition": "可爱的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

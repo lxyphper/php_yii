@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bag",
+      "error_analysis": "学生易因形近词\"bug\"(虫子)、\"back\"(背)或\"beg\"(乞求)的干扰，将\"bag\"误判为非\"包\"的含义。",
+      "sentence": "She put her books and pencil case into the **bag** before leaving for school.",
+      "options": {
+        "option": [
+          {
+            "definition": "包；袋子",
+            "iscorrect": true
+          },
+          {
+            "definition": "虫子；昆虫",
+            "iscorrect": false
+          },
+          {
+            "definition": "背；背部",
+            "iscorrect": false
+          },
+          {
+            "definition": "乞求；恳求",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

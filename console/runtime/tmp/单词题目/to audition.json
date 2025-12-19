@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to audition",
+      "error_analysis": "学生易因形近词\"audience\"(观众)误解为\"向观众表演\"，或因词根\"aud\"(听)误判为\"倾听\"或\"审计\"",
+      "sentence": "Many aspiring actors waited in line for hours just to **audition** for a minor part in the new drama.",
+      "options": {
+        "option": [
+          {
+            "definition": "试镜；参加试演",
+            "iscorrect": true
+          },
+          {
+            "definition": "向观众展示；为观众表演",
+            "iscorrect": false
+          },
+          {
+            "definition": "倾听；仔细聆听",
+            "iscorrect": false
+          },
+          {
+            "definition": "审计；核查账目",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

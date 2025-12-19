@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to exile",
+      "error_analysis": "学生易因形近词“exit”（出口）联想将“to exile”误判为“通过出口离开”，或因词根“ex-”（出）过度推测为“普通送出某地”而非“政府惩罚性流放”",
+      "sentence": "The dictator feared rebellion, so he chose to **exile** all his political opponents to a distant island.",
+      "options": {
+        "option": [
+          {
+            "definition": "流放；放逐（政府将某人赶出国家作为惩罚）",
+            "iscorrect": true
+          },
+          {
+            "definition": "通过出口离开某地",
+            "iscorrect": false
+          },
+          {
+            "definition": "把某人送出某地（未提及惩罚）",
+            "iscorrect": false
+          },
+          {
+            "definition": "开除某人出学校或组织",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

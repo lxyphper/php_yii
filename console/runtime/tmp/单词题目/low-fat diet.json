@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "low-fat diet",
+      "error_analysis": "学生易因\"diet\"误译为\"节食\"将其理解为\"低脂肪的节食（严格限制摄入）\"，或因\"fat\"与\"fee\"形近误解为\"低费用的饮食\"",
+      "sentence": "Many people choose a **low-fat diet** to reduce their risk of heart disease by eating more fruits, vegetables, and whole grains.",
+      "options": {
+        "option": [
+          {
+            "definition": "低脂饮食（指饮食中脂肪含量低的日常饮食方式）",
+            "iscorrect": true
+          },
+          {
+            "definition": "低脂肪的节食（严格限制食物摄入以减轻体重）",
+            "iscorrect": false
+          },
+          {
+            "definition": "低费用的饮食（价格低廉的饮食选择）",
+            "iscorrect": false
+          },
+          {
+            "definition": "高纤维的饮食（富含纤维的食物构成的饮食）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

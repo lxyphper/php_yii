@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cosmology",
+      "error_analysis": "学生易因形近词“cosmetology”（美容学）的干扰将“cosmology”误判为“美容学”，或因词根“cosmos”+“-logy”的过度直译忽略其“学科”属性。",
+      "sentence": "Stephen Hawking's work in **cosmology** revolutionized our understanding of the universe's origin and evolution.",
+      "options": {
+        "option": [
+          {
+            "definition": "宇宙学（研究宇宙起源、结构及演化的学科）",
+            "iscorrect": true
+          },
+          {
+            "definition": "美容学（研究化妆品及美容方法的学科）",
+            "iscorrect": false
+          },
+          {
+            "definition": "宇宙的组成或结构",
+            "iscorrect": false
+          },
+          {
+            "definition": "天文学（研究天体及宇宙现象的学科）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "skeletal",
+      "error_analysis": "学生可能因形近词“skilled”（熟练的）混淆词义，或因词根“skelet-”（骨架）过度直译，忽略“skeletal”表示“骨瘦如柴的”引申义。",
+      "sentence": "The stray dog looked **skeletal** after being lost for two weeks without food.",
+      "options": {
+        "option": [
+          {
+            "definition": "熟练的（skilled）",
+            "iscorrect": false
+          },
+          {
+            "definition": "骨骼的（relating to the skeleton）",
+            "iscorrect": false
+          },
+          {
+            "definition": "骨瘦如柴的（very thin and bony）",
+            "iscorrect": true
+          },
+          {
+            "definition": "肥胖的（fat）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

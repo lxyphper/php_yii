@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "grammar",
+      "error_analysis": "学生易因形近词“glamour”（魅力）混淆词义，或因词根“gram”（写）误猜为“书写记录”",
+      "sentence": "The teacher emphasized that good **grammar** is essential for clear communication in English.",
+      "options": {
+        "option": [
+          {
+            "definition": "语法",
+            "iscorrect": true
+          },
+          {
+            "definition": "魅力",
+            "iscorrect": false
+          },
+          {
+            "definition": "书写记录",
+            "iscorrect": false
+          },
+          {
+            "definition": "词汇",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

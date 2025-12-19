@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "battalion",
+      "error_analysis": "学生易因形近词\"battle\"（战斗）误将\"battalion\"理解为小型战斗单位（如排/班），或混淆军事单位与战役概念",
+      "sentence": "The 3rd **battalion** was tasked with securing the bridge before the main army arrived.",
+      "options": {
+        "option": [
+          {
+            "definition": "营（军事单位，通常由多个连组成）",
+            "iscorrect": true
+          },
+          {
+            "definition": "小型战斗小组（如排或班）",
+            "iscorrect": false
+          },
+          {
+            "definition": "战役（大型军事行动）",
+            "iscorrect": false
+          },
+          {
+            "definition": "炮兵连",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

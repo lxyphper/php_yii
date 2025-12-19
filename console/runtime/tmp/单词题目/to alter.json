@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to alter",
+      "error_analysis": "学生易因形近词“alternate”（交替）或词根“alt-”（高）误导，错误理解“to alter”为“交替”或“升高”",
+      "sentence": "The designer decided to **alter** the color of the dress to make it more suitable for the summer collection.",
+      "options": {
+        "option": [
+          {
+            "definition": "交替；轮流",
+            "iscorrect": false
+          },
+          {
+            "definition": "改变；更改",
+            "iscorrect": true
+          },
+          {
+            "definition": "升高；提高",
+            "iscorrect": false
+          },
+          {
+            "definition": "保持；维持",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

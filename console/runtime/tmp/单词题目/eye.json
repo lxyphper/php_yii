@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "eye",
+      "error_analysis": "学生易因形近词\"eve\"(前夜)或\"ewe\"(母羊)的形状干扰，误将\"eye\"理解为非\"眼睛\"的含义。",
+      "sentence": "Her **eye** caught a glimpse of the rainbow through the window.",
+      "options": {
+        "option": [
+          {
+            "definition": "眼睛",
+            "iscorrect": true
+          },
+          {
+            "definition": "前夜",
+            "iscorrect": false
+          },
+          {
+            "definition": "母羊",
+            "iscorrect": false
+          },
+          {
+            "definition": "赞成",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

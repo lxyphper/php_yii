@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to forfeit",
+      "error_analysis": "学生易因形近词\"forgive\"（原谅）混淆，或误将其理解为\"主动放弃\"（如forgo）而非\"被迫丧失\"。",
+      "sentence": "If you fail to return the book by the deadline, you will **forfeit** the deposit.",
+      "options": {
+        "option": [
+          {
+            "definition": "丧失（因违反规定等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "原谅（某人的过错）",
+            "iscorrect": false
+          },
+          {
+            "definition": "主动放弃（机会等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "伪造（文件等）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

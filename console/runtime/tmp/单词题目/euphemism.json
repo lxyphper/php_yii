@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "euphemism",
+      "error_analysis": "学生易因形近词\"euphoria\"（欣快）或词根拆解错误（误将\"eu-+phemism\"理解为\"好的现象\"）混淆词义",
+      "sentence": "Instead of saying \"he died,\" people often use the **euphemism** \"he passed away\" to avoid causing sadness.",
+      "options": {
+        "option": [
+          {
+            "definition": "委婉语",
+            "iscorrect": true
+          },
+          {
+            "definition": "欣快症；极度愉悦的情绪",
+            "iscorrect": false
+          },
+          {
+            "definition": "好的现象；积极的事件",
+            "iscorrect": false
+          },
+          {
+            "definition": "复杂的短语；冗长的表达",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

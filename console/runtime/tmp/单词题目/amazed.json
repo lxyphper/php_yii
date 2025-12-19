@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "amazed",
+      "error_analysis": "易混淆形近词\"amused\"(娱乐的)及词根误导的\"困惑的\"理解",
+      "sentence": "When she saw the huge cake her friends had made for her, she was **amazed** and couldn’t say a word.",
+      "options": {
+        "option": [
+          {
+            "definition": "惊讶的；吃惊的",
+            "iscorrect": true
+          },
+          {
+            "definition": "好笑的；娱乐的",
+            "iscorrect": false
+          },
+          {
+            "definition": "困惑的；迷惑的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无聊的；乏味的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

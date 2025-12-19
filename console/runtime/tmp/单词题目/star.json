@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "star",
+      "error_analysis": "学生易将动词\"star\"（主演）与形近词\"start\"（开始）混淆，或误以名词\"星星\"理解其动词义。",
+      "sentence": "He **starred** in the new action movie and received great reviews.",
+      "options": {
+        "option": [
+          {
+            "definition": "主演（动词，指在影视中担任主角）",
+            "iscorrect": true
+          },
+          {
+            "definition": "开始（动词，对应\"start\"的常见义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "凝视（动词，对应\"stare\"的常见义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "星星（名词，\"star\"的字面义）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

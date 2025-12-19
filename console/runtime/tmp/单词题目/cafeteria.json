@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cafeteria",
+      "error_analysis": "学生易因形近词\"cafe\"（咖啡馆）干扰，将\"cafeteria\"误判为仅提供咖啡的场所或缩小其核心功能（提供正餐）的范围",
+      "sentence": "The school **cafeteria** offers a variety of hot meals and salads for students every day.",
+      "options": {
+        "option": [
+          {
+            "definition": "自助餐厅；食堂",
+            "iscorrect": true
+          },
+          {
+            "definition": "咖啡馆",
+            "iscorrect": false
+          },
+          {
+            "definition": "仅售咖啡的小店",
+            "iscorrect": false
+          },
+          {
+            "definition": "高级西餐厅",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "luxuriant",
+      "error_analysis": "将形近词\"luxury\"(奢华)的含义迁移到\"luxuriant\"，误理解为\"豪华的/昂贵的\"",
+      "sentence": "The Amazon rainforest is famous for its **luxuriant** trees and plants, which support millions of animal species.",
+      "options": {
+        "option": [
+          {
+            "definition": "茂密的；茂盛的",
+            "iscorrect": true
+          },
+          {
+            "definition": "豪华的；奢侈的",
+            "iscorrect": false
+          },
+          {
+            "definition": "昂贵的；高价的",
+            "iscorrect": false
+          },
+          {
+            "definition": "广阔的；辽阔的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

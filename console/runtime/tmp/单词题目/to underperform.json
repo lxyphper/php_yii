@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to underperform",
+      "error_analysis": "学生易因词根直译将\"underperform\"误解为\"未完成表演任务\"，或混淆前缀与\"outperform\"误判为\"表现优于\"",
+      "sentence": "Despite their hard work, the company continued to **underperform** compared to its competitors this year.",
+      "options": {
+        "option": [
+          {
+            "definition": "表现不佳；业绩不如预期",
+            "iscorrect": true
+          },
+          {
+            "definition": "表现优于",
+            "iscorrect": false
+          },
+          {
+            "definition": "未完成表演任务",
+            "iscorrect": false
+          },
+          {
+            "definition": "经历困难",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

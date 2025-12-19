@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to sip",
+      "error_analysis": "学生易因“sip”与形近词“slip”（滑）、“tip”（小费）或“spit”（吐）混淆，而非理解为“小口啜饮”。",
+      "sentence": "The little girl likes to **sip** her hot chocolate to avoid burning her tongue.",
+      "options": {
+        "option": [
+          {
+            "definition": "小口啜饮",
+            "iscorrect": true
+          },
+          {
+            "definition": "滑",
+            "iscorrect": false
+          },
+          {
+            "definition": "小费",
+            "iscorrect": false
+          },
+          {
+            "definition": "吐",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

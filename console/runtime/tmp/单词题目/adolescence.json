@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "adolescence",
+      "error_analysis": "学生易将\"adolescence\"（青春期，抽象时期）误判为\"青少年（群体）\"（形近词\"adolescent\"的名词义）或\"成年期\"（词根\"grow up\"的过度推导）",
+      "sentence": "During adolescence, most people experience rapid physical growth and emotional ups and downs as they navigate the shift from childhood to adulthood.",
+      "options": {
+        "option": [
+          {
+            "definition": "青春期（人生中介于儿童与成年之间的发育时期）",
+            "iscorrect": true
+          },
+          {
+            "definition": "青少年（13至19岁之间的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "成年期（完全长大成人的状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "儿童时期（未成年的早期阶段）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

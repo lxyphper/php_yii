@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dodecahedron",
+      "error_analysis": "学生易混淆dodecahedron（十二面体）与形近词dodecagon（十二边形），或因词根hedron（面体）与head（头）发音相近而误猜为“十二个头的生物”",
+      "sentence": "In geometry class, the teacher displayed a 3D model of a **dodecahedron**, which is made up of twelve regular pentagonal faces.",
+      "options": {
+        "option": [
+          {
+            "definition": "十二面体",
+            "iscorrect": true
+          },
+          {
+            "definition": "十二边形",
+            "iscorrect": false
+          },
+          {
+            "definition": "十二个头的生物",
+            "iscorrect": false
+          },
+          {
+            "definition": "十面体",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

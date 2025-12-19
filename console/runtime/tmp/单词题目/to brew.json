@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to brew",
+      "error_analysis": "学生易因形近词“brood”（孵蛋）或词根联想“breed”（繁殖）而误解“to brew”的核心含义（酿造）",
+      "sentence": "She likes to **brew** her own coffee every morning instead of buying it from the shop.",
+      "options": {
+        "option": [
+          {
+            "definition": "酿造（如咖啡、茶等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "孵蛋（如母鸡孵蛋）",
+            "iscorrect": false
+          },
+          {
+            "definition": "繁殖（如动物繁殖）",
+            "iscorrect": false
+          },
+          {
+            "definition": "搅拌（如搅拌牛奶）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

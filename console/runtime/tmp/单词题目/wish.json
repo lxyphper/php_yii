@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wish",
+      "error_analysis": "中国学生易因形近词\"wash\"（洗）混淆\"wish\"的含义，或误将其理解为与\"洗\"相关的动作",
+      "sentence": "I **wish** you all the best in your new job.",
+      "options": {
+        "option": [
+          {
+            "definition": "洗",
+            "iscorrect": false
+          },
+          {
+            "definition": "愿望",
+            "iscorrect": false
+          },
+          {
+            "definition": "等待",
+            "iscorrect": false
+          },
+          {
+            "definition": "希望；祝愿",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

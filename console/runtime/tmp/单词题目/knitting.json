@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "knitting",
+      "error_analysis": "中国学生易因形近词\"knotting\"（打结）混淆\"knitting\"，或误将其理解为\"织网\"等相关工艺。",
+      "sentence": "She brought her **knitting** to the park and worked on a scarf while waiting for her friend.",
+      "options": {
+        "option": [
+          {
+            "definition": "打结",
+            "iscorrect": false
+          },
+          {
+            "definition": "织网",
+            "iscorrect": false
+          },
+          {
+            "definition": "编织（如织毛衣或围巾的动作）",
+            "iscorrect": true
+          },
+          {
+            "definition": "缝纫",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

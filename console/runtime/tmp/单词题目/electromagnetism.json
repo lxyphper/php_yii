@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "electromagnetism",
+      "error_analysis": "易混淆形近词electromagnet（电磁铁），或因词根-ism误判为“电磁主义”而非正确的“电磁学”",
+      "sentence": "James Clerk Maxwell's groundbreaking work in the 19th century laid the foundation for our modern understanding of **electromagnetism**, which explains how electric and magnetic fields interact.",
+      "options": {
+        "option": [
+          {
+            "definition": "电磁学（研究电与磁相互作用的学科）",
+            "iscorrect": true
+          },
+          {
+            "definition": "电磁铁（通电后产生磁性的装置）",
+            "iscorrect": false
+          },
+          {
+            "definition": "电磁主义（主张以电磁力为核心的哲学思想）",
+            "iscorrect": false
+          },
+          {
+            "definition": "电磁现象（电与磁相互作用的具体表现）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

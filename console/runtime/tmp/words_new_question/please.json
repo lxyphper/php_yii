@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "please",
+      "error_analysis": "中国学生易因形近词“place”（地方）混淆“please”词义，或因“pleas-”词根过度推导为“愉快的事物”。",
+      "sentence": "Excuse me, could you **please** tell me where the nearest bank is?",
+      "options": {
+        "option": [
+          {
+            "definition": "请（用于请求的礼貌用语）",
+            "iscorrect": true
+          },
+          {
+            "definition": "地方（场所）",
+            "iscorrect": false
+          },
+          {
+            "definition": "愉快的事物（令人高兴的东西）",
+            "iscorrect": false
+          },
+          {
+            "definition": "恳求（真诚地请求）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to go up",
+      "error_analysis": "学生易将\"go up\"字面直译为\"前往上方\"，忽略其抽象含义\"上升；上涨\"",
+      "sentence": "Prices of vegetables usually **go up** in winter.",
+      "options": {
+        "option": [
+          {
+            "definition": "（价格、数量等）上升；上涨",
+            "iscorrect": true
+          },
+          {
+            "definition": "前往上方（如去楼上）",
+            "iscorrect": false
+          },
+          {
+            "definition": "继续前进",
+            "iscorrect": false
+          },
+          {
+            "definition": "变得活跃",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

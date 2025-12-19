@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cast",
+      "error_analysis": "易因形近词“cost”（花费）混淆，或误将名词义“演员阵容”理解为动词义“投掷”",
+      "sentence": "The director spent months selecting the perfect **cast** for his new film.",
+      "options": {
+        "option": [
+          {
+            "definition": "演员阵容",
+            "iscorrect": true
+          },
+          {
+            "definition": "花费",
+            "iscorrect": false
+          },
+          {
+            "definition": "投掷",
+            "iscorrect": false
+          },
+          {
+            "definition": "现金",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

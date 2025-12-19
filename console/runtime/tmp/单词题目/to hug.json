@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to hug",
+      "error_analysis": "学生易因形近词\"huge\"（巨大的）产生错误联想，或误将\"hug\"理解为\"紧紧抓住\"（字面误导）",
+      "sentence": "When she saw her old friend at the airport, she ran over to **hug** him tightly.",
+      "options": {
+        "option": [
+          {
+            "definition": "拥抱（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "巨大的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "紧紧抓住（动词短语）",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻轻吻（动词短语）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

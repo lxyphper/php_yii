@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "buff",
+      "error_analysis": "学生易因形近词“buffer”（缓冲）误判为“缓冲器”，或因动词义“擦亮”延伸误理解为“擦亮物”。",
+      "sentence": "John is a real **buff** when it comes to classical music—he can name every composer in this album.",
+      "options": {
+        "option": [
+          {
+            "definition": "爱好者；迷",
+            "iscorrect": true
+          },
+          {
+            "definition": "缓冲器",
+            "iscorrect": false
+          },
+          {
+            "definition": "擦亮物",
+            "iscorrect": false
+          },
+          {
+            "definition": "黄油",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

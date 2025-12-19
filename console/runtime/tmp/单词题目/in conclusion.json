@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "in conclusion",
+      "error_analysis": "学生易字面直译为“在结论里面”，或因形近词“confusion”误解为“困惑地”。",
+      "sentence": "After comparing the two methods, **in conclusion**, we found the first one more efficient.",
+      "options": {
+        "option": [
+          {
+            "definition": "总之，最后",
+            "iscorrect": true
+          },
+          {
+            "definition": "在结论里面",
+            "iscorrect": false
+          },
+          {
+            "definition": "困惑地",
+            "iscorrect": false
+          },
+          {
+            "definition": "关于结论",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

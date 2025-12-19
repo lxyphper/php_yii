@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cold",
+      "error_analysis": "学生易因形近词“coal”（煤）或“old”（老的）的拼写相似，误判“cold”的核心词义。",
+      "sentence": "She put on a thick coat because the weather was **cold**.",
+      "options": {
+        "option": [
+          {
+            "definition": "冷的（形容词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "煤（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "老的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "持有（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dissociation",
+      "error_analysis": "学生易因词根\"sociate\"联想到\"social\"而误判为\"孤僻\"，或因形近混淆\"discrimination\"（歧视）。",
+      "sentence": "The company announced its **dissociation** from the controversial partner to protect its reputation.",
+      "options": {
+        "option": [
+          {
+            "definition": "分离；脱离",
+            "iscorrect": true
+          },
+          {
+            "definition": "孤僻；不合群",
+            "iscorrect": false
+          },
+          {
+            "definition": "歧视；区别对待",
+            "iscorrect": false
+          },
+          {
+            "definition": "拆卸；分解",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

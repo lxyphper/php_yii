@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "incident",
+      "error_analysis": "学生易将\"incident\"误当作\"accident\"（意外事故），或混淆其与\"紧急情况\"的区别",
+      "sentence": "The police were called to handle a minor **incident** at the supermarket where two customers argued over a parking spot.",
+      "options": {
+        "option": [
+          {
+            "definition": "意外事故",
+            "iscorrect": false
+          },
+          {
+            "definition": "事件；插曲（尤指不太严重的冲突或意外）",
+            "iscorrect": true
+          },
+          {
+            "definition": "紧急情况",
+            "iscorrect": false
+          },
+          {
+            "definition": "切口",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

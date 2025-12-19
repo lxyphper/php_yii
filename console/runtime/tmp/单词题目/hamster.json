@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hamster",
+      "error_analysis": "学生因\"ham\"（火腿）的形近联想，易误将\"hamster\"理解为与食物（如火腿制品）相关的词",
+      "sentence": "Many kids keep a **hamster** as a pet because it's small, cute, and easy to take care of.",
+      "options": {
+        "option": [
+          {
+            "definition": "一种火腿制品",
+            "iscorrect": false
+          },
+          {
+            "definition": "一种切割火腿的刀具",
+            "iscorrect": false
+          },
+          {
+            "definition": "仓鼠（一种小型毛茸茸的宠物啮齿动物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "一种生活在森林里的鸟类",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

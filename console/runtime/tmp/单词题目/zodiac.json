@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "zodiac",
+      "error_analysis": "因形近词“zoo”（动物园）或词根“动物”误判为与动物相关的事物（如“动物园”“动物学”）",
+      "sentence": "Many people check their **zodiac** sign to see what the day has in store for them.",
+      "options": {
+        "option": [
+          {
+            "definition": "动物园",
+            "iscorrect": false
+          },
+          {
+            "definition": "动物学",
+            "iscorrect": false
+          },
+          {
+            "definition": "黄道十二宫（图）",
+            "iscorrect": true
+          },
+          {
+            "definition": "星座表",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

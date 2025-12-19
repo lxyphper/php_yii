@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "uncomely",
+      "error_analysis": "学生易将“comely”误判为“common”（普通的）或“comic”（喜剧的），从而把“uncomely”误解为“不普通的”或“不搞笑的”。",
+      "sentence": "The old house had an **uncomely** appearance with peeling paint and overgrown weeds.",
+      "options": {
+        "option": [
+          {
+            "definition": "不美观的；难看的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不普通的；罕见的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不搞笑的；无趣的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不舒服的；难受的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "regrettable",
+      "error_analysis": "学生易因形近词（如respectable/remarkable）混淆词义，或因词根regret（后悔）过度直译为“可后悔的”而非“令人遗憾的”。",
+      "sentence": "It's **regrettable** that she missed the important meeting due to a traffic jam.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人遗憾的；可惜的",
+            "iscorrect": true
+          },
+          {
+            "definition": "值得尊敬的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可后悔的",
+            "iscorrect": false
+          },
+          {
+            "definition": "显著的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

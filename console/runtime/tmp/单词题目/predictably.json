@@ -1,0 +1,22 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "predictably",
+      "error_analysis": "学生易将predictably混淆为“预测性地”（形近词predictive干扰）或误解为“有预测能力地”（词根过度推导）",
+      "sentence": "When the rain started, **predictably**, everyone reached for their umbrellas.",
+      "options": {
+        "option": [
+          {
+            "definition": "预测性地",
+            "iscorrect": false
+          },
+          {
+            "definition": "有预测能力地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

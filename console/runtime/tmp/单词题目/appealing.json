@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "appealing",
+      "error_analysis": "学生易因形近混淆\"appealing\"（有吸引力的）与\"appalling\"（令人震惊的），或因词根\"appeal\"（呼吁）误判为\"呼吁的\"。",
+      "sentence": "The new café with its cozy atmosphere and delicious cakes looks very **appealing** to me.",
+      "options": {
+        "option": [
+          {
+            "definition": "有吸引力的",
+            "iscorrect": true
+          },
+          {
+            "definition": "令人震惊的",
+            "iscorrect": false
+          },
+          {
+            "definition": "呼吁的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无聊的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

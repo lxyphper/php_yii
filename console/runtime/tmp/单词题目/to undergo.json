@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to undergo",
+      "error_analysis": "学生易因\"under-\"（在...之下）与\"go\"（走）的字面组合，误将其理解为\"在下面走\"，或与形近词\"undertake\"（承担）混淆。",
+      "sentence": "The city **underwent** a major transformation after the earthquake.",
+      "options": {
+        "option": [
+          {
+            "definition": "经历（重大变化/过程）",
+            "iscorrect": true
+          },
+          {
+            "definition": "在下面走",
+            "iscorrect": false
+          },
+          {
+            "definition": "承担（任务/责任）",
+            "iscorrect": false
+          },
+          {
+            "definition": "沉没/失败（如企业倒闭）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

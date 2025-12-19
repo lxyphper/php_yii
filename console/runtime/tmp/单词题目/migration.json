@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "migration",
+      "error_analysis": "混淆“migration”（广义的迁徙，包括动物）与“immigration”（人类入境移民），或误以为其仅指人类移民而忽略动物迁徙的含义",
+      "sentence": "Every year, millions of birds begin their **migration** from the north to warmer southern regions as winter approaches.",
+      "options": {
+        "option": [
+          {
+            "definition": "（人类的）入境移民",
+            "iscorrect": false
+          },
+          {
+            "definition": "（动物或人类的）迁徙",
+            "iscorrect": true
+          },
+          {
+            "definition": "随意的移动",
+            "iscorrect": false
+          },
+          {
+            "definition": "偏头痛",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

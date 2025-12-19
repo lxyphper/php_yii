@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "light",
+      "error_analysis": "学生易因“light”的“光”词根义将“轻的（重量）”误判为“明亮的（光线）”，或因形近词“right”误判为“正确的”",
+      "sentence": "The hiker chose a **light** backpack to carry on the long trip.",
+      "options": {
+        "option": [
+          {
+            "definition": "轻的（重量）",
+            "iscorrect": true
+          },
+          {
+            "definition": "正确的",
+            "iscorrect": false
+          },
+          {
+            "definition": "明亮的",
+            "iscorrect": false
+          },
+          {
+            "definition": "清淡的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

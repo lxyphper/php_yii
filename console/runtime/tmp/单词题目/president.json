@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "president",
+      "error_analysis": "学生易因形近词\"present\"(礼物;现在)混淆词义,或因词根\"praesidere\"(坐在前面)误判为\"主持人\"。",
+      "sentence": "The **president** of the company will meet with the new employees to welcome them on their first day.",
+      "options": {
+        "option": [
+          {
+            "definition": "礼物；现在",
+            "iscorrect": false
+          },
+          {
+            "definition": "总统；校长；公司总裁",
+            "iscorrect": true
+          },
+          {
+            "definition": "主持人；前面的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "教授；教师",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

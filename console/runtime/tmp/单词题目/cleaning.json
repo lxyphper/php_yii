@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cleaning",
+      "error_analysis": "易因形近词“leaning”（倾斜）混淆，或误将“cleaning”理解为“干净的物品”（词根字面误导）",
+      "sentence": "She spends an hour every morning doing the **cleaning** before going to work.",
+      "options": {
+        "option": [
+          {
+            "definition": "倾斜；倚靠",
+            "iscorrect": false
+          },
+          {
+            "definition": "清洁；打扫",
+            "iscorrect": true
+          },
+          {
+            "definition": "干净的物品",
+            "iscorrect": false
+          },
+          {
+            "definition": "清除；空地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

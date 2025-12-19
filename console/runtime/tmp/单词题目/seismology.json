@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "seismology",
+      "error_analysis": "学生易因形近词\"semantics\"(语义学)或词根\"seism\"与\"semi\"(半)的混淆，将\"seismology\"误判为语言意义或半导体相关学科。",
+      "sentence": "The research team used data from **seismology** to predict potential earthquakes in the fault zone.",
+      "options": {
+        "option": [
+          {
+            "definition": "地震学（研究地震及地壳运动的学科）",
+            "iscorrect": true
+          },
+          {
+            "definition": "语义学（研究语言意义的学科）",
+            "iscorrect": false
+          },
+          {
+            "definition": "半导体学（研究半导体材料的学科）",
+            "iscorrect": false
+          },
+          {
+            "definition": "火山学（研究火山活动的学科）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

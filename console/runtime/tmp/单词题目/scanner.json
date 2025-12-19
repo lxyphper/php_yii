@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "scanner",
+      "error_analysis": "学生易因\"-er\"后缀误判为\"扫描者\"(人，词根误导)，或因与\"canner\"(罐头制造商)形近误判为\"罐头相关设备\"(形近干扰)",
+      "sentence": "Before checking out, please place your items on the **scanner** so the cashier can ring them up.",
+      "options": {
+        "option": [
+          {
+            "definition": "扫描者（进行扫描操作的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "扫描仪（用于扫描物品的电子设备）",
+            "iscorrect": true
+          },
+          {
+            "definition": "装罐头的机器（用于装罐头的设备）",
+            "iscorrect": false
+          },
+          {
+            "definition": "浏览者（快速查看的人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

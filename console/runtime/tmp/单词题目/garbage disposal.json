@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "garbage disposal",
+      "error_analysis": "学生易将\"garbage disposal\"直译为广义的\"垃圾处理\"（如垃圾处理方式），而忽略其具体指\"厨房垃圾处理器\"（水槽下的粉碎设备）。",
+      "sentence": "After scraping the leftover food from her plate, Maria flipped the switch to turn on the **garbage disposal** and heard the familiar whir of the blades grinding up the scraps.",
+      "options": {
+        "option": [
+          {
+            "definition": "厨房垃圾处理器（安装在水槽下，用于粉碎食物残渣的设备）",
+            "iscorrect": true
+          },
+          {
+            "definition": "垃圾处理方式（如填埋、焚烧等广义的垃圾处理方法）",
+            "iscorrect": false
+          },
+          {
+            "definition": "垃圾丢弃点（如垃圾桶、垃圾站等放置垃圾的地方）",
+            "iscorrect": false
+          },
+          {
+            "definition": "垃圾回收计划（如分类回收、循环利用的项目）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

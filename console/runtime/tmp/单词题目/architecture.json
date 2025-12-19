@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "architecture",
+      "error_analysis": "易受形近词“archive”（档案）的拼写干扰，或因词根“arch”（统治）误导为“统治体系”。",
+      "sentence": "The museum's design combines modern and classical **architecture**, attracting visitors interested in both historical and contemporary building styles.",
+      "options": {
+        "option": [
+          {
+            "definition": "建筑（学）；建筑风格",
+            "iscorrect": true
+          },
+          {
+            "definition": "档案；档案馆",
+            "iscorrect": false
+          },
+          {
+            "definition": "统治体系；管理结构",
+            "iscorrect": false
+          },
+          {
+            "definition": "建筑师；设计人员",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

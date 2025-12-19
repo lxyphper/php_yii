@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "guillotine",
+      "error_analysis": "学生易因形近词（如guitar/吉他）或词根（如tine/尖齿）误导，将guillotine误判为乐器或工具。",
+      "sentence": "During the French Revolution, many nobles were executed using the **guillotine**, a device designed for quick beheadings.",
+      "options": {
+        "option": [
+          {
+            "definition": "断头台（执行死刑的装置）",
+            "iscorrect": true
+          },
+          {
+            "definition": "吉他（一种弦乐器）",
+            "iscorrect": false
+          },
+          {
+            "definition": "尖齿工具（如叉子的齿）",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速奔跑（马的奔跑动作）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pack",
+      "error_analysis": "易混淆形近词“park”（公园），或误将名词“一群（动物）”理解为动词“打包”的名词形式（如“包裹”）。",
+      "sentence": "While hiking, we encountered a **pack** of wild dogs near the river.",
+      "options": {
+        "option": [
+          {
+            "definition": "公园",
+            "iscorrect": false
+          },
+          {
+            "definition": "包裹",
+            "iscorrect": false
+          },
+          {
+            "definition": "一群（动物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "纸张",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

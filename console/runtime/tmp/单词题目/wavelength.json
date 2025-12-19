@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wavelength",
+      "error_analysis": "学生易因词根\"wave\"+\"length\"的字面组合，将\"wavelength\"错误理解为\"波浪的长度\"（日常语境中的海浪长度），而非物理中的核心义\"波长\"。",
+      "sentence": "The **wavelength** of red light is longer than that of blue light.",
+      "options": {
+        "option": [
+          {
+            "definition": "波长（物理中相邻两个波峰或波谷之间的距离）",
+            "iscorrect": true
+          },
+          {
+            "definition": "波浪的长度（如海浪的长度）",
+            "iscorrect": false
+          },
+          {
+            "definition": "波形（波的形状）",
+            "iscorrect": false
+          },
+          {
+            "definition": "波速（波传播的速度）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

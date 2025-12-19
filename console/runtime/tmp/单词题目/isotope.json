@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "isotope",
+      "error_analysis": "学生易因形近词isolate（隔离）误判词义，或因iso-（相同）词根联想为“相同类型的物质”。",
+      "sentence": "Carbon-14 is a radioactive **isotope** of carbon used to determine the age of ancient artifacts.",
+      "options": {
+        "option": [
+          {
+            "definition": "隔离；孤立",
+            "iscorrect": false
+          },
+          {
+            "definition": "相同类型的物质",
+            "iscorrect": false
+          },
+          {
+            "definition": "同位素（化学中原子序数相同但质量数不同的元素变体）",
+            "iscorrect": true
+          },
+          {
+            "definition": "岛屿的地理形态",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

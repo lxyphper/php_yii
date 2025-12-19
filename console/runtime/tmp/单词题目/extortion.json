@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "extortion",
+      "error_analysis": "易因形近词（如extinction/exportation）或词根“tort”被误解为“port”（运输），将“extortion”错误理解为“灭绝”“出口运输”等义。",
+      "sentence": "The gang was arrested for demanding money from local businesses in exchange for \"protection\"—a classic case of **extortion**.",
+      "options": {
+        "option": [
+          {
+            "definition": "敲诈，勒索（以威胁或暴力索取财物的行为）",
+            "iscorrect": true
+          },
+          {
+            "definition": "灭绝（如物种或文化的消失）",
+            "iscorrect": false
+          },
+          {
+            "definition": "出口运输（如货物从本国运到外国的行为）",
+            "iscorrect": false
+          },
+          {
+            "definition": "提取（如从地下开采资源或从液体中分离物质）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

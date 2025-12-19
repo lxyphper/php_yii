@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "connection",
+      "error_analysis": "易混淆形近词“collection”（收集）及词根“connect”导致的“连接物”误判",
+      "sentence": "The study found a strong **connection** between sleep quality and academic performance.",
+      "options": {
+        "option": [
+          {
+            "definition": "联系；关系",
+            "iscorrect": true
+          },
+          {
+            "definition": "收集；收藏品",
+            "iscorrect": false
+          },
+          {
+            "definition": "连接物；接头",
+            "iscorrect": false
+          },
+          {
+            "definition": "纠正；改正",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

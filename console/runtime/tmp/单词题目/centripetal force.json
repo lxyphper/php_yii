@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "centripetal force",
+      "error_analysis": "混淆形近词centrifugal（离心力）与centripetal（向心力），或因“petal”（花瓣）的字面意思误解为与花瓣相关的力",
+      "sentence": "When you swing a ball attached to a string in a circle, the tension in the string provides the **centripetal force** that keeps the ball moving in a circular path instead of flying off in a straight line.",
+      "options": {
+        "option": [
+          {
+            "definition": "使物体做圆周运动时指向圆心的力",
+            "iscorrect": true
+          },
+          {
+            "definition": "使物体做圆周运动时指向圆心外的力",
+            "iscorrect": false
+          },
+          {
+            "definition": "与花瓣形状相关的中心作用力",
+            "iscorrect": false
+          },
+          {
+            "definition": "维持物体直线运动的惯性力",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

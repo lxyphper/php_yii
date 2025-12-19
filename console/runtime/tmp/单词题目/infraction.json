@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "infraction",
+      "error_analysis": "因形近词\"infection\"(感染)或词根\"fract-\"(断裂)，易误解为\"感染\"或\"断裂\"",
+      "sentence": "The teacher warned the student that repeated **infraction** of the classroom rules would lead to detention.",
+      "options": {
+        "option": [
+          {
+            "definition": "感染（疾病）",
+            "iscorrect": false
+          },
+          {
+            "definition": "违反（规则/法律）",
+            "iscorrect": true
+          },
+          {
+            "definition": "断裂/破损（物体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "改进（方法/效果）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

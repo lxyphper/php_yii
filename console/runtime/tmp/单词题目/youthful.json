@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "youthful",
+      "error_analysis": "易因词根“youth”（青年）误导为“青年的（指年龄身份）”，或因形近词“useful”“truthful”产生混淆。",
+      "sentence": "Despite her advanced age, Grandma still has a **youthful** passion for hiking and exploring new places.",
+      "options": {
+        "option": [
+          {
+            "definition": "有青春活力的；年轻的",
+            "iscorrect": true
+          },
+          {
+            "definition": "青年的（指年龄在青年阶段）",
+            "iscorrect": false
+          },
+          {
+            "definition": "有用的",
+            "iscorrect": false
+          },
+          {
+            "definition": "诚实的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

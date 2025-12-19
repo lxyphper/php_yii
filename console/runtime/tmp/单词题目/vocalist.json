@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "vocalist",
+      "error_analysis": "学生易因“vocal”的“直言不讳的”义或词根“vocal”（声音）关联“说话”，将“vocalist”误判为“直言不讳的人”或“演讲者”",
+      "sentence": "The famous **vocalist** will perform her new song at the concert tonight.",
+      "options": {
+        "option": [
+          {
+            "definition": "歌手；职业演唱者",
+            "iscorrect": true
+          },
+          {
+            "definition": "直言不讳的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "演讲者",
+            "iscorrect": false
+          },
+          {
+            "definition": "声音技术员",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

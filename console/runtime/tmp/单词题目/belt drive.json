@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "belt drive",
+      "error_analysis": "学生可能因“belt”的“腰带”义将“belt drive”误译为“腰带驱动”，忽略其机械术语中的“皮带传动”含义",
+      "sentence": "The factory uses a **belt drive** to transfer power from the motor to the conveyor belt.",
+      "options": {
+        "option": [
+          {
+            "definition": "腰带驱动（如用腰带带动的装置）",
+            "iscorrect": false
+          },
+          {
+            "definition": "环形公路驾驶（沿环形公路行驶）",
+            "iscorrect": false
+          },
+          {
+            "definition": "皮带传动（机械中通过皮带传递动力的装置）",
+            "iscorrect": true
+          },
+          {
+            "definition": "皮带扣（固定皮带的金属部件）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "childhood",
+      "error_analysis": "学生易因“hood”的独立词义（帽子）或与“childcare”的形近，将“childhood”误理解为“孩子的帽子”或“儿童保育”。",
+      "sentence": "She often talks about her **childhood** in the countryside, where she used to play with her friends every day after school.",
+      "options": {
+        "option": [
+          {
+            "definition": "童年时期",
+            "iscorrect": true
+          },
+          {
+            "definition": "孩子的帽子",
+            "iscorrect": false
+          },
+          {
+            "definition": "儿童保育",
+            "iscorrect": false
+          },
+          {
+            "definition": "孩子的身份",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

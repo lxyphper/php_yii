@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to determine",
+      "error_analysis": "学生易因词根“termin”（结束）误将“to determine”理解为“终止”，或因形近词“dominate”混淆为“支配”",
+      "sentence": "The researchers will conduct a series of tests to **determine** the effectiveness of the new vaccine.",
+      "options": {
+        "option": [
+          {
+            "definition": "确定；决定",
+            "iscorrect": true
+          },
+          {
+            "definition": "终止；结束",
+            "iscorrect": false
+          },
+          {
+            "definition": "支配；控制",
+            "iscorrect": false
+          },
+          {
+            "definition": "检测；发现",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

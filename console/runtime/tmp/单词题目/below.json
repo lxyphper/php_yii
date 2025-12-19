@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "below",
+      "error_analysis": "学生易因形近词\"belong\"（属于）或\"bellow\"（咆哮）产生错误联想，误将\"below\"理解为\"属于\"或\"咆哮\"。",
+      "sentence": "Look at the birds flying **below** the clouds—they're so close to the mountains!",
+      "options": {
+        "option": [
+          {
+            "definition": "在...下面（介词/副词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "属于（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "咆哮（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "在...后面（介词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

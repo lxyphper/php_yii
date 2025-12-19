@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "welcome",
+      "error_analysis": "学生易因“well+come”字面分解误理解为“好的来”，或因形近词“willing”（愿意的）、“weld”（焊接）产生词义混淆",
+      "sentence": "When you enter the party, everyone will **welcome** you with a smile.",
+      "options": {
+        "option": [
+          {
+            "definition": "欢迎",
+            "iscorrect": true
+          },
+          {
+            "definition": "好的来",
+            "iscorrect": false
+          },
+          {
+            "definition": "愿意的",
+            "iscorrect": false
+          },
+          {
+            "definition": "焊接",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

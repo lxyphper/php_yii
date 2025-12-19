@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "snake",
+      "error_analysis": "中国学生易因形近词“snack”（零食）混淆“snake”词义，或误联“sneak”（偷偷摸摸）。",
+      "sentence": "I saw a long, thin **snake** slithering through the grass in the garden yesterday.",
+      "options": {
+        "option": [
+          {
+            "definition": "零食",
+            "iscorrect": false
+          },
+          {
+            "definition": "蛇",
+            "iscorrect": true
+          },
+          {
+            "definition": "偷偷摸摸的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "蜗牛",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

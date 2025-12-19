@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to disembark",
+      "error_analysis": "学生易因词根“dis-”的否定含义误导，将“disembark”错误理解为“不上船/飞机”，或因与“disappear”形近而误解为“消失”。",
+      "sentence": "After the plane landed, passengers were asked to wait for 10 minutes before they could **disembark**.",
+      "options": {
+        "option": [
+          {
+            "definition": "下船/飞机等",
+            "iscorrect": true
+          },
+          {
+            "definition": "不登上船/飞机等",
+            "iscorrect": false
+          },
+          {
+            "definition": "消失",
+            "iscorrect": false
+          },
+          {
+            "definition": "开始旅程",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

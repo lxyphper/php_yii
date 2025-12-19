@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "jangling",
+      "error_analysis": "学生易将“jangling”（刺耳金属声）与形近词“jingle”（轻快叮当声）混淆，或误判为“摇晃”等字面联想义。",
+      "sentence": "The old keys in her bag kept **jangling** as she walked, making everyone in the quiet library glance up.",
+      "options": {
+        "option": [
+          {
+            "definition": "发出刺耳的金属声",
+            "iscorrect": true
+          },
+          {
+            "definition": "（轻快的）叮当声",
+            "iscorrect": false
+          },
+          {
+            "definition": "摇晃；摆动",
+            "iscorrect": false
+          },
+          {
+            "definition": "杂耍；玩把戏",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

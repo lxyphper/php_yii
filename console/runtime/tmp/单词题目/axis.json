@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "axis",
+      "error_analysis": "中国学生易因“axis”复数“axes”与“ax”（斧头）复数相同误判为“斧头的复数”，或因“轴心”引申义误判为“核心”。",
+      "sentence": "The Earth rotates on its **axis**, which runs from the North Pole to the South Pole.",
+      "options": {
+        "option": [
+          {
+            "definition": "轴（如旋转轴、坐标轴）",
+            "iscorrect": true
+          },
+          {
+            "definition": "斧头的复数（用于砍东西的工具）",
+            "iscorrect": false
+          },
+          {
+            "definition": "核心（事物的中心部分）",
+            "iscorrect": false
+          },
+          {
+            "definition": "税（政府向个人或企业征收的钱）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

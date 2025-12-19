@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cow",
+      "error_analysis": "学生易将“cow”与形近词“crow”（乌鸦）混淆，或因“ow”后缀联想“low”（低的）而误判。",
+      "sentence": "The farmer milks the **cow** every morning to get fresh milk for the market.",
+      "options": {
+        "option": [
+          {
+            "definition": "奶牛（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "乌鸦（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "低的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "恐吓（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

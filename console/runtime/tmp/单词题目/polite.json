@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "polite",
+      "error_analysis": "学生易因形近词\"police\"（警察）混淆词义，将\"polite\"误判为\"警察的\"或与警察相关的形容词。",
+      "sentence": "When visiting a foreign country, it’s always **polite** to learn a few basic phrases like \"thank you\" and \"excuse me.\"",
+      "options": {
+        "option": [
+          {
+            "definition": "有礼貌的；客气的",
+            "iscorrect": true
+          },
+          {
+            "definition": "警察的；与警察有关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "政治的；与政治相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "熟练的；有技巧的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

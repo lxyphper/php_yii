@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "taxing",
+      "error_analysis": "学生易因形近词“tax”（税）错误联想为“与税务相关的”或“需要缴税的”，忽略其“费力的、累人的”核心词义",
+      "sentence": "After a long day of back-to-back meetings, writing the detailed summary felt extremely **taxing** for Tom.",
+      "options": {
+        "option": [
+          {
+            "definition": "与税务相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "费力的；累人的",
+            "iscorrect": true
+          },
+          {
+            "definition": "需要缴税的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人厌烦的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

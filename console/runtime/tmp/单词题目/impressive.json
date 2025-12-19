@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "impressive",
+      "error_analysis": "将impressive误理解为“有印象的”（形近词impression联想）或“给人留下印象的”（词根impress过度直译，忽略“深刻/令人赞叹”核心）",
+      "sentence": "The athlete's performance in the final was truly **impressive**; everyone stood up to cheer for him.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人印象深刻的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有印象的",
+            "iscorrect": false
+          },
+          {
+            "definition": "给人留下印象的",
+            "iscorrect": false
+          },
+          {
+            "definition": "表达的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

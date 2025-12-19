@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "perfume",
+      "error_analysis": "学生易因与\"perform\"（表演）形近或\"fume\"（烟）词根误导，误判为\"表演\"或\"烟雾\"。",
+      "sentence": "She sprayed a little **perfume** on her wrist before heading to the party.",
+      "options": {
+        "option": [
+          {
+            "definition": "香水",
+            "iscorrect": true
+          },
+          {
+            "definition": "表演",
+            "iscorrect": false
+          },
+          {
+            "definition": "烟雾",
+            "iscorrect": false
+          },
+          {
+            "definition": "完美的事物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

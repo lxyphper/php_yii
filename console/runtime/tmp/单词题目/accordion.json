@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "accordion",
+      "error_analysis": "学生易因形近词\"accord\"(协议)的干扰，将\"accordion\"误判为与\"协议\"相关的事物（如\"协议文件\"）。",
+      "sentence": "At the street fair, an old man sat on a bench playing a **accordion**, its bellows expanding and contracting as he pressed the keys.",
+      "options": {
+        "option": [
+          {
+            "definition": "协议文件；合同书",
+            "iscorrect": false
+          },
+          {
+            "definition": "协调器；调解工具",
+            "iscorrect": false
+          },
+          {
+            "definition": "手风琴（一种有折叠风箱的乐器）",
+            "iscorrect": true
+          },
+          {
+            "definition": "折叠式文件夹；伸缩档案袋",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

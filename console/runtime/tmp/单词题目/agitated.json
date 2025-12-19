@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "agitated",
+      "error_analysis": "中国学生易因形近词（如animated）或词根直译，将agitated误判为“有活力的”或“摇动的”，忽略其“焦虑不安”的核心义。",
+      "sentence": "She paced back and forth in the waiting room, her face flushed and eyes darting around—clearly **agitated** about the results of her test.",
+      "options": {
+        "option": [
+          {
+            "definition": "焦虑不安的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有活力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "恼火的",
+            "iscorrect": false
+          },
+          {
+            "definition": "摇动的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

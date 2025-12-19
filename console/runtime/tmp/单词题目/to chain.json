@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to chain",
+      "error_analysis": "学生易将动词\"to chain\"与形近词\"to change\"（改变）混淆，或误从名词\"chain\"（链条）字面推导为\"制造链条\"或\"连接链条\"。",
+      "sentence": "The farmer had to **chain** his dog to the fence to keep it from running away.",
+      "options": {
+        "option": [
+          {
+            "definition": "用链条拴住；束缚",
+            "iscorrect": true
+          },
+          {
+            "definition": "改变；更换",
+            "iscorrect": false
+          },
+          {
+            "definition": "制造链条",
+            "iscorrect": false
+          },
+          {
+            "definition": "连接；串联",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

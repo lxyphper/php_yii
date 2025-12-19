@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to shine",
+      "error_analysis": "学生易因形近词“shin”（小腿）混淆词义，或误将“表现出色”的引申义理解为“发光”的字面义",
+      "sentence": "His ability to solve complex problems really **shone** during the team project.",
+      "options": {
+        "option": [
+          {
+            "definition": "小腿",
+            "iscorrect": false
+          },
+          {
+            "definition": "发光",
+            "iscorrect": false
+          },
+          {
+            "definition": "表现出色",
+            "iscorrect": true
+          },
+          {
+            "definition": "签名",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

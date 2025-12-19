@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dinky",
+      "error_analysis": "学生易因形近词\"dingy\"（昏暗的）误判\"dinky\"为\"肮脏的\"或\"昏暗的\"",
+      "sentence": "The café had a **dinky** little balcony with just enough space for two people to sit and enjoy their coffee.",
+      "options": {
+        "option": [
+          {
+            "definition": "小而可爱的；微不足道的",
+            "iscorrect": true
+          },
+          {
+            "definition": "昏暗的；肮脏的",
+            "iscorrect": false
+          },
+          {
+            "definition": "吵闹的；喧嚣的",
+            "iscorrect": false
+          },
+          {
+            "definition": "喝的；含饮料的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

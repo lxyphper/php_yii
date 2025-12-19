@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "vacuum cleaner",
+      "error_analysis": "学生易因“cleaner”误指人（如“从事真空清洁工作的人”）或“vacuum”与“vacation”形近（如“假期专用清洁工具”）而误解词义。",
+      "sentence": "My mom asked me to take out the **vacuum cleaner** to clean the carpet after the party.",
+      "options": {
+        "option": [
+          {
+            "definition": "从事真空清洁工作的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "假期专用的清洁工具",
+            "iscorrect": false
+          },
+          {
+            "definition": "吸尘器",
+            "iscorrect": true
+          },
+          {
+            "definition": "真空储存食物的容器",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

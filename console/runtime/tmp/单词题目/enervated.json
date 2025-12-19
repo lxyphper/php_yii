@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "enervated",
+      "error_analysis": "易与形近词energized（精力充沛的）混淆，或因词根nerv联想错误认为与“紧张/活力”相关",
+      "sentence": "After a long day of hiking in the heat, Sarah felt completely **enervated** and could barely lift her backpack.",
+      "options": {
+        "option": [
+          {
+            "definition": "精力充沛的；充满活力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "紧张的；不安的",
+            "iscorrect": false
+          },
+          {
+            "definition": "虚弱的；无力的",
+            "iscorrect": true
+          },
+          {
+            "definition": "兴奋的；激动的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

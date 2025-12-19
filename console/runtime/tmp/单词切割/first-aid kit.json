@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "frist-aid kit",
+      "first-ayd kit",
+      "first-aid ket",
+      "first-aid cit",
+      "first aid kit"
+    ],
+    "correct_chunks": [
+      "first",
+      "-aid",
+      "kit"
+    ],
+    "distractor_chunks": [
+      "frist-",
+      "ayd",
+      "ket",
+      "cit",
+      "first aid"
+    ]
+  },
+  0
+]

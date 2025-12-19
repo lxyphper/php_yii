@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "inductor",
+      "error_analysis": "学生易因形近词\"instructor\"(教师)干扰，或词根\"induce\"(诱导)错误联想，将\"inductor\"误判为\"指导者\"或\"诱导者\"。",
+      "sentence": "The circuit uses an **inductor** to store energy in a magnetic field, which helps regulate current flow.",
+      "options": {
+        "option": [
+          {
+            "definition": "教师；指导者",
+            "iscorrect": false
+          },
+          {
+            "definition": "电感（器）",
+            "iscorrect": true
+          },
+          {
+            "definition": "诱导者；引发者",
+            "iscorrect": false
+          },
+          {
+            "definition": "输入设备；输入装置",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

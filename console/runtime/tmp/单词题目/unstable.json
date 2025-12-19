@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unstable",
+      "error_analysis": "中国学生易因形近词“unable”误判为“不能的”，或因“stable”（马厩）误解为“没有马厩的”。",
+      "sentence": "Her mood has been **unstable** lately—she cries one minute and laughs the next.",
+      "options": {
+        "option": [
+          {
+            "definition": "不稳定的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不能的",
+            "iscorrect": false
+          },
+          {
+            "definition": "没有马厩的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不常见的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

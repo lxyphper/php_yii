@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "layout",
+      "error_analysis": "学生易因\"lay\"+\"out\"字面误导将\"layout\"理解为\"把...放在外面\"，或因形近词\"layoff\"混淆为\"解雇\"",
+      "sentence": "Can you show me the **layout** of the apartment so I can imagine where the furniture will go?",
+      "options": {
+        "option": [
+          {
+            "definition": "解雇；裁员",
+            "iscorrect": false
+          },
+          {
+            "definition": "布局；安排（如房间、页面等的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "把...放在外面；外置",
+            "iscorrect": false
+          },
+          {
+            "definition": "躺下的状态",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

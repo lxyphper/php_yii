@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "capsid",
+      "error_analysis": "学生易因形近词\"capsule\"(胶囊)混淆，或因词根\"cap-\"联想到\"帽子\"而误判词义",
+      "sentence": "The virus uses its **capsid** to protect its genetic material from being destroyed by the host's immune system.",
+      "options": {
+        "option": [
+          {
+            "definition": "衣壳（病毒的蛋白质外壳）",
+            "iscorrect": true
+          },
+          {
+            "definition": "胶囊（药物的外壳）",
+            "iscorrect": false
+          },
+          {
+            "definition": "帽子（戴在头上的服饰）",
+            "iscorrect": false
+          },
+          {
+            "definition": "容器（用于储存的盒子）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "parallelogram",
+      "error_analysis": "学生易因“parallelogram”与“program”（程序）形近误判，或因词根“para-”（平行）和“-gram”（图形）过度推导为非具体的平行相关概念。",
+      "sentence": "The math teacher asked the students to calculate the area of the **parallelogram** drawn on the whiteboard.",
+      "options": {
+        "option": [
+          {
+            "definition": "程序；计划",
+            "iscorrect": false
+          },
+          {
+            "definition": "平行线",
+            "iscorrect": false
+          },
+          {
+            "definition": "平行四边形",
+            "iscorrect": true
+          },
+          {
+            "definition": "平行的图形",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

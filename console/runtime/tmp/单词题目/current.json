@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "current",
+      "error_analysis": "学生易因形近词\"curtain\"(窗帘)产生拼写联想错误，或因词根\"currere\"(跑)误判为\"奔跑的\"",
+      "sentence": "The **current** economic policy has greatly influenced people's daily lives.",
+      "options": {
+        "option": [
+          {
+            "definition": "窗帘",
+            "iscorrect": false
+          },
+          {
+            "definition": "奔跑的",
+            "iscorrect": false
+          },
+          {
+            "definition": "流动的",
+            "iscorrect": false
+          },
+          {
+            "definition": "当前的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dongle",
+      "error_analysis": "学生易因形近词\"dangle\"(悬挂)误导，将\"dongle\"错误理解为\"悬挂物\"或\"吊坠\"",
+      "sentence": "To activate the premium features of the software, you must insert the **dongle** into your laptop's USB port.",
+      "options": {
+        "option": [
+          {
+            "definition": "（电脑等设备的）加密狗；USB适配器",
+            "iscorrect": true
+          },
+          {
+            "definition": "悬挂物；吊坠",
+            "iscorrect": false
+          },
+          {
+            "definition": "数据电缆；连接线",
+            "iscorrect": false
+          },
+          {
+            "definition": "小型电子玩具；迷你摆件",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

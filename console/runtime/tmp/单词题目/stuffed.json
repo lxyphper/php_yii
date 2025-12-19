@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stuffed",
+      "error_analysis": "核心易错点是混淆形近词“staffed”（配备职员的）或误将“stuffed”联想为“僵硬的”（stiff的误导）。",
+      "sentence": "After eating the entire pizza, I felt so **stuffed** that I couldn't move.",
+      "options": {
+        "option": [
+          {
+            "definition": "填满的；塞饱的",
+            "iscorrect": true
+          },
+          {
+            "definition": "配备职员的",
+            "iscorrect": false
+          },
+          {
+            "definition": "僵硬的",
+            "iscorrect": false
+          },
+          {
+            "definition": "材料充足的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

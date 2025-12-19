@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sorry",
+      "error_analysis": "学生易因形近词\"sorrow\"(悲伤)或\"sore\"(疼痛的)而误将\"sorry\"理解为\"悲伤的\"或\"疼痛的\"，而非核心义\"抱歉的\"。",
+      "sentence": "I said **sorry** to my friend because I broke his favorite cup.",
+      "options": {
+        "option": [
+          {
+            "definition": "抱歉的",
+            "iscorrect": true
+          },
+          {
+            "definition": "悲伤的",
+            "iscorrect": false
+          },
+          {
+            "definition": "疼痛的",
+            "iscorrect": false
+          },
+          {
+            "definition": "难过的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

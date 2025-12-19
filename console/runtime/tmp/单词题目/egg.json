@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "egg",
+      "error_analysis": "学生易因形近词“leg”（腿）、“beg”（请求）混淆“egg”的核心词义“鸡蛋”",
+      "sentence": "My mom usually fries an **egg** with tomatoes for lunch.",
+      "options": {
+        "option": [
+          {
+            "definition": "鸡蛋",
+            "iscorrect": true
+          },
+          {
+            "definition": "腿",
+            "iscorrect": false
+          },
+          {
+            "definition": "请求",
+            "iscorrect": false
+          },
+          {
+            "definition": "面包",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pyramid",
+      "error_analysis": "学生易因“pyro-”（火）的词根联想误以为“pyramid”与火有关（如烽火台），或因形状混淆将其误判为棱柱等结构",
+      "sentence": "The ancient Egyptians built massive **pyramids** as tombs for their pharaohs, which have stood for over 4,000 years.",
+      "options": {
+        "option": [
+          {
+            "definition": "烽火台（用于传递信号的古代火台）",
+            "iscorrect": false
+          },
+          {
+            "definition": "棱柱（底面为多边形、侧面为平行四边形的三维结构）",
+            "iscorrect": false
+          },
+          {
+            "definition": "金字塔（底面为多边形、侧面为三角形的三维陵墓结构）",
+            "iscorrect": true
+          },
+          {
+            "definition": "天堂（美好幸福的极乐世界）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

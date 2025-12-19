@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "computer-aided manufacturing",
+      "error_analysis": "学生易将“computer-aided”误解为“计算机制造的”（词根/字面误导），或因“aided”与“added”形近而误判为“计算机添加的制造”（形近词干扰）",
+      "sentence": "Many modern factories have adopted **computer-aided manufacturing** to improve production efficiency and precision.",
+      "options": {
+        "option": [
+          {
+            "definition": "计算机添加的制造",
+            "iscorrect": false
+          },
+          {
+            "definition": "计算机制造的产品",
+            "iscorrect": false
+          },
+          {
+            "definition": "计算机辅助制造（利用计算机技术辅助工业制造过程的方法）",
+            "iscorrect": true
+          },
+          {
+            "definition": "计算机辅助的手工制作",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

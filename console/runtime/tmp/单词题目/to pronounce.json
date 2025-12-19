@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to pronounce",
+      "error_analysis": "学生易因形近词\"announce\"（宣布）的干扰，将\"to pronounce\"错误理解为\"宣布\"而非核心义\"发音\"",
+      "sentence": "Can you teach me how to **pronounce** this French word correctly?",
+      "options": {
+        "option": [
+          {
+            "definition": "发音",
+            "iscorrect": true
+          },
+          {
+            "definition": "宣布",
+            "iscorrect": false
+          },
+          {
+            "definition": "向前推进",
+            "iscorrect": false
+          },
+          {
+            "definition": "否认",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

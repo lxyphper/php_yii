@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "counsel",
+      "error_analysis": "核心易错点为形近词council（委员会）的干扰及词根count（计数）的误导。",
+      "sentence": "Before making a big decision, she decided to seek **counsel** from her trusted mentor.",
+      "options": {
+        "option": [
+          {
+            "definition": "建议；劝告",
+            "iscorrect": true
+          },
+          {
+            "definition": "委员会；理事会",
+            "iscorrect": false
+          },
+          {
+            "definition": "计数；总数",
+            "iscorrect": false
+          },
+          {
+            "definition": "会议；集会",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

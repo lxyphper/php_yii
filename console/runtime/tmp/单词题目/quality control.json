@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "quality control",
+      "error_analysis": "学生易因“quality”与“quantity”形近混淆“质量控制”与“数量控制”，或因字面拆分误判其为“高质量的控制”（强调控制的质量而非对质量的控制）",
+      "sentence": "The factory has a strict **quality control** process to prevent defective products from reaching customers.",
+      "options": {
+        "option": [
+          {
+            "definition": "质量控制（确保产品/服务符合质量标准的管理过程）",
+            "iscorrect": true
+          },
+          {
+            "definition": "数量控制（对产品/服务数量进行管控的过程）",
+            "iscorrect": false
+          },
+          {
+            "definition": "高质量的控制（强调控制过程本身质量优异的行为）",
+            "iscorrect": false
+          },
+          {
+            "definition": "质量检测（仅对产品质量进行测试的单一环节）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

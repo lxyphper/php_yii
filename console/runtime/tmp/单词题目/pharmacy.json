@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pharmacy",
+      "error_analysis": "学生易因“pharm-”词根误判为“制药厂”，或因拼写类似“philosophy”“farm”误联想为“哲学”“农场”。",
+      "sentence": "I need to go to the **pharmacy** to buy some aspirin for my headache.",
+      "options": {
+        "option": [
+          {
+            "definition": "药店；药房",
+            "iscorrect": true
+          },
+          {
+            "definition": "制药厂",
+            "iscorrect": false
+          },
+          {
+            "definition": "哲学",
+            "iscorrect": false
+          },
+          {
+            "definition": "农场",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

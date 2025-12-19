@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "thoughtful",
+      "error_analysis": "学生易因词根“thought”（思想）误导，将“thoughtful”错误理解为“有思想的；善于思考的”，而忽略其最常用的“体贴的；考虑周到的”含义",
+      "sentence": "Mary is always **thoughtful**—she remembers everyone's birthday and brings small gifts.",
+      "options": {
+        "option": [
+          {
+            "definition": "体贴的；考虑周到的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有思想的；善于思考的",
+            "iscorrect": false
+          },
+          {
+            "definition": "深思的；沉思的",
+            "iscorrect": false
+          },
+          {
+            "definition": "仔细的；认真的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

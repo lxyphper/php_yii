@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "verse",
+      "error_analysis": "学生易因形近词\"version\"（版本）干扰或词根\"versus\"（转向）误导，将\"verse\"误判为\"版本\"或\"转向\"。",
+      "sentence": "The poet added a new **verse** to the end of his poem to enhance its emotional impact.",
+      "options": {
+        "option": [
+          {
+            "definition": "诗节；诗句",
+            "iscorrect": true
+          },
+          {
+            "definition": "版本",
+            "iscorrect": false
+          },
+          {
+            "definition": "转向",
+            "iscorrect": false
+          },
+          {
+            "definition": "散文",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

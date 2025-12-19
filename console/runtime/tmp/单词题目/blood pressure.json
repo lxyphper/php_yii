@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "blood pressure",
+      "error_analysis": "学生易因形近词\"press\"（按压）将\"blood pressure\"误解为\"血液按压\"，或因\"pressure\"的\"压迫\"义直译为\"血液的压迫\"。",
+      "sentence": "My doctor said I need to check my **blood pressure** regularly because it's a bit high.",
+      "options": {
+        "option": [
+          {
+            "definition": "血压",
+            "iscorrect": true
+          },
+          {
+            "definition": "血液按压",
+            "iscorrect": false
+          },
+          {
+            "definition": "血液的压迫",
+            "iscorrect": false
+          },
+          {
+            "definition": "血的心理压力",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

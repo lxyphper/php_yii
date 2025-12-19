@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "thirteen",
+      "error_analysis": "学生易因形近词\"thirty\"(三十)或词根\"three\"(三)的联想，将\"thirteen\"误判为\"三十\"或\"三个\"",
+      "sentence": "There are **thirteen** students in the small classroom.",
+      "options": {
+        "option": [
+          {
+            "definition": "十三",
+            "iscorrect": true
+          },
+          {
+            "definition": "三十",
+            "iscorrect": false
+          },
+          {
+            "definition": "三个",
+            "iscorrect": false
+          },
+          {
+            "definition": "第三",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

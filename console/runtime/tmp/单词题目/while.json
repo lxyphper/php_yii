@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "while",
+      "error_analysis": "学生易因形近混淆\"while\"与\"white\"(白色)，或忽略其表示对比的核心词义",
+      "sentence": "She prefers tea, **while** her brother likes coffee.",
+      "options": {
+        "option": [
+          {
+            "definition": "而；然而（表示对比）",
+            "iscorrect": true
+          },
+          {
+            "definition": "白色（形近词混淆）",
+            "iscorrect": false
+          },
+          {
+            "definition": "当...的时候（强调同时发生）",
+            "iscorrect": false
+          },
+          {
+            "definition": "直到...为止（无关词义误导）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

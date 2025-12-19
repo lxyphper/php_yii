@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pedagogy",
+      "error_analysis": "学生易因词根“ped-”联想到“脚”（如pedal）或同根词“pediatric”（儿科的），误将“pedagogy”理解为与“脚”相关的概念或“儿科医学”",
+      "sentence": "The workshop will cover various **pedagogy** techniques to help teachers engage young learners.",
+      "options": {
+        "option": [
+          {
+            "definition": "教学法；教育学",
+            "iscorrect": true
+          },
+          {
+            "definition": "儿科医学；儿童医疗服务",
+            "iscorrect": false
+          },
+          {
+            "definition": "步行技巧；踏板使用方法",
+            "iscorrect": false
+          },
+          {
+            "definition": "迂腐的学术态度；教条主义",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

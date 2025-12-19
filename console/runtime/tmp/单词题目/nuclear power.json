@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nuclear power",
+      "error_analysis": "学生易因\"nuclear\"与\"natural\"形近误判为\"自然能\"，或因\"power\"的\"权力\"义误解为\"核权力\"",
+      "sentence": "Many countries are debating the use of **nuclear power** as a way to reduce carbon emissions from fossil fuels.",
+      "options": {
+        "option": [
+          {
+            "definition": "自然能（如太阳能、风能）",
+            "iscorrect": false
+          },
+          {
+            "definition": "核权力（国家拥有的核能力或权力）",
+            "iscorrect": false
+          },
+          {
+            "definition": "核能（用于发电等的核动力）",
+            "iscorrect": true
+          },
+          {
+            "definition": "核武器（用于战争的核装置）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

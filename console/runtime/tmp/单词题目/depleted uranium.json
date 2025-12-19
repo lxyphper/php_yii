@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "depleted uranium",
+      "error_analysis": "学生易因形近词\"delete\"(删除)联想为\"被删除的铀\"，或因词根\"deplete\"(耗尽)误判为\"耗尽的铀\"，未准确理解为特定术语\"贫铀\"。",
+      "sentence": "Some military vehicles use **depleted uranium** armor for its high density and resistance to penetration.",
+      "options": {
+        "option": [
+          {
+            "definition": "贫铀（铀235含量极低的铀材料，常用于军事或工业）",
+            "iscorrect": true
+          },
+          {
+            "definition": "被删除的铀（因拼写近似\"delete\"产生的错误联想）",
+            "iscorrect": false
+          },
+          {
+            "definition": "耗尽的铀（对词根\"deplete\"(耗尽)的过度直译，未体现术语含义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "浓缩铀（铀235含量较高的铀材料，与目标词含义相反）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to swindle",
+      "error_analysis": "中国学生易因形近词“swim”（游泳）或“swing”（摇摆）产生运动相关错误联想，或因“sw-”词根猜测快速移动。",
+      "sentence": "The man **swindled** me out of $500 by selling me a fake watch.",
+      "options": {
+        "option": [
+          {
+            "definition": "游泳；游过",
+            "iscorrect": false
+          },
+          {
+            "definition": "摇摆；摆动",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速移动；飞奔",
+            "iscorrect": false
+          },
+          {
+            "definition": "诈骗；骗取",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

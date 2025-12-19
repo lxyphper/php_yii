@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to accentuate",
+      "error_analysis": "混淆形近词“accent”（口音）及词根“accent”（重音），误判为“加重口音”或“发音相关”含义。",
+      "sentence": "The new lighting design **accentuates** the elegance of the ancient building.",
+      "options": {
+        "option": [
+          {
+            "definition": "强调；突出",
+            "iscorrect": true
+          },
+          {
+            "definition": "加重口音",
+            "iscorrect": false
+          },
+          {
+            "definition": "发音清晰",
+            "iscorrect": false
+          },
+          {
+            "definition": "削弱；减轻",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

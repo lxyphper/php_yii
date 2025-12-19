@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bullet",
+      "error_analysis": "学生易因形近词“bull”（公牛）或词根“-let”（小）误判为“公牛”/“小公牛”，或混淆形近词“bulletin”（公告）。",
+      "sentence": "The hunter loaded his gun with a **bullet** before going into the forest.",
+      "options": {
+        "option": [
+          {
+            "definition": "公牛",
+            "iscorrect": false
+          },
+          {
+            "definition": "小公牛",
+            "iscorrect": false
+          },
+          {
+            "definition": "公告；布告",
+            "iscorrect": false
+          },
+          {
+            "definition": "子弹；枪弹",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

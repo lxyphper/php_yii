@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "grooved",
+      "error_analysis": "学生易因形近词\"groomed\"(梳理过的)或与\"groovy\"(时髦的)混淆而误判\"grooved\"的含义。",
+      "sentence": "The new kitchen tiles have a **grooved** surface that prevents slipping when wet.",
+      "options": {
+        "option": [
+          {
+            "definition": "有沟槽的；带纹路的",
+            "iscorrect": true
+          },
+          {
+            "definition": "梳理过的；整洁的",
+            "iscorrect": false
+          },
+          {
+            "definition": "时髦的；棒的",
+            "iscorrect": false
+          },
+          {
+            "definition": "沉迷于的；陶醉的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

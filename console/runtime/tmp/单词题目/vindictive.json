@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "vindictive",
+      "error_analysis": "混淆形近词\"vindicate\"（证明无罪），错误认为\"vindictive\"是\"辩护的\"或\"证明的\"。",
+      "sentence": "After being rejected for the promotion, she became **vindictive** and sabotaged her colleague's project to get back at him.",
+      "options": {
+        "option": [
+          {
+            "definition": "辩护的",
+            "iscorrect": false
+          },
+          {
+            "definition": "报复性的",
+            "iscorrect": true
+          },
+          {
+            "definition": "证明无罪的",
+            "iscorrect": false
+          },
+          {
+            "definition": "上瘾的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

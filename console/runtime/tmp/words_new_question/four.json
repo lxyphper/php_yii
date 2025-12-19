@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "four",
+      "error_analysis": "学生易因形近词\"for\"（为了）或\"fore\"（前面的）混淆\"four\"的词义，或误将基数词当作序数词\"第四\"。",
+      "sentence": "There are **four** apples on the table. Please take one if you're hungry.",
+      "options": {
+        "option": [
+          {
+            "definition": "四（基数词，表示数量）",
+            "iscorrect": true
+          },
+          {
+            "definition": "为了；给（介词，表示目的或对象）",
+            "iscorrect": false
+          },
+          {
+            "definition": "前面的；预先的（形容词，指位置或时间在前）",
+            "iscorrect": false
+          },
+          {
+            "definition": "第四（序数词，表示顺序）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

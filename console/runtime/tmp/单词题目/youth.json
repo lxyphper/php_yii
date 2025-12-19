@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "youth",
+      "error_analysis": "学生易因“youth”与“mouth”（嘴）等“-outh”结尾词形近而误判，或因“young”（年轻的）猜测其为形容词",
+      "sentence": "He regrets wasting his **youth** playing video games instead of studying.",
+      "options": {
+        "option": [
+          {
+            "definition": "嘴",
+            "iscorrect": false
+          },
+          {
+            "definition": "年轻的",
+            "iscorrect": false
+          },
+          {
+            "definition": "青年时期",
+            "iscorrect": true
+          },
+          {
+            "definition": "南方",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

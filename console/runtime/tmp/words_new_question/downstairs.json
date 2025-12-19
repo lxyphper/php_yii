@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "downstairs",
+      "error_analysis": "学生易因\"down+stairs\"的拆分将\"downstairs\"误理解为\"下楼梯\"（动作），而非\"在楼下\"（地点/形容词）。",
+      "sentence": "I left my notebook in the **downstairs** study—could you fetch it for me?",
+      "options": {
+        "option": [
+          {
+            "definition": "楼下的（形容词）/ 在楼下（副词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "下楼梯（动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "向下的楼梯（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "向下地（副词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

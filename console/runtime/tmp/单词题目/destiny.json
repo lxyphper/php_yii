@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "destiny",
+      "error_analysis": "学生易因形近词\"destination\"(目的地)的干扰，将\"destiny\"误判为\"目的地\"。",
+      "sentence": "Many people believe that hard work can change their **destiny**, not just luck.",
+      "options": {
+        "option": [
+          {
+            "definition": "命运",
+            "iscorrect": true
+          },
+          {
+            "definition": "目的地",
+            "iscorrect": false
+          },
+          {
+            "definition": "破坏",
+            "iscorrect": false
+          },
+          {
+            "definition": "决定",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

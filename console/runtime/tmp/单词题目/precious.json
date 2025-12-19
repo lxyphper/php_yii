@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "precious",
+      "error_analysis": "易与形近词previous（之前的）混淆，或因pre-前缀错误推导为“提前的”",
+      "sentence": "She kept the **precious** necklace her grandmother gave her as a birthday gift.",
+      "options": {
+        "option": [
+          {
+            "definition": "珍贵的；宝贵的",
+            "iscorrect": true
+          },
+          {
+            "definition": "之前的；先前的",
+            "iscorrect": false
+          },
+          {
+            "definition": "提前的；预先的",
+            "iscorrect": false
+          },
+          {
+            "definition": "精确的；准确的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

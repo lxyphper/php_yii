@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "smile",
+      "error_analysis": "学生易混淆形近词\"smell\"(气味；闻)，或拆分\"smile\"为\"s-\"+\"mile\"(英里)产生错误联想",
+      "sentence": "When I walked into the classroom, my teacher greeted me with a bright **smile**.",
+      "options": {
+        "option": [
+          {
+            "definition": "微笑",
+            "iscorrect": true
+          },
+          {
+            "definition": "气味；闻",
+            "iscorrect": false
+          },
+          {
+            "definition": "英里",
+            "iscorrect": false
+          },
+          {
+            "definition": "假笑",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

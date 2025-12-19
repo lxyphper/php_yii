@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "eve",
+      "error_analysis": "学生易将“eve”与形近词“eye”（眼睛）混淆，或误判为“晚上”（evening的字面联想）",
+      "sentence": "We're planning a big party for New Year's **eve**—everyone will come over at 8 PM to celebrate together.",
+      "options": {
+        "option": [
+          {
+            "definition": "眼睛",
+            "iscorrect": false
+          },
+          {
+            "definition": "甚至",
+            "iscorrect": false
+          },
+          {
+            "definition": "晚上",
+            "iscorrect": false
+          },
+          {
+            "definition": "前夜；前夕",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

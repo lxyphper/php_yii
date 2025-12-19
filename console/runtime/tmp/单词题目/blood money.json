@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "blood money",
+      "error_analysis": "学生易因\"blood\"(血)和\"money\"(钱)的字面含义，将\"blood money\"误判为\"血汗钱\"（辛苦赚来的钱）。",
+      "sentence": "The criminal’s family paid **blood money** to the victim’s relatives to avoid a lawsuit.",
+      "options": {
+        "option": [
+          {
+            "definition": "偿命钱（为弥补杀人或伤人而付的钱）",
+            "iscorrect": true
+          },
+          {
+            "definition": "血汗钱（辛苦赚来的钱）",
+            "iscorrect": false
+          },
+          {
+            "definition": "糊口钱（维持生计的钱）",
+            "iscorrect": false
+          },
+          {
+            "definition": "血债（必须用血偿还的债务）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "reprieve",
+      "error_analysis": "学生易因形近词\"receive\"（收到）或\"relieve\"（缓解）的干扰，将\"reprieve\"误判为类似含义。",
+      "sentence": "The judge granted a **reprieve** to the condemned prisoner, delaying the execution for three months.",
+      "options": {
+        "option": [
+          {
+            "definition": "收到",
+            "iscorrect": false
+          },
+          {
+            "definition": "缓解",
+            "iscorrect": false
+          },
+          {
+            "definition": "暂缓（处罚或执行）",
+            "iscorrect": true
+          },
+          {
+            "definition": "偿还",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

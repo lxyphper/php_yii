@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to recite",
+      "error_analysis": "学生易因形近词\"record\"(记录)混淆，或因词根\"re-+cite\"(再次引用)误判\"recite\"的意思。",
+      "sentence": "Before the school talent show, Lily spent hours practicing to **recite** her favorite poem without using any prompts.",
+      "options": {
+        "option": [
+          {
+            "definition": "背诵；朗诵",
+            "iscorrect": true
+          },
+          {
+            "definition": "记录；记载",
+            "iscorrect": false
+          },
+          {
+            "definition": "再次引用；援引",
+            "iscorrect": false
+          },
+          {
+            "definition": "重复；重说",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gulf",
+      "error_analysis": "学生易因形近词“gull”（海鸥）或“gulp”（吞咽）的干扰误判“gulf”词义。",
+      "sentence": "The ship sailed into the **gulf** and anchored near the coast.",
+      "options": {
+        "option": [
+          {
+            "definition": "海鸥",
+            "iscorrect": false
+          },
+          {
+            "definition": "吞咽",
+            "iscorrect": false
+          },
+          {
+            "definition": "海湾；鸿沟",
+            "iscorrect": true
+          },
+          {
+            "definition": "高尔夫",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

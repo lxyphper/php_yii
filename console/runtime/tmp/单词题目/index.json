@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "index",
+      "error_analysis": "学生易因与“indicate”同根而将“index”误理解为“指示”。",
+      "sentence": "To find the page for \"photosynthesis,\" look up the **index** at the back of your textbook.",
+      "options": {
+        "option": [
+          {
+            "definition": "（书或文件的）索引",
+            "iscorrect": true
+          },
+          {
+            "definition": "指示",
+            "iscorrect": false
+          },
+          {
+            "definition": "确实",
+            "iscorrect": false
+          },
+          {
+            "definition": "目录",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Saudi Arabia",
+      "error_analysis": "因“Saudi”与“sandy”（多沙的）发音及拼写相近，易误理解为“多沙的阿拉伯地区”而非正确国名“沙特阿拉伯”",
+      "sentence": "Many people travel to **Saudi Arabia** to visit the holy city of Mecca during the annual Hajj pilgrimage.",
+      "options": {
+        "option": [
+          {
+            "definition": "沙特阿拉伯（亚洲西南部的主权国家）",
+            "iscorrect": true
+          },
+          {
+            "definition": "多沙的阿拉伯半岛地区",
+            "iscorrect": false
+          },
+          {
+            "definition": "研究阿拉伯文化的学者群体",
+            "iscorrect": false
+          },
+          {
+            "definition": "阿拉伯半岛的传统游牧部落",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

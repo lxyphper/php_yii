@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pulsar",
+      "error_analysis": "学生易因形近词\"pulse\"（脉冲）和词根\"puls-\"（跳动）的误导，将\"pulsar\"误解为电子/医疗设备，而非天文天体\"脉冲星\"。",
+      "sentence": "Astronomers detected a **pulsar** in the distant galaxy, which emits regular radio waves every 0.3 seconds.",
+      "options": {
+        "option": [
+          {
+            "definition": "脉冲星（一种发射周期性脉冲信号的天体）",
+            "iscorrect": true
+          },
+          {
+            "definition": "脉冲发生器（一种产生脉冲信号的电子设备）",
+            "iscorrect": false
+          },
+          {
+            "definition": "脉搏监测仪（测量脉搏的医疗设备）",
+            "iscorrect": false
+          },
+          {
+            "definition": "极地卫星（围绕极地运行的人造卫星）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

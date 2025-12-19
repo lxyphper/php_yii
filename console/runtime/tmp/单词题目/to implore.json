@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to implore",
+      "error_analysis": "学生易将“implore”与形近词“explore”（探索）混淆，或错误联想为“寻找”。",
+      "sentence": "The mother fell to her knees and **implored** the doctor to save her dying child.",
+      "options": {
+        "option": [
+          {
+            "definition": "探索；探究",
+            "iscorrect": false
+          },
+          {
+            "definition": "植入；嵌入",
+            "iscorrect": false
+          },
+          {
+            "definition": "暗示；隐含",
+            "iscorrect": false
+          },
+          {
+            "definition": "恳求；哀求",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

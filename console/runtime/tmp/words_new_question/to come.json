@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to come",
+      "error_analysis": "学生常因移动方向混淆，将“come”（来，朝向说话者方向）误判为“去”（go，远离说话者方向），或因形近词“some”误理解为“一些”。",
+      "sentence": "Please **come** to the living room; I have something to show you.",
+      "options": {
+        "option": [
+          {
+            "definition": "来（朝向说话者或指定方向移动）",
+            "iscorrect": true
+          },
+          {
+            "definition": "去（远离说话者或指定方向移动）",
+            "iscorrect": false
+          },
+          {
+            "definition": "成为（变成某种状态或身份）",
+            "iscorrect": false
+          },
+          {
+            "definition": "一些（表示不定数量的代词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

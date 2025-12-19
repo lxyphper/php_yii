@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "virtue",
+      "error_analysis": "易因形近词\"virtual\"（虚拟的）混淆词义，或因词根\"virtus\"（力量）误判为\"力量\"",
+      "sentence": "Patience is often seen as a key **virtue** for building strong relationships.",
+      "options": {
+        "option": [
+          {
+            "definition": "美德；优点",
+            "iscorrect": true
+          },
+          {
+            "definition": "虚拟的；事实上的",
+            "iscorrect": false
+          },
+          {
+            "definition": "力量；活力",
+            "iscorrect": false
+          },
+          {
+            "definition": "病毒；病原体",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

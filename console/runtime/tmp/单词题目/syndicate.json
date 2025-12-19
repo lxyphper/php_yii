@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "syndicate",
+      "error_analysis": "学生易将\"syndicate\"与形近词\"syndrome\"（综合征）混淆，或误猜为医学相关术语",
+      "sentence": "The oil companies formed a **syndicate** to regulate the supply and price of crude oil in the region.",
+      "options": {
+        "option": [
+          {
+            "definition": "辛迪加（企业联合组织）",
+            "iscorrect": true
+          },
+          {
+            "definition": "综合征（医学上的病症集合）",
+            "iscorrect": false
+          },
+          {
+            "definition": "联合命令机构（由共同命令组成的组织）",
+            "iscorrect": false
+          },
+          {
+            "definition": "教育联盟（学校或教育机构的联合）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

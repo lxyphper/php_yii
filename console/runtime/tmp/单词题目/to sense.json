@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to sense",
+      "error_analysis": "中国学生易因形近词“send”（发送）或名词“sense”（意义）的字面联想，将动词“to sense”误判为“发送”或“赋予意义”。",
+      "sentence": "She could **sense** the tension in the room as soon as she walked in.",
+      "options": {
+        "option": [
+          {
+            "definition": "感觉到；觉察到",
+            "iscorrect": true
+          },
+          {
+            "definition": "发送；传送",
+            "iscorrect": false
+          },
+          {
+            "definition": "赋予意义；使有道理",
+            "iscorrect": false
+          },
+          {
+            "definition": "看见；目睹",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

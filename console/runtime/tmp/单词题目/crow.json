@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "crow",
+      "error_analysis": "中国学生易因形近词“cow”（奶牛）的拼写相似，将“crow”误理解为“奶牛”。",
+      "sentence": "The black **crow** perched on the fence and cawed loudly.",
+      "options": {
+        "option": [
+          {
+            "definition": "奶牛",
+            "iscorrect": false
+          },
+          {
+            "definition": "乌鸦",
+            "iscorrect": true
+          },
+          {
+            "definition": "人群",
+            "iscorrect": false
+          },
+          {
+            "definition": "生长",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

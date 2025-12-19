@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pottery",
+      "error_analysis": "学生易因“pot”（锅）的形近联想或“-ery”表示场所/过程的词根误导，将“pottery”错误理解为“锅具”或“陶器店/制作锅的过程”。",
+      "sentence": "The artisan displayed her handmade **pottery** at the local craft fair, including bowls, cups, and vases.",
+      "options": {
+        "option": [
+          {
+            "definition": "锅具（pots的复数）",
+            "iscorrect": false
+          },
+          {
+            "definition": "陶器店",
+            "iscorrect": false
+          },
+          {
+            "definition": "陶器（总称）",
+            "iscorrect": true
+          },
+          {
+            "definition": "制作锅的过程",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

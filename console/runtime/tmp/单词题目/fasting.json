@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fasting",
+      "error_analysis": "学生易因形近词\"fast\"（快的）误解为\"快速行动\"，或因\"fast\"的\"牢固\"义误解为\"牢固连接\"",
+      "sentence": "Many Muslims observe **fasting** from dawn to dusk during Ramadan.",
+      "options": {
+        "option": [
+          {
+            "definition": "快速行动",
+            "iscorrect": false
+          },
+          {
+            "definition": "牢固的固定",
+            "iscorrect": false
+          },
+          {
+            "definition": "禁食（的行为或状态）",
+            "iscorrect": true
+          },
+          {
+            "definition": "快速的事物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

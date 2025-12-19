@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to snore",
+      "error_analysis": "学生易因形近词‘sore’（疼痛的）误解为‘疼痛’，或因‘sn-’词首猜成‘打喷嚏’等错误呼吸动作。",
+      "sentence": "My dad always **snores** loudly when he’s tired, which keeps my mom awake at night.",
+      "options": {
+        "option": [
+          {
+            "definition": "打鼾",
+            "iscorrect": true
+          },
+          {
+            "definition": "感到疼痛",
+            "iscorrect": false
+          },
+          {
+            "definition": "打喷嚏",
+            "iscorrect": false
+          },
+          {
+            "definition": "存储（东西）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

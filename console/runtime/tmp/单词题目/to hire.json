@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to hire",
+      "error_analysis": "学生易因形近词“fire”（解雇）混淆“hire”的核心含义（雇佣），或误将其引申义“出租”当作核心含义",
+      "sentence": "The startup plans to **hire** five new engineers next month to develop its new product.",
+      "options": {
+        "option": [
+          {
+            "definition": "雇佣；聘用",
+            "iscorrect": true
+          },
+          {
+            "definition": "解雇；开除",
+            "iscorrect": false
+          },
+          {
+            "definition": "出租；租用",
+            "iscorrect": false
+          },
+          {
+            "definition": "提高；升高",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

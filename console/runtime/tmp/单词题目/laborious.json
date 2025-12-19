@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "laborious",
+      "error_analysis": "学生易因词根\"labor\"(劳动)误将\"laborious\"理解为\"勤劳的\"，或因形近\"laboratory\"(实验室)误判为\"与实验相关的\"",
+      "sentence": "Writing a 20-page research paper with extensive data analysis is a **laborious** task that requires weeks of focused work.",
+      "options": {
+        "option": [
+          {
+            "definition": "费力的；繁琐的",
+            "iscorrect": true
+          },
+          {
+            "definition": "勤劳的；勤奋的",
+            "iscorrect": false
+          },
+          {
+            "definition": "实验室的；与实验相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "简单的；容易的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

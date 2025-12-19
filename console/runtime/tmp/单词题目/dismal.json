@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dismal",
+      "error_analysis": "易因与'moral'拼写接近且含'dis-'前缀误为'不道德的'，或因与'dismiss'拼写接近误为'解雇'",
+      "sentence": "The company's sales figures for this quarter are **dismal**; they're down by 30%.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人沮丧的；糟糕的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不道德的",
+            "iscorrect": false
+          },
+          {
+            "definition": "解雇",
+            "iscorrect": false
+          },
+          {
+            "definition": "活跃的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

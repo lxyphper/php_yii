@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tension",
+      "error_analysis": "中国学生易因形近词`tent`（帐篷）误判为“帐篷（复数）”，或因词根`tens-`（拉伸）猜测为“延伸”。",
+      "sentence": "The **tension** between the two countries increased significantly after the border conflict.",
+      "options": {
+        "option": [
+          {
+            "definition": "紧张（状态）",
+            "iscorrect": true
+          },
+          {
+            "definition": "帐篷（复数）",
+            "iscorrect": false
+          },
+          {
+            "definition": "延伸",
+            "iscorrect": false
+          },
+          {
+            "definition": "时态",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

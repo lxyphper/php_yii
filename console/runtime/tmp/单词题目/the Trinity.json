@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "the Trinity",
+      "error_analysis": "学生易因\"tri-\"（三）的词根联想，将\"the Trinity\"误判为一般的\"三个一组的事物\"，忽略其作为基督教\"三位一体\"的专有含义",
+      "sentence": "In Christian theology, **the Trinity** is the central doctrine that God exists as three coequal persons—Father, Son, and Holy Spirit—united in one divine essence.",
+      "options": {
+        "option": [
+          {
+            "definition": "基督教中的圣父、圣子、圣灵三位一体（核心教义）",
+            "iscorrect": true
+          },
+          {
+            "definition": "三个独立的事物组成的集合",
+            "iscorrect": false
+          },
+          {
+            "definition": "三个相关的概念或物体的组合",
+            "iscorrect": false
+          },
+          {
+            "definition": "三角形的几何结构或形状",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "care",
+      "error_analysis": "中国学生易因形近词“car”（汽车）将“care”错误联想为“汽车”，或误将其名词含义“照顾”混淆为“小心”。",
+      "sentence": "The nurse provides excellent **care** to all her patients.",
+      "options": {
+        "option": [
+          {
+            "definition": "照顾",
+            "iscorrect": true
+          },
+          {
+            "definition": "汽车",
+            "iscorrect": false
+          },
+          {
+            "definition": "小心",
+            "iscorrect": false
+          },
+          {
+            "definition": "驾驶",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rainstorm",
+      "error_analysis": "学生易因形近词（如rainbow/raincoat）混淆词义，或因词根拆分误将“rainstorm”理解为轻微阵雨。",
+      "sentence": "The city was flooded after a severe **rainstorm** hit last night.",
+      "options": {
+        "option": [
+          {
+            "definition": "彩虹",
+            "iscorrect": false
+          },
+          {
+            "definition": "阵雨",
+            "iscorrect": false
+          },
+          {
+            "definition": "暴雨；暴风雨",
+            "iscorrect": true
+          },
+          {
+            "definition": "雨衣",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

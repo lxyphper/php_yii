@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to demoralize",
+      "error_analysis": "易混淆形近词'demolish'(拆除)或误由词根'moral'推导为'使不道德'",
+      "sentence": "The repeated failures in the competition began to **demoralize** the team, making many players consider quitting.",
+      "options": {
+        "option": [
+          {
+            "definition": "使士气低落；使泄气",
+            "iscorrect": true
+          },
+          {
+            "definition": "拆除；摧毁",
+            "iscorrect": false
+          },
+          {
+            "definition": "使不道德；败坏道德",
+            "iscorrect": false
+          },
+          {
+            "definition": "使困惑；使迷惑",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

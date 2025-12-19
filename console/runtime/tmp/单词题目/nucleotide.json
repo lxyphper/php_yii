@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nucleotide",
+      "error_analysis": "中国学生易因形近词“nucleus”（细胞核）误解为细胞核相关结构，或因词根“-tide”联想“潮汐”而误判词义。",
+      "sentence": "DNA is made up of four types of **nucleotides**, each containing a different nitrogenous base: adenine, thymine, cytosine, and guanine.",
+      "options": {
+        "option": [
+          {
+            "definition": "细胞核的核心结构成分",
+            "iscorrect": false
+          },
+          {
+            "definition": "与潮汐相关的核现象",
+            "iscorrect": false
+          },
+          {
+            "definition": "构成DNA或RNA的基本结构单位（核苷酸）",
+            "iscorrect": true
+          },
+          {
+            "definition": "核仁中的微小颗粒物质",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

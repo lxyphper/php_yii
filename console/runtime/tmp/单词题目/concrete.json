@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "concrete",
+      "error_analysis": "易因形近词“concert”（音乐会）干扰或仅掌握名词“混凝土”而忽略形容词“具体的”的核心义",
+      "sentence": "The manager wants a **concrete** plan, not just empty promises.",
+      "options": {
+        "option": [
+          {
+            "definition": "具体的",
+            "iscorrect": true
+          },
+          {
+            "definition": "音乐会",
+            "iscorrect": false
+          },
+          {
+            "definition": "混凝土",
+            "iscorrect": false
+          },
+          {
+            "definition": "共同创造",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

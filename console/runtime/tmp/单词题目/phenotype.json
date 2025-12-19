@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "phenotype",
+      "error_analysis": "易因形近词\"phenomenon\"（现象）干扰，或词根\"pheno-\"(显示)+\"-type\"(类型)的错误联想，将其误解为\"现象\"或\"显示的类型\"而非生物学术语\"表型\"。",
+      "sentence": "The **phenotype** of the mouse, including its fur color and size, is a result of both its genetic makeup and the conditions it lives in.",
+      "options": {
+        "option": [
+          {
+            "definition": "（生物的）表型；表现型",
+            "iscorrect": true
+          },
+          {
+            "definition": "现象；事件",
+            "iscorrect": false
+          },
+          {
+            "definition": "显示的类型；外观样式",
+            "iscorrect": false
+          },
+          {
+            "definition": "基因组成；基因型",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

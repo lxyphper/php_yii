@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "width",
+      "error_analysis": "学生易因形近词“wit”（智慧）产生误判，或混淆“wide”（宽的）与“width”（宽度）的词性导致理解错误",
+      "sentence": "The table has a **width** of 1.2 meters, so it can fit two chairs side by side.",
+      "options": {
+        "option": [
+          {
+            "definition": "智慧",
+            "iscorrect": false
+          },
+          {
+            "definition": "宽的",
+            "iscorrect": false
+          },
+          {
+            "definition": "深度",
+            "iscorrect": false
+          },
+          {
+            "definition": "宽度",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

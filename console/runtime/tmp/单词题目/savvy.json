@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "savvy",
+      "error_analysis": "易因形近词\"save\"（节省/拯救）误判为\"节省的\"，或与\"savage\"（野蛮的）混淆导致理解错误",
+      "sentence": "As a seasoned investor, she is **savvy** about market trends and rarely makes bad decisions.",
+      "options": {
+        "option": [
+          {
+            "definition": "有见识的；懂行的",
+            "iscorrect": true
+          },
+          {
+            "definition": "节省的",
+            "iscorrect": false
+          },
+          {
+            "definition": "野蛮的",
+            "iscorrect": false
+          },
+          {
+            "definition": "虚弱的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

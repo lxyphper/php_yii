@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "Internet",
+      "the interent",
+      "the intranet",
+      "the internat",
+      "the intarnet"
+    ],
+    "correct_chunks": [
+      "the",
+      "inter",
+      "net"
+    ],
+    "distractor_chunks": [
+      "intra",
+      "ent",
+      "nat",
+      "intar"
+    ]
+  },
+  0
+]

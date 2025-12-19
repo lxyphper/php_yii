@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "German",
+      "error_analysis": "学生易因形近词\"germ\"（细菌）将\"German\"误理解为\"细菌的\"。",
+      "sentence": "The **German** football team is famous for its strong defense in international matches.",
+      "options": {
+        "option": [
+          {
+            "definition": "德国的；德国人；德语",
+            "iscorrect": true
+          },
+          {
+            "definition": "细菌的",
+            "iscorrect": false
+          },
+          {
+            "definition": "动名词的",
+            "iscorrect": false
+          },
+          {
+            "definition": "萌芽的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

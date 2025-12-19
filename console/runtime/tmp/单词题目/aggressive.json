@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "aggressive",
+      "error_analysis": "中国学生易因形近词\"progressive\"的\"-gressive\"后缀或词根\"ag-\"加\"-ive\"的字面推导，将\"aggressive\"误解为\"进步的\"或\"积极的\"。",
+      "sentence": "The dog became **aggressive** when a stranger tried to touch its food.",
+      "options": {
+        "option": [
+          {
+            "definition": "攻击性的；强势的",
+            "iscorrect": true
+          },
+          {
+            "definition": "进步的",
+            "iscorrect": false
+          },
+          {
+            "definition": "积极的",
+            "iscorrect": false
+          },
+          {
+            "definition": "痛苦的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

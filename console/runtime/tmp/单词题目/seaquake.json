@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "seaquake",
+      "error_analysis": "中国学生易因形近词\"seasick\"（晕船）或混淆\"seaquake\"（原因）与\"海啸\"（结果）而错误理解词义",
+      "sentence": "Scientists detected a powerful **seaquake** off the coast of Japan, which later triggered a small tsunami.",
+      "options": {
+        "option": [
+          {
+            "definition": "海底地震",
+            "iscorrect": true
+          },
+          {
+            "definition": "晕船",
+            "iscorrect": false
+          },
+          {
+            "definition": "海啸",
+            "iscorrect": false
+          },
+          {
+            "definition": "海上风暴",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

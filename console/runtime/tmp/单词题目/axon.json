@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "axon",
+      "error_analysis": "易因形近词“axle”（机械轴）或词根“ax-”的泛化理解，将“神经轴突”误判为“机械轴”或“轴状物”。",
+      "sentence": "The **axon** of a neuron transmits electrical signals from the cell body to other nerve cells or muscles.",
+      "options": {
+        "option": [
+          {
+            "definition": "机械或车辆上的轴",
+            "iscorrect": false
+          },
+          {
+            "definition": "神经细胞的长突起（轴突）",
+            "iscorrect": true
+          },
+          {
+            "definition": "植物的茎或枝条",
+            "iscorrect": false
+          },
+          {
+            "definition": "行动或活动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

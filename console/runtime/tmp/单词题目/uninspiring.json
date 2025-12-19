@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "uninspiring",
+      "error_analysis": "学生易混淆形近词“uninspired”（缺乏创意的）与“uninspiring”（不激励人的），或通过词根“inspire”（吸气）字面推导为“不吸气的”",
+      "sentence": "The manager's speech was so **uninspiring** that most employees left the meeting feeling bored and unmotivated.",
+      "options": {
+        "option": [
+          {
+            "definition": "不激励人的；乏味的",
+            "iscorrect": true
+          },
+          {
+            "definition": "缺乏创意的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不吸气的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不令人印象深刻的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

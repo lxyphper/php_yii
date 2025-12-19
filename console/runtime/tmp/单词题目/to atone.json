@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to atone",
+      "error_analysis": "学生易因形近词\"tone\"（音调）错误联想为\"调整音调\"或\"改变语气\"",
+      "sentence": "After realizing his mistake, he decided to **atone** for his actions by apologizing to everyone he hurt.",
+      "options": {
+        "option": [
+          {
+            "definition": "赎罪；弥补",
+            "iscorrect": true
+          },
+          {
+            "definition": "调整音调；改变语气",
+            "iscorrect": false
+          },
+          {
+            "definition": "加强语气；强调",
+            "iscorrect": false
+          },
+          {
+            "definition": "独自行动；单独做",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

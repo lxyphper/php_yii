@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "breach",
+      "error_analysis": "中国学生易因形近词“beach”（海滩）或与“break”（打破）的词根联系，误判“breach”的核心含义。",
+      "sentence": "The company was fined for **breaching** the environmental regulations.",
+      "options": {
+        "option": [
+          {
+            "definition": "海滩",
+            "iscorrect": false
+          },
+          {
+            "definition": "打破（物体等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "违反（规则/协议等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "呼吸",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

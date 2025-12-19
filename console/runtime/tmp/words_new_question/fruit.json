@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fruit",
+      "error_analysis": "学生易因形近词“fry”（炸）或派生词“fruitful”（成果多的）的影响，将“fruit”的核心义（水果）误理解为“炸物”或“成果”。",
+      "sentence": "My mom bought some **fruit** from the supermarket, like apples and bananas.",
+      "options": {
+        "option": [
+          {
+            "definition": "水果",
+            "iscorrect": true
+          },
+          {
+            "definition": "成果",
+            "iscorrect": false
+          },
+          {
+            "definition": "炸物",
+            "iscorrect": false
+          },
+          {
+            "definition": "蔬菜",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

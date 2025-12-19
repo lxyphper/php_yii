@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "angry",
+      "error_analysis": "中国学生易因形近词\"hungry\"（饥饿的）的拼写相似性，将\"angry\"误判为\"饥饿的\"",
+      "sentence": "When his sister broke his favorite toy, Tom became **angry** and refused to talk to her.",
+      "options": {
+        "option": [
+          {
+            "definition": "生气的",
+            "iscorrect": true
+          },
+          {
+            "definition": "饥饿的",
+            "iscorrect": false
+          },
+          {
+            "definition": "焦虑的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无聊的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "contrite",
+      "error_analysis": "易因形近词\"content\"（满足的）产生混淆，或因词根\"contra-\"（相反）误判为\"相反的\"",
+      "sentence": "After realizing he had hurt his friend’s feelings, Tom looked **contrite** and apologized repeatedly.",
+      "options": {
+        "option": [
+          {
+            "definition": "满足的；满意的",
+            "iscorrect": false
+          },
+          {
+            "definition": "相反的；对抗的",
+            "iscorrect": false
+          },
+          {
+            "definition": "懊悔的；悔恨的",
+            "iscorrect": true
+          },
+          {
+            "definition": "自信的；有信心的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

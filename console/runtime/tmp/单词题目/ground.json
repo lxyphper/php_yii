@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ground",
+      "error_analysis": "学生易因形近词\"round\"（圆的）或词根联想误将\"ground\"理解为\"圆的\"或\"基础\"，而非最核心的\"地面\"。",
+      "sentence": "The child dropped his toy car on the **ground** and started crying.",
+      "options": {
+        "option": [
+          {
+            "definition": "地面",
+            "iscorrect": true
+          },
+          {
+            "definition": "圆的",
+            "iscorrect": false
+          },
+          {
+            "definition": "基础",
+            "iscorrect": false
+          },
+          {
+            "definition": "草",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

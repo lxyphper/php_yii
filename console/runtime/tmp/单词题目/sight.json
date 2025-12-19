@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sight",
+      "error_analysis": "学生易因形近词`sigh`（叹气）或`site`（地点）的干扰，误将`sight`理解为“叹气”或“地点”。",
+      "sentence": "The old man's **sight** was so poor that he could barely recognize his grandchildren.",
+      "options": {
+        "option": [
+          {
+            "definition": "叹气",
+            "iscorrect": false
+          },
+          {
+            "definition": "地点",
+            "iscorrect": false
+          },
+          {
+            "definition": "视力",
+            "iscorrect": true
+          },
+          {
+            "definition": "看的动作",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

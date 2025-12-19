@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "determiner",
+      "error_analysis": "学生易将\"determiner\"误理解为\"决定者\"（来自形近词\"determine\"的词根联想）",
+      "sentence": "In the sentence 'I bought a book', the word 'a' is a **determiner** that indicates the number of the noun 'book'.",
+      "options": {
+        "option": [
+          {
+            "definition": "限定词（语法术语，用于修饰名词的词，如a, the, some等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "决定者；决策者（如公司的重要决定者）",
+            "iscorrect": false
+          },
+          {
+            "definition": "决定因素；决定性事物（如成功的决定因素）",
+            "iscorrect": false
+          },
+          {
+            "definition": "测定器；检测仪（如测量温度的工具）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

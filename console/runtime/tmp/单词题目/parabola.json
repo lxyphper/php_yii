@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "parabola",
+      "error_analysis": "学生易因形近词“parable”（寓言）混淆，或因“para-”前缀错误联想为“抛射物”类含义。",
+      "sentence": "When you throw a ball into the air, its path creates a **parabola**—a smooth U-shaped curve studied in math and physics.",
+      "options": {
+        "option": [
+          {
+            "definition": "寓言（含有道德教训的短故事）",
+            "iscorrect": false
+          },
+          {
+            "definition": "抛射物（被投掷或发射的物体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "抛物线（数学/物理中的U型曲线）",
+            "iscorrect": true
+          },
+          {
+            "definition": "段落（文章中由句子组成的节）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

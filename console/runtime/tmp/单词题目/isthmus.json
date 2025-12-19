@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "isthmus",
+      "error_analysis": "学生易因形近词“island”（岛屿）混淆，或因“mus”词根误猜为“肌肉组织”",
+      "sentence": "The Panama **isthmus** connects North America and South America, allowing travel between the two continents without crossing the ocean.",
+      "options": {
+        "option": [
+          {
+            "definition": "连接两大陆地的狭窄陆地",
+            "iscorrect": true
+          },
+          {
+            "definition": "被水环绕的小块陆地",
+            "iscorrect": false
+          },
+          {
+            "definition": "人体中的肌肉组织",
+            "iscorrect": false
+          },
+          {
+            "definition": "连接两片海洋的狭窄水道",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

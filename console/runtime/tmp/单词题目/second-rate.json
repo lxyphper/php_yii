@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "second-rate",
+      "error_analysis": "学生易因\"second\"(第二)和\"rate\"(等级)的字面拆分，将\"second-rate\"误判为中性的\"第二等级的\"，而非贬义的\"二流的\"。",
+      "sentence": "The movie received poor reviews because of its **second-rate** acting and predictable plot.",
+      "options": {
+        "option": [
+          {
+            "definition": "二流的；劣质的",
+            "iscorrect": true
+          },
+          {
+            "definition": "第二等级的",
+            "iscorrect": false
+          },
+          {
+            "definition": "二手的",
+            "iscorrect": false
+          },
+          {
+            "definition": "中等的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

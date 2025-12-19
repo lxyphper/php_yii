@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "envy",
+      "error_analysis": "中国学生易因\"envy\"与基础词\"enemy\"（敌人）形近或词根\"看\"的字面误导，误判其义为\"敌人\"或\"注视\"。",
+      "sentence": "She couldn't hide her **envy** when she saw her friend's new car.",
+      "options": {
+        "option": [
+          {
+            "definition": "羡慕；妒忌",
+            "iscorrect": true
+          },
+          {
+            "definition": "敌人",
+            "iscorrect": false
+          },
+          {
+            "definition": "注视",
+            "iscorrect": false
+          },
+          {
+            "definition": "入口",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

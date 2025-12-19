@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to ghost",
+      "error_analysis": "中国学生易因\"ghost\"的名词义（鬼魂）猜测动词为\"扮鬼\"或\"像鬼魂一样动作\"，而非正确的\"突然停止联系\"。",
+      "sentence": "After their argument, she **ghosted** him—he never heard from her again.",
+      "options": {
+        "option": [
+          {
+            "definition": "突然停止和某人联系",
+            "iscorrect": true
+          },
+          {
+            "definition": "扮成鬼魂",
+            "iscorrect": false
+          },
+          {
+            "definition": "像鬼魂一样悄悄移动",
+            "iscorrect": false
+          },
+          {
+            "definition": "使某地闹鬼",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

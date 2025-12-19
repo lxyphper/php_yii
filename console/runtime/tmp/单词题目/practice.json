@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "practice",
+      "error_analysis": "混淆名词\"practice\"与动词\"practise\"的词性，或忽略其\"惯例/做法\"的名词含义",
+      "sentence": "In many Western countries, it's a standard **practice** to tip waiters after a meal.",
+      "options": {
+        "option": [
+          {
+            "definition": "练习（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "惯例（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "说教",
+            "iscorrect": false
+          },
+          {
+            "definition": "实践",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

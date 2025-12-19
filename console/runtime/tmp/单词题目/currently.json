@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "currently",
+      "error_analysis": "学生易因形近词“curiously”（好奇地）误判“currently”为“好奇地”，或因词根“跑”误为“快速地”，或与“usually”（通常地）混淆",
+      "sentence": "She is **currently** working on a new novel that will be published next year.",
+      "options": {
+        "option": [
+          {
+            "definition": "目前，现在",
+            "iscorrect": true
+          },
+          {
+            "definition": "好奇地",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速地",
+            "iscorrect": false
+          },
+          {
+            "definition": "通常地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

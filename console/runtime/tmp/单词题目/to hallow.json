@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to hallow",
+      "error_analysis": "易受形近词“hollow”（空洞的）干扰，或因“hall”（大厅）字面联想误判为“装饰大厅”",
+      "sentence": "The villagers have always believed that the ancient oak tree is a **hallowed** site, where they gather to pray during festivals.",
+      "options": {
+        "option": [
+          {
+            "definition": "使神圣；奉为神圣",
+            "iscorrect": true
+          },
+          {
+            "definition": "使空洞；变空虚",
+            "iscorrect": false
+          },
+          {
+            "definition": "装饰大厅；布置礼堂",
+            "iscorrect": false
+          },
+          {
+            "definition": "使寒冷；变冰凉",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "overindulgent",
+      "error_analysis": "学生易将“overindulgent”通过形近词“overindependent”错解为“过度独立的”，或通过词根“indulge”错解为“过度沉迷的”。",
+      "sentence": "The grandparents were **overindulgent** with their granddaughter, allowing her to eat ice cream for breakfast every day.",
+      "options": {
+        "option": [
+          {
+            "definition": "过度纵容的",
+            "iscorrect": true
+          },
+          {
+            "definition": "过度独立的",
+            "iscorrect": false
+          },
+          {
+            "definition": "过度沉迷的",
+            "iscorrect": false
+          },
+          {
+            "definition": "过度严厉的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pixel",
+      "error_analysis": "学生易因形近词“particle”（粒子）或词根“picture element”的过度推导，将“pixel”误判为物理粒子或图片的任意部分。",
+      "sentence": "When you zoom in on a digital photo too much, you can see individual **pixels** as small, blocky squares.",
+      "options": {
+        "option": [
+          {
+            "definition": "像素（数字图像的最小显示单位）",
+            "iscorrect": true
+          },
+          {
+            "definition": "粒子（物理/化学中的微小颗粒）",
+            "iscorrect": false
+          },
+          {
+            "definition": "图片元素（图片的任意组成部分）",
+            "iscorrect": false
+          },
+          {
+            "definition": "分辨率（图像的清晰程度）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

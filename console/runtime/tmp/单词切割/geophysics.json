@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "jeophysics",
+      "geofysics",
+      "geopysics",
+      "geohysics",
+      "geaophysics"
+    ],
+    "correct_chunks": [
+      "geo",
+      "phys",
+      "ics"
+    ],
+    "distractor_chunks": [
+      "jeo",
+      "fys",
+      "pys",
+      "hys",
+      "gea"
+    ]
+  },
+  0
+]

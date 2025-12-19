@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "issue",
+      "error_analysis": "学生易将“issue”与形近词“tissue”（纸巾）混淆，或误按词根“出来”推导为“出口”而非其核心义“问题”。",
+      "sentence": "One of the most pressing **issue**s we need to solve is the shortage of affordable housing.",
+      "options": {
+        "option": [
+          {
+            "definition": "纸巾",
+            "iscorrect": false
+          },
+          {
+            "definition": "出口",
+            "iscorrect": false
+          },
+          {
+            "definition": "问题",
+            "iscorrect": true
+          },
+          {
+            "definition": "事件",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

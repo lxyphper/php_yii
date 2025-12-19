@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "thigh",
+      "error_analysis": "学生易因形近词\"high\"（高的）或\"thief\"（小偷）的拼写/发音相似而误判\"thigh\"的词义",
+      "sentence": "She fell off the bike and hurt her **thigh** badly, so she couldn't walk for a week.",
+      "options": {
+        "option": [
+          {
+            "definition": "大腿",
+            "iscorrect": true
+          },
+          {
+            "definition": "高的",
+            "iscorrect": false
+          },
+          {
+            "definition": "小偷",
+            "iscorrect": false
+          },
+          {
+            "definition": "紧的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

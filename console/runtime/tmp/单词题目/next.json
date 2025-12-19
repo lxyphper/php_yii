@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "next",
+      "error_analysis": "中国学生易因形近词“nest”（巢穴）干扰，或误将“next”理解为“近的”（near）而犯错。",
+      "sentence": "The **next** train to Beijing will arrive in 10 minutes.",
+      "options": {
+        "option": [
+          {
+            "definition": "巢穴",
+            "iscorrect": false
+          },
+          {
+            "definition": "近的",
+            "iscorrect": false
+          },
+          {
+            "definition": "网",
+            "iscorrect": false
+          },
+          {
+            "definition": "下一个的；紧接着的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "meeting",
+      "error_analysis": "中国学生易因形近词“meat”（肉）产生干扰，或因词根“meet”（遇见）字面误导，将“meeting”误理解为“肉类食品”或“遇见的动作”。",
+      "sentence": "Our team will have a **meeting** tomorrow to discuss the new project.",
+      "options": {
+        "option": [
+          {
+            "definition": "会议",
+            "iscorrect": true
+          },
+          {
+            "definition": "肉类食品",
+            "iscorrect": false
+          },
+          {
+            "definition": "遇见的动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "满足的状态",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

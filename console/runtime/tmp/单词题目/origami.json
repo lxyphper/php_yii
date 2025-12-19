@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "origami",
+      "error_analysis": "学生易因形近词“origin”（起源）或“organic”（有机的）误联想，或拆分“gami”部分误解为与“游戏”（game）相关的概念。",
+      "sentence": "At the cultural fair, the students displayed beautiful **origami** cranes and flowers made from colored paper.",
+      "options": {
+        "option": [
+          {
+            "definition": "起源研究",
+            "iscorrect": false
+          },
+          {
+            "definition": "纸制游戏",
+            "iscorrect": false
+          },
+          {
+            "definition": "折纸艺术；折纸作品",
+            "iscorrect": true
+          },
+          {
+            "definition": "有机材料",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

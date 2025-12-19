@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rainwater",
+      "error_analysis": "学生易因形近词“rainfall”（降雨量）混淆，或拆词后误将“rainwater”理解为“雨水的总量”",
+      "sentence": "Many people in dry areas collect **rainwater** in large barrels to use for watering plants.",
+      "options": {
+        "option": [
+          {
+            "definition": "降雨量",
+            "iscorrect": false
+          },
+          {
+            "definition": "雨水的总量",
+            "iscorrect": false
+          },
+          {
+            "definition": "地下水",
+            "iscorrect": false
+          },
+          {
+            "definition": "雨水（指落下的雨水）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

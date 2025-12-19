@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gourmet",
+      "error_analysis": "中国学生易因形近词（如gourmand，贪吃的人）或词义误解（将其理解为食物/厨师）而错误判断该词含义",
+      "sentence": "As a **gourmet**, she always travels to different cities to try authentic local dishes at award-winning restaurants.",
+      "options": {
+        "option": [
+          {
+            "definition": "贪吃的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "美食家（讲究的食客）",
+            "iscorrect": true
+          },
+          {
+            "definition": "厨师",
+            "iscorrect": false
+          },
+          {
+            "definition": "美味的食物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

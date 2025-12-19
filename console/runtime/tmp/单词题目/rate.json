@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rate",
+      "error_analysis": "学生易混淆形近词“race”（比赛）或误将“rate”的“比率”义理解为“速度”（speed）",
+      "sentence": "The unemployment **rate** in our country is expected to fall next year.",
+      "options": {
+        "option": [
+          {
+            "definition": "比率",
+            "iscorrect": true
+          },
+          {
+            "definition": "比赛",
+            "iscorrect": false
+          },
+          {
+            "definition": "速度",
+            "iscorrect": false
+          },
+          {
+            "definition": "费用",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

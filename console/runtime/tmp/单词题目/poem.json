@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "poem",
+      "error_analysis": "易因形近词‘poet’（诗人）干扰，误将‘poem’理解为‘诗人’",
+      "sentence": "The teacher asked us to recite a famous **poem** by Li Bai in class.",
+      "options": {
+        "option": [
+          {
+            "definition": "诗歌",
+            "iscorrect": true
+          },
+          {
+            "definition": "诗人",
+            "iscorrect": false
+          },
+          {
+            "definition": "歌词",
+            "iscorrect": false
+          },
+          {
+            "definition": "散文",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

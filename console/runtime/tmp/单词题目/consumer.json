@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "consumer",
+      "error_analysis": "学生易因形近词“consul”（领事）产生混淆，或因词根“sum”（拿）误判为“消耗者”而非“消费者”",
+      "sentence": "The government has introduced new laws to safeguard the interests of **consumers** in the digital market.",
+      "options": {
+        "option": [
+          {
+            "definition": "领事",
+            "iscorrect": false
+          },
+          {
+            "definition": "消费者",
+            "iscorrect": true
+          },
+          {
+            "definition": "消耗者",
+            "iscorrect": false
+          },
+          {
+            "definition": "顾客",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

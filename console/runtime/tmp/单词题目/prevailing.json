@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "prevailing",
+      "error_analysis": "因形近词\"previous\"（之前的）的干扰，易将\"prevailing\"误判为\"之前的\"",
+      "sentence": "The **prevailing** opinion among students is that the school should add more extracurricular activities.",
+      "options": {
+        "option": [
+          {
+            "definition": "流行的；普遍的",
+            "iscorrect": true
+          },
+          {
+            "definition": "之前的；从前的",
+            "iscorrect": false
+          },
+          {
+            "definition": "预先的；提前的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有效的；有价值的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

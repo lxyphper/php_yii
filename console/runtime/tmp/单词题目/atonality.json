@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "atonality",
+      "error_analysis": "学生易因形近词\"atonement\"(赎罪)产生联想，或因词根拆分误理解为\"音调缺失\"，而非音乐术语\"无调性\"。",
+      "sentence": "The composer's use of **atonality** in his latest symphony challenged traditional listeners who were accustomed to clear major or minor keys.",
+      "options": {
+        "option": [
+          {
+            "definition": "（音乐的）无调性",
+            "iscorrect": true
+          },
+          {
+            "definition": "赎罪",
+            "iscorrect": false
+          },
+          {
+            "definition": "音调缺失",
+            "iscorrect": false
+          },
+          {
+            "definition": "音色丰富性",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

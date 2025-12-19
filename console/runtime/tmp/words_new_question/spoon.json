@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "spoon",
+      "error_analysis": "学生易因形近词“soon”（很快）混淆“spoon”的核心词义“勺子”",
+      "sentence": "Please pass me the **spoon**; I want to eat the hot soup.",
+      "options": {
+        "option": [
+          {
+            "definition": "勺子",
+            "iscorrect": true
+          },
+          {
+            "definition": "很快",
+            "iscorrect": false
+          },
+          {
+            "definition": "线轴",
+            "iscorrect": false
+          },
+          {
+            "definition": "吐（唾液）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

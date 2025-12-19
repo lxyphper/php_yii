@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lanky",
+      "error_analysis": "学生易因形近词“link”（联系）或词根“lank”（稀疏）误解“lanky”为“联系紧密的”或“稀疏的”。",
+      "sentence": "The **lanky** basketball player had to duck to enter the small locker room.",
+      "options": {
+        "option": [
+          {
+            "definition": "瘦高的，细长的",
+            "iscorrect": true
+          },
+          {
+            "definition": "稀疏的，不整齐的",
+            "iscorrect": false
+          },
+          {
+            "definition": "联系紧密的",
+            "iscorrect": false
+          },
+          {
+            "definition": "强壮的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

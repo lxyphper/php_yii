@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "test",
+      "error_analysis": "学生易混淆形近词text（文本）或误将test理解为“尝试”（语义联想错误）",
+      "sentence": "The students are preparing for the upcoming English **test** to assess their grammar skills.",
+      "options": {
+        "option": [
+          {
+            "definition": "文本（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "尝试（动词/名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "测试（名词/动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "味道（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

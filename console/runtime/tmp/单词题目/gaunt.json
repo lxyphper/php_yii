@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gaunt",
+      "error_analysis": "学生易因形近词\"grant\"（授予）产生混淆，或误猜为\"巨大的\"（giant拼写干扰）。",
+      "sentence": "After surviving the harsh winter without enough food, the old man’s **gaunt** appearance shocked his neighbors.",
+      "options": {
+        "option": [
+          {
+            "definition": "（人因疾病/饥饿等）憔悴的；消瘦的",
+            "iscorrect": true
+          },
+          {
+            "definition": "授予；同意",
+            "iscorrect": false
+          },
+          {
+            "definition": "巨大的；庞大的",
+            "iscorrect": false
+          },
+          {
+            "definition": "愤怒的；恼火的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

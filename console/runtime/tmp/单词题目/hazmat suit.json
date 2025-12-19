@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hazmat suit",
+      "error_analysis": "学生易因\"mat\"（垫子）的形近联想，或对\"hazmat\"（危险材料缩写）的字面拆分，将\"hazmat suit\"误解为与\"垫子\"或\"危险材料本身\"相关的服装",
+      "sentence": "When the firefighters entered the chemical plant after the explosion, they were all wearing **hazmat suits** to protect themselves from toxic fumes.",
+      "options": {
+        "option": [
+          {
+            "definition": "防化服；危险品处理防护服",
+            "iscorrect": true
+          },
+          {
+            "definition": "带防护垫的工作装",
+            "iscorrect": false
+          },
+          {
+            "definition": "含有危险材料的西装",
+            "iscorrect": false
+          },
+          {
+            "definition": "防烟雾的运动套装",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

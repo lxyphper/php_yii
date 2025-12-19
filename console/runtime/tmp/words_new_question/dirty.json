@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dirty",
+      "error_analysis": "中国学生易因形近词\"diary\"（日记）或\"dairy\"（乳制品）混淆\"dirty\"的核心词义。",
+      "sentence": "After playing in the mud, the kids’ clothes were so **dirty** that their mom had to wash them twice.",
+      "options": {
+        "option": [
+          {
+            "definition": "脏的；污秽的",
+            "iscorrect": true
+          },
+          {
+            "definition": "日记",
+            "iscorrect": false
+          },
+          {
+            "definition": "乳制品",
+            "iscorrect": false
+          },
+          {
+            "definition": "干燥的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

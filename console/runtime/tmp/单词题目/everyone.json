@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "everyone",
+      "error_analysis": "中国学生易混淆“everyone”与“every one”，误将其理解为“每一个（具体的人或物）”，或因词根拆分误理解为“每一个人（强调个体）”。",
+      "sentence": "**Everyone** in the class enjoyed the party last weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "所有人；每个人",
+            "iscorrect": true
+          },
+          {
+            "definition": "每一个（具体的人或物，后面常接of）",
+            "iscorrect": false
+          },
+          {
+            "definition": "每一个人（强调个体差异）",
+            "iscorrect": false
+          },
+          {
+            "definition": "所有事物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

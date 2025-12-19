@@ -1,0 +1,32 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "polygon",
+      "error_analysis": "学生易因形近词（如polyester）误以为是合成材料，或因词根“poly-”（多）误猜为多面体（而非平面多边形）",
+      "sentence": {
+        "b": "polygon"
+      },
+      "options": {
+        "option": [
+          {
+            "definition": "由三条或更多直线边组成的平面图形（多边形）",
+            "iscorrect": true
+          },
+          {
+            "definition": "一种合成纤维材料（如聚酯）",
+            "iscorrect": false
+          },
+          {
+            "definition": "多面体（由多个平面组成的立体图形）",
+            "iscorrect": false
+          },
+          {
+            "definition": "能说多种语言的人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

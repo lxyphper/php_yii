@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "privite school",
+      "priwate school",
+      "privat school",
+      "private skool",
+      "private schul"
+    ],
+    "correct_chunks": [
+      "priv",
+      "ate",
+      "sch",
+      "ool"
+    ],
+    "distractor_chunks": [
+      "privi",
+      "priw",
+      "sk",
+      "schu",
+      "schoo"
+    ]
+  },
+  0
+]

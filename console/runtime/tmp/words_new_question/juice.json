@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "juice",
+      "error_analysis": "学生易因形近词“join”（加入）、“jewel”（珠宝）或“ice”（冰）的联想，将“juice”误理解为“加入”“珠宝”或“冰”",
+      "sentence": "She poured some **juice** into a glass and added a few ice cubes.",
+      "options": {
+        "option": [
+          {
+            "definition": "果汁；汁",
+            "iscorrect": true
+          },
+          {
+            "definition": "加入；参与",
+            "iscorrect": false
+          },
+          {
+            "definition": "珠宝；宝石",
+            "iscorrect": false
+          },
+          {
+            "definition": "冰；冰块",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

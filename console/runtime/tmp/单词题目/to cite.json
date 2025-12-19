@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to cite",
+      "error_analysis": "易与形近词'site'（地点）混淆，误理解为“选址；放置”",
+      "sentence": "The researcher decided to **cite** several recent studies to support her argument.",
+      "options": {
+        "option": [
+          {
+            "definition": "引用；援引",
+            "iscorrect": true
+          },
+          {
+            "definition": "选址；放置",
+            "iscorrect": false
+          },
+          {
+            "definition": "召唤；召集",
+            "iscorrect": false
+          },
+          {
+            "definition": "看见；察觉",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

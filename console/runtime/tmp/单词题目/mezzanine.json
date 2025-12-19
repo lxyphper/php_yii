@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mezzanine",
+      "error_analysis": "学生易因拼写近似\"medicine\"（药）误判为与药物相关，或因\"mezz\"（半）词根错误推导为\"中间的道路\"等含义。",
+      "sentence": "The theater has a small **mezzanine** with seats overlooking the stage.",
+      "options": {
+        "option": [
+          {
+            "definition": "药物；药品",
+            "iscorrect": false
+          },
+          {
+            "definition": "（建筑物中的）夹层；楼座",
+            "iscorrect": true
+          },
+          {
+            "definition": "中间的道路；小径",
+            "iscorrect": false
+          },
+          {
+            "definition": "阳台；露台",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

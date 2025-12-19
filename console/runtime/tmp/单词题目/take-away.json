@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "take-away",
+      "error_analysis": "学生易将名词“take-away”误理解为动词短语“take away”的字面含义“拿走的动作”，或混淆为形近词“take-off”的“起飞”。",
+      "sentence": "After a long day at work, Sarah decided to get a **take-away** instead of cooking dinner.",
+      "options": {
+        "option": [
+          {
+            "definition": "外卖食物；外卖餐馆",
+            "iscorrect": true
+          },
+          {
+            "definition": "拿走的动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "起飞（如飞机）",
+            "iscorrect": false
+          },
+          {
+            "definition": "（会议、课程等的）要点，结论",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "inexpensive",
+      "error_analysis": "学生易因形近词‘inexperienced’（无经验的）混淆，或误拆词根为‘in-+pensive’（不沉思的）而误解词义。",
+      "sentence": "This restaurant is popular because it serves **inexpensive** and delicious food.",
+      "options": {
+        "option": [
+          {
+            "definition": "无经验的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不沉思的",
+            "iscorrect": false
+          },
+          {
+            "definition": "昂贵的",
+            "iscorrect": false
+          },
+          {
+            "definition": "便宜的；不贵的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

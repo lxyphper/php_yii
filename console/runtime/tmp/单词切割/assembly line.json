@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "asembly line",
+      "assamly line",
+      "assemble line",
+      "assembly lin"
+    ],
+    "correct_chunks": [
+      "assem",
+      "bly",
+      "line"
+    ],
+    "distractor_chunks": [
+      "asem",
+      "sam",
+      "assemble",
+      "lin",
+      "bely"
+    ]
+  },
+  0
+]

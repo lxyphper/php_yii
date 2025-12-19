@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "profligate",
+      "error_analysis": "学生易因形近词\"proficient\"(熟练的)或词根错误分解(如与\"obligate\"混淆)误解词义",
+      "sentence": "Despite earning a high salary, he remained **profligate**, spending thousands on luxury goods every month.",
+      "options": {
+        "option": [
+          {
+            "definition": "熟练的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有义务的",
+            "iscorrect": false
+          },
+          {
+            "definition": "挥霍的",
+            "iscorrect": true
+          },
+          {
+            "definition": "繁殖的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

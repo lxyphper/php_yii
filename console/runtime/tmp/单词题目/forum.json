@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "forum",
+      "error_analysis": "学生易因形近词“form”混淆为“形式；表格”，或因词根字面义误判为“市场；广场”",
+      "sentence": "The school organized a **forum** where students could share their ideas about improving campus life.",
+      "options": {
+        "option": [
+          {
+            "definition": "论坛；讨论会",
+            "iscorrect": true
+          },
+          {
+            "definition": "形式；表格",
+            "iscorrect": false
+          },
+          {
+            "definition": "市场；广场",
+            "iscorrect": false
+          },
+          {
+            "definition": "报告；演讲",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

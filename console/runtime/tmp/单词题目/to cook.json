@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to cook",
+      "error_analysis": "学生易因“cook”与“look”形近误判为“看”，或混淆词性将动词“to cook”理解为“厨师”",
+      "sentence": "My mom usually **cooks** dinner for us every evening.",
+      "options": {
+        "option": [
+          {
+            "definition": "烹饪；煮；烧",
+            "iscorrect": true
+          },
+          {
+            "definition": "看；观看",
+            "iscorrect": false
+          },
+          {
+            "definition": "厨师；炊事员",
+            "iscorrect": false
+          },
+          {
+            "definition": "使凉爽；变酷",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

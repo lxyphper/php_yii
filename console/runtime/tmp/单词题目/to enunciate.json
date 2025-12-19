@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to enunciate",
+      "error_analysis": "学生易因形近词“announce”（宣布）或词根“nunciate”（宣布）误导，将“enunciate”误判为“宣布”或“声明”。",
+      "sentence": "The teacher reminded the student to **enunciate** each vocabulary word clearly during the pronunciation drill.",
+      "options": {
+        "option": [
+          {
+            "definition": "清晰地发音；明确地表达",
+            "iscorrect": true
+          },
+          {
+            "definition": "宣布；声明",
+            "iscorrect": false
+          },
+          {
+            "definition": "列举；枚举",
+            "iscorrect": false
+          },
+          {
+            "definition": "强调；着重",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

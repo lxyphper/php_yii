@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Germany",
+      "error_analysis": "混淆\"Germany\"（德国，国家名）与形近词\"German\"（德语；德国人）的含义",
+      "sentence": "My friend is going to **Germany** next month to study at a university in Munich.",
+      "options": {
+        "option": [
+          {
+            "definition": "德国（欧洲国家名）",
+            "iscorrect": true
+          },
+          {
+            "definition": "德语；德国人",
+            "iscorrect": false
+          },
+          {
+            "definition": "日耳曼民族",
+            "iscorrect": false
+          },
+          {
+            "definition": "柏林（德国首都）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

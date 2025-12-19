@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "firmware",
+      "error_analysis": "学生易因\"firm\"（公司/坚固的）与\"ware\"（商品/器皿）的形近组合，误将\"firmware\"理解为\"公司产品\"或\"坚固的器皿\"。",
+      "sentence": "To update the **firmware** of your smartphone, you need to download the latest version from the manufacturer's website.",
+      "options": {
+        "option": [
+          {
+            "definition": "公司生产的坚固商品",
+            "iscorrect": false
+          },
+          {
+            "definition": "坚固的器皿或容器",
+            "iscorrect": false
+          },
+          {
+            "definition": "固件（嵌入计算机硬件中的固定软件）",
+            "iscorrect": true
+          },
+          {
+            "definition": "软件公司的名称",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "background",
+      "error_analysis": "学生易将\"background\"拆为\"back\"+\"ground\"直译为\"后面的地面\"，或因\"ground\"联想到\"场地\"而误解为\"后台的场地\"",
+      "sentence": "When applying for the job, you need to include your educational **background** in the resume.",
+      "options": {
+        "option": [
+          {
+            "definition": "背景（指个人经历、教育或环境等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "后面的地面",
+            "iscorrect": false
+          },
+          {
+            "definition": "后台的场地",
+            "iscorrect": false
+          },
+          {
+            "definition": "背部的伤口",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "confidently",
+      "error_analysis": "学生易混淆形近词“confidingly”（信任地）或因词根“confide”（信任）过度推导将“confidently”理解为“确定地”",
+      "sentence": "She walked onto the stage **confidently** and began her speech without hesitation.",
+      "options": {
+        "option": [
+          {
+            "definition": "自信地",
+            "iscorrect": true
+          },
+          {
+            "definition": "信任地",
+            "iscorrect": false
+          },
+          {
+            "definition": "确定地",
+            "iscorrect": false
+          },
+          {
+            "definition": "困惑地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

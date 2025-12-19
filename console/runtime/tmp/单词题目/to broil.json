@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to broil",
+      "error_analysis": "中国学生易因形近词“boil”（煮）混淆“to broil”的意思，或误将其等同于“bake”（烘焙）的低温烤制方式。",
+      "sentence": "She decided to **broil** the steak for dinner instead of frying it.",
+      "options": {
+        "option": [
+          {
+            "definition": "烤（尤指用高温直接加热，如烤箱上层或烧烤架）",
+            "iscorrect": true
+          },
+          {
+            "definition": "煮（用沸水或热水加热，如鸡蛋）",
+            "iscorrect": false
+          },
+          {
+            "definition": "烘焙（用烤箱低温慢烤，如面包或蛋糕）",
+            "iscorrect": false
+          },
+          {
+            "definition": "油炸（用大量热油烹饪，如薯条或鸡块）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

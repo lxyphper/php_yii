@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "distinctive",
+      "error_analysis": "易因形近词\"distinct\"（明显的）或词根\"distinct\"（清楚）误将\"distinctive\"理解为\"明显的\"或\"清楚的\"",
+      "sentence": "Her **distinctive** style of painting, with its bold colors and abstract shapes, made her stand out from other artists.",
+      "options": {
+        "option": [
+          {
+            "definition": "独特的；有特色的",
+            "iscorrect": true
+          },
+          {
+            "definition": "明显的；清楚的",
+            "iscorrect": false
+          },
+          {
+            "definition": "分开的；分离的",
+            "iscorrect": false
+          },
+          {
+            "definition": "杰出的；优秀的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

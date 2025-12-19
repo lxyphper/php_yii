@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to refuse",
+      "error_analysis": "学生易因“refuse”包含“re-”和“use”结构或与形近词“reuse”混淆，误理解为“再次使用”",
+      "sentence": "The restaurant **refused** to serve him because he was too young.",
+      "options": {
+        "option": [
+          {
+            "definition": "拒绝",
+            "iscorrect": true
+          },
+          {
+            "definition": "再次使用",
+            "iscorrect": false
+          },
+          {
+            "definition": "接受",
+            "iscorrect": false
+          },
+          {
+            "definition": "反驳",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

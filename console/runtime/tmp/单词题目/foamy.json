@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "foamy",
+      "error_analysis": "中国学生易因形近词\"foggy\"（有雾的）误判，或因\"泡沫\"特征过度推导为\"柔软的\"而非核心义\"有泡沫的\"",
+      "sentence": "The barista made me a **foamy** latte with a heart design on top of the milk.",
+      "options": {
+        "option": [
+          {
+            "definition": "有泡沫的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有雾的",
+            "iscorrect": false
+          },
+          {
+            "definition": "柔软的",
+            "iscorrect": false
+          },
+          {
+            "definition": "美味的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pen",
+      "error_analysis": "学生易因形近词“pan”（平底锅）或误将“pen”与“pencil”（铅笔）混淆而产生错误理解",
+      "sentence": "She took out a red **pen** to sign her name on the document.",
+      "options": {
+        "option": [
+          {
+            "definition": "平底锅",
+            "iscorrect": false
+          },
+          {
+            "definition": "铅笔",
+            "iscorrect": false
+          },
+          {
+            "definition": "宠物",
+            "iscorrect": false
+          },
+          {
+            "definition": "钢笔",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

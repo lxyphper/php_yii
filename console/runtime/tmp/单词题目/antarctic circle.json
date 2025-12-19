@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "antarctic circle",
+      "error_analysis": "学生易混淆形近词\"arctic circle\"(北极圈)与\"antarctic circle\"(南极圈)，或误以为是\"南极的圆形物体\"而非地理术语\"南极圈\"",
+      "sentence": "During the summer solstice in the Northern Hemisphere, areas south of the **antarctic circle** experience 24 hours of continuous darkness.",
+      "options": {
+        "option": [
+          {
+            "definition": "南极圈（南纬66°34′的纬线，是南极地区极昼极夜现象的边界）",
+            "iscorrect": true
+          },
+          {
+            "definition": "北极圈（北纬66°34′的纬线，北极地区极昼极夜的边界）",
+            "iscorrect": false
+          },
+          {
+            "definition": "南极地区的圆形地标或人工建筑物",
+            "iscorrect": false
+          },
+          {
+            "definition": "南极洲的海岸线或大陆边缘",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

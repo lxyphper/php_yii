@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "book",
+      "error_analysis": "学生易因形近词（如look、cook）干扰，将“book”错解为“看”或“煮”等含义。",
+      "sentence": "I borrowed a **book** from the library to read during the weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "看",
+            "iscorrect": false
+          },
+          {
+            "definition": "煮",
+            "iscorrect": false
+          },
+          {
+            "definition": "书",
+            "iscorrect": true
+          },
+          {
+            "definition": "钩子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

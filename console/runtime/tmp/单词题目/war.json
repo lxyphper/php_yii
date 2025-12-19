@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "war",
+      "error_analysis": "中国学生易因形近词\"warm\"（温暖）、\"wear\"（穿）或\"ware\"（商品）产生错误联想，误将\"war\"理解为与\"温暖\"\"穿\"相关的含义。",
+      "sentence": "The country suffered a lot during the **war**, with many people losing their homes.",
+      "options": {
+        "option": [
+          {
+            "definition": "战争",
+            "iscorrect": true
+          },
+          {
+            "definition": "温暖",
+            "iscorrect": false
+          },
+          {
+            "definition": "穿",
+            "iscorrect": false
+          },
+          {
+            "definition": "商品",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

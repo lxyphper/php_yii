@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to wake up",
+      "error_analysis": "学生易因形近短语\"walk up\"（走上去）的干扰，将\"to wake up\"误理解为\"走起来\"",
+      "sentence": "I usually **wake up** at 7 a.m. and then brush my teeth before going to school.",
+      "options": {
+        "option": [
+          {
+            "definition": "醒来；叫醒",
+            "iscorrect": true
+          },
+          {
+            "definition": "走起来；步行前往",
+            "iscorrect": false
+          },
+          {
+            "definition": "化妆；编造",
+            "iscorrect": false
+          },
+          {
+            "definition": "开始从事；占据",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

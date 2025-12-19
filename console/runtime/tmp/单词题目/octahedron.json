@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "octahedron",
+      "error_analysis": "学生易因形近词\"octopus\"（章鱼）或词根混淆\"octagon\"（八角形），将\"octahedron\"误判为动物或二维图形。",
+      "sentence": "The metallic sculpture in the science museum features a symmetrical structure with eight triangular faces, clearly identifying it as an **octahedron** favored by geometric artists.",
+      "options": {
+        "option": [
+          {
+            "definition": "章鱼",
+            "iscorrect": false
+          },
+          {
+            "definition": "八角形",
+            "iscorrect": false
+          },
+          {
+            "definition": "八面体",
+            "iscorrect": true
+          },
+          {
+            "definition": "八足动物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

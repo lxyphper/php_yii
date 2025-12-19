@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "beatbox",
+      "error_analysis": "学生易因\"beat(节拍)+box(盒子)\"的词根拆分，误将其理解为具体物品（如节拍盒）而非表演形式",
+      "sentence": "At the party, Jake wowed everyone by starting to **beatbox**—his lips and tongue created rhythms like a professional drummer!",
+      "options": {
+        "option": [
+          {
+            "definition": "用嘴模仿鼓点或乐器的口技表演",
+            "iscorrect": true
+          },
+          {
+            "definition": "节拍盒（播放固定节奏的电子设备）",
+            "iscorrect": false
+          },
+          {
+            "definition": "打盒子（用手敲击盒子的打击乐表演）",
+            "iscorrect": false
+          },
+          {
+            "definition": "节奏练习盒（装节奏训练工具的盒子）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

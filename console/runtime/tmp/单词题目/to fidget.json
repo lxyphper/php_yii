@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to fidget",
+      "error_analysis": "学生易因形近词“fiddle”（摆弄）混淆，或因“fid+get”字面猜测为“寻找”而误解其核心义（坐立不安地动）",
+      "sentence": "During the long meeting, the boy kept **fidgeting** with his pen and tapping his foot.",
+      "options": {
+        "option": [
+          {
+            "definition": "（因紧张、无聊等）坐立不安地动；烦躁地摆弄",
+            "iscorrect": true
+          },
+          {
+            "definition": "摆弄（乐器或小工具）",
+            "iscorrect": false
+          },
+          {
+            "definition": "寻找；设法得到",
+            "iscorrect": false
+          },
+          {
+            "definition": "打架；争斗",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nut",
+      "error_analysis": "学生易因形近词“not”（不）、“net”（网）的干扰或字面泛化理解（小物体）而误判“nut”的词义。",
+      "sentence": "She always keeps a **nut** in her bag for a quick snack.",
+      "options": {
+        "option": [
+          {
+            "definition": "坚果（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "不（副词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "网（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "小物体（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "traffic",
+      "error_analysis": "学生易因形近词\"train\"（火车）或词根联想错误而将\"traffic\"误判为\"火车\"或\"运输\"",
+      "sentence": "We missed the movie because we were caught in heavy **traffic** on the main road.",
+      "options": {
+        "option": [
+          {
+            "definition": "火车（一种铁路交通工具）",
+            "iscorrect": false
+          },
+          {
+            "definition": "运输（将物品或人从一处运到另一处的行为）",
+            "iscorrect": false
+          },
+          {
+            "definition": "交通（道路上车辆、行人等的流动）",
+            "iscorrect": true
+          },
+          {
+            "definition": "悲剧（不幸或灾难性的事件）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

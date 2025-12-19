@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "flat",
+      "error_analysis": "中国学生易因形近词“fat”（胖的）混淆“flat”的意思，或误将其形容词义（平的/瘪的）与名词义（公寓）混淆。",
+      "sentence": "The bicycle tire went **flat** after hitting a sharp rock.",
+      "options": {
+        "option": [
+          {
+            "definition": "胖的",
+            "iscorrect": false
+          },
+          {
+            "definition": "公寓",
+            "iscorrect": false
+          },
+          {
+            "definition": "快的",
+            "iscorrect": false
+          },
+          {
+            "definition": "平的；瘪的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

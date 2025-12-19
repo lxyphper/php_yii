@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "yeast",
+      "error_analysis": "学生易因形近词\"east\"（东方）的干扰，将\"yeast\"误理解为\"东方\"。",
+      "sentence": "To make bread rise, you need to add a little **yeast** to the dough.",
+      "options": {
+        "option": [
+          {
+            "definition": "东方",
+            "iscorrect": false
+          },
+          {
+            "definition": "最少",
+            "iscorrect": false
+          },
+          {
+            "definition": "野兽",
+            "iscorrect": false
+          },
+          {
+            "definition": "酵母",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

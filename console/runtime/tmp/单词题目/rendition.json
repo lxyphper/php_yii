@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rendition",
+      "error_analysis": "学生易因形近词“edition”（版本）或词根“render”（给予）误将“rendition”理解为“版本”或“提交物”。",
+      "sentence": "Her **rendition** of the classic song brought tears to the audience's eyes.",
+      "options": {
+        "option": [
+          {
+            "definition": "（歌曲、戏剧等的）表演；演绎",
+            "iscorrect": true
+          },
+          {
+            "definition": "版本（如书籍、CD的版本）",
+            "iscorrect": false
+          },
+          {
+            "definition": "提交物；交出的东西",
+            "iscorrect": false
+          },
+          {
+            "definition": "（文学作品的）翻译",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

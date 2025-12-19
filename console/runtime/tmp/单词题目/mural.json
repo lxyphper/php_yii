@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mural",
+      "error_analysis": "学生易因形近词\"moral\"(道德的)混淆\"mural\"的意思，或因词根不熟悉误猜为与\"泥\"或\"墙结构\"相关的含义。",
+      "sentence": "The café owner hired an artist to paint a colorful **mural** on the back wall, depicting local landscapes and historical figures.",
+      "options": {
+        "option": [
+          {
+            "definition": "壁画；墙画",
+            "iscorrect": true
+          },
+          {
+            "definition": "道德准则；伦理规范",
+            "iscorrect": false
+          },
+          {
+            "definition": "泥土制成的物品",
+            "iscorrect": false
+          },
+          {
+            "definition": "墙上的砖块",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

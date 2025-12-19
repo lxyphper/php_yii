@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to annex",
+      "error_analysis": "学生易因词根\"绑定\"误判为\"连接/结合\"，或因名词\"附件\"熟义误判为\"添加附件\"",
+      "sentence": "After the war, the victorious country decided to **annex** the neighboring region to expand its territory.",
+      "options": {
+        "option": [
+          {
+            "definition": "吞并（领土等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "附加（文件或内容）",
+            "iscorrect": false
+          },
+          {
+            "definition": "连接或结合（事物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "宣布（重要消息）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

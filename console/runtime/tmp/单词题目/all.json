@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "all",
+      "error_analysis": "学生易因形近词“ill”（生病的）或词义混淆（如“每一个”“任何”）误判“all”的核心词义",
+      "sentence": "**All** the students in our class passed the English test.",
+      "options": {
+        "option": [
+          {
+            "definition": "所有的；全部的",
+            "iscorrect": true
+          },
+          {
+            "definition": "生病的",
+            "iscorrect": false
+          },
+          {
+            "definition": "每一个",
+            "iscorrect": false
+          },
+          {
+            "definition": "任何",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "syringe",
+      "error_analysis": "易因形近词“syrup”（糖浆）产生错误联想，或因词根不熟悉而误判为与环形物/管子相关的词汇",
+      "sentence": "After drawing the medicine from the bottle, the nurse attached a needle to the **syringe** to give the patient an injection.",
+      "options": {
+        "option": [
+          {
+            "definition": "注射器",
+            "iscorrect": true
+          },
+          {
+            "definition": "糖浆",
+            "iscorrect": false
+          },
+          {
+            "definition": "环形饰品",
+            "iscorrect": false
+          },
+          {
+            "definition": "细长管子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

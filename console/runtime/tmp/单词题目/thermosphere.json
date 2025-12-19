@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "thermosphere",
+      "error_analysis": "学生易因形近词\"atmosphere\"混淆为\"整个大气层\"，或因\"thermo-\"(热)+\"sphere\"(球)直译误判为\"高温球体\"。",
+      "sentence": "The International Space Station orbits Earth within the **thermosphere**, where temperatures can exceed 1,000°C even though the air is extremely thin.",
+      "options": {
+        "option": [
+          {
+            "definition": "热层（地球大气层的高温外层，位于中间层之上）",
+            "iscorrect": true
+          },
+          {
+            "definition": "大气层（包围地球的气体层的总称）",
+            "iscorrect": false
+          },
+          {
+            "definition": "高温球体（由炽热物质构成的球形天体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "温度计部件（测量温度仪器的核心组件）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

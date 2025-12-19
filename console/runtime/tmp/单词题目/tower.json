@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tower",
+      "error_analysis": "容易混淆形近词“towel”（毛巾）或误将动词“高耸”理解为名词核心含义",
+      "sentence": "The ancient stone **tower** on the hill has stood for over 500 years.",
+      "options": {
+        "option": [
+          {
+            "definition": "塔",
+            "iscorrect": true
+          },
+          {
+            "definition": "毛巾",
+            "iscorrect": false
+          },
+          {
+            "definition": "高耸",
+            "iscorrect": false
+          },
+          {
+            "definition": "城镇",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

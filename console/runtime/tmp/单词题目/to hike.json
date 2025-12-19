@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to hike",
+      "error_analysis": "因形近词“bike”（自行车）联想错误，或误将“hike”字面拆解为“爬（山）”而非核心义“徒步旅行”",
+      "sentence": "We decided to **hike** to the top of the hill to enjoy the sunset.",
+      "options": {
+        "option": [
+          {
+            "definition": "徒步旅行；远足",
+            "iscorrect": true
+          },
+          {
+            "definition": "骑自行车",
+            "iscorrect": false
+          },
+          {
+            "definition": "爬（山）",
+            "iscorrect": false
+          },
+          {
+            "definition": "提高（价格）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

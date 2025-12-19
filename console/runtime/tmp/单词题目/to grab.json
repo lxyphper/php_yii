@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to grab",
+      "error_analysis": "中国学生易将\"grab\"与形近词\"grasp\"混淆，误理解为\"理解\"或\"正式抓住\"，或因字面误导认为其表示\"持续持有\"",
+      "sentence": "He **grabbed** his coat and ran out the door to catch the train.",
+      "options": {
+        "option": [
+          {
+            "definition": "理解；领悟",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速拿起；匆忙获取",
+            "iscorrect": true
+          },
+          {
+            "definition": "正式抓住；紧握",
+            "iscorrect": false
+          },
+          {
+            "definition": "持有；保持",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

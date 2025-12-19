@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "left",
+      "error_analysis": "学生易混淆‘left’（左边的）与形近词‘lift’（电梯/举起），或误将其当作‘leave’（离开）的过去式",
+      "sentence": "She put her bag on the **left** chair before sitting down.",
+      "options": {
+        "option": [
+          {
+            "definition": "左边的",
+            "iscorrect": true
+          },
+          {
+            "definition": "电梯；举起",
+            "iscorrect": false
+          },
+          {
+            "definition": "离开（过去式）",
+            "iscorrect": false
+          },
+          {
+            "definition": "叶子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

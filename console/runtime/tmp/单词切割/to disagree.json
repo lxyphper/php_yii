@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "to disagre",
+      "to disgre",
+      "to undisagree",
+      "too disagree",
+      "to digree"
+    ],
+    "correct_chunks": [
+      "to",
+      "dis",
+      "agree"
+    ],
+    "distractor_chunks": [
+      "undis",
+      "gre",
+      "too",
+      "di",
+      "agry"
+    ]
+  },
+  0
+]

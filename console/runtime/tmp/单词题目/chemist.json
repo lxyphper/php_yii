@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "chemist",
+      "error_analysis": "学生易因形近词\"chemistry\"误判为\"化学\"，或因词根\"chem-\"+\"-ist\"误判为\"化学家\"，忽略其\"药剂师\"的核心义（英式英语）。",
+      "sentence": "I need to pick up my prescription from the **chemist** around the corner.",
+      "options": {
+        "option": [
+          {
+            "definition": "化学",
+            "iscorrect": false
+          },
+          {
+            "definition": "化学家",
+            "iscorrect": false
+          },
+          {
+            "definition": "药剂师",
+            "iscorrect": true
+          },
+          {
+            "definition": "实验室技术员",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

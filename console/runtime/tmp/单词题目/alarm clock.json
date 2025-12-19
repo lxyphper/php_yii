@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "alarm clock",
+      "error_analysis": "学生易因“clock”与“lock”形近混淆，或“alarm”的“警报”义，将“alarm clock”误判为“报警锁”或“紧急报警钟”。",
+      "sentence": "I set my **alarm clock** for 6:30 every morning to make sure I don’t miss the bus.",
+      "options": {
+        "option": [
+          {
+            "definition": "用于每天叫醒的闹钟",
+            "iscorrect": true
+          },
+          {
+            "definition": "用于防盗的报警锁",
+            "iscorrect": false
+          },
+          {
+            "definition": "用于紧急情况的报警钟",
+            "iscorrect": false
+          },
+          {
+            "definition": "测量时间长短的计时器",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

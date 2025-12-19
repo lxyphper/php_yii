@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "etiquette",
+      "error_analysis": "学生易因形近词\"ticket\"（票）产生\"票/票据\"的错误联想，或因字面拆分误以为是\"标签/标记\"。",
+      "sentence": "When attending a formal dinner, it's important to follow the proper **etiquette**, such as using the right fork for salad.",
+      "options": {
+        "option": [
+          {
+            "definition": "礼仪；礼节",
+            "iscorrect": true
+          },
+          {
+            "definition": "票；票据",
+            "iscorrect": false
+          },
+          {
+            "definition": "标签；标记",
+            "iscorrect": false
+          },
+          {
+            "definition": "规则；条例",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

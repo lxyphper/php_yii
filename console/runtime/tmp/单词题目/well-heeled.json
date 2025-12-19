@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "well-heeled",
+      "error_analysis": "中国学生易因“heeled”（鞋跟）的字面义及“well-+heeled”结构，误判为与“鞋”或“穿着”相关的含义（如“穿高跟鞋的”），忽略其“富有的”核心词义。",
+      "sentence": "The **well-heeled** family in the mansion often hosts lavish parties and travels abroad every holiday.",
+      "options": {
+        "option": [
+          {
+            "definition": "富有的；有钱的",
+            "iscorrect": true
+          },
+          {
+            "definition": "穿高跟鞋的；鞋跟高的",
+            "iscorrect": false
+          },
+          {
+            "definition": "衣着整齐的；穿着讲究的",
+            "iscorrect": false
+          },
+          {
+            "definition": "脚步稳健的；行走有力的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

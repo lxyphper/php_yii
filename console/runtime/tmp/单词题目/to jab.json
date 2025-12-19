@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to jab",
+      "error_analysis": "学生易因形近词“jam”（堵塞）或“jog”（慢跑）混淆“to jab”的含义",
+      "sentence": "He **jabbed** the fork into the steak and took a bite.",
+      "options": {
+        "option": [
+          {
+            "definition": "堵塞（to jam）",
+            "iscorrect": false
+          },
+          {
+            "definition": "慢跑（to jog）",
+            "iscorrect": false
+          },
+          {
+            "definition": "戳；刺（to poke quickly）",
+            "iscorrect": true
+          },
+          {
+            "definition": "拉（to pull）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to deliberate",
+      "error_analysis": "中国学生易因形近词“delicate”（脆弱的）产生联想，或混淆动词“仔细考虑”与形容词“故意的”含义而误判。",
+      "sentence": "The committee will **deliberate** on the new policy proposal tomorrow morning before making a decision.",
+      "options": {
+        "option": [
+          {
+            "definition": "故意做",
+            "iscorrect": false
+          },
+          {
+            "definition": "（使）变得脆弱",
+            "iscorrect": false
+          },
+          {
+            "definition": "仔细考虑",
+            "iscorrect": true
+          },
+          {
+            "definition": "辩论",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

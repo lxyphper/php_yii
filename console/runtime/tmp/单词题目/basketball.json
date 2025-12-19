@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "basketball",
+      "error_analysis": "学生易因形近词“baseball”（棒球）的拼写/发音相似混淆，或因“basket”（篮筐）+“ball”（球）的字面拆分误将“basketball”理解为“球篮”（而非篮球运动）",
+      "sentence": "John practices **basketball** every weekend by shooting hoops at the park.",
+      "options": {
+        "option": [
+          {
+            "definition": "篮球",
+            "iscorrect": true
+          },
+          {
+            "definition": "棒球",
+            "iscorrect": false
+          },
+          {
+            "definition": "球篮",
+            "iscorrect": false
+          },
+          {
+            "definition": "足球",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

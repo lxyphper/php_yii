@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "clear-cut",
+      "error_analysis": "学生易因“clear”+“cut”的字面组合，误将“clear-cut”理解为“清晰切割的”（词根/字面误导）",
+      "sentence": "Her **clear-cut** explanation helped everyone understand the problem immediately.",
+      "options": {
+        "option": [
+          {
+            "definition": "明确的；清晰的",
+            "iscorrect": true
+          },
+          {
+            "definition": "清晰切割的",
+            "iscorrect": false
+          },
+          {
+            "definition": "清楚切断的",
+            "iscorrect": false
+          },
+          {
+            "definition": "非常干净的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

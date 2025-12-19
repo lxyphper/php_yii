@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "contagion",
+      "error_analysis": "中国学生易将`contagion`与形近词`contingency`（意外事件）混淆，或误判为`contamination`（污染）（词根/字面误导）",
+      "sentence": "The rapid spread of the **contagion** forced the government to impose a nationwide lockdown.",
+      "options": {
+        "option": [
+          {
+            "definition": "传染病；传染",
+            "iscorrect": true
+          },
+          {
+            "definition": "意外事件",
+            "iscorrect": false
+          },
+          {
+            "definition": "污染",
+            "iscorrect": false
+          },
+          {
+            "definition": "连接物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

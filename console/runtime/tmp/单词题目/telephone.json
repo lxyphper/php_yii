@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "telephone",
+      "error_analysis": "易与形近词television（电视）混淆，或因词根tele-（远）和phone（声音）误判为远程声音设备",
+      "sentence": "My grandma still uses a **telephone** with a cord to call her friends every evening.",
+      "options": {
+        "option": [
+          {
+            "definition": "电话",
+            "iscorrect": true
+          },
+          {
+            "definition": "电视",
+            "iscorrect": false
+          },
+          {
+            "definition": "远程声音设备",
+            "iscorrect": false
+          },
+          {
+            "definition": "电报",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

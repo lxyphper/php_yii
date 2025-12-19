@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nervously",
+      "error_analysis": "将“nervously”误判为形近词“nearly”（几乎地）或词根直译的“神经地”",
+      "sentence": "She **nervously** twisted her hair while waiting for the job interview.",
+      "options": {
+        "option": [
+          {
+            "definition": "紧张地",
+            "iscorrect": true
+          },
+          {
+            "definition": "几乎地",
+            "iscorrect": false
+          },
+          {
+            "definition": "神经地",
+            "iscorrect": false
+          },
+          {
+            "definition": "兴奋地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

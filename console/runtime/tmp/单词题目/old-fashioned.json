@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "old-fashioned",
+      "error_analysis": "学生易将“old-fashioned”字面拆分为“old”+“fashion”，误理解为“传统的”而非正确的“过时的”。",
+      "sentence": "My grandma still uses an **old-fashioned** typewriter instead of a computer—she says new technology is too complicated.",
+      "options": {
+        "option": [
+          {
+            "definition": "过时的；守旧的",
+            "iscorrect": true
+          },
+          {
+            "definition": "传统的；惯例的",
+            "iscorrect": false
+          },
+          {
+            "definition": "时尚的；流行的",
+            "iscorrect": false
+          },
+          {
+            "definition": "古老的；年代久远的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "originally",
+      "error_analysis": "学生易将“originally”（最初地）误判为“原创地”（受“original”形容词义干扰）或与形近词“ordinarily”（通常地）混淆",
+      "sentence": "The house was **originally** a small cottage before they expanded it into a mansion.",
+      "options": {
+        "option": [
+          {
+            "definition": "最初地；原本",
+            "iscorrect": true
+          },
+          {
+            "definition": "原创地",
+            "iscorrect": false
+          },
+          {
+            "definition": "通常地",
+            "iscorrect": false
+          },
+          {
+            "definition": "起源地的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

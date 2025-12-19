@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "toxikology",
+      "tocksicology",
+      "tixicology",
+      "toxiclogy",
+      "tocsicology"
+    ],
+    "correct_chunks": [
+      "tox",
+      "ic",
+      "ology"
+    ],
+    "distractor_chunks": [
+      "ik",
+      "tock",
+      "tix",
+      "logy",
+      "toc"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "eagerly",
+      "error_analysis": "学生易因形近词\"easily\"（容易地）或发音相近的\"early\"（早的）将\"eagerly\"误解为\"容易地\"或\"早期地\"",
+      "sentence": "The children pressed their faces against the glass, watching **eagerly** as the ice cream man unpacked his cart.",
+      "options": {
+        "option": [
+          {
+            "definition": "急切地；渴望地",
+            "iscorrect": true
+          },
+          {
+            "definition": "容易地",
+            "iscorrect": false
+          },
+          {
+            "definition": "早期地",
+            "iscorrect": false
+          },
+          {
+            "definition": "安静地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

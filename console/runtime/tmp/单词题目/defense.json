@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "defense",
+      "error_analysis": "易因形近词'difference'（不同）混淆，或误将反义词'offense'（进攻）的词义嫁接到'defense'上。",
+      "sentence": "The team’s solid **defense** stopped the opponent from scoring in the final minute of the game.",
+      "options": {
+        "option": [
+          {
+            "definition": "防御；防卫",
+            "iscorrect": true
+          },
+          {
+            "definition": "不同；差异",
+            "iscorrect": false
+          },
+          {
+            "definition": "进攻；冒犯",
+            "iscorrect": false
+          },
+          {
+            "definition": "保护；维护",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

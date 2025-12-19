@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "acupuncture",
+      "error_analysis": "学生易因词根\"acu-\"（尖的）和\"puncture\"（穿刺）的字面误导，将其误解为\"穿刺疗法\"或\"尖刺治疗\"。",
+      "sentence": "Many people with chronic back pain find relief through **acupuncture**, a traditional Chinese medicine practice using thin needles inserted into specific body points.",
+      "options": {
+        "option": [
+          {
+            "definition": "针灸",
+            "iscorrect": true
+          },
+          {
+            "definition": "穿刺治疗",
+            "iscorrect": false
+          },
+          {
+            "definition": "尖刺疗法",
+            "iscorrect": false
+          },
+          {
+            "definition": "按摩疗法",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

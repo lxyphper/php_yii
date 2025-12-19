@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "psychology",
+      "error_analysis": "学生易因形近词“physiology”（生理学）混淆，或因“psych-”词根误判为“精神疾病研究”。",
+      "sentence": "She decided to major in **psychology** because she wants to understand why people behave the way they do.",
+      "options": {
+        "option": [
+          {
+            "definition": "生理学（研究生物机体功能的学科）",
+            "iscorrect": false
+          },
+          {
+            "definition": "心理学（研究心理过程和行为的学科）",
+            "iscorrect": true
+          },
+          {
+            "definition": "精神病学（研究精神疾病的医学学科）",
+            "iscorrect": false
+          },
+          {
+            "definition": "哲学（研究存在、知识与价值的学科）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

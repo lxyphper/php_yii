@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "characteristic",
+      "error_analysis": "学生易因形近词\"character\"（性格/角色）或词根误导，将\"characteristic\"误理解为\"性格\"或\"角色\"",
+      "sentence": "One key **characteristic** of successful entrepreneurs is their ability to adapt to change quickly.",
+      "options": {
+        "option": [
+          {
+            "definition": "特征；特点",
+            "iscorrect": true
+          },
+          {
+            "definition": "性格；角色",
+            "iscorrect": false
+          },
+          {
+            "definition": "描述；刻画",
+            "iscorrect": false
+          },
+          {
+            "definition": "品质；品德",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "numerous",
+      "error_analysis": "学生易因词根“numer-”（数字）或形近词“number”错误联想为“数字的；计数的”",
+      "sentence": "The museum received **numerous** visitors during the holiday, with lines stretching around the block.",
+      "options": {
+        "option": [
+          {
+            "definition": "许多的；大量的",
+            "iscorrect": true
+          },
+          {
+            "definition": "数字的；计数的",
+            "iscorrect": false
+          },
+          {
+            "definition": "频繁的；经常的",
+            "iscorrect": false
+          },
+          {
+            "definition": "重要的；显著的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

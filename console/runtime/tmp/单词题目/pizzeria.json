@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pizzeria",
+      "error_analysis": "学生易因\"pizza\"（披萨）的形近联想，误将\"pizzeria\"理解为\"披萨饼\"（而非销售披萨的场所）",
+      "sentence": "After school, we decided to grab a slice of pizza at the **pizzeria** near the park.",
+      "options": {
+        "option": [
+          {
+            "definition": "披萨饼",
+            "iscorrect": false
+          },
+          {
+            "definition": "披萨店",
+            "iscorrect": true
+          },
+          {
+            "definition": "披萨酱",
+            "iscorrect": false
+          },
+          {
+            "definition": "披萨师傅",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

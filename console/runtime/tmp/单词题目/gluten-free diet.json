@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gluten-free diet",
+      "error_analysis": "易将“gluten-free”中的“free”误解为“自由的”而认为是“自由饮食”，或混淆“gluten”与“glucose”（葡萄糖）/“grain”（谷物）而误解为“无葡萄糖饮食”或“无谷物饮食”",
+      "sentence": "People with celiac disease must follow a **gluten-free diet** to avoid damaging their small intestine.",
+      "options": {
+        "option": [
+          {
+            "definition": "无谷蛋白饮食（不含面筋的饮食）",
+            "iscorrect": true
+          },
+          {
+            "definition": "自由饮食（不限制的饮食）",
+            "iscorrect": false
+          },
+          {
+            "definition": "无葡萄糖饮食（无糖饮食）",
+            "iscorrect": false
+          },
+          {
+            "definition": "无谷物饮食（不含谷物的饮食）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

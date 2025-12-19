@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "symptom",
+      "error_analysis": "中国学生易因形近词\"system\"（系统）的拼写相似而误判\"symptom\"的词义。",
+      "sentence": "Fatigue is a common **symptom** of many chronic illnesses.",
+      "options": {
+        "option": [
+          {
+            "definition": "系统",
+            "iscorrect": false
+          },
+          {
+            "definition": "符号",
+            "iscorrect": false
+          },
+          {
+            "definition": "症状",
+            "iscorrect": true
+          },
+          {
+            "definition": "信号",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

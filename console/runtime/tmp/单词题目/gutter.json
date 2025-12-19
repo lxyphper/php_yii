@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gutter",
+      "error_analysis": "学生易因形近词\"gather\"（聚集）产生混淆，或因词根\"gut\"（内脏）误联想为与\"内脏\"相关的含义",
+      "sentence": "After the heavy rain, water poured from the **gutter** onto the ground, forming a small puddle.",
+      "options": {
+        "option": [
+          {
+            "definition": "排水沟；檐槽",
+            "iscorrect": true
+          },
+          {
+            "definition": "聚集；集合",
+            "iscorrect": false
+          },
+          {
+            "definition": "内脏；肠道",
+            "iscorrect": false
+          },
+          {
+            "definition": "底层社会；贫民区",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

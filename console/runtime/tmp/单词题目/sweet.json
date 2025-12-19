@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sweet",
+      "error_analysis": "学生易将'sweet'与形近词'sweat'（汗水）混淆，或误猜为“快的”（swift）。",
+      "sentence": "The little girl always asks for **sweet** cookies after dinner.",
+      "options": {
+        "option": [
+          {
+            "definition": "甜的",
+            "iscorrect": true
+          },
+          {
+            "definition": "汗水",
+            "iscorrect": false
+          },
+          {
+            "definition": "快的",
+            "iscorrect": false
+          },
+          {
+            "definition": "苦的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

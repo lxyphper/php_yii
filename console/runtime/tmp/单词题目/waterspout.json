@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "waterspout",
+      "error_analysis": "学生易因\"water+spout\"的字面组合误判为\"喷水口\"，或混淆\"rainspout\"误作\"雨水管\"",
+      "sentence": "The sailors were terrified when they saw a dark, funnel-shaped **waterspout** approaching their boat from the horizon.",
+      "options": {
+        "option": [
+          {
+            "definition": "水龙卷（海上形成的漏斗状龙卷风）",
+            "iscorrect": true
+          },
+          {
+            "definition": "喷水口（如喷泉或水龙头的出水口）",
+            "iscorrect": false
+          },
+          {
+            "definition": "雨水管（收集雨水的管道）",
+            "iscorrect": false
+          },
+          {
+            "definition": "水壶的壶嘴（茶壶等容器的出水口）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

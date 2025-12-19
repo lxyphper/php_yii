@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "clothes store",
+      "error_analysis": "学生易因“clothes”与形近词“cloth”（布料）混淆而误判为“布料店”，或因“store”的“存储”义误导为“衣服存储仓库”。",
+      "sentence": "I need to buy a new jacket, so I'm going to the **clothes store** around the corner.",
+      "options": {
+        "option": [
+          {
+            "definition": "服装店",
+            "iscorrect": true
+          },
+          {
+            "definition": "布料店",
+            "iscorrect": false
+          },
+          {
+            "definition": "衣服存储仓库",
+            "iscorrect": false
+          },
+          {
+            "definition": "关闭的商店",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

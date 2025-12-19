@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to convey",
+      "error_analysis": "易混淆形近词\"convince\"(说服)，或因词根\"vey\"(道路)误理解为\"携带\"(具体义)而非抽象的\"传达\"。",
+      "sentence": "The poet uses vivid imagery in her poems to **convey** the sadness of losing a loved one.",
+      "options": {
+        "option": [
+          {
+            "definition": "传达；表达（思想、情感等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "说服；使相信",
+            "iscorrect": false
+          },
+          {
+            "definition": "携带；运送",
+            "iscorrect": false
+          },
+          {
+            "definition": "隐藏；隐瞒",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

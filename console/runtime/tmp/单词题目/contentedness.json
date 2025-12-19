@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "contentedness",
+      "error_analysis": "学生易因形近词contention（争论）或词根content（内容）误导，将contentedness误判为“争论”或“内容的丰富性”",
+      "sentence": "Sitting on the porch with a cup of tea, she felt a deep sense of **contentedness** as she watched her grandchildren play in the yard.",
+      "options": {
+        "option": [
+          {
+            "definition": "满足感，知足",
+            "iscorrect": true
+          },
+          {
+            "definition": "争论，争执",
+            "iscorrect": false
+          },
+          {
+            "definition": "内容的丰富性",
+            "iscorrect": false
+          },
+          {
+            "definition": "忙碌的生活状态",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "horseback riding",
+      "error_analysis": "学生易因词根拆分（horse+back+riding）将其误理解为“马的背部”（名词短语），而非“骑马运动”（动名词短语）",
+      "sentence": "She goes **horseback riding** every weekend with her friends in the countryside to enjoy the fresh air.",
+      "options": {
+        "option": [
+          {
+            "definition": "骑马运动",
+            "iscorrect": true
+          },
+          {
+            "definition": "马的背部",
+            "iscorrect": false
+          },
+          {
+            "definition": "背着马行走",
+            "iscorrect": false
+          },
+          {
+            "definition": "骑在马后面",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

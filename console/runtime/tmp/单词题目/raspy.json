@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "raspy",
+      "error_analysis": "学生易因形近词\"raspberry\"(树莓)联想到\"甜的/像树莓的\"，或因词根\"rasp\"(刮擦)误判为\"表面刮擦的\"，忽略其核心义\"(声音)沙哑的\"。",
+      "sentence": "After shouting at the concert all night, her voice became **raspy** and she could barely speak.",
+      "options": {
+        "option": [
+          {
+            "definition": "（声音）沙哑的",
+            "iscorrect": true
+          },
+          {
+            "definition": "（味道）像树莓的",
+            "iscorrect": false
+          },
+          {
+            "definition": "（表面）刮擦的",
+            "iscorrect": false
+          },
+          {
+            "definition": "（质地）柔软的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

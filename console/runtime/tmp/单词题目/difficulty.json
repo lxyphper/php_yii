@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "difficulty",
+      "error_analysis": "学生易因形近词“difference”（不同之处）的干扰或对“dif-”（不）和“ficulty”（做）的错误拆分，将“difficulty”误理解为“不同点”或“没做的事”",
+      "sentence": "She faced a lot of **difficulty** in learning to play the piano because she had no prior experience.",
+      "options": {
+        "option": [
+          {
+            "definition": "困难；难题",
+            "iscorrect": true
+          },
+          {
+            "definition": "不同之处；差异",
+            "iscorrect": false
+          },
+          {
+            "definition": "没做的事；未完成的事",
+            "iscorrect": false
+          },
+          {
+            "definition": "缺点；不足",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

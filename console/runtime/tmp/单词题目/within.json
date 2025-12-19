@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "within",
+      "error_analysis": "混淆形近词\"with\"（和…一起）的含义，或错误拆分\"with+in\"理解为\"用…在里面\"",
+      "sentence": "The library is located **within** the campus, just behind the main building.",
+      "options": {
+        "option": [
+          {
+            "definition": "和…一起",
+            "iscorrect": false
+          },
+          {
+            "definition": "在…内部；在…范围内",
+            "iscorrect": true
+          },
+          {
+            "definition": "用…在里面",
+            "iscorrect": false
+          },
+          {
+            "definition": "赢得…里面",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

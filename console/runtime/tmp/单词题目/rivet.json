@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rivet",
+      "error_analysis": "学生易混淆形近词“rival”（竞争）或误记为“用铆钉固定”，忽略其核心动词义“吸引注意力”。",
+      "sentence": "The magician's performance **riveted** the children, who couldn't take their eyes off the stage.",
+      "options": {
+        "option": [
+          {
+            "definition": "吸引（注意力）",
+            "iscorrect": true
+          },
+          {
+            "definition": "竞争；与…竞争",
+            "iscorrect": false
+          },
+          {
+            "definition": "用铆钉固定",
+            "iscorrect": false
+          },
+          {
+            "definition": "使厌烦",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

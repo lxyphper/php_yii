@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gene",
+      "error_analysis": "中国学生易因形近词“genie”（精灵）混淆，或误通过“gen-”词根联想到“产生”（generate）等无关含义。",
+      "sentence": "Scientists have identified a **gene** that is linked to an increased risk of diabetes.",
+      "options": {
+        "option": [
+          {
+            "definition": "精灵",
+            "iscorrect": false
+          },
+          {
+            "definition": "基因",
+            "iscorrect": true
+          },
+          {
+            "definition": "产生",
+            "iscorrect": false
+          },
+          {
+            "definition": "一般的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

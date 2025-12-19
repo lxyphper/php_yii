@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tenant",
+      "error_analysis": "易因形近词'tenet'(原则)混淆，或因词根'tenere'(持有)错误推导为泛泛的'持有者'而非'租户'",
+      "sentence": "The landlord reminded the **tenant** to pay the rent by the end of the month.",
+      "options": {
+        "option": [
+          {
+            "definition": "原则；信条",
+            "iscorrect": false
+          },
+          {
+            "definition": "持有者；所有者",
+            "iscorrect": false
+          },
+          {
+            "definition": "邻居；邻居住户",
+            "iscorrect": false
+          },
+          {
+            "definition": "租户；房客",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

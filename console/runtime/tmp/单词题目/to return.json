@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to return",
+      "error_analysis": "中国学生易混淆形近词\"retain\"(保留)或误将\"re-+turn\"直译为\"再旋转\",忽略核心义\"归还/返回\"",
+      "sentence": "Could you **return** my umbrella tomorrow? I need it for the rain.",
+      "options": {
+        "option": [
+          {
+            "definition": "归还；返回",
+            "iscorrect": true
+          },
+          {
+            "definition": "保留；保持",
+            "iscorrect": false
+          },
+          {
+            "definition": "再旋转；转动回来",
+            "iscorrect": false
+          },
+          {
+            "definition": "重复；再次做",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

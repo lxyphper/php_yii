@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to resize",
+      "error_analysis": "学生易因“re-+size”的词根结构误将“to resize”理解为“重新测量大小”，或因形近词“rise”（上升）而误解为“提高”。",
+      "sentence": "Before printing, please **resize** the photo so it fits perfectly in the frame.",
+      "options": {
+        "option": [
+          {
+            "definition": "重新测量大小",
+            "iscorrect": false
+          },
+          {
+            "definition": "提高；上升",
+            "iscorrect": false
+          },
+          {
+            "definition": "居住",
+            "iscorrect": false
+          },
+          {
+            "definition": "调整大小",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

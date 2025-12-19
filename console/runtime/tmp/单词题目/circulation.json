@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "circulation",
+      "error_analysis": "学生易因形近词“clarification”（澄清）混淆，或因词根“circ-”（圆圈）错误推导为“周长”。",
+      "sentence": "The newspaper’s **circulation** has dropped significantly because more people read news online now.",
+      "options": {
+        "option": [
+          {
+            "definition": "发行量（报纸、杂志等的发行数量）",
+            "iscorrect": true
+          },
+          {
+            "definition": "澄清（使某事更清楚的解释）",
+            "iscorrect": false
+          },
+          {
+            "definition": "周长（圆形或曲线的周围长度）",
+            "iscorrect": false
+          },
+          {
+            "definition": "循环（事物周而复始的运动）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "affordable",
+      "error_analysis": "学生易混淆形近词\"available\"（可获得的），或误从\"afford\"的\"提供\"义推导为\"可提供的\"",
+      "sentence": "The new apartment complex offers **affordable** rents for young professionals just starting their careers.",
+      "options": {
+        "option": [
+          {
+            "definition": "负担得起的；价格合理的",
+            "iscorrect": true
+          },
+          {
+            "definition": "可获得的；可得到的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可提供的；能给予的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可接受的；令人满意的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

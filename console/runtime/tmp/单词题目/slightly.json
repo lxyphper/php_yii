@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "slightly",
+      "error_analysis": "容易与形近词“lightly”（轻地）混淆，或误从“slight”的“轻视”义推导为“轻视地”",
+      "sentence": "She was **slightly** late for the meeting, but everyone waited for her.",
+      "options": {
+        "option": [
+          {
+            "definition": "稍微，略微",
+            "iscorrect": true
+          },
+          {
+            "definition": "轻地",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻视地",
+            "iscorrect": false
+          },
+          {
+            "definition": "渐渐地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

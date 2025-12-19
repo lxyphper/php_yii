@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "brass instrument",
+      "error_analysis": "学生易将\"brass instrument\"直译为\"黄铜工具\"（词根字面误导），或因\"brass\"与\"grass\"形近联想为\"草制乐器\"（形近词干扰）。",
+      "sentence": "The trumpet and trombone are both examples of a **brass instrument** commonly used in symphony orchestras.",
+      "options": {
+        "option": [
+          {
+            "definition": "铜管乐器",
+            "iscorrect": true
+          },
+          {
+            "definition": "黄铜工具",
+            "iscorrect": false
+          },
+          {
+            "definition": "草制乐器",
+            "iscorrect": false
+          },
+          {
+            "definition": "金属仪器",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "breath",
+      "error_analysis": "学生易混淆形近词\"bread\"(面包)或误将\"breath\"当作动词\"呼吸\"使用",
+      "sentence": "After running, she took a deep **breath** to calm herself down.",
+      "options": {
+        "option": [
+          {
+            "definition": "呼吸（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "面包（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "呼吸（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "打破（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "airfare",
+      "error_analysis": "学生易因形近词\"fair\"(展览)混淆或误将\"fare\"理解为\"食物/旅行\"，把\"airfare\"错判为\"航空展览\"或\"航空食物\"",
+      "sentence": "We need to book the hotel first, and then check the **airfare** to New York for next month.",
+      "options": {
+        "option": [
+          {
+            "definition": "机票费用",
+            "iscorrect": true
+          },
+          {
+            "definition": "航空展览",
+            "iscorrect": false
+          },
+          {
+            "definition": "航空食物",
+            "iscorrect": false
+          },
+          {
+            "definition": "航空旅行",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

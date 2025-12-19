@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "plodding",
+      "error_analysis": "中国学生易因形近词“plotting”（密谋）或词根不熟悉误以为“快速的”",
+      "sentence": "The hiker kept **plodding** up the steep hill, even though his legs were aching.",
+      "options": {
+        "option": [
+          {
+            "definition": "密谋的",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速的",
+            "iscorrect": false
+          },
+          {
+            "definition": "缓慢而沉重的",
+            "iscorrect": true
+          },
+          {
+            "definition": "轻松的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

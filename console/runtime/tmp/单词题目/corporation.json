@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "corporation",
+      "error_analysis": "中国学生易因形近词\"corporal\"(身体的)或词根\"corpor-\"(身体)误导，将\"corporation\"误理解为\"身体的\"或\"团体组织\"。",
+      "sentence": "Our family business grew into a large **corporation** with offices in three countries.",
+      "options": {
+        "option": [
+          {
+            "definition": "公司",
+            "iscorrect": true
+          },
+          {
+            "definition": "身体的；肉体的",
+            "iscorrect": false
+          },
+          {
+            "definition": "团体；身体组织",
+            "iscorrect": false
+          },
+          {
+            "definition": "合作；协作",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

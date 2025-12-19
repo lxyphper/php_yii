@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "written",
+      "error_analysis": "学生易将“written”（书面的）误解为“手写的”（因“write”字面义误导），或混淆形近词“writ”（法律文书）。",
+      "sentence": "The final exam is a **written** test, so you need to bring a pen.",
+      "options": {
+        "option": [
+          {
+            "definition": "书面的；文字的",
+            "iscorrect": true
+          },
+          {
+            "definition": "手写的",
+            "iscorrect": false
+          },
+          {
+            "definition": "法律文书",
+            "iscorrect": false
+          },
+          {
+            "definition": "口头的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

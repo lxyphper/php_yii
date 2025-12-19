@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "spread",
+      "error_analysis": "易因形近词'speed'（速度）混淆词义，或误将其理解为'伸展'而非'铺开/传播'",
+      "sentence": "Please **spread** the jam evenly on the toast before serving.",
+      "options": {
+        "option": [
+          {
+            "definition": "速度",
+            "iscorrect": false
+          },
+          {
+            "definition": "伸展",
+            "iscorrect": false
+          },
+          {
+            "definition": "铺开；涂",
+            "iscorrect": true
+          },
+          {
+            "definition": "喷洒",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

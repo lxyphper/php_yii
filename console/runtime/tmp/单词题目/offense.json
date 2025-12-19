@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "offense",
+      "error_analysis": "学生易因形近词“defense”（防御）的干扰，将“offense”误理解为“防御（队）”。",
+      "sentence": "The basketball team's **offense** was unstoppable, scoring 50 points in the first quarter.",
+      "options": {
+        "option": [
+          {
+            "definition": "进攻（队）",
+            "iscorrect": true
+          },
+          {
+            "definition": "防御（队）",
+            "iscorrect": false
+          },
+          {
+            "definition": "离开；脱离",
+            "iscorrect": false
+          },
+          {
+            "definition": "感觉；意识",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

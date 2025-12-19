@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to gun down",
+      "error_analysis": "学生易将\"gun down\"字面拆解为\"枪+向下\"，错误理解为\"把枪放下\"或\"用枪指向下方\"，忽略其\"用枪射杀\"的核心含义",
+      "sentence": "The police were forced to **gun down** the armed robber who refused to drop his weapon and kept threatening civilians.",
+      "options": {
+        "option": [
+          {
+            "definition": "把枪放下",
+            "iscorrect": false
+          },
+          {
+            "definition": "用口香糖粘住",
+            "iscorrect": false
+          },
+          {
+            "definition": "用枪指向下方",
+            "iscorrect": false
+          },
+          {
+            "definition": "用枪射杀",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

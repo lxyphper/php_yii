@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "polyester",
+      "error_analysis": "学生易因\"poly-\"词根猜测为\"聚合物\"，或因形近词\"polythene\"误判为\"聚乙烯\"",
+      "sentence": "This sports shirt is made of **polyester**, so it dries quickly after washing and is perfect for summer.",
+      "options": {
+        "option": [
+          {
+            "definition": "聚酯纤维（涤纶）",
+            "iscorrect": true
+          },
+          {
+            "definition": "聚乙烯",
+            "iscorrect": false
+          },
+          {
+            "definition": "聚合物",
+            "iscorrect": false
+          },
+          {
+            "definition": "聚苯乙烯",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

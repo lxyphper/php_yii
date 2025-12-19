@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "felony",
+      "error_analysis": "学生易因形近词\"felon\"(重罪犯)的联想，将\"felony\"误理解为\"重罪犯\"(指人)，或因词根\"fel-\"(邪恶)过度推导为\"邪恶的行为\"。",
+      "sentence": "The court found him guilty of **felony** theft, which carries a maximum sentence of 10 years in prison.",
+      "options": {
+        "option": [
+          {
+            "definition": "重罪犯（指人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "重罪（法律术语，指严重犯罪）",
+            "iscorrect": true
+          },
+          {
+            "definition": "邪恶的行为",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻罪",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

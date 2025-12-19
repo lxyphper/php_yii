@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to gain",
+      "error_analysis": "因形近词“grain”（谷物）及对“gain access to”等搭配的字面误导，学生易将“to gain”误理解为名词“谷物”或动词“进入”",
+      "sentence": "After years of hard work, she finally **gained** the respect of her colleagues.",
+      "options": {
+        "option": [
+          {
+            "definition": "获得（有用的东西）",
+            "iscorrect": true
+          },
+          {
+            "definition": "谷物（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "进入（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "赢得（比赛/奖品）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

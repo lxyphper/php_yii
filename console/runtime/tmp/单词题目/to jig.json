@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to jig",
+      "error_analysis": "学生易因形近词\"jog\"(慢跑)或\"dig\"(挖掘)的干扰，将\"to jig\"误判为\"慢跑\"或\"挖掘\"。",
+      "sentence": "When the fisherman pulled the line, the fish started to **jig** wildly on the hook, trying to escape.",
+      "options": {
+        "option": [
+          {
+            "definition": "（使）上下快速晃动；蹦跳",
+            "iscorrect": true
+          },
+          {
+            "definition": "慢跑",
+            "iscorrect": false
+          },
+          {
+            "definition": "挖掘",
+            "iscorrect": false
+          },
+          {
+            "definition": "安静地行走",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

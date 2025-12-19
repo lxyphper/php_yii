@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "single",
+      "error_analysis": "学生易混淆形近词“signal”（信号）或误将“single”联想为“简单的”（与“simple”词形相似）",
+      "sentence": "I booked a **single** room at the hotel because I prefer to stay alone.",
+      "options": {
+        "option": [
+          {
+            "definition": "单人的；单独的",
+            "iscorrect": true
+          },
+          {
+            "definition": "信号",
+            "iscorrect": false
+          },
+          {
+            "definition": "简单的",
+            "iscorrect": false
+          },
+          {
+            "definition": "唱歌的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

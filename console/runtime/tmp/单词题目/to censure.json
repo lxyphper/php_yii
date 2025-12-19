@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to censure",
+      "error_analysis": "学生易因形近词\"censor\"(审查)的混淆，将\"to censure\"误理解为\"审查；删改\"。",
+      "sentence": "The committee voted unanimously to **censure** the official for his misuse of public funds.",
+      "options": {
+        "option": [
+          {
+            "definition": "批评；谴责（正式场合）",
+            "iscorrect": true
+          },
+          {
+            "definition": "审查；删改（书籍、电影等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "支持；赞成",
+            "iscorrect": false
+          },
+          {
+            "definition": "忽视；忽略",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

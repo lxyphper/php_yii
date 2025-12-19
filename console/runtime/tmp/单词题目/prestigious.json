@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "prestigious",
+      "error_analysis": "易混淆形近词precious（珍贵的），或误通过词根press（压）猜测为“有压力的”",
+      "sentence": "The university is one of the most **prestigious** institutions in the country, attracting students from all over the world.",
+      "options": {
+        "option": [
+          {
+            "definition": "有威望的；有声望的",
+            "iscorrect": true
+          },
+          {
+            "definition": "珍贵的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有压力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "以前的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

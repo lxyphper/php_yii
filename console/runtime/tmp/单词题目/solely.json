@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "solely",
+      "error_analysis": "中国学生易因形近词‘solid’（固体的）、‘simpl’（简单的）或‘solemn’（严肃的）联想错误，将‘solely’误判为‘坚固地’‘简单地’或‘严肃地’。",
+      "sentence": "She refused the offer **solely** to stay with her family.",
+      "options": {
+        "option": [
+          {
+            "definition": "仅仅；只",
+            "iscorrect": true
+          },
+          {
+            "definition": "坚固地",
+            "iscorrect": false
+          },
+          {
+            "definition": "简单地",
+            "iscorrect": false
+          },
+          {
+            "definition": "严肃地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

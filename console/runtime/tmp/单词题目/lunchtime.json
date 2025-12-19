@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lunchtime",
+      "error_analysis": "学生易将\"lunchtime\"与形近词\"launchtime\"（发射时间）混淆，或因\"lunch\"记忆偏差误解为其他时段。",
+      "sentence": "We usually have a 30-minute break during **lunchtime** to eat our packed meals and chat with colleagues.",
+      "options": {
+        "option": [
+          {
+            "definition": "午餐时间",
+            "iscorrect": true
+          },
+          {
+            "definition": "发射时间",
+            "iscorrect": false
+          },
+          {
+            "definition": "早午餐时间",
+            "iscorrect": false
+          },
+          {
+            "definition": "晚餐时间",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

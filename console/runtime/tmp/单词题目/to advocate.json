@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to advocate",
+      "error_analysis": "易混淆形近词\"advise\"(建议)的含义，或因词根\"voc-\"(声音)误导为\"大声宣告\"",
+      "sentence": "Many environmentalists **advocate** for using renewable energy to reduce carbon emissions.",
+      "options": {
+        "option": [
+          {
+            "definition": "建议；劝告",
+            "iscorrect": false
+          },
+          {
+            "definition": "提倡；主张",
+            "iscorrect": true
+          },
+          {
+            "definition": "大声宣告；声明",
+            "iscorrect": false
+          },
+          {
+            "definition": "反对；抵制",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

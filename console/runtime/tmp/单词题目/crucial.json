@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "crucial",
+      "error_analysis": "学生易将“crucial”与形近词“cruel”（残忍的）混淆，或误按词根“crux”（十字）理解为“交叉的”。",
+      "sentence": "The final exam is **crucial** for getting into a good university.",
+      "options": {
+        "option": [
+          {
+            "definition": "关键的；至关重要的",
+            "iscorrect": true
+          },
+          {
+            "definition": "残忍的；残酷的",
+            "iscorrect": false
+          },
+          {
+            "definition": "交叉的；十字形的",
+            "iscorrect": false
+          },
+          {
+            "definition": "粗糙的；简陋的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

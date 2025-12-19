@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to indulge",
+      "error_analysis": "中国学生易因形近词“induce”（诱导）将“indulge”误理解为“诱导”，或因词根/字面猜测（“in-”+“dulge”）误理解为“参与”。",
+      "sentence": "After a stressful exam, Emma wanted to **indulge** in her favorite hobby—painting—to relax.",
+      "options": {
+        "option": [
+          {
+            "definition": "纵容；沉迷于；满足（欲望）",
+            "iscorrect": true
+          },
+          {
+            "definition": "诱导；引起",
+            "iscorrect": false
+          },
+          {
+            "definition": "参与；涉及",
+            "iscorrect": false
+          },
+          {
+            "definition": "拒绝；抵制",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sister",
+      "error_analysis": "中国学生易因形近词“sitter”（保姆）或词根“sist”（站立）的误导，混淆“sister”的核心词义“姐妹”。",
+      "sentence": "My **sister** is two years older than me and we share the same bedroom.",
+      "options": {
+        "option": [
+          {
+            "definition": "姐妹（姐姐或妹妹）",
+            "iscorrect": true
+          },
+          {
+            "definition": "保姆（照看小孩的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "系统（有组织的整体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "站立的人（来自词根“sist”的推导）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to care",
+      "error_analysis": "中国学生易因形近词“carry”（携带）或词根联想“小心”（来自“careful”）误判“to care”的含义。",
+      "sentence": "She doesn’t **care** about what others think of her.",
+      "options": {
+        "option": [
+          {
+            "definition": "关心；在意",
+            "iscorrect": true
+          },
+          {
+            "definition": "携带",
+            "iscorrect": false
+          },
+          {
+            "definition": "小心",
+            "iscorrect": false
+          },
+          {
+            "definition": "照顾",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

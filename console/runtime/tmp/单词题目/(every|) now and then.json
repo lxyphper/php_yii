@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "(every|) now and then",
+      "error_analysis": "学生易因字面直译“every now and then”为“每一次现在和然后”而误解为“经常”或“频繁地”",
+      "sentence": "I still play that old guitar **every now and then**, even though I'm busy with work.",
+      "options": {
+        "option": [
+          {
+            "definition": "偶尔，有时",
+            "iscorrect": true
+          },
+          {
+            "definition": "经常，频繁地",
+            "iscorrect": false
+          },
+          {
+            "definition": "立刻，马上",
+            "iscorrect": false
+          },
+          {
+            "definition": "总是，一直",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

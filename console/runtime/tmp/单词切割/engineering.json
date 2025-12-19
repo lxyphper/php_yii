@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "enginering",
+      "engineerring",
+      "enginneering",
+      "egineering",
+      "engieering"
+    ],
+    "correct_chunks": [
+      "en",
+      "gin",
+      "eer",
+      "ing"
+    ],
+    "distractor_chunks": [
+      "er",
+      "err",
+      "gi",
+      "ginn",
+      "e"
+    ]
+  },
+  0
+]

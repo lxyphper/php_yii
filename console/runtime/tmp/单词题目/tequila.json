@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tequila",
+      "error_analysis": "学生易因\"te\"形近\"tea\"（茶）误判为茶饮料，或因拼写类似\"tortilla\"（玉米饼）误判为食物",
+      "sentence": "When in Mexico, many people enjoy sipping **tequila** with a slice of lime and a pinch of salt.",
+      "options": {
+        "option": [
+          {
+            "definition": "龙舌兰酒（墨西哥的一种蒸馏酒）",
+            "iscorrect": true
+          },
+          {
+            "definition": "一种茶饮料",
+            "iscorrect": false
+          },
+          {
+            "definition": "一种墨西哥玉米饼",
+            "iscorrect": false
+          },
+          {
+            "definition": "一种热带水果",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

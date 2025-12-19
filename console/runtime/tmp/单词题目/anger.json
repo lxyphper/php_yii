@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "anger",
+      "error_analysis": "中国学生易因形近词“angle”（角度）混淆，或误将“anger”当作形容词“愤怒的”（来自“angry”的词性误导）",
+      "sentence": "His face turned red with **anger** when he heard the unfair decision.",
+      "options": {
+        "option": [
+          {
+            "definition": "愤怒；怒气",
+            "iscorrect": true
+          },
+          {
+            "definition": "角度；角",
+            "iscorrect": false
+          },
+          {
+            "definition": "愤怒的；生气的",
+            "iscorrect": false
+          },
+          {
+            "definition": "痛苦；苦恼",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

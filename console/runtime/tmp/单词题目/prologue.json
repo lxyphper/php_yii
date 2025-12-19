@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "prologue",
+      "error_analysis": "学生易因形近词\"prolong\"(延长)混淆词义，或因词根\"logue\"(说话)误猜为\"对话\"或\"演讲\"",
+      "sentence": "The novel begins with a **prologue** that introduces the main character's childhood in a small village.",
+      "options": {
+        "option": [
+          {
+            "definition": "延长；拖延",
+            "iscorrect": false
+          },
+          {
+            "definition": "对话；交谈",
+            "iscorrect": false
+          },
+          {
+            "definition": "（书、戏剧等的）序言；开场白",
+            "iscorrect": true
+          },
+          {
+            "definition": "预告；预报",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

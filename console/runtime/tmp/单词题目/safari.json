@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "safari",
+      "error_analysis": "学生易因形近词'safe'（安全）或词根'saf-'误导，误将'safari'理解为“安全检查”或“保护区”，或因发音近似'sail'（航行）误判为“航海旅行”。",
+      "sentence": "During their trip to Kenya, the family went on a **safari** to observe wild lions and giraffes in the savanna.",
+      "options": {
+        "option": [
+          {
+            "definition": "（尤指在非洲的）野生动物观光旅行",
+            "iscorrect": true
+          },
+          {
+            "definition": "安全检查",
+            "iscorrect": false
+          },
+          {
+            "definition": "保护区",
+            "iscorrect": false
+          },
+          {
+            "definition": "航海旅行",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

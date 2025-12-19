@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "echoing",
+      "error_analysis": "学生易因echo的“重复”义或与aching形近，将echoing误判为“重复的”或“疼痛的”。",
+      "sentence": "The **echoing** sound of the bell lingered in the valley long after it stopped ringing.",
+      "options": {
+        "option": [
+          {
+            "definition": "回荡的；回响的",
+            "iscorrect": true
+          },
+          {
+            "definition": "疼痛的；酸痛的",
+            "iscorrect": false
+          },
+          {
+            "definition": "重复的；反复的",
+            "iscorrect": false
+          },
+          {
+            "definition": "模仿的；仿效的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

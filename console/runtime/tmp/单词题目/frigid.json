@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "frigid",
+      "error_analysis": "学生易因形近词\"rigid\"（僵硬的）或\"fridge\"（冰箱）误判为\"僵硬的\"或\"冷冻的\"",
+      "sentence": "The morning air was **frigid**, making everyone pull their coats tighter around them.",
+      "options": {
+        "option": [
+          {
+            "definition": "寒冷的",
+            "iscorrect": true
+          },
+          {
+            "definition": "僵硬的",
+            "iscorrect": false
+          },
+          {
+            "definition": "冷冻的",
+            "iscorrect": false
+          },
+          {
+            "definition": "严格的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "meditation",
+      "error_analysis": "易混淆形近词\"medication\"(药物治疗)及词根\"med\"带来的\"医疗行为\"误解",
+      "sentence": "Many people practice **meditation** every morning to reduce stress and improve focus.",
+      "options": {
+        "option": [
+          {
+            "definition": "冥想；沉思",
+            "iscorrect": true
+          },
+          {
+            "definition": "药物治疗",
+            "iscorrect": false
+          },
+          {
+            "definition": "医疗检查",
+            "iscorrect": false
+          },
+          {
+            "definition": "课堂教学",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

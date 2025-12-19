@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sunflower",
+      "error_analysis": "中国学生易因形近词\"sunshine\"干扰误以为是\"阳光花\"，或因词根拆分错误把\"sun\"误作\"sunny\"而译为\"晴朗的花\"",
+      "sentence": "In the garden, there is a tall **sunflower** facing the sun all day long.",
+      "options": {
+        "option": [
+          {
+            "definition": "向日葵",
+            "iscorrect": true
+          },
+          {
+            "definition": "阳光花",
+            "iscorrect": false
+          },
+          {
+            "definition": "晴朗的花",
+            "iscorrect": false
+          },
+          {
+            "definition": "日落花",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "common_misspellings": [
+      "mainstrem",
+      "mianstream",
+      "manstream",
+      "mainstrim"
+    ],
+    "correct_chunks": [
+      "main",
+      "stream"
+    ],
+    "distractor_chunks": [
+      "strem",
+      "mian",
+      "man",
+      "strim"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "exuberance",
+      "error_analysis": "学生易因形近词\"excellence\"（优秀）或词根误导（如\"ex-\"出+uber误判为过度），将\"exuberance\"错解为\"优秀\"或\"挥霍\"。",
+      "sentence": "The children's **exuberance** at the birthday party was contagious—they laughed, ran around, and played games nonstop.",
+      "options": {
+        "option": [
+          {
+            "definition": "优秀；卓越",
+            "iscorrect": false
+          },
+          {
+            "definition": "挥霍；铺张",
+            "iscorrect": false
+          },
+          {
+            "definition": "热情洋溢；活力四射",
+            "iscorrect": true
+          },
+          {
+            "definition": "丰富；充裕",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dude",
+      "error_analysis": "学生易因形近词“duck”（鸭子）、“dud”（无用的人）或发音相近的“due”（到期的）产生错误联想",
+      "sentence": "Hey, **dude**, do you want to play basketball with us this weekend?",
+      "options": {
+        "option": [
+          {
+            "definition": "伙计；老兄",
+            "iscorrect": true
+          },
+          {
+            "definition": "鸭子",
+            "iscorrect": false
+          },
+          {
+            "definition": "到期的事物",
+            "iscorrect": false
+          },
+          {
+            "definition": "无用的人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

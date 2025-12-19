@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to lunge",
+      "error_analysis": "学生易因形近词\"lunch\"(午餐)或\"lung\"(肺)误解，将\"to lunge\"错解为与\"吃午餐\"或\"呼吸\"相关的动作。",
+      "sentence": "When the dog saw the cat, it **lunged** forward to catch it.",
+      "options": {
+        "option": [
+          {
+            "definition": "突然向前冲/扑",
+            "iscorrect": true
+          },
+          {
+            "definition": "吃午餐",
+            "iscorrect": false
+          },
+          {
+            "definition": "喘气",
+            "iscorrect": false
+          },
+          {
+            "definition": "发射(火箭/计划)",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

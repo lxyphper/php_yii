@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to pick up",
+      "error_analysis": "学生易因\"pick\"（捡）和\"up\"（向上）的字面意思，将\"to pick up\"误判为\"捡起（某物）\"，忽略其\"学会（语言/技能）\"的核心义项。",
+      "sentence": "She **picked up** French quickly by watching French movies every day.",
+      "options": {
+        "option": [
+          {
+            "definition": "学会（语言/技能）",
+            "iscorrect": true
+          },
+          {
+            "definition": "捡起（某物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "张贴（某物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "放下（某物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

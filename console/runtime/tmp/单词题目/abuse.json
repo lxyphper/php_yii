@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "abuse",
+      "error_analysis": "学生易因形近词“amuse”（使发笑）混淆，或因“ab-+use”词根错误推导为“不用”，而误判“abuse”的核心含义（虐待/滥用）。",
+      "sentence": "The animal shelter rescued a dog that had suffered severe **abuse** from its previous owner.",
+      "options": {
+        "option": [
+          {
+            "definition": "使发笑；娱乐",
+            "iscorrect": false
+          },
+          {
+            "definition": "不用；停止使用",
+            "iscorrect": false
+          },
+          {
+            "definition": "错误使用",
+            "iscorrect": false
+          },
+          {
+            "definition": "虐待；滥用；辱骂",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

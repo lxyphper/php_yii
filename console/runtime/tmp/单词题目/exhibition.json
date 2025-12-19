@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "exhibition",
+      "error_analysis": "中国学生易因形近词'examination'（考试）混淆词义，或因'ex-'词根误判为'出口'等含义。",
+      "sentence": "The art gallery will host a new **exhibition** of modern paintings next month.",
+      "options": {
+        "option": [
+          {
+            "definition": "展览",
+            "iscorrect": true
+          },
+          {
+            "definition": "考试",
+            "iscorrect": false
+          },
+          {
+            "definition": "出口",
+            "iscorrect": false
+          },
+          {
+            "definition": "兴奋",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

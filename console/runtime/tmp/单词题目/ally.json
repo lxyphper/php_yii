@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ally",
+      "error_analysis": "学生易因“ally”与“all”（所有）形近、词根拆分（“all”+“y”）误判为“所有”，或与“apply”（申请）形近混淆词义。",
+      "sentence": "During the war, our country found a reliable **ally** to fight against the enemy together.",
+      "options": {
+        "option": [
+          {
+            "definition": "盟友（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "所有（代词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "申请（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "全部的（形容词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

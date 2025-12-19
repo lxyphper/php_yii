@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "medcation",
+      "medikation",
+      "madication",
+      "medicasion",
+      "medicateion"
+    ],
+    "correct_chunks": [
+      "medi",
+      "ca",
+      "tion"
+    ],
+    "distractor_chunks": [
+      "med",
+      "ka",
+      "mad",
+      "sion",
+      "cate"
+    ]
+  },
+  0
+]

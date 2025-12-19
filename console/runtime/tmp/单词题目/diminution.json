@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "diminution",
+      "error_analysis": "学生易因形近词\"dimension\"（维度）混淆，或因词根\"min\"（小）过度直译为\"微小的物体\"",
+      "sentence": "The prolonged drought led to a significant **diminution** in the region's water supply, affecting both agriculture and daily life.",
+      "options": {
+        "option": [
+          {
+            "definition": "减少；缩小",
+            "iscorrect": true
+          },
+          {
+            "definition": "维度；尺寸",
+            "iscorrect": false
+          },
+          {
+            "definition": "微小的物体",
+            "iscorrect": false
+          },
+          {
+            "definition": "增加；增长",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

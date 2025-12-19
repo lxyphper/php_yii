@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "teaser",
+      "error_analysis": "易因形近词\"teacher\"(老师)混淆，或因词根\"tease\"(逗弄)误判为\"逗弄者\"，忽略最常见的\"(电影/广告的)预告片\"义项",
+      "sentence": "The movie studio released a short **teaser** to build excitement for their upcoming superhero film.",
+      "options": {
+        "option": [
+          {
+            "definition": "（电影/广告的）预告片",
+            "iscorrect": true
+          },
+          {
+            "definition": "老师",
+            "iscorrect": false
+          },
+          {
+            "definition": "逗弄者",
+            "iscorrect": false
+          },
+          {
+            "definition": "难题",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

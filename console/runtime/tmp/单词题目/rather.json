@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rather",
+      "error_analysis": "学生易将rather的\"相当\"（程度副词）误理解为\"非常\"（very）或因形近词（如father）产生无关联想",
+      "sentence": "The movie was **rather** boring, so we left early.",
+      "options": {
+        "option": [
+          {
+            "definition": "相当（程度副词，表示中等程度）",
+            "iscorrect": true
+          },
+          {
+            "definition": "非常（程度副词，表示很高程度）",
+            "iscorrect": false
+          },
+          {
+            "definition": "父亲（形近词，father的中文释义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "宁愿（would rather的中文释义）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

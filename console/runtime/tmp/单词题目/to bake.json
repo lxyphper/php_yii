@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to bake",
+      "error_analysis": "中国学生易将“bake”与形近词“make”（做）混淆，或误理解为“烹饪”的泛称而非具体“烤（用烤箱）”的动作。",
+      "sentence": "I usually **bake** bread on weekends; it tastes better than the store-bought one.",
+      "options": {
+        "option": [
+          {
+            "definition": "做",
+            "iscorrect": false
+          },
+          {
+            "definition": "烹饪",
+            "iscorrect": false
+          },
+          {
+            "definition": "烤（用烤箱）",
+            "iscorrect": true
+          },
+          {
+            "definition": "煮",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

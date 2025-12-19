@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unsettling",
+      "error_analysis": "学生易因“un-”+“settle”（解决/定居）的字面推导，误将“unsettling”理解为“未解决的”或“未定居的”",
+      "sentence": "The strange noise coming from the basement was **unsettling**; it made me hesitate before going down.",
+      "options": {
+        "option": [
+          {
+            "definition": "未解决的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人不安的",
+            "iscorrect": true
+          },
+          {
+            "definition": "未定居的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不稳定的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

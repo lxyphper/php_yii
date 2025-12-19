@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to need",
+      "error_analysis": "学生易因形近词“neat”（整洁的）干扰将“need”误理解为“整洁的”，或因词根联想错误将其与“necessary”混淆误记为“必要的”。",
+      "sentence": "I **need** a new pair of shoes because my old ones are worn out.",
+      "options": {
+        "option": [
+          {
+            "definition": "需要（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "整洁的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "必要的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "想要（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

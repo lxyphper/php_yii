@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "genocide",
+      "error_analysis": "学生易因\"geno-\"联想到\"gene(基因)\"而误解为\"基因灭绝\"，或因形近\"genius(天才)\"误判为\"天才的屠杀\"",
+      "sentence": "The United Nations defines **genocide** as acts committed with the intent to destroy, in whole or in part, a national, ethnic, racial, or religious group.",
+      "options": {
+        "option": [
+          {
+            "definition": "基因灭绝",
+            "iscorrect": false
+          },
+          {
+            "definition": "天才的屠杀",
+            "iscorrect": false
+          },
+          {
+            "definition": "种族灭绝",
+            "iscorrect": true
+          },
+          {
+            "definition": "家族谋杀",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

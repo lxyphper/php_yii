@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to caress",
+      "error_analysis": "因形近词“care”（关心）易误理解为“关心”或“照顾”，忽略其“温柔抚摸”的核心动作含义",
+      "sentence": "She **caressed** the soft fur of her cat while sitting on the sofa.",
+      "options": {
+        "option": [
+          {
+            "definition": "关心，照顾",
+            "iscorrect": false
+          },
+          {
+            "definition": "雕刻，切割",
+            "iscorrect": false
+          },
+          {
+            "definition": "抚摸，爱抚",
+            "iscorrect": true
+          },
+          {
+            "definition": "按压，挤压",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "comparatively",
+      "error_analysis": "学生易将\"comparatively\"与形近词\"competitively\"（竞争地）混淆，或根据词根\"compare\"过度直译为\"比较地\"而忽略其\"相对而言\"的核心语境义",
+      "sentence": "The task is **comparatively** easy for her since she has done similar work before.",
+      "options": {
+        "option": [
+          {
+            "definition": "相对地，比较而言",
+            "iscorrect": true
+          },
+          {
+            "definition": "竞争地",
+            "iscorrect": false
+          },
+          {
+            "definition": "比较地",
+            "iscorrect": false
+          },
+          {
+            "definition": "完全地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

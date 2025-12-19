@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "councillor",
+      "error_analysis": "易混淆形近词counselor（辅导员/法律顾问），或因词根counsel（建议）误解为“提供建议的人”。",
+      "sentence": "The local **councillor** will attend the community meeting to discuss the new park project.",
+      "options": {
+        "option": [
+          {
+            "definition": "（地方议会的）议员；政务委员",
+            "iscorrect": true
+          },
+          {
+            "definition": "辅导员；法律顾问",
+            "iscorrect": false
+          },
+          {
+            "definition": "提供建议的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "会议组织者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

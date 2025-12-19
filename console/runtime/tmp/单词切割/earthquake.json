@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "eartquake",
+      "earthqake",
+      "earhquake",
+      "earthquak",
+      "earquake"
+    ],
+    "correct_chunks": [
+      "ear",
+      "th",
+      "qu",
+      "ake"
+    ],
+    "distractor_chunks": [
+      "eart",
+      "qake",
+      "earh",
+      "quak"
+    ]
+  },
+  0
+]

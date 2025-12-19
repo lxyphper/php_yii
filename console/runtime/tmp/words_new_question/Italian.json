@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Italian",
+      "error_analysis": "学生易因形近词\"italic\"（斜体的）或\"italics\"（斜体字）的干扰，将\"Italian\"误理解为与斜体相关的含义。",
+      "sentence": "She ordered a classic **Italian** pizza with pepperoni and mushrooms.",
+      "options": {
+        "option": [
+          {
+            "definition": "意大利的；意大利人的；意大利语的",
+            "iscorrect": true
+          },
+          {
+            "definition": "斜体的",
+            "iscorrect": false
+          },
+          {
+            "definition": "斜体字",
+            "iscorrect": false
+          },
+          {
+            "definition": "西班牙的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "shopper",
+      "error_analysis": "学生易因形近词'shipper'(发货人)混淆，或因词根'shop'+'er'误判为'商店工作人员'。",
+      "sentence": "The supermarket gives a free cookie to every **shopper** who buys three or more items.",
+      "options": {
+        "option": [
+          {
+            "definition": "购物者",
+            "iscorrect": true
+          },
+          {
+            "definition": "发货人",
+            "iscorrect": false
+          },
+          {
+            "definition": "商店工作人员",
+            "iscorrect": false
+          },
+          {
+            "definition": "塞子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

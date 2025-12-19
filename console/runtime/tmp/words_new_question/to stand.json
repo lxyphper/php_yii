@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to stand",
+      "error_analysis": "中国学生易因形近词“stain”（污渍）的拼写相似，或误将“站立”与“停留”（stay）语义混淆而错解“to stand”的核心义。",
+      "sentence": "The old man **stood** at the bus stop, waiting for his granddaughter.",
+      "options": {
+        "option": [
+          {
+            "definition": "站立",
+            "iscorrect": true
+          },
+          {
+            "definition": "污渍",
+            "iscorrect": false
+          },
+          {
+            "definition": "停留",
+            "iscorrect": false
+          },
+          {
+            "definition": "支撑",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sociology",
+      "error_analysis": "学生易因形近词`society`（社会）或词根`-ology`理解不彻底，将`sociology`误判为“社会”“社会的”或“善社交的”。",
+      "sentence": "She is studying **sociology** at university to learn about how societies function and change.",
+      "options": {
+        "option": [
+          {
+            "definition": "社会",
+            "iscorrect": false
+          },
+          {
+            "definition": "社会学",
+            "iscorrect": true
+          },
+          {
+            "definition": "善社交的",
+            "iscorrect": false
+          },
+          {
+            "definition": "社会的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

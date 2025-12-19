@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to consent",
+      "error_analysis": "易混淆形近词content（内容/满足），或因词根con-（共同）+sent（感觉）误判为“共同感觉”或“同情”。",
+      "sentence": "Before signing the contract, make sure you fully understand and **consent** to all the terms.",
+      "options": {
+        "option": [
+          {
+            "definition": "内容；满足的",
+            "iscorrect": false
+          },
+          {
+            "definition": "共同感觉；同情",
+            "iscorrect": false
+          },
+          {
+            "definition": "坚持；持续",
+            "iscorrect": false
+          },
+          {
+            "definition": "同意；赞成",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

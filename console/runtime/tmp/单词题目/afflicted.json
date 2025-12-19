@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "afflicted",
+      "error_analysis": "易混淆形近词afforded（负担得起）和affected（受影响的/假装的），导致误判为“负担得起的”或“受影响的”",
+      "sentence": "Many people in the region were **afflicted** with a severe drought that ruined their crops.",
+      "options": {
+        "option": [
+          {
+            "definition": "受折磨的；遭受...之苦的",
+            "iscorrect": true
+          },
+          {
+            "definition": "负担得起的",
+            "iscorrect": false
+          },
+          {
+            "definition": "受影响的",
+            "iscorrect": false
+          },
+          {
+            "definition": "假装的；做作的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

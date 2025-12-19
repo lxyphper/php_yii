@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "football",
+      "error_analysis": "中国学生易因形近词“footfall”（脚步声）干扰，或误将“football”理解为美式英语的“橄榄球”（而非教材中的“足球”）。",
+      "sentence": "The kids are playing **football** in the park with their new ball.",
+      "options": {
+        "option": [
+          {
+            "definition": "足球（英式英语中的主要含义，指用脚踢的球类运动）",
+            "iscorrect": true
+          },
+          {
+            "definition": "脚步声（来自形近词“footfall”的误判）",
+            "iscorrect": false
+          },
+          {
+            "definition": "橄榄球（美式英语中的含义，非中国教材主要教授义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "步行桥（来自形近词“footbridge”的误判）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

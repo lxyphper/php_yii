@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unnatural",
+      "error_analysis": "学生易将“unnatural”混淆为“不寻常的”（语义/形近干扰）或“反自然的”（词根过度直译）",
+      "sentence": "Her smile seemed **unnatural** when she received the unexpected gift—she obviously didn’t like it but tried to hide her feelings.",
+      "options": {
+        "option": [
+          {
+            "definition": "不自然的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不寻常的",
+            "iscorrect": false
+          },
+          {
+            "definition": "反自然的",
+            "iscorrect": false
+          },
+          {
+            "definition": "未命名的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

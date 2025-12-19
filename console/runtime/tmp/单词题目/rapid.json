@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rapid",
+      "error_analysis": "中国学生易因形近词\"rabbit\"（兔子）混淆词义，或误将\"rap\"（说唱）词根关联为\"说唱的\"。",
+      "sentence": "The cheetah is known for its **rapid** speed, which allows it to catch prey quickly.",
+      "options": {
+        "option": [
+          {
+            "definition": "快的；迅速的",
+            "iscorrect": true
+          },
+          {
+            "definition": "兔子的；像兔子的",
+            "iscorrect": false
+          },
+          {
+            "definition": "说唱的；有节奏的",
+            "iscorrect": false
+          },
+          {
+            "definition": "缓慢的；迟缓的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

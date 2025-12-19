@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to enlarge",
+      "error_analysis": "学生易混淆形近词“engage”（参与），或因词根“en-+large”的字面误导误选“延长”。",
+      "sentence": "The photographer decided to **enlarge** the family photo to hang it on the living room wall.",
+      "options": {
+        "option": [
+          {
+            "definition": "扩大；放大",
+            "iscorrect": true
+          },
+          {
+            "definition": "参与；从事",
+            "iscorrect": false
+          },
+          {
+            "definition": "延长；拉长",
+            "iscorrect": false
+          },
+          {
+            "definition": "增强；提高",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

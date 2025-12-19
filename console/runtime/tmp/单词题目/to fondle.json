@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to fondle",
+      "error_analysis": "学生易将“fondle”与形近词“fond”（喜欢的）混淆，误以为是“喜欢”的动词形式，而非“抚摸”。",
+      "sentence": "The old man sat on the bench, gently **fondling** his cat's soft fur while watching the kids play.",
+      "options": {
+        "option": [
+          {
+            "definition": "抚摸；爱抚（用手轻柔地触摸）",
+            "iscorrect": true
+          },
+          {
+            "definition": "喜欢；喜爱（对某物有好感）",
+            "iscorrect": false
+          },
+          {
+            "definition": "使...变得喜欢（通过行动让对方产生好感）",
+            "iscorrect": false
+          },
+          {
+            "definition": "处理；应对（如处理问题）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

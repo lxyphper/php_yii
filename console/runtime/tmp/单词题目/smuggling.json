@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "smuggling",
+      "error_analysis": "学生易因形近词\"snuggling\"（依偎）的拼写干扰，将\"smuggling\"误判为\"依偎\"或类似亲密动作",
+      "sentence": "The customs officers found hidden weapons in the cargo during a check, revealing that **smuggling** had been happening at the border.",
+      "options": {
+        "option": [
+          {
+            "definition": "走私（非法运输货物的活动）",
+            "iscorrect": true
+          },
+          {
+            "definition": "依偎（亲密地靠在一起的动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "弄脏（留下模糊污渍的行为）",
+            "iscorrect": false
+          },
+          {
+            "definition": "微笑（露出笑容的行为）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

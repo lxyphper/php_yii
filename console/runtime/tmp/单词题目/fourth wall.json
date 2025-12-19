@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fourth wall",
+      "error_analysis": "学生易将\"fourth wall\"直译为物理上的\"第四面墙\"或理解为\"第四道障碍\"，忽略其戏剧/电影中虚拟边界的含义。",
+      "sentence": "In the movie, the main character suddenly turns to the camera and speaks directly to the audience, breaking the **fourth wall** in a humorous way.",
+      "options": {
+        "option": [
+          {
+            "definition": "（戏剧或电影中）观众与舞台/屏幕之间的虚拟边界（演员通常不打破它）",
+            "iscorrect": true
+          },
+          {
+            "definition": "物理上的第四面墙（如房间的第四堵墙）",
+            "iscorrect": false
+          },
+          {
+            "definition": "向前延伸的墙（如建筑中突出的墙面）",
+            "iscorrect": false
+          },
+          {
+            "definition": "第四道需要克服的障碍或困难（如生活中的挑战）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

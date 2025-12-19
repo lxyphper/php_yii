@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to bite",
+      "error_analysis": "中国学生易因形近词\"byte\"(字节)、\"bike\"(自行车)或\"bit\"(一点)的拼写相似而误解\"to bite\"的含义",
+      "sentence": "The cat will **bite** you if you pull its tail.",
+      "options": {
+        "option": [
+          {
+            "definition": "咬",
+            "iscorrect": true
+          },
+          {
+            "definition": "字节",
+            "iscorrect": false
+          },
+          {
+            "definition": "自行车",
+            "iscorrect": false
+          },
+          {
+            "definition": "一点",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

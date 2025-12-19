@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "metronome",
+      "error_analysis": "学生易因\"metro\"（地铁）的形近联想，误将\"metronome\"理解为与地铁相关的设备，或通过不熟悉的词根错误推导词义。",
+      "sentence": "The pianist used a **metronome** to keep a steady tempo while practicing the sonata.",
+      "options": {
+        "option": [
+          {
+            "definition": "节拍器",
+            "iscorrect": true
+          },
+          {
+            "definition": "地铁计时器",
+            "iscorrect": false
+          },
+          {
+            "definition": "长度测量仪",
+            "iscorrect": false
+          },
+          {
+            "definition": "音乐播放器",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

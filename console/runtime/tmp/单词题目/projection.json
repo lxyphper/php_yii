@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "projection",
+      "error_analysis": "学生易因形近词“project”误将“projection”理解为“项目”，或因词根“pro-”+“-ject”过度直译为“投射物”。",
+      "sentence": "The economic report includes a **projection** of 3% growth for next year.",
+      "options": {
+        "option": [
+          {
+            "definition": "预测",
+            "iscorrect": true
+          },
+          {
+            "definition": "项目",
+            "iscorrect": false
+          },
+          {
+            "definition": "投射物",
+            "iscorrect": false
+          },
+          {
+            "definition": "保护",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

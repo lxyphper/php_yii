@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to exalt",
+      "error_analysis": "学生易因形近词\"exhaust\"（耗尽）混淆词义，或因词根\"ex-\"（出）+\"alt\"（高）过度推导为\"突出\"而非\"赞扬/提升地位\"",
+      "sentence": "The ceremony was held to **exalt** the scientist for his groundbreaking contributions to medicine.",
+      "options": {
+        "option": [
+          {
+            "definition": "赞扬；提升（地位或声誉）",
+            "iscorrect": true
+          },
+          {
+            "definition": "耗尽；使疲惫",
+            "iscorrect": false
+          },
+          {
+            "definition": "突出；使显眼",
+            "iscorrect": false
+          },
+          {
+            "definition": "降低；使谦卑",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "urban",
+      "error_analysis": "学生易因形近词\"suburban\"(郊区的)或\"urbane\"(彬彬有礼的)混淆，将\"urban\"误判为\"郊区的\"或\"彬彬有礼的\"",
+      "sentence": "Many young people prefer **urban** life because of the convenient transportation and diverse entertainment options.",
+      "options": {
+        "option": [
+          {
+            "definition": "城市的",
+            "iscorrect": true
+          },
+          {
+            "definition": "郊区的",
+            "iscorrect": false
+          },
+          {
+            "definition": "彬彬有礼的",
+            "iscorrect": false
+          },
+          {
+            "definition": "乡村的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "foxy",
+      "error_analysis": "学生易因形近词\"fox\"（狐狸）误判为\"狐狸的\"，忽略其引申义\"狡猾的\"或\"狡诈的\"",
+      "sentence": "The salesman used a **foxy** trick to convince her to buy the overpriced phone.",
+      "options": {
+        "option": [
+          {
+            "definition": "狐狸的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有狐狸特征的",
+            "iscorrect": false
+          },
+          {
+            "definition": "狡猾的",
+            "iscorrect": true
+          },
+          {
+            "definition": "毛茸茸的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "grade",
+      "error_analysis": "中国学生易因形近词“grape”（葡萄）产生错误联想，或因词根“grad-”误将“grade”理解为“毕业”。",
+      "sentence": "The teacher will give you a **grade** based on your essay’s quality and originality.",
+      "options": {
+        "option": [
+          {
+            "definition": "分数；等级",
+            "iscorrect": true
+          },
+          {
+            "definition": "葡萄",
+            "iscorrect": false
+          },
+          {
+            "definition": "毕业",
+            "iscorrect": false
+          },
+          {
+            "definition": "草地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

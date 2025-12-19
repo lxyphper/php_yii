@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "local area network",
+      "error_analysis": "学生易因形近词（area→art）误解为“本地艺术网络”，或因词根直译将“local area”误作“本地面积”而理解为“本地面积网络”",
+      "sentence": "The company uses a **local area network** to connect all the computers in the office so that employees can share files easily.",
+      "options": {
+        "option": [
+          {
+            "definition": "局域网",
+            "iscorrect": true
+          },
+          {
+            "definition": "本地艺术网络",
+            "iscorrect": false
+          },
+          {
+            "definition": "本地面积网络",
+            "iscorrect": false
+          },
+          {
+            "definition": "广域网",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

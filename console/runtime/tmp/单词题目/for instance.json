@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "for instance",
+      "error_analysis": "学生易因形近词\"instant\"（立刻；瞬间）的干扰，将\"for instance\"误解为与\"时间紧迫\"相关的含义",
+      "sentence": "Many fruits are rich in vitamins, **for instance**, oranges and strawberries are high in vitamin C.",
+      "options": {
+        "option": [
+          {
+            "definition": "例如",
+            "iscorrect": true
+          },
+          {
+            "definition": "立刻；瞬间",
+            "iscorrect": false
+          },
+          {
+            "definition": "为了实例",
+            "iscorrect": false
+          },
+          {
+            "definition": "因为原因",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

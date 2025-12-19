@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cross",
+      "error_analysis": "中国学生易将形容词“cross”（生气的）误判为形近词“crossing”（十字路口）的简化，或因动词“穿过”的词根误导为“穿过的”，忽略其核心义。",
+      "sentence": "Mom was **cross** with me because I broke her favorite cup.",
+      "options": {
+        "option": [
+          {
+            "definition": "生气的",
+            "iscorrect": true
+          },
+          {
+            "definition": "十字路口",
+            "iscorrect": false
+          },
+          {
+            "definition": "穿过的",
+            "iscorrect": false
+          },
+          {
+            "definition": "交叉的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

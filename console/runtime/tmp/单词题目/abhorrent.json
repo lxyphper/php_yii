@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "abhorrent",
+      "error_analysis": "中国学生易因形近词“abundant”（丰富的）或词根“horr”（恐怖）误将“abhorrent”理解为“丰富的”或“恐怖的”",
+      "sentence": "The way he treated the animals was **abhorrent** to everyone who saw it.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人憎恶的；可恶的",
+            "iscorrect": true
+          },
+          {
+            "definition": "丰富的；充裕的",
+            "iscorrect": false
+          },
+          {
+            "definition": "恐怖的；可怕的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无聊的；乏味的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

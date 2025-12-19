@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "world",
+      "error_analysis": "易混淆形近词\"word\"(单词)，或误将\"world\"拆分为\"work\"(工作)+\"-ld\"理解为\"工作场所\"",
+      "sentence": "Many people dream of traveling around the **world** to experience different cultures.",
+      "options": {
+        "option": [
+          {
+            "definition": "世界（地球上的所有国家、人民和事物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "单词（语言中的基本表达单位）",
+            "iscorrect": false
+          },
+          {
+            "definition": "工作场所（进行工作的地方）",
+            "iscorrect": false
+          },
+          {
+            "definition": "伤口（皮肤或身体组织的损伤）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

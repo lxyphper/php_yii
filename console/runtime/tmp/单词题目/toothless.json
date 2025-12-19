@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "toothless",
+      "error_analysis": "学生易将“toothless”的比喻义（无效的）与形近词“thoughtless”（粗心的）混淆，或仅理解字面义“没有牙齿的”而忽略比喻义。",
+      "sentence": "The new anti-pollution law was criticized as **toothless** because it didn't impose any real penalties on factories.",
+      "options": {
+        "option": [
+          {
+            "definition": "无效的",
+            "iscorrect": true
+          },
+          {
+            "definition": "粗心的",
+            "iscorrect": false
+          },
+          {
+            "definition": "没有牙齿的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无果的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

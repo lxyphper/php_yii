@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "standard",
+      "error_analysis": "学生易因形近词“stand”（站立）过度推导，将“standard”误解为“站立的物体”或“支架”",
+      "sentence": "The school has set a high **standard** for academic performance.",
+      "options": {
+        "option": [
+          {
+            "definition": "标准；规范",
+            "iscorrect": true
+          },
+          {
+            "definition": "支架；站立的物体",
+            "iscorrect": false
+          },
+          {
+            "definition": "站立的动作或状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "旗帜；旌旗（古义）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

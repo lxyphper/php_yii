@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pleasing",
+      "error_analysis": "中国学生易将\"pleasing\"与形近词\"pleading\"（恳求的）混淆，或因\"please\"的动词义误判为\"请求的\"。",
+      "sentence": "The artist's **pleasing** landscape painting caught everyone's eye and made the room feel warmer.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人愉快的，讨人喜欢的",
+            "iscorrect": true
+          },
+          {
+            "definition": "恳求的，哀求的",
+            "iscorrect": false
+          },
+          {
+            "definition": "请求的，要求的",
+            "iscorrect": false
+          },
+          {
+            "definition": "被取悦的，感到高兴的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

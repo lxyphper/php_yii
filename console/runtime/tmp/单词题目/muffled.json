@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "muffled",
+      "error_analysis": "学生易因形近词\"muddled\"(混乱的)或词根\"muff\"(搞砸)错误理解\"muffled\"为\"混乱的\"或\"搞砸的\"",
+      "sentence": "The sound of the thunder was **muffled** by the thick blankets over the windows, making it seem far away.",
+      "options": {
+        "option": [
+          {
+            "definition": "（声音）低沉的；被捂住的",
+            "iscorrect": true
+          },
+          {
+            "definition": "混乱的；糊涂的",
+            "iscorrect": false
+          },
+          {
+            "definition": "搞砸的；失败的",
+            "iscorrect": false
+          },
+          {
+            "definition": "覆盖的；被遮住的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

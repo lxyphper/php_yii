@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "photomontage",
+      "error_analysis": "学生易因形近词\"photograph\"（照片）混淆，或因\"photo\"（照片）+\"montage\"（猜测为\"组合\"）错误理解为\"照片集合\"。",
+      "sentence": "The artist displayed a stunning **photomontage** made from hundreds of old family photos, weaving them into a single cohesive story through the collage technique.",
+      "options": {
+        "option": [
+          {
+            "definition": "照片拼贴画（通过拼接多张照片制作的艺术作品）",
+            "iscorrect": true
+          },
+          {
+            "definition": "照片（拍摄的单张图像，等同于photograph）",
+            "iscorrect": false
+          },
+          {
+            "definition": "照片集合（多张照片的简单收集或整理）",
+            "iscorrect": false
+          },
+          {
+            "definition": "摄影设备（用于拍摄照片的工具，如相机）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

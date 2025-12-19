@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "subpar",
+      "error_analysis": "学生因不熟悉“par”表示“标准”的含义，易将“sub-”（下面）与“par”误判为“部分”或“位置”，导致误解为“下面的部分”或“次要的”",
+      "sentence": "The restaurant received many complaints about its **subpar** service, which was slower than usual and unfriendly.",
+      "options": {
+        "option": [
+          {
+            "definition": "低于标准的；不合格的",
+            "iscorrect": true
+          },
+          {
+            "definition": "下面的部分；底层的",
+            "iscorrect": false
+          },
+          {
+            "definition": "次要的；辅助的",
+            "iscorrect": false
+          },
+          {
+            "definition": "超级的；优越的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

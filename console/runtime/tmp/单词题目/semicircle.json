@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "semicircle",
+      "error_analysis": "学生易因词根`circle`的三维联想将`semicircle`误解为“半圆柱”，或与“扇形”“弧”等形状概念混淆。",
+      "sentence": "The children sat in a **semicircle** around the teacher to listen to the story.",
+      "options": {
+        "option": [
+          {
+            "definition": "半圆柱",
+            "iscorrect": false
+          },
+          {
+            "definition": "扇形",
+            "iscorrect": false
+          },
+          {
+            "definition": "半圆",
+            "iscorrect": true
+          },
+          {
+            "definition": "弧",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

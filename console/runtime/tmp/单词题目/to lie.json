@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to lie",
+      "error_analysis": "学生易将“to lie”与同形词“lay”（放置）或形近词“die”（死亡）混淆，误判为“放置”或“死亡”",
+      "sentence": "On weekends, I usually **lie** in bed until 10 a.m.",
+      "options": {
+        "option": [
+          {
+            "definition": "躺",
+            "iscorrect": true
+          },
+          {
+            "definition": "放置",
+            "iscorrect": false
+          },
+          {
+            "definition": "死亡",
+            "iscorrect": false
+          },
+          {
+            "definition": "说谎",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to check out",
+      "error_analysis": "中国学生易因\"check\"(检查)和\"out\"(出去)的字面意思，将\"check out\"误译为\"检查外出情况\"或混淆\"check in\"(登记入住)。",
+      "sentence": "Before leaving the hotel, please remember to **check out** at the reception desk.",
+      "options": {
+        "option": [
+          {
+            "definition": "检查外出情况",
+            "iscorrect": false
+          },
+          {
+            "definition": "登记入住（酒店）",
+            "iscorrect": false
+          },
+          {
+            "definition": "结账离开（酒店/商店）",
+            "iscorrect": true
+          },
+          {
+            "definition": "仔细检查（某物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

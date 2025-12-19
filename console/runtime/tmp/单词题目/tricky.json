@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tricky",
+      "error_analysis": "学生易因形近词\"trick\"(诡计/把戏)将\"tricky\"误解为\"诡计多端的\"或\"有把戏的\"，忽略其核心义\"棘手的\"",
+      "sentence": "The math problem looks simple at first, but it's actually **tricky**—many students got it wrong.",
+      "options": {
+        "option": [
+          {
+            "definition": "棘手的；难处理的",
+            "iscorrect": true
+          },
+          {
+            "definition": "诡计多端的；狡猾的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有把戏的；好玩的",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速的；敏捷的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

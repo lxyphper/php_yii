@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "gessing game",
+      "guessing geme",
+      "guessing gime",
+      "gussing game",
+      "guessing gamme"
+    ],
+    "correct_chunks": [
+      "guess",
+      "ing",
+      "game"
+    ],
+    "distractor_chunks": [
+      "gess",
+      "geme",
+      "gime",
+      "guss",
+      "gam"
+    ]
+  },
+  0
+]

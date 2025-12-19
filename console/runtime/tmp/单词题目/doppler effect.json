@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "doppler effect",
+      "error_analysis": "学生易将'doppler'误联想为常见词'double'（双重的），从而误解为'双重效应'，或因不认识'Doppler'而猜测与'做（do）'相关的效应。",
+      "sentence": "When a police car with its siren on approaches you, the pitch of the siren seems higher, and it lowers as the car moves away—this is a classic example of the **doppler effect**.",
+      "options": {
+        "option": [
+          {
+            "definition": "多普勒效应（当波源与观察者相对运动时，波的频率发生变化的现象，如警车鸣笛靠近时音调变高）",
+            "iscorrect": true
+          },
+          {
+            "definition": "双重效应（如某行为同时产生两种结果的现象）",
+            "iscorrect": false
+          },
+          {
+            "definition": "做某事的效应（如执行某个动作带来的直接结果）",
+            "iscorrect": false
+          },
+          {
+            "definition": "多普勒的影响（指多普勒这个人或事物带来的泛泛影响）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

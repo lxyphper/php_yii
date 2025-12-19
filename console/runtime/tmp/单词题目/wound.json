@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wound",
+      "error_analysis": "混淆名词\"伤口\"与动词wind的过去式\"缠绕\"（形近词干扰是核心易错点）",
+      "sentence": "After falling off his bike, Tom had a painful **wound** on his knee that needed stitches.",
+      "options": {
+        "option": [
+          {
+            "definition": "伤口（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "缠绕（动词wind的过去式）",
+            "iscorrect": false
+          },
+          {
+            "definition": "伤害（动词wound的过去式）",
+            "iscorrect": false
+          },
+          {
+            "definition": "发现（动词find的过去式）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

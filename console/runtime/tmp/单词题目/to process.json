@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to process",
+      "error_analysis": "易混淆形近词\"progress\"(进步)及词根\"pro-\"(向前)+\"cess\"(走)误导，误判为\"前进/进展\"",
+      "sentence": "The company needs to **process** all customer orders within 24 hours to ensure timely delivery.",
+      "options": {
+        "option": [
+          {
+            "definition": "处理；加工",
+            "iscorrect": true
+          },
+          {
+            "definition": "进步；进展",
+            "iscorrect": false
+          },
+          {
+            "definition": "前进；行走",
+            "iscorrect": false
+          },
+          {
+            "definition": "通过；批准",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

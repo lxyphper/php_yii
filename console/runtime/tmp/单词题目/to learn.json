@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to learn",
+      "error_analysis": "中国学生易因形近词混淆，将“to learn”误理解为“to lean”（倾斜）或“to earn”（赚钱）",
+      "sentence": "She wants to **learn** how to play the piano from her teacher.",
+      "options": {
+        "option": [
+          {
+            "definition": "学习；学会",
+            "iscorrect": true
+          },
+          {
+            "definition": "倾斜；倚靠",
+            "iscorrect": false
+          },
+          {
+            "definition": "赚钱；挣得",
+            "iscorrect": false
+          },
+          {
+            "definition": "教；教授",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

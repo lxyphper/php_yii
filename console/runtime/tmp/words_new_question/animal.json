@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "animal",
+      "error_analysis": "学生易因形近词“anime”（动漫）混淆词义，或因词根“animalis”（有生命的）误将“animal”理解为“有生命的事物”，或混淆“动物”与“宠物”（特指与泛指）。",
+      "sentence": "The zookeeper feeds the **animal** every morning to keep it healthy.",
+      "options": {
+        "option": [
+          {
+            "definition": "动物",
+            "iscorrect": true
+          },
+          {
+            "definition": "宠物",
+            "iscorrect": false
+          },
+          {
+            "definition": "动漫",
+            "iscorrect": false
+          },
+          {
+            "definition": "有生命的物体",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

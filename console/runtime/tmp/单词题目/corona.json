@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "corona",
+      "error_analysis": "学生易因形近词“corner”（角落）的拼写/发音相似而误解“corona”为“角落”，或因词根猜测错误（如与“core”混淆）误认为“核心”",
+      "sentence": "The sun's **corona** is visible during a total solar eclipse, appearing as a bright ring around the dark moon.",
+      "options": {
+        "option": [
+          {
+            "definition": "冠状物；日冕",
+            "iscorrect": true
+          },
+          {
+            "definition": "角落",
+            "iscorrect": false
+          },
+          {
+            "definition": "核心",
+            "iscorrect": false
+          },
+          {
+            "definition": "王冠",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

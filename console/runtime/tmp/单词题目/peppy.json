@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "peppy",
+      "error_analysis": "学生易因\"peppy\"与基础词\"happy\"（拼写后半部分相同）形近，误理解为\"快乐的\"，或因与\"puppy\"（发音、拼写相近）联想，误判为\"像小狗一样的\"",
+      "sentence": "Lisa was so **peppy** this morning—she sang while making breakfast and even did a little dance.",
+      "options": {
+        "option": [
+          {
+            "definition": "精力充沛的；活泼的",
+            "iscorrect": true
+          },
+          {
+            "definition": "快乐的",
+            "iscorrect": false
+          },
+          {
+            "definition": "像小狗一样的",
+            "iscorrect": false
+          },
+          {
+            "definition": "疲惫的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "trifling",
+      "error_analysis": "中国学生易因形近词\"trial\"(试验/尝试)或\"trickling\"(滴流的)产生错误联想，或因\"trifle\"(开玩笑)的词根义误判为\"有趣的\"。",
+      "sentence": "Don't waste your energy on such a **trifling** problem—there are more important things to do.",
+      "options": {
+        "option": [
+          {
+            "definition": "微不足道的；不重要的",
+            "iscorrect": true
+          },
+          {
+            "definition": "试验的；尝试的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有趣的；逗乐的",
+            "iscorrect": false
+          },
+          {
+            "definition": "滴流的；流淌的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

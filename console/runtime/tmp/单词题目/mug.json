@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mug",
+      "error_analysis": "学生易因形近词“bug”（虫子）或拼写接近“mud”（泥）而误判“mug”的含义",
+      "sentence": "She poured some hot coffee into her favorite **mug** and sat by the window to enjoy the morning sun.",
+      "options": {
+        "option": [
+          {
+            "definition": "马克杯",
+            "iscorrect": true
+          },
+          {
+            "definition": "虫子",
+            "iscorrect": false
+          },
+          {
+            "definition": "泥",
+            "iscorrect": false
+          },
+          {
+            "definition": "地毯",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "painstaking",
+      "error_analysis": "学生易因\"pain\"（痛苦）形近联想为\"痛苦的\"（painful），或因\"pain\"+\"staking\"（赌注）字面误导为\"有风险的\"。",
+      "sentence": "The artist spent months on a **painstaking** restoration of the old painting, ensuring every detail was preserved.",
+      "options": {
+        "option": [
+          {
+            "definition": "精心的；煞费苦心的",
+            "iscorrect": true
+          },
+          {
+            "definition": "痛苦的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有风险的",
+            "iscorrect": false
+          },
+          {
+            "definition": "匆忙的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

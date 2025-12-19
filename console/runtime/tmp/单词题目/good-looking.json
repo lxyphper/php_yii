@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "good-looking",
+      "error_analysis": "易将\"good-looking\"字面拆解为\"好好看（动作）\"，或误联想\"good\"的\"善良\"义而误解",
+      "sentence": "Sarah is a **good-looking** girl; everyone likes her smile.",
+      "options": {
+        "option": [
+          {
+            "definition": "好看的；漂亮的",
+            "iscorrect": true
+          },
+          {
+            "definition": "仔细看；认真看",
+            "iscorrect": false
+          },
+          {
+            "definition": "看起来很好",
+            "iscorrect": false
+          },
+          {
+            "definition": "善良的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

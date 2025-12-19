@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "someone",
+      "error_analysis": "学生易将\"someone\"拆分为\"some+one\"，错误理解为\"一些人\"（some people）",
+      "sentence": "I heard **someone** knocking at the door last night, but when I opened it, there was nobody there.",
+      "options": {
+        "option": [
+          {
+            "definition": "某人（a person）",
+            "iscorrect": true
+          },
+          {
+            "definition": "一些人（some people）",
+            "iscorrect": false
+          },
+          {
+            "definition": "某个东西（something）",
+            "iscorrect": false
+          },
+          {
+            "definition": "任何人（anyone）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

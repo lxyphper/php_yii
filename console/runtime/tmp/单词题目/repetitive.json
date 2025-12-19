@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "repetitive",
+      "error_analysis": "中国学生易因形近词\"competitive\"(竞争的)或词根\"pet\"(宠物)的字面误导，将\"repetitive\"误解为\"竞争的\"或\"与宠物相关的\"。",
+      "sentence": "The teacher found the student's essay **repetitive** because he kept using the same examples over and over again.",
+      "options": {
+        "option": [
+          {
+            "definition": "竞争的",
+            "iscorrect": false
+          },
+          {
+            "definition": "与宠物相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "各自的",
+            "iscorrect": false
+          },
+          {
+            "definition": "重复的；啰嗦的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "contentment",
+      "error_analysis": "将形近词content（内容）的含义错误迁移，误以为contentment是“内容”或“内容的状态”",
+      "sentence": "After years of hard work, he finally achieved a sense of **contentment** living in a small village with his family.",
+      "options": {
+        "option": [
+          {
+            "definition": "满足；知足",
+            "iscorrect": true
+          },
+          {
+            "definition": "内容；目录",
+            "iscorrect": false
+          },
+          {
+            "definition": "内容的状态；内容性",
+            "iscorrect": false
+          },
+          {
+            "definition": "遏制；控制",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "green belt",
+      "error_analysis": "学生易因“green”（绿色）和“belt”（腰带）的字面含义，将“green belt”误理解为“绿色腰带/皮带”。",
+      "sentence": "The city council plans to expand the **green belt** around the downtown area to reduce pollution and provide more green space for residents.",
+      "options": {
+        "option": [
+          {
+            "definition": "（城市周围的）绿化带",
+            "iscorrect": true
+          },
+          {
+            "definition": "绿色腰带",
+            "iscorrect": false
+          },
+          {
+            "definition": "绿色地带",
+            "iscorrect": false
+          },
+          {
+            "definition": "环保皮带",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

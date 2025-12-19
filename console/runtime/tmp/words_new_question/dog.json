@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dog",
+      "error_analysis": "中国学生易因形近词“dig”（挖）、“fog”（雾）的拼写混淆，将“dog”错误理解为这些词的词义。",
+      "sentence": "My neighbor has a cute **dog** that wags its tail every time I pass by.",
+      "options": {
+        "option": [
+          {
+            "definition": "狗（名词，哺乳动物，常见宠物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "挖（动词，用工具或手掘土）",
+            "iscorrect": false
+          },
+          {
+            "definition": "雾（名词，悬浮在近地面的微小水滴或冰晶）",
+            "iscorrect": false
+          },
+          {
+            "definition": "日志（名词，记录日常事件的本子）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

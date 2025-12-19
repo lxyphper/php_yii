@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "annoyed",
+      "error_analysis": "中国学生易因形近词“announced”（宣布的）混淆，或误将其理解为“感到无聊的”。",
+      "sentence": "She was **annoyed** because her brother kept borrowing her phone without asking.",
+      "options": {
+        "option": [
+          {
+            "definition": "感到恼怒的；生气的",
+            "iscorrect": true
+          },
+          {
+            "definition": "宣布的；公布的",
+            "iscorrect": false
+          },
+          {
+            "definition": "感到无聊的；厌烦的",
+            "iscorrect": false
+          },
+          {
+            "definition": "感到兴奋的；激动的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

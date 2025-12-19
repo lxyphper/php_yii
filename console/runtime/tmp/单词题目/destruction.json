@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "destruction",
+      "error_analysis": "学生易因形近词\"destination\"(目的地)的干扰，或\"de-\"+\"struct\"(结构)的词根错误推导(如\"结构下方\")而误判。",
+      "sentence": "The hurricane caused widespread **destruction** in the coastal town, leaving many houses in ruins.",
+      "options": {
+        "option": [
+          {
+            "definition": "破坏；毁灭",
+            "iscorrect": true
+          },
+          {
+            "definition": "目的地；终点",
+            "iscorrect": false
+          },
+          {
+            "definition": "建设；建造",
+            "iscorrect": false
+          },
+          {
+            "definition": "结构的下方；底层结构",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

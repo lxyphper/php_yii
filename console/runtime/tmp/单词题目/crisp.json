@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "crisp",
+      "error_analysis": "学生易因形近词“crisis”（危机）或“crush”（挤压）误将“crisp”理解为“危机的”或“挤压的”",
+      "sentence": "The potato chips straight from the oven are **crisp**—they break easily when you bite into them.",
+      "options": {
+        "option": [
+          {
+            "definition": "脆的；酥脆的",
+            "iscorrect": true
+          },
+          {
+            "definition": "危机的",
+            "iscorrect": false
+          },
+          {
+            "definition": "挤压的",
+            "iscorrect": false
+          },
+          {
+            "definition": "硬皮的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

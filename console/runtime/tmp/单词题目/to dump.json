@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to dump",
+      "error_analysis": "学生易因“dump”与“jump”（跳）拼写均为“-ump”结尾而混淆，或误将其理解为“堆积”（因“倒”的动作易联想错误）",
+      "sentence": "She decided to **dump** all her old toys in the recycling bin before moving.",
+      "options": {
+        "option": [
+          {
+            "definition": "跳",
+            "iscorrect": false
+          },
+          {
+            "definition": "堆积",
+            "iscorrect": false
+          },
+          {
+            "definition": "丢弃；倾倒",
+            "iscorrect": true
+          },
+          {
+            "definition": "清理",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

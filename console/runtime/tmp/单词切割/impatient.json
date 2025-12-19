@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "inpatient",
+      "impaitent",
+      "impatiant",
+      "impatent"
+    ],
+    "correct_chunks": [
+      "im",
+      "pat",
+      "ient"
+    ],
+    "distractor_chunks": [
+      "in",
+      "pait",
+      "ant",
+      "ent"
+    ]
+  },
+  0
+]

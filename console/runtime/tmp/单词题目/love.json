@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "love",
+      "error_analysis": "形近词“live”（生活；居住）的干扰，学生易将“love”误判为“生活”",
+      "sentence": "She has a deep **love** for her family and always puts them first.",
+      "options": {
+        "option": [
+          {
+            "definition": "爱；热爱",
+            "iscorrect": true
+          },
+          {
+            "definition": "生活；居住",
+            "iscorrect": false
+          },
+          {
+            "definition": "喜欢（程度较弱）",
+            "iscorrect": false
+          },
+          {
+            "definition": "离开；出发",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

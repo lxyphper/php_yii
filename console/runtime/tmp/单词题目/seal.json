@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "seal",
+      "error_analysis": "学生易因形近词“steal”（偷）干扰或混淆“seal”的“海豹”（名）与“密封”（动）含义而误判",
+      "sentence": "Please **seal** the jar to keep the food fresh.",
+      "options": {
+        "option": [
+          {
+            "definition": "偷",
+            "iscorrect": false
+          },
+          {
+            "definition": "密封（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "海豹（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "治愈",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

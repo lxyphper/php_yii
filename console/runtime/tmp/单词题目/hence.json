@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hence",
+      "error_analysis": "学生易因“hence”包含“hen”（母鸡）的形近部分而产生与“动物”相关的错误联想，或忽略其核心副词含义“因此”。",
+      "sentence": "The project was underfunded from the start, **hence** its failure was almost inevitable.",
+      "options": {
+        "option": [
+          {
+            "definition": "因此；由此（副词，表因果关系）",
+            "iscorrect": true
+          },
+          {
+            "definition": "母鸡（名词，指家禽）",
+            "iscorrect": false
+          },
+          {
+            "definition": "来自这里（介词，表地点起源）",
+            "iscorrect": false
+          },
+          {
+            "definition": "然后（副词，表时间顺序）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

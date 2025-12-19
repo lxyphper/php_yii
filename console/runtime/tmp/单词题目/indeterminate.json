@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "indeterminate",
+      "error_analysis": "学生易因形近词“intermediate”（中间的）产生联想，或因词根“determine”（决定）过度推导为“未决定的”，而忽略其“不确定的、模糊的”核心义。",
+      "sentence": "Due to insufficient evidence, the exact cause of the fire remains **indeterminate** even after weeks of investigation.",
+      "options": {
+        "option": [
+          {
+            "definition": "不确定的；模糊的",
+            "iscorrect": true
+          },
+          {
+            "definition": "中间的；中级的",
+            "iscorrect": false
+          },
+          {
+            "definition": "未决定的；未裁决的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无限的；无期限的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "calorie",
+      "error_analysis": "易混淆形近词calendar（日历）或误猜为计算单位（因词根cal联想calculate）",
+      "sentence": "To maintain a healthy weight, it's important to monitor the number of **calories** you consume each day.",
+      "options": {
+        "option": [
+          {
+            "definition": "卡路里（热量单位）",
+            "iscorrect": true
+          },
+          {
+            "definition": "日历（日期表）",
+            "iscorrect": false
+          },
+          {
+            "definition": "计算单位（用于数学运算的单位）",
+            "iscorrect": false
+          },
+          {
+            "definition": "容量单位（用于测量液体的单位）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

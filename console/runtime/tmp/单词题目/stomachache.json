@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stomachache",
+      "error_analysis": "中国学生易因“stomach+ache”的复合结构，将“stomachache”误判为“胃在痛”（动词短语）或“胃炎”（疾病），而非名词“胃痛”（症状）。",
+      "sentence": "I ate too much spicy food last night, so I have a **stomachache** now.",
+      "options": {
+        "option": [
+          {
+            "definition": "胃痛（名词，指胃部的疼痛症状）",
+            "iscorrect": true
+          },
+          {
+            "definition": "胃在痛（动词短语，描述胃部疼痛的动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "胃炎（名词，指胃黏膜的炎症疾病）",
+            "iscorrect": false
+          },
+          {
+            "definition": "肚子胀（名词，指腹部肿胀的症状）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

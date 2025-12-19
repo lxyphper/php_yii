@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "service",
+      "error_analysis": "易因形近词\"serve\"（动词\"服务\"）误判为\"服侍\"，或词根联想\"servant\"（仆人）误判为\"仆人\"",
+      "sentence": "The hotel is famous for its excellent **service**—all guests feel well taken care of during their stay.",
+      "options": {
+        "option": [
+          {
+            "definition": "服务（指为他人提供的帮助或服务）",
+            "iscorrect": true
+          },
+          {
+            "definition": "服侍（指具体的伺候或照料动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "仆人（指从事服务工作的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "维修（指设备的维护或修理）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "barberhop",
+      "barershop",
+      "barborshop",
+      "barbershopp"
+    ],
+    "correct_chunks": [
+      "barber",
+      "s",
+      "hop"
+    ],
+    "distractor_chunks": [
+      "barer",
+      "barbor",
+      "hopp",
+      "barberhop"
+    ]
+  },
+  0
+]

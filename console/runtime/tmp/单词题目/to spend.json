@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to spend",
+      "error_analysis": "学生易因形近词“spare”（节省）、“spread”（散布）或发音接近的“send”（发送）而误解“to spend”的含义",
+      "sentence": "She likes to **spend** her weekends reading novels in the library.",
+      "options": {
+        "option": [
+          {
+            "definition": "花费（时间/金钱等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "节省（时间/金钱）",
+            "iscorrect": false
+          },
+          {
+            "definition": "发送（物品/信息）",
+            "iscorrect": false
+          },
+          {
+            "definition": "散布（消息/物品）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

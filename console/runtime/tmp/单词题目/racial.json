@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "racial",
+      "error_analysis": "学生易因形近词“radical”（激进的）或“rational”（理性的）产生错误联想，或误将“racial”理解为与“比赛”相关的含义。",
+      "sentence": "The government has introduced new laws to combat **racial** discrimination in the workplace.",
+      "options": {
+        "option": [
+          {
+            "definition": "种族的",
+            "iscorrect": true
+          },
+          {
+            "definition": "激进的",
+            "iscorrect": false
+          },
+          {
+            "definition": "理性的",
+            "iscorrect": false
+          },
+          {
+            "definition": "比赛的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

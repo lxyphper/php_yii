@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ride",
+      "error_analysis": "易与形近词rise（上升）、rice（米饭）混淆，导致误判为“上升”或“米饭”",
+      "sentence": "Tom asked me if I wanted to **ride** his new motorcycle with him this weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "骑（车、马等）；乘坐（交通工具）",
+            "iscorrect": true
+          },
+          {
+            "definition": "上升；升起",
+            "iscorrect": false
+          },
+          {
+            "definition": "米饭",
+            "iscorrect": false
+          },
+          {
+            "definition": "写；书写",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

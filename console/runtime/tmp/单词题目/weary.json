@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "weary",
+      "error_analysis": "学生易因形近词\"wear\"（穿；磨损）产生误解，误将\"weary\"判为\"穿着的\"或\"破旧的\"",
+      "sentence": "After working 12 hours straight, she felt so **weary** that she could barely lift her arms.",
+      "options": {
+        "option": [
+          {
+            "definition": "穿着的；佩戴的",
+            "iscorrect": false
+          },
+          {
+            "definition": "磨损的；破旧的",
+            "iscorrect": false
+          },
+          {
+            "definition": "疲倦的；厌倦的",
+            "iscorrect": true
+          },
+          {
+            "definition": "谨慎的；警惕的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "web",
+      "error_analysis": "学生易混淆形近词“wet”（湿的）或误将“web”理解为“织物”（因与“weave”关联）",
+      "sentence": "The spider spun a delicate **web** between the two trees to catch insects.",
+      "options": {
+        "option": [
+          {
+            "definition": "网（如蜘蛛网或互联网）",
+            "iscorrect": true
+          },
+          {
+            "definition": "湿的",
+            "iscorrect": false
+          },
+          {
+            "definition": "织物",
+            "iscorrect": false
+          },
+          {
+            "definition": "波浪",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

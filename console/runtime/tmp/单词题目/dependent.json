@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dependent",
+      "error_analysis": "学生易因形近词“dependable”（可靠的）干扰，或误将“dependent”的名词义“依赖的人”当作形容词义。",
+      "sentence": "Young children are often **dependent** on their parents for food and shelter.",
+      "options": {
+        "option": [
+          {
+            "definition": "依赖的；依靠的",
+            "iscorrect": true
+          },
+          {
+            "definition": "可靠的；可依赖的",
+            "iscorrect": false
+          },
+          {
+            "definition": "依赖的人；受赡养者",
+            "iscorrect": false
+          },
+          {
+            "definition": "独立的；不依赖的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

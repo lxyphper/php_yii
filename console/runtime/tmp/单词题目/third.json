@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "third",
+      "error_analysis": "中国学生易将序数词\"third\"误判为基数词\"three\"（三个），混淆顺序与数量",
+      "sentence": "After the race, Tom found out he was **third** among all the participants.",
+      "options": {
+        "option": [
+          {
+            "definition": "第三（序数词，表示顺序）",
+            "iscorrect": true
+          },
+          {
+            "definition": "三个（基数词，表示数量）",
+            "iscorrect": false
+          },
+          {
+            "definition": "三分之一（名词，表示分数）",
+            "iscorrect": false
+          },
+          {
+            "definition": "三次（副词，表示次数）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

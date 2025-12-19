@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "shoping center",
+      "shapping center",
+      "shopping centor",
+      "shopping cinter"
+    ],
+    "correct_chunks": [
+      "shopp",
+      "ing",
+      "cent",
+      "er"
+    ],
+    "distractor_chunks": [
+      "shop",
+      "shap",
+      "or",
+      "cin"
+    ]
+  },
+  0
+]

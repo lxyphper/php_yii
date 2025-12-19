@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "beautifully",
+      "error_analysis": "学生易因词根“beautiful”（形容词，美丽的）的影响，忽略-ly后缀，误将副词“beautifully”理解为形容词“美丽的”。",
+      "sentence": "She decorated the room **beautifully** with flowers and lights.",
+      "options": {
+        "option": [
+          {
+            "definition": "漂亮地；出色地",
+            "iscorrect": true
+          },
+          {
+            "definition": "美丽的",
+            "iscorrect": false
+          },
+          {
+            "definition": "美化地",
+            "iscorrect": false
+          },
+          {
+            "definition": "丰富地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

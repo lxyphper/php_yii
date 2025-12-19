@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to criticize",
+      "error_analysis": "学生易因形近词“circulate”（循环）混淆，或因词根“crit-”（判断）误将“criticize”理解为中性“评价”而非负面“批评”。",
+      "sentence": "When the movie was released, most reviewers chose to **criticize** its poor plot rather than praise its acting.",
+      "options": {
+        "option": [
+          {
+            "definition": "循环；传播",
+            "iscorrect": false
+          },
+          {
+            "definition": "评价；判断",
+            "iscorrect": false
+          },
+          {
+            "definition": "批评；指责",
+            "iscorrect": true
+          },
+          {
+            "definition": "支持；赞成",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

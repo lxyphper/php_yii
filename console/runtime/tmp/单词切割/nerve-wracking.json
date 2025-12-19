@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "nerve-racking",
+      "nerve-vracking",
+      "nerve-wraking",
+      "nerve-wrecking",
+      "nerve-wrackking"
+    ],
+    "correct_chunks": [
+      "nerve",
+      "-wrack",
+      "-ing"
+    ],
+    "distractor_chunks": [
+      "racking",
+      "vracking",
+      "wraking",
+      "wrecking",
+      "wrackking"
+    ]
+  },
+  0
+]

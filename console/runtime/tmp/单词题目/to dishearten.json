@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to dishearten",
+      "error_analysis": "学生易因“dis-”与“heart”的字面联想将“dishearten”误解为“使心碎”（词根误导），或因形近词“dishonor”混淆为“使蒙羞”（形近干扰）。",
+      "sentence": "The repeated failures in exams began to **dishearten** the young student, making him doubt his abilities.",
+      "options": {
+        "option": [
+          {
+            "definition": "使非常振奋",
+            "iscorrect": false
+          },
+          {
+            "definition": "使蒙羞",
+            "iscorrect": false
+          },
+          {
+            "definition": "使心碎",
+            "iscorrect": false
+          },
+          {
+            "definition": "使沮丧；使失去信心",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

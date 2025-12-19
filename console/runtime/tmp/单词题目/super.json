@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "super",
+      "error_analysis": "中国学生易因形近词“supper”（晚餐）或词根推导（如“supermarket”）将“super”误解为“晚餐”或“超级市场”。",
+      "sentence": "The cake Mom made for my birthday was **super**—everyone said it was the best they'd ever had!",
+      "options": {
+        "option": [
+          {
+            "definition": "极好的；非常的",
+            "iscorrect": true
+          },
+          {
+            "definition": "晚餐",
+            "iscorrect": false
+          },
+          {
+            "definition": "超级市场",
+            "iscorrect": false
+          },
+          {
+            "definition": "上级的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

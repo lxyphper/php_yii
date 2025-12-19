@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to heap",
+      "error_analysis": "中国学生易因形近词“head”（点头）或“heat”（加热）的拼写干扰，误将“to heap”理解为“点头”或“加热”。",
+      "sentence": "The worker **heaped** the bricks onto the truck before driving away.",
+      "options": {
+        "option": [
+          {
+            "definition": "点头",
+            "iscorrect": false
+          },
+          {
+            "definition": "加热",
+            "iscorrect": false
+          },
+          {
+            "definition": "堆积；堆放",
+            "iscorrect": true
+          },
+          {
+            "definition": "帮助",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

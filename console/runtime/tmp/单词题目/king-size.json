@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "king-size",
+      "error_analysis": "学生易因“king（国王）+size（尺寸）”字面组合或形近词“kingdom（王国）”联想，错误理解为“国王的尺寸”或“王国大小的”，而非其核心义“特大号的”。",
+      "sentence": "When we checked into the hotel, we were happy to find a **king-size** bed in our room—it was perfect for our family of four.",
+      "options": {
+        "option": [
+          {
+            "definition": "特大号的，超大的",
+            "iscorrect": true
+          },
+          {
+            "definition": "国王的尺寸",
+            "iscorrect": false
+          },
+          {
+            "definition": "王国大小的",
+            "iscorrect": false
+          },
+          {
+            "definition": "标准尺寸的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

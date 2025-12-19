@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "error",
+      "error_analysis": "学生易因形近词“terror”（恐惧）或“arrow”（箭）将“error”误解为“恐惧”或“箭”",
+      "sentence": "The teacher pointed out an **error** in my math homework that caused the whole answer to be wrong.",
+      "options": {
+        "option": [
+          {
+            "definition": "错误",
+            "iscorrect": true
+          },
+          {
+            "definition": "恐惧",
+            "iscorrect": false
+          },
+          {
+            "definition": "箭",
+            "iscorrect": false
+          },
+          {
+            "definition": "侵蚀",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

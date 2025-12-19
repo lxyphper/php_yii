@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "modem",
+      "error_analysis": "学生易因形近词\"mode\"（模式）或\"modern\"（现代的），将\"modem\"误判为与\"模式\"或\"现代\"相关的词义。",
+      "sentence": "If you want to use a dial-up internet connection, you need to attach a **modem** to your computer and phone line.",
+      "options": {
+        "option": [
+          {
+            "definition": "调制解调器（用于计算机联网的设备）",
+            "iscorrect": true
+          },
+          {
+            "definition": "模式；方式",
+            "iscorrect": false
+          },
+          {
+            "definition": "现代的；时髦的",
+            "iscorrect": false
+          },
+          {
+            "definition": "模型；原型",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "teh performing arts",
+      "the perfroming arts",
+      "the performing art",
+      "the performing arte",
+      "the performing artss"
+    ],
+    "correct_chunks": [
+      "the",
+      "perfor",
+      "ming",
+      "arts"
+    ],
+    "distractor_chunks": [
+      "teh",
+      "perfrom",
+      "art",
+      "arte",
+      "min"
+    ]
+  },
+  0
+]

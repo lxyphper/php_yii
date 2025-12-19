@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "carbon dioxide",
+      "error_analysis": "学生可能因不熟悉“di-”（二）的词根含义，将“dioxide”误判为“氧化物”，或混淆“dioxide”与“monoxide”（一氧化物），导致误将“carbon dioxide”理解为“碳氧化物”或“一氧化碳”",
+      "sentence": "Plants absorb **carbon dioxide** from the air and release oxygen during photosynthesis.",
+      "options": {
+        "option": [
+          {
+            "definition": "二氧化碳",
+            "iscorrect": true
+          },
+          {
+            "definition": "一氧化碳",
+            "iscorrect": false
+          },
+          {
+            "definition": "碳氧化物",
+            "iscorrect": false
+          },
+          {
+            "definition": "碳酸",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

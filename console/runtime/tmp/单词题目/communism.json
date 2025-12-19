@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "communism",
+      "error_analysis": "学生易因形近词\"community\"（社区）误解为\"社区制度\"，或因概念混淆将\"communism\"误判为\"社会主义\"",
+      "sentence": "Marx's theory of **communism** advocates for a classless society where property is collectively owned by all members.",
+      "options": {
+        "option": [
+          {
+            "definition": "共产主义",
+            "iscorrect": true
+          },
+          {
+            "definition": "社区制度",
+            "iscorrect": false
+          },
+          {
+            "definition": "社会主义",
+            "iscorrect": false
+          },
+          {
+            "definition": "集体主义",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

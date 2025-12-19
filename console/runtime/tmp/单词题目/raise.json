@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "raise",
+      "error_analysis": "中国学生易混淆形近词rise的不及物含义，将raise误理解为“（自己）上升”。",
+      "sentence": "The company decided to **raise** the salary of all employees next month.",
+      "options": {
+        "option": [
+          {
+            "definition": "提高；使...上升",
+            "iscorrect": true
+          },
+          {
+            "definition": "（自己）上升；升起",
+            "iscorrect": false
+          },
+          {
+            "definition": "出现；产生",
+            "iscorrect": false
+          },
+          {
+            "definition": "饲养；喂养",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

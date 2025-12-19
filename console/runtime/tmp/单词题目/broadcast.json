@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "broadcast",
+      "error_analysis": "学生易因词根拆分（broad+cast）误理解为“广泛投掷/铸造”，或因形近词（如broadband）混淆为“宽带”。",
+      "sentence": "The live sports event will be **broadcast** on TV tonight.",
+      "options": {
+        "option": [
+          {
+            "definition": "广播；播出（动词/名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "广泛投掷；宽的铸造品",
+            "iscorrect": false
+          },
+          {
+            "definition": "宽带连接",
+            "iscorrect": false
+          },
+          {
+            "definition": "预测；预报",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

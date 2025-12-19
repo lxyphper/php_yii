@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "need",
+      "error_analysis": "学生易将“need”与形近词“neat”（整洁的）或“seed”（种子）混淆，误记其含义",
+      "sentence": "The plant has a **need** for more water to grow well.",
+      "options": {
+        "option": [
+          {
+            "definition": "需要（名词/动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "整洁的",
+            "iscorrect": false
+          },
+          {
+            "definition": "种子",
+            "iscorrect": false
+          },
+          {
+            "definition": "裸体的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

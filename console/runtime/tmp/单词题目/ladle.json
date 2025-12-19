@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ladle",
+      "error_analysis": "学生易因形近词“lady”（女士）的干扰，将“ladle”错误联想为与“女性”相关的含义",
+      "sentence": "She used a **ladle** to scoop the boiling stew into each person's plate.",
+      "options": {
+        "option": [
+          {
+            "definition": "长柄勺；汤勺",
+            "iscorrect": true
+          },
+          {
+            "definition": "女士；小姐",
+            "iscorrect": false
+          },
+          {
+            "definition": "少年；小伙子",
+            "iscorrect": false
+          },
+          {
+            "definition": "标签；标记",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

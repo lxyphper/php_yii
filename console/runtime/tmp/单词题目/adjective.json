@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "adjective",
+      "error_analysis": "学生易因词根“-ive”联想为形容词（如“形容词性的”），或与形近词“adverb”（副词）混淆，忽略其名词“形容词（词类）”的核心词义",
+      "sentence": "In grammar, a word that describes a noun (like \"tall\" or \"sunny\") is called an **adjective**.",
+      "options": {
+        "option": [
+          {
+            "definition": "形容词（词类）",
+            "iscorrect": true
+          },
+          {
+            "definition": "副词（词类）",
+            "iscorrect": false
+          },
+          {
+            "definition": "形容词性的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "动词（表示“添加”的动作）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

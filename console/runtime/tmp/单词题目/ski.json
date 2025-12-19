@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ski",
+      "error_analysis": "学生易因形近词混淆，将“ski”误联想为“sky”（天空）或“skin”（皮肤）",
+      "sentence": "We rented **ski** equipment to hit the slopes this weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "天空",
+            "iscorrect": false
+          },
+          {
+            "definition": "皮肤",
+            "iscorrect": false
+          },
+          {
+            "definition": "跳过",
+            "iscorrect": false
+          },
+          {
+            "definition": "滑雪（运动）；滑雪板",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

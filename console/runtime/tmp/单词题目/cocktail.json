@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cocktail",
+      "error_analysis": "学生易将\"cocktail\"拆分为\"cock\"（公鸡）和\"tail\"（尾巴），错误理解为与公鸡或尾巴相关的事物。",
+      "sentence": "We ordered a few **cocktails** at the bar before dinner, enjoying the mix of rum, lime, and mint.",
+      "options": {
+        "option": [
+          {
+            "definition": "公鸡的尾巴",
+            "iscorrect": false
+          },
+          {
+            "definition": "鸡尾酒",
+            "iscorrect": true
+          },
+          {
+            "definition": "一种用鸡肉制作的开胃菜",
+            "iscorrect": false
+          },
+          {
+            "definition": "驾驶舱（飞机或船的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

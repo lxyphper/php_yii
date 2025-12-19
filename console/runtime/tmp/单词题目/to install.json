@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to install",
+      "error_analysis": "学生易因形近词（如instruct）混淆为“指导”，或因“in+stall”字面猜测为“拖延”。",
+      "sentence": "The technician will come tomorrow to **install** the new air conditioner in our living room.",
+      "options": {
+        "option": [
+          {
+            "definition": "安装；安置",
+            "iscorrect": true
+          },
+          {
+            "definition": "指导；指示",
+            "iscorrect": false
+          },
+          {
+            "definition": "拖延；耽搁",
+            "iscorrect": false
+          },
+          {
+            "definition": "坚持；强调",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rubber",
+      "error_analysis": "学生易因形近词“rubbish”（垃圾）混淆，或误将“rubber”理解为“橡胶”（材料）而非“橡皮”（工具）",
+      "sentence": "The boy looked for his **rubber** everywhere because he had to erase the wrong word in his essay.",
+      "options": {
+        "option": [
+          {
+            "definition": "垃圾",
+            "iscorrect": false
+          },
+          {
+            "definition": "橡胶",
+            "iscorrect": false
+          },
+          {
+            "definition": "橡皮",
+            "iscorrect": true
+          },
+          {
+            "definition": "擦的动作",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

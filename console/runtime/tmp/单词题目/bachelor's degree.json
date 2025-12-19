@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bachelor's degree",
+      "error_analysis": "学生易因\"bachelor\"的\"单身汉\"义将\"bachelor's degree\"字面误解为与单身相关的学位或程度",
+      "sentence": "After four years of study at the university, she finally received her **bachelor's degree** in computer science.",
+      "options": {
+        "option": [
+          {
+            "definition": "学士学位",
+            "iscorrect": true
+          },
+          {
+            "definition": "单身汉的学位",
+            "iscorrect": false
+          },
+          {
+            "definition": "单身汉的程度",
+            "iscorrect": false
+          },
+          {
+            "definition": "硕士学位",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dwarfish",
+      "error_analysis": "学生易因形近词“fish”误联为“像鱼的”，或因词根“dwarf”错判为“笨拙的”",
+      "sentence": "The old man lived in a **dwarfish** cottage at the edge of the forest, barely tall enough for him to stand up straight.",
+      "options": {
+        "option": [
+          {
+            "definition": "矮小的；像侏儒的",
+            "iscorrect": true
+          },
+          {
+            "definition": "像鱼的；鱼类的",
+            "iscorrect": false
+          },
+          {
+            "definition": "笨拙的；不灵活的",
+            "iscorrect": false
+          },
+          {
+            "definition": "鲜艳的；醒目的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

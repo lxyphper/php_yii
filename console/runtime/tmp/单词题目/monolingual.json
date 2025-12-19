@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "monolingual",
+      "error_analysis": "学生易将词根“mono-”（单一）误记为“多”，或把“lingual”（语言的）误解为“舌头的”，导致错解为“多语的”或“关于舌头的”",
+      "sentence": "This **monolingual** dictionary is designed for advanced learners, as it defines every word in English without any translations.",
+      "options": {
+        "option": [
+          {
+            "definition": "只用一种语言的",
+            "iscorrect": true
+          },
+          {
+            "definition": "能用多种语言的",
+            "iscorrect": false
+          },
+          {
+            "definition": "使用两种语言的",
+            "iscorrect": false
+          },
+          {
+            "definition": "关于舌头结构的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

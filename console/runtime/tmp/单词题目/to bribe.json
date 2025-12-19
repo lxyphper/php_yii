@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to bribe",
+      "error_analysis": "中国学生易因形近词\"bride\"（新娘）或\"bring\"（带来）的干扰，将\"to bribe\"误判为与\"新娘\"或\"带来\"相关的词义。",
+      "sentence": "The businessman was arrested for trying to **bribe** the government official to get the contract.",
+      "options": {
+        "option": [
+          {
+            "definition": "贿赂；向…行贿",
+            "iscorrect": true
+          },
+          {
+            "definition": "新娘",
+            "iscorrect": false
+          },
+          {
+            "definition": "带来；拿来",
+            "iscorrect": false
+          },
+          {
+            "definition": "简短的；简洁的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

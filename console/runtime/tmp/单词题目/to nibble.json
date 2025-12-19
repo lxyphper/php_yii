@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to nibble",
+      "error_analysis": "学生易因形近词\"gobble\"(狼吞虎咽)的拼写相似混淆，或因\"nib\"(笔尖)的词根误导认为与\"写/画\"相关。",
+      "sentence": "The little girl sat on the bench, **nibbling** at her cookie while watching the birds.",
+      "options": {
+        "option": [
+          {
+            "definition": "小口咬；啃",
+            "iscorrect": true
+          },
+          {
+            "definition": "狼吞虎咽",
+            "iscorrect": false
+          },
+          {
+            "definition": "用笔尖写；画",
+            "iscorrect": false
+          },
+          {
+            "definition": "咀嚼（用力咬碎）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

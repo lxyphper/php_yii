@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "January",
+      "error_analysis": "学生易因“January”与“junior”（初级的）拼写相似，或“Jan”（简，人名）的字面联想而误解其含义",
+      "sentence": "My birthday is in **January**, so I always get a new coat for the winter.",
+      "options": {
+        "option": [
+          {
+            "definition": "一月（月份）",
+            "iscorrect": true
+          },
+          {
+            "definition": "初级的（年少的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "简的（人名所有格）",
+            "iscorrect": false
+          },
+          {
+            "definition": "六月（月份）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

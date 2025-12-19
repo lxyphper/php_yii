@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "carbohidrate",
+      "carbhydrate",
+      "carbehydrate",
+      "carbohydrat",
+      "carbohybrate"
+    ],
+    "correct_chunks": [
+      "carbo",
+      "hydr",
+      "ate"
+    ],
+    "distractor_chunks": [
+      "hidr",
+      "carb",
+      "carbe",
+      "at",
+      "hybr"
+    ]
+  },
+  0
+]

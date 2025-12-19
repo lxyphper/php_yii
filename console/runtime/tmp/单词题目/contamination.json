@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "contamination",
+      "error_analysis": "学生易因形近词（如contentment/confirmation）或词根误判（将contam与contain关联）而误解为‘满足’‘确认’或‘包含物’。",
+      "sentence": "The local river was closed to swimmers due to **contamination** from the nearby factory.",
+      "options": {
+        "option": [
+          {
+            "definition": "确认；证实",
+            "iscorrect": false
+          },
+          {
+            "definition": "满足；满意",
+            "iscorrect": false
+          },
+          {
+            "definition": "污染；污染物",
+            "iscorrect": true
+          },
+          {
+            "definition": "包含物；容纳的东西",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

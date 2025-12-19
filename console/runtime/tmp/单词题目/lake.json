@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lake",
+      "error_analysis": "中国学生易因“lake”与形近词“cake”（蛋糕）、“take”（拿）等混淆而误解其词义。",
+      "sentence": "We went fishing by the **lake** early in the morning and caught two big fish.",
+      "options": {
+        "option": [
+          {
+            "definition": "湖",
+            "iscorrect": true
+          },
+          {
+            "definition": "蛋糕",
+            "iscorrect": false
+          },
+          {
+            "definition": "拿",
+            "iscorrect": false
+          },
+          {
+            "definition": "做",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

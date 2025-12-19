@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to enroll",
+      "error_analysis": "学生易因形近词“roll”（滚动）或词根“en-+roll”的字面误导，将“to enroll”错误理解为“滚动；使滚动”。",
+      "sentence": "She decided to **enroll** in the online course to improve her English.",
+      "options": {
+        "option": [
+          {
+            "definition": "登记；注册（加入课程/组织等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "滚动；转动",
+            "iscorrect": false
+          },
+          {
+            "definition": "使滚动；翻滚",
+            "iscorrect": false
+          },
+          {
+            "definition": "进入；走进",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

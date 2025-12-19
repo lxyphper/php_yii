@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unconsciously",
+      "error_analysis": "学生易将unconsciously（无意识地）误判为形近词unconditionally（无条件地）或词根误导的“不小心地”（carelessly）",
+      "sentence": "She found herself **unconsciously** tapping her foot to the rhythm of the song.",
+      "options": {
+        "option": [
+          {
+            "definition": "无意识地；不知不觉地",
+            "iscorrect": true
+          },
+          {
+            "definition": "无条件地",
+            "iscorrect": false
+          },
+          {
+            "definition": "不小心地",
+            "iscorrect": false
+          },
+          {
+            "definition": "不认真地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

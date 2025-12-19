@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to research",
+      "error_analysis": "混淆\"research\"与形近词\"search\"的含义，或误将其理解为\"再次寻找\"而非\"系统研究\"",
+      "sentence": "Before writing her thesis, she spent six months **to research** the effects of climate change on coastal ecosystems.",
+      "options": {
+        "option": [
+          {
+            "definition": "系统地研究（某课题）",
+            "iscorrect": true
+          },
+          {
+            "definition": "寻找；搜查",
+            "iscorrect": false
+          },
+          {
+            "definition": "再次寻找；重新搜查",
+            "iscorrect": false
+          },
+          {
+            "definition": "回顾；复习",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

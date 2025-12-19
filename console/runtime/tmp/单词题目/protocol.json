@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "protocol",
+      "error_analysis": "学生易因形近词\"prototype\"(原型)或词根\"proto-\"(第一)误将\"protocol\"理解为\"原型\"或\"原始文档\"",
+      "sentence": "Before starting the experiment, all researchers must adhere to the **protocol** to avoid accidents.",
+      "options": {
+        "option": [
+          {
+            "definition": "协议；规程",
+            "iscorrect": true
+          },
+          {
+            "definition": "原型；雏形",
+            "iscorrect": false
+          },
+          {
+            "definition": "原始文档；初始记录",
+            "iscorrect": false
+          },
+          {
+            "definition": "提议；建议",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

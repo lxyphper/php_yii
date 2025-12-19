@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "flora",
+      "error_analysis": "易与形近词flour（面粉）混淆，或误通过词根flor-（花）推导为“花的总称”",
+      "sentence": "The **flora** of the Amazon rainforest includes thousands of unique plant species that cannot be found anywhere else.",
+      "options": {
+        "option": [
+          {
+            "definition": "（某一地区的）植物群",
+            "iscorrect": true
+          },
+          {
+            "definition": "面粉",
+            "iscorrect": false
+          },
+          {
+            "definition": "花的总称",
+            "iscorrect": false
+          },
+          {
+            "definition": "（某一地区的）动物群",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

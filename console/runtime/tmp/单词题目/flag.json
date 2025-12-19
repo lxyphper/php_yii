@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "flag",
+      "error_analysis": "核心易错点为形近词“flat”（平坦的）干扰，学生易将“flag”误理解为“平坦的”。",
+      "sentence": "The **flag** of China is red and has five yellow stars.",
+      "options": {
+        "option": [
+          {
+            "definition": "旗帜",
+            "iscorrect": true
+          },
+          {
+            "definition": "平坦的",
+            "iscorrect": false
+          },
+          {
+            "definition": "火焰",
+            "iscorrect": false
+          },
+          {
+            "definition": "拍打",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

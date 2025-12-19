@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to circumvent",
+      "error_analysis": "学生易因形近词\"circumstance\"（情况）误判为与\"情况\"相关，或因词根\"circum-\"（周围）和\"vent\"（来）字面误导为\"环绕\"。",
+      "sentence": "The company tried to **circumvent** the new tax laws by setting up a subsidiary in another country.",
+      "options": {
+        "option": [
+          {
+            "definition": "规避，绕过（规则、问题等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "考虑情况；处理情况",
+            "iscorrect": false
+          },
+          {
+            "definition": "环绕；转圈",
+            "iscorrect": false
+          },
+          {
+            "definition": "通风；排气",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

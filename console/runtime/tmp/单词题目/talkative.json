@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "talkative",
+      "error_analysis": "学生易因“talk”（谈话）和“-ative”后缀的字面联想，将“talkative”误理解为“正在说话的”（形近于talking）或“能说话的”（词根过度直译）",
+      "sentence": "My new neighbor Tom is so **talkative** that he starts chatting with everyone he meets in the elevator.",
+      "options": {
+        "option": [
+          {
+            "definition": "正在说话的",
+            "iscorrect": false
+          },
+          {
+            "definition": "能说话的",
+            "iscorrect": false
+          },
+          {
+            "definition": "关于谈话的",
+            "iscorrect": false
+          },
+          {
+            "definition": "爱说话的；健谈的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

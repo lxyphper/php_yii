@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "social service",
+      "error_analysis": "将“social”误解为“社交的”，错误理解为“社交服务”（如社交活动的服务），而非“社会服务”（公益/社区服务）。",
+      "sentence": "After graduating, she decided to work in **social service** to help homeless people get access to food and shelter.",
+      "options": {
+        "option": [
+          {
+            "definition": "社会服务（如公益、社区或志愿者服务，旨在帮助需要帮助的群体）",
+            "iscorrect": true
+          },
+          {
+            "definition": "社交服务（如为社交活动、聚会或社交平台提供的服务）",
+            "iscorrect": false
+          },
+          {
+            "definition": "社会安全（如社会保障、公共安全体系，旨在保障社会稳定）",
+            "iscorrect": false
+          },
+          {
+            "definition": "社会福利（如政府提供的福利补贴、救济金等经济援助）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

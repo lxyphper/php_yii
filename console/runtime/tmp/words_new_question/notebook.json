@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "notebook",
+      "error_analysis": "学生易因将\"notebook\"拆为\"not\"+\"book\"误解为\"没有书\"（词根/字面误导），或因形近词\"notable\"（显著的）混淆词义",
+      "sentence": "She always carries a **notebook** to write down her ideas during meetings.",
+      "options": {
+        "option": [
+          {
+            "definition": "笔记本",
+            "iscorrect": true
+          },
+          {
+            "definition": "没有书",
+            "iscorrect": false
+          },
+          {
+            "definition": "显著的",
+            "iscorrect": false
+          },
+          {
+            "definition": "注意书",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

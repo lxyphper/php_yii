@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to slow down",
+      "error_analysis": "学生易因“slow”（慢的）和“down”（向下）的字面义误判为“慢的向下”，或与“calm down”（冷静下来）混淆",
+      "sentence": "The driver had to **slow down** when approaching the school zone.",
+      "options": {
+        "option": [
+          {
+            "definition": "减速；放慢速度",
+            "iscorrect": true
+          },
+          {
+            "definition": "慢的向下",
+            "iscorrect": false
+          },
+          {
+            "definition": "冷静下来",
+            "iscorrect": false
+          },
+          {
+            "definition": "降低（价格/数量等）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

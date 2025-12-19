@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "big-boned",
+      "error_analysis": "学生易将'big-boned'字面拆分为'大的+骨头的'，误理解为'有大骨头的'，或混淆为'胖的'",
+      "sentence": "The basketball player is **big-boned**, which gives him an advantage in rebounding.",
+      "options": {
+        "option": [
+          {
+            "definition": "有大骨头的",
+            "iscorrect": false
+          },
+          {
+            "definition": "胖的；肥胖的",
+            "iscorrect": false
+          },
+          {
+            "definition": "骨骼大的；魁梧的",
+            "iscorrect": true
+          },
+          {
+            "definition": "骨头多的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

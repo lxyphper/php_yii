@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to refine",
+      "error_analysis": "学生易混淆形近词“define”（定义）或词根“fin”关联“finish”（完成）而误解“to refine”的含义。",
+      "sentence": "The chef spent hours trying to **refine** his recipe for chocolate cake to make it more moist and flavorful.",
+      "options": {
+        "option": [
+          {
+            "definition": "定义",
+            "iscorrect": false
+          },
+          {
+            "definition": "完成",
+            "iscorrect": false
+          },
+          {
+            "definition": "改进；提纯",
+            "iscorrect": true
+          },
+          {
+            "definition": "拒绝",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

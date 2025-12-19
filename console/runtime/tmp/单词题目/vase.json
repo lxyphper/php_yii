@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "vase",
+      "error_analysis": "学生易因形近词“base”（基础/底座）的干扰，将“vase”误理解为“基础”或“底座”",
+      "sentence": "She placed the fresh roses in a beautiful glass **vase** on the dining table.",
+      "options": {
+        "option": [
+          {
+            "definition": "花瓶",
+            "iscorrect": true
+          },
+          {
+            "definition": "基础；底座",
+            "iscorrect": false
+          },
+          {
+            "definition": "盒子；情况",
+            "iscorrect": false
+          },
+          {
+            "definition": "签证",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

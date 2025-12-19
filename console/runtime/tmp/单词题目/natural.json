@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "natural",
+      "error_analysis": "学生易因词根“nature”（自然）将“natural”误理解为“与自然有关的”，而非其核心义“天生的”。",
+      "sentence": "The little girl showed a **natural** gift for dancing at a very young age.",
+      "options": {
+        "option": [
+          {
+            "definition": "天生的",
+            "iscorrect": true
+          },
+          {
+            "definition": "与自然有关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "后天培养的",
+            "iscorrect": false
+          },
+          {
+            "definition": "复杂的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

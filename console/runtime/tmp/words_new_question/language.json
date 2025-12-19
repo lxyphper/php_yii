@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "language",
+      "error_analysis": "学生易因词根\"lingua\"(舌头)误导认为\"language\"与\"舌头\"相关，或仅将其理解为\"文字\"而忽略其广义的\"语言\"含义。",
+      "sentence": "Chinese **language** is known for its unique characters and tonal system.",
+      "options": {
+        "option": [
+          {
+            "definition": "语言（包括文字、口语等广义形式）",
+            "iscorrect": true
+          },
+          {
+            "definition": "文字（仅指书面符号）",
+            "iscorrect": false
+          },
+          {
+            "definition": "舌头（因词根\"lingua\"误导的字面义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "懒散的（形近词\"languid\"的错误联想）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

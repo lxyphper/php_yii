@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "untroublesome",
+      "error_analysis": "学生易混淆形近词`untroubled`（无忧的）或误将“不麻烦的”延伸为“容易的”",
+      "sentence": "The new software update was **untroublesome**; it installed in five minutes and worked perfectly with all my programs.",
+      "options": {
+        "option": [
+          {
+            "definition": "不麻烦的；容易处理的",
+            "iscorrect": true
+          },
+          {
+            "definition": "无忧的；平静的",
+            "iscorrect": false
+          },
+          {
+            "definition": "容易的；简单的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不重要的；无关紧要的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

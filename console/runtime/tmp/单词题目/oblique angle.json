@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "oblique angle",
+      "error_analysis": "学生易因“oblique”与“obscure”（模糊的）形近，或误将“ob-”（离开）词根过度推导，把“oblique angle”误解为“模糊的角”或“偏离的角”。",
+      "sentence": "The roof of the old cottage slopes at an **oblique angle**, allowing rainwater to drain away without pooling.",
+      "options": {
+        "option": [
+          {
+            "definition": "斜角（非直角）",
+            "iscorrect": true
+          },
+          {
+            "definition": "模糊的角",
+            "iscorrect": false
+          },
+          {
+            "definition": "偏离的角",
+            "iscorrect": false
+          },
+          {
+            "definition": "直角",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "doleful",
+      "error_analysis": "易因形近词\"doable\"(可行的)混淆，或词根\"dole\"(救济金)误解为\"需要帮助的\"",
+      "sentence": "The old man sat on the park bench with a **doleful** expression, staring at the photo of his late wife.",
+      "options": {
+        "option": [
+          {
+            "definition": "悲伤的；忧郁的",
+            "iscorrect": true
+          },
+          {
+            "definition": "可行的；能做的",
+            "iscorrect": false
+          },
+          {
+            "definition": "需要帮助的；依赖救济的",
+            "iscorrect": false
+          },
+          {
+            "definition": "友好的；亲切的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

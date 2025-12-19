@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "original",
+      "error_analysis": "将“original”误判为“起源的”（词根origin的过度推导）或“普通的”（形近词ordinary的混淆）",
+      "sentence": "The artist was proud of her **original** painting, which she had created without copying any other works.",
+      "options": {
+        "option": [
+          {
+            "definition": "原创的；最初的",
+            "iscorrect": true
+          },
+          {
+            "definition": "起源的；来源的",
+            "iscorrect": false
+          },
+          {
+            "definition": "普通的；平常的",
+            "iscorrect": false
+          },
+          {
+            "definition": "原始的；未开化的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

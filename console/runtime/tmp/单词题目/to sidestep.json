@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to sidestep",
+      "error_analysis": "根据词根“side”（旁边）和“step”（步骤）字面直译，误认为是“侧步走”或“旁边的步骤”，而忽略其引申义“回避、绕开（问题等）”",
+      "sentence": "When asked about the budget issue, the manager tried to **sidestep** the question by talking about future plans.",
+      "options": {
+        "option": [
+          {
+            "definition": "回避、绕开（问题、责任等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "侧步走（字面动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "走到一边（形近词“step aside”混淆）",
+            "iscorrect": false
+          },
+          {
+            "definition": "旁边的步骤（词根直译）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

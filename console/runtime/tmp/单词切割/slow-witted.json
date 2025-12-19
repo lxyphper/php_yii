@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "slowwitted",
+      "slow witted",
+      "slow-wited",
+      "slow-whitted",
+      "slo-witted"
+    ],
+    "correct_chunks": [
+      "slow-",
+      "wit",
+      "-ed"
+    ],
+    "distractor_chunks": [
+      "sloww",
+      "wited",
+      "whit",
+      "slow ",
+      "slo-"
+    ]
+  },
+  0
+]

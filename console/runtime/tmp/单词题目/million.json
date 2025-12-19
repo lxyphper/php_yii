@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "million",
+      "error_analysis": "易因形近词“millionaire”（百万富翁）或词根“mill”（千）的干扰，将“million”误判为“百万富翁”或“千”。",
+      "sentence": "The new smartphone sold over a **million** units in its first week on the market.",
+      "options": {
+        "option": [
+          {
+            "definition": "百万（数量单位，指10⁶）",
+            "iscorrect": true
+          },
+          {
+            "definition": "百万富翁（拥有大量财富的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "千（数量单位，指10³）",
+            "iscorrect": false
+          },
+          {
+            "definition": "磨坊（研磨谷物或其他材料的场所）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

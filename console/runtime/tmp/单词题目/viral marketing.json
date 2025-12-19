@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "viral marketing",
+      "error_analysis": "学生易因viral与virus（病毒）的词根关联误判为“有害营销”，或与形近词virtual（虚拟的）混淆为“虚拟营销”",
+      "sentence": "Many startups rely on **viral marketing** to get their products noticed quickly—they create fun videos that users love to share with friends and family.",
+      "options": {
+        "option": [
+          {
+            "definition": "虚拟营销（通过虚拟平台进行的推广）",
+            "iscorrect": false
+          },
+          {
+            "definition": "与病毒有关的有害营销（传播恶意内容的推广）",
+            "iscorrect": false
+          },
+          {
+            "definition": "病毒式营销（通过用户自发分享快速传播的营销方式）",
+            "iscorrect": true
+          },
+          {
+            "definition": "线下促销活动（在实体店进行的宣传）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

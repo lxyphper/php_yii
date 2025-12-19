@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rib",
+      "error_analysis": "中国学生易将“rib”误判为形近词“rub”（摩擦）或因“肋条肉”延伸义误判为“肉”",
+      "sentence": "He fell off his bike and broke a **rib**, so he had to go to the hospital.",
+      "options": {
+        "option": [
+          {
+            "definition": "摩擦",
+            "iscorrect": false
+          },
+          {
+            "definition": "丝带",
+            "iscorrect": false
+          },
+          {
+            "definition": "肋骨",
+            "iscorrect": true
+          },
+          {
+            "definition": "肉",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

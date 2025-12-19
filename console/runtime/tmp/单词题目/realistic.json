@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "realistic",
+      "error_analysis": "学生易因词根“real”（真实的）字面误导，将“realistic”误理解为“真实的”，忽略其“实际可行的”核心含义",
+      "sentence": "After considering the budget, they decided to choose a **realistic** plan instead of a too ambitious one.",
+      "options": {
+        "option": [
+          {
+            "definition": "现实的；实际可行的",
+            "iscorrect": true
+          },
+          {
+            "definition": "真实的",
+            "iscorrect": false
+          },
+          {
+            "definition": "意识到的",
+            "iscorrect": false
+          },
+          {
+            "definition": "理想的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

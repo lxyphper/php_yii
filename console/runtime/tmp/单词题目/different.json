@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "different",
+      "error_analysis": "中国学生易混淆形近词\"difficult\"（困难的）与\"different\"（不同的），或误从词根\"differ\"猜测为\"分开的\"。",
+      "sentence": "The two dresses are the same color, but their styles are **different**.",
+      "options": {
+        "option": [
+          {
+            "definition": "不同的",
+            "iscorrect": true
+          },
+          {
+            "definition": "困难的",
+            "iscorrect": false
+          },
+          {
+            "definition": "分开的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有差异的动作",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

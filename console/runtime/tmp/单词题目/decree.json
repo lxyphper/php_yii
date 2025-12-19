@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "decree",
+      "error_analysis": "学生易因形近词“degree”（学位/程度）或词根误猜（如将“decree”与“create”关联）而误解其“法令/判决”的核心义。",
+      "sentence": "The king issued a **decree** banning all foreign trade with neighboring countries.",
+      "options": {
+        "option": [
+          {
+            "definition": "学位；程度",
+            "iscorrect": false
+          },
+          {
+            "definition": "创造；创建",
+            "iscorrect": false
+          },
+          {
+            "definition": "法令；判决",
+            "iscorrect": true
+          },
+          {
+            "definition": "宣布；声明",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

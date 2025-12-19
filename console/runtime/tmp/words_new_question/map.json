@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "map",
+      "error_analysis": "学生易因形近词\"mop\"（拖把）的拼写相似而产生错误联想，误将\"map\"理解为其他日常物品。",
+      "sentence": "We used a **map** to find the way to the museum.",
+      "options": {
+        "option": [
+          {
+            "definition": "地图",
+            "iscorrect": true
+          },
+          {
+            "definition": "拖把",
+            "iscorrect": false
+          },
+          {
+            "definition": "帽子",
+            "iscorrect": false
+          },
+          {
+            "definition": "小睡",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

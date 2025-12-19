@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unprosperous",
+      "error_analysis": "学生易因形近词\"unprepossessing\"（不吸引人的）或词根\"prosper\"与\"progress\"（进步）混淆，将\"unprosperous\"误判为\"不吸引人的\"或\"不进步的\"",
+      "sentence": "The small town, once a busy trading hub, remained **unprosperous** for years after the railway was rerouted.",
+      "options": {
+        "option": [
+          {
+            "definition": "不繁荣的；贫困的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不吸引人的；无魅力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不进步的；停滞的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不受欢迎的；不流行的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

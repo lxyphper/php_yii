@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "serious",
+      "error_analysis": "中国学生易因形近词“series”（系列）或词根“seri-”与“serial”（连续的）的联想，将“serious”误解为“系列的”或“连续的”。",
+      "sentence": "The doctor said her illness is **serious** and she needs immediate treatment.",
+      "options": {
+        "option": [
+          {
+            "definition": "严重的；认真的",
+            "iscorrect": true
+          },
+          {
+            "definition": "系列的",
+            "iscorrect": false
+          },
+          {
+            "definition": "连续的",
+            "iscorrect": false
+          },
+          {
+            "definition": "真诚的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

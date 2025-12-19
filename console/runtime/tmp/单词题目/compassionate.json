@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "compassionate",
+      "error_analysis": "将“compassionate”误判为“热情的”（形近词“passionate”干扰）或“补偿的”（形近词“compensate”误导）",
+      "sentence": "The **compassionate** teacher stayed after school to help the student who was struggling with grief.",
+      "options": {
+        "option": [
+          {
+            "definition": "有同情心的",
+            "iscorrect": true
+          },
+          {
+            "definition": "热情的",
+            "iscorrect": false
+          },
+          {
+            "definition": "补偿的",
+            "iscorrect": false
+          },
+          {
+            "definition": "耐心的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to result",
+      "error_analysis": "易因形近词\"resort\"(求助)混淆，或因\"re-\"前缀错误联想为\"重新开始\"",
+      "sentence": "The heavy rain **resulted in** severe flooding in the village.",
+      "options": {
+        "option": [
+          {
+            "definition": "导致；结果是",
+            "iscorrect": true
+          },
+          {
+            "definition": "求助；诉诸",
+            "iscorrect": false
+          },
+          {
+            "definition": "重新开始",
+            "iscorrect": false
+          },
+          {
+            "definition": "解决；决心",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

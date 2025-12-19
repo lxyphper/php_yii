@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "variable",
+      "error_analysis": "易混淆形近词various（各种各样的），或词根过度推导为“变化的动作”",
+      "sentence": "在这个物理实验中，压力是一个**variable**，我们会通过改变它来观察弹簧的伸长量。",
+      "options": {
+        "option": [
+          {
+            "definition": "各种各样的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可变的；变量",
+            "iscorrect": true
+          },
+          {
+            "definition": "变化的过程",
+            "iscorrect": false
+          },
+          {
+            "definition": "稳定的；常量",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

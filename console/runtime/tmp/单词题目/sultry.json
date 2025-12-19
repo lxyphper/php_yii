@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sultry",
+      "error_analysis": "学生易将`sultry`与形近词`sulky`（愠怒的）混淆，或误猜为“苦涩的”等字面含义",
+      "sentence": "The **sultry** afternoon sun made us sweat through our shirts within minutes.",
+      "options": {
+        "option": [
+          {
+            "definition": "闷热的",
+            "iscorrect": true
+          },
+          {
+            "definition": "愠怒的",
+            "iscorrect": false
+          },
+          {
+            "definition": "苦涩的",
+            "iscorrect": false
+          },
+          {
+            "definition": "活跃的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "conflagration",
+      "error_analysis": "学生易因形近词\"confusion\"（混乱）产生联想，或因词根\"flag\"（旗帜/火焰）误判为小火灾，而非大火灾。",
+      "sentence": "The old warehouse was completely destroyed by a massive **conflagration** that spread to three nearby buildings within an hour.",
+      "options": {
+        "option": [
+          {
+            "definition": "混乱；困惑",
+            "iscorrect": false
+          },
+          {
+            "definition": "小型火焰事件",
+            "iscorrect": false
+          },
+          {
+            "definition": "特大火灾；大火",
+            "iscorrect": true
+          },
+          {
+            "definition": "集体举旗仪式",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

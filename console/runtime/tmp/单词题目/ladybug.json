@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ladybug",
+      "error_analysis": "学生易将“ladybug”拆分为“lady”（女士）和“bug”（虫子），误猜为“贵妇虫”或“女士的虫子”，而非正确的“瓢虫”",
+      "sentence": "Look at the red **ladybug** with black spots crawling on the rose petal.",
+      "options": {
+        "option": [
+          {
+            "definition": "瓢虫",
+            "iscorrect": true
+          },
+          {
+            "definition": "贵妇虫",
+            "iscorrect": false
+          },
+          {
+            "definition": "女士的虫子",
+            "iscorrect": false
+          },
+          {
+            "definition": "小型飞蛾",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

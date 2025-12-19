@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fit",
+      "error_analysis": "中国学生易因形近词‘fat’（胖的）将‘fit’误判为‘胖的’，或因字面联想将其‘适合’义误理解为‘进入’或‘安装’",
+      "sentence": "This shirt **fits** me well, so I decided to buy it.",
+      "options": {
+        "option": [
+          {
+            "definition": "适合的",
+            "iscorrect": true
+          },
+          {
+            "definition": "胖的",
+            "iscorrect": false
+          },
+          {
+            "definition": "进入的",
+            "iscorrect": false
+          },
+          {
+            "definition": "安装的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to narrate",
+      "error_analysis": "学生易因形近词“navigate”（导航）或词根“rate”（比率）的误导，将“to narrate”误判为“导航”或“计算比率”。",
+      "sentence": "Our teacher asked us to **narrate** a story about our summer vacation.",
+      "options": {
+        "option": [
+          {
+            "definition": "导航；指引方向",
+            "iscorrect": false
+          },
+          {
+            "definition": "使狭窄；缩小",
+            "iscorrect": false
+          },
+          {
+            "definition": "讲述；叙述",
+            "iscorrect": true
+          },
+          {
+            "definition": "计算比率；评估",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

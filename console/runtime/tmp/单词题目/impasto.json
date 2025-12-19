@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "impasto",
+      "error_analysis": "学生易因形近词（如pasture/pasta）联想到牧场或食物，或因词根误判为与浆糊相关的混合物",
+      "sentence": "Van Gogh often used thick **impasto** in his paintings, such as *The Starry Night*, to create texture and depth.",
+      "options": {
+        "option": [
+          {
+            "definition": "（绘画中的）厚涂法；厚涂的颜料层",
+            "iscorrect": true
+          },
+          {
+            "definition": "牧场；草地",
+            "iscorrect": false
+          },
+          {
+            "definition": "意大利面制品",
+            "iscorrect": false
+          },
+          {
+            "definition": "稀淡的颜料涂层",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

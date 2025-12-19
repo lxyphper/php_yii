@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "trapezoidal",
+      "error_analysis": "学生易因形近词\"trapeze\"(秋千)或词根\"trap\"(陷阱)误判为\"秋千状的\"或\"陷阱状的\"",
+      "sentence": "The new coffee table has a **trapezoidal** top, wider at the front than at the back, which fits perfectly in the corner of the living room.",
+      "options": {
+        "option": [
+          {
+            "definition": "梯形的",
+            "iscorrect": true
+          },
+          {
+            "definition": "秋千状的",
+            "iscorrect": false
+          },
+          {
+            "definition": "陷阱状的",
+            "iscorrect": false
+          },
+          {
+            "definition": "三角形的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

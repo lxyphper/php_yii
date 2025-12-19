@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to seduce",
+      "error_analysis": "易因形近词“reduce”（减少）产生拼写混淆，或因词根“se-”（分开）“duce”（引导）错误推导为“引导离开”。",
+      "sentence": "The advertisement tried to **seduce** customers into buying the expensive perfume with its romantic imagery.",
+      "options": {
+        "option": [
+          {
+            "definition": "减少；降低",
+            "iscorrect": false
+          },
+          {
+            "definition": "引导离开；使偏离",
+            "iscorrect": false
+          },
+          {
+            "definition": "引诱；诱惑",
+            "iscorrect": true
+          },
+          {
+            "definition": "说服；劝服",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

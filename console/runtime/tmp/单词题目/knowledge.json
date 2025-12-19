@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "knowledge",
+      "error_analysis": "学生易因\"know\"的动词义将\"knowledge\"误解为\"知道\"（动词），或因\"ledge\"的\"边缘\"义误解为\"认知的边缘\"。",
+      "sentence": "Her **knowledge** of mathematics helps her solve complex problems easily.",
+      "options": {
+        "option": [
+          {
+            "definition": "知识（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "有知识的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "认知的边缘",
+            "iscorrect": false
+          },
+          {
+            "definition": "知道（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

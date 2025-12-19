@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "healing",
+      "error_analysis": "中国学生易因形近词（如hearing/听力、feeling/感觉）或词根误导，将healing误理解为“听力”“感觉”或“正在治愈的动作”。",
+      "sentence": "The doctor emphasized the importance of rest in the **healing** of the broken bone.",
+      "options": {
+        "option": [
+          {
+            "definition": "治愈（过程）",
+            "iscorrect": true
+          },
+          {
+            "definition": "听力",
+            "iscorrect": false
+          },
+          {
+            "definition": "感觉",
+            "iscorrect": false
+          },
+          {
+            "definition": "正在治愈（动作）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sixty",
+      "error_analysis": "中国学生易因形近词\"six\"（六）的干扰，将\"sixty\"误理解为\"六\"或其衍生义。",
+      "sentence": "My grandmother just turned **sixty** last week, so we threw her a big party.",
+      "options": {
+        "option": [
+          {
+            "definition": "六",
+            "iscorrect": false
+          },
+          {
+            "definition": "十六",
+            "iscorrect": false
+          },
+          {
+            "definition": "六十",
+            "iscorrect": true
+          },
+          {
+            "definition": "七十",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

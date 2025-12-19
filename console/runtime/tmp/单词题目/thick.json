@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "thick",
+      "error_analysis": "中国学生易将'thick'与形近词'think'（想）混淆，或误判为反义词“薄的”",
+      "sentence": "She put a **thick** blanket over the baby to keep him warm.",
+      "options": {
+        "option": [
+          {
+            "definition": "厚的",
+            "iscorrect": true
+          },
+          {
+            "definition": "想",
+            "iscorrect": false
+          },
+          {
+            "definition": "薄的",
+            "iscorrect": false
+          },
+          {
+            "definition": "快的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

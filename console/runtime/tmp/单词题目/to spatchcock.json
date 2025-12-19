@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to spatchcock",
+      "error_analysis": "因形近词\"patch\"(补丁)和\"cock\"(公鸡)，易误解为\"给公鸡打补丁\"或类似与\"修补\"\"公鸡\"相关的动作",
+      "sentence": "To cook the chicken evenly, the chef decided to **spatchcock** it before roasting it in the oven.",
+      "options": {
+        "option": [
+          {
+            "definition": "将（鸡等鸟类）从背部剖开摊平以便烹饪",
+            "iscorrect": true
+          },
+          {
+            "definition": "用补丁修补公鸡的身体",
+            "iscorrect": false
+          },
+          {
+            "definition": "把公鸡关在补丁形状的笼子里",
+            "iscorrect": false
+          },
+          {
+            "definition": "用公鸡的羽毛制作补丁",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

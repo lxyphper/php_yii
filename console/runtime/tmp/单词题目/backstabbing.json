@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "backstabbing",
+      "error_analysis": "将“backstabbing”字面理解为“背后刺击”（物理动作），而非比喻的“背叛”",
+      "sentence": "She was devastated to learn that her closest friend had engaged in **backstabbing** by lying to their teacher about her project.",
+      "options": {
+        "option": [
+          {
+            "definition": "背后的刺击（物理上的攻击）",
+            "iscorrect": false
+          },
+          {
+            "definition": "背部的刺痛感",
+            "iscorrect": false
+          },
+          {
+            "definition": "背后的议论（说某人坏话）",
+            "iscorrect": false
+          },
+          {
+            "definition": "背叛；背后捅刀子",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

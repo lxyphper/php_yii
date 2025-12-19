@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pragmatism",
+      "error_analysis": "学生易因形近词“prism”（棱镜）拼写相似或词根“pragmat-”（实际的）误将“pragmatism”理解为“棱镜”或“实用性”。",
+      "sentence": "The company's success is largely due to its founder's **pragmatism**, which led him to prioritize cost-effectiveness over idealistic goals.",
+      "options": {
+        "option": [
+          {
+            "definition": "实用主义；务实的态度",
+            "iscorrect": true
+          },
+          {
+            "definition": "棱镜",
+            "iscorrect": false
+          },
+          {
+            "definition": "实用性",
+            "iscorrect": false
+          },
+          {
+            "definition": "理想主义",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

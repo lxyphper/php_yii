@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "atrium",
+      "error_analysis": "学生易因形近词（如auditorium“礼堂”、attic“阁楼”）混淆“atrium”的核心含义（建筑物中庭）",
+      "sentence": "The hotel’s grand **atrium** with a glass roof and palm trees is a popular spot for guests to relax.",
+      "options": {
+        "option": [
+          {
+            "definition": "（建筑物的）中庭；天井",
+            "iscorrect": true
+          },
+          {
+            "definition": "礼堂；会堂",
+            "iscorrect": false
+          },
+          {
+            "definition": "阁楼；顶楼",
+            "iscorrect": false
+          },
+          {
+            "definition": "动脉；血管",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

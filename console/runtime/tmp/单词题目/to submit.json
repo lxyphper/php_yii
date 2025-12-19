@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to submit",
+      "error_analysis": "学生易因形近词（如transmit）或词根“sub-+mit”的直译，将“submit”误解为“传输”或“下降”，而非核心义“提交”",
+      "sentence": "You need to **submit** your job application online before the deadline.",
+      "options": {
+        "option": [
+          {
+            "definition": "提交（如文件、申请等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "传输（如信号、数据等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "下降；降低（价格、温度等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "承认（错误、事实等）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

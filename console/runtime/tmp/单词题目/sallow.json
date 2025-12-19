@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sallow",
+      "error_analysis": "学生易因形近词`swallow`（吞咽）的干扰，将`sallow`误解为与“吞咽”相关的含义",
+      "sentence": "After days of fever, her face looked **sallow** and lacked its usual glow.",
+      "options": {
+        "option": [
+          {
+            "definition": "（皮肤）蜡黄的",
+            "iscorrect": true
+          },
+          {
+            "definition": "吞咽的",
+            "iscorrect": false
+          },
+          {
+            "definition": "浅的",
+            "iscorrect": false
+          },
+          {
+            "definition": "允许的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

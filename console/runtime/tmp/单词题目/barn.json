@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "barn",
+      "error_analysis": "中国学生易因形近词\"bar\"(酒吧)、\"born\"(出生)或\"bark\"(树皮)将\"barn\"误判为这些词的变体",
+      "sentence": "The farmer stored the harvested wheat in the **barn** to keep it dry and safe from animals.",
+      "options": {
+        "option": [
+          {
+            "definition": "谷仓；农场仓库",
+            "iscorrect": true
+          },
+          {
+            "definition": "酒吧",
+            "iscorrect": false
+          },
+          {
+            "definition": "出生",
+            "iscorrect": false
+          },
+          {
+            "definition": "树皮",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to march",
+      "error_analysis": "学生易因形近词\"match\"(匹配)或\"mark\"(标记)的干扰，将\"to march\"错误理解为\"匹配\"或\"标记\"",
+      "sentence": "The soldiers will **march** through the city tomorrow to celebrate Victory Day.",
+      "options": {
+        "option": [
+          {
+            "definition": "行进；行军",
+            "iscorrect": true
+          },
+          {
+            "definition": "匹配；配对",
+            "iscorrect": false
+          },
+          {
+            "definition": "标记；做记号",
+            "iscorrect": false
+          },
+          {
+            "definition": "等待；等候",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

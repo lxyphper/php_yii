@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to turn off",
+      "error_analysis": "学生易因“turn”（转动）和“off”（离开）的字面意思，将“to turn off”误理解为“转身离开”而非“关掉（电器等）”。",
+      "sentence": "Please **turn off** the air conditioner before you leave the room.",
+      "options": {
+        "option": [
+          {
+            "definition": "关掉（电器等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "转身离开",
+            "iscorrect": false
+          },
+          {
+            "definition": "使厌烦",
+            "iscorrect": false
+          },
+          {
+            "definition": "打开（电器等）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

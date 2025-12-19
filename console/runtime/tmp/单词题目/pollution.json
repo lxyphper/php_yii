@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pollution",
+      "error_analysis": "易因形近词population（人口）或词根poll（投票）误解为“人口”或“民意调查”",
+      "sentence": "The river was so dirty because of industrial **pollution** that no fish could live in it.",
+      "options": {
+        "option": [
+          {
+            "definition": "污染",
+            "iscorrect": true
+          },
+          {
+            "definition": "人口",
+            "iscorrect": false
+          },
+          {
+            "definition": "民意调查",
+            "iscorrect": false
+          },
+          {
+            "definition": "政策",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

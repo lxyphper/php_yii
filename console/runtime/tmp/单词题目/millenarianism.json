@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "millenarianism",
+      "error_analysis": "学生易因词根\"millennium\"(千年)和后缀\"-arianism\"(主义)，错误将其理解为\"千年纪念活动的组织原则\"或\"千年历史观\"，忽略其宗教层面的\"千禧年主义\"核心义。",
+      "sentence": "The sect's unwavering belief in **millenarianism** drove its members to stockpile supplies and await the prophesied thousand-year reign of peace.",
+      "options": {
+        "option": [
+          {
+            "definition": "千禧年主义（相信基督复临并建立千年王国的宗教信仰）",
+            "iscorrect": true
+          },
+          {
+            "definition": "千年纪念活动的组织原则（用于策划千年庆祝活动的指导思想）",
+            "iscorrect": false
+          },
+          {
+            "definition": "千年历史观（认为历史发展以千年为周期的观点）",
+            "iscorrect": false
+          },
+          {
+            "definition": "女帽商的职业准则（女帽从业者遵循的职业规范）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

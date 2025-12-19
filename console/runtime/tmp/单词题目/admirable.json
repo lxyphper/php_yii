@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "admirable",
+      "error_analysis": "学生易因形近词\"amiable\"（和蔼的）混淆，或因词根\"mira\"（奇迹）误判为\"令人惊奇的\"",
+      "sentence": "Her **admirable** dedication to helping the homeless earned her a community award.",
+      "options": {
+        "option": [
+          {
+            "definition": "值得钦佩的",
+            "iscorrect": true
+          },
+          {
+            "definition": "和蔼的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人惊奇的",
+            "iscorrect": false
+          },
+          {
+            "definition": "难以理解的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

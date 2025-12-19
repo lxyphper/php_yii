@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sixteen",
+      "error_analysis": "中国学生易混淆'sixteen'与形近词'six'（六）、'sixty'（六十），导致数量误判。",
+      "sentence": "There are **sixteen** students in the classroom; they are getting ready for their first lesson.",
+      "options": {
+        "option": [
+          {
+            "definition": "六",
+            "iscorrect": false
+          },
+          {
+            "definition": "第六",
+            "iscorrect": false
+          },
+          {
+            "definition": "十六",
+            "iscorrect": true
+          },
+          {
+            "definition": "六十",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

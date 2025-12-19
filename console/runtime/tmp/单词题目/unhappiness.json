@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unhappiness",
+      "error_analysis": "学生易因形近词（如unhandiness）误判为“笨拙”，或因词根直译误理解为“不幸福的原因”",
+      "sentence": "Her eyes showed deep **unhappiness** after hearing the bad news.",
+      "options": {
+        "option": [
+          {
+            "definition": "不幸；悲伤",
+            "iscorrect": true
+          },
+          {
+            "definition": "笨拙；不灵巧",
+            "iscorrect": false
+          },
+          {
+            "definition": "不幸福的原因",
+            "iscorrect": false
+          },
+          {
+            "definition": "不愿意；不情愿",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

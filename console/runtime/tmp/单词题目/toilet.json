@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "toilet",
+      "error_analysis": "学生易因形近词\"toil\"(辛苦工作)、\"towel\"(毛巾)或\"toast\"(烤面包)的联想，误判\"toilet\"的含义。",
+      "sentence": "Could you tell me where the **toilet** is? I need to wash my hands before dinner.",
+      "options": {
+        "option": [
+          {
+            "definition": "厕所；卫生间",
+            "iscorrect": true
+          },
+          {
+            "definition": "辛苦的工作",
+            "iscorrect": false
+          },
+          {
+            "definition": "毛巾",
+            "iscorrect": false
+          },
+          {
+            "definition": "烤面包",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

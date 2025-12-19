@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sickly",
+      "error_analysis": "学生易因`sick`+`ly`的词根结构，误将`sickly`理解为“生病地”（副词）或“生病的”（同`sick`的形容词），忽略其“长期体弱”的核心义。",
+      "sentence": "The **sickly** girl often stays home from school because of her weak immune system.",
+      "options": {
+        "option": [
+          {
+            "definition": "体弱的；多病的（形容词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "生病地（副词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "生病的（形容词，同`sick`）",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人恶心的（形容词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

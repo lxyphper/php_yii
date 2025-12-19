@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to labor",
+      "error_analysis": "学生易因形近词“lab”（实验室）误解为“做实验”，或因名词“labor”的“分娩”义误将动词理解为“分娩”。",
+      "sentence": "The workers **labored** for hours to fix the broken road before the storm hit.",
+      "options": {
+        "option": [
+          {
+            "definition": "劳动；努力工作",
+            "iscorrect": true
+          },
+          {
+            "definition": "做实验",
+            "iscorrect": false
+          },
+          {
+            "definition": "分娩",
+            "iscorrect": false
+          },
+          {
+            "definition": "休息",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

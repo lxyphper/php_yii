@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "credit",
+      "error_analysis": "形近词“create”（创造）的干扰是核心易错点，学生易将“credit”误认为“创造”；或词根“cred”错误推导为“证明”。",
+      "sentence": "She completed the online course and received two **credit**s for her effort.",
+      "options": {
+        "option": [
+          {
+            "definition": "学分；学时",
+            "iscorrect": true
+          },
+          {
+            "definition": "创造；创造物",
+            "iscorrect": false
+          },
+          {
+            "definition": "证明；证书",
+            "iscorrect": false
+          },
+          {
+            "definition": "成绩；等级",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

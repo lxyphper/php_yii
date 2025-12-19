@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "potato",
+      "error_analysis": "形近词\"tomato\"(西红柿)的干扰及词根\"pot\"(锅)引发的\"锅具\"错误联想",
+      "sentence": "My mom made French fries with fresh **potatoes** from the garden.",
+      "options": {
+        "option": [
+          {
+            "definition": "土豆；马铃薯",
+            "iscorrect": true
+          },
+          {
+            "definition": "西红柿；番茄",
+            "iscorrect": false
+          },
+          {
+            "definition": "锅具；陶器",
+            "iscorrect": false
+          },
+          {
+            "definition": "胡萝卜；红萝卜",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

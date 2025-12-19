@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "eletric chair",
+      "elektric chair",
+      "electric chare",
+      "electric shair",
+      "elctric chair"
+    ],
+    "correct_chunks": [
+      "elec",
+      "tric",
+      "ch",
+      "air"
+    ],
+    "distractor_chunks": [
+      "ele",
+      "elek",
+      "are",
+      "sh",
+      "elc"
+    ]
+  },
+  0
+]

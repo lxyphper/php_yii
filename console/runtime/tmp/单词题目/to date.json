@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to date",
+      "error_analysis": "学生易将\"to date\"误判为\"去约会\"（形近词\"date\"的常见义干扰）或\"到日期\"（字面直译固定短语）",
+      "sentence": "She has published five short stories **to date**, and she's working on a new collection now.",
+      "options": {
+        "option": [
+          {
+            "definition": "迄今为止；到目前为止",
+            "iscorrect": true
+          },
+          {
+            "definition": "去约会；与...约会",
+            "iscorrect": false
+          },
+          {
+            "definition": "到日期；至期限",
+            "iscorrect": false
+          },
+          {
+            "definition": "给...标注日期；确定...的年代",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

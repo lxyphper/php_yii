@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to deter",
+      "error_analysis": "易与形近词'determine'（决定）混淆，或因词根'terrere'（恐惧）误解为'使恐惧'",
+      "sentence": "The sign warning of a 500-yuan fine is meant to **deter** jaywalking.",
+      "options": {
+        "option": [
+          {
+            "definition": "决定",
+            "iscorrect": false
+          },
+          {
+            "definition": "阻止；威慑",
+            "iscorrect": true
+          },
+          {
+            "definition": "使恐惧",
+            "iscorrect": false
+          },
+          {
+            "definition": "推迟",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

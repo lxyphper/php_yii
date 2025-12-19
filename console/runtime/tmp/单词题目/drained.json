@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "drained",
+      "error_analysis": "学生易因形近词\"rained\"误联想为\"下雨的\"，或因词根\"drain\"(排水)过度直译为\"被排干的(液体)\"，忽略其\"疲惫的\"核心义。",
+      "sentence": "After working 12 hours straight, she felt completely **drained** and could barely lift her arms.",
+      "options": {
+        "option": [
+          {
+            "definition": "下雨的",
+            "iscorrect": false
+          },
+          {
+            "definition": "被排干的（如液体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "疲惫的；耗尽的",
+            "iscorrect": true
+          },
+          {
+            "definition": "干燥的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

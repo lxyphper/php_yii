@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bald",
+      "error_analysis": "中国学生易将“bald”（秃头的）与形近词“bold”（大胆的）混淆，或误选其引申义“光秃秃的”（未结合语境判断）。",
+      "sentence": "After years of hair loss, he finally became **bald** and decided to shave his head completely.",
+      "options": {
+        "option": [
+          {
+            "definition": "秃头的",
+            "iscorrect": true
+          },
+          {
+            "definition": "大胆的",
+            "iscorrect": false
+          },
+          {
+            "definition": "光秃秃的",
+            "iscorrect": false
+          },
+          {
+            "definition": "坏的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to want",
+      "error_analysis": "中国学生易混淆形近词“wait”（等待）或误将“want”理解为“缺少”（来自“for want of”的字面误导）",
+      "sentence": "She **wants** to buy a new dress for the party.",
+      "options": {
+        "option": [
+          {
+            "definition": "想要",
+            "iscorrect": true
+          },
+          {
+            "definition": "等待",
+            "iscorrect": false
+          },
+          {
+            "definition": "缺少",
+            "iscorrect": false
+          },
+          {
+            "definition": "希望",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

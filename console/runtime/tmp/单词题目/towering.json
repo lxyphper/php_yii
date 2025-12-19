@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "towering",
+      "error_analysis": "学生易因词根“tower”（塔）误导将“towering”理解为“像塔一样的”，或因形近词“toweling”（毛巾布）、“lowering”（阴沉的）产生错误联想。",
+      "sentence": "The **towering** redwoods in California are some of the tallest trees in the world.",
+      "options": {
+        "option": [
+          {
+            "definition": "高耸的",
+            "iscorrect": true
+          },
+          {
+            "definition": "像塔一样的",
+            "iscorrect": false
+          },
+          {
+            "definition": "毛巾布的",
+            "iscorrect": false
+          },
+          {
+            "definition": "阴沉的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to thank",
+      "error_analysis": "中国学生易因形近词\"think\"（想；认为）混淆\"to thank\"的动词词义，或误将其当作名词\"谢谢\"使用。",
+      "sentence": "I always forget to thank my mom for making breakfast every morning.",
+      "options": {
+        "option": [
+          {
+            "definition": "感谢（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "想；认为",
+            "iscorrect": false
+          },
+          {
+            "definition": "谢谢（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "融化；解冻",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to solicit",
+      "error_analysis": "学生易因形近词\"select\"（选择）或同根词\"solicitous\"（关心的）误解\"to solicit\"的核心含义。",
+      "sentence": "The non-profit organization plans to **solicit** donations from local businesses to fund their new community center.",
+      "options": {
+        "option": [
+          {
+            "definition": "请求（尤指金钱、帮助或支持）",
+            "iscorrect": true
+          },
+          {
+            "definition": "选择",
+            "iscorrect": false
+          },
+          {
+            "definition": "关心；照顾",
+            "iscorrect": false
+          },
+          {
+            "definition": "收集",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

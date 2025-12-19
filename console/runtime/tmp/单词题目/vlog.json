@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "vlog",
+      "error_analysis": "学生易因形近词“log”/“blog”误解“vlog”为“文字日志/博客”，或拆分“v+log”猜测为“语音日志”。",
+      "sentence": "She often shares her travel experiences through a **vlog** where she records videos of beautiful scenery and local food.",
+      "options": {
+        "option": [
+          {
+            "definition": "视频博客",
+            "iscorrect": true
+          },
+          {
+            "definition": "文字博客",
+            "iscorrect": false
+          },
+          {
+            "definition": "语音日志",
+            "iscorrect": false
+          },
+          {
+            "definition": "旅行日志",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

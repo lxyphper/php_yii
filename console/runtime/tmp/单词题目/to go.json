@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to go",
+      "error_analysis": "学生易将“to go”的核心义“去；走”混淆为“来”（方向错误）或“做/进行”（引申义误导）",
+      "sentence": "She picks up her bag and says, \"I have to **go** now—my bus leaves in 10 minutes.\"",
+      "options": {
+        "option": [
+          {
+            "definition": "去；走",
+            "iscorrect": true
+          },
+          {
+            "definition": "来；过来",
+            "iscorrect": false
+          },
+          {
+            "definition": "做；进行",
+            "iscorrect": false
+          },
+          {
+            "definition": "成为；变成",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

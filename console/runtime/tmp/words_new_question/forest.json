@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "forest",
+      "error_analysis": "学生易因形近词“forecast”（预测）、“frost”（霜）的干扰及“fore-”前缀误导而误判“forest”的词义。",
+      "sentence": "We decided to go camping in the **forest** near our town last weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "森林",
+            "iscorrect": true
+          },
+          {
+            "definition": "预测",
+            "iscorrect": false
+          },
+          {
+            "definition": "霜",
+            "iscorrect": false
+          },
+          {
+            "definition": "前面的区域",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

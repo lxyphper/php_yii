@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "creamy",
+      "error_analysis": "中国学生易因形近词“creepy”（令人毛骨悚然的）拼写混淆，或因词根“cream”（奶油）过度直译而误判“creamy”的核心质地含义（柔滑浓稠的）。",
+      "sentence": "The homemade ice cream has a rich, **creamy** texture that melts smoothly in your mouth.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人毛骨悚然的",
+            "iscorrect": false
+          },
+          {
+            "definition": "奶油（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "柔滑浓稠的（像奶油一样的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "奶油味的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

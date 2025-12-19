@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to represent",
+      "error_analysis": "学生易混淆形近词\"present\"（呈现/赠送），或词根过度推导为\"再次呈现\"，忽略其核心义\"代表/象征\"",
+      "sentence": "The student council elected her to **represent** our class in the school meeting.",
+      "options": {
+        "option": [
+          {
+            "definition": "代表；象征",
+            "iscorrect": true
+          },
+          {
+            "definition": "呈现；赠送",
+            "iscorrect": false
+          },
+          {
+            "definition": "再次呈现",
+            "iscorrect": false
+          },
+          {
+            "definition": "代替；替换",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

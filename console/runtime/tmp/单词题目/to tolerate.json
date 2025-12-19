@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to tolerate",
+      "error_analysis": "中国学生易因形近词（如translate）混淆将“to tolerate”误译为“翻译”，或因词根字面误导误理解为“支持”。",
+      "sentence": "She can't **tolerate** the loud music from her neighbor's apartment.",
+      "options": {
+        "option": [
+          {
+            "definition": "翻译",
+            "iscorrect": false
+          },
+          {
+            "definition": "支持",
+            "iscorrect": false
+          },
+          {
+            "definition": "庆祝",
+            "iscorrect": false
+          },
+          {
+            "definition": "忍受；容忍",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

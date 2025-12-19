@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "libel",
+      "error_analysis": "学生易因形近词\"label\"(标签)混淆，或词根\"lib-\"联想到\"自由\"(liberty)而误解\"libel\"的含义。",
+      "sentence": "The famous actress decided to take legal action against the magazine for **libel** after it printed a completely false story about her.",
+      "options": {
+        "option": [
+          {
+            "definition": "标签",
+            "iscorrect": false
+          },
+          {
+            "definition": "自由",
+            "iscorrect": false
+          },
+          {
+            "definition": "（书面）诽谤",
+            "iscorrect": true
+          },
+          {
+            "definition": "责任",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

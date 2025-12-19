@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ginger",
+      "error_analysis": "学生易因形近词\"finger\"（手指）混淆，或因动词\"ginger\"（使活泼）加\"-er\"的词根联想误判其名词含义",
+      "sentence": "To make the soup more flavorful, you should add a small piece of **ginger**.",
+      "options": {
+        "option": [
+          {
+            "definition": "手指",
+            "iscorrect": false
+          },
+          {
+            "definition": "使活泼的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "生姜",
+            "iscorrect": true
+          },
+          {
+            "definition": "发动机",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

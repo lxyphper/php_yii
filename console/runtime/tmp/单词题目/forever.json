@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "forever",
+      "error_analysis": "学生可能因\"fore-\"前缀（表示\"前面的\"）与\"ever\"（曾经）的错误拆分，将\"forever\"误解为\"从前\"或\"过去的某个时候\"，或因拼写与\"foresee\"（预见）相近而混淆。",
+      "sentence": "The old tree in the park has been there **forever**—even my parents played under it when they were kids.",
+      "options": {
+        "option": [
+          {
+            "definition": "永远",
+            "iscorrect": true
+          },
+          {
+            "definition": "预见；预测",
+            "iscorrect": false
+          },
+          {
+            "definition": "从前；过去的某个时候",
+            "iscorrect": false
+          },
+          {
+            "definition": "提前；预先",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cyberbullying",
+      "error_analysis": "学生易因“bullying”与“bulletin”（公告）、“building”（建筑）或“buying”（购物）形近，将“cyberbullying”误解为“网络公告”“网络建筑”或“网络购物”",
+      "sentence": "Many teens suffer from **cyberbullying** when others spread hurtful rumors about them online.",
+      "options": {
+        "option": [
+          {
+            "definition": "网络欺凌",
+            "iscorrect": true
+          },
+          {
+            "definition": "网络公告",
+            "iscorrect": false
+          },
+          {
+            "definition": "网络建筑",
+            "iscorrect": false
+          },
+          {
+            "definition": "网络购物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

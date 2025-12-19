@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "requiem",
+      "error_analysis": "因形近词“require”（需要）或词根猜测（如“re-+quies”误以为“再次安息”），易误判为“需要”或“平静”相关含义",
+      "sentence": "The orchestra performed a moving **requiem** at the memorial service for the fallen soldiers.",
+      "options": {
+        "option": [
+          {
+            "definition": "安魂曲；追思曲",
+            "iscorrect": true
+          },
+          {
+            "definition": "需要；要求",
+            "iscorrect": false
+          },
+          {
+            "definition": "再次安息；平静",
+            "iscorrect": false
+          },
+          {
+            "definition": "请求；恳求",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

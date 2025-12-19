@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "efficiency",
+      "error_analysis": "中国学生易因形近词\"effect\"（效果）或词根\"ef-\"(出)+\"facere\"(做)的过度直译，将\"efficiency\"误理解为\"效果\"或\"影响\"。",
+      "sentence": "To meet the deadline, the manager emphasized improving the **efficiency** of our daily tasks—cutting down on unnecessary steps saved us hours.",
+      "options": {
+        "option": [
+          {
+            "definition": "效率（单位时间内的有效产出能力）",
+            "iscorrect": true
+          },
+          {
+            "definition": "效果（某事产生的结果或成效）",
+            "iscorrect": false
+          },
+          {
+            "definition": "影响（对人或事物的改变作用）",
+            "iscorrect": false
+          },
+          {
+            "definition": "充足（拥有足够数量的状态）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

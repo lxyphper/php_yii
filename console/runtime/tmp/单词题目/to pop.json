@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to pop",
+      "error_analysis": "中国学生易因形近词“top”（顶部）误将“to pop”理解为“到顶部”，或因“pop”作名词“流行音乐”误判为“流行”（动词）。",
+      "sentence": "When I walked past the café, I saw my friend **pop out** from behind the tree and wave at me.",
+      "options": {
+        "option": [
+          {
+            "definition": "突然出现",
+            "iscorrect": true
+          },
+          {
+            "definition": "到顶部",
+            "iscorrect": false
+          },
+          {
+            "definition": "流行",
+            "iscorrect": false
+          },
+          {
+            "definition": "打开",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

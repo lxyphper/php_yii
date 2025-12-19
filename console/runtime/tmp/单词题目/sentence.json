@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sentence",
+      "error_analysis": "学生易因形近词'sense'（感觉）或词根'sent'（发送）误导，将'sentence'误判为'感觉'或'发送的信息'。",
+      "sentence": "Please read the following **sentence** and tell me its main idea.",
+      "options": {
+        "option": [
+          {
+            "definition": "句子",
+            "iscorrect": true
+          },
+          {
+            "definition": "感觉",
+            "iscorrect": false
+          },
+          {
+            "definition": "发送的信息",
+            "iscorrect": false
+          },
+          {
+            "definition": "情感",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

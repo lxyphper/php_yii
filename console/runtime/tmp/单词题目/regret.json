@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "regret",
+      "error_analysis": "核心易错点为形近词\"regard\"(看作;关注)的干扰，及\"re-\"词根误导导致误判为\"重复\"",
+      "sentence": "He **regrets** quitting his job without having another offer.",
+      "options": {
+        "option": [
+          {
+            "definition": "看作；关注",
+            "iscorrect": false
+          },
+          {
+            "definition": "后悔；遗憾",
+            "iscorrect": true
+          },
+          {
+            "definition": "重复；再次做",
+            "iscorrect": false
+          },
+          {
+            "definition": "伟大的；杰出的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

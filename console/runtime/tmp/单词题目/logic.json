@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "logic",
+      "error_analysis": "学生易受形近词\"log\"（日志、原木）和词根\"log-\"（说话）的干扰，误将\"logic\"理解为\"日志\"或\"说话方式\"。",
+      "sentence": "The teacher explained that the problem required careful **logic** to solve, not just guesswork.",
+      "options": {
+        "option": [
+          {
+            "definition": "逻辑；推理（方法）",
+            "iscorrect": true
+          },
+          {
+            "definition": "日志；原木",
+            "iscorrect": false
+          },
+          {
+            "definition": "说话方式；对话",
+            "iscorrect": false
+          },
+          {
+            "definition": "魔法；巫术",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

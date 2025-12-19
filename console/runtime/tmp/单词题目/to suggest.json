@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to suggest",
+      "error_analysis": "学生易因形近词“suspect”（怀疑）混淆词义，或因词根“gest”（带来）字面误导误以为“携带”。",
+      "sentence": "The doctor **suggested** that I eat more vegetables to improve my diet.",
+      "options": {
+        "option": [
+          {
+            "definition": "怀疑；猜想",
+            "iscorrect": false
+          },
+          {
+            "definition": "建议；暗示",
+            "iscorrect": true
+          },
+          {
+            "definition": "携带；带来",
+            "iscorrect": false
+          },
+          {
+            "definition": "坚持；强调",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

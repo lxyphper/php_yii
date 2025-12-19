@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "apart from",
+      "error_analysis": "学生易因“apart”（分开）和“from”（从）的字面意思，将“apart from”误理解为“从...分开”或“远离”。",
+      "sentence": "**Apart from** a few minor mistakes, her essay was perfect.",
+      "options": {
+        "option": [
+          {
+            "definition": "除了...之外（还有/没有）",
+            "iscorrect": true
+          },
+          {
+            "definition": "远离",
+            "iscorrect": false
+          },
+          {
+            "definition": "从...分开",
+            "iscorrect": false
+          },
+          {
+            "definition": "不同于",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

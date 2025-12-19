@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "worth",
+      "error_analysis": "中国学生易因“worth”与形近词“word”（单词）混淆，或因发音相近的“work”（工作）产生错误词义联想。",
+      "sentence": "This book is **worth** reading twice.",
+      "options": {
+        "option": [
+          {
+            "definition": "值得...的；有...价值的",
+            "iscorrect": true
+          },
+          {
+            "definition": "单词",
+            "iscorrect": false
+          },
+          {
+            "definition": "工作",
+            "iscorrect": false
+          },
+          {
+            "definition": "财富",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

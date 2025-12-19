@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to thwart",
+      "error_analysis": "学生易因形近词\"threat\"(威胁)或与\"through\"(通过)的发音联想，将\"thwart\"误理解为\"威胁\"或\"通过\"",
+      "sentence": "The police managed to **thwart** the criminals' plan to rob the bank.",
+      "options": {
+        "option": [
+          {
+            "definition": "威胁（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "通过，穿过",
+            "iscorrect": false
+          },
+          {
+            "definition": "阻止，阻挠",
+            "iscorrect": true
+          },
+          {
+            "definition": "思考，考虑",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

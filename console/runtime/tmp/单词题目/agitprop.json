@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "agitprop",
+      "error_analysis": "学生易将\"agitprop\"拆分为\"agitate\"（煽动）和\"prop\"（道具/支撑），误解为\"煽动性道具\"或\"支撑煽动的物品\"。",
+      "sentence": "The revolutionary group used **agitprop** to stir up anger among the workers and push for change.",
+      "options": {
+        "option": [
+          {
+            "definition": "（尤指革命运动的）煽动性政治宣传",
+            "iscorrect": true
+          },
+          {
+            "definition": "煽动性的道具",
+            "iscorrect": false
+          },
+          {
+            "definition": "支撑煽动行为的物品",
+            "iscorrect": false
+          },
+          {
+            "definition": "agitator（煽动者）的缩写形式",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

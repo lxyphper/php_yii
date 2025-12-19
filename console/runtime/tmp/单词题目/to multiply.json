@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to multiply",
+      "error_analysis": "中国学生易将动词“to multiply”与形近词“multiple”（倍数）混淆，或通过词根“multi-”错误推导为“使多样化”。",
+      "sentence": "To find the area of a rectangle, you need to **multiply** its length by its width.",
+      "options": {
+        "option": [
+          {
+            "definition": "（数学上）乘；（数量）增加",
+            "iscorrect": true
+          },
+          {
+            "definition": "倍数",
+            "iscorrect": false
+          },
+          {
+            "definition": "使多样化",
+            "iscorrect": false
+          },
+          {
+            "definition": "折叠",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

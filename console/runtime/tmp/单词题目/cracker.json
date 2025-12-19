@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cracker",
+      "error_analysis": "学生易根据\"crack\"（破裂）加\"er\"后缀猜测为\"破裂物/破碎机\"，忽略其\"饼干\"的常见含义。",
+      "sentence": "She grabbed a **cracker** from the plate and ate it with cheese.",
+      "options": {
+        "option": [
+          {
+            "definition": "饼干（尤指咸脆的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "破裂物；破碎机",
+            "iscorrect": false
+          },
+          {
+            "definition": "爆竹",
+            "iscorrect": false
+          },
+          {
+            "definition": "板球运动员",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

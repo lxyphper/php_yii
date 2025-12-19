@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pointer",
+      "error_analysis": "学生易因“point”词根和“-er”后缀，将“pointer”误解为“指点的人”或“小的点”，而忽略其“指针”的核心含义。",
+      "sentence": "The **pointer** on the clock moved slowly towards 12, signaling the end of the class.",
+      "options": {
+        "option": [
+          {
+            "definition": "指针（如钟表、仪器的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "指点的人；指导者",
+            "iscorrect": false
+          },
+          {
+            "definition": "小的点或标记",
+            "iscorrect": false
+          },
+          {
+            "definition": "提示，建议",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "untroubled",
+      "error_analysis": "中国学生易因“trouble”的“打扰”义将“untroubled”直译为“未被打扰的”（词根字面误导），或因拼写相似混淆为“不舒服的”（uncomfortable，形近词干扰）。",
+      "sentence": "Even after missing the bus, Mary stayed **untroubled** and decided to walk.",
+      "options": {
+        "option": [
+          {
+            "definition": "安心的（不烦恼的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "未被打扰的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不舒服的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不麻烦的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

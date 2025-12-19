@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nurse",
+      "error_analysis": "中国学生易因形近词\"purse\"(钱包)混淆\"nurse\"的含义，或误将其理解为\"滋养\"(受词根/形近词\"nurture\"误导)",
+      "sentence": "My sister works at the local hospital as a **nurse** and helps take care of sick people every shift.",
+      "options": {
+        "option": [
+          {
+            "definition": "钱包",
+            "iscorrect": false
+          },
+          {
+            "definition": "护士；护理",
+            "iscorrect": true
+          },
+          {
+            "definition": "滋养；培育",
+            "iscorrect": false
+          },
+          {
+            "definition": "课程",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

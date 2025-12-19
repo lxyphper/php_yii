@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "option",
+      "error_analysis": "学生易因形近词\"opinion\"（意见）将\"option\"误理解为\"意见\"，或混淆\"选择\"与\"意见\"的含义",
+      "sentence": "If you don't like the red dress, we have a blue one as an **option**.",
+      "options": {
+        "option": [
+          {
+            "definition": "意见",
+            "iscorrect": false
+          },
+          {
+            "definition": "选择；选项",
+            "iscorrect": true
+          },
+          {
+            "definition": "机会",
+            "iscorrect": false
+          },
+          {
+            "definition": "决定",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

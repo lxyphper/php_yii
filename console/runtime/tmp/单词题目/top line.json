@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "top line",
+      "error_analysis": "学生易因\"top\"(顶部)和\"line\"(线)的字面义误解为\"顶部线条\"，或混淆\"top of the line\"(顶级的)而忽略其商业语境下\"营收总额\"的核心义。",
+      "sentence": "The CEO highlighted that the company's **top line** increased by 15% due to higher demand for its new products.",
+      "options": {
+        "option": [
+          {
+            "definition": "顶部的线条或水平线",
+            "iscorrect": false
+          },
+          {
+            "definition": "顶级的产品或服务",
+            "iscorrect": false
+          },
+          {
+            "definition": "营收总额",
+            "iscorrect": true
+          },
+          {
+            "definition": "最高等级的排名",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

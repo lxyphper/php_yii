@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "reason",
+      "error_analysis": "易混淆形近词\"season\"（季节），或误通过词根联想为\"真实\"相关含义",
+      "sentence": "The main **reason** for his absence was a sudden illness.",
+      "options": {
+        "option": [
+          {
+            "definition": "原因；理由",
+            "iscorrect": true
+          },
+          {
+            "definition": "季节",
+            "iscorrect": false
+          },
+          {
+            "definition": "真实的事物",
+            "iscorrect": false
+          },
+          {
+            "definition": "结果",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

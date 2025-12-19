@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "failed",
+      "error_analysis": "学生易混淆形近词\"faded\"(褪色)或误联想\"fall\"(跌倒)的过去式,导致误解\"failed\"的核心含义。",
+      "sentence": "She studied hard for the exam, but she still **failed** it.",
+      "options": {
+        "option": [
+          {
+            "definition": "不及格；未能通过（考试等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "褪色；逐渐消失",
+            "iscorrect": false
+          },
+          {
+            "definition": "跌倒；掉落",
+            "iscorrect": false
+          },
+          {
+            "definition": "填满；充满",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

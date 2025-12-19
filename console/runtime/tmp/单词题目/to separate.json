@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to separate",
+      "error_analysis": "学生易因与“prepare”（准备）形近混淆词义，或因词根“se-”（分开）过度直译将其误理解为“挑选”。",
+      "sentence": "Please **separate** the fresh vegetables from the frozen ones in the fridge.",
+      "options": {
+        "option": [
+          {
+            "definition": "分隔；分开",
+            "iscorrect": true
+          },
+          {
+            "definition": "准备",
+            "iscorrect": false
+          },
+          {
+            "definition": "挑选",
+            "iscorrect": false
+          },
+          {
+            "definition": "合并",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

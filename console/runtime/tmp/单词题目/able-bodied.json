@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "able-bodied",
+      "error_analysis": "中国学生易因词根字面误导，将\"able-bodied\"直译为\"有能力的身体\"，误解为\"强壮的或有体力的\"，忽略其\"无残疾、体格健全\"的核心义。",
+      "sentence": "The volunteer program requires **able-bodied** participants to help with moving heavy supplies to the community center.",
+      "options": {
+        "option": [
+          {
+            "definition": "有能力的（指一般能力）",
+            "iscorrect": false
+          },
+          {
+            "definition": "体格健全的（无残疾的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "身体强壮的（强调力量）",
+            "iscorrect": false
+          },
+          {
+            "definition": "有技能的（指专业能力）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

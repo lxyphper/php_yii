@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "delegation",
+      "error_analysis": "中国学生易将'delegation'与形近词'decoration'（装饰）混淆，或因词根'leg'（腿）猜测为'行走的群体'。",
+      "sentence": "The government sent a **delegation** to the UN to discuss climate change.",
+      "options": {
+        "option": [
+          {
+            "definition": "代表团",
+            "iscorrect": true
+          },
+          {
+            "definition": "装饰（品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "委托的行为",
+            "iscorrect": false
+          },
+          {
+            "definition": "行走的群体",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

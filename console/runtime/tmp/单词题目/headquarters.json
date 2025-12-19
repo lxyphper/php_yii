@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "headquarters",
+      "error_analysis": "学生易将\"headquarters\"拆分为\"head\"（首脑）和\"quarters\"（住处）误判为\"首脑的私人住处\"，或受形近词\"headline\"（标题）干扰。",
+      "sentence": "The company's **headquarters** is located in New York, where all major decisions are made.",
+      "options": {
+        "option": [
+          {
+            "definition": "（组织的）总部",
+            "iscorrect": true
+          },
+          {
+            "definition": "主要的办公区域",
+            "iscorrect": false
+          },
+          {
+            "definition": "首脑的私人住处",
+            "iscorrect": false
+          },
+          {
+            "definition": "主要的新闻标题",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

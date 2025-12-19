@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nimble",
+      "error_analysis": "学生易因形近词\"noble\"（高贵的）或误联想\"numb\"（麻木的）而误解\"nimble\"的核心义（敏捷的）",
+      "sentence": "The cat was so **nimble** that it jumped onto the shelf without knocking anything over.",
+      "options": {
+        "option": [
+          {
+            "definition": "敏捷的；灵活的",
+            "iscorrect": true
+          },
+          {
+            "definition": "高贵的；崇高的",
+            "iscorrect": false
+          },
+          {
+            "definition": "麻木的；失去感觉的",
+            "iscorrect": false
+          },
+          {
+            "definition": "简单的；容易的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

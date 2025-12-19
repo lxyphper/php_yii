@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "restless",
+      "error_analysis": "学生易因\"rest+less\"字面误导为\"没有休息的\"，或与形近词\"restful\"（宁静的）混淆",
+      "sentence": "After waiting for two hours at the airport, Sarah became **restless** and kept pacing back and forth.",
+      "options": {
+        "option": [
+          {
+            "definition": "不安的；焦躁的",
+            "iscorrect": true
+          },
+          {
+            "definition": "宁静的；放松的",
+            "iscorrect": false
+          },
+          {
+            "definition": "没有休息的；休息不足的",
+            "iscorrect": false
+          },
+          {
+            "definition": "疲惫的；乏力的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

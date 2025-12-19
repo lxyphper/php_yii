@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to choose",
+      "error_analysis": "中国学生易因形近词“close”（关闭）或“chew”（咀嚼）的干扰，将“choose”误理解为“关闭”或“咀嚼”",
+      "sentence": "When you go to the café, you can **choose** a drink from the list of options.",
+      "options": {
+        "option": [
+          {
+            "definition": "选择",
+            "iscorrect": true
+          },
+          {
+            "definition": "关闭",
+            "iscorrect": false
+          },
+          {
+            "definition": "咀嚼",
+            "iscorrect": false
+          },
+          {
+            "definition": "等待",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

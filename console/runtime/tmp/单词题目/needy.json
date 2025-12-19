@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "needy",
+      "error_analysis": "学生易因词根\"need\"的字面误导将\"needy\"误理解为\"需要的\"（一般意义），或因形近词\"neat\"误判为\"整洁的\"",
+      "sentence": "The local charity gives clothes and food to **needy** people in the community.",
+      "options": {
+        "option": [
+          {
+            "definition": "贫困的；有困难需要帮助的",
+            "iscorrect": true
+          },
+          {
+            "definition": "需要的（一般意义上的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "整洁的",
+            "iscorrect": false
+          },
+          {
+            "definition": "近的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "redolent",
+      "error_analysis": "易混淆形近词\"redundant\"(多余的)，或误将\"red-\"联想为\"红色的\"导致错误理解",
+      "sentence": "The old attic was **redolent** of dust and childhood memories, with boxes of toys tucked in the corners.",
+      "options": {
+        "option": [
+          {
+            "definition": "有…气味的；使人想起…的",
+            "iscorrect": true
+          },
+          {
+            "definition": "多余的；冗余的",
+            "iscorrect": false
+          },
+          {
+            "definition": "红色的；激烈的",
+            "iscorrect": false
+          },
+          {
+            "definition": "吵闹的；喧嚣的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

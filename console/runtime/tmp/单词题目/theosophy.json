@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "theosophy",
+      "error_analysis": "易与形近词\"theology\"(神学)混淆，或因词根\"theo-\"(神)+\"-sophy\"(智慧)误判为\"神的智慧\"",
+      "sentence": "Helena Blavatsky, a founder of the Theosophical Society, argued that **theosophy** unites Buddhist, Hindu, and Western mystical traditions to reveal universal spiritual truths.",
+      "options": {
+        "option": [
+          {
+            "definition": "神学（研究神与宗教信仰的学科）",
+            "iscorrect": false
+          },
+          {
+            "definition": "通神学（融合宗教、哲学与神秘主义的学说）",
+            "iscorrect": true
+          },
+          {
+            "definition": "关于神的智慧或神圣教义",
+            "iscorrect": false
+          },
+          {
+            "definition": "神秘主义文学的分支流派",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

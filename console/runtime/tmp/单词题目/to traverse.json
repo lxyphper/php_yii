@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to traverse",
+      "error_analysis": "易因形近词“transfer”（转移）和词根“versus”（转向）的误导，将“to traverse”误理解为“转移”或“转向”。",
+      "sentence": "The hikers planned to **traverse** the mountain range before sunset to reach the campsite.",
+      "options": {
+        "option": [
+          {
+            "definition": "横穿；穿越（尤指通过困难或漫长的区域）",
+            "iscorrect": true
+          },
+          {
+            "definition": "转移；传递",
+            "iscorrect": false
+          },
+          {
+            "definition": "转向；改变方向",
+            "iscorrect": false
+          },
+          {
+            "definition": "运输；运送",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

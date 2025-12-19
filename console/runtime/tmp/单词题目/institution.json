@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "institution",
+      "error_analysis": "易因形近词institute（学院）误判为“研究所/学院”，或因词根“建立”误导为“建立；设立”，忽略其“机构；制度”的核心义",
+      "sentence": "The government plans to reform key social **institutions** like healthcare and education.",
+      "options": {
+        "option": [
+          {
+            "definition": "机构；制度",
+            "iscorrect": true
+          },
+          {
+            "definition": "学院；研究所",
+            "iscorrect": false
+          },
+          {
+            "definition": "建立；设立",
+            "iscorrect": false
+          },
+          {
+            "definition": "指导；教导",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

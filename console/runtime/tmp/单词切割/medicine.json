@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "medecine",
+      "medisine",
+      "medcine",
+      "medicin"
+    ],
+    "correct_chunks": [
+      "med",
+      "di",
+      "cine"
+    ],
+    "distractor_chunks": [
+      "de",
+      "sine",
+      "cine",
+      "cin"
+    ]
+  },
+  0
+]

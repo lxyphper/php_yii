@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rich",
+      "error_analysis": "中国学生易因形近词“rice”（米饭）的干扰，将“rich”误理解为“米饭”。",
+      "sentence": "The man in the big house is very **rich**; he has many cars and a private jet.",
+      "options": {
+        "option": [
+          {
+            "definition": "富有的",
+            "iscorrect": true
+          },
+          {
+            "definition": "米饭",
+            "iscorrect": false
+          },
+          {
+            "definition": "到达",
+            "iscorrect": false
+          },
+          {
+            "definition": "浓郁的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

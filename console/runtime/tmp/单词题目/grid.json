@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "grid",
+      "error_analysis": "学生易因形近词“grind”（研磨）混淆，或误将“grid”理解为与“地面”相关的结构。",
+      "sentence": "The weather forecast shows a **grid** of rainfall probabilities for each region.",
+      "options": {
+        "option": [
+          {
+            "definition": "网格；方格",
+            "iscorrect": true
+          },
+          {
+            "definition": "研磨；磨碎",
+            "iscorrect": false
+          },
+          {
+            "definition": "地面的硬结构",
+            "iscorrect": false
+          },
+          {
+            "definition": "烤架；格栅",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

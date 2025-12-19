@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rustling",
+      "error_analysis": "学生易因形近词“rust”（生锈）误判“rustling”与“生锈”相关（如“生锈的过程”）。",
+      "sentence": "As the wind blew through the oak trees, a gentle **rustling** of leaves filled the air, making the afternoon feel peaceful.",
+      "options": {
+        "option": [
+          {
+            "definition": "（树叶、纸等发出的）沙沙声",
+            "iscorrect": true
+          },
+          {
+            "definition": "生锈的痕迹或氧化过程",
+            "iscorrect": false
+          },
+          {
+            "definition": "乡村的、质朴的生活场景",
+            "iscorrect": false
+          },
+          {
+            "definition": "金属碰撞产生的咔嗒声",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

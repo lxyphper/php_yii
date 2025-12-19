@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "above",
+      "error_analysis": "中国学生易将“above”与形近词“about”（关于）混淆，或误判为“超过”。",
+      "sentence": "The painting hangs **above** the fireplace in the living room.",
+      "options": {
+        "option": [
+          {
+            "definition": "在...上方（不接触）",
+            "iscorrect": true
+          },
+          {
+            "definition": "关于",
+            "iscorrect": false
+          },
+          {
+            "definition": "超过",
+            "iscorrect": false
+          },
+          {
+            "definition": "在国外",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

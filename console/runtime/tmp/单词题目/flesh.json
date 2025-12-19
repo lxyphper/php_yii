@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "flesh",
+      "error_analysis": "学生易因形近词“fresh”（新鲜的）或“flash”（闪光）混淆“flesh”的词义",
+      "sentence": "The hunter cut through the animal's **flesh** to prepare the meat for cooking.",
+      "options": {
+        "option": [
+          {
+            "definition": "新鲜的",
+            "iscorrect": false
+          },
+          {
+            "definition": "闪光",
+            "iscorrect": false
+          },
+          {
+            "definition": "肉；肉体",
+            "iscorrect": true
+          },
+          {
+            "definition": "鱼",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

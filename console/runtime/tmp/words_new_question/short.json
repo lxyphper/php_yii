@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "short",
+      "error_analysis": "学生易因形近词“shirt”（衬衫）混淆，或错误将“short”的“矮的”含义应用到时间/长度语境中",
+      "sentence": "The meeting will be **short**—only 15 minutes.",
+      "options": {
+        "option": [
+          {
+            "definition": "短的（指时间或长度）",
+            "iscorrect": true
+          },
+          {
+            "definition": "衬衫",
+            "iscorrect": false
+          },
+          {
+            "definition": "矮的（指人或物体的高度）",
+            "iscorrect": false
+          },
+          {
+            "definition": "小的（指大小）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

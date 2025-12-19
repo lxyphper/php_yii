@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "paper",
+      "error_analysis": "中国学生易混淆形近词“paper”（论文/纸）与“pepper”（胡椒），或误将其仅等同于“报纸”。",
+      "sentence": "She spent months researching and writing her **paper** on climate change for the academic conference.",
+      "options": {
+        "option": [
+          {
+            "definition": "学术论文",
+            "iscorrect": true
+          },
+          {
+            "definition": "胡椒",
+            "iscorrect": false
+          },
+          {
+            "definition": "报纸",
+            "iscorrect": false
+          },
+          {
+            "definition": "墙纸",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

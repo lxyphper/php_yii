@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "space-consuming",
+      "error_analysis": "学生易因consuming的“消耗”或“消费”义，将space-consuming错译为“消耗空间的”或“需要消费空间的”，而非“占空间的”",
+      "sentence": "The new bookshelf is so **space-consuming** that it barely fits in our tiny study.",
+      "options": {
+        "option": [
+          {
+            "definition": "占空间的",
+            "iscorrect": true
+          },
+          {
+            "definition": "消耗空间的",
+            "iscorrect": false
+          },
+          {
+            "definition": "需要消费空间的",
+            "iscorrect": false
+          },
+          {
+            "definition": "空间消耗（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

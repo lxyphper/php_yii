@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to invade",
+      "error_analysis": "易混淆形近词\"invite\"(邀请)及词根\"in-\"(进入)+\"vade\"(走)导致误判为\"一般进入\"",
+      "sentence": "During World War II, German forces tried to **invade** Britain by launching attacks from both the sea and the air.",
+      "options": {
+        "option": [
+          {
+            "definition": "邀请",
+            "iscorrect": false
+          },
+          {
+            "definition": "入侵；侵略",
+            "iscorrect": true
+          },
+          {
+            "definition": "进入（如房间、场所）",
+            "iscorrect": false
+          },
+          {
+            "definition": "发明；创造",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

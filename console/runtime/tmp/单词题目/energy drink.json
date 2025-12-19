@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "energy drink",
+      "error_analysis": "中国学生易将“energy”误看成“enemy”（敌人）导致“敌人饮料”，或误将“energy drink”理解为动词短语“喝能量”。",
+      "sentence": "After staying up late to finish his paper, Tom grabbed an **energy drink** from the fridge to stay awake.",
+      "options": {
+        "option": [
+          {
+            "definition": "敌人饮料",
+            "iscorrect": false
+          },
+          {
+            "definition": "喝能量",
+            "iscorrect": false
+          },
+          {
+            "definition": "能量饮料",
+            "iscorrect": true
+          },
+          {
+            "definition": "紧急饮料",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

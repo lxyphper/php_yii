@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "covalent bond",
+      "error_analysis": "将“covalent bond”误解为非化学意义的“共同价值纽带”或“合作纽带”（因“co-”前缀和“bond”的常见义）",
+      "sentence": "In chemistry, a **covalent bond** forms when two atoms share one or more pairs of electrons to achieve a stable electron configuration.",
+      "options": {
+        "option": [
+          {
+            "definition": "（化学中的）共价键（两个原子通过共享电子对形成的化学键）",
+            "iscorrect": true
+          },
+          {
+            "definition": "合作性纽带（如团队成员间的合作关系）",
+            "iscorrect": false
+          },
+          {
+            "definition": "共同价值债券（金融中代表共同价值的债券）",
+            "iscorrect": false
+          },
+          {
+            "definition": "康复期的情感结合（如病人康复时与家人的情感联系）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "metaphor",
+      "error_analysis": "易因形近词\"metaphysics\"（形而上学）产生混淆，或因词根\"meta-\"（超越）与\"phor-\"（携带）错误拆解为抽象哲学或物理相关概念。",
+      "sentence": "The poet used a **metaphor** when he described the city's busy streets as a \"river of light\" in his poem.",
+      "options": {
+        "option": [
+          {
+            "definition": "隐喻（一种修辞手法，不使用\"像\"或\"如\"直接将一事物比作另一事物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "形而上学（研究存在、本质等问题的哲学分支）",
+            "iscorrect": false
+          },
+          {
+            "definition": "物理现象（物质运动、变化或相互作用的表现）",
+            "iscorrect": false
+          },
+          {
+            "definition": "传递工具（用于携带或传送物品的装置）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

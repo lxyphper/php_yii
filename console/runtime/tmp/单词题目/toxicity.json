@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "toxicity",
+      "error_analysis": "学生易将抽象名词“毒性”误判为具体的“毒素”（形近词toxins干扰）或形容词“有毒的”（词根toxic的形容词义误导）",
+      "sentence": "The scientists measured the **toxicity** of the new pesticide to determine if it was safe for crops.",
+      "options": {
+        "option": [
+          {
+            "definition": "毒性；毒力",
+            "iscorrect": true
+          },
+          {
+            "definition": "毒素；有毒物质",
+            "iscorrect": false
+          },
+          {
+            "definition": "有毒的；有害的",
+            "iscorrect": false
+          },
+          {
+            "definition": "实验结果；测试数据",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

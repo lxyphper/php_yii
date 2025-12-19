@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "black pepper",
+      "error_analysis": "学生易因形近词\"paper\"将\"black pepper\"误判为\"黑纸\"，或因\"pepper\"的字面误导错解为\"黑辣椒\"",
+      "sentence": "Add a pinch of **black pepper** to the soup to enhance the flavor.",
+      "options": {
+        "option": [
+          {
+            "definition": "黑纸",
+            "iscorrect": false
+          },
+          {
+            "definition": "黑辣椒",
+            "iscorrect": false
+          },
+          {
+            "definition": "黑胡椒",
+            "iscorrect": true
+          },
+          {
+            "definition": "黑墨水",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

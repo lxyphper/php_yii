@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to cartwheel",
+      "error_analysis": "学生易将\"cartwheel\"拆分为\"cart\"（手推车）和\"wheel\"（轮子），错误理解为\"推车轮子\"或\"用手推车运输\"",
+      "sentence": "The little girl was so excited to see her dad that she started to **cartwheel** all the way from the gate to the front door.",
+      "options": {
+        "option": [
+          {
+            "definition": "做侧手翻",
+            "iscorrect": true
+          },
+          {
+            "definition": "推着手推车移动",
+            "iscorrect": false
+          },
+          {
+            "definition": "修理车轮",
+            "iscorrect": false
+          },
+          {
+            "definition": "乘坐购物车",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "goverment",
+      "governmment",
+      "governmant",
+      "gorvernment"
+    ],
+    "correct_chunks": [
+      "gov",
+      "ern",
+      "ment"
+    ],
+    "distractor_chunks": [
+      "er",
+      "mment",
+      "mant",
+      "gor"
+    ]
+  },
+  0
+]

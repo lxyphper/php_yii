@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "inflammation",
+      "error_analysis": "易受形近词information（信息）干扰，或词根flamm-（燃烧）误导为“燃烧；着火”",
+      "sentence": "After twisting his ankle, Tom noticed swelling and redness, which are common signs of **inflammation**.",
+      "options": {
+        "option": [
+          {
+            "definition": "信息",
+            "iscorrect": false
+          },
+          {
+            "definition": "燃烧；着火",
+            "iscorrect": false
+          },
+          {
+            "definition": "炎症",
+            "iscorrect": true
+          },
+          {
+            "definition": "感染",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

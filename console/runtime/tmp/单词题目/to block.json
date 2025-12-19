@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to block",
+      "error_analysis": "学生易因“block”与“lock”拼写相近（尤其过去式“blocked”与“locked”）误判为“锁上”，或因名词“block”（块）的字面误导误判为“堆积成块”。",
+      "sentence": "The fallen tree **blocked** the path, so we had to turn back.",
+      "options": {
+        "option": [
+          {
+            "definition": "锁上",
+            "iscorrect": false
+          },
+          {
+            "definition": "堆积成块",
+            "iscorrect": false
+          },
+          {
+            "definition": "阻挡；阻碍",
+            "iscorrect": true
+          },
+          {
+            "definition": "打破",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

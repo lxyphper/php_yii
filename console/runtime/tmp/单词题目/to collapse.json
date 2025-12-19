@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to collapse",
+      "error_analysis": "中国学生易因形近词“collide”（碰撞）混淆“collapse”的意思，或通过词根“lapse”（失误）错误推导为“失误”。",
+      "sentence": "The old bridge **collapsed** under the weight of the heavy truck.",
+      "options": {
+        "option": [
+          {
+            "definition": "倒塌；崩溃",
+            "iscorrect": true
+          },
+          {
+            "definition": "碰撞；相撞",
+            "iscorrect": false
+          },
+          {
+            "definition": "失误；过失",
+            "iscorrect": false
+          },
+          {
+            "definition": "收集；聚集",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

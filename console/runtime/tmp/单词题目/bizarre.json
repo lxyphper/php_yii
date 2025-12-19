@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bizarre",
+      "error_analysis": "学生易因形近词“bazaar”（集市）混淆，或误猜为“忙碌”“商业”等含义",
+      "sentence": "The artist’s latest work features **bizarre** shapes that look like nothing I’ve ever seen before.",
+      "options": {
+        "option": [
+          {
+            "definition": "奇怪的；奇异的",
+            "iscorrect": true
+          },
+          {
+            "definition": "集市；市场",
+            "iscorrect": false
+          },
+          {
+            "definition": "忙碌的；繁忙的",
+            "iscorrect": false
+          },
+          {
+            "definition": "商业的；生意的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

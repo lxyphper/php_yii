@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "molarity",
+      "error_analysis": "易与形近词\"morality\"（道德）混淆，或误从词根\"molar\"（臼齿）推断为与牙齿相关的含义",
+      "sentence": "To prepare the solution, the chemist calculated the **molarity** by dividing the moles of solute by the volume of the solvent in liters.",
+      "options": {
+        "option": [
+          {
+            "definition": "道德；伦理（指关于正确与错误行为的原则）",
+            "iscorrect": false
+          },
+          {
+            "definition": "臼齿的特征或状态（如形状、功能等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "摩尔浓度（化学中表示溶质物质的量与溶液体积之比的浓度，单位为mol/L）",
+            "iscorrect": true
+          },
+          {
+            "definition": "物质的质量浓度（单位体积溶液中溶质的质量，如g/L）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

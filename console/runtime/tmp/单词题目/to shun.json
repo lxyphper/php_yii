@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to shun",
+      "error_analysis": "学生易因形近词\"sun\"(太阳)、\"shut\"(关闭)或\"shine\"(发光)将\"to shun\"误解为\"享受\"、\"关闭\"或\"发光\"。",
+      "sentence": "To avoid gossip, she chose to **shun** the party where her ex-boyfriend would be.",
+      "options": {
+        "option": [
+          {
+            "definition": "故意避开；回避",
+            "iscorrect": true
+          },
+          {
+            "definition": "享受；参加",
+            "iscorrect": false
+          },
+          {
+            "definition": "关闭；停止",
+            "iscorrect": false
+          },
+          {
+            "definition": "发光；炫耀",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

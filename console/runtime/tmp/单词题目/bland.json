@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bland",
+      "error_analysis": "学生易因形近词“blank”（空白的）混淆，或误猜为“混合的”（因“blend”联想）",
+      "sentence": "The soup tasted so **bland** that I had to add salt and pepper to make it flavorful.",
+      "options": {
+        "option": [
+          {
+            "definition": "平淡的；无味的",
+            "iscorrect": true
+          },
+          {
+            "definition": "空白的",
+            "iscorrect": false
+          },
+          {
+            "definition": "混合的",
+            "iscorrect": false
+          },
+          {
+            "definition": "品牌的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gullible",
+      "error_analysis": "学生易因形近词\"guilty\"（有罪的）或词根\"gull\"（海鸥）的名词义，将\"gullible\"误解为\"有罪的\"或\"与海鸥相关的\"。",
+      "sentence": "The old man was so **gullible** that he believed every story the stranger told him about needing money for a sick child.",
+      "options": {
+        "option": [
+          {
+            "definition": "易受骗的；轻信的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有罪的；内疚的",
+            "iscorrect": false
+          },
+          {
+            "definition": "与海鸥有关的；像海鸥的",
+            "iscorrect": false
+          },
+          {
+            "definition": "贪食的；贪吃的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to hit",
+      "error_analysis": "学生易因形近词“bit”（一点）、“fit”（适合）或“sit”（坐）的干扰，将“hit”错误理解为非“击打”的含义。",
+      "sentence": "The boy picked up a stone and **hit** the window, breaking it into pieces.",
+      "options": {
+        "option": [
+          {
+            "definition": "击打；击中",
+            "iscorrect": true
+          },
+          {
+            "definition": "一点；少量",
+            "iscorrect": false
+          },
+          {
+            "definition": "适合；合身",
+            "iscorrect": false
+          },
+          {
+            "definition": "坐；坐下",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to recover",
+      "error_analysis": "易混淆形近词discover（发现），或词根字面误解为“再次覆盖”",
+      "sentence": "After a week of rest, she finally managed to **recover** from the flu.",
+      "options": {
+        "option": [
+          {
+            "definition": "发现",
+            "iscorrect": false
+          },
+          {
+            "definition": "恢复（健康/状态）",
+            "iscorrect": true
+          },
+          {
+            "definition": "再次覆盖",
+            "iscorrect": false
+          },
+          {
+            "definition": "修理",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

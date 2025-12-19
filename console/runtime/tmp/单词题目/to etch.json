@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to etch",
+      "error_analysis": "学生易因形近词“fetch”（取来）产生联想，或误将“etch”理解为“刮擦”（scratch）而非“蚀刻”。",
+      "sentence": "The craftsman used acid to **etch** his initials onto the bronze medal.",
+      "options": {
+        "option": [
+          {
+            "definition": "蚀刻；刻划（用酸或工具在表面刻图案/文字）",
+            "iscorrect": true
+          },
+          {
+            "definition": "取来；拿来",
+            "iscorrect": false
+          },
+          {
+            "definition": "刮擦；划伤",
+            "iscorrect": false
+          },
+          {
+            "definition": "擦掉；消除",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

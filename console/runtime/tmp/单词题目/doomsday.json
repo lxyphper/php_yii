@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "doomsday",
+      "error_analysis": "学生易因“doom（厄运）+day（天）”的字面推导，将“doomsday”误理解为一般的“不幸的日子”，而非特指“世界末日”。",
+      "sentence": "Scientists warned that if we continue to ignore environmental issues, the Earth might reach a **doomsday** point where life as we know it ceases to exist.",
+      "options": {
+        "option": [
+          {
+            "definition": "不幸的日子",
+            "iscorrect": false
+          },
+          {
+            "definition": "家庭日",
+            "iscorrect": false
+          },
+          {
+            "definition": "忧郁的日子",
+            "iscorrect": false
+          },
+          {
+            "definition": "世界末日；大灾难日",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

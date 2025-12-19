@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mesosphere",
+      "error_analysis": "学生易因词根“meso-”（中间）与“sphere”（球）的字面联想，将“mesosphere”误判为“中等大小的球体”，而非地球大气层的中间层。",
+      "sentence": "Meteors typically burn up in the **mesosphere**, the third layer of Earth's atmosphere situated between the stratosphere (平流层) and thermosphere (热层).",
+      "options": {
+        "option": [
+          {
+            "definition": "地球大气层的中间层（位于平流层与热层之间）",
+            "iscorrect": true
+          },
+          {
+            "definition": "中等大小的球体或天体",
+            "iscorrect": false
+          },
+          {
+            "definition": "地球大气层的最外层",
+            "iscorrect": false
+          },
+          {
+            "definition": "生物体内的中间组织层（如中胚层）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

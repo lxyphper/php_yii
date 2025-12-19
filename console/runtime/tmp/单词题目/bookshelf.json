@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bookshelf",
+      "error_analysis": "学生易因“shelf”与“shop”形近将“bookshelf”误判为“书店”，或因“shelf”与“shell”形近误判为“书壳”。",
+      "sentence": "My mom put the new novels on the **bookshelf** next to the window.",
+      "options": {
+        "option": [
+          {
+            "definition": "书架",
+            "iscorrect": true
+          },
+          {
+            "definition": "书店",
+            "iscorrect": false
+          },
+          {
+            "definition": "书壳",
+            "iscorrect": false
+          },
+          {
+            "definition": "书箱",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

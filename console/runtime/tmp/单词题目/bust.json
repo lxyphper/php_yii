@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bust",
+      "error_analysis": "最核心易错点是混淆形近词“burst”（爆发/破裂）或误将“bust”理解为“忙碌”（busy）的变体",
+      "sentence": "Many small shops went **bust** when the big supermarket opened nearby.",
+      "options": {
+        "option": [
+          {
+            "definition": "爆发/破裂",
+            "iscorrect": false
+          },
+          {
+            "definition": "忙碌的",
+            "iscorrect": false
+          },
+          {
+            "definition": "半身像",
+            "iscorrect": false
+          },
+          {
+            "definition": "破产",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

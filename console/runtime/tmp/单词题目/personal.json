@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "personal",
+      "error_analysis": "混淆形近词\"personnel\"(人事的)或过度直译词根\"person\"为\"人的\"而非\"个人的\"",
+      "sentence": "Please don’t share your **personal** information like your ID number or phone number online—it’s not safe.",
+      "options": {
+        "option": [
+          {
+            "definition": "个人的；私人的",
+            "iscorrect": true
+          },
+          {
+            "definition": "人事的；员工的",
+            "iscorrect": false
+          },
+          {
+            "definition": "人的；关于人的",
+            "iscorrect": false
+          },
+          {
+            "definition": "亲自的；本人的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

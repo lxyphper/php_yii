@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "share",
+      "error_analysis": "中国学生易因形近词“shore”（海岸）、“shear”（剪切）的干扰或词根误导（如“分割”）而误判“share”的“分享”义。",
+      "sentence": "My sister always refuses to **share** her toys with me.",
+      "options": {
+        "option": [
+          {
+            "definition": "分享（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "海岸（shore）",
+            "iscorrect": false
+          },
+          {
+            "definition": "剪切（shear）",
+            "iscorrect": false
+          },
+          {
+            "definition": "分割（split）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

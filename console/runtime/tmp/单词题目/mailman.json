@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mailman",
+      "error_analysis": "将'mailman'字面直译为'邮件男人'，或混淆形近词'milkman'（送牛奶的人）",
+      "sentence": "The **mailman** delivers letters and packages to our house every morning.",
+      "options": {
+        "option": [
+          {
+            "definition": "邮递员",
+            "iscorrect": true
+          },
+          {
+            "definition": "邮件男人",
+            "iscorrect": false
+          },
+          {
+            "definition": "送牛奶的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "邮箱管理员",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "movement",
+      "error_analysis": "学生易混淆形近词\"moment\"(时刻)导致误判，或仅将\"movement\"理解为物理\"移动\"而忽略其\"社会/政治运动\"的核心义项",
+      "sentence": "The civil rights **movement** in the 1960s fought for equal rights for African Americans.",
+      "options": {
+        "option": [
+          {
+            "definition": "时刻；瞬间",
+            "iscorrect": false
+          },
+          {
+            "definition": "（社会/政治）运动",
+            "iscorrect": true
+          },
+          {
+            "definition": "物理移动；动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "（机器的）运转",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to proliferate",
+      "error_analysis": "中国学生易因形近词\"prolong\"(延长)混淆，或通过\"pro-\"(向前)和\"fer\"(带)词根错误推导为\"推进\"或\"提供\"。",
+      "sentence": "Bacteria tend to **proliferate** in warm, damp environments, so it's important to keep food refrigerated.",
+      "options": {
+        "option": [
+          {
+            "definition": "提供（provide）",
+            "iscorrect": false
+          },
+          {
+            "definition": "延长（prolong）",
+            "iscorrect": false
+          },
+          {
+            "definition": "繁殖；激增",
+            "iscorrect": true
+          },
+          {
+            "definition": "推进（push forward）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "podcast",
+      "error_analysis": "学生易因\"pod\"(豆荚)和\"cast\"(广播)的字面组合，错误联想为\"关于豆荚的广播节目\"，或混淆\"podcast\"与\"broadcast\"(无线电广播)的含义",
+      "sentence": "I listen to a **podcast** about technology every morning on my phone.",
+      "options": {
+        "option": [
+          {
+            "definition": "关于豆荚的广播节目",
+            "iscorrect": false
+          },
+          {
+            "definition": "无线电广播节目",
+            "iscorrect": false
+          },
+          {
+            "definition": "播客（一种可下载的数字音频/视频节目）",
+            "iscorrect": true
+          },
+          {
+            "definition": "播客录制设备",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "expansion",
+      "error_analysis": "学生易因形近词\"expectation\"(期望)、\"explosion\"(爆炸)的干扰，误将\"expansion\"(扩张)理解为上述词义",
+      "sentence": "The rapid **expansion** of the tech industry has created thousands of new jobs in the region.",
+      "options": {
+        "option": [
+          {
+            "definition": "扩张；扩展",
+            "iscorrect": true
+          },
+          {
+            "definition": "期望；预期",
+            "iscorrect": false
+          },
+          {
+            "definition": "爆炸；爆发",
+            "iscorrect": false
+          },
+          {
+            "definition": "表达；表述",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

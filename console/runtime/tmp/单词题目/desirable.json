@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "desirable",
+      "error_analysis": "学生易因形近词“desire”（欲望）及词根推导错误，将“desirable”误理解为“（人）有欲望的”或“渴望的”（主动义），而非“令人向往的；可取的”（属性义）",
+      "sentence": "A safe and comfortable living environment is what most people consider **desirable**.",
+      "options": {
+        "option": [
+          {
+            "definition": "（人）有欲望的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人向往的；可取的",
+            "iscorrect": true
+          },
+          {
+            "definition": "（人）渴望的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可鄙的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

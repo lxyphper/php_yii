@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "orbit",
+      "error_analysis": "学生易因形近词“order”（顺序）或“ob-”前缀联想到“观察”而误解“orbit”的含义",
+      "sentence": "The satellite was launched into a low Earth **orbit** to study weather patterns.",
+      "options": {
+        "option": [
+          {
+            "definition": "顺序",
+            "iscorrect": false
+          },
+          {
+            "definition": "观察",
+            "iscorrect": false
+          },
+          {
+            "definition": "轨道",
+            "iscorrect": true
+          },
+          {
+            "definition": "目标",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

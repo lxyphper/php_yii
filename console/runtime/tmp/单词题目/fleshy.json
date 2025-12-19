@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fleshy",
+      "error_analysis": "易因形近词\"fresh\"(新鲜的)或\"flashy\"(浮华的)产生混淆，或因词根\"flesh\"过度直译为\"多脂肪的\"",
+      "sentence": "The peach has a soft, **fleshy** skin that is easy to peel.",
+      "options": {
+        "option": [
+          {
+            "definition": "新鲜的",
+            "iscorrect": false
+          },
+          {
+            "definition": "肉质的；丰满的",
+            "iscorrect": true
+          },
+          {
+            "definition": "浮华的",
+            "iscorrect": false
+          },
+          {
+            "definition": "多脂肪的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

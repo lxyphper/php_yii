@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "highlight",
+      "error_analysis": "学生易将\"highlight\"拆分为\"high\"+\"light\"，误理解为\"强光；高亮度\"，忽略其\"强调；突出显示\"的核心词义。",
+      "sentence": "The teacher will **highlight** the key points in the next lesson to help us review.",
+      "options": {
+        "option": [
+          {
+            "definition": "强调；突出显示",
+            "iscorrect": true
+          },
+          {
+            "definition": "强光；高亮度",
+            "iscorrect": false
+          },
+          {
+            "definition": "升高；抬高",
+            "iscorrect": false
+          },
+          {
+            "definition": "点燃；使发光",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

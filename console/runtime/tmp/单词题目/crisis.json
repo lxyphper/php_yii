@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "crisis",
+      "error_analysis": "学生易因形近词“crisp”（脆的）或词根“cri-”关联“哭”而误解“crisis”为“脆的状态”或“哭泣的时刻”",
+      "sentence": "The country is facing a severe economic **crisis** due to the pandemic.",
+      "options": {
+        "option": [
+          {
+            "definition": "危机",
+            "iscorrect": true
+          },
+          {
+            "definition": "脆的状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "批评的时刻",
+            "iscorrect": false
+          },
+          {
+            "definition": "哭泣的时刻",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

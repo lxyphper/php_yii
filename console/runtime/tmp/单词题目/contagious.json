@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "contagious",
+      "error_analysis": "学生易因形近词\"contiguous\"（相邻的）或词根\"contag-\"（接触）误导，将\"contagious\"误判为\"相邻的\"或\"接触的\"。",
+      "sentence": "The flu is highly **contagious**, so you should wear a mask to avoid spreading it.",
+      "options": {
+        "option": [
+          {
+            "definition": "传染的；有感染力的",
+            "iscorrect": true
+          },
+          {
+            "definition": "相邻的；毗连的",
+            "iscorrect": false
+          },
+          {
+            "definition": "接触的；触摸的",
+            "iscorrect": false
+          },
+          {
+            "definition": "持续的；连续的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

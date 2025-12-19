@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to dart",
+      "error_analysis": "学生易因形近词\"start\"（开始）混淆，或因名词\"飞镖\"猜测动词为\"投掷飞镖\"。",
+      "sentence": "When the cat saw the mouse, it **darted** across the floor to catch it.",
+      "options": {
+        "option": [
+          {
+            "definition": "快速移动；猛冲",
+            "iscorrect": true
+          },
+          {
+            "definition": "开始；启动",
+            "iscorrect": false
+          },
+          {
+            "definition": "投掷飞镖",
+            "iscorrect": false
+          },
+          {
+            "definition": "慢慢行走",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

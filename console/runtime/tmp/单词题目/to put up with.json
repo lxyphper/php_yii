@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to put up with",
+      "error_analysis": "学生易将短语拆分为\"put up（搭建/张贴）+ with（用）\"，误理解为\"用……搭建/张贴\"",
+      "sentence": "I can't **put up with** the loud music from my neighbor anymore—it's driving me crazy!",
+      "options": {
+        "option": [
+          {
+            "definition": "忍受；容忍",
+            "iscorrect": true
+          },
+          {
+            "definition": "用……搭建/张贴",
+            "iscorrect": false
+          },
+          {
+            "definition": "和……一起举起",
+            "iscorrect": false
+          },
+          {
+            "definition": "支持……",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gladness",
+      "error_analysis": "学生易因形近词\"madness\"（疯狂）的干扰或错误理解\"-ness\"后缀表示人，将\"gladness\"误解为\"疯狂\"或\"高兴的人\"",
+      "sentence": "The children's laughter filled the room with **gladness** on Christmas morning.",
+      "options": {
+        "option": [
+          {
+            "definition": "高兴；喜悦",
+            "iscorrect": true
+          },
+          {
+            "definition": "疯狂；精神错乱",
+            "iscorrect": false
+          },
+          {
+            "definition": "高兴的人；快乐的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "感激；感谢",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

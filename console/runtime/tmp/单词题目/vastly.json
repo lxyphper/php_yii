@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "vastly",
+      "error_analysis": "学生易因形近词“vast”（巨大的，形容词）的干扰，将“vastly”误判为形容词“巨大的”或副词“广阔地”（空间上），而非程度上的“极大地”。",
+      "sentence": "The new policy has **vastly** improved the quality of education in rural areas.",
+      "options": {
+        "option": [
+          {
+            "definition": "极大地；非常",
+            "iscorrect": true
+          },
+          {
+            "definition": "巨大的",
+            "iscorrect": false
+          },
+          {
+            "definition": "广阔地",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

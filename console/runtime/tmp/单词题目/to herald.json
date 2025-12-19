@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to herald",
+      "error_analysis": "学生易因形近词“harbor”（停泊）或“传令官”的名词义，将“to herald”误解为“停泊”或“命令”。",
+      "sentence": "The first snow of the year often **heralds** the start of the holiday season, with families preparing for gatherings and gifts.",
+      "options": {
+        "option": [
+          {
+            "definition": "停泊（船只）",
+            "iscorrect": false
+          },
+          {
+            "definition": "预示；宣布",
+            "iscorrect": true
+          },
+          {
+            "definition": "命令；指挥",
+            "iscorrect": false
+          },
+          {
+            "definition": "收获；获得",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to adjust",
+      "error_analysis": "中国学生易因形近词'adopt'（收养；采用）混淆，或因词根'justus'（正确）误导为'使正确'。",
+      "sentence": "Please **adjust** the temperature of the air conditioner; it's too cold in here.",
+      "options": {
+        "option": [
+          {
+            "definition": "调整；调节",
+            "iscorrect": true
+          },
+          {
+            "definition": "收养；采用",
+            "iscorrect": false
+          },
+          {
+            "definition": "使正确；纠正",
+            "iscorrect": false
+          },
+          {
+            "definition": "适应；习惯",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

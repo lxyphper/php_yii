@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hot dog",
+      "error_analysis": "学生易因\"hot\"（热）和\"dog\"（狗）的字面组合，将\"hot dog\"误解为\"热的狗（动物）\"而非食物。",
+      "sentence": "I bought a **hot dog** from the street vendor and ate it with mustard and relish.",
+      "options": {
+        "option": [
+          {
+            "definition": "热狗（食物，即夹有熏肠的面包）",
+            "iscorrect": true
+          },
+          {
+            "definition": "热的狗（指温度较高的狗）",
+            "iscorrect": false
+          },
+          {
+            "definition": "狗喜欢吃的热食",
+            "iscorrect": false
+          },
+          {
+            "definition": "热狗形状的儿童玩具",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

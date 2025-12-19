@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to think",
+      "error_analysis": "中国学生易因形近词“thank”（感谢）或“thin”（瘦）的干扰，将“to think”误理解为“感谢”或“瘦”。",
+      "sentence": "She likes to **think** deeply about the stories in her favorite novels.",
+      "options": {
+        "option": [
+          {
+            "definition": "思考；想",
+            "iscorrect": true
+          },
+          {
+            "definition": "感谢",
+            "iscorrect": false
+          },
+          {
+            "definition": "瘦的",
+            "iscorrect": false
+          },
+          {
+            "definition": "认为（主观判断）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

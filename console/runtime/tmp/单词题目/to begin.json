@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to begin",
+      "error_analysis": "中国学生易因形近词“being”（存在）或词根拆分“be-+gin”（杜松子酒）错误理解“begin”的含义",
+      "sentence": "She plans **to begin** her new job next week.",
+      "options": {
+        "option": [
+          {
+            "definition": "开始",
+            "iscorrect": true
+          },
+          {
+            "definition": "存在",
+            "iscorrect": false
+          },
+          {
+            "definition": "变成",
+            "iscorrect": false
+          },
+          {
+            "definition": "饮用杜松子酒",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

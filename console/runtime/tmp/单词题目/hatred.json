@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hatred",
+      "error_analysis": "学生易将\"hatred\"拆分为\"hat\"（帽子）和\"red\"（红色），误以为与\"红色帽子\"或\"帽子相关事物\"有关。",
+      "sentence": "The long-standing **hatred** between the two families led to many conflicts over the years.",
+      "options": {
+        "option": [
+          {
+            "definition": "红色的帽子",
+            "iscorrect": false
+          },
+          {
+            "definition": "帽子的评级",
+            "iscorrect": false
+          },
+          {
+            "definition": "仇恨；憎恶",
+            "iscorrect": true
+          },
+          {
+            "definition": "强烈的喜欢",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

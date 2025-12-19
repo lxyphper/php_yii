@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "act",
+      "error_analysis": "易因形近词“art”（艺术）混淆，或因词根“做”的字面义误将名词“act”理解为“行动”而非“法案”。",
+      "sentence": "The government plans to introduce a new **act** to protect children's online privacy.",
+      "options": {
+        "option": [
+          {
+            "definition": "法案；法令",
+            "iscorrect": true
+          },
+          {
+            "definition": "艺术；美术",
+            "iscorrect": false
+          },
+          {
+            "definition": "行动；举动",
+            "iscorrect": false
+          },
+          {
+            "definition": "（戏剧的）幕；场",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

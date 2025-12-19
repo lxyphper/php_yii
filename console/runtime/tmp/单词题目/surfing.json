@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "surfing",
+      "error_analysis": "中国学生易因形近词混淆，将\"surfing\"误判为\"surging\"（激增）或\"serving\"（服务），忽略其核心词义\"冲浪（运动）\"。",
+      "sentence": "He loves going **surfing** with his friends every weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "冲浪（运动）",
+            "iscorrect": true
+          },
+          {
+            "definition": "激增（如海浪或数量）",
+            "iscorrect": false
+          },
+          {
+            "definition": "服务（如食物或顾客）",
+            "iscorrect": false
+          },
+          {
+            "definition": "搜索（如信息或物品）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

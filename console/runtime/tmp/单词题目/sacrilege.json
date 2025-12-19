@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sacrilege",
+      "error_analysis": "学生易因形近词\"sacrifice\"（牺牲）误判词义，或因词根\"sacri-\"（神圣）+\"-lege\"（法律）误解为\"神圣的法律\"",
+      "sentence": "Spray-painting offensive words on the historic temple was regarded as a serious **sacrilege** by the local villagers.",
+      "options": {
+        "option": [
+          {
+            "definition": "牺牲；献祭",
+            "iscorrect": false
+          },
+          {
+            "definition": "神圣的法律；宗教法规",
+            "iscorrect": false
+          },
+          {
+            "definition": "亵渎神圣的事物；渎圣行为",
+            "iscorrect": true
+          },
+          {
+            "definition": "宗教仪式；圣礼",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to program",
+      "error_analysis": "学生易因形近词“progress”（进步）混淆词义，或误将动词“编程”理解为名词“节目”的动词形式（如“安排节目”）。",
+      "sentence": "Tom wants to **program** a new game for his little sister’s birthday.",
+      "options": {
+        "option": [
+          {
+            "definition": "编程；设计程序",
+            "iscorrect": true
+          },
+          {
+            "definition": "进步；进展",
+            "iscorrect": false
+          },
+          {
+            "definition": "安排节目；制作节目",
+            "iscorrect": false
+          },
+          {
+            "definition": "提前写；预先记录",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

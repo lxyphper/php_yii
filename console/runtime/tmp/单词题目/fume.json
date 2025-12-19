@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fume",
+      "error_analysis": "中国学生易因形近词\"fame\"（名声）或与\"fuel\"（燃料）等词混淆而误解\"fume\"（烟雾）的含义。",
+      "sentence": "The factory emitted toxic **fumes**, making the air unhealthy.",
+      "options": {
+        "option": [
+          {
+            "definition": "烟雾；气体",
+            "iscorrect": true
+          },
+          {
+            "definition": "名声；声誉",
+            "iscorrect": false
+          },
+          {
+            "definition": "燃料；能源",
+            "iscorrect": false
+          },
+          {
+            "definition": "泡沫；泡沫状物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "extreme",
+      "error_analysis": "中国学生易将“extreme”与形近词“extent”（程度）混淆，或通过“ex-”词根错误推导为“额外的”，而非“极端的”。",
+      "sentence": "The **extreme** heat in the desert made it dangerous to go outside during the day.",
+      "options": {
+        "option": [
+          {
+            "definition": "程度；范围",
+            "iscorrect": false
+          },
+          {
+            "definition": "额外的；附加的",
+            "iscorrect": false
+          },
+          {
+            "definition": "极端的；极度的",
+            "iscorrect": true
+          },
+          {
+            "definition": "外部的；表面的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to soak",
+      "error_analysis": "形近词\"soap\"(肥皂)导致学生误将\"soak\"理解为\"涂抹肥皂\"或\"用肥皂洗\"",
+      "sentence": "Before washing the dirty shirt, you should **soak** it in warm water for 10 minutes to loosen the stains.",
+      "options": {
+        "option": [
+          {
+            "definition": "浸泡；浸湿",
+            "iscorrect": true
+          },
+          {
+            "definition": "涂抹肥皂",
+            "iscorrect": false
+          },
+          {
+            "definition": "下沉；沉没",
+            "iscorrect": false
+          },
+          {
+            "definition": "擦拭；擦干",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to dampen",
+      "error_analysis": "将“to dampen”误理解为“使潮湿”（受形近词“damp”影响），忽略其比喻义“抑制、减弱”（情绪、热情等）",
+      "sentence": "The rain didn’t just wet our clothes—it also **dampened** our excitement for the outdoor concert.",
+      "options": {
+        "option": [
+          {
+            "definition": "使潮湿；弄湿",
+            "iscorrect": false
+          },
+          {
+            "definition": "抑制；减弱（情绪、热情等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "增强；激发",
+            "iscorrect": false
+          },
+          {
+            "definition": "保护；防御",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

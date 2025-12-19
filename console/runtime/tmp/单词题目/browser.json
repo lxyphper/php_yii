@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "browser",
+      "error_analysis": "学生易因“-er”后缀指人而将“browser”误解为“浏览者（人）”，而非“浏览器（工具）”",
+      "sentence": "Please install a new **browser** if you can't access the website.",
+      "options": {
+        "option": [
+          {
+            "definition": "浏览器（用于访问互联网的软件）",
+            "iscorrect": true
+          },
+          {
+            "definition": "浏览者（指浏览网页或商店的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "眉毛刷（用于梳理眉毛的工具）",
+            "iscorrect": false
+          },
+          {
+            "definition": "文件管理器（用于查看电脑文件的工具）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

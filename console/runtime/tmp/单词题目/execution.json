@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "execution",
+      "error_analysis": "中国学生易因形近词（如exhibition/展览）或词根误导（仅理解为“处决”）混淆其核心义“执行；实施”。",
+      "sentence": "The success of the project depends on the smooth **execution** of each phase.",
+      "options": {
+        "option": [
+          {
+            "definition": "执行；实施",
+            "iscorrect": true
+          },
+          {
+            "definition": "展览",
+            "iscorrect": false
+          },
+          {
+            "definition": "处决",
+            "iscorrect": false
+          },
+          {
+            "definition": "考试",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

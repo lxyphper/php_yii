@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "frosty",
+      "error_analysis": "学生易因形近词\"forest\"误解为\"森林的\"，或因\"frost\"（霜）的字面义忽略\"冷淡的\"引申义",
+      "sentence": "She responded to my invitation with a **frosty** \"no\" and walked away without another word.",
+      "options": {
+        "option": [
+          {
+            "definition": "森林的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有霜的",
+            "iscorrect": false
+          },
+          {
+            "definition": "新鲜的",
+            "iscorrect": false
+          },
+          {
+            "definition": "冷淡的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

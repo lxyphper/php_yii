@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tone",
+      "error_analysis": "中国学生易因形近词混淆，将\"tone\"误判为\"ton\"（吨）或\"tune\"（曲调），忽略其核心含义\"语气/语调\"。",
+      "sentence": "Her **tone** of voice suggested she was angry.",
+      "options": {
+        "option": [
+          {
+            "definition": "语气；语调",
+            "iscorrect": true
+          },
+          {
+            "definition": "吨（重量单位）",
+            "iscorrect": false
+          },
+          {
+            "definition": "曲调；旋律",
+            "iscorrect": false
+          },
+          {
+            "definition": "石头；石块",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

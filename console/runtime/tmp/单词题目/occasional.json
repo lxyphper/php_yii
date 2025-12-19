@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "occasional",
+      "error_analysis": "学生易因形近词\"occupational\"(职业的)产生混淆，或因词根\"occasion\"(场合)误判为\"场合的\"而非\"偶尔的\"",
+      "sentence": "We have **occasional** rain showers in this season, but most days are sunny and warm.",
+      "options": {
+        "option": [
+          {
+            "definition": "职业的",
+            "iscorrect": false
+          },
+          {
+            "definition": "场合的",
+            "iscorrect": false
+          },
+          {
+            "definition": "偶尔的；间或的",
+            "iscorrect": true
+          },
+          {
+            "definition": "频繁的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

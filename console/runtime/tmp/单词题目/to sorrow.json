@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to sorrow",
+      "error_analysis": "学生易因形近\"sorry\"（抱歉）将\"to sorrow\"误判为\"道歉\"，或因情绪类动词混淆误判为\"担心\"",
+      "sentence": "She **sorrowed** deeply when her beloved pet passed away.",
+      "options": {
+        "option": [
+          {
+            "definition": "感到悲伤",
+            "iscorrect": true
+          },
+          {
+            "definition": "道歉",
+            "iscorrect": false
+          },
+          {
+            "definition": "担心",
+            "iscorrect": false
+          },
+          {
+            "definition": "后悔",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

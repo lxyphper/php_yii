@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to saute",
+      "error_analysis": "学生易因形近词（如sat/salt）或词根（法语“sauter”表“跳”）误将“to saute”联想为“坐下”“加盐”或“跳跃”，而非正确的“快速煎炒”。",
+      "sentence": "The chef will **saute** the mushrooms in butter for two minutes before adding them to the sauce.",
+      "options": {
+        "option": [
+          {
+            "definition": "用少量油快速煎炒（食物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "坐下（sit的过去式）",
+            "iscorrect": false
+          },
+          {
+            "definition": "跳跃（某物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "给（食物）加盐",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

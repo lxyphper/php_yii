@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "famine",
+      "error_analysis": "中国学生易因形近词\"fame\"（名声）产生错误联想，或误将词根\"fam-\"与\"家庭\"关联导致理解偏差。",
+      "sentence": "The severe drought led to a terrible **famine** in the region, causing thousands of people to suffer from extreme hunger and flee their homes.",
+      "options": {
+        "option": [
+          {
+            "definition": "名声；声誉",
+            "iscorrect": false
+          },
+          {
+            "definition": "家庭聚会",
+            "iscorrect": false
+          },
+          {
+            "definition": "饥饿",
+            "iscorrect": false
+          },
+          {
+            "definition": "饥荒",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

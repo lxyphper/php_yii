@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "brinkmanship",
+      "error_analysis": "学生易将\"brink\"(边缘)+\"manship\"(技巧)误推为\"边缘地区的管理\"或\"平衡在边缘的技能\"，而非政治上\"通过接近冲突边缘迫使对方让步的策略\"。",
+      "sentence": "The president's **brinkmanship** in the trade dispute pushed the two countries to the edge of a tariff war, but finally made the opponent lift its restrictions.",
+      "options": {
+        "option": [
+          {
+            "definition": "（通过将局势推至冲突边缘迫使对方让步的）边缘政策",
+            "iscorrect": true
+          },
+          {
+            "definition": "边缘地区的管理技巧",
+            "iscorrect": false
+          },
+          {
+            "definition": "平衡在边缘的物理技能",
+            "iscorrect": false
+          },
+          {
+            "definition": "空白区域的工艺手艺",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

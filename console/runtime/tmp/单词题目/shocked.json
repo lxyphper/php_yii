@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "shocked",
+      "error_analysis": "学生易因形近词“shook”（摇晃的）或混淆“-ed”形容词的被动含义，将“shocked”误理解为“摇晃的”或“令人震惊的”。",
+      "sentence": "When she saw the broken vase on the floor, her eyes widened and she stood there **shocked**.",
+      "options": {
+        "option": [
+          {
+            "definition": "感到震惊的",
+            "iscorrect": true
+          },
+          {
+            "definition": "摇晃的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人震惊的",
+            "iscorrect": false
+          },
+          {
+            "definition": "被冲击的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

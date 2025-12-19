@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "supervillain",
+      "error_analysis": "学生易因形近词'supervisor'（监督者）或词根混淆'villain'与'villager'（村民），误将'supervillain'理解为'超级监督者'或'超级村民'。",
+      "sentence": "In the movie, the **supervillain** tried to destroy the city with a giant robot, but the superhero stopped him.",
+      "options": {
+        "option": [
+          {
+            "definition": "超级反派（如电影中的大恶棍）",
+            "iscorrect": true
+          },
+          {
+            "definition": "超级监督者（如公司的高级管理者）",
+            "iscorrect": false
+          },
+          {
+            "definition": "超级村民（如村庄里的重要人物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "超级英雄（如拯救世界的英雄）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

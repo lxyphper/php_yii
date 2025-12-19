@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "noble",
+      "error_analysis": "学生易因将“noble”拆分为“no+able”误解为“不能的”，或因与“novel”（新颖的）、“notable”（著名的）形近而混淆",
+      "sentence": "Despite facing many difficulties, she remained **noble** and refused to lie to save herself.",
+      "options": {
+        "option": [
+          {
+            "definition": "新颖的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不能的",
+            "iscorrect": false
+          },
+          {
+            "definition": "著名的",
+            "iscorrect": false
+          },
+          {
+            "definition": "高尚的；贵族的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

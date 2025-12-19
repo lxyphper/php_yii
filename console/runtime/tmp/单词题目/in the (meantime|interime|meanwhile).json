@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "in the (meantime|interim|meanwhile)",
+      "error_analysis": "学生易因“mean”的常见义（意味着/平均的）或“inter-”的常见义（之间/内部），将目标短语错误理解为“意味着时间”“平均时间”或“内部时间”。",
+      "sentence": "I’ll go pick up the groceries; **in the meantime**, you can start preheating the oven.",
+      "options": {
+        "option": [
+          {
+            "definition": "与此同时；在这期间",
+            "iscorrect": true
+          },
+          {
+            "definition": "意味着时间",
+            "iscorrect": false
+          },
+          {
+            "definition": "平均时间",
+            "iscorrect": false
+          },
+          {
+            "definition": "内部时间",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

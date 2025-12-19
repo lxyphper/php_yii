@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to convince",
+      "error_analysis": "易与形近词“convict”（定罪）或“confine”（限制）混淆，导致词义误判",
+      "sentence": "After hours of discussion, she finally managed to **convince** her parents that studying abroad was a good idea.",
+      "options": {
+        "option": [
+          {
+            "definition": "使信服；说服",
+            "iscorrect": true
+          },
+          {
+            "definition": "定罪；宣判有罪",
+            "iscorrect": false
+          },
+          {
+            "definition": "限制；禁闭",
+            "iscorrect": false
+          },
+          {
+            "definition": "护航；护送",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to scrutinize",
+      "error_analysis": "学生易因形近词“sculpt”（雕刻）的干扰，或对词根“scrut-”的错误联想（如误判为“搜索”）而误解词义。",
+      "sentence": "The auditor decided to **scrutinize** every detail of the financial records to find any hidden mistakes.",
+      "options": {
+        "option": [
+          {
+            "definition": "雕刻（carve）",
+            "iscorrect": false
+          },
+          {
+            "definition": "搜索（search）",
+            "iscorrect": false
+          },
+          {
+            "definition": "仔细检查（examine closely）",
+            "iscorrect": true
+          },
+          {
+            "definition": "总结（sum up）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

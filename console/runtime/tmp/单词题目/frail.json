@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "frail",
+      "error_analysis": "学生易因形近词\"fail\"(失败)或\"fragrant\"(芳香)的干扰，误将\"frail\"理解为\"失败的\"或\"芳香的\"",
+      "sentence": "The little girl was too **frail** to climb the stairs after her illness.",
+      "options": {
+        "option": [
+          {
+            "definition": "虚弱的；脆弱的",
+            "iscorrect": true
+          },
+          {
+            "definition": "失败的",
+            "iscorrect": false
+          },
+          {
+            "definition": "芳香的",
+            "iscorrect": false
+          },
+          {
+            "definition": "碎片的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

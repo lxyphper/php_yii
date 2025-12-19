@@ -1,0 +1,34 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "plus sign",
+      "error_analysis": "学生易将\"plus sign\"误理解为\"附加标志\"（词根误导，把\"plus\"当\"附加的\"、\"sign\"当\"标志\"）或\"加上签名\"（\"sign\"作\"签名\"的词义混淆）",
+      "sentence": "In the math problem, you need to put a **plus sign** between the two numbers to get the correct sum.",
+      "options": {
+        "option": [
+          {
+            "definition": "加号（数学中的+符号）",
+            "iscorrect": true
+          },
+          {
+            "definition": "附加的标志（如额外的标识）",
+            "iscorrect": false
+          },
+          {
+            "definition": "加上签名（如在文件后添加签名）",
+            "iscorrect": false
+          },
+          {
+            "definition": "加号按钮（电子设备上的+键）",
+            "iscorrect": false
+          },
+          {
+            "definition": "正号（表示正数的符号）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

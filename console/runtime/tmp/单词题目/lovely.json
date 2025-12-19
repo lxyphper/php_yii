@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lovely",
+      "error_analysis": "学生易因形近词\"love\"（爱）联想将\"lovely\"误理解为\"有爱心的\"，或因\"ly\"后缀误判为副词\"爱地\"",
+      "sentence": "The little girl wore a **lovely** dress and danced happily at the party.",
+      "options": {
+        "option": [
+          {
+            "definition": "可爱的；令人愉快的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有爱心的；慈爱的",
+            "iscorrect": false
+          },
+          {
+            "definition": "爱地；深情地",
+            "iscorrect": false
+          },
+          {
+            "definition": "孤独的；寂寞的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

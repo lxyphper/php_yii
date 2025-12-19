@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "yoga",
+      "error_analysis": "学生易将“yoga”与形近词“yogurt”（酸奶）或“yoke”（轭）混淆，因拼写相似产生错误联想",
+      "sentence": "Many people practice **yoga** every morning to improve their flexibility and reduce stress.",
+      "options": {
+        "option": [
+          {
+            "definition": "瑜伽（一种结合身体姿势、呼吸和冥想的身心锻炼方法）",
+            "iscorrect": true
+          },
+          {
+            "definition": "酸奶（一种发酵的乳制品，通常加水果或蜂蜜食用）",
+            "iscorrect": false
+          },
+          {
+            "definition": "轭（连接牲畜拉车的器具，比喻束缚或压迫）",
+            "iscorrect": false
+          },
+          {
+            "definition": "旅行（为了休闲或工作去外地的活动）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

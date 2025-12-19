@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to attend",
+      "error_analysis": "学生易因形近词\"attempt\"(尝试)或词根\"tend\"(倾向于)的联想，误解\"attend\"的核心义\"参加\"。",
+      "sentence": "She decided to **attend** the wedding of her best friend this weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "参加；出席",
+            "iscorrect": true
+          },
+          {
+            "definition": "尝试",
+            "iscorrect": false
+          },
+          {
+            "definition": "倾向于",
+            "iscorrect": false
+          },
+          {
+            "definition": "照顾",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

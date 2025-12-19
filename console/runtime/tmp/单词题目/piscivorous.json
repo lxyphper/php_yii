@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "piscivorous",
+      "error_analysis": "学生易因形近词（如piscine，与鱼相关的）或词根顺序误导（将“pisc-”与“vorous”颠倒，理解为被鱼吃的）而错误理解词义",
+      "sentence": "Many freshwater turtles are **piscivorous**, meaning they eat small fish as a main part of their diet.",
+      "options": {
+        "option": [
+          {
+            "definition": "食鱼的",
+            "iscorrect": true
+          },
+          {
+            "definition": "与鱼相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "被鱼吃的",
+            "iscorrect": false
+          },
+          {
+            "definition": "食肉的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

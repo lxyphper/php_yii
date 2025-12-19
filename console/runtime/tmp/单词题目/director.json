@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "director",
+      "error_analysis": "学生易因“direct”（指导）的词根联想将“director”误理解为“指导者”，或因形近词“directory”（目录）产生混淆",
+      "sentence": "The **director** of the new superhero movie won an award for his creative storytelling.",
+      "options": {
+        "option": [
+          {
+            "definition": "导演",
+            "iscorrect": true
+          },
+          {
+            "definition": "指导者",
+            "iscorrect": false
+          },
+          {
+            "definition": "目录",
+            "iscorrect": false
+          },
+          {
+            "definition": "演员",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

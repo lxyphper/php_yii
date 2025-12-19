@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to brush",
+      "error_analysis": "中国学生易因形近词（如push/rush）混淆，将to brush错误理解为“推”或“冲”",
+      "sentence": "I need to **brush** my teeth before going to bed.",
+      "options": {
+        "option": [
+          {
+            "definition": "刷；擦",
+            "iscorrect": true
+          },
+          {
+            "definition": "推",
+            "iscorrect": false
+          },
+          {
+            "definition": "冲",
+            "iscorrect": false
+          },
+          {
+            "definition": "浏览",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

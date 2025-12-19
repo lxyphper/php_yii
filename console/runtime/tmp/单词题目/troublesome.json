@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "troublesome",
+      "error_analysis": "学生易将“troublesome”与形近词“troubled”（困惑的）混淆，或误理解为“有麻烦的”（自身状态）",
+      "sentence": "Her little brother is always **troublesome**—he breaks toys and makes a mess everywhere.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人麻烦的；讨厌的",
+            "iscorrect": true
+          },
+          {
+            "definition": "困惑的；不安的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有麻烦的；处于困境的",
+            "iscorrect": false
+          },
+          {
+            "definition": "巨大的；极大的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

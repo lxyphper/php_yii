@@ -1,0 +1,21 @@
+[
+  {
+    "common_misspellings": [
+      "sychiatry",
+      "psychiaty",
+      "psychetry",
+      "psykiatry"
+    ],
+    "correct_chunks": [
+      "psych",
+      "iatry"
+    ],
+    "distractor_chunks": [
+      "sych",
+      "psyk",
+      "iaty",
+      "etry"
+    ]
+  },
+  0
+]

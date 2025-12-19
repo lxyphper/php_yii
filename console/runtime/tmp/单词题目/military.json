@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "military",
+      "error_analysis": "易因形近词“militant”（激进的）或词根“milit-”（士兵）误判“military”为“激进的”或“士兵的”",
+      "sentence": "The government announced a new **military** strategy to enhance national security.",
+      "options": {
+        "option": [
+          {
+            "definition": "军事的；与军队有关的",
+            "iscorrect": true
+          },
+          {
+            "definition": "激进的；好战的",
+            "iscorrect": false
+          },
+          {
+            "definition": "士兵的；战士的",
+            "iscorrect": false
+          },
+          {
+            "definition": "民兵的；民间武装的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

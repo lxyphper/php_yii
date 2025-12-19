@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "additive",
+      "error_analysis": "学生易因词根\"add\"（添加）误导将其理解为\"添加的动作\"，或因形近词\"addict\"（上瘾）混淆为\"上瘾的东西\"",
+      "sentence": "Many processed foods contain artificial **additives** to enhance flavor and extend shelf life.",
+      "options": {
+        "option": [
+          {
+            "definition": "（食品、化学制品等的）添加剂",
+            "iscorrect": true
+          },
+          {
+            "definition": "添加的动作或过程",
+            "iscorrect": false
+          },
+          {
+            "definition": "上瘾的人或物",
+            "iscorrect": false
+          },
+          {
+            "definition": "额外的补充物品",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

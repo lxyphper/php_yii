@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "prescription",
+      "error_analysis": "易混淆形近词description（描述），或因词根pre-+scribe（预先写）泛化理解为“预先写的文件”，而非具体“处方”。",
+      "sentence": "After examining the patient, the doctor wrote a **prescription** for antibiotics to treat the infection.",
+      "options": {
+        "option": [
+          {
+            "definition": "处方；药方",
+            "iscorrect": true
+          },
+          {
+            "definition": "描述；说明",
+            "iscorrect": false
+          },
+          {
+            "definition": "预先写好的文件",
+            "iscorrect": false
+          },
+          {
+            "definition": "规定；规则",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

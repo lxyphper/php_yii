@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "horrible",
+      "error_analysis": "易因形近词“honorable”（可敬的）混淆，或因词根“horror”过度推导为仅“令人恐惧的”，忽略“糟糕的”常用义。",
+      "sentence": "The food at that new café was so **horrible** that we decided to go to our usual place instead.",
+      "options": {
+        "option": [
+          {
+            "definition": "可敬的",
+            "iscorrect": false
+          },
+          {
+            "definition": "糟糕的；极坏的",
+            "iscorrect": true
+          },
+          {
+            "definition": "令人恐惧的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有趣的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

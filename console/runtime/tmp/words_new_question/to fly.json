@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to fly",
+      "error_analysis": "中国学生易因形近词\"fry\"（煎、炸）的拼写相似混淆\"to fly\"的动词含义，或误将其与\"跑、跳\"等动作动词关联。",
+      "sentence": "She dreams of learning to **fly** a helicopter when she grows up.",
+      "options": {
+        "option": [
+          {
+            "definition": "飞；驾驶（使飞行器或物体在空中飞行）",
+            "iscorrect": true
+          },
+          {
+            "definition": "煎、炸（用热油烹饪食物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "跑；快速移动（用脚快速前进）",
+            "iscorrect": false
+          },
+          {
+            "definition": "跳；跳跃（从地面跃起）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

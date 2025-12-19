@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sequel",
+      "error_analysis": "学生易因形近词\"sequence\"（顺序）干扰，或词根\"sequ-\"（跟随）过度推导为\"后续事件\"，而非\"（电影/书籍等的）续集\"",
+      "sentence": "Many fans are excited about the **sequel** to their favorite movie, which will be released next year.",
+      "options": {
+        "option": [
+          {
+            "definition": "（电影、书籍等的）续集",
+            "iscorrect": true
+          },
+          {
+            "definition": "顺序；序列",
+            "iscorrect": false
+          },
+          {
+            "definition": "后续事件；结果",
+            "iscorrect": false
+          },
+          {
+            "definition": "摘要；大纲",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

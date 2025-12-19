@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "condition",
+      "error_analysis": "中国学生易因形近词（如confusion“困惑”）或词根拆分（如“共同状态”）误导，混淆“condition”在“on the condition that”中的“条件”含义。",
+      "sentence": "The company agreed to hire her **on the condition that** she completes the training program.",
+      "options": {
+        "option": [
+          {
+            "definition": "条件",
+            "iscorrect": true
+          },
+          {
+            "definition": "困惑",
+            "iscorrect": false
+          },
+          {
+            "definition": "共同状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "情况",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

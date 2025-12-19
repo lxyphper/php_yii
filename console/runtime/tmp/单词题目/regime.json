@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "regime",
+      "error_analysis": "学生易因形近词“region”（地区）混淆，或因词根“reg-”（规则）猜测为“规则/常规”",
+      "sentence": "The people celebrated the fall of the authoritarian **regime** that had ruled the country for decades.",
+      "options": {
+        "option": [
+          {
+            "definition": "地区",
+            "iscorrect": false
+          },
+          {
+            "definition": "规则",
+            "iscorrect": false
+          },
+          {
+            "definition": "政权（尤指独裁的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "常规",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

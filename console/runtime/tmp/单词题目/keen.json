@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "keen",
+      "error_analysis": "学生易因形近词“keep”（保持）的干扰，将“keen”误理解为“保持的”或“坚持的”",
+      "sentence": "Sarah is **keen** on painting and spends every weekend in her studio.",
+      "options": {
+        "option": [
+          {
+            "definition": "热衷的；喜爱的",
+            "iscorrect": true
+          },
+          {
+            "definition": "保持的；坚持的",
+            "iscorrect": false
+          },
+          {
+            "definition": "膝盖的；与膝盖相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "敏锐的；锋利的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

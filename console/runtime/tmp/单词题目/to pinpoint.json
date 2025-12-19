@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to pinpoint",
+      "error_analysis": "将“pinpoint”字面理解为“用针指向”或“针尖”，而非抽象的“精确确定”",
+      "sentence": "The engineers need to **pinpoint** the exact cause of the machine's failure before they can fix it.",
+      "options": {
+        "option": [
+          {
+            "definition": "用针指向",
+            "iscorrect": false
+          },
+          {
+            "definition": "指出",
+            "iscorrect": false
+          },
+          {
+            "definition": "精确找出；确定",
+            "iscorrect": true
+          },
+          {
+            "definition": "固定针的位置",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

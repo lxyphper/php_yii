@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ambrosial",
+      "error_analysis": "学生易因形近词\"ambiguous\"(模糊的)、\"ambitious\"(有野心的)或词根\"amb-\"(两边)误解为\"模糊的\"\"有野心的\"或\"矛盾的\"",
+      "sentence": "The bakery filled the street with the **ambrosial** scent of fresh bread, making everyone's mouth water.",
+      "options": {
+        "option": [
+          {
+            "definition": "美味的；芬芳的",
+            "iscorrect": true
+          },
+          {
+            "definition": "模糊的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有野心的",
+            "iscorrect": false
+          },
+          {
+            "definition": "矛盾的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

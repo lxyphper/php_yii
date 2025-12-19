@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "homework",
+      "error_analysis": "混淆形近词\"housework\"(家务)，或因字面\"home+work\"误判为\"家务\"或\"家庭任务\"",
+      "sentence": "The teacher told us to finish our **homework** before tomorrow's class.",
+      "options": {
+        "option": [
+          {
+            "definition": "家务",
+            "iscorrect": false
+          },
+          {
+            "definition": "家庭作业",
+            "iscorrect": true
+          },
+          {
+            "definition": "家庭任务",
+            "iscorrect": false
+          },
+          {
+            "definition": "家居工作",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

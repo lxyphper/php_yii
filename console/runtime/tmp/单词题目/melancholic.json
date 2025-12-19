@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "melancholic",
+      "error_analysis": "学生易因形近词“melody”（旋律）将“melancholic”误判为“音乐的”，或因词根不熟悉猜测为“柔和的”。",
+      "sentence": "She played a **melancholic** tune on the piano, and the slow, sad notes made everyone in the room fall silent.",
+      "options": {
+        "option": [
+          {
+            "definition": "忧郁的；悲伤的",
+            "iscorrect": true
+          },
+          {
+            "definition": "音乐的；旋律优美的",
+            "iscorrect": false
+          },
+          {
+            "definition": "柔和的；圆润的",
+            "iscorrect": false
+          },
+          {
+            "definition": "黑色的；深色的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

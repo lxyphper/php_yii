@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "membership",
+      "error_analysis": "将抽象的\"会员资格/成员身份\"误理解为具体的\"成员们\"（形近词\"members\"复数）或\"成员的船\"（词根\"ship\"字面误导）。",
+      "sentence": "To join the sports club, you must submit an application and pay the **membership** fee before the deadline.",
+      "options": {
+        "option": [
+          {
+            "definition": "会员资格；成员身份",
+            "iscorrect": true
+          },
+          {
+            "definition": "成员们（复数）",
+            "iscorrect": false
+          },
+          {
+            "definition": "成员的船",
+            "iscorrect": false
+          },
+          {
+            "definition": "会员的礼物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

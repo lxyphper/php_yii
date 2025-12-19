@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gracefully",
+      "error_analysis": "学生易混淆形近词gratefully（感激地），或误将词根grace的“恩典”义引申为“恩惠地”。",
+      "sentence": "The swan moved **gracefully** across the lake, its neck curved like a perfect arc.",
+      "options": {
+        "option": [
+          {
+            "definition": "感激地",
+            "iscorrect": false
+          },
+          {
+            "definition": "优雅地",
+            "iscorrect": true
+          },
+          {
+            "definition": "恩惠地",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

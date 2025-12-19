@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to constitute",
+      "error_analysis": "学生易因形近词“construct”（建造）混淆“constitute”的核心义“组成”，或因词根“con-（一起）+ stitute（站）”错误理解为“一起站着”而非“构成整体”。",
+      "sentence": "The five departments **constitute** the main structure of the company.",
+      "options": {
+        "option": [
+          {
+            "definition": "组成；构成",
+            "iscorrect": true
+          },
+          {
+            "definition": "建造；构造",
+            "iscorrect": false
+          },
+          {
+            "definition": "一起站着；排列",
+            "iscorrect": false
+          },
+          {
+            "definition": "导致；引起",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

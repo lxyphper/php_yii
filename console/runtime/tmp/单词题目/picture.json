@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "picture",
+      "error_analysis": "中国学生易因“picture”词根“pict-”（描绘）过度直译将动词用法误解为“画”，或因与形近词“pick”（挑选）相似而误解为“挑选”",
+      "sentence": "Can you **picture** what our new house will look like?",
+      "options": {
+        "option": [
+          {
+            "definition": "画",
+            "iscorrect": false
+          },
+          {
+            "definition": "挑选",
+            "iscorrect": false
+          },
+          {
+            "definition": "音调",
+            "iscorrect": false
+          },
+          {
+            "definition": "想象",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

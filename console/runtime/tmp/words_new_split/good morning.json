@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "goodmorning",
+      "god morning",
+      "gud morning",
+      "good moring",
+      "good mornin"
+    ],
+    "correct_chunks": [
+      "good ",
+      "morning"
+    ],
+    "distractor_chunks": [
+      "goodm",
+      "god ",
+      "gud ",
+      "moring",
+      "mornin"
+    ]
+  },
+  0
+]

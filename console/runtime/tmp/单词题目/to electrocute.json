@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to electrocute",
+      "error_analysis": "学生易因形近词\"electrify\"（使通电）或词根\"electro-\"+\"execute\"的错误联想，将\"electrocute\"误理解为\"使通电\"或\"用电执行任务\"，而非\"使触电致死\"。",
+      "sentence": "The worker was killed instantly when he accidentally **electrocuted** himself while repairing the power line.",
+      "options": {
+        "option": [
+          {
+            "definition": "使触电致死；对...施以电刑",
+            "iscorrect": true
+          },
+          {
+            "definition": "使通电；使兴奋",
+            "iscorrect": false
+          },
+          {
+            "definition": "用电执行（任务或命令）",
+            "iscorrect": false
+          },
+          {
+            "definition": "发电；产生电力",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

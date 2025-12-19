@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "baking powder",
+      "error_analysis": "学生易将其与\"baking soda\"（小苏打）混淆，或字面理解为\"烘焙用粉末\"而忽略其特定含义\"泡打粉\"。",
+      "sentence": "To make the cake fluffy, you should add a teaspoon of **baking powder** to the flour and sugar mixture.",
+      "options": {
+        "option": [
+          {
+            "definition": "小苏打（用于烘焙的碱性膨松剂）",
+            "iscorrect": false
+          },
+          {
+            "definition": "面粉（烘焙的主要原料）",
+            "iscorrect": false
+          },
+          {
+            "definition": "酵母（用于发酵的微生物制剂）",
+            "iscorrect": false
+          },
+          {
+            "definition": "泡打粉（用于烘焙的复合膨松剂）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

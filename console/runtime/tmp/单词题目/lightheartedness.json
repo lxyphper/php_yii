@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lightheartedness",
+      "error_analysis": "学生易因\"light+heart\"词根直译误判为\"粗心大意\"，或因形近词\"light-headedness\"混淆为\"头晕目眩\"",
+      "sentence": "The party was filled with laughter and **lightheartedness**, making everyone forget their worries for a while.",
+      "options": {
+        "option": [
+          {
+            "definition": "轻松愉快",
+            "iscorrect": true
+          },
+          {
+            "definition": "粗心大意",
+            "iscorrect": false
+          },
+          {
+            "definition": "头晕目眩",
+            "iscorrect": false
+          },
+          {
+            "definition": "光明磊落",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

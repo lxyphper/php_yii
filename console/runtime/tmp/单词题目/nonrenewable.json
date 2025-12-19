@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nonrenewable",
+      "error_analysis": "学生易因混淆\"renew\"的\"更新\"义与\"renewable\"的\"可再生\"义，将\"nonrenewable\"误理解为\"未更新的\"，或因形近联想为\"不可退还的\"。",
+      "sentence": "Coal and oil are typical **nonrenewable** energy sources that will eventually run out if we keep using them at the current rate.",
+      "options": {
+        "option": [
+          {
+            "definition": "不可再生的",
+            "iscorrect": true
+          },
+          {
+            "definition": "未更新的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不可退还的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不可修复的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to ram",
+      "error_analysis": "学生易将“to ram”与形近词“to jam”（堵塞）混淆，或根据名词“ram”（公羊）误以为是“用角顶”。",
+      "sentence": "The driver lost control and **rammed** his car into a street sign.",
+      "options": {
+        "option": [
+          {
+            "definition": "用力撞击、猛推",
+            "iscorrect": true
+          },
+          {
+            "definition": "堵塞、塞进",
+            "iscorrect": false
+          },
+          {
+            "definition": "用角顶",
+            "iscorrect": false
+          },
+          {
+            "definition": "缓慢移动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

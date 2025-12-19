@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to overrule",
+      "error_analysis": "中国学生易因词根\"over-\"+\"rule\"直译误解为\"过度统治\"，或因形近词\"overlook\"混淆为\"忽视\"",
+      "sentence": "The judge decided to **overrule** the jury’s verdict after new evidence was presented.",
+      "options": {
+        "option": [
+          {
+            "definition": "否决，推翻（某决定）",
+            "iscorrect": true
+          },
+          {
+            "definition": "过度统治",
+            "iscorrect": false
+          },
+          {
+            "definition": "忽视",
+            "iscorrect": false
+          },
+          {
+            "definition": "支持",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to sob",
+      "error_analysis": "中国学生易因“sob”与常见前缀“sub”（下）形近而误猜为“下沉”，或因拟声特性误猜为“大声喊叫”。",
+      "sentence": "When she heard the bad news, she couldn't help but **sob** loudly in the corner.",
+      "options": {
+        "option": [
+          {
+            "definition": "下沉，下降",
+            "iscorrect": false
+          },
+          {
+            "definition": "大声喊叫，呼喊",
+            "iscorrect": false
+          },
+          {
+            "definition": "啜泣，抽噎",
+            "iscorrect": true
+          },
+          {
+            "definition": "咳嗽，咳痰",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

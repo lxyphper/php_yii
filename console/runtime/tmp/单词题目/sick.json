@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sick",
+      "error_analysis": "中国学生易因形近词\"stick\"(棍子)或\"silk\"(丝绸)的拼写/发音干扰，误判\"sick\"的核心词义。",
+      "sentence": "Tom didn’t go to school today because he felt **sick** and had a high fever.",
+      "options": {
+        "option": [
+          {
+            "definition": "生病的",
+            "iscorrect": true
+          },
+          {
+            "definition": "棍子",
+            "iscorrect": false
+          },
+          {
+            "definition": "丝绸",
+            "iscorrect": false
+          },
+          {
+            "definition": "厚的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

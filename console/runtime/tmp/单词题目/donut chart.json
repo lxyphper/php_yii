@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "donut chart",
+      "error_analysis": "学生易因\"donut\"的食物属性字面误导，将\"donut chart\"误解为展示甜甜圈相关内容的图表，或因\"donut\"与\"donate\"形近联想至捐赠相关图表。",
+      "sentence": "To show the percentage of each product category while highlighting the total sales, the analyst used a **donut chart** instead of a pie chart.",
+      "options": {
+        "option": [
+          {
+            "definition": "环形图（中间有空白的圆形数据图表）",
+            "iscorrect": true
+          },
+          {
+            "definition": "展示甜甜圈生产或销售数据的图表",
+            "iscorrect": false
+          },
+          {
+            "definition": "捐赠记录统计图表",
+            "iscorrect": false
+          },
+          {
+            "definition": "饼图（分割成扇形的圆形图表）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

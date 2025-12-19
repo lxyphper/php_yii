@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to hail",
+      "error_analysis": "学生易将动词to hail（欢呼/招呼）混淆为名词“冰雹”的动词义（如“降下冰雹”），或因形近词mail（邮件）误解为“邮寄”。",
+      "sentence": "On the street, she stopped to **hail** a taxi but had to wait for ten minutes.",
+      "options": {
+        "option": [
+          {
+            "definition": "招呼（出租车等）；欢呼",
+            "iscorrect": true
+          },
+          {
+            "definition": "降下冰雹；用冰雹攻击",
+            "iscorrect": false
+          },
+          {
+            "definition": "邮寄（信件、包裹等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "追赶；追逐",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

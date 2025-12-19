@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pressure",
+      "error_analysis": "将“pressure”（压力）误理解为“按压”（形近词“press”的动作联想）或“印刷”（“press”的名词义）",
+      "sentence": "The heavy workload has put a lot of **pressure** on her, making her feel exhausted every evening.",
+      "options": {
+        "option": [
+          {
+            "definition": "压力（心理或物理上的负担）",
+            "iscorrect": true
+          },
+          {
+            "definition": "按压（用手或工具施加的动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "印刷（出版或打印的行为）",
+            "iscorrect": false
+          },
+          {
+            "definition": "压力机（用于施压的工具）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "atomic",
+      "error_analysis": "易与形近词\"automatic\"(自动的)混淆，或误将\"atomic\"(原子的)理解为\"微小的\"(因\"atom\"是原子)",
+      "sentence": "The **atomic** structure of the element determines its chemical properties.",
+      "options": {
+        "option": [
+          {
+            "definition": "原子的",
+            "iscorrect": true
+          },
+          {
+            "definition": "自动的",
+            "iscorrect": false
+          },
+          {
+            "definition": "微小的",
+            "iscorrect": false
+          },
+          {
+            "definition": "天文的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

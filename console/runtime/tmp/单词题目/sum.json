@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sum",
+      "error_analysis": "中国学生易因形近词\"sun\"（太阳）混淆\"sum\"的核心词义，或误将其理解为单个数字而非总和/总额。",
+      "sentence": "The **sum** of 5 and 3 is 8, which you can write as 5+3=8.",
+      "options": {
+        "option": [
+          {
+            "definition": "总和；总数",
+            "iscorrect": true
+          },
+          {
+            "definition": "太阳",
+            "iscorrect": false
+          },
+          {
+            "definition": "单个数字",
+            "iscorrect": false
+          },
+          {
+            "definition": "金额",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

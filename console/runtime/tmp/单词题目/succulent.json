@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "succulent",
+      "error_analysis": "学生易因形近词（如successful/sufficient）或“ulent”后缀（如virulent）误导，错误联想为“成功的”“足够的”或“有毒的”。",
+      "sentence": "The ripe mango from the market was so **succulent** that it oozed out sweet juice when I bit into it.",
+      "options": {
+        "option": [
+          {
+            "definition": "多汁的；肉质的（指水果、蔬菜或植物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "成功的",
+            "iscorrect": false
+          },
+          {
+            "definition": "足够的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有毒的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

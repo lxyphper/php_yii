@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to reflect",
+      "error_analysis": "学生易因词根“flect”（弯曲）误猜为“弯曲/偏转”，或因形近词“reflex”（反射动作）误判为“做出反射动作”。",
+      "sentence": "The way he handles problems **reflects** his maturity and wisdom.",
+      "options": {
+        "option": [
+          {
+            "definition": "反映；体现",
+            "iscorrect": true
+          },
+          {
+            "definition": "弯曲；偏转",
+            "iscorrect": false
+          },
+          {
+            "definition": "（做出）反射动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "重复做某事",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

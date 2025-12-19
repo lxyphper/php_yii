@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to dislike",
+      "error_analysis": "学生易因“like”的多义性（动词“喜欢”vs介词“像”），将“dislike”误理解为“不像”（形近词“unlike”干扰）或“分开喜欢”（词根“dis-”的错误联想）。",
+      "sentence": "She told me she **dislikes** spicy food because it upsets her stomach.",
+      "options": {
+        "option": [
+          {
+            "definition": "不喜欢",
+            "iscorrect": true
+          },
+          {
+            "definition": "不像",
+            "iscorrect": false
+          },
+          {
+            "definition": "分开喜欢",
+            "iscorrect": false
+          },
+          {
+            "definition": "讨厌",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

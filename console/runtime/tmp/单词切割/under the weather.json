@@ -1,0 +1,27 @@
+[
+  {
+    "common_misspellings": [
+      "uner the weather",
+      "under tha weather",
+      "under the wether",
+      "ander the weather",
+      "under teh weather"
+    ],
+    "correct_chunks": [
+      "un",
+      "der",
+      "th",
+      "e",
+      "wea",
+      "ther"
+    ],
+    "distractor_chunks": [
+      "uner",
+      "tha",
+      "wether",
+      "teh",
+      "ander"
+    ]
+  },
+  0
+]

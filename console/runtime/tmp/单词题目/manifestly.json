@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "manifestly",
+      "error_analysis": "学生易将\"manifestly\"误判为\"manifest\"（显示）的副词形式（如\"显示地\"），或因词根\"mani-\"（手）误导为\"手动地\"。",
+      "sentence": "The team’s lack of preparation was **manifestly** evident in their disorganized performance.",
+      "options": {
+        "option": [
+          {
+            "definition": "明显地；显然地",
+            "iscorrect": true
+          },
+          {
+            "definition": "显示地；表明地",
+            "iscorrect": false
+          },
+          {
+            "definition": "手动地；用手地",
+            "iscorrect": false
+          },
+          {
+            "definition": "永久地；持久地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

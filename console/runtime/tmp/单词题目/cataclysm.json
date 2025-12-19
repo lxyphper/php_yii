@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cataclysm",
+      "error_analysis": "中国学生易因形近词\"catalyst\"(催化剂)混淆，或因词根\"cata-\"(向下)猜测为\"坠落\"，忽略其\"大灾难\"核心义。",
+      "sentence": "The 2011 Tohoku earthquake and tsunami was a **cataclysm** that caused widespread destruction in Japan.",
+      "options": {
+        "option": [
+          {
+            "definition": "大灾难；剧烈的破坏事件（如地震、海啸等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "催化剂（加速化学反应的物质）",
+            "iscorrect": false
+          },
+          {
+            "definition": "坠落；崩塌（向下的剧烈动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "平静的状态（无动荡或混乱的情况）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

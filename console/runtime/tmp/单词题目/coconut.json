@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "coconut",
+      "error_analysis": "学生易因形近词\"cocoa\"（可可）或词根拆分\"coco+nut\"误将\"coconut\"理解为\"可可豆\"或\"可可坚果\"。",
+      "sentence": "She added some shredded **coconut** to the cake batter to give it a tropical flavor.",
+      "options": {
+        "option": [
+          {
+            "definition": "椰子",
+            "iscorrect": true
+          },
+          {
+            "definition": "可可豆",
+            "iscorrect": false
+          },
+          {
+            "definition": "可可坚果",
+            "iscorrect": false
+          },
+          {
+            "definition": "杏仁",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

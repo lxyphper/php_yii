@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to gesticulate",
+      "error_analysis": "学生可能因形近词\"articulate\"（清晰表达）的干扰将其误解为\"清晰地说\"，或因\"-ulate\"结尾猜测为\"计算\"等无关动作。",
+      "sentence": "When the tourist couldn’t speak the local language, he **gesticulated** wildly to ask for directions.",
+      "options": {
+        "option": [
+          {
+            "definition": "清晰地说；明确表达",
+            "iscorrect": false
+          },
+          {
+            "definition": "用手势示意；做手势",
+            "iscorrect": true
+          },
+          {
+            "definition": "计算；核算",
+            "iscorrect": false
+          },
+          {
+            "definition": "行走；移动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

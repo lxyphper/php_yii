@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "antibiotic",
+      "error_analysis": "易混淆形近词antibody（抗体）及词根泛化理解为抗生物的物质",
+      "sentence": "The doctor prescribed an **antibiotic** to treat her bacterial infection.",
+      "options": {
+        "option": [
+          {
+            "definition": "抗生素",
+            "iscorrect": true
+          },
+          {
+            "definition": "抗体",
+            "iscorrect": false
+          },
+          {
+            "definition": "抗病毒药物",
+            "iscorrect": false
+          },
+          {
+            "definition": "防腐剂",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

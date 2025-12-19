@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "grenade",
+      "error_analysis": "学生易因形近词“grape”（葡萄）或“-ade”结尾（如lemonade）误判为水果或饮料",
+      "sentence": "The soldier pulled the pin of the **grenade** and threw it towards the enemy trench.",
+      "options": {
+        "option": [
+          {
+            "definition": "葡萄",
+            "iscorrect": false
+          },
+          {
+            "definition": "某种水果饮料",
+            "iscorrect": false
+          },
+          {
+            "definition": "手榴弹",
+            "iscorrect": true
+          },
+          {
+            "definition": "年级",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

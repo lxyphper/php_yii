@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to go on",
+      "error_analysis": "学生易根据\"go\"（走）和\"on\"（在...上面）的字面意思，误解\"to go on\"为\"继续走\"或\"在...上面走\"，忽略其\"继续（做某事）\"的核心短语含义",
+      "sentence": "Even though it was late, she **went on** studying for her exam.",
+      "options": {
+        "option": [
+          {
+            "definition": "继续（做某事）",
+            "iscorrect": true
+          },
+          {
+            "definition": "继续走（在...上面）",
+            "iscorrect": false
+          },
+          {
+            "definition": "发生",
+            "iscorrect": false
+          },
+          {
+            "definition": "离开（某地）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

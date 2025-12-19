@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cautious",
+      "error_analysis": "最易因形近词curious（好奇的）产生混淆，或因词根caution（警告）误判为“警告的”",
+      "sentence": "She was **cautious** when crossing the busy street, looking both ways several times before stepping forward.",
+      "options": {
+        "option": [
+          {
+            "definition": "谨慎的；小心的",
+            "iscorrect": true
+          },
+          {
+            "definition": "好奇的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有意识的",
+            "iscorrect": false
+          },
+          {
+            "definition": "警告的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

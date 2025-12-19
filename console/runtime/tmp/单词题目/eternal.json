@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "eternal",
+      "error_analysis": "中国学生易因形近词\"external\"（外部的）或拼写联想将\"eternal\"误判为\"外部的\"或\"额外的\"",
+      "sentence": "The poet wrote about the **eternal** beauty of the sunset, which never fades in his memory.",
+      "options": {
+        "option": [
+          {
+            "definition": "永恒的",
+            "iscorrect": true
+          },
+          {
+            "definition": "外部的",
+            "iscorrect": false
+          },
+          {
+            "definition": "额外的",
+            "iscorrect": false
+          },
+          {
+            "definition": "暂时的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

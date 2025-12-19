@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "barricade",
+      "error_analysis": "因\"bar\"联想到\"酒吧\"或与\"barrel\"(桶)、\"barbecue\"(烧烤架)形近，误判为\"酒吧设施\"或\"桶\"等。",
+      "sentence": "The protesters used tables and chairs to build a **barricade** across the street to block the traffic.",
+      "options": {
+        "option": [
+          {
+            "definition": "路障；障碍物",
+            "iscorrect": true
+          },
+          {
+            "definition": "桶",
+            "iscorrect": false
+          },
+          {
+            "definition": "酒吧的柜台",
+            "iscorrect": false
+          },
+          {
+            "definition": "烧烤架",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

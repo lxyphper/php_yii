@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "brawny",
+      "error_analysis": "学生易因形近词\"brainy\"(聪明的)或误联想\"brown\"(棕色的)而误解\"brawny\"的含义",
+      "sentence": "The **brawny** man easily lifted the heavy box onto the shelf.",
+      "options": {
+        "option": [
+          {
+            "definition": "聪明的",
+            "iscorrect": false
+          },
+          {
+            "definition": "强壮的，肌肉发达的",
+            "iscorrect": true
+          },
+          {
+            "definition": "棕色的",
+            "iscorrect": false
+          },
+          {
+            "definition": "勇敢的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

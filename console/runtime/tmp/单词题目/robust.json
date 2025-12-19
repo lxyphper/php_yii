@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "robust",
+      "error_analysis": "学生易因“rob”（抢劫）的词根联想误判为“暴力的”，或因“robot”（机器人）的形近误理解为“机器人的”",
+      "sentence": "Regular exercise helps keep your immune system **robust**, making you less likely to get sick.",
+      "options": {
+        "option": [
+          {
+            "definition": "强健的；稳固的",
+            "iscorrect": true
+          },
+          {
+            "definition": "机器人的",
+            "iscorrect": false
+          },
+          {
+            "definition": "暴力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "粗糙的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

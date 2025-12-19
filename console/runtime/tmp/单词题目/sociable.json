@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sociable",
+      "error_analysis": "学生易将`sociable`与形近词`soluble`（可溶的）混淆，或误按词根`soci-`（社会的）直译为“社会的”而非“好交际的”。",
+      "sentence": "Emma is very **sociable**—she always starts conversations with new people at parties and makes everyone feel welcome.",
+      "options": {
+        "option": [
+          {
+            "definition": "好交际的；友善的",
+            "iscorrect": true
+          },
+          {
+            "definition": "可溶的",
+            "iscorrect": false
+          },
+          {
+            "definition": "社会的",
+            "iscorrect": false
+          },
+          {
+            "definition": "严肃的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "encryption",
+      "error_analysis": "学生易因不熟悉词根\"crypt\"（隐藏），将\"encryption\"误猜为形近词\"description\"（描述）或根据\"en-+\"创造\"的错误联想推断为\"创造\"。",
+      "sentence": "To protect users' privacy, most messaging apps use **encryption** to scramble data before sending it.",
+      "options": {
+        "option": [
+          {
+            "definition": "描述",
+            "iscorrect": false
+          },
+          {
+            "definition": "创造",
+            "iscorrect": false
+          },
+          {
+            "definition": "加密（术）",
+            "iscorrect": true
+          },
+          {
+            "definition": "执行",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

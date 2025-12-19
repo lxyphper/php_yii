@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fleet",
+      "error_analysis": "学生易因形近词“flight”（飞行/航班）混淆，或因“flee”（逃跑）词根联想为“逃跑的队伍”。",
+      "sentence": "The navy deployed a **fleet** of warships to patrol the coastal waters.",
+      "options": {
+        "option": [
+          {
+            "definition": "舰队；船队；车队",
+            "iscorrect": true
+          },
+          {
+            "definition": "飞行；航班",
+            "iscorrect": false
+          },
+          {
+            "definition": "逃跑的队伍；逃窜的人群",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速的；敏捷的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

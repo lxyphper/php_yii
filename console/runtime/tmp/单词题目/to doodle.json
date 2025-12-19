@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to doodle",
+      "error_analysis": "中国学生易因形近词“noodle”（面条）或“double”（双倍）而误判“to doodle”的含义。",
+      "sentence": "During the meeting, he couldn’t help but **doodle** circles on his agenda.",
+      "options": {
+        "option": [
+          {
+            "definition": "乱涂乱画（尤指无聊时）",
+            "iscorrect": true
+          },
+          {
+            "definition": "做面条；煮面条",
+            "iscorrect": false
+          },
+          {
+            "definition": "翻倍；使加倍",
+            "iscorrect": false
+          },
+          {
+            "definition": "做小事；打杂",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

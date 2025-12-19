@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "inspiration",
+      "error_analysis": "易混淆形近词“aspiration”（抱负）的含义，或因词根“spir”（呼吸）字面理解为“吸气”。",
+      "sentence": "The poet often gets **inspiration** from the sounds of nature, like birdsong or wind in the trees.",
+      "options": {
+        "option": [
+          {
+            "definition": "灵感；创作的源泉",
+            "iscorrect": true
+          },
+          {
+            "definition": "抱负；志向",
+            "iscorrect": false
+          },
+          {
+            "definition": "吸气；吸入",
+            "iscorrect": false
+          },
+          {
+            "definition": "鼓励；激励",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

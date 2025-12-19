@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pronoun",
+      "error_analysis": "学生易因形近词\"pronounce\"（发音）的干扰将\"pronoun\"误判为\"发音\"，或因\"pro-\"误解为\"专业的\"而错认为\"专业名词\"。",
+      "sentence": "In the sentence \"She gave him a book,\" both \"she\" and \"him\" are examples of a **pronoun** that replaces a noun.",
+      "options": {
+        "option": [
+          {
+            "definition": "代词",
+            "iscorrect": true
+          },
+          {
+            "definition": "发音；读音",
+            "iscorrect": false
+          },
+          {
+            "definition": "专业名词",
+            "iscorrect": false
+          },
+          {
+            "definition": "名词前缀",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

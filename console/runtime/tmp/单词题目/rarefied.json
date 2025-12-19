@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rarefied",
+      "error_analysis": "学生易因形近词\"rare\"（稀有的）或词根错误推导，将rarefied误判为\"稀有的\"或\"使变稀有的\"",
+      "sentence": "The novel’s themes are so **rarefied** that only scholars in literary theory can fully grasp them.",
+      "options": {
+        "option": [
+          {
+            "definition": "稀有的；罕见的",
+            "iscorrect": false
+          },
+          {
+            "definition": "高雅的；深奥的",
+            "iscorrect": true
+          },
+          {
+            "definition": "使变稀有的；使珍贵的",
+            "iscorrect": false
+          },
+          {
+            "definition": "空气稀薄的；缺氧的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to gaze",
+      "error_analysis": "学生易将形近词“glare”（瞪视）与“gaze”（凝视）混淆，或误将其理解为“快速看”（如glance）",
+      "sentence": "She stood by the window, **gazing** at the sunset for ten minutes without moving.",
+      "options": {
+        "option": [
+          {
+            "definition": "凝视；注视（长时间专注地看）",
+            "iscorrect": true
+          },
+          {
+            "definition": "瞪视（带有愤怒的看）",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速看（短暂地瞥一眼）",
+            "iscorrect": false
+          },
+          {
+            "definition": "猜测（推测）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

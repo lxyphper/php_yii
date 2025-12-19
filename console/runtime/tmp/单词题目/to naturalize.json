@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to naturalize",
+      "error_analysis": "学生易因形近词\"natural\"（自然的）和词根\"natural-\"（自然）误导，将\"to naturalize\"错误理解为\"使自然化\"或\"变得自然\"。",
+      "sentence": "After living in Canada for a decade, he finally decided to **naturalize** and apply for Canadian citizenship.",
+      "options": {
+        "option": [
+          {
+            "definition": "使入籍；使归化",
+            "iscorrect": true
+          },
+          {
+            "definition": "使自然化；变得自然",
+            "iscorrect": false
+          },
+          {
+            "definition": "中和；抵消",
+            "iscorrect": false
+          },
+          {
+            "definition": "使标准化；使统一",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

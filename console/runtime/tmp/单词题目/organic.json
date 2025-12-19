@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "organic",
+      "error_analysis": "中国学生易因形近词“organ”（器官/组织）将“organic”误判为“器官的”或“组织的”",
+      "sentence": "Many people prefer buying **organic** vegetables because they are grown without synthetic pesticides.",
+      "options": {
+        "option": [
+          {
+            "definition": "有机的（不使用合成农药或化肥种植的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "器官的（与器官相关的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "组织的（与组织或机构相关的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "原始的（未经过加工或改变的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

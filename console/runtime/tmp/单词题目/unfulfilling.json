@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unfulfilling",
+      "error_analysis": "易混淆形近词unfailing（可靠的），或因ful词根误解为“不充满的”，忽略fulfill的“满足”核心义。",
+      "sentence": "After working at the same job for five years, she found it **unfulfilling** because it didn’t challenge her or help her grow.",
+      "options": {
+        "option": [
+          {
+            "definition": "不令人满足的；没有成就感的",
+            "iscorrect": true
+          },
+          {
+            "definition": "可靠的；不倦的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不充满的；空虚的",
+            "iscorrect": false
+          },
+          {
+            "definition": "未完成的；未结束的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

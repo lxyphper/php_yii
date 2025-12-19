@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "side effect",
+      "error_analysis": "将\"side effect\"字面直译为\"侧面效果\"\"次要效果\"，未理解为药物/治疗的不良反应",
+      "sentence": "The doctor warned her that the new medicine might cause a **side effect** like drowsiness.",
+      "options": {
+        "option": [
+          {
+            "definition": "（药物或治疗的）副作用",
+            "iscorrect": true
+          },
+          {
+            "definition": "侧面的效果；次要的作用",
+            "iscorrect": false
+          },
+          {
+            "definition": "滑动的影响；滑动效果",
+            "iscorrect": false
+          },
+          {
+            "definition": "旁边的效果；边缘影响",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

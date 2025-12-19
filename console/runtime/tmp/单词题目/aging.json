@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "aging",
+      "error_analysis": "学生易因形近词\"agony\"（痛苦）混淆词义，或因词根\"age\"+\"-ing\"过度直译为\"正在变老的动作\"，忽略其名词\"衰老过程/现象\"的核心义。",
+      "sentence": "The government is implementing policies to address the challenges of population **aging** in the country.",
+      "options": {
+        "option": [
+          {
+            "definition": "衰老；老化（过程或现象）",
+            "iscorrect": true
+          },
+          {
+            "definition": "痛苦；极大的痛苦",
+            "iscorrect": false
+          },
+          {
+            "definition": "正在变老的动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "成熟；长成",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

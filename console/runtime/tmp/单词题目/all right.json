@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "all right",
+      "error_analysis": "学生易将“all right”字面拆分为“all（所有）+ right（正确/权利/右边）”，误解为“所有正确的”“所有权利”等义。",
+      "sentence": "—Shall we go to the park this afternoon? —Sure, **all right** with me.",
+      "options": {
+        "option": [
+          {
+            "definition": "好的；没问题",
+            "iscorrect": true
+          },
+          {
+            "definition": "所有正确的",
+            "iscorrect": false
+          },
+          {
+            "definition": "所有权利",
+            "iscorrect": false
+          },
+          {
+            "definition": "完全右边的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "philology",
+      "error_analysis": "学生易因形近词\"philosophy\"(哲学)及词根\"phil-\"(爱)与\"-logy\"(学科)的错误联想，将\"philology\"误判为\"哲学\"或\"爱智慧的学科\"。",
+      "sentence": "The professor of **philology** specializes in decoding ancient Egyptian hieroglyphs and analyzing their linguistic development over millennia.",
+      "options": {
+        "option": [
+          {
+            "definition": "哲学（研究智慧与存在本质的学科）",
+            "iscorrect": false
+          },
+          {
+            "definition": "爱智慧的学科",
+            "iscorrect": false
+          },
+          {
+            "definition": "语文学（研究语言文字及其文献的学科）",
+            "iscorrect": true
+          },
+          {
+            "definition": "心理学（研究心理活动与行为的学科）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

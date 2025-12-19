@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unluckily",
+      "error_analysis": "易混淆形近词“unlikely”（不太可能地），或误将副词理解为形容词“不幸运的”（unlucky）",
+      "sentence": "**Unluckily**, she forgot her umbrella and got completely wet in the sudden rain.",
+      "options": {
+        "option": [
+          {
+            "definition": "不幸地；遗憾地",
+            "iscorrect": true
+          },
+          {
+            "definition": "不太可能地",
+            "iscorrect": false
+          },
+          {
+            "definition": "不幸运的",
+            "iscorrect": false
+          },
+          {
+            "definition": "幸运地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

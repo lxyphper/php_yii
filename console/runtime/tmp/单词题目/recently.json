@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "recently",
+      "error_analysis": "学生易将recently混淆为“频繁地”（形近/发音与frequently混淆）或“新鲜地”（词根recent的“新鲜”义误导）",
+      "sentence": "She started learning Spanish **recently**, so her vocabulary is still limited.",
+      "options": {
+        "option": [
+          {
+            "definition": "最近地；不久前",
+            "iscorrect": true
+          },
+          {
+            "definition": "频繁地；经常",
+            "iscorrect": false
+          },
+          {
+            "definition": "新鲜地；刚",
+            "iscorrect": false
+          },
+          {
+            "definition": "突然地；忽然",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

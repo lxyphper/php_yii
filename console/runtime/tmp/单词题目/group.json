@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "group",
+      "error_analysis": "学生易因形近词“grope”（摸索）或误联想为“grow”（生长）的变体，导致对“group”核心词义“组、群”的错误理解",
+      "sentence": "The teacher divided the class into four small **group**s to work on the project.",
+      "options": {
+        "option": [
+          {
+            "definition": "组；群",
+            "iscorrect": true
+          },
+          {
+            "definition": "摸索",
+            "iscorrect": false
+          },
+          {
+            "definition": "生长",
+            "iscorrect": false
+          },
+          {
+            "definition": "地面",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

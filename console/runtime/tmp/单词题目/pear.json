@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pear",
+      "error_analysis": "学生易因形近将\"pear\"误判为\"bear\"（熊）或\"peer\"（同龄人），或因音近混淆\"pair\"（一对）。",
+      "sentence": "She bought a fresh **pear** from the market to make juice.",
+      "options": {
+        "option": [
+          {
+            "definition": "梨",
+            "iscorrect": true
+          },
+          {
+            "definition": "熊",
+            "iscorrect": false
+          },
+          {
+            "definition": "同龄人",
+            "iscorrect": false
+          },
+          {
+            "definition": "一对",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

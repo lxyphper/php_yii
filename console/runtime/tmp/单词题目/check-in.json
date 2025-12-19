@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "check-in",
+      "error_analysis": "学生易因\"check+in\"字面推导或形近词\"checkup\"（检查）混淆，将\"check-in\"误理解为\"进入时的检查\"（如安检）。",
+      "sentence": "Before boarding the plane, you need to go to the airline counter to complete your **check-in** first.",
+      "options": {
+        "option": [
+          {
+            "definition": "身体检查（如年度体检）",
+            "iscorrect": false
+          },
+          {
+            "definition": "进入场所时的安全检查（如机场安检）",
+            "iscorrect": false
+          },
+          {
+            "definition": "（机场、酒店等的）办理登机/入住手续",
+            "iscorrect": true
+          },
+          {
+            "definition": "核对离开时的物品信息（如酒店退房）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "emergency exit",
+      "error_analysis": "学生易因“exit”的动词义（退出）产生字面误导，将“emergency exit”误解为“紧急退出”（如程序或活动中的退出），或因“exit”与“leave”的义近性误判为“紧急休假”。",
+      "sentence": "Before the movie started, the usher reminded everyone to locate the **emergency exit** nearest to their seats.",
+      "options": {
+        "option": [
+          {
+            "definition": "紧急休假",
+            "iscorrect": false
+          },
+          {
+            "definition": "紧急退出（如程序或活动中的退出）",
+            "iscorrect": false
+          },
+          {
+            "definition": "精确出口",
+            "iscorrect": false
+          },
+          {
+            "definition": "建筑物或交通工具中的紧急出口",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

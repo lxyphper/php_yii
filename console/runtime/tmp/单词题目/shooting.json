@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "shooting",
+      "error_analysis": "学生易因形近词\"shopping\"（购物）混淆，或因词根\"shoot\"（射击）误导，忽略其\"拍摄\"含义。",
+      "sentence": "The director announced that the **shooting** of the documentary will start in June.",
+      "options": {
+        "option": [
+          {
+            "definition": "购物",
+            "iscorrect": false
+          },
+          {
+            "definition": "射击",
+            "iscorrect": false
+          },
+          {
+            "definition": "拍摄（电影/照片等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "投篮",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to deduct",
+      "error_analysis": "易与形近词“reduce”（减少）混淆，或因词根“duct”（引导）误导为“引导”",
+      "sentence": "The bank will **deduct** a $5 fee from your account every month for the service.",
+      "options": {
+        "option": [
+          {
+            "definition": "扣除（从总数中减去）",
+            "iscorrect": true
+          },
+          {
+            "definition": "减少（使整体数量降低）",
+            "iscorrect": false
+          },
+          {
+            "definition": "引导（方向或行为）",
+            "iscorrect": false
+          },
+          {
+            "definition": "检测（发现或识别）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

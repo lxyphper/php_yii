@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hour",
+      "error_analysis": "学生易因形近词“our”（我们的）混淆“hour”的核心词义“小时”",
+      "sentence": "It takes me an **hour** to walk to school every day.",
+      "options": {
+        "option": [
+          {
+            "definition": "我们的",
+            "iscorrect": false
+          },
+          {
+            "definition": "小时",
+            "iscorrect": true
+          },
+          {
+            "definition": "倒（液体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "四",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

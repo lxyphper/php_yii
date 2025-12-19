@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to pause",
+      "error_analysis": "学生易因形近词\"pose\"（摆姿势）的干扰，将\"to pause\"误解为\"摆姿势\"。",
+      "sentence": "The singer decided to **pause** for a moment before starting the next song.",
+      "options": {
+        "option": [
+          {
+            "definition": "暂停；停顿",
+            "iscorrect": true
+          },
+          {
+            "definition": "摆姿势；装模作样",
+            "iscorrect": false
+          },
+          {
+            "definition": "脉搏；跳动",
+            "iscorrect": false
+          },
+          {
+            "definition": "通过；经过",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

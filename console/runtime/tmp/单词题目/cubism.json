@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cubism",
+      "error_analysis": "学生易因形近词“cub”（幼崽）误解为与动物幼崽相关的主义，或因词根“cube”（立方体）误解为与立方体相关的科学概念，而非艺术流派。",
+      "sentence": "Pablo Picasso and Georges Braque are widely regarded as the founders of **cubism**, which revolutionized art by breaking objects into geometric shapes and presenting multiple perspectives simultaneously.",
+      "options": {
+        "option": [
+          {
+            "definition": "立体主义（一种20世纪初的艺术流派，强调用几何形状表现物体）",
+            "iscorrect": true
+          },
+          {
+            "definition": "幼崽保护主义（关注动物幼崽福利的社会运动）",
+            "iscorrect": false
+          },
+          {
+            "definition": "立方理论（研究立方体几何性质的数学学说）",
+            "iscorrect": false
+          },
+          {
+            "definition": "新手主义（针对新手或初学者的培养理念）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

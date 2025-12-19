@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mesmerizing",
+      "error_analysis": "学生易因形近词'memorizing'误解为'难忘的'，或因'mes-'联想到'mess'误解为'令人混乱的'",
+      "sentence": "The ballet dancer's graceful movements on stage were absolutely **mesmerizing**; the audience couldn't take their eyes off her.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人着迷的",
+            "iscorrect": true
+          },
+          {
+            "definition": "需要记忆的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人混乱的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人放松的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

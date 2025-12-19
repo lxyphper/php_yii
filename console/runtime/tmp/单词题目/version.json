@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "version",
+      "error_analysis": "学生易因形近词\"vision\"(视力)干扰，或词根\"vers-\"(转向)误猜为\"变化\"。",
+      "sentence": "The latest **version** of the app includes new features like dark mode.",
+      "options": {
+        "option": [
+          {
+            "definition": "版本",
+            "iscorrect": true
+          },
+          {
+            "definition": "视力",
+            "iscorrect": false
+          },
+          {
+            "definition": "变化",
+            "iscorrect": false
+          },
+          {
+            "definition": "观点",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "newborn",
+      "error_analysis": "学生易因“new+born”结构误将“newborn”理解为“新出生的状态”，或与形近词“newcomer”混淆为“新来者”",
+      "sentence": "The nurse gently placed the **newborn** in the mother's arms right after the delivery.",
+      "options": {
+        "option": [
+          {
+            "definition": "新生儿（指刚出生的婴儿）",
+            "iscorrect": true
+          },
+          {
+            "definition": "新来者（刚到某地的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "新出生的状态（如“出生不久”的抽象概念）",
+            "iscorrect": false
+          },
+          {
+            "definition": "刚出生的动物（如小猫、小狗等）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

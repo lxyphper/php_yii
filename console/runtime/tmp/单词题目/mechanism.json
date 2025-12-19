@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mechanism",
+      "error_analysis": "学生易因形近词“mechanic”（机械师）或词根“mechan-”（机械）误将“mechanism”理解为“机械师”或“机器”。",
+      "sentence": "The **mechanism** of the bicycle brake prevents it from slipping when you press the lever.",
+      "options": {
+        "option": [
+          {
+            "definition": "机械师",
+            "iscorrect": false
+          },
+          {
+            "definition": "机器",
+            "iscorrect": false
+          },
+          {
+            "definition": "机制；机械装置",
+            "iscorrect": true
+          },
+          {
+            "definition": "方法",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

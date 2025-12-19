@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "economy class",
+      "error_analysis": "学生易将\"economy class\"误理解为\"经济阶级\"（因\"class\"指\"阶级\"）或\"经济课\"（因\"class\"指\"课程\"）",
+      "sentence": "When booking the flight, she chose **economy class** to save money, even though it meant less legroom.",
+      "options": {
+        "option": [
+          {
+            "definition": "（飞机等的）经济舱",
+            "iscorrect": true
+          },
+          {
+            "definition": "经济阶级（社会中的经济阶层）",
+            "iscorrect": false
+          },
+          {
+            "definition": "经济课（学校里的经济课程）",
+            "iscorrect": false
+          },
+          {
+            "definition": "经济类别（商品或服务的经济类别）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

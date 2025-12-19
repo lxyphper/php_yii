@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tonight",
+      "error_analysis": "学生易因“ton”（吨）的字面义误导，将“tonight”错误拆解为“吨+晚上”，或因形近混淆“today”（今天）/“tomorrow”（明天）的时间指向。",
+      "sentence": "We are going to have a party **tonight** to celebrate her birthday.",
+      "options": {
+        "option": [
+          {
+            "definition": "今晚",
+            "iscorrect": true
+          },
+          {
+            "definition": "吨的晚上",
+            "iscorrect": false
+          },
+          {
+            "definition": "今天",
+            "iscorrect": false
+          },
+          {
+            "definition": "明天",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

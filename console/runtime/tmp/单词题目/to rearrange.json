@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to rearrange",
+      "error_analysis": "学生易将“rearrange”拆分为“rear”（后面）+“range”（范围）误解为“调整后面的范围”，或与形近词“replace”（替换）混淆。",
+      "sentence": "Mary decided to **rearrange** the furniture in the living room to make more space.",
+      "options": {
+        "option": [
+          {
+            "definition": "替换",
+            "iscorrect": false
+          },
+          {
+            "definition": "调整后面的范围",
+            "iscorrect": false
+          },
+          {
+            "definition": "重新安排",
+            "iscorrect": true
+          },
+          {
+            "definition": "重新组装",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

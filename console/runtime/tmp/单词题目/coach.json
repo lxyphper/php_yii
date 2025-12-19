@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "coach",
+      "error_analysis": "学生易因形近词\"coat\"(外套)或\"couch\"(沙发)混淆，或误将\"coach\"联想为\"马车\"（旧义）而忽略其\"指导/教练\"的核心词义。",
+      "sentence": "My basketball team hired a new **coach** to help us improve our skills.",
+      "options": {
+        "option": [
+          {
+            "definition": "外套",
+            "iscorrect": false
+          },
+          {
+            "definition": "沙发",
+            "iscorrect": false
+          },
+          {
+            "definition": "指导/教练",
+            "iscorrect": true
+          },
+          {
+            "definition": "马车",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

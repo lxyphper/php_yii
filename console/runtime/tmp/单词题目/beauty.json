@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "beauty",
+      "error_analysis": "学生易因形近词\"beast\"（野兽）的干扰，误将\"beauty\"理解为\"野兽\"或类似含义。",
+      "sentence": "The sunset over the ocean was a true **beauty** that took our breath away.",
+      "options": {
+        "option": [
+          {
+            "definition": "美；美丽；美人",
+            "iscorrect": true
+          },
+          {
+            "definition": "野兽",
+            "iscorrect": false
+          },
+          {
+            "definition": "战利品",
+            "iscorrect": false
+          },
+          {
+            "definition": "美化（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

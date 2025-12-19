@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Israeli",
+      "error_analysis": "学生易因形近词“Islander”（岛民）混淆，或误将“Israeli”（以色列人，国籍）等同于“Jew”（犹太人，民族）。",
+      "sentence": "My new neighbor is an **Israeli** who moved here from Tel Aviv.",
+      "options": {
+        "option": [
+          {
+            "definition": "以色列的；以色列人",
+            "iscorrect": true
+          },
+          {
+            "definition": "岛民",
+            "iscorrect": false
+          },
+          {
+            "definition": "犹太人",
+            "iscorrect": false
+          },
+          {
+            "definition": "意大利人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

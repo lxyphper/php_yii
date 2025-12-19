@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "catharsis",
+      "error_analysis": "易因形近词\"catalyst\"(催化剂)或词根\"cath-\"(字面\"清洁\")误解为催化作用或身体清洁",
+      "sentence": "After a long day of stress, writing in her journal provided a much-needed **catharsis** for Sarah.",
+      "options": {
+        "option": [
+          {
+            "definition": "情感的宣泄（或净化）",
+            "iscorrect": true
+          },
+          {
+            "definition": "催化剂（加速反应的物质）",
+            "iscorrect": false
+          },
+          {
+            "definition": "身体的清洁（如泻药的作用）",
+            "iscorrect": false
+          },
+          {
+            "definition": "逻辑推理（分析问题的过程）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

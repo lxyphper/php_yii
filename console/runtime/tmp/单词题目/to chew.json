@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to chew",
+      "error_analysis": "中国学生易因形近词\"chop\"(砍)、\"choke\"(窒息)或\"chill\"(放松)的干扰，将\"to chew\"误理解为非\"咀嚼\"的含义",
+      "sentence": "The baby is learning to **chew** solid food instead of just drinking milk.",
+      "options": {
+        "option": [
+          {
+            "definition": "咀嚼；嚼碎",
+            "iscorrect": true
+          },
+          {
+            "definition": "砍；剁碎",
+            "iscorrect": false
+          },
+          {
+            "definition": "窒息；哽住",
+            "iscorrect": false
+          },
+          {
+            "definition": "放松；变冷",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

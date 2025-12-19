@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tight",
+      "error_analysis": "学生易因形近词“light”（轻的）或“right”（正确的）而误解“tight”的核心义",
+      "sentence": "She wore a **tight** dress to the party, so she couldn’t eat too much.",
+      "options": {
+        "option": [
+          {
+            "definition": "轻的",
+            "iscorrect": false
+          },
+          {
+            "definition": "正确的",
+            "iscorrect": false
+          },
+          {
+            "definition": "紧身的",
+            "iscorrect": true
+          },
+          {
+            "definition": "高的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

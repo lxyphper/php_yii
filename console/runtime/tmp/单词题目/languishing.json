@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "languishing",
+      "error_analysis": "学生易因形近词\"language\"误解为\"与语言相关\"，或因词根\"langu-\"与\"long\"（渴望）联想而猜测为\"渴望的\"",
+      "sentence": "After being ignored for years, the once-popular restaurant is now **languishing** in a quiet corner of the city.",
+      "options": {
+        "option": [
+          {
+            "definition": "与语言有关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "渴望的；向往的",
+            "iscorrect": false
+          },
+          {
+            "definition": "萎靡的；停滞不前的",
+            "iscorrect": true
+          },
+          {
+            "definition": "痛苦的；煎熬的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

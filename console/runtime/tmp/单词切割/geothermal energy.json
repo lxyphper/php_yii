@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "jeothermal energy",
+      "geotermal energy",
+      "geothermal anergy",
+      "geothermal enerjy"
+    ],
+    "correct_chunks": [
+      "geo",
+      "thermal",
+      "ener",
+      "gy"
+    ],
+    "distractor_chunks": [
+      "jeo",
+      "termal",
+      "an",
+      "jy",
+      "enery"
+    ]
+  },
+  0
+]

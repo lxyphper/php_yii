@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "take care",
+      "error_analysis": "学生易将“take care”（小心/注意）误理解为“照顾”（混淆于“take care of”的字面推导）",
+      "sentence": "Please **take care** when you use the sharp knife—it’s very dangerous.",
+      "options": {
+        "option": [
+          {
+            "definition": "小心；注意",
+            "iscorrect": true
+          },
+          {
+            "definition": "照顾；照料",
+            "iscorrect": false
+          },
+          {
+            "definition": "拿走关心",
+            "iscorrect": false
+          },
+          {
+            "definition": "负责；掌管",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

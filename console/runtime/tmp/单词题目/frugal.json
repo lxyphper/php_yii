@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "frugal",
+      "error_analysis": "中国学生易因形近词\"fragile\"误解为\"脆弱的\"，或因\"fru-\"联想\"fruit\"误判为\"新鲜的\"",
+      "sentence": "My grandmother is very **frugal**; she always reuses old jars for storing food instead of buying new plastic containers.",
+      "options": {
+        "option": [
+          {
+            "definition": "脆弱的",
+            "iscorrect": false
+          },
+          {
+            "definition": "新鲜的",
+            "iscorrect": false
+          },
+          {
+            "definition": "浪费的",
+            "iscorrect": false
+          },
+          {
+            "definition": "节俭的，节省的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "test banch",
+      "test benche",
+      "test bensh",
+      "test binch",
+      "test brench"
+    ],
+    "correct_chunks": [
+      "test",
+      "ben",
+      "ch"
+    ],
+    "distractor_chunks": [
+      "ban",
+      "sh",
+      "bin",
+      "bre",
+      "benc"
+    ]
+  },
+  0
+]

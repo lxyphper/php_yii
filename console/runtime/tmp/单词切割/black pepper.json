@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "blak pepper",
+      "bleck pepper",
+      "black peper",
+      "black peppar",
+      "black bepper"
+    ],
+    "correct_chunks": [
+      "b",
+      "lack",
+      "pepp",
+      "er"
+    ],
+    "distractor_chunks": [
+      "lak",
+      "leck",
+      "pep",
+      "par",
+      "be"
+    ]
+  },
+  0
+]

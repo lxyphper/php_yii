@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "destitute",
+      "error_analysis": "学生易因形近词“destiny”（命运）或词根“destituere”（抛弃）误导，误将“destitute”理解为“命运的”或“被抛弃的”，而非其核心义“极度贫困的”。",
+      "sentence": "After losing his job and home, John found himself **destitute**, unable to afford even a simple meal.",
+      "options": {
+        "option": [
+          {
+            "definition": "极度贫困的；一无所有的",
+            "iscorrect": true
+          },
+          {
+            "definition": "命运的；宿命的",
+            "iscorrect": false
+          },
+          {
+            "definition": "被抛弃的；无依无靠的",
+            "iscorrect": false
+          },
+          {
+            "definition": "破坏性的；有害的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

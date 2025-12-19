@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "energizing",
+      "error_analysis": "学生易混淆形近词\"engaging\"(吸引人的)，或通过词根\"energy\"错误推导为\"有能量的\"，而非\"令人精力充沛的\"核心词义",
+      "sentence": "After a long hike, the cool breeze and sunny sky felt **energizing**, making us want to keep exploring.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人精力充沛的",
+            "iscorrect": true
+          },
+          {
+            "definition": "吸引人的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有能量的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人衰弱的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

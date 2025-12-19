@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to record",
+      "error_analysis": "易与形近词“recall”（回忆）混淆，或因“cord”（绳子）词根误导为“重新连接”等无关义",
+      "sentence": "The teacher asked me to **record** the meeting minutes so everyone could refer to them later.",
+      "options": {
+        "option": [
+          {
+            "definition": "记录；录制",
+            "iscorrect": true
+          },
+          {
+            "definition": "回忆；回想",
+            "iscorrect": false
+          },
+          {
+            "definition": "重新连接；再系",
+            "iscorrect": false
+          },
+          {
+            "definition": "背诵；朗诵",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

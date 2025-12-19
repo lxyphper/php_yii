@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "onslaught",
+      "error_analysis": "学生易因形近词“slaughter”（屠杀）及“on-”加“slaughter”的字面误导，将“onslaught”误解为“屠杀”或“血腥攻击”",
+      "sentence": "The soldiers held their position against the enemy's fierce **onslaught** for hours.",
+      "options": {
+        "option": [
+          {
+            "definition": "猛烈攻击；猛烈冲击",
+            "iscorrect": true
+          },
+          {
+            "definition": "屠杀",
+            "iscorrect": false
+          },
+          {
+            "definition": "血腥的攻击",
+            "iscorrect": false
+          },
+          {
+            "definition": "开始的阶段",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

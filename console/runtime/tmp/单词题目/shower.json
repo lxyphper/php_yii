@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "shower",
+      "error_analysis": "易因形近词\"flower\"（花）混淆，或误拆为\"show+er\"理解为\"展示者\"",
+      "sentence": "After playing basketball, I took a **shower** to cool down.",
+      "options": {
+        "option": [
+          {
+            "definition": "淋浴；阵雨",
+            "iscorrect": true
+          },
+          {
+            "definition": "花",
+            "iscorrect": false
+          },
+          {
+            "definition": "展示者；表演者",
+            "iscorrect": false
+          },
+          {
+            "definition": "鞋子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

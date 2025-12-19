@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "honey",
+      "error_analysis": "学生易因honey与money形近（均为-oney结尾）误选“钱”，或因hon-词根联想honor误选“荣誉”",
+      "sentence": "She spread some **honey** on her morning toast to make it sweeter.",
+      "options": {
+        "option": [
+          {
+            "definition": "蜂蜜",
+            "iscorrect": true
+          },
+          {
+            "definition": "钱",
+            "iscorrect": false
+          },
+          {
+            "definition": "亲爱的",
+            "iscorrect": false
+          },
+          {
+            "definition": "荣誉",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

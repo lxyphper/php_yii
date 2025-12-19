@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "prison",
+      "error_analysis": "学生易混淆形近词pension（养老金），或误将prison与发音相近的prize（奖品）关联，导致词义判断错误",
+      "sentence": "After being found guilty, the criminal was sent to **prison** for five years.",
+      "options": {
+        "option": [
+          {
+            "definition": "监狱",
+            "iscorrect": true
+          },
+          {
+            "definition": "养老金",
+            "iscorrect": false
+          },
+          {
+            "definition": "奖品",
+            "iscorrect": false
+          },
+          {
+            "definition": "私人俱乐部",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

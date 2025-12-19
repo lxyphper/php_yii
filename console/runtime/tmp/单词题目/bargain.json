@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bargain",
+      "error_analysis": "学生易将“bargain”误理解为“bar（酒吧）+ gain（获得）”的组合义（如“酒吧的收益”）或与“gain”（获得）混淆。",
+      "sentence": "I found a great **bargain** at the flea market—this jacket cost only $10!",
+      "options": {
+        "option": [
+          {
+            "definition": "便宜货",
+            "iscorrect": true
+          },
+          {
+            "definition": "酒吧的收益",
+            "iscorrect": false
+          },
+          {
+            "definition": "获得",
+            "iscorrect": false
+          },
+          {
+            "definition": "讨价还价的行为",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

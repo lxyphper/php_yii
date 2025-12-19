@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to palliate",
+      "error_analysis": "学生易因形近词“pall”（使乏味）或词根“覆盖”（拉丁语palliare）误解为“使乏味”或“隐藏”，而非“减轻痛苦”。",
+      "sentence": "The doctor prescribed a new drug to **palliate** the patient's chronic back pain.",
+      "options": {
+        "option": [
+          {
+            "definition": "减轻（痛苦或症状）",
+            "iscorrect": true
+          },
+          {
+            "definition": "使（兴趣或热情）乏味",
+            "iscorrect": false
+          },
+          {
+            "definition": "覆盖或隐藏（真相或问题）",
+            "iscorrect": false
+          },
+          {
+            "definition": "增强或加剧（效果或感受）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

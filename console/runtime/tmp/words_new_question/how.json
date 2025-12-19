@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "how",
+      "error_analysis": "学生易因形近词（如who/what）混淆词义，或在感叹句中误将how理解为“如何”（方式）而非“多么”（程度）",
+      "sentence": "**How** amazing it is to watch the sunset over the ocean!",
+      "options": {
+        "option": [
+          {
+            "definition": "多么（用于感叹句，表示程度）",
+            "iscorrect": true
+          },
+          {
+            "definition": "谁（询问人的身份）",
+            "iscorrect": false
+          },
+          {
+            "definition": "什么（询问事物的名称）",
+            "iscorrect": false
+          },
+          {
+            "definition": "如何（询问做某事的方式）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

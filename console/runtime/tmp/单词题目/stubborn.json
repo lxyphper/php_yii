@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stubborn",
+      "error_analysis": "学生易因形近词“stub”（树桩）产生“粗短的”错误联想，或因词根拆分（stub+born）误以为“结实的”",
+      "sentence": "Despite repeated advice from his friends, Tom remained **stubborn** about quitting smoking.",
+      "options": {
+        "option": [
+          {
+            "definition": "固执的",
+            "iscorrect": true
+          },
+          {
+            "definition": "粗短的",
+            "iscorrect": false
+          },
+          {
+            "definition": "结实的",
+            "iscorrect": false
+          },
+          {
+            "definition": "愚蠢的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

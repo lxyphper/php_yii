@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "December",
+      "error_analysis": "学生易因词根“decem”（十）误导认为是十月，或因与“November”（十一月）拼写相似（均以“-ember”结尾）而混淆月份。",
+      "sentence": "We usually have a big family dinner on Christmas Eve, which falls in **December** every year.",
+      "options": {
+        "option": [
+          {
+            "definition": "十二月",
+            "iscorrect": true
+          },
+          {
+            "definition": "十月",
+            "iscorrect": false
+          },
+          {
+            "definition": "十一月",
+            "iscorrect": false
+          },
+          {
+            "definition": "一月",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

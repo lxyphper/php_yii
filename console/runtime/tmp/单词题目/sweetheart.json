@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sweetheart",
+      "error_analysis": "学生易因“sweet+heart”的字面组合，误将“sweetheart”理解为“甜的心脏”（词根/字面误导）。",
+      "sentence": "Tom brought flowers to his **sweetheart** on Valentine's Day.",
+      "options": {
+        "option": [
+          {
+            "definition": "甜的心脏",
+            "iscorrect": false
+          },
+          {
+            "definition": "爱人；恋人",
+            "iscorrect": true
+          },
+          {
+            "definition": "亲爱的朋友",
+            "iscorrect": false
+          },
+          {
+            "definition": "心脏形状的糖果",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

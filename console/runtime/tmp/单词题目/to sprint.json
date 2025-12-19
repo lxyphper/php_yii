@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to sprint",
+      "error_analysis": "因形近词\"spring\"（春天；跳跃）误导，易将\"to sprint\"误解为\"跳跃\"或\"蹦跳\"。",
+      "sentence": "The runner decided to **sprint** the last 100 meters to catch up with the leader.",
+      "options": {
+        "option": [
+          {
+            "definition": "冲刺；短跑",
+            "iscorrect": true
+          },
+          {
+            "definition": "跳跃；蹦跳",
+            "iscorrect": false
+          },
+          {
+            "definition": "扭伤；拉伤",
+            "iscorrect": false
+          },
+          {
+            "definition": "慢跑；缓步",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

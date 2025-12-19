@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to stash",
+      "error_analysis": "学生易因形近词\"stack\"（堆）误判\"stash\"为\"堆叠\"，或因字面猜测将其理解为\"储存\"而忽略\"藏匿\"的核心。",
+      "sentence": "Before the party, she **stashed** her expensive jewelry in a hidden drawer to keep it safe.",
+      "options": {
+        "option": [
+          {
+            "definition": "藏匿；储藏",
+            "iscorrect": true
+          },
+          {
+            "definition": "堆叠；堆起",
+            "iscorrect": false
+          },
+          {
+            "definition": "储存；保存",
+            "iscorrect": false
+          },
+          {
+            "definition": "缝补；缝合",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

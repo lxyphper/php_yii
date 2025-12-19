@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "spokesperson",
+      "error_analysis": "学生易因\"spoke\"（轮辐）的形近义误解为\"轮辐相关的人\"，或因词根拆解忽略\"代表组织\"的核心义而误判为\"普通说话的人\"",
+      "sentence": "The company's **spokesperson** will hold a press conference tomorrow to address the product recall issue.",
+      "options": {
+        "option": [
+          {
+            "definition": "（代表某组织的）发言人",
+            "iscorrect": true
+          },
+          {
+            "definition": "自行车轮辐修理工",
+            "iscorrect": false
+          },
+          {
+            "definition": "公开演讲的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "会议主持人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

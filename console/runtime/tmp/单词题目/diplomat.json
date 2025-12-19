@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "diplomat",
+      "error_analysis": "学生易因形近词“diploma”（文凭）误将“diplomat”理解为“文凭相关者”（如毕业生或文凭颁发者）",
+      "sentence": "The **diplomat** from China will attend the international conference to discuss trade issues.",
+      "options": {
+        "option": [
+          {
+            "definition": "文凭颁发者",
+            "iscorrect": false
+          },
+          {
+            "definition": "外交官；外交家",
+            "iscorrect": true
+          },
+          {
+            "definition": "双重任务执行者",
+            "iscorrect": false
+          },
+          {
+            "definition": "学校行政人员",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

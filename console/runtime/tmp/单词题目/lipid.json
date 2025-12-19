@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lipid",
+      "error_analysis": "学生易因形近词\"lip\"（嘴唇）误判为\"唇膏\"，或因与\"liquid\"（液体）形近而误解为\"液体\"",
+      "sentence": "Avocados are a good source of healthy **lipids**, which play a key role in maintaining cell membrane structure.",
+      "options": {
+        "option": [
+          {
+            "definition": "脂质；脂肪",
+            "iscorrect": true
+          },
+          {
+            "definition": "唇膏；唇彩",
+            "iscorrect": false
+          },
+          {
+            "definition": "液体；流质",
+            "iscorrect": false
+          },
+          {
+            "definition": "纤维；纤维素",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

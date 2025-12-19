@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to glance",
+      "error_analysis": "中国学生易将“to glance”与形近词“glare”（瞪视）或“gaze”（凝视）混淆，误判为长时间或带情绪的看，而非快速瞥一眼。",
+      "sentence": "She **glanced** at her watch and hurried to the bus stop.",
+      "options": {
+        "option": [
+          {
+            "definition": "快速看一眼；瞥",
+            "iscorrect": true
+          },
+          {
+            "definition": "瞪视；怒视",
+            "iscorrect": false
+          },
+          {
+            "definition": "凝视；注视",
+            "iscorrect": false
+          },
+          {
+            "definition": "倾听；聆听",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

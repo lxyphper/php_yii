@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "garden-variety",
+      "error_analysis": "学生易将“garden-variety”字面理解为“花园品种的”或“多样的”，而非其实际含义“普通的”。",
+      "sentence": "She bought a **garden-variety** laptop, not a high-end one.",
+      "options": {
+        "option": [
+          {
+            "definition": "普通的；常见的",
+            "iscorrect": true
+          },
+          {
+            "definition": "花园品种的",
+            "iscorrect": false
+          },
+          {
+            "definition": "多样的；各种各样的",
+            "iscorrect": false
+          },
+          {
+            "definition": "园艺相关的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "foundation",
+      "error_analysis": "易因形近词fountain（喷泉）混淆，或因词根found（建立）误判为“建立的动作”而非“基础/基金会”。",
+      "sentence": "The **foundation** of a strong team is effective communication.",
+      "options": {
+        "option": [
+          {
+            "definition": "基础；基金会",
+            "iscorrect": true
+          },
+          {
+            "definition": "喷泉",
+            "iscorrect": false
+          },
+          {
+            "definition": "建立（动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "来源",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

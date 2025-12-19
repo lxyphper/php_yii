@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "despondent",
+      "error_analysis": "中国学生易因形近词\"respond\"（回应）产生\"不回应的/反应冷淡的\"错误联想，或因词根\"des-\"（向下）与\"ponder\"（思考）的误导认为是\"深思的\"。",
+      "sentence": "When her favorite team lost the final game, Emma became **despondent** and refused to watch any more matches.",
+      "options": {
+        "option": [
+          {
+            "definition": "沮丧的；灰心的",
+            "iscorrect": true
+          },
+          {
+            "definition": "反应冷淡的；不回应的",
+            "iscorrect": false
+          },
+          {
+            "definition": "深思的；沉思的",
+            "iscorrect": false
+          },
+          {
+            "definition": "依赖的；依靠的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "monsoon",
+      "error_analysis": "学生易因形近词\"moon\"（月亮）联想到\"月相相关现象\"，或因\"mon-\"误判为\"单一季节\"，从而混淆其核心词义。",
+      "sentence": "The farmers in India rely heavily on the **monsoon** rains to water their crops every year.",
+      "options": {
+        "option": [
+          {
+            "definition": "季风（指南亚等地的季节性强风及带来的雨季）",
+            "iscorrect": true
+          },
+          {
+            "definition": "月相变化引起的潮汐",
+            "iscorrect": false
+          },
+          {
+            "definition": "单一季节的气候模式",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速爆发的雷暴",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

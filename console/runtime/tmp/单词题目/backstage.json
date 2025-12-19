@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "backstage",
+      "error_analysis": "学生易因形近词“background”（背景）或词根字面误导（将“backstage”理解为“回到舞台”）而错误理解其含义。",
+      "sentence": "The actress was interviewed **backstage** before she went on stage.",
+      "options": {
+        "option": [
+          {
+            "definition": "背景（如图片或故事的背景）",
+            "iscorrect": false
+          },
+          {
+            "definition": "回到舞台",
+            "iscorrect": false
+          },
+          {
+            "definition": "后台（演员准备或休息的区域）",
+            "iscorrect": true
+          },
+          {
+            "definition": "舞台后面的台阶",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

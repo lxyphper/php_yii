@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "significant",
+      "error_analysis": "学生易因形近词\"sufficient\"(足够的)混淆，或因词根\"sign\"(符号)误判为\"有符号的\"。",
+      "sentence": "The discovery of a new vaccine was a **significant** breakthrough in the fight against the disease.",
+      "options": {
+        "option": [
+          {
+            "definition": "重要的；显著的",
+            "iscorrect": true
+          },
+          {
+            "definition": "足够的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有符号的；签名的",
+            "iscorrect": false
+          },
+          {
+            "definition": "明显的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

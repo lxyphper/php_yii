@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "season",
+      "error_analysis": "中国学生易因形近词\"reason\"（原因）混淆，或因\"sea+son\"字面拆分产生\"海之子\"的错误联想。",
+      "sentence": "Spring is the best **season** to plant flowers in the garden.",
+      "options": {
+        "option": [
+          {
+            "definition": "季节",
+            "iscorrect": true
+          },
+          {
+            "definition": "原因",
+            "iscorrect": false
+          },
+          {
+            "definition": "海之子",
+            "iscorrect": false
+          },
+          {
+            "definition": "会议",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

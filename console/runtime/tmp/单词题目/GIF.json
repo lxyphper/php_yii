@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "GIF",
+      "error_analysis": "易因形近词\"gift\"（礼物）的干扰，或误判为非图像类文件格式",
+      "sentence": "She sent me a funny **GIF** of a cat dancing to celebrate my birthday.",
+      "options": {
+        "option": [
+          {
+            "definition": "礼物；赠品",
+            "iscorrect": false
+          },
+          {
+            "definition": "一种动态图像文件格式",
+            "iscorrect": true
+          },
+          {
+            "definition": "一种文本编辑软件",
+            "iscorrect": false
+          },
+          {
+            "definition": "要点；主旨",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

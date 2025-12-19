@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lengthiness",
+      "error_analysis": "学生易因形近词\"length\"（长度）或词根字面推导（长度的状态）而忽略其\"过长、冗长\"的核心贬义。",
+      "sentence": "The teacher complained about the **lengthiness** of the student's essay, which was twice as long as required.",
+      "options": {
+        "option": [
+          {
+            "definition": "长度",
+            "iscorrect": false
+          },
+          {
+            "definition": "长度的状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "宽度",
+            "iscorrect": false
+          },
+          {
+            "definition": "冗长；过长",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "grassy",
+      "error_analysis": "学生易因形近词（如glassy/gassy）或词根误导（认为是“草的”而非“多草的状态”）误解词义",
+      "sentence": "The children rolled down the **grassy** slope, laughing as they went.",
+      "options": {
+        "option": [
+          {
+            "definition": "长满草的；草多的",
+            "iscorrect": true
+          },
+          {
+            "definition": "玻璃般的；光滑的",
+            "iscorrect": false
+          },
+          {
+            "definition": "草的；与草相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有气体的；胀气的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

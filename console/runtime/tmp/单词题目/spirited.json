@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "spirited",
+      "error_analysis": "混淆形近词\"spiritual\"(精神的;宗教的)或词根\"spirit\"(灵魂)字面误导,误将\"spirited\"理解为\"精神的\"或\"有灵魂的\"",
+      "sentence": "The team put up a **spirited** fight in the final match, refusing to give up until the last minute.",
+      "options": {
+        "option": [
+          {
+            "definition": "精力充沛的；顽强的",
+            "iscorrect": true
+          },
+          {
+            "definition": "精神的；宗教的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有灵魂的；幽灵的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无精打采的；消沉的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

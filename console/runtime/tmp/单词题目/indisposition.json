@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "indisposition",
+      "error_analysis": "学生易因形近词“disposition”（性格、倾向）或词根“in-+disposition”错误理解为“性格不好”或“不愿意做某事”，忽略其“轻微身体不适”的核心义。",
+      "sentence": "She called in sick this morning due to a slight **indisposition**, probably a headache from last night's stress.",
+      "options": {
+        "option": [
+          {
+            "definition": "轻微不适；小病",
+            "iscorrect": true
+          },
+          {
+            "definition": "性格缺陷；不良倾向",
+            "iscorrect": false
+          },
+          {
+            "definition": "不愿意；不乐意",
+            "iscorrect": false
+          },
+          {
+            "definition": "冷漠；不关心",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

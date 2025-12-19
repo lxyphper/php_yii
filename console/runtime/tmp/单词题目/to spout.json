@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to spout",
+      "error_analysis": "学生易因形近词“sprout”（发芽）混淆，或误将动词义理解为名词“喷口”的字面引申（如“喷出液体”）。",
+      "sentence": "The self-proclaimed expert kept **spouting** false information about the disease during the interview.",
+      "options": {
+        "option": [
+          {
+            "definition": "发芽",
+            "iscorrect": false
+          },
+          {
+            "definition": "（液体等）喷出",
+            "iscorrect": false
+          },
+          {
+            "definition": "滔滔不绝地说（常带贬义）",
+            "iscorrect": true
+          },
+          {
+            "definition": "安装喷口",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

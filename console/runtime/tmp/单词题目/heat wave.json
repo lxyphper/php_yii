@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "heat wave",
+      "error_analysis": "学生易将\"heat wave\"字面直译为\"热波\"或\"热的波浪\"，而非正确的\"热浪\"（指持续高温天气）",
+      "sentence": "The city is expecting a severe **heat wave** this weekend, with temperatures reaching 40°C.",
+      "options": {
+        "option": [
+          {
+            "definition": "热浪（持续的高温天气）",
+            "iscorrect": true
+          },
+          {
+            "definition": "热的波浪（如水中的热浪）",
+            "iscorrect": false
+          },
+          {
+            "definition": "热的挥手（如用手扇热）",
+            "iscorrect": false
+          },
+          {
+            "definition": "热的波动（温度的小幅变化）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

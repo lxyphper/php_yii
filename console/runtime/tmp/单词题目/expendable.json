@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "expendable",
+      "error_analysis": "易与形近词expandable（可扩展的）混淆，或因词根expend（花费）误导为\"可花费的\"，忽略其\"可牺牲的\"引申义",
+      "sentence": "The commander viewed the new recruits as **expendable**, sending them into the most dangerous mission without hesitation.",
+      "options": {
+        "option": [
+          {
+            "definition": "可扩展的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可花费的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可牺牲的；不值得保留的",
+            "iscorrect": true
+          },
+          {
+            "definition": "消耗性的（一次性的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

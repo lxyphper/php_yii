@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "vigorous",
+      "error_analysis": "学生易因形近词rigorous（严格的）及词根关联vigilant（警惕的），将vigorous误判为“严格的”或“警惕的”",
+      "sentence": "She gave a **vigorous** speech that inspired everyone in the room.",
+      "options": {
+        "option": [
+          {
+            "definition": "有活力的；充满热情的",
+            "iscorrect": true
+          },
+          {
+            "definition": "严格的",
+            "iscorrect": false
+          },
+          {
+            "definition": "警惕的",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

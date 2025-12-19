@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mower",
+      "error_analysis": "学生易因形近词“lower”（更低）产生视觉混淆，或误将“mower”理解为“割草的人”（词根“mow”+“-er”的过度推导）",
+      "sentence": "My dad uses a **mower** every weekend to keep the lawn neat.",
+      "options": {
+        "option": [
+          {
+            "definition": "割草机",
+            "iscorrect": true
+          },
+          {
+            "definition": "更低的物体",
+            "iscorrect": false
+          },
+          {
+            "definition": "割草的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "塔状结构",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

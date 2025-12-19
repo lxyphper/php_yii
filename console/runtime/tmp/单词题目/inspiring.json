@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "inspiring",
+      "error_analysis": "中国学生易因形近词\"expiring\"(到期的)混淆，或因词根\"spire\"(呼吸)误判为\"吸入的\"，忽略其\"鼓舞人心\"的核心义。",
+      "sentence": "The teacher shared a(n) **inspiring** story about a student who overcame all obstacles to achieve his dream.",
+      "options": {
+        "option": [
+          {
+            "definition": "鼓舞人心的",
+            "iscorrect": true
+          },
+          {
+            "definition": "到期的",
+            "iscorrect": false
+          },
+          {
+            "definition": "吸入的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人困惑的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

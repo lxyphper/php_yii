@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "physiology",
+      "error_analysis": "中国学生易将“physiology”与形近词“psychology”（心理学）混淆，或因词根“physi-”错误推导为“物理学”或“体育学”。",
+      "sentence": "In her **physiology** class, Emma studied how the kidneys filter waste from the blood and how hormones regulate metabolism.",
+      "options": {
+        "option": [
+          {
+            "definition": "心理学",
+            "iscorrect": false
+          },
+          {
+            "definition": "物理学",
+            "iscorrect": false
+          },
+          {
+            "definition": "生理学",
+            "iscorrect": true
+          },
+          {
+            "definition": "体育学",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

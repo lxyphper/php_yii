@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "delinquency",
+      "error_analysis": "学生易因词根“de-”（离开）和“linqu-”（留下）猜测为“未履行义务”，或因形近词“delinquent”混淆为“犯罪的人”。",
+      "sentence": "The city has launched a new program to reduce juvenile **delinquency** by providing after-school activities for teens.",
+      "options": {
+        "option": [
+          {
+            "definition": "（尤指青少年的）犯罪行为",
+            "iscorrect": true
+          },
+          {
+            "definition": "依赖或依靠的状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "未履行义务或拖欠的情况",
+            "iscorrect": false
+          },
+          {
+            "definition": "犯罪的人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

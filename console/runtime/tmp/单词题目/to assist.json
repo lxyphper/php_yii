@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to assist",
+      "error_analysis": "中国学生易因形近词\"insist\"误判为\"坚持\"，或因词根字面义\"站在旁边\"误解为\"陪伴\"",
+      "sentence": "The volunteer offered to **assist** the elderly woman with carrying her groceries.",
+      "options": {
+        "option": [
+          {
+            "definition": "帮助",
+            "iscorrect": true
+          },
+          {
+            "definition": "坚持",
+            "iscorrect": false
+          },
+          {
+            "definition": "陪伴",
+            "iscorrect": false
+          },
+          {
+            "definition": "反对",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

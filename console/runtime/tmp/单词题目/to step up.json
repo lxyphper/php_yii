@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to step up",
+      "error_analysis": "学生易因\"step\"(脚步)和\"up\"(向上)的字面意思，误解为\"向上走\"或\"迈出脚步\"，忽略其\"加强/增加\"的抽象含义",
+      "sentence": "The company decided to **step up** its marketing campaign to boost sales.",
+      "options": {
+        "option": [
+          {
+            "definition": "加强；增加",
+            "iscorrect": true
+          },
+          {
+            "definition": "向上走；迈出脚步",
+            "iscorrect": false
+          },
+          {
+            "definition": "增加步骤",
+            "iscorrect": false
+          },
+          {
+            "definition": "加快速度",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

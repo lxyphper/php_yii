@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "season",
+      "error_analysis": "学生易因形近词\"reason\"（原因）误判为\"原因\"，或因词根拆分\"sea\"+\"son\"联想到\"海洋生物\"等无关义。",
+      "sentence": "We usually go hiking in the autumn **season** when the leaves turn red and the weather is cool.",
+      "options": {
+        "option": [
+          {
+            "definition": "季节",
+            "iscorrect": true
+          },
+          {
+            "definition": "原因",
+            "iscorrect": false
+          },
+          {
+            "definition": "海洋生物",
+            "iscorrect": false
+          },
+          {
+            "definition": "儿子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

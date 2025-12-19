@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "really",
+      "error_analysis": "学生易因词根\"real\"（真实的）推导，将\"really\"误理解为\"真实地\"，忽略其\"非常/确实\"的常用义",
+      "sentence": "She **really** enjoyed the concert—she clapped and cheered for every song.",
+      "options": {
+        "option": [
+          {
+            "definition": "非常；确实",
+            "iscorrect": true
+          },
+          {
+            "definition": "真实地；实际上",
+            "iscorrect": false
+          },
+          {
+            "definition": "现实的",
+            "iscorrect": false
+          },
+          {
+            "definition": "真正的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

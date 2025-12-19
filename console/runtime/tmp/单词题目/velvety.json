@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "velvety",
+      "error_analysis": "学生易因形近词“velocity”（速度）将“velvety”误判为“快速的”，或因不熟悉词根“velvet”（天鹅绒）而无法联想其“柔软光滑的”含义。",
+      "sentence": "Her skin felt **velvety** to the touch, like a piece of soft silk.",
+      "options": {
+        "option": [
+          {
+            "definition": "快速的",
+            "iscorrect": false
+          },
+          {
+            "definition": "柔软光滑的",
+            "iscorrect": true
+          },
+          {
+            "definition": "蓬松的",
+            "iscorrect": false
+          },
+          {
+            "definition": "粗糙的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

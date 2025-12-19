@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "aesthetics",
+      "error_analysis": "中国学生易因形近词“athletics”（体育）的拼写/发音接近而误判，或因不熟悉词根“aesthe-”（感知）而猜测为运动或普通感知相关含义。",
+      "sentence": "The museum’s new exhibition focuses on the **aesthetics** of modern art, exploring how artists use color and form to evoke emotion.",
+      "options": {
+        "option": [
+          {
+            "definition": "美学（研究美、艺术和品味的哲学分支）",
+            "iscorrect": true
+          },
+          {
+            "definition": "体育（运动学，研究运动的学科）",
+            "iscorrect": false
+          },
+          {
+            "definition": "感知心理学（研究感官感知的心理学分支）",
+            "iscorrect": false
+          },
+          {
+            "definition": "伦理（研究道德原则的哲学分支）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

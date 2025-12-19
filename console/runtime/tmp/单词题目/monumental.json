@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "monumental",
+      "error_analysis": "学生易因形近词“monument”（纪念碑）误判为“与纪念碑相关的”，或因词根误导理解为“像纪念碑一样的”，忽略其“重大的、意义深远的”核心引申义",
+      "sentence": "The team's victory in the championship was a **monumental** moment for their fans, as it was their first win in 20 years.",
+      "options": {
+        "option": [
+          {
+            "definition": "与纪念碑相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "重大的；意义深远的",
+            "iscorrect": true
+          },
+          {
+            "definition": "像纪念碑一样的",
+            "iscorrect": false
+          },
+          {
+            "definition": "日常的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

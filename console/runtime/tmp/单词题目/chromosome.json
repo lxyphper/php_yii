@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "chromosome",
+      "error_analysis": "学生易因词根“chrom-”（颜色）联想到“彩色物质”（如染料），或因形近词“chrome”（铬）误认为“铬金属”。",
+      "sentence": "Doctors believe the abnormal **chromosome** is responsible for the child's developmental delays.",
+      "options": {
+        "option": [
+          {
+            "definition": "染色体",
+            "iscorrect": true
+          },
+          {
+            "definition": "彩色染料",
+            "iscorrect": false
+          },
+          {
+            "definition": "铬金属",
+            "iscorrect": false
+          },
+          {
+            "definition": "遗传基因",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

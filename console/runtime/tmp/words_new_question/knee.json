@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "knee",
+      "error_analysis": "学生易因形近词\"need\"（需要）的干扰，将\"knee\"错误理解为\"需要\"。",
+      "sentence": "She fell down and scraped her **knee** on the concrete.",
+      "options": {
+        "option": [
+          {
+            "definition": "膝盖",
+            "iscorrect": true
+          },
+          {
+            "definition": "需要",
+            "iscorrect": false
+          },
+          {
+            "definition": "刀",
+            "iscorrect": false
+          },
+          {
+            "definition": "跪",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

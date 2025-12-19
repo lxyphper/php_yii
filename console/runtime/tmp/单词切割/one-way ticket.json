@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "on-way ticket",
+      "one-way tiket",
+      "one-way tickit",
+      "one-way tcket"
+    ],
+    "correct_chunks": [
+      "one-",
+      "way",
+      "tick",
+      "et"
+    ],
+    "distractor_chunks": [
+      "on-",
+      "tik",
+      "it",
+      "tck"
+    ]
+  },
+  0
+]

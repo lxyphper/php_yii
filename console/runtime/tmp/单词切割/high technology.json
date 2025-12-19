@@ -1,0 +1,26 @@
+[
+  {
+    "common_misspellings": [
+      "higtechnology",
+      "hightechology",
+      "hightechonology",
+      "highttechnology",
+      "hightecknology"
+    ],
+    "correct_chunks": [
+      "high",
+      "tech",
+      "no",
+      "lo",
+      "gy"
+    ],
+    "distractor_chunks": [
+      "hig",
+      "techlo",
+      "techon",
+      "hight",
+      "teck"
+    ]
+  },
+  0
+]

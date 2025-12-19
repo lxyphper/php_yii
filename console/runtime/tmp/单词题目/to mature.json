@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to mature",
+      "error_analysis": "将'mature'与形近词'nature'混淆，误理解为'变得自然'",
+      "sentence": "The tomatoes will **mature** in about two weeks, so we can pick them then.",
+      "options": {
+        "option": [
+          {
+            "definition": "（使）成熟；成长",
+            "iscorrect": true
+          },
+          {
+            "definition": "变得自然",
+            "iscorrect": false
+          },
+          {
+            "definition": "使变老",
+            "iscorrect": false
+          },
+          {
+            "definition": "保持新鲜",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

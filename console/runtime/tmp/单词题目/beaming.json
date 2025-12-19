@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "beaming",
+      "error_analysis": "学生易因形近词“bearing”（举止）或词根“beam”（光束）误将“beaming”理解为“举止端庄的”或“发光的”。",
+      "sentence": "When she heard she got the job, her face broke into a **beaming** smile that made everyone around feel happy too.",
+      "options": {
+        "option": [
+          {
+            "definition": "笑容满面的",
+            "iscorrect": true
+          },
+          {
+            "definition": "举止端庄的",
+            "iscorrect": false
+          },
+          {
+            "definition": "发光的",
+            "iscorrect": false
+          },
+          {
+            "definition": "疲惫不堪的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

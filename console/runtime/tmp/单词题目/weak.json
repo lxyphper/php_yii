@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "weak",
+      "error_analysis": "学生易混淆形近词\"week\"（星期），导致将\"weak\"误理解为时间相关概念",
+      "sentence": "She couldn’t lift the box because she was feeling **weak** after the long run.",
+      "options": {
+        "option": [
+          {
+            "definition": "虚弱的；薄弱的",
+            "iscorrect": true
+          },
+          {
+            "definition": "星期",
+            "iscorrect": false
+          },
+          {
+            "definition": "醒来的",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

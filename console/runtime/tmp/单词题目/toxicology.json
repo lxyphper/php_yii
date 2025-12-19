@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "toxicology",
+      "error_analysis": "学生易因形近词\"technology\"（技术）干扰，或词根误解为\"有毒物质\"（而非毒理学学科）",
+      "sentence": "Scientists used **toxicology** to analyze how the new pesticide affects bees and other pollinators.",
+      "options": {
+        "option": [
+          {
+            "definition": "毒理学（研究毒物对生物影响的学科）",
+            "iscorrect": true
+          },
+          {
+            "definition": "技术（尤其是高科技领域的应用）",
+            "iscorrect": false
+          },
+          {
+            "definition": "有毒物质（如农业或工业中的有害化学物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "药物学（研究药物成分与疗效的学科）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

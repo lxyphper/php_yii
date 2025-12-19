@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "failure",
+      "error_analysis": "中国学生易因形近词（如furniture/feature）或fall词根误导，将failure误理解为家具、特征或跌倒。",
+      "sentence": "The team's repeated mistakes led to the **failure** of the experiment.",
+      "options": {
+        "option": [
+          {
+            "definition": "失败",
+            "iscorrect": true
+          },
+          {
+            "definition": "家具",
+            "iscorrect": false
+          },
+          {
+            "definition": "跌倒",
+            "iscorrect": false
+          },
+          {
+            "definition": "特征",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

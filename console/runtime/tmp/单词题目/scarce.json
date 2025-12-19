@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "scarce",
+      "error_analysis": "学生易因形近词\"scare\"(害怕)或\"scar\"(伤疤)误将\"scarce\"理解为\"可怕的\"或\"有伤疤的\"",
+      "sentence": "During the drought, water became **scarce**, so people had to ration it carefully.",
+      "options": {
+        "option": [
+          {
+            "definition": "稀缺的；不足的",
+            "iscorrect": true
+          },
+          {
+            "definition": "可怕的；令人恐惧的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有伤疤的；留下疤痕的",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速的；敏捷的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

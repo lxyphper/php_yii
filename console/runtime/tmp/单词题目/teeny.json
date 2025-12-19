@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "teeny",
+      "error_analysis": "学生易因形近词“teen”（青少年）误将“teeny”理解为“与青少年相关的”",
+      "sentence": "She found a **teeny** key in the bottom of her bag, just small enough to fit the tiny lock on the jewelry box.",
+      "options": {
+        "option": [
+          {
+            "definition": "极小的，很小的",
+            "iscorrect": true
+          },
+          {
+            "definition": "青少年的",
+            "iscorrect": false
+          },
+          {
+            "definition": "十个的",
+            "iscorrect": false
+          },
+          {
+            "definition": "尖锐的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

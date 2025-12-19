@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "easy",
+      "error_analysis": "混淆形近词“ease”（安逸/放松）导致误将“easy”理解为“安逸的”而非“容易的”",
+      "sentence": "The math problem is so **easy** that even a 10-year-old can solve it.",
+      "options": {
+        "option": [
+          {
+            "definition": "容易的；简单的",
+            "iscorrect": true
+          },
+          {
+            "definition": "安逸的；舒适的",
+            "iscorrect": false
+          },
+          {
+            "definition": "放松的；不紧张的",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速的；敏捷的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

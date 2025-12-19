@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "matriarchy",
+      "error_analysis": "学生易因形近词\"monarchy\"(君主制)混淆，或词根\"matri-\"与\"patri-\"（父权制）混淆而误判",
+      "sentence": "In some traditional societies, a **matriarchy** exists where women inherit property and lead the community.",
+      "options": {
+        "option": [
+          {
+            "definition": "君主制",
+            "iscorrect": false
+          },
+          {
+            "definition": "父权制",
+            "iscorrect": false
+          },
+          {
+            "definition": "母性崇拜",
+            "iscorrect": false
+          },
+          {
+            "definition": "母权制（母系社会）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to grouse",
+      "error_analysis": "学生易因形近词\"rouse\"(唤醒)误解为\"唤醒\"，或因名词\"grouse\"(松鸡)误解为\"猎捕松鸡\"",
+      "sentence": "Sarah tends to **grouse** about her job whenever we meet for coffee.",
+      "options": {
+        "option": [
+          {
+            "definition": "抱怨，发牢骚",
+            "iscorrect": true
+          },
+          {
+            "definition": "唤醒，激发",
+            "iscorrect": false
+          },
+          {
+            "definition": "猎捕松鸡",
+            "iscorrect": false
+          },
+          {
+            "definition": "变得恶心",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

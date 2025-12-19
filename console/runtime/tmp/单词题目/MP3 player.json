@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "MP3 player",
+      "error_analysis": "学生易将\"MP3 player\"误解为\"喜欢听MP3的人\"（混淆\"player\"的\"人\"义项）或\"编辑MP3的软件\"（字面推导功能错误）",
+      "sentence": "I found my old **MP3 player** in the drawer; it still works and can play all my favorite songs from high school.",
+      "options": {
+        "option": [
+          {
+            "definition": "一种播放MP3格式音乐的电子设备",
+            "iscorrect": true
+          },
+          {
+            "definition": "喜欢听MP3音乐的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "用于编辑MP3文件的电脑软件",
+            "iscorrect": false
+          },
+          {
+            "definition": "MP3格式的音频文件",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

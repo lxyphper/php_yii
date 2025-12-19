@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "antidote",
+      "error_analysis": "学生易因形近词\"antique\"(古董)混淆,或因\"anti-\"前缀误联想为\"抗体\"或\"抗生素\"。",
+      "sentence": "After being bitten by a poisonous snake, she was rushed to the hospital and given an **antidote** to neutralize the venom.",
+      "options": {
+        "option": [
+          {
+            "definition": "解药；中和毒素的药物",
+            "iscorrect": true
+          },
+          {
+            "definition": "古董；古老的物品",
+            "iscorrect": false
+          },
+          {
+            "definition": "抗体；身体对抗病原体的物质",
+            "iscorrect": false
+          },
+          {
+            "definition": "抗生素；杀死细菌的药物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

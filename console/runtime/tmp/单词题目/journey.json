@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "journey",
+      "error_analysis": "中国学生易因形近词\"journal\"（日记）混淆词义，或因\"journ-\"（day）词根误导为\"日常活动\"",
+      "sentence": "After a long **journey** across the desert, the explorers finally reached the oasis.",
+      "options": {
+        "option": [
+          {
+            "definition": "旅行；行程",
+            "iscorrect": true
+          },
+          {
+            "definition": "日记；日志",
+            "iscorrect": false
+          },
+          {
+            "definition": "日常活动；每日任务",
+            "iscorrect": false
+          },
+          {
+            "definition": "观光游览；巡回演出",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

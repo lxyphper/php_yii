@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "skydiving",
+      "error_analysis": "学生易通过字面拆分\"sky\"+\"diving\"错误理解为\"高空潜水\"，忽略其作为固定词表示\"跳伞\"的含义",
+      "sentence": "Lucy was nervous but excited when she tried **skydiving** for the first time—jumping out of a plane at 12,000 feet was unforgettable!",
+      "options": {
+        "option": [
+          {
+            "definition": "跳伞运动",
+            "iscorrect": true
+          },
+          {
+            "definition": "高空潜水",
+            "iscorrect": false
+          },
+          {
+            "definition": "滑雪运动",
+            "iscorrect": false
+          },
+          {
+            "definition": "天空滑翔",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "may",
+      "error_analysis": "学生易将情态动词“may”（可以/可能）与形近的名词“May”（五月）或“pay”（支付）混淆，导致词义判断错误",
+      "sentence": "You **may** use my pen if you need it.",
+      "options": {
+        "option": [
+          {
+            "definition": "可以（表示许可）",
+            "iscorrect": true
+          },
+          {
+            "definition": "五月（月份）",
+            "iscorrect": false
+          },
+          {
+            "definition": "必须（表示义务）",
+            "iscorrect": false
+          },
+          {
+            "definition": "支付（给钱）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

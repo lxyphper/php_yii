@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "posology",
+      "error_analysis": "易因形近词\"psychology\"(心理学)混淆，或因词根\"pos\"被误解为\"位置\"而猜测为与位置相关的学科",
+      "sentence": "The doctor emphasized that understanding **posology** is crucial for avoiding medication overdoses, as it focuses on determining the right amount of a drug for each patient.",
+      "options": {
+        "option": [
+          {
+            "definition": "心理学（研究心理活动与行为的学科）",
+            "iscorrect": false
+          },
+          {
+            "definition": "剂量学（研究用药剂量的医学学科）",
+            "iscorrect": true
+          },
+          {
+            "definition": "位置学（研究物体空间位置的学科）",
+            "iscorrect": false
+          },
+          {
+            "definition": "符号学（研究符号与意义的学科）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

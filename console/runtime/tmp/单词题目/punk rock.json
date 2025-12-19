@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "punk rock",
+      "error_analysis": "学生易因“rock”字面义“岩石”或“punk”与“pink”形近，误将“punk rock”理解为矿物或非音乐类型。",
+      "sentence": "Many teenagers in the 1970s were fascinated by **punk rock**, a genre of music characterized by fast beats, loud guitars, and a rebellious attitude.",
+      "options": {
+        "option": [
+          {
+            "definition": "朋克摇滚（一种以快节奏、 loud 吉他和叛逆态度为特征的音乐类型）",
+            "iscorrect": true
+          },
+          {
+            "definition": "粉色岩石（一种颜色为粉色的矿物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "朋克风格的岩石（具有朋克元素的岩石）",
+            "iscorrect": false
+          },
+          {
+            "definition": "流氓摇滚（由小流氓演奏的摇滚音乐）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "on purpose",
+      "error_analysis": "学生易将\"on purpose\"字面拆分为\"在目的上\"或\"关于目的\"，忽略其副词短语\"故意地\"的核心词义",
+      "sentence": "The boy said he didn’t break the window **on purpose**, but I saw him smile when it happened.",
+      "options": {
+        "option": [
+          {
+            "definition": "故意地；有意地",
+            "iscorrect": true
+          },
+          {
+            "definition": "在目的上；关于目的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有目的的；为了目的的",
+            "iscorrect": false
+          },
+          {
+            "definition": "通过目的；凭借目的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hideous",
+      "error_analysis": "将\"hideous\"误判为与\"hide（隐藏）\"相关的含义，如\"隐藏的\"或\"隐秘的\"",
+      "sentence": "The old house had a **hideous** paint job—bright pink with neon green stripes—that made it stand out in the neighborhood for all the wrong reasons.",
+      "options": {
+        "option": [
+          {
+            "definition": "极其丑陋的；令人厌恶的",
+            "iscorrect": true
+          },
+          {
+            "definition": "隐藏的；难以发现的",
+            "iscorrect": false
+          },
+          {
+            "definition": "危险的；有危害的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无聊的；乏味的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

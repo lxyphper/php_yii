@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to alleviate",
+      "error_analysis": "易因形近词\"elevate\"(提升)及词根\"lev\"(轻)的字面误导,误判为\"提升\"或\"减轻重量\"",
+      "sentence": "The new cream helped to **alleviate** the itching caused by the rash, making her more comfortable.",
+      "options": {
+        "option": [
+          {
+            "definition": "缓解（痛苦、不适等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "提升；抬高",
+            "iscorrect": false
+          },
+          {
+            "definition": "减轻重量",
+            "iscorrect": false
+          },
+          {
+            "definition": "加速；加快",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

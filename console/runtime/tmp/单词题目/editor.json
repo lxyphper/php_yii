@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "editor",
+      "error_analysis": "学生易因形近词“actor”（演员）的“-tor”结尾混淆职业类型，或因词根“edit”误导以为是“编辑的内容”而非“编辑者”。",
+      "sentence": "The **editor** of the magazine decided to publish the article after making some changes.",
+      "options": {
+        "option": [
+          {
+            "definition": "编辑",
+            "iscorrect": true
+          },
+          {
+            "definition": "演员",
+            "iscorrect": false
+          },
+          {
+            "definition": "编辑的内容",
+            "iscorrect": false
+          },
+          {
+            "definition": "导演",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "random-access memory",
+      "error_analysis": "学生易因\"access\"与\"assess\"形近误读为\"random-assess memory\"，或因\"random-access\"直译为\"随机访问\"而误解为非计算机术语的\"随意记忆\"",
+      "sentence": "When you open a new app on your computer, it loads data into the **random-access memory** so that the CPU can quickly access it while the app is running.",
+      "options": {
+        "option": [
+          {
+            "definition": "随机存取内存（计算机中用于临时存储正在运行的程序数据的内存，通常缩写为 RAM）",
+            "iscorrect": true
+          },
+          {
+            "definition": "随机评估记忆（错误地将\"access\"误读为形近词\"assess\"，意为评估）",
+            "iscorrect": false
+          },
+          {
+            "definition": "随意访问的记忆（将\"random-access\"直译为\"随意访问\"，未理解其计算机术语含义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "固定存储记忆（用于长期保存数据的内存，如硬盘或 ROM）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

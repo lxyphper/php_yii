@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "trauma",
+      "error_analysis": "学生易因形近词\"drama\"（戏剧）混淆，或词根\"tra-\"错误猜测为转移相关含义。",
+      "sentence": "After the car accident, she suffered from severe **trauma** that made it hard for her to get in a car again.",
+      "options": {
+        "option": [
+          {
+            "definition": "创伤（身体或心理上的伤害）",
+            "iscorrect": true
+          },
+          {
+            "definition": "戏剧；闹剧",
+            "iscorrect": false
+          },
+          {
+            "definition": "转移；运输",
+            "iscorrect": false
+          },
+          {
+            "definition": "肿瘤；肿块",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

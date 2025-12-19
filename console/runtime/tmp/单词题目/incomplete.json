@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "incomplete",
+      "error_analysis": "学生易因形近词\"incomprehensible\"（难以理解的）或词根混淆（将\"complete\"误作\"理解\"）而误解\"incomplete\"为\"难以理解的\"或\"不理解的\"",
+      "sentence": "The essay was returned to the student because it was **incomplete**—the third paragraph was missing.",
+      "options": {
+        "option": [
+          {
+            "definition": "未完成的；不完整的",
+            "iscorrect": true
+          },
+          {
+            "definition": "难以理解的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不理解的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无能的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

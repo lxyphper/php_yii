@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to admit",
+      "error_analysis": "学生易因形近词“permit”（允许）混淆“admit”的核心义“承认”，或因词根“mit”（发送）误判为“提交”（submit）。",
+      "sentence": "After hours of questioning, the suspect finally decided to **admit** his role in the robbery.",
+      "options": {
+        "option": [
+          {
+            "definition": "承认（错误、事实等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "允许（做某事）",
+            "iscorrect": false
+          },
+          {
+            "definition": "提交（文件、申请等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "省略（细节、部分等）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

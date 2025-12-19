@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "surface",
+      "error_analysis": "学生易因\"face\"（脸）的词根联想将\"surface\"误解为\"脸\"，或因形近词\"surf\"（冲浪）混淆词义",
+      "sentence": "The artist painted a beautiful landscape on the **surface** of the canvas.",
+      "options": {
+        "option": [
+          {
+            "definition": "（物体的）表面",
+            "iscorrect": true
+          },
+          {
+            "definition": "脸；面部",
+            "iscorrect": false
+          },
+          {
+            "definition": "冲浪",
+            "iscorrect": false
+          },
+          {
+            "definition": "惊喜",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "then",
+      "error_analysis": "学生易因形近混淆“then”（然后/那时）与“than”（比），或误将其理解为“当...时”（when）。",
+      "sentence": "She finished her homework, **then** she played with her friends in the park.",
+      "options": {
+        "option": [
+          {
+            "definition": "然后；那时",
+            "iscorrect": true
+          },
+          {
+            "definition": "比（用于比较）",
+            "iscorrect": false
+          },
+          {
+            "definition": "当...时（引导定语从句）",
+            "iscorrect": false
+          },
+          {
+            "definition": "那里（指地点）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

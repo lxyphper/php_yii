@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "grave",
+      "error_analysis": "中国学生易因形近词“grace”（优雅）混淆“grave”词义，或误将其形容词义“严重的”等同于名词义“坟墓”。",
+      "sentence": "The doctor warned that the patient's condition was **grave** and required immediate treatment.",
+      "options": {
+        "option": [
+          {
+            "definition": "严重的",
+            "iscorrect": true
+          },
+          {
+            "definition": "优雅的",
+            "iscorrect": false
+          },
+          {
+            "definition": "坟墓的",
+            "iscorrect": false
+          },
+          {
+            "definition": "悲伤的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

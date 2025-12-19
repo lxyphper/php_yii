@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cubic",
+      "error_analysis": "学生易因词根“cub”（幼崽）误导认为“cubic”与“幼崽”相关，或因形近词“cube”（立方体）误判为名词“立方体”",
+      "sentence": "A **cubic** meter is equal to 1000 liters.",
+      "options": {
+        "option": [
+          {
+            "definition": "立方的；用于测量体积的",
+            "iscorrect": true
+          },
+          {
+            "definition": "幼崽的；像幼崽的",
+            "iscorrect": false
+          },
+          {
+            "definition": "立方体（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "杯子形状的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

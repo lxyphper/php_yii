@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "blister",
+      "error_analysis": "学生易因形近词\"sister\"（姐妹）或发音接近词\"glister\"（闪烁）误判\"blister\"的含义",
+      "sentence": "After hiking in tight shoes all day, his feet began to **blister** and he could barely walk.",
+      "options": {
+        "option": [
+          {
+            "definition": "姐妹",
+            "iscorrect": false
+          },
+          {
+            "definition": "闪烁",
+            "iscorrect": false
+          },
+          {
+            "definition": "水疱；起水疱",
+            "iscorrect": true
+          },
+          {
+            "definition": "咆哮",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

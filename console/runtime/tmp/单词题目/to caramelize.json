@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to caramelize",
+      "error_analysis": "学生易因形近词（如carbonize，碳化）或词根字面误导（误判为“添加焦糖”）而误解词义",
+      "sentence": "To make crème brûlée, you need to **caramelize** the sugar on top with a blowtorch.",
+      "options": {
+        "option": [
+          {
+            "definition": "使焦糖化（通过加热使糖变成焦糖）",
+            "iscorrect": true
+          },
+          {
+            "definition": "碳化（使变成碳）",
+            "iscorrect": false
+          },
+          {
+            "definition": "添加焦糖（到食物中）",
+            "iscorrect": false
+          },
+          {
+            "definition": "融化（固体，如糖）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

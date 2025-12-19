@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hardware",
+      "error_analysis": "易因形近词\"wear\"（穿）误判为与衣物相关，或因\"hard\"+\"ware\"直译为\"硬器皿\"",
+      "sentence": "Before buying a new laptop, make sure to check the **hardware** specifications like the processor and RAM.",
+      "options": {
+        "option": [
+          {
+            "definition": "（计算机或电子设备的）硬件",
+            "iscorrect": true
+          },
+          {
+            "definition": "耐磨的衣物",
+            "iscorrect": false
+          },
+          {
+            "definition": "坚硬的器皿",
+            "iscorrect": false
+          },
+          {
+            "definition": "困难的工作",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

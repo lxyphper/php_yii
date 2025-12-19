@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to master",
+      "error_analysis": "学生可能因形近词\"muster\"(集合)或名词\"master\"(主人)的字面联想，将动词\"to master\"误解为\"集合\"或\"成为主人\"。",
+      "sentence": "After years of practice, she finally managed to **master** the art of calligraphy.",
+      "options": {
+        "option": [
+          {
+            "definition": "掌握；精通",
+            "iscorrect": true
+          },
+          {
+            "definition": "集合；召集",
+            "iscorrect": false
+          },
+          {
+            "definition": "成为主人；统治",
+            "iscorrect": false
+          },
+          {
+            "definition": "学习；学会",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

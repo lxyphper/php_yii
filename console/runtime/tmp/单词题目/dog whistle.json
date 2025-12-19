@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dog whistle",
+      "error_analysis": "学生易将\"dog whistle\"字面直译为\"狗用的哨子\"，忽略其\"针对特定群体的隐晦暗示\"这一比喻义。",
+      "sentence": "The politician's comment about \"protecting our culture\" was a **dog whistle** that only his loyal followers picked up on.",
+      "options": {
+        "option": [
+          {
+            "definition": "狗用的哨子（发出高频声音，仅狗能听见）",
+            "iscorrect": false
+          },
+          {
+            "definition": "模仿狗叫的玩具哨子",
+            "iscorrect": false
+          },
+          {
+            "definition": "针对特定群体的隐晦暗示（如政治或文化信号）",
+            "iscorrect": true
+          },
+          {
+            "definition": "狗追逐哨子的户外游戏",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

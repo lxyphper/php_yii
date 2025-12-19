@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "confounding",
+      "error_analysis": "学生易因形近词\"concluding\"（结论的）或词根\"found\"（建立）误将\"confounding\"理解为\"结论性的\"或\"建立的\"",
+      "sentence": "The results of the experiment were **confounding**—none of the scientists had predicted such an unexpected outcome.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人困惑的；费解的",
+            "iscorrect": true
+          },
+          {
+            "definition": "结论性的；决定性的",
+            "iscorrect": false
+          },
+          {
+            "definition": "建立的；创办的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人信服的；有说服力的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

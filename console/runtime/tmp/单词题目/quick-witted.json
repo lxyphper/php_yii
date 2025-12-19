@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "quick-witted",
+      "error_analysis": "学生易因与\"quick-tempered\"（急性子的）结构相似误判，或因\"wit\"的\"幽默\"义项误以为是\"有幽默感的\"",
+      "sentence": "When the teacher asked a tricky question, the **quick-witted** boy gave the correct answer within seconds.",
+      "options": {
+        "option": [
+          {
+            "definition": "急性子的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有幽默感的",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速的",
+            "iscorrect": false
+          },
+          {
+            "definition": "机智的，反应快的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

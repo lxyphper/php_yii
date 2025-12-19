@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rubbery",
+      "error_analysis": "学生易因形近词\"rubbish\"（垃圾）误解为\"垃圾的\"，或因词根\"rub\"（摩擦）误解为\"摩擦的\"",
+      "sentence": "The squid rings were overcooked—they became **rubbery** and hard to bite through.",
+      "options": {
+        "option": [
+          {
+            "definition": "垃圾的；劣质的",
+            "iscorrect": false
+          },
+          {
+            "definition": "摩擦的；易产生摩擦的",
+            "iscorrect": false
+          },
+          {
+            "definition": "橡胶似的；有弹性的（形容材质或口感）",
+            "iscorrect": true
+          },
+          {
+            "definition": "红色的；红润的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mammoth",
+      "error_analysis": "学生易因形近词\"mammal\"(哺乳动物)混淆，或因\"mamm-\"词根误联想为\"乳房相关\"，忽略其\"巨大的\"核心形容词义。",
+      "sentence": "The construction of the new high-speed rail line is a **mammoth** task that requires thousands of workers and billions of dollars.",
+      "options": {
+        "option": [
+          {
+            "definition": "巨大的（形容规模、体积或难度极大）",
+            "iscorrect": true
+          },
+          {
+            "definition": "哺乳动物（如牛、羊等胎生且哺乳的动物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "与乳房或哺乳相关的（如乳腺组织）",
+            "iscorrect": false
+          },
+          {
+            "definition": "记忆中的（指存在于回忆里的事物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

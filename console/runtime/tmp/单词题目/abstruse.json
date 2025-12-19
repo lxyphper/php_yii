@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "abstruse",
+      "error_analysis": "学生易因形近词“abstract”（抽象的）混淆，或因词根字面义误判为“隐藏的”。",
+      "sentence": "The professor's explanation of quantum physics was so **abstruse** that most students couldn't follow along.",
+      "options": {
+        "option": [
+          {
+            "definition": "深奥的，难懂的",
+            "iscorrect": true
+          },
+          {
+            "definition": "抽象的",
+            "iscorrect": false
+          },
+          {
+            "definition": "复杂的",
+            "iscorrect": false
+          },
+          {
+            "definition": "隐藏的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

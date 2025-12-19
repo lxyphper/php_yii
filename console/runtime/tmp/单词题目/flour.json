@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "flour",
+      "error_analysis": "中国学生易因形近词flower（花）或发音接近的floor（地板）而误判flour的词义",
+      "sentence": "She needs to buy some **flour** to make bread for breakfast.",
+      "options": {
+        "option": [
+          {
+            "definition": "面粉",
+            "iscorrect": true
+          },
+          {
+            "definition": "花",
+            "iscorrect": false
+          },
+          {
+            "definition": "地板",
+            "iscorrect": false
+          },
+          {
+            "definition": "水果",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "supportive",
+      "error_analysis": "学生易因形近词\"suppose\"联想误判为\"假设的\"，或因词根\"support\"字面误导局限为\"有支撑功能的\"（非情感支持的核心词义）",
+      "sentence": "When Lily was going through a hard time, her best friend was always **supportive**, listening to her and offering help.",
+      "options": {
+        "option": [
+          {
+            "definition": "支持的（情感或态度上愿意给予帮助或鼓励的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "假设的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有支撑功能的",
+            "iscorrect": false
+          },
+          {
+            "definition": "补充的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

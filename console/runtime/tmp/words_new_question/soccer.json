@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "soccer",
+      "error_analysis": "学生易因形近词\"sock\"(袜子)干扰，误将\"soccer\"理解为\"袜子\"或相关物品",
+      "sentence": "The kids are playing **soccer** in the park with their new ball.",
+      "options": {
+        "option": [
+          {
+            "definition": "足球",
+            "iscorrect": true
+          },
+          {
+            "definition": "袜子",
+            "iscorrect": false
+          },
+          {
+            "definition": "社交聚会",
+            "iscorrect": false
+          },
+          {
+            "definition": "排球",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

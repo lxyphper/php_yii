@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "reader",
+      "error_analysis": "学生易混淆形近词“leader”（领袖），或误将“reader”理解为“阅读器”而非“读者”（指人语境下）。",
+      "sentence": "The **reader** of the story shared their thoughts in the comment section.",
+      "options": {
+        "option": [
+          {
+            "definition": "领袖（带领他人的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "读者（阅读某物的人）",
+            "iscorrect": true
+          },
+          {
+            "definition": "阅读器（用于阅读的设备）",
+            "iscorrect": false
+          },
+          {
+            "definition": "作者（撰写某物的人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

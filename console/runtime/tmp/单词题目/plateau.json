@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "plateau",
+      "error_analysis": "学生易因形近词“plate”（盘子）误判为“托盘/平板状物”，或因词根“plat”（平坦）错误联想为“平坦的低地”。",
+      "sentence": "The **plateau** in central Asia is home to many unique species adapted to high altitudes.",
+      "options": {
+        "option": [
+          {
+            "definition": "托盘；平板状物",
+            "iscorrect": false
+          },
+          {
+            "definition": "高原",
+            "iscorrect": true
+          },
+          {
+            "definition": "平坦的低地",
+            "iscorrect": false
+          },
+          {
+            "definition": "排（军队单位）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

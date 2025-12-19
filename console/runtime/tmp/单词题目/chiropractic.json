@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "chiropractic",
+      "error_analysis": "学生易通过词根“chiro-”（手）和“practic”（实践）猜测为“手部疗法”，或混淆形近词“chiropodist”（足病医生）误判为“足病治疗”。",
+      "sentence": "After months of chronic lower back pain, Lisa decided to try **chiropractic** to realign her spine and reduce discomfort without medication.",
+      "options": {
+        "option": [
+          {
+            "definition": "脊椎指压治疗法",
+            "iscorrect": true
+          },
+          {
+            "definition": "手部推拿疗法",
+            "iscorrect": false
+          },
+          {
+            "definition": "足病治疗法",
+            "iscorrect": false
+          },
+          {
+            "definition": "认知行为疗法",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

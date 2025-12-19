@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "symbiosis",
+      "error_analysis": "学生易因形近词“sympathy”（同情）或词根“sym-”+“bio-”过度推导，误将“symbiosis”理解为“同情”或“共同生物”，而非共生关系。",
+      "sentence": "The clownfish and anemone have a **symbiosis** where the clownfish gets protection and the anemone gets food scraps.",
+      "options": {
+        "option": [
+          {
+            "definition": "对他人的同情",
+            "iscorrect": false
+          },
+          {
+            "definition": "共同的生物种类",
+            "iscorrect": false
+          },
+          {
+            "definition": "（两种生物间的）共生关系",
+            "iscorrect": true
+          },
+          {
+            "definition": "科学研讨会",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

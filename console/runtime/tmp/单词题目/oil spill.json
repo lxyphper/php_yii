@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "oil spill",
+      "error_analysis": "学生易因“spill”与“splash”（溅水）形近及字面义（溢出）的误导，将“oil spill”误理解为“油溅”（小范围溅出）或“油的溢出动作”（而非大规模泄漏事件）",
+      "sentence": "The 2010 Deepwater Horizon accident caused a huge **oil spill** that polluted hundreds of miles of coastline.",
+      "options": {
+        "option": [
+          {
+            "definition": "石油泄漏事件（大规模的石油泄漏事故）",
+            "iscorrect": true
+          },
+          {
+            "definition": "油溅（小范围的油滴溅出）",
+            "iscorrect": false
+          },
+          {
+            "definition": "油的溢出动作（如倒油时的洒出）",
+            "iscorrect": false
+          },
+          {
+            "definition": "油井（开采石油的地下井）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "savory",
+      "error_analysis": "学生易因形近词“savior”（救世主）或词根“save”（拯救）误将“savory”理解为“拯救的”或“安全的”，而非其核心义“美味的（咸香的）”。",
+      "sentence": "The roasted chicken had a rich, **savory** flavor that made everyone ask for seconds.",
+      "options": {
+        "option": [
+          {
+            "definition": "美味的（咸香的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "拯救的；救世主的",
+            "iscorrect": false
+          },
+          {
+            "definition": "安全的；保护的",
+            "iscorrect": false
+          },
+          {
+            "definition": "甜的；含糖的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

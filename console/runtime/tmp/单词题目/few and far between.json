@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "few and far between",
+      "error_analysis": "学生易将\"few\"\"far\"\"between\"字面拼接，误解为\"距离遥远的\"或\"两者之间的少数\"，忽略短语整体含义",
+      "sentence": "In this small village, shops that sell fresh organic vegetables are **few and far between**—most people grow their own.",
+      "options": {
+        "option": [
+          {
+            "definition": "稀少的，罕见的",
+            "iscorrect": true
+          },
+          {
+            "definition": "距离遥远的",
+            "iscorrect": false
+          },
+          {
+            "definition": "两者之间的少数",
+            "iscorrect": false
+          },
+          {
+            "definition": "很少在中间的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

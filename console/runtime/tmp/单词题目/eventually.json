@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "eventually",
+      "error_analysis": "学生易混淆形近词“occasionally”（偶尔），或因“event”词根误判为“与事件相关地”，忽略其“最终地”的核心义。",
+      "sentence": "After trying many times, she **eventually** passed the driving test.",
+      "options": {
+        "option": [
+          {
+            "definition": "最终地；终于",
+            "iscorrect": true
+          },
+          {
+            "definition": "偶尔地；有时候",
+            "iscorrect": false
+          },
+          {
+            "definition": "与事件相关地",
+            "iscorrect": false
+          },
+          {
+            "definition": "突然地；忽然",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

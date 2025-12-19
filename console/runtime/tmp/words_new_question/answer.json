@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "answer",
+      "error_analysis": "中国学生易因形近词“ant”（蚂蚁）产生词义联想错误，或因词根“and-”（对抗）和“swaru”（说话）误判为“反驳”。",
+      "sentence": "The teacher is waiting for someone to **answer** the question about the French Revolution.",
+      "options": {
+        "option": [
+          {
+            "definition": "蚂蚁",
+            "iscorrect": false
+          },
+          {
+            "definition": "反驳",
+            "iscorrect": false
+          },
+          {
+            "definition": "答案；回答（名词/动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "问题",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "death penalty",
+      "error_analysis": "学生易因“penalty”的“罚款”义（词根误导）或与“pen”（钢笔）的形近（形近词干扰），将“death penalty”误理解为“死亡罚款”或“死亡钢笔”。",
+      "sentence": "After committing the murder, he was sentenced to the **death penalty** by the court.",
+      "options": {
+        "option": [
+          {
+            "definition": "死刑",
+            "iscorrect": true
+          },
+          {
+            "definition": "死亡罚款",
+            "iscorrect": false
+          },
+          {
+            "definition": "死亡钢笔",
+            "iscorrect": false
+          },
+          {
+            "definition": "死亡惩罚",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "terminal",
+      "error_analysis": "中国学生易因形近词“term”（学期、术语）误判为“学期的；术语的”，或因词根“termin-”（终点）误猜为“终止的；结束的”，而忽略“航站楼”这一常见名词义。",
+      "sentence": "After checking in, we headed to the **terminal** to wait for our flight.",
+      "options": {
+        "option": [
+          {
+            "definition": "航站楼",
+            "iscorrect": true
+          },
+          {
+            "definition": "学期的；术语的",
+            "iscorrect": false
+          },
+          {
+            "definition": "终止的；结束的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可怕的；恐怖的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "side",
+      "error_analysis": "学生易将“side”与形近词“size”（尺寸）或“slide”（滑动）混淆，导致误判其“边/侧面”的核心词义",
+      "sentence": "Please put the book on the **side** of the desk, not in the middle.",
+      "options": {
+        "option": [
+          {
+            "definition": "边；侧面",
+            "iscorrect": true
+          },
+          {
+            "definition": "尺寸",
+            "iscorrect": false
+          },
+          {
+            "definition": "滑动",
+            "iscorrect": false
+          },
+          {
+            "definition": "地点",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ship",
+      "error_analysis": "易混淆形近词sheep（绵羊）或shop（商店），导致误判“ship”的核心词义",
+      "sentence": "The big **ship** sails across the ocean every week.",
+      "options": {
+        "option": [
+          {
+            "definition": "船",
+            "iscorrect": true
+          },
+          {
+            "definition": "绵羊",
+            "iscorrect": false
+          },
+          {
+            "definition": "商店",
+            "iscorrect": false
+          },
+          {
+            "definition": "形状",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sullen",
+      "error_analysis": "学生易因形近（如swollen）或语义混淆（如silent）将sullen误判为“肿胀的”或“沉默的”",
+      "sentence": "After being scolded by his mother, Tom sat in the corner with a **sullen** look on his face, refusing to talk to anyone.",
+      "options": {
+        "option": [
+          {
+            "definition": "闷闷不乐的；愠怒的",
+            "iscorrect": true
+          },
+          {
+            "definition": "沉默的；安静的",
+            "iscorrect": false
+          },
+          {
+            "definition": "肿胀的；浮肿的",
+            "iscorrect": false
+          },
+          {
+            "definition": "悲伤的；难过的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

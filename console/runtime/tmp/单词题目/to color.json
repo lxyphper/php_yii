@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to color",
+      "error_analysis": "易混淆形近词\"collar\"(衣领)导致误判为\"给……装衣领\"，或因名词\"color\"(颜色)引申错误认为动词是\"识别颜色\"。",
+      "sentence": "She likes to **color** her drawings with crayons every weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "给……着色；染色",
+            "iscorrect": true
+          },
+          {
+            "definition": "给……装衣领",
+            "iscorrect": false
+          },
+          {
+            "definition": "识别……的颜色",
+            "iscorrect": false
+          },
+          {
+            "definition": "使……保持干净",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

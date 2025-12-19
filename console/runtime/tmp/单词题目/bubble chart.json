@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bubble chart",
+      "error_analysis": "学生易因“chart”与“chat”形近误判为“气泡聊天框”，或因字面直译未理解其为特定统计图表。",
+      "sentence": "The report uses a **bubble chart** to show the relationship between a country's GDP, population, and carbon emissions, with each bubble representing a different nation.",
+      "options": {
+        "option": [
+          {
+            "definition": "气泡聊天框（如即时消息中的对话气泡）",
+            "iscorrect": false
+          },
+          {
+            "definition": "展示气泡形状或泡泡的图表",
+            "iscorrect": false
+          },
+          {
+            "definition": "（用气泡的大小、位置等表示数据关系的）气泡图（一种统计图表）",
+            "iscorrect": true
+          },
+          {
+            "definition": "用于制作泡泡糖的生产流程图",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

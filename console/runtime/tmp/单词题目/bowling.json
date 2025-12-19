@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bowling",
+      "error_analysis": "中国学生易因形近词“bowl”（碗）误将“bowling”理解为与碗相关的动作（如洗碗）。",
+      "sentence": "On weekends, my friends and I often go to the **bowling** alley to play a few games and have fun.",
+      "options": {
+        "option": [
+          {
+            "definition": "保龄球运动",
+            "iscorrect": true
+          },
+          {
+            "definition": "洗碗的过程",
+            "iscorrect": false
+          },
+          {
+            "definition": "用碗盛装食物的行为",
+            "iscorrect": false
+          },
+          {
+            "definition": "鞠躬的动作",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

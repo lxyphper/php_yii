@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "guy",
+      "error_analysis": "中国学生易因形近词“gay”（同性恋）或“gum”（口香糖）误判“guy”的核心词义“家伙；人”。",
+      "sentence": "Hey, look at that **guy** over there—he’s wearing a funny hat!",
+      "options": {
+        "option": [
+          {
+            "definition": "家伙；人（口语）",
+            "iscorrect": true
+          },
+          {
+            "definition": "同性恋（男）",
+            "iscorrect": false
+          },
+          {
+            "definition": "口香糖",
+            "iscorrect": false
+          },
+          {
+            "definition": "用支索固定（动词义）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

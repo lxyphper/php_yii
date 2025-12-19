@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to hasten",
+      "error_analysis": "学生易因形近词\"hate\"(讨厌)或词根联想\"harden\"(变硬)误判\"to hasten\"的含义",
+      "sentence": "The manager decided to **hasten** the project to meet the deadline.",
+      "options": {
+        "option": [
+          {
+            "definition": "加速；催促",
+            "iscorrect": true
+          },
+          {
+            "definition": "讨厌；厌恶",
+            "iscorrect": false
+          },
+          {
+            "definition": "变硬；使坚固",
+            "iscorrect": false
+          },
+          {
+            "definition": "发生；出现",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

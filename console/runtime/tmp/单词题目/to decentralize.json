@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to decentralize",
+      "error_analysis": "学生易因形近词\"decelerate\"(减速)产生拼写混淆，或因词根\"center\"过度直译为\"离开中心\"而忽略\"权力/组织分散\"的核心语义。",
+      "sentence": "The government decided to **decentralize** power to local councils to improve administrative efficiency.",
+      "options": {
+        "option": [
+          {
+            "definition": "将权力或组织分散（给地方或下级）",
+            "iscorrect": true
+          },
+          {
+            "definition": "减速；降低速度",
+            "iscorrect": false
+          },
+          {
+            "definition": "离开中心；从物理位置上移开",
+            "iscorrect": false
+          },
+          {
+            "definition": "使集中；强化中心地位",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

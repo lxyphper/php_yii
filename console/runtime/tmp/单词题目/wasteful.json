@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wasteful",
+      "error_analysis": "中国学生易因形近词`watchful`（警惕的）混淆，或因`waste`的“废物”义错误理解为“无用的”。",
+      "sentence": "Leaving the lights on all night is a **wasteful** habit that increases electricity bills.",
+      "options": {
+        "option": [
+          {
+            "definition": "警惕的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无用的",
+            "iscorrect": false
+          },
+          {
+            "definition": "浪费的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有品味的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

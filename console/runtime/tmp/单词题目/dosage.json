@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dosage",
+      "error_analysis": "中国学生易因形近混淆\"dosage\"与\"damage\"(损害)或\"usage\"(使用)，误判为\"损害程度\"或\"使用频率\"",
+      "sentence": "The doctor adjusted the **dosage** of the medication to reduce the patient's side effects.",
+      "options": {
+        "option": [
+          {
+            "definition": "（药物等的）剂量；用量",
+            "iscorrect": true
+          },
+          {
+            "definition": "损害程度",
+            "iscorrect": false
+          },
+          {
+            "definition": "使用频率",
+            "iscorrect": false
+          },
+          {
+            "definition": "包装规格",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to rant",
+      "error_analysis": "中国学生易因形近词“rent”（租用）混淆词义，或因字面误导认为其仅指“大声说话”而非“抱怨”。",
+      "sentence": "When the flight was canceled, the angry passenger began to **rant** about the airline's terrible service.",
+      "options": {
+        "option": [
+          {
+            "definition": "租用（房屋/土地等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "大声朗读",
+            "iscorrect": false
+          },
+          {
+            "definition": "大声抱怨；咆哮",
+            "iscorrect": true
+          },
+          {
+            "definition": "吟唱歌曲",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

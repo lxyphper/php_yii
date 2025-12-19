@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "microclimate",
+      "error_analysis": "学生易因“micro-”前缀误联想为“微型设备”（如microphone），或词根过度直译“小气候”为“微型气候仪”。",
+      "sentence": "The rooftop garden creates a cooler **microclimate** compared to the busy street below.",
+      "options": {
+        "option": [
+          {
+            "definition": "微型气候测量仪器",
+            "iscorrect": false
+          },
+          {
+            "definition": "小气候（局部地区的特殊气候）",
+            "iscorrect": true
+          },
+          {
+            "definition": "微观气候研究",
+            "iscorrect": false
+          },
+          {
+            "definition": "微型声音设备",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

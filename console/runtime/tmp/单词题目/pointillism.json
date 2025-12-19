@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pointillism",
+      "error_analysis": "学生易根据词根“point”（点/要点）和“-ism”（主义/风格）错误推导为强调要点的写作风格或标点符号的使用系统",
+      "sentence": "Georges Seurat is famous for using **pointillism** in his painting *A Sunday Afternoon on the Island of La Grande Jatte*, where thousands of tiny dots of color combine to form vivid images.",
+      "options": {
+        "option": [
+          {
+            "definition": "一种用小点排列组成图像的绘画技法",
+            "iscorrect": true
+          },
+          {
+            "definition": "强调要点或观点的写作风格",
+            "iscorrect": false
+          },
+          {
+            "definition": "标点符号的系统使用方法",
+            "iscorrect": false
+          },
+          {
+            "definition": "关于时间点的哲学理论",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

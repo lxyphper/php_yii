@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to erode",
+      "error_analysis": "易混淆形近词\"erupt\"(爆发)，或误解为仅指化学腐蚀，忽略其抽象义(削弱抽象事物)。",
+      "sentence": "Constant criticism from his boss began to erode his enthusiasm for the job.",
+      "options": {
+        "option": [
+          {
+            "definition": "（使）侵蚀；削弱（如热情、信心等抽象事物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "爆发；喷发（如火山、冲突）",
+            "iscorrect": false
+          },
+          {
+            "definition": "化学腐蚀（如金属被酸腐蚀）",
+            "iscorrect": false
+          },
+          {
+            "definition": "增强；巩固（如实力、关系等）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

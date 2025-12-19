@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to shave",
+      "error_analysis": "核心易错点为形近词干扰，学生易将‘to shave’（刮）与‘save’（拯救）、‘shove’（推）或‘shape’（形状）混淆。",
+      "sentence": "She decided to **shave** her legs before wearing the dress to the party.",
+      "options": {
+        "option": [
+          {
+            "definition": "拯救",
+            "iscorrect": false
+          },
+          {
+            "definition": "推",
+            "iscorrect": false
+          },
+          {
+            "definition": "刮（胡子、毛发等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "形状",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

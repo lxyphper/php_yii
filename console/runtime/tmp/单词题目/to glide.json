@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to glide",
+      "error_analysis": "中国学生易将“to glide”与形近词“slide”（滑动）混淆，或误理解为需要动力的“fly”（飞行）。",
+      "sentence": "The eagle **glided** effortlessly through the sky without flapping its wings.",
+      "options": {
+        "option": [
+          {
+            "definition": "滑翔；滑行（无动力或平稳移动）",
+            "iscorrect": true
+          },
+          {
+            "definition": "滑动；滑行（如在表面摩擦）",
+            "iscorrect": false
+          },
+          {
+            "definition": "引导；带领",
+            "iscorrect": false
+          },
+          {
+            "definition": "飞行；飞翔（需要动力或拍动翅膀）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tolerant",
+      "error_analysis": "中国学生易因形近词\"talent\"(天赋)的形状/发音混淆，或因同根词\"tolerable\"(可容忍的)的对象误用而误解\"tolerant\"的词义。",
+      "sentence": "My grandmother is very **tolerant** of different opinions; she always listens to others without getting angry.",
+      "options": {
+        "option": [
+          {
+            "definition": "天赋的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可容忍的",
+            "iscorrect": false
+          },
+          {
+            "definition": "宽容的",
+            "iscorrect": true
+          },
+          {
+            "definition": "耐心的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

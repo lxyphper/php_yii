@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to remember",
+      "error_analysis": "学生易混淆'remember'与形近词'remind'（提醒），或拆分为're-'（重新）+'member'（成员）错误理解为'重新成为成员'",
+      "sentence": "He remembers his childhood friend's name even after many years.",
+      "options": {
+        "option": [
+          {
+            "definition": "记住；记得",
+            "iscorrect": true
+          },
+          {
+            "definition": "提醒某人做某事",
+            "iscorrect": false
+          },
+          {
+            "definition": "重新成为成员",
+            "iscorrect": false
+          },
+          {
+            "definition": "忘记；遗忘",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

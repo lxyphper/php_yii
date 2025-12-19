@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hibernation",
+      "error_analysis": "中国学生易因形近词\"habitation\"（居住）或词根混淆（如误联\"hibit-\"（展示））误解\"hibernation\"。",
+      "sentence": "Bears enter **hibernation** in late autumn and don’t wake up until spring.",
+      "options": {
+        "option": [
+          {
+            "definition": "冬眠（状态）",
+            "iscorrect": true
+          },
+          {
+            "definition": "居住状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "展示行为",
+            "iscorrect": false
+          },
+          {
+            "definition": "导航操作",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "renewable",
+      "error_analysis": "中国学生易因形近词“renowned”（著名的）误判，或因词根“renew”+“able”直译为“能更新的”而忽略其“可再生能源”的核心常用义",
+      "sentence": "Many countries are investing heavily in **renewable** energy sources such as solar and wind to reduce carbon emissions.",
+      "options": {
+        "option": [
+          {
+            "definition": "可再生的",
+            "iscorrect": true
+          },
+          {
+            "definition": "著名的",
+            "iscorrect": false
+          },
+          {
+            "definition": "能更新的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可续期的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

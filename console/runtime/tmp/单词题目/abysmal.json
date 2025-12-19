@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "abysmal",
+      "error_analysis": "学生易因词根\"abyss\"(深渊)字面误导认为是\"深渊的\"，或混淆形近词\"abyssal\"(深海的)而误判",
+      "sentence": "The restaurant received **abysmal** reviews because of its terrible service and cold food.",
+      "options": {
+        "option": [
+          {
+            "definition": "极差的；糟糕透顶的",
+            "iscorrect": true
+          },
+          {
+            "definition": "深渊的；深不可测的",
+            "iscorrect": false
+          },
+          {
+            "definition": "深海的",
+            "iscorrect": false
+          },
+          {
+            "definition": "异常的；不寻常的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

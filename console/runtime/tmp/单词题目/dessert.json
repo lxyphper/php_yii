@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dessert",
+      "error_analysis": "学生易因形近词混淆“dessert”与“desert”（沙漠/放弃），导致误判词义。",
+      "sentence": "The waiter brought us ice cream for **dessert** after we finished our main course.",
+      "options": {
+        "option": [
+          {
+            "definition": "甜点；餐后甜品",
+            "iscorrect": true
+          },
+          {
+            "definition": "沙漠；荒漠",
+            "iscorrect": false
+          },
+          {
+            "definition": "放弃；遗弃",
+            "iscorrect": false
+          },
+          {
+            "definition": "主菜；正餐",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "striking",
+      "error_analysis": "学生易因形近词\"strike\"（打击/罢工）或词根联想，将\"striking\"误解为\"打击的\"或\"猛烈的\"",
+      "sentence": "The **striking** contrast between the old stone building and the modern glass skyscraper caught the tourists' eyes immediately.",
+      "options": {
+        "option": [
+          {
+            "definition": "显著的；引人注目的",
+            "iscorrect": true
+          },
+          {
+            "definition": "打击的；罢工的",
+            "iscorrect": false
+          },
+          {
+            "definition": "猛烈的；剧烈的",
+            "iscorrect": false
+          },
+          {
+            "definition": "普通的；平常的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

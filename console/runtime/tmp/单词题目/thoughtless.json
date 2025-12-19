@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "thoughtless",
+      "error_analysis": "学生易因\"thought+less\"字面推导误解为\"没有思想的（愚蠢的）\"，或混淆形近词\"thoughtful\"（体贴的）的反义。",
+      "sentence": "Leaving the party without saying goodbye to the host was a **thoughtless** act.",
+      "options": {
+        "option": [
+          {
+            "definition": "考虑不周的；粗心的",
+            "iscorrect": true
+          },
+          {
+            "definition": "没有思想的；愚蠢的",
+            "iscorrect": false
+          },
+          {
+            "definition": "体贴的；考虑周到的",
+            "iscorrect": false
+          },
+          {
+            "definition": "忙碌的；繁忙的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

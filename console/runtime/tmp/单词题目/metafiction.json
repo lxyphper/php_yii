@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "metafiction",
+      "error_analysis": "学生易因词根拆分错误，将\"metafiction\"误推为\"关于小说的学术研究\"或\"高级小说\"，忽略其\"自我指涉、强调虚构性\"的核心特征",
+      "sentence": "In *The French Lieutenant's Woman*, John Fowles uses **metafiction** by allowing the narrator to directly address the reader and discuss how the story is constructed.",
+      "options": {
+        "option": [
+          {
+            "definition": "自我意识小说（通过打破第四面墙等手法让读者意识到其虚构性的作品）",
+            "iscorrect": true
+          },
+          {
+            "definition": "关于小说创作技巧的学术论文或评论",
+            "iscorrect": false
+          },
+          {
+            "definition": "使用大量隐喻和象征手法的虚构故事",
+            "iscorrect": false
+          },
+          {
+            "definition": "篇幅极短、情节紧凑的微型小说（如1000字以内）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

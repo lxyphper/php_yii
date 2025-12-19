@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "glaciation",
+      "error_analysis": "易因形近词\"graduation\"(毕业)产生视觉混淆，或因词根\"glaci-\"(冰)过度推导为\"结冰状态\"而非\"冰川作用过程\"",
+      "sentence": "The U-shaped valleys in the Scottish Highlands are classic landforms created by **glaciation** during the last ice age.",
+      "options": {
+        "option": [
+          {
+            "definition": "毕业；毕业典礼",
+            "iscorrect": false
+          },
+          {
+            "definition": "结冰的状态；冰的积累",
+            "iscorrect": false
+          },
+          {
+            "definition": "冰川作用；冰川形成",
+            "iscorrect": true
+          },
+          {
+            "definition": "冰川的移动；冰川流",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

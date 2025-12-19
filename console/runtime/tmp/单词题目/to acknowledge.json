@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to acknowledge",
+      "error_analysis": "易因形近词\"knowledge\"误解为\"知道；了解\"，或因词根\"ack-+knowledge\"推导为\"强化知识\"",
+      "sentence": "The company finally **acknowledged** that their product had a design flaw after receiving numerous complaints.",
+      "options": {
+        "option": [
+          {
+            "definition": "承认；确认",
+            "iscorrect": true
+          },
+          {
+            "definition": "知道；了解",
+            "iscorrect": false
+          },
+          {
+            "definition": "强化知识；记住",
+            "iscorrect": false
+          },
+          {
+            "definition": "认出；识别",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "boulevard",
+      "error_analysis": "学生易因形近词“bouquet”（花束）、“boulder”（巨石）或拆分“boule”+“vard”猜测为“院子”，误判“boulevard”的含义。",
+      "sentence": "The city’s main **boulevard** is lined with tall trees and fashionable shops, attracting many tourists every day.",
+      "options": {
+        "option": [
+          {
+            "definition": "花束",
+            "iscorrect": false
+          },
+          {
+            "definition": "巨石",
+            "iscorrect": false
+          },
+          {
+            "definition": "院子",
+            "iscorrect": false
+          },
+          {
+            "definition": "林荫大道",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

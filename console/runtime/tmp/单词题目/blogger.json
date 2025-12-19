@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "blogger",
+      "error_analysis": "学生易因形近词“logger”（伐木工人）混淆，或因“-er”后缀误判为“博客平台”等事物。",
+      "sentence": "Sarah is a popular **blogger** who shares travel tips on her website every week.",
+      "options": {
+        "option": [
+          {
+            "definition": "博客作者；博主",
+            "iscorrect": true
+          },
+          {
+            "definition": "伐木工人",
+            "iscorrect": false
+          },
+          {
+            "definition": "博客平台",
+            "iscorrect": false
+          },
+          {
+            "definition": "网络工程师",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

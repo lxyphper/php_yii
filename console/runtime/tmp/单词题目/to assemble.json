@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to assemble",
+      "error_analysis": "易混淆形近词resemble（像）及词根similis（相似）带来的“使相似”误导",
+      "sentence": "The workers will **assemble** the new computers in the factory tomorrow.",
+      "options": {
+        "option": [
+          {
+            "definition": "组装；集合",
+            "iscorrect": true
+          },
+          {
+            "definition": "像；与…相似",
+            "iscorrect": false
+          },
+          {
+            "definition": "使相似；使相同",
+            "iscorrect": false
+          },
+          {
+            "definition": "拆卸；拆开",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

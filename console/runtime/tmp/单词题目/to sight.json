@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to sight",
+      "error_analysis": "学生易将动词“to sight”（看见）与同音字“site”（选址）混淆，或误从名词“sight”（视力）推导为“检查视力”，或由“sightseeing”联想为“观光”。",
+      "sentence": "After hours of searching, the hiker finally **sighted** a small cabin through the trees.",
+      "options": {
+        "option": [
+          {
+            "definition": "看见，发现（尤指远距离或困难情况下）",
+            "iscorrect": true
+          },
+          {
+            "definition": "选址，确定…的位置",
+            "iscorrect": false
+          },
+          {
+            "definition": "检查…的视力",
+            "iscorrect": false
+          },
+          {
+            "definition": "观光，游览",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

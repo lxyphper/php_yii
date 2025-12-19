@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "geyser",
+      "error_analysis": "学生易因形近词“geese”（鹅）或拆分“-ser”联想“服务”而误将“geyser”理解为与鹅或服务相关的词",
+      "sentence": "The Old Faithful is a famous **geyser** in Yellowstone National Park that erupts hot water and steam every 90 minutes.",
+      "options": {
+        "option": [
+          {
+            "definition": "间歇泉（定期喷发热水和蒸汽的自然泉）",
+            "iscorrect": true
+          },
+          {
+            "definition": "鹅群（鹅的复数形式）",
+            "iscorrect": false
+          },
+          {
+            "definition": "服务者（提供服务的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "油脂（动植物分泌的脂肪物质）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

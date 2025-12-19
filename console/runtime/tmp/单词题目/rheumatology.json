@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rheumatology",
+      "error_analysis": "学生易混淆形近词\"rheumatism\"(风湿病)而忽略\"-ology\"的学科含义，或因\"rheumat-\"与\"rhyme\"(押韵)形近而误判。",
+      "sentence": "Dr. Smith specializes in **rheumatology** and treats patients with arthritis and lupus.",
+      "options": {
+        "option": [
+          {
+            "definition": "风湿病学（研究风湿病的医学学科）",
+            "iscorrect": true
+          },
+          {
+            "definition": "风湿病（一种关节或肌肉的炎症疾病）",
+            "iscorrect": false
+          },
+          {
+            "definition": "黏液学（研究黏液的学科）",
+            "iscorrect": false
+          },
+          {
+            "definition": "押韵学（研究诗歌押韵的学科）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

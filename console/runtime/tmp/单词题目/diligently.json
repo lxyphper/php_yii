@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "diligently",
+      "error_analysis": "学生易将“diligently”与形近词“deliberately”（故意地）混淆，或误判为“仔细地”",
+      "sentence": "She **diligently** practiced the piano every day to prepare for the competition.",
+      "options": {
+        "option": [
+          {
+            "definition": "故意地",
+            "iscorrect": false
+          },
+          {
+            "definition": "仔细地",
+            "iscorrect": false
+          },
+          {
+            "definition": "勤奋地",
+            "iscorrect": true
+          },
+          {
+            "definition": "频繁地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

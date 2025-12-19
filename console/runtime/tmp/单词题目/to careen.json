@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to careen",
+      "error_analysis": "学生易因形近词“career”（职业）或词根“care”（关心）误判词义",
+      "sentence": "The truck **careened** off the wet road and into the ditch after the driver lost control.",
+      "options": {
+        "option": [
+          {
+            "definition": "（车辆或人）倾斜/摇摇晃晃地移动",
+            "iscorrect": true
+          },
+          {
+            "definition": "从事职业",
+            "iscorrect": false
+          },
+          {
+            "definition": "关心/照顾某人",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速停止",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

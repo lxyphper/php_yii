@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "melody",
+      "error_analysis": "中国学生易因形近词“medal”（奖牌）混淆“melody”词义，或拆分“mel-”（融化）与“-ody”（身体）猜测错误含义。",
+      "sentence": "The guitarist played a catchy **melody** that stuck in my head all day.",
+      "options": {
+        "option": [
+          {
+            "definition": "旋律",
+            "iscorrect": true
+          },
+          {
+            "definition": "奖牌",
+            "iscorrect": false
+          },
+          {
+            "definition": "融化的物质",
+            "iscorrect": false
+          },
+          {
+            "definition": "记忆",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

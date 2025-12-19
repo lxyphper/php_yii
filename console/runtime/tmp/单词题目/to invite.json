@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to invite",
+      "error_analysis": "中国学生易因形近词混淆将“to invite”误判为“invent”（发明）的含义",
+      "sentence": "Sarah decided to **invite** her friends to her birthday party next weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "邀请",
+            "iscorrect": true
+          },
+          {
+            "definition": "发明",
+            "iscorrect": false
+          },
+          {
+            "definition": "拜访",
+            "iscorrect": false
+          },
+          {
+            "definition": "要求",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "skycraping",
+      "error_analysis": "学生易根据\"sky\"+\"scraping\"字面推导为\"刮擦天空的\"或\"擦碰天空的\"，忽略其\"极高的（尤指建筑）\"的核心形容词义。",
+      "sentence": "The newly constructed office tower in the financial district is a **skycraping** landmark that towers over all surrounding buildings.",
+      "options": {
+        "option": [
+          {
+            "definition": "极高的（尤指建筑物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "刮擦天空的（如物体擦过天空的状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "天空中的碎片（与\"scrap\"的名词义相关）",
+            "iscorrect": false
+          },
+          {
+            "definition": "与天空中的刮擦声有关的（声音联想）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

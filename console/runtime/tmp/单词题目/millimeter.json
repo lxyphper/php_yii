@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "millimeter",
+      "error_analysis": "学生易将\"millimeter\"（长度单位，毫米）与形近的\"milliliter\"（体积单位，毫升）混淆，或因\"milli-\"词根联想到错误的度量类型（如重量单位）。",
+      "sentence": "The thickness of a standard credit card is approximately 0.7 **millimeters**.",
+      "options": {
+        "option": [
+          {
+            "definition": "毫米（长度单位，等于千分之一米）",
+            "iscorrect": true
+          },
+          {
+            "definition": "毫升（体积单位，等于千分之一升）",
+            "iscorrect": false
+          },
+          {
+            "definition": "千分之一克（重量单位，即毫克）",
+            "iscorrect": false
+          },
+          {
+            "definition": "厘米（长度单位，等于百分之一米）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

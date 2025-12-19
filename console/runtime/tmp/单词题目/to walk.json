@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to walk",
+      "error_analysis": "形近词\"talk\"(说话)的干扰，及字面联想\"wall\"(墙)导致的\"砌墙\"错误理解",
+      "sentence": "Every morning, my grandma likes to **walk** in the park for half an hour to enjoy the fresh air.",
+      "options": {
+        "option": [
+          {
+            "definition": "步行；走",
+            "iscorrect": true
+          },
+          {
+            "definition": "说话；交谈",
+            "iscorrect": false
+          },
+          {
+            "definition": "砌墙；筑墙",
+            "iscorrect": false
+          },
+          {
+            "definition": "醒来；唤醒",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

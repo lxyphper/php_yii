@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to explain",
+      "error_analysis": "学生易因形近词“complain”（抱怨）的干扰，或词根“plain”（明显的）误导，将“to explain”误理解为“抱怨”或“使...明显”。",
+      "sentence": "Could you please **explain** why you were absent from the class yesterday?",
+      "options": {
+        "option": [
+          {
+            "definition": "抱怨",
+            "iscorrect": false
+          },
+          {
+            "definition": "解释；说明",
+            "iscorrect": true
+          },
+          {
+            "definition": "探索",
+            "iscorrect": false
+          },
+          {
+            "definition": "使...明显",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

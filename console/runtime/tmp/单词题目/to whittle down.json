@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to whittle down",
+      "error_analysis": "学生易因形近词\"whistle\"（口哨）将短语误解为\"通过吹口哨减少\"，或因\"whittle\"（削）的字面义误解为\"用刀削去以减少\"。",
+      "sentence": "The committee plans to **whittle down** the list of 50 applicants to just 10 finalists by the end of the week.",
+      "options": {
+        "option": [
+          {
+            "definition": "逐渐削减；慢慢减少",
+            "iscorrect": true
+          },
+          {
+            "definition": "通过吹口哨使减少",
+            "iscorrect": false
+          },
+          {
+            "definition": "用刀削去以减少",
+            "iscorrect": false
+          },
+          {
+            "definition": "突然减少",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

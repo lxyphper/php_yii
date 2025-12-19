@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "empty-headed",
+      "error_analysis": "学生易因形近词\"empty-handed\"（空手的）混淆，或字面直译\"空脑袋的\"而未关联到\"愚蠢\"的核心义",
+      "sentence": "He always forgets his keys and misses appointments—everyone says he's too **empty-headed** to be trusted with important tasks.",
+      "options": {
+        "option": [
+          {
+            "definition": "愚蠢的；没头脑的",
+            "iscorrect": true
+          },
+          {
+            "definition": "空手的；无收获的",
+            "iscorrect": false
+          },
+          {
+            "definition": "空脑袋的；思想空白的",
+            "iscorrect": false
+          },
+          {
+            "definition": "头晕的；头昏眼花的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

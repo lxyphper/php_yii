@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "prequel",
+      "error_analysis": "学生易因形近词“sequel”（续集）混淆，或因“pre-”前缀错误理解为“前言”。",
+      "sentence": "The new movie is a **prequel** to the 2010 fantasy series, telling the story of the main character's childhood before the original events.",
+      "options": {
+        "option": [
+          {
+            "definition": "（电影、书籍等的）前传",
+            "iscorrect": true
+          },
+          {
+            "definition": "（电影、书籍等的）续集",
+            "iscorrect": false
+          },
+          {
+            "definition": "（文章或演讲的）前言",
+            "iscorrect": false
+          },
+          {
+            "definition": "（故事结尾的）后记",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

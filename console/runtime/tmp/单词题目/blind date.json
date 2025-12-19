@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "blind date",
+      "error_analysis": "学生易因字面直译将\"blind date\"误解为\"与盲人的约会\"或\"没有计划的盲目约会\"，忽略其\"由第三方安排的初次相亲\"的核心义",
+      "sentence": "My sister set me up on a **blind date** with her colleague last weekend, and we had a nice dinner together.",
+      "options": {
+        "option": [
+          {
+            "definition": "由第三方安排的男女初次见面（相亲）",
+            "iscorrect": true
+          },
+          {
+            "definition": "与盲人的约会",
+            "iscorrect": false
+          },
+          {
+            "definition": "没有计划的盲目约会",
+            "iscorrect": false
+          },
+          {
+            "definition": "朋友间的随意约会",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "shell",
+      "error_analysis": "学生易因形近词'sell'（卖）混淆词义，或误将'shell'仅理解为'框架'而忽略其'壳（如贝壳）'的核心义",
+      "sentence": "She picked up a smooth **shell** from the sand and held it to her ear to hear the ocean.",
+      "options": {
+        "option": [
+          {
+            "definition": "卖",
+            "iscorrect": false
+          },
+          {
+            "definition": "（建筑等的）框架；空壳",
+            "iscorrect": false
+          },
+          {
+            "definition": "炮弹",
+            "iscorrect": false
+          },
+          {
+            "definition": "壳；贝壳",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

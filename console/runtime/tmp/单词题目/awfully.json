@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "awfully",
+      "error_analysis": "学生易根据词根\"awful\"（可怕的）误将\"awfully\"理解为\"可怕地；糟糕地\"，忽略其\"非常；极其\"的核心口语含义",
+      "sentence": "I'm **awfully** glad to see you again after so many years.",
+      "options": {
+        "option": [
+          {
+            "definition": "非常；极其",
+            "iscorrect": true
+          },
+          {
+            "definition": "可怕地；糟糕地",
+            "iscorrect": false
+          },
+          {
+            "definition": "完全地；彻底地",
+            "iscorrect": false
+          },
+          {
+            "definition": "正式地；官方地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

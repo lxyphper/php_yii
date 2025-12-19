@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "trader",
+      "error_analysis": "学生易因形近词\"trainer\"(训练师)的干扰，或混淆\"trade\"与\"transport\"而误将\"trader\"理解为运输相关职业。",
+      "sentence": "The old man has been a **trader** in the local market for over 30 years, selling vegetables and fruits to neighbors.",
+      "options": {
+        "option": [
+          {
+            "definition": "训练师；教练",
+            "iscorrect": false
+          },
+          {
+            "definition": "交易者；商人",
+            "iscorrect": true
+          },
+          {
+            "definition": "运输工人；搬运工",
+            "iscorrect": false
+          },
+          {
+            "definition": "旅行家；旅行者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

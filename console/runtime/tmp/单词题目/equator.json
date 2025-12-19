@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "equator",
+      "error_analysis": "易因形近词\"equation\"（方程）干扰或词根\"equa-\"（平等）误导，将\"equator\"误判为\"方程\"或\"平衡器\"。",
+      "sentence": "Many tropical countries are situated along the **equator**, where the climate remains hot and humid year-round.",
+      "options": {
+        "option": [
+          {
+            "definition": "赤道（地球表面距离南北两极相等的圆周线）",
+            "iscorrect": true
+          },
+          {
+            "definition": "方程；等式",
+            "iscorrect": false
+          },
+          {
+            "definition": "平衡器；平等的事物",
+            "iscorrect": false
+          },
+          {
+            "definition": "编辑；编者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

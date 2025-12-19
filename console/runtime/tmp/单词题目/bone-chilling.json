@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bone-chilling",
+      "error_analysis": "学生易因\"bone\"（骨头）和\"chilling\"（寒冷的）的字面含义，将\"bone-chilling\"误理解为\"骨头发冷的\"（形容身体感觉），或因形近词混淆为\"骨头断裂的\"。",
+      "sentence": "The old man’s **bone-chilling** story about the haunted forest made everyone in the room shiver.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人毛骨悚然的；极其恐怖的",
+            "iscorrect": true
+          },
+          {
+            "definition": "骨头发冷的（形容身体感觉）",
+            "iscorrect": false
+          },
+          {
+            "definition": "骨头断裂的",
+            "iscorrect": false
+          },
+          {
+            "definition": "冷却的骨头（形容食物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

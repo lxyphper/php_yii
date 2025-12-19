@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to enrich",
+      "error_analysis": "学生易因\"en+rich\"的词根结构，将\"enrich\"仅理解为\"使富有（金钱上的）\"，忽略其\"丰富/充实（内容、体验等）\"的核心义",
+      "sentence": "Reading classic novels can **enrich** your understanding of different cultures and human emotions.",
+      "options": {
+        "option": [
+          {
+            "definition": "使富有（指金钱或物质上的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "丰富；充实（指内容、体验等的增加）",
+            "iscorrect": true
+          },
+          {
+            "definition": "扩大；增大（如尺寸、规模）",
+            "iscorrect": false
+          },
+          {
+            "definition": "增强；提高（如质量、效果）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

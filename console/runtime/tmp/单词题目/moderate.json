@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "moderate",
+      "error_analysis": "学生易因形近词\"modern\"（现代的）产生联想，或误将词根\"mod-\"理解为\"模式\"而错解词义",
+      "sentence": "The hotel offers **moderate** prices, not too high or too low, which attracts many budget travelers.",
+      "options": {
+        "option": [
+          {
+            "definition": "现代的",
+            "iscorrect": false
+          },
+          {
+            "definition": "模式化的",
+            "iscorrect": false
+          },
+          {
+            "definition": "适度的；中等的",
+            "iscorrect": true
+          },
+          {
+            "definition": "修改的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

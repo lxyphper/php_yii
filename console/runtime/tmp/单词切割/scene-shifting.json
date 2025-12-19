@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "scene-shiftting",
+      "scen-shifting",
+      "scene-sifting",
+      "scene-chifting"
+    ],
+    "correct_chunks": [
+      "scene-",
+      "shift",
+      "-ing"
+    ],
+    "distractor_chunks": [
+      "shiftt",
+      "scen-",
+      "sift",
+      "chift"
+    ]
+  },
+  0
+]

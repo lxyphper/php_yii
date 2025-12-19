@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "convenient",
+      "error_analysis": "学生易因形近词\"conventional\"(传统的)混淆，或因词根\"veni-\"(来)误猜为\"常见的\"",
+      "sentence": "It's very **convenient** to have a supermarket near our apartment—we can buy groceries anytime.",
+      "options": {
+        "option": [
+          {
+            "definition": "方便的",
+            "iscorrect": true
+          },
+          {
+            "definition": "传统的",
+            "iscorrect": false
+          },
+          {
+            "definition": "常见的",
+            "iscorrect": false
+          },
+          {
+            "definition": "舒适的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

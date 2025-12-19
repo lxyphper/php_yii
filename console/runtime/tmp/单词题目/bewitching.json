@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bewitching",
+      "error_analysis": "学生易因形近词\"bewildering\"（令人困惑的）或词根\"witch\"（女巫）误判为\"令人困惑的\"或\"有女巫气质的\"",
+      "sentence": "The actress had a **bewitching** smile that made everyone in the audience feel captivated.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人着迷的",
+            "iscorrect": true
+          },
+          {
+            "definition": "令人困惑的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有女巫气质的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人厌烦的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

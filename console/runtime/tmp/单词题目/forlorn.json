@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "forlorn",
+      "error_analysis": "学生易因形近词（如与\"forgotten\"拼写接近）误认为\"被遗忘的\"，或因词根拆分（\"for\"+\"lorn\"）误判为\"失去的\"。",
+      "sentence": "The old house stood in the middle of the empty field, looking **forlorn** with its broken windows and overgrown garden.",
+      "options": {
+        "option": [
+          {
+            "definition": "凄凉的；孤独绝望的",
+            "iscorrect": true
+          },
+          {
+            "definition": "被遗忘的；忘却的",
+            "iscorrect": false
+          },
+          {
+            "definition": "失去的；被遗弃的",
+            "iscorrect": false
+          },
+          {
+            "definition": "兴奋的；激动的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

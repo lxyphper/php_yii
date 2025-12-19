@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sometimes",
+      "error_analysis": "混淆形近词\"sometime\"(某个时候)与\"sometimes\"(有时)，或误将\"sometimes\"拆分为\"some times\"(几次)理解",
+      "sentence": "She **sometimes** goes to the gym after work, but not every day.",
+      "options": {
+        "option": [
+          {
+            "definition": "有时",
+            "iscorrect": true
+          },
+          {
+            "definition": "某个时候（未来或过去的某一天）",
+            "iscorrect": false
+          },
+          {
+            "definition": "几次（若干次）",
+            "iscorrect": false
+          },
+          {
+            "definition": "总是（每次都）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

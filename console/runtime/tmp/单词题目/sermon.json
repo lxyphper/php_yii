@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sermon",
+      "error_analysis": "中国学生易因形近词“serum”（血清）或“seminar”（研讨会）误解“sermon”的含义",
+      "sentence": "The pastor’s **sermon** on honesty resonated deeply with the church congregation.",
+      "options": {
+        "option": [
+          {
+            "definition": "布道（宗教或道德主题的讲道）",
+            "iscorrect": true
+          },
+          {
+            "definition": "血清（血液中的液体成分）",
+            "iscorrect": false
+          },
+          {
+            "definition": "研讨会（学术或专业讨论会议）",
+            "iscorrect": false
+          },
+          {
+            "definition": "祈祷（向神表达愿望的仪式）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

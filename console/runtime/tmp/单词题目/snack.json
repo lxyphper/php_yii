@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "snack",
+      "error_analysis": "学生易因形近词“snake”（蛇）产生误解，或混淆拼写类似的“snatch”（抢夺）",
+      "sentence": "I usually have a **snack** like a banana or a cookie between lunch and dinner.",
+      "options": {
+        "option": [
+          {
+            "definition": "蛇",
+            "iscorrect": false
+          },
+          {
+            "definition": "抢夺",
+            "iscorrect": false
+          },
+          {
+            "definition": "堆",
+            "iscorrect": false
+          },
+          {
+            "definition": "小吃；零食",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

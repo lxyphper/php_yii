@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to love",
+      "error_analysis": "学生易因形近词\"live\"（居住）产生对\"to love\"的错误联想",
+      "sentence": "She says she **loves** her family more than anything else in the world.",
+      "options": {
+        "option": [
+          {
+            "definition": "爱；热爱",
+            "iscorrect": true
+          },
+          {
+            "definition": "居住（形近词\"live\"的误判）",
+            "iscorrect": false
+          },
+          {
+            "definition": "喜欢（与\"like\"的程度混淆）",
+            "iscorrect": false
+          },
+          {
+            "definition": "面包（形近词\"loaf\"的误猜）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

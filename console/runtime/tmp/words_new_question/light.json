@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "light",
+      "error_analysis": "中国学生易混淆“light”（轻的，形容词）与形近词“right”（正确的）及词义“亮的”（形容词）",
+      "sentence": "This backpack is so **light** that I can carry it for hours without getting tired.",
+      "options": {
+        "option": [
+          {
+            "definition": "轻的",
+            "iscorrect": true
+          },
+          {
+            "definition": "正确的",
+            "iscorrect": false
+          },
+          {
+            "definition": "亮的",
+            "iscorrect": false
+          },
+          {
+            "definition": "视力",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

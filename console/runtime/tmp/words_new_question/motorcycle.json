@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "motorcycle",
+      "error_analysis": "因形近词\"bicycle\"(自行车)的干扰或词根\"cycle\"(自行车)的过度联想，易将\"motorcycle\"误判为\"自行车\"或错误拆分词义。",
+      "sentence": "He rode his **motorcycle** to the countryside and felt the cool wind on his face.",
+      "options": {
+        "option": [
+          {
+            "definition": "摩托车",
+            "iscorrect": true
+          },
+          {
+            "definition": "自行车",
+            "iscorrect": false
+          },
+          {
+            "definition": "发动机循环装置",
+            "iscorrect": false
+          },
+          {
+            "definition": "电动滑板车",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

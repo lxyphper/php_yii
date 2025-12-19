@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fog",
+      "error_analysis": "学生易因形近词“frog”（青蛙）产生错误联想，或误将名词“雾”理解为动词“使模糊”",
+      "sentence": "The thick **fog** covered the city, making it hard to see the tall buildings even from a short distance.",
+      "options": {
+        "option": [
+          {
+            "definition": "雾（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "青蛙",
+            "iscorrect": false
+          },
+          {
+            "definition": "日志；圆木",
+            "iscorrect": false
+          },
+          {
+            "definition": "使模糊（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

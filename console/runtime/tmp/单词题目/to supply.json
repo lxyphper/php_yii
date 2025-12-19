@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to supply",
+      "error_analysis": "中国学生易因形近词“apply”（应用/申请）产生错误联想，或因词根“ply”（折叠）误导理解为“叠加”。",
+      "sentence": "The company will **supply** fresh vegetables to the local market every morning.",
+      "options": {
+        "option": [
+          {
+            "definition": "提供；供应",
+            "iscorrect": true
+          },
+          {
+            "definition": "应用；申请",
+            "iscorrect": false
+          },
+          {
+            "definition": "折叠；叠加",
+            "iscorrect": false
+          },
+          {
+            "definition": "假设；猜想",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

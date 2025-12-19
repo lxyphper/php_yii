@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "same",
+      "error_analysis": "学生易因形近词\"some\"（一些）的干扰，误将\"same\"理解为\"一些\"或\"某个\"",
+      "sentence": "The two cats look exactly the **same**—I can’t tell them apart.",
+      "options": {
+        "option": [
+          {
+            "definition": "相同的；一样的",
+            "iscorrect": true
+          },
+          {
+            "definition": "一些；若干",
+            "iscorrect": false
+          },
+          {
+            "definition": "相似的；类似的",
+            "iscorrect": false
+          },
+          {
+            "definition": "某个；某一",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

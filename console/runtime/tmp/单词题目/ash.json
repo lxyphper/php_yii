@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ash",
+      "error_analysis": "学生易将‘ash’与形近词‘ashamed’（羞愧）或‘cash’（现金）混淆，误解其含义。",
+      "sentence": "After the fire, all that remained of the old barn was a pile of **ash**.",
+      "options": {
+        "option": [
+          {
+            "definition": "灰",
+            "iscorrect": true
+          },
+          {
+            "definition": "羞愧",
+            "iscorrect": false
+          },
+          {
+            "definition": "现金",
+            "iscorrect": false
+          },
+          {
+            "definition": "询问",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

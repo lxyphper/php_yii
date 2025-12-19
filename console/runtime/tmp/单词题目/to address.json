@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to address",
+      "error_analysis": "中国学生易将动词\"to address\"误解为与名词\"地址\"相关的动作（如\"写地址\"），或因\"dress\"（穿衣）的词根联想错误理解为\"给...穿衣\"。",
+      "sentence": "The government plans to **address** the issue of air pollution with new policies.",
+      "options": {
+        "option": [
+          {
+            "definition": "处理（问题）",
+            "iscorrect": true
+          },
+          {
+            "definition": "写地址给...",
+            "iscorrect": false
+          },
+          {
+            "definition": "给...穿衣",
+            "iscorrect": false
+          },
+          {
+            "definition": "邮寄（信件等）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

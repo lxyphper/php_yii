@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to punch",
+      "error_analysis": "中国学生易因形近词（如pinch/捏）或字面联想（如打孔器）误将to punch理解为捏、打孔等。",
+      "sentence": "The boxer **punched** his opponent hard in the jaw, knocking him down.",
+      "options": {
+        "option": [
+          {
+            "definition": "用拳头打；猛击",
+            "iscorrect": true
+          },
+          {
+            "definition": "捏；掐",
+            "iscorrect": false
+          },
+          {
+            "definition": "打孔；戳洞",
+            "iscorrect": false
+          },
+          {
+            "definition": "推；推动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

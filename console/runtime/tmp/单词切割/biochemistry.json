@@ -1,0 +1,20 @@
+[
+  {
+    "common_misspellings": [
+      "bochemistry",
+      "biochemestry",
+      "biochemitry"
+    ],
+    "correct_chunks": [
+      "bio",
+      "chem",
+      "istry"
+    ],
+    "distractor_chunks": [
+      "bo",
+      "estry",
+      "chemi"
+    ]
+  },
+  0
+]

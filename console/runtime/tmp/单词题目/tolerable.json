@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tolerable",
+      "error_analysis": "易混淆形近词`tolerant`（宽容的），或误将词根`tolerate`+`-able`推导为“宽容的”而非“可容忍的”。",
+      "sentence": "The hotel room was small, but **tolerable** for a one-night stay.",
+      "options": {
+        "option": [
+          {
+            "definition": "可容忍的；还过得去的",
+            "iscorrect": true
+          },
+          {
+            "definition": "宽容的",
+            "iscorrect": false
+          },
+          {
+            "definition": "能容忍的（指人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "可怕的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

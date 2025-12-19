@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to soar",
+      "error_analysis": "学生易因形近词\"sore\"(疼痛的)或\"soak\"(浸泡)混淆，或因\"so\"的字面义猜测为\"如此高\"，忽略\"急剧上升\"的核心义。",
+      "sentence": "The price of gasoline has **soared** by 30% in just one month, making it harder for families to budget.",
+      "options": {
+        "option": [
+          {
+            "definition": "（价格、数量等）急剧上升",
+            "iscorrect": true
+          },
+          {
+            "definition": "疼痛的",
+            "iscorrect": false
+          },
+          {
+            "definition": "如此高",
+            "iscorrect": false
+          },
+          {
+            "definition": "浸泡",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

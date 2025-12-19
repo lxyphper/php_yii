@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "flurry",
+      "error_analysis": "学生易因形近词\"fury\"(愤怒)或\"flour\"(面粉)产生误解，或误联想为\"快速扑棱动作\"（如与\"flutter\"混淆）",
+      "sentence": "There was a **flurry** of excitement in the classroom when the teacher announced the upcoming field trip.",
+      "options": {
+        "option": [
+          {
+            "definition": "一阵（短暂而剧烈的活动或情绪等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "愤怒（anger）",
+            "iscorrect": false
+          },
+          {
+            "definition": "面粉（flour）",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速的扑棱动作（quick fluttering movement）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

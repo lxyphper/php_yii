@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rage",
+      "error_analysis": "学生易因形近词“race”（比赛/奔跑）的干扰，将“rage”误判为“比赛”或“快速移动”",
+      "sentence": "When he saw his broken bike, he flew into a **rage** and kicked the fence.",
+      "options": {
+        "option": [
+          {
+            "definition": "愤怒；狂怒",
+            "iscorrect": true
+          },
+          {
+            "definition": "比赛；竞赛",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速移动；奔跑",
+            "iscorrect": false
+          },
+          {
+            "definition": "破布；碎布",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

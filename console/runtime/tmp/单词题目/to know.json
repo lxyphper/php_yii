@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to know",
+      "error_analysis": "中国学生易因同音异形词“no”（不）的干扰将“to know”误理解为“否定”，或因形近词“now”（现在）的联想误绑定时间概念",
+      "sentence": "Do you **know** how to get to the train station?",
+      "options": {
+        "option": [
+          {
+            "definition": "知道；了解",
+            "iscorrect": true
+          },
+          {
+            "definition": "不",
+            "iscorrect": false
+          },
+          {
+            "definition": "现在",
+            "iscorrect": false
+          },
+          {
+            "definition": "敲",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

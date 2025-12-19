@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to wish",
+      "error_analysis": "中国学生易因“wish”与形近词“wash”（洗）混淆，或对其“难以实现的愿望”的核心义理解不清而误判。",
+      "sentence": "He **wished** he could fly like a bird when he was little.",
+      "options": {
+        "option": [
+          {
+            "definition": "洗",
+            "iscorrect": false
+          },
+          {
+            "definition": "希望（合理的，如“hope”）",
+            "iscorrect": false
+          },
+          {
+            "definition": "希望；愿望（尤指难以实现的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "想要（如“want”）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

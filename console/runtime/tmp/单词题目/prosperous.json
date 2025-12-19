@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "prosperous",
+      "error_analysis": "学生易因形近词‘prospective’（未来的）‘precious’（珍贵的）干扰及词根‘pro-’（向前）误导，将‘prosperous’误判为‘未来的’‘珍贵的’或‘进步的’。",
+      "sentence": "The city has become more **prosperous** since the new industrial park was built.",
+      "options": {
+        "option": [
+          {
+            "definition": "繁荣的；富裕的",
+            "iscorrect": true
+          },
+          {
+            "definition": "未来的",
+            "iscorrect": false
+          },
+          {
+            "definition": "进步的",
+            "iscorrect": false
+          },
+          {
+            "definition": "珍贵的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

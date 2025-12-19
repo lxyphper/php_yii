@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to explore",
+      "error_analysis": "易因形近词“explode”（爆炸）混淆，或因“ex-+plore”字面误导认为是“向外哭喊”",
+      "sentence": "Scientists plan to **explore** the deep sea to discover new species.",
+      "options": {
+        "option": [
+          {
+            "definition": "探索；探究",
+            "iscorrect": true
+          },
+          {
+            "definition": "爆炸",
+            "iscorrect": false
+          },
+          {
+            "definition": "向外哭喊",
+            "iscorrect": false
+          },
+          {
+            "definition": "出口；输出",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ingenious",
+      "error_analysis": "将形近词ingenuous（坦率的）的含义误嫁于ingenious，或因与engine形近而误解为机械相关含义",
+      "sentence": "The engineer came up with an **ingenious** solution to fix the broken pipeline without digging up the entire street.",
+      "options": {
+        "option": [
+          {
+            "definition": "巧妙的；有独创性的",
+            "iscorrect": true
+          },
+          {
+            "definition": "坦率的；天真的",
+            "iscorrect": false
+          },
+          {
+            "definition": "机械的；与发动机相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不聪明的；愚笨的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

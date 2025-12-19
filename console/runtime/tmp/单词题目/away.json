@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "away",
+      "error_analysis": "学生易因形近词（如ahead）混淆为“向前”，或因“a+way”字面误导理解为“一条路/方法”",
+      "sentence": "She walked **away** from the house without saying goodbye.",
+      "options": {
+        "option": [
+          {
+            "definition": "离开；远离",
+            "iscorrect": true
+          },
+          {
+            "definition": "向前",
+            "iscorrect": false
+          },
+          {
+            "definition": "一条路",
+            "iscorrect": false
+          },
+          {
+            "definition": "意识到",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

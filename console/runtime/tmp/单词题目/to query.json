@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to query",
+      "error_analysis": "中国学生易因“query”与“quarrel”（争吵）形近而误理解为“争吵”，或因词根“quaerere”（寻找）的误导而误解为“寻找”。",
+      "sentence": "Before submitting the form, make sure to **query** the system for any missing data.",
+      "options": {
+        "option": [
+          {
+            "definition": "询问；查询",
+            "iscorrect": true
+          },
+          {
+            "definition": "争吵",
+            "iscorrect": false
+          },
+          {
+            "definition": "寻找",
+            "iscorrect": false
+          },
+          {
+            "definition": "质疑",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

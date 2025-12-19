@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sea level",
+      "error_analysis": "学生易因“level”的“层次/地面”义项误将“sea level”理解为“海的层次”或“海边的平坦地面，或因形近词“lever”（杠杆）误判为“海杠杆”",
+      "sentence": "The city is built just 2 meters above **sea level**, so it's at risk of flooding during typhoons.",
+      "options": {
+        "option": [
+          {
+            "definition": "海平面",
+            "iscorrect": true
+          },
+          {
+            "definition": "海杠杆",
+            "iscorrect": false
+          },
+          {
+            "definition": "海的层次",
+            "iscorrect": false
+          },
+          {
+            "definition": "海边的平坦地面",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

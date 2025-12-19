@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cheap",
+      "error_analysis": "学生易将“cheap”的“吝啬的”熟词僻义误判为“便宜的”常用义，或因形近混淆“cheer”（欢呼）。",
+      "sentence": "My uncle is so **cheap** that he even reuses tea bags!",
+      "options": {
+        "option": [
+          {
+            "definition": "吝啬的",
+            "iscorrect": true
+          },
+          {
+            "definition": "便宜的",
+            "iscorrect": false
+          },
+          {
+            "definition": "欢呼的",
+            "iscorrect": false
+          },
+          {
+            "definition": "欺骗的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

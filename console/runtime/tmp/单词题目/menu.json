@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "menu",
+      "error_analysis": "学生易混淆形近词memo（备忘录）及对词根/字面的错误联想（如与men（男人）相关）",
+      "sentence": "When we sat down at the restaurant, the waiter handed us a **menu** with all the daily specials.",
+      "options": {
+        "option": [
+          {
+            "definition": "菜单（餐厅中列出菜品的清单）",
+            "iscorrect": true
+          },
+          {
+            "definition": "备忘录（用于记录重要信息的便条）",
+            "iscorrect": false
+          },
+          {
+            "definition": "男人的群体（男性的集合）",
+            "iscorrect": false
+          },
+          {
+            "definition": "修理工具（用于修补物品的工具）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

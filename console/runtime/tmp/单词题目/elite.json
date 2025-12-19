@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "elite",
+      "error_analysis": "形近词“delete”（删除）易导致词义混淆，或词根误导以为与“提升”相关",
+      "sentence": "The team consists of **elite** athletes from around the world.",
+      "options": {
+        "option": [
+          {
+            "definition": "精英（社会或组织中的杰出群体）",
+            "iscorrect": true
+          },
+          {
+            "definition": "删除的行为",
+            "iscorrect": false
+          },
+          {
+            "definition": "提升的过程",
+            "iscorrect": false
+          },
+          {
+            "definition": "普通的民众",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

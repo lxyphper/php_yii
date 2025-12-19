@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "disinterested",
+      "error_analysis": "学生易将disinterested误认为\"不感兴趣的\"（混淆于形近词uninterested或词根dis-+interested的错误推导）",
+      "sentence": "The judge remained **disinterested** in the case, ensuring that her decision was based solely on the evidence presented.",
+      "options": {
+        "option": [
+          {
+            "definition": "不感兴趣的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "公正的；无偏见的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不满意的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

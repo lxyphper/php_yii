@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "odious",
+      "error_analysis": "学生易因形近词\"odd\"（奇怪的）将\"odious\"误判为\"奇怪的\"，或因不熟悉词根\"od-\"（仇恨）而猜测为\"有攻击性的\"",
+      "sentence": "The dictator's **odious** policies led to widespread suffering among the people.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人厌恶的；可憎的",
+            "iscorrect": true
+          },
+          {
+            "definition": "奇怪的；不寻常的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有攻击性的；暴力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "明显的；显而易见的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nectarous",
+      "error_analysis": "学生易因形近词“nectar”（花蜜）过度直译，或误将“nectarous”理解为“有花蜜的”而非其核心喻义“甜美的”。",
+      "sentence": "The honeybee buzzed around the **nectarous** blossoms, drawn by their sweet scent.",
+      "options": {
+        "option": [
+          {
+            "definition": "甜美的；像花蜜的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有花蜜的",
+            "iscorrect": false
+          },
+          {
+            "definition": "油桃的",
+            "iscorrect": false
+          },
+          {
+            "definition": "紧张的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

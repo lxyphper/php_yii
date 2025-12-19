@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to work on",
+      "error_analysis": "学生易将\"to work on\"直译为\"在...上面工作\"（字面误导），或混淆为\"为...工作\"（形近短语混淆）",
+      "sentence": "She's been **working on** her thesis for months and hopes to finish it soon.",
+      "options": {
+        "option": [
+          {
+            "definition": "致力于；从事（某项任务/项目）",
+            "iscorrect": true
+          },
+          {
+            "definition": "在...上面工作",
+            "iscorrect": false
+          },
+          {
+            "definition": "为...工作",
+            "iscorrect": false
+          },
+          {
+            "definition": "操作；使用（工具/设备）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

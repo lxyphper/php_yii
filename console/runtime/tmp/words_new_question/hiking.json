@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hiking",
+      "error_analysis": "学生易因“hike”作动词的“提升”义（词根误导）或形近词“biking”（骑自行车）混淆“hiking”的核心词义。",
+      "sentence": "We planned a weekend **hiking** trip to the mountains to enjoy the fresh air and beautiful scenery.",
+      "options": {
+        "option": [
+          {
+            "definition": "徒步旅行",
+            "iscorrect": true
+          },
+          {
+            "definition": "（价格、数量等的）提升",
+            "iscorrect": false
+          },
+          {
+            "definition": "骑自行车旅行",
+            "iscorrect": false
+          },
+          {
+            "definition": "隐藏",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "geriatrics",
+      "error_analysis": "学生易因形近词“genetics”（遗传学）产生混淆，或因不熟悉词根“ger-”（老人）而误猜为与“生长/发育”相关的医学分支",
+      "sentence": "Dr. Smith specializes in **geriatrics**, so she mainly treats elderly patients with age-related diseases like arthritis and dementia.",
+      "options": {
+        "option": [
+          {
+            "definition": "遗传学",
+            "iscorrect": false
+          },
+          {
+            "definition": "生长发育医学",
+            "iscorrect": false
+          },
+          {
+            "definition": "老年医学；老年病学",
+            "iscorrect": true
+          },
+          {
+            "definition": "神经医学",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

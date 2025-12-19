@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "undergraduate",
+      "error_analysis": "易因词根“under-”（在...之下）与“graduate”（毕业）的组合，错误推导为“未毕业的学生”，或与“graduate student”（研究生）混淆。",
+      "sentence": "She is an **undergraduate** studying biology at Harvard, and she plans to apply for graduate school next year.",
+      "options": {
+        "option": [
+          {
+            "definition": "本科生",
+            "iscorrect": true
+          },
+          {
+            "definition": "未毕业的学生",
+            "iscorrect": false
+          },
+          {
+            "definition": "研究生",
+            "iscorrect": false
+          },
+          {
+            "definition": "高中毕业生",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

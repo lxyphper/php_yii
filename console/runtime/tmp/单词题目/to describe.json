@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to describe",
+      "error_analysis": "学生易因形近词“prescribe”（开处方）或“desire”（渴望）的干扰，或词根“scribe”（写）的字面误导，将“to describe”错误理解为“开处方”“渴望”或“写下”。",
+      "sentence": "Can you **describe** the appearance of the new student to me? I haven’t met him yet.",
+      "options": {
+        "option": [
+          {
+            "definition": "描述；描绘",
+            "iscorrect": true
+          },
+          {
+            "definition": "开处方；规定",
+            "iscorrect": false
+          },
+          {
+            "definition": "写下；记录",
+            "iscorrect": false
+          },
+          {
+            "definition": "渴望；想要",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "municipality",
+      "error_analysis": "学生易将\"municipality\"误判为\"社区\"（形近/语义混淆）或\"市政设施\"（词根\"municipal\"误导）",
+      "sentence": "The local **municipality** is responsible for maintaining roads and public parks in the city.",
+      "options": {
+        "option": [
+          {
+            "definition": "社区",
+            "iscorrect": false
+          },
+          {
+            "definition": "市政当局",
+            "iscorrect": true
+          },
+          {
+            "definition": "市政设施",
+            "iscorrect": false
+          },
+          {
+            "definition": "居民委员会",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

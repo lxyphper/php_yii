@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "brood",
+      "error_analysis": "学生易因形近词“blood”（血液）或混淆“breed”（繁殖）而误判“brood”的词义。",
+      "sentence": "She didn’t join the party; instead, she stayed at home **brooding** over her problems.",
+      "options": {
+        "option": [
+          {
+            "definition": "血液",
+            "iscorrect": false
+          },
+          {
+            "definition": "繁殖",
+            "iscorrect": false
+          },
+          {
+            "definition": "宽的",
+            "iscorrect": false
+          },
+          {
+            "definition": "沉思；忧思",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

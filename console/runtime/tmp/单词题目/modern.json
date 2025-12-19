@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "modern",
+      "error_analysis": "混淆形近词'model'（模型）及误将'modern'理解为'时髦的'（fashionable）",
+      "sentence": "The museum exhibits **modern** artworks created in the last 50 years.",
+      "options": {
+        "option": [
+          {
+            "definition": "现代的（与当前或近期时间相关的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "模型的（用作榜样或范例的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "时髦的（符合当前流行趋势的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "模范的（值得学习的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

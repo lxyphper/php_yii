@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "confined",
+      "error_analysis": "核心易错点为形近词“confirmed”（确认的）干扰及词根“fine”（边界）的误解",
+      "sentence": "After the accident, he was **confined** to a wheelchair for several months.",
+      "options": {
+        "option": [
+          {
+            "definition": "确认的",
+            "iscorrect": false
+          },
+          {
+            "definition": "精细的",
+            "iscorrect": false
+          },
+          {
+            "definition": "限制的；禁闭的",
+            "iscorrect": true
+          },
+          {
+            "definition": "困惑的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

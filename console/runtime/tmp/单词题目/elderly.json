@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "elderly",
+      "error_analysis": "混淆形近词\"elder\"(长辈,名词)与\"elderly\"(年老的,形容词),或误将\"-ly\"后缀理解为副词标志",
+      "sentence": "The community center provides free meal delivery services for **elderly** people who have difficulty cooking.",
+      "options": {
+        "option": [
+          {
+            "definition": "年老的（形容词，用于描述人年纪大）",
+            "iscorrect": true
+          },
+          {
+            "definition": "长辈（名词，指比自己年长的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "年长地（副词，描述动作的方式）",
+            "iscorrect": false
+          },
+          {
+            "definition": "古老的（形容词，用于描述物品或地方存在时间长）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

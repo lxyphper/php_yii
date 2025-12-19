@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "adapter",
+      "error_analysis": "混淆形近词“adopter”（收养者/采纳者）与词根误导的“改编者/调整者”，忽略“适配器”核心义",
+      "sentence": "The new laptop lacks a standard HDMI port, so you’ll need an **adapter** to link it to your old monitor.",
+      "options": {
+        "option": [
+          {
+            "definition": "适配器（用于连接不同设备的转换装置，如接口或电源）",
+            "iscorrect": true
+          },
+          {
+            "definition": "收养者；采纳者（接受或采用某事物的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "改编者（将小说、剧本等改编成其他形式的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "调整者（改变事物以适应新情况的人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

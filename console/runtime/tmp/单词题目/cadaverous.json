@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cadaverous",
+      "error_analysis": "学生易因形近词“catastrophic”（灾难性的）混淆，或因与“cadence”（节奏）拼写相似而误猜为“有节奏的”",
+      "sentence": "The old man's **cadaverous** face, with sunken cheeks and hollow eyes, made him look like he hadn't eaten in weeks.",
+      "options": {
+        "option": [
+          {
+            "definition": "（面容）苍白消瘦的；像尸体的",
+            "iscorrect": true
+          },
+          {
+            "definition": "灾难性的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有节奏的",
+            "iscorrect": false
+          },
+          {
+            "definition": "强壮的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

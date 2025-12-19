@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to scratch",
+      "error_analysis": "中国学生易因形近词\"stretch\"(伸展)混淆词义，或误将\"scratch\"字面理解为\"写\"或\"寻找\"。",
+      "sentence": "The cat **scratched** the sofa with its claws, leaving several deep marks on the fabric.",
+      "options": {
+        "option": [
+          {
+            "definition": "刮；抓",
+            "iscorrect": true
+          },
+          {
+            "definition": "伸展；延伸",
+            "iscorrect": false
+          },
+          {
+            "definition": "写；潦草地记",
+            "iscorrect": false
+          },
+          {
+            "definition": "寻找；搜查",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to emigrate",
+      "error_analysis": "混淆“emigrate”（离国定居）与形近词“immigrate”（入境定居）或词根误导的“迁徙/移动”",
+      "sentence": "After saving for a decade, Mr. Li decided to **emigrate** from China to Australia to give his children better educational opportunities.",
+      "options": {
+        "option": [
+          {
+            "definition": "从本国移居到国外定居",
+            "iscorrect": true
+          },
+          {
+            "definition": "进入他国并永久定居",
+            "iscorrect": false
+          },
+          {
+            "definition": "（鸟类或动物）季节性迁徙",
+            "iscorrect": false
+          },
+          {
+            "definition": "短期前往国外旅游",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

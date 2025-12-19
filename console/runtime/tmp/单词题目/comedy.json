@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "comedy",
+      "error_analysis": "学生易因形近词“comic”（漫画）混淆，或词根“com-”（共同）+“-edy”（事件）误导，误将“comedy”理解为“漫画”或“共同事件”。",
+      "sentence": "The new movie is a hilarious **comedy** that made the whole audience laugh out loud.",
+      "options": {
+        "option": [
+          {
+            "definition": "漫画",
+            "iscorrect": false
+          },
+          {
+            "definition": "共同事件",
+            "iscorrect": false
+          },
+          {
+            "definition": "悲剧",
+            "iscorrect": false
+          },
+          {
+            "definition": "喜剧（指电影、戏剧等的类型）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

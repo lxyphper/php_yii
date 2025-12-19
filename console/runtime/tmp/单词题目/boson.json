@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "boson",
+      "error_analysis": "学生易因形近词\"boss\"（老板）产生误解，或通过词根猜测（如\"bon-\"表\"好\"）导致错误理解。",
+      "sentence": "In quantum physics, the Higgs **boson** is often referred to as the \"God particle\" due to its function in granting mass to other elementary particles.",
+      "options": {
+        "option": [
+          {
+            "definition": "玻色子（物理学中的基本粒子）",
+            "iscorrect": true
+          },
+          {
+            "definition": "老板；上司",
+            "iscorrect": false
+          },
+          {
+            "definition": "好的事物；有益的东西",
+            "iscorrect": false
+          },
+          {
+            "definition": "野牛；北美野牛",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

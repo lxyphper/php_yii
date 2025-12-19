@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "habitat",
+      "error_analysis": "将“habitat”误判为“习惯”（形近词“habit”干扰）或误释为“人类的居住场所”（词根“hab-”过度推导）",
+      "sentence": "The Amazon rainforest is a vital **habitat** for thousands of species of plants and animals.",
+      "options": {
+        "option": [
+          {
+            "definition": "习惯",
+            "iscorrect": false
+          },
+          {
+            "definition": "（动植物的）栖息地",
+            "iscorrect": true
+          },
+          {
+            "definition": "居民",
+            "iscorrect": false
+          },
+          {
+            "definition": "人类的居住场所",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

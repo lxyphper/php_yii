@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "universe",
+      "error_analysis": "易与形近词university（大学）混淆，或因词根uni-（单一）+verse（诗句）错误理解为“单一的诗句”",
+      "sentence": "Scientists are still exploring the mysteries of the **universe**, from black holes to distant galaxies.",
+      "options": {
+        "option": [
+          {
+            "definition": "宇宙；天地万物",
+            "iscorrect": true
+          },
+          {
+            "definition": "大学",
+            "iscorrect": false
+          },
+          {
+            "definition": "单一的诗句",
+            "iscorrect": false
+          },
+          {
+            "definition": "通用规则",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

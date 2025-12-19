@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "shopping bag",
+      "error_analysis": "中国学生易将“shopping”误看成“shipping”（形近）导致理解为“运输袋”，或直译为“商店的包”（字面误导）而非“购物袋”。",
+      "sentence": "She took her reusable **shopping bag** to the supermarket to carry the fruits and vegetables she bought.",
+      "options": {
+        "option": [
+          {
+            "definition": "购物袋（用来装购物物品的袋子）",
+            "iscorrect": true
+          },
+          {
+            "definition": "运输袋",
+            "iscorrect": false
+          },
+          {
+            "definition": "商店出售的包",
+            "iscorrect": false
+          },
+          {
+            "definition": "手提包",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

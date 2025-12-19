@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "simian",
+      "error_analysis": "学生易因形近词“similar”误解为“相似的”，或因词根猜测误认为“相同的”。",
+      "sentence": "The child's **simian** way of climbing trees and making loud calls reminded everyone of a monkey.",
+      "options": {
+        "option": [
+          {
+            "definition": "猿猴的；像猿猴的",
+            "iscorrect": true
+          },
+          {
+            "definition": "相似的",
+            "iscorrect": false
+          },
+          {
+            "definition": "相同的",
+            "iscorrect": false
+          },
+          {
+            "definition": "模拟的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

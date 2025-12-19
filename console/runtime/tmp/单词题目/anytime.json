@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "anytime",
+      "error_analysis": "学生易因形近词\"anyway\"（无论如何）混淆词义，或因\"any+time\"字面直译误解为\"任何一次时间\"。",
+      "sentence": "You can call me **anytime** if you need help.",
+      "options": {
+        "option": [
+          {
+            "definition": "随时；任何时候",
+            "iscorrect": true
+          },
+          {
+            "definition": "无论如何",
+            "iscorrect": false
+          },
+          {
+            "definition": "任何一次时间",
+            "iscorrect": false
+          },
+          {
+            "definition": "某个时候",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

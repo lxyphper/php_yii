@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to clap",
+      "error_analysis": "学生易因形近词“cap”（帽子）、“close”（关闭）的干扰或直觉认为是“敲打”，错误理解“to clap”的词义",
+      "sentence": "The children started to **clap** loudly when the clown showed up with balloons.",
+      "options": {
+        "option": [
+          {
+            "definition": "戴帽子",
+            "iscorrect": false
+          },
+          {
+            "definition": "关闭",
+            "iscorrect": false
+          },
+          {
+            "definition": "敲打，击打",
+            "iscorrect": false
+          },
+          {
+            "definition": "拍手，鼓掌",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

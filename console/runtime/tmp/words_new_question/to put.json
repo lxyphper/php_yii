@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to put",
+      "error_analysis": "中国学生易因形近词“cut”（切）或“push”（推）产生错误联想，将“to put”误理解为“切”或“推”。",
+      "sentence": "Could you **put** the milk carton back in the fridge after using it?",
+      "options": {
+        "option": [
+          {
+            "definition": "放；放置",
+            "iscorrect": true
+          },
+          {
+            "definition": "切；切割",
+            "iscorrect": false
+          },
+          {
+            "definition": "推；推动",
+            "iscorrect": false
+          },
+          {
+            "definition": "拿；取走",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

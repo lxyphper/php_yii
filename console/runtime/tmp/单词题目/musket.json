@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "musket",
+      "error_analysis": "学生易因形近词\"muscle\"(肌肉)或词根\"mus\"(音乐)误判\"musket\"为与肌肉或乐器相关。",
+      "sentence": "During the 18th-century battle, soldiers loaded their **muskets** with gunpowder before firing at the enemy.",
+      "options": {
+        "option": [
+          {
+            "definition": "肌肉",
+            "iscorrect": false
+          },
+          {
+            "definition": "乐器",
+            "iscorrect": false
+          },
+          {
+            "definition": "滑膛枪",
+            "iscorrect": true
+          },
+          {
+            "definition": "水壶",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

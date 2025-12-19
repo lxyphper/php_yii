@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to lounge",
+      "error_analysis": "混淆形近词“launch”（发射）的含义，或根据名词“休息室”错误推断动词为“待在休息室”",
+      "sentence": "After a long day at work, Sarah likes to **lounge** on the sofa with a good book.",
+      "options": {
+        "option": [
+          {
+            "definition": "懒散地坐或躺",
+            "iscorrect": true
+          },
+          {
+            "definition": "发射；启动",
+            "iscorrect": false
+          },
+          {
+            "definition": "待在休息室里",
+            "iscorrect": false
+          },
+          {
+            "definition": "长时间工作",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

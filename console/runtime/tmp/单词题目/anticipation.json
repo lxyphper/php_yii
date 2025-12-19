@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "anticipation",
+      "error_analysis": "中国学生易因形近词participation（参与）或词根anti-（反对）误导，将anticipation错误理解为“参与”或“反对”。",
+      "sentence": "The children waited for the birthday party with **anticipation**, jumping up and down excitedly.",
+      "options": {
+        "option": [
+          {
+            "definition": "参与；参加",
+            "iscorrect": false
+          },
+          {
+            "definition": "反对；对抗",
+            "iscorrect": false
+          },
+          {
+            "definition": "预期；期待",
+            "iscorrect": true
+          },
+          {
+            "definition": "欣赏；感激",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

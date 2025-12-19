@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stellar",
+      "error_analysis": "学生易因词根“stell-”（星星）错误理解为“与星星相关的”，而忽略其常用引申义“杰出的”。",
+      "sentence": "The young pianist gave a **stellar** performance at the concert, earning a standing ovation from the audience.",
+      "options": {
+        "option": [
+          {
+            "definition": "杰出的，优秀的",
+            "iscorrect": true
+          },
+          {
+            "definition": "与星星相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "钢铁般的",
+            "iscorrect": false
+          },
+          {
+            "definition": "安静的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

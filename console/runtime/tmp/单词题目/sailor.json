@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sailor",
+      "error_analysis": "中国学生易因形近词`tailor`（裁缝）混淆，或误将`sailor`理解为“航行的工具”（词根`-or`后缀的错误推导）",
+      "sentence": "The experienced **sailor** taught the new crew how to secure the cargo and fix the mast during a storm.",
+      "options": {
+        "option": [
+          {
+            "definition": "裁缝",
+            "iscorrect": false
+          },
+          {
+            "definition": "水手",
+            "iscorrect": true
+          },
+          {
+            "definition": "航行的工具",
+            "iscorrect": false
+          },
+          {
+            "definition": "渔民",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

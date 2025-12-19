@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "honest",
+      "error_analysis": "中国学生易因形近词“honor”（荣誉）将“honest”误判为“荣誉的”，或通过词根“hon”过度推导为“可敬的”。",
+      "sentence": "She is an **honest** person—she never tells lies to her friends.",
+      "options": {
+        "option": [
+          {
+            "definition": "诚实的",
+            "iscorrect": true
+          },
+          {
+            "definition": "荣誉的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可敬的",
+            "iscorrect": false
+          },
+          {
+            "definition": "幽默的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

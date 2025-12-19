@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "woe",
+      "error_analysis": "学生易将‘woe’（悲伤）与形近词‘owe’（欠）、‘wool’（羊毛）混淆，误判为债务或物品义。",
+      "sentence": "After losing his job and his dog in the same week, Tom could not hide his **woe** from his friends.",
+      "options": {
+        "option": [
+          {
+            "definition": "欠（钱）；负债",
+            "iscorrect": false
+          },
+          {
+            "definition": "羊毛；毛织品",
+            "iscorrect": false
+          },
+          {
+            "definition": "悲伤；苦恼；不幸",
+            "iscorrect": true
+          },
+          {
+            "definition": "狼；贪婪的人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

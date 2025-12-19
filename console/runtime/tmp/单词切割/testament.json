@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "testment",
+      "testement",
+      "testamant",
+      "tessament"
+    ],
+    "correct_chunks": [
+      "tes",
+      "ta",
+      "ment"
+    ],
+    "distractor_chunks": [
+      "test",
+      "te",
+      "mant",
+      "tess"
+    ]
+  },
+  0
+]

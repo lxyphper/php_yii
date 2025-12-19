@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pop-up",
+      "error_analysis": "学生易因“pop”的“流行”义误将“pop-up”理解为“流行的”，或因词根直译为“向上弹出的”",
+      "sentence": "When I opened the website, a **pop-up** ad appeared suddenly and blocked my view.",
+      "options": {
+        "option": [
+          {
+            "definition": "弹出式的（如广告、窗口）",
+            "iscorrect": true
+          },
+          {
+            "definition": "流行的",
+            "iscorrect": false
+          },
+          {
+            "definition": "向上弹出的",
+            "iscorrect": false
+          },
+          {
+            "definition": "响亮的（如声音）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "urgent",
+      "error_analysis": "因形近词\"current\"(当前的)混淆，或误从\"urge\"(催促)推导为\"催促的\"，导致错解\"urgent\"为\"当前的\"或\"催促的\"。",
+      "sentence": "The doctor emphasized that it's **urgent** to get the patient to the emergency room within 10 minutes.",
+      "options": {
+        "option": [
+          {
+            "definition": "紧急的",
+            "iscorrect": true
+          },
+          {
+            "definition": "当前的",
+            "iscorrect": false
+          },
+          {
+            "definition": "催促的",
+            "iscorrect": false
+          },
+          {
+            "definition": "重要的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

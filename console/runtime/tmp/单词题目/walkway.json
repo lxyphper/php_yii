@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "walkway",
+      "error_analysis": "学生易因\"way\"的\"方式\"含义将\"walkway\"误判为\"走路的方式\"，或混淆为\"人行道\"（相关词干扰）",
+      "sentence": "To reach Terminal 3, passengers must use the covered **walkway** linking Terminal 2 and the parking garage.",
+      "options": {
+        "option": [
+          {
+            "definition": "走路的方式",
+            "iscorrect": false
+          },
+          {
+            "definition": "步行通道；走道",
+            "iscorrect": true
+          },
+          {
+            "definition": "人行道",
+            "iscorrect": false
+          },
+          {
+            "definition": "步行旅行",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

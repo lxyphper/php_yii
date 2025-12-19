@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "phone number",
+      "error_analysis": "学生易因“number”表“数量”的熟义误解为“电话的数量”，或因形近词（如“phone”错看成“photo”）误判为“照片编号”",
+      "sentence": "Could you please share your **phone number**? I want to text you the party details tonight.",
+      "options": {
+        "option": [
+          {
+            "definition": "电话号码",
+            "iscorrect": true
+          },
+          {
+            "definition": "电话的数量",
+            "iscorrect": false
+          },
+          {
+            "definition": "照片编号",
+            "iscorrect": false
+          },
+          {
+            "definition": "电话成员",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

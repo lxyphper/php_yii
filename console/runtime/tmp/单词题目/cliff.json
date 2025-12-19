@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cliff",
+      "error_analysis": "学生易因形近词“climb”（爬）的联想将“cliff”误理解为“攀爬”，或因“cl-”与“close”（关闭）的字面关联误猜为“关闭的门”。",
+      "sentence": "We had to be careful not to fall off the **cliff** while taking photos of the sunset.",
+      "options": {
+        "option": [
+          {
+            "definition": "悬崖",
+            "iscorrect": true
+          },
+          {
+            "definition": "攀爬（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "关闭的门",
+            "iscorrect": false
+          },
+          {
+            "definition": "礼物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

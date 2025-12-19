@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "detective",
+      "error_analysis": "学生易因形近混淆\"detective\"与\"defective\"（有缺陷的），或因词根\"detect\"（察觉）错误推导为\"察觉的人\"而非\"侦探\"。",
+      "sentence": "The **detective** spent weeks gathering clues to solve the murder case.",
+      "options": {
+        "option": [
+          {
+            "definition": "侦探（负责调查案件的人）",
+            "iscorrect": true
+          },
+          {
+            "definition": "有缺陷的物品（如损坏的产品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "察觉的人（如观察到细节的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "装饰用的物品（如摆件、挂饰）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "winner",
+      "error_analysis": "中国学生易因形近词“winter”（冬天）混淆“winner”的词义，或误将其理解为“获胜的奖品”（指物而非指人）。",
+      "sentence": "The **winner** of the school talent show will perform at the end-of-year party.",
+      "options": {
+        "option": [
+          {
+            "definition": "冬天",
+            "iscorrect": false
+          },
+          {
+            "definition": "获胜的奖品",
+            "iscorrect": false
+          },
+          {
+            "definition": "晚餐",
+            "iscorrect": false
+          },
+          {
+            "definition": "赢家；获胜者",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

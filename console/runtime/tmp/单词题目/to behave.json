@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to behave",
+      "error_analysis": "学生易因形近词“believe”（相信）的拼写/发音相似，或词根“be-”+“have”的字面误导，将“behave”误判为“相信”或“使有”。",
+      "sentence": "The teacher told the students to **behave** during the field trip.",
+      "options": {
+        "option": [
+          {
+            "definition": "表现；行为举止",
+            "iscorrect": true
+          },
+          {
+            "definition": "相信",
+            "iscorrect": false
+          },
+          {
+            "definition": "使有；具备",
+            "iscorrect": false
+          },
+          {
+            "definition": "代表",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

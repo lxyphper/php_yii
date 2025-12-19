@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "compact",
+      "error_analysis": "学生易因形近词\"company\"（公司）误判为\"公司的\"，或因词根\"pact\"（契约）误将形容词\"compact\"理解为\"契约性的\"",
+      "sentence": "This **compact** camera fits easily into your bag, making it perfect for travel.",
+      "options": {
+        "option": [
+          {
+            "definition": "紧凑的；小巧的",
+            "iscorrect": true
+          },
+          {
+            "definition": "公司的",
+            "iscorrect": false
+          },
+          {
+            "definition": "契约性的",
+            "iscorrect": false
+          },
+          {
+            "definition": "比较的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

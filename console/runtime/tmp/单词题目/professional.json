@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "professional",
+      "error_analysis": "中国学生易因形近词“professor”（教授）误以为“professional”与教授相关，或因词根“profession”（职业）过度直译为“职业的”而非“专业的”。",
+      "sentence": "The **professional** dancer won first prize in the competition.",
+      "options": {
+        "option": [
+          {
+            "definition": "教授的",
+            "iscorrect": false
+          },
+          {
+            "definition": "职业的",
+            "iscorrect": false
+          },
+          {
+            "definition": "专业的",
+            "iscorrect": true
+          },
+          {
+            "definition": "业余的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

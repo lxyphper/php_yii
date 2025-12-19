@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to ask out",
+      "error_analysis": "学生易将\"ask\"（问）与\"out\"（出去）字面拼接，误解为\"向外询问\"或\"提出问题\"，忽略其\"邀请约会\"的核心义。",
+      "sentence": "Tom finally gathered the courage to **ask out** Sarah to the new romantic comedy this weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "邀请某人出去（约会）",
+            "iscorrect": true
+          },
+          {
+            "definition": "向外询问（例如问外面的天气）",
+            "iscorrect": false
+          },
+          {
+            "definition": "请求某人离开（例如让某人出去）",
+            "iscorrect": false
+          },
+          {
+            "definition": "提出问题（例如把问题说出来）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

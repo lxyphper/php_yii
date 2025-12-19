@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "awkwardly",
+      "error_analysis": "中国学生易因形近词\"awfully\"（可怕地）或词根\"ward\"（方向）误解\"awkwardly\"为\"可怕地\"或\"向前地\"",
+      "sentence": "She dropped the plate **awkwardly** and spilled soup all over the table.",
+      "options": {
+        "option": [
+          {
+            "definition": "笨拙地；尴尬地",
+            "iscorrect": true
+          },
+          {
+            "definition": "可怕地",
+            "iscorrect": false
+          },
+          {
+            "definition": "向前地",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

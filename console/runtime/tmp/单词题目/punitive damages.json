@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "punitive damages",
+      "error_analysis": "学生易因不熟悉“damages”表“赔偿金”的复数用法，将“punitive damages”误译为“惩罚性损害”，或因“punitive”与“preventive”（预防性的）形近混淆产生错误理解。",
+      "sentence": "The court ordered the company to pay $1 million in **punitive damages** for its intentional fraud against customers.",
+      "options": {
+        "option": [
+          {
+            "definition": "惩罚性赔偿金",
+            "iscorrect": true
+          },
+          {
+            "definition": "预防性损害",
+            "iscorrect": false
+          },
+          {
+            "definition": "惩罚性伤害",
+            "iscorrect": false
+          },
+          {
+            "definition": "积极的赔偿金",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

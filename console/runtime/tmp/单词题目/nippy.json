@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nippy",
+      "error_analysis": "学生易因形近词\"snippy\"(急躁的)或词根\"nip\"(捏)误将\"nippy\"理解为\"急躁的\"或\"尖锐疼痛的\"",
+      "sentence": "Put on a jacket before going out—this morning’s wind is **nippy** and might give you a chill.",
+      "options": {
+        "option": [
+          {
+            "definition": "（天气）寒冷的，刺骨的",
+            "iscorrect": true
+          },
+          {
+            "definition": "急躁的，没礼貌的",
+            "iscorrect": false
+          },
+          {
+            "definition": "尖锐疼痛的",
+            "iscorrect": false
+          },
+          {
+            "definition": "敏捷的，迅速的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

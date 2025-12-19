@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to prod",
+      "error_analysis": "学生易因形近词\"probe\"（探索）或与\"produce\"（生产）拼写相近而误判\"to prod\"的词义",
+      "sentence": "The teacher had to **prod** the shy student to answer the question.",
+      "options": {
+        "option": [
+          {
+            "definition": "催促；促使",
+            "iscorrect": true
+          },
+          {
+            "definition": "探索",
+            "iscorrect": false
+          },
+          {
+            "definition": "生产",
+            "iscorrect": false
+          },
+          {
+            "definition": "刺",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to part",
+      "error_analysis": "学生易基于名词“part”（部分）的字面义，将动词“to part”误解为“分成部分”，而非“分离”。",
+      "sentence": "When the train arrived, the couple had to **part** at the platform, tears in their eyes.",
+      "options": {
+        "option": [
+          {
+            "definition": "分离；分开（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "分成部分",
+            "iscorrect": false
+          },
+          {
+            "definition": "参与（如take part in）",
+            "iscorrect": false
+          },
+          {
+            "definition": "分开的（形容词，如apart）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

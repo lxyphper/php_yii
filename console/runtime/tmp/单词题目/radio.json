@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "radio",
+      "error_analysis": "中国学生易因形近词\"ratio\"（比率）混淆，或因\"rad-\"词根错误联想为\"激进的人\"。",
+      "sentence": "My grandma still listens to the **radio** every morning to get the latest news.",
+      "options": {
+        "option": [
+          {
+            "definition": "收音机；无线电",
+            "iscorrect": true
+          },
+          {
+            "definition": "比率；比例",
+            "iscorrect": false
+          },
+          {
+            "definition": "激进的人；极端分子",
+            "iscorrect": false
+          },
+          {
+            "definition": "半径；范围",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

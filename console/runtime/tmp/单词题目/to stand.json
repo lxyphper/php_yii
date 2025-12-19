@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to stand",
+      "error_analysis": "学生易将“stand”的“位于”义错解为“站着”（字面误导），或与形近词“stare”（盯着看）混淆。",
+      "sentence": "The old statue **stands** in the middle of the square.",
+      "options": {
+        "option": [
+          {
+            "definition": "位于",
+            "iscorrect": true
+          },
+          {
+            "definition": "盯着看",
+            "iscorrect": false
+          },
+          {
+            "definition": "站着",
+            "iscorrect": false
+          },
+          {
+            "definition": "忍受",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

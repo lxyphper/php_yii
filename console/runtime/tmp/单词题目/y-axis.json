@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "y-axis",
+      "error_analysis": "学生易混淆y-axis（纵轴）与x-axis（横轴）的方向，或因axis与axle（车轴）形近而误判",
+      "sentence": "In the graph, the **y-axis** represents the number of sales, while the x-axis shows the months of the year.",
+      "options": {
+        "option": [
+          {
+            "definition": "（图表中的）纵轴",
+            "iscorrect": true
+          },
+          {
+            "definition": "（图表中的）横轴",
+            "iscorrect": false
+          },
+          {
+            "definition": "y车轴",
+            "iscorrect": false
+          },
+          {
+            "definition": "y字母的轴线",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

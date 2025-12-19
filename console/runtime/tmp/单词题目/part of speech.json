@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "part of speech",
+      "error_analysis": "学生易将\"part of speech\"直译为\"演讲的部分\"或\"说话的片段\"，忽略其语法术语义\"词性\"",
+      "sentence": "When learning English grammar, you need to identify the **part of speech** of each word in the sentence, like whether it's a noun or a verb.",
+      "options": {
+        "option": [
+          {
+            "definition": "词性（如名词、动词等的词类）",
+            "iscorrect": true
+          },
+          {
+            "definition": "演讲的部分（如开头、结尾等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "说话的片段（如某句话的一部分）",
+            "iscorrect": false
+          },
+          {
+            "definition": "语音的组成部分（如发音的部分）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

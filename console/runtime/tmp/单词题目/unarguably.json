@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unarguably",
+      "error_analysis": "学生易因词根直拆误将'unarguably'理解为'不争论地'，或因形近混淆为'不可避免地'。",
+      "sentence": "Michael Jordan is **unarguably** one of the greatest basketball players of all time.",
+      "options": {
+        "option": [
+          {
+            "definition": "无可争辩地",
+            "iscorrect": true
+          },
+          {
+            "definition": "不可避免地",
+            "iscorrect": false
+          },
+          {
+            "definition": "不争论地",
+            "iscorrect": false
+          },
+          {
+            "definition": "不确定地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

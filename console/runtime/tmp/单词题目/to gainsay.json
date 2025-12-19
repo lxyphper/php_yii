@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to gainsay",
+      "error_analysis": "学生易将\"gainsay\"拆分为\"gain+say\"，误以为是\"获得说话机会\"或\"多说\"，而实际意为\"否认/反驳\"。",
+      "sentence": "Despite his attempts to defend himself, no one could **gainsay** the evidence of his guilt.",
+      "options": {
+        "option": [
+          {
+            "definition": "否认；反驳",
+            "iscorrect": true
+          },
+          {
+            "definition": "获得说话的权利",
+            "iscorrect": false
+          },
+          {
+            "definition": "重复强调某事",
+            "iscorrect": false
+          },
+          {
+            "definition": "同意；支持",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

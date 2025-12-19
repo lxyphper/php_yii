@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "meteorology",
+      "error_analysis": "学生易因\"meteor\"（流星）的形近联想，将\"meteorology\"误判为\"流星学\"（而非\"气象学\"）",
+      "sentence": "Her research in **meteorology** focuses on predicting extreme weather events like hurricanes and typhoons.",
+      "options": {
+        "option": [
+          {
+            "definition": "流星学",
+            "iscorrect": false
+          },
+          {
+            "definition": "气象学",
+            "iscorrect": true
+          },
+          {
+            "definition": "陨石学",
+            "iscorrect": false
+          },
+          {
+            "definition": "天文学",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

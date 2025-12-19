@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "homeostasis",
+      "error_analysis": "将前缀“homeo-”误联想为“home（家）”，结合“stasis”猜测为“家庭相关的稳定状态”，忽略“homeo-”表示“相同”的正确词根含义",
+      "sentence": "The human body maintains **homeostasis** by regulating temperature, pH, and blood sugar levels to keep its internal conditions stable.",
+      "options": {
+        "option": [
+          {
+            "definition": "家庭生活的稳定状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "（生物体内的）内环境稳定；动态平衡",
+            "iscorrect": true
+          },
+          {
+            "definition": "完全静止或停滞的状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "相同来源的静态物体",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

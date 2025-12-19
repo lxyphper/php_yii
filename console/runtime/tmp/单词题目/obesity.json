@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "obesity",
+      "error_analysis": "学生易因形近词\"obsession\"(痴迷)混淆词义，或因\"ob-\"（过度）+ 联想\"eat\"（吃）误判为\"过度进食\"。",
+      "sentence": "Regular exercise is often recommended to lower the risk of **obesity** and other chronic health conditions.",
+      "options": {
+        "option": [
+          {
+            "definition": "痴迷；执念",
+            "iscorrect": false
+          },
+          {
+            "definition": "肥胖症（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "过度进食；暴饮暴食",
+            "iscorrect": false
+          },
+          {
+            "definition": "障碍；阻碍",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

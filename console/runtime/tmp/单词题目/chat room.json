@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "chat room",
+      "error_analysis": "易因形近词\"chart\"混淆为\"图表室\"，或因字面直译误解为现实中的聊天房间",
+      "sentence": "Many teenagers used to make friends in the **chat room** of the online game platform.",
+      "options": {
+        "option": [
+          {
+            "definition": "网络上供用户实时聊天的虚拟空间",
+            "iscorrect": true
+          },
+          {
+            "definition": "用于展示图表的房间（如办公室里的图表室）",
+            "iscorrect": false
+          },
+          {
+            "definition": "人们面对面聊天的物理房间（如客厅或教室）",
+            "iscorrect": false
+          },
+          {
+            "definition": "存储聊天记录的电子文件",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

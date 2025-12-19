@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nothing",
+      "error_analysis": "中国学生易因形近词“noting”（注意）误判，或混淆“nothing”与“none”（没有一个）的词义。",
+      "sentence": "After checking the bag carefully, she found **nothing** inside.",
+      "options": {
+        "option": [
+          {
+            "definition": "没有东西；没有事情",
+            "iscorrect": true
+          },
+          {
+            "definition": "注意；记录",
+            "iscorrect": false
+          },
+          {
+            "definition": "没有一个（人/物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "任何东西",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "immigration",
+      "error_analysis": "易与形近词emigration（出境移民）混淆，或因词根im-方向误解为“移出”而非“移入”",
+      "sentence": "The government has introduced new **immigration** laws to manage the number of people coming to live in the country permanently.",
+      "options": {
+        "option": [
+          {
+            "definition": "（入境）移民；移民入境",
+            "iscorrect": true
+          },
+          {
+            "definition": "（出境）移民；移民出境",
+            "iscorrect": false
+          },
+          {
+            "definition": "不迁移的状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "临时访问的外国人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

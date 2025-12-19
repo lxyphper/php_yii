@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "good morning",
+      "error_analysis": "学生易将“good morning”的问候功能误判为字面的“美好的早晨”，或因形近时间短语混淆为“下午好”等其他时段的问候。",
+      "sentence": "When Tom meets his teacher at 8 a.m., he always says **good morning** politely before entering the classroom.",
+      "options": {
+        "option": [
+          {
+            "definition": "早上好（用于早上见面时的问候）",
+            "iscorrect": true
+          },
+          {
+            "definition": "下午好（用于下午见面时的问候）",
+            "iscorrect": false
+          },
+          {
+            "definition": "美好的早晨（描述早晨的状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "晚上好（用于晚上见面时的问候）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to deplane",
+      "error_analysis": "学生易因形近词\"deploy\"（部署）混淆，或因\"de-+plane\"词根误判为\"使飞机下降\"",
+      "sentence": "After the flight landed safely, passengers were asked to wait for 10 minutes before they could **deplane**.",
+      "options": {
+        "option": [
+          {
+            "definition": "下飞机",
+            "iscorrect": true
+          },
+          {
+            "definition": "部署",
+            "iscorrect": false
+          },
+          {
+            "definition": "使飞机下降",
+            "iscorrect": false
+          },
+          {
+            "definition": "登机",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

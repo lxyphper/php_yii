@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to mind",
+      "error_analysis": "学生易将动词to mind（介意）与形近词mend（修理）混淆，或误从名词mind（头脑）推导为“动脑”。",
+      "sentence": "Do you **mind** if I borrow your pen for a minute?",
+      "options": {
+        "option": [
+          {
+            "definition": "介意；在乎",
+            "iscorrect": true
+          },
+          {
+            "definition": "修理；修补",
+            "iscorrect": false
+          },
+          {
+            "definition": "动脑；思考",
+            "iscorrect": false
+          },
+          {
+            "definition": "注意；留意",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

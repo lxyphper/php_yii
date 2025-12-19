@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "frame",
+      "error_analysis": "学生易因形近词\"flame\"(火焰)或\"farm\"(农场)的拼写相似，混淆\"frame\"的核心义\"框架\"。",
+      "sentence": "The artist carefully placed the valuable painting into a carved wooden **frame** to prevent damage.",
+      "options": {
+        "option": [
+          {
+            "definition": "框架",
+            "iscorrect": true
+          },
+          {
+            "definition": "火焰",
+            "iscorrect": false
+          },
+          {
+            "definition": "农场",
+            "iscorrect": false
+          },
+          {
+            "definition": "名声",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

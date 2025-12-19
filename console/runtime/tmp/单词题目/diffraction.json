@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "diffraction",
+      "error_analysis": "易混淆形近词diffusion（扩散），或因词根fract-（打破）错误联想为“分裂”",
+      "sentence": "The faint rings around the moon during a lunar eclipse are caused by the **diffraction** of sunlight as it passes through Earth's atmosphere.",
+      "options": {
+        "option": [
+          {
+            "definition": "衍射（波遇到障碍物时偏离直线传播的现象）",
+            "iscorrect": true
+          },
+          {
+            "definition": "扩散（物质向周围分散的过程）",
+            "iscorrect": false
+          },
+          {
+            "definition": "分裂；破碎（使某物破裂成碎片）",
+            "iscorrect": false
+          },
+          {
+            "definition": "折射（光线通过介质时的方向改变）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

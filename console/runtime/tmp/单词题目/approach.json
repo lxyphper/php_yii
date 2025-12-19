@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "approach",
+      "error_analysis": "学生易因形近词‘approximate’（近似）的干扰将‘approach’误理解为‘大约/近似’，或因动名词义混淆将动词‘靠近’误判为名词‘方法’。",
+      "sentence": "As we **approached** the old pier, we saw seagulls flying around the fishing boats.",
+      "options": {
+        "option": [
+          {
+            "definition": "大约/近似",
+            "iscorrect": false
+          },
+          {
+            "definition": "方法/途径",
+            "iscorrect": false
+          },
+          {
+            "definition": "靠近/接近",
+            "iscorrect": true
+          },
+          {
+            "definition": "欣赏/感激",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

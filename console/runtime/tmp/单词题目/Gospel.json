@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Gospel",
+      "error_analysis": "易混淆形近词\"gossip\"(八卦)及词根误导的\"上帝的咒语\"",
+      "sentence": "The pastor emphasized that the **Gospel** of Jesus Christ is the central message of Christianity.",
+      "options": {
+        "option": [
+          {
+            "definition": "福音（基督教的好消息）",
+            "iscorrect": true
+          },
+          {
+            "definition": "八卦、闲聊",
+            "iscorrect": false
+          },
+          {
+            "definition": "上帝的咒语",
+            "iscorrect": false
+          },
+          {
+            "definition": "神圣的书籍",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

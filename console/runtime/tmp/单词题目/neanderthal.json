@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "neanderthal",
+      "error_analysis": "中国学生易混淆\"neanderthal\"的名词（尼安德特人）与形容词（思想落后）用法，或因\"thal\"误猜为\"tall\"而理解为\"高个子的人\"",
+      "sentence": "Many people consider his refusal to accept new ideas as **neanderthal** thinking.",
+      "options": {
+        "option": [
+          {
+            "definition": "思想僵化的，落后的（形容词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "尼安德特人（古人类，名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "高个子的人（词根误导：\"thal\"误联\"tall\"）",
+            "iscorrect": false
+          },
+          {
+            "definition": "机器人（形近词干扰：与\"android\"混淆）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

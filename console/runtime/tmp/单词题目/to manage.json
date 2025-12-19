@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to manage",
+      "error_analysis": "形近词“massage”（按摩）的干扰及词根“manus”（手）导致的“用手操作”误解",
+      "sentence": "She has to **manage** a team of 20 people while working on three projects at the same time.",
+      "options": {
+        "option": [
+          {
+            "definition": "管理；处理（事务或情况）",
+            "iscorrect": true
+          },
+          {
+            "definition": "按摩",
+            "iscorrect": false
+          },
+          {
+            "definition": "用手操作",
+            "iscorrect": false
+          },
+          {
+            "definition": "命令",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

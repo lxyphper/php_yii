@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to lunch",
+      "error_analysis": "学生易因\"lunch\"名词的熟悉度，误将动词\"to lunch\"理解为\"午餐\"（名词），或与形近词\"launch\"（发射）混淆",
+      "sentence": "Would you like to **lunch** at the new Italian restaurant with us today?",
+      "options": {
+        "option": [
+          {
+            "definition": "发射",
+            "iscorrect": false
+          },
+          {
+            "definition": "午餐",
+            "iscorrect": false
+          },
+          {
+            "definition": "吃午餐",
+            "iscorrect": true
+          },
+          {
+            "definition": "午餐时间",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

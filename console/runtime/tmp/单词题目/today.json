@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "today",
+      "error_analysis": "学生可能因拆分“today”为“to+day”错误联想为“到某一天”，或受形近词“toady”（马屁精）干扰，忽略其“今天”的核心义",
+      "sentence": "I plan to visit my grandma **today**.",
+      "options": {
+        "option": [
+          {
+            "definition": "今天",
+            "iscorrect": true
+          },
+          {
+            "definition": "到某一天",
+            "iscorrect": false
+          },
+          {
+            "definition": "马屁精",
+            "iscorrect": false
+          },
+          {
+            "definition": "明天",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

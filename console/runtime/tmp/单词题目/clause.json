@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "clause",
+      "error_analysis": "易与形近词cause（原因）混淆，或因词根联想错误理解为与“关闭”相关的含义",
+      "sentence": "The sentence \"When I finish my homework, I will watch TV\" contains two **clauses**.",
+      "options": {
+        "option": [
+          {
+            "definition": "原因",
+            "iscorrect": false
+          },
+          {
+            "definition": "关闭的部分",
+            "iscorrect": false
+          },
+          {
+            "definition": "从句（语法中包含主语和动词的分句）",
+            "iscorrect": true
+          },
+          {
+            "definition": "条款（合同中的条款）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "subtitle",
+      "error_analysis": "学生易因“sub-”（下）与“title”（标题）的组合，错误理解为“副标题”而非更常见的“字幕”。",
+      "sentence": "When watching a Korean drama, she prefers to use English **subtitles** instead of dubbing to improve her listening skills.",
+      "options": {
+        "option": [
+          {
+            "definition": "字幕（电影/剧集中显示对白的文字）",
+            "iscorrect": true
+          },
+          {
+            "definition": "副标题（文章/书籍中的小标题）",
+            "iscorrect": false
+          },
+          {
+            "definition": "代替标题（替换原有标题的文字）",
+            "iscorrect": false
+          },
+          {
+            "definition": "脚注（页面底部的补充说明）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

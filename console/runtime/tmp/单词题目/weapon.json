@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "weapon",
+      "error_analysis": "学生易因形近词“weaken”（削弱）的拼写相似产生混淆，或误将“weapon”理解为“工具”（词根/字面误导）",
+      "sentence": "The soldiers carried a variety of **weapons** into the battlefield, including guns and grenades.",
+      "options": {
+        "option": [
+          {
+            "definition": "武器",
+            "iscorrect": true
+          },
+          {
+            "definition": "削弱；使变弱",
+            "iscorrect": false
+          },
+          {
+            "definition": "工具；器具",
+            "iscorrect": false
+          },
+          {
+            "definition": "编织品；织物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

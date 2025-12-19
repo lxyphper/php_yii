@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to summarize",
+      "error_analysis": "学生易因词根“sum”（总和）误导认为“summarize”是“计算总和”，或因形近词“summer”（夏天）联想为无关动作",
+      "sentence": "After reading the article, please **summarize** the main points in three sentences.",
+      "options": {
+        "option": [
+          {
+            "definition": "总结；概括",
+            "iscorrect": true
+          },
+          {
+            "definition": "计算总和；求和",
+            "iscorrect": false
+          },
+          {
+            "definition": "度过夏天；去夏天",
+            "iscorrect": false
+          },
+          {
+            "definition": "详细描述；阐述",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

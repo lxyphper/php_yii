@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tournament",
+      "error_analysis": "学生易因形近'tour'（旅行）将'tournament'误理解为与旅行相关的活动（如'旅行团'）",
+      "sentence": "The annual tennis **tournament** will be held in Shanghai next month, attracting top players from around the world.",
+      "options": {
+        "option": [
+          {
+            "definition": "锦标赛；联赛",
+            "iscorrect": true
+          },
+          {
+            "definition": "旅行团；观光活动",
+            "iscorrect": false
+          },
+          {
+            "definition": "训练计划；练习项目",
+            "iscorrect": false
+          },
+          {
+            "definition": "研讨会；学术会议",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

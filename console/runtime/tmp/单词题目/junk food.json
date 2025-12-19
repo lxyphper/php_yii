@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "junk food",
+      "error_analysis": "学生可能因“junk”与“junior”（初级/儿童）形近误理解为“儿童食品”，或因“junk”字面“垃圾”误理解为“变质食品”。",
+      "sentence": "Eating too much **junk food** like potato chips and soda can lead to health problems like obesity.",
+      "options": {
+        "option": [
+          {
+            "definition": "垃圾食品（高热量、低营养的食品）",
+            "iscorrect": true
+          },
+          {
+            "definition": "儿童食品",
+            "iscorrect": false
+          },
+          {
+            "definition": "变质食品",
+            "iscorrect": false
+          },
+          {
+            "definition": "快餐",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

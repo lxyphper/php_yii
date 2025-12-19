@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to go against",
+      "error_analysis": "学生易因“go”（去）和“against”（对着）的字面义，将“to go against”误理解为“走向...对面”或“与...对抗”，而非核心义“反对/违背”。",
+      "sentence": "She decided to **go against** her parents' wishes and pursue a career in art.",
+      "options": {
+        "option": [
+          {
+            "definition": "反对；违背",
+            "iscorrect": true
+          },
+          {
+            "definition": "走向...对面",
+            "iscorrect": false
+          },
+          {
+            "definition": "与...对抗",
+            "iscorrect": false
+          },
+          {
+            "definition": "支持；赞成",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

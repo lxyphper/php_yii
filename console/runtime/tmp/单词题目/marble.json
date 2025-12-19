@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "marble",
+      "error_analysis": "中国学生易因'marble'与'marry'（结婚）形近误判为婚姻相关，或因'mar-'词根推测为海的石头。",
+      "sentence": "The palace walls were decorated with carved **marble**, adding a sense of luxury to the ancient building.",
+      "options": {
+        "option": [
+          {
+            "definition": "婚姻的信物",
+            "iscorrect": false
+          },
+          {
+            "definition": "海的岩石",
+            "iscorrect": false
+          },
+          {
+            "definition": "大理石",
+            "iscorrect": true
+          },
+          {
+            "definition": "木质的装饰",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

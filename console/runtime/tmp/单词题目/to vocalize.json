@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to vocalize",
+      "error_analysis": "学生易因形近词“visualize”（想象）混淆，或因词根“vocal”（声音的）误解为“大声说”或“唱歌”。",
+      "sentence": "She finally decided to **vocalize** her dissatisfaction with the new policy during the meeting.",
+      "options": {
+        "option": [
+          {
+            "definition": "想象；使可视化",
+            "iscorrect": false
+          },
+          {
+            "definition": "用言语表达；说出",
+            "iscorrect": true
+          },
+          {
+            "definition": "大声说；提高声音",
+            "iscorrect": false
+          },
+          {
+            "definition": "唱歌；演唱",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

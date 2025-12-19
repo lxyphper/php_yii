@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bunch",
+      "error_analysis": "学生易因形近词“bench”（长椅）或“bun”（小圆面包）混淆，或误联想为“绑；捆”",
+      "sentence": "She picked a **bunch** of roses from the garden to give to her mother.",
+      "options": {
+        "option": [
+          {
+            "definition": "一束；一串；一群",
+            "iscorrect": true
+          },
+          {
+            "definition": "长椅",
+            "iscorrect": false
+          },
+          {
+            "definition": "小圆面包",
+            "iscorrect": false
+          },
+          {
+            "definition": "绑；捆",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

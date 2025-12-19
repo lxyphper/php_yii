@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pi",
+      "error_analysis": "学生易因形近词\"pie\"（馅饼）或中文拼音\"皮\"的字面意思误判\"pi\"的含义",
+      "sentence": "In math class, the teacher explained that **pi** is a mathematical constant approximately equal to 3.14159, used to find the circumference of a circle.",
+      "options": {
+        "option": [
+          {
+            "definition": "馅饼（一种烘焙食品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "皮肤（人体表面的组织）",
+            "iscorrect": false
+          },
+          {
+            "definition": "别针（固定物品的小金属针）",
+            "iscorrect": false
+          },
+          {
+            "definition": "圆周率（数学中圆的周长与直径的比值）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

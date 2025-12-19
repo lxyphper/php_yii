@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lily",
+      "error_analysis": "学生易将'lily'（百合）与形近词'lively'（活泼的）混淆，或因词根联想误以为是'小的东西'。",
+      "sentence": "She picked a beautiful **lily** from the garden and put it in a vase.",
+      "options": {
+        "option": [
+          {
+            "definition": "百合（花）",
+            "iscorrect": true
+          },
+          {
+            "definition": "活泼的",
+            "iscorrect": false
+          },
+          {
+            "definition": "小的东西",
+            "iscorrect": false
+          },
+          {
+            "definition": "同盟",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

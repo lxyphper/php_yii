@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to succumb",
+      "error_analysis": "中国学生易因“succumb”与“success”拼写相似误以为是“成功”，或因拆分词根“su-”（下）和“-cumb”（猜测为“来”）错误推导为“下来”。",
+      "sentence": "After trying hard to resist, she finally **succumbed** to the temptation of buying the expensive bag.",
+      "options": {
+        "option": [
+          {
+            "definition": "成功；达成",
+            "iscorrect": false
+          },
+          {
+            "definition": "屈服；投降",
+            "iscorrect": true
+          },
+          {
+            "definition": "下来；到来",
+            "iscorrect": false
+          },
+          {
+            "definition": "遭受；经历",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

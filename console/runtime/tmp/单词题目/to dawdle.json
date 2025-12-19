@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to dawdle",
+      "error_analysis": "学生易因形近词‘waddle’（蹒跚）误解‘dawdle’为‘蹒跚行走’，或因无词根关联误判为‘闲聊’。",
+      "sentence": "Hurry up! Don’t **dawdle** or we’ll miss the bus!",
+      "options": {
+        "option": [
+          {
+            "definition": "磨蹭；拖延",
+            "iscorrect": true
+          },
+          {
+            "definition": "蹒跚行走",
+            "iscorrect": false
+          },
+          {
+            "definition": "闲聊；聊天",
+            "iscorrect": false
+          },
+          {
+            "definition": "徘徊；游荡",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

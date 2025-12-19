@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fidgety",
+      "error_analysis": "学生易因形近词\"fiddle\"（摆弄）或词根陌生而错误理解为\"喜欢摆弄的\"或\"情绪激动的\"",
+      "sentence": "The little boy became **fidgety** during the long lecture and kept shifting in his seat.",
+      "options": {
+        "option": [
+          {
+            "definition": "坐立不安的（难以保持静止的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "喜欢摆弄小物件的",
+            "iscorrect": false
+          },
+          {
+            "definition": "情绪激动的",
+            "iscorrect": false
+          },
+          {
+            "definition": "疲惫不堪的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

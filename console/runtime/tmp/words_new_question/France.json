@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "France",
+      "error_analysis": "学生易因形近词\"French\"（法国的）或词根拆分（fr-联想到free自由）误判\"France\"词义",
+      "sentence": "My friend is going to study in **France** next year, where she plans to learn French and visit the Louvre.",
+      "options": {
+        "option": [
+          {
+            "definition": "法国",
+            "iscorrect": true
+          },
+          {
+            "definition": "法国的",
+            "iscorrect": false
+          },
+          {
+            "definition": "自由",
+            "iscorrect": false
+          },
+          {
+            "definition": "跳舞",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

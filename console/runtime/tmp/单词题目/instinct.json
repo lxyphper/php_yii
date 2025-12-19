@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "instinct",
+      "error_analysis": "中国学生易因\"instinct\"与形近词\"institute\"（学院）或\"instrument\"（工具）混淆，或因词根\"in-\"+\"stinct\"错误推导为\"内在的刺激\"而误解其含义。",
+      "sentence": "Many animals rely on their **instinct** to find food and avoid danger in the wild.",
+      "options": {
+        "option": [
+          {
+            "definition": "本能",
+            "iscorrect": true
+          },
+          {
+            "definition": "学院",
+            "iscorrect": false
+          },
+          {
+            "definition": "内在的刺激",
+            "iscorrect": false
+          },
+          {
+            "definition": "工具",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

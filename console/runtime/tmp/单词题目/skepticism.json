@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "skepticism",
+      "error_analysis": "中国学生易因形近词“skeleton”（骨架）误以为与“骨架/结构”相关，或因词根“skept-”不熟悉误判为“思考探究的态度”",
+      "sentence": "Many scientists have expressed **skepticism** about the new theory until more evidence is provided.",
+      "options": {
+        "option": [
+          {
+            "definition": "怀疑态度；怀疑论",
+            "iscorrect": true
+          },
+          {
+            "definition": "骨架结构；骨骼状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "思考探究的态度",
+            "iscorrect": false
+          },
+          {
+            "definition": "悲观主义；消极态度",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to like",
+      "error_analysis": "学生易因形近词\"lick\"(舔)或介词\"like\"(像)的混淆，误判动词\"to like\"的核心义\"喜欢\"。",
+      "sentence": "Sarah wants to **like** her new school, but she misses her old friends.",
+      "options": {
+        "option": [
+          {
+            "definition": "舔",
+            "iscorrect": false
+          },
+          {
+            "definition": "像",
+            "iscorrect": false
+          },
+          {
+            "definition": "喜欢",
+            "iscorrect": true
+          },
+          {
+            "definition": "比如",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

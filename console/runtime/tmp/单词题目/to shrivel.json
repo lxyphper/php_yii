@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to shrivel",
+      "error_analysis": "学生易因形近词\"shovel\"(铲子)混淆，或误将\"shrivel\"理解为泛泛的\"缩小\"而非\"枯萎/皱缩\"。",
+      "sentence": "After weeks without rain, the once-lush leaves on the tree began to **shrivel** and fall to the ground.",
+      "options": {
+        "option": [
+          {
+            "definition": "（使）枯萎；（使）皱缩",
+            "iscorrect": true
+          },
+          {
+            "definition": "用铲子挖",
+            "iscorrect": false
+          },
+          {
+            "definition": "（使）缩小；收缩",
+            "iscorrect": false
+          },
+          {
+            "definition": "（使）滑动；滑行",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

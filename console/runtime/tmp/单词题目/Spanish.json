@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Spanish",
+      "error_analysis": "学生易因形近词\"spinach\"(菠菜)混淆，或误拆为\"span\"(跨度)+\"ish\"误以为\"跨度的\"。",
+      "sentence": "She decided to take **Spanish** lessons to better communicate with her colleagues from Madrid.",
+      "options": {
+        "option": [
+          {
+            "definition": "西班牙语的；西班牙的",
+            "iscorrect": true
+          },
+          {
+            "definition": "菠菜",
+            "iscorrect": false
+          },
+          {
+            "definition": "跨度的；延伸的",
+            "iscorrect": false
+          },
+          {
+            "definition": "螺旋的；盘旋的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

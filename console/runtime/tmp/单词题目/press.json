@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "press",
+      "error_analysis": "学生易根据词根“压”的含义将“the press”误解为“压力”或“按压的动作”，忽略其“新闻媒体”的核心名词义。",
+      "sentence": "The **press** gathered outside the hotel to interview the famous actor.",
+      "options": {
+        "option": [
+          {
+            "definition": "新闻媒体",
+            "iscorrect": true
+          },
+          {
+            "definition": "压力；按压的动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "催促；逼迫",
+            "iscorrect": false
+          },
+          {
+            "definition": "印刷机",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lobbyist",
+      "error_analysis": "将“lobbyist”误理解为“大厅工作人员”（因“lobby”意为“大厅”，“ist”指人）",
+      "sentence": "The **lobbyist** for the tech company met with senators to discuss new privacy laws.",
+      "options": {
+        "option": [
+          {
+            "definition": "游说者；说客",
+            "iscorrect": true
+          },
+          {
+            "definition": "大厅工作人员",
+            "iscorrect": false
+          },
+          {
+            "definition": "龙虾养殖户",
+            "iscorrect": false
+          },
+          {
+            "definition": "日志记录员",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

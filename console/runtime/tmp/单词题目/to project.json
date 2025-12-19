@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to project",
+      "error_analysis": "学生易混淆形近词“protect”（保护）或误将词根“pro-（向前）+ -ject（扔）”过度直译为“扔”而非“投射/预测”",
+      "sentence": "The museum uses a special device to **project** ancient paintings onto the wall for visitors to see clearly.",
+      "options": {
+        "option": [
+          {
+            "definition": "投射（光、影像等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "保护；防护",
+            "iscorrect": false
+          },
+          {
+            "definition": "扔；投掷",
+            "iscorrect": false
+          },
+          {
+            "definition": "计划；设计",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

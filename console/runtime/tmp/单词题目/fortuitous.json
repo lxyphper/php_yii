@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fortuitous",
+      "error_analysis": "学生易因形近词\"fortunate\"（幸运的）干扰，将\"fortuitous\"误判为\"幸运的\"，忽略其\"偶然\"的核心含义",
+      "sentence": "Their meeting at the bookstore was **fortuitous**—they had both been looking for the same rare book and ended up becoming business partners.",
+      "options": {
+        "option": [
+          {
+            "definition": "偶然的；意外的（尤指幸运的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "幸运的；吉祥的",
+            "iscorrect": false
+          },
+          {
+            "definition": "坚固的；堡垒般的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有成果的；多产的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

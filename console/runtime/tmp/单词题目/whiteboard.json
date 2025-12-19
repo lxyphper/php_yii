@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "whiteboard",
+      "error_analysis": "学生易因形近词“whitebread”（白面包）的干扰，或词根拆分后误理解为“白色的木板”（忽略其特定用途）",
+      "sentence": "The teacher wrote the new vocabulary on the **whiteboard** so all students could see it clearly.",
+      "options": {
+        "option": [
+          {
+            "definition": "白板（用于教学或会议的可书写板）",
+            "iscorrect": true
+          },
+          {
+            "definition": "白面包",
+            "iscorrect": false
+          },
+          {
+            "definition": "白色的木板",
+            "iscorrect": false
+          },
+          {
+            "definition": "白色的甲板",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

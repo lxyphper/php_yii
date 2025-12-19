@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "copyright",
+      "error_analysis": "易因形近词\"copywriter\"(文案作者)或词根\"copy+right\"过度直译为\"复制的权利\"而误解",
+      "sentence": "The artist registered the **copyright** for her new painting to protect her work from being reproduced without permission.",
+      "options": {
+        "option": [
+          {
+            "definition": "版权",
+            "iscorrect": true
+          },
+          {
+            "definition": "文案作者",
+            "iscorrect": false
+          },
+          {
+            "definition": "复制的权利",
+            "iscorrect": false
+          },
+          {
+            "definition": "商标",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

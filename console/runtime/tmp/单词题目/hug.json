@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hug",
+      "error_analysis": "学生易因形近词\"huge\"（巨大的）混淆词义，或因字面猜测为\"抓住\"等错误含义",
+      "sentence": "When I met my mom at the airport, she gave me a warm **hug** to show her love.",
+      "options": {
+        "option": [
+          {
+            "definition": "拥抱",
+            "iscorrect": true
+          },
+          {
+            "definition": "巨大的",
+            "iscorrect": false
+          },
+          {
+            "definition": "抓住",
+            "iscorrect": false
+          },
+          {
+            "definition": "虫子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "antenna",
+      "error_analysis": "学生易因形近词\"anthem\"(国歌)或\"ant\"(蚂蚁)的字面联想，误将\"antenna\"理解为\"国歌\"或\"蚂蚁的腿\"",
+      "sentence": "The old radio couldn’t pick up any signals because its **antenna** was broken.",
+      "options": {
+        "option": [
+          {
+            "definition": "天线",
+            "iscorrect": true
+          },
+          {
+            "definition": "国歌",
+            "iscorrect": false
+          },
+          {
+            "definition": "蚂蚁的腿",
+            "iscorrect": false
+          },
+          {
+            "definition": "古董",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

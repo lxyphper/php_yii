@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "worn-out",
+      "error_analysis": "学生易因词根拆分（worn=穿，out=出去）误理解为“穿出去的”，或与形近短语worn off（逐渐消失）混淆。",
+      "sentence": "My favorite sneakers are so **worn-out** that the soles are coming off.",
+      "options": {
+        "option": [
+          {
+            "definition": "磨损的；疲惫的",
+            "iscorrect": true
+          },
+          {
+            "definition": "穿出去的",
+            "iscorrect": false
+          },
+          {
+            "definition": "逐渐消失的",
+            "iscorrect": false
+          },
+          {
+            "definition": "过时的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

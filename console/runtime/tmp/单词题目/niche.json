@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "niche",
+      "error_analysis": "中国学生最易因形近词“nice”（好的）产生错误联想，或因发音接近“itch”（痒）而误判词义。",
+      "sentence": "Her handmade soaps fill a **niche** in the market for all-natural skincare products.",
+      "options": {
+        "option": [
+          {
+            "definition": "好的；令人愉快的",
+            "iscorrect": false
+          },
+          {
+            "definition": "痒的；渴望的",
+            "iscorrect": false
+          },
+          {
+            "definition": "壁龛；凹处",
+            "iscorrect": false
+          },
+          {
+            "definition": "特定领域；细分市场",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

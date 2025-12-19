@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "indulgent",
+      "error_analysis": "学生易因形近词\"indignant\"（愤怒的）混淆词义，或误将\"indulgent\"（纵容的）理解为\"沉迷的\"（indulged的被动义）。",
+      "sentence": "The mother was so **indulgent** that she let her son eat ice cream for breakfast every day.",
+      "options": {
+        "option": [
+          {
+            "definition": "纵容的；放任的",
+            "iscorrect": true
+          },
+          {
+            "definition": "愤怒的；愤慨的",
+            "iscorrect": false
+          },
+          {
+            "definition": "沉迷的；沉溺的",
+            "iscorrect": false
+          },
+          {
+            "definition": "懒惰的；懒散的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

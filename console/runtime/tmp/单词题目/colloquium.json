@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "colloquium",
+      "error_analysis": "学生易因形近词\"colleague\"(同事)混淆，或词根\"colloqu-\"(交谈)误导为\"日常对话\"，忽略其\"正式学术讨论会\"的核心含义",
+      "sentence": "The department will host a **colloquium** next week where leading scholars will discuss recent advances in artificial intelligence.",
+      "options": {
+        "option": [
+          {
+            "definition": "学术讨论会；专题座谈会",
+            "iscorrect": true
+          },
+          {
+            "definition": "同事；同僚",
+            "iscorrect": false
+          },
+          {
+            "definition": "日常对话；闲聊",
+            "iscorrect": false
+          },
+          {
+            "definition": "课堂讲座；授课",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

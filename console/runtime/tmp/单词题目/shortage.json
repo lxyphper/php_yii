@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "shortage",
+      "error_analysis": "学生易因形近词\"shorten\"(缩短)或词根\"short\"(短的)的字面误导，将\"shortage\"误理解为\"缩短\"或\"短的状态\"",
+      "sentence": "The recent drought has led to a severe **shortage** of drinking water in the village.",
+      "options": {
+        "option": [
+          {
+            "definition": "短缺；不足",
+            "iscorrect": true
+          },
+          {
+            "definition": "缩短（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "短的状态；简短",
+            "iscorrect": false
+          },
+          {
+            "definition": "不久；很快",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

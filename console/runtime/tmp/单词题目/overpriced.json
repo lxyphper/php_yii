@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "overpriced",
+      "error_analysis": "学生易因形近词“overpraised”（过度表扬的）混淆，或误将“overpriced”直译为“超过价格的”而非“定价过高的”。",
+      "sentence": "The café’s coffee tastes average, but it’s **overpriced** compared to other shops nearby.",
+      "options": {
+        "option": [
+          {
+            "definition": "定价过高的；太贵的",
+            "iscorrect": true
+          },
+          {
+            "definition": "过度表扬的",
+            "iscorrect": false
+          },
+          {
+            "definition": "超过价格的",
+            "iscorrect": false
+          },
+          {
+            "definition": "价格上涨的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

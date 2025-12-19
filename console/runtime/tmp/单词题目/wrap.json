@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wrap",
+      "error_analysis": "中国学生易因形近词\"warp\"(弯曲;扭曲)或发音相近的\"rap\"(说唱;敲打)混淆\"wrap\"的核心词义\"包装;包裹\"",
+      "sentence": "She asked me to **wrap** the birthday present with colorful paper before giving it to her sister.",
+      "options": {
+        "option": [
+          {
+            "definition": "包装；包裹",
+            "iscorrect": true
+          },
+          {
+            "definition": "弯曲；扭曲",
+            "iscorrect": false
+          },
+          {
+            "definition": "说唱；敲打",
+            "iscorrect": false
+          },
+          {
+            "definition": "等待；等候",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

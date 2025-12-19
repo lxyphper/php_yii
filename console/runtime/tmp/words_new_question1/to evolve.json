@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to evolve",
+      "error_analysis": "因形近词“revolve”（旋转）及词根“volve”（滚动）的影响，易误理解为“旋转”或“卷起”。",
+      "sentence": "Over millions of years, species **evolve** to adapt to changes in their environment.",
+      "options": {
+        "option": [
+          {
+            "definition": "进化；发展",
+            "iscorrect": true
+          },
+          {
+            "definition": "旋转；绕转",
+            "iscorrect": false
+          },
+          {
+            "definition": "卷起；缠绕",
+            "iscorrect": false
+          },
+          {
+            "definition": "变化；改变",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

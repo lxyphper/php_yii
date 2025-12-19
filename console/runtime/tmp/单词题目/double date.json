@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "double date",
+      "error_analysis": "将“double date”字面理解为“一个人在同一天的两次单独约会”或“两个不同的日期”，忽略其“两对情侣一起约会”的核心含义",
+      "sentence": "Lisa and Paul suggested a **double date** with us and their friends Emma and Jack—we can all go see the movie together this Friday.",
+      "options": {
+        "option": [
+          {
+            "definition": "两对情侣一起进行的约会",
+            "iscorrect": true
+          },
+          {
+            "definition": "一个人在同一天的两次单独约会",
+            "iscorrect": false
+          },
+          {
+            "definition": "两个不同的日期（如农历和公历）",
+            "iscorrect": false
+          },
+          {
+            "definition": "与伴侣的第二次约会",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "glassy",
+      "error_analysis": "学生易因形近词“glass”（玻璃）误将“glassy”理解为“玻璃制成的”，或因词根联想误判为“透明的”，忽略其“（表面）光滑有光泽的”核心含义。",
+      "sentence": "The lake was **glassy** in the morning, reflecting the trees along the shore like a mirror.",
+      "options": {
+        "option": [
+          {
+            "definition": "玻璃制成的",
+            "iscorrect": false
+          },
+          {
+            "definition": "透明的",
+            "iscorrect": false
+          },
+          {
+            "definition": "深不见底的",
+            "iscorrect": false
+          },
+          {
+            "definition": "（表面）光滑有光泽的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

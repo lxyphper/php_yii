@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "only",
+      "error_analysis": "学生易因形近词“lonely”（孤独的）或“one”（一）的联想，误将“only”理解为“孤独的”或“一个”。",
+      "sentence": "We can **only** stay for two hours.",
+      "options": {
+        "option": [
+          {
+            "definition": "仅仅；只有",
+            "iscorrect": true
+          },
+          {
+            "definition": "孤独的",
+            "iscorrect": false
+          },
+          {
+            "definition": "一个",
+            "iscorrect": false
+          },
+          {
+            "definition": "刚刚",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

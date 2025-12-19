@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "homeland",
+      "error_analysis": "学生易通过\"home+land\"的字面组合错误理解为\"家乡\"（hometown），而非正确的\"祖国\"。",
+      "sentence": "Many overseas Chinese carry a strong sense of pride in their **homeland** and often share its culture with people from other countries.",
+      "options": {
+        "option": [
+          {
+            "definition": "祖国（motherland）",
+            "iscorrect": true
+          },
+          {
+            "definition": "家乡（hometown）",
+            "iscorrect": false
+          },
+          {
+            "definition": "家庭土地（family land）",
+            "iscorrect": false
+          },
+          {
+            "definition": "祖籍地（ancestral land）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

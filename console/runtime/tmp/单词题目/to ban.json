@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to ban",
+      "error_analysis": "中国学生易因形近词“band”（乐队）混淆“to ban”，或误将其与“banish”（驱逐）关联导致含义偏差。",
+      "sentence": "The school decided to **ban** cellphones in classrooms to help students concentrate better.",
+      "options": {
+        "option": [
+          {
+            "definition": "禁止",
+            "iscorrect": true
+          },
+          {
+            "definition": "组建乐队",
+            "iscorrect": false
+          },
+          {
+            "definition": "驱逐",
+            "iscorrect": false
+          },
+          {
+            "definition": "限制",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

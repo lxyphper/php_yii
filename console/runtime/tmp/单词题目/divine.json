@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "divine",
+      "error_analysis": "学生易因形近词“divide”（分开）或拆分“di+vine”（二+葡萄藤）而误判“divine”为“分开的”或“葡萄藤相关的”。",
+      "sentence": "Many ancient cultures believed that the sun had **divine** powers and worshipped it as a god.",
+      "options": {
+        "option": [
+          {
+            "definition": "神圣的；神的",
+            "iscorrect": true
+          },
+          {
+            "definition": "分开的；分割的",
+            "iscorrect": false
+          },
+          {
+            "definition": "葡萄藤的；与葡萄藤相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "设备的；装置的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

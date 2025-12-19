@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "overcoat",
+      "error_analysis": "学生可能因“over-”前缀的“在...之上”含义错误推导为“穿在普通外套之上的衣物”，或因形近词（如overcome）干扰误解为非衣物类含义。",
+      "sentence": "She put on her **overcoat** before going out into the snow, as the temperature had dropped below zero.",
+      "options": {
+        "option": [
+          {
+            "definition": "大衣（长款保暖外套，用于寒冷天气）",
+            "iscorrect": true
+          },
+          {
+            "definition": "穿在普通外套之上的衣物",
+            "iscorrect": false
+          },
+          {
+            "definition": "克服（战胜困难）",
+            "iscorrect": false
+          },
+          {
+            "definition": "阴沉的天气",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

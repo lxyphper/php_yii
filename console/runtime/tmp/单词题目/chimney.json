@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "chimney",
+      "error_analysis": "学生易因形近词\"chain\"(链条)或\"chime\"(鸣响)干扰，将\"chimney\"误判为\"链条\"或\"鸣响的装置\"",
+      "sentence": "The smoke from the fireplace rose up through the **chimney** and disappeared into the sky.",
+      "options": {
+        "option": [
+          {
+            "definition": "链条",
+            "iscorrect": false
+          },
+          {
+            "definition": "鸣响的装置",
+            "iscorrect": false
+          },
+          {
+            "definition": "鸡舍",
+            "iscorrect": false
+          },
+          {
+            "definition": "烟囱",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lightning",
+      "error_analysis": "中国学生易因形近词“lighting”（照明）或“lightening”（变亮/减轻）干扰，将“lightning”误判为“照明”“变亮”等义。",
+      "sentence": "The sudden **lightning** lit up the dark sky, followed by a loud thunder.",
+      "options": {
+        "option": [
+          {
+            "definition": "闪电",
+            "iscorrect": true
+          },
+          {
+            "definition": "照明",
+            "iscorrect": false
+          },
+          {
+            "definition": "变亮",
+            "iscorrect": false
+          },
+          {
+            "definition": "光线",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

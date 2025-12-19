@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "challenging",
+      "error_analysis": "学生易因形近词\"charming\"（迷人的）混淆词义，或因词根\"challenge\"过度推导为\"有攻击性的\"",
+      "sentence": "She finds learning to play the piano **challenging** but enjoyable, as it requires lots of practice.",
+      "options": {
+        "option": [
+          {
+            "definition": "迷人的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有攻击性的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有挑战性的",
+            "iscorrect": true
+          },
+          {
+            "definition": "变化的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

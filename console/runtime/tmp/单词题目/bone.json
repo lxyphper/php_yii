@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bone",
+      "error_analysis": "中国学生易将“bone”与形近词“bore”（令人厌烦的）或“born”（出生）混淆，或受法语“bon”（好的）影响误判词义",
+      "sentence": "The dog buried a **bone** in the garden and forgot where it was.",
+      "options": {
+        "option": [
+          {
+            "definition": "骨头",
+            "iscorrect": true
+          },
+          {
+            "definition": "令人厌烦的人或事",
+            "iscorrect": false
+          },
+          {
+            "definition": "出生",
+            "iscorrect": false
+          },
+          {
+            "definition": "好的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

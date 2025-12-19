@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to look up",
+      "error_analysis": "学生易将\"look up\"字面拆分为\"看+向上\"，误理解为\"向上看\"，而非其核心义\"查阅（信息）\"",
+      "sentence": "If you don’t know the meaning of this word, you should **look it up** in a dictionary.",
+      "options": {
+        "option": [
+          {
+            "definition": "查阅（如字典、信息）",
+            "iscorrect": true
+          },
+          {
+            "definition": "向上看；抬头看",
+            "iscorrect": false
+          },
+          {
+            "definition": "尊敬；钦佩",
+            "iscorrect": false
+          },
+          {
+            "definition": "照顾；照料",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

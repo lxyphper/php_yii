@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "distrustful",
+      "error_analysis": "学生易因形近词将distrustful误判为“令人痛苦的”(distressful)，或因词根联想偏差理解为“不忠实的”。",
+      "sentence": "After being lied to several times, she became **distrustful** of all his promises.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人痛苦的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不忠实的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不信任的",
+            "iscorrect": true
+          },
+          {
+            "definition": "令人厌恶的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

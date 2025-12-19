@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "extroverted",
+      "error_analysis": "学生易因形近词“extracted”（提取的）混淆，或因“extro-（向外）+ vert（转）”词根错误推导为“杰出的”。",
+      "sentence": "Lisa is very **extroverted**—she loves attending parties and easily makes friends with everyone she meets.",
+      "options": {
+        "option": [
+          {
+            "definition": "性格外向的；爱社交的",
+            "iscorrect": true
+          },
+          {
+            "definition": "提取的；抽出的",
+            "iscorrect": false
+          },
+          {
+            "definition": "杰出的；优秀的",
+            "iscorrect": false
+          },
+          {
+            "definition": "内向的；害羞的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

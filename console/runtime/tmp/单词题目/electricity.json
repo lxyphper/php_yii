@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "electricity",
+      "error_analysis": "中国学生易因形近词（如electron电子）或词根误导（将electric电动的加-ity误判为电动设备）错解词义。",
+      "sentence": "The city was plunged into darkness when the **electricity** supply was cut off during the storm.",
+      "options": {
+        "option": [
+          {
+            "definition": "电（一种能产生光、热和动力的能量形式）",
+            "iscorrect": true
+          },
+          {
+            "definition": "电子（构成原子的带负电粒子）",
+            "iscorrect": false
+          },
+          {
+            "definition": "电动工具（如电钻、电锯等由电驱动的设备）",
+            "iscorrect": false
+          },
+          {
+            "definition": "电工（从事电力安装或维修工作的人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

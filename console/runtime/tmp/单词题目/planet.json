@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "planet",
+      "error_analysis": "中国学生易因形近词“plant”（植物）的拼写接近而将“planet”误判为“植物”",
+      "sentence": "Earth is the only **planet** in the solar system known to support life.",
+      "options": {
+        "option": [
+          {
+            "definition": "植物",
+            "iscorrect": false
+          },
+          {
+            "definition": "行星",
+            "iscorrect": true
+          },
+          {
+            "definition": "平面",
+            "iscorrect": false
+          },
+          {
+            "definition": "飞机",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

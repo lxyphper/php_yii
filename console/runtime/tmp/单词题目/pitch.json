@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pitch",
+      "error_analysis": "学生易混淆形近词“patch”（补丁），或误从字面联想为“坑”（pit）的相关义。",
+      "sentence": "The singer had to adjust her **pitch** to match the key of the piano.",
+      "options": {
+        "option": [
+          {
+            "definition": "补丁（衣物上的补片）",
+            "iscorrect": false
+          },
+          {
+            "definition": "音调（声音的高低程度）",
+            "iscorrect": true
+          },
+          {
+            "definition": "坑（地面的凹陷处）",
+            "iscorrect": false
+          },
+          {
+            "definition": "价格（商品的售价）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

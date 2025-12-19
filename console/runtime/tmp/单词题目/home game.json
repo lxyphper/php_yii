@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "home game",
+      "error_analysis": "学生易将\"home game\"字面直译为\"家庭游戏\"（如在家玩的游戏），忽略其\"体育主场比赛\"的核心词义。",
+      "sentence": "The basketball team is confident they can win the **home game** tomorrow because their fans will be cheering loudly in the stadium.",
+      "options": {
+        "option": [
+          {
+            "definition": "（体育比赛的）主场比赛",
+            "iscorrect": true
+          },
+          {
+            "definition": "家庭游戏（如在家玩的棋盘游戏或电子游戏）",
+            "iscorrect": false
+          },
+          {
+            "definition": "国内游戏（如在中国举办的国际游戏赛事）",
+            "iscorrect": false
+          },
+          {
+            "definition": "本土传统游戏（如民间流传的特色游戏）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

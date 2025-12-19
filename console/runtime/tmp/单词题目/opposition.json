@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "opposition",
+      "error_analysis": "学生易因形近词“opposite”（相反的）将“opposition”误解为“相反的事物”，或因词根“oppose”（反对）误判为“反对的具体行为”。",
+      "sentence": "The mayor encountered fierce **opposition** from local residents when proposing the new highway.",
+      "options": {
+        "option": [
+          {
+            "definition": "反对（的立场或意见）",
+            "iscorrect": true
+          },
+          {
+            "definition": "相反的事物",
+            "iscorrect": false
+          },
+          {
+            "definition": "反对的具体行为",
+            "iscorrect": false
+          },
+          {
+            "definition": "阻碍的事物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

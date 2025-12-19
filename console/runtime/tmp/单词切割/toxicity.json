@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "toxity",
+      "toxicety",
+      "tokxicity",
+      "toxocity"
+    ],
+    "correct_chunks": [
+      "tox",
+      "ic",
+      "ity"
+    ],
+    "distractor_chunks": [
+      "tok",
+      "ety",
+      "oc",
+      "toc"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sound",
+      "error_analysis": "中国学生常将形容词\"sound\"（健康的/合理的）误解为\"声音的\"（字面含义延伸），或因形近联想到\"round\"（圆的）等词。",
+      "sentence": "The doctor confirmed that the old man's heart is **sound** despite his age.",
+      "options": {
+        "option": [
+          {
+            "definition": "健康的",
+            "iscorrect": true
+          },
+          {
+            "definition": "声音的",
+            "iscorrect": false
+          },
+          {
+            "definition": "圆的",
+            "iscorrect": false
+          },
+          {
+            "definition": "发现的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

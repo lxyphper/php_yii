@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "melon",
+      "error_analysis": "学生易因形近词\"lemon\"（柠檬）混淆，或因词根\"mel-\"（蜂蜜）误猜为\"蜂蜜\"。",
+      "sentence": "She cut a fresh **melon** into slices and served them with yogurt for dessert.",
+      "options": {
+        "option": [
+          {
+            "definition": "甜瓜；瓜",
+            "iscorrect": true
+          },
+          {
+            "definition": "柠檬",
+            "iscorrect": false
+          },
+          {
+            "definition": "蜂蜜",
+            "iscorrect": false
+          },
+          {
+            "definition": "苹果",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

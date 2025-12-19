@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to dissipate",
+      "error_analysis": "学生易因形近词“dissolve”（溶解）混淆“dissipate”的“消散”义，或因词根“dis-”错误推导为“解体”。",
+      "sentence": "After the rain stopped, the dark clouds began to **dissipate**, allowing the sun to shine through.",
+      "options": {
+        "option": [
+          {
+            "definition": "溶解",
+            "iscorrect": false
+          },
+          {
+            "definition": "解体",
+            "iscorrect": false
+          },
+          {
+            "definition": "消散；消失",
+            "iscorrect": true
+          },
+          {
+            "definition": "浪费",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

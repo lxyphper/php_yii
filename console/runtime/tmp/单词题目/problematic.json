@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "problematic",
+      "error_analysis": "学生易因词根“problem”（问题）的字面联想，将“problematic”误理解为“关于问题的”或“解决问题的”，而非其核心含义“有问题的；引起问题的”。",
+      "sentence": "The new policy has proven to be **problematic** for small businesses, as it increases their operational costs significantly.",
+      "options": {
+        "option": [
+          {
+            "definition": "有问题的；引起问题的",
+            "iscorrect": true
+          },
+          {
+            "definition": "关于问题的",
+            "iscorrect": false
+          },
+          {
+            "definition": "解决问题的",
+            "iscorrect": false
+          },
+          {
+            "definition": "纲领性的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

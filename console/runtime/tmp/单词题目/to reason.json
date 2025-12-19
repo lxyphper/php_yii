@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to reason",
+      "error_analysis": "学生易将动词to reason误解为“给出理由”（来自名词reason的字面推导）或混淆为形近词season的“调味”之意。",
+      "sentence": "To solve the math problem, you need to **reason** step by step instead of guessing randomly.",
+      "options": {
+        "option": [
+          {
+            "definition": "推理；逻辑思考",
+            "iscorrect": true
+          },
+          {
+            "definition": "调味（给食物添加调料）",
+            "iscorrect": false
+          },
+          {
+            "definition": "给出理由（解释某事的原因）",
+            "iscorrect": false
+          },
+          {
+            "definition": "辞职（离开当前的工作）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to execute",
+      "error_analysis": "形近词\"exercise\"（锻炼）的干扰，及词根\"secut-\"（跟随）可能误导为\"跟随\"或\"导出\"",
+      "sentence": "The company plans to **execute** the new strategy next month to improve efficiency.",
+      "options": {
+        "option": [
+          {
+            "definition": "锻炼",
+            "iscorrect": false
+          },
+          {
+            "definition": "执行（计划、命令等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "导出（数据等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "跟随（某人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

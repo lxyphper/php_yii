@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "unindentified flying object",
+      "unidentified flyng object",
+      "unidentified flying obect",
+      "unidentifed flying object"
+    ],
+    "correct_chunks": [
+      "un-",
+      "identified",
+      "flying",
+      "object"
+    ],
+    "distractor_chunks": [
+      "indentified",
+      "flyng",
+      "obect",
+      "unidentifed"
+    ]
+  },
+  0
+]

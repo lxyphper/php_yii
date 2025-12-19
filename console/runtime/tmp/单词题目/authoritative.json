@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "authoritative",
+      "error_analysis": "学生易因形近词“author”（作者）误将“authoritative”理解为“作者的”，或因词根“authority”（权威）过度推导为“有权力的”而非“可信的权威的”。",
+      "sentence": "The professor recommended an **authoritative** textbook for the course, which is widely used by universities worldwide.",
+      "options": {
+        "option": [
+          {
+            "definition": "作者的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有权力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "权威的；可信的",
+            "iscorrect": true
+          },
+          {
+            "definition": "独裁的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

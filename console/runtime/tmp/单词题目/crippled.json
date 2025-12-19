@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "crippled",
+      "error_analysis": "学生易将“crippled”与形近词“cried”（哭的过去式）混淆，或因词根猜测误判为“压碎的”。",
+      "sentence": "The accident left him **crippled** for life.",
+      "options": {
+        "option": [
+          {
+            "definition": "残疾的；使瘫痪（的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "哭泣的（cry的过去式）",
+            "iscorrect": false
+          },
+          {
+            "definition": "压碎的（crush的过去分词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "收割的（crop的过去式）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

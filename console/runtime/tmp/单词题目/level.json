@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "level",
+      "error_analysis": "学生易混淆形近词“lever”（杠杆）的含义，或误将动词“level”理解为“测量”而非“调整使水平”。",
+      "sentence": "To make the table stable, you need to **level** its legs first.",
+      "options": {
+        "option": [
+          {
+            "definition": "调整使水平",
+            "iscorrect": true
+          },
+          {
+            "definition": "杠杆",
+            "iscorrect": false
+          },
+          {
+            "definition": "测量",
+            "iscorrect": false
+          },
+          {
+            "definition": "标签",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

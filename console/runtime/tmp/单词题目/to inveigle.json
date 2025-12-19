@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to inveigle",
+      "error_analysis": "学生易因形近词\"invite\"（邀请）或\"inveigh\"（抱怨；猛烈抨击）的干扰，将\"inveigle\"误判为中性或无关含义。",
+      "sentence": "The con artist managed to **inveigle** the young woman out of her savings by pretending to be a wealthy investor.",
+      "options": {
+        "option": [
+          {
+            "definition": "诱骗；引诱（用花言巧语或欺骗手段）",
+            "iscorrect": true
+          },
+          {
+            "definition": "邀请",
+            "iscorrect": false
+          },
+          {
+            "definition": "抱怨；猛烈抨击",
+            "iscorrect": false
+          },
+          {
+            "definition": "说服；劝服（中性）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

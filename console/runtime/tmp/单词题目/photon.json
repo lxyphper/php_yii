@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "photon",
+      "error_analysis": "学生易因形近词“proton”（质子）混淆“photon”的含义，或误将其理解为“光线”而非光的基本粒子。",
+      "sentence": "The energy of a **photon** depends on the frequency of the light it carries.",
+      "options": {
+        "option": [
+          {
+            "definition": "光子（光的基本粒子）",
+            "iscorrect": true
+          },
+          {
+            "definition": "质子（构成原子核的带正电粒子）",
+            "iscorrect": false
+          },
+          {
+            "definition": "光线（光的直线传播路径）",
+            "iscorrect": false
+          },
+          {
+            "definition": "照片（用相机拍摄的图像）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to bombard",
+      "error_analysis": "学生易因形近词\"bomb\"（炸弹）误解为\"用炸弹攻击\"，或因词根联想错误认为是\"爆炸\"，忽略其\"大量发送（信息等）\"的常用比喻义",
+      "sentence": "After signing up for the newsletter, she was **bombarded** with daily promotional emails.",
+      "options": {
+        "option": [
+          {
+            "definition": "大量发送（信息、请求等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "用炸弹袭击",
+            "iscorrect": false
+          },
+          {
+            "definition": "突然爆炸",
+            "iscorrect": false
+          },
+          {
+            "definition": "用力敲击",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "boneheaded",
+      "error_analysis": "学生易因形近词\"bareheaded\"(光着头的)混淆，或因\"bone+head\"字面义猜测为\"坚硬的\"或\"固执的\"",
+      "sentence": "It was a **boneheaded** mistake to forget your passport when going abroad—now you can't board the plane!",
+      "options": {
+        "option": [
+          {
+            "definition": "愚蠢的",
+            "iscorrect": true
+          },
+          {
+            "definition": "光着头的",
+            "iscorrect": false
+          },
+          {
+            "definition": "坚硬的",
+            "iscorrect": false
+          },
+          {
+            "definition": "固执的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

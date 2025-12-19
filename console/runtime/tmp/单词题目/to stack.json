@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to stack",
+      "error_analysis": "中国学生易将“to stack”与形近词“stalk”（跟踪）或“stick”（粘住）混淆，导致错误理解。",
+      "sentence": "After dinner, my mom asked me to **stack** the clean bowls on the kitchen counter.",
+      "options": {
+        "option": [
+          {
+            "definition": "堆；摞（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "跟踪（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "粘住（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "打包（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

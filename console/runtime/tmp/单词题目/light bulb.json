@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "light bulb",
+      "error_analysis": "学生易因“bulb”的“球茎”义（词根误导）或与“bulk”（大量）形近，将“light bulb”误解为“发光的植物球茎”或“轻的大量物体”",
+      "sentence": "When the **light bulb** burned out, she had to replace it with a new one to get light in the room.",
+      "options": {
+        "option": [
+          {
+            "definition": "灯泡",
+            "iscorrect": true
+          },
+          {
+            "definition": "发光的植物球茎",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻的大量物体",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻的球状物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

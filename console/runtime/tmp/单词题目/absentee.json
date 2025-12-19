@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "absentee",
+      "error_analysis": "学生易将\"absentee\"（名词，缺席者）误判为\"absent\"的形容词形式\"缺席的\"，或混淆其与\"absence\"（缺席状态）的含义",
+      "sentence": "The company sent a reminder to all **absentees** who missed the mandatory training session.",
+      "options": {
+        "option": [
+          {
+            "definition": "缺席者（未到场的人）",
+            "iscorrect": true
+          },
+          {
+            "definition": "缺席的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "缺席（状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "迟到者（晚到的人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

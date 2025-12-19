@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pill",
+      "error_analysis": "中国学生易将“pill”与形近词“peel”（果皮/剥）或“pillow”（枕头）混淆，导致错误理解。",
+      "sentence": "My mom told me to take a **pill** after dinner for my headache.",
+      "options": {
+        "option": [
+          {
+            "definition": "药片，药丸",
+            "iscorrect": true
+          },
+          {
+            "definition": "果皮；剥（皮）",
+            "iscorrect": false
+          },
+          {
+            "definition": "枕头",
+            "iscorrect": false
+          },
+          {
+            "definition": "堆，叠",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

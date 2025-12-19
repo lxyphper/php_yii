@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bishop",
+      "error_analysis": "中国学生易因形近联想到“ship”（船）或“shop”（商店），或拆词“bi+shop”猜测为“两家商店”",
+      "sentence": "The **bishop** will preside over the wedding ceremony at the local church next month.",
+      "options": {
+        "option": [
+          {
+            "definition": "船",
+            "iscorrect": false
+          },
+          {
+            "definition": "两家商店",
+            "iscorrect": false
+          },
+          {
+            "definition": "基督教的主教",
+            "iscorrect": true
+          },
+          {
+            "definition": "商店",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "christmas stocking",
+      "error_analysis": "学生易因“stocking”与“stock”（库存、股票）形近，或因“stock”的“储存”义，将“christmas stocking”误理解为“圣诞库存”或“圣诞储存品”。",
+      "sentence": "Children hang their **christmas stocking** by the fireplace on Christmas Eve, hoping Santa Claus will fill it with toys and candies.",
+      "options": {
+        "option": [
+          {
+            "definition": "圣诞长袜",
+            "iscorrect": true
+          },
+          {
+            "definition": "圣诞库存",
+            "iscorrect": false
+          },
+          {
+            "definition": "圣诞储存品",
+            "iscorrect": false
+          },
+          {
+            "definition": "圣诞短袜",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

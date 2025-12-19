@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to incarcerate",
+      "error_analysis": "中国学生易因形近词“incarnate”（化身）混淆，或因“in-”+“car”字面误导认为与“汽车”相关，忽略“监禁”核心义。",
+      "sentence": "The judge decided to **incarcerate** the criminal for ten years after he was found guilty of robbery.",
+      "options": {
+        "option": [
+          {
+            "definition": "监禁；关押",
+            "iscorrect": true
+          },
+          {
+            "definition": "化身；使具体化",
+            "iscorrect": false
+          },
+          {
+            "definition": "用汽车运输",
+            "iscorrect": false
+          },
+          {
+            "definition": "激怒；使愤怒",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

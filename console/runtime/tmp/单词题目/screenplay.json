@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "screenplay",
+      "error_analysis": "学生易因“screen”（屏幕）和“play”（玩/戏剧）的字面组合，误将“screenplay”理解为“屏幕游戏”或“舞台剧本”。",
+      "sentence": "The director asked the writer to revise the **screenplay** to make the characters more compelling for the upcoming movie.",
+      "options": {
+        "option": [
+          {
+            "definition": "电影剧本",
+            "iscorrect": true
+          },
+          {
+            "definition": "屏幕游戏",
+            "iscorrect": false
+          },
+          {
+            "definition": "舞台剧本",
+            "iscorrect": false
+          },
+          {
+            "definition": "屏幕播放",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

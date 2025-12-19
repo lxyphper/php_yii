@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bluster",
+      "error_analysis": "学生易因形近词\"blister\"(水疱)误判为\"水疱\"，或因\"bl-\"词根联想\"吹\"误判为\"吹风\"。",
+      "sentence": "The boss would often **bluster** about firing people, but he never actually did it.",
+      "options": {
+        "option": [
+          {
+            "definition": "咆哮；气势汹汹地说（无实质内容）",
+            "iscorrect": true
+          },
+          {
+            "definition": "水疱；起疱",
+            "iscorrect": false
+          },
+          {
+            "definition": "吹风；鼓风机",
+            "iscorrect": false
+          },
+          {
+            "definition": "破坏者；打击者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

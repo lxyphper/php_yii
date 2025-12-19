@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "quick",
+      "error_analysis": "学生因形近词“quiet”（安静的）的干扰，易误将“quick”理解为“安静的”",
+      "sentence": "She gave a **quick** smile and then left the room.",
+      "options": {
+        "option": [
+          {
+            "definition": "快的，迅速的",
+            "iscorrect": true
+          },
+          {
+            "definition": "安静的",
+            "iscorrect": false
+          },
+          {
+            "definition": "聪明的",
+            "iscorrect": false
+          },
+          {
+            "definition": "活的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

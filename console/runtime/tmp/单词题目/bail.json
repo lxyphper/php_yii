@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bail",
+      "error_analysis": "学生易将\"bail\"与形近词\"bait\"（诱饵）混淆，或误猜为\"fail\"（失败）",
+      "sentence": "The lawyer managed to **bail** his client out of jail before the trial.",
+      "options": {
+        "option": [
+          {
+            "definition": "诱饵",
+            "iscorrect": false
+          },
+          {
+            "definition": "失败",
+            "iscorrect": false
+          },
+          {
+            "definition": "保释（某人）",
+            "iscorrect": true
+          },
+          {
+            "definition": "从船里舀水",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rushed",
+      "error_analysis": "学生易因形近词\"rusted\"(生锈的)产生混淆，或误将\"rushed\"理解为\"被水流冲的\"(字面误导)",
+      "sentence": "She had a **rushed** breakfast before heading to the airport.",
+      "options": {
+        "option": [
+          {
+            "definition": "匆忙的；仓促完成的",
+            "iscorrect": true
+          },
+          {
+            "definition": "生锈的",
+            "iscorrect": false
+          },
+          {
+            "definition": "被水流冲的",
+            "iscorrect": false
+          },
+          {
+            "definition": "拥挤的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

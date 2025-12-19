@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "clay",
+      "error_analysis": "中国学生易因形近词“claw”（爪子）或“lay”（放置）的干扰，将“clay”误判为“爪子”或“放置”",
+      "sentence": "The potter used **clay** to make a beautiful vase for the exhibition.",
+      "options": {
+        "option": [
+          {
+            "definition": "黏土",
+            "iscorrect": true
+          },
+          {
+            "definition": "爪子",
+            "iscorrect": false
+          },
+          {
+            "definition": "放置",
+            "iscorrect": false
+          },
+          {
+            "definition": "游戏",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

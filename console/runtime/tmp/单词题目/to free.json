@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to free",
+      "error_analysis": "学生易混淆形近词“flee”（逃跑）或用形容词“free”的“免费”义推导动词“to free”的含义",
+      "sentence": "The volunteers managed to **free** the trapped birds from the net.",
+      "options": {
+        "option": [
+          {
+            "definition": "释放；使自由",
+            "iscorrect": true
+          },
+          {
+            "definition": "逃跑",
+            "iscorrect": false
+          },
+          {
+            "definition": "使免费",
+            "iscorrect": false
+          },
+          {
+            "definition": "冻结",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

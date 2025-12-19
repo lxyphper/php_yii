@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "greedy",
+      "error_analysis": "中国学生易因形近词“green”（绿色的）和“great”（伟大的）产生错误联想，误判“greedy”的含义。",
+      "sentence": "The **greedy** boy took all the candies for himself and didn’t share any with his friends.",
+      "options": {
+        "option": [
+          {
+            "definition": "绿色的",
+            "iscorrect": false
+          },
+          {
+            "definition": "伟大的",
+            "iscorrect": false
+          },
+          {
+            "definition": "贪婪的",
+            "iscorrect": true
+          },
+          {
+            "definition": "快速的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

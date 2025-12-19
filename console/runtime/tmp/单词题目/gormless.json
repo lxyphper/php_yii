@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gormless",
+      "error_analysis": "中国学生易因形近词\"formless\"（无形状的）或词根不明（将\"gorm\"误猜为\"注意\"而推导为\"没有注意的\"）误解\"gormless\"。",
+      "sentence": "He stood there looking **gormless** as the teacher explained the problem for the third time.",
+      "options": {
+        "option": [
+          {
+            "definition": "愚蠢的；笨的",
+            "iscorrect": true
+          },
+          {
+            "definition": "无形状的",
+            "iscorrect": false
+          },
+          {
+            "definition": "没有注意的",
+            "iscorrect": false
+          },
+          {
+            "definition": "勇敢的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

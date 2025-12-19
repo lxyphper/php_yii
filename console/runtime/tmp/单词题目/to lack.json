@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to lack",
+      "error_analysis": "学生易因形近词\"lake\"(湖)或\"lackey\"(仆人)产生错误联想，混淆\"to lack\"的核心词义\"缺乏\"。",
+      "sentence": "The team **lacks** experience, so they often make mistakes in important games.",
+      "options": {
+        "option": [
+          {
+            "definition": "缺乏；没有",
+            "iscorrect": true
+          },
+          {
+            "definition": "湖",
+            "iscorrect": false
+          },
+          {
+            "definition": "仆人",
+            "iscorrect": false
+          },
+          {
+            "definition": "丢失",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

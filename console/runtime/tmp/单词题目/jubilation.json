@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "jubilation",
+      "error_analysis": "中国学生易因形近词“jubilee”（禧年）将“jubilation”误判为“周年纪念”，或因“jub”与“jump”（跳）发音相近而猜为“跳跃”。",
+      "sentence": "The whole city was filled with **jubilation** when the national team won the championship.",
+      "options": {
+        "option": [
+          {
+            "definition": "周年纪念",
+            "iscorrect": false
+          },
+          {
+            "definition": "判断",
+            "iscorrect": false
+          },
+          {
+            "definition": "欢呼；庆祝",
+            "iscorrect": true
+          },
+          {
+            "definition": "跳跃",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

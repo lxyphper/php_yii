@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "poll",
+      "error_analysis": "易与形近词pool（水池）、pole（杆子）混淆，误判为“水池”或“杆子”",
+      "sentence": "The newspaper plans to conduct a **poll** to gauge public opinion on the upcoming election.",
+      "options": {
+        "option": [
+          {
+            "definition": "民意调查；投票",
+            "iscorrect": true
+          },
+          {
+            "definition": "水池；泳池",
+            "iscorrect": false
+          },
+          {
+            "definition": "杆子；柱",
+            "iscorrect": false
+          },
+          {
+            "definition": "拉；拖",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to grin and bear {sth}",
+      "error_analysis": "学生易因字面直译（grin=笑，bear=忍受）忽略“勉强”的隐含含义，或误将“bear”作名词“熊”理解为“对熊笑”。",
+      "sentence": "Even though the meeting was extremely boring, Sarah had to **grin and bear it** because her manager was sitting right next to her.",
+      "options": {
+        "option": [
+          {
+            "definition": "勉强忍受（某事）",
+            "iscorrect": true
+          },
+          {
+            "definition": "开心地接受（某事）",
+            "iscorrect": false
+          },
+          {
+            "definition": "对熊咧嘴笑",
+            "iscorrect": false
+          },
+          {
+            "definition": "笑着谈论（某事）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

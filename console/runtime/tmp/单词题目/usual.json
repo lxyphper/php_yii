@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "usual",
+      "error_analysis": "中国学生易混淆形近词“useful”（有用的），或因“us”词根错误猜测为“我们的”。",
+      "sentence": "She arrived at the office at her **usual** time, 8:30 a.m.",
+      "options": {
+        "option": [
+          {
+            "definition": "通常的；惯常的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有用的",
+            "iscorrect": false
+          },
+          {
+            "definition": "我们的",
+            "iscorrect": false
+          },
+          {
+            "definition": "异常的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

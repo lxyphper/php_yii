@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sport",
+      "error_analysis": "因形近词\"support\"（支持）或\"sort\"（种类）的干扰，易将\"sport\"错误理解为\"支持\"或\"种类\"",
+      "sentence": "My brother loves playing **sport** like football and basketball every weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "运动（指体育活动）",
+            "iscorrect": true
+          },
+          {
+            "definition": "支持（来自形近词\"support\"的联想）",
+            "iscorrect": false
+          },
+          {
+            "definition": "种类（来自形近词\"sort\"的联想）",
+            "iscorrect": false
+          },
+          {
+            "definition": "斑点（来自形近词\"spot\"的联想）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

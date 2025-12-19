@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to bolster",
+      "error_analysis": "中国学生易因形近词“foster”（培养）或“boast”（吹嘘）的拼写相似而误解“to bolster”的意思。",
+      "sentence": "The government announced new measures to **bolster** the struggling healthcare system.",
+      "options": {
+        "option": [
+          {
+            "definition": "培养；促进",
+            "iscorrect": false
+          },
+          {
+            "definition": "吹嘘；自夸",
+            "iscorrect": false
+          },
+          {
+            "definition": "支持；加强",
+            "iscorrect": true
+          },
+          {
+            "definition": "咆哮；怒吼",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

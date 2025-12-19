@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bony",
+      "error_analysis": "易混淆形近词\"bonny\"(漂亮的)或词根\"bone\"直译\"有骨头的\"，忽略\"瘦骨嶙峋的\"核心义",
+      "sentence": "The old man had a **bony** face with deep wrinkles and sunken eyes.",
+      "options": {
+        "option": [
+          {
+            "definition": "瘦骨嶙峋的；骨感的",
+            "iscorrect": true
+          },
+          {
+            "definition": "漂亮的；健康的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有骨头的；含骨的",
+            "iscorrect": false
+          },
+          {
+            "definition": "坚硬的；结实的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "before",
+      "error_analysis": "学生易因词根“fore”（前面）将“before”误解为空间上的“在...前面”，或与形近词“behind”混淆为“在...后面”。",
+      "sentence": "Please finish your homework **before** dinner.",
+      "options": {
+        "option": [
+          {
+            "definition": "在...之前（时间上）",
+            "iscorrect": true
+          },
+          {
+            "definition": "在...后面",
+            "iscorrect": false
+          },
+          {
+            "definition": "在...前面（空间上）",
+            "iscorrect": false
+          },
+          {
+            "definition": "在...旁边",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

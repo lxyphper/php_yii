@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "literacy",
+      "error_analysis": "学生易因形近词\"literary\"(文学的)误判为\"文学素养\"，或词根\"liter-\"(字母)误导为\"字母相关能力\"",
+      "sentence": "Many NGOs work to improve **literacy** rates in rural areas by teaching people how to read and write.",
+      "options": {
+        "option": [
+          {
+            "definition": "读写能力",
+            "iscorrect": true
+          },
+          {
+            "definition": "文学素养",
+            "iscorrect": false
+          },
+          {
+            "definition": "字母识别能力",
+            "iscorrect": false
+          },
+          {
+            "definition": "文本分析能力",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

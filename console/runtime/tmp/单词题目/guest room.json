@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "guest room",
+      "error_analysis": "学生可能因“guest”（客人）和“room”（房间）的字面组合误将“guest room”理解为“客厅”，或因“guest”与“guess”（猜测）形近误解为“猜测房间”。",
+      "sentence": "We need to clean the **guest room** before our friends come to stay tonight.",
+      "options": {
+        "option": [
+          {
+            "definition": "客房",
+            "iscorrect": true
+          },
+          {
+            "definition": "客厅",
+            "iscorrect": false
+          },
+          {
+            "definition": "卧室",
+            "iscorrect": false
+          },
+          {
+            "definition": "猜测房间",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

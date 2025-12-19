@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "philanthropic",
+      "error_analysis": "因形近于\"philharmonic\"(爱乐的)易误联想为音乐相关，或因词根\"phil-\"(爱)+\"anthrop-\"(人类)过度直译为\"热爱人类的\"",
+      "sentence": "The **philanthropic** billionaire donated millions to build schools in rural areas where educational resources were scarce.",
+      "options": {
+        "option": [
+          {
+            "definition": "慈善的",
+            "iscorrect": true
+          },
+          {
+            "definition": "音乐爱好者的",
+            "iscorrect": false
+          },
+          {
+            "definition": "热爱人类的",
+            "iscorrect": false
+          },
+          {
+            "definition": "哲学的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

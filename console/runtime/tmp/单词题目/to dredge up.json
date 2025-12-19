@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to dredge up",
+      "error_analysis": "学生易因“dredge”的字面义（疏浚、挖掘）误理解为“物理上取出”，或因形近词“drudge”（做苦工）误判为“辛苦做某事”",
+      "sentence": "She didn’t want to **dredge up** the argument they had last year, but it still bothered her.",
+      "options": {
+        "option": [
+          {
+            "definition": "物理上挖掘或取出",
+            "iscorrect": false
+          },
+          {
+            "definition": "重新提起（不愉快或被遗忘的事）",
+            "iscorrect": true
+          },
+          {
+            "definition": "辛苦做某事",
+            "iscorrect": false
+          },
+          {
+            "definition": "彻底清理",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

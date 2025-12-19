@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hill",
+      "error_analysis": "中国学生易因形近词“hell”（地狱）、“kill”（杀）等产生错误联想，混淆“hill”的核心词义",
+      "sentence": "We decided to climb the **hill** behind our house to watch the sunset.",
+      "options": {
+        "option": [
+          {
+            "definition": "小山；丘陵",
+            "iscorrect": true
+          },
+          {
+            "definition": "地狱",
+            "iscorrect": false
+          },
+          {
+            "definition": "杀；杀害",
+            "iscorrect": false
+          },
+          {
+            "definition": "冰雹",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

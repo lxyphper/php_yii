@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "raccoon",
+      "error_analysis": "学生易因形近词\"cartoon\"(卡通)拼写接近或字面拆分\"rac+coon\"联想到无意义含义而误判",
+      "sentence": "The **raccoon** with a black mask on its face was seen stealing food from the garbage can last night.",
+      "options": {
+        "option": [
+          {
+            "definition": "浣熊",
+            "iscorrect": true
+          },
+          {
+            "definition": "卡通",
+            "iscorrect": false
+          },
+          {
+            "definition": "比赛的月亮",
+            "iscorrect": false
+          },
+          {
+            "definition": "狐狸",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

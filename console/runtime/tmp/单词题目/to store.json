@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to store",
+      "error_analysis": "中国学生易将动词“to store”误解为名词“store”（商店）的相关动作（如“经营商店”），或混淆形近词“stare”（盯着看）。",
+      "sentence": "We need to **store** the extra vegetables in the fridge to keep them fresh.",
+      "options": {
+        "option": [
+          {
+            "definition": "储存；存放",
+            "iscorrect": true
+          },
+          {
+            "definition": "盯着看；凝视",
+            "iscorrect": false
+          },
+          {
+            "definition": "经营商店",
+            "iscorrect": false
+          },
+          {
+            "definition": "风暴来临",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

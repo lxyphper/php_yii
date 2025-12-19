@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "death",
+      "error_analysis": "核心易错点为形近词干扰（如deaf/聋的、deal/交易），学生易因拼写相似误判词义",
+      "sentence": "The news of his grandfather's **death** made him burst into tears.",
+      "options": {
+        "option": [
+          {
+            "definition": "死亡（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "聋的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "交易（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "亲爱的（形容词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

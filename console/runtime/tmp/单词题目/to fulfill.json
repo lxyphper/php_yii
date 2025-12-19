@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to fulfill",
+      "error_analysis": "学生易因形近词\"fill\"（填充）和词根\"ful-\"（满的）误导，将\"to fulfill\"误解为\"填满/使充满\"。",
+      "sentence": "To **fulfill** his promise to his mother, he decided to study harder for the exam.",
+      "options": {
+        "option": [
+          {
+            "definition": "履行（承诺/义务）；实现（目标/愿望）",
+            "iscorrect": true
+          },
+          {
+            "definition": "填满；填充",
+            "iscorrect": false
+          },
+          {
+            "definition": "使充满；使满",
+            "iscorrect": false
+          },
+          {
+            "definition": "完成（简单任务）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

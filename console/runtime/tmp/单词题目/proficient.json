@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "proficient",
+      "error_analysis": "中国学生易混淆形近词\"efficient\"(高效的)，或因词根\"pro-\"误导认为是\"进步的\"",
+      "sentence": "After years of practice, she became **proficient** in playing the piano and could perform complex pieces flawlessly.",
+      "options": {
+        "option": [
+          {
+            "definition": "高效的",
+            "iscorrect": false
+          },
+          {
+            "definition": "进步的",
+            "iscorrect": false
+          },
+          {
+            "definition": "熟练的；精通的",
+            "iscorrect": true
+          },
+          {
+            "definition": "足够的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "foyer",
+      "error_analysis": "学生易因“foyer”与“joy”（快乐）、“fuel”（燃料）形近，或误以为是入口处的门廊，错误联想为娱乐室、燃料室或门廊",
+      "sentence": "After entering the hotel, we put our bags down in the **foyer** and went to check in at the front desk.",
+      "options": {
+        "option": [
+          {
+            "definition": "建筑物入口处的门厅",
+            "iscorrect": true
+          },
+          {
+            "definition": "娱乐室",
+            "iscorrect": false
+          },
+          {
+            "definition": "燃料室",
+            "iscorrect": false
+          },
+          {
+            "definition": "门廊",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to shirk",
+      "error_analysis": "学生易因形近词“irk”（使厌烦）或字面猜测为“闪开”而误解“shirk”的含义",
+      "sentence": "Despite being assigned the task, he always finds excuses to **shirk** his responsibilities.",
+      "options": {
+        "option": [
+          {
+            "definition": "使厌烦",
+            "iscorrect": false
+          },
+          {
+            "definition": "逃避（责任、义务等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "收缩",
+            "iscorrect": false
+          },
+          {
+            "definition": "闪开",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

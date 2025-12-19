@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to recant",
+      "error_analysis": "学生易因形近词“recount”（叙述）产生联想，或误将“re-+cant”理解为“重复唱”，从而误解“to recant”的核心含义。",
+      "sentence": "After facing intense criticism, the politician was forced to **recant** his controversial statement about tax reforms.",
+      "options": {
+        "option": [
+          {
+            "definition": "详细叙述（经历或事件）",
+            "iscorrect": false
+          },
+          {
+            "definition": "公开放弃（之前的信仰或主张）",
+            "iscorrect": true
+          },
+          {
+            "definition": "重复唱（歌曲或口号）",
+            "iscorrect": false
+          },
+          {
+            "definition": "恢复（失去的健康或状态）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

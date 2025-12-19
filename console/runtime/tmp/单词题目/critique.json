@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "critique",
+      "error_analysis": "易因形近词\"critic\"(批评家)或\"critical\"(批评的)，将\"critique\"误解为\"批评家\"或\"批评的\"",
+      "sentence": "The literary magazine published a **critique** of the new poetry collection, discussing its strengths and weaknesses in detail.",
+      "options": {
+        "option": [
+          {
+            "definition": "批评性分析；评论",
+            "iscorrect": true
+          },
+          {
+            "definition": "批评家；评论家",
+            "iscorrect": false
+          },
+          {
+            "definition": "批评的；挑剔的",
+            "iscorrect": false
+          },
+          {
+            "definition": "判断；裁决",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

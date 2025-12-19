@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to barbecue",
+      "error_analysis": "学生易因形近词\"barber\"(理发师)将\"to barbecue\"误解为\"修剪头发\"，或因\"bar\"(酒吧)字面联想为\"去酒吧\"",
+      "sentence": "We're going to **barbecue** some burgers and hot dogs in the backyard this weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "用烤架烧烤（肉类等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "修剪头发",
+            "iscorrect": false
+          },
+          {
+            "definition": "去酒吧",
+            "iscorrect": false
+          },
+          {
+            "definition": "烘焙面包",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "hydracarbon",
+      "hydrocarben",
+      "hydrocarbun",
+      "hydrcarbon"
+    ],
+    "correct_chunks": [
+      "hydro",
+      "car",
+      "bon"
+    ],
+    "distractor_chunks": [
+      "hydra",
+      "ben",
+      "bun",
+      "hydr"
+    ]
+  },
+  0
+]

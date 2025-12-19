@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "clean eating",
+      "error_analysis": "学生易将\"clean eating\"字面理解为\"干净地吃（如用餐卫生）\"或\"吃干净的食物\"，忽略其核心是\"健康、未加工的饮食方式\"",
+      "sentence": "Sarah switched to **clean eating** last year, so she now avoids sugary snacks and processed foods entirely to feel more energetic.",
+      "options": {
+        "option": [
+          {
+            "definition": "用餐时保持桌面或手部干净（如不洒食物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "吃完后清理餐具或食物残渣",
+            "iscorrect": false
+          },
+          {
+            "definition": "吃没有被弄脏或污染的食物",
+            "iscorrect": false
+          },
+          {
+            "definition": "健康、以未加工或天然食物为主的饮食方式",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

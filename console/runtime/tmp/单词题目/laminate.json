@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "laminate",
+      "error_analysis": "学生易因与\"eliminate\"（消除）形近混淆，或拆分为\"lam\"+\"inate\"直觉认为是\"分层排列\"。",
+      "sentence": "To protect the wooden desk from scratches, we decided to **laminate** its surface with a durable plastic layer.",
+      "options": {
+        "option": [
+          {
+            "definition": "消除；排除",
+            "iscorrect": false
+          },
+          {
+            "definition": "用层压材料覆盖；制成层压板",
+            "iscorrect": true
+          },
+          {
+            "definition": "分层排列；整理",
+            "iscorrect": false
+          },
+          {
+            "definition": "照明；照亮",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

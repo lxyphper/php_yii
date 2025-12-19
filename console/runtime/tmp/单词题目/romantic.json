@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "romantic",
+      "error_analysis": "学生易将\"romantic\"与形近词\"Roman\"（罗马的）混淆，或误从\"rom-\"词根联想到\"罗马的\"含义",
+      "sentence": "She loves reading **romantic** novels about couples falling in love in Paris.",
+      "options": {
+        "option": [
+          {
+            "definition": "浪漫的；多情的",
+            "iscorrect": true
+          },
+          {
+            "definition": "罗马的；罗马人的",
+            "iscorrect": false
+          },
+          {
+            "definition": "房间的；室内的",
+            "iscorrect": false
+          },
+          {
+            "definition": "历史的；传统的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

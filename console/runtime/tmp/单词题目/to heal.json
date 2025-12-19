@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to heal",
+      "error_analysis": "形近词“heel”（脚后跟）的干扰，或误将“heal”理解为“保持健康”而非“治愈（伤口/疾病）”",
+      "sentence": "The cut on her finger will **heal** in a few days if she keeps it clean.",
+      "options": {
+        "option": [
+          {
+            "definition": "治愈（伤口、疾病等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "给（鞋）装脚后跟",
+            "iscorrect": false
+          },
+          {
+            "definition": "保持健康",
+            "iscorrect": false
+          },
+          {
+            "definition": "用脚后跟踢",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

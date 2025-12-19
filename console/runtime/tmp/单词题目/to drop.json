@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to drop",
+      "error_analysis": "学生易将“to drop”误理解为“滴下”（形近词drip干扰）或“放弃”（词根联想drop out误导）",
+      "sentence": "The glass **dropped** to the floor and broke into pieces.",
+      "options": {
+        "option": [
+          {
+            "definition": "落下；掉下",
+            "iscorrect": true
+          },
+          {
+            "definition": "滴下；渗出",
+            "iscorrect": false
+          },
+          {
+            "definition": "放弃；停止",
+            "iscorrect": false
+          },
+          {
+            "definition": "赠送；递送",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

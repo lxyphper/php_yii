@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sanctuary",
+      "error_analysis": "易因形近词\"sanitary\"（卫生的）误解为\"卫生场所\"，或因词根\"sanct-\"（神圣的）错误延伸为\"神圣的仪式\"。",
+      "sentence": "The wildlife organization established a **sanctuary** in the forest to protect endangered tigers from poachers.",
+      "options": {
+        "option": [
+          {
+            "definition": "避难所；庇护所",
+            "iscorrect": true
+          },
+          {
+            "definition": "卫生设施；卫生场所",
+            "iscorrect": false
+          },
+          {
+            "definition": "神圣的仪式；宗教典礼",
+            "iscorrect": false
+          },
+          {
+            "definition": "理智的状态；清醒的头脑",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

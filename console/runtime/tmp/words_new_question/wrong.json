@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wrong",
+      "error_analysis": "学生易因形近词“strong”（强壮的）干扰或发音与中文“荣”相近而误将“wrong”理解为“强壮的”或“光荣的”",
+      "sentence": "She pointed out the **wrong** number in the list.",
+      "options": {
+        "option": [
+          {
+            "definition": "错误的",
+            "iscorrect": true
+          },
+          {
+            "definition": "强壮的",
+            "iscorrect": false
+          },
+          {
+            "definition": "光荣的",
+            "iscorrect": false
+          },
+          {
+            "definition": "写",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to update",
+      "error_analysis": "学生易混淆形近词“upgrade”（升级）与“update”（更新），或因“up+date”字面义误判为“提前日期”。",
+      "sentence": "Please **update** the spreadsheet with the latest sales figures before the meeting.",
+      "options": {
+        "option": [
+          {
+            "definition": "更新（信息、数据等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "升级（如硬件或级别）",
+            "iscorrect": false
+          },
+          {
+            "definition": "将日期提前",
+            "iscorrect": false
+          },
+          {
+            "definition": "检查（内容的）准确性",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

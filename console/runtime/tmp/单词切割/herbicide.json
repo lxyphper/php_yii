@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "herbcide",
+      "herdicide",
+      "herbecide",
+      "herbicyde"
+    ],
+    "correct_chunks": [
+      "herb",
+      "i",
+      "cide"
+    ],
+    "distractor_chunks": [
+      "herd",
+      "herbe",
+      "bicyde",
+      "cide"
+    ]
+  },
+  0
+]

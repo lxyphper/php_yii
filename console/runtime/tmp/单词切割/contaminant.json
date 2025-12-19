@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "comtaminant",
+      "conteminant",
+      "contamenant",
+      "contaminent",
+      "contaminate"
+    ],
+    "correct_chunks": [
+      "con",
+      "tam",
+      "min",
+      "ant"
+    ],
+    "distractor_chunks": [
+      "com",
+      "tem",
+      "men",
+      "ent",
+      "ate"
+    ]
+  },
+  0
+]

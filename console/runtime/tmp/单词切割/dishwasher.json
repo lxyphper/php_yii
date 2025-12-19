@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "dishwaser",
+      "dishwesher",
+      "dishwashor",
+      "disswasher",
+      "dishwacher"
+    ],
+    "correct_chunks": [
+      "dish",
+      "wash",
+      "er"
+    ],
+    "distractor_chunks": [
+      "was",
+      "wesh",
+      "or",
+      "diss",
+      "wach"
+    ]
+  },
+  0
+]

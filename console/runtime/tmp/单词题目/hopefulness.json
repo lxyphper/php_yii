@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hopefulness",
+      "error_analysis": "学生易因形近词“helpfulness”（乐于助人）或词根“hop”（跳）误解为“乐于助人的品质”或“跳跃的状态”",
+      "sentence": "After hearing the doctor's positive update, the patient's face lit up with **hopefulness** about his recovery.",
+      "options": {
+        "option": [
+          {
+            "definition": "希望；乐观的状态",
+            "iscorrect": true
+          },
+          {
+            "definition": "乐于助人的品质",
+            "iscorrect": false
+          },
+          {
+            "definition": "跳跃的状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "绝望的情绪",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

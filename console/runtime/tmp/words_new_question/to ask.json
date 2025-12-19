@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to ask",
+      "error_analysis": "形近词“task”（任务）的干扰及将“ask”误理解为“寻找”（因“ask for”搭配产生的字面误导）",
+      "sentence": "I need to **ask** my mom if I can go to the party tonight.",
+      "options": {
+        "option": [
+          {
+            "definition": "询问；请求",
+            "iscorrect": true
+          },
+          {
+            "definition": "任务",
+            "iscorrect": false
+          },
+          {
+            "definition": "寻找",
+            "iscorrect": false
+          },
+          {
+            "definition": "告诉",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

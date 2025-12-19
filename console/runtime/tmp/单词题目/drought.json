@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "drought",
+      "error_analysis": "学生易因形近词“draught”（草稿/通风）的干扰，将“drought”错误理解为“草稿”或“通风”",
+      "sentence": "The region has been suffering from a severe **drought** for three years, causing crops to fail and rivers to dry up.",
+      "options": {
+        "option": [
+          {
+            "definition": "干旱",
+            "iscorrect": true
+          },
+          {
+            "definition": "草稿",
+            "iscorrect": false
+          },
+          {
+            "definition": "通风",
+            "iscorrect": false
+          },
+          {
+            "definition": "洪水",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "video jockey",
+      "error_analysis": "学生易因“jockey”的“骑师”字面义，将“video jockey”误判为“视频骑师”，忽略其“电视/视频节目主持人”的核心义",
+      "sentence": "The **video jockey** at the party kept the crowd entertained by playing popular music videos and interacting with the audience.",
+      "options": {
+        "option": [
+          {
+            "definition": "电视/视频节目主持人（尤指播放视频或音乐并与观众互动的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "视频骑师（操作视频设备的骑手）",
+            "iscorrect": false
+          },
+          {
+            "definition": "视频笑话表演者（因“jockey”与“joke”形近而误判）",
+            "iscorrect": false
+          },
+          {
+            "definition": "视频编辑（负责剪辑视频的工作人员）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

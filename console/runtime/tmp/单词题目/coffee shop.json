@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "coffee shop",
+      "error_analysis": "学生可能将\"coffee shop\"直译为\"卖咖啡的零售店\"，忽略其作为\"提供饮品和座位的咖啡馆\"的核心含义",
+      "sentence": "Let's meet at the new **coffee shop** on Main Street—they have great lattes and comfortable sofas for chatting.",
+      "options": {
+        "option": [
+          {
+            "definition": "咖啡馆（提供咖啡、茶等饮品及座位的休闲场所）",
+            "iscorrect": true
+          },
+          {
+            "definition": "卖咖啡的零售店（仅出售咖啡及相关产品的店铺）",
+            "iscorrect": false
+          },
+          {
+            "definition": "路边咖啡摊（临时售卖咖啡的流动摊位）",
+            "iscorrect": false
+          },
+          {
+            "definition": "咖啡种植园（种植咖啡树的农业场地）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

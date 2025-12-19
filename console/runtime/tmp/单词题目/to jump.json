@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to jump",
+      "error_analysis": "学生易因形近词\"junk\"(垃圾)或发音相近的\"jog\"(慢跑)误解\"jump\"的核心含义",
+      "sentence": "The kids love to **jump** over the puddles after rain.",
+      "options": {
+        "option": [
+          {
+            "definition": "跳；跳跃",
+            "iscorrect": true
+          },
+          {
+            "definition": "垃圾",
+            "iscorrect": false
+          },
+          {
+            "definition": "慢跑",
+            "iscorrect": false
+          },
+          {
+            "definition": "加入",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

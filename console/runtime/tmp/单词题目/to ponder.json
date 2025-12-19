@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to ponder",
+      "error_analysis": "学生易因形近词“pander”（迎合）或“pond”（池塘）的联想，误将“to ponder”理解为“迎合”或“与池塘相关的动作”。",
+      "sentence": "After hearing the team's plan, he sat quietly to **ponder** if it would solve the problem effectively.",
+      "options": {
+        "option": [
+          {
+            "definition": "仔细考虑",
+            "iscorrect": true
+          },
+          {
+            "definition": "迎合（他人需求）",
+            "iscorrect": false
+          },
+          {
+            "definition": "在池塘边停留",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速做出决定",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

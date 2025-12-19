@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to ski",
+      "error_analysis": "学生易因形近词\"sky\"（天空）将\"to ski\"误解为\"飞翔\"，或混淆其与\"skate\"（滑旱冰）的含义",
+      "sentence": "We planned to go to the mountains this weekend to **ski** with our friends.",
+      "options": {
+        "option": [
+          {
+            "definition": "滑雪",
+            "iscorrect": true
+          },
+          {
+            "definition": "飞翔（如在天空中）",
+            "iscorrect": false
+          },
+          {
+            "definition": "滑旱冰",
+            "iscorrect": false
+          },
+          {
+            "definition": "在雪地上行走",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

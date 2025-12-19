@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "governor",
+      "error_analysis": "学生易因词根\"govern\"(统治)+\"or\"(人)泛化为\"统治者\"，或与\"government\"(政府)混淆误判为\"政府\"",
+      "sentence": "The **governor** of California signed a bill to expand free school meals for low-income students last week.",
+      "options": {
+        "option": [
+          {
+            "definition": "州长（美国等国家的州行政长官）",
+            "iscorrect": true
+          },
+          {
+            "definition": "统治者（泛称）",
+            "iscorrect": false
+          },
+          {
+            "definition": "政府（国家或地方的行政机构）",
+            "iscorrect": false
+          },
+          {
+            "definition": "主管（企业或机构的负责人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

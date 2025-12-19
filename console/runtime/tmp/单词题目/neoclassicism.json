@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "neoclassicism",
+      "error_analysis": "学生易因词根过度直译将其误解为“新的经典作品”，或因形近词“neologism”（新词）混淆为“新词创造”",
+      "sentence": "The 18th-century painter Jacques-Louis David was a key proponent of **neoclassicism**, which revived the symmetry, clarity, and classical themes of ancient Greek and Roman art.",
+      "options": {
+        "option": [
+          {
+            "definition": "新古典主义（18世纪末至19世纪初的艺术/文学流派，以复兴古希腊罗马风格为核心特征）",
+            "iscorrect": true
+          },
+          {
+            "definition": "新词或新术语的创造（如网络流行语的生成）",
+            "iscorrect": false
+          },
+          {
+            "definition": "新创作的经典文学或艺术作品（如现代版《荷马史诗》）",
+            "iscorrect": false
+          },
+          {
+            "definition": "对古典哲学的现代批判与反思（如重新解读柏拉图思想）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

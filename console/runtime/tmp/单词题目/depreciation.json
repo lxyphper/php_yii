@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "depreciation",
+      "error_analysis": "学生易因形近词\"appreciation\"（欣赏；升值）混淆，或因词根\"preci\"（价值）+\"de-\"（向下）过度直译为\"贬低（人）\"",
+      "sentence": "The recent economic crisis led to a significant **depreciation** of the local currency, making imported goods much more expensive.",
+      "options": {
+        "option": [
+          {
+            "definition": "（货币或资产的）贬值；折旧",
+            "iscorrect": true
+          },
+          {
+            "definition": "欣赏；对…的重视",
+            "iscorrect": false
+          },
+          {
+            "definition": "贬低某人的价值或成就",
+            "iscorrect": false
+          },
+          {
+            "definition": "（价格的）上涨；增值",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

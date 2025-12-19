@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "herbicide",
+      "error_analysis": "学生易因不熟悉‘-cide’（杀）后缀而误将‘herbicide’理解为‘草本药物’，或因形近‘herbal’（草本的）而误以为是‘草本茶’。",
+      "sentence": "Farmers often use **herbicide** to prevent weeds from competing with crops for nutrients.",
+      "options": {
+        "option": [
+          {
+            "definition": "除草剂",
+            "iscorrect": true
+          },
+          {
+            "definition": "草本药物",
+            "iscorrect": false
+          },
+          {
+            "definition": "草本茶",
+            "iscorrect": false
+          },
+          {
+            "definition": "植物肥料",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

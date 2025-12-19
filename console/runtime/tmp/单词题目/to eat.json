@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to eat",
+      "error_analysis": "因形近词\"ear\"（耳朵）的干扰，易将\"eat\"误判为\"耳朵\"",
+      "sentence": "I want to **eat** an apple for breakfast.",
+      "options": {
+        "option": [
+          {
+            "definition": "耳朵",
+            "iscorrect": false
+          },
+          {
+            "definition": "喝",
+            "iscorrect": false
+          },
+          {
+            "definition": "吃",
+            "iscorrect": true
+          },
+          {
+            "definition": "在...地方",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

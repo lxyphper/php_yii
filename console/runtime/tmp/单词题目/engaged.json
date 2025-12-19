@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "engaged",
+      "error_analysis": "易因形近词\"encaged\"(被囚禁的)或混淆\"参与的\"与\"订婚的\"意思而误判",
+      "sentence": "She was so **engaged** in planning the party that she forgot to eat lunch.",
+      "options": {
+        "option": [
+          {
+            "definition": "专注于；参与的",
+            "iscorrect": true
+          },
+          {
+            "definition": "被囚禁的",
+            "iscorrect": false
+          },
+          {
+            "definition": "订婚的",
+            "iscorrect": false
+          },
+          {
+            "definition": "被吸引的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

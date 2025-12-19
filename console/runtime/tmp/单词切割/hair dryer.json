@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "hairdryer",
+      "heir dryer",
+      "air dryer",
+      "hair drier",
+      "hair dryier"
+    ],
+    "correct_chunks": [
+      "hair",
+      "dry",
+      "er"
+    ],
+    "distractor_chunks": [
+      "hairdry",
+      "heir",
+      "air",
+      "drier",
+      "dryi"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to keep",
+      "error_analysis": "学生易将“keep”（保留）与形近词“weep”（哭）混淆，或误将其理解为“买”或“借”。",
+      "sentence": "Please keep the book for me until I come back.",
+      "options": {
+        "option": [
+          {
+            "definition": "哭（weep）",
+            "iscorrect": false
+          },
+          {
+            "definition": "买（buy）",
+            "iscorrect": false
+          },
+          {
+            "definition": "借（borrow）",
+            "iscorrect": false
+          },
+          {
+            "definition": "保留；保存",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

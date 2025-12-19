@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mint",
+      "error_analysis": "中国学生易因形近词\"mist\"(雾)误将\"mint\"理解为\"雾\"，或因与\"mine\"(矿)关联误判为\"矿\"",
+      "sentence": "She added a few leaves of **mint** to her lemonade to give it a fresh taste.",
+      "options": {
+        "option": [
+          {
+            "definition": "薄荷",
+            "iscorrect": true
+          },
+          {
+            "definition": "雾",
+            "iscorrect": false
+          },
+          {
+            "definition": "矿",
+            "iscorrect": false
+          },
+          {
+            "definition": "绒毛",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

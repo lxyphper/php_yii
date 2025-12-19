@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sympathetic",
+      "error_analysis": "学生易因包含“pathetic”（可怜的）误将“sympathetic”理解为“令人可怜的”，或因词根“sym-”（共同）过度推导为“相同的”而非“同情的；支持的”。",
+      "sentence": "When I told my mom about failing the math test, she gave me a **sympathetic** pat on the back and said we’d study together tomorrow.",
+      "options": {
+        "option": [
+          {
+            "definition": "同情的；支持的",
+            "iscorrect": true
+          },
+          {
+            "definition": "令人可怜的；可悲的",
+            "iscorrect": false
+          },
+          {
+            "definition": "相同的；相似的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有症状的；表示…的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

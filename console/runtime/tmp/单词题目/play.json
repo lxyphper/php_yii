@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "play",
+      "error_analysis": "中国学生易混淆形近词“pray”（祈祷）与“play”，或误将名词“play”（戏剧）理解为动词义“玩耍”。",
+      "sentence": "The new **play** at the local theater has been sold out for a week.",
+      "options": {
+        "option": [
+          {
+            "definition": "戏剧",
+            "iscorrect": true
+          },
+          {
+            "definition": "祈祷",
+            "iscorrect": false
+          },
+          {
+            "definition": "玩耍",
+            "iscorrect": false
+          },
+          {
+            "definition": "比赛",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

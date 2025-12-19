@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "shocking",
+      "error_analysis": "学生易因形近词\"shopping\"（购物）产生错误联想，或因词根\"shock\"（冲击）过度直译导致含义偏差",
+      "sentence": "The report about the environmental disaster was so **shocking** that many people cried.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人震惊的",
+            "iscorrect": true
+          },
+          {
+            "definition": "购物的",
+            "iscorrect": false
+          },
+          {
+            "definition": "冲击的",
+            "iscorrect": false
+          },
+          {
+            "definition": "愉快的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

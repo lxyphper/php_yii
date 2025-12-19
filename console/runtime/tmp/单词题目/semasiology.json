@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "semasiology",
+      "error_analysis": "学生易因形近词\"semiology\"(符号学)或误将\"semasi-\"与\"soci-\"（社会）混淆而误判该词意义",
+      "sentence": "In her lecture, Professor Smith explained how **semasiology** differs from lexicology by focusing on the historical development of word meanings rather than just their current usage.",
+      "options": {
+        "option": [
+          {
+            "definition": "语义学（研究词语意义的学科）",
+            "iscorrect": true
+          },
+          {
+            "definition": "符号学（研究符号及其意义的学科）",
+            "iscorrect": false
+          },
+          {
+            "definition": "社会学（研究社会结构与功能的学科）",
+            "iscorrect": false
+          },
+          {
+            "definition": "形态学（研究词的结构与形式的学科）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "(most|very) likely",
+      "error_analysis": "学生易将“likely”与形近词“like”（喜欢）混淆，或因“like”（像）的词根义过度直译，误将“(most|very) likely”理解为“非常喜欢”或“最像的”。",
+      "sentence": "The **most likely** explanation for the broken window is that a ball hit it.",
+      "options": {
+        "option": [
+          {
+            "definition": "最可能的",
+            "iscorrect": true
+          },
+          {
+            "definition": "最像的",
+            "iscorrect": false
+          },
+          {
+            "definition": "非常喜欢的",
+            "iscorrect": false
+          },
+          {
+            "definition": "很相似的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

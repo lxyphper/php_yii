@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to misfire",
+      "error_analysis": "学生易通过“mis-+fire”词根错误推导为“错误地生火/发射”，忽略其“（计划、行动等）失败”的核心义",
+      "sentence": "The company's attempt to launch a new app **misfired** because it crashed constantly.",
+      "options": {
+        "option": [
+          {
+            "definition": "错误地生火",
+            "iscorrect": false
+          },
+          {
+            "definition": "（计划、行动等）失败",
+            "iscorrect": true
+          },
+          {
+            "definition": "不幸",
+            "iscorrect": false
+          },
+          {
+            "definition": "错误地发射",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

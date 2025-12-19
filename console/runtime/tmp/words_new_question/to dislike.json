@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to dislike",
+      "error_analysis": "中国学生易因形近词“unlike”（不像）或“dis-”前缀误导（如“消失喜欢”）将“to dislike”误解为“不像”或“不再喜欢”",
+      "sentence": "Sarah said she **dislikes** spicy food because it upsets her stomach.",
+      "options": {
+        "option": [
+          {
+            "definition": "不喜欢",
+            "iscorrect": true
+          },
+          {
+            "definition": "不像",
+            "iscorrect": false
+          },
+          {
+            "definition": "不再喜欢",
+            "iscorrect": false
+          },
+          {
+            "definition": "讨厌",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

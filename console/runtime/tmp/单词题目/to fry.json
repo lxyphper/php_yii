@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to fry",
+      "error_analysis": "学生易因形近词'dry'(干燥)混淆，或因字面联想误认为'烧/烤'。",
+      "sentence": "My mom likes to **fry** eggs with a little oil for breakfast.",
+      "options": {
+        "option": [
+          {
+            "definition": "煎；油炸（尤指用少量油）",
+            "iscorrect": true
+          },
+          {
+            "definition": "干燥",
+            "iscorrect": false
+          },
+          {
+            "definition": "烧；烤",
+            "iscorrect": false
+          },
+          {
+            "definition": "尝试",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to quicken",
+      "error_analysis": "中国学生易因形近词“quench”（熄灭、解渴）的拼写及发音相似而混淆“to quicken”的含义，或因词根“quick”（快的）过度推导为“变得急躁”。",
+      "sentence": "When she saw the bus approaching, she **quickened** her steps to catch it.",
+      "options": {
+        "option": [
+          {
+            "definition": "加快（速度、节奏等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "熄灭（火焰、欲望等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "变得急躁",
+            "iscorrect": false
+          },
+          {
+            "definition": "增加（数量）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

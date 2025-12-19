@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "medal",
+      "error_analysis": "学生易将“medal”与形近词“metal”（金属）混淆，或通过词根错误联想为医学相关含义",
+      "sentence": "The athlete was proud to wear the **medal** around his neck after winning the competition.",
+      "options": {
+        "option": [
+          {
+            "definition": "金属",
+            "iscorrect": false
+          },
+          {
+            "definition": "模型",
+            "iscorrect": false
+          },
+          {
+            "definition": "奖牌；勋章",
+            "iscorrect": true
+          },
+          {
+            "definition": "医学用品",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

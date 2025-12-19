@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to propose",
+      "error_analysis": "形近词\"purpose\"易误导为\"目的\"，或词根\"pro-+pose\"错解为\"放置\"",
+      "sentence": "At the meeting, Sarah will **propose** a new plan to improve team efficiency.",
+      "options": {
+        "option": [
+          {
+            "definition": "提议；建议",
+            "iscorrect": true
+          },
+          {
+            "definition": "目的；意图",
+            "iscorrect": false
+          },
+          {
+            "definition": "放置；摆放",
+            "iscorrect": false
+          },
+          {
+            "definition": "准备；筹备",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

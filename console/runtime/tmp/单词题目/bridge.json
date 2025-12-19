@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bridge",
+      "error_analysis": "中国学生易因形近词“ridge”（山脊）的形状相似而混淆，或误将“bridge”与发音相近的“bridle”（缰绳）联系",
+      "sentence": "The villagers built a wooden **bridge** across the stream to make it easier to reach the fields.",
+      "options": {
+        "option": [
+          {
+            "definition": "山脊",
+            "iscorrect": false
+          },
+          {
+            "definition": "缰绳",
+            "iscorrect": false
+          },
+          {
+            "definition": "徽章",
+            "iscorrect": false
+          },
+          {
+            "definition": "桥",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

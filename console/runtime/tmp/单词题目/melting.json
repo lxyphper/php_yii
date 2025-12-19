@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "melting",
+      "error_analysis": "学生易将'melting'误看成形近词'meeting'的形容词（如'会议的'），或误联想为'dissolving'（溶解的）",
+      "sentence": "The sun shone brightly, turning the **melting** snow into small streams that flowed down the hill.",
+      "options": {
+        "option": [
+          {
+            "definition": "融化的；正在融化的",
+            "iscorrect": true
+          },
+          {
+            "definition": "会议的；会面的",
+            "iscorrect": false
+          },
+          {
+            "definition": "溶解的；消散的",
+            "iscorrect": false
+          },
+          {
+            "definition": "修补的；缝补的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

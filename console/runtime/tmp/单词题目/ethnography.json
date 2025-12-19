@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ethnography",
+      "error_analysis": "学生易因形近词“geography”（地理）联想到“民族地理”，或因词根“ethno-”（民族）和“-graphy”（记录）误判为“民族文化的理论研究”。",
+      "sentence": "The anthropologist spent a year living with the tribe to complete her **ethnography**, which details their daily rituals and social structures.",
+      "options": {
+        "option": [
+          {
+            "definition": "对某一民族或群体文化的实地记录（人种志）",
+            "iscorrect": true
+          },
+          {
+            "definition": "研究民族分布与地理环境关系的学科（民族地理）",
+            "iscorrect": false
+          },
+          {
+            "definition": "关于民族文化的理论研究（民族学）",
+            "iscorrect": false
+          },
+          {
+            "definition": "针对民族伦理问题的调查（伦理研究）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

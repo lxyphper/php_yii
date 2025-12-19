@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gentle",
+      "error_analysis": "学生易因形近词\"gentleman\"（绅士）或词根\"gentilis\"（出身好的），误将\"gentle\"理解为\"绅士的\"或\"高贵的\"，而非核心义\"温和的\"。",
+      "sentence": "The old man spoke with a **gentle** tone, making all the children feel safe around him.",
+      "options": {
+        "option": [
+          {
+            "definition": "温和的；轻柔的",
+            "iscorrect": true
+          },
+          {
+            "definition": "绅士的；有风度的",
+            "iscorrect": false
+          },
+          {
+            "definition": "高贵的；出身优越的",
+            "iscorrect": false
+          },
+          {
+            "definition": "聪明的；天才的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

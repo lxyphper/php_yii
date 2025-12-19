@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "classmate",
+      "error_analysis": "学生易因形近词\"classroom\"（教室）误判，或因词根\"class\"泛化而混淆\"同班同学\"与\"校友\"。",
+      "sentence": "I often study with my **classmate** Li Ming after school.",
+      "options": {
+        "option": [
+          {
+            "definition": "教室",
+            "iscorrect": false
+          },
+          {
+            "definition": "同班同学",
+            "iscorrect": true
+          },
+          {
+            "definition": "校友",
+            "iscorrect": false
+          },
+          {
+            "definition": "同桌",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

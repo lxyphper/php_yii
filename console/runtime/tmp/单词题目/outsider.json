@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "outsider",
+      "error_analysis": "学生易因\"outsider\"与\"outside\"形近或\"out-\"+\"side\"词根字面误导，将其错误理解为\"外来者\"或\"旁观者\"。",
+      "sentence": "When the team discussed their plans, Maria felt like an **outsider** because she didn’t know anything about their previous work.",
+      "options": {
+        "option": [
+          {
+            "definition": "局外人（不属于某一群体或活动的人）",
+            "iscorrect": true
+          },
+          {
+            "definition": "外来者（从其他地方来到此处的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "旁观者（站在旁边观看但不参与的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "出局者（被排除在比赛或活动之外的人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

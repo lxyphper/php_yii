@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tomato",
+      "error_analysis": "中国学生易因tomato与形近词potato（土豆）拼写及发音相似而混淆两者词义",
+      "sentence": "My grandma always puts a slice of **tomato** on her sandwich to make it more flavorful.",
+      "options": {
+        "option": [
+          {
+            "definition": "番茄；西红柿",
+            "iscorrect": true
+          },
+          {
+            "definition": "土豆；马铃薯",
+            "iscorrect": false
+          },
+          {
+            "definition": "烟草；烟叶",
+            "iscorrect": false
+          },
+          {
+            "definition": "胡萝卜；红萝卜",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

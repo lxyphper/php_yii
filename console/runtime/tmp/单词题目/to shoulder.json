@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to shoulder",
+      "error_analysis": "学生易因形近词\"should\"（应该）产生误解，或因\"shoulder\"（肩膀）的字面意思忽略其抽象\"承担\"含义。",
+      "sentence": "After his father lost his job, Jack had to **shoulder** the cost of his sister's education.",
+      "options": {
+        "option": [
+          {
+            "definition": "应该",
+            "iscorrect": false
+          },
+          {
+            "definition": "用肩膀扛",
+            "iscorrect": false
+          },
+          {
+            "definition": "承担（责任或负担）",
+            "iscorrect": true
+          },
+          {
+            "definition": "发抖",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

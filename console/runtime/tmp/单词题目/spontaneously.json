@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "spontaneously",
+      "error_analysis": "学生易因形近词（如simultaneously）混淆为“同时地”，或因词根spon-联想sponsor误判为“赞助地”",
+      "sentence": "When she heard the funny story, she smiled **spontaneously**—it was a genuine reaction, not forced.",
+      "options": {
+        "option": [
+          {
+            "definition": "同时地",
+            "iscorrect": false
+          },
+          {
+            "definition": "自发地；不由自主地",
+            "iscorrect": true
+          },
+          {
+            "definition": "赞助地",
+            "iscorrect": false
+          },
+          {
+            "definition": "立刻地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

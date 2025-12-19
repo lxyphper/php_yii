@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pepsin",
+      "error_analysis": "易因形近词\"pepper\"(胡椒)联想到\"调味品\"，或因\"pep\"(活力)的词根误导认为是\"活力补充剂\"",
+      "sentence": "The doctor explained that **pepsin**, a key enzyme produced in the stomach, helps break down proteins during digestion.",
+      "options": {
+        "option": [
+          {
+            "definition": "胃蛋白酶（一种消化酶）",
+            "iscorrect": true
+          },
+          {
+            "definition": "胡椒提取物（用于调味的香料）",
+            "iscorrect": false
+          },
+          {
+            "definition": "活力补充剂（增强精力的保健品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "口服止痛药（缓解疼痛的药物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

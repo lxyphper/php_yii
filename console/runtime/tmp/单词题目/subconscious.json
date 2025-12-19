@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "subconscious",
+      "error_analysis": "学生易因词根“sub-”（误解为“次要/部分”）将“subconscious”误解为“次有意识的”或“半意识的”，而非正确的“潜意识的”。",
+      "sentence": "When she passed the old house, a **subconscious** memory of her childhood—one she hadn’t thought about in years—suddenly made her eyes tear up.",
+      "options": {
+        "option": [
+          {
+            "definition": "潜意识的",
+            "iscorrect": true
+          },
+          {
+            "definition": "半意识的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无意识的",
+            "iscorrect": false
+          },
+          {
+            "definition": "次有意识的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

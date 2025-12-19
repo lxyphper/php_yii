@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "z-axis",
+      "error_analysis": "学生易因“z”与“zip”（拉链）形近或对“axis”在坐标系中的术语义不熟悉，将“z-axis”误判为“拉链轴”或“z形轴”",
+      "sentence": "In 3D modeling, the **z-axis** typically represents depth, allowing designers to create objects with height, width, and depth.",
+      "options": {
+        "option": [
+          {
+            "definition": "（三维笛卡尔坐标系中的）z轴",
+            "iscorrect": true
+          },
+          {
+            "definition": "拉链轴",
+            "iscorrect": false
+          },
+          {
+            "definition": "z形的轴",
+            "iscorrect": false
+          },
+          {
+            "definition": "斧头轴",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

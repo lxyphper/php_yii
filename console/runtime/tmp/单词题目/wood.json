@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wood",
+      "error_analysis": "学生易混淆形近词\"wool\"(羊毛)及误将\"wood\"等同于\"woods\"(树林)。",
+      "sentence": "The table is made of **wood**, so it’s heavy and suitable for outdoor use.",
+      "options": {
+        "option": [
+          {
+            "definition": "木材；木头",
+            "iscorrect": true
+          },
+          {
+            "definition": "羊毛",
+            "iscorrect": false
+          },
+          {
+            "definition": "树林",
+            "iscorrect": false
+          },
+          {
+            "definition": "金属",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

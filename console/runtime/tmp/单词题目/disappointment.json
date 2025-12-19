@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "disappointment",
+      "error_analysis": "学生易因包含\"appointment\"（约会/任命）而误将\"disappointment\"理解为\"取消约会\"或\"不任命\"，或因\"dis-\"+\"appoint\"（任命）推导为\"未被任命\"。",
+      "sentence": "When she didn’t get the job she had applied for, Sarah felt a deep sense of **disappointment**.",
+      "options": {
+        "option": [
+          {
+            "definition": "失望；沮丧",
+            "iscorrect": true
+          },
+          {
+            "definition": "取消约会；撤销任命",
+            "iscorrect": false
+          },
+          {
+            "definition": "不任命；未被任命",
+            "iscorrect": false
+          },
+          {
+            "definition": "困惑；迷茫",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "forgery",
+      "error_analysis": "学生易因词根“forge”（锻造）将“forgery”误解为“锻造品”，或因形近词“forgive”（原谅）产生混淆",
+      "sentence": "The police found a **forgery** of the famous painting in the suspect's apartment.",
+      "options": {
+        "option": [
+          {
+            "definition": "伪造品；伪造行为",
+            "iscorrect": true
+          },
+          {
+            "definition": "锻造品",
+            "iscorrect": false
+          },
+          {
+            "definition": "前进的行为",
+            "iscorrect": false
+          },
+          {
+            "definition": "原谅的行为",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

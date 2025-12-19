@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "hallucinateion",
+      "hallusination",
+      "hollucination",
+      "hallucinasion",
+      "hallcination"
+    ],
+    "correct_chunks": [
+      "hall",
+      "ucin",
+      "ation"
+    ],
+    "distractor_chunks": [
+      "holl",
+      "usin",
+      "ate",
+      "sion",
+      "hallc"
+    ]
+  },
+  0
+]

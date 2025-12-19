@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to tweet",
+      "error_analysis": "学生易因形近词\"treat\"混淆为\"对待/处理\"，或因字面义误判为\"(鸟)鸣叫\"，忽略\"发推文\"的核心义",
+      "sentence": "Many people **tweet** about their daily lives on social media to share updates with friends.",
+      "options": {
+        "option": [
+          {
+            "definition": "对待；处理",
+            "iscorrect": false
+          },
+          {
+            "definition": "在推特（Twitter）上发布信息",
+            "iscorrect": true
+          },
+          {
+            "definition": "（鸟）发出啾啾声",
+            "iscorrect": false
+          },
+          {
+            "definition": "款待；请客",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

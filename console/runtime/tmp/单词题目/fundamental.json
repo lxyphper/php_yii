@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fundamental",
+      "error_analysis": "学生易因“fund”（资金）或“mental”（精神的）联想，将“fundamental”误判为“资金的”或“心理的”",
+      "sentence": "Water is a **fundamental** need for all living things—without it, life cannot exist.",
+      "options": {
+        "option": [
+          {
+            "definition": "基本的；根本的",
+            "iscorrect": true
+          },
+          {
+            "definition": "资金的；与基金相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "心理的；精神上的",
+            "iscorrect": false
+          },
+          {
+            "definition": "建立的；创办的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

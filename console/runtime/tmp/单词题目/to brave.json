@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to brave",
+      "error_analysis": "学生易将动词\"to brave\"误判为\"变得勇敢\"（形容词\"brave\"的字面延伸）或与形近词\"brace\"（支撑）混淆",
+      "sentence": "Despite the heavy rain, she decided to **brave** the walk to the hospital to visit her friend.",
+      "options": {
+        "option": [
+          {
+            "definition": "勇敢面对（困难/危险）",
+            "iscorrect": true
+          },
+          {
+            "definition": "变得勇敢",
+            "iscorrect": false
+          },
+          {
+            "definition": "支撑；准备",
+            "iscorrect": false
+          },
+          {
+            "definition": "表现出勇敢",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

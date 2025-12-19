@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Ping-Pong",
+      "error_analysis": "学生易将拟声词“Ping-Pong”误联想为网络信号交互（如ping命令）或单纯撞击声，而非乒乓球运动",
+      "sentence": "We used to play **Ping-Pong** every weekend in the community center with our friends.",
+      "options": {
+        "option": [
+          {
+            "definition": "乒乓球（一种用球拍击打塑料球的室内运动）",
+            "iscorrect": true
+          },
+          {
+            "definition": "一种网络连接测试中的信号发送与回应过程（如ping命令的回应）",
+            "iscorrect": false
+          },
+          {
+            "definition": "一种连续发出乒乒乓乓声音的自然现象（如物体碰撞声）",
+            "iscorrect": false
+          },
+          {
+            "definition": "一种儿童玩的弹球游戏（用玻璃球在地上滚动）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

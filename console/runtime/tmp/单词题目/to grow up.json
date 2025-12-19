@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to grow up",
+      "error_analysis": "学生可能因“grow”（生长）和“up”（向上）的字面意思，误将“to grow up”理解为“（植物等）向上生长”，而非“（人/动物）长大；成熟”。",
+      "sentence": "She wants to be a doctor when she **grows up**.",
+      "options": {
+        "option": [
+          {
+            "definition": "（人或动物）长大；成熟",
+            "iscorrect": true
+          },
+          {
+            "definition": "（植物等）向上生长",
+            "iscorrect": false
+          },
+          {
+            "definition": "（物体）变大；膨胀",
+            "iscorrect": false
+          },
+          {
+            "definition": "成长为（某种职业/身份）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

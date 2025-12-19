@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cookie",
+      "error_analysis": "学生易因形近词\"cook\"（厨师/做饭）将\"cookie\"误理解为与烹饪相关的职业或动作（如\"厨师\"或\"烹饪过程\"）",
+      "sentence": "My mom baked some **cookie**s for me to take to school tomorrow—they're my favorite chocolate chip ones!",
+      "options": {
+        "option": [
+          {
+            "definition": "饼干",
+            "iscorrect": true
+          },
+          {
+            "definition": "厨师",
+            "iscorrect": false
+          },
+          {
+            "definition": "烹饪方法",
+            "iscorrect": false
+          },
+          {
+            "definition": "咖啡",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

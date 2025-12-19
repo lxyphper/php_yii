@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "poor",
+      "error_analysis": "中国学生易因形近词“pool”（水池）、“pour”（倒）干扰，或词根联想错误认为“poor”是动词“使贫穷”，导致错误理解。",
+      "sentence": "Many people in the **poor** village can't afford new clothes.",
+      "options": {
+        "option": [
+          {
+            "definition": "贫穷的；贫困的",
+            "iscorrect": true
+          },
+          {
+            "definition": "水池；游泳池",
+            "iscorrect": false
+          },
+          {
+            "definition": "倒；倾倒",
+            "iscorrect": false
+          },
+          {
+            "definition": "使贫穷（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

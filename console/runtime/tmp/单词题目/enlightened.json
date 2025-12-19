@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "enlightened",
+      "error_analysis": "学生易因词根\"light\"（光）字面误导，将\"enlightened\"理解为\"被点亮的\"或\"光明的\"，而非其比喻义\"有见识的、开明的\"。",
+      "sentence": "The **enlightened** leader introduced policies that promoted equal rights for all citizens.",
+      "options": {
+        "option": [
+          {
+            "definition": "有见识的；开明的",
+            "iscorrect": true
+          },
+          {
+            "definition": "被点亮的；光明的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有光泽的",
+            "iscorrect": false
+          },
+          {
+            "definition": "（使）扩大的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

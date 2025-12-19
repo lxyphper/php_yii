@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to relocate",
+      "error_analysis": "学生易因形近词\"relate\"误解为\"联系\"，或因词根\"re-+loc\"过度直译为\"重新定位\"（抽象义）",
+      "sentence": "The company decided to **relocate** its headquarters from New York to Chicago to reduce operational costs.",
+      "options": {
+        "option": [
+          {
+            "definition": "搬迁；迁移（至新地点）",
+            "iscorrect": true
+          },
+          {
+            "definition": "联系；关联",
+            "iscorrect": false
+          },
+          {
+            "definition": "重新定位（如品牌或策略）",
+            "iscorrect": false
+          },
+          {
+            "definition": "重复放置；再次摆放",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

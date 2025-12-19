@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "budget",
+      "error_analysis": "学生易因形近词（如‘bullet’‘budge’）或字面误导，将‘budget’误理解为‘子弹’‘挪动’等，正确义为‘预算’",
+      "sentence": "Our family has a monthly **budget** of $3000 for groceries.",
+      "options": {
+        "option": [
+          {
+            "definition": "子弹",
+            "iscorrect": false
+          },
+          {
+            "definition": "账单",
+            "iscorrect": false
+          },
+          {
+            "definition": "挪动",
+            "iscorrect": false
+          },
+          {
+            "definition": "预算",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

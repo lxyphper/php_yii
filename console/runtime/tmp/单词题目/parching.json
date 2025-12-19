@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "parching",
+      "error_analysis": "学生易因形近词混淆，将“parching”误判为“修补的”（patching）或“栖息的”（perching）",
+      "sentence": "After hiking through the **parching** canyon all morning, the hikers couldn’t wait to find a shaded spot to rest.",
+      "options": {
+        "option": [
+          {
+            "definition": "极热的；干燥的",
+            "iscorrect": true
+          },
+          {
+            "definition": "修补的；补丁的",
+            "iscorrect": false
+          },
+          {
+            "definition": "栖息的；停留的",
+            "iscorrect": false
+          },
+          {
+            "definition": "行军的；前进的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

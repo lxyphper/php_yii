@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "palace",
+      "error_analysis": "学生易因形近词\"place\"（地方）或\"pal\"（朋友）的联想，将\"palace\"误判为\"地方\"或\"朋友的住所\"",
+      "sentence": "The Queen of England lives in a grand **palace** in London.",
+      "options": {
+        "option": [
+          {
+            "definition": "宫殿",
+            "iscorrect": true
+          },
+          {
+            "definition": "地方",
+            "iscorrect": false
+          },
+          {
+            "definition": "朋友的住所",
+            "iscorrect": false
+          },
+          {
+            "definition": "苍白的房间",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

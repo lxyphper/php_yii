@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "amateurish",
+      "error_analysis": "学生易将“amateurish”（形容词，业余的；不熟练的）与形近词“amateur”（名词，业余爱好者）混淆，或通过词根“amateur”（爱好者）+“ish”（…的）过度直译为“爱好者的”而忽略“不熟练”的隐含义。",
+      "sentence": "The painting shows some **amateurish** brushstrokes, with uneven colors and messy lines.",
+      "options": {
+        "option": [
+          {
+            "definition": "业余的；不熟练的",
+            "iscorrect": true
+          },
+          {
+            "definition": "业余爱好者（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "爱好者的",
+            "iscorrect": false
+          },
+          {
+            "definition": "熟练的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

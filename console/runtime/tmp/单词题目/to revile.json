@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to revile",
+      "error_analysis": "将形近词“reveal”（揭示）的含义误用到“revile”上",
+      "sentence": "After his scandal was exposed, the politician was widely **reviled** by the public for his dishonesty.",
+      "options": {
+        "option": [
+          {
+            "definition": "辱骂，痛斥",
+            "iscorrect": true
+          },
+          {
+            "definition": "揭示，显示",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻视，鄙视",
+            "iscorrect": false
+          },
+          {
+            "definition": "复兴，恢复",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

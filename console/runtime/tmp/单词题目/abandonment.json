@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "abandonment",
+      "error_analysis": "学生易因形近词“abundant”（丰富的）混淆，或拆分词根“ab-”+“band”（乐队）误解为“离开乐队”。",
+      "sentence": "The **abandonment** of stray animals in the city has become a serious problem for the local government.",
+      "options": {
+        "option": [
+          {
+            "definition": "放弃；遗弃",
+            "iscorrect": true
+          },
+          {
+            "definition": "丰富；充裕",
+            "iscorrect": false
+          },
+          {
+            "definition": "离开乐队；解散乐队",
+            "iscorrect": false
+          },
+          {
+            "definition": "加速；促进",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

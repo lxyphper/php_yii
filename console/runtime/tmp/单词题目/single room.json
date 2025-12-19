@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "single room",
+      "error_analysis": "学生易因\"single\"字面\"单一的\"误解为\"一个房间\"（强调数量），或因\"single\"与\"simple\"形近误判为\"简单的房间\"",
+      "sentence": "When I checked into the hotel, I asked for a **single room** because I was traveling alone.",
+      "options": {
+        "option": [
+          {
+            "definition": "单人间（酒店等场所中供一人住宿的房型）",
+            "iscorrect": true
+          },
+          {
+            "definition": "简单的房间",
+            "iscorrect": false
+          },
+          {
+            "definition": "一个房间（强调数量）",
+            "iscorrect": false
+          },
+          {
+            "definition": "信号室（信号的房间）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

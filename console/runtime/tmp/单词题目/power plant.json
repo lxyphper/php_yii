@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "power plant",
+      "error_analysis": "学生易因“plant”的“植物”义或“power”的“权力”义，将“power plant”误判为“动力植物”或“权力工厂”。",
+      "sentence": "The new **power plant** by the river will start operating next month to provide electricity to nearby towns.",
+      "options": {
+        "option": [
+          {
+            "definition": "动力植物",
+            "iscorrect": false
+          },
+          {
+            "definition": "权力工厂",
+            "iscorrect": false
+          },
+          {
+            "definition": "发电厂；发电站",
+            "iscorrect": true
+          },
+          {
+            "definition": "动力工厂",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

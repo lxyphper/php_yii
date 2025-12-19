@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "attitude",
+      "error_analysis": "学生易因形近词\"altitude\"(海拔)或\"aptitude\"(能力)的干扰，将\"attitude\"误判为\"海拔\"或\"能力\"。",
+      "sentence": "Her positive **attitude** towards learning new things makes her popular among her classmates.",
+      "options": {
+        "option": [
+          {
+            "definition": "态度；看法",
+            "iscorrect": true
+          },
+          {
+            "definition": "海拔；高度",
+            "iscorrect": false
+          },
+          {
+            "definition": "能力；天资",
+            "iscorrect": false
+          },
+          {
+            "definition": "属性；特征",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

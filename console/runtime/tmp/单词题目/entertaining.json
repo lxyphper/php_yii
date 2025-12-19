@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "entertaining",
+      "error_analysis": "学生易因形近词\"containing\"（包含的）或词根\"entertain\"（招待）的字面义，将\"entertaining\"误判为\"包含的\"或\"招待的\"。",
+      "sentence": "The comedian’s jokes were so **entertaining** that the audience laughed non-stop for an hour.",
+      "options": {
+        "option": [
+          {
+            "definition": "有趣的；娱乐的",
+            "iscorrect": true
+          },
+          {
+            "definition": "包含的",
+            "iscorrect": false
+          },
+          {
+            "definition": "招待的",
+            "iscorrect": false
+          },
+          {
+            "definition": "维持的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "must",
+      "error_analysis": "学生易将形近词“must”与“most”混淆，误释为“最”，或因“mustard”联想误释为“芥末”",
+      "sentence": "If you want to pass the exam, you **must** study hard every day.",
+      "options": {
+        "option": [
+          {
+            "definition": "必须（情态动词，表义务）",
+            "iscorrect": true
+          },
+          {
+            "definition": "最（副词，表程度）",
+            "iscorrect": false
+          },
+          {
+            "definition": "芥末（名词，调味品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "应该（情态动词，表建议）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

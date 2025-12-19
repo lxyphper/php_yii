@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to intuit",
+      "error_analysis": "学生易因形近词\"intimate\"（暗示；亲密的）产生误解，或因词根直译误以为\"仔细检查内部\"",
+      "sentence": "She could **intuit** that something was wrong even before he said a word.",
+      "options": {
+        "option": [
+          {
+            "definition": "凭直觉知道；直觉感知",
+            "iscorrect": true
+          },
+          {
+            "definition": "暗示；示意",
+            "iscorrect": false
+          },
+          {
+            "definition": "变得亲密；亲近",
+            "iscorrect": false
+          },
+          {
+            "definition": "仔细检查内部",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

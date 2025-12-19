@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "off",
+      "error_analysis": "混淆形近词“of”，将“off”误理解为“...的；属于”",
+      "sentence": "Please take the price tag **off** your new jacket before you wear it.",
+      "options": {
+        "option": [
+          {
+            "definition": "脱离；取下",
+            "iscorrect": true
+          },
+          {
+            "definition": "...的；属于",
+            "iscorrect": false
+          },
+          {
+            "definition": "在...上面",
+            "iscorrect": false
+          },
+          {
+            "definition": "关闭",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

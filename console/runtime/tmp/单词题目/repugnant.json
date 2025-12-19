@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "repugnant",
+      "error_analysis": "学生易因形近词“repentant”（后悔的）或词根“pugn”（战斗）误猜为“后悔的”或“冲突的”",
+      "sentence": "The smell of rotten food in the fridge was so **repugnant** that I had to throw it all away immediately.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人厌恶的",
+            "iscorrect": true
+          },
+          {
+            "definition": "后悔的",
+            "iscorrect": false
+          },
+          {
+            "definition": "冲突的",
+            "iscorrect": false
+          },
+          {
+            "definition": "吸引人的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

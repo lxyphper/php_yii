@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to zip",
+      "error_analysis": "中国学生易将“to zip”与形近词“rip”（撕裂）混淆，或误将其动词义理解为名词“拉链”",
+      "sentence": "Please **zip** your raincoat—it’s starting to rain.",
+      "options": {
+        "option": [
+          {
+            "definition": "撕裂",
+            "iscorrect": false
+          },
+          {
+            "definition": "拉链",
+            "iscorrect": false
+          },
+          {
+            "definition": "拉上拉链",
+            "iscorrect": true
+          },
+          {
+            "definition": "打开",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

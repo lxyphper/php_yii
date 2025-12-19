@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to chime",
+      "error_analysis": "中国学生易因形近词（如crime、climb）误判为“犯罪”“爬”，或因字面“鸣响”误解“chime with”为“一起鸣响”。",
+      "sentence": "The new marketing plan **chimes with** the CEO's vision for the company.",
+      "options": {
+        "option": [
+          {
+            "definition": "（意见、想法等）一致，符合",
+            "iscorrect": true
+          },
+          {
+            "definition": "犯罪",
+            "iscorrect": false
+          },
+          {
+            "definition": "（钟、铃等）一起鸣响",
+            "iscorrect": false
+          },
+          {
+            "definition": "爬",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

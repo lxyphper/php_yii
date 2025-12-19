@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "isobar",
+      "error_analysis": "学生易因“iso-”（相同）与“bar”（酒吧/障碍）的错误联想，将“isobar”误解为“相同的酒吧”或“相同的障碍”。",
+      "sentence": "Meteorologists use **isobars** on weather maps to connect points with the same atmospheric pressure.",
+      "options": {
+        "option": [
+          {
+            "definition": "等压线（连接气压相同的点的线）",
+            "iscorrect": true
+          },
+          {
+            "definition": "相同的酒吧",
+            "iscorrect": false
+          },
+          {
+            "definition": "隔离的区域",
+            "iscorrect": false
+          },
+          {
+            "definition": "相同的障碍",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

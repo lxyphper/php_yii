@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "volatile",
+      "error_analysis": "中国学生易因形近词\"violent\"(暴力的)混淆，或因词根\"vol\"关联\"volume\"(体积)误解为\"体积大的\"",
+      "sentence": "The stock market has been **volatile** recently, with prices rising and falling sharply every day.",
+      "options": {
+        "option": [
+          {
+            "definition": "易变的；不稳定的",
+            "iscorrect": true
+          },
+          {
+            "definition": "暴力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有价值的",
+            "iscorrect": false
+          },
+          {
+            "definition": "体积大的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

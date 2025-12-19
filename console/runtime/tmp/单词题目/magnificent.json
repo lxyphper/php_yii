@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "magnificent",
+      "error_analysis": "学生易因词根“magn-”（大）误判为“巨大的”，或因形近词“significant”“magical”误猜为“重要的”“神奇的”。",
+      "sentence": "The **magnificent** palace with its golden roofs and intricate carvings left all the visitors in awe.",
+      "options": {
+        "option": [
+          {
+            "definition": "壮丽的；宏伟的",
+            "iscorrect": true
+          },
+          {
+            "definition": "巨大的；庞大的",
+            "iscorrect": false
+          },
+          {
+            "definition": "重要的；显著的",
+            "iscorrect": false
+          },
+          {
+            "definition": "神奇的；有魔力的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

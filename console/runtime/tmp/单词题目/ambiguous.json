@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ambiguous",
+      "error_analysis": "核心易错点为形近词“ambitious”（有野心的）的干扰，及词根“ambi-”（两边）导致的“矛盾的”误解",
+      "sentence": "The politician's statement was deliberately **ambiguous** to avoid offending either side of the debate.",
+      "options": {
+        "option": [
+          {
+            "definition": "有野心的；雄心勃勃的",
+            "iscorrect": false
+          },
+          {
+            "definition": "矛盾的；犹豫不决的",
+            "iscorrect": false
+          },
+          {
+            "definition": "模糊的；有歧义的",
+            "iscorrect": true
+          },
+          {
+            "definition": "复杂的；难懂的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

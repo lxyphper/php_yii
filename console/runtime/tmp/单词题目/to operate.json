@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to operate",
+      "error_analysis": "学生易因词根‘oper-’（工作）误将‘to operate’理解为‘工作’，或因形近词‘operator’（操作员）误判为名词含义。",
+      "sentence": "Before using the new printer, you should read the guide to learn how to **operate** it properly.",
+      "options": {
+        "option": [
+          {
+            "definition": "操作",
+            "iscorrect": true
+          },
+          {
+            "definition": "工作",
+            "iscorrect": false
+          },
+          {
+            "definition": "经营",
+            "iscorrect": false
+          },
+          {
+            "definition": "操作员",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

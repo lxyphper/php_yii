@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "clip",
+      "error_analysis": "中国学生易因形近词“clap”（拍手）或与“climb”（爬）混淆而误解“clip”的含义",
+      "sentence": "She decided to **clip** the best parts of the video to share on social media.",
+      "options": {
+        "option": [
+          {
+            "definition": "剪辑（动词，指从视频/音频中截取部分内容）",
+            "iscorrect": true
+          },
+          {
+            "definition": "拍手（动词，发出掌声）",
+            "iscorrect": false
+          },
+          {
+            "definition": "爬（动词，向上移动）",
+            "iscorrect": false
+          },
+          {
+            "definition": "粘贴（动词，将某物固定在另一物上）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

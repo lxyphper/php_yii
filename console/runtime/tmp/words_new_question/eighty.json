@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "eighty",
+      "error_analysis": "学生易因形近词\"eighteen\"（十八）的干扰，将\"eighty\"误判为表示\"十八\"的基数词",
+      "sentence": "My grandmother planted **eighty** roses in her garden, and they all bloomed beautifully this spring.",
+      "options": {
+        "option": [
+          {
+            "definition": "十八",
+            "iscorrect": false
+          },
+          {
+            "definition": "八十",
+            "iscorrect": true
+          },
+          {
+            "definition": "第八",
+            "iscorrect": false
+          },
+          {
+            "definition": "八个",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

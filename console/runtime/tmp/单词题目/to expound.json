@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to expound",
+      "error_analysis": "学生易因形近词\"expand\"（扩大）混淆，或误将\"expound\"与\"pound\"（猛击）关联导致理解偏差",
+      "sentence": "The professor took 20 minutes to **expound** on the theory of relativity, making sure every student understood the key concepts.",
+      "options": {
+        "option": [
+          {
+            "definition": "详细解释；阐述",
+            "iscorrect": true
+          },
+          {
+            "definition": "扩大；扩展",
+            "iscorrect": false
+          },
+          {
+            "definition": "猛击；重击",
+            "iscorrect": false
+          },
+          {
+            "definition": "花费；消耗",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "reservoir",
+      "error_analysis": "易因形近词\"reserve\"（预订、保留）误解为\"预订物\"或\"保留的物资\"，忽略其\"水库\"的核心义",
+      "sentence": "The new **reservoir** will supply clean water to over a million people in the drought-prone region.",
+      "options": {
+        "option": [
+          {
+            "definition": "预订的座位或房间",
+            "iscorrect": false
+          },
+          {
+            "definition": "水库；蓄水池",
+            "iscorrect": true
+          },
+          {
+            "definition": "保留的食物或应急物资",
+            "iscorrect": false
+          },
+          {
+            "definition": "小型电子存储设备（如U盘）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

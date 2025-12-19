@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to pet",
+      "error_analysis": "学生易将动词\"to pet\"误判为\"养宠物\"（来自名词\"pet\"的引申）或\"轻拍\"（混淆形近词\"pat\"）",
+      "sentence": "When I came home, my cat ran to me, and I stopped to **pet** her softly for a few minutes.",
+      "options": {
+        "option": [
+          {
+            "definition": "抚摸（宠物等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "养宠物",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻拍某人",
+            "iscorrect": false
+          },
+          {
+            "definition": "宠爱某人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

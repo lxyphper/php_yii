@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to sway",
+      "error_analysis": "学生易因形近词\"swim\"(游泳)、\"sweep\"(打扫)产生错误联想，或混淆\"sway\"(缓慢摇摆)与\"swing\"(快速来回摆动)的语义差异",
+      "sentence": "The tall grass **swayed** gently in the breeze.",
+      "options": {
+        "option": [
+          {
+            "definition": "游泳",
+            "iscorrect": false
+          },
+          {
+            "definition": "打扫",
+            "iscorrect": false
+          },
+          {
+            "definition": "（使）摇摆；晃动",
+            "iscorrect": true
+          },
+          {
+            "definition": "快速来回摆动（如秋千）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

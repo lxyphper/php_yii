@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "ablebodied",
+      "able-bodyed",
+      "able-boddied",
+      "ible-bodied"
+    ],
+    "correct_chunks": [
+      "able-",
+      "bod",
+      "ied"
+    ],
+    "distractor_chunks": [
+      "ablebod",
+      "bodyed",
+      "bodd",
+      "ible-"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "yet",
+      "error_analysis": "学生易混淆“yet”作为转折连词的“然而”义与形近词“yes”的“是”，或误将其副词义“还”代入连词语境",
+      "sentence": "She studied hard for the exam, **yet** she didn't pass.",
+      "options": {
+        "option": [
+          {
+            "definition": "然而；但是",
+            "iscorrect": true
+          },
+          {
+            "definition": "是",
+            "iscorrect": false
+          },
+          {
+            "definition": "还；仍然",
+            "iscorrect": false
+          },
+          {
+            "definition": "已经",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

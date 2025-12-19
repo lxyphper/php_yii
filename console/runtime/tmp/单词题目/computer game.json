@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "computer game",
+      "error_analysis": "学生易因\"game\"的\"比赛\"义将\"computer game\"误判为\"电脑比赛\"，或因\"game\"与\"gem\"形近误判为\"电脑宝石\"",
+      "sentence": "Many kids spend hours playing a new **computer game** that involves building cities and fighting monsters.",
+      "options": {
+        "option": [
+          {
+            "definition": "电脑游戏",
+            "iscorrect": true
+          },
+          {
+            "definition": "电脑比赛",
+            "iscorrect": false
+          },
+          {
+            "definition": "电脑宝石",
+            "iscorrect": false
+          },
+          {
+            "definition": "电脑程序",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

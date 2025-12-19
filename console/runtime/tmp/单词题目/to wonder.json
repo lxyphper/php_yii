@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to wonder",
+      "error_analysis": "中国学生易将动词to wonder与形近词wander（漫步）混淆，或误从名词义“奇迹”推导为“使成为奇迹”。",
+      "sentence": "As she passed the old bookstore, she **wondered** what stories were hidden inside.",
+      "options": {
+        "option": [
+          {
+            "definition": "想知道",
+            "iscorrect": true
+          },
+          {
+            "definition": "漫步",
+            "iscorrect": false
+          },
+          {
+            "definition": "使成为奇迹",
+            "iscorrect": false
+          },
+          {
+            "definition": "感到精彩",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

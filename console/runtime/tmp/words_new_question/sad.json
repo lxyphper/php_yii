@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sad",
+      "error_analysis": "易与形近词\"bad\"(坏的)或\"said\"(说的过去式)混淆，导致词义误判",
+      "sentence": "When she heard the news of her grandma's passing, her eyes filled with tears and she looked very **sad**.",
+      "options": {
+        "option": [
+          {
+            "definition": "悲伤的",
+            "iscorrect": true
+          },
+          {
+            "definition": "坏的",
+            "iscorrect": false
+          },
+          {
+            "definition": "说的过去式",
+            "iscorrect": false
+          },
+          {
+            "definition": "高兴的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

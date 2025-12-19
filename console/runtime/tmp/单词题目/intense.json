@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "intense",
+      "error_analysis": "学生易因形近词\"intend\"（打算）混淆词义，或因词根\"tense\"（紧张）误判为\"紧张的\"而非\"强烈的\"",
+      "sentence": "The **intense** sunlight made it hard to keep our eyes open.",
+      "options": {
+        "option": [
+          {
+            "definition": "打算的",
+            "iscorrect": false
+          },
+          {
+            "definition": "紧张的",
+            "iscorrect": false
+          },
+          {
+            "definition": "强烈的",
+            "iscorrect": true
+          },
+          {
+            "definition": "聪明的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

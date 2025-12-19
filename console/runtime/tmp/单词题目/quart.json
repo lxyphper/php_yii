@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "quart",
+      "error_analysis": "学生易因形近词\"quarter\"（四分之一；季度）的干扰，将\"quart\"误判为\"四分之一\"或\"季度\"。",
+      "sentence": "I need to buy a **quart** of milk for the cake recipe.",
+      "options": {
+        "option": [
+          {
+            "definition": "夸脱（容量单位，约1.14升）",
+            "iscorrect": true
+          },
+          {
+            "definition": "四分之一；季度",
+            "iscorrect": false
+          },
+          {
+            "definition": "石英",
+            "iscorrect": false
+          },
+          {
+            "definition": "被子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "common_misspellings": [
+      "belttightening",
+      "belt-tightning",
+      "belt-tigtening",
+      "blet-tightening",
+      "belt-tightenning"
+    ],
+    "correct_chunks": [
+      "belt",
+      "-",
+      "tight",
+      "en",
+      "ing"
+    ],
+    "distractor_chunks": [
+      "blet",
+      "beltt",
+      "tightn",
+      "tigten",
+      "enning"
+    ]
+  },
+  0
+]

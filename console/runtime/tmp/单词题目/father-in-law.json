@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "father-in-law",
+      "error_analysis": "学生易将\"father-in-law\"拆分为\"father\"（父亲）和\"law\"（法律），误判为\"父亲的法律\"或\"法律上的父亲\"（如养父）",
+      "sentence": "Mary introduced her **father-in-law** to us at the wedding; he's the man in the blue suit talking to the bride's mother.",
+      "options": {
+        "option": [
+          {
+            "definition": "岳父；公公（妻子或丈夫的父亲）",
+            "iscorrect": true
+          },
+          {
+            "definition": "父亲制定的家庭规则（如家规）",
+            "iscorrect": false
+          },
+          {
+            "definition": "从事法律工作的父亲（如律师父亲）",
+            "iscorrect": false
+          },
+          {
+            "definition": "法律上认可的养父（如法定父亲）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

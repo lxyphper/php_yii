@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "focal",
+      "error_analysis": "学生易因形近词\"local\"（当地的）产生混淆，或误将\"focal\"理解为\"集中的\"（来自\"focus\"的动词义）",
+      "sentence": "The **focal** point of the exhibition was a rare painting that drew crowds all day.",
+      "options": {
+        "option": [
+          {
+            "definition": "焦点的；关键的",
+            "iscorrect": true
+          },
+          {
+            "definition": "当地的",
+            "iscorrect": false
+          },
+          {
+            "definition": "集中的",
+            "iscorrect": false
+          },
+          {
+            "definition": "声音的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

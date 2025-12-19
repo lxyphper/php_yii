@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unsubstantial",
+      "error_analysis": "学生易因词根“substantial”（大量的）误导将“unsubstantial”理解为“少量的”，或因形近混淆为“不稳定的”（unstable）。",
+      "sentence": "The journalist criticized the article for its **unsubstantial** claims, which were not supported by any facts.",
+      "options": {
+        "option": [
+          {
+            "definition": "不稳定的",
+            "iscorrect": false
+          },
+          {
+            "definition": "少量的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不结实的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无实质的；缺乏事实依据的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

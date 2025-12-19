@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "uncommon",
+      "error_analysis": "学生易将“uncommon”误理解为“不共同的”（词根“common”的“共同的”义项误导）或“未梳理的”（形近词“uncombed”干扰）",
+      "sentence": "It's **uncommon** to see snow in this region during summer.",
+      "options": {
+        "option": [
+          {
+            "definition": "不常见的；罕见的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不共同的；不一致的",
+            "iscorrect": false
+          },
+          {
+            "definition": "未梳理的；乱的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不粗俗的；高雅的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

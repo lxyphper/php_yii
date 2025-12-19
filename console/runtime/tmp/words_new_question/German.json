@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "German",
+      "error_analysis": "学生易因形近词\"germ\"（细菌）混淆词义，或误将其当作\"Germany\"的名词形式（德国）。",
+      "sentence": "My new neighbor is **German**, and she teaches me **German** every weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "德国的；德语的；德国人（的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "细菌的；病菌的",
+            "iscorrect": false
+          },
+          {
+            "definition": "德国（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "宝石的；珍贵的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

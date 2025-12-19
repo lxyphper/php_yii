@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to repudiate",
+      "error_analysis": "学生易因形近词“repay”（偿还）或“repute”（声誉）的干扰，将“repudiate”误判为“偿还”或“维护声誉”。",
+      "sentence": "When the scandal broke, the politician quickly **repudiated** all claims of corruption.",
+      "options": {
+        "option": [
+          {
+            "definition": "正式拒绝；否认",
+            "iscorrect": true
+          },
+          {
+            "definition": "偿还（债务或款项）",
+            "iscorrect": false
+          },
+          {
+            "definition": "维护（声誉或名誉）",
+            "iscorrect": false
+          },
+          {
+            "definition": "重复（做某事）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

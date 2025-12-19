@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "teen",
+      "error_analysis": "易混淆形近词'ten'(十)及词根后缀误导(误认为是'十几'数字)",
+      "sentence": "The **teen** volunteered at the community center every weekend to help younger kids.",
+      "options": {
+        "option": [
+          {
+            "definition": "青少年（13-19岁的人）",
+            "iscorrect": true
+          },
+          {
+            "definition": "十（数字）",
+            "iscorrect": false
+          },
+          {
+            "definition": "十几（数字，13-19）",
+            "iscorrect": false
+          },
+          {
+            "definition": "帐篷（遮蔽物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

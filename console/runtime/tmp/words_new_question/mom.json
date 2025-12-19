@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mom",
+      "error_analysis": "学生易因形近词\"mop\"(拖把)的干扰而误判，两者仅一个字母之差，粗心时易看错",
+      "sentence": "When I got home, my **mom** was waiting for me with a warm meal.",
+      "options": {
+        "option": [
+          {
+            "definition": "妈妈",
+            "iscorrect": true
+          },
+          {
+            "definition": "拖把",
+            "iscorrect": false
+          },
+          {
+            "definition": "木乃伊",
+            "iscorrect": false
+          },
+          {
+            "definition": "阿姨",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

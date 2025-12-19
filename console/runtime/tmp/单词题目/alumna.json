@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "alumna",
+      "error_analysis": "学生易因形近词（如alumnus，男校友）混淆性别，或因词根不熟悉误判为“学习者”而非“女校友”。",
+      "sentence": "As an **alumna** of Harvard Law School, she often mentors current students interested in human rights law.",
+      "options": {
+        "option": [
+          {
+            "definition": "女校友",
+            "iscorrect": true
+          },
+          {
+            "definition": "男校友",
+            "iscorrect": false
+          },
+          {
+            "definition": "学习者",
+            "iscorrect": false
+          },
+          {
+            "definition": "明矾",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

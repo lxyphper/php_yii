@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tent",
+      "error_analysis": "中国学生易因形近词\"tend\"（倾向）或词根联想（如\"extend\"的\"伸展\"），将\"tent\"误判为\"倾向/照料\"或\"伸展物\"。",
+      "sentence": "The family pitched a **tent** by the lake to stay overnight during their camping trip.",
+      "options": {
+        "option": [
+          {
+            "definition": "帐篷",
+            "iscorrect": true
+          },
+          {
+            "definition": "倾向；照料",
+            "iscorrect": false
+          },
+          {
+            "definition": "伸展物；延伸部分",
+            "iscorrect": false
+          },
+          {
+            "definition": "租金；租用",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bliss",
+      "error_analysis": "学生易因形近词“bless”（祝福）的干扰，将“bliss”误理解为“祝福”",
+      "sentence": "After years of hard work, she finally found **bliss** in living a simple life by the sea.",
+      "options": {
+        "option": [
+          {
+            "definition": "幸福；极乐",
+            "iscorrect": true
+          },
+          {
+            "definition": "祝福",
+            "iscorrect": false
+          },
+          {
+            "definition": "困惑",
+            "iscorrect": false
+          },
+          {
+            "definition": "痛苦",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to envision",
+      "error_analysis": "学生易因形近词\"vision\"(视力)及词根\"en-+vision\"的字面误导，将\"envision\"误理解为与\"视力/看见\"相关的动作（如\"检查视力\"或\"观察\"）。",
+      "sentence": "When planning her future, she likes to **envision** herself working in a cozy bookstore surrounded by books.",
+      "options": {
+        "option": [
+          {
+            "definition": "想象；预想",
+            "iscorrect": true
+          },
+          {
+            "definition": "检查视力；审视",
+            "iscorrect": false
+          },
+          {
+            "definition": "看见；观察",
+            "iscorrect": false
+          },
+          {
+            "definition": "羡慕；嫉妒",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

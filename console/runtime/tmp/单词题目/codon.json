@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "codon",
+      "error_analysis": "学生易因形近词\"colon\"（结肠）或\"cod\"（鳕鱼）产生错误联想，将\"codon\"误判为与身体部位或鱼类相关的词汇",
+      "sentence": "Each **codon** in mRNA corresponds to a specific amino acid during protein synthesis.",
+      "options": {
+        "option": [
+          {
+            "definition": "结肠（人体消化道部位）",
+            "iscorrect": false
+          },
+          {
+            "definition": "鳕鱼（一种常见海鱼）",
+            "iscorrect": false
+          },
+          {
+            "definition": "代码片段（计算机编程术语）",
+            "iscorrect": false
+          },
+          {
+            "definition": "（生物学中的）密码子",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

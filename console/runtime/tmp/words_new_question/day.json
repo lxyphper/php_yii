@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "day",
+      "error_analysis": "学生可能将“day”的核心含义“一天”与形近词“lay”（躺）混淆，或误将“day”理解为“白天”（仅白昼时段）而非完整时间段",
+      "sentence": "He drinks a glass of milk every **day**.",
+      "options": {
+        "option": [
+          {
+            "definition": "一天",
+            "iscorrect": true
+          },
+          {
+            "definition": "躺",
+            "iscorrect": false
+          },
+          {
+            "definition": "白天",
+            "iscorrect": false
+          },
+          {
+            "definition": "日期",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ribosome",
+      "error_analysis": "学生易因“ribo-”与“ribbon”（丝带）形近，或误拆“ribo-+some”为“丝带+结构”，将“ribosome”错误理解为与“丝带”相关的事物。",
+      "sentence": "The **ribosome** is a cellular structure where amino acids are linked together to form proteins.",
+      "options": {
+        "option": [
+          {
+            "definition": "丝带；丝带状装饰",
+            "iscorrect": false
+          },
+          {
+            "definition": "核糖体（细胞中负责蛋白质合成的细胞器）",
+            "iscorrect": true
+          },
+          {
+            "definition": "丝带状的细胞结构",
+            "iscorrect": false
+          },
+          {
+            "definition": "细胞中的遗传物质载体",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

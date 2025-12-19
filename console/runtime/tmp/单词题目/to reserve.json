@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to reserve",
+      "error_analysis": "学生易因形近词“preserve”（保护）混淆，或词根“serv”（服务）误导认为是“提供服务”",
+      "sentence": "I need to **reserve** a table for two at the Italian restaurant tonight.",
+      "options": {
+        "option": [
+          {
+            "definition": "保护（使免受伤害）",
+            "iscorrect": false
+          },
+          {
+            "definition": "提供服务（为他人做事）",
+            "iscorrect": false
+          },
+          {
+            "definition": "反转（使方向相反）",
+            "iscorrect": false
+          },
+          {
+            "definition": "预订；保留（以备后用）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "instruction",
+      "error_analysis": "易混淆形近词instrument（仪器）及词根struct误导的“结构”义",
+      "sentence": "Before using the new machine, make sure you read all the **instruction** carefully to avoid accidents.",
+      "options": {
+        "option": [
+          {
+            "definition": "指示；说明；指导",
+            "iscorrect": true
+          },
+          {
+            "definition": "仪器；工具",
+            "iscorrect": false
+          },
+          {
+            "definition": "结构；构造",
+            "iscorrect": false
+          },
+          {
+            "definition": "教育；培养",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

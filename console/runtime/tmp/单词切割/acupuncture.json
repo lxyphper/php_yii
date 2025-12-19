@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "akupuncture",
+      "acupuncure",
+      "aupuncture",
+      "acupunctrue"
+    ],
+    "correct_chunks": [
+      "acu",
+      "punct",
+      "ure"
+    ],
+    "distractor_chunks": [
+      "aku",
+      "punc",
+      "au",
+      "punctr"
+    ]
+  },
+  0
+]

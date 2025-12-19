@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "clemency",
+      "error_analysis": "易因形近词\"clarity\"(清晰)、\"cleanse\"(清洁)及词根\"cle-\"的误联，将\"clemency\"误解为\"清晰\"\"清洁\"等义。",
+      "sentence": "The judge showed **clemency** to the first-time offender and reduced his sentence from 10 years to 5.",
+      "options": {
+        "option": [
+          {
+            "definition": "宽大处理；仁慈",
+            "iscorrect": true
+          },
+          {
+            "definition": "清晰；明白",
+            "iscorrect": false
+          },
+          {
+            "definition": "清洁；净化",
+            "iscorrect": false
+          },
+          {
+            "definition": "聪明；才智",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

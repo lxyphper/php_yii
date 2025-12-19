@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to flatter",
+      "error_analysis": "学生易因形近词“fatter”（更胖的）或词根“flat”（平坦）的联想，将“to flatter”误判为“使变胖”或“使平坦”。",
+      "sentence": "She always **flatters** her boss by saying how brilliant his ideas are, hoping to get a promotion.",
+      "options": {
+        "option": [
+          {
+            "definition": "奉承；讨好",
+            "iscorrect": true
+          },
+          {
+            "definition": "使变胖",
+            "iscorrect": false
+          },
+          {
+            "definition": "使平坦",
+            "iscorrect": false
+          },
+          {
+            "definition": "扑棱（翅膀）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

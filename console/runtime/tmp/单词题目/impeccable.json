@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "impeccable",
+      "error_analysis": "学生易因形近词“impeach”（弹劾）误联想为“与弹劾相关的”，或因词根“pecc”（犯错）过度直译为“不犯错的”而忽略其“无瑕疵、完美”的核心义。",
+      "sentence": "The chef's **impeccable** presentation of the dish made it look like a work of art.",
+      "options": {
+        "option": [
+          {
+            "definition": "与弹劾有关的；被弹劾的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不犯错的；正确的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无瑕疵的；完美的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有缺陷的；不完美的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

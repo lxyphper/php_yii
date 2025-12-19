@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "shareholder",
+      "error_analysis": "学生易因“share”的“分享”义误解为“分享者”，或与形近词“stakeholder”（利益相关者）混淆",
+      "sentence": "The company will hold a meeting next week to update all **shareholders** on the new investment plan.",
+      "options": {
+        "option": [
+          {
+            "definition": "股东",
+            "iscorrect": true
+          },
+          {
+            "definition": "分享者",
+            "iscorrect": false
+          },
+          {
+            "definition": "利益相关者",
+            "iscorrect": false
+          },
+          {
+            "definition": "共同持有者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

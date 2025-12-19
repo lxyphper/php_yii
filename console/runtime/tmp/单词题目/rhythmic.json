@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rhythmic",
+      "error_analysis": "学生易因形近词\"arithmic\"(算术的)混淆，或与\"rhyme\"(押韵)语义联想错误，误将\"rhythmic\"理解为\"算术的\"或\"押韵的\"",
+      "sentence": "The dancers moved in **rhythmic** steps to the beat of the drum.",
+      "options": {
+        "option": [
+          {
+            "definition": "有节奏的",
+            "iscorrect": true
+          },
+          {
+            "definition": "算术的",
+            "iscorrect": false
+          },
+          {
+            "definition": "押韵的",
+            "iscorrect": false
+          },
+          {
+            "definition": "重复的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

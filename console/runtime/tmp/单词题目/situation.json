@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "situation",
+      "error_analysis": "易因包含`sit`（坐）词根错误推导为“坐姿/座位”，或与形近词`station`（车站）混淆",
+      "sentence": "The teacher asked us to describe the **situation** in the classroom after the storm.",
+      "options": {
+        "option": [
+          {
+            "definition": "情况；形势",
+            "iscorrect": true
+          },
+          {
+            "definition": "车站；站台",
+            "iscorrect": false
+          },
+          {
+            "definition": "坐姿；座位",
+            "iscorrect": false
+          },
+          {
+            "definition": "条件；状况",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "contract",
+      "error_analysis": "形近词\"contact\"(联系)的拼写干扰，及词根\"con-\"(一起)+\"tract\"(拉)导致的\"连接\"误解",
+      "sentence": "After months of negotiation, the two parties finally signed a **contract** to launch their joint venture.",
+      "options": {
+        "option": [
+          {
+            "definition": "合同",
+            "iscorrect": true
+          },
+          {
+            "definition": "联系",
+            "iscorrect": false
+          },
+          {
+            "definition": "收缩",
+            "iscorrect": false
+          },
+          {
+            "definition": "连接",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

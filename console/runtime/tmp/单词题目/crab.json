@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "crab",
+      "error_analysis": "学生易因形近词“carb”（碳水化合物）混淆“crab”的核心词义（螃蟹）",
+      "sentence": "We saw a small **crab** crawling on the rocks by the sea during our beach trip.",
+      "options": {
+        "option": [
+          {
+            "definition": "螃蟹",
+            "iscorrect": true
+          },
+          {
+            "definition": "碳水化合物",
+            "iscorrect": false
+          },
+          {
+            "definition": "抱怨",
+            "iscorrect": false
+          },
+          {
+            "definition": "裂缝",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

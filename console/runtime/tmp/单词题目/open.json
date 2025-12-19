@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "open",
+      "error_analysis": "学生易将“open”与形近词“oven”（烤箱）或“opera”（歌剧）混淆，或因词根联想错误理解为“操作”，导致对其核心动词义（打开）的误判",
+      "sentence": "Please **open** the window to let some fresh air in.",
+      "options": {
+        "option": [
+          {
+            "definition": "打开（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "烤箱（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "操作（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "歌剧（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

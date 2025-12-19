@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to disregard",
+      "error_analysis": "学生易因形近词“disrespect”（不尊重）或词根“dis-+regard”（不看待）误将“to disregard”理解为“不尊重”或“不同意”",
+      "sentence": "The coach chose to **disregard** the player's complaints and kept him on the bench.",
+      "options": {
+        "option": [
+          {
+            "definition": "忽视，无视",
+            "iscorrect": true
+          },
+          {
+            "definition": "不尊重",
+            "iscorrect": false
+          },
+          {
+            "definition": "不同意",
+            "iscorrect": false
+          },
+          {
+            "definition": "不考虑",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

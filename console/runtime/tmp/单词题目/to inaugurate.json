@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to inaugurate",
+      "error_analysis": "中国学生易因词根“aug”（增加）误导为“扩大”，或因形近词“introduce”混淆为“介绍”",
+      "sentence": "The city will **inaugurate** its new public library next month with a grand ceremony.",
+      "options": {
+        "option": [
+          {
+            "definition": "正式启用（新建筑、设施等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "增加；扩大",
+            "iscorrect": false
+          },
+          {
+            "definition": "介绍；引入",
+            "iscorrect": false
+          },
+          {
+            "definition": "宣布；公布",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

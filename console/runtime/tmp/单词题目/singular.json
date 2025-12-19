@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "singular",
+      "error_analysis": "中国学生易因形近词“single”（单一的）或词根“sing”（唱歌）误将“singular”理解为“单一的”或“唱歌的”。",
+      "sentence": "The word \"cat\" is in the **singular** form, and \"cats\" is its plural form.",
+      "options": {
+        "option": [
+          {
+            "definition": "（语法）单数的",
+            "iscorrect": true
+          },
+          {
+            "definition": "单一的",
+            "iscorrect": false
+          },
+          {
+            "definition": "唱歌的",
+            "iscorrect": false
+          },
+          {
+            "definition": "非凡的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

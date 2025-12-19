@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bar chart",
+      "error_analysis": "学生易因\"bar\"的常见义\"酒吧\"将\"bar chart\"误解为与酒吧相关的图表，或因\"bar\"的\"条\"义混淆其与非图表类条形物品的区别",
+      "sentence": "The report uses a **bar chart** to compare the sales figures of different products in the third quarter.",
+      "options": {
+        "option": [
+          {
+            "definition": "柱状图",
+            "iscorrect": true
+          },
+          {
+            "definition": "酒吧客流量统计表",
+            "iscorrect": false
+          },
+          {
+            "definition": "条形菜单",
+            "iscorrect": false
+          },
+          {
+            "definition": "折线图",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

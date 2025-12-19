@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "insufficient",
+      "error_analysis": "中国学生易因形近词“insistent”（坚持的）或“insufferable”（无法忍受的）干扰，将“insufficient”误判为“坚持的”或“难以忍受的”。",
+      "sentence": "The amount of water provided for the hike was **insufficient**, so we had to ration it carefully.",
+      "options": {
+        "option": [
+          {
+            "definition": "不足的；不够的",
+            "iscorrect": true
+          },
+          {
+            "definition": "坚持的；执意的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无法忍受的；难以承受的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不相关的；无关紧要的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

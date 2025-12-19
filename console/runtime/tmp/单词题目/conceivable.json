@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "conceivable",
+      "error_analysis": "学生易因形近词“conceal”（隐藏）误将“conceivable”理解为“可隐藏的”，或因词根“conceive”（怀孕）误判为“可怀孕的”。",
+      "sentence": "It is hardly **conceivable** that she would quit her job without any notice.",
+      "options": {
+        "option": [
+          {
+            "definition": "可想象的；可能的",
+            "iscorrect": true
+          },
+          {
+            "definition": "可隐藏的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可怀孕的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可信的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

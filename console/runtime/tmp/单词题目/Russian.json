@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Russian",
+      "error_analysis": "学生易因形近词\"rush\"(匆忙)或\"rust\"(生锈)将\"Russian\"误判为\"匆忙的\"或\"生锈的\"",
+      "sentence": "Her **Russian** pen pal sent her a postcard with a picture of the Kremlin.",
+      "options": {
+        "option": [
+          {
+            "definition": "俄罗斯的；俄罗斯人的；俄语的",
+            "iscorrect": true
+          },
+          {
+            "definition": "匆忙的；紧急的",
+            "iscorrect": false
+          },
+          {
+            "definition": "生锈的；锈迹斑斑的",
+            "iscorrect": false
+          },
+          {
+            "definition": "橡胶的；有弹性的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

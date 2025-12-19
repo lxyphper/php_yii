@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "resistor",
+      "error_analysis": "中国学生易因形近词\"resist\"（抵抗）及词根\"-or\"（人/物）误将\"resistor\"理解为\"抵抗者\"或\"阻力\"，而非具体电子元件。",
+      "sentence": "The technician identified that the faulty **resistor** in the phone's charging circuit was causing the screen to flicker.",
+      "options": {
+        "option": [
+          {
+            "definition": "电阻器（电子电路中控制电流的元件）",
+            "iscorrect": true
+          },
+          {
+            "definition": "抵抗者（如反对不公的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "阻力（阻碍物体运动的力量）",
+            "iscorrect": false
+          },
+          {
+            "definition": "防腐剂（防止食物腐烂的化学物质）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

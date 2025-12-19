@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mission",
+      "error_analysis": "学生易因形近词“miss”（错过/想念）误判为“错过的事”，或因词根“mittere”（发送）猜为“信息”，或混淆“mission”与“missionary”（传教士）。",
+      "sentence": "The team's **mission** is to deliver medical supplies to the remote village before the storm hits.",
+      "options": {
+        "option": [
+          {
+            "definition": "任务；使命",
+            "iscorrect": true
+          },
+          {
+            "definition": "错过的事情；遗憾",
+            "iscorrect": false
+          },
+          {
+            "definition": "信息；消息",
+            "iscorrect": false
+          },
+          {
+            "definition": "传教士",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

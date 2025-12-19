@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "crystal",
+      "error_analysis": "中国学生易因形近词“critical”（关键的）混淆词义，或因“cry”（哭）的词根联想错误理解为“哭泣的”。",
+      "sentence": "She wore a necklace with a small **crystal** pendant that sparkled in the sunlight.",
+      "options": {
+        "option": [
+          {
+            "definition": "关键的；批评的",
+            "iscorrect": false
+          },
+          {
+            "definition": "哭泣的；悲伤的",
+            "iscorrect": false
+          },
+          {
+            "definition": "水晶；晶体",
+            "iscorrect": true
+          },
+          {
+            "definition": "寒冷的；冰冻的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

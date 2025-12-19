@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "emergecy exit",
+      "emergancy exit",
+      "emergency exite",
+      "emergency ecit",
+      "emergency exitt"
+    ],
+    "correct_chunks": [
+      "emer-",
+      "gency",
+      "ex-",
+      "it"
+    ],
+    "distractor_chunks": [
+      "erge",
+      "gancy",
+      "ite",
+      "eci",
+      "itt"
+    ]
+  },
+  0
+]

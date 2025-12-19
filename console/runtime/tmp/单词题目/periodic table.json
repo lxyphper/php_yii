@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "periodic table",
+      "error_analysis": "学生易将\"periodic\"（周期的）与\"table\"（桌子）直译为\"定期的桌子\"，或混淆\"periodic\"与\"periodical\"（期刊）误以为是\"期刊目录\"",
+      "sentence": "In chemistry class, we learned to use the **periodic table** to find the atomic number of oxygen.",
+      "options": {
+        "option": [
+          {
+            "definition": "元素周期表",
+            "iscorrect": true
+          },
+          {
+            "definition": "定期会议桌",
+            "iscorrect": false
+          },
+          {
+            "definition": "期刊目录",
+            "iscorrect": false
+          },
+          {
+            "definition": "时间计划表",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

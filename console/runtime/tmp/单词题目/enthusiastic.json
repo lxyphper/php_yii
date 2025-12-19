@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "enthusiastic",
+      "error_analysis": "学生易因形近词“enthusiast”（爱好者）将“enthusiastic”误理解为“爱好者的”，或因词根“en-”+“thusi-”猜测为“使热的”。",
+      "sentence": "She was **enthusiastic** about joining the new book club and couldn’t wait to discuss her favorite novels.",
+      "options": {
+        "option": [
+          {
+            "definition": "爱好者的",
+            "iscorrect": false
+          },
+          {
+            "definition": "使热的",
+            "iscorrect": false
+          },
+          {
+            "definition": "热心的；热情的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有活力的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

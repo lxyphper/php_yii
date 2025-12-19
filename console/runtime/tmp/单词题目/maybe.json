@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "maybe",
+      "error_analysis": "学生易将'maybe'拆分为'may be'（动词短语），混淆其副词词性及\"或许；可能\"的核心词义",
+      "sentence": "**Maybe** we can go to the park this weekend if the weather is nice.",
+      "options": {
+        "option": [
+          {
+            "definition": "或许；可能（副词，表示对情况或结果的推测）",
+            "iscorrect": true
+          },
+          {
+            "definition": "可能是（动词短语，由may+be构成，用于句子中间作谓语）",
+            "iscorrect": false
+          },
+          {
+            "definition": "可以存在（由may和be的字面意思组合而成的错误理解）",
+            "iscorrect": false
+          },
+          {
+            "definition": "必须（表示义务或肯定的推测）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

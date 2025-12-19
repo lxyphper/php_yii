@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to embargo",
+      "error_analysis": "学生易因形近词\"embark\"（开始/上船）产生错误联想，或误将其与\"bar\"（障碍）关联导致理解偏差",
+      "sentence": "The United Nations voted to **embargo** all arms sales to the conflict zone to prevent further violence.",
+      "options": {
+        "option": [
+          {
+            "definition": "禁止（贸易）；实施禁运",
+            "iscorrect": true
+          },
+          {
+            "definition": "开始（旅程或任务）",
+            "iscorrect": false
+          },
+          {
+            "definition": "阻碍；阻挡",
+            "iscorrect": false
+          },
+          {
+            "definition": "拥抱；接受",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "desperation",
+      "error_analysis": "学生易因形近词“separation”（分离）的拼写相似，或词根误拆（如“des-+peration”）将其错解为“分离”或“操作停止”。",
+      "sentence": "When she lost her job and couldn’t pay rent, she acted out of **desperation** and borrowed money from a stranger.",
+      "options": {
+        "option": [
+          {
+            "definition": "绝望；不顾一切",
+            "iscorrect": true
+          },
+          {
+            "definition": "分离",
+            "iscorrect": false
+          },
+          {
+            "definition": "操作停止",
+            "iscorrect": false
+          },
+          {
+            "definition": "抑郁",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

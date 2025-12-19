@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "alligator",
+      "error_analysis": "学生易因形近词\"actor\"（演员）误猜为\"所有的演员\"，或因词根\"lagarto\"（蜥蜴）误联为\"蜥蜴\"",
+      "sentence": "We saw an **alligator** sunbathing on the bank of the river during our trip to Florida.",
+      "options": {
+        "option": [
+          {
+            "definition": "所有的演员",
+            "iscorrect": false
+          },
+          {
+            "definition": "蜥蜴",
+            "iscorrect": false
+          },
+          {
+            "definition": "短吻鳄",
+            "iscorrect": true
+          },
+          {
+            "definition": "鳄鱼",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to digest",
+      "error_analysis": "因形近词“dig”（挖）及名词“digest”（摘要）的干扰，易误理解为“挖掘（信息）”或“总结（信息）”。",
+      "sentence": "After reading the complex report, she needed some time to **digest** all the information before making a decision.",
+      "options": {
+        "option": [
+          {
+            "definition": "理解、吸收（信息）",
+            "iscorrect": true
+          },
+          {
+            "definition": "挖掘（信息）",
+            "iscorrect": false
+          },
+          {
+            "definition": "总结（信息）",
+            "iscorrect": false
+          },
+          {
+            "definition": "吞咽（食物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

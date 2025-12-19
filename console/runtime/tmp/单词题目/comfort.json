@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "comfort",
+      "error_analysis": "核心易错点为形近词“command”（命令）的干扰，及词根“fort”（力量）导致的“鼓励”误解。",
+      "sentence": "After the accident, the teacher took time to **comfort** the scared students.",
+      "options": {
+        "option": [
+          {
+            "definition": "安慰（使某人感到不那么悲伤或焦虑）",
+            "iscorrect": true
+          },
+          {
+            "definition": "命令（要求某人做某事）",
+            "iscorrect": false
+          },
+          {
+            "definition": "鼓励（给予支持或信心）",
+            "iscorrect": false
+          },
+          {
+            "definition": "舒适（身体或精神上的轻松状态）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

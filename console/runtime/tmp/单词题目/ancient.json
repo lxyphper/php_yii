@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ancient",
+      "error_analysis": "混淆“ancient”（古代的）与形近词“ancestor”衍生的“祖先的/祖传的”，或误用于指“年老的”（人）",
+      "sentence": "The archaeologists discovered an **ancient** temple buried under the sand, which dates back to 2000 BC.",
+      "options": {
+        "option": [
+          {
+            "definition": "古代的",
+            "iscorrect": true
+          },
+          {
+            "definition": "祖先的；祖传的",
+            "iscorrect": false
+          },
+          {
+            "definition": "年老的；高龄的",
+            "iscorrect": false
+          },
+          {
+            "definition": "旧的；破旧的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to expect",
+      "error_analysis": "学生易因形近词“except”（除了）或词根“spect”（看）误将“expect”理解为“除了”或“观察”",
+      "sentence": "She **expects** to get a promotion next month because she's been working very hard.",
+      "options": {
+        "option": [
+          {
+            "definition": "期待；预期",
+            "iscorrect": true
+          },
+          {
+            "definition": "除了；不包括",
+            "iscorrect": false
+          },
+          {
+            "definition": "观察；查看",
+            "iscorrect": false
+          },
+          {
+            "definition": "出口；出去",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

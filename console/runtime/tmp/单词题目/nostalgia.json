@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nostalgia",
+      "error_analysis": "学生易因形近词“nostril”（鼻孔）产生错误联想，或因词根“nostos”（回家）+“algia”（痛苦）过度直译。",
+      "sentence": "Whenever she smells freshly baked cookies, she is overcome by a wave of **nostalgia** for her grandmother’s kitchen.",
+      "options": {
+        "option": [
+          {
+            "definition": "怀旧之情；对过去的怀念",
+            "iscorrect": true
+          },
+          {
+            "definition": "鼻孔的不适或疼痛",
+            "iscorrect": false
+          },
+          {
+            "definition": "思乡的痛苦或渴望",
+            "iscorrect": false
+          },
+          {
+            "definition": "对未来的期待或憧憬",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

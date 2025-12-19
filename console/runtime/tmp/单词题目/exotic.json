@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "exotic",
+      "error_analysis": "中国学生易将\"exotic\"与形近词\"exciting\"（令人兴奋的）混淆，或因\"ex-\"词根误导为\"出口的\"。",
+      "sentence": "The restaurant serves **exotic** dishes from countries like Morocco and Thailand.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人兴奋的",
+            "iscorrect": false
+          },
+          {
+            "definition": "出口的",
+            "iscorrect": false
+          },
+          {
+            "definition": "异域的；来自外国的",
+            "iscorrect": true
+          },
+          {
+            "definition": "精致的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

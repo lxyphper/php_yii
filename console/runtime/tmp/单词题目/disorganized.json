@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "disorganized",
+      "error_analysis": "中国学生易因词根“organ”（器官）字面误导为“没有器官的”，或与形近词“disoriented”（迷失方向的）混淆。",
+      "sentence": "After the party, the living room was **disorganized** with cups and plates scattered everywhere.",
+      "options": {
+        "option": [
+          {
+            "definition": "无组织的；混乱的",
+            "iscorrect": true
+          },
+          {
+            "definition": "没有器官的",
+            "iscorrect": false
+          },
+          {
+            "definition": "迷失方向的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不整洁的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

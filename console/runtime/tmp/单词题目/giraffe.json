@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "giraffe",
+      "error_analysis": "学生易因形近词（如grape/葡萄）的拼写相似而误判giraffe的词义",
+      "sentence": "The **giraffe** stretched its long neck to reach the leaves on the tallest branch of the acacia tree.",
+      "options": {
+        "option": [
+          {
+            "definition": "长颈鹿",
+            "iscorrect": true
+          },
+          {
+            "definition": "葡萄",
+            "iscorrect": false
+          },
+          {
+            "definition": "图表",
+            "iscorrect": false
+          },
+          {
+            "definition": "沙鼠",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

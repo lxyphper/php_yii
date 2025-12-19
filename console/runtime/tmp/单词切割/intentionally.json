@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "intentionaly",
+      "intentionly",
+      "intensionally",
+      "intantionally",
+      "intintionally"
+    ],
+    "correct_chunks": [
+      "inten",
+      "tion",
+      "ally"
+    ],
+    "distractor_chunks": [
+      "intan",
+      "intint",
+      "sion",
+      "aly",
+      "ly"
+    ]
+  },
+  0
+]

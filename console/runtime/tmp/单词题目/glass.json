@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "glass",
+      "error_analysis": "易因形近词“grass”（草）干扰，或误将“glass”单数理解为“眼镜”（正确为glasses）或混淆“玻璃”（材质）与“玻璃杯”（容器）义。",
+      "sentence": "Could you please get me a **glass** of juice? I'm thirsty.",
+      "options": {
+        "option": [
+          {
+            "definition": "草",
+            "iscorrect": false
+          },
+          {
+            "definition": "眼镜",
+            "iscorrect": false
+          },
+          {
+            "definition": "玻璃",
+            "iscorrect": false
+          },
+          {
+            "definition": "玻璃杯",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

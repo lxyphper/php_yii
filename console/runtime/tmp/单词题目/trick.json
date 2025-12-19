@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "trick",
+      "error_analysis": "中国学生易因形近词“track”（轨道）的干扰或字面猜测将“trick”误解为“技巧”。",
+      "sentence": "The magician performed an amazing **trick** with a rabbit and a hat.",
+      "options": {
+        "option": [
+          {
+            "definition": "轨道",
+            "iscorrect": false
+          },
+          {
+            "definition": "技巧",
+            "iscorrect": false
+          },
+          {
+            "definition": "诡计；把戏",
+            "iscorrect": true
+          },
+          {
+            "definition": "款待",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

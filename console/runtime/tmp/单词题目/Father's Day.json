@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Father's Day",
+      "error_analysis": "中国学生易因形近词（如Farmer's Day）或字面误导（如父亲的生日）混淆其核心含义",
+      "sentence": "Many children buy ties or cards for their dads on **Father's Day** to express their gratitude.",
+      "options": {
+        "option": [
+          {
+            "definition": "父亲节",
+            "iscorrect": true
+          },
+          {
+            "definition": "农民节",
+            "iscorrect": false
+          },
+          {
+            "definition": "父亲的生日",
+            "iscorrect": false
+          },
+          {
+            "definition": "家庭日",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

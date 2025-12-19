@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to test",
+      "error_analysis": "将“to test”（测试）误理解为形近词“to text”（发文本消息）",
+      "sentence": "The teacher will **test** our math skills with a new worksheet tomorrow.",
+      "options": {
+        "option": [
+          {
+            "definition": "测试；测验",
+            "iscorrect": true
+          },
+          {
+            "definition": "发文本消息",
+            "iscorrect": false
+          },
+          {
+            "definition": "品尝",
+            "iscorrect": false
+          },
+          {
+            "definition": "检查（仅核实对错）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

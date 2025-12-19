@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "momentum",
+      "error_analysis": "学生易因形近词“moment”（时刻）将“momentum”误解为“瞬间”或“时刻”。",
+      "sentence": "After winning three games in a row, the basketball team started to gain **momentum** and became harder to beat.",
+      "options": {
+        "option": [
+          {
+            "definition": "时刻；瞬间",
+            "iscorrect": false
+          },
+          {
+            "definition": "运动；移动",
+            "iscorrect": false
+          },
+          {
+            "definition": "重要性；重大意义",
+            "iscorrect": false
+          },
+          {
+            "definition": "势头；动量",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

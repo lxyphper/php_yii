@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "road sign",
+      "error_analysis": "学生易将\"sign\"误理解为\"签名\"，从而把\"road sign\"错解为\"道路签名\"。",
+      "sentence": "When driving on the highway, you should pay attention to the **road sign** that indicates the next exit in 2 kilometers.",
+      "options": {
+        "option": [
+          {
+            "definition": "路标；道路标志",
+            "iscorrect": true
+          },
+          {
+            "definition": "道路签名",
+            "iscorrect": false
+          },
+          {
+            "definition": "道路信号",
+            "iscorrect": false
+          },
+          {
+            "definition": "路边标记",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to tell",
+      "error_analysis": "易因形近词“tall”（高的）或与近义词“talk”（谈话）的混淆，错误理解“tell”的核心义“告诉”。",
+      "sentence": "Can you **tell** me how to get to the train station?",
+      "options": {
+        "option": [
+          {
+            "definition": "告诉；讲述",
+            "iscorrect": true
+          },
+          {
+            "definition": "高的",
+            "iscorrect": false
+          },
+          {
+            "definition": "谈话",
+            "iscorrect": false
+          },
+          {
+            "definition": "触摸",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

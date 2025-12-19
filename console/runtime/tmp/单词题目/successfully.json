@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "successfully",
+      "error_analysis": "学生易混淆形近词“successive”（连续地）或因词根拆分误解为“完全成功地”",
+      "sentence": "After months of practice, she **successfully** passed the driving test.",
+      "options": {
+        "option": [
+          {
+            "definition": "成功地",
+            "iscorrect": true
+          },
+          {
+            "definition": "连续地",
+            "iscorrect": false
+          },
+          {
+            "definition": "完全成功地",
+            "iscorrect": false
+          },
+          {
+            "definition": "顺利地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

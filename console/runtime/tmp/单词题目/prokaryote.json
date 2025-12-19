@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "prokaryote",
+      "error_analysis": "学生易因“pro-”的“支持”义及对“karyo-”（核）的不熟悉，将“prokaryote”误解为“支持核的生物”，或与形近词“prototype”（原型）混淆。",
+      "sentence": "Bacteria, such as E. coli, are **prokaryotes** that lack a membrane-bound nucleus, distinguishing them from eukaryotes like plants and animals.",
+      "options": {
+        "option": [
+          {
+            "definition": "原核生物（没有核膜包围细胞核的单细胞生物，如细菌）",
+            "iscorrect": true
+          },
+          {
+            "definition": "支持核的生物（赞成或维护细胞核的有机体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "原型（产品、设计或系统的初始版本）",
+            "iscorrect": false
+          },
+          {
+            "definition": "真核生物（有核膜包围细胞核的生物，如植物、动物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

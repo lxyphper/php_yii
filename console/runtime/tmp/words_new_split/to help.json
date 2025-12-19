@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "tohelp",
+      "too help",
+      "to halp",
+      "to hep",
+      "to hellp"
+    ],
+    "correct_chunks": [
+      "to ",
+      "help"
+    ],
+    "distractor_chunks": [
+      "too ",
+      "halp",
+      "hep",
+      "tohelp",
+      "hellp"
+    ]
+  },
+  0
+]

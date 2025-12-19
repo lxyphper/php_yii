@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "red zone",
+      "error_analysis": "学生易将\"red zone\"字面理解为\"红色的区域\"，忽略其比喻义\"危险/禁止进入的区域\"",
+      "sentence": "The sign warns people not to enter the **red zone** near the construction site.",
+      "options": {
+        "option": [
+          {
+            "definition": "危险区域；禁止进入的区域",
+            "iscorrect": true
+          },
+          {
+            "definition": "红色的区域",
+            "iscorrect": false
+          },
+          {
+            "definition": "阅读区域（read zone的误写）",
+            "iscorrect": false
+          },
+          {
+            "definition": "红色的时区",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

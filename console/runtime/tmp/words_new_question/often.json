@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "often",
+      "error_analysis": "学生易因形近词“offer”（提供）的干扰，或误将“often”拆分为“of ten”（十个中的）而误解其“经常”的核心词义。",
+      "sentence": "He **often** plays basketball with his friends on weekends.",
+      "options": {
+        "option": [
+          {
+            "definition": "经常",
+            "iscorrect": true
+          },
+          {
+            "definition": "提供",
+            "iscorrect": false
+          },
+          {
+            "definition": "十个中的",
+            "iscorrect": false
+          },
+          {
+            "definition": "偶尔",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

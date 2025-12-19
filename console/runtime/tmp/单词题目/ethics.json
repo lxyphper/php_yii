@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ethics",
+      "error_analysis": "易混淆形近词\"ethnic\"(种族的)及词根联想错误导致的\"种族/习俗相关\"误解",
+      "sentence": "The company’s code of **ethics** prohibits employees from accepting expensive gifts from clients.",
+      "options": {
+        "option": [
+          {
+            "definition": "道德规范；伦理",
+            "iscorrect": true
+          },
+          {
+            "definition": "种族的；民族的",
+            "iscorrect": false
+          },
+          {
+            "definition": "习俗的；传统的",
+            "iscorrect": false
+          },
+          {
+            "definition": "美学的；审美的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

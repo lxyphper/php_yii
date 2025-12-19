@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "depressing",
+      "error_analysis": "容易混淆形近词（如impressing/pressing）导致误判，或词根直译（如“向下压的”）而非正确的“令人沮丧的”。",
+      "sentence": "The news about the ongoing economic recession was so **depressing** that many young people lost their motivation to work.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人沮丧的",
+            "iscorrect": true
+          },
+          {
+            "definition": "令人印象深刻的",
+            "iscorrect": false
+          },
+          {
+            "definition": "向下压的",
+            "iscorrect": false
+          },
+          {
+            "definition": "紧迫的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

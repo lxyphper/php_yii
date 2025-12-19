@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "spheroid",
+      "error_analysis": "学生易因形近词\"sphere\"(球体)或\"steroid\"(类固醇)产生误判，或忽略\"-oid\"(类似...形状)词根含义将其等同于\"球体\"。",
+      "sentence": "The Earth is not a perfect sphere but an oblate **spheroid**, flattened at the poles and bulging at the equator.",
+      "options": {
+        "option": [
+          {
+            "definition": "球体（完美的圆形立体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "类固醇（一种有机化合物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "类球体；椭球体",
+            "iscorrect": true
+          },
+          {
+            "definition": "球形容器（用于储存液体的容器）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

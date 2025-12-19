@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bestseller",
+      "error_analysis": "学生易因\"seller\"联想为\"销售者\"，将\"bestseller\"误理解为\"最佳销售者\"（指人），而非其核心义\"畅销书\"。",
+      "sentence": "The fantasy novel by the award-winning writer became a **bestseller** overnight, with all 50,000 copies snapped up within 48 hours.",
+      "options": {
+        "option": [
+          {
+            "definition": "畅销书；畅销品",
+            "iscorrect": true
+          },
+          {
+            "definition": "最佳销售者（指擅长销售的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "最好的卖家（指销售商品的商家）",
+            "iscorrect": false
+          },
+          {
+            "definition": "最受欢迎的书店",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

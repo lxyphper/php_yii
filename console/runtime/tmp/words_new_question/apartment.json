@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "apartment",
+      "error_analysis": "学生易因形近词\"department\"（部门）或词根\"apart\"（分开）误将\"apartment\"理解为\"部门\"或\"分隔间\"",
+      "sentence": "After saving money for two years, Lisa finally bought a small **apartment** near her workplace.",
+      "options": {
+        "option": [
+          {
+            "definition": "公寓",
+            "iscorrect": true
+          },
+          {
+            "definition": "部门；百货公司",
+            "iscorrect": false
+          },
+          {
+            "definition": "分隔间；仓库",
+            "iscorrect": false
+          },
+          {
+            "definition": "约会；约定",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "subjectivism",
+      "error_analysis": "中国学生易因词根“subject”的常见义（主题、学科）或形近词“subjectivity”（主观性）的干扰，将“subjectivism”误判为“主题主义”“学科主义”或“主观性”。",
+      "sentence": "The art critic accused the painter of **subjectivism** because his work prioritized personal emotion over realistic representation.",
+      "options": {
+        "option": [
+          {
+            "definition": "主观性（个人的主观感受或观点）",
+            "iscorrect": false
+          },
+          {
+            "definition": "主题主义（关于文章或艺术作品主题的理论）",
+            "iscorrect": false
+          },
+          {
+            "definition": "主观主义（一种强调个人主观感受或观点高于客观事实的哲学立场）",
+            "iscorrect": true
+          },
+          {
+            "definition": "学科主义（强调某一学科在教育中占主导地位的观念）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

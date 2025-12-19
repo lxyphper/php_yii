@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "anguish",
+      "error_analysis": "学生易因`anguish`与`angle`（角度）拼写相似或\"ang\"开头联想到\"愤怒\"（anger）而误判",
+      "sentence": "She could see the **anguish** in his eyes when he heard the bad news about his lost dog.",
+      "options": {
+        "option": [
+          {
+            "definition": "极度痛苦",
+            "iscorrect": true
+          },
+          {
+            "definition": "角度",
+            "iscorrect": false
+          },
+          {
+            "definition": "愤怒",
+            "iscorrect": false
+          },
+          {
+            "definition": "焦虑",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

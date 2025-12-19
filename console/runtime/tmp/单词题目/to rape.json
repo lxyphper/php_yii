@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to rape",
+      "error_analysis": "学生易因形近词“ripe”（成熟的）或与“rap”（说唱）的发音/词根联想而误解“to rape”的词义",
+      "sentence": "The man was arrested for attempting to **rape** a woman in the park last night.",
+      "options": {
+        "option": [
+          {
+            "definition": "强奸；强暴",
+            "iscorrect": true
+          },
+          {
+            "definition": "成熟的",
+            "iscorrect": false
+          },
+          {
+            "definition": "说唱",
+            "iscorrect": false
+          },
+          {
+            "definition": "比赛；奔跑",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to reach",
+      "error_analysis": "易混淆形近词\"teach\"(教)及词根\"伸\"的过度直译导致对\"到达/达成\"核心义的误解",
+      "sentence": "After a long hike, they were excited to **reach** the campsite before dark.",
+      "options": {
+        "option": [
+          {
+            "definition": "到达（某地）",
+            "iscorrect": true
+          },
+          {
+            "definition": "教（某人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "伸手去拿（某物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "触摸（某物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

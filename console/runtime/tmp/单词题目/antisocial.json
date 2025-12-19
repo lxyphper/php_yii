@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "antisocial",
+      "error_analysis": "学生易因词根“anti-+social”过度直译，将“antisocial”误解为“反社会的（极端含义）”，而忽略其日常“不爱社交的”核心义",
+      "sentence": "Mike always turns down invitations to hang out with colleagues; his boss thinks he's too **antisocial** to be a team leader.",
+      "options": {
+        "option": [
+          {
+            "definition": "不爱社交的；不合群的",
+            "iscorrect": true
+          },
+          {
+            "definition": "反社会的（指极端反社会行为或人格）",
+            "iscorrect": false
+          },
+          {
+            "definition": "喜欢社交的",
+            "iscorrect": false
+          },
+          {
+            "definition": "非社会的（与社会无关的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

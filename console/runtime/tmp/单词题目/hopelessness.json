@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hopelessness",
+      "error_analysis": "核心易错点为混淆形近词homelessness（无家可归）或helplessness（无助感），或误将词根组合直译为“没有希望的人/物”而非“绝望感”。",
+      "sentence": "After months of failing to find a job, he was overwhelmed by a deep sense of **hopelessness** and didn’t know what to do next.",
+      "options": {
+        "option": [
+          {
+            "definition": "绝望感；无望",
+            "iscorrect": true
+          },
+          {
+            "definition": "无家可归",
+            "iscorrect": false
+          },
+          {
+            "definition": "无助感",
+            "iscorrect": false
+          },
+          {
+            "definition": "没有希望的人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

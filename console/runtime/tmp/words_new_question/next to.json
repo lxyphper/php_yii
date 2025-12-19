@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "next to",
+      "error_analysis": "学生易将“next”的“下一个”与“to”的“到”字面组合，误解为“去下一个”或“下一个到...的位置”。",
+      "sentence": "The cat is sleeping **next to** the window in the living room.",
+      "options": {
+        "option": [
+          {
+            "definition": "去下一个",
+            "iscorrect": false
+          },
+          {
+            "definition": "在...旁边",
+            "iscorrect": true
+          },
+          {
+            "definition": "下一个的目标",
+            "iscorrect": false
+          },
+          {
+            "definition": "之后到达",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lonely",
+      "error_analysis": "学生易将\"lonely\"误理解为\"独自的\"（形近词\"alone\"混淆）或\"长长的\"（与\"long\"形近联想）",
+      "sentence": "After moving to a new city where she knew no one, Mary often felt **lonely** in her small apartment.",
+      "options": {
+        "option": [
+          {
+            "definition": "孤独的（情感上的孤单）",
+            "iscorrect": true
+          },
+          {
+            "definition": "独自的（状态上的单独）",
+            "iscorrect": false
+          },
+          {
+            "definition": "长长的（形容长度）",
+            "iscorrect": false
+          },
+          {
+            "definition": "无聊的（感到乏味）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

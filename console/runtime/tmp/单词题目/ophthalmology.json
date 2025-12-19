@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ophthalmology",
+      "error_analysis": "学生易因不认识词根“ophthalm-”（眼睛），将“ophthalmology”误猜为“验光学”（相关学科）或“耳鼻喉科学”（形近词根混淆）",
+      "sentence": "After graduating from medical school, she decided to specialize in **ophthalmology** to treat diseases like glaucoma and cataracts.",
+      "options": {
+        "option": [
+          {
+            "definition": "验光学",
+            "iscorrect": false
+          },
+          {
+            "definition": "耳鼻喉科学",
+            "iscorrect": false
+          },
+          {
+            "definition": "光学",
+            "iscorrect": false
+          },
+          {
+            "definition": "眼科学",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

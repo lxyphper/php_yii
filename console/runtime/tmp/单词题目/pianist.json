@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pianist",
+      "error_analysis": "学生易因形近词\"painter\"(画家)或对\"-ist\"后缀理解偏差(误作形容词\"钢琴的\")而错误理解\"pianist\"。",
+      "sentence": "My sister has been taking piano lessons for ten years and dreams of becoming a **pianist** someday.",
+      "options": {
+        "option": [
+          {
+            "definition": "画家",
+            "iscorrect": false
+          },
+          {
+            "definition": "钢琴的",
+            "iscorrect": false
+          },
+          {
+            "definition": "钢琴家",
+            "iscorrect": true
+          },
+          {
+            "definition": "疼痛专家",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

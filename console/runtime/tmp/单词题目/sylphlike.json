@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sylphlike",
+      "error_analysis": "学生易将`sylph`误判为形近词`silk`（丝绸）而推测为“光滑的”，或因不熟悉`sylph`（空气精灵）词根而选与“轻盈”相反的含义（如强壮）。",
+      "sentence": "Her white dress flowing, she moved across the crowded room with a **sylphlike** grace that drew everyone's eyes.",
+      "options": {
+        "option": [
+          {
+            "definition": "轻盈纤细的（形容身材或动作优雅轻盈）",
+            "iscorrect": true
+          },
+          {
+            "definition": "光滑如丝绸的",
+            "iscorrect": false
+          },
+          {
+            "definition": "强壮有力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "笨拙迟缓的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

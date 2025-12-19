@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "teleology",
+      "error_analysis": "将前缀“tele-”误解为“远程/通讯”，结合“logy”（学/论）错误联想为“远程学”或“通讯论”",
+      "sentence": "In philosophy, **teleology** argues that natural processes—like a seed growing into a flower—are guided by an inherent purpose rather than random chance.",
+      "options": {
+        "option": [
+          {
+            "definition": "目的论（用内在目的解释自然现象的哲学观点）",
+            "iscorrect": true
+          },
+          {
+            "definition": "远程通讯理论（研究远距离信息传递的学科）",
+            "iscorrect": false
+          },
+          {
+            "definition": "语言传播研究（关于语言跨地域扩散的学说）",
+            "iscorrect": false
+          },
+          {
+            "definition": "生物进化机制（解释物种随时间变化的规律）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mass",
+      "error_analysis": "学生易将'mass'与形近词'mess'（混乱）混淆，或误将其理解为'massive'（巨大的）的名词形式（如‘巨大的物体’）",
+      "sentence": "The kitchen counter was covered with a **mass** of dirty dishes after the party.",
+      "options": {
+        "option": [
+          {
+            "definition": "混乱；杂乱",
+            "iscorrect": false
+          },
+          {
+            "definition": "巨大的物体",
+            "iscorrect": false
+          },
+          {
+            "definition": "质量（物理术语）",
+            "iscorrect": false
+          },
+          {
+            "definition": "大量；大批",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

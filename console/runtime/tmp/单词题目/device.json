@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "device",
+      "error_analysis": "学生易因形近词\"devise\"(设计)的干扰，将\"device\"误解为\"设计；策划\"的名词形式，忽略其核心含义\"设备\"。",
+      "sentence": "The new **device** for measuring air quality will be installed in all schools next month.",
+      "options": {
+        "option": [
+          {
+            "definition": "设备；装置",
+            "iscorrect": true
+          },
+          {
+            "definition": "设计；策划（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "手段；策略",
+            "iscorrect": false
+          },
+          {
+            "definition": "恶习；缺点",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

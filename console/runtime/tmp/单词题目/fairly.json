@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fairly",
+      "error_analysis": "学生易将fairly误判为“公平地”（由形近词fair（公平的）加-ly推导而来）",
+      "sentence": "The movie was **fairly** interesting, so I watched it till the end.",
+      "options": {
+        "option": [
+          {
+            "definition": "相当，颇",
+            "iscorrect": true
+          },
+          {
+            "definition": "公平地",
+            "iscorrect": false
+          },
+          {
+            "definition": "完全地",
+            "iscorrect": false
+          },
+          {
+            "definition": "稍微",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

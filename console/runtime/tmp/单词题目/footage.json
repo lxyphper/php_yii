@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "footage",
+      "error_analysis": "学生易因\"foot\"（脚/英尺）与\"age\"（状态/数量）的词根联想，误判为与脚或长度相关的含义",
+      "sentence": "The documentary uses rare **footage** of the 1969 moon landing to illustrate the historic event.",
+      "options": {
+        "option": [
+          {
+            "definition": "（电影/视频的）影像素材",
+            "iscorrect": true
+          },
+          {
+            "definition": "脚步；步数",
+            "iscorrect": false
+          },
+          {
+            "definition": "英尺长度；尺码",
+            "iscorrect": false
+          },
+          {
+            "definition": "脚印；足迹",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

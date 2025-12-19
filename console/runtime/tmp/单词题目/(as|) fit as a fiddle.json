@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "(as|) fit as a fiddle",
+      "error_analysis": "学生易因\"fiddle\"(小提琴)的字面意思或\"fit\"(适合)的常见义，将短语误解为\"像小提琴一样合身\"或\"非常适合\"，而非\"非常健康\"。",
+      "sentence": "Despite being in his 80s, Grandpa still goes for a 5-kilometer run every morning and says he feels **as fit as a fiddle**.",
+      "options": {
+        "option": [
+          {
+            "definition": "非常健康，精神饱满",
+            "iscorrect": true
+          },
+          {
+            "definition": "像小提琴一样合身/合适",
+            "iscorrect": false
+          },
+          {
+            "definition": "非常适合（做某事）",
+            "iscorrect": false
+          },
+          {
+            "definition": "非常小巧玲珑",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

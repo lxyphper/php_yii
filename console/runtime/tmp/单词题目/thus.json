@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "thus",
+      "error_analysis": "学生易因形近将“thus”误判为“this”（这个）或“though”（虽然），导致理解偏差。",
+      "sentence": "The experiment failed repeatedly; **thus**, the researchers decided to change their approach.",
+      "options": {
+        "option": [
+          {
+            "definition": "因此；从而",
+            "iscorrect": true
+          },
+          {
+            "definition": "这个；这",
+            "iscorrect": false
+          },
+          {
+            "definition": "虽然；尽管",
+            "iscorrect": false
+          },
+          {
+            "definition": "通过；凭借",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "parallax",
+      "error_analysis": "学生易因形近词\"parallel\"(平行的)或词根\"para-\"(旁边)误判为\"平行性\"或\"旁支\"",
+      "sentence": "Astronomers use the **parallax** of nearby stars against distant galaxies to calculate their distance from Earth.",
+      "options": {
+        "option": [
+          {
+            "definition": "视差（因观察者位置不同而导致的物体位置表观变化）",
+            "iscorrect": true
+          },
+          {
+            "definition": "平行性（事物之间没有交集的状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "旁支（从主要部分延伸出的分支）",
+            "iscorrect": false
+          },
+          {
+            "definition": "悖论（自相矛盾的陈述）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

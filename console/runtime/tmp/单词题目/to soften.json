@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to soften",
+      "error_analysis": "中国学生易因形近词“soothe”（安慰）混淆“soften”，或因词根“soft”（软的）过度直译，将抽象语境中的“soften”误解为“使变软”而非“缓和”。",
+      "sentence": "The manager **softened** his harsh words after realizing he had made a mistake.",
+      "options": {
+        "option": [
+          {
+            "definition": "（话语、态度等）缓和；使变软",
+            "iscorrect": true
+          },
+          {
+            "definition": "安慰",
+            "iscorrect": false
+          },
+          {
+            "definition": "松开",
+            "iscorrect": false
+          },
+          {
+            "definition": "消除",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

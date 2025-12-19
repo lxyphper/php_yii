@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "humorous",
+      "error_analysis": "中国学生易因形近混淆\"humorous\"与\"humble\"(谦逊的)、\"humid\"(潮湿的)，或因\"humor\"的\"心情\"词义误猜为\"心情好的\"",
+      "sentence": "The comedian's **humorous** performance had the entire crowd laughing loudly.",
+      "options": {
+        "option": [
+          {
+            "definition": "幽默的",
+            "iscorrect": true
+          },
+          {
+            "definition": "谦逊的",
+            "iscorrect": false
+          },
+          {
+            "definition": "心情好的",
+            "iscorrect": false
+          },
+          {
+            "definition": "潮湿的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

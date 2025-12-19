@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to begrudge",
+      "error_analysis": "学生易因形近词\"beg\"（乞求）或词根拆分\"be-+grudge\"（抱有怨恨），将\"to begrudge\"误理解为\"乞求\"或\"怨恨\"。",
+      "sentence": "She never **begrudges** her friends their success; she’s always the first to congratulate them.",
+      "options": {
+        "option": [
+          {
+            "definition": "乞求；恳求",
+            "iscorrect": false
+          },
+          {
+            "definition": "嫉妒（某人的成功）；舍不得",
+            "iscorrect": true
+          },
+          {
+            "definition": "抱有怨恨；怨恨",
+            "iscorrect": false
+          },
+          {
+            "definition": "原谅；宽恕",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

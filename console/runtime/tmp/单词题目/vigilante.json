@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "vigilante",
+      "error_analysis": "容易混淆形近词\"vigilant\"(警惕的)，或根据词根\"vigil\"(守夜)误判为\"守夜人\"，忽略\"自行执法\"的核心义",
+      "sentence": "After the police failed to stop the repeated thefts, a group of **vigilantes** decided to patrol the neighborhood at night and confront thieves directly.",
+      "options": {
+        "option": [
+          {
+            "definition": "警惕的人（对危险保持警觉的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "守夜人（夜间看守的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "治安维持会成员（未经官方授权自行执法的人）",
+            "iscorrect": true
+          },
+          {
+            "definition": "志愿者（自愿提供帮助的人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "debatable",
+      "error_analysis": "学生易因形近词（如desirable）或词根过度推导（如理解为“喜欢辩论的”）而误判其核心义“有争议的”",
+      "sentence": "Whether the new policy will improve the economy is **debatable** among experts.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人向往的",
+            "iscorrect": false
+          },
+          {
+            "definition": "喜欢辩论的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有争议的，可辩论的",
+            "iscorrect": true
+          },
+          {
+            "definition": "需要辩论的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

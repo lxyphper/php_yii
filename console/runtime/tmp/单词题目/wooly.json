@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wooly",
+      "error_analysis": "学生易因形近词\"wolf\"（狼）将\"wooly\"误理解为\"狼的\"，或因词根\"wool\"（羊毛）忽略其\"（想法）模糊的\"引申义",
+      "sentence": "His description of the plan was so **wooly** that no one could agree on the details.",
+      "options": {
+        "option": [
+          {
+            "definition": "狼的",
+            "iscorrect": false
+          },
+          {
+            "definition": "羊毛制的",
+            "iscorrect": false
+          },
+          {
+            "definition": "头晕的",
+            "iscorrect": false
+          },
+          {
+            "definition": "（想法、描述等）模糊的，不清晰的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

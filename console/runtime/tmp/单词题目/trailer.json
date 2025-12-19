@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "trailer",
+      "error_analysis": "学生易因形近词'tailor'(裁缝)混淆，或因'trail'(痕迹)推测为'拖痕'。",
+      "sentence": "The new superhero movie's **trailer** will be released next week, giving fans a first look at the action.",
+      "options": {
+        "option": [
+          {
+            "definition": "（电影/电视的）预告片",
+            "iscorrect": true
+          },
+          {
+            "definition": "裁缝；成衣匠",
+            "iscorrect": false
+          },
+          {
+            "definition": "拖痕；踪迹",
+            "iscorrect": false
+          },
+          {
+            "definition": "拖车；挂车",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "faint",
+      "error_analysis": "中国学生易因形近词“paint”（绘画）而误解“faint”的核心词义（微弱的）",
+      "sentence": "She heard a **faint** knock on the door and went to answer it.",
+      "options": {
+        "option": [
+          {
+            "definition": "微弱的",
+            "iscorrect": true
+          },
+          {
+            "definition": "绘画",
+            "iscorrect": false
+          },
+          {
+            "definition": "失败",
+            "iscorrect": false
+          },
+          {
+            "definition": "强烈的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

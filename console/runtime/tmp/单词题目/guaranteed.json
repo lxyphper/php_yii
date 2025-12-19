@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "guaranteed",
+      "error_analysis": "中国学生易因形近词\"guarded\"(谨慎的)或词根联想(与\"guard\"关联)误将\"guaranteed\"理解为\"谨慎的\"或\"保护的\"",
+      "sentence": "With this new policy, your job is **guaranteed** for the next five years, so you don’t have to worry about being laid off.",
+      "options": {
+        "option": [
+          {
+            "definition": "谨慎的；提防的",
+            "iscorrect": false
+          },
+          {
+            "definition": "保护的；受守护的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有保证的；肯定的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有限的；受限制的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

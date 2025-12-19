@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to withstand",
+      "error_analysis": "学生易将“withstand”拆分为“with（和...一起）+ stand（站立）”，错误理解为“支持”或“站立”，而非其核心义“抵抗、承受”。",
+      "sentence": "The old bridge managed to **withstand** the severe flood last year without any damage.",
+      "options": {
+        "option": [
+          {
+            "definition": "抵抗；承受",
+            "iscorrect": true
+          },
+          {
+            "definition": "支持",
+            "iscorrect": false
+          },
+          {
+            "definition": "忍受",
+            "iscorrect": false
+          },
+          {
+            "definition": "站立",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

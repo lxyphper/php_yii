@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "inviting",
+      "error_analysis": "将形容词\"inviting\"误理解为动词\"invite\"的现在分词（表示\"邀请的\"动作），忽略其\"诱人的\"核心引申义。",
+      "sentence": "The bakery window displayed a tray of **inviting** chocolate cakes that made passersby stop and look.",
+      "options": {
+        "option": [
+          {
+            "definition": "诱人的；吸引人的",
+            "iscorrect": true
+          },
+          {
+            "definition": "邀请的（正在进行邀请的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "与邀请相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "被邀请的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

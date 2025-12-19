@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "faithful",
+      "error_analysis": "易混淆形近词“fateful”（命运的）或词根过度直译“充满信仰的”，而非核心义“忠诚的”。",
+      "sentence": "The dog remained **faithful** to its owner even after years of separation.",
+      "options": {
+        "option": [
+          {
+            "definition": "忠诚的；忠实的",
+            "iscorrect": true
+          },
+          {
+            "definition": "命运的；重大的",
+            "iscorrect": false
+          },
+          {
+            "definition": "充满信仰的",
+            "iscorrect": false
+          },
+          {
+            "definition": "真诚的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

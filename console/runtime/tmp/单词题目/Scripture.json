@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Scripture",
+      "error_analysis": "易因形近词\"script\"（剧本）及词根\"script\"（写）错误联想为\"剧本\"或\"手稿\"",
+      "sentence": "Many people find comfort in reading **Scripture** during difficult times, as it offers guidance and hope.",
+      "options": {
+        "option": [
+          {
+            "definition": "经文；圣典",
+            "iscorrect": true
+          },
+          {
+            "definition": "剧本；脚本",
+            "iscorrect": false
+          },
+          {
+            "definition": "手稿；手写体",
+            "iscorrect": false
+          },
+          {
+            "definition": "结构；构造",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

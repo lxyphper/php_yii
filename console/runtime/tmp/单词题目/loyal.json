@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "loyal",
+      "error_analysis": "易因形近词“royal”（皇家的）或词根误导（如将“loy-”与“law”联系为“合法的”）而误解其“忠诚的”核心含义",
+      "sentence": "Despite getting better job offers from rival firms, Tom has remained **loyal** to his first employer for 15 years.",
+      "options": {
+        "option": [
+          {
+            "definition": "忠诚的",
+            "iscorrect": true
+          },
+          {
+            "definition": "皇家的",
+            "iscorrect": false
+          },
+          {
+            "definition": "合法的",
+            "iscorrect": false
+          },
+          {
+            "definition": "当地的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

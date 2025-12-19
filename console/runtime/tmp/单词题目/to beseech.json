@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to beseech",
+      "error_analysis": "学生易因形近词\"seek\"（寻找）或词根\"seech\"（关联\"seek\"）误导，将\"beseech\"误判为\"寻找\"或\"寻求\"，忽略其\"强烈恳求\"的核心义。",
+      "sentence": "The mother fell to her knees and **beseeched** the guard to let her see her sick child.",
+      "options": {
+        "option": [
+          {
+            "definition": "恳求，哀求",
+            "iscorrect": true
+          },
+          {
+            "definition": "寻找，寻求",
+            "iscorrect": false
+          },
+          {
+            "definition": "围攻，包围",
+            "iscorrect": false
+          },
+          {
+            "definition": "观察，查看",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

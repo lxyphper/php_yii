@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "berry",
+      "error_analysis": "中国学生易因“berry”与形近词“bury”（埋葬）、“very”（非常）拼写接近而混淆词义",
+      "sentence": "She picked some fresh **berries** from the bush and made a delicious jam.",
+      "options": {
+        "option": [
+          {
+            "definition": "浆果（如草莓、蓝莓等小型多汁水果）",
+            "iscorrect": true
+          },
+          {
+            "definition": "埋葬；掩埋",
+            "iscorrect": false
+          },
+          {
+            "definition": "非常；很",
+            "iscorrect": false
+          },
+          {
+            "definition": "熊；忍受",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

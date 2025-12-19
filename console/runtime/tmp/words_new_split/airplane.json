@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "airplan",
+      "airplain",
+      "aiplane",
+      "eirplane",
+      "aeroplane"
+    ],
+    "correct_chunks": [
+      "air",
+      "plane"
+    ],
+    "distractor_chunks": [
+      "ai",
+      "eir",
+      "plan",
+      "plain",
+      "aero"
+    ]
+  },
+  0
+]

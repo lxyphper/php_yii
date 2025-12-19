@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to pass",
+      "error_analysis": "因形近词\"past\"（过去）的干扰，误将\"to pass\"理解为\"(时间)过去\"",
+      "sentence": "If you study hard, you will **pass** the final exam easily.",
+      "options": {
+        "option": [
+          {
+            "definition": "通过（考试、测试等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "（时间）过去",
+            "iscorrect": false
+          },
+          {
+            "definition": "传递（某物给某人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "经过（某地或某人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

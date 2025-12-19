@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "again",
+      "error_analysis": "易与形近词“against”（反对）混淆，或误将“again”与“gain”（获得）关联猜测为“再获得”",
+      "sentence": "Could you please say that **again**? I didn’t catch what you said.",
+      "options": {
+        "option": [
+          {
+            "definition": "再一次；又",
+            "iscorrect": true
+          },
+          {
+            "definition": "反对；靠着",
+            "iscorrect": false
+          },
+          {
+            "definition": "再获得；重新得到",
+            "iscorrect": false
+          },
+          {
+            "definition": "仍然；还",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

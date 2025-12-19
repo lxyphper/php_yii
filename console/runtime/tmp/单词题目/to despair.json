@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to despair",
+      "error_analysis": "学生易因形近词\"despise\"（鄙视）混淆，或拆分为\"de-\"（否定）+\"pair\"（对）猜测为\"分开\"",
+      "sentence": "After failing the exam three times, she began to **despair** of ever passing it.",
+      "options": {
+        "option": [
+          {
+            "definition": "绝望，丧失信心",
+            "iscorrect": true
+          },
+          {
+            "definition": "鄙视，看不起",
+            "iscorrect": false
+          },
+          {
+            "definition": "分开，分离",
+            "iscorrect": false
+          },
+          {
+            "definition": "渴望，渴求",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

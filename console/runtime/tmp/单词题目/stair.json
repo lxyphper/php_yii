@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stair",
+      "error_analysis": "易与形近词stare（盯着看）混淆，或因包含air（空气）而误猜与空气相关的含义",
+      "sentence": "She tripped over a loose **stair** while carrying the boxes up to the second floor.",
+      "options": {
+        "option": [
+          {
+            "definition": "楼梯（级）",
+            "iscorrect": true
+          },
+          {
+            "definition": "盯着看",
+            "iscorrect": false
+          },
+          {
+            "definition": "空气通道",
+            "iscorrect": false
+          },
+          {
+            "definition": "停留处",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

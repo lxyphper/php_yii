@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "irritable",
+      "error_analysis": "学生易因“ir-”前缀（如irregular）误导为“不规则的”，或因“-ible”结尾（如credible）混淆为“不可信的”",
+      "sentence": "After waiting for two hours in the scorching sun, the old man grew **irritable** and began shouting at the ticket seller.",
+      "options": {
+        "option": [
+          {
+            "definition": "易怒的；急躁的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不规则的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不可信的",
+            "iscorrect": false
+          },
+          {
+            "definition": "疲惫的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dollar",
+      "error_analysis": "学生易因形近词“doll”（玩偶）的干扰，将“dollar”错误理解为与“玩偶”相关的含义",
+      "sentence": "I need to exchange some yuan for **dollars** before my trip to the US.",
+      "options": {
+        "option": [
+          {
+            "definition": "美元（货币单位）",
+            "iscorrect": true
+          },
+          {
+            "definition": "玩偶（儿童玩具）",
+            "iscorrect": false
+          },
+          {
+            "definition": "迟钝的（缺乏活力的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "门（房屋的入口）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

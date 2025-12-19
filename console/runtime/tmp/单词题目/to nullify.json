@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to nullify",
+      "error_analysis": "学生易因形近词\"notify\"（通知）产生误判，或因词根\"null\"过度推导为\"使空白\"",
+      "sentence": "The court decided to **nullify** the contract because it was signed under duress.",
+      "options": {
+        "option": [
+          {
+            "definition": "使无效；废除",
+            "iscorrect": true
+          },
+          {
+            "definition": "通知；告知",
+            "iscorrect": false
+          },
+          {
+            "definition": "使空白；清空",
+            "iscorrect": false
+          },
+          {
+            "definition": "加强；巩固",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

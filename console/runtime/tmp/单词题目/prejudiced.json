@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "prejudiced",
+      "error_analysis": "学生易因形近词\"prepared\"（准备好的）或词根\"pre-（预先）+judge（判断）\"误将\"prejudiced\"理解为\"准备好的\"或\"预先判断的\"，而非核心义\"有偏见的\"。",
+      "sentence": "Despite never meeting her, he had a **prejudiced** opinion of her just because she came from a different country.",
+      "options": {
+        "option": [
+          {
+            "definition": "有偏见的",
+            "iscorrect": true
+          },
+          {
+            "definition": "准备好的",
+            "iscorrect": false
+          },
+          {
+            "definition": "预先判断的",
+            "iscorrect": false
+          },
+          {
+            "definition": "公正的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

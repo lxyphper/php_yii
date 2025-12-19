@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "misfortune",
+      "error_analysis": "学生可能因词根“mis-”（否定）与“fortune”（财富/运气）的组合，错误理解为“缺乏财富”，或因形近词“misfortunate”（形容词）而混淆词性。",
+      "sentence": "When Tom's bike was stolen and then he got caught in the rain without an umbrella, he sighed and said, \"What a day of **misfortune**!\"",
+      "options": {
+        "option": [
+          {
+            "definition": "不幸；厄运（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "不幸的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "缺乏财富；贫困",
+            "iscorrect": false
+          },
+          {
+            "definition": "错误的决定",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

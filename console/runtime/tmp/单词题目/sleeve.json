@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sleeve",
+      "error_analysis": "中国学生易因形近词`sleep`（睡眠）或`leave`（离开）的干扰而误解`sleeve`的核心词义。",
+      "sentence": "She rolled up her **sleeve** to show me the scar from her childhood accident.",
+      "options": {
+        "option": [
+          {
+            "definition": "袖子（衣服覆盖手臂的部分）",
+            "iscorrect": true
+          },
+          {
+            "definition": "睡眠（进入休息状态的过程）",
+            "iscorrect": false
+          },
+          {
+            "definition": "离开（从某地前往另一地）",
+            "iscorrect": false
+          },
+          {
+            "definition": "树叶（树木长出的绿色叶片）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

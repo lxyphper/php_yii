@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "only child",
+      "error_analysis": "中国学生易因\"only\"与\"lonely\"形近混淆，将\"only child\"误解为\"孤独的孩子\"，或因\"only\"的\"仅仅\"义字面误导为\"仅仅是孩子\"",
+      "sentence": "As an **only child**, she always gets all the attention from her parents.",
+      "options": {
+        "option": [
+          {
+            "definition": "独生子女",
+            "iscorrect": true
+          },
+          {
+            "definition": "孤独的孩子",
+            "iscorrect": false
+          },
+          {
+            "definition": "仅仅是孩子",
+            "iscorrect": false
+          },
+          {
+            "definition": "最小的孩子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

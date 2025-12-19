@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "marketing",
+      "error_analysis": "易因形近词“marking”（标记）混淆，或词根“market”直译导致误判为“市场活动”而非“市场营销”。",
+      "sentence": "Our team is working on a new **marketing** campaign to attract younger customers through TikTok and Instagram.",
+      "options": {
+        "option": [
+          {
+            "definition": "标记；打分（如考试中的评分或物品上的记号）",
+            "iscorrect": false
+          },
+          {
+            "definition": "市场的（形容词，用于描述与市场相关的事物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "市场营销（指产品/服务的推广、销售策略等活动）",
+            "iscorrect": true
+          },
+          {
+            "definition": "市场调研（对市场需求、竞争情况的调查分析）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to recline",
+      "error_analysis": "混淆形近词decline（下降/拒绝）与recline（斜倚/躺），或误通过词根re-（再）+cline（倾斜）猜测为“再次倾斜”",
+      "sentence": "After a tiring hike, Tom decided to **recline** on the grass and watch the clouds drift by.",
+      "options": {
+        "option": [
+          {
+            "definition": "斜倚；躺",
+            "iscorrect": true
+          },
+          {
+            "definition": "下降；拒绝",
+            "iscorrect": false
+          },
+          {
+            "definition": "倾向；倾斜",
+            "iscorrect": false
+          },
+          {
+            "definition": "重复倾斜",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

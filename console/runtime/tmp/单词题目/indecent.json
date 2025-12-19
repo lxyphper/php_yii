@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "indecent",
+      "error_analysis": "学生易因形近词indecisive（犹豫不决的）误判indecent词义，或因词根decent（体面的）+in-（不）误将其理解为‘不礼貌的’",
+      "sentence": "The man was arrested for **indecent** exposure in the park.",
+      "options": {
+        "option": [
+          {
+            "definition": "犹豫不决的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不礼貌的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不合适的",
+            "iscorrect": false
+          },
+          {
+            "definition": "下流的；有伤风化的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

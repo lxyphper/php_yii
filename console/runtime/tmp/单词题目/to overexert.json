@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to overexert",
+      "error_analysis": "学生易因exert与express形近将overexert误解为“过度表达”，或因over-前缀联想为“过度扩展”（overextend）而非核心义“过度努力/用力”。",
+      "sentence": "After running a marathon without training, he realized he had **overexerted** himself when his legs started cramping badly.",
+      "options": {
+        "option": [
+          {
+            "definition": "过度努力；用力过猛（to make too much effort or use too much energy）",
+            "iscorrect": true
+          },
+          {
+            "definition": "过度表达（to express too much emotion or opinion）",
+            "iscorrect": false
+          },
+          {
+            "definition": "过度扩展（to extend something beyond its limits）",
+            "iscorrect": false
+          },
+          {
+            "definition": "过度兴奋（to become too excited or agitated）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

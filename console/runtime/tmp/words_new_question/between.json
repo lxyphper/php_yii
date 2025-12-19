@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "between",
+      "error_analysis": "学生易因形近词\"bet\"（打赌）或\"teen\"（青少年）联想，误将\"between\"理解为与\"打赌\"或\"青少年\"相关的含义",
+      "sentence": "The cat is hiding **between** the sofa and the coffee table.",
+      "options": {
+        "option": [
+          {
+            "definition": "在……之间（连接两个事物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "打赌（用钱或物赌输赢）",
+            "iscorrect": false
+          },
+          {
+            "definition": "青少年（13-19岁的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "被打败的（遭受失败的状态）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

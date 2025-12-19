@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "digital",
+      "error_analysis": "学生易因形近词“diligent”（勤奋的）混淆，或因词根“digit”（手指）误导认为是“手指的”。",
+      "sentence": "Many people now prefer using **digital** payment methods like Alipay or WeChat Pay instead of cash.",
+      "options": {
+        "option": [
+          {
+            "definition": "数字的；电子的",
+            "iscorrect": true
+          },
+          {
+            "definition": "勤奋的；用功的",
+            "iscorrect": false
+          },
+          {
+            "definition": "手指的；用手指操作的",
+            "iscorrect": false
+          },
+          {
+            "definition": "直接的；直率的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

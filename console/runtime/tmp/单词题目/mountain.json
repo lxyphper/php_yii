@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mountain",
+      "error_analysis": "中国学生易因形近词“fountain”（喷泉）或“mount”（登上/安装）的词义联想，错误理解“mountain”的含义。",
+      "sentence": "We climbed the **mountain** and enjoyed the beautiful view from the top.",
+      "options": {
+        "option": [
+          {
+            "definition": "山（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "喷泉（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "登上（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "安装物（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

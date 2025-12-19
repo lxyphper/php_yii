@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "overfilled",
+      "error_analysis": "学生易因形近词\"overwhelmed\"(不知所措的)混淆，或因词根\"over+filled\"过度直译为\"已经填满\"而非\"装得太满\"",
+      "sentence": "The waiter brought a glass of water that was **overfilled**, so some spilled onto the table.",
+      "options": {
+        "option": [
+          {
+            "definition": "不知所措的",
+            "iscorrect": false
+          },
+          {
+            "definition": "已经填满的",
+            "iscorrect": false
+          },
+          {
+            "definition": "装得太满的，溢出的",
+            "iscorrect": true
+          },
+          {
+            "definition": "反复填满的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

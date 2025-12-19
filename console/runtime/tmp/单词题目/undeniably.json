@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "undeniably",
+      "error_analysis": "学生易因形近词（如unavoidably）或词根过度推导，将undeniably误理解为\"不可避免地\"或\"非常地\"",
+      "sentence": "The team's success this season is **undeniably** due to their hard work and teamwork.",
+      "options": {
+        "option": [
+          {
+            "definition": "不可否认地",
+            "iscorrect": true
+          },
+          {
+            "definition": "不可避免地",
+            "iscorrect": false
+          },
+          {
+            "definition": "非常地",
+            "iscorrect": false
+          },
+          {
+            "definition": "难以置信地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

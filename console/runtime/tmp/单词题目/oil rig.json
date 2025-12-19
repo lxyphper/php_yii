@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "oil rig",
+      "error_analysis": "因\"rig\"与形近词\"ring\"混淆而误判为\"油环\"，或因\"rig\"字面不熟悉猜测为\"油支架\"等错误含义",
+      "sentence": "The workers are busy maintaining the **oil rig** located in the middle of the ocean.",
+      "options": {
+        "option": [
+          {
+            "definition": "石油钻机；油井架",
+            "iscorrect": true
+          },
+          {
+            "definition": "油环（发动机部件）",
+            "iscorrect": false
+          },
+          {
+            "definition": "油支架；油框架",
+            "iscorrect": false
+          },
+          {
+            "definition": "油罐；储油容器",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

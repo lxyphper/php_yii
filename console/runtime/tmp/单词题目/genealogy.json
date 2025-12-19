@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "genealogy",
+      "error_analysis": "学生易因形近词\"geology\"(地质学)或词根\"gene\"(基因)误判为\"地质学\"或\"基因学\"",
+      "sentence": "My grandmother spent years researching our family's **genealogy** to trace our ancestors back to the 18th century.",
+      "options": {
+        "option": [
+          {
+            "definition": "系谱学；家谱学",
+            "iscorrect": true
+          },
+          {
+            "definition": "地质学",
+            "iscorrect": false
+          },
+          {
+            "definition": "基因学",
+            "iscorrect": false
+          },
+          {
+            "definition": "地理学",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

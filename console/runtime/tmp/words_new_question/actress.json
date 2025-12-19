@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "actress",
+      "error_analysis": "中国学生易因形近词“address”（地址）的拼写相似误判“actress”，或因未掌握“-ress”表女性的后缀而错误推导词义。",
+      "sentence": "The famous **actress** will star in a new romantic comedy next month.",
+      "options": {
+        "option": [
+          {
+            "definition": "女演员",
+            "iscorrect": true
+          },
+          {
+            "definition": "地址",
+            "iscorrect": false
+          },
+          {
+            "definition": "行动的女性",
+            "iscorrect": false
+          },
+          {
+            "definition": "压力",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

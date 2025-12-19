@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "beer",
+      "error_analysis": "学生易因形近词混淆“beer”与“bear”（熊），或误联想为“bee”（蜜蜂）等类似拼写词",
+      "sentence": "He ordered a cold **beer** to go with his pizza at the restaurant.",
+      "options": {
+        "option": [
+          {
+            "definition": "啤酒",
+            "iscorrect": true
+          },
+          {
+            "definition": "熊",
+            "iscorrect": false
+          },
+          {
+            "definition": "蜜蜂",
+            "iscorrect": false
+          },
+          {
+            "definition": "面包",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "potentially",
+      "error_analysis": "学生易因词根“potent”（能力）误导将其理解为“有能力地”，或与强调概率的“很可能地”混淆。",
+      "sentence": "This new technology could **potentially** revolutionize how we generate energy, but it still needs more research before being implemented.",
+      "options": {
+        "option": [
+          {
+            "definition": "有能力地",
+            "iscorrect": false
+          },
+          {
+            "definition": "很可能地",
+            "iscorrect": false
+          },
+          {
+            "definition": "永久地",
+            "iscorrect": false
+          },
+          {
+            "definition": "潜在地；可能地（强调潜在的能力或可能性）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

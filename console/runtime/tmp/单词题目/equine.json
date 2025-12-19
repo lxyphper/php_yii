@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "equine",
+      "error_analysis": "学生易因形近词\"engine\"（发动机）混淆词义，或因词根\"equ-\"（平等）误判为\"平等的\"",
+      "sentence": "The museum displays a range of **equine** items, including vintage horse bridles and carriage bells used in the 19th century.",
+      "options": {
+        "option": [
+          {
+            "definition": "马的；与马有关的",
+            "iscorrect": true
+          },
+          {
+            "definition": "发动机的；与发动机有关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "平等的；均等的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有效的；起作用的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tasty",
+      "error_analysis": "学生易混淆形近词“testy”（易怒的），或误将“tasty”（美味的）理解为中性的“有味道的”。",
+      "sentence": "The homemade chocolate cake smells so good, and it tastes even more **tasty** than it looks.",
+      "options": {
+        "option": [
+          {
+            "definition": "美味的",
+            "iscorrect": true
+          },
+          {
+            "definition": "易怒的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有味道的",
+            "iscorrect": false
+          },
+          {
+            "definition": "任务繁重的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

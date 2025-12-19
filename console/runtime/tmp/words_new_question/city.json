@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "city",
+      "error_analysis": "学生易因词根\"cit-\"（公民）误解\"city\"为\"公民\"，或因形近词\"cite\"（引用）\"kitty\"（小猫）产生错误联想。",
+      "sentence": "We visited a beautiful **city** with old temples and wide parks last summer.",
+      "options": {
+        "option": [
+          {
+            "definition": "城市",
+            "iscorrect": true
+          },
+          {
+            "definition": "公民",
+            "iscorrect": false
+          },
+          {
+            "definition": "引用",
+            "iscorrect": false
+          },
+          {
+            "definition": "小猫",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

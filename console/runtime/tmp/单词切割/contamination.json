@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "contaminition",
+      "contammation",
+      "comtamination",
+      "contamation"
+    ],
+    "correct_chunks": [
+      "con",
+      "tam",
+      "in",
+      "ation"
+    ],
+    "distractor_chunks": [
+      "ition",
+      "tamm",
+      "com",
+      "tamation"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rank",
+      "error_analysis": "易混淆形近词\"range\"(范围)或误猜为\"排列\"(词根\"一行\"的字面误导)",
+      "sentence": "After years of hard work, she finally achieved the highest **rank** in the military.",
+      "options": {
+        "option": [
+          {
+            "definition": "等级；排名",
+            "iscorrect": true
+          },
+          {
+            "definition": "范围；区间",
+            "iscorrect": false
+          },
+          {
+            "definition": "排列；行列",
+            "iscorrect": false
+          },
+          {
+            "definition": "银行；河岸",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

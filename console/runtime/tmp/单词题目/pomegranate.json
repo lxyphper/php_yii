@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pomegranate",
+      "error_analysis": "学生易因“pome”形近“pomelo”（柚子）或“granate”联想“grape”（葡萄）而误判为其他水果",
+      "sentence": "She added **pomegranate** seeds to her fruit salad to give it a pop of color and sweetness.",
+      "options": {
+        "option": [
+          {
+            "definition": "石榴",
+            "iscorrect": true
+          },
+          {
+            "definition": "柚子",
+            "iscorrect": false
+          },
+          {
+            "definition": "葡萄",
+            "iscorrect": false
+          },
+          {
+            "definition": "花岗岩",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

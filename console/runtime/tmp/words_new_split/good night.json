@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "gud night",
+      "good nite",
+      "good nigt",
+      "goodnight",
+      "gud nite"
+    ],
+    "correct_chunks": [
+      "g",
+      "ood ",
+      "n",
+      "ight"
+    ],
+    "distractor_chunks": [
+      "gud",
+      "ite",
+      "igt",
+      "goodnight",
+      "ud"
+    ]
+  },
+  0
+]

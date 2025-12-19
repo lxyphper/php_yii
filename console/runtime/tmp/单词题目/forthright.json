@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "forthright",
+      "error_analysis": "学生易将\"forth\"（向前）与\"right\"（正确）错误组合，或与形近词\"forthcoming\"（即将到来的）混淆，误解为\"坚定的\"或\"即将发生的\"。",
+      "sentence": "During the meeting, Sarah gave a **forthright** opinion about the project, saying she thought it was a waste of time.",
+      "options": {
+        "option": [
+          {
+            "definition": "直率的；坦诚的",
+            "iscorrect": true
+          },
+          {
+            "definition": "即将到来的；愿意帮忙的",
+            "iscorrect": false
+          },
+          {
+            "definition": "坚定的；勇往直前的",
+            "iscorrect": false
+          },
+          {
+            "definition": "正确的；恰当的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nervous",
+      "error_analysis": "学生易因形近词“nerdy”（书呆子的）的拼写联想，或词根“nerve”（神经）的字面误导，将“nervous”误判为“书呆子的”或“神经的”。",
+      "sentence": "She felt **nervous** before her first job interview.",
+      "options": {
+        "option": [
+          {
+            "definition": "紧张的；焦虑的",
+            "iscorrect": true
+          },
+          {
+            "definition": "书呆子的",
+            "iscorrect": false
+          },
+          {
+            "definition": "神经的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有勇气的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

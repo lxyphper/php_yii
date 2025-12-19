@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unfortunately",
+      "error_analysis": "中国学生易因形近混淆‘unfortunately’（不幸地）与‘fortunately’（幸运地）的词义，或误将其理解为‘不幸运的’（形容词）而非副词性的‘不幸地’。",
+      "sentence": "I was looking forward to the picnic, but **unfortunately**, the weather turned bad and we had to cancel it.",
+      "options": {
+        "option": [
+          {
+            "definition": "不幸地",
+            "iscorrect": true
+          },
+          {
+            "definition": "幸运地",
+            "iscorrect": false
+          },
+          {
+            "definition": "不幸运的",
+            "iscorrect": false
+          },
+          {
+            "definition": "意外地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

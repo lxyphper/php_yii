@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "enchanting",
+      "error_analysis": "易混淆形近词enhancing（增强的）及词根chant（吟唱）带来的“与吟唱相关”的错误联想",
+      "sentence": "The sunset over the ocean created an **enchanting** scene that made everyone stop and stare.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人着迷的；迷人的",
+            "iscorrect": true
+          },
+          {
+            "definition": "增强的；提高的",
+            "iscorrect": false
+          },
+          {
+            "definition": "与吟唱相关的；令人吟唱的",
+            "iscorrect": false
+          },
+          {
+            "definition": "娱乐的；有趣的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

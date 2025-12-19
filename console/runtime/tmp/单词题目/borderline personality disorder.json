@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "borderline personality disorder",
+      "error_analysis": "学生易因\"borderline\"字面直译（边界线的）或\"personality disorder\"不准确翻译（个性障碍），将术语误解为\"边界线人格障碍\"或\"边缘性个性障碍\"",
+      "sentence": "People with **borderline personality disorder** often experience intense mood swings, a deep fear of abandonment, and difficulty maintaining stable relationships—common symptoms of this mental health condition.",
+      "options": {
+        "option": [
+          {
+            "definition": "边缘型人格障碍",
+            "iscorrect": true
+          },
+          {
+            "definition": "边界线人格障碍",
+            "iscorrect": false
+          },
+          {
+            "definition": "边缘性个性障碍",
+            "iscorrect": false
+          },
+          {
+            "definition": "边境地区人格障碍",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

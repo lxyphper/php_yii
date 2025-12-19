@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sound effect",
+      "error_analysis": "学生易将\"sound effect\"字面理解为\"声音的影响\"（即声音对事物的作用），而非其固定含义\"音效\"（影视游戏中的人工声音效果）。",
+      "sentence": "In the horror movie, the sudden **sound effect** of a door creaking made the audience jump.",
+      "options": {
+        "option": [
+          {
+            "definition": "音效（影视、游戏等中的人工声音效果）",
+            "iscorrect": true
+          },
+          {
+            "definition": "声音的影响（如声音对人的情绪或环境的作用）",
+            "iscorrect": false
+          },
+          {
+            "definition": "原声带（电影或电视的配乐）",
+            "iscorrect": false
+          },
+          {
+            "definition": "声音检查（演出前对声音设备的测试）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

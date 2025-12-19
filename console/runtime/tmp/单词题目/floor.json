@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "floor",
+      "error_analysis": "中国学生易混淆形近词“flour”（面粉）与“floor”，或因“oor”部分联想“door”（门）产生错误。",
+      "sentence": "Please wipe the **floor** with a damp cloth before guests arrive.",
+      "options": {
+        "option": [
+          {
+            "definition": "地板",
+            "iscorrect": true
+          },
+          {
+            "definition": "面粉",
+            "iscorrect": false
+          },
+          {
+            "definition": "门",
+            "iscorrect": false
+          },
+          {
+            "definition": "花",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

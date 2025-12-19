@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to forbid",
+      "error_analysis": "中国学生易因形近词“forgive”（原谅）混淆词义，或因“bid”的“吩咐”义误解为“命令”。",
+      "sentence": "The school rules **forbid** students from bringing smartphones into the classroom.",
+      "options": {
+        "option": [
+          {
+            "definition": "禁止",
+            "iscorrect": true
+          },
+          {
+            "definition": "原谅",
+            "iscorrect": false
+          },
+          {
+            "definition": "命令",
+            "iscorrect": false
+          },
+          {
+            "definition": "忘记",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

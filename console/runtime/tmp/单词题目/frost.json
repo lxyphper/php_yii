@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "frost",
+      "error_analysis": "中国学生易因形近词“forest”（森林）混淆“frost”词义，或误猜为“冻结”等泛化含义。",
+      "sentence": "The grass was covered with a thin layer of **frost** this morning, making everything look sparkly.",
+      "options": {
+        "option": [
+          {
+            "definition": "森林",
+            "iscorrect": false
+          },
+          {
+            "definition": "霜；霜冻",
+            "iscorrect": true
+          },
+          {
+            "definition": "冻结；结冰",
+            "iscorrect": false
+          },
+          {
+            "definition": "寒风；冷风",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "familiar",
+      "error_analysis": "中国学生易因形近词\"family\"（家庭）或词根过度联想，将\"familiar\"误判为\"家庭的\"或\"亲密的\"",
+      "sentence": "I found the song very **familiar**; I must have heard it before.",
+      "options": {
+        "option": [
+          {
+            "definition": "家庭的",
+            "iscorrect": false
+          },
+          {
+            "definition": "相似的",
+            "iscorrect": false
+          },
+          {
+            "definition": "熟悉的",
+            "iscorrect": true
+          },
+          {
+            "definition": "亲密的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

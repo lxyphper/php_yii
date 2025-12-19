@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "friendship",
+      "error_analysis": "学生可能因“friendship”中的“ship”（船）字面拆分误解为“朋友的船”，或混淆其与“friendliness”（友好）的含义。",
+      "sentence": "Sarah and Emma’s **friendship** began in elementary school and has grown stronger over the years.",
+      "options": {
+        "option": [
+          {
+            "definition": "友谊（朋友之间的亲密关系）",
+            "iscorrect": true
+          },
+          {
+            "definition": "朋友的船（属于朋友的船只）",
+            "iscorrect": false
+          },
+          {
+            "definition": "友好的态度（对他人的友善态度）",
+            "iscorrect": false
+          },
+          {
+            "definition": "朋友的数量（某人拥有的朋友数量）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

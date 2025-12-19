@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to tackle",
+      "error_analysis": "学生易因形近词\"tickle\"（挠痒）混淆词义，或因名词\"tackle\"（渔具）的字面意思误猜动词为\"用渔具钓\"或\"固定\"。",
+      "sentence": "After putting off the project for weeks, she finally decided to **tackle** the most difficult part today.",
+      "options": {
+        "option": [
+          {
+            "definition": "处理（问题或任务）",
+            "iscorrect": true
+          },
+          {
+            "definition": "挠痒；逗笑",
+            "iscorrect": false
+          },
+          {
+            "definition": "用渔具钓；捕获",
+            "iscorrect": false
+          },
+          {
+            "definition": "固定；钉住",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

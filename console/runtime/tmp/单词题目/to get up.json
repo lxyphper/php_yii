@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to get up",
+      "error_analysis": "学生易因\"get\"的\"得到\"义与\"up\"的\"向上\"义结合，错误理解为\"拿起/举起（某物）\"，或与形近短语\"give up\"（放弃）混淆",
+      "sentence": "I need to **get up** early tomorrow to catch the first bus to school.",
+      "options": {
+        "option": [
+          {
+            "definition": "起床；站起来",
+            "iscorrect": true
+          },
+          {
+            "definition": "放弃",
+            "iscorrect": false
+          },
+          {
+            "definition": "拿起（某物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "打扮",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

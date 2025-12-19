@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to navigate",
+      "error_analysis": "学生易因词根“nav”（船）误判为“划船/海上航行”，或因形近词“negotiate”（谈判）混淆词义",
+      "sentence": "When traveling to a new city, many people use GPS apps to **navigate** their way to landmarks.",
+      "options": {
+        "option": [
+          {
+            "definition": "导航；找到（路线）",
+            "iscorrect": true
+          },
+          {
+            "definition": "划船；在海上航行",
+            "iscorrect": false
+          },
+          {
+            "definition": "谈判；协商",
+            "iscorrect": false
+          },
+          {
+            "definition": "驾驶；操作（车辆）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

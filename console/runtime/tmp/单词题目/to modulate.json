@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to modulate",
+      "error_analysis": "学生易因形近词“moderate”（适度的）将“to modulate”误理解为“使适度/缓和”，或因词根“mod”（调整）过度推导为“修改（一般事物）”",
+      "sentence": "Please **modulate** the volume of the TV—its too loud for the baby.",
+      "options": {
+        "option": [
+          {
+            "definition": "使适度；缓和",
+            "iscorrect": false
+          },
+          {
+            "definition": "修改；变更（一般事物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "调整（声音、频率等的大小或强度）",
+            "iscorrect": true
+          },
+          {
+            "definition": "提高（音量、强度等）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "antler",
+      "error_analysis": "学生易因形近词\"ant\"（蚂蚁）产生错误联想，将\"antler\"误判为蚂蚁的身体部位（如触角）或小蚂蚁。",
+      "sentence": "The male deer proudly displayed his large, branched **antlers** during the mating season.",
+      "options": {
+        "option": [
+          {
+            "definition": "鹿角",
+            "iscorrect": true
+          },
+          {
+            "definition": "蚂蚁的触角",
+            "iscorrect": false
+          },
+          {
+            "definition": "小蚂蚁",
+            "iscorrect": false
+          },
+          {
+            "definition": "鸟类的喙",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

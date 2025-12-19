@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tree",
+      "error_analysis": "学生易将形近词\"three\"（三）与\"tree\"（树）混淆，导致错误理解",
+      "sentence": "The kids are playing hide-and-seek around the big **tree** in the park.",
+      "options": {
+        "option": [
+          {
+            "definition": "树",
+            "iscorrect": true
+          },
+          {
+            "definition": "三",
+            "iscorrect": false
+          },
+          {
+            "definition": "真的",
+            "iscorrect": false
+          },
+          {
+            "definition": "轮胎",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

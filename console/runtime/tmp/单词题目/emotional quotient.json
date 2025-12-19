@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "emotional quotient",
+      "error_analysis": "学生易将\"quotient\"与形近词\"quote\"（引用）混淆，或误按其数学中\"商\"的字面含义理解为\"情感商数\"（忽略心理学中\"指数\"的引申义）",
+      "sentence": "Studies show that a high **emotional quotient** helps people manage stress and build strong relationships more effectively.",
+      "options": {
+        "option": [
+          {
+            "definition": "情商（情绪智力的衡量指标）",
+            "iscorrect": true
+          },
+          {
+            "definition": "情感引用（对情感的引用或提及）",
+            "iscorrect": false
+          },
+          {
+            "definition": "情感商数（数学运算中的情感结果）",
+            "iscorrect": false
+          },
+          {
+            "definition": "情感份额（情感在整体中的比例）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

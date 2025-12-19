@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to aggrandize",
+      "error_analysis": "学生易因形近词“grand”（宏大的）或词根“grand”（大），误将“aggrandize”理解为物理上的“使变大”或抽象的“使宏伟”，而非“扩大权力/地位”或“夸大”。",
+      "sentence": "The politician often tried to **aggrandize** himself by exaggerating his achievements during speeches.",
+      "options": {
+        "option": [
+          {
+            "definition": "扩大…的权力（或地位）；夸大（自己的成就等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "使（物体）变大；扩大（尺寸或规模）",
+            "iscorrect": false
+          },
+          {
+            "definition": "使…变得宏伟壮丽；增强…的气势",
+            "iscorrect": false
+          },
+          {
+            "definition": "加重…的负担；使情况恶化",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

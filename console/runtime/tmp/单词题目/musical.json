@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "musical",
+      "error_analysis": "学生易因形近词\"music\"将名词\"musical\"误判为形容词\"音乐的\"，或忽略其\"音乐剧\"的核心名词含义",
+      "sentence": "We are going to watch a new **musical** about a group of young artists chasing their dreams on Broadway this weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "音乐剧",
+            "iscorrect": true
+          },
+          {
+            "definition": "音乐的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "音乐家",
+            "iscorrect": false
+          },
+          {
+            "definition": "乐器",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

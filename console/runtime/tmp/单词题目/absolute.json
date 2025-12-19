@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "absolute",
+      "error_analysis": "学生易因词根“solute”（溶质/溶解）误导将“absolute”误理解为“溶解的”，或因形近词“absorbent”（吸收的）产生混淆。",
+      "sentence": "The king claimed he had **absolute** power over his kingdom, so no one could challenge his orders.",
+      "options": {
+        "option": [
+          {
+            "definition": "绝对的；完全的",
+            "iscorrect": true
+          },
+          {
+            "definition": "吸收的；吸湿性的",
+            "iscorrect": false
+          },
+          {
+            "definition": "溶解的；可溶的",
+            "iscorrect": false
+          },
+          {
+            "definition": "抽象的；理论的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

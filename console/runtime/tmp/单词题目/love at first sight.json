@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "love at first sight",
+      "error_analysis": "中国学生易因字面直译（如“第一次看到的爱情”）或与“初恋”（first love）混淆而误解其“一见钟情”的核心义。",
+      "sentence": "When Mia met Leo at the bookstore, she felt a spark the moment their eyes met—everyone could tell it was **love at first sight**.",
+      "options": {
+        "option": [
+          {
+            "definition": "一见钟情",
+            "iscorrect": true
+          },
+          {
+            "definition": "初恋",
+            "iscorrect": false
+          },
+          {
+            "definition": "第一次看到的爱情",
+            "iscorrect": false
+          },
+          {
+            "definition": "长久的爱情",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

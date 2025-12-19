@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "glee",
+      "error_analysis": "将“glee”误联想为形近词“glue”（胶水）或“gleam”（微光）",
+      "sentence": "When the children saw the pile of presents under the tree, their eyes lit up with **glee**.",
+      "options": {
+        "option": [
+          {
+            "definition": "欢乐；高兴",
+            "iscorrect": true
+          },
+          {
+            "definition": "胶水；黏合剂",
+            "iscorrect": false
+          },
+          {
+            "definition": "微光；闪光",
+            "iscorrect": false
+          },
+          {
+            "definition": "恐惧；害怕",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

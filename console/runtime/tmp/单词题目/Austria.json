@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Austria",
+      "error_analysis": "中国学生最易因形近词混淆将Austria误判为Australia（澳大利亚），或误当作形容词使用",
+      "sentence": "Many tourists visit **Austria** every year to enjoy its beautiful Alps and attend classical music concerts, such as those featuring Mozart's works.",
+      "options": {
+        "option": [
+          {
+            "definition": "奥地利（欧洲中部国家，以阿尔卑斯山和古典音乐闻名）",
+            "iscorrect": true
+          },
+          {
+            "definition": "澳大利亚（大洋洲国家，以袋鼠和悉尼歌剧院闻名）",
+            "iscorrect": false
+          },
+          {
+            "definition": "奥地利的（用于描述来自奥地利的人或事物的形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "奥克兰（新西兰北部城市，以帆船运动和火山景观闻名）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

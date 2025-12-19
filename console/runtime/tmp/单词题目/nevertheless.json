@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nevertheless",
+      "error_analysis": "学生易将\"nevertheless\"拆分为\"never+the+less\"，错误理解为\"从不减少；绝不更少\"，而忽略其转折连词的核心义\"然而\"。",
+      "sentence": "She was tired after a long day at work; **nevertheless**, she decided to go to the gym to stay fit.",
+      "options": {
+        "option": [
+          {
+            "definition": "然而，不过",
+            "iscorrect": true
+          },
+          {
+            "definition": "从不减少；绝不更少",
+            "iscorrect": false
+          },
+          {
+            "definition": "永不；绝不",
+            "iscorrect": false
+          },
+          {
+            "definition": "因此；所以",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

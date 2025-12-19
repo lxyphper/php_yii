@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to assimilate",
+      "error_analysis": "学生易因词根“simil”（相似）错误推导为“使相似/比较”，忽略其“吸收/同化”的核心含义",
+      "sentence": "Students need time to **assimilate** the information from the lecture before taking the exam.",
+      "options": {
+        "option": [
+          {
+            "definition": "吸收（知识、信息等）；同化",
+            "iscorrect": true
+          },
+          {
+            "definition": "使变得相似；比较",
+            "iscorrect": false
+          },
+          {
+            "definition": "集合；聚集",
+            "iscorrect": false
+          },
+          {
+            "definition": "模拟；假装",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

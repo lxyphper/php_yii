@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "couple",
+      "error_analysis": "中国学生易将“couple”与形近词“double”（双倍）或“courage”（勇气）混淆，或误将动词义“连接”当作名词核心义。",
+      "sentence": "Can you pass me a **couple** of pens? I need to write some notes.",
+      "options": {
+        "option": [
+          {
+            "definition": "几个；一对",
+            "iscorrect": true
+          },
+          {
+            "definition": "双倍；两倍",
+            "iscorrect": false
+          },
+          {
+            "definition": "勇气；胆量",
+            "iscorrect": false
+          },
+          {
+            "definition": "连接；结合",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

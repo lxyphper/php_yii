@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to deploy",
+      "error_analysis": "学生易因形近词\"employ\"(雇佣)混淆，或因词根\"ploy\"(策略)误导为\"策划\"",
+      "sentence": "The company plans to **deploy** its new AI system in all retail stores next month.",
+      "options": {
+        "option": [
+          {
+            "definition": "雇佣",
+            "iscorrect": false
+          },
+          {
+            "definition": "策划（使用策略）",
+            "iscorrect": false
+          },
+          {
+            "definition": "展示",
+            "iscorrect": false
+          },
+          {
+            "definition": "部署；启用（设备、系统等）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

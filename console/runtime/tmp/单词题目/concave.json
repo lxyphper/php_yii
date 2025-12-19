@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "concave",
+      "error_analysis": "易因形近词\"concrete\"(具体的)产生联想错误，或因词根\"cave\"(洞穴)过度推导为\"有洞穴的\"",
+      "sentence": "The inside of the bowl is **concave**, so it holds soup without spilling.",
+      "options": {
+        "option": [
+          {
+            "definition": "具体的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有洞穴的",
+            "iscorrect": false
+          },
+          {
+            "definition": "凹的",
+            "iscorrect": true
+          },
+          {
+            "definition": "凸的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

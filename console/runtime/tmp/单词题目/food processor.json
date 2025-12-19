@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "food processor",
+      "error_analysis": "学生易因\"processor\"的词根联想（-or表人/物）或形近词（如professor），将其误解为\"食物加工者\"（人）、\"食物加工过程\"或\"食品教授\"，而非\"加工机器\"（物）",
+      "sentence": "I used a **food processor** to chop the vegetables into small pieces for the soup.",
+      "options": {
+        "option": [
+          {
+            "definition": "食物加工者（从事食物加工的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "食物加工过程（食物被加工的步骤）",
+            "iscorrect": false
+          },
+          {
+            "definition": "食品教授（研究食品的学者）",
+            "iscorrect": false
+          },
+          {
+            "definition": "食物处理器（一种用于切碎、搅拌食物的电器）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

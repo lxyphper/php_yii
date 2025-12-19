@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to meditate",
+      "error_analysis": "学生易将“to meditate”与形近词“to mediate”（调解）混淆，或因词根“med”联想到“medicine”而误解为“治疗”。",
+      "sentence": "To calm his anxiety, Tom decided to **meditate** in the garden for a while.",
+      "options": {
+        "option": [
+          {
+            "definition": "冥想；沉思",
+            "iscorrect": true
+          },
+          {
+            "definition": "调解；斡旋",
+            "iscorrect": false
+          },
+          {
+            "definition": "治疗；医治",
+            "iscorrect": false
+          },
+          {
+            "definition": "测量；估量",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

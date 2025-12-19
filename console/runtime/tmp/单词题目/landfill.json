@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "landfill",
+      "error_analysis": "学生易将\"landfill\"拆分为\"land\"+\"fill\"，错误理解为\"土地填充工程\"或\"填地作业\"，忽略其\"垃圾填埋场\"的核心词义",
+      "sentence": "The city plans to build a new **landfill** on the outskirts to handle increasing waste from residential areas.",
+      "options": {
+        "option": [
+          {
+            "definition": "垃圾填埋场",
+            "iscorrect": true
+          },
+          {
+            "definition": "土地填充工程",
+            "iscorrect": false
+          },
+          {
+            "definition": "登陆点（如船只靠岸处）",
+            "iscorrect": false
+          },
+          {
+            "definition": "满是泥土的场地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

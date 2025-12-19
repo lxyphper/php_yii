@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stalwart",
+      "error_analysis": "学生易因形近词“stale”（陈旧的）产生“不新鲜的”错误联想，或因拆分“stal+wart”误以为是“有疣的”。",
+      "sentence": "Despite the challenges, Mrs. Smith remained a **stalwart** supporter of the local library, donating time and money every year.",
+      "options": {
+        "option": [
+          {
+            "definition": "陈旧的；不新鲜的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有疣的；丑陋的",
+            "iscorrect": false
+          },
+          {
+            "definition": "忠诚可靠的（支持者）；坚定的（防御者）",
+            "iscorrect": true
+          },
+          {
+            "definition": "强壮的；结实的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

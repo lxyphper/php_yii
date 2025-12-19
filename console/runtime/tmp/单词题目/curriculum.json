@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "curriculum",
+      "error_analysis": "学生易因形近词“currency”（货币）或词根“curr”（跑）误导联想到“运动项目”",
+      "sentence": "The high school’s new **curriculum** emphasizes STEM subjects and critical thinking skills.",
+      "options": {
+        "option": [
+          {
+            "definition": "货币",
+            "iscorrect": false
+          },
+          {
+            "definition": "运动项目",
+            "iscorrect": false
+          },
+          {
+            "definition": "课程体系",
+            "iscorrect": true
+          },
+          {
+            "definition": "教科书",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

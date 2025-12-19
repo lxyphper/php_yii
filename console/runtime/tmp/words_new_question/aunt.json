@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "aunt",
+      "error_analysis": "中国学生易因形近词“ant”（蚂蚁）的干扰，将“aunt”误判为动物类名词",
+      "sentence": "My **aunt** always brings me delicious cookies when she visits our family.",
+      "options": {
+        "option": [
+          {
+            "definition": "蚂蚁",
+            "iscorrect": false
+          },
+          {
+            "definition": "蚂蚁的",
+            "iscorrect": false
+          },
+          {
+            "definition": "反对的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "姑母；姨母；伯母；婶母；舅母",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

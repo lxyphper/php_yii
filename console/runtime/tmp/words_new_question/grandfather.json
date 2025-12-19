@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "grandfather",
+      "error_analysis": "学生易因形近词\"godfather\"（教父）混淆，或因词根\"grand\"（伟大的）误导为\"伟大的父亲\"。",
+      "sentence": "My **grandfather** often tells me stories about his childhood in the countryside.",
+      "options": {
+        "option": [
+          {
+            "definition": "祖父；外祖父",
+            "iscorrect": true
+          },
+          {
+            "definition": "教父",
+            "iscorrect": false
+          },
+          {
+            "definition": "伟大的父亲",
+            "iscorrect": false
+          },
+          {
+            "definition": "父亲的兄弟",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

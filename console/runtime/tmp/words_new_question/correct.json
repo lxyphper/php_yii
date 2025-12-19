@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "correct",
+      "error_analysis": "学生易因形近词（如connect/collect）或词根“rect-”（直）的误导而错误理解“correct”的核心词义。",
+      "sentence": "Please check if your answer is **correct** before submitting the test.",
+      "options": {
+        "option": [
+          {
+            "definition": "正确的",
+            "iscorrect": true
+          },
+          {
+            "definition": "连接",
+            "iscorrect": false
+          },
+          {
+            "definition": "直的",
+            "iscorrect": false
+          },
+          {
+            "definition": "收集",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

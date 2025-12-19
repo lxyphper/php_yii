@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "livingroom",
+      "liveing room",
+      "leving room",
+      "living rom",
+      "liveingroom"
+    ],
+    "correct_chunks": [
+      "liv",
+      "ing ",
+      "room"
+    ],
+    "distractor_chunks": [
+      "live",
+      "lev",
+      "rom",
+      "livingroom"
+    ]
+  },
+  0
+]

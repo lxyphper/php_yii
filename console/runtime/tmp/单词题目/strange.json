@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "strange",
+      "error_analysis": "学生易因形近词\"strong\"（强壮的）或\"strict\"（严格的）混淆，误判\"strange\"的词义",
+      "sentence": "The little girl hid behind her mom when she saw a **strange** man standing at the door.",
+      "options": {
+        "option": [
+          {
+            "definition": "陌生的；奇怪的",
+            "iscorrect": true
+          },
+          {
+            "definition": "强壮的",
+            "iscorrect": false
+          },
+          {
+            "definition": "严格的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有趣的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

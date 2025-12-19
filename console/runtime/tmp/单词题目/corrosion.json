@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "corrosion",
+      "error_analysis": "学生易因形近词\"corruption\"(腐败)混淆，或因词根\"cor-\"(共同)猜测为\"合作(状态)\"。",
+      "sentence": "The old metal bridge collapsed due to years of **corrosion** caused by rain and saltwater.",
+      "options": {
+        "option": [
+          {
+            "definition": "腐蚀（作用）",
+            "iscorrect": true
+          },
+          {
+            "definition": "腐败",
+            "iscorrect": false
+          },
+          {
+            "definition": "合作（状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "纠正（行为）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

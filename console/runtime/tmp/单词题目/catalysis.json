@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "catalysis",
+      "error_analysis": "学生易因形近词catalogue（目录）或词根lysis（分解）误将catalysis理解为目录或分解作用",
+      "sentence": "The **catalysis** of the enzyme significantly speeds up the chemical reaction in the cell.",
+      "options": {
+        "option": [
+          {
+            "definition": "目录",
+            "iscorrect": false
+          },
+          {
+            "definition": "分解作用",
+            "iscorrect": false
+          },
+          {
+            "definition": "催化作用",
+            "iscorrect": true
+          },
+          {
+            "definition": "催化剂",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

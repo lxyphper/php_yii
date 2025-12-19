@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nominee",
+      "error_analysis": "学生易因词根“nomin-”（提名）误将“nominee”理解为“提名者”（主动），或因形近词“nominal”（名义上的）“nomad”（游牧民）联想为“名义上的人”或“游牧民”。",
+      "sentence": "The Oscar **nominee** for Best Actress will attend the ceremony next week.",
+      "options": {
+        "option": [
+          {
+            "definition": "提名者",
+            "iscorrect": false
+          },
+          {
+            "definition": "名义上的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "游牧民",
+            "iscorrect": false
+          },
+          {
+            "definition": "候选人；被提名者",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

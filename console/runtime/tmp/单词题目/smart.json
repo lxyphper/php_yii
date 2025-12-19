@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "smart",
+      "error_analysis": "中国学生易因形近词\"smile\"误解\"smart\"为\"微笑的\"，或因词根联想误解为\"尖锐的\"（sharp）。",
+      "sentence": "Lisa is a **smart** girl who always gets top grades in her class.",
+      "options": {
+        "option": [
+          {
+            "definition": "聪明的",
+            "iscorrect": true
+          },
+          {
+            "definition": "微笑的",
+            "iscorrect": false
+          },
+          {
+            "definition": "尖锐的",
+            "iscorrect": false
+          },
+          {
+            "definition": "小的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to let",
+      "error_analysis": "学生易将固定短语\"to let\"误解为\"允许；让\"（来自\"let\"的基本义）或字面翻译为\"去让\"",
+      "sentence": "The sign on the door says: \"House **to let** - contact Mr. Smith for details.\"",
+      "options": {
+        "option": [
+          {
+            "definition": "出租（房屋/公寓等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "允许；让",
+            "iscorrect": false
+          },
+          {
+            "definition": "借给；借出",
+            "iscorrect": false
+          },
+          {
+            "definition": "去让；使能够",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

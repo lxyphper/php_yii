@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fossil",
+      "error_analysis": "学生易因形近词\"foster\"(培养)或\"fossil fuel\"短语误将\"fossil\"理解为\"培养\"或\"燃料\"",
+      "sentence": "Paleontologists discovered a well-preserved dinosaur **fossil** in the desert, which helped them learn more about the species.",
+      "options": {
+        "option": [
+          {
+            "definition": "化石",
+            "iscorrect": true
+          },
+          {
+            "definition": "培养",
+            "iscorrect": false
+          },
+          {
+            "definition": "燃料",
+            "iscorrect": false
+          },
+          {
+            "definition": "森林",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

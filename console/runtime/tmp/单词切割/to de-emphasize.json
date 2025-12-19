@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "deemphasize",
+      "di-emphasize",
+      "de-phasize",
+      "de-emphasise",
+      "de-emfasize"
+    ],
+    "correct_chunks": [
+      "de-",
+      "em-",
+      "phasize"
+    ],
+    "distractor_chunks": [
+      "deemph",
+      "di-",
+      "phasize",
+      "emfa",
+      "sise"
+    ]
+  },
+  0
+]

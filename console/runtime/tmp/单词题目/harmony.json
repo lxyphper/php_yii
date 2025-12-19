@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "harmony",
+      "error_analysis": "将形近词“harm”（伤害）的含义误迁移至“harmony”，认为其与“伤害”相关",
+      "sentence": "The family lived in **harmony** for many years, with everyone respecting each other's opinions.",
+      "options": {
+        "option": [
+          {
+            "definition": "和谐；融洽",
+            "iscorrect": true
+          },
+          {
+            "definition": "伤害；损害",
+            "iscorrect": false
+          },
+          {
+            "definition": "节奏；旋律",
+            "iscorrect": false
+          },
+          {
+            "definition": "努力；尝试",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

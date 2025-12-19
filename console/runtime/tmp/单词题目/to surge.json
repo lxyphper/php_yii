@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to surge",
+      "error_analysis": "中国学生易因形近词'search'（寻找）或'surface'（浮出水面）的拼写相似，将'to surge'误理解为与“寻找”或“浮出水面”相关的动作。",
+      "sentence": "The demand for electric cars **surged** after the government introduced tax incentives.",
+      "options": {
+        "option": [
+          {
+            "definition": "（数量、价格等）激增，猛增",
+            "iscorrect": true
+          },
+          {
+            "definition": "寻找",
+            "iscorrect": false
+          },
+          {
+            "definition": "浮出水面",
+            "iscorrect": false
+          },
+          {
+            "definition": "上升（缓慢或平稳地）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

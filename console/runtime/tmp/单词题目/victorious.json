@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "victorious",
+      "error_analysis": "学生易因形近词\"violent\"(暴力的)或词根\"vict-\"与\"victim\"(受害者)的混淆，将其误解为\"暴力的\"或\"受害的\"",
+      "sentence": "After a long and hard-fought match, the home team finally became **victorious** and celebrated with their fans.",
+      "options": {
+        "option": [
+          {
+            "definition": "暴力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "受害的",
+            "iscorrect": false
+          },
+          {
+            "definition": "胜利的；获胜的",
+            "iscorrect": true
+          },
+          {
+            "definition": "各种各样的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

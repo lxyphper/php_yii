@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unsure",
+      "error_analysis": "易因形近词“ensure”（确保）混淆，误将“unsure”理解为“不确保”（无法保证），而非正确的“不确定的”。",
+      "sentence": "She felt **unsure** about taking the job offer without knowing more details.",
+      "options": {
+        "option": [
+          {
+            "definition": "不确定的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不确保的（无法保证的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "不自信的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不安全的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

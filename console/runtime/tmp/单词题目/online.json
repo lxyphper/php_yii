@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "online",
+      "error_analysis": "学生易将\"online\"拆分为\"on+line\"直译为\"在直线上\"，或因形近词\"outline\"误联想为\"大纲\"",
+      "sentence": "I usually shop for clothes **online** because it's more convenient.",
+      "options": {
+        "option": [
+          {
+            "definition": "在线的；联网的",
+            "iscorrect": true
+          },
+          {
+            "definition": "大纲",
+            "iscorrect": false
+          },
+          {
+            "definition": "在直线上",
+            "iscorrect": false
+          },
+          {
+            "definition": "排队的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

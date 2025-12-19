@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "northern",
+      "error_analysis": "学生易将形容词“northern”（北方的）与名词“north”（北方）混淆，或误解为“向北的”（northward）。",
+      "sentence": "The **northern** part of China experiences colder winters than the south.",
+      "options": {
+        "option": [
+          {
+            "definition": "北方的（形容词，指属于或位于北方地区的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "北方（名词，指地球或某个区域的北部）",
+            "iscorrect": false
+          },
+          {
+            "definition": "向北的（形容词，指向北方向的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "北方人（名词，指来自北方的人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "paw",
+      "error_analysis": "中国学生易因形近词\"pawn\"混淆为\"抵押品；棋子\"，或误将\"paw\"理解为人的\"手掌\"",
+      "sentence": "The little dog scratched the door with its **paw** to get inside.",
+      "options": {
+        "option": [
+          {
+            "definition": "（动物的）爪子",
+            "iscorrect": true
+          },
+          {
+            "definition": "抵押品；棋子",
+            "iscorrect": false
+          },
+          {
+            "definition": "手掌（人的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "脚（动物的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "annually",
+      "error_analysis": "学生易因形近词“annoyingly”（令人讨厌地）或“anniversary”（周年）而误将“annually”理解为“令人讨厌地”或“周年地”",
+      "sentence": "The school holds a sports meeting **annually** to promote students' physical health.",
+      "options": {
+        "option": [
+          {
+            "definition": "每年地",
+            "iscorrect": true
+          },
+          {
+            "definition": "令人讨厌地",
+            "iscorrect": false
+          },
+          {
+            "definition": "周年地",
+            "iscorrect": false
+          },
+          {
+            "definition": "每年的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

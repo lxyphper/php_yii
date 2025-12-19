@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "electrifying",
+      "error_analysis": "将“electrifying”误理解为与电相关的形容词（如“通电的”或“电气的”）",
+      "sentence": "The band's **electrifying** performance made the crowd scream and dance all night.",
+      "options": {
+        "option": [
+          {
+            "definition": "与电有关的；电气的",
+            "iscorrect": false
+          },
+          {
+            "definition": "使带电的；通电的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人兴奋的；激动人心的",
+            "iscorrect": true
+          },
+          {
+            "definition": "选举的；与选举有关的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

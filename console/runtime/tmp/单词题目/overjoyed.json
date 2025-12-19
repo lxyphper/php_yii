@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "overjoyed",
+      "error_analysis": "中国学生易将“over-”误解为“过度（贬义）”而以为是“过度兴奋到失控”，或混淆“overjoyed”与“enjoyed”（享受的）。",
+      "sentence": "When she heard she got the scholarship, she was **overjoyed** and jumped up and down.",
+      "options": {
+        "option": [
+          {
+            "definition": "非常高兴的",
+            "iscorrect": true
+          },
+          {
+            "definition": "享受的",
+            "iscorrect": false
+          },
+          {
+            "definition": "过度兴奋到失控的",
+            "iscorrect": false
+          },
+          {
+            "definition": "疲惫的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "snowflake",
+      "error_analysis": "学生易因`snowflake`中`flake`与`lake`形近误判为“雪湖”，或因词根猜测误为“雪块”",
+      "sentence": "The child held out her hand to catch a **snowflake**, which melted quickly on her palm.",
+      "options": {
+        "option": [
+          {
+            "definition": "雪花",
+            "iscorrect": true
+          },
+          {
+            "definition": "雪湖",
+            "iscorrect": false
+          },
+          {
+            "definition": "雪块",
+            "iscorrect": false
+          },
+          {
+            "definition": "雪人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

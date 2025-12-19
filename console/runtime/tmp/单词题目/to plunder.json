@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to plunder",
+      "error_analysis": "学生易因形近词“plunge”（跳进）产生“投入/插入”的错误联想，或因“pl-”词根猜测为“挖掘/收集”的意思",
+      "sentence": "The pirates sneaked into the coastal village at night to **plunder** the treasure stored in the local church.",
+      "options": {
+        "option": [
+          {
+            "definition": "抢劫；掠夺",
+            "iscorrect": true
+          },
+          {
+            "definition": "跳进；投入",
+            "iscorrect": false
+          },
+          {
+            "definition": "挖掘；开垦",
+            "iscorrect": false
+          },
+          {
+            "definition": "采摘；拔取",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

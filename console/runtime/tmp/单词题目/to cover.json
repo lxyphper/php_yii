@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to cover",
+      "error_analysis": "学生易将‘to cover’的引申义‘涉及’误作字面的‘覆盖’，或因形近词‘over’产生‘在…上面’的误解。",
+      "sentence": "The new textbook **covers** all the key points you need to know for the exam.",
+      "options": {
+        "option": [
+          {
+            "definition": "覆盖",
+            "iscorrect": false
+          },
+          {
+            "definition": "在…上面",
+            "iscorrect": false
+          },
+          {
+            "definition": "涉及",
+            "iscorrect": true
+          },
+          {
+            "definition": "发现",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

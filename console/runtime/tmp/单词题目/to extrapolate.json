@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to extrapolate",
+      "error_analysis": "学生易因“extra-”（超出）错误联想为“扩展”，或因“-polate”形近“polish”（擦亮）误判为“补充完善”，或混淆其与“估计”的含义。",
+      "sentence": "Based on the sales data from the first three quarters, the analyst was able to **extrapolate** the company's annual revenue without waiting for the fourth quarter results.",
+      "options": {
+        "option": [
+          {
+            "definition": "推断（根据已知信息推断未知情况）",
+            "iscorrect": true
+          },
+          {
+            "definition": "扩展（扩大范围或规模）",
+            "iscorrect": false
+          },
+          {
+            "definition": "估计（粗略计算数量）",
+            "iscorrect": false
+          },
+          {
+            "definition": "补充完善（额外擦亮以完善内容）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

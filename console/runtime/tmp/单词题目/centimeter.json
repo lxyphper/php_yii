@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "centimeter",
+      "error_analysis": "学生易将前缀“centi-”（百分之一）误判为“cent”（百/分），导致把“centimeter”误解为“百米”“分米”或“分币长度”。",
+      "sentence": "The pencil is about 18 **centimeters** long, which is a common length for a standard writing pencil.",
+      "options": {
+        "option": [
+          {
+            "definition": "厘米（长度单位，等于百分之一米）",
+            "iscorrect": true
+          },
+          {
+            "definition": "百米（长度单位，等于一百米）",
+            "iscorrect": false
+          },
+          {
+            "definition": "分米（长度单位，等于十分之一米）",
+            "iscorrect": false
+          },
+          {
+            "definition": "分币（美国或加拿大的一分硬币）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

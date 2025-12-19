@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "picaresque novel",
+      "error_analysis": "学生易因形近词\"picturesque\"（风景如画的）误解为\"写景小说\"，或因词根\"-esque\"（像...的）误猜为\"普通冒险小说\"（未抓住\"下层人物\"和\"讽刺社会\"的核心特征）",
+      "sentence": "Mark Twain's *Adventures of Huckleberry Finn* is a well-known **picaresque novel**, telling the story of a poor, motherless boy's journey along the Mississippi River and his humorous, critical observations of society through interactions with people from all walks of life.",
+      "options": {
+        "option": [
+          {
+            "definition": "流浪汉小说（以下层人物为主角，通过一系列冒险讽刺社会的小说）",
+            "iscorrect": true
+          },
+          {
+            "definition": "写景小说（着重描绘优美自然风景的小说）",
+            "iscorrect": false
+          },
+          {
+            "definition": "冒险小说（充满刺激冒险情节的小说）",
+            "iscorrect": false
+          },
+          {
+            "definition": "历史小说（以真实历史事件为背景的小说）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "any",
+      "error_analysis": "中国学生易将‘any’误判为形近词‘many’（许多）或误解为‘所有’，忽略其在否定/疑问句中表示‘一些’的核心含义。",
+      "sentence": "Excuse me, do you have **any** extra erasers? I just lost mine.",
+      "options": {
+        "option": [
+          {
+            "definition": "一些（用于否定句或疑问句中，表示不确定的数量）",
+            "iscorrect": true
+          },
+          {
+            "definition": "许多（数量多的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "所有（每一个）",
+            "iscorrect": false
+          },
+          {
+            "definition": "某个（特定的一个）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

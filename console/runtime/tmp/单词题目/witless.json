@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "witless",
+      "error_analysis": "学生易因形近词\"wireless\"（无线的）产生联想，或误将\"wit\"的\"幽默感\"义项推导为\"没有幽默感的\"",
+      "sentence": "It was a **witless** decision to quit his job without having another one lined up.",
+      "options": {
+        "option": [
+          {
+            "definition": "无线的",
+            "iscorrect": false
+          },
+          {
+            "definition": "没有幽默感的",
+            "iscorrect": false
+          },
+          {
+            "definition": "愚蠢的；无知的",
+            "iscorrect": true
+          },
+          {
+            "definition": "无价值的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

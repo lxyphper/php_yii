@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "profoundly",
+      "error_analysis": "中国学生易因形近词\"profusely\"（大量地）产生混淆，或因词根\"pro-\"联想到\"专业\"而误解为\"专业地\"。",
+      "sentence": "The book **profoundly** changed her perspective on life.",
+      "options": {
+        "option": [
+          {
+            "definition": "深刻地",
+            "iscorrect": true
+          },
+          {
+            "definition": "大量地",
+            "iscorrect": false
+          },
+          {
+            "definition": "专业地",
+            "iscorrect": false
+          },
+          {
+            "definition": "明显地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "expression",
+      "error_analysis": "学生易因形近词\"pressure\"(压力)混淆，或因词根\"express\"(表达)过度推导为\"表达的动作\"而忽略\"表情\"这一核心义项。",
+      "sentence": "Her facial **expression** changed from happy to sad when she heard the news.",
+      "options": {
+        "option": [
+          {
+            "definition": "表情",
+            "iscorrect": true
+          },
+          {
+            "definition": "压力",
+            "iscorrect": false
+          },
+          {
+            "definition": "快递",
+            "iscorrect": false
+          },
+          {
+            "definition": "表达的动作",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

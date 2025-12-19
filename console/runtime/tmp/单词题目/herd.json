@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "herd",
+      "error_analysis": "学生易因形近词“heard”（听到）产生混淆，或误将“her-”与“here”（这里）联系导致理解为“这里的人群”",
+      "sentence": "A **herd** of goats was moving towards the valley to find food at dusk.",
+      "options": {
+        "option": [
+          {
+            "definition": "兽群；牧群",
+            "iscorrect": true
+          },
+          {
+            "definition": "听到（hear的过去式）",
+            "iscorrect": false
+          },
+          {
+            "definition": "这里的一群人",
+            "iscorrect": false
+          },
+          {
+            "definition": "坚硬的石头",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

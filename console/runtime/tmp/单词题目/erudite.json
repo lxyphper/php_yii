@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "erudite",
+      "error_analysis": "学生易因形近词\"elite\"(精英)或词根\"rud\"(与\"rude\"关联)将\"erudite\"错误理解为\"精英的\"或\"文雅的\"",
+      "sentence": "The professor's **erudite** lecture on ancient philosophy impressed all the students with its depth and breadth of knowledge.",
+      "options": {
+        "option": [
+          {
+            "definition": "精英的",
+            "iscorrect": false
+          },
+          {
+            "definition": "文雅的",
+            "iscorrect": false
+          },
+          {
+            "definition": "基础的",
+            "iscorrect": false
+          },
+          {
+            "definition": "博学的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

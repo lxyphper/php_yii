@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to accomplish",
+      "error_analysis": "易混淆形近词“accompany”（陪伴）及词根误导（如将“plish”误联“push”导致“努力推动”）",
+      "sentence": "After months of hard work, she finally managed to **accomplish** her goal of running a marathon.",
+      "options": {
+        "option": [
+          {
+            "definition": "完成；实现",
+            "iscorrect": true
+          },
+          {
+            "definition": "陪伴；陪同",
+            "iscorrect": false
+          },
+          {
+            "definition": "努力推动；促使",
+            "iscorrect": false
+          },
+          {
+            "definition": "抱怨；投诉",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

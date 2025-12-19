@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "enzyme",
+      "error_analysis": "学生易因形近词\"enemy\"（敌人）误判为\"敌对物质\"，或因\"en-\"前缀猜测为\"能量物质\"",
+      "sentence": "The **enzyme** in saliva helps break down starches into simpler sugars during digestion.",
+      "options": {
+        "option": [
+          {
+            "definition": "酶（生物体内催化化学反应的蛋白质或RNA）",
+            "iscorrect": true
+          },
+          {
+            "definition": "敌人；敌对物质",
+            "iscorrect": false
+          },
+          {
+            "definition": "能量；活力物质",
+            "iscorrect": false
+          },
+          {
+            "definition": "激素；内分泌物质",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

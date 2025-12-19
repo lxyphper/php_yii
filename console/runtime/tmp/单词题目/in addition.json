@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "in addition",
+      "error_analysis": "易因形近词\"in advance\"（提前）混淆，或因\"in+addition\"字面直译误解为\"在添加中\"",
+      "sentence": "She bought a book for her sister; **in addition**, she made a card with her own hands.",
+      "options": {
+        "option": [
+          {
+            "definition": "此外；另外",
+            "iscorrect": true
+          },
+          {
+            "definition": "提前；预先",
+            "iscorrect": false
+          },
+          {
+            "definition": "在添加中；正在添加",
+            "iscorrect": false
+          },
+          {
+            "definition": "总共；总计",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

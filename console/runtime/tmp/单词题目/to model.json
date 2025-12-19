@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to model",
+      "error_analysis": "中国学生易将动词“to model”（展示）误解为“制作模型”（来自名词“模型”的字面推导）或“模仿”（搭配混淆）",
+      "sentence": "The supermodel **models** the brand’s new collection at the fashion show.",
+      "options": {
+        "option": [
+          {
+            "definition": "展示（服装等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "制作（服装的）模型",
+            "iscorrect": false
+          },
+          {
+            "definition": "模仿（服装的风格）",
+            "iscorrect": false
+          },
+          {
+            "definition": "设计（新的服装系列）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to hoard",
+      "error_analysis": "易混淆形近词\"horde\"（群）及与\"hold\"（持有）的字面联想",
+      "sentence": "During the COVID-19 pandemic, many people rushed to **hoard** canned food and water in case of shortages.",
+      "options": {
+        "option": [
+          {
+            "definition": "囤积；贮藏",
+            "iscorrect": true
+          },
+          {
+            "definition": "（人群）聚集",
+            "iscorrect": false
+          },
+          {
+            "definition": "持有；保持",
+            "iscorrect": false
+          },
+          {
+            "definition": "丢弃；扔掉",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

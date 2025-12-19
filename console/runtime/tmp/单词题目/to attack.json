@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to attack",
+      "error_analysis": "中国学生易因形近词（如attract/attach）混淆，将“to attack”误理解为“吸引”或“附着”。",
+      "sentence": "The soldiers were ordered to **attack** the enemy camp at dawn.",
+      "options": {
+        "option": [
+          {
+            "definition": "攻击；袭击",
+            "iscorrect": true
+          },
+          {
+            "definition": "吸引；引起兴趣",
+            "iscorrect": false
+          },
+          {
+            "definition": "附着；连接",
+            "iscorrect": false
+          },
+          {
+            "definition": "固定；粘贴",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

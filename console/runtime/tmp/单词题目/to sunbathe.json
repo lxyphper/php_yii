@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to sunbathe",
+      "error_analysis": "将\"sunbathe\"误解为\"在太阳下洗澡\"（形近词\"bathe\"的干扰）或\"用太阳清洁身体\"（词根字面误导）",
+      "sentence": "On a hot summer day, many people go to the beach to **sunbathe** and relax with a book.",
+      "options": {
+        "option": [
+          {
+            "definition": "晒日光浴（在阳光下躺着或坐着以享受阳光）",
+            "iscorrect": true
+          },
+          {
+            "definition": "在太阳下洗澡（用阳光或水清洁身体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "用太阳清洁身体（通过阳光去除污垢）",
+            "iscorrect": false
+          },
+          {
+            "definition": "种植太阳花（在阳光下培育花卉）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

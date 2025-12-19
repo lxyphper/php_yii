@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to sort",
+      "error_analysis": "学生易因形近词“short”（短的）误解为“缩短”，或因名词“种类”的关联误判为“选择”。",
+      "sentence": "Before putting away the laundry, she needs to **sort** the socks by color.",
+      "options": {
+        "option": [
+          {
+            "definition": "缩短",
+            "iscorrect": false
+          },
+          {
+            "definition": "选择",
+            "iscorrect": false
+          },
+          {
+            "definition": "分类；整理",
+            "iscorrect": true
+          },
+          {
+            "definition": "运动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

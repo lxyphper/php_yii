@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "outsize",
+      "error_analysis": "中国学生易因形近词“outside”（外面的）或词根“out-”联想（如“杰出的”）误判“outsize”的含义",
+      "sentence": "The store specializes in selling **outsize** clothing for customers who need larger-than-average sizes.",
+      "options": {
+        "option": [
+          {
+            "definition": "特大的；过大的",
+            "iscorrect": true
+          },
+          {
+            "definition": "外面的；外部的",
+            "iscorrect": false
+          },
+          {
+            "definition": "杰出的；显著的",
+            "iscorrect": false
+          },
+          {
+            "definition": "尺寸不符的；不标准的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

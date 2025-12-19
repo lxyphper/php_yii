@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "jittery",
+      "error_analysis": "易因形近词“jelly”（果冻）误判为“柔软的”，或因词根不熟悉猜测为“快乐的”",
+      "sentence": "She became **jittery** as she waited for the doctor to give her the test results.",
+      "options": {
+        "option": [
+          {
+            "definition": "紧张不安的",
+            "iscorrect": true
+          },
+          {
+            "definition": "柔软的",
+            "iscorrect": false
+          },
+          {
+            "definition": "快乐的",
+            "iscorrect": false
+          },
+          {
+            "definition": "活跃的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

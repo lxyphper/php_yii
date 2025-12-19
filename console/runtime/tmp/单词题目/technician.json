@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "technician",
+      "error_analysis": "学生易因形近词\"technical/technique\"（技术的/技巧）或忽略\"-ician\"表人的后缀，将\"technician\"误解为\"技术\"而非\"技术员\"",
+      "sentence": "The factory hired a skilled **technician** to repair the broken production line.",
+      "options": {
+        "option": [
+          {
+            "definition": "技术员；技工",
+            "iscorrect": true
+          },
+          {
+            "definition": "技术；技巧",
+            "iscorrect": false
+          },
+          {
+            "definition": "科学家；研究者",
+            "iscorrect": false
+          },
+          {
+            "definition": "工程师；设计师",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "oftentimes",
+      "error_analysis": "学生易因形近词“sometimes”（有时）或词根“time”（次数）误导，将“oftentimes”错解为“有时”或“多次”。",
+      "sentence": "She **oftentimes** goes for a walk in the park after dinner to relax.",
+      "options": {
+        "option": [
+          {
+            "definition": "常常；经常",
+            "iscorrect": true
+          },
+          {
+            "definition": "有时；偶尔",
+            "iscorrect": false
+          },
+          {
+            "definition": "多次；数次",
+            "iscorrect": false
+          },
+          {
+            "definition": "偶尔；间或",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

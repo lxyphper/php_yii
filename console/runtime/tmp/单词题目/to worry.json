@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to worry",
+      "error_analysis": "中国学生易因形近词\"hurry\"(匆忙)干扰，将\"to worry\"误理解为\"匆忙；赶快\"，或因字面联想与\"work\"(工作)混淆",
+      "sentence": "My mom will **worry** if I come home late tonight.",
+      "options": {
+        "option": [
+          {
+            "definition": "担心；担忧",
+            "iscorrect": true
+          },
+          {
+            "definition": "匆忙；赶快",
+            "iscorrect": false
+          },
+          {
+            "definition": "工作；劳动",
+            "iscorrect": false
+          },
+          {
+            "definition": "抱歉；遗憾",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

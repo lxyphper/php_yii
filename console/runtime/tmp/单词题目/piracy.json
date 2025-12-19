@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "piracy",
+      "error_analysis": "中国学生易因形近混淆“privacy”（隐私），或因词根“pirate”（海盗）仅理解为“海盗行为”而忽略“盗版”的常用义。",
+      "sentence": "The movie industry loses billions of dollars annually due to **piracy** of its content, including films and TV series.",
+      "options": {
+        "option": [
+          {
+            "definition": "隐私",
+            "iscorrect": false
+          },
+          {
+            "definition": "（尤指媒体或软件的）盗版，侵犯版权",
+            "iscorrect": true
+          },
+          {
+            "definition": "海盗的抢劫行为",
+            "iscorrect": false
+          },
+          {
+            "definition": "试点项目",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

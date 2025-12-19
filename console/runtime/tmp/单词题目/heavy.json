@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "heavy",
+      "error_analysis": "中国学生易因形近词“heaven”（天堂）的拼写相似将“heavy”误解为“天堂的”，或因字面误导泛化为“困难的”。",
+      "sentence": "She couldn’t lift the **heavy** bag by herself.",
+      "options": {
+        "option": [
+          {
+            "definition": "重的",
+            "iscorrect": true
+          },
+          {
+            "definition": "天堂的",
+            "iscorrect": false
+          },
+          {
+            "definition": "困难的",
+            "iscorrect": false
+          },
+          {
+            "definition": "多毛的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

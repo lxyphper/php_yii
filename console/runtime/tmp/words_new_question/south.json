@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "south",
+      "error_analysis": "学生易因形近词“mouth”（嘴）的干扰而错误理解“south”的含义",
+      "sentence": "My grandparents live in a small town in the **south** of China.",
+      "options": {
+        "option": [
+          {
+            "definition": "南；南方",
+            "iscorrect": true
+          },
+          {
+            "definition": "嘴",
+            "iscorrect": false
+          },
+          {
+            "definition": "灵魂",
+            "iscorrect": false
+          },
+          {
+            "definition": "汤",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

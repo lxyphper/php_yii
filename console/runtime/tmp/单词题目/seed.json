@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "seed",
+      "error_analysis": "学生易混淆形近词“seat”（座位）、“seek”（寻找）的含义，或误将名词“seed”理解为动词义“播种”",
+      "sentence": "The farmer put a **seed** in the soil and watered it every day, hoping it would grow into a tall tree.",
+      "options": {
+        "option": [
+          {
+            "definition": "种子",
+            "iscorrect": true
+          },
+          {
+            "definition": "座位",
+            "iscorrect": false
+          },
+          {
+            "definition": "寻找",
+            "iscorrect": false
+          },
+          {
+            "definition": "播种",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

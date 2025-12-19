@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "poorly",
+      "error_analysis": "学生因“poor”（贫穷/可怜）的词根联想，易将“poorly”误理解为“贫穷地”或“可怜地”，忽略其“糟糕地；不好地”的常用义",
+      "sentence": "The band played **poorly** at the concert, so many audience members left early.",
+      "options": {
+        "option": [
+          {
+            "definition": "糟糕地；不好地",
+            "iscorrect": true
+          },
+          {
+            "definition": "贫穷地",
+            "iscorrect": false
+          },
+          {
+            "definition": "可怜地",
+            "iscorrect": false
+          },
+          {
+            "definition": "骄傲地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

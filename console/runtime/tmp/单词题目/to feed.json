@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to feed",
+      "error_analysis": "易因形近词“feel”（感觉）、“feet”（脚）或词根联想“food”（食物）产生错误理解",
+      "sentence": "My mom asks me to **feed** the baby before going to school.",
+      "options": {
+        "option": [
+          {
+            "definition": "感觉",
+            "iscorrect": false
+          },
+          {
+            "definition": "食物",
+            "iscorrect": false
+          },
+          {
+            "definition": "脚",
+            "iscorrect": false
+          },
+          {
+            "definition": "喂养；给……喂食",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

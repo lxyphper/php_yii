@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to poke",
+      "error_analysis": "中国学生易因形近词“pork”（猪肉）混淆语义，或误将“to poke”理解为“推”（push）或“嘲笑”（短语混淆）",
+      "sentence": "She **poked** her friend in the arm to get his attention during the meeting.",
+      "options": {
+        "option": [
+          {
+            "definition": "戳；捅",
+            "iscorrect": true
+          },
+          {
+            "definition": "猪肉",
+            "iscorrect": false
+          },
+          {
+            "definition": "推；推动",
+            "iscorrect": false
+          },
+          {
+            "definition": "嘲笑；取笑",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

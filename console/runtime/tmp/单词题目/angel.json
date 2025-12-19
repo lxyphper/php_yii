@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "angel",
+      "error_analysis": "学生易将\"angel\"与形近词\"angle\"（角度）混淆，或因字面拆分误判为\"凝胶\"。",
+      "sentence": "The little girl in the white dress looked like an **angel** as she handed flowers to the elderly man.",
+      "options": {
+        "option": [
+          {
+            "definition": "天使",
+            "iscorrect": true
+          },
+          {
+            "definition": "角度",
+            "iscorrect": false
+          },
+          {
+            "definition": "凝胶",
+            "iscorrect": false
+          },
+          {
+            "definition": "愤怒",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to greet",
+      "error_analysis": "学生易因形近词“great”（伟大的）混淆词义，或误将“greet”理解为“遇见”（受“meet”影响）",
+      "sentence": "When you see your teacher in the morning, it's polite to **greet** her with a smile.",
+      "options": {
+        "option": [
+          {
+            "definition": "问候；打招呼",
+            "iscorrect": true
+          },
+          {
+            "definition": "伟大的；极好的",
+            "iscorrect": false
+          },
+          {
+            "definition": "遇见；会面",
+            "iscorrect": false
+          },
+          {
+            "definition": "对待；处理",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

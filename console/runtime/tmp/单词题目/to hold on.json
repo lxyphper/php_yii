@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to hold on",
+      "error_analysis": "学生易将“hold”（持有）和“on”（在…上）直译，误理解为“抓住（某物）”，忽略其“坚持；不放弃”的核心抽象含义",
+      "sentence": "Despite the challenges, she decided to **hold on** to her dream of becoming a writer.",
+      "options": {
+        "option": [
+          {
+            "definition": "坚持；不放弃",
+            "iscorrect": true
+          },
+          {
+            "definition": "抓住（某物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "等一下",
+            "iscorrect": false
+          },
+          {
+            "definition": "继续前进",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

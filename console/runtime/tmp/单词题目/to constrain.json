@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to constrain",
+      "error_analysis": "学生易因形近词\"contain\"(包含)混淆词义，或因词根\"stringere\"(拉紧)误判为\"拉紧\"的字面意思",
+      "sentence": "The new environmental laws will **constrain** the number of cars allowed in the city center.",
+      "options": {
+        "option": [
+          {
+            "definition": "限制；约束",
+            "iscorrect": true
+          },
+          {
+            "definition": "包含；容纳",
+            "iscorrect": false
+          },
+          {
+            "definition": "拉紧；绷紧",
+            "iscorrect": false
+          },
+          {
+            "definition": "加速；促进",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

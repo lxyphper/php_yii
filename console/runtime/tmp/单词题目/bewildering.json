@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bewildering",
+      "error_analysis": "易因形近词“wild”（野生的）或词根“wilder”（使迷路）误判为“野生的”或“荒凉的”",
+      "sentence": "The new shopping mall has a **bewildering** array of stores, and I couldn’t decide where to go first.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人困惑的",
+            "iscorrect": true
+          },
+          {
+            "definition": "野生的",
+            "iscorrect": false
+          },
+          {
+            "definition": "丰富的",
+            "iscorrect": false
+          },
+          {
+            "definition": "荒凉的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

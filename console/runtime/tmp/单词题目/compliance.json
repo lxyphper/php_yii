@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "compliance",
+      "error_analysis": "中国学生易将形近词complain（抱怨）的含义误迁移至compliance，误认为其表示“抱怨”或“投诉”。",
+      "sentence": "The company was fined for failing to maintain **compliance** with environmental protection laws.",
+      "options": {
+        "option": [
+          {
+            "definition": "抱怨；投诉",
+            "iscorrect": false
+          },
+          {
+            "definition": "应用；使用",
+            "iscorrect": false
+          },
+          {
+            "definition": "遵守；合规",
+            "iscorrect": true
+          },
+          {
+            "definition": "赞美；恭维",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

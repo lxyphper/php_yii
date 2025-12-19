@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to extradite",
+      "error_analysis": "学生易因形近词\"extract\"(提取)或词根\"tradite\"关联\"trade\"(贸易)，误将\"extradite\"理解为\"提取\"或\"进行贸易\"",
+      "sentence": "The country agreed to **extradite** the suspect to the US to stand trial for the financial crimes.",
+      "options": {
+        "option": [
+          {
+            "definition": "提取；取出",
+            "iscorrect": false
+          },
+          {
+            "definition": "进行贸易；做买卖",
+            "iscorrect": false
+          },
+          {
+            "definition": "引渡（将某人移交给另一国家/地区受审）",
+            "iscorrect": true
+          },
+          {
+            "definition": "流放；驱逐出境",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

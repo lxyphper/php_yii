@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rosary",
+      "error_analysis": "学生易因形近词\"rose\"(玫瑰)及词根\"-ary\"（名词后缀）误判为\"玫瑰相关的场所/制品\"，如\"玫瑰园\"或\"玫瑰色物品\"",
+      "sentence": "Many Catholic worshippers use a **rosary** to count prayers while meditating on the life of Jesus and Mary.",
+      "options": {
+        "option": [
+          {
+            "definition": "（天主教的）玫瑰经；念珠串",
+            "iscorrect": true
+          },
+          {
+            "definition": "玫瑰园",
+            "iscorrect": false
+          },
+          {
+            "definition": "玫瑰色的围巾",
+            "iscorrect": false
+          },
+          {
+            "definition": "玫瑰精油",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

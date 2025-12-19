@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "enternational",
+      "internasional",
+      "intnational",
+      "internationel",
+      "intranational"
+    ],
+    "correct_chunks": [
+      "inter",
+      "nation",
+      "al"
+    ],
+    "distractor_chunks": [
+      "enter",
+      "sion",
+      "el",
+      "int",
+      "intra"
+    ]
+  },
+  0
+]

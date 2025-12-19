@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to meet",
+      "error_analysis": "易混淆形近词“meat”（肉），或误将“meet”表示“满足”的义项直译为“遇见”",
+      "sentence": "Let's **meet** at the park gate after school tomorrow—I have something important to tell you.",
+      "options": {
+        "option": [
+          {
+            "definition": "遇见；会面",
+            "iscorrect": true
+          },
+          {
+            "definition": "肉（食物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "问候；打招呼",
+            "iscorrect": false
+          },
+          {
+            "definition": "满足（需求/条件）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

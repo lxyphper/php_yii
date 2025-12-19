@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "entertainment",
+      "error_analysis": "学生易因形近词（如entertainer）混淆为“艺人”，或因词根“entertain”的“招待”义错解为“招待”。",
+      "sentence": "The city has a lot of **entertainment** options, like movie theaters, concerts, and comedy clubs.",
+      "options": {
+        "option": [
+          {
+            "definition": "娱乐（如电影、音乐等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "艺人（如歌手、演员等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "招待（如宴会、款待）",
+            "iscorrect": false
+          },
+          {
+            "definition": "娱乐的场所（如电影院、俱乐部等）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

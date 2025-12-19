@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to enter",
+      "error_analysis": "中国学生易因形近词“entire”（整个的）混淆“enter”的核心词义“进入”",
+      "sentence": "Please **enter** the room quietly; the meeting has already started.",
+      "options": {
+        "option": [
+          {
+            "definition": "进入",
+            "iscorrect": true
+          },
+          {
+            "definition": "整个的",
+            "iscorrect": false
+          },
+          {
+            "definition": "使...丰富",
+            "iscorrect": false
+          },
+          {
+            "definition": "使...进入",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to give up on",
+      "error_analysis": "学生易因“give up”（放弃）与“on”（在...上）的字面组合，错误理解为“在...方面停止行动”，而非“对...失去希望/不再尝试”。",
+      "sentence": "After years of trying to fix the old house, they finally decided to **give up on** selling it and move to a new city.",
+      "options": {
+        "option": [
+          {
+            "definition": "放弃（某人/某事）；对...不再抱有希望",
+            "iscorrect": true
+          },
+          {
+            "definition": "在...上面停止行动",
+            "iscorrect": false
+          },
+          {
+            "definition": "停止做...",
+            "iscorrect": false
+          },
+          {
+            "definition": "把...交给...",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

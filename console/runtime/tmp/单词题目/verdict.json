@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "verdict",
+      "error_analysis": "学生易因形近词\"version\"(版本)或词根\"ver\"(真实)+\"dict\"(说)错误联想为\"版本\"或\"真实陈述\"",
+      "sentence": "The jury took three hours to reach a **verdict** on the murder case.",
+      "options": {
+        "option": [
+          {
+            "definition": "判决；裁决",
+            "iscorrect": true
+          },
+          {
+            "definition": "版本；变体",
+            "iscorrect": false
+          },
+          {
+            "definition": "真实陈述；证词",
+            "iscorrect": false
+          },
+          {
+            "definition": "预测；预言",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gondwanaland",
+      "error_analysis": "学生易因形近词\"gondola\"(贡多拉)联想为\"贡多拉相关地点\"，或因\"land\"字面猜测为具体国家/地区，忽略其地质学术语属性",
+      "sentence": "Fossils of the same ancient fern species have been discovered in South America, Africa, and Australia—evidence that these continents were once merged into the supercontinent **gondwanaland**.",
+      "options": {
+        "option": [
+          {
+            "definition": "古生代后期的超级大陆（包括现今南美、非洲、澳大利亚等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "威尼斯运河中贡多拉的主要停靠地",
+            "iscorrect": false
+          },
+          {
+            "definition": "以 Gondwana 民族命名的非洲中部国家",
+            "iscorrect": false
+          },
+          {
+            "definition": "喜马拉雅山脉形成前的古海洋名称",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nose",
+      "error_analysis": "中国学生易因形近词（如noise、note、nurse）混淆，将nose误判为“噪音”“笔记”或“护士”",
+      "sentence": "She wrinkled her **nose** at the bad smell coming from the kitchen.",
+      "options": {
+        "option": [
+          {
+            "definition": "鼻子",
+            "iscorrect": true
+          },
+          {
+            "definition": "噪音",
+            "iscorrect": false
+          },
+          {
+            "definition": "笔记",
+            "iscorrect": false
+          },
+          {
+            "definition": "护士",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

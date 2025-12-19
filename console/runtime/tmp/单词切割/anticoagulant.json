@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "antecoagulant",
+      "anticogulant",
+      "anticoagualant",
+      "anticoegulant"
+    ],
+    "correct_chunks": [
+      "anti",
+      "coa",
+      "gul",
+      "lant"
+    ],
+    "distractor_chunks": [
+      "ante",
+      "cog",
+      "gual",
+      "coe"
+    ]
+  },
+  0
+]

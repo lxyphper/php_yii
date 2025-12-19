@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bright",
+      "error_analysis": "学生易将“bright”与形近词“brought”（带来）混淆，或误联想为“战斗”（fight）等导致理解错误",
+      "sentence": "She is a **bright** student who always helps her classmates with difficult problems.",
+      "options": {
+        "option": [
+          {
+            "definition": "聪明的",
+            "iscorrect": true
+          },
+          {
+            "definition": "带来的",
+            "iscorrect": false
+          },
+          {
+            "definition": "战斗的",
+            "iscorrect": false
+          },
+          {
+            "definition": "沉重的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

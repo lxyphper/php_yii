@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "captain",
+      "error_analysis": "学生易因形近词“cap”（帽子）或“capital”（资本）产生错误联想，误以为“captain”与帽子相关职业或资本有关。",
+      "sentence": "The **captain** of the cruise ship announced that we would arrive at the port at noon.",
+      "options": {
+        "option": [
+          {
+            "definition": "船长；队长",
+            "iscorrect": true
+          },
+          {
+            "definition": "帽子店老板",
+            "iscorrect": false
+          },
+          {
+            "definition": "资本；资金",
+            "iscorrect": false
+          },
+          {
+            "definition": "标题；说明文字",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

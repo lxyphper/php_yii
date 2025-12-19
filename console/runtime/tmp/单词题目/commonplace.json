@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "commonplace",
+      "error_analysis": "学生易将'commonplace'拆分为'common'和'place'，错误理解为'常见的地方'或'共同的地方'。",
+      "sentence": "With the rise of smartphones, online shopping has become **commonplace** in most households.",
+      "options": {
+        "option": [
+          {
+            "definition": "常见的；普通的",
+            "iscorrect": true
+          },
+          {
+            "definition": "常见的地方",
+            "iscorrect": false
+          },
+          {
+            "definition": "共同的地方",
+            "iscorrect": false
+          },
+          {
+            "definition": "普通的位置",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

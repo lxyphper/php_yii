@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ceiling",
+      "error_analysis": "中国学生易因形近词“cell”（细胞）、“cellar”（地窖）混淆，或因拼写接近“cease”（停止）而误判其含义。",
+      "sentence": "The cat climbed up to the **ceiling** and knocked over a lamp that was hanging there.",
+      "options": {
+        "option": [
+          {
+            "definition": "停止",
+            "iscorrect": false
+          },
+          {
+            "definition": "细胞",
+            "iscorrect": false
+          },
+          {
+            "definition": "天花板",
+            "iscorrect": true
+          },
+          {
+            "definition": "地窖",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

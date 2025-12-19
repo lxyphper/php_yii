@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tailor",
+      "error_analysis": "学生易因形近词“tail”（尾巴）联想到“给...装尾巴”，或因词根“tail”（切割）误判为“切割；剪裁”。",
+      "sentence": "The team decided to **tailor** the training program to suit the new employees' skills.",
+      "options": {
+        "option": [
+          {
+            "definition": "给...装尾巴",
+            "iscorrect": false
+          },
+          {
+            "definition": "切割；剪裁",
+            "iscorrect": false
+          },
+          {
+            "definition": "定制；调整以适应",
+            "iscorrect": true
+          },
+          {
+            "definition": "泰勒（人名）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

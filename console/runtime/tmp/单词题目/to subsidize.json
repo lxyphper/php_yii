@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to subsidize",
+      "error_analysis": "学生易因形近词“subside”（减弱）而将“to subsidize”误理解为“使减弱”或“平息”",
+      "sentence": "The government decided to **subsidize** the farmers to help them cope with the low crop prices.",
+      "options": {
+        "option": [
+          {
+            "definition": "补贴；资助",
+            "iscorrect": true
+          },
+          {
+            "definition": "使减弱；平息",
+            "iscorrect": false
+          },
+          {
+            "definition": "维持生活；生存",
+            "iscorrect": false
+          },
+          {
+            "definition": "代替；替换",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

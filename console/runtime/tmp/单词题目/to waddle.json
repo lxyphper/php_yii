@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to waddle",
+      "error_analysis": "学生易因形近词“wander”（漫步）或“paddle”（划水）产生联想，或误将“wad”（一叠）的词根义过度推导，混淆“蹒跚行走”的核心义。",
+      "sentence": "The fat penguin **waddled** across the ice, its body swaying from side to side as it moved.",
+      "options": {
+        "option": [
+          {
+            "definition": "蹒跚而行；摇摇摆摆地走",
+            "iscorrect": true
+          },
+          {
+            "definition": "漫步；闲逛",
+            "iscorrect": false
+          },
+          {
+            "definition": "（用桨）划水前进",
+            "iscorrect": false
+          },
+          {
+            "definition": "堆叠；累积",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

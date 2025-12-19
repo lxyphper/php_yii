@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to speak",
+      "error_analysis": "中国学生易因形近词“spell”（拼写）或词根延伸“speech”（演讲）误理解“to speak”的核心词义。",
+      "sentence": "She can **speak** three languages fluently.",
+      "options": {
+        "option": [
+          {
+            "definition": "说；讲",
+            "iscorrect": true
+          },
+          {
+            "definition": "拼写",
+            "iscorrect": false
+          },
+          {
+            "definition": "演讲",
+            "iscorrect": false
+          },
+          {
+            "definition": "加速",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

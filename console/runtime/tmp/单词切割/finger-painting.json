@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "finer-painting",
+      "finger-paining",
+      "fingerpainting",
+      "fenger-painting",
+      "finger-paintting"
+    ],
+    "correct_chunks": [
+      "finger-",
+      "paint",
+      "ing"
+    ],
+    "distractor_chunks": [
+      "finer-",
+      "paining",
+      "fingerpain",
+      "fenger-",
+      "paintting"
+    ]
+  },
+  0
+]

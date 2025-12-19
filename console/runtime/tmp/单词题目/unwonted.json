@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unwonted",
+      "error_analysis": "中国学生易因形近词'unwanted'（不想要的）或词根'wont'（习惯）误将'unwonted'理解为'不想要的'或'不习惯的'",
+      "sentence": "The small town was surprised by the **unwonted** crowd that gathered for the festival—usually, only a few locals attended.",
+      "options": {
+        "option": [
+          {
+            "definition": "不想要的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不习惯的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不常见的；异常的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不熟练的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

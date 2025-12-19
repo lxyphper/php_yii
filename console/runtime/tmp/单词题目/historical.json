@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "historical",
+      "error_analysis": "中国学生易混淆形近词“historic”（有历史意义的）与“historical”（与历史相关的），或通过词根过度猜测为“历史上著名的”",
+      "sentence": "The museum displays **historical** artifacts, such as old coins and pottery, from the Roman Empire.",
+      "options": {
+        "option": [
+          {
+            "definition": "有历史意义的",
+            "iscorrect": false
+          },
+          {
+            "definition": "历史的；与历史相关的",
+            "iscorrect": true
+          },
+          {
+            "definition": "历史上著名的",
+            "iscorrect": false
+          },
+          {
+            "definition": "古老的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

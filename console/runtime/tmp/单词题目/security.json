@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "security",
+      "error_analysis": "因形近“secret”（秘密）而将“security”误解为“秘密”或“保密性”",
+      "sentence": "Many people choose jobs with good **security** to avoid worrying about being laid off.",
+      "options": {
+        "option": [
+          {
+            "definition": "安全；保障",
+            "iscorrect": true
+          },
+          {
+            "definition": "秘密；保密性",
+            "iscorrect": false
+          },
+          {
+            "definition": "部分；片段",
+            "iscorrect": false
+          },
+          {
+            "definition": "保护；防护",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

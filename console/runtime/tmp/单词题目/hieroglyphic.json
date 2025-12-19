@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hieroglyphic",
+      "error_analysis": "中国学生易因形近词hierarchy（等级制度）的干扰，将hieroglyphic误认为与“等级相关”的含义。",
+      "sentence": "The archaeologists discovered a stone tablet inscribed with **hieroglyphic** symbols that had not been deciphered for centuries.",
+      "options": {
+        "option": [
+          {
+            "definition": "象形文字的",
+            "iscorrect": true
+          },
+          {
+            "definition": "等级制度的",
+            "iscorrect": false
+          },
+          {
+            "definition": "神圣的宗教仪式",
+            "iscorrect": false
+          },
+          {
+            "definition": "古老的雕刻工具",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

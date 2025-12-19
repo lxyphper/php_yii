@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cacophonous",
+      "error_analysis": "学生易因词根“phon”（声音）推测为“与声音相关的正面含义”（如和谐的），或因形近词“copious”（丰富的）误判为“大量的”。",
+      "sentence": "The market was filled with the **cacophonous** noise of vendors shouting, motorcycles beeping, and children crying.",
+      "options": {
+        "option": [
+          {
+            "definition": "和谐的；悦耳的",
+            "iscorrect": false
+          },
+          {
+            "definition": "丰富的；大量的",
+            "iscorrect": false
+          },
+          {
+            "definition": "响亮的；大声的",
+            "iscorrect": false
+          },
+          {
+            "definition": "刺耳的；不和谐的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

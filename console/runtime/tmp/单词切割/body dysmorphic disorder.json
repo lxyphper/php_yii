@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "body dismorphic disorder",
+      "body dysmorpic disorder",
+      "body dysmorphick disorder",
+      "body dysmorphic dysorder",
+      "body dysmorghic disorder"
+    ],
+    "correct_chunks": [
+      "body",
+      "dys",
+      "morphic",
+      "disorder"
+    ],
+    "distractor_chunks": [
+      "dis",
+      "morp",
+      "ick",
+      "dys",
+      "morgh"
+    ]
+  },
+  0
+]

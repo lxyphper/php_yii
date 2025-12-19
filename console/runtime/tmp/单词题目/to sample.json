@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to sample",
+      "error_analysis": "易因形近词\"simple\"误解为\"使简单\"，或因词根\"样本\"误导为\"取样本（用于检测）\"",
+      "sentence": "The waiter invited us to **sample** the new chocolate cake before ordering.",
+      "options": {
+        "option": [
+          {
+            "definition": "品尝（小份）",
+            "iscorrect": true
+          },
+          {
+            "definition": "使简单",
+            "iscorrect": false
+          },
+          {
+            "definition": "取样本（用于实验室检测）",
+            "iscorrect": false
+          },
+          {
+            "definition": "作为例子展示",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "credo",
+      "error_analysis": "将“credo”与形近词“credit”（信用/学分）混淆，或因“cre-”联想“create”误猜为“创造物”",
+      "sentence": "Her **credo**—\"Always be kind to others\"—guides every decision she makes.",
+      "options": {
+        "option": [
+          {
+            "definition": "信条；信念",
+            "iscorrect": true
+          },
+          {
+            "definition": "信用；学分",
+            "iscorrect": false
+          },
+          {
+            "definition": "创造物；作品",
+            "iscorrect": false
+          },
+          {
+            "definition": "代码；密码",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

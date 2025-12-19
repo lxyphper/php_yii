@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "literature",
+      "error_analysis": "易与形近词“literacy”（读写能力）混淆，或因词根“liter-”（字母）误判为“字母表”而非“文学”",
+      "sentence": "She has written several essays about classic **literature**, such as *Hamlet* and *Pride and Prejudice*.",
+      "options": {
+        "option": [
+          {
+            "definition": "文学",
+            "iscorrect": true
+          },
+          {
+            "definition": "读写能力",
+            "iscorrect": false
+          },
+          {
+            "definition": "字母表",
+            "iscorrect": false
+          },
+          {
+            "definition": "文献",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fine",
+      "error_analysis": "中国学生易将形容词“fine”与形近词“find”（找到）混淆，或误作名词“罚款”。",
+      "sentence": "Her English speech was so **fine** that everyone clapped loudly.",
+      "options": {
+        "option": [
+          {
+            "definition": "好的；优秀的",
+            "iscorrect": true
+          },
+          {
+            "definition": "找到",
+            "iscorrect": false
+          },
+          {
+            "definition": "罚款",
+            "iscorrect": false
+          },
+          {
+            "definition": "细的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

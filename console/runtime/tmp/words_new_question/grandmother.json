@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "grandmother",
+      "error_analysis": "学生易因“grand-”的字面义“伟大的/大的”误释为“伟大的妈妈”，或因与“grandfather”形近而混淆性别。",
+      "sentence": "Every Sunday, Lily helps her **grandmother** plant flowers in the garden.",
+      "options": {
+        "option": [
+          {
+            "definition": "伟大的妈妈",
+            "iscorrect": false
+          },
+          {
+            "definition": "祖父",
+            "iscorrect": false
+          },
+          {
+            "definition": "妈妈的姐姐（姨妈）",
+            "iscorrect": false
+          },
+          {
+            "definition": "祖母；外祖母",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

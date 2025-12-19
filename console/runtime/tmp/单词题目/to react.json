@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to react",
+      "error_analysis": "学生易因“re-+act”的词根组合错误理解为“再次行动”，而忽略其“对...做出反应”的核心义",
+      "sentence": "When she heard the joke, she couldn’t help but **react** with a loud laugh.",
+      "options": {
+        "option": [
+          {
+            "definition": "对...做出反应；回应",
+            "iscorrect": true
+          },
+          {
+            "definition": "再次行动；重复做某事",
+            "iscorrect": false
+          },
+          {
+            "definition": "主动行动；采取措施",
+            "iscorrect": false
+          },
+          {
+            "definition": "表演；扮演（角色）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

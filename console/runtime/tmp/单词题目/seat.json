@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "seat",
+      "error_analysis": "学生易因形近词“sea”（海）或字面拆分“eat”（吃）而将“seat”错误理解为“海洋”或“食物”",
+      "sentence": "Please take your **seat** and wait for the teacher to arrive.",
+      "options": {
+        "option": [
+          {
+            "definition": "座位",
+            "iscorrect": true
+          },
+          {
+            "definition": "海洋",
+            "iscorrect": false
+          },
+          {
+            "definition": "食物",
+            "iscorrect": false
+          },
+          {
+            "definition": "设置",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

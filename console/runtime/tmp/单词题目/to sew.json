@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to sew",
+      "error_analysis": "中国学生易因形近词sow（播种）、saw（看见）的干扰，将sew误理解为“播种”或“看见”。",
+      "sentence": "My mom helped me **sew** a patch on my jeans after I tore them playing football.",
+      "options": {
+        "option": [
+          {
+            "definition": "缝纫；缝制",
+            "iscorrect": true
+          },
+          {
+            "definition": "播种；撒种",
+            "iscorrect": false
+          },
+          {
+            "definition": "看见；目睹",
+            "iscorrect": false
+          },
+          {
+            "definition": "密封；封缄",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "indestructible",
+      "error_analysis": "易因形近词\"indispensable\"（不可或缺的）干扰，或词根拆分时将\"destruct\"误判为\"construct\"（建造）/ \"detect\"（检测）导致误解",
+      "sentence": "The new material used in the phone screen is **indestructible**—it didn’t even scratch when I dropped it from the second floor.",
+      "options": {
+        "option": [
+          {
+            "definition": "坚不可摧的；不可破坏的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不可或缺的；必不可少的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不可建造的；无法构造的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无法检测的；难以察觉的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

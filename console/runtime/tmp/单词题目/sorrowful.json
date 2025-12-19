@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sorrowful",
+      "error_analysis": "学生易因形近词`successful`（成功的）或`sorry`（抱歉的）的联想，将`sorrowful`误判为“成功的”或“抱歉的”",
+      "sentence": "When she heard the bad news about her grandma, tears filled her **sorrowful** eyes.",
+      "options": {
+        "option": [
+          {
+            "definition": "悲伤的",
+            "iscorrect": true
+          },
+          {
+            "definition": "成功的",
+            "iscorrect": false
+          },
+          {
+            "definition": "抱歉的",
+            "iscorrect": false
+          },
+          {
+            "definition": "强大的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

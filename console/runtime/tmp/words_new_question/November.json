@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "November",
+      "error_analysis": "学生易因\"November\"与\"novel\"（小说）形近或\"Nov-\"词根（新）而误判为与\"小说\"或\"新\"相关",
+      "sentence": "My little sister was born in **November**, right after Halloween and before Christmas.",
+      "options": {
+        "option": [
+          {
+            "definition": "十一月",
+            "iscorrect": true
+          },
+          {
+            "definition": "与小说相关的月份",
+            "iscorrect": false
+          },
+          {
+            "definition": "新的月份",
+            "iscorrect": false
+          },
+          {
+            "definition": "十月",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

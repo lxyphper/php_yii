@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to bounce",
+      "error_analysis": "学生易因形近词“bound”（跳跃/捆绑）将“to bounce”误理解为“跳跃”或“捆绑”，而非核心义“反弹/弹跳”。",
+      "sentence": "The rubber ball **bounced** high into the air after hitting the hard ground.",
+      "options": {
+        "option": [
+          {
+            "definition": "反弹；弹跳",
+            "iscorrect": true
+          },
+          {
+            "definition": "跳跃；跳起来",
+            "iscorrect": false
+          },
+          {
+            "definition": "捆绑；束缚",
+            "iscorrect": false
+          },
+          {
+            "definition": "滚动；转动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

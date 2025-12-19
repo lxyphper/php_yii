@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "warm-blooded",
+      "error_analysis": "学生易混淆形近词\"warm-hearted\"(热心的)，或字面误解为\"热血沸腾的\"(情感激动的)，而非生物学上的\"恒温的\"。",
+      "sentence": "Unlike snakes, which need the sun to warm their bodies, birds and mammals are **warm-blooded** and can keep their temperature stable even on cold days.",
+      "options": {
+        "option": [
+          {
+            "definition": "恒温的（指动物能够保持体温恒定）",
+            "iscorrect": true
+          },
+          {
+            "definition": "热心的，乐于助人的",
+            "iscorrect": false
+          },
+          {
+            "definition": "热血沸腾的，情感激动的",
+            "iscorrect": false
+          },
+          {
+            "definition": "体温较高的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

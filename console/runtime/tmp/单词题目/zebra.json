@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "zebra",
+      "error_analysis": "中国学生可能因\"zebra\"与\"zeal\"(热情)拼写接近或与\"马\"(horse)语义关联(均为马科动物)而误判",
+      "sentence": "The children were excited to see a **zebra** with black and white stripes at the zoo.",
+      "options": {
+        "option": [
+          {
+            "definition": "斑马",
+            "iscorrect": true
+          },
+          {
+            "definition": "热情",
+            "iscorrect": false
+          },
+          {
+            "definition": "马",
+            "iscorrect": false
+          },
+          {
+            "definition": "条纹",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

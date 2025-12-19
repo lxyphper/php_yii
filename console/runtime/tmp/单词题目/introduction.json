@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "introduction",
+      "error_analysis": "学生易混淆形近词“instruction”（指示），或因词根“intro-”（进入）和“-duction”（引导）过度直译，误将“introduction”理解为“指示”或“进入引导”而非核心义“介绍/引言”。",
+      "sentence": "When meeting new people, it's polite to start with a simple **introduction** of yourself.",
+      "options": {
+        "option": [
+          {
+            "definition": "介绍；引言",
+            "iscorrect": true
+          },
+          {
+            "definition": "指示；说明",
+            "iscorrect": false
+          },
+          {
+            "definition": "进入引导；引入过程",
+            "iscorrect": false
+          },
+          {
+            "definition": "生产；制造",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

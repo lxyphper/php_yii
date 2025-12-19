@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "business class",
+      "error_analysis": "学生易将“business class”字面理解为“商业阶级”或“商务班级”，而非正确的“商务舱”。",
+      "sentence": "When booking the flight, she chose **business class** for its extra legroom and in-flight services.",
+      "options": {
+        "option": [
+          {
+            "definition": "商业阶级（社会中从事商业活动的阶层）",
+            "iscorrect": false
+          },
+          {
+            "definition": "商务班级（针对商务人士开设的培训班级）",
+            "iscorrect": false
+          },
+          {
+            "definition": "商务课程（与商务相关的学习课程）",
+            "iscorrect": false
+          },
+          {
+            "definition": "商务舱（飞机、火车等的高级舱位）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

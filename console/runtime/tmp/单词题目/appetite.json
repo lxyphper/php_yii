@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "appetite",
+      "error_analysis": "学生易因形近词“attitude”（态度）混淆，或因词根“appet-”（追求）误判为“追求”，忽略其核心“食欲”义。",
+      "sentence": "After a long hike, I had a huge **appetite** and ate three bowls of rice.",
+      "options": {
+        "option": [
+          {
+            "definition": "食欲；胃口",
+            "iscorrect": true
+          },
+          {
+            "definition": "态度",
+            "iscorrect": false
+          },
+          {
+            "definition": "追求",
+            "iscorrect": false
+          },
+          {
+            "definition": "开胃菜",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

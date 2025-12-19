@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to orate",
+      "error_analysis": "学生易因形近词“rate”（评价）或“operate”（操作）的拼写相似，将“to orate”误理解为“评价”或“操作”。",
+      "sentence": "The politician will **orate** on the importance of education at the community meeting.",
+      "options": {
+        "option": [
+          {
+            "definition": "发表演说，演讲",
+            "iscorrect": true
+          },
+          {
+            "definition": "评价",
+            "iscorrect": false
+          },
+          {
+            "definition": "操作",
+            "iscorrect": false
+          },
+          {
+            "definition": "命令",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

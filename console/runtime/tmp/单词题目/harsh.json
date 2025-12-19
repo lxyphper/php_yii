@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "harsh",
+      "error_analysis": "学生易因形近词\"hard\"误解为\"坚硬的/困难的\"，或因词根\"har-\"联想\"harm\"误解为\"有害的\"",
+      "sentence": "The coach gave the team a **harsh** lecture after their losing game.",
+      "options": {
+        "option": [
+          {
+            "definition": "严厉的；苛刻的",
+            "iscorrect": true
+          },
+          {
+            "definition": "坚硬的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有害的",
+            "iscorrect": false
+          },
+          {
+            "definition": "困难的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

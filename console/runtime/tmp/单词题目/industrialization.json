@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "industrialization",
+      "error_analysis": "中国学生易因形近词“institutionalization”（制度化）混淆，或因词根拆分错误理解为“工业产品”而非“工业化过程”。",
+      "sentence": "The rapid **industrialization** of the country in the 20th century led to significant changes in urban life and employment patterns.",
+      "options": {
+        "option": [
+          {
+            "definition": "工业化（从农业社会向工业社会转变的过程）",
+            "iscorrect": true
+          },
+          {
+            "definition": "制度化（建立制度或体制的过程）",
+            "iscorrect": false
+          },
+          {
+            "definition": "工业产品（工业生产的物品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "现代化（使事物符合现代标准的过程）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

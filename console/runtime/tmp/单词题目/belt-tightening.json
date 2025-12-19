@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "belt-tightening",
+      "error_analysis": "将比喻义的\"紧缩开支\"误解为字面的\"系紧腰带的动作\"或\"腰带变紧\"",
+      "sentence": "Due to the economic downturn, many families have had to implement **belt-tightening** measures, such as reducing takeout orders and canceling unused subscriptions.",
+      "options": {
+        "option": [
+          {
+            "definition": "紧缩开支；节约",
+            "iscorrect": true
+          },
+          {
+            "definition": "系紧腰带的动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "腰带因收缩而变紧（如材质缩水）",
+            "iscorrect": false
+          },
+          {
+            "definition": "调整腰带长度以使其更合身",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

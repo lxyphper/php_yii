@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "breathtaking",
+      "error_analysis": "学生易因“breathe”（呼吸）和“take”（拿）的字面意思，错误理解为“让人无法呼吸的（窒息的）”或“气喘吁吁的”，忽略其核心义“令人惊叹的”。",
+      "sentence": "The view from the top of the mountain was absolutely **breathtaking**—we couldn’t stop taking photos.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人惊叹的",
+            "iscorrect": true
+          },
+          {
+            "definition": "让人无法呼吸的（窒息的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "气喘吁吁的",
+            "iscorrect": false
+          },
+          {
+            "definition": "需要深呼吸的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

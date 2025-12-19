@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "spry",
+      "error_analysis": "学生易因形近词'spray'（喷雾）误解为“喷雾的”，或误猜为“强壮的”（混淆敏捷与强壮）",
+      "sentence": "Despite being 80 years old, Grandma still climbs the stairs two at a time—she's as **spry** as a teenager!",
+      "options": {
+        "option": [
+          {
+            "definition": "（尤指老年人）行动敏捷的；精神矍铄的",
+            "iscorrect": true
+          },
+          {
+            "definition": "喷雾的；像喷雾一样的",
+            "iscorrect": false
+          },
+          {
+            "definition": "强壮的；有力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "春天的；有生机的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

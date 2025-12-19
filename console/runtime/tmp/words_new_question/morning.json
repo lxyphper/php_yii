@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "morning",
+      "error_analysis": "形近词\"mourning\"(哀悼)的干扰，学生易将\"morning\"误判为悲伤或悼念相关含义",
+      "sentence": "He always drinks a glass of milk for breakfast in the **morning** before heading to school.",
+      "options": {
+        "option": [
+          {
+            "definition": "早晨；上午",
+            "iscorrect": true
+          },
+          {
+            "definition": "哀悼；悲痛",
+            "iscorrect": false
+          },
+          {
+            "definition": "晚上；傍晚",
+            "iscorrect": false
+          },
+          {
+            "definition": "警告；提醒",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

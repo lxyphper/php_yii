@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pyramidal",
+      "error_analysis": "学生易因形近词\"paramedical\"（辅助医疗的）产生混淆，或因词根\"pyramid\"（金字塔）过度直译为\"属于金字塔的\"而忽略\"形状\"含义。",
+      "sentence": "The company’s management structure is **pyramidal**, with a single CEO at the top and layers of employees extending downward.",
+      "options": {
+        "option": [
+          {
+            "definition": "金字塔形的；像金字塔的",
+            "iscorrect": true
+          },
+          {
+            "definition": "辅助医疗的；与医疗辅助相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "属于金字塔的；关于金字塔的",
+            "iscorrect": false
+          },
+          {
+            "definition": "外围的；边缘的；非核心的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "drastic",
+      "error_analysis": "学生易因形近词“drama”（戏剧）将“drastic”误解为“戏剧性的”，或因词根“drast-”（做）猜测为“有效的”。",
+      "sentence": "The government had to take **drastic** measures to prevent the situation from getting worse.",
+      "options": {
+        "option": [
+          {
+            "definition": "戏剧性的；夸张的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有效的；有作用的",
+            "iscorrect": false
+          },
+          {
+            "definition": "剧烈的；严厉的",
+            "iscorrect": true
+          },
+          {
+            "definition": "温和的；柔和的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

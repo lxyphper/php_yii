@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unenlightened",
+      "error_analysis": "学生易因词根“light”（光）误导将“unenlightened”误解为“未被照亮的”，或混淆形近词“uneducated”（未受教育的）而忽略其“思想不开明”的核心义。",
+      "sentence": "Some **unenlightened** people still believe that women shouldn’t work outside the home.",
+      "options": {
+        "option": [
+          {
+            "definition": "未受启蒙的；不开明的",
+            "iscorrect": true
+          },
+          {
+            "definition": "未被照亮的；黑暗的",
+            "iscorrect": false
+          },
+          {
+            "definition": "未受教育的；文盲的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不感兴趣的；冷漠的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lukewarm",
+      "error_analysis": "因包含\"warm\"误将引申义判为\"热情的\"，或拆分\"luke+warm\"误判为\"轻度温暖的\"",
+      "sentence": "The audience gave a **lukewarm** reaction to the new play.",
+      "options": {
+        "option": [
+          {
+            "definition": "冷淡的；不热情的",
+            "iscorrect": true
+          },
+          {
+            "definition": "热情的",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻度温暖的",
+            "iscorrect": false
+          },
+          {
+            "definition": "像Luke一样的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

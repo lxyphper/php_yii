@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "asset stripping",
+      "error_analysis": "学生易因\"stripping\"的字面义（剥离）或形近词（如shipping/运输）误导，将其误解为物理性资产处理而非商业性拆卖获利行为",
+      "sentence": "After the private equity firm acquired the manufacturing company, it engaged in **asset stripping** by selling off the factory, patents, and real estate to maximize short-term profits.",
+      "options": {
+        "option": [
+          {
+            "definition": "企业收购后出售其有价值资产以获取短期利润的行为（资产拆卖）",
+            "iscorrect": true
+          },
+          {
+            "definition": "拆除公司的物理资产（如设备、房产）",
+            "iscorrect": false
+          },
+          {
+            "definition": "将公司资产运输至其他地点",
+            "iscorrect": false
+          },
+          {
+            "definition": "对公司资产进行打击或破坏",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

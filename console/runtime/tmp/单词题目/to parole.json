@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to parole",
+      "error_analysis": "学生易因形近词“parrot”（鹦鹉）产生错误联想，或因词源“话”误猜为“说话/许诺”。",
+      "sentence": "The court decided to **parole** the inmate early because of his excellent behavior during imprisonment.",
+      "options": {
+        "option": [
+          {
+            "definition": "假释（有条件释放囚犯）",
+            "iscorrect": true
+          },
+          {
+            "definition": "养鹦鹉；像鹦鹉一样重复说话",
+            "iscorrect": false
+          },
+          {
+            "definition": "说话；作出诺言",
+            "iscorrect": false
+          },
+          {
+            "definition": "平行放置；使与…平行",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

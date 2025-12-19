@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to dive",
+      "error_analysis": "中国学生易混淆形近词\"drive\"(驾驶)或因字面误导认为是\"快速奔跑\"",
+      "sentence": "The kids were excited to **dive** into the pool on a hot summer day.",
+      "options": {
+        "option": [
+          {
+            "definition": "驾驶（车辆）",
+            "iscorrect": false
+          },
+          {
+            "definition": "跳进（水中）；潜水",
+            "iscorrect": true
+          },
+          {
+            "definition": "快速奔跑",
+            "iscorrect": false
+          },
+          {
+            "definition": "死亡",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

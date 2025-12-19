@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fine",
+      "error_analysis": "中国学生易混淆“fine”的名词义“罚款”与形近词“find”（找到）的含义，或误将其形容词义“好的”代入名词语境。",
+      "sentence": "The police gave him a **fine** for running a red light.",
+      "options": {
+        "option": [
+          {
+            "definition": "找到",
+            "iscorrect": false
+          },
+          {
+            "definition": "好的",
+            "iscorrect": false
+          },
+          {
+            "definition": "精细的",
+            "iscorrect": false
+          },
+          {
+            "definition": "罚款",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

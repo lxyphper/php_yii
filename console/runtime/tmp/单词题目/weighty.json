@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "weighty",
+      "error_analysis": "学生易因词根“weight”（重量）字面误导，误理解为“物理上沉重的”，或与形近词“wealthy”（富有的）混淆",
+      "sentence": "The committee is discussing a **weighty** matter that will affect the future of the company.",
+      "options": {
+        "option": [
+          {
+            "definition": "重要的；重大的",
+            "iscorrect": true
+          },
+          {
+            "definition": "沉重的；有重量的（物理上）",
+            "iscorrect": false
+          },
+          {
+            "definition": "富有的；有钱的",
+            "iscorrect": false
+          },
+          {
+            "definition": "容易的；简单的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

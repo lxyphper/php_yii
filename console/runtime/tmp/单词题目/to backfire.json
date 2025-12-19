@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to backfire",
+      "error_analysis": "学生易根据“back+fire”的字面组合猜测为“向后方开火”或“回火”，忽略其比喻义“计划或行动事与愿违”",
+      "sentence": "The company’s attempt to cut costs by reducing staff **backfired** when productivity dropped sharply.",
+      "options": {
+        "option": [
+          {
+            "definition": "（汽车等）回火，向后方喷火",
+            "iscorrect": false
+          },
+          {
+            "definition": "支持并加强火焰燃烧",
+            "iscorrect": false
+          },
+          {
+            "definition": "（计划或行动）事与愿违，产生相反效果",
+            "iscorrect": true
+          },
+          {
+            "definition": "反馈关于火焰的信息",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

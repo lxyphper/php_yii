@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "there",
+      "error_analysis": "中国学生易因形近词\"their\"（他们的）混淆\"there\"的含义，或误将其与\"here\"（这里）的地点指向搞反。",
+      "sentence": "Look at the cat sitting **there** under the tree—it’s playing with a ball.",
+      "options": {
+        "option": [
+          {
+            "definition": "那里（地点副词，表示较远的位置）",
+            "iscorrect": true
+          },
+          {
+            "definition": "他们的（代词，指代所属关系）",
+            "iscorrect": false
+          },
+          {
+            "definition": "这里（地点副词，表示较近的位置）",
+            "iscorrect": false
+          },
+          {
+            "definition": "存在（动词，表示有）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

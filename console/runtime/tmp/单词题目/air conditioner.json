@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "air conditioner",
+      "error_analysis": "学生易因词根/字面误导将\"air conditioner\"误解为\"空气状况\"，或因形近词联想混淆\"护发素\"（hair conditioner）。",
+      "sentence": "It's so hot in the room—can you turn on the **air conditioner** to cool us down?",
+      "options": {
+        "option": [
+          {
+            "definition": "空气状况",
+            "iscorrect": false
+          },
+          {
+            "definition": "护发素",
+            "iscorrect": false
+          },
+          {
+            "definition": "空气清新剂",
+            "iscorrect": false
+          },
+          {
+            "definition": "空调",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

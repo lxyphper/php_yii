@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "premiere",
+      "error_analysis": "学生易混淆形近词“premier”（首相），或因“pre-”词根误解为“首要的”含义。",
+      "sentence": "The new Marvel movie will have its **premiere** in Los Angeles next week, and many celebrities are expected to attend.",
+      "options": {
+        "option": [
+          {
+            "definition": "（电影、戏剧等的）首映；首次演出",
+            "iscorrect": true
+          },
+          {
+            "definition": "首相；总理",
+            "iscorrect": false
+          },
+          {
+            "definition": "首要的；最重要的",
+            "iscorrect": false
+          },
+          {
+            "definition": "预习；预先准备",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

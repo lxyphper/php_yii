@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "different",
+      "error_analysis": "形近词“difficult”（困难的）的干扰及词根误导的“分开的”理解",
+      "sentence": "The two books look similar, but their contents are **different**.",
+      "options": {
+        "option": [
+          {
+            "definition": "不同的",
+            "iscorrect": true
+          },
+          {
+            "definition": "困难的",
+            "iscorrect": false
+          },
+          {
+            "definition": "分开的",
+            "iscorrect": false
+          },
+          {
+            "definition": "多样的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

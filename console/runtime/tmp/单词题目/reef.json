@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "reef",
+      "error_analysis": "学生易因形近词（如leaf/叶子、reel/卷轴）干扰，将reef误判为“叶子”或“卷轴”",
+      "sentence": "The ship had to change course to avoid hitting the **reef** hidden under the water.",
+      "options": {
+        "option": [
+          {
+            "definition": "礁；暗礁",
+            "iscorrect": true
+          },
+          {
+            "definition": "叶子",
+            "iscorrect": false
+          },
+          {
+            "definition": "卷轴；摇晃",
+            "iscorrect": false
+          },
+          {
+            "definition": "屋顶",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

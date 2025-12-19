@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to flatten",
+      "error_analysis": "学生易因形近词\"fatten\"（使变胖）的干扰或词根\"flat\"（平的）的过度直译而混淆\"使变平\"与\"使变胖\"或\"使变宽\"",
+      "sentence": "Please **flatten** the dough with a rolling pin before baking.",
+      "options": {
+        "option": [
+          {
+            "definition": "使变胖；养肥",
+            "iscorrect": false
+          },
+          {
+            "definition": "使变宽；拓宽",
+            "iscorrect": false
+          },
+          {
+            "definition": "使变平；压平",
+            "iscorrect": true
+          },
+          {
+            "definition": "使变高；升高",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

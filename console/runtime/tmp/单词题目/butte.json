@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "butte",
+      "error_analysis": "学生易因形近词\"butter\"（黄油）或词根\"but\"（但是）产生错误联想，混淆地理术语与日常词汇/连词",
+      "sentence": "The desert landscape was dotted with several **buttes**, their flat tops standing out sharply against the clear blue sky.",
+      "options": {
+        "option": [
+          {
+            "definition": "孤丘（沙漠中的平顶高地）",
+            "iscorrect": true
+          },
+          {
+            "definition": "黄油（一种乳制食品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "但是（表示转折的连词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "小山坡（普通的低矮山丘）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

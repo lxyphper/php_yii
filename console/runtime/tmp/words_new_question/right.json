@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "right",
+      "error_analysis": "中国学生易将“right”的“权利”义误解为常见的“右边的”或“正确的”，或因同音词“write”混淆为“写”。",
+      "sentence": "Everyone has the **right** to express their opinions freely.",
+      "options": {
+        "option": [
+          {
+            "definition": "右边的",
+            "iscorrect": false
+          },
+          {
+            "definition": "正确的",
+            "iscorrect": false
+          },
+          {
+            "definition": "写",
+            "iscorrect": false
+          },
+          {
+            "definition": "权利",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "instead",
+      "error_analysis": "中国学生易因“instead”的字面拆分（in+stead）误解为“在里面站着”，或因形近词“instant”（立刻的）产生错误联想，且常误将其副词词性判为动词（如“替换”）。",
+      "sentence": "I didn't eat the cake; I had an apple **instead**.",
+      "options": {
+        "option": [
+          {
+            "definition": "反而；代替（副词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "替换；取代（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "立刻的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "在里面站着（动词短语）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

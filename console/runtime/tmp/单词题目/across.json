@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "across",
+      "error_analysis": "学生易因形近词“cross”（动词“穿过”）将“across”误判为动词，或因“cross”的“交叉”义将其理解为“交叉的”形容词。",
+      "sentence": "She walked **across** the park to meet her friend at the café.",
+      "options": {
+        "option": [
+          {
+            "definition": "介词，从一边到另一边；穿过（如“穿过街道/公园”）",
+            "iscorrect": true
+          },
+          {
+            "definition": "动词，穿过（动作）（如“cross the street”）",
+            "iscorrect": false
+          },
+          {
+            "definition": "形容词，交叉的（如“a cross bridge”）",
+            "iscorrect": false
+          },
+          {
+            "definition": "介词，在...对面（如“the store is across the street”）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

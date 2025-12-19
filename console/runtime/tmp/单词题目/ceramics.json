@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ceramics",
+      "error_analysis": "易因形近词\"ceremony\"(仪式)干扰，或因不熟悉词根\"keramos\"(陶土)而误判为无关含义",
+      "sentence": "The museum exhibits a collection of ancient Chinese **ceramics**, including Tang Dynasty tri-color glazed pottery.",
+      "options": {
+        "option": [
+          {
+            "definition": "陶瓷（制品）",
+            "iscorrect": true
+          },
+          {
+            "definition": "仪式",
+            "iscorrect": false
+          },
+          {
+            "definition": "电的装置",
+            "iscorrect": false
+          },
+          {
+            "definition": "绘画作品",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

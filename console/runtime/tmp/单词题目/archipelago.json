@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "archipelago",
+      "error_analysis": "学生易因“arch”（拱门）的字面义或与“archaeology”（考古学）的形近性，将“archipelago”误判为“拱形结构”或“考古遗址”。",
+      "sentence": "The Maldives is a famous **archipelago** in the Indian Ocean, consisting of over 1,000 coral islands.",
+      "options": {
+        "option": [
+          {
+            "definition": "群岛",
+            "iscorrect": true
+          },
+          {
+            "definition": "考古遗址",
+            "iscorrect": false
+          },
+          {
+            "definition": "拱形海边建筑",
+            "iscorrect": false
+          },
+          {
+            "definition": "半岛",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

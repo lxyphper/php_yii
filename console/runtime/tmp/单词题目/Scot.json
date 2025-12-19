@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Scot",
+      "error_analysis": "学生易因形近词\"Scott\"（人名）或\"spot\"（斑点）的干扰，将\"Scot\"误判为人名或常见名词",
+      "sentence": "My new neighbor is a **Scot** who brings homemade haggis to our block parties every month.",
+      "options": {
+        "option": [
+          {
+            "definition": "苏格兰人（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "斯科特（人名）",
+            "iscorrect": false
+          },
+          {
+            "definition": "斑点（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "分数（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

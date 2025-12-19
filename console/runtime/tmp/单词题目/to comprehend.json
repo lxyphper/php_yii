@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to comprehend",
+      "error_analysis": "学生易因形近词“compress”（压缩）或对词根“prehend”（误判为“hand”）的联想，将“to comprehend”错误理解为“压缩”或“收集”",
+      "sentence": "After reading the article twice, she finally managed to **comprehend** the main idea of the author's argument.",
+      "options": {
+        "option": [
+          {
+            "definition": "理解，领会",
+            "iscorrect": true
+          },
+          {
+            "definition": "压缩",
+            "iscorrect": false
+          },
+          {
+            "definition": "收集",
+            "iscorrect": false
+          },
+          {
+            "definition": "包含",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

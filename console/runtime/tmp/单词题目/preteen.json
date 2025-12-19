@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "preteen",
+      "error_analysis": "学生易因“pre-”前缀与“preschool”混淆将“preteen”误判为“学前儿童”，或因“teen”联想到“青少年”而犯错",
+      "sentence": "Many **preteens** are excited about starting middle school and making new friends.",
+      "options": {
+        "option": [
+          {
+            "definition": "11或12岁的孩子（青春期前的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "学前儿童（3-5岁）",
+            "iscorrect": false
+          },
+          {
+            "definition": "青少年（13-19岁）",
+            "iscorrect": false
+          },
+          {
+            "definition": "幼儿（1-3岁）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

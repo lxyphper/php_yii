@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "candlestick chart",
+      "error_analysis": "学生易将candlestick拆分为\"蜡烛+棍\"，误以为图表与蜡烛或木棍相关",
+      "sentence": "Many stock traders use a **candlestick chart** to analyze price movements and predict market trends.",
+      "options": {
+        "option": [
+          {
+            "definition": "（金融领域的）K线图",
+            "iscorrect": true
+          },
+          {
+            "definition": "蜡烛棍形状的装饰图表",
+            "iscorrect": false
+          },
+          {
+            "definition": "烛光亮度变化记录图",
+            "iscorrect": false
+          },
+          {
+            "definition": "木棍长度对比分析图",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

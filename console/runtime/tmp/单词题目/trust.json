@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "trust",
+      "error_analysis": "学生易因形近词“truth”（真理）的拼写相似而混淆“trust”的词义。",
+      "sentence": "If you want a good friendship, you need to **trust** each other and be honest.",
+      "options": {
+        "option": [
+          {
+            "definition": "信任；信赖",
+            "iscorrect": true
+          },
+          {
+            "definition": "真理；事实",
+            "iscorrect": false
+          },
+          {
+            "definition": "尝试；努力",
+            "iscorrect": false
+          },
+          {
+            "definition": "照顾；照料",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

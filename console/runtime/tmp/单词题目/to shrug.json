@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to shrug",
+      "error_analysis": "中国学生易将\"shrug\"与形近词\"shake\"（摇晃）、发音类似词\"shiver\"（颤抖）或拼写结尾类似词\"hug\"（拥抱）混淆，误判为\"摇晃\"\"颤抖\"或\"拥抱\"。",
+      "sentence": "When I asked him if he knew the answer, he just **shrugged** and said nothing.",
+      "options": {
+        "option": [
+          {
+            "definition": "耸肩（表示不知道或不在乎）",
+            "iscorrect": true
+          },
+          {
+            "definition": "摇晃（肩膀/头部）",
+            "iscorrect": false
+          },
+          {
+            "definition": "拥抱",
+            "iscorrect": false
+          },
+          {
+            "definition": "颤抖",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

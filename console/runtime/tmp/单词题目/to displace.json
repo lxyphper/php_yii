@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to displace",
+      "error_analysis": "易因形近词'display'（展示）混淆，或因词根'dis-+place'过度直译为'移动位置'而非核心义'取代'",
+      "sentence": "The new digital technology is expected to **displace** the traditional analog systems in most industries within five years.",
+      "options": {
+        "option": [
+          {
+            "definition": "取代；替代",
+            "iscorrect": true
+          },
+          {
+            "definition": "展示；陈列",
+            "iscorrect": false
+          },
+          {
+            "definition": "移动...的位置；使离开原位",
+            "iscorrect": false
+          },
+          {
+            "definition": "丢弃；抛弃",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

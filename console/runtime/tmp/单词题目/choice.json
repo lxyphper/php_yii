@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "choice",
+      "error_analysis": "中国学生易因形近词“voice”（声音）产生混淆，或误将名词“choice”理解为动词“选择的动作”",
+      "sentence": "You have the **choice** to leave early or stay late today.",
+      "options": {
+        "option": [
+          {
+            "definition": "声音",
+            "iscorrect": false
+          },
+          {
+            "definition": "选择权；选择",
+            "iscorrect": true
+          },
+          {
+            "definition": "机会",
+            "iscorrect": false
+          },
+          {
+            "definition": "选择的动作（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

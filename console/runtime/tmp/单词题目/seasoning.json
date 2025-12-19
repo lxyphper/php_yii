@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "seasoning",
+      "error_analysis": "学生易因形近词\"season\"（季节）误将\"seasoning\"理解为\"季节性物品\"或\"季节相关事物\"",
+      "sentence": "The chef sprinkled some **seasoning** on the steak to make it taste better.",
+      "options": {
+        "option": [
+          {
+            "definition": "调味品；调料",
+            "iscorrect": true
+          },
+          {
+            "definition": "季节性物品；季节相关的事物",
+            "iscorrect": false
+          },
+          {
+            "definition": "调味的动作；给食物调味的过程",
+            "iscorrect": false
+          },
+          {
+            "definition": "季节变化；时令转换",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

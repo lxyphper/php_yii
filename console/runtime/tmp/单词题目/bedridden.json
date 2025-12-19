@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bedridden",
+      "error_analysis": "学生易因形近词\"bedroom\"（卧室）或词根拆分\"bed（床）+ridden（被...困扰）\"错误理解为\"卧室的\"或\"床的\"，而非核心义\"卧床不起的\"",
+      "sentence": "After the accident, my grandfather was **bedridden** for a month and needed help with even simple tasks like drinking water.",
+      "options": {
+        "option": [
+          {
+            "definition": "卧室的",
+            "iscorrect": false
+          },
+          {
+            "definition": "床的（属于床的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "喜欢睡床的",
+            "iscorrect": false
+          },
+          {
+            "definition": "卧床不起的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

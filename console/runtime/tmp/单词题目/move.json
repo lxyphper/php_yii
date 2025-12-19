@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "move",
+      "error_analysis": "中国学生易将“move”误联想为形近词“movie”（电影），或混淆其“移动”与“感动”的动词义。",
+      "sentence": "Please **move** the chair to the corner so we can have more space.",
+      "options": {
+        "option": [
+          {
+            "definition": "移动；行动（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "电影（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "感动（使情感波动，动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "移除；拿走（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

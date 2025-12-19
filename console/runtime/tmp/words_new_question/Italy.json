@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Italy",
+      "error_analysis": "学生易因形近词\"italics\"（斜体）混淆\"Italy\"的核心词义（国家名）",
+      "sentence": "I'm planning a trip to **Italy** next summer to visit Rome and try authentic Neapolitan pizza.",
+      "options": {
+        "option": [
+          {
+            "definition": "意大利（欧洲国家名）",
+            "iscorrect": true
+          },
+          {
+            "definition": "斜体（字体样式）",
+            "iscorrect": false
+          },
+          {
+            "definition": "意大利人（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "意大利的（形容词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "confederation",
+      "error_analysis": "学生易混淆\"confederation\"（松散同盟）与形近词\"confederate\"（同盟者）或近义词\"federation\"（联邦），误判为更紧密的\"联邦\"或具体的\"同盟者\"",
+      "sentence": "The European Union started as a **confederation** of six countries focused on economic cooperation before evolving into a more integrated union.",
+      "options": {
+        "option": [
+          {
+            "definition": "松散的同盟（邦联）",
+            "iscorrect": true
+          },
+          {
+            "definition": "联邦（如美国的联邦制）",
+            "iscorrect": false
+          },
+          {
+            "definition": "同盟者（参与同盟的人或国家）",
+            "iscorrect": false
+          },
+          {
+            "definition": "联合条约（正式的合作协议）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

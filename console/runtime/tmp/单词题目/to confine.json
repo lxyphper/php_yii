@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to confine",
+      "error_analysis": "易与形近词\"confirm\"(确认)混淆，或因词根\"fine\"(罚款)误导为\"处罚\"。",
+      "sentence": "The zoo decided to **confine** the new lion to a larger enclosure to ensure its safety and the visitors'.",
+      "options": {
+        "option": [
+          {
+            "definition": "限制；监禁",
+            "iscorrect": true
+          },
+          {
+            "definition": "确认；证实",
+            "iscorrect": false
+          },
+          {
+            "definition": "罚款；处罚",
+            "iscorrect": false
+          },
+          {
+            "definition": "连接；联合",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

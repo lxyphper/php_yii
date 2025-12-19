@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to imagine",
+      "error_analysis": "学生易因形近词“image”（图像）将“imagine”误理解为“绘制/显示实际图像”，或因词根联想错误认为是“沉浸在现有场景中”",
+      "sentence": "When I read the novel, I often **imagine** myself living in the magical world described by the author.",
+      "options": {
+        "option": [
+          {
+            "definition": "想象；设想（在脑海中形成不存在事物的图像）",
+            "iscorrect": true
+          },
+          {
+            "definition": "绘制或显示清晰的图像",
+            "iscorrect": false
+          },
+          {
+            "definition": "沉浸在现有的图像或场景中",
+            "iscorrect": false
+          },
+          {
+            "definition": "根据线索猜测未知的事情",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

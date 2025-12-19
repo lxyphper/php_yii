@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "piquant",
+      "error_analysis": "学生易因形近词\"piano\"（钢琴）联想错误，或因\"quant\"部分猜测为\"数量的\"（词根误导）。",
+      "sentence": "The chef added a pinch of chili to give the soup a **piquant** flavor that made everyone ask for seconds.",
+      "options": {
+        "option": [
+          {
+            "definition": "钢琴的（与钢琴相关的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "数量的（与数量有关的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "辛辣开胃的（味道刺激的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "安静的（没有噪音的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

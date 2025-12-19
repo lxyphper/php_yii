@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lemon",
+      "error_analysis": "学生易因形近词“lesson”（课）或与“melon”（瓜）混淆，将“lemon”误判为“课”或“瓜”。",
+      "sentence": "She put a slice of **lemon** in her water to make it taste better.",
+      "options": {
+        "option": [
+          {
+            "definition": "课",
+            "iscorrect": false
+          },
+          {
+            "definition": "瓜",
+            "iscorrect": false
+          },
+          {
+            "definition": "柠檬",
+            "iscorrect": true
+          },
+          {
+            "definition": "饮料",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "photocell",
+      "error_analysis": "学生易因词根拆分（photo=光+cell=细胞）误解为\"光细胞\"（生物感光细胞），或因字面直译误解为\"照片单元格\"（文档中的照片格子）",
+      "sentence": "The automatic door at the supermarket opens immediately when a customer blocks the **photocell**, which detects changes in light.",
+      "options": {
+        "option": [
+          {
+            "definition": "光电池；光电管（将光转化为电的装置，用于自动门等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "光细胞（生物体内的感光细胞，如视网膜中的视细胞）",
+            "iscorrect": false
+          },
+          {
+            "definition": "照片单元格（文档或表格中用于插入照片的格子）",
+            "iscorrect": false
+          },
+          {
+            "definition": "光学相机（用于拍摄照片的设备）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

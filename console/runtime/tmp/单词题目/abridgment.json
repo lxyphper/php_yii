@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "abridgment",
+      "error_analysis": "学生易因词根中的“bridge”（桥）部分产生误导，误以为与“桥的结构”相关。",
+      "sentence": "The **abridgment** of the classic novel is popular among students because it cuts out the less important details while keeping the main story.",
+      "options": {
+        "option": [
+          {
+            "definition": "节略本；缩写本",
+            "iscorrect": true
+          },
+          {
+            "definition": "桥的结构部分",
+            "iscorrect": false
+          },
+          {
+            "definition": "放弃的行为",
+            "iscorrect": false
+          },
+          {
+            "definition": "协议的草稿",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

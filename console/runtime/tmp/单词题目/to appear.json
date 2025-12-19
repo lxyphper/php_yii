@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to appear",
+      "error_analysis": "因形近词“appeal”（吸引）、“applaud”（鼓掌）或“apparent”（明显的）干扰，将“to appear”误理解为“吸引”“鼓掌”或“明显的”",
+      "sentence": "As the sun rose, a rainbow **appeared** in the sky.",
+      "options": {
+        "option": [
+          {
+            "definition": "出现；显现",
+            "iscorrect": true
+          },
+          {
+            "definition": "吸引",
+            "iscorrect": false
+          },
+          {
+            "definition": "鼓掌",
+            "iscorrect": false
+          },
+          {
+            "definition": "明显的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

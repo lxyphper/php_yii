@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to sentence",
+      "error_analysis": "将动词“to sentence”误理解为与名词“sentence”（句子）相关的“造句子”或“写句子”",
+      "sentence": "The judge decided to **sentence** the criminal to five years of probation after the trial.",
+      "options": {
+        "option": [
+          {
+            "definition": "造句子",
+            "iscorrect": false
+          },
+          {
+            "definition": "判决，宣判",
+            "iscorrect": true
+          },
+          {
+            "definition": "用句子表达",
+            "iscorrect": false
+          },
+          {
+            "definition": "背诵句子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

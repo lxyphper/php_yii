@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "precept",
+      "error_analysis": "混淆形近词\"percept\"(知觉)及词根\"pre-+cept\"的错误推导(如\"预先接受的内容\")",
+      "sentence": "Our school's main **precept** is \"Respect others, and you will be respected in return.\"",
+      "options": {
+        "option": [
+          {
+            "definition": "知觉；感知",
+            "iscorrect": false
+          },
+          {
+            "definition": "规则；准则",
+            "iscorrect": true
+          },
+          {
+            "definition": "预先接受的内容",
+            "iscorrect": false
+          },
+          {
+            "definition": "概念；观念",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

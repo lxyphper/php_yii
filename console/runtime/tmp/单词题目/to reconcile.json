@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to reconcile",
+      "error_analysis": "易因拼写开头\"reco\"与\"recommend\"（推荐）混淆，或拆分词根\"re-\"+\"concile\"误联\"console\"（安慰）而理解为\"再次安慰\"。",
+      "sentence": "After their big fight, Sarah and Tom decided to **reconcile** and try to fix their relationship.",
+      "options": {
+        "option": [
+          {
+            "definition": "推荐",
+            "iscorrect": false
+          },
+          {
+            "definition": "再次安慰",
+            "iscorrect": false
+          },
+          {
+            "definition": "和解；调和",
+            "iscorrect": true
+          },
+          {
+            "definition": "回忆",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

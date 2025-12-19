@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gas station",
+      "error_analysis": "将\"gas\"直译为\"气体\"，误判\"gas station\"为\"气体站\"或\"加气站\"",
+      "sentence": "I need to stop at the **gas station** to fill up my car before heading to the highway.",
+      "options": {
+        "option": [
+          {
+            "definition": "气体站",
+            "iscorrect": false
+          },
+          {
+            "definition": "玻璃站",
+            "iscorrect": false
+          },
+          {
+            "definition": "公交站",
+            "iscorrect": false
+          },
+          {
+            "definition": "加油站",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

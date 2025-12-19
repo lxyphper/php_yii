@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "love life",
+      "error_analysis": "学生易将名词短语\"love life\"（爱情生活）误解为动词短语\"热爱生活\"（字面拆分），或因形近\"live life\"误解为\"过生活\"。",
+      "sentence": "Emma often talks about her exciting **love life** with her friends.",
+      "options": {
+        "option": [
+          {
+            "definition": "爱情生活（指浪漫关系或经历）",
+            "iscorrect": true
+          },
+          {
+            "definition": "热爱生活（对生活的热爱）",
+            "iscorrect": false
+          },
+          {
+            "definition": "过生活（生活的方式或经历）",
+            "iscorrect": false
+          },
+          {
+            "definition": "生命之爱（对生命的热爱）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

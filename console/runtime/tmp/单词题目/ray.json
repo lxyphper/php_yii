@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ray",
+      "error_analysis": "中国学生易因形近词（如“lay”躺、“say”说）或对“ray”核心义（光线/射线）的模糊记忆而误判",
+      "sentence": "The doctor used an X-**ray** to check her broken bone.",
+      "options": {
+        "option": [
+          {
+            "definition": "躺；放置",
+            "iscorrect": false
+          },
+          {
+            "definition": "说；讲",
+            "iscorrect": false
+          },
+          {
+            "definition": "光线；射线",
+            "iscorrect": true
+          },
+          {
+            "definition": "鳐鱼",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

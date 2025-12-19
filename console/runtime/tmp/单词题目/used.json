@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "used",
+      "error_analysis": "学生易因形近词“useful”（有用的）或词根“use”的动词含义（被使用的）误解形容词“used”的“旧的”词义",
+      "sentence": "She decided to sell her **used** smartphone online since she got a new one.",
+      "options": {
+        "option": [
+          {
+            "definition": "用过的；旧的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有用的",
+            "iscorrect": false
+          },
+          {
+            "definition": "被使用的",
+            "iscorrect": false
+          },
+          {
+            "definition": "通常的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to skedaddle",
+      "error_analysis": "学生可能因形近词\"schedule\"（日程表）或\"dawdle\"（磨蹭）的联想，错误理解为\"安排时间\"或\"缓慢移动\"。",
+      "sentence": "When they heard the police siren, the kids **skedaddled** from the abandoned house before anyone could catch them.",
+      "options": {
+        "option": [
+          {
+            "definition": "安排日程",
+            "iscorrect": false
+          },
+          {
+            "definition": "缓慢行走",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速逃跑；溜走",
+            "iscorrect": true
+          },
+          {
+            "definition": "大声争论",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

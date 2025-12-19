@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "short story",
+      "error_analysis": "学生可能因“story”的多义性（如“报道”）或与形近短语“tall story”（荒诞故事）混淆，将“short story”误解为“短新闻”或“荒诞故事”。",
+      "sentence": "The young writer submitted her **short story** to a literary magazine, hoping it would be published alongside works by famous authors.",
+      "options": {
+        "option": [
+          {
+            "definition": "短篇小说（一种短篇的文学体裁）",
+            "iscorrect": true
+          },
+          {
+            "definition": "荒诞的故事（如无根据的传闻）",
+            "iscorrect": false
+          },
+          {
+            "definition": "短新闻（如报纸上的简讯）",
+            "iscorrect": false
+          },
+          {
+            "definition": "故事梗概（对故事内容的简要总结）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "infrequently",
+      "error_analysis": "学生易混淆否定前缀\"in-\"的含义，将\"infrequently\"误判为\"频繁地\"（形近词\"frequently\"干扰）或\"非常频繁地\"（词根\"in-\"加强义误导）",
+      "sentence": "She visits her grandparents **infrequently** because she lives in another country.",
+      "options": {
+        "option": [
+          {
+            "definition": "频繁地；经常地",
+            "iscorrect": false
+          },
+          {
+            "definition": "不常地；很少地",
+            "iscorrect": true
+          },
+          {
+            "definition": "非常频繁地；极其经常地",
+            "iscorrect": false
+          },
+          {
+            "definition": "无限地；无穷地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

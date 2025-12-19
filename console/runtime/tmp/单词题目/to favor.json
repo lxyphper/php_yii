@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to favor",
+      "error_analysis": "易混淆形近词flavor（有味道）及名词义“恩惠”误导，误将动词义理解为“有味道”或“给予恩惠”",
+      "sentence": "The teacher always **favors** students who work hard.",
+      "options": {
+        "option": [
+          {
+            "definition": "有味道",
+            "iscorrect": false
+          },
+          {
+            "definition": "给予恩惠",
+            "iscorrect": false
+          },
+          {
+            "definition": "偏爱；支持",
+            "iscorrect": true
+          },
+          {
+            "definition": "帮助",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

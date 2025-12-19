@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to accede",
+      "error_analysis": "学生易因形近词\"access\"混淆为\"进入；使用权\"，或误由词根\"cede\"（走）推导为\"走向；接近\"，而非核心义\"同意\"。",
+      "sentence": "The manager finally **acceded** to the employees' request for a raise after weeks of tough negotiation.",
+      "options": {
+        "option": [
+          {
+            "definition": "同意，答应（正式或勉强）",
+            "iscorrect": true
+          },
+          {
+            "definition": "进入；使用权",
+            "iscorrect": false
+          },
+          {
+            "definition": "走向；接近",
+            "iscorrect": false
+          },
+          {
+            "definition": "加速；促进",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

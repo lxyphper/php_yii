@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "frightening",
+      "error_analysis": "易因形近词\"fighting\"（战斗的）及对形容词后缀\"-ening\"的动词进行时误解（如\"正在惊吓的\"）产生错误理解",
+      "sentence": "The movie has a lot of **frightening** scenes that made me jump out of my seat.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人害怕的",
+            "iscorrect": true
+          },
+          {
+            "definition": "战斗的",
+            "iscorrect": false
+          },
+          {
+            "definition": "正在惊吓的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人兴奋的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

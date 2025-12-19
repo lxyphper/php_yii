@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "halting",
+      "error_analysis": "将“halting”误理解为“已停止的”（源于混淆“halting”与“halted”的分词形式，或词根“halt”的动词义）",
+      "sentence": "His **halting** speech made it clear he wasn't prepared.",
+      "options": {
+        "option": [
+          {
+            "definition": "犹豫的；结结巴巴的",
+            "iscorrect": true
+          },
+          {
+            "definition": "已停止的",
+            "iscorrect": false
+          },
+          {
+            "definition": "拖运的",
+            "iscorrect": false
+          },
+          {
+            "definition": "欢呼的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

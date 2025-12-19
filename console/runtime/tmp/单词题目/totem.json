@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "totem",
+      "error_analysis": "学生易因形近词\"token\"（代币、符号）混淆，或误将\"totem\"理解为一般\"符号\"而非原住民文化中的\"图腾\"。",
+      "sentence": "The Haida tribe in Canada often carves their family **totem** on tall wooden poles to honor their ancestors and spiritual guardians.",
+      "options": {
+        "option": [
+          {
+            "definition": "图腾（原住民文化中代表祖先或精神的象征物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "代币；象征物（如纪念章或礼品券）",
+            "iscorrect": false
+          },
+          {
+            "definition": "一般的符号或标记（如交通标志或商标）",
+            "iscorrect": false
+          },
+          {
+            "definition": "手提袋；大型购物袋（可装大量物品的袋子）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

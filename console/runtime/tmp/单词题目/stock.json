@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stock",
+      "error_analysis": "中国学生易将“stock”与形近词“stuck”（卡住的）混淆，或错误联想为“棍子”（stick的形近）。",
+      "sentence": "I wanted to buy that new phone, but the salesperson said it’s out of **stock** until next month.",
+      "options": {
+        "option": [
+          {
+            "definition": "卡住的",
+            "iscorrect": false
+          },
+          {
+            "definition": "棍子",
+            "iscorrect": false
+          },
+          {
+            "definition": "库存",
+            "iscorrect": true
+          },
+          {
+            "definition": "股票",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

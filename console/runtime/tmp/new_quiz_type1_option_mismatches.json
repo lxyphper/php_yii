@@ -1,0 +1,118 @@
+[
+  {
+    "quiz_id": 19808,
+    "vocabulary_id": 639,
+    "vocabulary_name": "color",
+    "flagged_correct_option": {
+      "id": 47754,
+      "definition": "给……着色（动词）",
+      "is_correct": 1,
+      "score": 0.2857142857142857,
+      "matched_ref": "颜色"
+    },
+    "suggested_option": {
+      "id": 47756,
+      "definition": "颜色（名词）",
+      "is_correct": 2,
+      "score": 1.0,
+      "matched_ref": "颜色"
+    },
+    "options": [
+      {
+        "id": 47754,
+        "definition": "给……着色（动词）",
+        "is_correct": 1,
+        "score": 0.2857142857142857,
+        "matched_ref": "颜色"
+      },
+      {
+        "id": 47755,
+        "definition": "衣领（名词）",
+        "is_correct": 2,
+        "score": 0.0,
+        "matched_ref": null
+      },
+      {
+        "id": 47756,
+        "definition": "颜色（名词）",
+        "is_correct": 2,
+        "score": 1.0,
+        "matched_ref": "颜色"
+      },
+      {
+        "id": 47757,
+        "definition": "寒冷（形容词）",
+        "is_correct": 2,
+        "score": 0.0,
+        "matched_ref": null
+      }
+    ],
+    "core_refs": [
+      "a quality such as red, green, blue, yellow, etc. that we see when we look at something",
+      "颜色",
+      "to make something more colorful or change its color using paints or other coloring materials",
+      "上色",
+      "涂色",
+      "having or capable of producing colors",
+      "彩色的",
+      "能够产生颜色的"
+    ]
+  },
+  {
+    "quiz_id": 11553,
+    "vocabulary_id": 132,
+    "vocabulary_name": "really",
+    "flagged_correct_option": {
+      "id": 45482,
+      "definition": "非常",
+      "is_correct": 1,
+      "score": 0.0,
+      "matched_ref": null
+    },
+    "suggested_option": {
+      "id": 45483,
+      "definition": "真实的",
+      "is_correct": 2,
+      "score": 0.8,
+      "matched_ref": "真的"
+    },
+    "options": [
+      {
+        "id": 45482,
+        "definition": "非常",
+        "is_correct": 1,
+        "score": 0.0,
+        "matched_ref": null
+      },
+      {
+        "id": 45483,
+        "definition": "真实的",
+        "is_correct": 2,
+        "score": 0.8,
+        "matched_ref": "真的"
+      },
+      {
+        "id": 45484,
+        "definition": "现实地",
+        "is_correct": 2,
+        "score": 0.4,
+        "matched_ref": "确实"
+      },
+      {
+        "id": 45485,
+        "definition": "实际上",
+        "is_correct": 2,
+        "score": 0.4,
+        "matched_ref": "确实"
+      }
+    ],
+    "core_refs": [
+      "used to say what is actually the truth or the fact about something",
+      "真的",
+      "确实",
+      "used to show curiosity, amazement, or disbelief",
+      "真的吗？",
+      "真的假的？"
+    ]
+  }
+]

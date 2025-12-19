@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "European",
+      "error_analysis": "学生易将\"European\"与\"Euro\"（欧元）混淆误以为与欧元相关，或拆分为\"Euro\"+\"pean\"误解为\"欧洲赞美歌\"",
+      "sentence": "Many **European** countries have joined the European Union.",
+      "options": {
+        "option": [
+          {
+            "definition": "欧洲的；欧洲人的",
+            "iscorrect": true
+          },
+          {
+            "definition": "欧元的",
+            "iscorrect": false
+          },
+          {
+            "definition": "欧洲赞美歌",
+            "iscorrect": false
+          },
+          {
+            "definition": "欧亚的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

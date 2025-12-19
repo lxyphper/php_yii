@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bank",
+      "error_analysis": "中国学生易因形近词“bark”（树皮）或“band”（乐队）混淆，或因“银行”的常见义忽略“河岸”的熟词僻义。",
+      "sentence": "The fisherman sat on the **bank** of the river waiting for a catch.",
+      "options": {
+        "option": [
+          {
+            "definition": "银行",
+            "iscorrect": false
+          },
+          {
+            "definition": "树皮",
+            "iscorrect": false
+          },
+          {
+            "definition": "河岸",
+            "iscorrect": true
+          },
+          {
+            "definition": "乐队",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

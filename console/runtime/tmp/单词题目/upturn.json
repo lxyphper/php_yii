@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "upturn",
+      "error_analysis": "学生易因\"up+turn\"词根误解为\"向上转动的动作\"，或因形近词\"turn up\"混淆为\"出现\"或\"调大\"",
+      "sentence": "The recent **upturn** in sales has boosted the company's confidence.",
+      "options": {
+        "option": [
+          {
+            "definition": "（情况的）好转，回升",
+            "iscorrect": true
+          },
+          {
+            "definition": "出现，露面",
+            "iscorrect": false
+          },
+          {
+            "definition": "向上转动的动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "调大（音量等）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

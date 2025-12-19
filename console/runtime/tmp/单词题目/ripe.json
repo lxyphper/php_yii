@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ripe",
+      "error_analysis": "学生易因形近词“rise”（上升）或“rip”（撕裂）的联想，错误理解“ripe”的核心义“成熟的”。",
+      "sentence": "The peaches on the tree are **ripe** and ready to eat.",
+      "options": {
+        "option": [
+          {
+            "definition": "成熟的（指水果、谷物或时机等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "上升的（指位置或数量增加）",
+            "iscorrect": false
+          },
+          {
+            "definition": "撕裂的（指被撕开或有裂口的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "新鲜的（指刚采摘或未变质的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to terrorize",
+      "error_analysis": "易混淆形近词\"terrify\"（瞬间恐惧），或因词根过度直译忽略\"反复/有组织恐吓\"的核心特征",
+      "sentence": "The gang had been **terrorizing** the local shopkeepers for months, demanding protection money and vandalizing their stores.",
+      "options": {
+        "option": [
+          {
+            "definition": "恐吓；威胁（尤指反复或有组织地迫使他人就范）",
+            "iscorrect": true
+          },
+          {
+            "definition": "使恐惧；使惊吓（强调瞬间的害怕）",
+            "iscorrect": false
+          },
+          {
+            "definition": "使恐怖；使陷入极度恐怖（忽略持续或有组织的特点）",
+            "iscorrect": false
+          },
+          {
+            "definition": "使困惑；使混乱（无关干扰）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

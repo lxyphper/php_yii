@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "noodle",
+      "error_analysis": "中国学生易因形近词“needle”（针）的干扰，将“noodle”错误理解为“针”。",
+      "sentence": "Can you pass me the **noodles**? I want to eat them with soup.",
+      "options": {
+        "option": [
+          {
+            "definition": "面条",
+            "iscorrect": true
+          },
+          {
+            "definition": "针",
+            "iscorrect": false
+          },
+          {
+            "definition": "木头条",
+            "iscorrect": false
+          },
+          {
+            "definition": "笔记",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

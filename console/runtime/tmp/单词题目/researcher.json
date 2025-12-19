@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "researcher",
+      "error_analysis": "易混淆形近词“rescuer”（救援者）或误将“research”直译为“搜索”而理解为“寻找者”",
+      "sentence": "The **researcher** from the university published a new paper on climate change last month.",
+      "options": {
+        "option": [
+          {
+            "definition": "研究者",
+            "iscorrect": true
+          },
+          {
+            "definition": "救援者",
+            "iscorrect": false
+          },
+          {
+            "definition": "寻找者",
+            "iscorrect": false
+          },
+          {
+            "definition": "再次搜索的人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

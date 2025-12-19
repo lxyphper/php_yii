@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "foremost",
+      "error_analysis": "将“foremost”误理解为空间上“最前面的”（因词根“fore”表“前面”），或形近词“form”联想为“最形式化的”。",
+      "sentence": "As a **foremost** expert in environmental science, she was invited to speak at the UN conference.",
+      "options": {
+        "option": [
+          {
+            "definition": "最重要的；首要的",
+            "iscorrect": true
+          },
+          {
+            "definition": "最前面的（空间上）",
+            "iscorrect": false
+          },
+          {
+            "definition": "最形式化的",
+            "iscorrect": false
+          },
+          {
+            "definition": "最先的（时间上）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

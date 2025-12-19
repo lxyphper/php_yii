@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "best boy",
+      "error_analysis": "学生易根据\"best\"和\"boy\"的字面意思误判为\"最好的男孩\"",
+      "sentence": "On the movie set, the **best boy** helped the gaffer adjust the lighting for the night scene.",
+      "options": {
+        "option": [
+          {
+            "definition": "最好的男孩",
+            "iscorrect": false
+          },
+          {
+            "definition": "（电影/电视制作中的）灯光助理",
+            "iscorrect": true
+          },
+          {
+            "definition": "伴郎",
+            "iscorrect": false
+          },
+          {
+            "definition": "最受欢迎的男孩",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

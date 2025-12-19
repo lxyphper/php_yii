@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "journalist",
+      "error_analysis": "中国学生易因“journal”的“日记/期刊”义，将“journalist”误判为“日记作者”或“期刊编辑”。",
+      "sentence": "During the press conference, a **journalist** raised his hand to ask the president a question.",
+      "options": {
+        "option": [
+          {
+            "definition": "记者",
+            "iscorrect": true
+          },
+          {
+            "definition": "日记作者",
+            "iscorrect": false
+          },
+          {
+            "definition": "期刊编辑",
+            "iscorrect": false
+          },
+          {
+            "definition": "旅行家",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

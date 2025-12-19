@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "expensive",
+      "error_analysis": "学生易因形近词expressive（表达的）及词根误联想（如与经验相关）而误解词义",
+      "sentence": "The new smartphone is so **expensive** that most people can't afford it.",
+      "options": {
+        "option": [
+          {
+            "definition": "昂贵的",
+            "iscorrect": true
+          },
+          {
+            "definition": "表达的",
+            "iscorrect": false
+          },
+          {
+            "definition": "经验丰富的",
+            "iscorrect": false
+          },
+          {
+            "definition": "广泛的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

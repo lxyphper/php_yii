@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to take off",
+      "error_analysis": "学生易将\"take\"（拿）和\"off\"（离开）字面组合误解为\"拿走/取下\"，或混淆其\"脱下（衣物）\"的含义与核心的\"起飞\"含义",
+      "sentence": "After a long delay, the plane **took off** smoothly into the sky.",
+      "options": {
+        "option": [
+          {
+            "definition": "起飞",
+            "iscorrect": true
+          },
+          {
+            "definition": "拿走/取下",
+            "iscorrect": false
+          },
+          {
+            "definition": "脱下（衣物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "接管",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

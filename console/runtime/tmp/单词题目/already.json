@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "already",
+      "error_analysis": "易因形近词\"ready\"(准备好的)混淆，或错误拆分\"al-+ready\"理解为\"全部准备好\"",
+      "sentence": "She had **already** eaten breakfast when I called her this morning.",
+      "options": {
+        "option": [
+          {
+            "definition": "已经（表示动作或状态在某个时间点之前完成）",
+            "iscorrect": true
+          },
+          {
+            "definition": "准备好的（形容状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "全部准备好的（强调完成度）",
+            "iscorrect": false
+          },
+          {
+            "definition": "仍然（表示状态持续）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

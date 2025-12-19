@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "astute",
+      "error_analysis": "学生易因形近词“acute”（敏锐的）或“astound”（震惊）将“astute”误判为“极度敏锐”或“令人震惊的”。",
+      "sentence": "The CEO's **astute** decision to invest in renewable energy paid off when fossil fuel prices skyrocketed.",
+      "options": {
+        "option": [
+          {
+            "definition": "精明的；有洞察力的",
+            "iscorrect": true
+          },
+          {
+            "definition": "（思维）极度敏锐的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人震惊的；惊人的",
+            "iscorrect": false
+          },
+          {
+            "definition": "严厉的；简朴的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

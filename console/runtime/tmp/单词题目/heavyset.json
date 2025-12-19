@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "heavyset",
+      "error_analysis": "学生易将\"heavyset\"拆分为\"heavy（重的）+ set（设置/一套）\"误理解为\"沉重的设置\"，或与形近词\"headset（耳机）\"混淆。",
+      "sentence": "The bouncer at the club was a **heavyset** man with broad shoulders and a strong build.",
+      "options": {
+        "option": [
+          {
+            "definition": "体格魁梧的（指人）",
+            "iscorrect": true
+          },
+          {
+            "definition": "沉重的设置",
+            "iscorrect": false
+          },
+          {
+            "definition": "耳机",
+            "iscorrect": false
+          },
+          {
+            "definition": "心情沉重的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

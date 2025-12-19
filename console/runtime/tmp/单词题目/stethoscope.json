@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stethoscope",
+      "error_analysis": "学生易因熟悉词根“scope”（观察仪器），错误认为“stethoscope”是用于“看”的仪器（如胸部透视仪），而非用于“听”的听诊器",
+      "sentence": "The doctor picked up the **stethoscope** and placed it on the patient's chest to listen to their heartbeat.",
+      "options": {
+        "option": [
+          {
+            "definition": "听诊器",
+            "iscorrect": true
+          },
+          {
+            "definition": "望远镜",
+            "iscorrect": false
+          },
+          {
+            "definition": "胸部透视仪",
+            "iscorrect": false
+          },
+          {
+            "definition": "显微镜",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

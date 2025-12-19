@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "plane",
+      "error_analysis": "学生易因形近词“plant”（植物）或“plan”（计划）的干扰，将“plane”错误理解为“植物”或“计划”。",
+      "sentence": "The pilot flew the **plane** across the Atlantic Ocean in just 10 hours.",
+      "options": {
+        "option": [
+          {
+            "definition": "飞机",
+            "iscorrect": true
+          },
+          {
+            "definition": "植物",
+            "iscorrect": false
+          },
+          {
+            "definition": "计划",
+            "iscorrect": false
+          },
+          {
+            "definition": "土壤",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

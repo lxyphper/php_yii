@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "molecule",
+      "error_analysis": "学生易因形近词\"module\"(模块)或与\"mole\"(摩尔)混淆，将\"molecule\"误判为\"模块\"或\"摩尔\"。",
+      "sentence": "Water is made up of two hydrogen atoms and one oxygen atom bonded together to form a **molecule**.",
+      "options": {
+        "option": [
+          {
+            "definition": "分子（化学中由原子结合而成的保持物质化学性质的最小微粒）",
+            "iscorrect": true
+          },
+          {
+            "definition": "模块（指计算机或课程的组成部分）",
+            "iscorrect": false
+          },
+          {
+            "definition": "摩尔（物质的量的单位）",
+            "iscorrect": false
+          },
+          {
+            "definition": "小颗粒（指微小的固体颗粒，如灰尘或沙粒）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

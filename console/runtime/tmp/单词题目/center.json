@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "center",
+      "error_analysis": "中国学生易因形近词“censor”（审查）混淆，或因词根“cent”（百）误判为与“百”相关的含义",
+      "sentence": "The new shopping mall will be built at the **center** of the city, making it easily accessible to everyone.",
+      "options": {
+        "option": [
+          {
+            "definition": "中心（名词，指空间或事物的中间点）",
+            "iscorrect": true
+          },
+          {
+            "definition": "审查（动词/名词，指检查并删除不当内容）",
+            "iscorrect": false
+          },
+          {
+            "definition": "一百（数量，指数字100）",
+            "iscorrect": false
+          },
+          {
+            "definition": "边缘（名词，指物体的周边部分）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

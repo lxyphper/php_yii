@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "building",
+      "error_analysis": "学生易因形近词“bulletin”（公告）混淆，或因词根“build”（建造）误判为动作而非名词“建筑物”",
+      "sentence": "We live in a tall **building** with a beautiful garden.",
+      "options": {
+        "option": [
+          {
+            "definition": "房屋、公寓等供人居住或使用的建筑物",
+            "iscorrect": true
+          },
+          {
+            "definition": "通知或公告（如布告栏上的信息）",
+            "iscorrect": false
+          },
+          {
+            "definition": "建造某物的行为或过程（如盖房子的动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "关于应付费用的清单（如水电费账单）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

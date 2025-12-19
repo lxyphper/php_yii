@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to tempt",
+      "error_analysis": "形近词“attempt”（尝试）的干扰，及对“诱惑（做不好的事）”核心含义的模糊",
+      "sentence": "The smell of freshly baked cookies **tempted** her to break her diet.",
+      "options": {
+        "option": [
+          {
+            "definition": "尝试；试图",
+            "iscorrect": false
+          },
+          {
+            "definition": "诱惑；引诱（做某事，尤指不好的事）",
+            "iscorrect": true
+          },
+          {
+            "definition": "吸引；引起兴趣",
+            "iscorrect": false
+          },
+          {
+            "definition": "暂时的；短期的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

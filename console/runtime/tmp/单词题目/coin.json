@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "coin",
+      "error_analysis": "学生易因形近词“join”（加入）产生联想，或忽略“coin”作为动词“创造（新词）”的僻义",
+      "sentence": "He coined the term \"blog\" in the 1990s to describe online journals.",
+      "options": {
+        "option": [
+          {
+            "definition": "加入",
+            "iscorrect": false
+          },
+          {
+            "definition": "线圈",
+            "iscorrect": false
+          },
+          {
+            "definition": "硬币",
+            "iscorrect": false
+          },
+          {
+            "definition": "创造（新词或短语）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

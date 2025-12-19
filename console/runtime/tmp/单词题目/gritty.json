@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gritty",
+      "error_analysis": "学生易根据词根\"grit\"(沙粒)猜测为\"有沙粒的/粗糙的\"，或混淆形近词\"grainy\"(有颗粒的)而忽略核心义\"坚韧的/写实的\"",
+      "sentence": "The movie tells a **gritty** story of a single mother fighting to raise her kids in a tough neighborhood.",
+      "options": {
+        "option": [
+          {
+            "definition": "坚韧的；（故事/电影）写实的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有沙粒的；粗糙的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有颗粒的；纹理粗糙的",
+            "iscorrect": false
+          },
+          {
+            "definition": "感激的；感谢的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

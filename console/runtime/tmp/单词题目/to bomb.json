@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to bomb",
+      "error_analysis": "学生易根据名词\"炸弹\"的词根猜测动词义为\"轰炸\"，忽略其\"（演出、电影等）彻底失败\"的非正式引申义",
+      "sentence": "The new superhero movie **bombed** at the box office, making only half of its production cost.",
+      "options": {
+        "option": [
+          {
+            "definition": "轰炸；投放炸弹",
+            "iscorrect": false
+          },
+          {
+            "definition": "（演出、电影等）彻底失败",
+            "iscorrect": true
+          },
+          {
+            "definition": "爆炸；爆裂",
+            "iscorrect": false
+          },
+          {
+            "definition": "（经济、事业等）繁荣",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

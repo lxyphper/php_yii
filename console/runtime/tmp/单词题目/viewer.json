@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "viewer",
+      "error_analysis": "学生易因形近词'reviewer'(评论者)或词根'view'(看)错误联想，将'viewer'误判为'评论者'或'观察者'。",
+      "sentence": "The new documentary has gained a large number of **viewers** since it aired last week.",
+      "options": {
+        "option": [
+          {
+            "definition": "（电视、电影等的）观众",
+            "iscorrect": true
+          },
+          {
+            "definition": "评论者",
+            "iscorrect": false
+          },
+          {
+            "definition": "观察者",
+            "iscorrect": false
+          },
+          {
+            "definition": "参观者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

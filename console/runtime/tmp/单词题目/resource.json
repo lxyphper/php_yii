@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "resource",
+      "error_analysis": "易因形近词\"source\"（来源）及词根\"re-+source\"的字面误导，将\"resource\"误判为\"来源\"或\"再次来源\"。",
+      "sentence": "The country is rich in natural **resources** like oil and forests, which play a key role in its economic development.",
+      "options": {
+        "option": [
+          {
+            "definition": "资源（可利用的自然或人力财富）",
+            "iscorrect": true
+          },
+          {
+            "definition": "来源（事物的出处或起源）",
+            "iscorrect": false
+          },
+          {
+            "definition": "再次来源（重复获得的出处）",
+            "iscorrect": false
+          },
+          {
+            "definition": "原因（导致某事发生的因素）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

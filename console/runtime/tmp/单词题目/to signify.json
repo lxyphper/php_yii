@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to signify",
+      "error_analysis": "学生易因形近词\"sign\"（签名/标记）误将\"to signify\"理解为\"签名\"或\"做标记\"",
+      "sentence": "Her nod seemed to **signify** that she agreed with our proposal.",
+      "options": {
+        "option": [
+          {
+            "definition": "表示；意味着",
+            "iscorrect": true
+          },
+          {
+            "definition": "签名；签署",
+            "iscorrect": false
+          },
+          {
+            "definition": "做标记；标注",
+            "iscorrect": false
+          },
+          {
+            "definition": "信号；暗号",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

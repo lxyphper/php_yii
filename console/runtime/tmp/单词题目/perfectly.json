@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "perfectly",
+      "error_analysis": "将副词“perfectly”误判为动词“使完美”或形容词“完善的”",
+      "sentence": "She sang the song **perfectly**, hitting every note without a mistake.",
+      "options": {
+        "option": [
+          {
+            "definition": "使完美（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "完善的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "永久地（副词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "完美地；完全地（副词）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

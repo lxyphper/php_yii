@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "junior",
+      "error_analysis": "学生易因“jun-”与“jump”联想误解为“跳跃的”，或因词根猜测为“初级的”。",
+      "sentence": "As a **junior** employee, she is still learning the basics of the job.",
+      "options": {
+        "option": [
+          {
+            "definition": "跳跃的",
+            "iscorrect": false
+          },
+          {
+            "definition": "初级的",
+            "iscorrect": false
+          },
+          {
+            "definition": "资历浅的（如新员工）",
+            "iscorrect": true
+          },
+          {
+            "definition": "小的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "crucifix",
+      "error_analysis": "学生易因形近词“cruel”（残酷的）联想到“残酷的装置”，或因“fix”（固定）猜测为“十字形状的固定物”。",
+      "sentence": "The old church has a beautiful **crucifix** hanging above the altar, depicting Jesus on the cross.",
+      "options": {
+        "option": [
+          {
+            "definition": "十字架（像）",
+            "iscorrect": true
+          },
+          {
+            "definition": "残酷的刑具",
+            "iscorrect": false
+          },
+          {
+            "definition": "十字形状的固定物",
+            "iscorrect": false
+          },
+          {
+            "definition": "巡航用的设备",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

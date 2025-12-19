@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to promote",
+      "error_analysis": "学生易因形近词“prompt”（提示）的干扰，或词根“pro-”（向前）+“mot”（动）的字面误导，将“promote”误理解为“提示”或“推动/提高（具体动作/数值）”，而非“晋升/推广（抽象含义）”。",
+      "sentence": "After his excellent performance, the company decided to **promote** him to a higher position next quarter.",
+      "options": {
+        "option": [
+          {
+            "definition": "提示（如“给某人提示”）",
+            "iscorrect": false
+          },
+          {
+            "definition": "晋升（某人到更高职位）",
+            "iscorrect": true
+          },
+          {
+            "definition": "推动（如“推动箱子”的具体动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "提高（如“提高分数”的具体数值）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

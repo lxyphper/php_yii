@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "jet",
+      "error_analysis": "学生易因形近词“jot”（草草记下）或字面误导将“jet”误解为“喷射”（动作/物质），而非最常用的“喷气式飞机”。",
+      "sentence": "The CEO will take a private **jet** to New York for the meeting tomorrow.",
+      "options": {
+        "option": [
+          {
+            "definition": "喷气式飞机",
+            "iscorrect": true
+          },
+          {
+            "definition": "草草记下的东西",
+            "iscorrect": false
+          },
+          {
+            "definition": "喷射出的物质",
+            "iscorrect": false
+          },
+          {
+            "definition": "网络",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

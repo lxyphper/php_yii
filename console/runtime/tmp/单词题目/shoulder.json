@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "shoulder",
+      "error_analysis": "学生易因形近词“should”（应该）的干扰，将“shoulder”错误联想为“应该”或其派生词",
+      "sentence": "She put her bag on her **shoulder** and walked out of the room.",
+      "options": {
+        "option": [
+          {
+            "definition": "应该",
+            "iscorrect": false
+          },
+          {
+            "definition": "应该的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "肩膀",
+            "iscorrect": true
+          },
+          {
+            "definition": "承担",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

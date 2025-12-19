@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "proposal",
+      "error_analysis": "中国学生易因形近词“purpose”（目的）混淆“proposal”的含义，或通过词根“pro-”（向前）+“pose”（放置）错误推导为“位置”。",
+      "sentence": "The manager asked the team to prepare a **proposal** for the new marketing campaign by the end of the week.",
+      "options": {
+        "option": [
+          {
+            "definition": "提议；建议",
+            "iscorrect": true
+          },
+          {
+            "definition": "目的；意图",
+            "iscorrect": false
+          },
+          {
+            "definition": "位置；方位",
+            "iscorrect": false
+          },
+          {
+            "definition": "计划；安排",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

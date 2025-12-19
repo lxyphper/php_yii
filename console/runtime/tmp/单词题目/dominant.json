@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dominant",
+      "error_analysis": "易混淆形近词\"domestic\"（家庭的/国内的），或误将词根\"dom-\"联想为\"领域\"（如domain）导致理解偏差",
+      "sentence": "In the team, Sarah's **dominant** personality made her the natural leader during group projects.",
+      "options": {
+        "option": [
+          {
+            "definition": "占主导地位的；支配的",
+            "iscorrect": true
+          },
+          {
+            "definition": "家庭的；国内的",
+            "iscorrect": false
+          },
+          {
+            "definition": "领域的；范围的",
+            "iscorrect": false
+          },
+          {
+            "definition": "优秀的；杰出的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

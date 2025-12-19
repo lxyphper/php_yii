@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "estimad time of depature",
+      "estemated time ov departure",
+      "estimated tim of departur",
+      "estimeted dime off deperture"
+    ],
+    "correct_chunks": [
+      "estim",
+      "ated",
+      "time",
+      "of",
+      "departure"
+    ],
+    "distractor_chunks": [
+      "stem",
+      "mad",
+      "depa",
+      "ov",
+      "tim"
+    ]
+  },
+  0
+]

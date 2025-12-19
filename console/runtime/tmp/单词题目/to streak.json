@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to streak",
+      "error_analysis": "学生易将动词“to streak”误解为“在…上画条纹”（形近名词“条纹”的联想）或“缓慢流动”（词根与“流”的字面误导）",
+      "sentence": "The athlete **streaked** to the finish line and won the race.",
+      "options": {
+        "option": [
+          {
+            "definition": "快速移动（尤指奔跑）",
+            "iscorrect": true
+          },
+          {
+            "definition": "在…上涂抹条纹",
+            "iscorrect": false
+          },
+          {
+            "definition": "缓慢流淌",
+            "iscorrect": false
+          },
+          {
+            "definition": "伸展四肢",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "finger-painting",
+      "error_analysis": "学生易将\"finger-painting\"与形近词\"fingerprint\"（指纹）混淆，误理解为\"指纹艺术作品\"，或因词根字面误导认为是\"描绘手指的绘画作品\"。",
+      "sentence": "The teacher brought washable paints for the kids to try **finger-painting** in art class.",
+      "options": {
+        "option": [
+          {
+            "definition": "指纹艺术作品",
+            "iscorrect": false
+          },
+          {
+            "definition": "描绘手指的绘画作品",
+            "iscorrect": false
+          },
+          {
+            "definition": "用手指蘸颜料进行的绘画活动（尤指儿童）",
+            "iscorrect": true
+          },
+          {
+            "definition": "手指上的彩绘装饰",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

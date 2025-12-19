@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "slow",
+      "error_analysis": "学生易因形近词'low'（低的）或'snow'（雪）的干扰，将'slow'误理解为与'低'或'雪'相关的含义",
+      "sentence": "The turtle moves at a **slow** speed compared to the rabbit.",
+      "options": {
+        "option": [
+          {
+            "definition": "慢的（形容词，指速度或动作不急促）",
+            "iscorrect": true
+          },
+          {
+            "definition": "低的（形容词，指高度或位置不高）",
+            "iscorrect": false
+          },
+          {
+            "definition": "雪（名词，指天空落下的白色冰晶）",
+            "iscorrect": false
+          },
+          {
+            "definition": "滑的（形容词，指表面容易使人滑倒）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

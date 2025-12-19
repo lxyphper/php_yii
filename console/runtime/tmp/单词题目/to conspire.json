@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to conspire",
+      "error_analysis": "易因形近词\"conspicuous\"(显眼的)误解为\"引人注意\"，或因词根\"spire\"(尖顶)误猜为\"共同建造高耸结构\"",
+      "sentence": "The two criminals were caught on tape **conspiring** to rob the bank last night.",
+      "options": {
+        "option": [
+          {
+            "definition": "共谋；密谋",
+            "iscorrect": true
+          },
+          {
+            "definition": "（因明显而）引人注意",
+            "iscorrect": false
+          },
+          {
+            "definition": "共同建造高耸的结构",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速逃离现场",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

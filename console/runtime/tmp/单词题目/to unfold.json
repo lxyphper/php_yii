@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to unfold",
+      "error_analysis": "学生易因形近词unload（卸载）或词根‘un-+fold’字面误导（不折叠），忽略其‘逐渐展开/呈现’的核心引申义。",
+      "sentence": "As the investigation progressed, more details about the mystery began to **unfold**.",
+      "options": {
+        "option": [
+          {
+            "definition": "逐渐展开；呈现（如故事、情况）",
+            "iscorrect": true
+          },
+          {
+            "definition": "卸载（货物等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "不折叠（保持展开状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "揭露（秘密等）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

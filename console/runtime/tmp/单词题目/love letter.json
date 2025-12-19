@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "love letter",
+      "error_analysis": "学生易因字面拆分将\"love letter\"错误理解为\"爱的字母\"（将\"letter\"误作\"字母\"而非\"信\"）",
+      "sentence": "She found a crumpled **love letter** in her old diary, written by her high school sweetheart.",
+      "options": {
+        "option": [
+          {
+            "definition": "情书",
+            "iscorrect": true
+          },
+          {
+            "definition": "爱的字母",
+            "iscorrect": false
+          },
+          {
+            "definition": "爱的便条",
+            "iscorrect": false
+          },
+          {
+            "definition": "爱的符号",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

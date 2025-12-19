@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "broad",
+      "error_analysis": "学生易因形近词\"board\"（木板/黑板）混淆，或误将\"broad\"与\"abroad\"（国外）关联导致理解偏差",
+      "sentence": "The museum offers a **broad** selection of artworks, including paintings, sculptures, and photographs.",
+      "options": {
+        "option": [
+          {
+            "definition": "广泛的；全面的",
+            "iscorrect": true
+          },
+          {
+            "definition": "木板；黑板",
+            "iscorrect": false
+          },
+          {
+            "definition": "国外的；海外的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无聊的；厌烦的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

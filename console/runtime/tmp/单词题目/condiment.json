@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "condiment",
+      "error_analysis": "学生易将\"condiment\"误判为形近词\"comment\"(评论)的同义词，或因词根不熟悉而猜测为\"浓缩物\"等无关含义",
+      "sentence": "She added a spoonful of **condiment** to her soup to make it taste better.",
+      "options": {
+        "option": [
+          {
+            "definition": "调味品",
+            "iscorrect": true
+          },
+          {
+            "definition": "评论",
+            "iscorrect": false
+          },
+          {
+            "definition": "浓缩液",
+            "iscorrect": false
+          },
+          {
+            "definition": "文件",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

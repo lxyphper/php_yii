@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "moreover",
+      "error_analysis": "学生易因\"more+over\"的字面组合错误理解为\"更多地超过\"或\"覆盖更多\"，忽略其作为递进连词\"此外\"的核心义。",
+      "sentence": "She is an excellent student; **moreover**, she volunteers at the local hospital every weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "此外；而且",
+            "iscorrect": true
+          },
+          {
+            "definition": "更多地超过",
+            "iscorrect": false
+          },
+          {
+            "definition": "然而；但是",
+            "iscorrect": false
+          },
+          {
+            "definition": "因此；所以",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to parade",
+      "error_analysis": "中国学生易因形近词“paradise”（天堂）或词根“para-”的错误推导（如“防御”），误判“to parade”的词义。",
+      "sentence": "The soldiers will **parade** through the city center to celebrate Victory Day.",
+      "options": {
+        "option": [
+          {
+            "definition": "游行；列队行进",
+            "iscorrect": true
+          },
+          {
+            "definition": "天堂；乐园",
+            "iscorrect": false
+          },
+          {
+            "definition": "防御；对抗",
+            "iscorrect": false
+          },
+          {
+            "definition": "展示；显示",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

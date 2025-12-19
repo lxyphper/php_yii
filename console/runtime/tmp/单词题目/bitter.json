@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bitter",
+      "error_analysis": "学生易因形近词\"bit\"(一点)误判为\"少量的\"，或因\"bite\"(咬)联想为\"咬人的\"。",
+      "sentence": "The medicine tasted so **bitter** that the child refused to take it again.",
+      "options": {
+        "option": [
+          {
+            "definition": "少量的",
+            "iscorrect": false
+          },
+          {
+            "definition": "咬人的；尖锐的",
+            "iscorrect": false
+          },
+          {
+            "definition": "苦的；痛苦的",
+            "iscorrect": true
+          },
+          {
+            "definition": "差的；不好的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

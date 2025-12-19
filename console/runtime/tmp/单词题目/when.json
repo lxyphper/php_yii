@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "when",
+      "error_analysis": "中国学生易将‘when’与形近疑问词‘where’（哪里）或‘what’（什么）混淆，导致词义判断错误。",
+      "sentence": "— Excuse me, do you know **when** the train to Beijing leaves? — It departs at 9:00 a.m.",
+      "options": {
+        "option": [
+          {
+            "definition": "什么时候",
+            "iscorrect": true
+          },
+          {
+            "definition": "哪里",
+            "iscorrect": false
+          },
+          {
+            "definition": "什么",
+            "iscorrect": false
+          },
+          {
+            "definition": "为什么",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

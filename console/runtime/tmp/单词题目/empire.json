@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "empire",
+      "error_analysis": "学生易因形近词\"emperor\"(皇帝)或\"employee\"(雇员)混淆，将\"empire\"错解为\"皇帝\"或\"雇员\"",
+      "sentence": "The Roman **empire** once controlled most of Europe and parts of Africa and Asia.",
+      "options": {
+        "option": [
+          {
+            "definition": "皇帝",
+            "iscorrect": false
+          },
+          {
+            "definition": "雇员",
+            "iscorrect": false
+          },
+          {
+            "definition": "帝国",
+            "iscorrect": true
+          },
+          {
+            "definition": "权力",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to apply",
+      "error_analysis": "中国学生易因形近词\"apple\"（苹果）拼写接近而误联想，或因词根\"ply\"（折叠）而误解为\"折叠\"",
+      "sentence": "She decided to **apply** for the internship at the tech company.",
+      "options": {
+        "option": [
+          {
+            "definition": "申请（职位、签证等）；应用（理论、方法等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "苹果（水果）",
+            "iscorrect": false
+          },
+          {
+            "definition": "折叠；层叠",
+            "iscorrect": false
+          },
+          {
+            "definition": "供应；提供",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

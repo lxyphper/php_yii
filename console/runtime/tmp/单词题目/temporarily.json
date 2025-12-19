@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "temporarily",
+      "error_analysis": "学生易因词根`tempor-`（时间）过度推导为“及时地”，或因形近词`tempo`（节奏）误判为“有节奏地”。",
+      "sentence": "The library is **temporarily** closed for renovations, so we have to use the downtown branch this week.",
+      "options": {
+        "option": [
+          {
+            "definition": "暂时地",
+            "iscorrect": true
+          },
+          {
+            "definition": "有节奏地",
+            "iscorrect": false
+          },
+          {
+            "definition": "及时地",
+            "iscorrect": false
+          },
+          {
+            "definition": "永久地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "freezing",
+      "error_analysis": "学生易混淆“freezing”（极冷的）与同根词“frozen”（冷冻的），或误从词根“freeze”推导为“正在结冰的”。",
+      "sentence": "I forgot to bring my coat, and it's **freezing** outside.",
+      "options": {
+        "option": [
+          {
+            "definition": "极冷的",
+            "iscorrect": true
+          },
+          {
+            "definition": "冷冻的",
+            "iscorrect": false
+          },
+          {
+            "definition": "正在结冰的",
+            "iscorrect": false
+          },
+          {
+            "definition": "自由的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

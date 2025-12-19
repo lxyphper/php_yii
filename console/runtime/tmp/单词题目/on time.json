@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "on time",
+      "error_analysis": "学生易将“on time”与形近词“one time”（一次）混淆，或字面直译为“在时间上”。",
+      "sentence": "Please arrive at the meeting room **on time**—the boss hates waiting for anyone.",
+      "options": {
+        "option": [
+          {
+            "definition": "准时",
+            "iscorrect": true
+          },
+          {
+            "definition": "一次",
+            "iscorrect": false
+          },
+          {
+            "definition": "在时间上",
+            "iscorrect": false
+          },
+          {
+            "definition": "及时",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

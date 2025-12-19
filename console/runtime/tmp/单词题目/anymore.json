@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "anymore",
+      "error_analysis": "学生易将\"anymore\"误拆为\"any\"+\"more\"，联想为\"任何更多的\"或\"再更多\"，忽略其\"不再/还\"的核心含义（用于否定/疑问句）",
+      "sentence": "She doesn’t play the piano **anymore** because she’s too busy with work.",
+      "options": {
+        "option": [
+          {
+            "definition": "（用于否定句或疑问句）再，还（表示不再/还）",
+            "iscorrect": true
+          },
+          {
+            "definition": "任何更多的（修饰名词，如\"any more apples\"）",
+            "iscorrect": false
+          },
+          {
+            "definition": "任何时候更多（表示数量或程度增加）",
+            "iscorrect": false
+          },
+          {
+            "definition": "仍然（用于肯定句，如\"She still plays the piano\"）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

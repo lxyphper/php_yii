@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "suffering",
+      "error_analysis": "核心易错点为形近词干扰（如与\"sufficient\"混淆）及词根字面误导（将名词\"苦难\"误解为动词\"遭受\"的进行时）",
+      "sentence": "The charity aims to reduce the **suffering** of children living in poverty.",
+      "options": {
+        "option": [
+          {
+            "definition": "苦难；痛苦",
+            "iscorrect": true
+          },
+          {
+            "definition": "足够的；充足的",
+            "iscorrect": false
+          },
+          {
+            "definition": "遭受；忍受（动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "提供；奉献",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

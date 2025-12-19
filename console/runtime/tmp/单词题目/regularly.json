@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "regularly",
+      "error_analysis": "学生易因词根“regular”（规则的）过度直译将“regularly”误解为“规则性地”，或因形近词“regulate”（调节）误判为“调节地”",
+      "sentence": "She goes to the yoga studio **regularly** to maintain her flexibility.",
+      "options": {
+        "option": [
+          {
+            "definition": "定期地；经常地",
+            "iscorrect": true
+          },
+          {
+            "definition": "调节地；管控地",
+            "iscorrect": false
+          },
+          {
+            "definition": "规则性地；刻板地",
+            "iscorrect": false
+          },
+          {
+            "definition": "偶尔地；间或地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

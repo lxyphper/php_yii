@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "nukleotide",
+      "nucleutide",
+      "nucleotde",
+      "nucleatide",
+      "nucleotied"
+    ],
+    "correct_chunks": [
+      "nuc",
+      "leo",
+      "tide"
+    ],
+    "distractor_chunks": [
+      "nuk",
+      "leu",
+      "lea",
+      "tde",
+      "tied"
+    ]
+  },
+  0
+]

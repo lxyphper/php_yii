@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "daintily",
+      "error_analysis": "学生易因形近词“daily”（每天）误判为“每天地”，或因“dainty”误记为“困难的”而理解为“困难地”",
+      "sentence": "The little girl held the teacup **daintily** with both hands, afraid of breaking it.",
+      "options": {
+        "option": [
+          {
+            "definition": "优雅地；精致地",
+            "iscorrect": true
+          },
+          {
+            "definition": "每天地",
+            "iscorrect": false
+          },
+          {
+            "definition": "困难地",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "restarant",
+      "resturant",
+      "restaurent",
+      "restorant"
+    ],
+    "correct_chunks": [
+      "rest",
+      "au",
+      "rant"
+    ],
+    "distractor_chunks": [
+      "resta",
+      "restu",
+      "rent",
+      "resto"
+    ]
+  },
+  0
+]

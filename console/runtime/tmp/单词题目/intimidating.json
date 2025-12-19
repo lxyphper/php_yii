@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "intimidating",
+      "error_analysis": "学生易因形近词\"intimate\"(亲密的)误判为\"亲密的/亲切的\"，或因词根\"timid\"(胆小的)误判为\"胆小的\"",
+      "sentence": "The huge dog with sharp teeth and a loud bark looked very **intimidating** to the little girl.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人害怕的；吓人的",
+            "iscorrect": true
+          },
+          {
+            "definition": "亲密的；亲切的",
+            "iscorrect": false
+          },
+          {
+            "definition": "胆小的；怯懦的",
+            "iscorrect": false
+          },
+          {
+            "definition": "刺激的；令人兴奋的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

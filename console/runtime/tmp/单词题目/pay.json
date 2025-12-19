@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pay",
+      "error_analysis": "中国学生易因形近词‘play’（玩）的干扰，或混淆‘pay’的动词（支付）与名词（报酬）用法而犯错",
+      "sentence": "She forgot to **pay** the rent when she moved out.",
+      "options": {
+        "option": [
+          {
+            "definition": "支付",
+            "iscorrect": true
+          },
+          {
+            "definition": "玩",
+            "iscorrect": false
+          },
+          {
+            "definition": "拜访",
+            "iscorrect": false
+          },
+          {
+            "definition": "报酬",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

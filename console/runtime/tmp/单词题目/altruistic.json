@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "altruistic",
+      "error_analysis": "学生易因“altru-”与“altitude”（高度）的“alt-”形近，误将“altruistic”理解为“与高度有关的”；或因不熟悉“altru-”（表“他人”）的词根，误猜为“高尚的”。",
+      "sentence": "Many people admire his **altruistic** behavior of volunteering at the homeless shelter every weekend instead of spending time with his family.",
+      "options": {
+        "option": [
+          {
+            "definition": "利他的，无私的",
+            "iscorrect": true
+          },
+          {
+            "definition": "与高度有关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "高尚的",
+            "iscorrect": false
+          },
+          {
+            "definition": "自私的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

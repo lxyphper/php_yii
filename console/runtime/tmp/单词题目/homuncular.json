@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "homuncular",
+      "error_analysis": "学生易因形近词（如human、municipal）或词根不熟悉，将其误判为“人类的”“市政的”等含义",
+      "sentence": "The old fairy tale describes a **homuncular** creature living in the forest, no taller than a mushroom.",
+      "options": {
+        "option": [
+          {
+            "definition": "人类的；与人相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "市政的；城市管理的",
+            "iscorrect": false
+          },
+          {
+            "definition": "小矮人的；像小矮人的",
+            "iscorrect": true
+          },
+          {
+            "definition": "同质的；均匀的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

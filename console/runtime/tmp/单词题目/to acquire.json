@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to acquire",
+      "error_analysis": "将形近词“require”（需要）的含义误用到“acquire”上，或因词根“quire”（寻求）过度推导为“询问”而非“获得”",
+      "sentence": "After years of hard work, she finally managed to **acquire** the skills needed for the job.",
+      "options": {
+        "option": [
+          {
+            "definition": "获得；取得",
+            "iscorrect": true
+          },
+          {
+            "definition": "需要；要求",
+            "iscorrect": false
+          },
+          {
+            "definition": "询问；查询",
+            "iscorrect": false
+          },
+          {
+            "definition": "保持；保留",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

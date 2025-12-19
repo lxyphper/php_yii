@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to upsize",
+      "error_analysis": "学生易因“up+size”的词根直译，将“to upsize”误判为“增大物理尺寸”，忽略其“扩大规模/升级”的常用义",
+      "sentence": "The coffee chain plans to **upsize** its menu by adding more premium beverages and expanding to 50 new locations next year.",
+      "options": {
+        "option": [
+          {
+            "definition": "扩大规模；升级（多指企业、产品等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "增大物理尺寸（如物体的大小）",
+            "iscorrect": false
+          },
+          {
+            "definition": "使不安；打乱",
+            "iscorrect": false
+          },
+          {
+            "definition": "提高价格",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

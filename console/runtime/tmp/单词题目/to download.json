@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to download",
+      "error_analysis": "学生易因拆分词根\"down\"(向下)和\"load\"(装载)误判为\"卸下(货物)\"或\"降低负载\"，或与形近词\"unload\"(卸下)混淆",
+      "sentence": "I need to **download** the new app from the App Store to my phone.",
+      "options": {
+        "option": [
+          {
+            "definition": "下载（从互联网或其他电子设备获取数据到本地设备）",
+            "iscorrect": true
+          },
+          {
+            "definition": "卸下（货物或行李）",
+            "iscorrect": false
+          },
+          {
+            "definition": "降低负载（减少负担或重量）",
+            "iscorrect": false
+          },
+          {
+            "definition": "上传（将数据发送到互联网或其他设备）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to enlist",
+      "error_analysis": "学生易因“list”（列表）的形近联想或“en-+list”的词根错误推导，将“enlist”误解为“制作列表”或“使进入列表”。",
+      "sentence": "The army is encouraging young men to **enlist** this year.",
+      "options": {
+        "option": [
+          {
+            "definition": "参军；招募",
+            "iscorrect": true
+          },
+          {
+            "definition": "制作列表；列举",
+            "iscorrect": false
+          },
+          {
+            "definition": "使进入列表",
+            "iscorrect": false
+          },
+          {
+            "definition": "扩大；增大",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

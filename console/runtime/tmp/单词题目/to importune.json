@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to importune",
+      "error_analysis": "学生易因形近词\"import\"(进口)或词根错误推导(im-+portune=带来好运)误判词义",
+      "sentence": "Despite being told no several times, the salesman continued to **importune** the customer to buy the expensive watch.",
+      "options": {
+        "option": [
+          {
+            "definition": "反复纠缠地请求；乞求",
+            "iscorrect": true
+          },
+          {
+            "definition": "进口；引入",
+            "iscorrect": false
+          },
+          {
+            "definition": "带来好运",
+            "iscorrect": false
+          },
+          {
+            "definition": "强烈支持",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

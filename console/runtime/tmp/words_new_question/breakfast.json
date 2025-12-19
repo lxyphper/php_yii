@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "breakfast",
+      "error_analysis": "学生易将\"breakfast\"拆为\"break（打破）+ fast（快）\"，误解为\"打破快速\"或\"快速中断\"，忽略\"fast\"作\"禁食\"的名词含义。",
+      "sentence": "I usually have eggs and toast for **breakfast** every morning before going to school.",
+      "options": {
+        "option": [
+          {
+            "definition": "早餐",
+            "iscorrect": true
+          },
+          {
+            "definition": "打破快速（指中断快速进行的事情）",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速打破（指迅速破坏某物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "打破的东西（指被破坏的物品）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

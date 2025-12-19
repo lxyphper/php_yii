@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "conservatism",
+      "error_analysis": "学生易因形近词“conservation”（保护）或词根“conserve”（保存）将“conservatism”误判为“保护主义”或“保存主义”。",
+      "sentence": "The political party's manifesto emphasizes **conservatism**, prioritizing traditional family values and opposing excessive government intervention in the economy.",
+      "options": {
+        "option": [
+          {
+            "definition": "保守主义（政治或思想上强调传统、稳定的保守倾向）",
+            "iscorrect": true
+          },
+          {
+            "definition": "保护主义（对自然、资源或文化遗产的保护理念）",
+            "iscorrect": false
+          },
+          {
+            "definition": "保存主义（对物品、传统的留存或保护行为）",
+            "iscorrect": false
+          },
+          {
+            "definition": "进步主义（支持社会改革与进步的思想）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ameba",
+      "error_analysis": "学生易将“ameba”（变形虫）与形近词“amber”（琥珀）混淆，或因“a-”词根误导认为是“无法移动的物体”。",
+      "sentence": "Scientists observed an **ameba** changing its shape to engulf a tiny food particle under the microscope.",
+      "options": {
+        "option": [
+          {
+            "definition": "变形虫（一种能改变形状的单细胞原生动物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "琥珀（一种黄色透明的宝石）",
+            "iscorrect": false
+          },
+          {
+            "definition": "无法移动的固体物体",
+            "iscorrect": false
+          },
+          {
+            "definition": "新闻媒体的总称（如报纸、电视）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

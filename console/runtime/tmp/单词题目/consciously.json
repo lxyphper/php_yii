@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "consciously",
+      "error_analysis": "学生易因形近混淆\"consistently\"(一致地)，或因词根联想错误将其误解为\"凭良心地\"(来自\"conscience\"的干扰)",
+      "sentence": "She **consciously** avoided mentioning his name during the conversation to prevent any awkwardness.",
+      "options": {
+        "option": [
+          {
+            "definition": "有意识地；故意地",
+            "iscorrect": true
+          },
+          {
+            "definition": "一致地；始终如一地",
+            "iscorrect": false
+          },
+          {
+            "definition": "凭良心地；道德上地",
+            "iscorrect": false
+          },
+          {
+            "definition": "认真地；尽责地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

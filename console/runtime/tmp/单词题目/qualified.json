@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "qualified",
+      "error_analysis": "学生易因形近词“quality”（质量）将“qualified”误判为“高质量的”",
+      "sentence": "He is **qualified** for the job because he has the required experience.",
+      "options": {
+        "option": [
+          {
+            "definition": "有资格的；合格的",
+            "iscorrect": true
+          },
+          {
+            "definition": "高质量的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有数量的",
+            "iscorrect": false
+          },
+          {
+            "definition": "被证明的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

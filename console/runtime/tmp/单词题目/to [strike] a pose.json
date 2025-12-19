@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to [strike] a pose",
+      "error_analysis": "学生易因\"strike\"的字面义\"打击/罢工\"将短语误解为\"打击姿势\"或\"罢工姿势\"",
+      "sentence": "When the photographer asked her to **strike a pose**, she put her hands on her hips and smiled.",
+      "options": {
+        "option": [
+          {
+            "definition": "摆姿势（如拍照或展示时）",
+            "iscorrect": true
+          },
+          {
+            "definition": "打击一个姿势",
+            "iscorrect": false
+          },
+          {
+            "definition": "发起一个罢工姿势",
+            "iscorrect": false
+          },
+          {
+            "definition": "保持一个僵硬的姿势",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "audience",
+      "error_analysis": "学生易因形近词\"audio\"（音频）将\"audience\"误判为\"音频设备\"，或因词根\"aud\"（听）过度推导为\"倾听的行为\"",
+      "sentence": "The singer waved to the **audience** after finishing her song, and they cheered loudly.",
+      "options": {
+        "option": [
+          {
+            "definition": "观众；听众",
+            "iscorrect": true
+          },
+          {
+            "definition": "音频设备",
+            "iscorrect": false
+          },
+          {
+            "definition": "倾听的行为",
+            "iscorrect": false
+          },
+          {
+            "definition": "观众席",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

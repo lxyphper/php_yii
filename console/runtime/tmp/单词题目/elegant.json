@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "elegant",
+      "error_analysis": "中国学生易因形近词“element”（元素）或“elaborate”（详细的）混淆“elegant”词义，或因“leg”（法律）的词根误导产生错误理解。",
+      "sentence": "She wore an **elegant** dress to the party, which made her stand out among the guests.",
+      "options": {
+        "option": [
+          {
+            "definition": "优雅的",
+            "iscorrect": true
+          },
+          {
+            "definition": "元素的",
+            "iscorrect": false
+          },
+          {
+            "definition": "法律的",
+            "iscorrect": false
+          },
+          {
+            "definition": "详细的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

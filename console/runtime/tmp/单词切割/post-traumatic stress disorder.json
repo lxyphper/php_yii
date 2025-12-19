@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "post-traumative stress disorder",
+      "post-troumatic stress disorder",
+      "post-traumtic stress disorder",
+      "post-traumatic stess disorder",
+      "post-traumatic stress deorder"
+    ],
+    "correct_chunks": [
+      "post-traumatic",
+      "stress",
+      "disorder"
+    ],
+    "distractor_chunks": [
+      "traumative",
+      "troumatic",
+      "traumtic",
+      "stess",
+      "deorder"
+    ]
+  },
+  0
+]

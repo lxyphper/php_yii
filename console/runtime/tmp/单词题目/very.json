@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "very",
+      "error_analysis": "混淆形近词\"vary\"(变化)的含义，或误将形容词\"恰好的\"理解为副词\"非常\"",
+      "sentence": "I finally found the **very** pen I lost yesterday.",
+      "options": {
+        "option": [
+          {
+            "definition": "恰好的；正是的",
+            "iscorrect": true
+          },
+          {
+            "definition": "变化；不同",
+            "iscorrect": false
+          },
+          {
+            "definition": "非常；很",
+            "iscorrect": false
+          },
+          {
+            "definition": "很多；大量",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

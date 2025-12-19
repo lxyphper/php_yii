@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sauce",
+      "error_analysis": "学生易因形近词\"source\"（来源）产生错误联想，或误猜为\"香肠\"（sausage）等同类食材",
+      "sentence": "Could you pass me the tomato **sauce**? I want to add it to my pasta.",
+      "options": {
+        "option": [
+          {
+            "definition": "来源",
+            "iscorrect": false
+          },
+          {
+            "definition": "香肠",
+            "iscorrect": false
+          },
+          {
+            "definition": "调味汁；酱汁",
+            "iscorrect": true
+          },
+          {
+            "definition": "糖",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

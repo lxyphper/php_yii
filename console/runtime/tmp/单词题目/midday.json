@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "midday",
+      "error_analysis": "学生易因形近词'midnight'(午夜)的干扰，或词根'mid+day'的字面联想错误（如误判为'午夜'）。",
+      "sentence": "We usually have lunch at **midday** when the sun is highest in the sky.",
+      "options": {
+        "option": [
+          {
+            "definition": "中午",
+            "iscorrect": true
+          },
+          {
+            "definition": "午夜",
+            "iscorrect": false
+          },
+          {
+            "definition": "中途",
+            "iscorrect": false
+          },
+          {
+            "definition": "下午",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

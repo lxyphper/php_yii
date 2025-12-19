@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to discourse",
+      "error_analysis": "学生易因形近词\"discourage\"(使气馁)或词根\"dis-+course\"(过程)错误理解为\"使气馁\"或\"中断进程\"",
+      "sentence": "In his lecture, the professor will **discourse** on the impact of artificial intelligence on modern society.",
+      "options": {
+        "option": [
+          {
+            "definition": "论述，谈论（to talk or write about a subject in detail）",
+            "iscorrect": true
+          },
+          {
+            "definition": "使气馁（to make someone lose confidence）",
+            "iscorrect": false
+          },
+          {
+            "definition": "中断进程（to stop a process or activity）",
+            "iscorrect": false
+          },
+          {
+            "definition": "丢弃（to get rid of something）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

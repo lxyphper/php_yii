@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "primary",
+      "error_analysis": "易混淆形近词primitive（原始的）及词根prime误导的“质数的”理解",
+      "sentence": "Most children in the US attend **primary** school from kindergarten to grade 5.",
+      "options": {
+        "option": [
+          {
+            "definition": "原始的",
+            "iscorrect": false
+          },
+          {
+            "definition": "初级的",
+            "iscorrect": true
+          },
+          {
+            "definition": "质数的",
+            "iscorrect": false
+          },
+          {
+            "definition": "主要的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

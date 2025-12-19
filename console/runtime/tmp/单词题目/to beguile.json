@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to beguile",
+      "error_analysis": "学生易因形近词\"begin\"（开始）误联想为\"开始\"，或因词根\"beg\"（乞讨）误猜为\"恳求/乞讨\"。",
+      "sentence": "The con artist used his smooth talk to **beguile** the old man into signing over his house.",
+      "options": {
+        "option": [
+          {
+            "definition": "开始（做某事）",
+            "iscorrect": false
+          },
+          {
+            "definition": "乞讨；恳求",
+            "iscorrect": false
+          },
+          {
+            "definition": "欺骗；哄骗（用魅力或花言巧语）",
+            "iscorrect": true
+          },
+          {
+            "definition": "帮助；协助",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

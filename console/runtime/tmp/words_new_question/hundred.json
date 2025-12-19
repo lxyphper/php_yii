@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hundred",
+      "error_analysis": "学生易因形近词“hungry”（饥饿的）或“dread”（恐惧的）的拼写相似，将“hundred”误判为“饥饿的”或“恐惧的”。",
+      "sentence": "I need to save one **hundred** dollars to buy a new bike.",
+      "options": {
+        "option": [
+          {
+            "definition": "一百（基数词，表示数量100）",
+            "iscorrect": true
+          },
+          {
+            "definition": "饥饿的（想吃东西的状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "恐惧的（感到害怕的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "千（基数词，表示数量1000）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

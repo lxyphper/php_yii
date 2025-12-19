@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to fold",
+      "error_analysis": "学生易将“fold”误看成形近词“hold”（持有），或因字面猜测误以为“摔倒”（fall）。",
+      "sentence": "She asked me to **fold** the clothes before putting them in the drawer.",
+      "options": {
+        "option": [
+          {
+            "definition": "持有",
+            "iscorrect": false
+          },
+          {
+            "definition": "折叠（纸、布等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "摔倒",
+            "iscorrect": false
+          },
+          {
+            "definition": "包裹",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

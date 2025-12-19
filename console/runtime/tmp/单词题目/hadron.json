@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hadron",
+      "error_analysis": "易因形近词\"hedron\"(面体)混淆，或因发音接近\"hard\"猜测为\"坚硬的物质\"",
+      "sentence": "Scientists study how **hadrons**, such as protons and neutrons, are composed of quarks in high-energy physics experiments.",
+      "options": {
+        "option": [
+          {
+            "definition": "强子（物理学中由夸克组成的粒子，如质子、中子）",
+            "iscorrect": true
+          },
+          {
+            "definition": "面体（如立方体或金字塔等有平面的立体图形）",
+            "iscorrect": false
+          },
+          {
+            "definition": "坚硬的矿物质（如钻石或花岗岩等质地坚硬的自然物质）",
+            "iscorrect": false
+          },
+          {
+            "definition": "能量传递的单位（如焦耳或瓦特等计量能量的标准）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

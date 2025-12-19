@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "abbreviation",
+      "error_analysis": "学生易因形近词（如与“aviation”形近）或词根过度推导（将“ab-”误解为“离开”）而误判词义",
+      "sentence": "The word \"USA\" is a common **abbreviation** for the United States of America.",
+      "options": {
+        "option": [
+          {
+            "definition": "缩写（词/形式）",
+            "iscorrect": true
+          },
+          {
+            "definition": "航空术语",
+            "iscorrect": false
+          },
+          {
+            "definition": "离开短的东西",
+            "iscorrect": false
+          },
+          {
+            "definition": "冗长的解释",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to notify",
+      "error_analysis": "学生易因形近词“note”（笔记）误解为“记录”，或因词根“not-”（已知）误判为“注意”（如notice的动词义）。",
+      "sentence": "The school will **notify** parents of any changes to the schedule via email.",
+      "options": {
+        "option": [
+          {
+            "definition": "记录；写下",
+            "iscorrect": false
+          },
+          {
+            "definition": "通知；告知",
+            "iscorrect": true
+          },
+          {
+            "definition": "注意；留意",
+            "iscorrect": false
+          },
+          {
+            "definition": "建议；提议",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

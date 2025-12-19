@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to avoid",
+      "error_analysis": "易与形近词\"advise\"（建议）混淆，或因词根\"void\"（空）错误推导为\"使空/消除\"",
+      "sentence": "She decided to **avoid** the crowded mall to prevent catching a cold.",
+      "options": {
+        "option": [
+          {
+            "definition": "避免；避开",
+            "iscorrect": true
+          },
+          {
+            "definition": "建议；劝告",
+            "iscorrect": false
+          },
+          {
+            "definition": "使空；消除",
+            "iscorrect": false
+          },
+          {
+            "definition": "等待；期待",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

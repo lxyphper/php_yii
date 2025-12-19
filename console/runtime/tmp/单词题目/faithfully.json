@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "faithfully",
+      "error_analysis": "学生易因词根“faith”的“信心”义项将“faithfully”误解为“有信心地”，或因形近混淆为“有成果地”（如“fruitfully”）",
+      "sentence": "The old servant served the family **faithfully** for over thirty years.",
+      "options": {
+        "option": [
+          {
+            "definition": "有信心地",
+            "iscorrect": false
+          },
+          {
+            "definition": "忠实地；忠诚地",
+            "iscorrect": true
+          },
+          {
+            "definition": "有成果地",
+            "iscorrect": false
+          },
+          {
+            "definition": "准确地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

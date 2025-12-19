@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gas chamber",
+      "error_analysis": "中国学生易因词根直译将其理解为“气体房间”，或因“chamber”与“camera”形近误联想为“相机室”",
+      "sentence": "During World War II, many innocent people were sent to the **gas chamber** by the Nazis.",
+      "options": {
+        "option": [
+          {
+            "definition": "气体房间",
+            "iscorrect": false
+          },
+          {
+            "definition": "相机室",
+            "iscorrect": false
+          },
+          {
+            "definition": "汽油舱",
+            "iscorrect": false
+          },
+          {
+            "definition": "毒气室",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

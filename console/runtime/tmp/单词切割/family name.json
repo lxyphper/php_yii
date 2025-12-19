@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "famly name",
+      "familly name",
+      "family naem",
+      "family nam"
+    ],
+    "correct_chunks": [
+      "fam",
+      "i",
+      "ly",
+      "n",
+      "ame"
+    ],
+    "distractor_chunks": [
+      "ly",
+      "ill",
+      "em",
+      "m"
+    ]
+  },
+  0
+]

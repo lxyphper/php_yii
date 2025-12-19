@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dense",
+      "error_analysis": "学生易因形近词“dance”（跳舞）产生误解，或误将“dense”理解为“强烈的”（与“intense”混淆）",
+      "sentence": "The forest was so **dense** that sunlight could barely reach the ground.",
+      "options": {
+        "option": [
+          {
+            "definition": "跳舞的",
+            "iscorrect": false
+          },
+          {
+            "definition": "强烈的",
+            "iscorrect": false
+          },
+          {
+            "definition": "密集的；浓密的",
+            "iscorrect": true
+          },
+          {
+            "definition": "稀少的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

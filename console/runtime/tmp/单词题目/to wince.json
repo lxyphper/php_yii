@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to wince",
+      "error_analysis": "容易与形近词\"wink\"(眨眼)混淆，或误联想为\"win\"(赢)相关含义",
+      "sentence": "When she accidentally touched the hot pan, she **winced** and quickly pulled her hand away.",
+      "options": {
+        "option": [
+          {
+            "definition": "（因疼痛、惊讶等）皱眉头；退缩",
+            "iscorrect": true
+          },
+          {
+            "definition": "眨眼",
+            "iscorrect": false
+          },
+          {
+            "definition": "赢得比赛",
+            "iscorrect": false
+          },
+          {
+            "definition": "大笑",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

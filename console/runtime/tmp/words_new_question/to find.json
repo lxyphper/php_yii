@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to find",
+      "error_analysis": "易混淆形近词“fine”（罚款/好的）或误将“find”（结果）当作“寻找”（过程）",
+      "sentence": "After hours of searching, she finally managed to **find** her lost phone in the couch.",
+      "options": {
+        "option": [
+          {
+            "definition": "罚款；好的",
+            "iscorrect": false
+          },
+          {
+            "definition": "寻找",
+            "iscorrect": false
+          },
+          {
+            "definition": "喜欢",
+            "iscorrect": false
+          },
+          {
+            "definition": "发现；找到",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

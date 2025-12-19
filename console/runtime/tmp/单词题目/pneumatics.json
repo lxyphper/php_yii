@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pneumatics",
+      "error_analysis": "学生易因形近词“pneumonia”（肺炎）联想到“呼吸系统疾病”，或因词根“pneuma”（呼吸）过度直译为“呼吸相关学科”。",
+      "sentence": "Many modern factories rely on **pneumatics** to operate tools and machinery efficiently.",
+      "options": {
+        "option": [
+          {
+            "definition": "气动学（研究用气体压力驱动的装置或系统的学科）",
+            "iscorrect": true
+          },
+          {
+            "definition": "呼吸系统疾病（如肺炎等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "呼吸生理学（研究呼吸过程的学科）",
+            "iscorrect": false
+          },
+          {
+            "definition": "气体化学（研究气体组成和反应的学科）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "substance",
+      "error_analysis": "学生易因形近词“substitute”（代替品）混淆，或因“sub-”（下）+“stance”（立场）的词根组合错误推导为“底层立场”。",
+      "sentence": "The teacher asked the students to focus on the **substance** of the article rather than the fancy words.",
+      "options": {
+        "option": [
+          {
+            "definition": "物质；实质内容",
+            "iscorrect": true
+          },
+          {
+            "definition": "代替品",
+            "iscorrect": false
+          },
+          {
+            "definition": "底层立场",
+            "iscorrect": false
+          },
+          {
+            "definition": "重要性",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

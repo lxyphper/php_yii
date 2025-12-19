@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "equity",
+      "error_analysis": "易因形近词\"equality\"（平等）混淆，或因词根\"equ-\"（相等）误判为\"平等\"而非\"公平合理\"。",
+      "sentence": "The company’s new pay policy focuses on **equity**, ensuring employees are compensated fairly based on their work contributions rather than just their job titles.",
+      "options": {
+        "option": [
+          {
+            "definition": "公平；公正（尤指根据实际情况的合理对待）",
+            "iscorrect": true
+          },
+          {
+            "definition": "平等（指地位、权利或机会的完全相等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "平衡（指事物之间的均衡状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "等价（指价值或数量的完全相等）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

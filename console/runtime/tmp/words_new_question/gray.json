@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gray",
+      "error_analysis": "中国学生易因形近词“grave”（严重的）、“great”（伟大的）混淆“gray”的核心颜色含义。",
+      "sentence": "The sky was **gray** this morning, so I grabbed my umbrella before leaving.",
+      "options": {
+        "option": [
+          {
+            "definition": "灰色的（形容词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "严重的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "伟大的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "吃草的（形容词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

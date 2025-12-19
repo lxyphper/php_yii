@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "window",
+      "error_analysis": "学生易因形近词\"wind\"（风）将\"window\"误判为\"风\"，或因拆分\"win+dow\"联想到\"胜利的通道\"。",
+      "sentence": "She opened the **window** to let fresh air into the room.",
+      "options": {
+        "option": [
+          {
+            "definition": "窗户",
+            "iscorrect": true
+          },
+          {
+            "definition": "风",
+            "iscorrect": false
+          },
+          {
+            "definition": "胜利的通道",
+            "iscorrect": false
+          },
+          {
+            "definition": "通风口",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

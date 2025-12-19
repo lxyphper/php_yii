@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "innovative",
+      "error_analysis": "学生易混淆形近词“invasive”（入侵的），或因词根“nov-”（新）将“innovative”误判为“新奇的”而非“创新的”",
+      "sentence": "The company's **innovative** approach to sustainable energy has gained international recognition.",
+      "options": {
+        "option": [
+          {
+            "definition": "创新的；有创意的",
+            "iscorrect": true
+          },
+          {
+            "definition": "入侵的；侵入的",
+            "iscorrect": false
+          },
+          {
+            "definition": "新奇的；新颖的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无效的；不起作用的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

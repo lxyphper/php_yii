@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "peripheral",
+      "error_analysis": "学生易因形近词\"permanent\"(永久的)或误将词根\"peri-\"(周围)引申为\"重要的\"，而非\"外围的、次要的\"",
+      "sentence": "During the meeting, the team focused on the main project goals and ignored the **peripheral** issues that wouldn’t affect the outcome.",
+      "options": {
+        "option": [
+          {
+            "definition": "永久的",
+            "iscorrect": false
+          },
+          {
+            "definition": "重要的",
+            "iscorrect": false
+          },
+          {
+            "definition": "外围的；次要的",
+            "iscorrect": true
+          },
+          {
+            "definition": "环绕的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

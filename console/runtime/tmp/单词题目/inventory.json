@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "inventory",
+      "error_analysis": "易因形近词\"invent\"（发明）误联想为\"发明物\"，或通过词根错误推导为\"进入的物品\"",
+      "sentence": "Before the holiday season, the store manager checked the **inventory** to make sure they had enough toys for kids.",
+      "options": {
+        "option": [
+          {
+            "definition": "库存；存货清单",
+            "iscorrect": true
+          },
+          {
+            "definition": "发明物；创造品",
+            "iscorrect": false
+          },
+          {
+            "definition": "进入的物品；输入物",
+            "iscorrect": false
+          },
+          {
+            "definition": "投资项目；投资额",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

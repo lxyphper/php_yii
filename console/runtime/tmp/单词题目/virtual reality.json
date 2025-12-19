@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "virtual reality",
+      "error_analysis": "将“virtual”与形近词“visual”（视觉的）混淆，或误将“virtual”的“实际上的”意思代入，导致误理解为“视觉现实”或“实际的现实”",
+      "sentence": "Many gamers use **virtual reality** headsets to immerse themselves in a digital world where they can interact with virtual characters and environments.",
+      "options": {
+        "option": [
+          {
+            "definition": "虚拟现实",
+            "iscorrect": true
+          },
+          {
+            "definition": "视觉现实",
+            "iscorrect": false
+          },
+          {
+            "definition": "实际的现实",
+            "iscorrect": false
+          },
+          {
+            "definition": "虚拟的实现",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

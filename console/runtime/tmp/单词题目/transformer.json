@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "transformer",
+      "error_analysis": "学生易因形近词translator（翻译者）混淆，或因词根transform（变形）误判为“变形者”，忽略核心义“变压器”。",
+      "sentence": "The old **transformer** in the basement needs to be replaced because it's no longer efficient in converting high-voltage electricity to low-voltage for household use.",
+      "options": {
+        "option": [
+          {
+            "definition": "变压器（用于转换电压的电器设备）",
+            "iscorrect": true
+          },
+          {
+            "definition": "翻译者（将一种语言译为另一种语言的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "变形者（使事物发生形态变化的人或物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "传输器（传递信号或能量的装置）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

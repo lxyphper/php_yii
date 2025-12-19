@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "instantly",
+      "error_analysis": "学生易因形近词“instance”（例子）联想到“例如”，或因字面翻译“瞬间里”而误判“instantly”的核心词义。",
+      "sentence": "The moment he heard the doorbell, he **instantly** ran to open it.",
+      "options": {
+        "option": [
+          {
+            "definition": "例如",
+            "iscorrect": false
+          },
+          {
+            "definition": "不断地",
+            "iscorrect": false
+          },
+          {
+            "definition": "立刻，马上",
+            "iscorrect": true
+          },
+          {
+            "definition": "在瞬间里",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

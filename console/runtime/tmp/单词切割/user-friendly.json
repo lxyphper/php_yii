@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "user-freindly",
+      "uesr-friendly",
+      "user-friendy",
+      "user-frienly"
+    ],
+    "correct_chunks": [
+      "user-",
+      "friend",
+      "ly"
+    ],
+    "distractor_chunks": [
+      "freind",
+      "uesr",
+      "friendy",
+      "frien"
+    ]
+  },
+  0
+]

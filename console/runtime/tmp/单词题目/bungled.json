@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bungled",
+      "error_analysis": "学生易因形近词\"bundle\"（捆绑）将\"bungled\"误解为\"捆绑的\"或\"整理的\"",
+      "sentence": "The chef **bungled** the cake by adding too much salt, making it completely inedible.",
+      "options": {
+        "option": [
+          {
+            "definition": "搞砸的；弄糟的",
+            "iscorrect": true
+          },
+          {
+            "definition": "捆绑的；打包的",
+            "iscorrect": false
+          },
+          {
+            "definition": "塞住的；堵住的",
+            "iscorrect": false
+          },
+          {
+            "definition": "撞击的；敲打的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

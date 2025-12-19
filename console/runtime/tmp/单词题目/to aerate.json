@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to aerate",
+      "error_analysis": "中国学生易因形近词“erase”（删除）混淆，或因词根“aer”（空气）过度猜测为“通风”而非“注入空气”。",
+      "sentence": "Before planting, the farmer used a tool to **aerate** the compacted soil to allow better water and air penetration.",
+      "options": {
+        "option": [
+          {
+            "definition": "给…充气；使含气泡；给（土壤）松土（注入空气）",
+            "iscorrect": true
+          },
+          {
+            "definition": "删除；擦掉",
+            "iscorrect": false
+          },
+          {
+            "definition": "通风；使空气流通",
+            "iscorrect": false
+          },
+          {
+            "definition": "搅动；使激动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

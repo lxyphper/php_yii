@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "who",
+      "error_analysis": "学生易将“who”（谁，指人）与形近的“whose”（谁的）或功能相似的“what”（什么）混淆，误判其核心含义。",
+      "sentence": "—**Who** is knocking at the door? —It’s my friend, Lily.",
+      "options": {
+        "option": [
+          {
+            "definition": "谁（用于询问人）",
+            "iscorrect": true
+          },
+          {
+            "definition": "什么（指物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "哪一个（指物/人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "谁的（所有格）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

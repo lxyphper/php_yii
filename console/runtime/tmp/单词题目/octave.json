@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "octave",
+      "error_analysis": "学生易因“oct-”词根（八）猜测为“八边形”等物体，或因形近词“octopus”（章鱼）联想到动物相关义，忽略其音乐中“八度音程”的核心义。",
+      "sentence": "When she sang the high note, it was an **octave** above the original melody, making the song sound more dramatic.",
+      "options": {
+        "option": [
+          {
+            "definition": "（音乐中的）八度音程",
+            "iscorrect": true
+          },
+          {
+            "definition": "章鱼的触须",
+            "iscorrect": false
+          },
+          {
+            "definition": "八边形",
+            "iscorrect": false
+          },
+          {
+            "definition": "八人一组的表演团队",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

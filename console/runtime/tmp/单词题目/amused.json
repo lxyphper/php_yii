@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "amused",
+      "error_analysis": "中国学生易将\"amused\"误判为形近词\"amazed\"（惊讶的）或因字面含\"used\"而误解为\"被使用的\"",
+      "sentence": "When the little boy wore his dad’s oversized shoes and walked like a duck, everyone in the room felt **amused** and burst into laughter.",
+      "options": {
+        "option": [
+          {
+            "definition": "惊讶的",
+            "iscorrect": false
+          },
+          {
+            "definition": "被使用的",
+            "iscorrect": false
+          },
+          {
+            "definition": "感到逗乐的",
+            "iscorrect": true
+          },
+          {
+            "definition": "焦虑的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

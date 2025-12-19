@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "slight",
+      "error_analysis": "形近词\"sight\"(景象)的干扰，或误将\"slight\"与\"light\"(轻的)混淆",
+      "sentence": "There is a **slight** difference between the two pictures; can you find it?",
+      "options": {
+        "option": [
+          {
+            "definition": "轻微的",
+            "iscorrect": true
+          },
+          {
+            "definition": "景象",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻的",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻视",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

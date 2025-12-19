@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to flap",
+      "error_analysis": "易因形近词“flag”（旗帜）误判为“挥舞旗帜”，或因与“flat”（平的）形近而误解为“使变平”。",
+      "sentence": "The seagull began to **flap** its wings rapidly to take off from the pier.",
+      "options": {
+        "option": [
+          {
+            "definition": "挥舞旗帜",
+            "iscorrect": false
+          },
+          {
+            "definition": "（鸟翼或物体）拍打，摆动",
+            "iscorrect": true
+          },
+          {
+            "definition": "使变平",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速翻转",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

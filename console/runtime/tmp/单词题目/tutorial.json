@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tutorial",
+      "error_analysis": "学生易因形近词\"tour\"（旅行）误判为\"旅行指南\"，或因词根\"tutor\"（导师）过度推导为\"导师的个人信息\"",
+      "sentence": "I watched a **tutorial** on YouTube to learn how to edit videos.",
+      "options": {
+        "option": [
+          {
+            "definition": "（尤指针对个人或小组的）辅导课；教程",
+            "iscorrect": true
+          },
+          {
+            "definition": "旅行指南；游览路线",
+            "iscorrect": false
+          },
+          {
+            "definition": "导师的个人简介；教师履历",
+            "iscorrect": false
+          },
+          {
+            "definition": "正式的讲座；演讲",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

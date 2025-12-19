@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "second",
+      "error_analysis": "学生易将\"second\"（序数词，第二的）混淆为\"次要的\"（受形近词\"secondary\"影响）或误判为\"秒\"（名词义与序数词义混淆）",
+      "sentence": "She won the **second** prize in the school English speech contest.",
+      "options": {
+        "option": [
+          {
+            "definition": "第二的",
+            "iscorrect": true
+          },
+          {
+            "definition": "次要的",
+            "iscorrect": false
+          },
+          {
+            "definition": "秒",
+            "iscorrect": false
+          },
+          {
+            "definition": "支持（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

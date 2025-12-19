@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "saving",
+      "error_analysis": "中国学生易将名词\"saving\"（节省/节省的钱）误解为\"拯救的行为\"（词根\"save\"的误导）或形近词\"say\"的名词形式\"说的话\"。",
+      "sentence": "Switching to LED bulbs resulted in a significant **saving** on our monthly electricity bill.",
+      "options": {
+        "option": [
+          {
+            "definition": "节省（的钱）",
+            "iscorrect": true
+          },
+          {
+            "definition": "拯救的行为",
+            "iscorrect": false
+          },
+          {
+            "definition": "说的话（如名言）",
+            "iscorrect": false
+          },
+          {
+            "definition": "保存的物品（如文件、食物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

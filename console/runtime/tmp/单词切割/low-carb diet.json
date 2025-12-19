@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "low-carp diet",
+      "low-carb dite",
+      "low-carb biet",
+      "low-carb diiet"
+    ],
+    "correct_chunks": [
+      "low-",
+      "carb",
+      "di",
+      "et"
+    ],
+    "distractor_chunks": [
+      "carp",
+      "te",
+      "bi",
+      "ii"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "moneyed",
+      "error_analysis": "学生易因\"money\"（钱）和\"-ed\"（具有...的）的字面联想，将\"moneyed\"误理解为\"关于钱的\"或\"赚钱的\"，而非其核心义\"富有的\"。",
+      "sentence": "The charity gala was hosted by a **moneyed** family, who donated millions to support education for underprivileged children.",
+      "options": {
+        "option": [
+          {
+            "definition": "富有的，有钱的（having a lot of money）",
+            "iscorrect": true
+          },
+          {
+            "definition": "赚钱的（earning a lot of money）",
+            "iscorrect": false
+          },
+          {
+            "definition": "关于钱的（related to money）",
+            "iscorrect": false
+          },
+          {
+            "definition": "省钱的（saving a lot of money）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

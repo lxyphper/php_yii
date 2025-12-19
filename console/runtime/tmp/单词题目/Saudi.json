@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Saudi",
+      "error_analysis": "学生易因形近词\"study\"（学习）或\"sandy\"（多沙的）干扰，误将\"Saudi\"理解为常见形容词而非专有名词。",
+      "sentence": "Many **Saudi** businessmen attended the trade fair in Dubai last month.",
+      "options": {
+        "option": [
+          {
+            "definition": "沙特的（属于沙特阿拉伯的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "学习的（与学习相关的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "多沙的（布满沙子的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "悲伤的（情绪低落的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

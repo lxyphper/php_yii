@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "breakneck",
+      "error_analysis": "学生易通过\"break+neck\"字面推导为\"断颈的\"，忽略其比喻义\"极快的（含危险）\"",
+      "sentence": "The delivery driver raced through the city streets at **breakneck** speed to get the package there on time.",
+      "options": {
+        "option": [
+          {
+            "definition": "极快的（常含危险意）",
+            "iscorrect": true
+          },
+          {
+            "definition": "断颈的（导致脖子折断的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "危险的（强调物理伤害）",
+            "iscorrect": false
+          },
+          {
+            "definition": "易碎的（容易破碎的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

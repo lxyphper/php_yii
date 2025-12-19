@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "detective story",
+      "error_analysis": "学生易因“detect”（探测）的词根误导，将“detective story”错误理解为“探测故事”而非“侦探故事”。",
+      "sentence": "My sister loves reading **detective stories** because she enjoys solving mysteries with the main character.",
+      "options": {
+        "option": [
+          {
+            "definition": "侦探故事",
+            "iscorrect": true
+          },
+          {
+            "definition": "探测故事",
+            "iscorrect": false
+          },
+          {
+            "definition": "决定性的故事",
+            "iscorrect": false
+          },
+          {
+            "definition": "有缺陷的故事",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

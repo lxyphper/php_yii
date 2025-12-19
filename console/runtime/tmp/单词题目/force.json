@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "force",
+      "error_analysis": "中国学生易混淆形近词\"forge\"(伪造)和词根\"fort\"(堡垒)，误将\"force\"理解为\"伪造\"或\"堡垒\"。",
+      "sentence": "The police had to use **force** to stop the rioters from damaging the shops.",
+      "options": {
+        "option": [
+          {
+            "definition": "力量；强迫（做某事）",
+            "iscorrect": true
+          },
+          {
+            "definition": "伪造（文件等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "堡垒，要塞",
+            "iscorrect": false
+          },
+          {
+            "definition": "努力，尝试",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

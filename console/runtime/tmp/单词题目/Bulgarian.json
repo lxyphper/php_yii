@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Bulgarian",
+      "error_analysis": "学生易因形近词\"bulky\"(笨重的)或词根\"bul-\"联想\"bull\"(公牛)，误将\"Bulgarian\"理解为\"笨重的物品\"或\"公牛相关的\"",
+      "sentence": "My new classmate, a **Bulgarian**, brought me a jar of homemade rose jam, a specialty from her homeland.",
+      "options": {
+        "option": [
+          {
+            "definition": "保加利亚人；保加利亚的",
+            "iscorrect": true
+          },
+          {
+            "definition": "笨重的物品",
+            "iscorrect": false
+          },
+          {
+            "definition": "公牛的；像公牛的",
+            "iscorrect": false
+          },
+          {
+            "definition": "灯泡的；与灯泡有关的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

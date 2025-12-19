@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "logarithm",
+      "error_analysis": "学生易因形近词“log”（日志/原木）或词根“log”（记录）的干扰，将“logarithm”误判为与“日志记录”或“原木计算”相关的词，而非数学中的“对数”。",
+      "sentence": "In mathematics, the **logarithm** of a number to a given base is the exponent to which the base must be raised to produce that number.",
+      "options": {
+        "option": [
+          {
+            "definition": "对数（数学中表示底数需提升至某指数以得到某数的函数）",
+            "iscorrect": true
+          },
+          {
+            "definition": "日志中的记录条目（如日记或航海日志中的内容）",
+            "iscorrect": false
+          },
+          {
+            "definition": "原木的测量单位（用于表示木材体积的标准）",
+            "iscorrect": false
+          },
+          {
+            "definition": "算术运算的基本步骤（如加减乘除中的某一环节）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

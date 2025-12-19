@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fire",
+      "error_analysis": "易混淆形近词“hire”（雇佣），或误将动词“fire”理解为名词“火”的字面义",
+      "sentence": "The company decided to **fire** three employees after the financial crisis.",
+      "options": {
+        "option": [
+          {
+            "definition": "解雇",
+            "iscorrect": true
+          },
+          {
+            "definition": "雇佣",
+            "iscorrect": false
+          },
+          {
+            "definition": "火；火焰",
+            "iscorrect": false
+          },
+          {
+            "definition": "开火；射击",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

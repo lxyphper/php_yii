@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "closed",
+      "error_analysis": "中国学生易因形近词（如cloned/克隆的）或混淆close的“亲密的”义而误将closed理解为非“关闭的”含义。",
+      "sentence": "The shop at the corner is **closed** today, so we can't buy any snacks there.",
+      "options": {
+        "option": [
+          {
+            "definition": "关闭的",
+            "iscorrect": true
+          },
+          {
+            "definition": "克隆的",
+            "iscorrect": false
+          },
+          {
+            "definition": "亲密的",
+            "iscorrect": false
+          },
+          {
+            "definition": "衣柜的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

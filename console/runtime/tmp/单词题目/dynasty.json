@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dynasty",
+      "error_analysis": "学生易因形近词\"dynamic\"(动态的)、\"destiny\"(命运)或拆分\"nasty\"(讨厌的)误解\"dynasty\"的含义",
+      "sentence": "The Ming **dynasty** ruled China for nearly 300 years, from 1368 to 1644.",
+      "options": {
+        "option": [
+          {
+            "definition": "王朝；朝代",
+            "iscorrect": true
+          },
+          {
+            "definition": "动态的；有活力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "命运；天命",
+            "iscorrect": false
+          },
+          {
+            "definition": "讨厌的人；令人不快的事",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

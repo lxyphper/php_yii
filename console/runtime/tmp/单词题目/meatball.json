@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "meatball",
+      "error_analysis": "学生易将复合词\"meatball\"中的\"ball\"误理解为\"舞会\"导致误解为\"肉舞会\"，或因形近词\"meatloaf\"混淆而误判为\"肉糕\"",
+      "sentence": "I ordered a plate of **meatballs** to go with my spaghetti—they're the best in town!",
+      "options": {
+        "option": [
+          {
+            "definition": "肉丸子",
+            "iscorrect": true
+          },
+          {
+            "definition": "肉舞会",
+            "iscorrect": false
+          },
+          {
+            "definition": "肉糕",
+            "iscorrect": false
+          },
+          {
+            "definition": "肉派",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

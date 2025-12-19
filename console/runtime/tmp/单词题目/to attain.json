@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to attain",
+      "error_analysis": "易与形近词'attend'（参加）混淆，或误通过词根'tain'（持有）推测为'保留'而非'达到目标'",
+      "sentence": "After years of hard work, she finally managed to **attain** her goal of becoming a doctor.",
+      "options": {
+        "option": [
+          {
+            "definition": "实现；达到（目标等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "参加；出席",
+            "iscorrect": false
+          },
+          {
+            "definition": "获得；取得（具体物品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "持有；保留",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

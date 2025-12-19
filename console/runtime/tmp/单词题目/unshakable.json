@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unshakable",
+      "error_analysis": "易因形近词（如unstable）混淆或词根字面误导（理解为“不能摇晃的”）而误判其“坚定不移的”抽象含义",
+      "sentence": "Despite facing repeated failures, her **unshakable** faith in her dreams kept her motivated to try again.",
+      "options": {
+        "option": [
+          {
+            "definition": "坚定不移的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不稳定的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不能摇晃的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不易破碎的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to embroider",
+      "error_analysis": "学生易因“embroider”与“broader”（更宽的）形近猜“使变宽”，或因“em-”前缀误导为“嵌入”。",
+      "sentence": "She likes to **embroider** flowers on her handkerchief to make it more beautiful.",
+      "options": {
+        "option": [
+          {
+            "definition": "刺绣；绣",
+            "iscorrect": true
+          },
+          {
+            "definition": "使变宽",
+            "iscorrect": false
+          },
+          {
+            "definition": "嵌入（某物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "雇佣（某人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

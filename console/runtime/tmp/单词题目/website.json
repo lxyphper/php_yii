@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "website",
+      "error_analysis": "容易混淆\"website\"（网站）与形近词\"webpage\"（网页）或基于\"site\"（地点）的字面误导（如\"网络地点\"）",
+      "sentence": "You can find all the product information on our company's **website**.",
+      "options": {
+        "option": [
+          {
+            "definition": "网站",
+            "iscorrect": true
+          },
+          {
+            "definition": "网页",
+            "iscorrect": false
+          },
+          {
+            "definition": "网络地点",
+            "iscorrect": false
+          },
+          {
+            "definition": "网络工具",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

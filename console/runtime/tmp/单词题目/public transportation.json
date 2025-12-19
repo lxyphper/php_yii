@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "public transportation",
+      "error_analysis": "学生易因“transportation”与“translation”形近误判为“公共翻译”，或因“port”（港口）词根误导认为是“公共港口运输”",
+      "sentence": "In many cities, people rely on **public transportation** like buses and subways to get to work every day.",
+      "options": {
+        "option": [
+          {
+            "definition": "公共交通（如公交、地铁等的公共运输系统或服务）",
+            "iscorrect": true
+          },
+          {
+            "definition": "公共翻译（如公共场所的翻译服务）",
+            "iscorrect": false
+          },
+          {
+            "definition": "公共港口运输（如港口的公共货运服务）",
+            "iscorrect": false
+          },
+          {
+            "definition": "公共出版服务（如公共图书馆的出版业务）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

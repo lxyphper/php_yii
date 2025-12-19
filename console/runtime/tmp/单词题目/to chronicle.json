@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to chronicle",
+      "error_analysis": "混淆形近词\"chronic\"(慢性的)导致误解为\"使成为慢性的\"，或因词根\"chron\"(时间)错误推导为\"计时\"",
+      "sentence": "The historian spent years researching to **chronicle** the events of the ancient dynasty for her new book.",
+      "options": {
+        "option": [
+          {
+            "definition": "记录，记载（历史事件等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "使成为慢性的，长期化",
+            "iscorrect": false
+          },
+          {
+            "definition": "计时，安排时间顺序",
+            "iscorrect": false
+          },
+          {
+            "definition": "批评，指责（某人的行为）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

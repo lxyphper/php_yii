@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "uncle",
+      "error_analysis": "中国学生易因形近词“ankle”（脚踝）的拼写相似而误判“uncle”的亲属称谓含义",
+      "sentence": "My **uncle** often takes me to the park to fly kites on sunny weekends.",
+      "options": {
+        "option": [
+          {
+            "definition": "叔叔；伯父；舅舅；姑父；姨父",
+            "iscorrect": true
+          },
+          {
+            "definition": "脚踝",
+            "iscorrect": false
+          },
+          {
+            "definition": "不清晰的",
+            "iscorrect": false
+          },
+          {
+            "definition": "阿姨",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

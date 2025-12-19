@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to jabber",
+      "error_analysis": "学生易因形近词“jab”（戳；刺）而误将“to jabber”理解为与“戳”相关的动作",
+      "sentence": "He was so nervous that he started to **jabber**, and I couldn’t catch a word he said.",
+      "options": {
+        "option": [
+          {
+            "definition": "急促而含糊地说；喋喋不休",
+            "iscorrect": true
+          },
+          {
+            "definition": "戳；刺",
+            "iscorrect": false
+          },
+          {
+            "definition": "使混乱；混杂",
+            "iscorrect": false
+          },
+          {
+            "definition": "缓慢而清晰地说",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

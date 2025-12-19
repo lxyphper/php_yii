@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "award",
+      "error_analysis": "学生易混淆形近词\"aware\"(意识到的)、词根\"ward\"(病房/守卫)及近义词\"reward\"(奖励)，导致误判\"award\"的核心词义。",
+      "sentence": "She was thrilled to receive the **award** for her outstanding contribution to environmental protection at the ceremony.",
+      "options": {
+        "option": [
+          {
+            "definition": "意识到的；知道的",
+            "iscorrect": false
+          },
+          {
+            "definition": "病房；守卫",
+            "iscorrect": false
+          },
+          {
+            "definition": "奖项；奖品",
+            "iscorrect": true
+          },
+          {
+            "definition": "奖励（因努力获得的回报）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

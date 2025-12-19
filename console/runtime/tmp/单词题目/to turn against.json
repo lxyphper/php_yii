@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to turn against",
+      "error_analysis": "将短语字面理解为“转向对抗”，忽略其“从支持变为反对/背叛”的核心语义",
+      "sentence": "When the government raised taxes again, many of its former supporters **turned against** it.",
+      "options": {
+        "option": [
+          {
+            "definition": "反对；背叛（从支持变为对抗）",
+            "iscorrect": true
+          },
+          {
+            "definition": "转向对抗的方向",
+            "iscorrect": false
+          },
+          {
+            "definition": "转身对抗",
+            "iscorrect": false
+          },
+          {
+            "definition": "对着...转动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

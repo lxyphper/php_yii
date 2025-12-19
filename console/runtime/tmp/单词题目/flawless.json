@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "flawless",
+      "error_analysis": "学生易因形近词\"flavorless\"(无味的)或对\"flaw\"(缺陷)的词根记忆不牢而混淆词义",
+      "sentence": "Her piano performance was so **flawless** that the audience gave her a long standing ovation.",
+      "options": {
+        "option": [
+          {
+            "definition": "无味的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有缺陷的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无结果的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无缺陷的；完美的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

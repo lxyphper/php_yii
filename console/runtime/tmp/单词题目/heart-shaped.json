@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "heart-shaped",
+      "error_analysis": "中国学生易因“heart”关联“内心”误将“heart-shaped”理解为“衷心的”，或因字面直译误为“用心塑造的”。",
+      "sentence": "She bought a **heart-shaped** necklace for her mom's birthday, which her mom loved because it reminded her of their family love.",
+      "options": {
+        "option": [
+          {
+            "definition": "心形的",
+            "iscorrect": true
+          },
+          {
+            "definition": "衷心的；内心的",
+            "iscorrect": false
+          },
+          {
+            "definition": "用心塑造的",
+            "iscorrect": false
+          },
+          {
+            "definition": "热形状的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

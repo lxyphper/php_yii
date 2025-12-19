@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "engineering",
+      "error_analysis": "易因形近词engine（发动机）误解为“发动机制造”，或因词根engineer（工程师）误判为“工程师的日常工作”",
+      "sentence": "My sister majored in **engineering** at Tsinghua University and now leads a team to build high-speed railway systems.",
+      "options": {
+        "option": [
+          {
+            "definition": "工程（学）；工程行业",
+            "iscorrect": true
+          },
+          {
+            "definition": "发动机维修与制造",
+            "iscorrect": false
+          },
+          {
+            "definition": "工程师的日常办公活动",
+            "iscorrect": false
+          },
+          {
+            "definition": "电子设备销售业务",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

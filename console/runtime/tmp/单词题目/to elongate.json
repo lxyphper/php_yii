@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to elongate",
+      "error_analysis": "学生易因形近词“elegant”产生错误联想，或误将词根“long”关联到“渴望”而非“延长”。",
+      "sentence": "The tailor decided to **elongate** the dress by adding a few inches to the hem.",
+      "options": {
+        "option": [
+          {
+            "definition": "使延长；拉长",
+            "iscorrect": true
+          },
+          {
+            "definition": "优雅的；高雅的",
+            "iscorrect": false
+          },
+          {
+            "definition": "渴望；盼望",
+            "iscorrect": false
+          },
+          {
+            "definition": "使变大；扩大",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

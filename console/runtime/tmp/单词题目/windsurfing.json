@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "windsurfing",
+      "error_analysis": "学生易将\"windsurfing\"拆分为\"wind\"（风）和\"surf\"（冲浪），错误理解为\"普通冲浪\"或\"随风漂流\"，忽略其特指\"帆板运动\"的含义。",
+      "sentence": "Last summer, I tried **windsurfing** for the first time—standing on a board with a sail, I glided across the lake when the wind picked up.",
+      "options": {
+        "option": [
+          {
+            "definition": "帆板运动",
+            "iscorrect": true
+          },
+          {
+            "definition": "普通冲浪（无帆）",
+            "iscorrect": false
+          },
+          {
+            "definition": "带帆的船航行",
+            "iscorrect": false
+          },
+          {
+            "definition": "随风漂流",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

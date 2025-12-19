@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "air pollution",
+      "error_analysis": "学生易因\"pollution\"与形近词\"population\"(人口)或\"solution\"(解决办法)混淆，或错误关联\"popular\"(流行)词根，导致理解偏差。",
+      "sentence": "The government has launched a new policy to cut down on **air pollution** from vehicle emissions and industrial waste.",
+      "options": {
+        "option": [
+          {
+            "definition": "空气污染（由汽车排放和工业废物造成的空气污染物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "空气人口（空气中的人口数量）",
+            "iscorrect": false
+          },
+          {
+            "definition": "空气解决方案（针对空气问题的解决办法）",
+            "iscorrect": false
+          },
+          {
+            "definition": "空气流行（空气传播的流行事物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "fater-in-law",
+      "fatherinlaw",
+      "father-on-law",
+      "father-in-la"
+    ],
+    "correct_chunks": [
+      "father",
+      "-in-",
+      "law"
+    ],
+    "distractor_chunks": [
+      "fater",
+      "-on-",
+      "fatherin",
+      "la"
+    ]
+  },
+  0
+]

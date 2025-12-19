@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "grim",
+      "error_analysis": "学生易因形近词“grin”（微笑）产生错误联想，误将“grim”理解为“微笑的”。",
+      "sentence": "The news of the earthquake brought a **grim** silence to the room.",
+      "options": {
+        "option": [
+          {
+            "definition": "微笑的",
+            "iscorrect": false
+          },
+          {
+            "definition": "强壮的",
+            "iscorrect": false
+          },
+          {
+            "definition": "严峻的；可怕的",
+            "iscorrect": true
+          },
+          {
+            "definition": "整洁的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

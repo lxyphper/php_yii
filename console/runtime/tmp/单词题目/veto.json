@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "veto",
+      "error_analysis": "学生易因形近词\"vote\"(投票)或\"view\"(观看)误将\"veto\"理解为\"投票\"或\"观看\"",
+      "sentence": "The president used his **veto** to block the new law from being passed.",
+      "options": {
+        "option": [
+          {
+            "definition": "投票",
+            "iscorrect": false
+          },
+          {
+            "definition": "观看",
+            "iscorrect": false
+          },
+          {
+            "definition": "批准",
+            "iscorrect": false
+          },
+          {
+            "definition": "否决（权）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

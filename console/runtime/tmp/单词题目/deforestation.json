@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "deforestation",
+      "error_analysis": "学生易因形近词“decoration”（装饰）的干扰，或词根误解将“deforestation”误判为“装饰”或“森林形成”。",
+      "sentence": "The government has introduced new laws to reduce **deforestation** in the Amazon, as it threatens the habitat of many endangered species.",
+      "options": {
+        "option": [
+          {
+            "definition": "装饰",
+            "iscorrect": false
+          },
+          {
+            "definition": "森林的形成",
+            "iscorrect": false
+          },
+          {
+            "definition": "砍伐森林；毁林",
+            "iscorrect": true
+          },
+          {
+            "definition": "重新造林",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

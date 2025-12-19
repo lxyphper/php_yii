@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "progress",
+      "error_analysis": "将progress误判为形近词process（过程），或因词根\"pro-+gress\"过度直译为\"向前走的动作\"。",
+      "sentence": "The team made significant **progress** in developing the new technology over the past year.",
+      "options": {
+        "option": [
+          {
+            "definition": "进步；进展",
+            "iscorrect": true
+          },
+          {
+            "definition": "过程",
+            "iscorrect": false
+          },
+          {
+            "definition": "向前走的动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "继续",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

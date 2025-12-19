@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "half-life",
+      "error_analysis": "将“half-life”字面理解为“半条命”或“人生的一半”，忽略其作为科学术语的核心含义。",
+      "sentence": "The **half-life** of carbon-14 is approximately 5,730 years, a key factor in determining the age of prehistoric remains.",
+      "options": {
+        "option": [
+          {
+            "definition": "（放射性物质的）半衰期",
+            "iscorrect": true
+          },
+          {
+            "definition": "半条命；人生的一半",
+            "iscorrect": false
+          },
+          {
+            "definition": "（比赛的）中场休息",
+            "iscorrect": false
+          },
+          {
+            "definition": "（食物的）半生不熟状态",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

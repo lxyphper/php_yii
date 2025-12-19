@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "brass",
+      "error_analysis": "学生易因形近词“grass”（草）误将“brass”理解为“草”，或混淆其与“玻璃”（glass）等词的含义。",
+      "sentence": "The **brass** candlestick on the shelf shines brightly after I polish it.",
+      "options": {
+        "option": [
+          {
+            "definition": "草",
+            "iscorrect": false
+          },
+          {
+            "definition": "玻璃",
+            "iscorrect": false
+          },
+          {
+            "definition": "黄铜",
+            "iscorrect": true
+          },
+          {
+            "definition": "铜管乐器",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

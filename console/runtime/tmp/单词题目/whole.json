@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "whole",
+      "error_analysis": "中国学生易因形近词“hole”（洞）混淆，或误将“whole”与“who”（谁）相关联。",
+      "sentence": "She finished the **whole** cake in 10 minutes—everyone was surprised.",
+      "options": {
+        "option": [
+          {
+            "definition": "整个的；全部的",
+            "iscorrect": true
+          },
+          {
+            "definition": "洞；孔",
+            "iscorrect": false
+          },
+          {
+            "definition": "谁的；属于谁的",
+            "iscorrect": false
+          },
+          {
+            "definition": "完全地；彻底地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

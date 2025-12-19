@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "quantity",
+      "error_analysis": "中国学生易将“quantity”与形近词“quality”（质量）混淆，或误通过词根“quant-”联想到“量子”等不相关含义",
+      "sentence": "The store has a large **quantity** of apples for sale this week.",
+      "options": {
+        "option": [
+          {
+            "definition": "质量",
+            "iscorrect": false
+          },
+          {
+            "definition": "数量",
+            "iscorrect": true
+          },
+          {
+            "definition": "量子",
+            "iscorrect": false
+          },
+          {
+            "definition": "性质",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

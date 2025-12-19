@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ticket",
+      "error_analysis": "学生易因形近词'tick'（打勾）误解为'打勾标记'，或因词根'tick'（滴答）+'-et'小词后缀误解为'小滴答声'",
+      "sentence": "I need to buy a **ticket** for the concert tonight, or I won't be allowed in.",
+      "options": {
+        "option": [
+          {
+            "definition": "票（如电影票、车票等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "打勾的标记",
+            "iscorrect": false
+          },
+          {
+            "definition": "小滴答声",
+            "iscorrect": false
+          },
+          {
+            "definition": "标签（贴在物品上的标识）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to respect",
+      "error_analysis": "中国学生易因形近词“expect”（期待）混淆，或因词根“spect”（看）误判为“仔细检查”。",
+      "sentence": "Teachers always tell us to **respect** our classmates' ideas, even if we don't agree with them.",
+      "options": {
+        "option": [
+          {
+            "definition": "尊重",
+            "iscorrect": true
+          },
+          {
+            "definition": "期待",
+            "iscorrect": false
+          },
+          {
+            "definition": "仔细检查",
+            "iscorrect": false
+          },
+          {
+            "definition": "害怕",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

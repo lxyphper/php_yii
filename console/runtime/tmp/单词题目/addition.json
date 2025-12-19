@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "addition",
+      "error_analysis": "容易混淆形近词edition（版本），或仅记住“加法”而忽略“增加物/补充”的常用义",
+      "sentence": "The new café is a popular **addition** to the neighborhood, attracting many locals every weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "增加物；补充",
+            "iscorrect": true
+          },
+          {
+            "definition": "版本",
+            "iscorrect": false
+          },
+          {
+            "definition": "加法（数学运算）",
+            "iscorrect": false
+          },
+          {
+            "definition": "编辑",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

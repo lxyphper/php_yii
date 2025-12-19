@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "jealous",
+      "error_analysis": "中国学生易将“jealous”与形近词“zealous”（热心的）混淆，或因直觉误判为“快乐的”等无关义。",
+      "sentence": "When Mary saw her friend get the new bike she wanted, she felt **jealous** and couldn’t hide her disappointment.",
+      "options": {
+        "option": [
+          {
+            "definition": "嫉妒的",
+            "iscorrect": true
+          },
+          {
+            "definition": "热心的",
+            "iscorrect": false
+          },
+          {
+            "definition": "快乐的",
+            "iscorrect": false
+          },
+          {
+            "definition": "紧张的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

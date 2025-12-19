@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "country house",
+      "error_analysis": "将“country house”字面直译为“乡村的普通住宅”，忽略其“乡村别墅/郊外宅邸”的实际含义",
+      "sentence": "After working in the city all week, Sarah loves retreating to her family's **country house** with its sprawling lawn and old oak trees.",
+      "options": {
+        "option": [
+          {
+            "definition": "乡村别墅",
+            "iscorrect": true
+          },
+          {
+            "definition": "乡村的普通住宅",
+            "iscorrect": false
+          },
+          {
+            "definition": "郡政府大楼",
+            "iscorrect": false
+          },
+          {
+            "definition": "城市中的高层公寓",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

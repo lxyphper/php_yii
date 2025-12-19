@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to haul",
+      "error_analysis": "学生易因形近词\"hail\"（欢呼）产生误解，或因字面猜测将\"haul\"与\"持有/喊叫\"关联",
+      "sentence": "The workers had to **haul** the heavy machinery up the stairs because the elevator was broken.",
+      "options": {
+        "option": [
+          {
+            "definition": "拖；拉；搬运（重物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "欢呼；致敬",
+            "iscorrect": false
+          },
+          {
+            "definition": "持有；握住",
+            "iscorrect": false
+          },
+          {
+            "definition": "投掷；扔",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

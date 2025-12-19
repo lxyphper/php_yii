@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bovine",
+      "error_analysis": "学生易因“bovine”含“vine”（葡萄藤）形近联想误判为植物相关，或因词根不熟悉误猜为其他动物（如羊）。",
+      "sentence": "The farm has a large herd of **bovine** animals, including dairy cows and bulls.",
+      "options": {
+        "option": [
+          {
+            "definition": "牛的；与牛相关的",
+            "iscorrect": true
+          },
+          {
+            "definition": "与葡萄藤相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "与羊相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "与马相关的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

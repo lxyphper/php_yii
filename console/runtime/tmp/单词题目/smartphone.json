@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "smartphone",
+      "error_analysis": "学生易因“smart”（聪明的）和“phone”（电话）的字面组合，误将“smartphone”理解为“聪明的电话”而非“智能手机”",
+      "sentence": "She uses her **smartphone** to check emails, take photos, and navigate to work every day.",
+      "options": {
+        "option": [
+          {
+            "definition": "智能手机",
+            "iscorrect": true
+          },
+          {
+            "definition": "聪明的电话",
+            "iscorrect": false
+          },
+          {
+            "definition": "智能手表",
+            "iscorrect": false
+          },
+          {
+            "definition": "智能家居",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

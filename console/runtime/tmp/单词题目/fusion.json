@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fusion",
+      "error_analysis": "学生易因形近词“confusion”（困惑）或反义形近词“fission”（裂变）而误解“fusion”为“困惑”或“分裂”",
+      "sentence": "The band's music is a **fusion** of rock and traditional folk, which has gained popularity among diverse audiences.",
+      "options": {
+        "option": [
+          {
+            "definition": "困惑；混乱",
+            "iscorrect": false
+          },
+          {
+            "definition": "融合；结合",
+            "iscorrect": true
+          },
+          {
+            "definition": "分裂；裂变",
+            "iscorrect": false
+          },
+          {
+            "definition": "功能；作用",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

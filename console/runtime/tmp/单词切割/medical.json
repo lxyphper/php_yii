@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "medecal",
+      "meical",
+      "medicel",
+      "medacal"
+    ],
+    "correct_chunks": [
+      "med",
+      "i",
+      "cal"
+    ],
+    "distractor_chunks": [
+      "ec",
+      "ei",
+      "cel",
+      "ac",
+      "kel"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to inform",
+      "error_analysis": "因形近词“form”（形式）及词根拆分（in+form）误判为“形成”或“使成形”",
+      "sentence": "The teacher will **inform** the students about the upcoming exam schedule tomorrow.",
+      "options": {
+        "option": [
+          {
+            "definition": "通知；告知",
+            "iscorrect": true
+          },
+          {
+            "definition": "形成；构成",
+            "iscorrect": false
+          },
+          {
+            "definition": "使成形；塑造",
+            "iscorrect": false
+          },
+          {
+            "definition": "影响；改变",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ignorance",
+      "error_analysis": "学生易因词根‘ignor-’关联动词‘ignore’（忽视），将‘ignorance’误解为‘忽视的行为’而非‘无知’。",
+      "sentence": "Her **ignorance** of the local customs caused her to offend many people.",
+      "options": {
+        "option": [
+          {
+            "definition": "无知",
+            "iscorrect": true
+          },
+          {
+            "definition": "忽视的行为",
+            "iscorrect": false
+          },
+          {
+            "definition": "缺乏经验",
+            "iscorrect": false
+          },
+          {
+            "definition": "对...的不重视",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

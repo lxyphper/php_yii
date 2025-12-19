@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "expert",
+      "error_analysis": "形近词“expect”（期待）的干扰，及词根“ex-”（出）+“pert”（误判为“port”/“pertinent”）导致的“出口的人”或“相关的人”错误理解",
+      "sentence": "The company hired an **expert** in artificial intelligence to lead the new project.",
+      "options": {
+        "option": [
+          {
+            "definition": "期待；期望",
+            "iscorrect": false
+          },
+          {
+            "definition": "专家；能手",
+            "iscorrect": true
+          },
+          {
+            "definition": "出口的人；输出者",
+            "iscorrect": false
+          },
+          {
+            "definition": "相关的人；有关联的人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

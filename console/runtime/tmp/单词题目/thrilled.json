@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "thrilled",
+      "error_analysis": "学生易因形近词“chilled”（放松的）或“drilled”（训练有素的）将“thrilled”误判为“放松的”或“训练有素的”",
+      "sentence": "When she heard she got the job, she was **thrilled** and jumped up and down.",
+      "options": {
+        "option": [
+          {
+            "definition": "非常激动的；兴奋的",
+            "iscorrect": true
+          },
+          {
+            "definition": "放松的",
+            "iscorrect": false
+          },
+          {
+            "definition": "训练有素的",
+            "iscorrect": false
+          },
+          {
+            "definition": "痛苦的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

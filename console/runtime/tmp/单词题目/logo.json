@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "logo",
+      "error_analysis": "易受形近词\"logic\"(逻辑)干扰，或因词根\"log\"(日志)误导认为与\"记录\"相关",
+      "sentence": "The company redesigned its **logo** to make it more modern and recognizable for its 10th anniversary.",
+      "options": {
+        "option": [
+          {
+            "definition": "标志；标识",
+            "iscorrect": true
+          },
+          {
+            "definition": "逻辑；逻辑学",
+            "iscorrect": false
+          },
+          {
+            "definition": "日志；记录",
+            "iscorrect": false
+          },
+          {
+            "definition": "口号；标语",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

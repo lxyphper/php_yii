@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to assume",
+      "error_analysis": "学生易混淆形近词“assure”（保证）或误将词根“take up”直译为“承担”，而非核心义“假设/认为”。",
+      "sentence": "When you don’t have all the facts, it’s unwise to **assume** what someone else is thinking.",
+      "options": {
+        "option": [
+          {
+            "definition": "假设；认为",
+            "iscorrect": true
+          },
+          {
+            "definition": "保证；确保",
+            "iscorrect": false
+          },
+          {
+            "definition": "承担；接受",
+            "iscorrect": false
+          },
+          {
+            "definition": "继续；重新开始",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

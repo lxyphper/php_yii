@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "elation",
+      "error_analysis": "学生易因形近词\"elevation\"(海拔/提升)或\"relation\"(关系)产生误解，或通过词根\"el-\"错误联想为\"提升\"。",
+      "sentence": "When she found out she'd been accepted to her dream university, **elation** made her jump up and down, tears of joy in her eyes.",
+      "options": {
+        "option": [
+          {
+            "definition": "兴高采烈；得意洋洋",
+            "iscorrect": true
+          },
+          {
+            "definition": "海拔；高度",
+            "iscorrect": false
+          },
+          {
+            "definition": "关系；联系",
+            "iscorrect": false
+          },
+          {
+            "definition": "提升；晋升",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

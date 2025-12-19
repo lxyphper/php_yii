@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dim",
+      "error_analysis": "学生易因形近词“dam”（大坝）或“damp”（潮湿的）干扰，误将“dim”理解为“大坝”或“潮湿的”",
+      "sentence": "As the sun set, the light in the living room grew **dim**, making it hard to read.",
+      "options": {
+        "option": [
+          {
+            "definition": "大坝",
+            "iscorrect": false
+          },
+          {
+            "definition": "小的",
+            "iscorrect": false
+          },
+          {
+            "definition": "潮湿的",
+            "iscorrect": false
+          },
+          {
+            "definition": "昏暗的；模糊的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

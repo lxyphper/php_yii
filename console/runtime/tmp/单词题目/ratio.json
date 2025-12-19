@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ratio",
+      "error_analysis": "易因形近混淆\"radio\"(收音机)或\"ration\"(定量)，或误猜为\"理由\"(词根字面义)",
+      "sentence": "The **ratio** of boys to girls in the class is 2:3, meaning there are more girls than boys.",
+      "options": {
+        "option": [
+          {
+            "definition": "比例；比率",
+            "iscorrect": true
+          },
+          {
+            "definition": "收音机",
+            "iscorrect": false
+          },
+          {
+            "definition": "定量；配给量",
+            "iscorrect": false
+          },
+          {
+            "definition": "理由；原因",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

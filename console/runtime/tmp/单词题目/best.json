@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "best",
+      "error_analysis": "中国学生易因形近词（如test）或混淆比较级（better）与最高级（best）而误判其义。",
+      "sentence": "She is the **best** student in her class because she always gets top grades.",
+      "options": {
+        "option": [
+          {
+            "definition": "最好的（形容词最高级）",
+            "iscorrect": true
+          },
+          {
+            "definition": "测试（来自形近词test的干扰）",
+            "iscorrect": false
+          },
+          {
+            "definition": "更好的（混淆比较级与最高级）",
+            "iscorrect": false
+          },
+          {
+            "definition": "休息（来自形近词rest的干扰）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

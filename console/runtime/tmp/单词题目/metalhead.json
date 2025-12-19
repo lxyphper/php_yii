@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "metalhead",
+      "error_analysis": "学生易将\"metalhead\"拆分为\"metal\"（金属）和\"head\"（头），误理解为\"金属头\"或\"金属制品的头部\"。",
+      "sentence": "Tom has been a **metalhead** since high school—he never misses a local heavy metal concert and owns hundreds of band T-shirts.",
+      "options": {
+        "option": [
+          {
+            "definition": "重金属音乐迷",
+            "iscorrect": true
+          },
+          {
+            "definition": "金属制成的头部部件",
+            "iscorrect": false
+          },
+          {
+            "definition": "金属行业的负责人",
+            "iscorrect": false
+          },
+          {
+            "definition": "戴金属头盔的人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "documentary",
+      "error_analysis": "学生易因形近词\"document\"（文件）将\"documentary\"误判为\"文件的；文档的\"（形容词）或错误推导为\"记录行为；文档整理\"（名词），而非正确的\"纪录片\"（名词）。",
+      "sentence": "We watched a **documentary** about marine life last night, which showed real footage of whales and dolphins.",
+      "options": {
+        "option": [
+          {
+            "definition": "纪录片（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "文件的；文档的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "记录行为；文档整理（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "记录员；文档管理员（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

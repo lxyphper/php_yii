@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wildlife",
+      "error_analysis": "学生易将\"wildlife\"字面误解为\"野生的生活\"（强调生活状态），而非正确的\"野生动物/生物\"（强调生物本身）。",
+      "sentence": "Many environmental groups are dedicated to preserving the **wildlife** in Africa's savannas from illegal hunting.",
+      "options": {
+        "option": [
+          {
+            "definition": "野生动物；野生生物",
+            "iscorrect": true
+          },
+          {
+            "definition": "野生的生活；野外生存状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "野性；野生状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "野火；山火",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "loneliness",
+      "error_analysis": "学生易将“loneliness”误判为“孤独的人”（形近词loner）或“单独的状态”（词根误导，混淆lonely与alone的名词形式）",
+      "sentence": "After moving to a new city where she knew no one, Maria often felt a deep sense of **loneliness** in the evenings.",
+      "options": {
+        "option": [
+          {
+            "definition": "孤独感；寂寞",
+            "iscorrect": true
+          },
+          {
+            "definition": "孤独的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "单独的状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "漫长的时光",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

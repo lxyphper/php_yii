@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to salute",
+      "error_analysis": "学生易因形近词“salad”（沙拉）误判为“吃沙拉”，或因词根“sal-”联想到“salt”（盐）误判为“加盐”",
+      "sentence": "When the general passed by, the soldiers **saluted** him.",
+      "options": {
+        "option": [
+          {
+            "definition": "吃沙拉",
+            "iscorrect": false
+          },
+          {
+            "definition": "加盐",
+            "iscorrect": false
+          },
+          {
+            "definition": "敬礼；致敬",
+            "iscorrect": true
+          },
+          {
+            "definition": "拯救",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

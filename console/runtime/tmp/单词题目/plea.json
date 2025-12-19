@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "plea",
+      "error_analysis": "学生易因形近词\"play\"（玩）产生误解，或因\"pleasure\"（快乐）的字面联想误判词义",
+      "sentence": "The victim's family made a heartfelt **plea** for the return of their missing child.",
+      "options": {
+        "option": [
+          {
+            "definition": "请求；恳求",
+            "iscorrect": true
+          },
+          {
+            "definition": "玩；游戏",
+            "iscorrect": false
+          },
+          {
+            "definition": "快乐；愉悦",
+            "iscorrect": false
+          },
+          {
+            "definition": "承诺；保证",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

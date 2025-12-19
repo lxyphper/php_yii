@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "toast",
+      "error_analysis": "学生易因形近混淆'toast'与'taste'（味道），或误将其等同于'roast'（烤肉类等）。",
+      "sentence": "She had a slice of **toast** with butter for her morning meal.",
+      "options": {
+        "option": [
+          {
+            "definition": "烤面包片",
+            "iscorrect": true
+          },
+          {
+            "definition": "味道",
+            "iscorrect": false
+          },
+          {
+            "definition": "烤（肉类等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "祝酒",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

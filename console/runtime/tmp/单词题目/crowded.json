@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "crowded",
+      "error_analysis": "学生易因形近词\"crow\"(乌鸦)误判为\"有乌鸦的\"，或因\"crowd\"(人群)词根误导误判为名词\"人群\"",
+      "sentence": "The subway during rush hour is always **crowded** with commuters hurrying to work.",
+      "options": {
+        "option": [
+          {
+            "definition": "拥挤的（形容词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "有乌鸦的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "人群（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "多云的（形容词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

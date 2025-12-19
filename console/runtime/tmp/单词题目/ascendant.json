@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ascendant",
+      "error_analysis": "中国学生易因形近词\"descendant\"(后代)混淆，或因词根\"ascend\"(上升)误判为\"物理上上升的\"，忽略其\"占优势、崛起\"的核心义。",
+      "sentence": "In recent years, artificial intelligence has become the **ascendant** force in the tech industry, reshaping how we live and work.",
+      "options": {
+        "option": [
+          {
+            "definition": "占优势的；崛起的",
+            "iscorrect": true
+          },
+          {
+            "definition": "后代；子孙",
+            "iscorrect": false
+          },
+          {
+            "definition": "（物理位置上）上升的",
+            "iscorrect": false
+          },
+          {
+            "definition": "祖先；前辈",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

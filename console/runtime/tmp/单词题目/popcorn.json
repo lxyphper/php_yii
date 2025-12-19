@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "popcorn",
+      "error_analysis": "学生易因“pop”的“流行”或“爆裂”义与“corn”组合，误判为“流行的玉米”或“爆玉米”，或因形近词“pork”误猜为“猪肉”。",
+      "sentence": "We bought a big bag of **popcorn** to eat while watching the movie.",
+      "options": {
+        "option": [
+          {
+            "definition": "爆米花",
+            "iscorrect": true
+          },
+          {
+            "definition": "流行的玉米",
+            "iscorrect": false
+          },
+          {
+            "definition": "爆玉米（动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "猪肉",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

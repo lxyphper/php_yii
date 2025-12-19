@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "shock",
+      "error_analysis": "学生易因形近词（如sock/shoe）或音近词（如shake）混淆，将shock误理解为“袜子”“鞋”或“摇晃”。",
+      "sentence": "The news of her sudden death came as a great **shock** to everyone in the office.",
+      "options": {
+        "option": [
+          {
+            "definition": "震惊；休克",
+            "iscorrect": true
+          },
+          {
+            "definition": "袜子",
+            "iscorrect": false
+          },
+          {
+            "definition": "摇晃",
+            "iscorrect": false
+          },
+          {
+            "definition": "鞋",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

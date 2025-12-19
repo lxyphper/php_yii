@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "light industry",
+      "error_analysis": "学生易将“light”误理解为“光线”（导致认为是光学工业）或“轻的”（导致认为是生产重量轻产品的工业），从而误解核心词义。",
+      "sentence": "The town's economy is driven by **light industry** such as food processing and textile making, which supply everyday items to local markets.",
+      "options": {
+        "option": [
+          {
+            "definition": "轻工业（生产消费品的工业，如食品加工、纺织等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "与光线或光学设备相关的工业（如生产灯具、眼镜的工业）",
+            "iscorrect": false
+          },
+          {
+            "definition": "生产重量轻的产品的工业（如生产塑料杯、纸制品的工业）",
+            "iscorrect": false
+          },
+          {
+            "definition": "小型或家庭经营的工业（如家庭手工业）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "blue cheese",
+      "error_analysis": "学生易因\"blue\"（蓝色）和\"cheese\"（奶酪）的字面直译，将\"blue cheese\"误解为\"蓝色的奶酪\"，忽略其核心是带蓝纹的发酵奶酪。",
+      "sentence": "I avoid eating **blue cheese** at parties because its strong, moldy flavor is too intense for me.",
+      "options": {
+        "option": [
+          {
+            "definition": "蓝纹奶酪",
+            "iscorrect": true
+          },
+          {
+            "definition": "蓝色的奶酪",
+            "iscorrect": false
+          },
+          {
+            "definition": "忧郁的奶酪",
+            "iscorrect": false
+          },
+          {
+            "definition": "蓝包装的奶酪",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

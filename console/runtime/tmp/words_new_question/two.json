@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "two",
+      "error_analysis": "中国学生易将\"two\"与形近同音词\"too\"（也）、\"to\"（到；向）混淆，误判词义。",
+      "sentence": "I bought **two** books yesterday; one is for me, and the other is for you.",
+      "options": {
+        "option": [
+          {
+            "definition": "二（基数词，表示数量）",
+            "iscorrect": true
+          },
+          {
+            "definition": "也（副词，表示同样）",
+            "iscorrect": false
+          },
+          {
+            "definition": "到；向（介词/不定式符号）",
+            "iscorrect": false
+          },
+          {
+            "definition": "两次（副词，表示频率）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

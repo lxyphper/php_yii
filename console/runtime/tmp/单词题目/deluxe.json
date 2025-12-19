@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "deluxe",
+      "error_analysis": "学生易将\"deluxe\"与形近词\"delicate\"（精致的）混淆，或误从\"lux\"词根猜测为\"过度的\"，而非其核心义\"豪华的\"。",
+      "sentence": "The newly opened resort features **deluxe** suites with private pools and personalized butler service.",
+      "options": {
+        "option": [
+          {
+            "definition": "豪华的；高级的",
+            "iscorrect": true
+          },
+          {
+            "definition": "精致的；脆弱的",
+            "iscorrect": false
+          },
+          {
+            "definition": "沉迷的；放纵的",
+            "iscorrect": false
+          },
+          {
+            "definition": "普通的；平常的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

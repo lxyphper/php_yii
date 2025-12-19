@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "uninteresting",
+      "error_analysis": "混淆“uninteresting”（令人乏味的）与形近词“uninterested”（不感兴趣的），或词根推导时误将“令人...的”理解为“...的”（指人）",
+      "sentence": "The documentary about ancient pottery was so **uninteresting** that many viewers switched channels after 10 minutes.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人乏味的；无趣的",
+            "iscorrect": true
+          },
+          {
+            "definition": "（人）对...不感兴趣的",
+            "iscorrect": false
+          },
+          {
+            "definition": "没有利益的；无利可图的",
+            "iscorrect": false
+          },
+          {
+            "definition": "缺乏兴趣的（指人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

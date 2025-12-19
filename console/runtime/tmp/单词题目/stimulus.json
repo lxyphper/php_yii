@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stimulus",
+      "error_analysis": "易混淆形近词stimulant（兴奋剂）或因词根‘stim-’（刺）误判为‘刺痛’",
+      "sentence": "The government introduced a new economic **stimulus** to boost consumer spending.",
+      "options": {
+        "option": [
+          {
+            "definition": "刺激物；激励因素",
+            "iscorrect": true
+          },
+          {
+            "definition": "兴奋剂；刺激性药物",
+            "iscorrect": false
+          },
+          {
+            "definition": "刺痛；尖锐的疼痛",
+            "iscorrect": false
+          },
+          {
+            "definition": "反应；回应",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

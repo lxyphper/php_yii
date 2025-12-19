@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "outskirts",
+      "error_analysis": "因形近词“outlets”（出口/专卖店）及词根“out-”+“skirt”（裙子）的字面误导，易误理解为“出口/专卖店”或“外面的裙子”",
+      "sentence": "Many people prefer living on the **outskirts** of the city because it's quieter than the downtown area.",
+      "options": {
+        "option": [
+          {
+            "definition": "郊区",
+            "iscorrect": true
+          },
+          {
+            "definition": "出口/专卖店",
+            "iscorrect": false
+          },
+          {
+            "definition": "外面的裙子",
+            "iscorrect": false
+          },
+          {
+            "definition": "边缘",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

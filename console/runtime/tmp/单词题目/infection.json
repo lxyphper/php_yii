@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "infection",
+      "error_analysis": "易混淆形近词\"injection\"(注射)及词根\"in-\"+\"fect\"的错误推导(如\"注入\")",
+      "sentence": "The doctor prescribed antibiotics to treat the bacterial **infection** in her throat.",
+      "options": {
+        "option": [
+          {
+            "definition": "注射",
+            "iscorrect": false
+          },
+          {
+            "definition": "注入",
+            "iscorrect": false
+          },
+          {
+            "definition": "影响",
+            "iscorrect": false
+          },
+          {
+            "definition": "感染",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

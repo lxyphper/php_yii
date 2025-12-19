@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unfriendly",
+      "error_analysis": "学生易将unfriendly与形近词unfamiliar（不熟悉的）混淆，或因词根错误拆分误理解为“没有朋友的”。",
+      "sentence": "My new neighbor is **unfriendly**—she always ignores my greetings.",
+      "options": {
+        "option": [
+          {
+            "definition": "不友好的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不熟悉的",
+            "iscorrect": false
+          },
+          {
+            "definition": "没有朋友的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不热情的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

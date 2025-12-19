@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "up",
+      "error_analysis": "中国学生易将up（沿着...移动）误解为“向上”（垂直方向），或因形近upon误解为“在...之上”",
+      "sentence": "She walked **up** the street to buy a cup of coffee.",
+      "options": {
+        "option": [
+          {
+            "definition": "沿着...移动（如街道、路径等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "向上（垂直方向，如从低到高）",
+            "iscorrect": false
+          },
+          {
+            "definition": "在...之上（如在物体表面）",
+            "iscorrect": false
+          },
+          {
+            "definition": "上面的（形容词，描述位置更高的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

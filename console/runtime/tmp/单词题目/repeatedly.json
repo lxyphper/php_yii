@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "repeatedly",
+      "error_analysis": "学生易因形近词\"relatedly\"（相关地）或混淆\"repeatedly\"与\"repetitive\"（重复的）的词性，误将其理解为\"相关地\"或\"重复的（形容词）\"。",
+      "sentence": "The teacher **repeatedly** reminded the students to hand in their homework before the deadline.",
+      "options": {
+        "option": [
+          {
+            "definition": "相关地",
+            "iscorrect": false
+          },
+          {
+            "definition": "重复的",
+            "iscorrect": false
+          },
+          {
+            "definition": "反复地，多次地",
+            "iscorrect": true
+          },
+          {
+            "definition": "定期地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

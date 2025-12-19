@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fjord",
+      "error_analysis": "学生易因形近词\"ford\"（浅滩）的干扰，将\"fjord\"误判为浅滩或渡口，或因字面猜测混淆地形类型",
+      "sentence": "The cruise ship sailed slowly through the narrow, steep-sided **fjord**, surrounded by snow-capped mountains in Norway.",
+      "options": {
+        "option": [
+          {
+            "definition": "峡湾（冰川侵蚀形成的沿海深湾）",
+            "iscorrect": true
+          },
+          {
+            "definition": "浅滩（可涉水而过的地方）",
+            "iscorrect": false
+          },
+          {
+            "definition": "森林（大片生长的树木）",
+            "iscorrect": false
+          },
+          {
+            "definition": "瀑布（从高处落下的水流）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

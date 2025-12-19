@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to train",
+      "error_analysis": "学生易将动词\"to train\"（训练）误解为与名词\"火车\"相关的动作（如\"乘坐/驾驶火车\"），或与形近词\"trail\"（追踪）混淆。",
+      "sentence": "The coach will **train** the new players for the upcoming match.",
+      "options": {
+        "option": [
+          {
+            "definition": "训练；培养",
+            "iscorrect": true
+          },
+          {
+            "definition": "乘坐火车",
+            "iscorrect": false
+          },
+          {
+            "definition": "追踪；尾随",
+            "iscorrect": false
+          },
+          {
+            "definition": "拖曳；拖着走（如裙子的拖尾）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

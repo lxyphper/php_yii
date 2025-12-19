@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "peach",
+      "error_analysis": "中国学生易因形近词“peace”（和平）的干扰，将“peach”误判为“和平”。",
+      "sentence": "She bought a basket of fresh **peaches** from the market to make jam.",
+      "options": {
+        "option": [
+          {
+            "definition": "桃子（一种甜美的水果）",
+            "iscorrect": true
+          },
+          {
+            "definition": "和平（没有战争的状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "山峰（山的顶端部分）",
+            "iscorrect": false
+          },
+          {
+            "definition": "梨（一种多汁的水果）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "CD writer",
+      "error_analysis": "中国学生易将“CD writer”中的“writer”误理解为“作家”（字面误导），或混淆为“CD播放器”（形近词干扰）",
+      "sentence": "Before sharing the music, she used a **CD writer** to copy the songs onto a blank disc.",
+      "options": {
+        "option": [
+          {
+            "definition": "CD刻录机",
+            "iscorrect": true
+          },
+          {
+            "definition": "CD作家",
+            "iscorrect": false
+          },
+          {
+            "definition": "CD播放器",
+            "iscorrect": false
+          },
+          {
+            "definition": "CD阅读器",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

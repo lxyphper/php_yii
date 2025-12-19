@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "quadrilateral",
+      "error_analysis": "学生易因词根“quadri-”（四）和“-lateral”（侧面的）错误联想为“四个侧面的立体图形”，而非平面几何中的四边形。",
+      "sentence": "During the geometry class, the teacher explained that a square, rectangle, and trapezoid are all types of **quadrilateral**.",
+      "options": {
+        "option": [
+          {
+            "definition": "四边形（平面几何中的四边图形）",
+            "iscorrect": true
+          },
+          {
+            "definition": "四个侧面的立体图形",
+            "iscorrect": false
+          },
+          {
+            "definition": "四倍的数量",
+            "iscorrect": false
+          },
+          {
+            "definition": "侧面的四个分支",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

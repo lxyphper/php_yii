@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "savannah",
+      "error_analysis": "中国学生易因形近词`savings`（存款）或词根联想`savage`（野蛮的），误判`savannah`为“存款”或“野蛮地区”",
+      "sentence": "The lions roamed freely across the vast **savannah**, where tall grasses and scattered acacia trees provided cover for their hunts.",
+      "options": {
+        "option": [
+          {
+            "definition": "热带稀树草原",
+            "iscorrect": true
+          },
+          {
+            "definition": "存款",
+            "iscorrect": false
+          },
+          {
+            "definition": "野蛮的地区",
+            "iscorrect": false
+          },
+          {
+            "definition": "美味的食物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

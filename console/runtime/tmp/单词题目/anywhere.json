@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "anywhere",
+      "error_analysis": "中国学生易混淆形近词“anyway”（无论如何），或因“any+where”字面拆分错误理解为“任何方式”",
+      "sentence": "I can't find my keys **anywhere** in the house.",
+      "options": {
+        "option": [
+          {
+            "definition": "任何地方",
+            "iscorrect": true
+          },
+          {
+            "definition": "无论如何",
+            "iscorrect": false
+          },
+          {
+            "definition": "任何方式",
+            "iscorrect": false
+          },
+          {
+            "definition": "任何时间",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

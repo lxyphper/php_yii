@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fifty",
+      "error_analysis": "学生易混淆形近词“fisty”（好斗的）或序数词“fifth”（第五）与“fifty”（五十）",
+      "sentence": "There are **fifty** students in our class, which is the largest number in the grade.",
+      "options": {
+        "option": [
+          {
+            "definition": "五十",
+            "iscorrect": true
+          },
+          {
+            "definition": "第五（序数词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "好斗的；有拳的",
+            "iscorrect": false
+          },
+          {
+            "definition": "拳头",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "diver",
+      "error_analysis": "学生易因形近词\"driver\"（司机）的干扰，或混淆\"dive\"（潜水）与\"drive\"（驾驶）的词根，误将\"diver\"理解为与驾驶相关的职业。",
+      "sentence": "The **diver** adjusted his oxygen tank and leaped off the boat to investigate the sunken ship.",
+      "options": {
+        "option": [
+          {
+            "definition": "潜水者；跳水运动员",
+            "iscorrect": true
+          },
+          {
+            "definition": "司机；驾驶员",
+            "iscorrect": false
+          },
+          {
+            "definition": "驾驶教练；车夫",
+            "iscorrect": false
+          },
+          {
+            "definition": "游泳爱好者；戏水者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

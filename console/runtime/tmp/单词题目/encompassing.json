@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "encompassing",
+      "error_analysis": "学生易因\"compass\"的\"指南针\"义误将\"encompassing\"理解为\"与指南针相关的\"，或因形近词\"encounter\"误判为\"遇到的\"",
+      "sentence": "The new policy is **encompassing** all employees, regardless of their department or seniority.",
+      "options": {
+        "option": [
+          {
+            "definition": "包含；涵盖",
+            "iscorrect": true
+          },
+          {
+            "definition": "与指南针相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "遇到的",
+            "iscorrect": false
+          },
+          {
+            "definition": "封闭的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

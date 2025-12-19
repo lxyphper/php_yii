@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "asymmetrical",
+      "error_analysis": "学生易因形近词（如sympathetic）干扰或词根误导（将a-误判为加强前缀）而错误理解为“同情的”或“非常对称的”",
+      "sentence": "The artist intentionally made the painting **asymmetrical** by placing the large tree on the left and a small flower on the right.",
+      "options": {
+        "option": [
+          {
+            "definition": "同情的",
+            "iscorrect": false
+          },
+          {
+            "definition": "非常对称的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不对称的",
+            "iscorrect": true
+          },
+          {
+            "definition": "无症状的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

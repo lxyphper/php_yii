@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "downward",
+      "error_analysis": "学生易将“downward”与形近基础词“downstairs”（楼下的）混淆，或误通过“ward”后缀联想“病房”含义。",
+      "sentence": "The path leading to the lake has a **downward** slope, so be careful not to slip.",
+      "options": {
+        "option": [
+          {
+            "definition": "向下的；下降的",
+            "iscorrect": true
+          },
+          {
+            "definition": "楼下的",
+            "iscorrect": false
+          },
+          {
+            "definition": "病房的",
+            "iscorrect": false
+          },
+          {
+            "definition": "绒毛的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

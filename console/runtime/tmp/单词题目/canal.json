@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "canal",
+      "error_analysis": "学生易因形近词\"channel\"（频道、渠道）干扰，或因\"can\"（能）的字面联想误判词义",
+      "sentence": "The Suez **canal**, connecting the Mediterranean and Red Seas, is a vital trade route for ships.",
+      "options": {
+        "option": [
+          {
+            "definition": "运河；沟渠（人工挖的水道）",
+            "iscorrect": true
+          },
+          {
+            "definition": "频道；渠道（如电视频道、销售渠道）",
+            "iscorrect": false
+          },
+          {
+            "definition": "能；可以（表示能力的动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "管道；导管（如水管、输油管）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

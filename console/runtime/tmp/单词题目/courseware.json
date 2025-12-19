@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "courseware",
+      "error_analysis": "学生易混淆形近词\"coursework\"(课程作业)，或通过\"course+ware\"词根拆分过度直译(如\"课程制品\")。",
+      "sentence": "The teacher used interactive **courseware** to explain the math concepts to the students.",
+      "options": {
+        "option": [
+          {
+            "definition": "课程作业",
+            "iscorrect": false
+          },
+          {
+            "definition": "课件（教学用的数字或软件材料）",
+            "iscorrect": true
+          },
+          {
+            "definition": "课程制品",
+            "iscorrect": false
+          },
+          {
+            "definition": "课程仓库",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

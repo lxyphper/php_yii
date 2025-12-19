@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "video game",
+      "error_analysis": "学生易将\"video game\"字面拆解为\"游戏视频\"（关于游戏的视频内容），而非其核心含义\"电子游戏\"（可互动游玩的电子娱乐产品）",
+      "sentence": "Tom spends hours every weekend playing **video games** with his friends online.",
+      "options": {
+        "option": [
+          {
+            "definition": "电子游戏",
+            "iscorrect": true
+          },
+          {
+            "definition": "游戏视频",
+            "iscorrect": false
+          },
+          {
+            "definition": "视频比赛",
+            "iscorrect": false
+          },
+          {
+            "definition": "音频游戏",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

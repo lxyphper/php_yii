@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to [raise] a glass",
+      "error_analysis": "学生易将固定短语字面直译为“举起杯子”（忽略“敬酒”隐含义），或因形近词“rise”误解为“让杯子上升”。",
+      "sentence": "At the wedding, everyone stood up to **raise a glass** to the newlyweds.",
+      "options": {
+        "option": [
+          {
+            "definition": "举杯敬酒",
+            "iscorrect": true
+          },
+          {
+            "definition": "举起杯子",
+            "iscorrect": false
+          },
+          {
+            "definition": "让杯子上升",
+            "iscorrect": false
+          },
+          {
+            "definition": "抚养杯子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

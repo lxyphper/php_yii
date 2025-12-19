@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sufficient",
+      "error_analysis": "将`sufficient`与形近词`efficient`混淆，误理解为“高效的”",
+      "sentence": "The amount of water we have is **sufficient** for a three-day camping trip.",
+      "options": {
+        "option": [
+          {
+            "definition": "足够的；充足的",
+            "iscorrect": true
+          },
+          {
+            "definition": "高效的",
+            "iscorrect": false
+          },
+          {
+            "definition": "满意的",
+            "iscorrect": false
+          },
+          {
+            "definition": "丰富的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

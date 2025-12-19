@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gum",
+      "error_analysis": "易因形近混淆为\"枪\"(gun)，或因黏的特性误判为\"胶水\"(glue)",
+      "sentence": "My little brother loves to blow bubbles with his **gum** after school.",
+      "options": {
+        "option": [
+          {
+            "definition": "枪",
+            "iscorrect": false
+          },
+          {
+            "definition": "胶水",
+            "iscorrect": false
+          },
+          {
+            "definition": "牙龈",
+            "iscorrect": false
+          },
+          {
+            "definition": "口香糖",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

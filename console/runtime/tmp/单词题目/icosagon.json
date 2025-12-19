@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "icosagon",
+      "error_analysis": "学生易将词根\"icosa-\"（二十）误判为\"icon\"（图标）的词根，或因形近\"icicle\"（冰柱）误以为与冰柱相关",
+      "sentence": "The architect chose a **icosagon** for the park's fountain design, as its twenty equal sides would create a balanced, symmetrical look.",
+      "options": {
+        "option": [
+          {
+            "definition": "二十边形（有二十条边的平面几何图形）",
+            "iscorrect": true
+          },
+          {
+            "definition": "冰柱（由冰形成的尖锐柱状物体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "图标（具有象征意义的图形符号）",
+            "iscorrect": false
+          },
+          {
+            "definition": "二十面体（有二十个面的三维立体图形）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

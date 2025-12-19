@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to upbraid",
+      "error_analysis": "学生易因形近词“braid”（编织）或词根“up+braid”的错误推导，将“upbraid”误解为“编织/整理”或“向上提升”。",
+      "sentence": "When Tom forgot to finish his homework for the third time, his teacher **upbraided** him in front of the whole class.",
+      "options": {
+        "option": [
+          {
+            "definition": "编织；编辫子",
+            "iscorrect": false
+          },
+          {
+            "definition": "向上提升；升级",
+            "iscorrect": false
+          },
+          {
+            "definition": "责备；训斥",
+            "iscorrect": true
+          },
+          {
+            "definition": "整理（头发）；梳辫子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

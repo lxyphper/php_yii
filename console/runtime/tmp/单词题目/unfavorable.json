@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unfavorable",
+      "error_analysis": "学生易将unfavorable混淆为形近词unfamiliar（不熟悉的）或误译为“不喜欢的”（词根favor过度直译）。",
+      "sentence": "The **unfavorable** weather conditions forced the team to cancel their outdoor match.",
+      "options": {
+        "option": [
+          {
+            "definition": "不利的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不熟悉的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不喜欢的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不友好的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

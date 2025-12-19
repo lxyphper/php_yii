@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "framework",
+      "error_analysis": "学生易将\"framework\"直译为\"框架的工作\"(frame+work)，忽略其抽象的\"框架；体系\"核心含义。",
+      "sentence": "Scientists use a **framework** of theories to explain how the universe works.",
+      "options": {
+        "option": [
+          {
+            "definition": "框架；体系",
+            "iscorrect": true
+          },
+          {
+            "definition": "框架的工作",
+            "iscorrect": false
+          },
+          {
+            "definition": "工作框架",
+            "iscorrect": false
+          },
+          {
+            "definition": "结构作品",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

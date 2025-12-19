@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "biohazard",
+      "error_analysis": "学生易因词根拆分（bio+hazard）过度直译（如“生物实验”），或因形近词（如biofuel）联想错误（如“生物燃料”）",
+      "sentence": "The lab technician wore gloves and a mask when handling the **biohazard** sample to avoid exposure to the harmful bacteria.",
+      "options": {
+        "option": [
+          {
+            "definition": "生物危害（指含有活有机体或其产物，对人类健康或环境有害的物质）",
+            "iscorrect": true
+          },
+          {
+            "definition": "生物燃料（可由生物材料制成的燃料，如乙醇）",
+            "iscorrect": false
+          },
+          {
+            "definition": "生物实验（涉及生物材料的科学实验）",
+            "iscorrect": false
+          },
+          {
+            "definition": "生物降解（可被生物分解的特性）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "three",
+      "error_analysis": "学生易因形近词\"tree\"（树）的干扰，将\"three\"误理解为\"树\"",
+      "sentence": "I have **three** red apples in my backpack. Can you pass me one?",
+      "options": {
+        "option": [
+          {
+            "definition": "三",
+            "iscorrect": true
+          },
+          {
+            "definition": "树",
+            "iscorrect": false
+          },
+          {
+            "definition": "那里",
+            "iscorrect": false
+          },
+          {
+            "definition": "四",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

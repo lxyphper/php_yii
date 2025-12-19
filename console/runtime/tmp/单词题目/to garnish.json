@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to garnish",
+      "error_analysis": "学生易因形近词“garbage”（垃圾）误判为“丢弃”，或因后缀“-ish”联想到“finish”（完成）误判为“结束”。",
+      "sentence": "The chef likes to **garnish** the soup with a sprig of parsley before serving.",
+      "options": {
+        "option": [
+          {
+            "definition": "装饰（食物或饮料）",
+            "iscorrect": true
+          },
+          {
+            "definition": "丢弃；当作垃圾处理",
+            "iscorrect": false
+          },
+          {
+            "definition": "完成；结束",
+            "iscorrect": false
+          },
+          {
+            "definition": "调味；加调料",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

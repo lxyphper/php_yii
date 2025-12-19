@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "factor",
+      "error_analysis": "易因形近词\"factory\"(工厂)及词根\"fact-\"(做)误导，将\"factor\"错误理解为\"工厂\"或\"制造者\"",
+      "sentence": "The main **factor** affecting his decision was the cost of living in that city.",
+      "options": {
+        "option": [
+          {
+            "definition": "因素；因子",
+            "iscorrect": true
+          },
+          {
+            "definition": "工厂",
+            "iscorrect": false
+          },
+          {
+            "definition": "制造者；做的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "事实；真相",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

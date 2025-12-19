@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "potential",
+      "error_analysis": "学生易因词根“pot-”（能力）误将“potential”直接理解为“能力”，或因形近词“potent”（强有力的）混淆为“强有力的”。",
+      "sentence": "The young athlete has great **potential**; with proper training, she could become an Olympic champion.",
+      "options": {
+        "option": [
+          {
+            "definition": "潜在的能力；可能性",
+            "iscorrect": true
+          },
+          {
+            "definition": "能力",
+            "iscorrect": false
+          },
+          {
+            "definition": "强有力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可能的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

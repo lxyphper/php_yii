@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "courtesy",
+      "error_analysis": "学生易将“courtesy”与形近词“courage”（勇气）或“course”（课程）混淆，误判词义",
+      "sentence": "It’s a common **courtesy** to hold the door open for someone behind you.",
+      "options": {
+        "option": [
+          {
+            "definition": "礼貌，谦恭",
+            "iscorrect": true
+          },
+          {
+            "definition": "勇气",
+            "iscorrect": false
+          },
+          {
+            "definition": "课程",
+            "iscorrect": false
+          },
+          {
+            "definition": "法庭程序",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

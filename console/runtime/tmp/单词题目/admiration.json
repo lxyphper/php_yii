@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "admiration",
+      "error_analysis": "易与形近词administration（行政）混淆，或误将其等同于“羡慕”（envy）而非“钦佩”",
+      "sentence": "Her dedication to helping the homeless has won her great **admiration** from the local community.",
+      "options": {
+        "option": [
+          {
+            "definition": "行政；管理",
+            "iscorrect": false
+          },
+          {
+            "definition": "钦佩；赞赏",
+            "iscorrect": true
+          },
+          {
+            "definition": "羡慕；妒忌",
+            "iscorrect": false
+          },
+          {
+            "definition": "承认；准入",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "match",
+      "error_analysis": "学生易因形近词“mate”（伙伴）、“catch”（抓住）的干扰，或误将“匹配”猜为“混合”。",
+      "sentence": "These curtains don't **match** the wallpaper at all.",
+      "options": {
+        "option": [
+          {
+            "definition": "伙伴",
+            "iscorrect": false
+          },
+          {
+            "definition": "匹配",
+            "iscorrect": true
+          },
+          {
+            "definition": "混合",
+            "iscorrect": false
+          },
+          {
+            "definition": "抓住",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to impersonate",
+      "error_analysis": "中国学生易因形近词“impress”（给印象）或“impersonal”（客观的）混淆，或词根“im-”误解为“不”而误判词义",
+      "sentence": "The actor will **impersonate** the famous singer in the new movie, copying his voice and gestures exactly.",
+      "options": {
+        "option": [
+          {
+            "definition": "给某人留下深刻印象",
+            "iscorrect": false
+          },
+          {
+            "definition": "客观的；无人情味的",
+            "iscorrect": false
+          },
+          {
+            "definition": "扮演（某人）；模仿（某人的言行）",
+            "iscorrect": true
+          },
+          {
+            "definition": "使无人；使失去人性",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

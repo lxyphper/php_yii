@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "suburb",
+      "error_analysis": "易混淆形近词\"subway\"（地铁）及词根\"sub-+urb\"的错误推导（如认为是“城市下方的区域”）",
+      "sentence": "Many families move to a **suburb** to enjoy more space while still being close to city amenities.",
+      "options": {
+        "option": [
+          {
+            "definition": "郊区",
+            "iscorrect": true
+          },
+          {
+            "definition": "地铁",
+            "iscorrect": false
+          },
+          {
+            "definition": "城市下方的区域",
+            "iscorrect": false
+          },
+          {
+            "definition": "乡村",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

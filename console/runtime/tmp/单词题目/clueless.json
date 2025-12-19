@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "clueless",
+      "error_analysis": "学生易因词根\"clue\"(线索)和后缀\"-less\"(没有)，错误将\"clueless\"理解为\"没有线索的\"(字面义)，忽略其更常用的\"一无所知的\"(引申义)；或混淆形近词\"careless\"(粗心的)。",
+      "sentence": "When asked about how to fix the broken bike, Mike looked **clueless** and replied, \"I don't know anything about it.\"",
+      "options": {
+        "option": [
+          {
+            "definition": "没有线索的",
+            "iscorrect": false
+          },
+          {
+            "definition": "粗心的",
+            "iscorrect": false
+          },
+          {
+            "definition": "一无所知的",
+            "iscorrect": true
+          },
+          {
+            "definition": "笨拙的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

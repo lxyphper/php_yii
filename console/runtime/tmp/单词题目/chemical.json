@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "chemical",
+      "error_analysis": "中国学生易因形近词\"chemist\"(化学家)或词根关联误将\"chemical\"错判为\"化学课\"(chemistry)，混淆词性/词义。",
+      "sentence": "The farmer stopped using **chemical** fertilizers to protect the soil.",
+      "options": {
+        "option": [
+          {
+            "definition": "化学的；化学品",
+            "iscorrect": true
+          },
+          {
+            "definition": "化学家",
+            "iscorrect": false
+          },
+          {
+            "definition": "化学课",
+            "iscorrect": false
+          },
+          {
+            "definition": "自然的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

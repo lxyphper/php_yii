@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to look out for",
+      "error_analysis": "学生易将\"look out for\"字面拆解为\"向外看寻找\"或与\"look for\"（寻找）混淆，误理解为\"出去寻找\"或\"更努力地寻找\"。",
+      "sentence": "When you're walking in the crowd, you should **look out for** your wallet to avoid being stolen.",
+      "options": {
+        "option": [
+          {
+            "definition": "留意，注意",
+            "iscorrect": true
+          },
+          {
+            "definition": "出去寻找",
+            "iscorrect": false
+          },
+          {
+            "definition": "寻找",
+            "iscorrect": false
+          },
+          {
+            "definition": "小心避开",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

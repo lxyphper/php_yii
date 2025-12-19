@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "boot",
+      "error_analysis": "学生易因形近词\"boat\"混淆为\"船\"，或误将\"boot\"理解为穿在脚上的其他物品（如袜子）",
+      "sentence": "She put on her warm **boots** before going out to play in the snow.",
+      "options": {
+        "option": [
+          {
+            "definition": "船",
+            "iscorrect": false
+          },
+          {
+            "definition": "靴子",
+            "iscorrect": true
+          },
+          {
+            "definition": "袜子",
+            "iscorrect": false
+          },
+          {
+            "definition": "帽子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

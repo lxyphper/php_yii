@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to diverge",
+      "error_analysis": "易混淆形近词\"diverse\"(不同的)及词根\"verge\"(边缘)带来的\"接近;趋向\"错误联想",
+      "sentence": "The two roads **diverge** at the foot of the mountain, so we need to decide which one to take.",
+      "options": {
+        "option": [
+          {
+            "definition": "分歧；分叉；偏离",
+            "iscorrect": true
+          },
+          {
+            "definition": "不同的；多种多样的",
+            "iscorrect": false
+          },
+          {
+            "definition": "接近；趋向",
+            "iscorrect": false
+          },
+          {
+            "definition": "聚集；汇聚",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

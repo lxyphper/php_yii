@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "too",
+      "error_analysis": "学生易因形近混淆“too”与“to”（介词）、“two”（数字），误将“too”理解为“到”或“二”。",
+      "sentence": "I want to go to the park, and my sister wants to go **too**.",
+      "options": {
+        "option": [
+          {
+            "definition": "也；太（表示程度或附加）",
+            "iscorrect": true
+          },
+          {
+            "definition": "到；向（介词，表方向）",
+            "iscorrect": false
+          },
+          {
+            "definition": "二（数字，数量）",
+            "iscorrect": false
+          },
+          {
+            "definition": "工具（名词，用于工作的物品）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

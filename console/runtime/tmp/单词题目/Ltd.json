@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Ltd",
+      "error_analysis": "学生易因形近词\"lit\"(点燃)混淆，或对其作为\"有限责任公司\"缩写的含义不熟悉",
+      "sentence": "The new bookstore downtown is registered as Page Turners **Ltd**.",
+      "options": {
+        "option": [
+          {
+            "definition": "有限责任公司（用于公司名称的缩写）",
+            "iscorrect": true
+          },
+          {
+            "definition": "点燃（light的过去式和过去分词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "限制（动词，limit的第三人称单数形式）",
+            "iscorrect": false
+          },
+          {
+            "definition": "小的；少的（little的非正式缩写）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

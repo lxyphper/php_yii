@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to inspire",
+      "error_analysis": "易因形近词“expire”（过期）或词根“spir”（呼吸）的字面意思产生误判",
+      "sentence": "Her story of overcoming adversity continues to **inspire** young people to pursue their dreams.",
+      "options": {
+        "option": [
+          {
+            "definition": "激励；启发",
+            "iscorrect": true
+          },
+          {
+            "definition": "过期；失效",
+            "iscorrect": false
+          },
+          {
+            "definition": "吸入；呼吸",
+            "iscorrect": false
+          },
+          {
+            "definition": "表扬；赞扬",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

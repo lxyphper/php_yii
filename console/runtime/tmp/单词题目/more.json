@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "more",
+      "error_analysis": "中国学生易因形近词（如mere/仅仅、moor/沼泽）或词根（mor-）误导而错误理解“more”的核心义“更多的”",
+      "sentence": "She asked for **more** cookies because they were delicious.",
+      "options": {
+        "option": [
+          {
+            "definition": "更多的（比较级）",
+            "iscorrect": true
+          },
+          {
+            "definition": "仅仅（mere的形近词干扰）",
+            "iscorrect": false
+          },
+          {
+            "definition": "沼泽（moor的形近词干扰）",
+            "iscorrect": false
+          },
+          {
+            "definition": "道德的（mor-词根误导）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

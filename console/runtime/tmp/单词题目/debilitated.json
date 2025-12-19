@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "debilitated",
+      "error_analysis": "中国学生易因形近词\"deliberate\"（故意的）或词根推导错误（认为是\"残疾的\"）误解\"debilitated\"。",
+      "sentence": "The long illness left him **debilitated**, unable to perform even simple tasks like pouring a glass of water.",
+      "options": {
+        "option": [
+          {
+            "definition": "故意的",
+            "iscorrect": false
+          },
+          {
+            "definition": "虚弱的，衰弱的",
+            "iscorrect": true
+          },
+          {
+            "definition": "残疾的",
+            "iscorrect": false
+          },
+          {
+            "definition": "疲惫的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "boy",
+      "error_analysis": "学生易因形近词“buy”（买）的拼写干扰，或误将“boy”理解为“成年男性”",
+      "sentence": "The **boy** with a red hat is my 8-year-old brother.",
+      "options": {
+        "option": [
+          {
+            "definition": "男孩（未成年男性）",
+            "iscorrect": true
+          },
+          {
+            "definition": "买（动词，购买）",
+            "iscorrect": false
+          },
+          {
+            "definition": "男人（成年男性）",
+            "iscorrect": false
+          },
+          {
+            "definition": "玩具（儿童玩耍的物品）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

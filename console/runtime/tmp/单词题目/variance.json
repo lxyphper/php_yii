@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "variance",
+      "error_analysis": "易混淆形近词\"variety\"(种类)及词根误导(误解为\"变体\")",
+      "sentence": "The **variance** in test scores between the two classes suggested that their teaching methods had different effects.",
+      "options": {
+        "option": [
+          {
+            "definition": "差异；变化",
+            "iscorrect": true
+          },
+          {
+            "definition": "种类；多样性",
+            "iscorrect": false
+          },
+          {
+            "definition": "变体；变种",
+            "iscorrect": false
+          },
+          {
+            "definition": "变量；可变因素",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

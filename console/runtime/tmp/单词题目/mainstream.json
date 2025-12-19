@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mainstream",
+      "error_analysis": "学生易因“main”（主要的）和“stream”（溪流）的字面组合，将“mainstream”错误理解为“主要的溪流”，而忽略其“主流”的抽象含义",
+      "sentence": "Social media has become a key part of **mainstream** culture for young people today.",
+      "options": {
+        "option": [
+          {
+            "definition": "主流（指社会、文化等的主要趋势或潮流）",
+            "iscorrect": true
+          },
+          {
+            "definition": "主要的溪流",
+            "iscorrect": false
+          },
+          {
+            "definition": "主要的支柱",
+            "iscorrect": false
+          },
+          {
+            "definition": "主要的线路",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

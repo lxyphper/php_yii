@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "vegetation",
+      "error_analysis": "学生易因形近词\"vegetable\"（蔬菜）的干扰，将\"vegetation\"误判为\"蔬菜\"或\"蔬菜类\"",
+      "sentence": "The dense **vegetation** in the Amazon rainforest supports a vast array of animal species.",
+      "options": {
+        "option": [
+          {
+            "definition": "植被；植物群落",
+            "iscorrect": true
+          },
+          {
+            "definition": "蔬菜；蔬菜类",
+            "iscorrect": false
+          },
+          {
+            "definition": "植物的生长过程",
+            "iscorrect": false
+          },
+          {
+            "definition": "素食者；食草动物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

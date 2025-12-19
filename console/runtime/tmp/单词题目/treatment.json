@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "treatment",
+      "error_analysis": "学生易因形近词“treat”（款待、对待）的影响，将“treatment”误理解为“款待”或“对待方式”，而忽略其最常用的“治疗”义。",
+      "sentence": "After the accident, the patient received immediate medical **treatment** to stop the bleeding.",
+      "options": {
+        "option": [
+          {
+            "definition": "治疗；处理",
+            "iscorrect": true
+          },
+          {
+            "definition": "款待；招待",
+            "iscorrect": false
+          },
+          {
+            "definition": "对待方式；态度",
+            "iscorrect": false
+          },
+          {
+            "definition": "药物；药剂",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

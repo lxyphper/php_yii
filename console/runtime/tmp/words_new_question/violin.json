@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "violin",
+      "error_analysis": "学生易因形近词\"violence\"（暴力）产生混淆，或误将其与同属弦乐器的\"viola\"（中提琴）等同。",
+      "sentence": "She has been playing the **violin** since she was five years old and won a prize in the city competition.",
+      "options": {
+        "option": [
+          {
+            "definition": "暴力",
+            "iscorrect": false
+          },
+          {
+            "definition": "中提琴",
+            "iscorrect": false
+          },
+          {
+            "definition": "长笛",
+            "iscorrect": false
+          },
+          {
+            "definition": "小提琴",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

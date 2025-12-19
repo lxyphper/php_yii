@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "present",
+      "error_analysis": "中国学生易混淆形近词“president”（总统），或误将动词义“展示”理解为形容词义“现在的”。",
+      "sentence": "The teacher asked Tom to **present** his project in front of the class.",
+      "options": {
+        "option": [
+          {
+            "definition": "展示；呈现（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "总统（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "现在的；当前的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "礼物（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

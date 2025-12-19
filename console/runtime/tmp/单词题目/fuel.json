@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fuel",
+      "error_analysis": "容易混淆形近词\"full\"（满的），误将\"fuel\"理解为\"满的\"；或与\"fool\"（傻瓜）产生拼写联想",
+      "sentence": "The car broke down on the highway because it had no more **fuel** left.",
+      "options": {
+        "option": [
+          {
+            "definition": "燃料；燃油",
+            "iscorrect": true
+          },
+          {
+            "definition": "满的；充满的",
+            "iscorrect": false
+          },
+          {
+            "definition": "傻瓜；愚人",
+            "iscorrect": false
+          },
+          {
+            "definition": "工具；器具",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

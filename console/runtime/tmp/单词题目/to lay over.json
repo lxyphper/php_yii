@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to lay over",
+      "error_analysis": "学生易因\"lay\"(放置、躺)和\"over\"(在...之上)的字面意思，错误理解为\"把...放置在...上面\"或\"躺在...上面\"，忽略其\"中途停留\"的引申义。",
+      "sentence": "Our flight will **lay over** in Seoul for 90 minutes before continuing to New York.",
+      "options": {
+        "option": [
+          {
+            "definition": "（飞机、火车等）中途停留",
+            "iscorrect": true
+          },
+          {
+            "definition": "把...放置在...上面",
+            "iscorrect": false
+          },
+          {
+            "definition": "延期；推迟",
+            "iscorrect": false
+          },
+          {
+            "definition": "解雇；停止工作",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

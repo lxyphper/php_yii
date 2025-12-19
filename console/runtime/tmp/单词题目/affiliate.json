@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "affiliate",
+      "error_analysis": "学生易因形近词“affect”（影响）或词根“fil-”与“file”（文件）的混淆，将“affiliate”误解为“影响”或“文件相关”。",
+      "sentence": "The local theater is an **affiliate** of the national performing arts center.",
+      "options": {
+        "option": [
+          {
+            "definition": "附属机构",
+            "iscorrect": true
+          },
+          {
+            "definition": "影响",
+            "iscorrect": false
+          },
+          {
+            "definition": "文件处理部门",
+            "iscorrect": false
+          },
+          {
+            "definition": "正式成员",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

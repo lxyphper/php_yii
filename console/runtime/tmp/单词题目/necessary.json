@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "necessary",
+      "error_analysis": "中国学生易因形近词“nervous”（紧张的）或误将“necessary”理解为“重要的”（important）而产生词义错误",
+      "sentence": "It's **necessary** to bring an umbrella today because the weather forecast says it will rain heavily.",
+      "options": {
+        "option": [
+          {
+            "definition": "必须的；必要的",
+            "iscorrect": true
+          },
+          {
+            "definition": "紧张的",
+            "iscorrect": false
+          },
+          {
+            "definition": "重要的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有趣的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

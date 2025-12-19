@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "daughter-in-law",
+      "error_analysis": "易因包含\"daughter\"（女儿）而误判为\"女儿\"，或因\"in-law\"字面误导为\"养女\"或\"继女\"",
+      "sentence": "My mother always says her **daughter-in-law** is the best person to ask for cooking advice—she even taught me how to make her famous dumplings.",
+      "options": {
+        "option": [
+          {
+            "definition": "女儿",
+            "iscorrect": false
+          },
+          {
+            "definition": "儿媳",
+            "iscorrect": true
+          },
+          {
+            "definition": "养女",
+            "iscorrect": false
+          },
+          {
+            "definition": "继女",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

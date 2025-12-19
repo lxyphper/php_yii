@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "good evening",
+      "error_analysis": "学生易将问候语\"good evening\"字面拆分为描述性名词短语\"美好的夜晚\"。",
+      "sentence": "When Tom bumped into his teacher at the library at 7 PM, he politely said, \"**Good evening**! Do you need help finding a book?\"",
+      "options": {
+        "option": [
+          {
+            "definition": "晚上好（用于晚上见面时的问候）",
+            "iscorrect": true
+          },
+          {
+            "definition": "美好的夜晚（描述夜晚的状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "晚安（用于晚上告别的祝福）",
+            "iscorrect": false
+          },
+          {
+            "definition": "好的晚上（逐词翻译的字面意思）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

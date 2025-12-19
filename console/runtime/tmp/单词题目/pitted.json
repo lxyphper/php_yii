@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pitted",
+      "error_analysis": "学生易因\"pit\"（坑、矿井）的词根误导，将\"pitted\"错误理解为\"有矿井的\"或\"有坑的\"，忽略其\"去核的\"核心含义。",
+      "sentence": "Before making the jam, she bought a bag of **pitted** plums to save time.",
+      "options": {
+        "option": [
+          {
+            "definition": "去核的（用于水果，去除果核的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "有矿井的（包含矿井或矿坑的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "有坑的（表面布满凹坑的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "油漆的（涂过油漆的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "blueshift",
+      "error_analysis": "学生易通过词根\"blue\"+\"shift\"直译为\"蓝色的移动\"，或混淆形近词\"blueprint\"（蓝图）导致错误理解",
+      "sentence": "Astronomers detected a **blueshift** in the spectrum of the star, indicating it is moving toward our solar system.",
+      "options": {
+        "option": [
+          {
+            "definition": "（天体物理中，光源向观察者移动时光谱向蓝色端偏移的现象；蓝移）",
+            "iscorrect": true
+          },
+          {
+            "definition": "蓝图（设计图或计划）",
+            "iscorrect": false
+          },
+          {
+            "definition": "蓝色的移动（非科学术语的字面翻译）",
+            "iscorrect": false
+          },
+          {
+            "definition": "布鲁斯音乐的转变（与\"blues\"（布鲁斯）的错误联想）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

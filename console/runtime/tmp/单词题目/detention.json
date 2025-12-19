@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "detention",
+      "error_analysis": "学生易因形近词“attention”（注意）或词根“detain”不熟悉而误判为“注意”或“保留”。",
+      "sentence": "The teacher gave Tom a **detention** because he skipped class twice this week.",
+      "options": {
+        "option": [
+          {
+            "definition": "注意",
+            "iscorrect": false
+          },
+          {
+            "definition": "保留",
+            "iscorrect": false
+          },
+          {
+            "definition": "检测",
+            "iscorrect": false
+          },
+          {
+            "definition": "留校察看",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

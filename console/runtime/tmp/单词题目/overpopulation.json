@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "overpopulation",
+      "error_analysis": "学生易因\"population\"与\"pollution\"形近将\"overpopulation\"误判为\"过度污染\"，或因词根混淆将其等同于\"过度拥挤\"。",
+      "sentence": "The government is implementing policies to address the challenges caused by **overpopulation**, such as water scarcity and housing shortages.",
+      "options": {
+        "option": [
+          {
+            "definition": "人口过剩",
+            "iscorrect": true
+          },
+          {
+            "definition": "过度污染",
+            "iscorrect": false
+          },
+          {
+            "definition": "过度拥挤",
+            "iscorrect": false
+          },
+          {
+            "definition": "人口增长",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

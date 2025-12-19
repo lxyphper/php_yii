@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "delicious",
+      "error_analysis": "学生易因形近词\"delicate\"（精致的）干扰，将\"delicious\"误判为\"精致的\"而非核心义\"美味的\"。",
+      "sentence": "The homemade chocolate cake smells so good, and it tastes even more **delicious** than it looks.",
+      "options": {
+        "option": [
+          {
+            "definition": "美味的",
+            "iscorrect": true
+          },
+          {
+            "definition": "精致的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人高兴的",
+            "iscorrect": false
+          },
+          {
+            "definition": "昂贵的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

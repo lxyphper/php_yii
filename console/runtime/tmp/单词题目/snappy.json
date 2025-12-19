@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "snappy",
+      "error_analysis": "中国学生易因“snap”（快照/快速）的形近或词根联想，误将“snappy”理解为“与摄影相关的”或“快速的”。",
+      "sentence": "The model walked down the runway in a **snappy** outfit that caught every fashion critic's eye.",
+      "options": {
+        "option": [
+          {
+            "definition": "与摄影相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速的；敏捷的",
+            "iscorrect": false
+          },
+          {
+            "definition": "时髦的；吸引人的",
+            "iscorrect": true
+          },
+          {
+            "definition": "快乐的；愉快的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

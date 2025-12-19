@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "streaming",
+      "error_analysis": "易因形近词\"stream\"（小溪）或\"steaming\"（蒸汽的）误判为\"溪流的流动\"或\"冒热气的\"",
+      "sentence": "Many young people prefer **streaming** movies online instead of downloading them.",
+      "options": {
+        "option": [
+          {
+            "definition": "溪流的流动",
+            "iscorrect": false
+          },
+          {
+            "definition": "冒热气的",
+            "iscorrect": false
+          },
+          {
+            "definition": "流媒体（播放/传输）",
+            "iscorrect": true
+          },
+          {
+            "definition": "流动的状态",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

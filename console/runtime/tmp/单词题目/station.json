@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "station",
+      "error_analysis": "学生易因词根“stat-”（站立）误判为“站立的位置”，或因形近词“statue”（雕像）产生视觉混淆。",
+      "sentence": "You need to get off the train at the next **station** to reach the museum.",
+      "options": {
+        "option": [
+          {
+            "definition": "车站",
+            "iscorrect": true
+          },
+          {
+            "definition": "雕像",
+            "iscorrect": false
+          },
+          {
+            "definition": "站立的位置",
+            "iscorrect": false
+          },
+          {
+            "definition": "摊位",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bossy",
+      "error_analysis": "将“bossy”误理解为“老板的”或“像老板的”（源于形近词“boss”的联想及词根字面推导）",
+      "sentence": "My little sister is so **bossy**—she always tells me exactly how to play with her toys, even if I try to help.",
+      "options": {
+        "option": [
+          {
+            "definition": "专横的；爱发号施令的",
+            "iscorrect": true
+          },
+          {
+            "definition": "老板的；与老板有关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "忙碌的；繁忙的",
+            "iscorrect": false
+          },
+          {
+            "definition": "友好的；亲切的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

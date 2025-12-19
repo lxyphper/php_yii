@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to eye",
+      "error_analysis": "学生易将\"to eye\"误解为\"眼睛\"（名词，形近词词性混淆）或\"用眼睛看\"（字面直译，忽略其\"带情绪注视\"的核心含义）",
+      "sentence": "When the cake was brought out, all the kids started to **eye** it eagerly.",
+      "options": {
+        "option": [
+          {
+            "definition": "注视，盯着看（尤指带着渴望或好奇的情绪）",
+            "iscorrect": true
+          },
+          {
+            "definition": "眼睛（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "看见（普通的视觉动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "给...安装眼睛",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

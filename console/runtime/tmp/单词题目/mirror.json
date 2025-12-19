@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mirror",
+      "error_analysis": "学生易因形近词“error”（错误）或词根联想“miracle”（奇迹）误判“mirror”的意思",
+      "sentence": "She looked at herself in the **mirror** and fixed her hair before going out.",
+      "options": {
+        "option": [
+          {
+            "definition": "镜子",
+            "iscorrect": true
+          },
+          {
+            "definition": "错误",
+            "iscorrect": false
+          },
+          {
+            "definition": "奇迹",
+            "iscorrect": false
+          },
+          {
+            "definition": "次要的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "energy",
+      "error_analysis": "中国学生易因形近词“enemy”（敌人）混淆，或因词根联想错误将“energy”理解为“发动机”（engine）。",
+      "sentence": "After a good night's sleep, she had enough **energy** to finish her homework and go for a run.",
+      "options": {
+        "option": [
+          {
+            "definition": "能量；精力",
+            "iscorrect": true
+          },
+          {
+            "definition": "敌人",
+            "iscorrect": false
+          },
+          {
+            "definition": "发动机",
+            "iscorrect": false
+          },
+          {
+            "definition": "努力",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

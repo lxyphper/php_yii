@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "veterinarian",
+      "error_analysis": "中国学生易因形近词“vegetarian”（素食者）及词根“veter-”与“veteran”（老兵）的混淆，错误理解该词词义。",
+      "sentence": "When my dog started vomiting, I rushed him to the **veterinarian** for emergency care.",
+      "options": {
+        "option": [
+          {
+            "definition": "兽医",
+            "iscorrect": true
+          },
+          {
+            "definition": "素食者",
+            "iscorrect": false
+          },
+          {
+            "definition": "老兵",
+            "iscorrect": false
+          },
+          {
+            "definition": "图书馆管理员",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

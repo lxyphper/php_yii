@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "financial",
+      "error_analysis": "中国学生易因形近词“final”（最终的）或词根“fin”（结束）误将“financial”理解为“最终的”或“结束的”。",
+      "sentence": "The company is facing serious **financial** problems due to the economic crisis.",
+      "options": {
+        "option": [
+          {
+            "definition": "金融的；财务的",
+            "iscorrect": true
+          },
+          {
+            "definition": "最终的",
+            "iscorrect": false
+          },
+          {
+            "definition": "结束的",
+            "iscorrect": false
+          },
+          {
+            "definition": "罚款的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

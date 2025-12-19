@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "full",
+      "error_analysis": "学生易因形近词\"fool\"（傻瓜）将\"full\"误理解为\"愚蠢的\"，或混淆其与\"空的\"的反义",
+      "sentence": "The glass is **full** of water, so be careful not to spill it.",
+      "options": {
+        "option": [
+          {
+            "definition": "满的",
+            "iscorrect": true
+          },
+          {
+            "definition": "愚蠢的",
+            "iscorrect": false
+          },
+          {
+            "definition": "空的",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

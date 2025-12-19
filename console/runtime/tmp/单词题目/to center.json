@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to center",
+      "error_analysis": "易因形近词\"censor\"(审查)产生混淆，或误将动词义直译为\"到中心\"而非\"使集中\"",
+      "sentence": "The teacher asked the students to **center** their attention on the new grammar rule.",
+      "options": {
+        "option": [
+          {
+            "definition": "使集中；以…为中心",
+            "iscorrect": true
+          },
+          {
+            "definition": "审查（书籍/电影等内容）",
+            "iscorrect": false
+          },
+          {
+            "definition": "移动到…的中心位置",
+            "iscorrect": false
+          },
+          {
+            "definition": "围绕…旋转",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

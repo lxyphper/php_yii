@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "workforce",
+      "error_analysis": "学生易因\"work\"+\"force\"字面联想误判为\"工作的力量\"，或与形近词\"workload\"（工作量）混淆",
+      "sentence": "The company plans to expand its **workforce** by recruiting 100 new employees next quarter.",
+      "options": {
+        "option": [
+          {
+            "definition": "全体员工；劳动力",
+            "iscorrect": true
+          },
+          {
+            "definition": "工作的力量",
+            "iscorrect": false
+          },
+          {
+            "definition": "工作量",
+            "iscorrect": false
+          },
+          {
+            "definition": "工作压力",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

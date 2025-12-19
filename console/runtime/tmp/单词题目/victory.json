@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "victory",
+      "error_analysis": "易混淆形近词victim（受害者）及词根误导的“胜利者”（混淆victory与victor）",
+      "sentence": "The team celebrated their **victory** loudly after winning the championship.",
+      "options": {
+        "option": [
+          {
+            "definition": "受害者",
+            "iscorrect": false
+          },
+          {
+            "definition": "胜利",
+            "iscorrect": true
+          },
+          {
+            "definition": "胜利者",
+            "iscorrect": false
+          },
+          {
+            "definition": "挑战",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

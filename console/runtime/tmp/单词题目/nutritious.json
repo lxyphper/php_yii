@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nutritious",
+      "error_analysis": "学生易因词根\"nut\"（坚果）误判为\"含坚果的\"，或因形近联想误判为\"美味的\"（如delicious）。",
+      "sentence": "Eating **nutritious** foods like vegetables and fruits every day helps keep your body healthy.",
+      "options": {
+        "option": [
+          {
+            "definition": "有营养的",
+            "iscorrect": true
+          },
+          {
+            "definition": "含坚果的",
+            "iscorrect": false
+          },
+          {
+            "definition": "美味的",
+            "iscorrect": false
+          },
+          {
+            "definition": "新鲜的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

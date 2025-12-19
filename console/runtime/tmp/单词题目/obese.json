@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "obese",
+      "error_analysis": "学生易因“obese”与常用词“obey”（服从）、“obscure”（模糊的）拼写接近而误判为“服从的”或“模糊的”",
+      "sentence": "After years of eating fast food daily, Lisa became **obese** and was advised by her doctor to exercise more.",
+      "options": {
+        "option": [
+          {
+            "definition": "服从的",
+            "iscorrect": false
+          },
+          {
+            "definition": "模糊的",
+            "iscorrect": false
+          },
+          {
+            "definition": "肥胖的",
+            "iscorrect": true
+          },
+          {
+            "definition": "痴迷的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

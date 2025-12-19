@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sacrament",
+      "error_analysis": "学生易因形近词“sacrifice”（牺牲）误判为“牺牲仪式”，或因词根“sac-”（神圣的）误猜为“神圣的物品”。",
+      "sentence": "In many Christian churches, the Eucharist—commemorating Jesus' last supper with his disciples—is regarded as a key **sacrament**.",
+      "options": {
+        "option": [
+          {
+            "definition": "牺牲仪式",
+            "iscorrect": false
+          },
+          {
+            "definition": "神圣的物品",
+            "iscorrect": false
+          },
+          {
+            "definition": "（基督教的）圣礼",
+            "iscorrect": true
+          },
+          {
+            "definition": "宗教教义",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

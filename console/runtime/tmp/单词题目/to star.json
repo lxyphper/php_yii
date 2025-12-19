@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to star",
+      "error_analysis": "混淆形近词\"start\"(开始)或字面理解为\"有星星\"，而非\"主演\"",
+      "sentence": "The upcoming superhero movie will **star** Zendaya as the lead character.",
+      "options": {
+        "option": [
+          {
+            "definition": "开始；启动",
+            "iscorrect": false
+          },
+          {
+            "definition": "主演（在电影/戏剧等中担任主角）",
+            "iscorrect": true
+          },
+          {
+            "definition": "有星星；点缀星星",
+            "iscorrect": false
+          },
+          {
+            "definition": "盯着看；凝视",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

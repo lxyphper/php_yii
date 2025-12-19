@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to lick",
+      "error_analysis": "学生易将“to lick”（舔）与形近词“kick”（踢）混淆，或误理解为“轻拍”等类似动作。",
+      "sentence": "The cat likes to **lick** the milk from the bowl every morning.",
+      "options": {
+        "option": [
+          {
+            "definition": "舔",
+            "iscorrect": true
+          },
+          {
+            "definition": "踢",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻拍",
+            "iscorrect": false
+          },
+          {
+            "definition": "咬",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

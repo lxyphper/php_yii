@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "candle",
+      "error_analysis": "中国学生易因形近词\"candy\"(糖果)混淆，或因词根\"cand\"(发光)误判为\"灯\"",
+      "sentence": "The **candle** on the birthday cake went out when she blew it.",
+      "options": {
+        "option": [
+          {
+            "definition": "蜡烛",
+            "iscorrect": true
+          },
+          {
+            "definition": "糖果",
+            "iscorrect": false
+          },
+          {
+            "definition": "灯",
+            "iscorrect": false
+          },
+          {
+            "definition": "手柄",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "front page",
+      "error_analysis": "将“front page”直译为“前面的页面”（词根/字面误导），或混淆为“第一页”（顺序误解）、“网站主页”（熟词干扰）",
+      "sentence": "The big story about the earthquake was on the **front page** of every newspaper in town.",
+      "options": {
+        "option": [
+          {
+            "definition": "（报纸、杂志等的）头版",
+            "iscorrect": true
+          },
+          {
+            "definition": "前面的页面",
+            "iscorrect": false
+          },
+          {
+            "definition": "第一页",
+            "iscorrect": false
+          },
+          {
+            "definition": "网站的主页",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

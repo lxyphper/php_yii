@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "player",
+      "error_analysis": "中国学生易因形近词“prayer”（祈祷者）的拼写混淆，或因“play”（玩）的词根过度直译，将“player”误判为“祈祷者”或“玩的人”。",
+      "sentence": "The young **player** scored three goals in the football match yesterday.",
+      "options": {
+        "option": [
+          {
+            "definition": "运动员；玩家",
+            "iscorrect": true
+          },
+          {
+            "definition": "祈祷者",
+            "iscorrect": false
+          },
+          {
+            "definition": "玩的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "表演者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

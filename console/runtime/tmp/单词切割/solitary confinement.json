@@ -1,0 +1,29 @@
+[
+  {
+    "common_misspellings": [
+      "solitry confinement",
+      "solitery confinement",
+      "solitory confinement",
+      "solitary confinemant",
+      "solitary comfinement",
+      "solitary confienment",
+      "solitary confinment"
+    ],
+    "correct_chunks": [
+      "soli",
+      "tary",
+      "con",
+      "fine",
+      "ment"
+    ],
+    "distractor_chunks": [
+      "try",
+      "tery",
+      "com",
+      "fien",
+      "fin",
+      "mant"
+    ]
+  },
+  0
+]

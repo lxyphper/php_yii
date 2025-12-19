@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "blog",
+      "error_analysis": "学生易因形近词“block”（阻碍/街区）或词根误解（将“blog”拆为“b+log”误以为是“日志”）而错误理解词义",
+      "sentence": "She updates her **blog** every week to share travel stories with her readers.",
+      "options": {
+        "option": [
+          {
+            "definition": "博客（网络日志）",
+            "iscorrect": true
+          },
+          {
+            "definition": "阻碍；街区",
+            "iscorrect": false
+          },
+          {
+            "definition": "日志；记录",
+            "iscorrect": false
+          },
+          {
+            "definition": "污点；印迹",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "takeover",
+      "error_analysis": "学生易因形近词（如takeout）或词根直译（take+over=拿走/超过）误解为“外卖”或“拿走”，忽略其“收购/接管（名词）”的核心义。",
+      "sentence": "The tech giant announced a $10 billion **takeover** of its smaller competitor to expand its market share.",
+      "options": {
+        "option": [
+          {
+            "definition": "收购；接管（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "外卖；外带食物",
+            "iscorrect": false
+          },
+          {
+            "definition": "拿走；取走（动词动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "起飞；开始（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

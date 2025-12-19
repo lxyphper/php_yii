@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Tuesday",
+      "error_analysis": "学生易因Tuesday与形近词Thursday（周四）拼写相似（Tues-与Thurs-形近）混淆词义，或误通过“three”（三）猜测为“星期三”。",
+      "sentence": "We have a math test on **Tuesday** afternoon, so I need to study tonight.",
+      "options": {
+        "option": [
+          {
+            "definition": "星期一",
+            "iscorrect": false
+          },
+          {
+            "definition": "星期三",
+            "iscorrect": false
+          },
+          {
+            "definition": "星期四",
+            "iscorrect": false
+          },
+          {
+            "definition": "星期二",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

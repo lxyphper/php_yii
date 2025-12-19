@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to alienate",
+      "error_analysis": "易因形近词\"allocate\"(分配)或词根\"alien\"(外国的)过度直译，误理解为\"分配\"或\"使成为外国的\"",
+      "sentence": "His arrogant attitude and refusal to listen to others began to **alienate** even his closest colleagues over time.",
+      "options": {
+        "option": [
+          {
+            "definition": "使疏远；使孤立",
+            "iscorrect": true
+          },
+          {
+            "definition": "分配；分派",
+            "iscorrect": false
+          },
+          {
+            "definition": "使成为外国的；使陌生",
+            "iscorrect": false
+          },
+          {
+            "definition": "结盟；联合",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

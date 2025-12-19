@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Renaissance",
+      "error_analysis": "学生易因形近词（如renewal）误判为“更新；恢复”，或因词根（re-+naissance）误判为“重新出生”，忽略其“文艺复兴”的特指含义",
+      "sentence": "The **Renaissance**, which began in 14th-century Italy, marked a major revival of classical Greek and Roman culture in art, literature, and science.",
+      "options": {
+        "option": [
+          {
+            "definition": "文艺复兴（14至17世纪欧洲的文化艺术复兴运动，起源于意大利）",
+            "iscorrect": true
+          },
+          {
+            "definition": "更新；恢复（如事物的重新活跃或改善）",
+            "iscorrect": false
+          },
+          {
+            "definition": "重新出生；新生（根据re-前缀和词根的字面推导）",
+            "iscorrect": false
+          },
+          {
+            "definition": "宗教改革（16世纪欧洲的宗教改革运动，如马丁·路德的改革）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "hydroeletric turbine",
+      "hydrelectric turbine",
+      "hydroelectric terbine",
+      "hydroelectric turbien",
+      "hydroelectric turbain"
+    ],
+    "correct_chunks": [
+      "hydro",
+      "electric",
+      "tur",
+      "bine"
+    ],
+    "distractor_chunks": [
+      "eletric",
+      "hydr",
+      "ter",
+      "bien",
+      "bain"
+    ]
+  },
+  0
+]

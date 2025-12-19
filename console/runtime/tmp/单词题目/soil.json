@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "soil",
+      "error_analysis": "中国学生易因形近词“oil”（油）混淆“soil”的核心义“土壤”，或误选其动词义“弄脏”。",
+      "sentence": "Farmers need fertile **soil** to grow healthy crops.",
+      "options": {
+        "option": [
+          {
+            "definition": "土壤（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "油（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "弄脏（动词，使变脏）",
+            "iscorrect": false
+          },
+          {
+            "definition": "固体（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

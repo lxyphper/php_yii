@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "economic",
+      "error_analysis": "中国学生常混淆\"economic\"（与经济相关的）和形近词\"economical\"（节俭的、省钱的）",
+      "sentence": "The government’s new policy aims to promote **economic** growth by supporting small businesses.",
+      "options": {
+        "option": [
+          {
+            "definition": "与经济（学）相关的",
+            "iscorrect": true
+          },
+          {
+            "definition": "节俭的、省钱的",
+            "iscorrect": false
+          },
+          {
+            "definition": "生态的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有效的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

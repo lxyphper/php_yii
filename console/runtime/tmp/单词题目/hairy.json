@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hairy",
+      "error_analysis": "学生易因词根“hair”（头发）的字面误导将“hairy”误理解为“头发的”，或因形近词“hurry”（匆忙）联想到“匆忙的”。",
+      "sentence": "The little dog has a **hairy** coat that keeps it warm during the cold winter nights.",
+      "options": {
+        "option": [
+          {
+            "definition": "多毛的；毛茸茸的",
+            "iscorrect": true
+          },
+          {
+            "definition": "头发的",
+            "iscorrect": false
+          },
+          {
+            "definition": "匆忙的",
+            "iscorrect": false
+          },
+          {
+            "definition": "空气的；通风的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

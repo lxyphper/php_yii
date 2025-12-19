@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "embarrassed",
+      "error_analysis": "中国学生易因形近词\"embraced\"（被拥抱的）或词根猜测（误将\"em-\"+\"barrass\"理解为\"使混乱的\"）而错误理解\"embarrassed\"的含义。",
+      "sentence": "When she realized she had worn her shirt inside out to the party, she felt **embarrassed**.",
+      "options": {
+        "option": [
+          {
+            "definition": "尴尬的",
+            "iscorrect": true
+          },
+          {
+            "definition": "被拥抱的",
+            "iscorrect": false
+          },
+          {
+            "definition": "困惑的",
+            "iscorrect": false
+          },
+          {
+            "definition": "兴奋的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

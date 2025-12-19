@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "body dysmorphic disorder",
+      "error_analysis": "学生易根据词根\"dysmorphic\"(形态异常的)和\"body\"(身体)，错误将其理解为\"身体形态异常的生理障碍\"(如先天畸形)，忽略其\"心理疾病\"的核心属性(对身体形象过度焦虑)。",
+      "sentence": "Emma, who skips social events because she’s obsessed with a \"flaw\" in her jawline that no one else notices, was told by her therapist she has **body dysmorphic disorder**.",
+      "options": {
+        "option": [
+          {
+            "definition": "身体形态异常的生理障碍（如先天肢体畸形）",
+            "iscorrect": false
+          },
+          {
+            "definition": "身体功能障碍（如肌肉萎缩导致的运动困难）",
+            "iscorrect": false
+          },
+          {
+            "definition": "躯体变形障碍（一种对自身身体形象过度关注和不满的心理疾病，患者常夸大或臆想身体缺陷）",
+            "iscorrect": true
+          },
+          {
+            "definition": "身体发育迟缓障碍（如青春期身高增长缓慢）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

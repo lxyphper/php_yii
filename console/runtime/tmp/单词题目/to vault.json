@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to vault",
+      "error_analysis": "将动词误解为与“拱顶/保险库”相关的动作（如存入保险库）",
+      "sentence": "The athlete **vaulted** over the high fence to catch the escaping dog.",
+      "options": {
+        "option": [
+          {
+            "definition": "跳跃（尤指用手撑着跳过）",
+            "iscorrect": true
+          },
+          {
+            "definition": "存入保险库",
+            "iscorrect": false
+          },
+          {
+            "definition": "建造拱顶",
+            "iscorrect": false
+          },
+          {
+            "definition": "吹嘘",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

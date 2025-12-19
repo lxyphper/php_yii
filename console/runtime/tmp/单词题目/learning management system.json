@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "learning management system",
+      "error_analysis": "易因“management”与“manager”形近误理解为“学习经理系统”，或因“system”字面误导为“学习管理制度/方法体系”",
+      "sentence": "Teachers use a **learning management system** to upload course materials, grade assignments, and communicate with students online.",
+      "options": {
+        "option": [
+          {
+            "definition": "用于管理学习过程的软件系统（如 Moodle、Canvas 等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "学习经理系统（如用于管理学习经理的工具）",
+            "iscorrect": false
+          },
+          {
+            "definition": "学习管理制度（如学校制定的学习管理规则）",
+            "iscorrect": false
+          },
+          {
+            "definition": "学习管理的方法体系（如教师用于管理学生学习的方法）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

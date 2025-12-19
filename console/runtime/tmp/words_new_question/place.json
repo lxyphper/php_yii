@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "place",
+      "error_analysis": "中国学生易因形近词\"plate\"(盘子)误判\"place\"的含义，或混淆其动词\"放置\"与名词\"地方\"的核心义",
+      "sentence": "We decided to meet at a quiet **place** near the park for our picnic.",
+      "options": {
+        "option": [
+          {
+            "definition": "地方（名词，指某个具体的位置或区域）",
+            "iscorrect": true
+          },
+          {
+            "definition": "盘子（来自形近词\"plate\"的错误联想）",
+            "iscorrect": false
+          },
+          {
+            "definition": "放置（动词，指把某物放在某处，混淆名词用法）",
+            "iscorrect": false
+          },
+          {
+            "definition": "步伐（来自发音相近的\"pace\"的错误联想）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

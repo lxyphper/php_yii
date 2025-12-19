@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "suitable",
+      "error_analysis": "中国学生易因形近词`suite`（套房）误解为“套房的”，或因`suit`（西装）的名词义+`-able`后缀误解为“适合穿西装的”。",
+      "sentence": "The teacher is looking for a **suitable** book for her young students, one that is easy to read and interesting.",
+      "options": {
+        "option": [
+          {
+            "definition": "适合的；恰当的",
+            "iscorrect": true
+          },
+          {
+            "definition": "套房的；一套的",
+            "iscorrect": false
+          },
+          {
+            "definition": "适合穿西装的；西装相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "稳定的；牢固的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

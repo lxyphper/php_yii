@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "encore",
+      "error_analysis": "学生易因形近于基础词\"core\"（核心）及词根\"en-+core\"的错误推导，将\"encore\"误理解为\"核心\"或\"使成为核心\"。",
+      "sentence": "After the concert, the audience cheered loudly and shouted \"**encore**!\" for five minutes until the singer came back on stage.",
+      "options": {
+        "option": [
+          {
+            "definition": "（演出的）加演；返场",
+            "iscorrect": true
+          },
+          {
+            "definition": "核心",
+            "iscorrect": false
+          },
+          {
+            "definition": "使成为核心",
+            "iscorrect": false
+          },
+          {
+            "definition": "确保",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

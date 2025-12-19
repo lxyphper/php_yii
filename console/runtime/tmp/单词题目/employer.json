@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "employer",
+      "error_analysis": "易与形近词employee（雇员）混淆，或因词根-er误判为“被雇佣的人”",
+      "sentence": "My **employer** told me I could get a raise next month if I work hard.",
+      "options": {
+        "option": [
+          {
+            "definition": "雇员",
+            "iscorrect": false
+          },
+          {
+            "definition": "雇主",
+            "iscorrect": true
+          },
+          {
+            "definition": "同事",
+            "iscorrect": false
+          },
+          {
+            "definition": "被雇佣的人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

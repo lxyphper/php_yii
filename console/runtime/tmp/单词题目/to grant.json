@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to grant",
+      "error_analysis": "学生易因形近词“grand”（宏大的）将“to grant”误解为“使宏大”，或因词根联想错误理解为“抓住”。",
+      "sentence": "The university will **grant** scholarships to students with excellent academic performance.",
+      "options": {
+        "option": [
+          {
+            "definition": "给予（正式许可、权利或奖励等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "使宏大；变大",
+            "iscorrect": false
+          },
+          {
+            "definition": "抓住；夺取",
+            "iscorrect": false
+          },
+          {
+            "definition": "承认；认可",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

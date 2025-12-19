@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "scientist",
+      "error_analysis": "中国学生易因形近词（如scholar）或词根过度推导，将scientist误判为“学者”或“科学的”。",
+      "sentence": "The **scientist** spent years researching how plants grow in space.",
+      "options": {
+        "option": [
+          {
+            "definition": "科学家",
+            "iscorrect": true
+          },
+          {
+            "definition": "学者",
+            "iscorrect": false
+          },
+          {
+            "definition": "科学的",
+            "iscorrect": false
+          },
+          {
+            "definition": "工程师",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

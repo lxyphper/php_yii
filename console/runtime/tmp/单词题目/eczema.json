@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "eczema",
+      "error_analysis": "学生易因形近词\"echo\"(回声)或词根\"ec-\"(out)误将\"eczema\"联想为声音相关或排出物",
+      "sentence": "The doctor prescribed a mild cream to soothe the red, itchy rashes on the baby's cheeks caused by **eczema**.",
+      "options": {
+        "option": [
+          {
+            "definition": "湿疹（一种常见皮肤炎症，表现为红肿、瘙痒的皮疹）",
+            "iscorrect": true
+          },
+          {
+            "definition": "回声现象（声音反射产生的重复声响）",
+            "iscorrect": false
+          },
+          {
+            "definition": "体内排出物（如汗液或分泌物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "生态系统失衡（环境破坏导致的问题）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to rue",
+      "error_analysis": "学生易因形近词\"rule\"（规则）的干扰，误将\"to rue\"理解为与\"制定规则\"相关的动作",
+      "sentence": "He would later **rue** the decision to quit his job without a backup plan.",
+      "options": {
+        "option": [
+          {
+            "definition": "后悔，悔恨",
+            "iscorrect": true
+          },
+          {
+            "definition": "制定规则",
+            "iscorrect": false
+          },
+          {
+            "definition": "表现粗鲁",
+            "iscorrect": false
+          },
+          {
+            "definition": "种植芸香（一种植物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

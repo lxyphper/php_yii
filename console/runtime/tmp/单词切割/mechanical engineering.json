@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "mecanical engineering",
+      "mechanicle engineering",
+      "mechanical engeneering",
+      "mechanical enginearing"
+    ],
+    "correct_chunks": [
+      "mech",
+      "anical",
+      "engine",
+      "ering"
+    ],
+    "distractor_chunks": [
+      "mec",
+      "icle",
+      "engene",
+      "ear"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to entice",
+      "error_analysis": "学生易因形近词\"enter\"（进入）联想为\"进入/加入\"，或因\"en-\"前缀误导为\"使...进入\"",
+      "sentence": "The company used a high salary to **entice** the experienced engineer to join their team.",
+      "options": {
+        "option": [
+          {
+            "definition": "引诱，诱惑",
+            "iscorrect": true
+          },
+          {
+            "definition": "进入，加入",
+            "iscorrect": false
+          },
+          {
+            "definition": "使...进入",
+            "iscorrect": false
+          },
+          {
+            "definition": "帮助，协助",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

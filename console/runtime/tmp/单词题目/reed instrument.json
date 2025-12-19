@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "reed instrument",
+      "error_analysis": "学生易因'reed'与'read'形近误判为“阅读工具”，或因“reed”（芦苇）字面义误解为“芦苇制工具”，忽略其“簧片乐器”的核心义。",
+      "sentence": "The clarinet and saxophone are both **reed instruments** that require the player to blow air through a thin piece of wood or plastic to produce sound.",
+      "options": {
+        "option": [
+          {
+            "definition": "簧乐器（如单簧管、萨克斯等带簧片的乐器）",
+            "iscorrect": true
+          },
+          {
+            "definition": "阅读工具（如书籍、电子书等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "芦苇制的日常工具（如篮子、席子等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "测量工具（如尺子、温度计等）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "social",
+      "error_analysis": "将“social”误判为“社会的”（形近词“society”干扰）或“善社交的”（词根“socius”误导，混淆“sociable”）",
+      "sentence": "She spends a lot of time on **social** media, connecting with friends and sharing photos.",
+      "options": {
+        "option": [
+          {
+            "definition": "社交的；与社交活动相关的",
+            "iscorrect": true
+          },
+          {
+            "definition": "社会的（属于社会整体结构的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "善社交的（指人性格开朗、爱交朋友的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "特殊的；不寻常的（形近词“special”干扰）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

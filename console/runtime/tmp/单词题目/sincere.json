@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sincere",
+      "error_analysis": "学生易因形近词\"serious\"（严肃的）干扰，将\"sincere\"误解为\"严肃的\"或\"认真的\"",
+      "sentence": "Her **sincere** apology made me forgive her immediately.",
+      "options": {
+        "option": [
+          {
+            "definition": "真诚的",
+            "iscorrect": true
+          },
+          {
+            "definition": "严肃的",
+            "iscorrect": false
+          },
+          {
+            "definition": "认真的",
+            "iscorrect": false
+          },
+          {
+            "definition": "简单的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

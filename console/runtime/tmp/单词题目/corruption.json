@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "corruption",
+      "error_analysis": "易因形近词“corporation”（公司）混淆，或因词根“rupt”（破裂）猜测为“破裂/中断”。",
+      "sentence": "The government launched an investigation into **corruption** among high-ranking officials.",
+      "options": {
+        "option": [
+          {
+            "definition": "腐败（政治或道德上的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "公司",
+            "iscorrect": false
+          },
+          {
+            "definition": "破裂/中断",
+            "iscorrect": false
+          },
+          {
+            "definition": "腐蚀（金属等的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

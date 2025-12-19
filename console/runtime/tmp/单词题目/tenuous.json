@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tenuous",
+      "error_analysis": "易因形近词“tense”（紧张的）干扰或词根“tenuis”（薄的）字面误导，将“tenuous”误判为“紧张的”或“细小的”。",
+      "sentence": "The peace agreement between the two countries is based on a **tenuous** understanding of each other's demands.",
+      "options": {
+        "option": [
+          {
+            "definition": "紧张的",
+            "iscorrect": false
+          },
+          {
+            "definition": "坚韧的",
+            "iscorrect": false
+          },
+          {
+            "definition": "薄弱的；不稳固的",
+            "iscorrect": true
+          },
+          {
+            "definition": "细小的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

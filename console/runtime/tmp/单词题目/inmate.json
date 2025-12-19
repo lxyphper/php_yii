@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "inmate",
+      "error_analysis": "学生易因\"in-\"+\"mate\"的字面推导，将\"inmate\"误理解为普通\"同住者\"，而非特定的\"囚犯/狱友\"。",
+      "sentence": "The prison guard counted the **inmates** carefully before locking the cell block for the night.",
+      "options": {
+        "option": [
+          {
+            "definition": "囚犯；狱友",
+            "iscorrect": true
+          },
+          {
+            "definition": "室友；同住者",
+            "iscorrect": false
+          },
+          {
+            "definition": "亲密的朋友",
+            "iscorrect": false
+          },
+          {
+            "definition": "同事；工友",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

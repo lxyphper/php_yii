@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to familiarize",
+      "error_analysis": "中国学生易因“familiar”与“family”形近将“to familiarize”误解为“使家庭化”，或因词根“familiar”+“-ize”误导误作“变得熟悉”。",
+      "sentence": "Before the trip, she decided to **familiarize** herself with the local customs to avoid culture shocks.",
+      "options": {
+        "option": [
+          {
+            "definition": "使熟悉",
+            "iscorrect": true
+          },
+          {
+            "definition": "使家庭化",
+            "iscorrect": false
+          },
+          {
+            "definition": "变得熟悉",
+            "iscorrect": false
+          },
+          {
+            "definition": "使常见",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

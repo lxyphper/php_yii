@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "visual effects",
+      "error_analysis": "学生易将“visual effects”字面直译为“视力影响”，而非其核心义“视觉效果”（如影视特效）。",
+      "sentence": "The new superhero movie uses amazing **visual effects** to make the hero’s flying scenes look completely realistic.",
+      "options": {
+        "option": [
+          {
+            "definition": "视觉效果（如电影或视频中的特效）",
+            "iscorrect": true
+          },
+          {
+            "definition": "视力影响（对眼睛的作用）",
+            "iscorrect": false
+          },
+          {
+            "definition": "重要效果（关键的作用）",
+            "iscorrect": false
+          },
+          {
+            "definition": "视觉检查（眼部的检查）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

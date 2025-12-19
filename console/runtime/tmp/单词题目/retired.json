@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "retired",
+      "error_analysis": "学生易因形近词\"tired\"（疲劳的）或词根\"re-+tire\"（再次疲劳）错误理解为\"累的\"或\"更累的\"",
+      "sentence": "My grandfather worked as a teacher for 30 years and is now **retired**, so he spends most mornings tending to his vegetable garden.",
+      "options": {
+        "option": [
+          {
+            "definition": "退休的；退职的",
+            "iscorrect": true
+          },
+          {
+            "definition": "疲劳的；累的",
+            "iscorrect": false
+          },
+          {
+            "definition": "再次疲劳的；更累的",
+            "iscorrect": false
+          },
+          {
+            "definition": "撤退的；后退的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "grocery",
+      "error_analysis": "中国学生易因“grocery”中“gro”与“grow”（生长）的词根联想误判为“农产品店”，或因形近词“gross”（恶心的）产生无关联想",
+      "sentence": "I need to stop by the **grocery** on my way home to buy milk and bread.",
+      "options": {
+        "option": [
+          {
+            "definition": "杂货店；杂货",
+            "iscorrect": true
+          },
+          {
+            "definition": "农产品种植园",
+            "iscorrect": false
+          },
+          {
+            "definition": "恶心的物品",
+            "iscorrect": false
+          },
+          {
+            "definition": "杂货商（职业）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "staycation",
+      "error_analysis": "学生易因形近词“station”（车站）或词根拆分错误（将“staycation”误拆为“stay”+“cation”理解为“停留的状态”）而误解其义。",
+      "sentence": "To save money and avoid crowds, they chose a **staycation** this year—we spent most days at home reading, cooking, and visiting nearby museums.",
+      "options": {
+        "option": [
+          {
+            "definition": "居家度假（待在家里或附近的度假）",
+            "iscorrect": true
+          },
+          {
+            "definition": "车站",
+            "iscorrect": false
+          },
+          {
+            "definition": "停留的状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "长途旅行",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

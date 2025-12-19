@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Bollywood",
+      "error_analysis": "中国学生易因词根\"wood\"猜测为木材相关产业，或因形近\"Hollywood\"误判为美国电影产业",
+      "sentence": "Many people enjoy watching **Bollywood** movies for their vibrant music, colorful dances, and dramatic storylines.",
+      "options": {
+        "option": [
+          {
+            "definition": "印度孟买以宝莱坞为代表的电影产业",
+            "iscorrect": true
+          },
+          {
+            "definition": "美国好莱坞的别称",
+            "iscorrect": false
+          },
+          {
+            "definition": "大型木材加工与销售产业",
+            "iscorrect": false
+          },
+          {
+            "definition": "印度北部的森林保护区",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

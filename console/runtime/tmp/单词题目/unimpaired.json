@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unimpaired",
+      "error_analysis": "学生易因形近词\"unimpeded\"（未被阻止的）或\"unprepared\"（没准备的）产生混淆，将\"unimpaired\"误判为\"未被阻止的\"或\"没准备的\"",
+      "sentence": "After the accident, the mechanic confirmed that the car's engine remained **unimpaired** despite the collision.",
+      "options": {
+        "option": [
+          {
+            "definition": "未受损的；完好的",
+            "iscorrect": true
+          },
+          {
+            "definition": "未被阻止的；畅通的",
+            "iscorrect": false
+          },
+          {
+            "definition": "没准备的；无准备的",
+            "iscorrect": false
+          },
+          {
+            "definition": "未传授的；未告知的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

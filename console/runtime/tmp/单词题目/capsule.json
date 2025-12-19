@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "capsule",
+      "error_analysis": "学生易因形近词\"cap\"（帽子）误判\"capsule\"为\"帽子\"，或因词根\"cap-\"（覆盖）猜测为\"覆盖物\"",
+      "sentence": "The pharmacist told me to take one **capsule** after breakfast and dinner to relieve my sore throat.",
+      "options": {
+        "option": [
+          {
+            "definition": "帽子",
+            "iscorrect": false
+          },
+          {
+            "definition": "胶囊",
+            "iscorrect": true
+          },
+          {
+            "definition": "覆盖物",
+            "iscorrect": false
+          },
+          {
+            "definition": "船长",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

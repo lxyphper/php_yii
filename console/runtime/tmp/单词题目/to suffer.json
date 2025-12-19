@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to suffer",
+      "error_analysis": "中国学生易因形近词“offer”（提供）混淆，或拆分“suf-”（下）+“fer”（带）错误猜测为“带走”，而非“遭受”。",
+      "sentence": "After the accident, she **suffered** from severe back pain for months.",
+      "options": {
+        "option": [
+          {
+            "definition": "遭受；忍受（痛苦、困难等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "提供；给予",
+            "iscorrect": false
+          },
+          {
+            "definition": "带走；转移",
+            "iscorrect": false
+          },
+          {
+            "definition": "享受；喜爱",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

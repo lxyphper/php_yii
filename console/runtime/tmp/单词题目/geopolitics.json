@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "geopolitics",
+      "error_analysis": "学生易因词根“geo-”（地理）和“-politics”（政治）的字面推导，将“geopolitics”误判为“地理政策”或“全球政治”",
+      "sentence": "The conflict over the resource-rich region is often explained through the lens of **geopolitics**, as countries compete for strategic advantages based on location and natural resources.",
+      "options": {
+        "option": [
+          {
+            "definition": "地缘政治（指地理因素对政治及国际关系的影响）",
+            "iscorrect": true
+          },
+          {
+            "definition": "地理政策（关于地理研究或规划的政策）",
+            "iscorrect": false
+          },
+          {
+            "definition": "全球政治（涉及全球范围的政治事务）",
+            "iscorrect": false
+          },
+          {
+            "definition": "政治地理学（研究政治与地理关系的学科）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

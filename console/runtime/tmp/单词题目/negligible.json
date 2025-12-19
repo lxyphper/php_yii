@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "negligible",
+      "error_analysis": "易混淆形近词\"negotiable\"(可协商的)，或因词根联想错误理解为\"被忽视的\"(neglected的含义)",
+      "sentence": "The difference in weight between the two suitcases is **negligible**, so you can take either one on the plane.",
+      "options": {
+        "option": [
+          {
+            "definition": "可协商的；可讨论的",
+            "iscorrect": false
+          },
+          {
+            "definition": "被忽视的；未被注意的",
+            "iscorrect": false
+          },
+          {
+            "definition": "微不足道的；可忽略的",
+            "iscorrect": true
+          },
+          {
+            "definition": "无关的；不相关的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

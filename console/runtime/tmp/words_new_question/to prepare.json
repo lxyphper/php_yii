@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to prepare",
+      "error_analysis": "中国学生易因形近词'repair'（修理）或词根'pre-+pare'（提前切割）误判'to prepare'的含义。",
+      "sentence": "She needs to **prepare** dinner for her family tonight.",
+      "options": {
+        "option": [
+          {
+            "definition": "准备",
+            "iscorrect": true
+          },
+          {
+            "definition": "修理",
+            "iscorrect": false
+          },
+          {
+            "definition": "提前切割",
+            "iscorrect": false
+          },
+          {
+            "definition": "呈现",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

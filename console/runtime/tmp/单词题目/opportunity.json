@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "opportunity",
+      "error_analysis": "学生易因形近词\"opposite\"（相反的）或词根\"port\"（港口）误导，将\"opportunity\"错误理解为\"相反的事物\"或\"港口的入口\"。",
+      "sentence": "She saw the job advertisement as a great **opportunity** to start her career in marketing.",
+      "options": {
+        "option": [
+          {
+            "definition": "机会；时机",
+            "iscorrect": true
+          },
+          {
+            "definition": "相反的事物",
+            "iscorrect": false
+          },
+          {
+            "definition": "港口的入口",
+            "iscorrect": false
+          },
+          {
+            "definition": "反对的态度",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

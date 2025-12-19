@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "geophysics",
+      "error_analysis": "学生易因形近词\"geography\"（地理学）混淆，或词根组合时误将\"geo-+physics\"错判为\"地质学\"等相关学科",
+      "sentence": "Scientists use **geophysics** to analyze seismic waves and map the Earth's core structure.",
+      "options": {
+        "option": [
+          {
+            "definition": "地理学",
+            "iscorrect": false
+          },
+          {
+            "definition": "地质学",
+            "iscorrect": false
+          },
+          {
+            "definition": "地球物理学",
+            "iscorrect": true
+          },
+          {
+            "definition": "天体物理学",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lozenge",
+      "error_analysis": "中国学生易因形近词“lounge”（休息室）产生联想，或误将其原始含义“菱形”当作核心词义“糖锭”。",
+      "sentence": "After coughing for hours, she reached for a **lozenge** to soothe her scratchy throat.",
+      "options": {
+        "option": [
+          {
+            "definition": "休息室",
+            "iscorrect": false
+          },
+          {
+            "definition": "菱形",
+            "iscorrect": false
+          },
+          {
+            "definition": "糖锭；润喉糖",
+            "iscorrect": true
+          },
+          {
+            "definition": "镜片",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

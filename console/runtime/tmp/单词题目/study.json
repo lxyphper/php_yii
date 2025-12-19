@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "study",
+      "error_analysis": "学生易因形近词“sturdy”（结实的）误判“study”含义，或因与“student”（学生）关联而误将其理解为“学生”。",
+      "sentence": "She **studies** math for two hours every night before bed to pass her exam.",
+      "options": {
+        "option": [
+          {
+            "definition": "学习（动词，攻读）",
+            "iscorrect": true
+          },
+          {
+            "definition": "结实的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "学生（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "教（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

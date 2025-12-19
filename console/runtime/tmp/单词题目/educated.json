@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "educated",
+      "error_analysis": "学生易将“educated”误理解为修饰事物的“教育的”（如educational）或强调被动的“被教育的”，而非修饰人的“受过教育的”。",
+      "sentence": "She is an **educated** woman who speaks three languages fluently.",
+      "options": {
+        "option": [
+          {
+            "definition": "受过教育的（指人有文化、有知识）",
+            "iscorrect": true
+          },
+          {
+            "definition": "教育的（指与教育相关的事物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "被教育的（强调被动接受教育的动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "教育家（从事教育工作的人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rooster",
+      "error_analysis": "中国学生易因形近词（如roster/roast）或词根字面误导（roost+er），将“rooster”误理解为“花名册”“烤的食物”或“栖息的鸟”。",
+      "sentence": "The **rooster** crows loudly at dawn, telling the farmers it's time to start working.",
+      "options": {
+        "option": [
+          {
+            "definition": "公鸡",
+            "iscorrect": true
+          },
+          {
+            "definition": "花名册",
+            "iscorrect": false
+          },
+          {
+            "definition": "烤的食物",
+            "iscorrect": false
+          },
+          {
+            "definition": "栖息的鸟",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to blunder",
+      "error_analysis": "学生易因形近词\"blend\"(混合)或\"plunder\"(掠夺)产生错误联想，误将\"to blunder\"理解为无关含义",
+      "sentence": "The manager **blundered** by signing the contract without reading it carefully, leading to a huge loss for the company.",
+      "options": {
+        "option": [
+          {
+            "definition": "犯大错；失误",
+            "iscorrect": true
+          },
+          {
+            "definition": "混合；融合",
+            "iscorrect": false
+          },
+          {
+            "definition": "掠夺；抢劫",
+            "iscorrect": false
+          },
+          {
+            "definition": "模糊；变不清楚",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

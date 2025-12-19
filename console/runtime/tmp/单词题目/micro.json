@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "micro",
+      "error_analysis": "易因形近词“mic”（麦克风）混淆，或因词根“小”过度推导为无关小事物（如小错误）",
+      "sentence": "The engineer needed a **micro** to repair the tiny sensor in the smartphone.",
+      "options": {
+        "option": [
+          {
+            "definition": "微型零件",
+            "iscorrect": true
+          },
+          {
+            "definition": "麦克风",
+            "iscorrect": false
+          },
+          {
+            "definition": "小的错误",
+            "iscorrect": false
+          },
+          {
+            "definition": "宏观设备",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

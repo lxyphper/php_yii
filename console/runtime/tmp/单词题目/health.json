@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "health",
+      "error_analysis": "中国学生易因形近词“wealth”（财富）混淆词义，或因“heal”（治愈）的词根联想误判为“治愈的状态”。",
+      "sentence": "Regular exercise and a balanced diet are essential for maintaining good **health**.",
+      "options": {
+        "option": [
+          {
+            "definition": "健康",
+            "iscorrect": true
+          },
+          {
+            "definition": "财富",
+            "iscorrect": false
+          },
+          {
+            "definition": "治愈",
+            "iscorrect": false
+          },
+          {
+            "definition": "幸福",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

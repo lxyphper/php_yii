@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "brave",
+      "error_analysis": "中国学生易因形近词“bread”（面包）或“grave”（严重的）干扰，误将“brave”理解为“面包”或“严重的”",
+      "sentence": "The little girl was **brave** enough to help the old man cross the busy street.",
+      "options": {
+        "option": [
+          {
+            "definition": "勇敢的",
+            "iscorrect": true
+          },
+          {
+            "definition": "面包",
+            "iscorrect": false
+          },
+          {
+            "definition": "严重的",
+            "iscorrect": false
+          },
+          {
+            "definition": "保存",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to entertain",
+      "error_analysis": "因形近于\"contain\"（包含）误判为\"包含\"，或拆分\"enter+tain\"误推为\"维持/持有\"",
+      "sentence": "The hotel staff will **entertain** the guests with a live music performance tonight.",
+      "options": {
+        "option": [
+          {
+            "definition": "娱乐；招待",
+            "iscorrect": true
+          },
+          {
+            "definition": "包含；容纳",
+            "iscorrect": false
+          },
+          {
+            "definition": "维持；保持",
+            "iscorrect": false
+          },
+          {
+            "definition": "达到；获得",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "automatic",
+      "error_analysis": "学生易因形近词\"authentic\"（真实的）混淆词义，或因词根\"auto-\"（自我）过度推导为\"自主的\"。",
+      "sentence": "The new washing machine has an **automatic** program that adjusts the water temperature based on the load.",
+      "options": {
+        "option": [
+          {
+            "definition": "自动的",
+            "iscorrect": true
+          },
+          {
+            "definition": "真实的",
+            "iscorrect": false
+          },
+          {
+            "definition": "自主的",
+            "iscorrect": false
+          },
+          {
+            "definition": "手动的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

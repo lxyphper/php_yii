@@ -1,0 +1,21 @@
+[
+  {
+    "common_misspellings": [
+      "otorinolaryngology",
+      "otorhinolaringology",
+      "otorhinolarygology"
+    ],
+    "correct_chunks": [
+      "oto",
+      "rhino",
+      "laryngo",
+      "logy"
+    ],
+    "distractor_chunks": [
+      "rino",
+      "laring",
+      "laryg"
+    ]
+  },
+  0
+]

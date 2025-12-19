@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to adjudicate",
+      "error_analysis": "学生易因形近词\"adjust\"(调整)或词根\"jud\"(判断)误导，误将\"adjudicate\"理解为\"调整\"或\"普通判断\"。",
+      "sentence": "The panel was asked to **adjudicate** the dispute between the two companies over the patent rights.",
+      "options": {
+        "option": [
+          {
+            "definition": "裁决；判定",
+            "iscorrect": true
+          },
+          {
+            "definition": "调整；适应",
+            "iscorrect": false
+          },
+          {
+            "definition": "判断；评价",
+            "iscorrect": false
+          },
+          {
+            "definition": "管理；行政",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

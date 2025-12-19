@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "light pollution",
+      "error_analysis": "学生易将\"light\"误解为\"轻的\"（形容词），从而把\"light pollution\"错误理解为\"轻度污染\"（污染程度轻）。",
+      "sentence": "The bright streetlights in the city make it hard to see stars at night, which is a common example of **light pollution**.",
+      "options": {
+        "option": [
+          {
+            "definition": "光污染（由过量或不当光线引起的环境问题）",
+            "iscorrect": true
+          },
+          {
+            "definition": "轻度污染（污染程度较轻）",
+            "iscorrect": false
+          },
+          {
+            "definition": "视线污染（影响视线的污染物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "灯光解决方案（解决灯光问题的方法）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

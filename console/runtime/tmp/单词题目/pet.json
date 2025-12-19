@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pet",
+      "error_analysis": "中国学生易因形近词\"pen\"（笔）或\"pat\"（拍）的干扰，将\"pet\"误判为\"笔\"或\"拍\"",
+      "sentence": "Lisa bought a **pet** dog for her birthday, and she plays with it every evening.",
+      "options": {
+        "option": [
+          {
+            "definition": "宠物",
+            "iscorrect": true
+          },
+          {
+            "definition": "笔",
+            "iscorrect": false
+          },
+          {
+            "definition": "拍",
+            "iscorrect": false
+          },
+          {
+            "definition": "抚摸",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

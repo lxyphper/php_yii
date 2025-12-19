@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "culinary",
+      "error_analysis": "学生易因形近词\"cultural\"（文化的）混淆，或因词根联想错误将其与\"文化/培养\"相关含义挂钩",
+      "sentence": "Many tourists visit the town for its **culinary** heritage, which includes age-old recipes for handmade noodles and fermented sauces.",
+      "options": {
+        "option": [
+          {
+            "definition": "烹饪的；与厨房或烹饪相关的",
+            "iscorrect": true
+          },
+          {
+            "definition": "文化的；与文化或传统相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "与培养或培育相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "犯罪的；与犯罪或违法相关的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

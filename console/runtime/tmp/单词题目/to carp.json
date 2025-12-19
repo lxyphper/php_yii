@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to carp",
+      "error_analysis": "学生易将动词“to carp”与形近名词“carp”（鲤鱼）或“car”（汽车）混淆，误理解为“捕鱼”“开车”等动作。",
+      "sentence": "My mom always **carps** about the way I leave my room messy, even though it's not that bad.",
+      "options": {
+        "option": [
+          {
+            "definition": "to complain continually about small things",
+            "iscorrect": true
+          },
+          {
+            "definition": "to catch or raise carp",
+            "iscorrect": false
+          },
+          {
+            "definition": "to drive a car",
+            "iscorrect": false
+          },
+          {
+            "definition": "to carry heavy things",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

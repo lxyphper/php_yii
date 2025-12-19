@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "guitarist",
+      "error_analysis": "学生易因形近词“guitar”（吉他）或对“-ist”后缀的错误理解，将“guitarist”误判为“吉他”或“吉他的”。",
+      "sentence": "She dreamed of becoming a famous **guitarist** and playing on stage with her favorite band.",
+      "options": {
+        "option": [
+          {
+            "definition": "吉他",
+            "iscorrect": false
+          },
+          {
+            "definition": "吉他手",
+            "iscorrect": true
+          },
+          {
+            "definition": "吉他的",
+            "iscorrect": false
+          },
+          {
+            "definition": "钢琴家",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cardinal",
+      "error_analysis": "学生易因形近词“card”（卡片）或“capital”（首都）错误联想，将“cardinal”误理解为“卡片的”或“首都的”。",
+      "sentence": "Honesty is a **cardinal** rule in any relationship.",
+      "options": {
+        "option": [
+          {
+            "definition": "主要的；基本的",
+            "iscorrect": true
+          },
+          {
+            "definition": "卡片的；与卡片相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "红衣主教",
+            "iscorrect": false
+          },
+          {
+            "definition": "首都的；大写的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

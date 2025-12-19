@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "magzine",
+      "magasine",
+      "megazine",
+      "majazine",
+      "magazene"
+    ],
+    "correct_chunks": [
+      "mag",
+      "azine"
+    ],
+    "distractor_chunks": [
+      "magz",
+      "asine",
+      "meg",
+      "maj",
+      "zene"
+    ]
+  },
+  0
+]

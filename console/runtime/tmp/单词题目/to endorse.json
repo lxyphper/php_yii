@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to endorse",
+      "error_analysis": "最核心易错点是形近词\"endure\"(忍受)的干扰，及词根\"dorse\"(背面)导致的字面误解(如误以为是\"在背面做某事\")。",
+      "sentence": "The famous athlete agreed to **endorse** the new sports brand, saying it helped improve his performance.",
+      "options": {
+        "option": [
+          {
+            "definition": "支持；认可",
+            "iscorrect": true
+          },
+          {
+            "definition": "忍受；忍耐",
+            "iscorrect": false
+          },
+          {
+            "definition": "在背面书写；背书",
+            "iscorrect": false
+          },
+          {
+            "definition": "结束；终止",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

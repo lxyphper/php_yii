@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ever",
+      "error_analysis": "易因形近词\"every\"误解为\"每个\"，或误联想为\"永远\"",
+      "sentence": "Have you **ever** tried Sichuan hot pot? It's really spicy!",
+      "options": {
+        "option": [
+          {
+            "definition": "每个",
+            "iscorrect": false
+          },
+          {
+            "definition": "曾经；在任何时候",
+            "iscorrect": true
+          },
+          {
+            "definition": "永远",
+            "iscorrect": false
+          },
+          {
+            "definition": "已经",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

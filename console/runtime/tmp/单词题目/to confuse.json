@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to confuse",
+      "error_analysis": "中国学生易因形近词“convince”（说服）混淆，或因词根“fuse”（融合）错误理解为“合并”。",
+      "sentence": "The complex math problem **confused** most of the students in the class.",
+      "options": {
+        "option": [
+          {
+            "definition": "使困惑；混淆",
+            "iscorrect": true
+          },
+          {
+            "definition": "说服；使相信",
+            "iscorrect": false
+          },
+          {
+            "definition": "结合；联合",
+            "iscorrect": false
+          },
+          {
+            "definition": "拒绝；回绝",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

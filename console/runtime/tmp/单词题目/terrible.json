@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "terrible",
+      "error_analysis": "混淆形近词“terrific”（极好的）的含义，或过度依赖词根“terr-”（恐惧）而忽略其“糟糕的”核心常用义",
+      "sentence": "I had a **terrible** day at work—everything went wrong.",
+      "options": {
+        "option": [
+          {
+            "definition": "糟糕的；极坏的",
+            "iscorrect": true
+          },
+          {
+            "definition": "极好的；很棒的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可怕的；令人恐惧的",
+            "iscorrect": false
+          },
+          {
+            "definition": "困难的；艰难的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

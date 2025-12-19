@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "track",
+      "error_analysis": "易混淆形近词truck（卡车），或误将track理解为“痕迹”而非核心义“轨迹/轨道”",
+      "sentence": "The train runs along the **track** for hundreds of kilometers every day.",
+      "options": {
+        "option": [
+          {
+            "definition": "轨迹；轨道",
+            "iscorrect": true
+          },
+          {
+            "definition": "卡车",
+            "iscorrect": false
+          },
+          {
+            "definition": "痕迹",
+            "iscorrect": false
+          },
+          {
+            "definition": "训练",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

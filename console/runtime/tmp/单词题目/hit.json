@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hit",
+      "error_analysis": "学生易将“hit”的引申义“热门事物”误判为基本义“击中”，或因形近词“bit”（一点）产生混淆",
+      "sentence": "The new superhero movie is a huge **hit** with teenagers—everyone is talking about it.",
+      "options": {
+        "option": [
+          {
+            "definition": "热门事物",
+            "iscorrect": true
+          },
+          {
+            "definition": "击中",
+            "iscorrect": false
+          },
+          {
+            "definition": "一点",
+            "iscorrect": false
+          },
+          {
+            "definition": "伤害",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

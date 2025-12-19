@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nonessential",
+      "error_analysis": "学生易因词根“essential”（本质的）将“nonessential”错误理解为“非本质的”，忽略其最常用的“非必要的”含义。",
+      "sentence": "To save space, you should eliminate all **nonessential** items from your suitcase before traveling.",
+      "options": {
+        "option": [
+          {
+            "definition": "非本质的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不重要的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不存在的",
+            "iscorrect": false
+          },
+          {
+            "definition": "非必要的；不必要的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

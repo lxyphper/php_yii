@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dubious",
+      "error_analysis": "学生易因形近词“double”（双倍的）或“dub”（配音）的字面意思，将“dubious”误解为“双倍的”或“与配音相关的”。",
+      "sentence": "The company's claim about the new product's effectiveness seems **dubious** to many consumers.",
+      "options": {
+        "option": [
+          {
+            "definition": "双倍的；双重的",
+            "iscorrect": false
+          },
+          {
+            "definition": "与配音相关的；配过音的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可疑的；不确定的",
+            "iscorrect": true
+          },
+          {
+            "definition": "困难的；艰难的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

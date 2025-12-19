@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "electronics",
+      "error_analysis": "学生易因形近词“electron”（电子）或词根“electr-”（电）误导，将“electronics”误理解为“电子”（复数）或“电”。",
+      "sentence": "My brother works in a company that specializes in **electronics** for smartphones and laptops.",
+      "options": {
+        "option": [
+          {
+            "definition": "电子学；电子设备",
+            "iscorrect": true
+          },
+          {
+            "definition": "电子（复数）",
+            "iscorrect": false
+          },
+          {
+            "definition": "电；电流",
+            "iscorrect": false
+          },
+          {
+            "definition": "电子的（形容词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

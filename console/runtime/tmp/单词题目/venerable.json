@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "venerable",
+      "error_analysis": "易混淆形近词“vulnerable”（脆弱的），或误将“venerable”仅理解为“古老的”而忽略“可敬”的核心含义",
+      "sentence": "The **venerable** temple, built in the 10th century, is a symbol of cultural heritage in the region.",
+      "options": {
+        "option": [
+          {
+            "definition": "可敬的；古老而值得尊敬的",
+            "iscorrect": true
+          },
+          {
+            "definition": "脆弱的；易受伤害的",
+            "iscorrect": false
+          },
+          {
+            "definition": "古老的；陈旧的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有毒的；危险的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

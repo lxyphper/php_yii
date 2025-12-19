@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "clock",
+      "error_analysis": "学生易因形近词\"click\"(点击)、\"cloak\"(斗篷)的干扰，或通过\"clockwork\"(发条装置)的词根联想，将\"clock\"误理解为\"点击\"\"斗篷\"或\"发条\"。",
+      "sentence": "My mom told me to look at the **clock** and finish my homework before 8 PM.",
+      "options": {
+        "option": [
+          {
+            "definition": "时钟",
+            "iscorrect": true
+          },
+          {
+            "definition": "点击",
+            "iscorrect": false
+          },
+          {
+            "definition": "发条",
+            "iscorrect": false
+          },
+          {
+            "definition": "斗篷",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

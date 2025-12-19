@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "exacting",
+      "error_analysis": "学生易因形近词\"exact\"（精确的）或词根\"act\"（行动）误导，将\"exacting\"错解为\"精确的\"或\"执行的\"。",
+      "sentence": "Her new job as a surgical nurse is extremely **exacting**—it requires perfect attention to detail at all times.",
+      "options": {
+        "option": [
+          {
+            "definition": "严格的；苛求的",
+            "iscorrect": true
+          },
+          {
+            "definition": "精确的；准确的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人兴奋的；刺激的",
+            "iscorrect": false
+          },
+          {
+            "definition": "执行的；行动的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

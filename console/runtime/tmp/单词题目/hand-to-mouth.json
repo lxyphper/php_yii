@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hand-to-mouth",
+      "error_analysis": "学生易因\"hand-to-mouth\"的字面结构误解为\"用手递到嘴边的\"或\"直接入口的\"，忽略其\"勉强糊口\"的核心词义",
+      "sentence": "After losing his job, Jack had to live a **hand-to-mouth** life, struggling to afford even basic groceries every week.",
+      "options": {
+        "option": [
+          {
+            "definition": "用手递到嘴边的（如食物或动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "亲密合作的；手拉手的",
+            "iscorrect": false
+          },
+          {
+            "definition": "勉强糊口的；仅够维持生存的",
+            "iscorrect": true
+          },
+          {
+            "definition": "灵活使用手和嘴的（形容技能）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

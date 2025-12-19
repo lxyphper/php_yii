@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "taste",
+      "error_analysis": "中国学生易因形近词test（测试）干扰，或字面误导将taste的名词义“品味”误判为“味道”或“测试”",
+      "sentence": "Her **taste** in clothes is always fashionable—everyone admires her style.",
+      "options": {
+        "option": [
+          {
+            "definition": "品味（审美能力）",
+            "iscorrect": true
+          },
+          {
+            "definition": "测试（检测方法）",
+            "iscorrect": false
+          },
+          {
+            "definition": "味道（食物的滋味）",
+            "iscorrect": false
+          },
+          {
+            "definition": "尝试（试做某事）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

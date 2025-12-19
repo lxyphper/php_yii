@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fortunately",
+      "error_analysis": "易因形近词（如frequently）混淆为“频繁地”，或因词根fortune误判为“有运气的”（形容词）而非副词“幸运地”。",
+      "sentence": "I missed the bus this morning, but **fortunately**, my friend gave me a ride to school.",
+      "options": {
+        "option": [
+          {
+            "definition": "幸运地",
+            "iscorrect": true
+          },
+          {
+            "definition": "频繁地",
+            "iscorrect": false
+          },
+          {
+            "definition": "有运气的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不幸地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sorry",
+      "error_analysis": "中国学生易因形近词“sore”（疼痛的）混淆“sorry”的含义，或误将其核心“道歉的”与“同情的”混淆。",
+      "sentence": "I’m **sorry** I forgot your birthday—can I make it up to you?",
+      "options": {
+        "option": [
+          {
+            "definition": "疼痛的",
+            "iscorrect": false
+          },
+          {
+            "definition": "同情的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无聊的",
+            "iscorrect": false
+          },
+          {
+            "definition": "道歉的；遗憾的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

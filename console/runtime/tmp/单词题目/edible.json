@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "edible",
+      "error_analysis": "学生易因形近词\"edit\"（编辑）误判为\"可编辑的\"，或因词根\"ed-\"联想\"教育\"（educate）而误判为\"可教育的\"",
+      "sentence": "The mushrooms in the forest are not all **edible**; some of them are poisonous.",
+      "options": {
+        "option": [
+          {
+            "definition": "可食用的",
+            "iscorrect": true
+          },
+          {
+            "definition": "可编辑的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可教育的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可启迪的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

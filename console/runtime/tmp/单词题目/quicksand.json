@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "quicksand",
+      "error_analysis": "学生易将“quicksand”直译为“快沙”或“流动快的沙子”，忽略其“能陷人的流沙”的核心含义",
+      "sentence": "The hiker panicked when he felt his feet sinking into the **quicksand** while crossing the desert.",
+      "options": {
+        "option": [
+          {
+            "definition": "能陷人的流沙",
+            "iscorrect": true
+          },
+          {
+            "definition": "流动速度快的沙子",
+            "iscorrect": false
+          },
+          {
+            "definition": "由快速移动的沙子形成的沙丘",
+            "iscorrect": false
+          },
+          {
+            "definition": "用于快速干燥物品的沙子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

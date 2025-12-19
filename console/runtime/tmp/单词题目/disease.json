@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "disease",
+      "error_analysis": "学生易因“dis-”+“ease”的字面推导错误理解为“不适”，或混淆形近词“disaster”（灾难）",
+      "sentence": "The doctor diagnosed the patient with a rare **disease** that affects the lungs.",
+      "options": {
+        "option": [
+          {
+            "definition": "疾病",
+            "iscorrect": true
+          },
+          {
+            "definition": "不适",
+            "iscorrect": false
+          },
+          {
+            "definition": "灾难",
+            "iscorrect": false
+          },
+          {
+            "definition": "处理",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

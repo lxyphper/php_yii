@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ringing",
+      "error_analysis": "学生易将名词义“耳鸣”误解为“ring（响铃）的现在分词”、“环形的物体”（词根误导）或形容词义“响亮的声音”（义项混淆）。",
+      "sentence": "After the concert, I had a sharp **ringing** in my ears that lasted for hours.",
+      "options": {
+        "option": [
+          {
+            "definition": "耳鸣（名词，指耳朵里持续的响声）",
+            "iscorrect": true
+          },
+          {
+            "definition": "正在响铃（ring的现在分词形式）",
+            "iscorrect": false
+          },
+          {
+            "definition": "环形的物体（名词，指环状的东西）",
+            "iscorrect": false
+          },
+          {
+            "definition": "响亮的声音（形容词，指声音大而清晰）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

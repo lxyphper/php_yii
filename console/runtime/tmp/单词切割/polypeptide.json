@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "polipeptide",
+      "polypeptid",
+      "polyeptide",
+      "polypebptide"
+    ],
+    "correct_chunks": [
+      "poly",
+      "pep",
+      "tide"
+    ],
+    "distractor_chunks": [
+      "poli",
+      "peptid",
+      "eptide",
+      "peb"
+    ]
+  },
+  0
+]

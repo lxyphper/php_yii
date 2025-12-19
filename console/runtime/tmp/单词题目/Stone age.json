@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Stone age",
+      "error_analysis": "学生易因字面直译将\"Stone age\"误解为\"石头的年龄\"，或因形近词\"store\"误判为\"商店时代\"",
+      "sentence": "Archaeologists found many sharp tools made of flint in the cave, which are classic artifacts from the **Stone age**.",
+      "options": {
+        "option": [
+          {
+            "definition": "石器时代",
+            "iscorrect": true
+          },
+          {
+            "definition": "石头的年龄",
+            "iscorrect": false
+          },
+          {
+            "definition": "商店时代",
+            "iscorrect": false
+          },
+          {
+            "definition": "青铜时代",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to snow",
+      "error_analysis": "中国学生易因形近词“show”（展示）或“sow”（播种）的拼写/发音相似，将“to snow”误理解为“展示”或“播种”",
+      "sentence": "It started to **snow** heavily just as we left the house.",
+      "options": {
+        "option": [
+          {
+            "definition": "（天）下雪",
+            "iscorrect": true
+          },
+          {
+            "definition": "展示",
+            "iscorrect": false
+          },
+          {
+            "definition": "播种",
+            "iscorrect": false
+          },
+          {
+            "definition": "变慢",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

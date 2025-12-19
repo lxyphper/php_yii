@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "coat",
+      "error_analysis": "学生易因形近词\"goat\"(山羊)将\"coat\"误判为动物类名词，或对其\"涂层\"这一僻义不熟悉而选错。",
+      "sentence": "She put on her warm **coat** before heading out into the snowy park.",
+      "options": {
+        "option": [
+          {
+            "definition": "外套（穿在外面的保暖衣物，名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "山羊（有角的哺乳动物，与coat形近）",
+            "iscorrect": false
+          },
+          {
+            "definition": "涂层（覆盖在表面的一层物质，如油漆）",
+            "iscorrect": false
+          },
+          {
+            "definition": "小床（婴儿用的简易床，与coat形近）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

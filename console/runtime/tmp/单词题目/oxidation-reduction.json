@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "oxidation-reduction",
+      "error_analysis": "学生易将\"oxidation\"（氧化）与\"oxygen\"（氧气）关联，将\"reduction\"误解为\"减少\"，从而错误理解为\"氧气减少\"或\"氧化后的减少\"，而非化学中的氧化还原反应。",
+      "sentence": "During the chemistry experiment, the students observed that **oxidation-reduction** reactions always involve the transfer of electrons from one atom to another.",
+      "options": {
+        "option": [
+          {
+            "definition": "氧气含量的减少",
+            "iscorrect": false
+          },
+          {
+            "definition": "氧化还原（反应）",
+            "iscorrect": true
+          },
+          {
+            "definition": "氧化物的分解过程",
+            "iscorrect": false
+          },
+          {
+            "definition": "氧化过程中的体积缩小",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

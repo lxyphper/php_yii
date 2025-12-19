@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to put forward",
+      "error_analysis": "学生易将其字面理解为“向前放置（具体物品）”，而非抽象的“提出（建议、想法等）”",
+      "sentence": "At the meeting, Sarah decided to **put forward** a new idea to solve the problem.",
+      "options": {
+        "option": [
+          {
+            "definition": "提出（建议、想法等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "向前放置（如书本、椅子等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "张贴（通知、海报等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "熄灭（火焰、灯光等）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "reactor",
+      "error_analysis": "学生易因形近词\"actor\"（演员）或词根\"react\"+\"-or\"的字面误导，将\"reactor\"错解为\"演员\"或\"反应者（指人）\"，而非\"反应堆（指物）\"。",
+      "sentence": "Scientists are closely monitoring the **reactor** to prevent any accidents in the nuclear facility.",
+      "options": {
+        "option": [
+          {
+            "definition": "反应堆（核或化学反应的设备）",
+            "iscorrect": true
+          },
+          {
+            "definition": "演员",
+            "iscorrect": false
+          },
+          {
+            "definition": "反应者（做出反应的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "重新开始的人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bibliography",
+      "error_analysis": "易因形近词biography（传记）混淆，或词根“biblio”（书）误导为“图书目录”而非“参考文献目录”",
+      "sentence": "When writing your research paper, make sure to include a **bibliography** listing all the sources you cited.",
+      "options": {
+        "option": [
+          {
+            "definition": "传记（某人的生平故事）",
+            "iscorrect": false
+          },
+          {
+            "definition": "参考文献目录（论文中引用的来源列表）",
+            "iscorrect": true
+          },
+          {
+            "definition": "图书目录（图书馆中的书籍列表）",
+            "iscorrect": false
+          },
+          {
+            "definition": "书籍销售记录（书店的销售数据）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cup",
+      "error_analysis": "中国学生易因形近词“cap”（帽子）的干扰，将“cup”误理解为“帽子”",
+      "sentence": "She poured some tea into a white ceramic **cup** and handed it to me.",
+      "options": {
+        "option": [
+          {
+            "definition": "杯子",
+            "iscorrect": true
+          },
+          {
+            "definition": "帽子",
+            "iscorrect": false
+          },
+          {
+            "definition": "橱柜",
+            "iscorrect": false
+          },
+          {
+            "definition": "蛋糕",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

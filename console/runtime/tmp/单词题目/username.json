@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "username",
+      "error_analysis": "学生易因“user”+“name”的字面拆分，误将“username”理解为“用户的真实姓名”",
+      "sentence": "When registering for the website, you can choose any **username** you like, as long as it's not already taken.",
+      "options": {
+        "option": [
+          {
+            "definition": "用户名（用于登录或注册的账号标识）",
+            "iscorrect": true
+          },
+          {
+            "definition": "用户的真实姓名（如身份证上的名字）",
+            "iscorrect": false
+          },
+          {
+            "definition": "用户ID（数字形式的用户标识）",
+            "iscorrect": false
+          },
+          {
+            "definition": "用户的昵称（如网络绰号）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

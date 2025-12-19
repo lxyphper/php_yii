@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "surprisingly",
+      "error_analysis": "学生易将\"surprisingly\"混淆为\"惊讶地（指人感受）\"或错误理解为\"非常地\"",
+      "sentence": "Surprisingly, the 70-year-old man beat all the young players in the basketball game.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人惊讶地；意外地",
+            "iscorrect": true
+          },
+          {
+            "definition": "惊讶地（指人感到惊讶）",
+            "iscorrect": false
+          },
+          {
+            "definition": "非常地；极其地",
+            "iscorrect": false
+          },
+          {
+            "definition": "突然地；猛地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

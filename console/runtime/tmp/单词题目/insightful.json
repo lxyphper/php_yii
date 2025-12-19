@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "insightful",
+      "error_analysis": "学生易因将“insight”的“sight”误解为“视觉”而错解“insightful”为“有视觉的”，或因形近词“inciteful”（煽动性的）产生混淆",
+      "sentence": "Her **insightful** comments on the social issue made everyone think deeply.",
+      "options": {
+        "option": [
+          {
+            "definition": "有深刻见解的",
+            "iscorrect": true
+          },
+          {
+            "definition": "煽动性的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有视觉的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有教育意义的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

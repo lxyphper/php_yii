@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "red",
+      "error_analysis": "学生易因形近词\"read\"（过去式）的拼写（仅差一个字母）及发音（均为/red/）相似，将\"red\"误判为\"阅读\"的过去式。",
+      "sentence": "She put on a **red** hat before going out, and everyone noticed her bright look.",
+      "options": {
+        "option": [
+          {
+            "definition": "红色的",
+            "iscorrect": true
+          },
+          {
+            "definition": "阅读（过去式）",
+            "iscorrect": false
+          },
+          {
+            "definition": "休息（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "租（过去式）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

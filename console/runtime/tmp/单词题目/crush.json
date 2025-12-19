@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "crush",
+      "error_analysis": "混淆形近词“crash”（碰撞/崩溃）及误将“crush”仅理解为字面“压碎”，忽略其“迷恋”的常用义",
+      "sentence": "She blushed when talking about her **crush** on the new transfer student.",
+      "options": {
+        "option": [
+          {
+            "definition": "碰撞（如车祸）",
+            "iscorrect": false
+          },
+          {
+            "definition": "压碎（如坚果被压碎）",
+            "iscorrect": false
+          },
+          {
+            "definition": "迷恋（对某人的好感）",
+            "iscorrect": true
+          },
+          {
+            "definition": "崩溃（如系统宕机）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

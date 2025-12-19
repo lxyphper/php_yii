@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to listen",
+      "error_analysis": "学生易因形近词“list”（列表/列举）误将“to listen”理解为与“列举”相关的动作。",
+      "sentence": "Please **listen** to the teacher carefully—she will talk about the homework for tomorrow.",
+      "options": {
+        "option": [
+          {
+            "definition": "听；倾听",
+            "iscorrect": true
+          },
+          {
+            "definition": "列举；列出",
+            "iscorrect": false
+          },
+          {
+            "definition": "看；观看",
+            "iscorrect": false
+          },
+          {
+            "definition": "写；记录",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "snowstorm",
+      "error_analysis": "中国学生易将`snowstorm`与形近复合词（如`snowshoe`）或通过词根猜测误联想为雪相关事物（如`snowbank`）",
+      "sentence": "The **snowstorm** lasted all night, covering the entire village in a thick layer of snow.",
+      "options": {
+        "option": [
+          {
+            "definition": "暴风雪",
+            "iscorrect": true
+          },
+          {
+            "definition": "雪鞋",
+            "iscorrect": false
+          },
+          {
+            "definition": "雪堆",
+            "iscorrect": false
+          },
+          {
+            "definition": "雪崩",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

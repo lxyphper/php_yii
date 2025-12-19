@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "length",
+      "error_analysis": "学生易因形近词\"strength\"（力量）产生误解，或混淆维度（如高度、宽度）",
+      "sentence": "The **length** of the new subway line is 25 kilometers, connecting the city center to the airport.",
+      "options": {
+        "option": [
+          {
+            "definition": "长度（空间或时间的延伸量）",
+            "iscorrect": true
+          },
+          {
+            "definition": "力量（体力或能力）",
+            "iscorrect": false
+          },
+          {
+            "definition": "高度（从底部到顶部的距离）",
+            "iscorrect": false
+          },
+          {
+            "definition": "宽度（从一侧到另一侧的距离）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

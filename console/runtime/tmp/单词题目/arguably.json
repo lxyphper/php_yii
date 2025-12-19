@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "arguably",
+      "error_analysis": "学生易因词根\"argue\"(争论)误导，将\"arguably\"错误理解为\"争论地\"，忽略其\"可以说；按理说\"的核心委婉肯定含义。",
+      "sentence": "The new policy is **arguably** the most effective measure to reduce pollution in decades.",
+      "options": {
+        "option": [
+          {
+            "definition": "可以说；按理说",
+            "iscorrect": true
+          },
+          {
+            "definition": "争论地；激烈争辩地",
+            "iscorrect": false
+          },
+          {
+            "definition": "可争论的；有争议的",
+            "iscorrect": false
+          },
+          {
+            "definition": "实际上；事实上",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

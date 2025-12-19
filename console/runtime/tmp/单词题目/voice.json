@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "voice",
+      "error_analysis": "学生易混淆形近词\"vice\"(恶习)或误将\"voice\"理解为\"噪音\"(noise)等非核心词义",
+      "sentence": "She has a beautiful **voice** that makes everyone stop and listen.",
+      "options": {
+        "option": [
+          {
+            "definition": "恶习；缺点",
+            "iscorrect": false
+          },
+          {
+            "definition": "噪音；喧闹声",
+            "iscorrect": false
+          },
+          {
+            "definition": "声音（尤指人的嗓音）",
+            "iscorrect": true
+          },
+          {
+            "definition": "音量；响度",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

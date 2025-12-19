@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cultural",
+      "error_analysis": "学生易因形近词“cultivate”（培养）将“cultural”误解为“培养的”，或因词根“cult”（种植/培养）过度推导为“与种植/培养相关的”。",
+      "sentence": "The city hosts a **cultural** festival every year to celebrate its local heritage.",
+      "options": {
+        "option": [
+          {
+            "definition": "与文化相关的",
+            "iscorrect": true
+          },
+          {
+            "definition": "培养的；与培养有关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "与种植或农业相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "好奇的；感兴趣的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

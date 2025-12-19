@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "oligopoly",
+      "error_analysis": "易与形近词\"monopoly\"（单一垄断）混淆，或因对\"oligo-\"（少）词根不熟悉而错误推导为\"多元竞争市场\"",
+      "sentence": "The smartphone industry is often cited as an example of an **oligopoly**, with just a few major companies dominating global sales.",
+      "options": {
+        "option": [
+          {
+            "definition": "少数卖方控制的市场结构",
+            "iscorrect": true
+          },
+          {
+            "definition": "单一卖方主导的垄断市场",
+            "iscorrect": false
+          },
+          {
+            "definition": "由多个小公司组成的竞争市场",
+            "iscorrect": false
+          },
+          {
+            "definition": "政府完全控制的计划经济",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

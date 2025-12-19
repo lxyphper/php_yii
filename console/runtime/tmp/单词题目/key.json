@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "key",
+      "error_analysis": "学生易将形容词义\"关键的\"误判为最熟悉的名词义\"钥匙\"（字面误导）。",
+      "sentence": "She played a **key** role in making the project a success.",
+      "options": {
+        "option": [
+          {
+            "definition": "钥匙",
+            "iscorrect": false
+          },
+          {
+            "definition": "关键的；核心的",
+            "iscorrect": true
+          },
+          {
+            "definition": "凯（人名）",
+            "iscorrect": false
+          },
+          {
+            "definition": "输入（数据）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

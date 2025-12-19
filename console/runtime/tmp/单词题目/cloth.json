@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cloth",
+      "error_analysis": "学生易因形近词\"clothes\"（衣服）的干扰，将\"cloth\"误理解为\"衣服\"。",
+      "sentence": "She used a piece of **cloth** to wipe the spilled milk off the table.",
+      "options": {
+        "option": [
+          {
+            "definition": "布；织物",
+            "iscorrect": true
+          },
+          {
+            "definition": "衣服",
+            "iscorrect": false
+          },
+          {
+            "definition": "穿衣（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "布料的复数形式",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

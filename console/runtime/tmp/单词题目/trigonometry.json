@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "trigonometry",
+      "error_analysis": "学生易因词根\"tri-\"(三)、\"gon\"(角)、\"metry\"(测量)过度推导为\"三角形的测量方法\"，或与\"geometry\"(几何)混淆为同类学科",
+      "sentence": "In high school math, we use **trigonometry** to find unknown sides or angles in triangles using sine, cosine, and tangent functions.",
+      "options": {
+        "option": [
+          {
+            "definition": "三角学（研究三角形边角关系的数学分支）",
+            "iscorrect": true
+          },
+          {
+            "definition": "三角形的测量方法",
+            "iscorrect": false
+          },
+          {
+            "definition": "几何学的同义词",
+            "iscorrect": false
+          },
+          {
+            "definition": "三角形的角度计算器",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

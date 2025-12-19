@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bed",
+      "error_analysis": "学生易因形近词\"bad\"（坏的）的拼写混淆，将\"bed\"误理解为\"坏的\"",
+      "sentence": "I like to read a book in my **bed** before going to sleep.",
+      "options": {
+        "option": [
+          {
+            "definition": "床",
+            "iscorrect": true
+          },
+          {
+            "definition": "坏的",
+            "iscorrect": false
+          },
+          {
+            "definition": "投标",
+            "iscorrect": false
+          },
+          {
+            "definition": "打赌",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

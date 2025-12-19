@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "inoperative",
+      "error_analysis": "学生易根据词根\"operate\"猜测为\"不操作的\"（强调动作），或混淆形近词\"inoperable\"（无法手术的）。",
+      "sentence": "The fire alarm was **inoperative** during the drill, so no one was alerted.",
+      "options": {
+        "option": [
+          {
+            "definition": "无法手术的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不操作的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不起作用的",
+            "iscorrect": true
+          },
+          {
+            "definition": "正在操作的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

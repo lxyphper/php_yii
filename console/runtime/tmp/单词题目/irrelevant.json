@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "irrelevant",
+      "error_analysis": "学生易混淆形近词“irreverent”（不尊敬的），或误将词根“relevant”（相关的）推导为“重要的”，从而把“irrelevant”理解为“不尊敬的”或“不重要的”。",
+      "sentence": "When we were discussing the math homework, Lisa kept talking about her weekend plans, which the teacher said was **irrelevant** to the topic.",
+      "options": {
+        "option": [
+          {
+            "definition": "（与话题）不相关的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不尊敬的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不重要的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不常见的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to put off",
+      "error_analysis": "学生易因“put”（放）和“off”（离开）的字面义，将“to put off”误解为“取消”或“放下”",
+      "sentence": "Mary decided to **put off** her trip to Japan until she saves enough money.",
+      "options": {
+        "option": [
+          {
+            "definition": "推迟；拖延",
+            "iscorrect": true
+          },
+          {
+            "definition": "取消",
+            "iscorrect": false
+          },
+          {
+            "definition": "放下",
+            "iscorrect": false
+          },
+          {
+            "definition": "穿上",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

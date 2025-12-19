@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "insigificant",
+      "insignifcant",
+      "insignifecant",
+      "insignifikant",
+      "insignivicant"
+    ],
+    "correct_chunks": [
+      "in",
+      "sig",
+      "nif",
+      "icant"
+    ],
+    "distractor_chunks": [
+      "sigi",
+      "nifcant",
+      "icent",
+      "ikant",
+      "niv"
+    ]
+  },
+  0
+]

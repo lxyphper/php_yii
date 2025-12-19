@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "transparent",
+      "error_analysis": "学生易因形近词\"transport\"(运输)或词根中\"-parent\"与\"parent\"(父母)的混淆而误解词义",
+      "sentence": "The glass window is so **transparent** that you can see the garden outside clearly.",
+      "options": {
+        "option": [
+          {
+            "definition": "透明的；易懂的",
+            "iscorrect": true
+          },
+          {
+            "definition": "运输的；传送的",
+            "iscorrect": false
+          },
+          {
+            "definition": "与父母有关的；双亲的",
+            "iscorrect": false
+          },
+          {
+            "definition": "暂时的；临时的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

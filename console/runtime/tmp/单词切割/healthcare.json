@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "heathcare",
+      "helthcare",
+      "heelthcare",
+      "healthcar"
+    ],
+    "correct_chunks": [
+      "hea",
+      "lth",
+      "care"
+    ],
+    "distractor_chunks": [
+      "th",
+      "hel",
+      "hee",
+      "car"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "anyway",
+      "error_analysis": "学生易将\"any\"+\"way\"字面拆解为\"任何方式/道路\"，忽略其作为转折/总结副词的核心义（无论如何/不管怎样）",
+      "sentence": "I know it's late, but I want to go to the party **anyway**.",
+      "options": {
+        "option": [
+          {
+            "definition": "无论如何；不管怎样",
+            "iscorrect": true
+          },
+          {
+            "definition": "任何方式；任何道路",
+            "iscorrect": false
+          },
+          {
+            "definition": "任何地方",
+            "iscorrect": false
+          },
+          {
+            "definition": "任何时候",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

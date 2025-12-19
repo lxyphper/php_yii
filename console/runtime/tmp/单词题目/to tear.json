@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to tear",
+      "error_analysis": "学生易混淆动词“to tear”（撕裂）与形近词“wear”（穿）或名词“tear”（眼泪）带来的“流泪”误解",
+      "sentence": "She was so angry that she **tore** the letter into pieces.",
+      "options": {
+        "option": [
+          {
+            "definition": "撕裂；撕开",
+            "iscorrect": true
+          },
+          {
+            "definition": "穿（衣服）",
+            "iscorrect": false
+          },
+          {
+            "definition": "流泪",
+            "iscorrect": false
+          },
+          {
+            "definition": "听见",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

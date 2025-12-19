@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "producion",
+      "prodution",
+      "producktion",
+      "prodection",
+      "producsion"
+    ],
+    "correct_chunks": [
+      "pro",
+      "duct",
+      "ion"
+    ],
+    "distractor_chunks": [
+      "duc",
+      "dut",
+      "duck",
+      "dect",
+      "sion"
+    ]
+  },
+  0
+]

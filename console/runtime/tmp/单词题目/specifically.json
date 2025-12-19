@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "specifically",
+      "error_analysis": "学生易混淆“specifically”与形近词“specially”，误将其理解为“专门地”。",
+      "sentence": "The teacher **specifically** told us to finish the essay by Friday, not next week.",
+      "options": {
+        "option": [
+          {
+            "definition": "明确地；具体地",
+            "iscorrect": true
+          },
+          {
+            "definition": "专门地；特意地",
+            "iscorrect": false
+          },
+          {
+            "definition": "特别地；非常地",
+            "iscorrect": false
+          },
+          {
+            "definition": "详细地；细致地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

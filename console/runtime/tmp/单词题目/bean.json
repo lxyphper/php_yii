@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bean",
+      "error_analysis": "学生易因形近将“bean”（豆）误判为“bear”（熊）或“beat”（打）",
+      "sentence": "She added some **beans** to the soup to make it more nutritious.",
+      "options": {
+        "option": [
+          {
+            "definition": "豆（豆类植物的种子或豆荚）",
+            "iscorrect": true
+          },
+          {
+            "definition": "熊（哺乳动物，bear的词义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "打（击打，beat的词义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "存在（be的过去分词，been的词义）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "program",
+      "error_analysis": "易混淆形近词progress（进步）及词根gram带来的“语法规则/重量单位”误解",
+      "sentence": "The new **program** launched by the school will help students improve their digital skills through weekly workshops.",
+      "options": {
+        "option": [
+          {
+            "definition": "程序；计划；项目",
+            "iscorrect": true
+          },
+          {
+            "definition": "进步；进展",
+            "iscorrect": false
+          },
+          {
+            "definition": "语法规则",
+            "iscorrect": false
+          },
+          {
+            "definition": "重量单位（克）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

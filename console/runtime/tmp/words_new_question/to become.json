@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to become",
+      "error_analysis": "学生可能将“become”拆分为“be+come”误理解为“来”，或因形近“because”误理解为“因为”",
+      "sentence": "She wants **to become** a teacher when she grows up.",
+      "options": {
+        "option": [
+          {
+            "definition": "变成；成为",
+            "iscorrect": true
+          },
+          {
+            "definition": "因为",
+            "iscorrect": false
+          },
+          {
+            "definition": "来；到达",
+            "iscorrect": false
+          },
+          {
+            "definition": "属于",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

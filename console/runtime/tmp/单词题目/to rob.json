@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to rob",
+      "error_analysis": "中国学生易因形近词\"rub\"(摩擦)的干扰，或误将\"rob sb of sth\"的引申义\"剥夺\"当作核心意思，导致误解\"to rob\"的本义。",
+      "sentence": "The man pulled a knife and tried to **rob** the cashier at the convenience store.",
+      "options": {
+        "option": [
+          {
+            "definition": "抢劫；抢夺",
+            "iscorrect": true
+          },
+          {
+            "definition": "摩擦；擦拭",
+            "iscorrect": false
+          },
+          {
+            "definition": "剥夺；使丧失",
+            "iscorrect": false
+          },
+          {
+            "definition": "穿长袍；着礼服",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

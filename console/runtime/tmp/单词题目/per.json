@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "per",
+      "error_analysis": "学生易因形近词“pet”（宠物）或前缀“per-”（完全）的干扰而误解“per”（每）的核心词义。",
+      "sentence": "The coffee shop charges $2 **per** cup, so three cups will cost $6.",
+      "options": {
+        "option": [
+          {
+            "definition": "每",
+            "iscorrect": true
+          },
+          {
+            "definition": "宠物",
+            "iscorrect": false
+          },
+          {
+            "definition": "完全",
+            "iscorrect": false
+          },
+          {
+            "definition": "为了",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

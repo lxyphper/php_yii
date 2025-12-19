@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "noncrucial",
+      "error_analysis": "学生易因混淆“crucial”与“critical”（形近）或误将“crucial”记为“残酷的”（cruel，音近），导致误解“noncrucial”为“不批评的”或“不残酷的”。",
+      "sentence": "While the team focused on finishing the **noncrucial** tasks first, they realized they should have prioritized the critical ones to meet the deadline.",
+      "options": {
+        "option": [
+          {
+            "definition": "非关键的；不重要的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不批评的；不挑剔的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不残酷的；仁慈的",
+            "iscorrect": false
+          },
+          {
+            "definition": "非商业的；非营利的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

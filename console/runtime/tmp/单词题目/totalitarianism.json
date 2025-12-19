@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "totalitarianism",
+      "error_analysis": "学生可能因“total”（全部的）词根误导将“totalitarianism”理解为“整体主义”，或因形近词“authoritarianism”混淆为“威权主义”",
+      "sentence": "The novel describes a dystopian world under **totalitarianism**, where the government monitors every conversation and punishes any dissent.",
+      "options": {
+        "option": [
+          {
+            "definition": "极权主义（政府对政治、经济、社会等所有领域实行绝对控制的政治体系）",
+            "iscorrect": true
+          },
+          {
+            "definition": "整体主义（强调事物整体性、反对分割的思想或原则）",
+            "iscorrect": false
+          },
+          {
+            "definition": "威权主义（强调权威服从、限制政治自由的保守政治体系）",
+            "iscorrect": false
+          },
+          {
+            "definition": "素食主义（拒绝食用肉类及动物产品的生活方式）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

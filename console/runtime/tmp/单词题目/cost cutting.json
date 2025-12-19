@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cost cutting",
+      "error_analysis": "学生易因\"cutting\"的字面义\"切割\"将\"cost cutting\"误理解为\"成本切割\"，或因形近词联想产生无关含义（如\"服装裁剪\"）。",
+      "sentence": "To improve profitability, the company implemented several **cost cutting** measures, such as reducing office supplies and downsizing the team.",
+      "options": {
+        "option": [
+          {
+            "definition": "成本削减（指企业为降低开支而采取的措施）",
+            "iscorrect": true
+          },
+          {
+            "definition": "成本切割（对\"cutting\"字面义的错误理解）",
+            "iscorrect": false
+          },
+          {
+            "definition": "服装裁剪（因\"cost\"与\"costume\"形近产生的误联想）",
+            "iscorrect": false
+          },
+          {
+            "definition": "成本计算（与\"cost cutting\"无关的财务术语）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

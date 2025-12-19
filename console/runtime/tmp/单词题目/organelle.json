@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "organelle",
+      "error_analysis": "学生易因词根\"organ\"(器官)+\"-elle\"(小后缀)猜测为\"小器官\"，混淆\"器官\"与\"细胞内结构\"的层次",
+      "sentence": "Mitochondria, often called the \"powerhouses of the cell,\" are a type of **organelle** that generates energy for cellular processes.",
+      "options": {
+        "option": [
+          {
+            "definition": "细胞器（细胞内执行特定功能的结构，如线粒体）",
+            "iscorrect": true
+          },
+          {
+            "definition": "小器官（如器官的微小组成部分，如肾脏的细胞）",
+            "iscorrect": false
+          },
+          {
+            "definition": "有机体（具有生命的完整个体，如动物或植物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "器官系统（由多个器官组成的功能系统，如消化系统）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

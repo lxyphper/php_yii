@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "smog",
+      "error_analysis": "学生易因形近词“smoke”（烟）或“fog”（雾）的联想，将“smog”误判为单一的“烟”或“雾”，而非两者结合的“烟雾/雾霾”。",
+      "sentence": "The city was covered in thick **smog** this morning, making it hard to breathe.",
+      "options": {
+        "option": [
+          {
+            "definition": "烟（smoke）",
+            "iscorrect": false
+          },
+          {
+            "definition": "雾（fog）",
+            "iscorrect": false
+          },
+          {
+            "definition": "薄雾（mist）",
+            "iscorrect": false
+          },
+          {
+            "definition": "烟雾；雾霾",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

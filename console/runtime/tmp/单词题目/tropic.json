@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tropic",
+      "error_analysis": "学生易因形近词“topic”（话题）的拼写及发音相似而误判“tropic”的含义",
+      "sentence": "People living in the **tropic** often enjoy long hours of sunlight and a variety of tropical fruits like mangoes and coconuts.",
+      "options": {
+        "option": [
+          {
+            "definition": "热带地区",
+            "iscorrect": true
+          },
+          {
+            "definition": "话题",
+            "iscorrect": false
+          },
+          {
+            "definition": "奖杯",
+            "iscorrect": false
+          },
+          {
+            "definition": "旅行",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

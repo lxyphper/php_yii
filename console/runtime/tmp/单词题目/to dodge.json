@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to dodge",
+      "error_analysis": "中国学生易因“dodge”与“dog”（狗，动词义为跟踪）形近，或因“dge”词根联想“edge”（边缘，动词义为缓慢移动），误将其理解为“跟踪”或“缓慢移动”。",
+      "sentence": "When the ball came flying towards him, he managed to **dodge** it just in time.",
+      "options": {
+        "option": [
+          {
+            "definition": "迅速躲开；回避",
+            "iscorrect": true
+          },
+          {
+            "definition": "跟踪",
+            "iscorrect": false
+          },
+          {
+            "definition": "缓慢移动",
+            "iscorrect": false
+          },
+          {
+            "definition": "打盹",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

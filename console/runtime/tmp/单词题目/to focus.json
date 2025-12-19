@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to focus",
+      "error_analysis": "学生易因形近词“force”（强迫）混淆“to focus”的含义，或误将其字面理解为“固定”而非“集中注意力”。",
+      "sentence": "To solve this problem, you need to **focus** on the key details and ignore the irrelevant information.",
+      "options": {
+        "option": [
+          {
+            "definition": "集中（注意力、精力等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "强迫；迫使",
+            "iscorrect": false
+          },
+          {
+            "definition": "固定；安装",
+            "iscorrect": false
+          },
+          {
+            "definition": "注视；盯着看",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

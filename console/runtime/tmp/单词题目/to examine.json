@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to examine",
+      "error_analysis": "学生易因“examine”与“example”拼写相近而误理解为“例子”，或通过词根“ex-”错误推导为“拿出”而非“仔细检查”。",
+      "sentence": "The doctor will **examine** your throat to see if you have a sore throat.",
+      "options": {
+        "option": [
+          {
+            "definition": "仔细检查；审查",
+            "iscorrect": true
+          },
+          {
+            "definition": "例子",
+            "iscorrect": false
+          },
+          {
+            "definition": "拿出；取出",
+            "iscorrect": false
+          },
+          {
+            "definition": "解释",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

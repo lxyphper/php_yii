@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "computer-aided design technician",
+      "error_analysis": "学生易将“technician”（技术员）与形近词“technique”（技巧）混淆，导致误判为“计算机辅助设计技巧”",
+      "sentence": "Our company is hiring a **computer-aided design technician** to create 3D models of mechanical parts using software like AutoCAD.",
+      "options": {
+        "option": [
+          {
+            "definition": "计算机辅助设计技巧",
+            "iscorrect": false
+          },
+          {
+            "definition": "帮助计算机设计的技术员",
+            "iscorrect": false
+          },
+          {
+            "definition": "计算机辅助设计技术员（CAD技术员）",
+            "iscorrect": true
+          },
+          {
+            "definition": "计算机设计工程师",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

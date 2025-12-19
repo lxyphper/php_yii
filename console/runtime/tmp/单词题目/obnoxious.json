@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "obnoxious",
+      "error_analysis": "中国学生易因形近词“obvious”（明显的）或词根“noxious”（有害的），将“obnoxious”误判为“明显的”或“有害的”。",
+      "sentence": "The man’s **obnoxious** behavior—like cutting in line and yelling at the waiter—made everyone in the restaurant roll their eyes and complain.",
+      "options": {
+        "option": [
+          {
+            "definition": "明显的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有害的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人讨厌的；令人反感的",
+            "iscorrect": true
+          },
+          {
+            "definition": "固执的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

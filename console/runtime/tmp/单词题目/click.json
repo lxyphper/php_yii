@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "click",
+      "error_analysis": "易因形近词“clock”（时钟）或发音联想“clap”（拍手）混淆“click”的词义",
+      "sentence": "To open the file, just **click** the icon on your desktop.",
+      "options": {
+        "option": [
+          {
+            "definition": "时钟（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "拍手（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "关闭（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "点击（动词）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

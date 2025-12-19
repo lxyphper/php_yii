@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "grotesque",
+      "error_analysis": "中国学生易因形近词“gross”（恶心的）或词根联想“grow”（生长）误判“grotesque”的含义。",
+      "sentence": "The artist’s latest exhibit features **grotesque** sculptures of animals with human heads, which left many visitors feeling uneasy.",
+      "options": {
+        "option": [
+          {
+            "definition": "怪诞的；荒诞不经的",
+            "iscorrect": true
+          },
+          {
+            "definition": "恶心的；粗俗的",
+            "iscorrect": false
+          },
+          {
+            "definition": "生长迅速的",
+            "iscorrect": false
+          },
+          {
+            "definition": "普通的；常见的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

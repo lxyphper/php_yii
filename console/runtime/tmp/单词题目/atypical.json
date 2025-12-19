@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "atypical",
+      "error_analysis": "忽略a-的否定前缀，误将atypical理解为\"典型的\"或其近义词",
+      "sentence": "The disease showed **atypical** symptoms, so the doctor had trouble diagnosing it at first.",
+      "options": {
+        "option": [
+          {
+            "definition": "典型的",
+            "iscorrect": false
+          },
+          {
+            "definition": "常见的",
+            "iscorrect": false
+          },
+          {
+            "definition": "非典型的",
+            "iscorrect": true
+          },
+          {
+            "definition": "独特的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

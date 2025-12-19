@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to sigh",
+      "error_analysis": "中国学生易因形近词“sign”（签名）或“sight”（看见）混淆，将“to sigh”误判为“签名”或“看见”",
+      "sentence": "When she heard the bad news, she **sighed** and shook her head.",
+      "options": {
+        "option": [
+          {
+            "definition": "叹气",
+            "iscorrect": true
+          },
+          {
+            "definition": "签名；做标记",
+            "iscorrect": false
+          },
+          {
+            "definition": "看见；发现",
+            "iscorrect": false
+          },
+          {
+            "definition": "说；讲",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

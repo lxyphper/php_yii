@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "gud afternoon",
+      "goodafternoon",
+      "good aftenoon",
+      "good affternoon",
+      "good afternoom"
+    ],
+    "correct_chunks": [
+      "good ",
+      "af",
+      "ter",
+      "noon"
+    ],
+    "distractor_chunks": [
+      "gud",
+      "goodafter",
+      "ten",
+      "aff",
+      "noom"
+    ]
+  },
+  0
+]

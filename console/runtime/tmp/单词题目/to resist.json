@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to resist",
+      "error_analysis": "学生易因形近词“insist”（坚持）的拼写混淆，或词根“sist”的前缀误解将“resist”误判为“坚持”或“帮助”。",
+      "sentence": "To stay focused, he tried **to resist** the temptation to browse social media during his study session.",
+      "options": {
+        "option": [
+          {
+            "definition": "坚持",
+            "iscorrect": false
+          },
+          {
+            "definition": "帮助",
+            "iscorrect": false
+          },
+          {
+            "definition": "接受",
+            "iscorrect": false
+          },
+          {
+            "definition": "抵制；抵抗",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "influenza",
+      "error_analysis": "学生易因形近词\"influence\"（影响）的误导，或对\"flu\"词根表示流感的含义不熟悉而错解",
+      "sentence": "Many people got **influenza** last winter, so the hospital was crowded with patients having fever and cough.",
+      "options": {
+        "option": [
+          {
+            "definition": "影响",
+            "iscorrect": false
+          },
+          {
+            "definition": "流感",
+            "iscorrect": true
+          },
+          {
+            "definition": "流入",
+            "iscorrect": false
+          },
+          {
+            "definition": "感染",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

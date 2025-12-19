@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to clear",
+      "error_analysis": "中国学生易因形近词“clean”误将“to clear”理解为“清洁”，或因形容词“清楚的”字面误导认为是“使清楚”。",
+      "sentence": "Please **clear** the desk before the meeting starts—we need space for the documents.",
+      "options": {
+        "option": [
+          {
+            "definition": "清理（空间或障碍物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "清洁（使干净）",
+            "iscorrect": false
+          },
+          {
+            "definition": "使清楚（解释明白）",
+            "iscorrect": false
+          },
+          {
+            "definition": "使明亮（让光线透过）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to remind",
+      "error_analysis": "将“remind”混淆为“remember”（自己记得），或因“re-+mind”错误理解为“自己再想”",
+      "sentence": "Could you please **remind** me to call my mom tomorrow?",
+      "options": {
+        "option": [
+          {
+            "definition": "提醒（某人做某事）",
+            "iscorrect": true
+          },
+          {
+            "definition": "记得（自己想起）",
+            "iscorrect": false
+          },
+          {
+            "definition": "使某人再思考（自己）",
+            "iscorrect": false
+          },
+          {
+            "definition": "忘记",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

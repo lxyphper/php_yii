@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "several",
+      "error_analysis": "学生易因形近词“severe”（严重的）混淆，或误将“several”与“sever”（切断）关联导致词义误解",
+      "sentence": "I bought **several** books yesterday, but I can't remember exactly how many.",
+      "options": {
+        "option": [
+          {
+            "definition": "几个；若干（指三个或以上的不确定数量）",
+            "iscorrect": true
+          },
+          {
+            "definition": "严重的；严厉的",
+            "iscorrect": false
+          },
+          {
+            "definition": "切断的；分离的",
+            "iscorrect": false
+          },
+          {
+            "definition": "少数的；几乎没有的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

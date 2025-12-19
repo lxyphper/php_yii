@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to creep",
+      "error_analysis": "中国学生易因形近词“keep”（保持）的拼写相似而误将“creep”理解为“保持”",
+      "sentence": "The little mouse **crept** quietly along the wall to avoid being seen by the cat.",
+      "options": {
+        "option": [
+          {
+            "definition": "保持",
+            "iscorrect": false
+          },
+          {
+            "definition": "睡觉",
+            "iscorrect": false
+          },
+          {
+            "definition": "爬行；缓慢移动（如贴地悄悄爬）",
+            "iscorrect": true
+          },
+          {
+            "definition": "攀爬（向上爬）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "drug",
+      "error_analysis": "中国学生易因形近词“drag”（拖、拉）或字面联想“dry”（干燥）混淆“drug”的核心词义。",
+      "sentence": "The doctor prescribed a new **drug** to treat her chronic pain.",
+      "options": {
+        "option": [
+          {
+            "definition": "药物；药品",
+            "iscorrect": true
+          },
+          {
+            "definition": "拖；拉",
+            "iscorrect": false
+          },
+          {
+            "definition": "干燥的物质",
+            "iscorrect": false
+          },
+          {
+            "definition": "饮料",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

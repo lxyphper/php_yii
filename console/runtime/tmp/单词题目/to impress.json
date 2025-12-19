@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to impress",
+      "error_analysis": "易因形近词\"press\"（按压）联想到\"按压/压迫\"，或因词根\"im-+press\"错误推导为\"压入/强迫\"",
+      "sentence": "She tried hard to **impress** her new boss with her creative ideas during the meeting.",
+      "options": {
+        "option": [
+          {
+            "definition": "给……留下深刻印象",
+            "iscorrect": true
+          },
+          {
+            "definition": "按压；压迫",
+            "iscorrect": false
+          },
+          {
+            "definition": "压入；强迫",
+            "iscorrect": false
+          },
+          {
+            "definition": "记住；牢记",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

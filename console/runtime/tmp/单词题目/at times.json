@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "at times",
+      "error_analysis": "混淆\"at times\"(有时)与\"at the time\"(在那时)，或字面理解为\"在次数上\"",
+      "sentence": "She loves her job, but **at times** she feels stressed about the long hours.",
+      "options": {
+        "option": [
+          {
+            "definition": "有时，偶尔",
+            "iscorrect": true
+          },
+          {
+            "definition": "在那时",
+            "iscorrect": false
+          },
+          {
+            "definition": "在次数上",
+            "iscorrect": false
+          },
+          {
+            "definition": "按时",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

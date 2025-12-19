@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "approachable",
+      "error_analysis": "中国学生易因词根“approach”（接近）误导，将“approachable”误理解为“可到达的（物理上的）”，忽略其“平易近人的（指人）”核心义。",
+      "sentence": "Mr. Lee is always smiling and willing to help his students—he’s one of the most **approachable** teachers in the school.",
+      "options": {
+        "option": [
+          {
+            "definition": "平易近人的（指人或态度友好、容易接近）",
+            "iscorrect": true
+          },
+          {
+            "definition": "可到达的（指地点容易到达）",
+            "iscorrect": false
+          },
+          {
+            "definition": "明显的（可察觉或注意到的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "可应用的（适用于某情况的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

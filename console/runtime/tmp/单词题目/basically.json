@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "basically",
+      "error_analysis": "学生易因形近词\"basic\"（基础的）联想，将\"basically\"误理解为\"基础地；根本地\"，或通过词根字面推导为\"从基础来说\"。",
+      "sentence": "I didn’t finish the essay, but **basically**, I covered all the key points.",
+      "options": {
+        "option": [
+          {
+            "definition": "基本上；大体上",
+            "iscorrect": true
+          },
+          {
+            "definition": "基础地；根本地",
+            "iscorrect": false
+          },
+          {
+            "definition": "从基础来说",
+            "iscorrect": false
+          },
+          {
+            "definition": "主要地；首要地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "as a result",
+      "error_analysis": "学生易因字面直译将\"as a result\"误解为\"作为一个结果\"，忽略其作为连接词的\"因此\"核心含义。",
+      "sentence": "She missed the bus, **as a result**, she was late for school.",
+      "options": {
+        "option": [
+          {
+            "definition": "因此，结果",
+            "iscorrect": true
+          },
+          {
+            "definition": "作为一个结果",
+            "iscorrect": false
+          },
+          {
+            "definition": "由于结果",
+            "iscorrect": false
+          },
+          {
+            "definition": "导致结果",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

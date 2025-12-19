@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "anemometer",
+      "error_analysis": "学生易因形近词\"thermometer\"（温度计）的干扰，或对词根\"anemo-\"（风）不熟悉，误将其理解为测量温度的仪器。",
+      "sentence": "The meteorologist used an **anemometer** to record the wind speed during the storm.",
+      "options": {
+        "option": [
+          {
+            "definition": "温度计",
+            "iscorrect": false
+          },
+          {
+            "definition": "气压计",
+            "iscorrect": false
+          },
+          {
+            "definition": "风速计",
+            "iscorrect": true
+          },
+          {
+            "definition": "湿度计",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

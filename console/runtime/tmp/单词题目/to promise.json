@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to promise",
+      "error_analysis": "易因形近词\"premise\"(前提)或词根\"pro-\"(向前)过度猜测，误将\"to promise\"理解为\"前提\"或\"促进\"",
+      "sentence": "He **promised** to help me with my homework after school.",
+      "options": {
+        "option": [
+          {
+            "definition": "前提；假设",
+            "iscorrect": false
+          },
+          {
+            "definition": "促进；提升",
+            "iscorrect": false
+          },
+          {
+            "definition": "允许；许可",
+            "iscorrect": false
+          },
+          {
+            "definition": "承诺；答应",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

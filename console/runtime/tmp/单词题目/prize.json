@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "prize",
+      "error_analysis": "学生易因形近词“price”（价格）或“praise”（表扬）混淆“prize”的核心词义“奖品”",
+      "sentence": "After winning the speech contest, Tom was awarded a **prize** which included a book and a certificate.",
+      "options": {
+        "option": [
+          {
+            "definition": "奖品；奖赏",
+            "iscorrect": true
+          },
+          {
+            "definition": "价格；价钱",
+            "iscorrect": false
+          },
+          {
+            "definition": "表扬；赞扬",
+            "iscorrect": false
+          },
+          {
+            "definition": "珍视；重视",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

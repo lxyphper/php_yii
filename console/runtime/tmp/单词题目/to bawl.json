@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to bawl",
+      "error_analysis": "形近词\"ball\"(球)易导致误判为与\"球\"相关的动作，或与\"call\"(叫)混淆为\"大声呼叫\"",
+      "sentence": "When the little girl lost her favorite teddy bear, she **bawled** for hours until her mom found it.",
+      "options": {
+        "option": [
+          {
+            "definition": "大声哭；号啕大哭",
+            "iscorrect": true
+          },
+          {
+            "definition": "玩球；打球",
+            "iscorrect": false
+          },
+          {
+            "definition": "大声呼叫；召唤",
+            "iscorrect": false
+          },
+          {
+            "definition": "大笑；狂笑",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

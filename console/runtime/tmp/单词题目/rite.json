@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rite",
+      "error_analysis": "形近词“write”（写）和“right”（权利）的干扰，导致学生误判“rite”的含义",
+      "sentence": "The traditional wedding **rite** in their culture includes exchanging rings and bowing to the elders.",
+      "options": {
+        "option": [
+          {
+            "definition": "仪式；典礼",
+            "iscorrect": true
+          },
+          {
+            "definition": "书写；写作",
+            "iscorrect": false
+          },
+          {
+            "definition": "权利",
+            "iscorrect": false
+          },
+          {
+            "definition": "比率；速率",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

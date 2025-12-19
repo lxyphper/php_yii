@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "predominant",
+      "error_analysis": "学生易因词根“pre-”（误解为“之前”）将“predominant”错解为“以前的主导”，或因形近混淆“permanent”（永久的）。",
+      "sentence": "In most traditional families, the father used to be the **predominant** decision-maker.",
+      "options": {
+        "option": [
+          {
+            "definition": "主要的；占主导地位的",
+            "iscorrect": true
+          },
+          {
+            "definition": "以前的主导",
+            "iscorrect": false
+          },
+          {
+            "definition": "永久的",
+            "iscorrect": false
+          },
+          {
+            "definition": "流行的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

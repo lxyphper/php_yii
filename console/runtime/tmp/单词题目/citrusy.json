@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "citrusy",
+      "error_analysis": "学生易因形近词\"citizen\"（公民）或\"city\"（城市）的联想，或对词根\"citrus\"（柑橘）的字面推导，将\"citrusy\"误理解为\"公民的\"\"城市的\"或\"柑橘类的\"。",
+      "sentence": "The new lemonade has a fresh, **citrusy** taste that reminds me of oranges and limes.",
+      "options": {
+        "option": [
+          {
+            "definition": "公民的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有柑橘味的",
+            "iscorrect": true
+          },
+          {
+            "definition": "柑橘类的",
+            "iscorrect": false
+          },
+          {
+            "definition": "城市的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

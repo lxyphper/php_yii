@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "playtime",
+      "error_analysis": "学生易因形近词\"part-time\"误判为\"兼职时间\"，或因\"play\"的\"表演/播放\"义误理解为\"表演时间\"或\"播放时间\"",
+      "sentence": "The kids cheered loudly when the bell rang—it was finally **playtime**, and they rushed to the slide and swings.",
+      "options": {
+        "option": [
+          {
+            "definition": "（尤指儿童的）玩耍时间",
+            "iscorrect": true
+          },
+          {
+            "definition": "兼职时间",
+            "iscorrect": false
+          },
+          {
+            "definition": "表演时间",
+            "iscorrect": false
+          },
+          {
+            "definition": "播放时间",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

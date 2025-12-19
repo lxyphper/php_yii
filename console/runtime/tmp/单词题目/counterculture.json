@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "counterculture",
+      "error_analysis": "学生易将“counter”误理解为“柜台”而猜“柜台文化”，或过度推导“counter-”的“相反”义为“对抗”而误解为极端对抗性文化。",
+      "sentence": "The 1960s hippie movement, which rejected mainstream values like materialism and conformity, is a iconic example of **counterculture** in modern history.",
+      "options": {
+        "option": [
+          {
+            "definition": "柜台文化（指与柜台、商业服务相关的行业文化）",
+            "iscorrect": false
+          },
+          {
+            "definition": "反主流文化（指与社会主流思想、生活方式对立的亚文化）",
+            "iscorrect": true
+          },
+          {
+            "definition": "对抗性文化（指以摧毁所有文化为目标的极端思想）",
+            "iscorrect": false
+          },
+          {
+            "definition": "主流文化分支（指从主流文化中衍生的次要文化形态）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

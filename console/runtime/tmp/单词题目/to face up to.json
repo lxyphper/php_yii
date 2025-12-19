@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to face up to",
+      "error_analysis": "学生易因字面拆解\"face+up+to\"误理解为\"面向上方\"，或混淆形近短语\"look up to\"（尊敬）",
+      "sentence": "After avoiding the problem for months, she finally decided to **face up to** the fact that she needed to quit her job.",
+      "options": {
+        "option": [
+          {
+            "definition": "勇敢面对（困难或不愉快的事）",
+            "iscorrect": true
+          },
+          {
+            "definition": "面向上方；抬头看",
+            "iscorrect": false
+          },
+          {
+            "definition": "尊敬；仰慕",
+            "iscorrect": false
+          },
+          {
+            "definition": "面对面交谈",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

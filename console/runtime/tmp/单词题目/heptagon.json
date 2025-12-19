@@ -1,0 +1,32 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "heptagon",
+      "error_analysis": "学生因不熟悉词根“hepta-”（七），易将“heptagon”误判为其他数字的多边形（如六边形、八边形），或因形近词“hepatitis”（肝炎）产生无关联想。",
+      "sentence": {
+        "b": "heptagon"
+      },
+      "options": {
+        "option": [
+          {
+            "definition": "六边形",
+            "iscorrect": false
+          },
+          {
+            "definition": "八边形",
+            "iscorrect": false
+          },
+          {
+            "definition": "肝炎",
+            "iscorrect": false
+          },
+          {
+            "definition": "七边形",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cooperative",
+      "error_analysis": "易因形近词“operative”（有效的）或词根“co-+operate”过度直译为“共同操作的”而误解其核心词义“合作的”",
+      "sentence": "The team's **cooperative** effort led to the successful completion of the project.",
+      "options": {
+        "option": [
+          {
+            "definition": "合作的；协作的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有效的；运作的",
+            "iscorrect": false
+          },
+          {
+            "definition": "共同操作的",
+            "iscorrect": false
+          },
+          {
+            "definition": "公司的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

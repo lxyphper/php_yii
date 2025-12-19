@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "outlet",
+      "error_analysis": "中国学生易因形近词“outline”（大纲）或词根“out+let”误猜为“输出”。",
+      "sentence": "Many people use exercise as an **outlet** for their pent-up emotions.",
+      "options": {
+        "option": [
+          {
+            "definition": "（情感等的）发泄途径",
+            "iscorrect": true
+          },
+          {
+            "definition": "大纲；轮廓",
+            "iscorrect": false
+          },
+          {
+            "definition": "输出；产出",
+            "iscorrect": false
+          },
+          {
+            "definition": "开始；开端",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

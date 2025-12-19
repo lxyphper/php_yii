@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to migrate",
+      "error_analysis": "易与形近词imitate（模仿）混淆，或因拼写接近merge（合并）而误解为“合并”",
+      "sentence": "Every year, millions of monarch butterflies **migrate** from Canada to Mexico for the winter.",
+      "options": {
+        "option": [
+          {
+            "definition": "模仿",
+            "iscorrect": false
+          },
+          {
+            "definition": "合并",
+            "iscorrect": false
+          },
+          {
+            "definition": "迁移；移居；迁徙（指人或动物从一地到另一地）",
+            "iscorrect": true
+          },
+          {
+            "definition": "发送",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

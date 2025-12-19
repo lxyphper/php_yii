@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "propriety",
+      "error_analysis": "易与形近词property（财产）混淆，或误通过词根propri-（自己的）猜测为“个人所有”",
+      "sentence": "The teacher emphasized the importance of **propriety** in formal speeches, reminding students to avoid slang or casual jokes.",
+      "options": {
+        "option": [
+          {
+            "definition": "财产",
+            "iscorrect": false
+          },
+          {
+            "definition": "个人所有",
+            "iscorrect": false
+          },
+          {
+            "definition": "适当；得体",
+            "iscorrect": true
+          },
+          {
+            "definition": "提议；建议",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

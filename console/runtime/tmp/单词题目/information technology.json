@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "information technology",
+      "error_analysis": "学生易混淆\"technology\"与形近词\"technique\"（技巧），或对短语进行过度直译（如\"信息的技术\"）",
+      "sentence": "Many modern businesses use **information technology** to streamline their operations and improve efficiency.",
+      "options": {
+        "option": [
+          {
+            "definition": "信息技术",
+            "iscorrect": true
+          },
+          {
+            "definition": "信息技巧",
+            "iscorrect": false
+          },
+          {
+            "definition": "信息的技术",
+            "iscorrect": false
+          },
+          {
+            "definition": "信息方法",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

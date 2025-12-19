@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "beta blocker",
+      "error_analysis": "将“beta”误解为“测试版”（常见义），结合“blocker”猜测为与软件或测试相关的工具，而非医学上的β受体阻滞剂",
+      "sentence": "The doctor prescribed a **beta blocker** to help manage the patient's high blood pressure and reduce the risk of heart attacks.",
+      "options": {
+        "option": [
+          {
+            "definition": "β受体阻滞剂（一种治疗高血压、心脏病等的药物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "测试版阻挡工具（用于软件测试的辅助工具）",
+            "iscorrect": false
+          },
+          {
+            "definition": "β射线阻滞剂（用于防护β辐射的设备）",
+            "iscorrect": false
+          },
+          {
+            "definition": "β型阻挡者（游戏中阻止对手前进的角色）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

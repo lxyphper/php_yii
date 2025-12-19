@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "congested",
+      "error_analysis": "学生易因“congested”与“confused”拼写结构相似，将其误判为“困惑的”。",
+      "sentence": "The downtown area is always **congested** with cars and pedestrians during weekends.",
+      "options": {
+        "option": [
+          {
+            "definition": "困惑的",
+            "iscorrect": false
+          },
+          {
+            "definition": "拥挤的；堵塞的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有手势的",
+            "iscorrect": false
+          },
+          {
+            "definition": "祝贺的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

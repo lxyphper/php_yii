@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "during",
+      "error_analysis": "学生易因“during”与形近词“doing”（做）拼写、发音接近，误理解为“正在做”；或误将介词当作动词表示“持续”。",
+      "sentence": "We played games **during** the break at school.",
+      "options": {
+        "option": [
+          {
+            "definition": "正在做（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "在……期间（介词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "持续（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "在……之后（介词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

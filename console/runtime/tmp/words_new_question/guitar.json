@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "guitar",
+      "error_analysis": "中国学生易将\"guitar\"与形近词\"guilt\"（内疚）或\"guitarist\"（吉他手）混淆，导致词义误判。",
+      "sentence": "She has been playing the **guitar** since she was six years old and now performs in a local band.",
+      "options": {
+        "option": [
+          {
+            "definition": "吉他（一种弦乐器）",
+            "iscorrect": true
+          },
+          {
+            "definition": "内疚；罪责",
+            "iscorrect": false
+          },
+          {
+            "definition": "吉他手（演奏吉他的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "保证；担保",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

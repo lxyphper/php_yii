@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unbearable",
+      "error_analysis": "学生易因形近词unbelievable（难以置信的）干扰，或误将bear理解为“熊”而错解为“没有熊的”。",
+      "sentence": "The heat in the small, stuffy room was so intense that it became **unbearable** within ten minutes.",
+      "options": {
+        "option": [
+          {
+            "definition": "无法忍受的",
+            "iscorrect": true
+          },
+          {
+            "definition": "难以置信的",
+            "iscorrect": false
+          },
+          {
+            "definition": "没有熊的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不舒服的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

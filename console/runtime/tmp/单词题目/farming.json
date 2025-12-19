@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "farming",
+      "error_analysis": "易混淆形近词faming（出名）或误将farm（农场）的字面义延伸为farming的含义，忽略其“农业”的抽象核心义",
+      "sentence": "Traditional **farming** methods in this region rely heavily on rainwater rather than irrigation.",
+      "options": {
+        "option": [
+          {
+            "definition": "农业；耕作",
+            "iscorrect": true
+          },
+          {
+            "definition": "出名；声誉",
+            "iscorrect": false
+          },
+          {
+            "definition": "农场（具体场所）",
+            "iscorrect": false
+          },
+          {
+            "definition": "农民（职业）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

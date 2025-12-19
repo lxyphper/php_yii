@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to dash",
+      "error_analysis": "学生易因形近词\"cash\"误判为\"兑换现金\"，或因名词义\"破折号\"误判为\"添加破折号\"",
+      "sentence": "When she heard the fire alarm, she **dashed** out of the classroom without grabbing her bag.",
+      "options": {
+        "option": [
+          {
+            "definition": "猛冲，飞奔",
+            "iscorrect": true
+          },
+          {
+            "definition": "兑换现金",
+            "iscorrect": false
+          },
+          {
+            "definition": "猛击，痛打",
+            "iscorrect": false
+          },
+          {
+            "definition": "添加破折号",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

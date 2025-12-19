@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "table tennis",
+      "error_analysis": "学生易因\"table\"和\"tennis\"的字面意思直译成\"桌上网球\"，或混淆为\"网球桌\"等错误含义。",
+      "sentence": "Many Chinese athletes excel in **table tennis**, which is often called ping-pong in informal settings.",
+      "options": {
+        "option": [
+          {
+            "definition": "乒乓球",
+            "iscorrect": true
+          },
+          {
+            "definition": "桌上网球",
+            "iscorrect": false
+          },
+          {
+            "definition": "网球桌",
+            "iscorrect": false
+          },
+          {
+            "definition": "台球",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

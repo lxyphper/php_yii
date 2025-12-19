@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "drawn-out",
+      "error_analysis": "学生易因\"draw out\"字面义（拖出、拉长）将\"drawn-out\"误解为\"物理上拉长的\"，或因\"drawn\"（疲惫的）联想为\"疲惫的\"",
+      "sentence": "The meeting turned out to be a **drawn-out** affair, lasting over three hours without reaching any conclusion.",
+      "options": {
+        "option": [
+          {
+            "definition": "冗长的；持续很久的",
+            "iscorrect": true
+          },
+          {
+            "definition": "物理上拉长的",
+            "iscorrect": false
+          },
+          {
+            "definition": "疲惫的",
+            "iscorrect": false
+          },
+          {
+            "definition": "引出的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

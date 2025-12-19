@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "date",
+      "error_analysis": "学生易因形近词'data'（数据）混淆，或误将'date'理解为与'day'关联的'白天'",
+      "sentence": "Please write the **date** of your birthday on the registration form.",
+      "options": {
+        "option": [
+          {
+            "definition": "日期",
+            "iscorrect": true
+          },
+          {
+            "definition": "数据",
+            "iscorrect": false
+          },
+          {
+            "definition": "白天",
+            "iscorrect": false
+          },
+          {
+            "definition": "枣子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

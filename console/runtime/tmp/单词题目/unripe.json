@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unripe",
+      "error_analysis": "学生易因“unripe”与“unreal”（不真实的）形近或“rip”（撕开）的联想，误判为“不真实的”或“未撕开的”",
+      "sentence": "The bananas were still **unripe**, so they were green and hard to eat.",
+      "options": {
+        "option": [
+          {
+            "definition": "未成熟的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不真实的",
+            "iscorrect": false
+          },
+          {
+            "definition": "未撕开的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不像的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

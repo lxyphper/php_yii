@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "library",
+      "error_analysis": "中国学生易因形近词（如librarian）或语义混淆（如误作书店）错误理解library的核心词义（图书馆）",
+      "sentence": "I borrowed three books from the **library** near my school yesterday.",
+      "options": {
+        "option": [
+          {
+            "definition": "图书馆",
+            "iscorrect": true
+          },
+          {
+            "definition": "图书管理员",
+            "iscorrect": false
+          },
+          {
+            "definition": "书店",
+            "iscorrect": false
+          },
+          {
+            "definition": "实验室",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

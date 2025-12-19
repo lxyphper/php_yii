@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "amuzement park",
+      "amusemant park",
+      "amussement park",
+      "amusement parc"
+    ],
+    "correct_chunks": [
+      "a",
+      "muse",
+      "ment",
+      "par",
+      "k"
+    ],
+    "distractor_chunks": [
+      "muze",
+      "mant",
+      "muss",
+      "parc",
+      "ze"
+    ]
+  },
+  0
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "gren audit",
+      "green odit",
+      "green adit",
+      "greeen audit",
+      "green audi"
+    ],
+    "correct_chunks": [
+      "gr",
+      "een",
+      "au",
+      "dit"
+    ],
+    "distractor_chunks": [
+      "en",
+      "o",
+      "a",
+      "di",
+      "eee"
+    ]
+  },
+  0
+]

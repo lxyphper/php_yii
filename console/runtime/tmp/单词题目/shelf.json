@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "shelf",
+      "error_analysis": "学生易因形近词`sell`（卖）或`self`（自己）混淆`shelf`的核心词义“架子”",
+      "sentence": "Please put the book back on the **shelf** after reading it.",
+      "options": {
+        "option": [
+          {
+            "definition": "架子；搁板",
+            "iscorrect": true
+          },
+          {
+            "definition": "卖；销售",
+            "iscorrect": false
+          },
+          {
+            "definition": "自己；自我",
+            "iscorrect": false
+          },
+          {
+            "definition": "贝壳；壳",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

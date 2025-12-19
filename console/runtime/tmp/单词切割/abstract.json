@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "abstact",
+      "apstract",
+      "abstrack",
+      "absrtact"
+    ],
+    "correct_chunks": [
+      "ab",
+      "str",
+      "act"
+    ],
+    "distractor_chunks": [
+      "st",
+      "ap",
+      "ck",
+      "srt"
+    ]
+  },
+  0
+]

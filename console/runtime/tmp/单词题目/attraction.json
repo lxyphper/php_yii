@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "attraction",
+      "error_analysis": "易混淆形近词attention（注意），或误将attraction理解为“吸引的动作”而非“吸引人的事物”",
+      "sentence": "The new aquarium has become the most popular **attraction** in the city, drawing thousands of visitors every weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "注意；注意力",
+            "iscorrect": false
+          },
+          {
+            "definition": "吸引人的事物；景点",
+            "iscorrect": true
+          },
+          {
+            "definition": "吸引的动作；诱惑力",
+            "iscorrect": false
+          },
+          {
+            "definition": "归因；归属",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

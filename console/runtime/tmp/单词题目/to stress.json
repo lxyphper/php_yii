@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to stress",
+      "error_analysis": "学生易因形近词“press”（压）误将“to stress”理解为“按压”，或因名词“压力”的字面误导误判为“使有压力”。",
+      "sentence": "The teacher always **stresses** the importance of practicing English every day.",
+      "options": {
+        "option": [
+          {
+            "definition": "强调",
+            "iscorrect": true
+          },
+          {
+            "definition": "按压",
+            "iscorrect": false
+          },
+          {
+            "definition": "使有压力",
+            "iscorrect": false
+          },
+          {
+            "definition": "伸展",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

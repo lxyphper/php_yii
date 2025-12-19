@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "white",
+      "error_analysis": "学生易因形近词\"write\"（写）或\"wide\"（宽的）产生错误联想，混淆\"white\"的核心词义。",
+      "sentence": "She wore a **white** dress to the wedding, which looked very elegant.",
+      "options": {
+        "option": [
+          {
+            "definition": "写（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "白色的（形容词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "宽的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "一点（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to transpose",
+      "error_analysis": "学生易因形近词\"transport\"（运输）或词根\"trans-\"（转移）+\"pose\"（放置）的字面误导，将其误理解为\"运输\"或\"搬运\"。",
+      "sentence": "The editor asked me to **transpose** the first and second paragraphs to improve the flow of the article.",
+      "options": {
+        "option": [
+          {
+            "definition": "调换，交换（位置或顺序）",
+            "iscorrect": true
+          },
+          {
+            "definition": "运输，运送",
+            "iscorrect": false
+          },
+          {
+            "definition": "搬运，转移",
+            "iscorrect": false
+          },
+          {
+            "definition": "排列，布置",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

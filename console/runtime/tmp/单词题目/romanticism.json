@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "romanticism",
+      "error_analysis": "学生易因\"romantic\"（浪漫的）字面联想误将\"romanticism\"理解为\"浪漫的情感或行为\"，或因形近词\"romance\"（浪漫故事）混淆为\"浪漫故事\"",
+      "sentence": "The poet's work reflects the key themes of **romanticism**, such as a love for nature and emphasis on individual emotion.",
+      "options": {
+        "option": [
+          {
+            "definition": "浪漫主义（文艺或哲学上强调情感、想象的流派）",
+            "iscorrect": true
+          },
+          {
+            "definition": "浪漫故事或爱情小说",
+            "iscorrect": false
+          },
+          {
+            "definition": "浪漫的情感或行为",
+            "iscorrect": false
+          },
+          {
+            "definition": "现实主义（文艺上强调现实的流派）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

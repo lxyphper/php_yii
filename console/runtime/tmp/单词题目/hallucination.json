@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hallucination",
+      "error_analysis": "中国学生易因\"hall\"形近联想误判为与\"走廊/大厅\"相关，或因\"luc\"词根（光/清晰）误导认为与\"明亮景象\"有关。",
+      "sentence": "After taking the medication, the patient reported seeing a snake on the bed, but it turned out to be a **hallucination**.",
+      "options": {
+        "option": [
+          {
+            "definition": "幻觉；幻视或幻听（看到/听到不存在事物的体验）",
+            "iscorrect": true
+          },
+          {
+            "definition": "走廊的景象（走廊里的视觉画面）",
+            "iscorrect": false
+          },
+          {
+            "definition": "明亮的视觉效果（光线带来的清晰画面）",
+            "iscorrect": false
+          },
+          {
+            "definition": "有利可图的机会（能带来利润的机遇）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

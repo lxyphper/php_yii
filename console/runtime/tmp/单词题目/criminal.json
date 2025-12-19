@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "criminal",
+      "error_analysis": "易混淆形近词critical（批评的/关键的）及词根过度推导（将criminal误判为“罪行”而非“罪犯”）",
+      "sentence": "The police arrested the **criminal** who stole the jewelry from the local museum.",
+      "options": {
+        "option": [
+          {
+            "definition": "罪犯",
+            "iscorrect": true
+          },
+          {
+            "definition": "批评的",
+            "iscorrect": false
+          },
+          {
+            "definition": "罪行",
+            "iscorrect": false
+          },
+          {
+            "definition": "关键的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

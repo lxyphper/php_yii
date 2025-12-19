@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cuisine",
+      "error_analysis": "学生易因形近词（如cousin）或词根误导（误认为“厨房”）而错误理解“cuisine”的核心义“菜系/烹饪风格”",
+      "sentence": "The restaurant is famous for its authentic Italian **cuisine**, which includes pasta, pizza, and gelato.",
+      "options": {
+        "option": [
+          {
+            "definition": "菜系；烹饪风格",
+            "iscorrect": true
+          },
+          {
+            "definition": "堂兄弟；表兄弟",
+            "iscorrect": false
+          },
+          {
+            "definition": "厨房；炊具",
+            "iscorrect": false
+          },
+          {
+            "definition": "文化；习俗",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

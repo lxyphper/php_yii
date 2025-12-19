@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to strengthen",
+      "error_analysis": "易混淆形近词straighten（使直），或误将“加强”局限为“使身体强壮”",
+      "sentence": "The government plans to **strengthen** the laws against pollution to protect the environment.",
+      "options": {
+        "option": [
+          {
+            "definition": "加强；巩固",
+            "iscorrect": true
+          },
+          {
+            "definition": "使直；弄平",
+            "iscorrect": false
+          },
+          {
+            "definition": "使身体强壮",
+            "iscorrect": false
+          },
+          {
+            "definition": "伸展；拉长",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "interdisciplinary",
+      "error_analysis": "学生易因\"disciplinary\"的\"纪律\"义（形近干扰）或\"inter-\"与\"学科\"的过度直译（词根误导），误将词理解为\"跨纪律的\"或\"学科之间的\"而非\"跨学科的\"。",
+      "sentence": "The research project requires an **interdisciplinary** approach, combining biology, chemistry, and computer science to solve the problem.",
+      "options": {
+        "option": [
+          {
+            "definition": "跨学科的（涉及多个学科融合的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "跨纪律的（与不同纪律规范相关的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "学科之间的（仅指学科间的关系，未强调融合）",
+            "iscorrect": false
+          },
+          {
+            "definition": "国际学科的（涉及多个国家学科的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

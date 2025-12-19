@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to congratulate",
+      "error_analysis": "学生易因形近词“congregate”（聚集）的干扰，或误将“to congratulate”理解为“庆祝（事件）”而忽略其“向某人道贺”的核心含义。",
+      "sentence": "After Tom got accepted into his dream university, his family called to **congratulate** him.",
+      "options": {
+        "option": [
+          {
+            "definition": "向（某人）祝贺",
+            "iscorrect": true
+          },
+          {
+            "definition": "聚集",
+            "iscorrect": false
+          },
+          {
+            "definition": "庆祝（某个事件）",
+            "iscorrect": false
+          },
+          {
+            "definition": "感谢",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

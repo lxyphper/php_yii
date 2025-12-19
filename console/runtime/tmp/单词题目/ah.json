@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ah",
+      "error_analysis": "学生易因“ah”与不定冠词“a”形近或与“oh”等感叹词混淆，忽略其表示“明白、惊讶”的核心含义",
+      "sentence": "**Ah**, I get it now! You were trying to teach me a lesson about patience.",
+      "options": {
+        "option": [
+          {
+            "definition": "一个（不定冠词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "啊（表示惊讶、明白等的感叹词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "哈（表示笑声的感叹词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "哦（表示疑问的感叹词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

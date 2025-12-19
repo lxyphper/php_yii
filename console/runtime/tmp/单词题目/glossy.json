@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "glossy",
+      "error_analysis": "学生易因形近词\"glory\"(荣耀)误判为\"荣耀的\"，或因\"gloss\"(注释)词根误判为\"有注释的\"",
+      "sentence": "The new laptop has a **glossy** finish that makes it look sleek and modern.",
+      "options": {
+        "option": [
+          {
+            "definition": "有光泽的；光滑的",
+            "iscorrect": true
+          },
+          {
+            "definition": "荣耀的；光荣的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有注释的；详细的",
+            "iscorrect": false
+          },
+          {
+            "definition": "悲伤的；难过的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

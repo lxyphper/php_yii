@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "turbine",
+      "error_analysis": "中国学生易因`turbine`与基础词`turkey`（火鸡）形近而误判，或因词根`turb-`（旋转）的陌生及`turbulent`（混乱）的误导而猜测为“混乱的装置”。",
+      "sentence": "The wind farm uses large **turbines** to generate electricity from the wind.",
+      "options": {
+        "option": [
+          {
+            "definition": "火鸡",
+            "iscorrect": false
+          },
+          {
+            "definition": "混乱的装置",
+            "iscorrect": false
+          },
+          {
+            "definition": "风扇",
+            "iscorrect": false
+          },
+          {
+            "definition": "涡轮机",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

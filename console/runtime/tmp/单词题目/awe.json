@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "awe",
+      "error_analysis": "中国学生易因形近词\"owe\"（欠）或\"aw\"的感叹义，误将\"awe\"判为\"欠\"或\"轻微惊讶\"，忽略其\"敬畏\"核心义。",
+      "sentence": "Standing at the foot of the towering mountain, she felt a deep sense of **awe** at its beauty and grandeur.",
+      "options": {
+        "option": [
+          {
+            "definition": "敬畏；惊叹",
+            "iscorrect": true
+          },
+          {
+            "definition": "欠（钱或人情）",
+            "iscorrect": false
+          },
+          {
+            "definition": "醒来；唤醒",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻微的惊讶",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

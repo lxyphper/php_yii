@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "inefficient",
+      "error_analysis": "中国学生易因形近词\"insufficient\"或混淆\"efficient\"与\"effective\"而将\"inefficient\"误解为\"不足的\"或\"无效果的\"",
+      "sentence": "The old printing machine is so **inefficient** that it takes three hours to print 100 pages, while the new one does it in 30 minutes.",
+      "options": {
+        "option": [
+          {
+            "definition": "低效的；效率低的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不足的；不够的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无效果的；无效的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无能力的；不称职的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

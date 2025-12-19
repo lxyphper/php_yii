@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hazelnut",
+      "error_analysis": "学生易将\"hazel\"与形近词\"haze\"（薄雾）混淆，或误将\"hazel\"的\"淡褐色\"义代入，导致误解为\"雾坚果\"或\"淡褐色的坚果\"。",
+      "sentence": "I added some crushed **hazelnuts** to the chocolate cake to give it a crunchy texture.",
+      "options": {
+        "option": [
+          {
+            "definition": "榛子",
+            "iscorrect": true
+          },
+          {
+            "definition": "雾坚果",
+            "iscorrect": false
+          },
+          {
+            "definition": "淡褐色的坚果",
+            "iscorrect": false
+          },
+          {
+            "definition": "核桃",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

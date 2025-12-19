@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "trumpet",
+      "error_analysis": "学生易将trumpet误判为与trump（王牌）相关的含义，如“王牌”或“制胜法宝”",
+      "sentence": "The musician picked up his **trumpet** and began to play a lively jazz tune.",
+      "options": {
+        "option": [
+          {
+            "definition": "小号（一种铜管乐器）",
+            "iscorrect": true
+          },
+          {
+            "definition": "王牌；制胜法宝",
+            "iscorrect": false
+          },
+          {
+            "definition": "宣扬；鼓吹（动词义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "喇叭花（一种花卉）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

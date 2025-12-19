@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "caffeine",
+      "error_analysis": "因与\"coffee\"（咖啡）或\"café\"（咖啡馆）拼写相似，易误判为\"咖啡\"；或因\"ine\"后缀错误联想为\"维生素\"等无关物质。",
+      "sentence": "Many people skip coffee after 6 PM because the **caffeine** in it can make it hard to fall asleep.",
+      "options": {
+        "option": [
+          {
+            "definition": "咖啡因",
+            "iscorrect": true
+          },
+          {
+            "definition": "咖啡",
+            "iscorrect": false
+          },
+          {
+            "definition": "咖啡馆",
+            "iscorrect": false
+          },
+          {
+            "definition": "维生素",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

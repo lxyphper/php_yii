@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unwarily",
+      "error_analysis": "学生易因形近词\"unusually\"（不寻常地）或词根\"wary\"误判为\"不经常地\"或\"不倦地\"",
+      "sentence": "She **unwarily** left her bag on the bench while she went to buy coffee, and it was stolen within five minutes.",
+      "options": {
+        "option": [
+          {
+            "definition": "不谨慎地；粗心地",
+            "iscorrect": true
+          },
+          {
+            "definition": "不寻常地；罕见地",
+            "iscorrect": false
+          },
+          {
+            "definition": "不倦地；不懈地",
+            "iscorrect": false
+          },
+          {
+            "definition": "不情愿地；勉强地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

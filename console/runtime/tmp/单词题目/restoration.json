@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "restoration",
+      "error_analysis": "中国学生易因形近词restriction（限制）混淆，或误将词根拆分为re+store（重新存储）而误解词义。",
+      "sentence": "The **restoration** of the ancient temple took five years and cost millions of dollars.",
+      "options": {
+        "option": [
+          {
+            "definition": "限制",
+            "iscorrect": false
+          },
+          {
+            "definition": "重新存储",
+            "iscorrect": false
+          },
+          {
+            "definition": "修复（尤指建筑、文物等回到原有状态）",
+            "iscorrect": true
+          },
+          {
+            "definition": "休息",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

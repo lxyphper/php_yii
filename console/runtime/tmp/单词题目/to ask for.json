@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to ask for",
+      "error_analysis": "学生易将“to ask for”误解为“询问关于（某事）”，而非其核心含义“请求；要求（得到某物）”",
+      "sentence": "When you need help with your homework, don’t be afraid to **ask for** it from your teacher.",
+      "options": {
+        "option": [
+          {
+            "definition": "请求；要求（得到某物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "询问关于（某事）",
+            "iscorrect": false
+          },
+          {
+            "definition": "为了问（某事）",
+            "iscorrect": false
+          },
+          {
+            "definition": "要求某人做某事",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

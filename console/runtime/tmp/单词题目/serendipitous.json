@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "serendipitous",
+      "error_analysis": "学生易因形近词“seditious”（煽动叛乱的）或词根“ser-”联想到“serious”（严肃的），误将其理解为“煽动叛乱的”或“严肃的”。",
+      "sentence": "While cleaning out the attic, she made a **serendipitous** discovery—an old letter from her grandmother that revealed a family secret she’d never known.",
+      "options": {
+        "option": [
+          {
+            "definition": "偶然发现的；意外收获的",
+            "iscorrect": true
+          },
+          {
+            "definition": "煽动叛乱的",
+            "iscorrect": false
+          },
+          {
+            "definition": "严肃的",
+            "iscorrect": false
+          },
+          {
+            "definition": "平静的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

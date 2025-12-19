@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "text to speech",
+      "error_analysis": "将\"text to speech\"字面直译为\"文本到演讲\"或\"文本转演讲\"，忽略其\"文本转语音\"的技术含义",
+      "sentence": "Many e-book readers include a **text to speech** function that converts written words into spoken audio for users who prefer listening over reading.",
+      "options": {
+        "option": [
+          {
+            "definition": "文本转语音（将文字转换为语音的技术）",
+            "iscorrect": true
+          },
+          {
+            "definition": "文本到演讲（为演讲撰写文本内容）",
+            "iscorrect": false
+          },
+          {
+            "definition": "语音文本（记录演讲内容的文字材料）",
+            "iscorrect": false
+          },
+          {
+            "definition": "文本编辑（修改或调整文本的工具）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

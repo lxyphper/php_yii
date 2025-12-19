@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to consist",
+      "error_analysis": "易因形近词“insist”（坚持）干扰误理解为“坚持”；或因词根“sist”（站立）过度直译为“站在一起”而非“由...组成”。",
+      "sentence": "The team **consists** of five members from different countries.",
+      "options": {
+        "option": [
+          {
+            "definition": "由...组成",
+            "iscorrect": true
+          },
+          {
+            "definition": "坚持",
+            "iscorrect": false
+          },
+          {
+            "definition": "站在一起",
+            "iscorrect": false
+          },
+          {
+            "definition": "抵抗",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

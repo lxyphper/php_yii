@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cyclone",
+      "error_analysis": "学生易因\"cycl-\"词根联想到\"cycle\"(循环)误判为\"循环过程\"，或因形近\"clone\"(克隆)误判为\"克隆产物\"",
+      "sentence": "The coastal town was evacuated due to the approaching **cyclone**, which is expected to bring heavy rain and strong winds.",
+      "options": {
+        "option": [
+          {
+            "definition": "气旋；旋风",
+            "iscorrect": true
+          },
+          {
+            "definition": "循环的过程或周期",
+            "iscorrect": false
+          },
+          {
+            "definition": "克隆的生物或产物",
+            "iscorrect": false
+          },
+          {
+            "definition": "自行车的一种",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "innocently",
+      "error_analysis": "学生易因形近词\"innately\"（天生地）或词根\"nocent\"（伤害）误导，将\"innocently\"错解为\"天生地\"或\"没有伤害地\"，而非核心义\"天真地\"。",
+      "sentence": "The little girl looked up at her mom and **innocently** asked, \"Why can't I have candy for breakfast?\"",
+      "options": {
+        "option": [
+          {
+            "definition": "天真地；无邪地",
+            "iscorrect": true
+          },
+          {
+            "definition": "天生地",
+            "iscorrect": false
+          },
+          {
+            "definition": "没有伤害地",
+            "iscorrect": false
+          },
+          {
+            "definition": "顺便地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "assembly line",
+      "error_analysis": "学生易将\"assembly\"的\"集合/会议\"义与\"line\"结合误译为\"集合队伍；会议流程\"，或因形近混淆为\"评估线路\"",
+      "sentence": "The factory introduced a new **assembly line** to increase the production of cars.",
+      "options": {
+        "option": [
+          {
+            "definition": "装配线；生产线",
+            "iscorrect": true
+          },
+          {
+            "definition": "评估线路；测试线",
+            "iscorrect": false
+          },
+          {
+            "definition": "集合队伍；会议流程",
+            "iscorrect": false
+          },
+          {
+            "definition": "电话线路；通讯线",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

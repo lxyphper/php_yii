@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to mount",
+      "error_analysis": "学生因形近词“mountain”（山）的干扰，常将“to mount”错误理解为“攀登（山）”",
+      "sentence": "Can you help me **mount** this new mirror on the bathroom wall?",
+      "options": {
+        "option": [
+          {
+            "definition": "安装（在某处）",
+            "iscorrect": true
+          },
+          {
+            "definition": "攀登（山）",
+            "iscorrect": false
+          },
+          {
+            "definition": "增加（如数量）",
+            "iscorrect": false
+          },
+          {
+            "definition": "骑上（自行车）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

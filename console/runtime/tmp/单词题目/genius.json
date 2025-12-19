@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "genius",
+      "error_analysis": "中国学生易混淆形近词“genie”（精灵），或因“gene”（基因）的词根联想错误理解词义。",
+      "sentence": "Marie Curie's **genius** in physics and chemistry led her to win two Nobel Prizes, a rare achievement in science.",
+      "options": {
+        "option": [
+          {
+            "definition": "天才；天赋",
+            "iscorrect": true
+          },
+          {
+            "definition": "精灵；妖怪",
+            "iscorrect": false
+          },
+          {
+            "definition": "基因；遗传因子",
+            "iscorrect": false
+          },
+          {
+            "definition": "耐心；坚持",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

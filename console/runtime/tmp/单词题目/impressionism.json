@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "impressionism",
+      "error_analysis": "学生易因\"impression\"（印象）的形近干扰及\"-ism\"的词根误导，将\"impressionism\"误判为\"一般印象的理论\"或\"令人印象深刻的特质\"，而非艺术领域的\"印象派\"。",
+      "sentence": "Claude Monet, a famous painter, is widely regarded as a founder of **impressionism**, which emphasizes capturing momentary visual impressions through light and color.",
+      "options": {
+        "option": [
+          {
+            "definition": "（艺术中的）印象派；印象主义",
+            "iscorrect": true
+          },
+          {
+            "definition": "关于印象的一般理论或观点",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人印象深刻的特质或效果",
+            "iscorrect": false
+          },
+          {
+            "definition": "表现主义（一种艺术流派）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

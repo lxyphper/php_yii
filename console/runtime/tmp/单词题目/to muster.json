@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to muster",
+      "error_analysis": "学生易因形近词“master”（掌握）将“muster”误理解为“掌握”，或因词根联想错误认为其与“肌肉/力量”相关",
+      "sentence": "The coach tried to **muster** the team's enthusiasm before the big game.",
+      "options": {
+        "option": [
+          {
+            "definition": "鼓起（勇气/热情等）；召集",
+            "iscorrect": true
+          },
+          {
+            "definition": "掌握（知识/技能）",
+            "iscorrect": false
+          },
+          {
+            "definition": "肌肉收缩",
+            "iscorrect": false
+          },
+          {
+            "definition": "必须完成",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

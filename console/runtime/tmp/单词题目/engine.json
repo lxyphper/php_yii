@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "engine",
+      "error_analysis": "学生易因形近词“engineer”（工程师）将“engine”误理解为“工程师”",
+      "sentence": "The car won't start because there's something wrong with its **engine**.",
+      "options": {
+        "option": [
+          {
+            "definition": "发动机；引擎",
+            "iscorrect": true
+          },
+          {
+            "definition": "工程师",
+            "iscorrect": false
+          },
+          {
+            "definition": "能量",
+            "iscorrect": false
+          },
+          {
+            "definition": "工具",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

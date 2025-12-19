@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to blow",
+      "error_analysis": "学生易因形近词\"below\"混淆为\"在……下面\"，或误将动词\"blow\"错解为名词义\"打击\"",
+      "sentence": "The wind is strong enough to **blow** away the leaves from the tree.",
+      "options": {
+        "option": [
+          {
+            "definition": "吹；刮风",
+            "iscorrect": true
+          },
+          {
+            "definition": "在……下面",
+            "iscorrect": false
+          },
+          {
+            "definition": "打击；重击",
+            "iscorrect": false
+          },
+          {
+            "definition": "流动；流淌",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

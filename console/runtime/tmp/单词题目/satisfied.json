@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "satisfied",
+      "error_analysis": "混淆\"satisfied\"(人感到满意的)与形近词\"satisfactory\"(事物令人满意的)，或误将其理解为词根\"satis\"的直译\"足够的\"",
+      "sentence": "The teacher was **satisfied** with our homework because we all did it carefully.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人满意的",
+            "iscorrect": false
+          },
+          {
+            "definition": "感到满意的",
+            "iscorrect": true
+          },
+          {
+            "definition": "足够的",
+            "iscorrect": false
+          },
+          {
+            "definition": "满足的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

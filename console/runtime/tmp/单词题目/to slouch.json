@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to slouch",
+      "error_analysis": "学生易因形近词（如slump）混淆为“突然倒下”，或因“sl-”词根联想误判为“慢慢移动”",
+      "sentence": "When he sits at his desk for too long, he tends to **slouch** and complain about back pain.",
+      "options": {
+        "option": [
+          {
+            "definition": "弯腰驼背地坐或站",
+            "iscorrect": true
+          },
+          {
+            "definition": "突然倒下",
+            "iscorrect": false
+          },
+          {
+            "definition": "慢慢移动",
+            "iscorrect": false
+          },
+          {
+            "definition": "懒散地闲逛",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

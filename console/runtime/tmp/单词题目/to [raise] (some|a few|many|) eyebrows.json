@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to [raise] (some|a few|many|) eyebrows",
+      "error_analysis": "中国学生易将短语字面理解为“抬起眉毛”（忽略其比喻义），或因“eyebrows”与“eyelashes”形近而误解为“抬起睫毛”",
+      "sentence": "Her decision to quit her high-paying job to travel the world **raised many eyebrows** among her colleagues.",
+      "options": {
+        "option": [
+          {
+            "definition": "抬起眉毛（字面动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "增加眉毛的数量",
+            "iscorrect": false
+          },
+          {
+            "definition": "引起惊讶或不满",
+            "iscorrect": true
+          },
+          {
+            "definition": "抬起睫毛",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

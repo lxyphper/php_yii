@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "drive shaft",
+      "error_analysis": "学生易因\"shaft\"与\"shift\"形近误判为\"驱动换挡杆\"，或因\"drive\"直译为\"驾驶\"误判为\"驾驶轴\"",
+      "sentence": "The mechanic said the noise from the car’s engine compartment was caused by a worn-out **drive shaft** that needed replacement.",
+      "options": {
+        "option": [
+          {
+            "definition": "驱动轴",
+            "iscorrect": true
+          },
+          {
+            "definition": "驱动换挡杆",
+            "iscorrect": false
+          },
+          {
+            "definition": "驾驶轴",
+            "iscorrect": false
+          },
+          {
+            "definition": "驱动杆",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

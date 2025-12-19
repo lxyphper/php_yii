@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "terrain",
+      "error_analysis": "中国学生易因形近词\"terrace\"(露台)或词根\"terr-\"(土地)误导，将\"terrain\"误判为\"露台\"或\"领土\"",
+      "sentence": "The hikers struggled to navigate the rough mountain **terrain** during their expedition.",
+      "options": {
+        "option": [
+          {
+            "definition": "露台；平台",
+            "iscorrect": false
+          },
+          {
+            "definition": "领土；疆域",
+            "iscorrect": false
+          },
+          {
+            "definition": "土壤；泥土",
+            "iscorrect": false
+          },
+          {
+            "definition": "地形；地势",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

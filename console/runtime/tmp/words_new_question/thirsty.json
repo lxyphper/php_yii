@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "thirsty",
+      "error_analysis": "学生易因形近词“thirty”（三十）的干扰，误将“thirsty”理解为“三十的”。",
+      "sentence": "After playing football for two hours, the boy felt very **thirsty** and asked for a bottle of water.",
+      "options": {
+        "option": [
+          {
+            "definition": "口渴的；渴望的",
+            "iscorrect": true
+          },
+          {
+            "definition": "三十的",
+            "iscorrect": false
+          },
+          {
+            "definition": "干燥的",
+            "iscorrect": false
+          },
+          {
+            "definition": "饥饿的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

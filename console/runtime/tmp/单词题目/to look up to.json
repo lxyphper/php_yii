@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to look up to",
+      "error_analysis": "易混淆\"look up\"（查阅）的含义，或直译为\"向上看某人\"，而非抽象的\"尊敬\"",
+      "sentence": "Many children **look up to** their grandparents because they have so much life experience and wisdom.",
+      "options": {
+        "option": [
+          {
+            "definition": "尊敬；钦佩",
+            "iscorrect": true
+          },
+          {
+            "definition": "查阅（某人/某物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "向上看（某人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "期待；等待",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

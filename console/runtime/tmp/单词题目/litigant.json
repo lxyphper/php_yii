@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "litigant",
+      "error_analysis": "易混淆形近词litigator（诉讼律师）及词根过度推导为“争论者”，忽略其“诉讼当事人”的法律特定含义",
+      "sentence": "The judge asked both **litigants** to present their evidence in court before making a decision.",
+      "options": {
+        "option": [
+          {
+            "definition": "诉讼当事人（原告或被告）",
+            "iscorrect": true
+          },
+          {
+            "definition": "诉讼律师",
+            "iscorrect": false
+          },
+          {
+            "definition": "争论者（泛指吵架的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "法律文件（如起诉状）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

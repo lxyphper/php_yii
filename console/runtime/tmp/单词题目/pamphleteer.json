@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pamphleteer",
+      "error_analysis": "学生易因混淆\"pamphlet\"(小册子)与\"pamphleteer\"的词形，或对\"-eer\"后缀(表\"从事...的人\")不熟悉，误将后者理解为\"小册子\"或\"分发小册子的人\"。",
+      "sentence": "The 19th-century **pamphleteer** gained notoriety for his sharp, persuasive booklets arguing against slavery.",
+      "options": {
+        "option": [
+          {
+            "definition": "写小册子的人（尤指为宣传观点）",
+            "iscorrect": true
+          },
+          {
+            "definition": "小册子（纸质宣传材料）",
+            "iscorrect": false
+          },
+          {
+            "definition": "分发小册子的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "宣传册印刷厂工人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

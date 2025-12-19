@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "vile",
+      "error_analysis": "学生易因形近词“file”（文件）、“mile”（英里）的拼写相似而误判，或因与“violent”（暴力的）的负面联想而混淆核心词义。",
+      "sentence": "The journalist exposed the **vile** practices of the corrupt politician, which included stealing public funds and lying to the public.",
+      "options": {
+        "option": [
+          {
+            "definition": "文件",
+            "iscorrect": false
+          },
+          {
+            "definition": "英里",
+            "iscorrect": false
+          },
+          {
+            "definition": "暴力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "邪恶的；令人厌恶的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

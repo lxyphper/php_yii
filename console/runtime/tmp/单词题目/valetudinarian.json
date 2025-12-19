@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "valetudinarian",
+      "error_analysis": "学生易因\"valet\"(男仆)形近联想为\"仆人\"，或因\"inarian\"词根误判为\"兽医\"等职业",
+      "sentence": "My uncle, a lifelong **valetudinarian**, always carries a first-aid kit and refuses to eat anything not labeled \"organic\" or \"low-sodium.\"",
+      "options": {
+        "option": [
+          {
+            "definition": "负责照顾主人生活的男仆",
+            "iscorrect": false
+          },
+          {
+            "definition": "研究动物健康的兽医",
+            "iscorrect": false
+          },
+          {
+            "definition": "体弱多病且过分关注健康的人",
+            "iscorrect": true
+          },
+          {
+            "definition": "擅长管理家庭财务的人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

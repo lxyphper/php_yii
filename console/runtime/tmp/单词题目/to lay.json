@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to lay",
+      "error_analysis": "中国学生易将\"lay\"与形近词\"lie\"（躺/说谎）混淆，误理解为\"躺\"的过去式或\"说谎\"。",
+      "sentence": "Could you help me **lay** the table for the party before our friends arrive?",
+      "options": {
+        "option": [
+          {
+            "definition": "摆（餐具）；放置",
+            "iscorrect": true
+          },
+          {
+            "definition": "躺（lie的过去式）",
+            "iscorrect": false
+          },
+          {
+            "definition": "说谎（lie的含义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "下（蛋）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

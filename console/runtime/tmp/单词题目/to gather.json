@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to gather",
+      "error_analysis": "中国学生易因形近词“grab”（抓住）、音近词“get”（得到）混淆，或因“together”联想错误认为“gather”是“一起”。",
+      "sentence": "The students will **gather** in the hall for the meeting this afternoon.",
+      "options": {
+        "option": [
+          {
+            "definition": "抓住",
+            "iscorrect": false
+          },
+          {
+            "definition": "一起",
+            "iscorrect": false
+          },
+          {
+            "definition": "得到",
+            "iscorrect": false
+          },
+          {
+            "definition": "聚集；集合",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

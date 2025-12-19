@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to walk",
+      "error_analysis": "学生易因形近词\"talk\"（说话）的干扰，将\"walk\"误理解为\"说话\"",
+      "sentence": "Every morning, my grandma likes to **walk** in the park for half an hour to enjoy the fresh air.",
+      "options": {
+        "option": [
+          {
+            "definition": "走路；步行",
+            "iscorrect": true
+          },
+          {
+            "definition": "说话；交谈",
+            "iscorrect": false
+          },
+          {
+            "definition": "墙；墙壁",
+            "iscorrect": false
+          },
+          {
+            "definition": "工作；劳动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

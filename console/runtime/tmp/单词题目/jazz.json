@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "jazz",
+      "error_analysis": "学生易因形近词（如jelly/joke）猜测“jazz”为“果冻”或“笑话”，或误将其理解为“爵士舞”而非核心义“爵士乐”。",
+      "sentence": "We listened to a live **jazz** performance at the club last night, and the saxophonist played beautifully.",
+      "options": {
+        "option": [
+          {
+            "definition": "爵士乐",
+            "iscorrect": true
+          },
+          {
+            "definition": "果冻",
+            "iscorrect": false
+          },
+          {
+            "definition": "笑话",
+            "iscorrect": false
+          },
+          {
+            "definition": "爵士舞",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

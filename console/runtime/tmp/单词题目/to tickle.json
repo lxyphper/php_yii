@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to tickle",
+      "error_analysis": "中国学生易混淆形近词“tackle”（处理）与“tickle”，或误将其理解为简单的“轻拍”而非“挠痒”。",
+      "sentence": "When I **tickled** my little sister's feet, she laughed loudly and tried to pull away.",
+      "options": {
+        "option": [
+          {
+            "definition": "挠痒；使发痒",
+            "iscorrect": true
+          },
+          {
+            "definition": "处理；解决",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻拍；轻触",
+            "iscorrect": false
+          },
+          {
+            "definition": "滴流；流淌",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

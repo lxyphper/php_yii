@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ravine",
+      "error_analysis": "学生易因形近词\"routine\"(日常事务)混淆,或因\"vine\"(葡萄藤)词根误导认为与植物相关",
+      "sentence": "The hikers had to climb down a steep **ravine** with a small stream at the bottom to get to the campsite.",
+      "options": {
+        "option": [
+          {
+            "definition": "峡谷，深谷",
+            "iscorrect": true
+          },
+          {
+            "definition": "日常事务，常规",
+            "iscorrect": false
+          },
+          {
+            "definition": "葡萄藤覆盖的山坡",
+            "iscorrect": false
+          },
+          {
+            "definition": "小型溪流，小河",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

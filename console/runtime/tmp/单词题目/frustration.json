@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "frustration",
+      "error_analysis": "中国学生易因形近词（如foundation，基础）或词根联想（将frust与trust联系，误以为与信任相关）误判frustration的含义",
+      "sentence": "After failing the exam three times, she couldn't hide her **frustration** anymore and burst into tears.",
+      "options": {
+        "option": [
+          {
+            "definition": "挫折；沮丧",
+            "iscorrect": true
+          },
+          {
+            "definition": "基础；根基",
+            "iscorrect": false
+          },
+          {
+            "definition": "信任；信赖",
+            "iscorrect": false
+          },
+          {
+            "definition": "功能；作用",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

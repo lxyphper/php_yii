@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to wait",
+      "error_analysis": "易与形近词\"want\"(想要)或\"weight\"(重量)混淆，导致错误理解为\"想要\"或\"重量\"",
+      "sentence": "Please **wait** here; I'll be back in five minutes.",
+      "options": {
+        "option": [
+          {
+            "definition": "等待",
+            "iscorrect": true
+          },
+          {
+            "definition": "想要",
+            "iscorrect": false
+          },
+          {
+            "definition": "重量",
+            "iscorrect": false
+          },
+          {
+            "definition": "醒来",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

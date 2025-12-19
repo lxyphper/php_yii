@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sweeping",
+      "error_analysis": "学生易因词根`sweep`（扫）的字面义，将`sweeping`误解为“打扫的”而非其常用比喻义“广泛的；全面的”",
+      "sentence": "The new government announced **sweeping** changes to the education system to improve student outcomes.",
+      "options": {
+        "option": [
+          {
+            "definition": "广泛的；全面的",
+            "iscorrect": true
+          },
+          {
+            "definition": "打扫的；清扫的",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速的；迅猛的",
+            "iscorrect": false
+          },
+          {
+            "definition": "柔软的；光滑的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

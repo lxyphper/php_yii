@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to write",
+      "error_analysis": "中国学生易因形近词\"right\"（正确/右边）或\"white\"（白色）的干扰，将\"to write\"误理解为形容词\"正确的\"、名词\"右边\"或形容词\"白色\"。",
+      "sentence": "She likes to **write** letters to her friends in her free time.",
+      "options": {
+        "option": [
+          {
+            "definition": "写（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "正确的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "右边（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "白色（形容词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

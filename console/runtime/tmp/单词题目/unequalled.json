@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unequalled",
+      "error_analysis": "易混淆形近词unqualified（不合格的），或因词根equal（相等的）误判为“不相等的”",
+      "sentence": "Her dedication to the project was **unequalled**; no one else put in as much time or effort.",
+      "options": {
+        "option": [
+          {
+            "definition": "无与伦比的；卓越的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不合格的；无资格的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不相等的；不等同的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不常见的；罕见的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

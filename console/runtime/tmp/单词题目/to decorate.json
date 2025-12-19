@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to decorate",
+      "error_analysis": "中国学生易因形近词\"declare\"（宣布）的拼写相似性，或\"de-\"前缀误导而错误理解\"to decorate\"为\"宣布\"或\"分解\"。",
+      "sentence": "We are going to **decorate** the Christmas tree with lights and ornaments this weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "装饰；装潢",
+            "iscorrect": true
+          },
+          {
+            "definition": "宣布；声明",
+            "iscorrect": false
+          },
+          {
+            "definition": "分解；拆开",
+            "iscorrect": false
+          },
+          {
+            "definition": "展示；陈列",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

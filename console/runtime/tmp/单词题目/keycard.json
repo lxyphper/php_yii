@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "keycard",
+      "error_analysis": "学生易将key的“重要的”含义代入误以为是“重要卡片”，或字面拆分“key+card”为“钥匙形状的卡片”。",
+      "sentence": "You need to swipe your **keycard** at the door to access your hotel room.",
+      "options": {
+        "option": [
+          {
+            "definition": "（开门用的）钥匙卡；门卡",
+            "iscorrect": true
+          },
+          {
+            "definition": "重要卡片",
+            "iscorrect": false
+          },
+          {
+            "definition": "钥匙形状的卡片",
+            "iscorrect": false
+          },
+          {
+            "definition": "包含钥匙的卡片",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

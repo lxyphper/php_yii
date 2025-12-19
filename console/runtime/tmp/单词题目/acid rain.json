@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "acid rain",
+      "error_analysis": "学生可能因“acid”的“刻薄的”引申义或与形近词“acrid”（辛辣的）混淆，将“acid rain”误解为“尖酸的雨”或“辛辣的雨”。",
+      "sentence": "The forest was dying because of the **acid rain** caused by factory emissions.",
+      "options": {
+        "option": [
+          {
+            "definition": "酸雨（指含有硫酸、硝酸等酸性物质的雨水，是一种对环境有害的污染物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "尖酸刻薄的雨（误将“acid”的“刻薄的”引申义用于此处）",
+            "iscorrect": false
+          },
+          {
+            "definition": "辛辣刺鼻的雨（与形近词“acrid”（辛辣的）混淆导致的错误理解）",
+            "iscorrect": false
+          },
+          {
+            "definition": "腐蚀性的雨（过度联想“acid”的“腐蚀性”但非该术语的核心定义）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

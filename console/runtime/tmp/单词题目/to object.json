@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to object",
+      "error_analysis": "学生易将动词“to object”（反对）与名词“object”（物体）或形容词“objective”（目标的）混淆，误解为“操作物体”或“设定目标”。",
+      "sentence": "When the teacher proposed the new rule, several students stood up to **object** to it.",
+      "options": {
+        "option": [
+          {
+            "definition": "反对；提出异议",
+            "iscorrect": true
+          },
+          {
+            "definition": "操作物体；移动物体",
+            "iscorrect": false
+          },
+          {
+            "definition": "设定目标；指向目标",
+            "iscorrect": false
+          },
+          {
+            "definition": "观察；注意",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

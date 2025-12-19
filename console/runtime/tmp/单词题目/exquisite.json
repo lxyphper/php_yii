@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "exquisite",
+      "error_analysis": "中国学生易因“exquisite”与“expensive”（昂贵的）形近或“ex-”前缀联想，误判为“昂贵的”；或因“quisite”与“quit”（离开）形近，误判为“退出的”或“疲惫的”。",
+      "sentence": "The artisan crafted an **exquisite** silk embroidery, with every thread carefully stitched to form a lifelike peony.",
+      "options": {
+        "option": [
+          {
+            "definition": "精致的；精美的",
+            "iscorrect": true
+          },
+          {
+            "definition": "昂贵的",
+            "iscorrect": false
+          },
+          {
+            "definition": "疲惫的",
+            "iscorrect": false
+          },
+          {
+            "definition": "退出的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

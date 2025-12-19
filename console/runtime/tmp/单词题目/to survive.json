@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to survive",
+      "error_analysis": "学生易因形近词（如revive/arrive）将“survive”误解为“复活”或“到达”。",
+      "sentence": "The old tree **survived** the heavy storm and is still growing.",
+      "options": {
+        "option": [
+          {
+            "definition": "存活；幸存",
+            "iscorrect": true
+          },
+          {
+            "definition": "复活；苏醒",
+            "iscorrect": false
+          },
+          {
+            "definition": "到达；抵达",
+            "iscorrect": false
+          },
+          {
+            "definition": "非常活跃；精力充沛",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

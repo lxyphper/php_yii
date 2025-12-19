@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "well-condtioned",
+      "well-condisioned",
+      "well-conitioned",
+      "wellconditioned",
+      "well-conditionned"
+    ],
+    "correct_chunks": [
+      "well-",
+      "condi",
+      "tioned"
+    ],
+    "distractor_chunks": [
+      "condt",
+      "sioned",
+      "coni",
+      "conditionn"
+    ]
+  },
+  0
+]

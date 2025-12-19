@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "mitokondrion",
+      "mitocondrion",
+      "mitochondrium",
+      "mitochondion",
+      "mitochondirion"
+    ],
+    "correct_chunks": [
+      "mito",
+      "chondr",
+      "ion"
+    ],
+    "distractor_chunks": [
+      "kondr",
+      "condr",
+      "ium",
+      "chond",
+      "chondir"
+    ]
+  },
+  0
+]

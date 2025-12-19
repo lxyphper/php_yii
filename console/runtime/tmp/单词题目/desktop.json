@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "desktop",
+      "error_analysis": "学生易将\"desktop\"拆为\"desk\"+\"top\"，错误理解为\"书桌的顶部\"，而非其核心义\"台式电脑\"。",
+      "sentence": "My old **desktop** is too slow, so I'm planning to buy a new one next month.",
+      "options": {
+        "option": [
+          {
+            "definition": "台式电脑",
+            "iscorrect": true
+          },
+          {
+            "definition": "书桌的顶部",
+            "iscorrect": false
+          },
+          {
+            "definition": "笔记本电脑",
+            "iscorrect": false
+          },
+          {
+            "definition": "电脑屏幕",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

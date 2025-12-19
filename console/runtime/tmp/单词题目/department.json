@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "department",
+      "error_analysis": "学生易混淆形近词apartment（公寓）及词根part（部分）导致的过度直译（如“分开的部分”）",
+      "sentence": "She works in the marketing **department** of a large multinational company.",
+      "options": {
+        "option": [
+          {
+            "definition": "部门；系",
+            "iscorrect": true
+          },
+          {
+            "definition": "公寓",
+            "iscorrect": false
+          },
+          {
+            "definition": "分开的部分",
+            "iscorrect": false
+          },
+          {
+            "definition": "离开；出发",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

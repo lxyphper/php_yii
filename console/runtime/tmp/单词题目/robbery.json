@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "robbery",
+      "error_analysis": "学生易因形近词“rubber”（橡胶）混淆，或因词根“rob”+“-ery”后缀错误联想为“抢劫者”（正确为robber）",
+      "sentence": "The police are investigating a **robbery** that happened at the bank last night.",
+      "options": {
+        "option": [
+          {
+            "definition": "橡胶",
+            "iscorrect": false
+          },
+          {
+            "definition": "抢劫者",
+            "iscorrect": false
+          },
+          {
+            "definition": "抢劫（行为）",
+            "iscorrect": true
+          },
+          {
+            "definition": "抢劫的场所",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

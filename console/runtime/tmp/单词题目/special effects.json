@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "special effects",
+      "error_analysis": "学生易将\"special effects\"字面直译为\"特殊效果/影响\"，忽略其固定短语义\"特效\"（如电影中的特殊视觉效果）",
+      "sentence": "The movie's **special effects** made the dragon look like it was really flying over the city.",
+      "options": {
+        "option": [
+          {
+            "definition": "特效（如电影、电视中使用的特殊视觉或听觉效果）",
+            "iscorrect": true
+          },
+          {
+            "definition": "特殊影响（如某事件带来的不寻常影响）",
+            "iscorrect": false
+          },
+          {
+            "definition": "具体效果（针对特定情况的明确结果）",
+            "iscorrect": false
+          },
+          {
+            "definition": "特别的作用（某事物所具有的独特功能）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

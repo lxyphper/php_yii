@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "poetry",
+      "error_analysis": "学生易因形近词“poet”（诗人）将“poetry”误判为“诗人”",
+      "sentence": "She has a deep love for **poetry** and often reads classic works by Li Bai and Shakespeare.",
+      "options": {
+        "option": [
+          {
+            "definition": "诗歌",
+            "iscorrect": true
+          },
+          {
+            "definition": "诗人",
+            "iscorrect": false
+          },
+          {
+            "definition": "诗歌创作的技巧",
+            "iscorrect": false
+          },
+          {
+            "definition": "陶器",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

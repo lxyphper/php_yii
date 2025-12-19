@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "density",
+      "error_analysis": "学生易因形近词\"destiny\"(命运)混淆，或因词根\"dense\"的错误理解(如\"沉重的\")将\"density\"错解为\"重量\"。",
+      "sentence": "The **density** of people in the city center makes it difficult to move around during rush hour.",
+      "options": {
+        "option": [
+          {
+            "definition": "命运",
+            "iscorrect": false
+          },
+          {
+            "definition": "重量；质量",
+            "iscorrect": false
+          },
+          {
+            "definition": "密度；密集度",
+            "iscorrect": true
+          },
+          {
+            "definition": "强度；烈度",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

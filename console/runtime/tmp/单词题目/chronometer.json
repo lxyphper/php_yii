@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "chronometer",
+      "error_analysis": "学生易因形近词“chronicle”（编年史）联想为“历史记录工具”，或因词根“chron-（时间）+ -meter（测量）”过度直译为“普通时间测量设备”（如手表）。",
+      "sentence": "The captain relied on the ship's **chronometer** to determine their exact position at sea, as it could keep time with exceptional accuracy even in rough weather.",
+      "options": {
+        "option": [
+          {
+            "definition": "精密计时器（如天文钟）",
+            "iscorrect": true
+          },
+          {
+            "definition": "历史记录工具",
+            "iscorrect": false
+          },
+          {
+            "definition": "普通手表",
+            "iscorrect": false
+          },
+          {
+            "definition": "温度测量仪器",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

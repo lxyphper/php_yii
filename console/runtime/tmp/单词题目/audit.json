@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "audit",
+      "error_analysis": "易因形近词\"audio\"(音频)误解为\"听觉相关\"，或因词根\"aud-\"(听)猜测为\"倾听\"",
+      "sentence": "The company hired an external firm to **audit** its financial records for the past year.",
+      "options": {
+        "option": [
+          {
+            "definition": "审计；检查",
+            "iscorrect": true
+          },
+          {
+            "definition": "音频；听觉",
+            "iscorrect": false
+          },
+          {
+            "definition": "倾听；聆听",
+            "iscorrect": false
+          },
+          {
+            "definition": "观众；听众",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

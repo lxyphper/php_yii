@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "enthusiasm",
+      "error_analysis": "学生易因形近词\"entertainment\"（娱乐）混淆，或因词根联想误判为\"渴望\"（如与thirst关联）",
+      "sentence": "Her **enthusiasm** for hiking is so strong that she goes every weekend, even in bad weather.",
+      "options": {
+        "option": [
+          {
+            "definition": "热情；热忱",
+            "iscorrect": true
+          },
+          {
+            "definition": "娱乐；消遣",
+            "iscorrect": false
+          },
+          {
+            "definition": "渴望；欲望",
+            "iscorrect": false
+          },
+          {
+            "definition": "兴趣；爱好",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "technology",
+      "error_analysis": "易与形近词technique（技巧）混淆，或因词根techno-过度直译为“工艺”",
+      "sentence": "The development of new **technology** has greatly improved the efficiency of renewable energy production.",
+      "options": {
+        "option": [
+          {
+            "definition": "科技；技术（多指工业或科学领域的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "技巧；手法",
+            "iscorrect": false
+          },
+          {
+            "definition": "工艺；制作方法",
+            "iscorrect": false
+          },
+          {
+            "definition": "工具；设备",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

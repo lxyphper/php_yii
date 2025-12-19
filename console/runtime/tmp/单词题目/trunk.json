@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "trunk",
+      "error_analysis": "中国学生易因形近词truck（卡车）或词根trunc-（截断）误导，将trunk误判为“卡车”或“截断的部分”。",
+      "sentence": "The children carved their initials into the **trunk** of the apple tree.",
+      "options": {
+        "option": [
+          {
+            "definition": "树干（树的粗主干）",
+            "iscorrect": true
+          },
+          {
+            "definition": "卡车（运输货物的车辆）",
+            "iscorrect": false
+          },
+          {
+            "definition": "截断的部分（被切断的片段）",
+            "iscorrect": false
+          },
+          {
+            "definition": "象鼻（大象的长鼻子）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

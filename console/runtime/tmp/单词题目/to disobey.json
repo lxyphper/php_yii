@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to disobey",
+      "error_analysis": "学生易因“dis-”前缀及形近词“disrupt”（打断），将“disobey”（不服从命令）混淆为“打断”或“违反规则”。",
+      "sentence": "When the manager told her to work overtime, she decided to **disobey** and left the office on time.",
+      "options": {
+        "option": [
+          {
+            "definition": "不服从（命令/权威）",
+            "iscorrect": true
+          },
+          {
+            "definition": "打断",
+            "iscorrect": false
+          },
+          {
+            "definition": "违反（规则）",
+            "iscorrect": false
+          },
+          {
+            "definition": "不同意",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

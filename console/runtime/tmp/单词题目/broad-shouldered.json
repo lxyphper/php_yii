@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "broad-shouldered",
+      "error_analysis": "学生易因“broad-minded”的形近搭配误将“broad-shouldered”理解为性格方面（如“心胸宽广的”），或因“shouldered”的动词义误判为“承担重任的”。",
+      "sentence": "The man at the door was tall and **broad-shouldered**, making the small room feel even more cramped.",
+      "options": {
+        "option": [
+          {
+            "definition": "肩膀宽阔的",
+            "iscorrect": true
+          },
+          {
+            "definition": "心胸宽广的",
+            "iscorrect": false
+          },
+          {
+            "definition": "承担重任的",
+            "iscorrect": false
+          },
+          {
+            "definition": "肩膀上有宽大物品的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

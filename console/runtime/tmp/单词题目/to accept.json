@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to accept",
+      "error_analysis": "易与形近词“except”（除了）混淆，或因词根“cept”（拿）过度直译为“拿过来”而误解核心含义“同意接受”",
+      "sentence": "After a long discussion, they decided to **accept** the terms of the agreement.",
+      "options": {
+        "option": [
+          {
+            "definition": "同意接受；接纳",
+            "iscorrect": true
+          },
+          {
+            "definition": "除了；不包括",
+            "iscorrect": false
+          },
+          {
+            "definition": "拿过来；搬运",
+            "iscorrect": false
+          },
+          {
+            "definition": "期待；等待",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mouth",
+      "error_analysis": "因形近词“month”（月份）的拼写相似而误判“mouth”的核心含义",
+      "sentence": "She covered her **mouth** to hide a laugh.",
+      "options": {
+        "option": [
+          {
+            "definition": "嘴",
+            "iscorrect": true
+          },
+          {
+            "definition": "月份",
+            "iscorrect": false
+          },
+          {
+            "definition": "老鼠",
+            "iscorrect": false
+          },
+          {
+            "definition": "飞蛾",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

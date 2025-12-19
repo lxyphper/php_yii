@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "shopping center",
+      "error_analysis": "学生易因'shopping'与'shipping'形近（发音/拼写相似）误判为'航运中心'，或因字面拆分将'center'误解为'核心环节'而非场所。",
+      "sentence": "Let's meet at the **shopping center** near the park—there are lots of stores and a food court where we can grab lunch after shopping.",
+      "options": {
+        "option": [
+          {
+            "definition": "航运中心（处理货物运输的场所）",
+            "iscorrect": false
+          },
+          {
+            "definition": "购物中心（有多个商店、餐厅等的大型零售场所）",
+            "iscorrect": true
+          },
+          {
+            "definition": "购物的核心环节（如挑选商品或付款）",
+            "iscorrect": false
+          },
+          {
+            "definition": "体育中心（进行体育活动的场所）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

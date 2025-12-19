@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "civil engineering",
+      "error_analysis": "学生易因“civil”的词根误导（如“文明的”）或形近词“city”（城市）联想，将“civil engineering”误判为“文明工程”或“城市工程”。",
+      "sentence": "The new bridge over the river was designed by a team of **civil engineering** experts from the local university.",
+      "options": {
+        "option": [
+          {
+            "definition": "土木工程",
+            "iscorrect": true
+          },
+          {
+            "definition": "文明工程",
+            "iscorrect": false
+          },
+          {
+            "definition": "城市工程",
+            "iscorrect": false
+          },
+          {
+            "definition": "军事工程",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

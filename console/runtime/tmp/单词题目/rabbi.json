@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rabbi",
+      "error_analysis": "中国学生易因形近词\"rabbit\"(兔子)的干扰，或混淆宗教职位（如基督教牧师）而误判\"rabbi\"的含义。",
+      "sentence": "The **rabbi** led the Passover Seder for the community at the synagogue last weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "兔子",
+            "iscorrect": false
+          },
+          {
+            "definition": "犹太教教士（拉比）",
+            "iscorrect": true
+          },
+          {
+            "definition": "狂热的信徒",
+            "iscorrect": false
+          },
+          {
+            "definition": "基督教牧师",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "algebra",
+      "error_analysis": "学生易因形近词\"algae\"(藻类)或数学相关词\"algorithm\"(算法)、\"arithmetic\"(算术)产生错误理解",
+      "sentence": "In middle school, students start learning **algebra** by solving equations with variables like x and y.",
+      "options": {
+        "option": [
+          {
+            "definition": "代数",
+            "iscorrect": true
+          },
+          {
+            "definition": "藻类",
+            "iscorrect": false
+          },
+          {
+            "definition": "算法",
+            "iscorrect": false
+          },
+          {
+            "definition": "算术",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

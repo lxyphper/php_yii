@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "euphoric",
+      "error_analysis": "学生易因形近词\"emphatic\"(强调的)或词根\"eu-\"(好)的过度推导，将\"euphoric\"误解为\"强调的\"或\"非常好的\"",
+      "sentence": "After winning the championship, the team felt **euphoric** and celebrated all night with cheers and confetti.",
+      "options": {
+        "option": [
+          {
+            "definition": "强调的",
+            "iscorrect": false
+          },
+          {
+            "definition": "委婉的",
+            "iscorrect": false
+          },
+          {
+            "definition": "极度愉悦的",
+            "iscorrect": true
+          },
+          {
+            "definition": "非常好的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

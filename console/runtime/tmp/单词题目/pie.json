@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pie",
+      "error_analysis": "中国学生易因形近词“pea”（豌豆）的拼写相似而将“pie”误判为“豌豆”",
+      "sentence": "Mom baked an apple **pie** for dessert, with a flaky crust and sweet filling.",
+      "options": {
+        "option": [
+          {
+            "definition": "豌豆",
+            "iscorrect": false
+          },
+          {
+            "definition": "馅饼",
+            "iscorrect": true
+          },
+          {
+            "definition": "片；块",
+            "iscorrect": false
+          },
+          {
+            "definition": "披萨",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

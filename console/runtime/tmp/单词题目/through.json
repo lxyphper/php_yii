@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "through",
+      "error_analysis": "易混淆形近词“thorough”（彻底的），或误将“路过；经过”当作空间核心义",
+      "sentence": "The cat squeezed **through** the narrow gap between the fence and the wall.",
+      "options": {
+        "option": [
+          {
+            "definition": "穿过；通过（空间上的贯穿）",
+            "iscorrect": true
+          },
+          {
+            "definition": "彻底的；完全的",
+            "iscorrect": false
+          },
+          {
+            "definition": "路过；经过",
+            "iscorrect": false
+          },
+          {
+            "definition": "直到；到…为止",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

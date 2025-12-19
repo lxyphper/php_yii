@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "undercooked",
+      "error_analysis": "学生可能因\"under-\"（下面）和\"cooked\"（煮）的字面组合，错误联想为\"在下面煮的\"，而非正确的\"煮得不够的\"。",
+      "sentence": "The chef warned us not to eat the **undercooked** eggs—they might cause food poisoning if not fully heated.",
+      "options": {
+        "option": [
+          {
+            "definition": "未煮熟的；煮得不够的",
+            "iscorrect": true
+          },
+          {
+            "definition": "在下面煮的",
+            "iscorrect": false
+          },
+          {
+            "definition": "煮得过头的",
+            "iscorrect": false
+          },
+          {
+            "definition": "用慢火煮的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

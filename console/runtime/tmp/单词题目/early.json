@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "early",
+      "error_analysis": "学生易因形近词“ear”（耳朵）或与“easy”（容易的）发音混淆而误解“early”的核心词义",
+      "sentence": "She gets up **early** every morning to catch the first bus.",
+      "options": {
+        "option": [
+          {
+            "definition": "早地；早期的",
+            "iscorrect": true
+          },
+          {
+            "definition": "耳朵的；与耳朵有关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "容易的；不困难的",
+            "iscorrect": false
+          },
+          {
+            "definition": "几乎；差不多",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

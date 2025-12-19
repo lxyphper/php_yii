@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "commandment",
+      "error_analysis": "易因形近词\"commitment\"(承诺)或词根\"command\"(命令)的误导，将\"commandment\"误判为普通命令或承诺，而非特指的戒律。",
+      "sentence": "One of the most famous **commandments** in Christianity is \"Thou shalt not kill.\"",
+      "options": {
+        "option": [
+          {
+            "definition": "戒律；诫命",
+            "iscorrect": true
+          },
+          {
+            "definition": "承诺；保证",
+            "iscorrect": false
+          },
+          {
+            "definition": "命令；指令",
+            "iscorrect": false
+          },
+          {
+            "definition": "评论；意见",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

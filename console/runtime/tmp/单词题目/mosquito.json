@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mosquito",
+      "error_analysis": "学生易因“mosquito”与“mosque”（清真寺）拼写相似而混淆，或误猜为“苍蝇”等常见昆虫。",
+      "sentence": "I got a big bite on my arm last night because a **mosquito** snuck into my room through the window.",
+      "options": {
+        "option": [
+          {
+            "definition": "蚊子",
+            "iscorrect": true
+          },
+          {
+            "definition": "清真寺",
+            "iscorrect": false
+          },
+          {
+            "definition": "苍蝇",
+            "iscorrect": false
+          },
+          {
+            "definition": "小虫子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

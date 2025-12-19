@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "psephology",
+      "error_analysis": "易因形近词\"psychology\"(心理学)及词根\"pseph\"(鹅卵石,古代投票用)不熟悉,误判为心理学或岩石学等学科",
+      "sentence": "The new book on **psephology** analyzes how voter preferences shift in response to economic policies during election cycles.",
+      "options": {
+        "option": [
+          {
+            "definition": "心理学（研究心理活动与行为的学科）",
+            "iscorrect": false
+          },
+          {
+            "definition": "选举学（研究选举与投票行为的学科）",
+            "iscorrect": true
+          },
+          {
+            "definition": "岩石学（研究岩石组成与形成的学科）",
+            "iscorrect": false
+          },
+          {
+            "definition": "认知科学（研究认知过程的交叉学科）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

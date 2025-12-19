@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to strafe",
+      "error_analysis": "因形近词“strive”（努力）混淆，或误将“strafe”泛化为普通“打击”（如“strike”）",
+      "sentence": "During the military exercise, the fighter jets were ordered to **strafe** the enemy positions along the coastline.",
+      "options": {
+        "option": [
+          {
+            "definition": "（飞机等）低空扫射；猛烈攻击（尤指用枪）",
+            "iscorrect": true
+          },
+          {
+            "definition": "努力争取；奋斗",
+            "iscorrect": false
+          },
+          {
+            "definition": "（用武器）打击；攻击",
+            "iscorrect": false
+          },
+          {
+            "definition": "迷路；偏离",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to lean on",
+      "error_analysis": "将短语的比喻义（依赖）误判为字面义（倾斜在...上）或因形近词“learn”误联想为“向...学习”",
+      "sentence": "When she lost her job, she knew she could **lean on** her family for support.",
+      "options": {
+        "option": [
+          {
+            "definition": "依赖，依靠",
+            "iscorrect": true
+          },
+          {
+            "definition": "倾斜在...上面",
+            "iscorrect": false
+          },
+          {
+            "definition": "向...学习",
+            "iscorrect": false
+          },
+          {
+            "definition": "对...感到厌倦",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

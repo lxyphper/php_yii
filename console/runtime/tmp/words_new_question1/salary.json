@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "salary",
+      "error_analysis": "学生易因形近词（如salad“沙拉”、sale“销售”）或词根（sal“盐”）联想，将salary误判为食物、销售或盐的费用。",
+      "sentence": "She negotiated a higher **salary** with her employer after getting a promotion.",
+      "options": {
+        "option": [
+          {
+            "definition": "沙拉（一种凉拌菜）",
+            "iscorrect": false
+          },
+          {
+            "definition": "销售；销售额",
+            "iscorrect": false
+          },
+          {
+            "definition": "盐的费用（古代津贴）",
+            "iscorrect": false
+          },
+          {
+            "definition": "薪水；薪金",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

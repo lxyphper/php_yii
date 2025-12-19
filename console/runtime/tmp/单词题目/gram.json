@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gram",
+      "error_analysis": "易因形近词“grand”（宏大的）或词根“写/记录”的误导，将“gram”错误理解为“宏大的”或“记录”。",
+      "sentence": "Please add a **gram** of salt to the soup to bring out the flavor.",
+      "options": {
+        "option": [
+          {
+            "definition": "宏大的",
+            "iscorrect": false
+          },
+          {
+            "definition": "克（重量单位）",
+            "iscorrect": true
+          },
+          {
+            "definition": "记录/文本",
+            "iscorrect": false
+          },
+          {
+            "definition": "奶奶（口语）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

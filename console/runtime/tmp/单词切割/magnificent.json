@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "magneficent",
+      "magnifcent",
+      "magnifisent",
+      "megenficent",
+      "magnificient"
+    ],
+    "correct_chunks": [
+      "mag",
+      "nif",
+      "i",
+      "cent"
+    ],
+    "distractor_chunks": [
+      "meg",
+      "nef",
+      "sent",
+      "cient"
+    ]
+  },
+  0
+]

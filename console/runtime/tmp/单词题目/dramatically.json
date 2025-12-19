@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dramatically",
+      "error_analysis": "学生易因词根\"drama\"（戏剧）误导，将\"dramatically\"错误理解为\"戏剧化地\"（强调情节性），而忽略其\"显著地、急剧地\"（强调变化程度）的核心含义",
+      "sentence": "After the new subway line opened, the number of residents choosing to commute by public transport rose **dramatically** within just two weeks.",
+      "options": {
+        "option": [
+          {
+            "definition": "显著地；急剧地（强调变化程度大）",
+            "iscorrect": true
+          },
+          {
+            "definition": "戏剧化地（强调情节富有戏剧性）",
+            "iscorrect": false
+          },
+          {
+            "definition": "逐渐地（强调变化缓慢）",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻微地（强调变化幅度小）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

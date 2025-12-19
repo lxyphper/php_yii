@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "valley",
+      "error_analysis": "中国学生易因形近词\"value\"（价值）或\"alley\"（小巷）的干扰，将\"valley\"误判为非山谷义。",
+      "sentence": "The river winds through the **valley**, with lush forests covering the slopes on either side.",
+      "options": {
+        "option": [
+          {
+            "definition": "山谷",
+            "iscorrect": true
+          },
+          {
+            "definition": "价值",
+            "iscorrect": false
+          },
+          {
+            "definition": "小巷",
+            "iscorrect": false
+          },
+          {
+            "definition": "村庄",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

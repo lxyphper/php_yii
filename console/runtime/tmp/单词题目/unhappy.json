@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unhappy",
+      "error_analysis": "中国学生易因形近将“unhappy”误判为“不健康的”（unhealthy），或因字面推导误作“不满意的”（unsatisfied）。",
+      "sentence": "Mary was **unhappy** because she lost her favorite book.",
+      "options": {
+        "option": [
+          {
+            "definition": "不开心的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不健康的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不满意的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不友好的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

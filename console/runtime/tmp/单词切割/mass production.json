@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "mas production",
+      "mass prodution",
+      "mass producation",
+      "mass prodoction"
+    ],
+    "correct_chunks": [
+      "ma",
+      "ss",
+      "pro",
+      "duc",
+      "tion"
+    ],
+    "distractor_chunks": [
+      "mas",
+      "prod",
+      "proe",
+      "do",
+      "ton"
+    ]
+  },
+  0
+]

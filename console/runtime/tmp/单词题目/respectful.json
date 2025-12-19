@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "respectful",
+      "error_analysis": "混淆“respectful”（恭敬的，尊重他人的）与形近词“respectable”（值得尊重的）及“respective”（各自的）",
+      "sentence": "The children were **respectful** to the elderly woman, offering her a seat and speaking softly.",
+      "options": {
+        "option": [
+          {
+            "definition": "恭敬的；尊重他人的",
+            "iscorrect": true
+          },
+          {
+            "definition": "值得尊重的",
+            "iscorrect": false
+          },
+          {
+            "definition": "各自的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有帮助的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

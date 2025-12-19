@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "shuttle",
+      "error_analysis": "学生易因形近词“shutter”（快门/百叶窗）产生混淆，或因“shut”的字面联想误判为“关闭的装置”。",
+      "sentence": "The hotel provides a free **shuttle** to take guests to the airport every 30 minutes.",
+      "options": {
+        "option": [
+          {
+            "definition": "穿梭巴士；航天飞机",
+            "iscorrect": true
+          },
+          {
+            "definition": "快门；百叶窗",
+            "iscorrect": false
+          },
+          {
+            "definition": "关闭的装置",
+            "iscorrect": false
+          },
+          {
+            "definition": "羽毛球",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

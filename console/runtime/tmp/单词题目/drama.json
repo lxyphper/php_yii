@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "drama",
+      "error_analysis": "学生易因“drama”与“dream”（梦）形近误判为“梦”，或因“dr-”前缀（如drink）猜测为“饮料”。",
+      "sentence": "The new **drama** on Netflix has become a huge hit among teenagers.",
+      "options": {
+        "option": [
+          {
+            "definition": "戏剧（如电视剧、舞台剧）",
+            "iscorrect": true
+          },
+          {
+            "definition": "梦，梦想",
+            "iscorrect": false
+          },
+          {
+            "definition": "饮料，饮品",
+            "iscorrect": false
+          },
+          {
+            "definition": "创伤，痛苦经历",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

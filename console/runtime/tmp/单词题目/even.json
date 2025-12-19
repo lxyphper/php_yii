@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "even",
+      "error_analysis": "学生易将“even”混淆为形近词“ever”（曾经）或字面义“平坦的”（形容词）",
+      "sentence": "She didn’t **even** say goodbye before leaving.",
+      "options": {
+        "option": [
+          {
+            "definition": "曾经",
+            "iscorrect": false
+          },
+          {
+            "definition": "甚至",
+            "iscorrect": true
+          },
+          {
+            "definition": "平坦的",
+            "iscorrect": false
+          },
+          {
+            "definition": "每个",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

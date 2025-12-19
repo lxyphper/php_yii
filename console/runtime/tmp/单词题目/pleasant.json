@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pleasant",
+      "error_analysis": "中国学生易因形近词“present”（现在的/礼物）或混淆“pleasant”（令人愉快的）与“pleased”（感到愉快的）而误判词义",
+      "sentence": "The café has a **pleasant** atmosphere with soft music and comfortable seats.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人愉快的",
+            "iscorrect": true
+          },
+          {
+            "definition": "现在的",
+            "iscorrect": false
+          },
+          {
+            "definition": "感到愉快的",
+            "iscorrect": false
+          },
+          {
+            "definition": "礼物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to type",
+      "error_analysis": "易混淆形近词“tape”（误以为“录音”）及“类型”名词义导致的“分类”误解",
+      "sentence": "She asked me to **type** her essay before the deadline.",
+      "options": {
+        "option": [
+          {
+            "definition": "打字",
+            "iscorrect": true
+          },
+          {
+            "definition": "录音",
+            "iscorrect": false
+          },
+          {
+            "definition": "分类",
+            "iscorrect": false
+          },
+          {
+            "definition": "书写",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

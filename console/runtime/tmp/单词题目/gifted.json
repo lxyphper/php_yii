@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gifted",
+      "error_analysis": "将\"gifted\"误解为\"有礼物的\"（来自形近词\"gift\"的字面联想）",
+      "sentence": "The young pianist was recognized as a **gifted** musician at the age of five, winning several national competitions.",
+      "options": {
+        "option": [
+          {
+            "definition": "有天赋的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有礼物的",
+            "iscorrect": false
+          },
+          {
+            "definition": "慷慨的",
+            "iscorrect": false
+          },
+          {
+            "definition": "镀金的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

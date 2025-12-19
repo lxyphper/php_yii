@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dam",
+      "error_analysis": "学生易因形近词\"damn\"（咒骂）或\"dim\"（昏暗的）产生错误联想",
+      "sentence": "The government plans to build a new **dam** on the river to generate electricity.",
+      "options": {
+        "option": [
+          {
+            "definition": "大坝",
+            "iscorrect": true
+          },
+          {
+            "definition": "咒骂",
+            "iscorrect": false
+          },
+          {
+            "definition": "昏暗的",
+            "iscorrect": false
+          },
+          {
+            "definition": "潮湿的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

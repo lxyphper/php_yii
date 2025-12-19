@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to meander",
+      "error_analysis": "学生易因形近词“mean”（意味着）或词根“mea”联想到“measure”（测量）而误解“to meander”的含义",
+      "sentence": "The path **meanders** through the forest, leading hikers to a hidden waterfall.",
+      "options": {
+        "option": [
+          {
+            "definition": "蜿蜒而行；（道路、河流等）曲折延伸",
+            "iscorrect": true
+          },
+          {
+            "definition": "意味着；意思是",
+            "iscorrect": false
+          },
+          {
+            "definition": "测量；估量",
+            "iscorrect": false
+          },
+          {
+            "definition": "加速前进；冲刺",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

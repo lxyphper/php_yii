@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to pat",
+      "error_analysis": "学生易将“pat”与形近词“pet”（抚摸）混淆，或误理解为“重击”（而非轻拍）",
+      "sentence": "She **patted** the dog gently on the head to show her affection.",
+      "options": {
+        "option": [
+          {
+            "definition": "轻拍",
+            "iscorrect": true
+          },
+          {
+            "definition": "抚摸（宠物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "重击",
+            "iscorrect": false
+          },
+          {
+            "definition": "拥抱",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

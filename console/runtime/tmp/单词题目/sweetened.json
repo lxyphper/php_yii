@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sweetened",
+      "error_analysis": "学生易因形近词`swiftened`（加快的）产生误判，或因词根`sweet`（甜的）和`-ed`（指人）过度推导为“甜的人”。",
+      "sentence": "She prefers **sweetened** lemonade because she doesn’t like the sour taste of plain one.",
+      "options": {
+        "option": [
+          {
+            "definition": "加了糖的；变甜的",
+            "iscorrect": true
+          },
+          {
+            "definition": "加快的",
+            "iscorrect": false
+          },
+          {
+            "definition": "使甜的",
+            "iscorrect": false
+          },
+          {
+            "definition": "甜的人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "spam",
+      "error_analysis": "易混淆形近词\"span\"(跨度)或误判为字面/旧义\"火腿\"",
+      "sentence": "I hate getting **spam** in my inbox every morning—it’s always ads for products I don’t need.",
+      "options": {
+        "option": [
+          {
+            "definition": "垃圾邮件；未经请求的电子邮件",
+            "iscorrect": true
+          },
+          {
+            "definition": "跨度；持续时间",
+            "iscorrect": false
+          },
+          {
+            "definition": "火腿；午餐肉",
+            "iscorrect": false
+          },
+          {
+            "definition": "速度；速率",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

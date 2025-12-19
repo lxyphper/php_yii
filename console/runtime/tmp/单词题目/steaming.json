@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "steaming",
+      "error_analysis": "学生易混淆形近词streaming（流媒体），或字面理解为“有蒸汽的”，忽略其“极热的”核心引申义",
+      "sentence": "After waiting in the sun for an hour, I couldn’t wait to sip the **steaming** coffee from the thermos.",
+      "options": {
+        "option": [
+          {
+            "definition": "极热的",
+            "iscorrect": true
+          },
+          {
+            "definition": "流媒体的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有蒸汽的",
+            "iscorrect": false
+          },
+          {
+            "definition": "流动的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

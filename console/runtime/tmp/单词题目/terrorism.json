@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "terrorism",
+      "error_analysis": "中国学生易因形近词“tourism”（旅游业）混淆，或词根“terror”+“-ism”过度直译为“恐惧主义”。",
+      "sentence": "The government has taken strict measures to combat **terrorism** and protect its citizens.",
+      "options": {
+        "option": [
+          {
+            "definition": "旅游业",
+            "iscorrect": false
+          },
+          {
+            "definition": "恐怖主义",
+            "iscorrect": true
+          },
+          {
+            "definition": "恐惧主义",
+            "iscorrect": false
+          },
+          {
+            "definition": "恐怖分子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

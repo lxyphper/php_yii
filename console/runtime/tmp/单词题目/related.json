@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "related",
+      "error_analysis": "学生易将形容词\"related\"误判为动词\"relate\"的过去式，或拆分词根\"re-+late\"误解为\"再次迟到的\"",
+      "sentence": "The two books are **related**; they both talk about environmental protection.",
+      "options": {
+        "option": [
+          {
+            "definition": "相关的",
+            "iscorrect": true
+          },
+          {
+            "definition": "联系（动词过去式）",
+            "iscorrect": false
+          },
+          {
+            "definition": "再次迟到的",
+            "iscorrect": false
+          },
+          {
+            "definition": "依赖的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

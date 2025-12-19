@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "whiteout",
+      "error_analysis": "学生易因“white+out”的字面组合误猜为“白色消失”或“涂白工具”，而忽略其核心义——暴风雪时能见度极低的乳白天空现象",
+      "sentence": "During the blizzard, a sudden **whiteout** made it impossible for the hikers to see even a few feet ahead.",
+      "options": {
+        "option": [
+          {
+            "definition": "（天气）乳白天空（暴风雪时能见度极低的情况）",
+            "iscorrect": true
+          },
+          {
+            "definition": "白色消失",
+            "iscorrect": false
+          },
+          {
+            "definition": "修正液（涂白字迹的工具）",
+            "iscorrect": false
+          },
+          {
+            "definition": "突然的白光",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

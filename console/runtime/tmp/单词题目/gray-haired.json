@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gray-haired",
+      "error_analysis": "学生易因词根字面误导将\"gray-haired\"误理解为名词短语\"灰色的头发\"，或因形近词混淆误联想起\"灰狗\"（grayhound）",
+      "sentence": "My neighbor, a **gray-haired** lady in her seventies, often brings me homemade cookies.",
+      "options": {
+        "option": [
+          {
+            "definition": "（人）有白发的；头发灰白的",
+            "iscorrect": true
+          },
+          {
+            "definition": "灰色的头发（指头发本身的颜色）",
+            "iscorrect": false
+          },
+          {
+            "definition": "灰狗（一种犬类）",
+            "iscorrect": false
+          },
+          {
+            "definition": "（动物）有灰色毛发的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "generous",
+      "error_analysis": "学生易因形近词\"genius\"(天才)或\"genuine\"(真诚的)混淆，将\"generous\"误判为\"天才的\"或\"真诚的\"。",
+      "sentence": "My neighbor is so **generous**—she always gives me extra vegetables from her garden.",
+      "options": {
+        "option": [
+          {
+            "definition": "慷慨的；大方的",
+            "iscorrect": true
+          },
+          {
+            "definition": "天才的；有天赋的",
+            "iscorrect": false
+          },
+          {
+            "definition": "真诚的；真实的",
+            "iscorrect": false
+          },
+          {
+            "definition": "一般的；普通的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

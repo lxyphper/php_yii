@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to doze",
+      "error_analysis": "学生易因形近词\"dose\"（剂量）误解\"to doze\"为\"服用药物\"或\"给药\"，或因词根联想\"do\"（做）误判为\"执行动作\"",
+      "sentence": "After lunch, Grandpa likes to **doze** on the sofa for 20 minutes before going back to work.",
+      "options": {
+        "option": [
+          {
+            "definition": "服用（药物的）剂量",
+            "iscorrect": false
+          },
+          {
+            "definition": "做；执行",
+            "iscorrect": false
+          },
+          {
+            "definition": "打盹；小睡",
+            "iscorrect": true
+          },
+          {
+            "definition": "十二；一打",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

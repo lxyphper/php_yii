@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to amp up",
+      "error_analysis": "学生易因“amp”形近“camp”（营地）或“amp”为安培（电流单位）而误解为“搭建营地”或“给...充电”",
+      "sentence": "The DJ decided to **amp up** the music to get the crowd dancing.",
+      "options": {
+        "option": [
+          {
+            "definition": "增强，提高（如音量、强度等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "搭建营地",
+            "iscorrect": false
+          },
+          {
+            "definition": "给...充电",
+            "iscorrect": false
+          },
+          {
+            "definition": "照亮",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

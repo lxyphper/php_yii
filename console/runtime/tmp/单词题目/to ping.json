@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to ping",
+      "error_analysis": "学生易因形近词\"pin\"(别针)误判为\"用别针固定\"，或因发音联想\"砰\"误判为\"发出撞击声\"",
+      "sentence": "Before the online class, please **ping** me via WeChat to let me know you're ready.",
+      "options": {
+        "option": [
+          {
+            "definition": "用别针固定",
+            "iscorrect": false
+          },
+          {
+            "definition": "发出砰的撞击声",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速联系（如发消息）",
+            "iscorrect": true
+          },
+          {
+            "definition": "轻轻跳跃",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

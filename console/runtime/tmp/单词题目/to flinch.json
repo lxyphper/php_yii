@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to flinch",
+      "error_analysis": "易与形近词flick（轻弹）、fling（扔）混淆，或误将\"inch\"联想为\"慢慢移动\"",
+      "sentence": "When the dog suddenly barked, she **flinched** and stepped back.",
+      "options": {
+        "option": [
+          {
+            "definition": "退缩；畏缩（因害怕或痛苦而突然移动）",
+            "iscorrect": true
+          },
+          {
+            "definition": "轻弹；快速移动（如手指轻弹）",
+            "iscorrect": false
+          },
+          {
+            "definition": "扔；抛（用力投掷）",
+            "iscorrect": false
+          },
+          {
+            "definition": "慢慢移动；渐进（如慢慢前进）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

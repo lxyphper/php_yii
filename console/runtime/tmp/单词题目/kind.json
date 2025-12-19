@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "kind",
+      "error_analysis": "中国学生易因形近词“king”（国王）看错，或误将形容词“善良的”理解为名词“种类”",
+      "sentence": "The **kind** woman helped the old man carry his heavy bags.",
+      "options": {
+        "option": [
+          {
+            "definition": "国王的",
+            "iscorrect": false
+          },
+          {
+            "definition": "种类",
+            "iscorrect": false
+          },
+          {
+            "definition": "善良的",
+            "iscorrect": true
+          },
+          {
+            "definition": "严格的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

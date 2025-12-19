@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mistake",
+      "error_analysis": "学生易因“mistake”与基础词“mist”（雾）的形近，或“mis-+take”的字面组合（拿错）而误解其“错误”的核心词义。",
+      "sentence": "Tom realized he had made a **mistake** when he saw the correct answer in the textbook.",
+      "options": {
+        "option": [
+          {
+            "definition": "错误（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "雾（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "拿错（动词短语）",
+            "iscorrect": false
+          },
+          {
+            "definition": "赌注（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

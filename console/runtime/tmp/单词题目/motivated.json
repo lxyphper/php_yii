@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "motivated",
+      "error_analysis": "学生易混淆形近词'modified'（修改的），或因词根'mot-'（移动）错误理解为'移动的'。",
+      "sentence": "The students were **motivated** to finish their project on time after the teacher praised their progress.",
+      "options": {
+        "option": [
+          {
+            "definition": "修改的",
+            "iscorrect": false
+          },
+          {
+            "definition": "移动的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有动力的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有动机的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

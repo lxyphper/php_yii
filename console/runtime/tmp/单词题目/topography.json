@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "topography",
+      "error_analysis": "学生易将\"topo-\"误解为\"top（顶部）\"而误判为\"最高处的地形\"，或混淆其与\"geography\"（地理学）的含义。",
+      "sentence": "Before building the road, engineers analyzed the **topography** of the mountainous region to avoid steep slopes.",
+      "options": {
+        "option": [
+          {
+            "definition": "地形；地貌",
+            "iscorrect": true
+          },
+          {
+            "definition": "最高处的地形",
+            "iscorrect": false
+          },
+          {
+            "definition": "地理学",
+            "iscorrect": false
+          },
+          {
+            "definition": "地名记录",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

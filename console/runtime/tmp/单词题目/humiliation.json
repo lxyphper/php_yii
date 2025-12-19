@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "humiliation",
+      "error_analysis": "学生易因形近词“humility”（谦逊）及词根“humil-”（低）的误导，将“humiliation”误理解为“谦逊”或“卑微”。",
+      "sentence": "When the teacher laughed at his answer in front of the whole class, he felt a sharp sense of **humiliation** that stayed with him for days.",
+      "options": {
+        "option": [
+          {
+            "definition": "谦逊；谦卑",
+            "iscorrect": false
+          },
+          {
+            "definition": "羞辱；耻辱",
+            "iscorrect": true
+          },
+          {
+            "definition": "卑微的地位；低下的状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "幽默的时刻；搞笑的场景",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "infirm",
+      "error_analysis": "混淆形近词\"firm\"的反义（不坚固/不坚定）与\"infirm\"的正确义（体弱的）",
+      "sentence": "The nurse assists the **infirm** elderly man with dressing, as he can barely stand without support.",
+      "options": {
+        "option": [
+          {
+            "definition": "不坚固的；不结实的（指物体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "体弱的；虚弱的（尤指因年老或疾病）",
+            "iscorrect": true
+          },
+          {
+            "definition": "不坚定的；动摇的（指意志）",
+            "iscorrect": false
+          },
+          {
+            "definition": "不明确的；模糊的（指信息）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "camping",
+      "error_analysis": "学生易因形近词“campus”（校园）干扰或词根“camp”（营地）误导，将“camping”误判为“校园”或“营地”。",
+      "sentence": "We’re planning to go **camping** in the mountains this weekend with our tents and sleeping bags.",
+      "options": {
+        "option": [
+          {
+            "definition": "校园",
+            "iscorrect": false
+          },
+          {
+            "definition": "露营（一种户外搭帐篷的活动）",
+            "iscorrect": true
+          },
+          {
+            "definition": "营地（具体的扎营地点）",
+            "iscorrect": false
+          },
+          {
+            "definition": "帐篷（户外住宿的工具）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

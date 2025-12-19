@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "augmentation",
+      "error_analysis": "学生易因形近混淆\"argument\"(争论)，或因词根关联\"august\"误判为\"威严的状态\"",
+      "sentence": "Recent **augmentation** of the park's green spaces has made it more popular among residents.",
+      "options": {
+        "option": [
+          {
+            "definition": "争论；辩论",
+            "iscorrect": false
+          },
+          {
+            "definition": "增加；扩大",
+            "iscorrect": true
+          },
+          {
+            "definition": "威严；尊贵的状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "认证；鉴定",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

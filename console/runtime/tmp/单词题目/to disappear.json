@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to disappear",
+      "error_analysis": "学生易因形近词“disappoint”（失望）而将“to disappear”误理解为“使失望”或“失望”",
+      "sentence": "The magician waved his wand, and the rabbit suddenly **disappeared** from the hat.",
+      "options": {
+        "option": [
+          {
+            "definition": "消失；不见",
+            "iscorrect": true
+          },
+          {
+            "definition": "使失望；失望",
+            "iscorrect": false
+          },
+          {
+            "definition": "溶解；消散",
+            "iscorrect": false
+          },
+          {
+            "definition": "不赞成；反对",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

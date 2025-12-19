@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nine",
+      "error_analysis": "学生易因形近词（如nice、mine）干扰，将nine误判为“好的”或“我的”等含义。",
+      "sentence": "There are **nine** books on the desk for you to choose from.",
+      "options": {
+        "option": [
+          {
+            "definition": "九",
+            "iscorrect": true
+          },
+          {
+            "definition": "好的",
+            "iscorrect": false
+          },
+          {
+            "definition": "我的",
+            "iscorrect": false
+          },
+          {
+            "definition": "健康的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

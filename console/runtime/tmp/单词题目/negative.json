@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "negative",
+      "error_analysis": "易因形近词“native”（本土的）干扰，或词根“neg-”过度直译误判为“否定的”而非“负面的”。",
+      "sentence": "The team received **negative** feedback from the clients about their service.",
+      "options": {
+        "option": [
+          {
+            "definition": "负面的；不利的",
+            "iscorrect": true
+          },
+          {
+            "definition": "本土的；本国的",
+            "iscorrect": false
+          },
+          {
+            "definition": "否定的；完全拒绝的",
+            "iscorrect": false
+          },
+          {
+            "definition": "被动的；不主动的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

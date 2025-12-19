@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "composure",
+      "error_analysis": "学生易因形近词“composition”（成分/作文）或词根“com-（一起）+pos-（放）”误判“composure”为“成分”或“组合”。",
+      "sentence": "Despite the sudden fire alarm, the teacher maintained her **composure** and guided all students out safely.",
+      "options": {
+        "option": [
+          {
+            "definition": "成分；组合",
+            "iscorrect": false
+          },
+          {
+            "definition": "作文；作曲",
+            "iscorrect": false
+          },
+          {
+            "definition": "镇静；沉着",
+            "iscorrect": true
+          },
+          {
+            "definition": "暴露；揭露",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

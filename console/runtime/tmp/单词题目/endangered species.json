@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "endangered species",
+      "error_analysis": "学生易因\"danger\"词根联想错误，将\"endangered species\"误解为\"危险物种\"（dangerous species），混淆\"濒危\"与\"危险\"语义。",
+      "sentence": "The panda is one of the most well-known **endangered species** in the world, with only about 1,800 left in the wild.",
+      "options": {
+        "option": [
+          {
+            "definition": "濒危物种",
+            "iscorrect": true
+          },
+          {
+            "definition": "危险物种",
+            "iscorrect": false
+          },
+          {
+            "definition": "灭绝物种",
+            "iscorrect": false
+          },
+          {
+            "definition": "稀有物种",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

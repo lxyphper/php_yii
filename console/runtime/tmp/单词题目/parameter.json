@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "parameter",
+      "error_analysis": "学生易因形近词perimeter（周长）混淆，或因词根para-（旁侧）+meter（测量）误判为“辅助测量工具”。",
+      "sentence": "The engineer adjusted the **parameters** of the machine, such as temperature and pressure, to improve its efficiency.",
+      "options": {
+        "option": [
+          {
+            "definition": "参数；规范",
+            "iscorrect": true
+          },
+          {
+            "definition": "周长；周边",
+            "iscorrect": false
+          },
+          {
+            "definition": "辅助测量工具",
+            "iscorrect": false
+          },
+          {
+            "definition": "段落结构",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

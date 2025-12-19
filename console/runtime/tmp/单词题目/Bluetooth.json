@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Bluetooth",
+      "error_analysis": "学生易将\"blue\"和\"tooth\"字面组合为\"蓝色牙齿\"，或因形近混淆\"blueprint\"（蓝图）",
+      "sentence": "I need to connect my phone to the speaker via **Bluetooth** to play music without cables.",
+      "options": {
+        "option": [
+          {
+            "definition": "蓝牙（一种无线传输技术）",
+            "iscorrect": true
+          },
+          {
+            "definition": "蓝色牙齿",
+            "iscorrect": false
+          },
+          {
+            "definition": "蓝图（设计规划图）",
+            "iscorrect": false
+          },
+          {
+            "definition": "蓝色的工具",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

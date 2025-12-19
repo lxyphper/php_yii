@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "box",
+      "error_analysis": "形近词\"fox\"(狐狸)的干扰，及对\"box\"动词\"拳击\"义的误联想",
+      "sentence": "She kept her favorite toys in a wooden **box** under the bed.",
+      "options": {
+        "option": [
+          {
+            "definition": "盒子",
+            "iscorrect": true
+          },
+          {
+            "definition": "狐狸",
+            "iscorrect": false
+          },
+          {
+            "definition": "拳击",
+            "iscorrect": false
+          },
+          {
+            "definition": "书包",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "American",
+      "error_analysis": "中国学生易因形近词'Amateur'(业余的)、词根误解(美洲的)或词性混淆(美国，名词)而错解'American'。",
+      "sentence": "The **American** football team scored three touchdowns in the final quarter of the game.",
+      "options": {
+        "option": [
+          {
+            "definition": "美国的；美国人（形容词/名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "业余的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "美洲的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "美国（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

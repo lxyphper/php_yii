@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "exercise",
+      "error_analysis": "学生易因形近词'exorcise'(驱邪)或'excise'(切除)混淆'exercise'的核心词义“锻炼；练习”",
+      "sentence": "Regular **exercise** like running or swimming is good for your heart.",
+      "options": {
+        "option": [
+          {
+            "definition": "驱邪；除魔",
+            "iscorrect": false
+          },
+          {
+            "definition": "切除；删去",
+            "iscorrect": false
+          },
+          {
+            "definition": "发挥；运用",
+            "iscorrect": false
+          },
+          {
+            "definition": "锻炼；练习",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

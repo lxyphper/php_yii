@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nanoscale",
+      "error_analysis": "学生易混淆前缀“nano-”与“micro-”而误判为“微尺度”，或因“scale”的“规模”义而误为“纳米规模”",
+      "sentence": "Scientists are studying materials at the **nanoscale** to develop more efficient batteries.",
+      "options": {
+        "option": [
+          {
+            "definition": "纳米级（的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "微尺度（的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "纳米规模",
+            "iscorrect": false
+          },
+          {
+            "definition": "纳秒级（的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

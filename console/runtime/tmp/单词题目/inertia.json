@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "inertia",
+      "error_analysis": "学生容易因形近词“infection”（感染）的拼写相似或词根“in-”与“ert”的错误联想，将“inertia”误判为“感染”或“缺乏动力”。",
+      "sentence": "The **inertia** of the heavy box made it hard to start moving, even though it was on wheels.",
+      "options": {
+        "option": [
+          {
+            "definition": "惯性；惰性",
+            "iscorrect": true
+          },
+          {
+            "definition": "感染",
+            "iscorrect": false
+          },
+          {
+            "definition": "缺乏动力",
+            "iscorrect": false
+          },
+          {
+            "definition": "动量",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

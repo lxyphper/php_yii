@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "roasting",
+      "error_analysis": "学生易将形容词性“roasting”（灼热的）误判为形近词“raising”（提高的）或词根延伸的“正在烤食物的”",
+      "sentence": "We decided to stay indoors because the afternoon sun was absolutely **roasting**.",
+      "options": {
+        "option": [
+          {
+            "definition": "灼热的；酷热的",
+            "iscorrect": true
+          },
+          {
+            "definition": "提高的；养育的",
+            "iscorrect": false
+          },
+          {
+            "definition": "正在烤（食物）的",
+            "iscorrect": false
+          },
+          {
+            "definition": "祝酒的；烤面包的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

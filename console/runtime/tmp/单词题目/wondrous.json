@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wondrous",
+      "error_analysis": "易混淆形近词\"wander\"(徘徊)或词根过度推导为\"由奇迹组成的\"",
+      "sentence": "The sunset over the ocean painted a **wondrous** scene of pink and orange hues that took our breath away.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人惊叹的；奇妙的",
+            "iscorrect": true
+          },
+          {
+            "definition": "徘徊的；漫步的",
+            "iscorrect": false
+          },
+          {
+            "definition": "由奇迹组成的",
+            "iscorrect": false
+          },
+          {
+            "definition": "普通的；平常的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

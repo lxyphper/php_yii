@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "overhaul",
+      "error_analysis": "中国学生易因“over+haul”词根推导误解为“拖过/搬运过量”，或与“haul”（拖）的过去式混淆，忽略其“彻底检查/大修”的核心词义。",
+      "sentence": "The mechanic advised us to **overhaul** the engine before taking the long trip.",
+      "options": {
+        "option": [
+          {
+            "definition": "彻底检查；大修",
+            "iscorrect": true
+          },
+          {
+            "definition": "拖过；搬运过量",
+            "iscorrect": false
+          },
+          {
+            "definition": "拖走；搬运",
+            "iscorrect": false
+          },
+          {
+            "definition": "超过；赶上",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

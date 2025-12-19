@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "payment",
+      "error_analysis": "学生易因形近词\"pavement\"(人行道)的拼写干扰，或词根过度联想将\"payment\"错解为\"支付的人\"(如付款人)而非\"支付的款项/行为\"。",
+      "sentence": "Please confirm the **payment** for your online order within 24 hours to avoid cancellation.",
+      "options": {
+        "option": [
+          {
+            "definition": "支付；付款（款项）",
+            "iscorrect": true
+          },
+          {
+            "definition": "人行道",
+            "iscorrect": false
+          },
+          {
+            "definition": "付款人",
+            "iscorrect": false
+          },
+          {
+            "definition": "惩罚",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

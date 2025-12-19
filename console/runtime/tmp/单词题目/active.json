@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "active",
+      "error_analysis": "学生易因词根“act”（行动）过度直译或形近词“act”（动词）误导，将“active”错误理解为“行动的”或“做的”。",
+      "sentence": "The little boy is always **active** in the playground, running and playing with his friends all afternoon.",
+      "options": {
+        "option": [
+          {
+            "definition": "活跃的；积极的",
+            "iscorrect": true
+          },
+          {
+            "definition": "行动的；动作的",
+            "iscorrect": false
+          },
+          {
+            "definition": "做的；实施的",
+            "iscorrect": false
+          },
+          {
+            "definition": "主动的；自发的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "collision",
+      "error_analysis": "学生易因形近词\"collection\"(收集)或\"collusion\"(勾结)产生错误联想，误将\"collision\"理解为\"收集\"或\"勾结\"而非\"碰撞\"。",
+      "sentence": "The police are investigating the **collision** between a car and a bicycle at the intersection.",
+      "options": {
+        "option": [
+          {
+            "definition": "碰撞；冲突",
+            "iscorrect": true
+          },
+          {
+            "definition": "收集；收藏品",
+            "iscorrect": false
+          },
+          {
+            "definition": "勾结；共谋",
+            "iscorrect": false
+          },
+          {
+            "definition": "合作；协作",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

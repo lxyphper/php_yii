@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "coda",
+      "error_analysis": "学生易因形近词\"code\"误判为\"代码\"，或因字面联想\"尾巴\"产生错误理解。",
+      "sentence": "The symphony ended with a beautiful **coda** that brought the entire piece to a satisfying close.",
+      "options": {
+        "option": [
+          {
+            "definition": "（音乐、文学作品等的）结尾部分，尾声",
+            "iscorrect": true
+          },
+          {
+            "definition": "（计算机或数学中的）代码",
+            "iscorrect": false
+          },
+          {
+            "definition": "（动物的）尾巴",
+            "iscorrect": false
+          },
+          {
+            "definition": "（文章或演讲的）开头部分",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

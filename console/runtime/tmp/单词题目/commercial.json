@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "commercial",
+      "error_analysis": "因形近词\"communal\"(公共的)或\"common\"(普通的)干扰，误将\"commercial\"理解为\"公共的\"或\"普通的\"",
+      "sentence": "This TV channel airs more **commercial** ads than educational programs.",
+      "options": {
+        "option": [
+          {
+            "definition": "商业的；广告的",
+            "iscorrect": true
+          },
+          {
+            "definition": "公共的",
+            "iscorrect": false
+          },
+          {
+            "definition": "普通的",
+            "iscorrect": false
+          },
+          {
+            "definition": "开始的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

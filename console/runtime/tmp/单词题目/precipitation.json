@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "precipitation",
+      "error_analysis": "学生易因形近词\"preparation\"（准备）或词根\"precip-\"（快速下降）误判为\"准备\"或\"沉淀\"",
+      "sentence": "According to the weather forecast, there will be heavy **precipitation** in the northern regions tomorrow, so people are advised to carry umbrellas or snow boots.",
+      "options": {
+        "option": [
+          {
+            "definition": "降水（雨、雪等气象现象）",
+            "iscorrect": true
+          },
+          {
+            "definition": "准备（如计划或筹备的行为）",
+            "iscorrect": false
+          },
+          {
+            "definition": "沉淀（化学反应中产生的固体物质）",
+            "iscorrect": false
+          },
+          {
+            "definition": "参与（加入或参加活动的行为）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

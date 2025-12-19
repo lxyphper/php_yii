@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to compass",
+      "error_analysis": "学生易因形近词\"compass\"(指南针)误解为\"用指南针指引\"，或因与\"compress\"(压缩)形近而误判为\"压缩\"",
+      "sentence": "The new policy aims to **compass** all aspects of environmental protection, from air quality to waste management.",
+      "options": {
+        "option": [
+          {
+            "definition": "包含；覆盖",
+            "iscorrect": true
+          },
+          {
+            "definition": "用指南针指引",
+            "iscorrect": false
+          },
+          {
+            "definition": "压缩；压紧",
+            "iscorrect": false
+          },
+          {
+            "definition": "包围；环绕",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

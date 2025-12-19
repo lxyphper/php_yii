@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to glorify",
+      "error_analysis": "学生易因词根“glory”（荣耀）和后缀“-ify”（使...）错误理解为“变得荣耀”（不及物），或与“glory in”（以...为荣）混淆。",
+      "sentence": "The movie was made to **glorify** the bravery of the soldiers who fought in the war.",
+      "options": {
+        "option": [
+          {
+            "definition": "使某人或某物显得更光荣或值得赞扬",
+            "iscorrect": true
+          },
+          {
+            "definition": "变得有名望和受尊敬",
+            "iscorrect": false
+          },
+          {
+            "definition": "以某事为荣",
+            "iscorrect": false
+          },
+          {
+            "definition": "使某事清楚",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

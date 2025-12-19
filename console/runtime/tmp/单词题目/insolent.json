@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "insolent",
+      "error_analysis": "学生易因形近词“indolent”（懒惰的）或“insolvent”（破产的）混淆，或词根误拆（如“in-”+“solent”）误解词义。",
+      "sentence": "The boy made an **insolent** remark to his teacher, refusing to apologize even when asked.",
+      "options": {
+        "option": [
+          {
+            "definition": "无礼的，傲慢的",
+            "iscorrect": true
+          },
+          {
+            "definition": "懒惰的",
+            "iscorrect": false
+          },
+          {
+            "definition": "破产的",
+            "iscorrect": false
+          },
+          {
+            "definition": "坚决的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

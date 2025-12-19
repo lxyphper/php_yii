@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to whet",
+      "error_analysis": "学生易因形近词“wet”（湿的）误解为“弄湿”，或因“whet”原始含义（磨快刀具）忽略其引申义（激发欲望）",
+      "sentence": "The smell of freshly baked cookies **whetted** my desire to have a bite.",
+      "options": {
+        "option": [
+          {
+            "definition": "弄湿",
+            "iscorrect": false
+          },
+          {
+            "definition": "磨快（刀具）",
+            "iscorrect": false
+          },
+          {
+            "definition": "激发（兴趣、欲望）",
+            "iscorrect": true
+          },
+          {
+            "definition": "满足（欲望）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

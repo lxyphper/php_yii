@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "disastrous",
+      "error_analysis": "学生易因形近词desperate（绝望的）混淆disastrous词义，或误将其语义轻化为“令人失望的”（实际为“灾难性的”）。",
+      "sentence": "The team's poor preparation led to a **disastrous** performance in the final, resulting in a humiliating loss.",
+      "options": {
+        "option": [
+          {
+            "definition": "灾难性的",
+            "iscorrect": true
+          },
+          {
+            "definition": "绝望的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人失望的",
+            "iscorrect": false
+          },
+          {
+            "definition": "危险的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

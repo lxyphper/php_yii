@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "alive",
+      "error_analysis": "混淆形近词\"live\"的\"直播的\"义及词根拆分导致的\"活跃的\"误解",
+      "sentence": "After being stuck in the cave for three days, the hikers were finally found **alive** by the rescue team.",
+      "options": {
+        "option": [
+          {
+            "definition": "活着的；有生命的",
+            "iscorrect": true
+          },
+          {
+            "definition": "直播的；现场的",
+            "iscorrect": false
+          },
+          {
+            "definition": "活跃的；精力充沛的",
+            "iscorrect": false
+          },
+          {
+            "definition": "活着的人；生命",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to try",
+      "error_analysis": "中国学生易因形近词\"tire\"（疲劳）将\"to try\"误理解为\"使疲劳\"，或混淆\"尝试\"与\"测试\"（test）的词义",
+      "sentence": "She decided to **try** a new recipe for dinner tonight to surprise her family.",
+      "options": {
+        "option": [
+          {
+            "definition": "尝试；努力（做某事）",
+            "iscorrect": true
+          },
+          {
+            "definition": "疲劳；厌倦（使某人感到累）",
+            "iscorrect": false
+          },
+          {
+            "definition": "测试；检验（检查是否有效）",
+            "iscorrect": false
+          },
+          {
+            "definition": "品尝；尝味（吃/喝以辨味道）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

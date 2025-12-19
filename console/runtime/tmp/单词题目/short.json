@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "short",
+      "error_analysis": "学生易因形近词\"shirt\"（衬衫）的干扰，将\"short\"误理解为\"衬衫\"。",
+      "sentence": "She bought a **short** dress for the summer party.",
+      "options": {
+        "option": [
+          {
+            "definition": "短的",
+            "iscorrect": true
+          },
+          {
+            "definition": "衬衫",
+            "iscorrect": false
+          },
+          {
+            "definition": "矮的",
+            "iscorrect": false
+          },
+          {
+            "definition": "短缺的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

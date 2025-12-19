@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "damaging",
+      "error_analysis": "易因形近词“dam”（大坝）联想到“筑坝的”，或因词根误判为“正在损坏的”（强调动作而非状态）",
+      "sentence": "The false rumors about her reputation were **damaging** to her career.",
+      "options": {
+        "option": [
+          {
+            "definition": "有损害的；破坏性的",
+            "iscorrect": true
+          },
+          {
+            "definition": "筑坝的；与大坝相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "正在损坏的；处于损坏过程中的",
+            "iscorrect": false
+          },
+          {
+            "definition": "老化的；变老的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

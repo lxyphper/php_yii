@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lease",
+      "error_analysis": "学生易因形近词“least”（最少）或“release”（释放）混淆“lease”的“租赁/租约”含义",
+      "sentence": "Before moving into the new apartment, she had to sign a one-year **lease** with the landlord.",
+      "options": {
+        "option": [
+          {
+            "definition": "最少",
+            "iscorrect": false
+          },
+          {
+            "definition": "释放",
+            "iscorrect": false
+          },
+          {
+            "definition": "租赁；租约",
+            "iscorrect": true
+          },
+          {
+            "definition": "离开",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

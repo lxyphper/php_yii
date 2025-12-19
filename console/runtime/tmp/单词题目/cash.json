@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cash",
+      "error_analysis": "中国学生易因形近词\"catch\"（抓住）的干扰，将\"cash\"误判为\"抓住\"。",
+      "sentence": "Can you pay in **cash** or do you need to use a credit card?",
+      "options": {
+        "option": [
+          {
+            "definition": "现金",
+            "iscorrect": true
+          },
+          {
+            "definition": "抓住",
+            "iscorrect": false
+          },
+          {
+            "definition": "盒子",
+            "iscorrect": false
+          },
+          {
+            "definition": "缓存",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

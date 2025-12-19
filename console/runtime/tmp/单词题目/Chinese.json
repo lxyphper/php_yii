@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Chinese",
+      "error_analysis": "学生可能因形近词“chin”（下巴）产生错误联想，误以为“Chinese”与“下巴的”相关",
+      "sentence": "Lisa is learning **Chinese** so she can talk to her grandparents in Beijing.",
+      "options": {
+        "option": [
+          {
+            "definition": "汉语；中国的；中国人",
+            "iscorrect": true
+          },
+          {
+            "definition": "下巴的",
+            "iscorrect": false
+          },
+          {
+            "definition": "奶酪的",
+            "iscorrect": false
+          },
+          {
+            "definition": "链条的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

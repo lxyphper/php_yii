@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to presage",
+      "error_analysis": "中国学生易因形近词\"preserve\"(保存)混淆词义，或因\"pre-\"(提前)+\"sage\"(智者)词根误导为\"提前建议\"。",
+      "sentence": "The sudden drop in temperature and darkening sky seemed to **presage** a severe snowstorm.",
+      "options": {
+        "option": [
+          {
+            "definition": "预示；预兆",
+            "iscorrect": true
+          },
+          {
+            "definition": "保存；保护",
+            "iscorrect": false
+          },
+          {
+            "definition": "提前建议；预先指导",
+            "iscorrect": false
+          },
+          {
+            "definition": "传递信息；传达消息",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

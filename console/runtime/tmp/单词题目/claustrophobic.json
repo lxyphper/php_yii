@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "claustrophobic",
+      "error_analysis": "中国学生易因\"claust-\"与\"close/closet\"形近，将\"claustrophobic\"误解为\"害怕关闭的动作\"或\"害怕衣柜的\"，未准确理解为\"害怕封闭空间的\"。",
+      "sentence": "She felt **claustrophobic** in the small, windowless room and had to leave immediately.",
+      "options": {
+        "option": [
+          {
+            "definition": "幽闭恐惧症的；害怕封闭空间的",
+            "iscorrect": true
+          },
+          {
+            "definition": "害怕关闭的动作的",
+            "iscorrect": false
+          },
+          {
+            "definition": "害怕衣柜的",
+            "iscorrect": false
+          },
+          {
+            "definition": "害怕拥挤人群的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

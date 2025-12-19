@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dialogue",
+      "error_analysis": "学生易因形近词'dialect'（方言）混淆，或拆分为'dia-'（误当'day'）加'logue'（误当'log'）错解为'日记'。",
+      "sentence": "The teacher asked the students to practice the **dialogue** between the customer and the shop assistant in pairs.",
+      "options": {
+        "option": [
+          {
+            "definition": "对话",
+            "iscorrect": true
+          },
+          {
+            "definition": "方言",
+            "iscorrect": false
+          },
+          {
+            "definition": "日记",
+            "iscorrect": false
+          },
+          {
+            "definition": "演讲",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

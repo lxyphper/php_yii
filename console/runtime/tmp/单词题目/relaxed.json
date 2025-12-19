@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "relaxed",
+      "error_analysis": "易与形近词'released'(释放)混淆，或因词根过度直译误以为是'被放松的'。",
+      "sentence": "After a long day of studying, he felt **relaxed** lying on the grass and listening to music.",
+      "options": {
+        "option": [
+          {
+            "definition": "轻松的；放松的",
+            "iscorrect": true
+          },
+          {
+            "definition": "释放的；被释放的",
+            "iscorrect": false
+          },
+          {
+            "definition": "宽慰的；放心的",
+            "iscorrect": false
+          },
+          {
+            "definition": "被放松的；受放松的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "consequential",
+      "error_analysis": "学生易因形近词\"consequence\"（结果）或词根\"consequ-\"误判为\"与结果相关的\"，忽略其\"重要的、有影响力的\"核心义",
+      "sentence": "The CEO's **consequential** announcement changed the direction of the company entirely.",
+      "options": {
+        "option": [
+          {
+            "definition": "重要的；有影响力的",
+            "iscorrect": true
+          },
+          {
+            "definition": "与结果相关的；作为结果的",
+            "iscorrect": false
+          },
+          {
+            "definition": "连续的；连贯的",
+            "iscorrect": false
+          },
+          {
+            "definition": "随之而来的；后续的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

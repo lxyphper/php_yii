@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "competent",
+      "error_analysis": "中国学生易因形近词“compete”（竞争）误解为“有竞争力的”，或因词根拆分错误联想到“共同追求的”。",
+      "sentence": "The company is looking for a **competent** manager who can handle the new project effectively.",
+      "options": {
+        "option": [
+          {
+            "definition": "有能力的；胜任的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有竞争力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "共同追求的",
+            "iscorrect": false
+          },
+          {
+            "definition": "完成的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

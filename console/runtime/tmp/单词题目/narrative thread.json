@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "narrative thread",
+      "error_analysis": "学生易因\"thread\"的字面义将\"narrative thread\"误解为\"叙事中的具体线状物\"，或混淆为主线与副线",
+      "sentence": "In the story, the **narrative thread** of a boy trying to fix his broken bike connects all the important parts and makes the story easy to follow.",
+      "options": {
+        "option": [
+          {
+            "definition": "情节主线",
+            "iscorrect": true
+          },
+          {
+            "definition": "故事中提到的具体线状物（如自行车的链条）",
+            "iscorrect": false
+          },
+          {
+            "definition": "故事的次要情节",
+            "iscorrect": false
+          },
+          {
+            "definition": "故事中男孩试图修理的破自行车",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

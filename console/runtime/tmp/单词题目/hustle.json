@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hustle",
+      "error_analysis": "中国学生易因形近词（如rustle/hurtle）将hustle误判为“发出沙沙声”或“猛冲”，忽略其核心义“努力工作”。",
+      "sentence": "To save up for his dream bike, Tom had to **hustle** every weekend by mowing lawns and delivering newspapers.",
+      "options": {
+        "option": [
+          {
+            "definition": "努力工作；忙碌",
+            "iscorrect": true
+          },
+          {
+            "definition": "发出沙沙声",
+            "iscorrect": false
+          },
+          {
+            "definition": "猛冲；疾驰",
+            "iscorrect": false
+          },
+          {
+            "definition": "挤在一起；聚集",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

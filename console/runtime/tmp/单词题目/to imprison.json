@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to imprison",
+      "error_analysis": "学生易因形近词\"impress\"（给…留下印象）或词根\"im-\"表\"使…更\"的误导（如\"improve\"），将\"imprison\"误判为\"给…留下深刻印象\"或\"改善监狱条件\"",
+      "sentence": "The judge decided to **imprison** the criminal for ten years for his serious crime.",
+      "options": {
+        "option": [
+          {
+            "definition": "监禁，关押",
+            "iscorrect": true
+          },
+          {
+            "definition": "给…留下深刻印象",
+            "iscorrect": false
+          },
+          {
+            "definition": "改善监狱条件",
+            "iscorrect": false
+          },
+          {
+            "definition": "释放，解放",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "relation",
+      "error_analysis": "中国学生易因形近词“relative”（亲戚）将“relation”误判为“亲戚”，或因词根“relate”（联系）混淆“关系”与“联系的动作”。",
+      "sentence": "Scientists are studying the **relation** between sleep quality and mental health to find effective solutions.",
+      "options": {
+        "option": [
+          {
+            "definition": "（人或事物之间的）关系",
+            "iscorrect": true
+          },
+          {
+            "definition": "亲戚",
+            "iscorrect": false
+          },
+          {
+            "definition": "联系的行为",
+            "iscorrect": false
+          },
+          {
+            "definition": "关系的维持",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

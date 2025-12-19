@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "a dime a dozen",
+      "error_analysis": "学生易因字面翻译将其理解为“十美分一打（强调价格低廉）”，忽略其“非常常见、不值钱”的引申义",
+      "sentence": "In this city, coffee shops are **a dime a dozen**—you can find one on almost every street corner.",
+      "options": {
+        "option": [
+          {
+            "definition": "非常常见，不值钱",
+            "iscorrect": true
+          },
+          {
+            "definition": "十美分一打（指价格极其低廉）",
+            "iscorrect": false
+          },
+          {
+            "definition": "数量稀少，十分珍贵",
+            "iscorrect": false
+          },
+          {
+            "definition": "每打包含十个（描述数量）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pink",
+      "error_analysis": "易因形近词“pint”（品脱）混淆，或因“pin”（针）的字面联想产生错误理解",
+      "sentence": "The little girl painted her nails **pink** and smiled at her reflection.",
+      "options": {
+        "option": [
+          {
+            "definition": "粉色（的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "品脱（容量单位）",
+            "iscorrect": false
+          },
+          {
+            "definition": "针（的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "钢笔（的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

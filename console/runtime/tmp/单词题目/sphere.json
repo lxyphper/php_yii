@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sphere",
+      "error_analysis": "中国学生易因形近词'square'（正方形）混淆，或因词根/字面义'球体'而误选'sphere'的引申义'领域'。",
+      "sentence": "Her expertise covers the **sphere** of renewable energy and sustainable development.",
+      "options": {
+        "option": [
+          {
+            "definition": "领域（活动、兴趣或专长的范围）",
+            "iscorrect": true
+          },
+          {
+            "definition": "正方形（四边相等的几何图形）",
+            "iscorrect": false
+          },
+          {
+            "definition": "球体（圆形的固体物体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "矛（一种有尖的武器）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

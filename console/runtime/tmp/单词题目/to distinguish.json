@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to distinguish",
+      "error_analysis": "中国学生易因形近词“extinguish”（熄灭）或“distribute”（分配）混淆词义，或因“dis-”词根误解为“分开、分散”。",
+      "sentence": "It's important to **distinguish** between formal and informal language when writing emails.",
+      "options": {
+        "option": [
+          {
+            "definition": "区分；辨别",
+            "iscorrect": true
+          },
+          {
+            "definition": "熄灭；扑灭",
+            "iscorrect": false
+          },
+          {
+            "definition": "分配；分发",
+            "iscorrect": false
+          },
+          {
+            "definition": "分开；分散",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "common_misspellings": [
+      "ct scan",
+      "CTscan",
+      "CT san",
+      "CT skan"
+    ],
+    "correct_chunks": [
+      "CT",
+      "scan"
+    ],
+    "distractor_chunks": [
+      "ct",
+      "san",
+      "skan",
+      "CTscan"
+    ]
+  },
+  0
+]

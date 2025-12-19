@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "function",
+      "error_analysis": "学生易将“function”（功能/作用）与形近词“fiction”（小说）混淆，或误由词根联想到“乐趣”（fun）而产生错误理解。",
+      "sentence": "The primary **function** of a thermometer is to measure temperature accurately.",
+      "options": {
+        "option": [
+          {
+            "definition": "功能；作用",
+            "iscorrect": true
+          },
+          {
+            "definition": "小说；虚构作品",
+            "iscorrect": false
+          },
+          {
+            "definition": "乐趣；娱乐",
+            "iscorrect": false
+          },
+          {
+            "definition": "位置；地点",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

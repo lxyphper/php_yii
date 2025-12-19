@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "salty",
+      "error_analysis": "中国学生易因形近词‘silly’（愚蠢的）或词根联想‘salad’（沙拉）而误判‘salty’的含义。",
+      "sentence": "The soup tastes too **salty**; you should add less salt next time.",
+      "options": {
+        "option": [
+          {
+            "definition": "含盐的；咸的",
+            "iscorrect": true
+          },
+          {
+            "definition": "愚蠢的",
+            "iscorrect": false
+          },
+          {
+            "definition": "沙拉的",
+            "iscorrect": false
+          },
+          {
+            "definition": "辣的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to compensate",
+      "error_analysis": "中国学生易因形近词“compete”（竞争）或词根“pens”（支付）误导，将“compensate”误判为“竞争”或“支付”。",
+      "sentence": "The company will **compensate** customers for the damaged products by offering a full refund.",
+      "options": {
+        "option": [
+          {
+            "definition": "竞争",
+            "iscorrect": false
+          },
+          {
+            "definition": "支付",
+            "iscorrect": false
+          },
+          {
+            "definition": "补偿；赔偿",
+            "iscorrect": true
+          },
+          {
+            "definition": "完成",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

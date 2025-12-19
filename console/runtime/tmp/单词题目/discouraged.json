@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "discouraged",
+      "error_analysis": "易因形近词\"discovered\"混淆为\"发现的\"，或词根\"dis-+courage\"直译\"没有勇气的\"而误解其\"灰心气馁\"的核心情绪含义",
+      "sentence": "After failing the exam three times, she felt **discouraged** and decided to take a break from studying.",
+      "options": {
+        "option": [
+          {
+            "definition": "灰心的；气馁的",
+            "iscorrect": true
+          },
+          {
+            "definition": "发现的（来自discovered的形近混淆）",
+            "iscorrect": false
+          },
+          {
+            "definition": "没有勇气的（词根直译误导）",
+            "iscorrect": false
+          },
+          {
+            "definition": "失望的（与disappointed的近义词混淆）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

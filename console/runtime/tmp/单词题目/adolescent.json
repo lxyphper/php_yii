@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "adolescent",
+      "error_analysis": "学生易因“adolescent”与“adult”（成年人）形近或含“old”部分，误猜为“成年人”或“老年人”",
+      "sentence": "The **adolescent** often struggles with balancing schoolwork, friendships, and personal interests.",
+      "options": {
+        "option": [
+          {
+            "definition": "青少年（13-19岁左右的人）",
+            "iscorrect": true
+          },
+          {
+            "definition": "成年人",
+            "iscorrect": false
+          },
+          {
+            "definition": "老年人",
+            "iscorrect": false
+          },
+          {
+            "definition": "幼儿",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

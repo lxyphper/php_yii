@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dice",
+      "error_analysis": "学生易因形近词“rice”（米饭）或混淆“die”（骰子）的复数形式，将“dice”误判为食物或死亡相关含义。",
+      "sentence": "Before making the decision, he decided to roll the **dice** and see what happened.",
+      "options": {
+        "option": [
+          {
+            "definition": "米饭",
+            "iscorrect": false
+          },
+          {
+            "definition": "死亡（复数）",
+            "iscorrect": false
+          },
+          {
+            "definition": "骰子",
+            "iscorrect": true
+          },
+          {
+            "definition": "切片",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

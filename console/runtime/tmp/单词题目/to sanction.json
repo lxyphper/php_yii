@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to sanction",
+      "error_analysis": "学生易因形近词'sanitize'(消毒)产生联想，或误将词根'san-'(神圣)推导为'神圣化'，从而混淆'to sanction'的核心词义。",
+      "sentence": "The city council will **sanction** the new park project after completing the public consultation.",
+      "options": {
+        "option": [
+          {
+            "definition": "批准",
+            "iscorrect": true
+          },
+          {
+            "definition": "消毒",
+            "iscorrect": false
+          },
+          {
+            "definition": "神圣化",
+            "iscorrect": false
+          },
+          {
+            "definition": "采取行动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

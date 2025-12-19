@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "attack",
+      "error_analysis": "学生易混淆形近词“attach”（附着），或误从词根“tack”（大头钉）猜测为“固定”，而非核心义“攻击”。",
+      "sentence": "The army launched a surprise **attack** on the enemy's position at midnight.",
+      "options": {
+        "option": [
+          {
+            "definition": "攻击；袭击",
+            "iscorrect": true
+          },
+          {
+            "definition": "附着；附加",
+            "iscorrect": false
+          },
+          {
+            "definition": "固定；连接",
+            "iscorrect": false
+          },
+          {
+            "definition": "（问题）着手处理",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

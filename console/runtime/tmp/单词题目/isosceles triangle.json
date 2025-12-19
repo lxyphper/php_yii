@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "isosceles triangle",
+      "error_analysis": "学生易因“isosceles”与“scalene”（不等边的）形近混淆，或因“iso-”（相等）词根误导认为是等边三角形",
+      "sentence": "In the geometry problem, we need to calculate the height of the **isosceles triangle** with a base of 8 cm and equal sides of 5 cm.",
+      "options": {
+        "option": [
+          {
+            "definition": "等腰三角形",
+            "iscorrect": true
+          },
+          {
+            "definition": "不等边三角形",
+            "iscorrect": false
+          },
+          {
+            "definition": "等边三角形",
+            "iscorrect": false
+          },
+          {
+            "definition": "直角三角形",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

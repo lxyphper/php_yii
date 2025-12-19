@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "finger",
+      "error_analysis": "中国学生易因形近词（如finder/fig）或词根拆分（如fin+ger）错误理解“finger”的词义",
+      "sentence": "She pointed at the map with her **finger** to show where we should go.",
+      "options": {
+        "option": [
+          {
+            "definition": "发现者",
+            "iscorrect": false
+          },
+          {
+            "definition": "无花果",
+            "iscorrect": false
+          },
+          {
+            "definition": "鳍状物",
+            "iscorrect": false
+          },
+          {
+            "definition": "手指",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

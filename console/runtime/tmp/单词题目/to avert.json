@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to avert",
+      "error_analysis": "学生易因词根“vert”（转）将“to avert”误判为“转移”，或因形近词“advert”（注意）“await”（等待）误判为“注意”或“等待”。",
+      "sentence": "The driver quickly applied the brakes to **avert** a collision with the pedestrian.",
+      "options": {
+        "option": [
+          {
+            "definition": "防止，避免",
+            "iscorrect": true
+          },
+          {
+            "definition": "转移（注意力）",
+            "iscorrect": false
+          },
+          {
+            "definition": "注意，留意",
+            "iscorrect": false
+          },
+          {
+            "definition": "等待，期待",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

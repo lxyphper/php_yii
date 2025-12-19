@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "shorts",
+      "error_analysis": "学生易因形近词“short”（短的）的字面含义，误将“shorts”理解为“短处”或“短时间”，而非其核心义“短裤”",
+      "sentence": "It's too hot today, so I decided to wear my new **shorts** to the park.",
+      "options": {
+        "option": [
+          {
+            "definition": "短裤",
+            "iscorrect": true
+          },
+          {
+            "definition": "短处；缺点",
+            "iscorrect": false
+          },
+          {
+            "definition": "短时间；瞬间",
+            "iscorrect": false
+          },
+          {
+            "definition": "短缺；不足",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

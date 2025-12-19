@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cytoplasm",
+      "error_analysis": "学生易因形近词\"plasma\"（血浆）及词根\"plasm\"的误导，将\"cytoplasm\"误判为\"血浆\"或\"原生质\"。",
+      "sentence": "In a plant cell, the **cytoplasm** contains various organelles like mitochondria and chloroplasts, all suspended in a gel-like substance.",
+      "options": {
+        "option": [
+          {
+            "definition": "细胞质",
+            "iscorrect": true
+          },
+          {
+            "definition": "血浆",
+            "iscorrect": false
+          },
+          {
+            "definition": "原生质",
+            "iscorrect": false
+          },
+          {
+            "definition": "细胞核",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

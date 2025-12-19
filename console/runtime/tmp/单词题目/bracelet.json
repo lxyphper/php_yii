@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bracelet",
+      "error_analysis": "学生易因形近词“bra”（胸罩）“brace”（支撑）或“bracket”（括号）将“bracelet”误判为胸罩、支撑物或括号",
+      "sentence": "She received a beautiful silver **bracelet** from her grandmother on her birthday, which she wears on her wrist every day.",
+      "options": {
+        "option": [
+          {
+            "definition": "手镯",
+            "iscorrect": true
+          },
+          {
+            "definition": "胸罩",
+            "iscorrect": false
+          },
+          {
+            "definition": "支撑物",
+            "iscorrect": false
+          },
+          {
+            "definition": "括号",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stretched",
+      "error_analysis": "学生易因“stretched”与“strict”（严格的）或“stress”（压力）拼写接近，误将其理解为“严格的”或“有压力的”",
+      "sentence": "After sitting for hours, she **stretched** her legs and arms to relax.",
+      "options": {
+        "option": [
+          {
+            "definition": "严格的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有压力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "伸展的",
+            "iscorrect": true
+          },
+          {
+            "definition": "被打击的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

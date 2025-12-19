@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to sustain",
+      "error_analysis": "学生易因形近词“contain”（包含）的干扰，或词根“sus-”+“tain”的字面误导，将“to sustain”误理解为“包含”或“获得”。",
+      "sentence": "The plant needs regular watering to **sustain** its growth during the dry season.",
+      "options": {
+        "option": [
+          {
+            "definition": "维持；保持",
+            "iscorrect": true
+          },
+          {
+            "definition": "包含；容纳",
+            "iscorrect": false
+          },
+          {
+            "definition": "获得；得到",
+            "iscorrect": false
+          },
+          {
+            "definition": "忍受；承受",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

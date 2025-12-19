@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "shortish",
+      "error_analysis": "学生易因\"short\"的\"短暂\"义及\"shortage\"的形近，将\"shortish\"误解为\"短暂的\"或\"短缺的\"",
+      "sentence": "She chose a **shortish** dress for the wedding, which was just above her ankles and not too formal.",
+      "options": {
+        "option": [
+          {
+            "definition": "有点短的（长度稍短的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "短暂的（时间短促的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "短缺的（数量不足的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "缩短的（被弄短的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nylon",
+      "error_analysis": "学生易因形近词'onion'(洋葱)的视觉联想或词根拆分(ny+lon)误判'nylon'的含义",
+      "sentence": "Her new raincoat is made of **nylon**, which keeps her dry without being heavy.",
+      "options": {
+        "option": [
+          {
+            "definition": "洋葱(一种常见蔬菜)",
+            "iscorrect": false
+          },
+          {
+            "definition": "纽约与伦敦的组合名称",
+            "iscorrect": false
+          },
+          {
+            "definition": "尼龙(一种轻便防水的合成纤维)",
+            "iscorrect": true
+          },
+          {
+            "definition": "狮子(大型猫科动物)",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "alternative fuel",
+      "error_analysis": "学生易因“alternative”与“alternate”（交替的）形近误判为“交替使用的燃料”，或拆分“alter+native”误解为“改良的本土燃料”",
+      "sentence": "To reduce carbon emissions, many countries are promoting the use of **alternative fuel** like biodiesel and hydrogen instead of gasoline.",
+      "options": {
+        "option": [
+          {
+            "definition": "替代燃料",
+            "iscorrect": true
+          },
+          {
+            "definition": "交替使用的燃料",
+            "iscorrect": false
+          },
+          {
+            "definition": "改良的本土燃料",
+            "iscorrect": false
+          },
+          {
+            "definition": "可选的常规燃料",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

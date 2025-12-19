@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to blitz",
+      "error_analysis": "学生易因形近词\"blend\"(混合)或误联想\"blast\"(爆炸)而误解\"to blitz\"的含义。",
+      "sentence": "She **blitzed** through her exam revision and felt ready for the test.",
+      "options": {
+        "option": [
+          {
+            "definition": "混合",
+            "iscorrect": false
+          },
+          {
+            "definition": "爆炸",
+            "iscorrect": false
+          },
+          {
+            "definition": "祝福",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速完成（某事）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

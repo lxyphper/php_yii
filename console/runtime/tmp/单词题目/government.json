@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "government",
+      "error_analysis": "学生易将government（政府，机构）误判为“统治者”（形近词governor的含义）或“统治行为”（词根govern的过度推导）",
+      "sentence": "The local **government** will build a new park in our neighborhood next year.",
+      "options": {
+        "option": [
+          {
+            "definition": "政府（国家或地方的行政机构）",
+            "iscorrect": true
+          },
+          {
+            "definition": "统治者（如州长或国王）",
+            "iscorrect": false
+          },
+          {
+            "definition": "统治行为（如治理国家的过程）",
+            "iscorrect": false
+          },
+          {
+            "definition": "运动（如政治或社会运动）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

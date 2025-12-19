@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to hurtle",
+      "error_analysis": "学生易因形近词\"hurt\"（伤害）或\"hurl\"（投掷），将\"hurtle\"误判为\"伤害\"或\"投掷\"",
+      "sentence": "As the train approached the station, a group of children suddenly **hurtle** across the tracks, causing the driver to slam on the brakes.",
+      "options": {
+        "option": [
+          {
+            "definition": "快速移动；猛冲",
+            "iscorrect": true
+          },
+          {
+            "definition": "伤害；使受伤",
+            "iscorrect": false
+          },
+          {
+            "definition": "投掷；扔",
+            "iscorrect": false
+          },
+          {
+            "definition": "等待；等候",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

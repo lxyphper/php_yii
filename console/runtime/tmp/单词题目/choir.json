@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "choir",
+      "error_analysis": "学生易因形近词\"chair\"（椅子）的视觉与发音干扰，误将\"choir\"理解为\"椅子\"",
+      "sentence": "The church’s **choir** will perform a traditional hymn during the Sunday morning service.",
+      "options": {
+        "option": [
+          {
+            "definition": "唱诗班；合唱团",
+            "iscorrect": true
+          },
+          {
+            "definition": "椅子",
+            "iscorrect": false
+          },
+          {
+            "definition": "歌手（个体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "乐队（含乐器）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

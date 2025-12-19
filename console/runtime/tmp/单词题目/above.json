@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "above",
+      "error_analysis": "学生易因形近词“about”混淆为“关于”，或因字面误导将抽象语境的“above”理解为具体“在...上面”",
+      "sentence": "He thinks he is **above** the rules, which makes others very angry.",
+      "options": {
+        "option": [
+          {
+            "definition": "关于",
+            "iscorrect": false
+          },
+          {
+            "definition": "在...的正上方（如桌子表面）",
+            "iscorrect": false
+          },
+          {
+            "definition": "越过（如翻过篱笆）",
+            "iscorrect": false
+          },
+          {
+            "definition": "凌驾于...之上；超过",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

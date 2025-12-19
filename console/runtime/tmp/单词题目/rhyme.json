@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rhyme",
+      "error_analysis": "学生易因形近词“rhythm”（节奏）混淆“rhyme”的含义，或误将其与“rime”（霜）的字面意思关联。",
+      "sentence": "She wrote a **rhyme** about her dog for the school competition.",
+      "options": {
+        "option": [
+          {
+            "definition": "节奏；韵律",
+            "iscorrect": false
+          },
+          {
+            "definition": "霜；白霜",
+            "iscorrect": false
+          },
+          {
+            "definition": "押韵诗；押韵词",
+            "iscorrect": true
+          },
+          {
+            "definition": "故事；传说",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

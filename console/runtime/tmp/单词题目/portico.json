@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "portico",
+      "error_analysis": "学生易因形近词（如piccolo/短笛）或词根“port”（港口/携带）误导，将“portico”误判为乐器或港口设施。",
+      "sentence": "The ancient temple featured a grand **portico** with four stone columns holding up a decorative roof over the entrance.",
+      "options": {
+        "option": [
+          {
+            "definition": "（建筑物入口处有柱子支撑的）门廊",
+            "iscorrect": true
+          },
+          {
+            "definition": "短笛（一种小型木管乐器）",
+            "iscorrect": false
+          },
+          {
+            "definition": "港口的小型装卸设施",
+            "iscorrect": false
+          },
+          {
+            "definition": "便携式文件袋（用于装资料的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

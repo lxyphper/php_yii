@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sunglasses",
+      "error_analysis": "学生易将`sunglasses`拆分为`sung`（唱歌）和`lasses`（少女）误以为“唱歌的少女”，或过度直译`sun+glasses`为“太阳下的玻璃”",
+      "sentence": "She put on her **sunglasses** before going to the beach, since the strong sun might hurt her eyes.",
+      "options": {
+        "option": [
+          {
+            "definition": "太阳镜",
+            "iscorrect": true
+          },
+          {
+            "definition": "唱歌的少女",
+            "iscorrect": false
+          },
+          {
+            "definition": "太阳下的玻璃",
+            "iscorrect": false
+          },
+          {
+            "definition": "防风镜",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

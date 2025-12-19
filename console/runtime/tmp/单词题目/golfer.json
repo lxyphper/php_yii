@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "golfer",
+      "error_analysis": "学生易因形近词“gofer”（勤杂工）的干扰，或误将“golfer”理解为“高尔夫球”（而非“高尔夫球手”）。",
+      "sentence": "The young **golfer** spent hours on the course perfecting his putt.",
+      "options": {
+        "option": [
+          {
+            "definition": "勤杂工",
+            "iscorrect": false
+          },
+          {
+            "definition": "高尔夫球",
+            "iscorrect": false
+          },
+          {
+            "definition": "高尔夫球手",
+            "iscorrect": true
+          },
+          {
+            "definition": "高尔夫球场",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

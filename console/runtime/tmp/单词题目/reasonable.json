@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "reasonable",
+      "error_analysis": "学生易因形近词\"reason\"（原因）误判为\"有原因的\"，或因词根\"reason\"（推理）过度推导为\"能推理的\"",
+      "sentence": "The teacher said my request to extend the deadline was **reasonable**, so she agreed.",
+      "options": {
+        "option": [
+          {
+            "definition": "合理的；公道的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有原因的",
+            "iscorrect": false
+          },
+          {
+            "definition": "能推理的",
+            "iscorrect": false
+          },
+          {
+            "definition": "理性的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

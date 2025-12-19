@@ -1,0 +1,26 @@
+[
+  {
+    "common_misspellings": [
+      "publik",
+      "pubilc",
+      "transporation",
+      "transprotation",
+      "transportaion"
+    ],
+    "correct_chunks": [
+      "pub",
+      "lic",
+      "trans",
+      "port",
+      "ation"
+    ],
+    "distractor_chunks": [
+      "ik",
+      "ilc",
+      "por",
+      "prot",
+      "taion"
+    ]
+  },
+  0
+]

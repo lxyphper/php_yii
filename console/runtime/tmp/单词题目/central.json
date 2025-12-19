@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "central",
+      "error_analysis": "学生易因形近词“mental”（精神的）产生错误联想，或误将“central”仅理解为物理位置的“中心的”而忽略其抽象的“主要的”含义。",
+      "sentence": "The **central** idea of the speech is about how to build a more sustainable community.",
+      "options": {
+        "option": [
+          {
+            "definition": "主要的；核心的",
+            "iscorrect": true
+          },
+          {
+            "definition": "精神的；心理的",
+            "iscorrect": false
+          },
+          {
+            "definition": "物理位置的中心的",
+            "iscorrect": false
+          },
+          {
+            "definition": "与分币（cent）相关的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

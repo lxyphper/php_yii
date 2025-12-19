@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "shape",
+      "error_analysis": "中国学生易将\"shape\"与形近词\"sheep\"（羊）、\"ship\"（船）或发音接近的\"shake\"（摇晃）混淆。",
+      "sentence": "What **shape** is your new phone? Is it a rectangle or a circle?",
+      "options": {
+        "option": [
+          {
+            "definition": "羊",
+            "iscorrect": false
+          },
+          {
+            "definition": "形状",
+            "iscorrect": true
+          },
+          {
+            "definition": "摇晃",
+            "iscorrect": false
+          },
+          {
+            "definition": "船",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

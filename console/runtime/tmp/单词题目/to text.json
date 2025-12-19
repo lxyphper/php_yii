@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to text",
+      "error_analysis": "学生易因名词“text”（课文/文本）的常见义将动词“to text”误解为“写课文/编文本”，或因形近词“test”混淆为“测试”。",
+      "sentence": "I’ll **text** you the meeting time as soon as I confirm it.",
+      "options": {
+        "option": [
+          {
+            "definition": "为某人编写课文",
+            "iscorrect": false
+          },
+          {
+            "definition": "对某人进行测试",
+            "iscorrect": false
+          },
+          {
+            "definition": "给某人发文本消息",
+            "iscorrect": true
+          },
+          {
+            "definition": "帮某人阅读文本",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

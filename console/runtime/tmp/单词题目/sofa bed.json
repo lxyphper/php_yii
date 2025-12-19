@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sofa bed",
+      "error_analysis": "学生易将合成词字面拆分为“沙发和床”（两个独立家具），而非“沙发床”（两用家具）",
+      "sentence": "When guests come over, we can unfold the **sofa bed** in the living room to let them sleep.",
+      "options": {
+        "option": [
+          {
+            "definition": "沙发床（可当沙发也可当床的两用家具）",
+            "iscorrect": true
+          },
+          {
+            "definition": "沙发和床（两个独立的家具）",
+            "iscorrect": false
+          },
+          {
+            "definition": "柔软的床（因“sofa”与“soft”形近产生的误解）",
+            "iscorrect": false
+          },
+          {
+            "definition": "放在沙发上的小床（字面联想的错误解读）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

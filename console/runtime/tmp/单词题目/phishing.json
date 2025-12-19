@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "phishing",
+      "error_analysis": "学生易因形近词\"fishing\"误解为传统钓鱼活动，或因\"ph-\"联想\"phone\"误判为电话诈骗",
+      "sentence": "Many people fall victim to **phishing** scams where fake emails pretend to be from banks asking for password updates.",
+      "options": {
+        "option": [
+          {
+            "definition": "网络钓鱼（通过伪造信息获取个人数据的诈骗行为）",
+            "iscorrect": true
+          },
+          {
+            "definition": "钓鱼活动（使用鱼竿在水中捕鱼的行为）",
+            "iscorrect": false
+          },
+          {
+            "definition": "电话诈骗（通过电话骗取钱财的行为）",
+            "iscorrect": false
+          },
+          {
+            "definition": "邮件过滤（拦截垃圾邮件的功能）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

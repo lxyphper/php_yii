@@ -1,0 +1,29 @@
+[
+  {
+    "common_misspellings": [
+      "wudwind instrument",
+      "woodwined instrument",
+      "woodwin instrument",
+      "woodwind enstrument",
+      "woodwind instument",
+      "woodwind instrament",
+      "woodwind instrumentt"
+    ],
+    "correct_chunks": [
+      "wood",
+      "wind",
+      "in",
+      "stru",
+      "ment"
+    ],
+    "distractor_chunks": [
+      "wud",
+      "wined",
+      "en",
+      "str",
+      "stra",
+      "men"
+    ]
+  },
+  0
+]

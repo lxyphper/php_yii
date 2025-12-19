@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fund",
+      "error_analysis": "易混淆形近词\"find\"(找到)，或错误联想词根\"fundus\"(底部)认为是\"基础\"",
+      "sentence": "The company plans to raise a new **fund** to support its research projects.",
+      "options": {
+        "option": [
+          {
+            "definition": "资金；基金",
+            "iscorrect": true
+          },
+          {
+            "definition": "找到；发现",
+            "iscorrect": false
+          },
+          {
+            "definition": "基础；地基",
+            "iscorrect": false
+          },
+          {
+            "definition": "乐趣；娱乐",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

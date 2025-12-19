@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "restitution",
+      "error_analysis": "易与形近词\"restoration\"(恢复;修复)混淆,或因词根\"re-\"(回)和\"stituere\"(放置)误判为\"重新放置\"。",
+      "sentence": "After the court case, the thief was ordered to pay **restitution** to the victim for the stolen jewelry.",
+      "options": {
+        "option": [
+          {
+            "definition": "赔偿；归还",
+            "iscorrect": true
+          },
+          {
+            "definition": "恢复；修复",
+            "iscorrect": false
+          },
+          {
+            "definition": "重新放置；恢复位置",
+            "iscorrect": false
+          },
+          {
+            "definition": "宪法；章程",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

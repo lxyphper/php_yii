@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "forest",
+      "error_analysis": "中国学生易因形近词\"frost\"(霜)混淆，或通过\"fore-\"(前面)词根猜测为\"前沿地带\"。",
+      "sentence": "We went hiking in the **forest** and saw many birds flying among the trees.",
+      "options": {
+        "option": [
+          {
+            "definition": "森林",
+            "iscorrect": true
+          },
+          {
+            "definition": "霜",
+            "iscorrect": false
+          },
+          {
+            "definition": "前沿地带",
+            "iscorrect": false
+          },
+          {
+            "definition": "形式",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "world war",
+      "error_analysis": "学生可能因“world”与“word”形近而误将“world war”理解为“单词战争”，或因字面直译忽略其“世界大战”的特指含义",
+      "sentence": "Many people lost their homes during **World War II**, a devastating world war that involved most countries in the world.",
+      "options": {
+        "option": [
+          {
+            "definition": "世界大战（特指涉及多个主要国家的大规模全球性战争）",
+            "iscorrect": true
+          },
+          {
+            "definition": "单词战争（因“world”与“word”形近而误判的含义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "全球范围内的小冲突（因字面直译“世界战争”而忽略其大规模特指义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "国内的内战（发生在一个国家内部的战争）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

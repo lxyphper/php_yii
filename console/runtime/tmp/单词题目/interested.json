@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "interested",
+      "error_analysis": "混淆“interested”（人对…感兴趣）与“interesting”（物令人感兴趣）的主语差异，或误将其用于描述事物。",
+      "sentence": "The girl was **interested** in the story her grandma told last night.",
+      "options": {
+        "option": [
+          {
+            "definition": "对…感兴趣的（用于描述人）",
+            "iscorrect": true
+          },
+          {
+            "definition": "令人感兴趣的（用于描述事物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "有兴趣的（用于描述事物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "被干扰的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

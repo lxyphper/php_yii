@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "enraged",
+      "error_analysis": "易与形近词engaged（忙碌的/订婚的）或enlarged（扩大的/放大的）混淆，或因不熟悉rage（愤怒）而误猜为“充满活力的”",
+      "sentence": "The customer became **enraged** when he found his new phone was broken right out of the box.",
+      "options": {
+        "option": [
+          {
+            "definition": "愤怒的；激怒的",
+            "iscorrect": true
+          },
+          {
+            "definition": "忙碌的；订婚的",
+            "iscorrect": false
+          },
+          {
+            "definition": "充满活力的；热情的",
+            "iscorrect": false
+          },
+          {
+            "definition": "扩大的；放大的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

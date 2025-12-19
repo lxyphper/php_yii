@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to set off",
+      "error_analysis": "中国学生易将\"set off\"直译为\"放置在外面\"（词根/字面误导）或与\"turn off\"混淆误解为\"关掉\"（形近词干扰）",
+      "sentence": "We **set off** for the mountains early in the morning to avoid the traffic.",
+      "options": {
+        "option": [
+          {
+            "definition": "出发（去某地）",
+            "iscorrect": true
+          },
+          {
+            "definition": "关掉（如电器或设备）",
+            "iscorrect": false
+          },
+          {
+            "definition": "放置在外面",
+            "iscorrect": false
+          },
+          {
+            "definition": "建立（如组织或系统）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

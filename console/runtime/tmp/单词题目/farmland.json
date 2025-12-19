@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "farmland",
+      "error_analysis": "学生易因词根“farm”误将“farmland”理解为“农场”，或因形近混淆为“农舍”（farmhouse）",
+      "sentence": "The government plans to protect the fertile **farmland** from being converted into industrial zones.",
+      "options": {
+        "option": [
+          {
+            "definition": "农田；耕地",
+            "iscorrect": true
+          },
+          {
+            "definition": "农场",
+            "iscorrect": false
+          },
+          {
+            "definition": "农舍",
+            "iscorrect": false
+          },
+          {
+            "definition": "草原",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

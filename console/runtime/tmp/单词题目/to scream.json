@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to scream",
+      "error_analysis": "中国学生易因形近词\"stream\"（溪流）产生\"流动/溪流\"的错误联想，或因\"sc-\"前缀关联\"scare\"（害怕）而误判为\"害怕\"。",
+      "sentence": "When the dog suddenly jumped out, the little girl **screamed** and ran away.",
+      "options": {
+        "option": [
+          {
+            "definition": "溪流；流动",
+            "iscorrect": false
+          },
+          {
+            "definition": "害怕；惊吓",
+            "iscorrect": false
+          },
+          {
+            "definition": "尖叫；惊呼",
+            "iscorrect": true
+          },
+          {
+            "definition": "屏幕；银幕",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

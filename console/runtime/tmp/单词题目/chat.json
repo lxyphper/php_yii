@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "chat",
+      "error_analysis": "学生易因形近词\"catch\"（抓住）或\"chart\"（图表）产生错误联想，混淆\"chat\"的核心词义\"聊天\"。",
+      "sentence": "My friends and I often **chat** about our favorite movies after school.",
+      "options": {
+        "option": [
+          {
+            "definition": "聊天（动词/名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "抓住（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "图表（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "检查（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

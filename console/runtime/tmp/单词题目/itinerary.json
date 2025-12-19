@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "itinerary",
+      "error_analysis": "易因形近词\"inventory\"(库存)混淆，或因词根\"itiner-\"误判为\"巡回的人/流动工人\"(itinerant的名词形式)",
+      "sentence": "Before leaving for Europe, Sarah spent hours planning her **itinerary**, which included visits to Paris, Rome, and Barcelona over two weeks.",
+      "options": {
+        "option": [
+          {
+            "definition": "行程安排；旅行路线",
+            "iscorrect": true
+          },
+          {
+            "definition": "库存；存货清单",
+            "iscorrect": false
+          },
+          {
+            "definition": "巡回的人；流动工人",
+            "iscorrect": false
+          },
+          {
+            "definition": "旅行日志；游记",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

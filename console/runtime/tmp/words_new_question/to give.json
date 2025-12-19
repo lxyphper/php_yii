@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to give",
+      "error_analysis": "学生易将形近词\"get\"（得到）的词义误加于\"give\"，混淆\"给予\"与\"获得\"",
+      "sentence": "Could you **give** me a glass of water, please?",
+      "options": {
+        "option": [
+          {
+            "definition": "给予；给",
+            "iscorrect": true
+          },
+          {
+            "definition": "得到；获得",
+            "iscorrect": false
+          },
+          {
+            "definition": "接受；收到",
+            "iscorrect": false
+          },
+          {
+            "definition": "拿走；取走",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

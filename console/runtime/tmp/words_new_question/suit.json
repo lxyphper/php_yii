@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "suit",
+      "error_analysis": "中国学生易因形近词“suite”（套房）或混淆动词“适合”与名词“套装”义而误判。",
+      "sentence": "This color doesn’t **suit** you—try the blue one instead.",
+      "options": {
+        "option": [
+          {
+            "definition": "适合（动词，指符合某人的风格或需求）",
+            "iscorrect": true
+          },
+          {
+            "definition": "套房（形近词“suite”的词义，指成套的房间）",
+            "iscorrect": false
+          },
+          {
+            "definition": "套装（名词，指成套的衣服，如西装）",
+            "iscorrect": false
+          },
+          {
+            "definition": "甜的（发音相近词“sweet”的词义，指味道甜美）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

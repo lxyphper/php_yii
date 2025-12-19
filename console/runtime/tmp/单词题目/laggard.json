@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "laggard",
+      "error_analysis": "学生易因形近词“ladder”（梯子）产生拼写联想错误，或因不熟悉“-ard”后缀（表“人/物”）而将“laggard”误判为“滞后的状态”。",
+      "sentence": "He was always the **laggard** in the group, taking twice as long to finish tasks.",
+      "options": {
+        "option": [
+          {
+            "definition": "梯子",
+            "iscorrect": false
+          },
+          {
+            "definition": "滞后的状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "落后者；迟钝的人",
+            "iscorrect": true
+          },
+          {
+            "definition": "懒惰的人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

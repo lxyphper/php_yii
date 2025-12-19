@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to stipulate",
+      "error_analysis": "易因形近词“stimulate”（刺激）产生混淆，或因词根不熟悉将“stip”联想为“step”（步骤）导致错误理解。",
+      "sentence": "The contract **stipulates** that the payment must be made within 30 days of delivery.",
+      "options": {
+        "option": [
+          {
+            "definition": "规定；明确要求（尤指在协议或合同中）",
+            "iscorrect": true
+          },
+          {
+            "definition": "刺激；激发",
+            "iscorrect": false
+          },
+          {
+            "definition": "步骤；流程",
+            "iscorrect": false
+          },
+          {
+            "definition": "陈述；说明",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

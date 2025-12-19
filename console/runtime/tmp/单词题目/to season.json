@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to season",
+      "error_analysis": "学生易将动词“to season”误解为与名词“季节”相关的动作（如“使适应季节”）",
+      "sentence": "Before grilling, it's important to **season** the chicken with salt and pepper to enhance its flavor.",
+      "options": {
+        "option": [
+          {
+            "definition": "给…调味",
+            "iscorrect": true
+          },
+          {
+            "definition": "使适应季节；换季",
+            "iscorrect": false
+          },
+          {
+            "definition": "使干燥；风干（如木材）",
+            "iscorrect": false
+          },
+          {
+            "definition": "安排；计划（事件）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

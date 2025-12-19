@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to board",
+      "error_analysis": "学生易将“to board”误判为形近词“broad”的“拓宽”，或名词“board”（木板）衍生的“用木板覆盖”。",
+      "sentence": "Passengers must show their tickets before they **board** the plane.",
+      "options": {
+        "option": [
+          {
+            "definition": "登机",
+            "iscorrect": true
+          },
+          {
+            "definition": "拓宽",
+            "iscorrect": false
+          },
+          {
+            "definition": "用木板覆盖",
+            "iscorrect": false
+          },
+          {
+            "definition": "寄宿",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "boarding pass",
+      "error_analysis": "学生易因“boarding”形近“border”（边境）或“pass”联想“passport”（护照），误将“boarding pass”理解为“边境通行证”或“护照”。",
+      "sentence": "Before boarding the plane, you must show your **boarding pass** to the airline staff at the gate.",
+      "options": {
+        "option": [
+          {
+            "definition": "登机牌",
+            "iscorrect": true
+          },
+          {
+            "definition": "边境通行证",
+            "iscorrect": false
+          },
+          {
+            "definition": "寄宿许可",
+            "iscorrect": false
+          },
+          {
+            "definition": "护照",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

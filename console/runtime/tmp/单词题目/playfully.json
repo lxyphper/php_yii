@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "playfully",
+      "error_analysis": "学生易因词根“play”（玩）将“playfully”误译为“玩耍地”（强调动作），或混淆形近词“plentifully”（丰富地）导致错误。",
+      "sentence": "She **playfully** pushed him and said, “Stop teasing me!”",
+      "options": {
+        "option": [
+          {
+            "definition": "嬉闹地；开玩笑地",
+            "iscorrect": true
+          },
+          {
+            "definition": "玩耍地",
+            "iscorrect": false
+          },
+          {
+            "definition": "丰富地",
+            "iscorrect": false
+          },
+          {
+            "definition": "愉快地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

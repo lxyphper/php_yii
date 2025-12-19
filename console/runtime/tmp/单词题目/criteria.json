@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "criteria",
+      "error_analysis": "易受形近词\"critical\"(批评的)干扰，或因词根\"crit\"(判断)误导将其理解为\"批评\"或\"判断\"。",
+      "sentence": "The university has strict **criteria** for admitting international students, such as English proficiency and academic performance.",
+      "options": {
+        "option": [
+          {
+            "definition": "标准；准则",
+            "iscorrect": true
+          },
+          {
+            "definition": "批评；评论",
+            "iscorrect": false
+          },
+          {
+            "definition": "判断；裁决",
+            "iscorrect": false
+          },
+          {
+            "definition": "关键；重要性",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

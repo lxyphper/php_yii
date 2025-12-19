@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "taboo",
+      "error_analysis": "学生易因形近词“tab”（标签）“table”（表格）及部分词根“boo”（嘘声）误判为“标签”“表格”或“嘘声”。",
+      "sentence": "In some cultures, talking about death is considered a **taboo** and people avoid discussing it openly.",
+      "options": {
+        "option": [
+          {
+            "definition": "标签",
+            "iscorrect": false
+          },
+          {
+            "definition": "嘘声",
+            "iscorrect": false
+          },
+          {
+            "definition": "禁忌；忌讳",
+            "iscorrect": true
+          },
+          {
+            "definition": "表格",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

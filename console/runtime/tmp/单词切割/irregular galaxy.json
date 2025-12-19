@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "inregular galaxy",
+      "unregular galaxy",
+      "irregular galexy",
+      "irregular galaxi",
+      "irregular gallaxy"
+    ],
+    "correct_chunks": [
+      "ir",
+      "regular",
+      "gal",
+      "axy"
+    ],
+    "distractor_chunks": [
+      "in",
+      "un",
+      "exy",
+      "axi",
+      "gall"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to join",
+      "error_analysis": "易因形近词“jog”（慢跑）混淆，或因词根“连接”的过度直译忽略“加入团体/活动”的核心义",
+      "sentence": "Many students want to **join** the English club to practice their speaking skills.",
+      "options": {
+        "option": [
+          {
+            "definition": "加入（团体、活动等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "慢跑（如晨跑）",
+            "iscorrect": false
+          },
+          {
+            "definition": "连接（如两块木头）",
+            "iscorrect": false
+          },
+          {
+            "definition": "嘲笑（如开玩笑）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

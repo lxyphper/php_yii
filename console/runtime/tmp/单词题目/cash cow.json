@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cash cow",
+      "error_analysis": "学生易因“cash”（现金）和“cow”（奶牛）的字面组合，误将“cash cow”理解为“现金奶牛”或“用现金购买的奶牛”，忽略其“摇钱树、盈利来源”的引申义。",
+      "sentence": "The new smartphone model has become a real **cash cow** for the company, generating millions in profits every quarter.",
+      "options": {
+        "option": [
+          {
+            "definition": "摇钱树；主要盈利来源",
+            "iscorrect": true
+          },
+          {
+            "definition": "现金奶牛（字面直译）",
+            "iscorrect": false
+          },
+          {
+            "definition": "处理现金的工作人员",
+            "iscorrect": false
+          },
+          {
+            "definition": "用现金购买的奶牛",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

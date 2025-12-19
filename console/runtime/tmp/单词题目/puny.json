@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "puny",
+      "error_analysis": "学生易因形近词\"phony\"(假的)或词根\"pun-\"(关联\"punish\")误判为\"假的\"或\"惩罚性的\"",
+      "sentence": "The **puny** sapling struggled to grow in the shadow of the tall oak tree.",
+      "options": {
+        "option": [
+          {
+            "definition": "微小的；弱小的",
+            "iscorrect": true
+          },
+          {
+            "definition": "假的；伪造的",
+            "iscorrect": false
+          },
+          {
+            "definition": "同情的；怜悯的",
+            "iscorrect": false
+          },
+          {
+            "definition": "惩罚性的；严厉的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

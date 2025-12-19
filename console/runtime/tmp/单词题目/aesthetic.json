@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "aesthetic",
+      "error_analysis": "中国学生易因形近词\"anesthetic\"(麻醉的)将\"aesthetic\"误解为\"麻醉的\"，或因词根/结尾\"-ical\"与\"ethical\"(道德的)混淆而误解为\"道德的\"",
+      "sentence": "The new museum’s design prioritizes **aesthetic** appeal over practicality, with its sleek lines and vibrant color scheme.",
+      "options": {
+        "option": [
+          {
+            "definition": "美学的；审美的",
+            "iscorrect": true
+          },
+          {
+            "definition": "麻醉的",
+            "iscorrect": false
+          },
+          {
+            "definition": "道德的",
+            "iscorrect": false
+          },
+          {
+            "definition": "运动的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

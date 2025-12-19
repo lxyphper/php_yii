@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "plasma",
+      "error_analysis": "学生易因形近词“plaster”（石膏）或词根联想“plastic”（塑料）而错误理解“plasma”的含义",
+      "sentence": "The doctor explained that donating **plasma** is a safe way to help patients with certain diseases.",
+      "options": {
+        "option": [
+          {
+            "definition": "血浆",
+            "iscorrect": true
+          },
+          {
+            "definition": "石膏",
+            "iscorrect": false
+          },
+          {
+            "definition": "塑料",
+            "iscorrect": false
+          },
+          {
+            "definition": "斑块",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

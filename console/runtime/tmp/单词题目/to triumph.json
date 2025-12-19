@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to triumph",
+      "error_analysis": "学生易因形近词\"trumpet\"(宣扬)或发音接近\"try\"(尝试)而误解\"to triumph\"的词义。",
+      "sentence": "After months of training, the team finally **triumphed** over their rivals in the championship.",
+      "options": {
+        "option": [
+          {
+            "definition": "宣扬；吹喇叭",
+            "iscorrect": false
+          },
+          {
+            "definition": "尝试；努力",
+            "iscorrect": false
+          },
+          {
+            "definition": "践踏；踩碎",
+            "iscorrect": false
+          },
+          {
+            "definition": "取得胜利；战胜",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "police station",
+      "error_analysis": "学生可能因“station”的字面意思（站、驻地）将“police station”误译为“警察岗亭”或“警察驻地”，而非正确的“警察局”。",
+      "sentence": "If you lose your wallet, you should go to the **police station** to report it.",
+      "options": {
+        "option": [
+          {
+            "definition": "警察局",
+            "iscorrect": true
+          },
+          {
+            "definition": "警察岗亭",
+            "iscorrect": false
+          },
+          {
+            "definition": "警察驻地",
+            "iscorrect": false
+          },
+          {
+            "definition": "警察办公室",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

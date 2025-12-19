@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "improbable",
+      "error_analysis": "学生易因形近词\"impossible\"（不可能的）或词根过度否定（\"im-\"+\"probable\"=完全不可能），将\"improbable\"误判为\"不可能的\"。",
+      "sentence": "Given the heavy rain, it's **improbable** that the outdoor concert will go ahead as planned.",
+      "options": {
+        "option": [
+          {
+            "definition": "不大可能的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不可能的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不适当的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不常见的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

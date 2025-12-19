@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sheep",
+      "error_analysis": "学生易因形近词\"ship\"（船）的视觉相似性而误判\"sheep\"的词义",
+      "sentence": "The farmer keeps a flock of **sheep** in the field to produce wool for sweaters.",
+      "options": {
+        "option": [
+          {
+            "definition": "绵羊",
+            "iscorrect": true
+          },
+          {
+            "definition": "船",
+            "iscorrect": false
+          },
+          {
+            "definition": "山羊",
+            "iscorrect": false
+          },
+          {
+            "definition": "睡眠",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

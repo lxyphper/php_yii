@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lock",
+      "error_analysis": "中国学生易因形近词\"look\"混淆为\"看\"，或误将动词义理解为\"关闭\"（与\"close\"混淆）",
+      "sentence": "The door **locks** automatically when you pull it shut—you don’t need a key.",
+      "options": {
+        "option": [
+          {
+            "definition": "（使）锁住；固定",
+            "iscorrect": true
+          },
+          {
+            "definition": "看；注视",
+            "iscorrect": false
+          },
+          {
+            "definition": "关闭；合上",
+            "iscorrect": false
+          },
+          {
+            "definition": "阻塞；阻碍",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

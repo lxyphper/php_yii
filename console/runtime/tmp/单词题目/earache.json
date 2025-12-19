@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "earache",
+      "error_analysis": "学生易因形近词\"earring\"(耳环)的联想或对\"ache\"的不熟悉，误将\"earache\"判断为与耳朵相关的物品（如耳环、耳塞）。",
+      "sentence": "She couldn't sleep well last night because of a sharp **earache** in her left ear.",
+      "options": {
+        "option": [
+          {
+            "definition": "耳痛",
+            "iscorrect": true
+          },
+          {
+            "definition": "耳环",
+            "iscorrect": false
+          },
+          {
+            "definition": "耳塞",
+            "iscorrect": false
+          },
+          {
+            "definition": "耳鸣",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

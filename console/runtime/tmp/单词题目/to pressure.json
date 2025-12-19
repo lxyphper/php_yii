@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to pressure",
+      "error_analysis": "易混淆形近词\"press\"的物理动作（如\"按压\"），或误将词根\"press\"的字面义引申为物理性施压，而非\"向……施压；强迫\"的引申义",
+      "sentence": "My parents **pressured** me to study harder for the upcoming exam.",
+      "options": {
+        "option": [
+          {
+            "definition": "向……施压；强迫",
+            "iscorrect": true
+          },
+          {
+            "definition": "按压；按动",
+            "iscorrect": false
+          },
+          {
+            "definition": "对……施加物理压力",
+            "iscorrect": false
+          },
+          {
+            "definition": "感到压力",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

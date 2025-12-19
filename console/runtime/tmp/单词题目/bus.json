@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bus",
+      "error_analysis": "学生易因形近词\"busy\"将\"bus\"误理解为\"忙碌的\"",
+      "sentence": "I take the **bus** to school every morning because it's cheaper than a taxi.",
+      "options": {
+        "option": [
+          {
+            "definition": "公共汽车",
+            "iscorrect": true
+          },
+          {
+            "definition": "忙碌的",
+            "iscorrect": false
+          },
+          {
+            "definition": "灌木",
+            "iscorrect": false
+          },
+          {
+            "definition": "老板",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

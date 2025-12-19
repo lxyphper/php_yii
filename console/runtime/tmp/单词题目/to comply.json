@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to comply",
+      "error_analysis": "中国学生易因形近词“complain”（抱怨）混淆，或因词根“plere”（填满）误解为“完成”。",
+      "sentence": "All employees must **comply** with the company's safety rules to avoid accidents.",
+      "options": {
+        "option": [
+          {
+            "definition": "遵守（规则/要求）",
+            "iscorrect": true
+          },
+          {
+            "definition": "抱怨（某事）",
+            "iscorrect": false
+          },
+          {
+            "definition": "完成（任务）",
+            "iscorrect": false
+          },
+          {
+            "definition": "应用（方法）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

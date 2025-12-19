@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "insolvency",
+      "error_analysis": "中国学生易因形近词insomnia（失眠）混淆，或因词根solv（解决/溶解）误解为“无法溶解”或“无法解决问题”。",
+      "sentence": "After accumulating millions in debt and missing multiple loan payments, the small business was forced to file for **insolvency**.",
+      "options": {
+        "option": [
+          {
+            "definition": "失眠症",
+            "iscorrect": false
+          },
+          {
+            "definition": "无法溶解的状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "无法解决问题的状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "破产；无力偿还债务",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

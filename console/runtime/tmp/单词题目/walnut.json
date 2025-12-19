@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "walnut",
+      "error_analysis": "中国学生易因\"walnut\"与\"wall\"（墙）形近而误判为\"墙坚果\"，或因\"wal-\"与\"walk\"（走）联想而误判为\"行走的坚果\"",
+      "sentence": "She added some crushed **walnuts** to the salad for extra crunch.",
+      "options": {
+        "option": [
+          {
+            "definition": "核桃",
+            "iscorrect": true
+          },
+          {
+            "definition": "墙坚果",
+            "iscorrect": false
+          },
+          {
+            "definition": "行走的坚果",
+            "iscorrect": false
+          },
+          {
+            "definition": "杏仁",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

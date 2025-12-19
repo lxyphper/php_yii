@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "multilingual",
+      "error_analysis": "学生易因形近词\"multinational\"(多国的)或词根\"lingual\"(误作\"语言学家\")将\"multilingual\"误解为\"多国的\"或\"多语言学家的\"",
+      "sentence": "The international school requires all teachers to be **multilingual** to communicate with students from different countries.",
+      "options": {
+        "option": [
+          {
+            "definition": "会说多种语言的；多语言的",
+            "iscorrect": true
+          },
+          {
+            "definition": "多国的；跨国的",
+            "iscorrect": false
+          },
+          {
+            "definition": "多语言学家的；关于语言学家的",
+            "iscorrect": false
+          },
+          {
+            "definition": "多媒体的；多种媒介的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

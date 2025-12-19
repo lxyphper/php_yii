@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to co-sign",
+      "error_analysis": "学生易混淆形近词\"consign\"(托运)，或误将\"co-sign\"理解为\"一起签名(仅形式上)\"而忽略\"承担责任\"的核心",
+      "sentence": "John asked his sister to **co-sign** his car loan because his credit score was too low to get approved alone.",
+      "options": {
+        "option": [
+          {
+            "definition": "共同签署（尤指贷款或合同，承担连带责任）",
+            "iscorrect": true
+          },
+          {
+            "definition": "托运；委托（将某物交付他人运送或处理）",
+            "iscorrect": false
+          },
+          {
+            "definition": "一起签名（仅形式上联合签字，不涉及责任）",
+            "iscorrect": false
+          },
+          {
+            "definition": "共同标记（在文件或物品上一起做记号）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "photography",
+      "error_analysis": "学生易因形近词“photograph”（照片）将“photography”误判为“照片”，或因词根“photo-”（光）和“-graphy”（记录）过度直译导致理解偏差",
+      "sentence": "Her passion for **photography** led her to travel the world capturing stunning images with her camera.",
+      "options": {
+        "option": [
+          {
+            "definition": "摄影；摄影术",
+            "iscorrect": true
+          },
+          {
+            "definition": "照片（复数）",
+            "iscorrect": false
+          },
+          {
+            "definition": "光的记录设备",
+            "iscorrect": false
+          },
+          {
+            "definition": "摄影师",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

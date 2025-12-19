@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sugar",
+      "error_analysis": "中国学生最易因形近词“suggest”（建议）的“sug”部分或“summer”（夏天）的前两字母相同，误将“sugar”理解为“建议”或“夏天”。",
+      "sentence": "Can you pass me the **sugar**? I want to add some to my tea.",
+      "options": {
+        "option": [
+          {
+            "definition": "建议",
+            "iscorrect": false
+          },
+          {
+            "definition": "夏天",
+            "iscorrect": false
+          },
+          {
+            "definition": "甜的",
+            "iscorrect": false
+          },
+          {
+            "definition": "糖",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mistletoe",
+      "error_analysis": "学生易将'mistletoe'拆分为熟悉的'mist'（雾）和'toe'（脚趾），错误联想为与\"雾\"或\"脚趾\"相关的事物。",
+      "sentence": "During Christmas, people often hang **mistletoe** above doorways—anyone standing under it is supposed to get a kiss!",
+      "options": {
+        "option": [
+          {
+            "definition": "槲寄生（一种常用于圣诞节装饰的植物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "雾状物质（因'mist'联想而来的错误推断）",
+            "iscorrect": false
+          },
+          {
+            "definition": "脚趾饰品（因包含'toe'而产生的字面误解）",
+            "iscorrect": false
+          },
+          {
+            "definition": "冬季的雾气（仅关注'mist'部分的片面理解）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

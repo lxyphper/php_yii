@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mania",
+      "error_analysis": "中国学生易因“mania”与“man”（男人）、“many”（许多）等形近词混淆，或通过“man-”词根错误联想为与“人”相关的含义。",
+      "sentence": "After winning his first chess tournament, Tom developed a **mania** for the game—he plays for hours every day and even studies chess history in his free time.",
+      "options": {
+        "option": [
+          {
+            "definition": "狂热；癖好",
+            "iscorrect": true
+          },
+          {
+            "definition": "男性的特征",
+            "iscorrect": false
+          },
+          {
+            "definition": "大量的事物",
+            "iscorrect": false
+          },
+          {
+            "definition": "行为方式",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

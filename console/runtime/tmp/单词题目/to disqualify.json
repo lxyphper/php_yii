@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to disqualify",
+      "error_analysis": "学生易因混淆“取消资格”与“无资格”的状态而误判为“没有资格”，或因“qualify”与“quality”关联错误推导为“降低质量”",
+      "sentence": "After finding out he had cheated, the judges decided to **disqualify** him from the final round of the competition.",
+      "options": {
+        "option": [
+          {
+            "definition": "取消（某人的）资格",
+            "iscorrect": true
+          },
+          {
+            "definition": "没有资格",
+            "iscorrect": false
+          },
+          {
+            "definition": "降低质量",
+            "iscorrect": false
+          },
+          {
+            "definition": "否认（某事）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "judicious",
+      "error_analysis": "易因形近词“judicial”（司法的）或词根“jud”（判断）误判为“司法的”或“判断的”，而非“明智的”",
+      "sentence": "Before making a big purchase, it's **judicious** to compare prices from different stores.",
+      "options": {
+        "option": [
+          {
+            "definition": "明智的；审慎的",
+            "iscorrect": true
+          },
+          {
+            "definition": "司法的；法庭的",
+            "iscorrect": false
+          },
+          {
+            "definition": "判断的；裁决的",
+            "iscorrect": false
+          },
+          {
+            "definition": "公正的；不偏不倚的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

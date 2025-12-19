@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "parliament",
+      "error_analysis": "学生易因形近词“parlor”（客厅）混淆词义，或因“par-”“parli-”与“part”（部分）、“speak”（说话）的联系误判为“部分”或“演讲”。",
+      "sentence": "The UK **parliament** consists of the House of Commons and the House of Lords.",
+      "options": {
+        "option": [
+          {
+            "definition": "议会",
+            "iscorrect": true
+          },
+          {
+            "definition": "客厅",
+            "iscorrect": false
+          },
+          {
+            "definition": "演讲",
+            "iscorrect": false
+          },
+          {
+            "definition": "部分",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

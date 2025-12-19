@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to tamp down",
+      "error_analysis": "学生易因形近词\"tap\"误解为\"轻拍\"，或因\"tamp\"原义\"夯实\"忽略其比喻义\"抑制\"",
+      "sentence": "The manager tried to **tamp down** rumors about the company's layoffs by issuing an official statement.",
+      "options": {
+        "option": [
+          {
+            "definition": "抑制；压制",
+            "iscorrect": true
+          },
+          {
+            "definition": "轻敲；轻拍",
+            "iscorrect": false
+          },
+          {
+            "definition": "夯实；压实",
+            "iscorrect": false
+          },
+          {
+            "definition": "激发；引发",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

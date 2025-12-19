@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "statement",
+      "error_analysis": "易因形近词“state”(状态、国家)误解为“状态”或“国家”，或词根过度直译。",
+      "sentence": "The company released an official **statement** regarding the recent product recall.",
+      "options": {
+        "option": [
+          {
+            "definition": "陈述；声明",
+            "iscorrect": true
+          },
+          {
+            "definition": "状态；状况",
+            "iscorrect": false
+          },
+          {
+            "definition": "国家；州",
+            "iscorrect": false
+          },
+          {
+            "definition": "动作；行为",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

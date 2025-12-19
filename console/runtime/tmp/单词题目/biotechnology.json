@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "biotechnology",
+      "error_analysis": "学生易因词根中“technology”与“science”的语义混淆将“biotechnology”误判为“生物科学”，或因形近联想将其与“生物技术人员”（biotechnician）混淆",
+      "sentence": "Modern **biotechnology** has revolutionized agriculture by developing drought-resistant crops that can survive in arid regions.",
+      "options": {
+        "option": [
+          {
+            "definition": "生物技术",
+            "iscorrect": true
+          },
+          {
+            "definition": "生物科学",
+            "iscorrect": false
+          },
+          {
+            "definition": "生物技术人员",
+            "iscorrect": false
+          },
+          {
+            "definition": "生物工程",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

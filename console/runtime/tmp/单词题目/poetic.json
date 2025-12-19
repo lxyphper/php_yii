@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "poetic",
+      "error_analysis": "学生易因形近词\"poetry\"(诗歌)误解为名词\"诗歌\"，或因词根\"poet\"(诗人)误判为\"诗人的\"，忽略其\"有诗意的\"核心形容词义。",
+      "sentence": "The sunset over the lake had a **poetic** quality that made her feel like she was in a dream.",
+      "options": {
+        "option": [
+          {
+            "definition": "有诗意的；诗的（形容词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "诗歌（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "诗人的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "诗意地（副词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rugby",
+      "error_analysis": "学生易因形近词“rug”（地毯）将“rugby”误解为与地毯相关的事物（如小地毯）",
+      "sentence": "Many students in the UK play **rugby** after school, running with the ball and trying to get it into the opponent’s end zone.",
+      "options": {
+        "option": [
+          {
+            "definition": "小地毯；地毯碎片",
+            "iscorrect": false
+          },
+          {
+            "definition": "编织工艺；手工织物",
+            "iscorrect": false
+          },
+          {
+            "definition": "橄榄球；英式橄榄球",
+            "iscorrect": true
+          },
+          {
+            "definition": "红宝石；红色宝石",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

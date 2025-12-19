@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to flood",
+      "error_analysis": "中国学生易因形近词\"floor\"(地板)或\"flush\"(冲洗)误判词义，或因名词\"洪水\"误推动词为\"产生洪水\"",
+      "sentence": "After the heavy storm, the rising water began to **flood** the basement of our house.",
+      "options": {
+        "option": [
+          {
+            "definition": "淹没（to cover with water）",
+            "iscorrect": true
+          },
+          {
+            "definition": "铺地板（to install floors in a space）",
+            "iscorrect": false
+          },
+          {
+            "definition": "冲洗（to clean with flowing water）",
+            "iscorrect": false
+          },
+          {
+            "definition": "产生洪水（to cause a flood）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

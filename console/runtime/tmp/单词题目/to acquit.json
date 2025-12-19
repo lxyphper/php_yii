@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to acquit",
+      "error_analysis": "易混淆形近词\"acquire\"(获得)及词根\"quit\"(离开)，导致误判为\"获得\"或\"释放\"",
+      "sentence": "The jury voted unanimously to **acquit** the suspect, as there was no solid evidence linking him to the crime.",
+      "options": {
+        "option": [
+          {
+            "definition": "获得（某物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "宣告（某人）无罪",
+            "iscorrect": true
+          },
+          {
+            "definition": "释放（某人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "指责（某人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "feedback",
+      "error_analysis": "学生易因形近词\"feed\"（喂养）的常见义或\"feed+back\"的字面组合，将\"feedback\"误理解为\"饲料\"或\"返回的喂养行为\"。",
+      "sentence": "The teacher asked students to give **feedback** on the new textbook so she could make it better.",
+      "options": {
+        "option": [
+          {
+            "definition": "反馈（对某事的意见或反应）",
+            "iscorrect": true
+          },
+          {
+            "definition": "饲料（喂养动物的食物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "返回的喂养行为",
+            "iscorrect": false
+          },
+          {
+            "definition": "后面的供给（如食物或资源）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "confusing",
+      "error_analysis": "中国学生易将“confusing”（令人困惑的）与形近词“convincing”（令人信服的）混淆，或误通过词根推导为“混合的”。",
+      "sentence": "The instructions on the box were so **confusing** that I couldn’t figure out how to assemble the toy.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人信服的",
+            "iscorrect": false
+          },
+          {
+            "definition": "混合的",
+            "iscorrect": false
+          },
+          {
+            "definition": "感到困惑的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人困惑的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

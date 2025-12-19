@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "reel",
+      "error_analysis": "中国学生易因形近词\"real\"(真实的)产生词义混淆，或因词根\"re-\"误判为\"重复\"相关含义",
+      "sentence": "After hearing the sudden bad news, she felt her legs **reel** and had to sit down immediately.",
+      "options": {
+        "option": [
+          {
+            "definition": "（因震惊或眩晕而）踉跄",
+            "iscorrect": true
+          },
+          {
+            "definition": "真实的；实际的",
+            "iscorrect": false
+          },
+          {
+            "definition": "重复做某事",
+            "iscorrect": false
+          },
+          {
+            "definition": "卷轴；卷筒",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

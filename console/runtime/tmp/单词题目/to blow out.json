@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to blow out",
+      "error_analysis": "学生易因字面拆解\"blow(吹)+out(出去)\"误解为\"吹出(气体/物体)\"，或与形近词\"blow up(爆炸)\"混淆",
+      "sentence": "She leaned forward to **blow out** the candles on her birthday cake.",
+      "options": {
+        "option": [
+          {
+            "definition": "吹灭（火焰、蜡烛等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "吹出（气体或小物体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "爆炸；炸毁",
+            "iscorrect": false
+          },
+          {
+            "definition": "吹散（烟雾、云等）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

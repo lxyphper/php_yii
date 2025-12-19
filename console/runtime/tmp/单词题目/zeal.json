@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "zeal",
+      "error_analysis": "学生易因形近词\"seal\"(海豹;印章)或\"meal\"(一餐;饭食)的干扰，误将\"zeal\"理解为具体事物而非抽象的\"热情\"。",
+      "sentence": "Her **zeal** for volunteering at the local animal shelter inspired all her friends to join in.",
+      "options": {
+        "option": [
+          {
+            "definition": "热情；热忱",
+            "iscorrect": true
+          },
+          {
+            "definition": "海豹；印章",
+            "iscorrect": false
+          },
+          {
+            "definition": "一餐；饭食",
+            "iscorrect": false
+          },
+          {
+            "definition": "交易；协议",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

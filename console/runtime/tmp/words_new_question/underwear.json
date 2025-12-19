@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "underwear",
+      "error_analysis": "学生易将\"under+wear\"字面理解为\"穿在下面的物品\"，错误联想为袜子、裤子等非内衣类别",
+      "sentence": "She forgot to pack her **underwear** for the trip, so she had to buy a new set at the mall.",
+      "options": {
+        "option": [
+          {
+            "definition": "内衣（如胸罩、内裤等贴身衣物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "袜子（穿在脚下面的衣物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "裤子（穿在腿下面的衣物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "打底衫（穿在里面的上衣）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

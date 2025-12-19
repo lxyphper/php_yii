@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dualism",
+      "error_analysis": "学生易混淆“dualism”（二元论，强调对立）与“duality”（双重性，强调两部分），或字面直译为“双重主义”。",
+      "sentence": "The philosopher’s theory of **dualism** argues that mind and body are two distinct and opposing substances.",
+      "options": {
+        "option": [
+          {
+            "definition": "二元论（哲学中认为存在两种对立基本实体的理论）",
+            "iscorrect": true
+          },
+          {
+            "definition": "双重性（事物具有两部分或两种属性的状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "双重主义（强调事物应分为两部分的主张）",
+            "iscorrect": false
+          },
+          {
+            "definition": "两种事物的结合（如二重唱的表演）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

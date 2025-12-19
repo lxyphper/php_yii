@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "production",
+      "error_analysis": "中国学生易因形近词\"product\"将\"production\"误理解为\"产品\"，或因词根\"produce\"过度直译为\"抽象产生\"。",
+      "sentence": "The company plans to start the **production** of its new electric vehicle next quarter.",
+      "options": {
+        "option": [
+          {
+            "definition": "生产（过程）",
+            "iscorrect": true
+          },
+          {
+            "definition": "产品",
+            "iscorrect": false
+          },
+          {
+            "definition": "（抽象事物的）产生",
+            "iscorrect": false
+          },
+          {
+            "definition": "产量",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

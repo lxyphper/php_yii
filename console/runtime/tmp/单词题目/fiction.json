@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fiction",
+      "error_analysis": "中国学生易因形近词“friction”（摩擦）或词根联想错误（如误认为与“fact”（事实）相关）而误解“fiction”的词义",
+      "sentence": "Most of the stories in this magazine are **fiction**, so don’t take them as real events.",
+      "options": {
+        "option": [
+          {
+            "definition": "摩擦",
+            "iscorrect": false
+          },
+          {
+            "definition": "事实",
+            "iscorrect": false
+          },
+          {
+            "definition": "小说；虚构的事",
+            "iscorrect": true
+          },
+          {
+            "definition": "功能",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

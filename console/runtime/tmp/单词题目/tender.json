@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tender",
+      "error_analysis": "学生易因形近词“tend”（倾向）将“tender”误理解为“有倾向的”，或因词根“tend”（伸展）误理解为“延伸的”。",
+      "sentence": "She spoke to the crying child in a **tender** voice, trying to calm him down.",
+      "options": {
+        "option": [
+          {
+            "definition": "温柔的；亲切的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有倾向的；趋于...的",
+            "iscorrect": false
+          },
+          {
+            "definition": "延伸的；展开的",
+            "iscorrect": false
+          },
+          {
+            "definition": "新鲜的；刚做的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

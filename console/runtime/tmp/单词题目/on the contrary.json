@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "on the contrary",
+      "error_analysis": "学生易将其字面理解为“在相反的方面”或与“in contrast（相比之下）”混淆，忽略其“明确否定前观点”的核心功能",
+      "sentence": "Many people think learning English is difficult, but **on the contrary**, it can be fun if you use the right methods.",
+      "options": {
+        "option": [
+          {
+            "definition": "在相反的方向/位置",
+            "iscorrect": false
+          },
+          {
+            "definition": "相比之下（用于对比不同事物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "恰恰相反（用于明确否定前面提到的观点）",
+            "iscorrect": true
+          },
+          {
+            "definition": "与此相反的是（用于陈述相反的情况）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

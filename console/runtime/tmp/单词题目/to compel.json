@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to compel",
+      "error_analysis": "学生易因形近词“compete”（竞争）产生混淆，或因词根“pel”（推）过度直译为“推动”而非“强迫”。",
+      "sentence": "The law **compels** all citizens to pay taxes on time.",
+      "options": {
+        "option": [
+          {
+            "definition": "竞争",
+            "iscorrect": false
+          },
+          {
+            "definition": "推动；催促",
+            "iscorrect": false
+          },
+          {
+            "definition": "抱怨",
+            "iscorrect": false
+          },
+          {
+            "definition": "强迫；迫使",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "multiplication",
+      "error_analysis": "学生易因形近词“application”（应用）误判为“多重应用”，或因词根“multi-”（多）猜测为“多次折叠”。",
+      "sentence": "In math class, we used the **multiplication** table to calculate the product of 7 and 9 quickly.",
+      "options": {
+        "option": [
+          {
+            "definition": "多重应用",
+            "iscorrect": false
+          },
+          {
+            "definition": "多次折叠",
+            "iscorrect": false
+          },
+          {
+            "definition": "繁殖",
+            "iscorrect": false
+          },
+          {
+            "definition": "乘法",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

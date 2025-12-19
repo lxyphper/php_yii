@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "young",
+      "error_analysis": "学生易因形近词\"youth\"（名词，青年）的干扰，将形容词\"young\"误判为名词\"青年\"或混淆其词性",
+      "sentence": "The **young** boy is learning to ride a bike.",
+      "options": {
+        "option": [
+          {
+            "definition": "年轻的（形容词，修饰人或事物的年龄小）",
+            "iscorrect": true
+          },
+          {
+            "definition": "青年（名词，指年轻的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "更年轻的（比较级，用于两者对比）",
+            "iscorrect": false
+          },
+          {
+            "definition": "新的（形容词，指事物刚出现或未使用过）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

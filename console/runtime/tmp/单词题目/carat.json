@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "carat",
+      "error_analysis": "学生易因形近词“carrot”（胡萝卜）混淆，或因词根“car”（汽车）错误联想为汽车相关含义。",
+      "sentence": "The diamond ring she received for her anniversary is a 2-**carat** stone, which is quite rare and valuable.",
+      "options": {
+        "option": [
+          {
+            "definition": "胡萝卜（一种橙色的蔬菜）",
+            "iscorrect": false
+          },
+          {
+            "definition": "克拉（宝石或珍珠的重量单位）",
+            "iscorrect": true
+          },
+          {
+            "definition": "汽车配件（如轮胎、方向盘等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "脱字符（文本中表示插入的符号^）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

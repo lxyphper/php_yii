@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hat",
+      "error_analysis": "学生易因形近词（如cat、mat、bat）干扰，将hat误判为“猫”“垫子”等含义",
+      "sentence": "She put on her red **hat** before going out to play in the snow.",
+      "options": {
+        "option": [
+          {
+            "definition": "帽子",
+            "iscorrect": true
+          },
+          {
+            "definition": "猫",
+            "iscorrect": false
+          },
+          {
+            "definition": "垫子",
+            "iscorrect": false
+          },
+          {
+            "definition": "蝙蝠",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

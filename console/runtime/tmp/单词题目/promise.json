@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "promise",
+      "error_analysis": "中国学生易混淆形近词“premise”（前提）或因词根“pro-+mise”错误推导为“提议”，忽略“承诺”核心义。",
+      "sentence": "She made a **promise** to help me with my homework after school.",
+      "options": {
+        "option": [
+          {
+            "definition": "承诺；诺言",
+            "iscorrect": true
+          },
+          {
+            "definition": "前提；假设",
+            "iscorrect": false
+          },
+          {
+            "definition": "提议；建议",
+            "iscorrect": false
+          },
+          {
+            "definition": "潜力；前途",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

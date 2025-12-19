@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to investigate",
+      "error_analysis": "学生易因形近词“invest”（投资）误认为“to investigate”与投资相关，或因词根“vest”（衣服）误联想为“穿衣服”。",
+      "sentence": "The police decided to **investigate** the mysterious disappearance of the old man last week.",
+      "options": {
+        "option": [
+          {
+            "definition": "调查；研究",
+            "iscorrect": true
+          },
+          {
+            "definition": "投资；投入",
+            "iscorrect": false
+          },
+          {
+            "definition": "穿衣服；着装",
+            "iscorrect": false
+          },
+          {
+            "definition": "邀请；约请",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

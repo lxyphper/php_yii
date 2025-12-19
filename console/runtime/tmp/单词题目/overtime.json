@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "overtime",
+      "error_analysis": "学生易因“over+time”字面拆分误理解为“超时工作（动词）”，或因形近词“overt”（明显的）、“overdue”（逾期的）产生混淆",
+      "sentence": "John earned extra money last month by doing **overtime** at the factory, which helped him pay his rent.",
+      "options": {
+        "option": [
+          {
+            "definition": "加班时间；加班费（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "超时工作（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "明显的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "逾期的（形容词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

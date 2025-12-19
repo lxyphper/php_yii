@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "path",
+      "error_analysis": "学生易因形近词“pat”（轻拍）或“pad”（垫子）的联想，将“path”错误理解为“轻拍”或“垫子”",
+      "sentence": "We walked along the **path** through the woods to reach the small cabin.",
+      "options": {
+        "option": [
+          {
+            "definition": "路径；小路",
+            "iscorrect": true
+          },
+          {
+            "definition": "轻拍（动词/名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "垫子；护垫",
+            "iscorrect": false
+          },
+          {
+            "definition": "情感；情绪",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unpredictable",
+      "error_analysis": "学生易因形近词unprecedented（前所未有的）或词根误解（如将predict误作prepare）而错解为“前所未有的”或“无法准备的”",
+      "sentence": "The weather in this region is so **unpredictable**—you might experience sunshine, rain, and wind all in one day.",
+      "options": {
+        "option": [
+          {
+            "definition": "不可预测的",
+            "iscorrect": true
+          },
+          {
+            "definition": "前所未有的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无法准备的",
+            "iscorrect": false
+          },
+          {
+            "definition": "难以置信的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

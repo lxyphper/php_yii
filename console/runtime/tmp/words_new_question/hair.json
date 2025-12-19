@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hair",
+      "error_analysis": "学生易因形近混淆“hair”（头发）与“hare”（野兔）、“hail”（冰雹），或误联“air”（空气）导致理解偏差",
+      "sentence": "My little sister spends 10 minutes every morning combing her soft **hair** into two ponytails.",
+      "options": {
+        "option": [
+          {
+            "definition": "空气",
+            "iscorrect": false
+          },
+          {
+            "definition": "野兔",
+            "iscorrect": false
+          },
+          {
+            "definition": "头发",
+            "iscorrect": true
+          },
+          {
+            "definition": "冰雹",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

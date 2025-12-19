@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "maestro",
+      "error_analysis": "学生易因形近词“master”（通用大师）混淆“maestro”特指音乐领域（如指挥家）的核心含义",
+      "sentence": "The **maestro** stood on the podium, his hands gracefully guiding the orchestra through the soaring symphony.",
+      "options": {
+        "option": [
+          {
+            "definition": "（音乐领域的）大师，尤其是指挥家",
+            "iscorrect": true
+          },
+          {
+            "definition": "大师（通用，如技艺高超的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "老师（从事教学工作的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "演奏家（乐器演奏的高手）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

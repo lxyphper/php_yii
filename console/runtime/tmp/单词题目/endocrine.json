@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "endocrine",
+      "error_analysis": "学生易因形近词“endemic”（地方性的）产生混淆，或因词根“endo-”（内部）误猜为“内部器官”。",
+      "sentence": "The **endocrine** system regulates metabolism, growth, and mood by releasing hormones into the bloodstream.",
+      "options": {
+        "option": [
+          {
+            "definition": "内分泌的（系统）",
+            "iscorrect": true
+          },
+          {
+            "definition": "地方性的",
+            "iscorrect": false
+          },
+          {
+            "definition": "内部器官",
+            "iscorrect": false
+          },
+          {
+            "definition": "外部分泌的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

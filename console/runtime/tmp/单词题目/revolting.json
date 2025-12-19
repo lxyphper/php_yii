@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "revolting",
+      "error_analysis": "学生易因形近词\"revolving\"(旋转的)或词根\"revolt\"(反抗)误将\"revolting\"理解为\"旋转的\"或\"反抗的\"",
+      "sentence": "The smell of the rotten fish in the fridge was absolutely **revolting**; I had to hold my nose while throwing it away.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人作呕的；令人反感的",
+            "iscorrect": true
+          },
+          {
+            "definition": "旋转的；循环的",
+            "iscorrect": false
+          },
+          {
+            "definition": "反抗的；叛逆的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人兴奋的；激动的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

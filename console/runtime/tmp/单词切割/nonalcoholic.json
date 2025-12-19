@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "nonalcohalic",
+      "nonalchoholic",
+      "nonnalcoholic",
+      "nonalcoholick"
+    ],
+    "correct_chunks": [
+      "non",
+      "alco",
+      "hol",
+      "ic"
+    ],
+    "distractor_chunks": [
+      "nonn",
+      "alcohal",
+      "alchohol",
+      "ick"
+    ]
+  },
+  0
+]

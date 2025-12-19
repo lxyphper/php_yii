@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "useless",
+      "error_analysis": "学生易因形近词“useful”（有用的）混淆，或因“use+less”字面推导为“使用更少的”而误解“useless”的核心词义。",
+      "sentence": "This old phone is so **useless** that it can't even make calls anymore.",
+      "options": {
+        "option": [
+          {
+            "definition": "无用的；没用的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有用的；有帮助的",
+            "iscorrect": false
+          },
+          {
+            "definition": "使用更少的；消耗更少的",
+            "iscorrect": false
+          },
+          {
+            "definition": "未使用的；没用过的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

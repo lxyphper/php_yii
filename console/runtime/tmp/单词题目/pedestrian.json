@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pedestrian",
+      "error_analysis": "中国学生易因形近词“pedal”（踏板）或“pedestal”（基座）干扰，或词根“ped”（脚）误导，将“pedestrian”误判为“踏板”“基座”或“用脚的工具”。",
+      "sentence": "The **pedestrian** stopped at the crosswalk to wait for the green light.",
+      "options": {
+        "option": [
+          {
+            "definition": "踏板",
+            "iscorrect": false
+          },
+          {
+            "definition": "基座",
+            "iscorrect": false
+          },
+          {
+            "definition": "行人",
+            "iscorrect": true
+          },
+          {
+            "definition": "用脚的工具",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

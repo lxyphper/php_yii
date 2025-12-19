@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "one",
+      "error_analysis": "学生易因形近将“one”误判为“on”（在…上面）或“once”（一旦）的含义",
+      "sentence": "Can you pass me **one** of those books on the table?",
+      "options": {
+        "option": [
+          {
+            "definition": "一个（数词，表示数量）",
+            "iscorrect": true
+          },
+          {
+            "definition": "在…上面（介词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "一旦（副词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "赢（动词，过去式）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

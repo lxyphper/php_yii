@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to nail",
+      "error_analysis": "学生易将“to nail”的引申义（成功完成）误判为字面义（钉住），或因形近词“mail”混淆为“邮寄”。",
+      "sentence": "After practicing for weeks, she finally **nailed** her piano recital and received a standing ovation.",
+      "options": {
+        "option": [
+          {
+            "definition": "成功完成；搞定",
+            "iscorrect": true
+          },
+          {
+            "definition": "钉住；用钉子固定",
+            "iscorrect": false
+          },
+          {
+            "definition": "邮寄；发送",
+            "iscorrect": false
+          },
+          {
+            "definition": "抓住；逮捕",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

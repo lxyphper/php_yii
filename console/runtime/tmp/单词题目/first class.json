@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "first class",
+      "error_analysis": "学生易根据\"first\"(第一)和\"class\"(班级/课)的字面意思，误将\"first class\"理解为\"第一个班级\"或\"第一节课\"，忽略其\"头等舱\"的常用义。",
+      "sentence": "She treated herself to **first class** on her birthday trip to Paris, enjoying the extra legroom and premium service.",
+      "options": {
+        "option": [
+          {
+            "definition": "第一个班级",
+            "iscorrect": false
+          },
+          {
+            "definition": "第一节课",
+            "iscorrect": false
+          },
+          {
+            "definition": "头等舱",
+            "iscorrect": true
+          },
+          {
+            "definition": "第一等级的课程",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

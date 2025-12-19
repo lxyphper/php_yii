@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sophomore",
+      "error_analysis": "学生易因词根`soph`（智慧）猜测为“智者”，或因形近`sophisticated`（老练的）误认为“老练的人”。",
+      "sentence": "As a **sophomore**, she is no longer a freshman but hasn't yet become a junior in college.",
+      "options": {
+        "option": [
+          {
+            "definition": "（大学）二年级学生",
+            "iscorrect": true
+          },
+          {
+            "definition": "老练的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "智者",
+            "iscorrect": false
+          },
+          {
+            "definition": "新生",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

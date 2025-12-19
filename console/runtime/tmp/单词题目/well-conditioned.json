@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "well-conditioned",
+      "error_analysis": "学生易通过词根字面直译，将其误解为\"有良好条件的\"（如环境、设施），忽略其\"训练有素的\"或\"状态良好的\"核心义。",
+      "sentence": "The coach emphasized that only **well-conditioned** athletes could handle the rigorous daily training sessions without getting exhausted.",
+      "options": {
+        "option": [
+          {
+            "definition": "（人或动物）训练有素的；（机器等）状态良好的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有良好条件的（如环境、设施等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "健康的，身体状况极佳的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有条件的，受限制的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

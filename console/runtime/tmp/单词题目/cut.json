@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cut",
+      "error_analysis": "中国学生易因形近词“cat”（猫）干扰或对“cut”名词“伤口”义的不熟悉而误判。",
+      "sentence": "The nurse bandaged the deep **cut** on his knee.",
+      "options": {
+        "option": [
+          {
+            "definition": "猫",
+            "iscorrect": false
+          },
+          {
+            "definition": "杯子",
+            "iscorrect": false
+          },
+          {
+            "definition": "切",
+            "iscorrect": false
+          },
+          {
+            "definition": "伤口",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

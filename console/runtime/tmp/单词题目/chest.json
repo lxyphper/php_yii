@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "chest",
+      "error_analysis": "中国学生易因形近词\"chess\"（国际象棋）混淆，或误将\"chest\"理解为\"奶酪\"（cheese）。",
+      "sentence": "He clutched the letter tightly to his **chest** as he walked home, afraid someone might see it.",
+      "options": {
+        "option": [
+          {
+            "definition": "胸部",
+            "iscorrect": true
+          },
+          {
+            "definition": "国际象棋",
+            "iscorrect": false
+          },
+          {
+            "definition": "奶酪",
+            "iscorrect": false
+          },
+          {
+            "definition": "休息",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

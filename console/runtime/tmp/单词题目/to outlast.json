@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to outlast",
+      "error_analysis": "学生易将“out-”（超过）与“last”（形容词，最后的）结合，误解为“淘汰最后一个”，而正确含义是“比...持续更久”。",
+      "sentence": "The traditional method of preserving food **outlasts** modern techniques in some remote areas.",
+      "options": {
+        "option": [
+          {
+            "definition": "比...持续更久",
+            "iscorrect": true
+          },
+          {
+            "definition": "淘汰最后一个",
+            "iscorrect": false
+          },
+          {
+            "definition": "比...活得更久",
+            "iscorrect": false
+          },
+          {
+            "definition": "比...表现更好",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

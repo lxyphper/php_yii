@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "the Internet",
+      "error_analysis": "学生易因“inter-”（相互）和“net”（网）的字面推导将“the Internet”误理解为“人际网络”，或与形近词“intranet”（企业内部网）混淆。",
+      "sentence": "Many people use **the Internet** to search for information, communicate with friends, and shop online.",
+      "options": {
+        "option": [
+          {
+            "definition": "互联网",
+            "iscorrect": true
+          },
+          {
+            "definition": "企业内部网",
+            "iscorrect": false
+          },
+          {
+            "definition": "人际网络",
+            "iscorrect": false
+          },
+          {
+            "definition": "渔网",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

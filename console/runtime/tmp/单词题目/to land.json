@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to land",
+      "error_analysis": "将“to land”误判为形近词“lend”（借出）的动词形式，或根据名词“land”（土地）错误推导为“使…到土地上”。",
+      "sentence": "The pilot announced that the plane would **land** at Shanghai Pudong Airport in 20 minutes.",
+      "options": {
+        "option": [
+          {
+            "definition": "（飞机、鸟等）降落；获得（工作、合同等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "借出（某物给某人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "使…到达土地上",
+            "iscorrect": false
+          },
+          {
+            "definition": "在土地上种植（作物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

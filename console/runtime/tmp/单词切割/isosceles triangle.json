@@ -1,0 +1,27 @@
+[
+  {
+    "common_misspellings": [
+      "isoceles triangle",
+      "isoseles triangle",
+      "isoscelis triangle",
+      "triangel triangle",
+      "triangal triangle",
+      "terangle triangle"
+    ],
+    "correct_chunks": [
+      "iso",
+      "sceles",
+      "tri",
+      "angle"
+    ],
+    "distractor_chunks": [
+      "ico",
+      "seles",
+      "scelis",
+      "angel",
+      "angal",
+      "ter"
+    ]
+  },
+  0
+]

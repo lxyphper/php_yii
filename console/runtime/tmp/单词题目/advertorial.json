@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "advertorial",
+      "error_analysis": "学生易将\"advertorial\"误判为形近词\"editorial\"（社论），或通过词根拆分误解为\"广告的编辑内容\"。",
+      "sentence": "The magazine ran an **advertorial** about the new fitness app, which looked like a regular health feature but was actually paid for by the developer.",
+      "options": {
+        "option": [
+          {
+            "definition": "（报纸或杂志中的）软文广告，广告特辑",
+            "iscorrect": true
+          },
+          {
+            "definition": "社论，评论文章",
+            "iscorrect": false
+          },
+          {
+            "definition": "广告的编辑流程",
+            "iscorrect": false
+          },
+          {
+            "definition": "广告代理机构",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

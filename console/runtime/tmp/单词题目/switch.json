@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "switch",
+      "error_analysis": "中国学生易因形近词“swift”（迅速的）将“switch”误理解为“迅速的”，或因近义词“swap”（交换）混淆为“交换”。",
+      "sentence": "Before going to bed, remember to **switch** the TV off.",
+      "options": {
+        "option": [
+          {
+            "definition": "迅速的",
+            "iscorrect": false
+          },
+          {
+            "definition": "交换",
+            "iscorrect": false
+          },
+          {
+            "definition": "切换；关掉",
+            "iscorrect": true
+          },
+          {
+            "definition": "摆动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "chess",
+      "error_analysis": "学生易因形近词\"cheese\"（奶酪）产生错误联想，或误猜为其他含\"ch-\"的常见名词",
+      "sentence": "My grandfather taught me how to play **chess** when I was six, and now we enjoy a game every Sunday afternoon.",
+      "options": {
+        "option": [
+          {
+            "definition": "国际象棋",
+            "iscorrect": true
+          },
+          {
+            "definition": "奶酪",
+            "iscorrect": false
+          },
+          {
+            "definition": "椅子",
+            "iscorrect": false
+          },
+          {
+            "definition": "检查",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

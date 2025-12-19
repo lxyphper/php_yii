@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "religion",
+      "error_analysis": "中国学生易因形近词“region”（地区）或词根误导（如与“relation”混淆）将“religion”误判为“地区”或“关系”。",
+      "sentence": "Many people turn to their **religion** for support when facing challenges.",
+      "options": {
+        "option": [
+          {
+            "definition": "地区",
+            "iscorrect": false
+          },
+          {
+            "definition": "关系",
+            "iscorrect": false
+          },
+          {
+            "definition": "宗教",
+            "iscorrect": true
+          },
+          {
+            "definition": "规则",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

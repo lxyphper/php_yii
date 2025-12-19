@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to attach",
+      "error_analysis": "易混淆形近词\"attack\"（攻击），或因词根猜测误理解为\"抓住\"\"拿走\"",
+      "sentence": "Please **attach** the photo to your job application form before submitting it.",
+      "options": {
+        "option": [
+          {
+            "definition": "连接；附着",
+            "iscorrect": true
+          },
+          {
+            "definition": "攻击；袭击",
+            "iscorrect": false
+          },
+          {
+            "definition": "抓住；拿走",
+            "iscorrect": false
+          },
+          {
+            "definition": "达到；获得",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

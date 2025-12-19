@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to fragment",
+      "error_analysis": "学生易因形近词“fragile”（易碎的）将“to fragment”误理解为“变得易碎”，或因词根“frangere”（打破）过度直译为“打破”。",
+      "sentence": "The ice sculpture **fragmented** into small chunks when exposed to the sun.",
+      "options": {
+        "option": [
+          {
+            "definition": "使分裂成碎片",
+            "iscorrect": true
+          },
+          {
+            "definition": "变得易碎",
+            "iscorrect": false
+          },
+          {
+            "definition": "打破",
+            "iscorrect": false
+          },
+          {
+            "definition": "组合成整体",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

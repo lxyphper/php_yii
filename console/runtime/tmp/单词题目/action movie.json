@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "action movie",
+      "error_analysis": "学生易将“action”直译为“行动”而误解为“关于行动的电影”，或因形近词“active”联想为“活跃的电影”。",
+      "sentence": "Tom loves watching **action movies** because he enjoys the exciting fight scenes and car chases.",
+      "options": {
+        "option": [
+          {
+            "definition": "动作片",
+            "iscorrect": true
+          },
+          {
+            "definition": "活跃的电影",
+            "iscorrect": false
+          },
+          {
+            "definition": "关于行动的电影",
+            "iscorrect": false
+          },
+          {
+            "definition": "剧情片",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

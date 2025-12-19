@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pool",
+      "error_analysis": "易因形近词“poor”（贫穷的）混淆，或仅记住“水池”的字面义而忽略“组/群”的常见义项",
+      "sentence": "The team created a **pool** of ideas to solve the problem.",
+      "options": {
+        "option": [
+          {
+            "definition": "组；群",
+            "iscorrect": true
+          },
+          {
+            "definition": "贫穷的",
+            "iscorrect": false
+          },
+          {
+            "definition": "水池",
+            "iscorrect": false
+          },
+          {
+            "definition": "拉",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

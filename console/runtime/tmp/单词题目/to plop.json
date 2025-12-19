@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to plop",
+      "error_analysis": "易与形近词\"plot\"(密谋)或\"pop\"(弹出)混淆，误判为\"策划\"或\"突然出现\"",
+      "sentence": "After a long day, she **plopped** onto the sofa and sighed deeply.",
+      "options": {
+        "option": [
+          {
+            "definition": "密谋；策划",
+            "iscorrect": false
+          },
+          {
+            "definition": "弹出；突然出现",
+            "iscorrect": false
+          },
+          {
+            "definition": "扑通一声落下；重重地放下",
+            "iscorrect": true
+          },
+          {
+            "definition": "轻轻放下；缓慢放置",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to progress",
+      "error_analysis": "中国学生易混淆形近词“process”（过程）和词根“pro-+gress”的直译“向前走”，从而误判“to progress”的含义。",
+      "sentence": "Despite the challenges, the team continues to **progress** towards their goal of winning the championship.",
+      "options": {
+        "option": [
+          {
+            "definition": "进步；进展",
+            "iscorrect": true
+          },
+          {
+            "definition": "过程；步骤",
+            "iscorrect": false
+          },
+          {
+            "definition": "向前走；行进",
+            "iscorrect": false
+          },
+          {
+            "definition": "推广；宣传",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "student",
+      "error_analysis": "因形近词\"study\"（学习）的干扰，易将\"student\"误判为\"学习\"（名词）",
+      "sentence": "Mary is a diligent **student** who spends hours in the library every day.",
+      "options": {
+        "option": [
+          {
+            "definition": "学生",
+            "iscorrect": true
+          },
+          {
+            "definition": "学习（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "研究者",
+            "iscorrect": false
+          },
+          {
+            "definition": "书房",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

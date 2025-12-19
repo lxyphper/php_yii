@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "footnote",
+      "error_analysis": "学生易因\"foot\"（脚）和\"note\"（笔记）的字面意思误导，将\"footnote\"误解为\"关于脚的笔记\"，或与形近词\"footprint\"（脚印）混淆。",
+      "sentence": "The author added a **footnote** to explain the historical reference in the text.",
+      "options": {
+        "option": [
+          {
+            "definition": "脚印；足迹",
+            "iscorrect": false
+          },
+          {
+            "definition": "关于脚的笔记或记录",
+            "iscorrect": false
+          },
+          {
+            "definition": "尾注；文章结尾的注释",
+            "iscorrect": false
+          },
+          {
+            "definition": "（书或文章中的）脚注",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

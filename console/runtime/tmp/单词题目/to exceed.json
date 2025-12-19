@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to exceed",
+      "error_analysis": "易混淆形近词excel（擅长）的含义，或通过词根ex-（出）+ceed（走）错误推导为“离开”",
+      "sentence": "The number of participants is likely to **exceed** 500, which is more than we expected.",
+      "options": {
+        "option": [
+          {
+            "definition": "超过；超出（数量、限制等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "擅长；优于",
+            "iscorrect": false
+          },
+          {
+            "definition": "离开；退出",
+            "iscorrect": false
+          },
+          {
+            "definition": "覆盖；包含",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

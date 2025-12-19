@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "monotonous",
+      "error_analysis": "容易与形近词\"monstrous\"（可怕的）混淆，或因\"mono-\"（单一）与\"ton\"（吨）的字面结合猜测为\"沉重的\"",
+      "sentence": "Listening to the same song on repeat for hours can become **monotonous** after a while.",
+      "options": {
+        "option": [
+          {
+            "definition": "单调的",
+            "iscorrect": true
+          },
+          {
+            "definition": "可怕的",
+            "iscorrect": false
+          },
+          {
+            "definition": "沉重的",
+            "iscorrect": false
+          },
+          {
+            "definition": "每月的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

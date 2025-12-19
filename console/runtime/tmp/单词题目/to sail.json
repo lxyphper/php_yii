@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to sail",
+      "error_analysis": "学生易混淆形近词\"sale\"(销售)的含义，或因\"帆\"的名词义字面误导认为是\"挂帆/安装帆\"",
+      "sentence": "We decided to **sail** along the coast and visit the small islands this summer.",
+      "options": {
+        "option": [
+          {
+            "definition": "航行；乘船旅行",
+            "iscorrect": true
+          },
+          {
+            "definition": "销售；出售",
+            "iscorrect": false
+          },
+          {
+            "definition": "挂帆；安装帆",
+            "iscorrect": false
+          },
+          {
+            "definition": "航行的工具",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

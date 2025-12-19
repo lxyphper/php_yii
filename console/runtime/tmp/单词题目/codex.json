@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "codex",
+      "error_analysis": "学生易因形近词\"code\"（法典、代码）误将\"codex\"理解为\"法典\"或\"密码本\"",
+      "sentence": "The librarian discovered a rare 12th-century **codex** containing medieval poems in the archive.",
+      "options": {
+        "option": [
+          {
+            "definition": "法典",
+            "iscorrect": false
+          },
+          {
+            "definition": "密码本",
+            "iscorrect": false
+          },
+          {
+            "definition": "古代手稿（尤指装订成册的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "索引",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

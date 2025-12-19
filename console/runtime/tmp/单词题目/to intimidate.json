@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to intimidate",
+      "error_analysis": "学生易因形近词“intimate”（亲密的）混淆，或因词根“timid”（胆小的）错误联想为“使变得胆小”。",
+      "sentence": "The bully tried to **intimidate** the new student by staring at him aggressively.",
+      "options": {
+        "option": [
+          {
+            "definition": "恐吓；威胁",
+            "iscorrect": true
+          },
+          {
+            "definition": "亲密的；亲近的",
+            "iscorrect": false
+          },
+          {
+            "definition": "使变得胆小；使怯懦",
+            "iscorrect": false
+          },
+          {
+            "definition": "模仿；仿效",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

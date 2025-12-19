@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "remix",
+      "error_analysis": "易因词根\"re-+mix\"直译为\"再次混合\"，忽略其\"音乐重新编排\"的特定含义",
+      "sentence": "The DJ decided to **remix** the old song to make it more suitable for the dance floor.",
+      "options": {
+        "option": [
+          {
+            "definition": "重新混音（音乐、歌曲等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "再次混合（如液体或材料）",
+            "iscorrect": false
+          },
+          {
+            "definition": "提醒；使想起",
+            "iscorrect": false
+          },
+          {
+            "definition": "重制（电影或视频）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

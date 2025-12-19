@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "convex",
+      "error_analysis": "学生易因形近词\"convince\"(说服)误判为\"有说服力的\"，或因词根\"vex\"(困扰)误判为\"令人困扰的\"",
+      "sentence": "The mirror has a **convex** surface, which makes objects appear smaller but covers a wider view.",
+      "options": {
+        "option": [
+          {
+            "definition": "凸的；凸面的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有说服力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人困扰的",
+            "iscorrect": false
+          },
+          {
+            "definition": "复杂的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unrepeatable",
+      "error_analysis": "中国学生易将‘unrepeatable’与形近词‘unreplaceable’（不可替代的）混淆，或因‘repeat’（复述）错误理解为‘无法复述的’",
+      "sentence": "The concert was so special that it felt like an **unrepeatable** event—no one could ever recreate that magic again.",
+      "options": {
+        "option": [
+          {
+            "definition": "不可替代的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无法复述的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不需要重复的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不可重复的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

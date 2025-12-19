@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lean",
+      "error_analysis": "学生易因“lean”与“learn”（学习）拼写相近而误判其含义，或因与“leaf”（叶子）拼写接近而错解为“叶子”",
+      "sentence": "The ladder **leans** against the wall, so be careful not to knock it over",
+      "options": {
+        "option": [
+          {
+            "definition": "学习",
+            "iscorrect": false
+          },
+          {
+            "definition": "倾斜",
+            "iscorrect": true
+          },
+          {
+            "definition": "叶子",
+            "iscorrect": false
+          },
+          {
+            "definition": "瘦的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

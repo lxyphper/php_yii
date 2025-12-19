@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "zigzag",
+      "error_analysis": "学生易因形近词\"zip\"（快速）联想误判为\"快速直线移动\"，或因词根拆分误判为\"反复扎刺\"",
+      "sentence": "The hiker followed the **zigzag** path up the steep mountain to avoid slipping.",
+      "options": {
+        "option": [
+          {
+            "definition": "之字形的路线或移动",
+            "iscorrect": true
+          },
+          {
+            "definition": "快速直线移动",
+            "iscorrect": false
+          },
+          {
+            "definition": "反复扎刺",
+            "iscorrect": false
+          },
+          {
+            "definition": "混乱无序的移动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

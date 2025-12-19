@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mother-in-law",
+      "error_analysis": "学生可能因\"mother\"的字面联想误判为\"亲生母亲\"，或因\"in-law\"直译误解为\"法律上的母亲\"",
+      "sentence": "My wife asked me to help her buy a birthday gift for her **mother-in-law**.",
+      "options": {
+        "option": [
+          {
+            "definition": "岳母；婆婆",
+            "iscorrect": true
+          },
+          {
+            "definition": "亲生母亲",
+            "iscorrect": false
+          },
+          {
+            "definition": "法律上的母亲",
+            "iscorrect": false
+          },
+          {
+            "definition": "继母",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

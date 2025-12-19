@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to imply",
+      "error_analysis": "最核心易错点为形近词\"apply\"（申请；应用）的拼写干扰，及词根\"in-+ply\"（折叠）导致的\"包含\"错误联想。",
+      "sentence": "When she said she was tired, she didn’t **imply** that she wanted to leave immediately.",
+      "options": {
+        "option": [
+          {
+            "definition": "申请；应用",
+            "iscorrect": false
+          },
+          {
+            "definition": "包含；容纳",
+            "iscorrect": false
+          },
+          {
+            "definition": "解释；说明",
+            "iscorrect": false
+          },
+          {
+            "definition": "暗示；隐含",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

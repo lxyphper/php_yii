@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "profession",
+      "error_analysis": "混淆形近词\"professor\"(教授)导致误判为\"教授职位\"，或因词根\"pro-\"(向前)和\"fession\"(声明)错误联想为\"公开声明\"",
+      "sentence": "She decided to pursue a **profession** in medicine after volunteering at the local hospital for a year.",
+      "options": {
+        "option": [
+          {
+            "definition": "教授（职位）",
+            "iscorrect": false
+          },
+          {
+            "definition": "公开声明",
+            "iscorrect": false
+          },
+          {
+            "definition": "职业（尤指需要专业训练的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "专业技能",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

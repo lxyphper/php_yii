@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to impact",
+      "error_analysis": "易因形近词\"impart\"(传授)或词根\"pact\"(契约)误导，误判为\"传授\"或\"达成协议\"，而非核心动词义\"影响\"。",
+      "sentence": "The new environmental policy will **impact** the daily lives of all residents in the city.",
+      "options": {
+        "option": [
+          {
+            "definition": "影响",
+            "iscorrect": true
+          },
+          {
+            "definition": "传授（知识/技能）",
+            "iscorrect": false
+          },
+          {
+            "definition": "达成协议",
+            "iscorrect": false
+          },
+          {
+            "definition": "强加（观点/压力）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

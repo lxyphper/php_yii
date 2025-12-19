@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "questionable",
+      "error_analysis": "学生易因词根\"question\"（问题）和后缀\"-able\"（可...的）直译，将\"questionable\"错误理解为\"可提问的\"。",
+      "sentence": "The scientist's claim about the new drug is **questionable** because it lacks supporting evidence.",
+      "options": {
+        "option": [
+          {
+            "definition": "可疑的；值得怀疑的",
+            "iscorrect": true
+          },
+          {
+            "definition": "可提问的",
+            "iscorrect": false
+          },
+          {
+            "definition": "被质疑的",
+            "iscorrect": false
+          },
+          {
+            "definition": "关于问题的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

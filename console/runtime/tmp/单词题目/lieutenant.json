@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lieutenant",
+      "error_analysis": "因形近词\"lie\"（说谎）和\"tenant\"（租户）的误导，易错误猜测为与\"说谎\"或\"租赁\"相关的含义",
+      "sentence": "The **lieutenant** instructed the soldiers to check their weapons before the patrol.",
+      "options": {
+        "option": [
+          {
+            "definition": "中尉（军衔）",
+            "iscorrect": true
+          },
+          {
+            "definition": "说谎者",
+            "iscorrect": false
+          },
+          {
+            "definition": "租赁代理人",
+            "iscorrect": false
+          },
+          {
+            "definition": "房屋管理员",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

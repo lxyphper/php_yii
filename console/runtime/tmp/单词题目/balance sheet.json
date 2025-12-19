@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "balance sheet",
+      "error_analysis": "学生易因\"balance\"(平衡)和\"sheet\"(表)的字面意思误导，将其错误理解为\"平衡记录表\"或\"收支平衡表\"",
+      "sentence": "The accountant asked me to review the company's **balance sheet** to check its financial health before the meeting.",
+      "options": {
+        "option": [
+          {
+            "definition": "资产负债表",
+            "iscorrect": true
+          },
+          {
+            "definition": "平衡记录表",
+            "iscorrect": false
+          },
+          {
+            "definition": "余额清单",
+            "iscorrect": false
+          },
+          {
+            "definition": "收支平衡表",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

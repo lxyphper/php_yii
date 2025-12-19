@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "habitually",
+      "error_analysis": "中国学生易因形近词\"actually\"（实际上）或词根\"habit\"（习惯）的字面误导，将\"habitually\"误判为\"实际上\"或\"偶尔地\"。",
+      "sentence": "She **habitually** takes a walk after dinner to relax.",
+      "options": {
+        "option": [
+          {
+            "definition": "习惯性地",
+            "iscorrect": true
+          },
+          {
+            "definition": "实际上",
+            "iscorrect": false
+          },
+          {
+            "definition": "偶尔地",
+            "iscorrect": false
+          },
+          {
+            "definition": "故意地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

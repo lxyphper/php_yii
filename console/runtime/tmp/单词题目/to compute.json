@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to compute",
+      "error_analysis": "学生易因形近词\"computer\"(电脑)误解为\"使用电脑\",或因词根\"put\"(放置)误判为\"放置/组合\"",
+      "sentence": "The accountant needs to **compute** the total revenue for this quarter before submitting the report.",
+      "options": {
+        "option": [
+          {
+            "definition": "计算；算出",
+            "iscorrect": true
+          },
+          {
+            "definition": "使用电脑；操作电脑",
+            "iscorrect": false
+          },
+          {
+            "definition": "放置；组合",
+            "iscorrect": false
+          },
+          {
+            "definition": "竞争；对抗",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

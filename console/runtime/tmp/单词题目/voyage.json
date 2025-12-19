@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "voyage",
+      "error_analysis": "中国学生易因“voyage”与“view”（观看）形近或与“voice”（声音）音近而产生错误理解",
+      "sentence": "The astronauts embarked on a six-month **voyage** to Mars, preparing for the long journey through space.",
+      "options": {
+        "option": [
+          {
+            "definition": "航行；长途旅行",
+            "iscorrect": true
+          },
+          {
+            "definition": "观看；视野",
+            "iscorrect": false
+          },
+          {
+            "definition": "声音；嗓音",
+            "iscorrect": false
+          },
+          {
+            "definition": "页；页码",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

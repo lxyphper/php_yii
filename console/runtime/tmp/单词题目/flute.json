@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "flute",
+      "error_analysis": "学生易因形近词\"fruit\"（水果）误判\"flute\"为水果类事物，或因\"fl-\"词根关联\"flow\"（流动）误猜为液体。",
+      "sentence": "She played the **flute** beautifully in the school concert, and everyone enjoyed the melody.",
+      "options": {
+        "option": [
+          {
+            "definition": "长笛（一种管乐器）",
+            "iscorrect": true
+          },
+          {
+            "definition": "水果（如苹果、香蕉等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "流动的液体（如河水、牛奶等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "小型飞机（如私人客机）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

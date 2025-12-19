@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cuboid",
+      "error_analysis": "学生易因形近词“cube”（立方体）或词根“-oid”（类似...形状）误将“cuboid”理解为“立方体”而非“长方体”",
+      "sentence": "The new refrigerator has a **cuboid** shape, measuring 180cm in height, 60cm in width, and 70cm in depth.",
+      "options": {
+        "option": [
+          {
+            "definition": "立方体",
+            "iscorrect": false
+          },
+          {
+            "definition": "长方体（直四棱柱）",
+            "iscorrect": true
+          },
+          {
+            "definition": "类似立方体的抽象形状",
+            "iscorrect": false
+          },
+          {
+            "definition": "正方形的平面图形",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fragile",
+      "error_analysis": "学生易混淆形近词“fragrant”（芳香的）或误将词根“frag-”推导为“破碎的”（而非“易碎的”）",
+      "sentence": "The old ceramic teacup is **fragile**—it’s been in our family for decades, so please hold it gently to prevent it from breaking.",
+      "options": {
+        "option": [
+          {
+            "definition": "易碎的；脆弱的",
+            "iscorrect": true
+          },
+          {
+            "definition": "芳香的；香的",
+            "iscorrect": false
+          },
+          {
+            "definition": "破碎的；断裂的",
+            "iscorrect": false
+          },
+          {
+            "definition": "昂贵的；高价的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

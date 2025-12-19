@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fall",
+      "error_analysis": "学生易因形近词“fail”（失败）混淆“fall”的核心动词义“落下”，或误选名词义“秋天”。",
+      "sentence": "The apple will **fall** from the tree if you shake it hard enough.",
+      "options": {
+        "option": [
+          {
+            "definition": "落下；掉落（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "失败（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "秋天（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "填满；装满（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

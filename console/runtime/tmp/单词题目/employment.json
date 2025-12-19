@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "employment",
+      "error_analysis": "学生易混淆形近词（如employer/employee）或误将词根\"employ\"的\"使用\"义延伸，导致误解为\"雇主\"\"雇员\"或\"使用\"。",
+      "sentence": "After graduating from university, she started looking for **employment** in the IT industry.",
+      "options": {
+        "option": [
+          {
+            "definition": "雇主",
+            "iscorrect": false
+          },
+          {
+            "definition": "雇员",
+            "iscorrect": false
+          },
+          {
+            "definition": "就业；雇佣",
+            "iscorrect": true
+          },
+          {
+            "definition": "使用",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

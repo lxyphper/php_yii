@@ -1,0 +1,21 @@
+[
+  {
+    "common_misspellings": [
+      "dauter-in-law",
+      "daughtor-in-law",
+      "daughter-in-low"
+    ],
+    "correct_chunks": [
+      "daugh",
+      "ter",
+      "-in-",
+      "law"
+    ],
+    "distractor_chunks": [
+      "daut",
+      "tor",
+      "low"
+    ]
+  },
+  0
+]

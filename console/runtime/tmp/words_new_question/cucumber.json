@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cucumber",
+      "error_analysis": "因形近词\"number\"（数字）或词根拆分\"cumber\"（阻碍）导致误判为\"数字\"或\"阻碍物\"",
+      "sentence": "She added some sliced **cucumber** to her salad for a crisp, refreshing taste.",
+      "options": {
+        "option": [
+          {
+            "definition": "黄瓜",
+            "iscorrect": true
+          },
+          {
+            "definition": "数字",
+            "iscorrect": false
+          },
+          {
+            "definition": "阻碍物",
+            "iscorrect": false
+          },
+          {
+            "definition": "杯子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "idiom",
+      "error_analysis": "学生易因形近词\"idiot\"(白痴)混淆词义，或因词根\"idio-\"(个人的)误判为\"个人表达\"。",
+      "sentence": "The phrase \"break a leg\" is a common English **idiom** meaning \"good luck\" for performers.",
+      "options": {
+        "option": [
+          {
+            "definition": "习语；成语",
+            "iscorrect": true
+          },
+          {
+            "definition": "白痴；傻瓜",
+            "iscorrect": false
+          },
+          {
+            "definition": "个人的言论；私语",
+            "iscorrect": false
+          },
+          {
+            "definition": "方言；土语",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

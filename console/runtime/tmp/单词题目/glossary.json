@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "glossary",
+      "error_analysis": "学生易因形近词“gloss”（注释）混淆，或因词根“gloss”（光泽）+“-ary”误导，误将“glossary”理解为“注释”或“光泽集合”。",
+      "sentence": "The textbook includes a **glossary** at the end, listing all the technical terms used in the chapters.",
+      "options": {
+        "option": [
+          {
+            "definition": "词汇表",
+            "iscorrect": true
+          },
+          {
+            "definition": "注释",
+            "iscorrect": false
+          },
+          {
+            "definition": "光泽集合",
+            "iscorrect": false
+          },
+          {
+            "definition": "字典",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

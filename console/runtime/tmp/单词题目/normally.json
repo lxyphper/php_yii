@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "normally",
+      "error_analysis": "学生易因词根“norm”（标准）将“normally”误理解为“标准地”，而非其最常用的“通常地”。",
+      "sentence": "She **normally** drinks coffee in the morning, but today she had tea instead.",
+      "options": {
+        "option": [
+          {
+            "definition": "通常地",
+            "iscorrect": true
+          },
+          {
+            "definition": "标准地",
+            "iscorrect": false
+          },
+          {
+            "definition": "正式地",
+            "iscorrect": false
+          },
+          {
+            "definition": "自然地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

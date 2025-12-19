@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "low-carb diet",
+      "error_analysis": "学生易将“carb”（碳水化合物缩写）误判为“carbon”（碳）或“calorie”（卡路里）的缩写，混淆“低碳水饮食”与“低碳饮食”或“低卡路里饮食”",
+      "sentence": "Sarah started a **low-carb diet** to lose weight, so she cut down on bread, pasta, and sugary drinks.",
+      "options": {
+        "option": [
+          {
+            "definition": "低碳水化合物饮食",
+            "iscorrect": true
+          },
+          {
+            "definition": "低碳（碳元素）饮食",
+            "iscorrect": false
+          },
+          {
+            "definition": "低卡路里饮食",
+            "iscorrect": false
+          },
+          {
+            "definition": "低蛋白饮食",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

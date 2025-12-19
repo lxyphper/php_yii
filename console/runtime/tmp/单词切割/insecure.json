@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "imsecure",
+      "unsecure",
+      "insicure",
+      "inseure",
+      "insecur"
+    ],
+    "correct_chunks": [
+      "in",
+      "sec",
+      "ure"
+    ],
+    "distractor_chunks": [
+      "im",
+      "un",
+      "sic",
+      "se",
+      "secur"
+    ]
+  },
+  0
+]

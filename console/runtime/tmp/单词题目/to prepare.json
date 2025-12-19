@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to prepare",
+      "error_analysis": "学生易因形近词'repair'（修理）或词根'pare'（切割）的错误联想，将'to prepare'误判为'修理'或'切割'。",
+      "sentence": "She needs to **prepare** a meal for her family before they come home.",
+      "options": {
+        "option": [
+          {
+            "definition": "准备",
+            "iscorrect": true
+          },
+          {
+            "definition": "修理",
+            "iscorrect": false
+          },
+          {
+            "definition": "切割；修剪",
+            "iscorrect": false
+          },
+          {
+            "definition": "安排",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

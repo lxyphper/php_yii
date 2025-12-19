@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "less",
+      "error_analysis": "易与形近词“loss”（损失）混淆，或误将其理解为动词“减少”（lessen的简化）",
+      "sentence": "Drinking **less** coffee can help you sleep better at night.",
+      "options": {
+        "option": [
+          {
+            "definition": "更少的；较少的",
+            "iscorrect": true
+          },
+          {
+            "definition": "损失；丧失",
+            "iscorrect": false
+          },
+          {
+            "definition": "减少（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "没有；缺乏",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

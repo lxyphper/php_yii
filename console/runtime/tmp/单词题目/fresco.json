@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fresco",
+      "error_analysis": "学生易因形近词\"fresh\"（新鲜的）或词根拆分错误，将\"fresco\"误解为\"新鲜的事物\"或\"清凉的饮品\"",
+      "sentence": "The artist spent months working on the **fresco** in the cathedral, applying paint to the wet plaster before it dried.",
+      "options": {
+        "option": [
+          {
+            "definition": "新鲜的水果或蔬菜",
+            "iscorrect": false
+          },
+          {
+            "definition": "清凉的饮料",
+            "iscorrect": false
+          },
+          {
+            "definition": "湿壁画（一种在湿石灰墙上绘制的绘画技法）",
+            "iscorrect": true
+          },
+          {
+            "definition": "冷冻的甜点",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

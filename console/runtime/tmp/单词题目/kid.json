@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "kid",
+      "error_analysis": "因形近词\"kind\"(善良的)混淆或生僻义\"小山羊\"误导，误将\"kid\"理解为非\"孩子\"的含义",
+      "sentence": "The **kid** next door always shares his toys with me.",
+      "options": {
+        "option": [
+          {
+            "definition": "孩子",
+            "iscorrect": true
+          },
+          {
+            "definition": "善良的",
+            "iscorrect": false
+          },
+          {
+            "definition": "小山羊",
+            "iscorrect": false
+          },
+          {
+            "definition": "工具包",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "World War II",
+      "error_analysis": "中国学生易因罗马数字“II”与“I”形近而将“World War II”误判为“第一次世界大战”",
+      "sentence": "The Holocaust, a tragic genocide of six million Jews, took place during **World War II** (1939–1945).",
+      "options": {
+        "option": [
+          {
+            "definition": "第一次世界大战",
+            "iscorrect": false
+          },
+          {
+            "definition": "第二次世界大战",
+            "iscorrect": true
+          },
+          {
+            "definition": "世界战争二",
+            "iscorrect": false
+          },
+          {
+            "definition": "第三次世界大战",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

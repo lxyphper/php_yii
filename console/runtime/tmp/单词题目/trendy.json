@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "trendy",
+      "error_analysis": "学生易因词根“trend”（趋势）+“-y”后缀，将“trendy”误理解为“趋势性的”而非其核心义“时髦的”。",
+      "sentence": "Many young people like to wear **trendy** clothes to stand out in the crowd.",
+      "options": {
+        "option": [
+          {
+            "definition": "时髦的，流行的",
+            "iscorrect": true
+          },
+          {
+            "definition": "趋势性的",
+            "iscorrect": false
+          },
+          {
+            "definition": "温柔的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有倾向的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

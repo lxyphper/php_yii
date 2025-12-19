@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to symbolize",
+      "error_analysis": "学生易因形近词“sympathize”（同情）混淆词义，或因词根“symbol”（符号）过度直译为“用符号表示”而非“象征”。",
+      "sentence": "In many cultures, the dragon **symbolizes** power and good luck.",
+      "options": {
+        "option": [
+          {
+            "definition": "象征；代表",
+            "iscorrect": true
+          },
+          {
+            "definition": "同情；怜悯",
+            "iscorrect": false
+          },
+          {
+            "definition": "用符号表示；符号化",
+            "iscorrect": false
+          },
+          {
+            "definition": "简化；使简单",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

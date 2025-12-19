@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "duty",
+      "error_analysis": "中国学生易因形近词“dirty”混淆为“脏的”，或误将“duty”理解为“任务”而非核心义“责任/义务”。",
+      "sentence": "As a citizen, paying taxes is our **duty** to support the country.",
+      "options": {
+        "option": [
+          {
+            "definition": "脏的",
+            "iscorrect": false
+          },
+          {
+            "definition": "任务",
+            "iscorrect": false
+          },
+          {
+            "definition": "责任；义务",
+            "iscorrect": true
+          },
+          {
+            "definition": "到期的账单",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

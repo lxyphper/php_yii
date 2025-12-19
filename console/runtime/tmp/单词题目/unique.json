@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unique",
+      "error_analysis": "学生易因形近词\"unite\"（团结）的干扰，将\"unique\"误理解为\"团结的\"或\"联合的\"。",
+      "sentence": "Her painting style is so **unique** that no one else can replicate it.",
+      "options": {
+        "option": [
+          {
+            "definition": "独特的；唯一的",
+            "iscorrect": true
+          },
+          {
+            "definition": "团结的；联合的",
+            "iscorrect": false
+          },
+          {
+            "definition": "统一的；一致的",
+            "iscorrect": false
+          },
+          {
+            "definition": "稀有的；罕见的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

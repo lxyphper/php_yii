@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "coming-of-age [story|tale|narrative]",
+      "error_analysis": "学生易将\"coming-of-age\"直译为\"关于年龄到来的故事\"（字面误导），或混淆为\"即将到来的时代的故事\"（形近词\"coming age\"干扰）",
+      "sentence": "The novel *To Kill a Mockingbird* is often cited as a classic **coming-of-age story** that follows Scout Finch's moral and emotional growth in the 1930s South.",
+      "options": {
+        "option": [
+          {
+            "definition": "成长故事（关于青少年过渡到成年的经历）",
+            "iscorrect": true
+          },
+          {
+            "definition": "关于成年仪式的故事",
+            "iscorrect": false
+          },
+          {
+            "definition": "即将到来的时代的故事",
+            "iscorrect": false
+          },
+          {
+            "definition": "关于未来年龄的预测故事",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

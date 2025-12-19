@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dilatory",
+      "error_analysis": "学生易因形近词“diligent”（勤奋的）混淆，或因词根不熟悉猜测其为“稀释的”等义。",
+      "sentence": "Despite repeated reminders, Tom remained **dilatory** in submitting his assignment, causing his teacher to worry about his progress.",
+      "options": {
+        "option": [
+          {
+            "definition": "拖延的；迟缓的",
+            "iscorrect": true
+          },
+          {
+            "definition": "勤奋的；用功的",
+            "iscorrect": false
+          },
+          {
+            "definition": "稀释的；变淡的",
+            "iscorrect": false
+          },
+          {
+            "definition": "故意的；蓄意的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

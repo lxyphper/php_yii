@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "unparaleled",
+      "unparallel",
+      "inparalleled",
+      "unperaleled"
+    ],
+    "correct_chunks": [
+      "un",
+      "para",
+      "llel",
+      "ed"
+    ],
+    "distractor_chunks": [
+      "lel",
+      "pera",
+      "in",
+      "parallel"
+    ]
+  },
+  0
+]

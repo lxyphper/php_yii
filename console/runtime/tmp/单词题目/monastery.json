@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "monastery",
+      "error_analysis": "学生易因形近词\"monetary\"(货币的)混淆，误判为与货币相关的场所；或因词根\"mon-\"(单一)错误联想为\"单一的住宅\"",
+      "sentence": "The ancient **monastery** tucked away in the mountains has been a home to Buddhist monks since the 10th century.",
+      "options": {
+        "option": [
+          {
+            "definition": "修道院（僧侣居住的宗教场所）",
+            "iscorrect": true
+          },
+          {
+            "definition": "货币机构（如银行或财政部）",
+            "iscorrect": false
+          },
+          {
+            "definition": "单一的住宅（供一人居住的房子）",
+            "iscorrect": false
+          },
+          {
+            "definition": "怪物的巢穴（传说中怪物居住的地方）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

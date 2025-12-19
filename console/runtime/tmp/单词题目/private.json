@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "private",
+      "error_analysis": "学生易因形近词\"privilege\"（特权）产生错误联想，将\"private\"误判为\"特权的\"，或通过词根\"priv-\"错误推导为\"优先的\"",
+      "sentence": "Many entrepreneurs prefer starting a **private** business over joining a state-owned enterprise.",
+      "options": {
+        "option": [
+          {
+            "definition": "私人的；私营的",
+            "iscorrect": true
+          },
+          {
+            "definition": "特权的；优惠的",
+            "iscorrect": false
+          },
+          {
+            "definition": "优先的；在前的",
+            "iscorrect": false
+          },
+          {
+            "definition": "公共的；公开的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

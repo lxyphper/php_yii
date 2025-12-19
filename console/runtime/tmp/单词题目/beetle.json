@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "beetle",
+      "error_analysis": "中国学生易因形近词\"beet\"(甜菜)误判为\"甜菜根\"，或拆词\"bee\"(蜜蜂)误判为\"蜜蜂幼虫\"",
+      "sentence": "While gardening, I found a shiny black **beetle** crawling on the rose bush.",
+      "options": {
+        "option": [
+          {
+            "definition": "甲虫",
+            "iscorrect": true
+          },
+          {
+            "definition": "甜菜根",
+            "iscorrect": false
+          },
+          {
+            "definition": "蜜蜂幼虫",
+            "iscorrect": false
+          },
+          {
+            "definition": "蝴蝶",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

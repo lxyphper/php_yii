@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stately",
+      "error_analysis": "学生易因形近词\"state\"（国家）误判为\"与国家有关的\"，或因词根\"state\"（站立）误理解为\"直立的\"",
+      "sentence": "The **stately** palace, with its tall columns and golden domes, impressed all the visitors with its grandeur.",
+      "options": {
+        "option": [
+          {
+            "definition": "与国家有关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "直立的",
+            "iscorrect": false
+          },
+          {
+            "definition": "宏伟庄严的",
+            "iscorrect": true
+          },
+          {
+            "definition": "安静的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

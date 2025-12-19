@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "front end",
+      "error_analysis": "学生易因字面含义（前面的末端）误导，将其理解为物理上的前端而非软件/系统的用户界面部分",
+      "sentence": "The company is hiring a developer to improve the **front end** of its e-commerce website, making it more user-friendly.",
+      "options": {
+        "option": [
+          {
+            "definition": "（软件或系统的）前端（用户界面部分）",
+            "iscorrect": true
+          },
+          {
+            "definition": "物理物体的前端（如汽车的前部）",
+            "iscorrect": false
+          },
+          {
+            "definition": "前面的结束部分（如队列的最前端终点）",
+            "iscorrect": false
+          },
+          {
+            "definition": "前沿边界（如国家的边境）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

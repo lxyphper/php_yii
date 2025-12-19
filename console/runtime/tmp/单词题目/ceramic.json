@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ceramic",
+      "error_analysis": "学生易因形近词“ceremony”（仪式）而将“ceramic”误理解为与“仪式的”或“正式的”相关的含义",
+      "sentence": "Our new kitchen tiles are made of **ceramic**, which is durable and easy to clean.",
+      "options": {
+        "option": [
+          {
+            "definition": "陶瓷的；陶器的",
+            "iscorrect": true
+          },
+          {
+            "definition": "仪式的；正式的",
+            "iscorrect": false
+          },
+          {
+            "definition": "蜡制的；蜡质的",
+            "iscorrect": false
+          },
+          {
+            "definition": "金属的；合金的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

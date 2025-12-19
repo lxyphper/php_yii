@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to sup",
+      "error_analysis": "中国学生易因\"sup\"与发音相同的\"soup\"（汤）混淆，误将动词\"sup\"理解为名词\"汤\"，或因形近联想\"support\"（支持）产生错误。",
+      "sentence": "In the novel, the characters would often **sup** on warm porridge by the fire before bedtime.",
+      "options": {
+        "option": [
+          {
+            "definition": "汤（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "支持",
+            "iscorrect": false
+          },
+          {
+            "definition": "（旧词/文学用法）吃晚饭；喝（汤、粥等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "假设",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

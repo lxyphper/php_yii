@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "semiannually",
+      "error_analysis": "学生易忽略前缀semi-（半）将semiannually误判为“每年一次”，或混淆semi-与bi-（两）而误判为“每两年一次”",
+      "sentence": "The company holds its general meeting **semiannually**, usually in June and December.",
+      "options": {
+        "option": [
+          {
+            "definition": "每半年一次地",
+            "iscorrect": true
+          },
+          {
+            "definition": "每年一次地",
+            "iscorrect": false
+          },
+          {
+            "definition": "每两年一次地",
+            "iscorrect": false
+          },
+          {
+            "definition": "每季度一次地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "clergy",
+      "error_analysis": "中国学生易因形近词\"clerk\"(职员)或词根\"cleric\"的不熟悉，将\"clergy\"误解为\"职员\"或\"学者\"",
+      "sentence": "The **clergy** of the local church will lead the wedding ceremony this weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "职员",
+            "iscorrect": false
+          },
+          {
+            "definition": "神职人员（集合名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "学者",
+            "iscorrect": false
+          },
+          {
+            "definition": "教堂",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

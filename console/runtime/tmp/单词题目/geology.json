@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "geology",
+      "error_analysis": "学生易因形近词geometry（几何）或词根误导（将geo-+logy错误联想为地理）混淆词义",
+      "sentence": "The study of rocks, minerals, and the Earth's structure is a key focus of **geology**.",
+      "options": {
+        "option": [
+          {
+            "definition": "地质学",
+            "iscorrect": true
+          },
+          {
+            "definition": "几何学",
+            "iscorrect": false
+          },
+          {
+            "definition": "地理学",
+            "iscorrect": false
+          },
+          {
+            "definition": "生态学",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cortisol",
+      "error_analysis": "易因形近词“corridor”（走廊）混淆，或因词根“cortex”（皮层）误猜为“皮层组织”等无关义。",
+      "sentence": "High levels of **cortisol** in the body, often triggered by chronic stress, can disrupt sleep and increase fatigue.",
+      "options": {
+        "option": [
+          {
+            "definition": "走廊（corridor的常见误写）",
+            "iscorrect": false
+          },
+          {
+            "definition": "皮层组织（词根“cortex”的错误推导）",
+            "iscorrect": false
+          },
+          {
+            "definition": "溶液试剂（后缀“-sol”的主观臆测）",
+            "iscorrect": false
+          },
+          {
+            "definition": "皮质醇（一种由压力引发的激素）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

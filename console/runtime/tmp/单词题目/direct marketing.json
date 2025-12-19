@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "direct marketing",
+      "error_analysis": "学生易因\"direct\"与\"digital\"形近混淆为\"数字营销\"，或因字面义误将其理解为\"面对面直销\"。",
+      "sentence": "To boost product sales, the brand used **direct marketing** by sending customized text messages to people who had previously visited their website.",
+      "options": {
+        "option": [
+          {
+            "definition": "直接营销（通过邮件、短信等直接联系潜在客户的营销方式）",
+            "iscorrect": true
+          },
+          {
+            "definition": "数字营销（通过互联网、社交媒体等数字渠道进行的营销）",
+            "iscorrect": false
+          },
+          {
+            "definition": "直销（销售人员面对面直接向客户推销产品的方式）",
+            "iscorrect": false
+          },
+          {
+            "definition": "市场调研（收集消费者需求和市场趋势的活动）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

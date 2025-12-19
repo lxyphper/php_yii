@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "haiku",
+      "error_analysis": "学生易因形近词\"hike\"（徒步）或短词结构，将\"haiku\"误猜为\"徒步活动\"或\"小工具\"",
+      "sentence": "The poet composed a **haiku** about cherry blossoms, capturing the beauty of spring in just three lines.",
+      "options": {
+        "option": [
+          {
+            "definition": "俳句（日本的三行短诗）",
+            "iscorrect": true
+          },
+          {
+            "definition": "一种徒步旅行活动",
+            "iscorrect": false
+          },
+          {
+            "definition": "一种日本的小工具",
+            "iscorrect": false
+          },
+          {
+            "definition": "一种传统日本舞蹈",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

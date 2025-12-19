@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "decimal",
+      "error_analysis": "学生易因形近词'dental'(牙齿的)混淆，或因词根'dec-'(十)误猜为'十年的'而非'小数的/十进制的'。",
+      "sentence": "In mathematics, the **decimal** system uses ten digits (0-9) to represent numbers, and fractions like 1/2 are written as 0.5 with a **decimal** point.",
+      "options": {
+        "option": [
+          {
+            "definition": "十进制的；小数的",
+            "iscorrect": true
+          },
+          {
+            "definition": "牙齿的",
+            "iscorrect": false
+          },
+          {
+            "definition": "十年的",
+            "iscorrect": false
+          },
+          {
+            "definition": "下降的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

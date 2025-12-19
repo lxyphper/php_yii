@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "thudding",
+      "error_analysis": "学生易因形近词\"thundering\"(雷鸣)或\"studding\"(钉钉子)混淆，将\"thudding\"误判为\"雷鸣般的声音\"或\"钉钉子的声音\"",
+      "sentence": "The box slipped from his hands and hit the floor, **thudding** loudly enough to wake the baby.",
+      "options": {
+        "option": [
+          {
+            "definition": "发出沉闷的撞击声",
+            "iscorrect": true
+          },
+          {
+            "definition": "雷鸣般的声音",
+            "iscorrect": false
+          },
+          {
+            "definition": "钉钉子的声音",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速移动的声音",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

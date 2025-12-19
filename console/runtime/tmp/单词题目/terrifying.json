@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "terrifying",
+      "error_analysis": "易混淆形近词\"terrific\"(极好的)，或误将词根\"terr-\"联想为\"领土\"(territory)相关",
+      "sentence": "The sound of heavy footsteps coming from the dark, empty corridor was so **terrifying** that she couldn't move a muscle.",
+      "options": {
+        "option": [
+          {
+            "definition": "极好的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人恐惧的",
+            "iscorrect": true
+          },
+          {
+            "definition": "属于领土的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人困惑的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

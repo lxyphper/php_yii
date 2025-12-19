@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to gripe",
+      "error_analysis": "学生易因形近词\"grip\"(抓住)或\"grope\"(摸索)误解\"to gripe\"为\"抓住\"或\"摸索\"",
+      "sentence": "My dad always **gripes** about how expensive groceries are these days.",
+      "options": {
+        "option": [
+          {
+            "definition": "抱怨；发牢骚",
+            "iscorrect": true
+          },
+          {
+            "definition": "抓住；紧握",
+            "iscorrect": false
+          },
+          {
+            "definition": "摸索；搜寻",
+            "iscorrect": false
+          },
+          {
+            "definition": "担心；忧虑",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

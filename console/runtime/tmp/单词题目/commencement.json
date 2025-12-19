@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "commencement",
+      "error_analysis": "学生易因形近词（如comment/commerce）或词根过度推导（仅认为是“开始”）而误判其核心义“毕业典礼”。",
+      "sentence": "The university will hold its annual **commencement** this weekend, where graduates will receive their diplomas.",
+      "options": {
+        "option": [
+          {
+            "definition": "毕业典礼",
+            "iscorrect": true
+          },
+          {
+            "definition": "评论",
+            "iscorrect": false
+          },
+          {
+            "definition": "开始（一般动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "商业活动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "breast",
+      "error_analysis": "中国学生易将\"breast\"与形近词\"bread\"（面包）或\"break\"（打破）混淆，误判为\"面包\"或\"破裂\"。",
+      "sentence": "The mother gently held the crying baby against her **breast** to soothe him.",
+      "options": {
+        "option": [
+          {
+            "definition": "胸部；乳房",
+            "iscorrect": true
+          },
+          {
+            "definition": "面包",
+            "iscorrect": false
+          },
+          {
+            "definition": "打破；破裂",
+            "iscorrect": false
+          },
+          {
+            "definition": "野兽",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "delirious",
+      "error_analysis": "最核心易错点是形近词\"delicious\"（美味的）的干扰，及词根不熟悉导致与\"删除\"或\"物理混乱\"相关的错误联想。",
+      "sentence": "After the high fever, the child became **delirious** and started talking nonsense.",
+      "options": {
+        "option": [
+          {
+            "definition": "美味的",
+            "iscorrect": false
+          },
+          {
+            "definition": "神志不清的；发狂的",
+            "iscorrect": true
+          },
+          {
+            "definition": "删除的；被消除的",
+            "iscorrect": false
+          },
+          {
+            "definition": "杂乱无章的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

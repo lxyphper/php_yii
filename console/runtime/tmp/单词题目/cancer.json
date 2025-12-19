@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cancer",
+      "error_analysis": "学生易因形近词\"cancel\"(取消)或\"candle\"(蜡烛)的拼写相似而误判词义",
+      "sentence": "Doctors are trying their best to develop new treatments for **cancer**, a life-threatening disease that spreads quickly in the body.",
+      "options": {
+        "option": [
+          {
+            "definition": "癌症",
+            "iscorrect": true
+          },
+          {
+            "definition": "取消",
+            "iscorrect": false
+          },
+          {
+            "definition": "蜡烛",
+            "iscorrect": false
+          },
+          {
+            "definition": "糖果",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

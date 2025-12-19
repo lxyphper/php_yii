@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to stir",
+      "error_analysis": "学生易因形近将‘stir’误联想为‘stair’（楼梯），或因拼写/发音相似误以为是‘start’（开始）。",
+      "sentence": "The cook asked me to **stir** the sauce gently while she chopped the vegetables.",
+      "options": {
+        "option": [
+          {
+            "definition": "搅拌",
+            "iscorrect": true
+          },
+          {
+            "definition": "楼梯",
+            "iscorrect": false
+          },
+          {
+            "definition": "开始",
+            "iscorrect": false
+          },
+          {
+            "definition": "粘住",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

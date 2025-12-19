@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "software",
+      "error_analysis": "学生易将\"software\"拆分为\"soft\"(柔软的)+\"ware\"(器皿)，错误联想为\"软质器皿\"或\"柔软的物品\"（词根/字面误导）",
+      "sentence": "To edit videos on your computer, you need to install the latest **software** from the official website.",
+      "options": {
+        "option": [
+          {
+            "definition": "软件（计算机程序及相关数据的总称）",
+            "iscorrect": true
+          },
+          {
+            "definition": "软质器皿（如柔软的塑料容器或陶瓷制品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "柔软的织物（如棉质T恤或毛绒围巾）",
+            "iscorrect": false
+          },
+          {
+            "definition": "硬件设备（如电脑主机或手机屏幕等物理部件）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

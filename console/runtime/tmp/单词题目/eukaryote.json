@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "eukaryote",
+      "error_analysis": "学生易因形近词\"eucalyptus\"(桉树)产生联想,或误将词根\"eu-\"理解为\"欧洲的\"而猜测词义",
+      "sentence": "Unlike prokaryotes, a **eukaryote** has a distinct nucleus enclosed by a membrane, which is a key feature of animals, plants, and fungi.",
+      "options": {
+        "option": [
+          {
+            "definition": "真核生物（具有核膜包裹细胞核的生物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "桉树（一种原产于澳大利亚的常绿乔木）",
+            "iscorrect": false
+          },
+          {
+            "definition": "欧洲原产的生物（如欧洲野兔、欧洲赤松等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "原核生物（无核膜包裹细胞核的生物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

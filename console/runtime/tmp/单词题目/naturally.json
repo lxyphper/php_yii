@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "naturally",
+      "error_analysis": "学生易因形近词“natively”（本土地）混淆，或词根“natural”（自然的）过度直译，将“naturally”误解为“本土地”或“自然的”（形容词）。",
+      "sentence": "The child smiled **naturally** when she saw her mother, no trace of shyness on her face.",
+      "options": {
+        "option": [
+          {
+            "definition": "自然地（不做作地）",
+            "iscorrect": true
+          },
+          {
+            "definition": "本土地（母语般地）",
+            "iscorrect": false
+          },
+          {
+            "definition": "自然的（形容词，指属性）",
+            "iscorrect": false
+          },
+          {
+            "definition": "天生地（指天赋或本能）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

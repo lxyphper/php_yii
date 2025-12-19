@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "witness",
+      "error_analysis": "学生易因\"wit\"（智慧）的词根联想将\"witness\"误解为\"智慧的人\"，或因形近词\"write\"（写）混淆为\"写作者\"",
+      "sentence": "The police asked if anyone had been a **witness** to the robbery at the bank.",
+      "options": {
+        "option": [
+          {
+            "definition": "智慧的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "写作者",
+            "iscorrect": false
+          },
+          {
+            "definition": "证明文件",
+            "iscorrect": false
+          },
+          {
+            "definition": "证人；目击者",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

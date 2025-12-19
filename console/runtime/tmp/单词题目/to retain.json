@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to retain",
+      "error_analysis": "中国学生易因形近词'remain'（不及物动词，留下）混淆，或因词根're-'（回）+'tain'（持有）误判为'收回'。",
+      "sentence": "To do well in the exam, it's important to **retain** the key points from each chapter.",
+      "options": {
+        "option": [
+          {
+            "definition": "保留；保持（及物动词，后跟宾语，如\"保留信息\"）",
+            "iscorrect": true
+          },
+          {
+            "definition": "留下；保持（不及物动词，如\"remain silent\"）",
+            "iscorrect": false
+          },
+          {
+            "definition": "收回；取回（如\"收回借款\"）",
+            "iscorrect": false
+          },
+          {
+            "definition": "抑制；约束（如\"restrain one's anger\"）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

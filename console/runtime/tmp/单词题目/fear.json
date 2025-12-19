@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fear",
+      "error_analysis": "学生易因形近词\"feel\"（感觉）或\"fare\"（费用）的干扰，将\"fear\"误判为\"感觉\"或\"费用\"",
+      "sentence": "The little girl clung to her mom’s arm, her eyes showing clear **fear** of the thunderstorm outside.",
+      "options": {
+        "option": [
+          {
+            "definition": "恐惧；害怕",
+            "iscorrect": true
+          },
+          {
+            "definition": "感觉；感受",
+            "iscorrect": false
+          },
+          {
+            "definition": "费用；车费",
+            "iscorrect": false
+          },
+          {
+            "definition": "熊；忍受",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

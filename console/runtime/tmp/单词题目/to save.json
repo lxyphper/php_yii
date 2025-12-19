@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to save",
+      "error_analysis": "学生易将“to save”与形近词“to say”（说）混淆，或因“save”与“safe”（安全）的关联误判为“保持安全”。",
+      "sentence": "The lifeguard rushed **to save** the boy who fell into the river.",
+      "options": {
+        "option": [
+          {
+            "definition": "说",
+            "iscorrect": false
+          },
+          {
+            "definition": "服务",
+            "iscorrect": false
+          },
+          {
+            "definition": "拯救",
+            "iscorrect": true
+          },
+          {
+            "definition": "保持安全",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

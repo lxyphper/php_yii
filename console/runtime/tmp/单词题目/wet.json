@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wet",
+      "error_analysis": "学生易因形近词“wait”（等待）或“west”（西方）产生错误联想，或误将“wet”理解为名词“水”而非形容词“潮湿的”",
+      "sentence": "Don’t sit on the grass—it’s still **wet** from the rain.",
+      "options": {
+        "option": [
+          {
+            "definition": "潮湿的",
+            "iscorrect": true
+          },
+          {
+            "definition": "等待的",
+            "iscorrect": false
+          },
+          {
+            "definition": "西方的",
+            "iscorrect": false
+          },
+          {
+            "definition": "水（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

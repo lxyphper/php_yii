@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "flaming",
+      "error_analysis": "学生易因\"flame\"（火焰）的字面义误导，将\"flaming\"仅理解为\"燃烧的\"，忽略其比喻义\"激烈的/强烈的\"。",
+      "sentence": "The discussion turned into a **flaming** argument when they disagreed on the budget.",
+      "options": {
+        "option": [
+          {
+            "definition": "激烈的；强烈的",
+            "iscorrect": true
+          },
+          {
+            "definition": "燃烧的；火焰般的",
+            "iscorrect": false
+          },
+          {
+            "definition": "出名的；引人注目的",
+            "iscorrect": false
+          },
+          {
+            "definition": "非常的；极度的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

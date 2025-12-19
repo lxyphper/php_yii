@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to bleed",
+      "error_analysis": "中国学生易因形近词“blend”（混合）或“breed”（繁殖）的拼写干扰，将“to bleed”误判为这些词的含义",
+      "sentence": "After he fell off his bike, his knee started to **bleed** heavily.",
+      "options": {
+        "option": [
+          {
+            "definition": "流血；出血",
+            "iscorrect": true
+          },
+          {
+            "definition": "混合；融合",
+            "iscorrect": false
+          },
+          {
+            "definition": "繁殖；培育",
+            "iscorrect": false
+          },
+          {
+            "definition": "祝福；保佑",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

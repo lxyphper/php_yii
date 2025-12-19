@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "internally displaced person",
+      "error_analysis": "学生易因形近词\"international\"将\"internally\"误判为\"国际的\"，或因\"displaced\"字面义将其误解为\"内部被取代的人\"。",
+      "sentence": "Due to the ongoing conflict in the northern province, thousands of **internally displaced persons** have arrived in the capital with nothing but their clothes.",
+      "options": {
+        "option": [
+          {
+            "definition": "国际流离失所者",
+            "iscorrect": false
+          },
+          {
+            "definition": "国内流离失所者",
+            "iscorrect": true
+          },
+          {
+            "definition": "内部被取代的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "国内合法移民",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

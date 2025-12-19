@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "prognosis",
+      "error_analysis": "学生易因形近词progress（进步）或词根pro-（提前）+gnosis（知识）误导，将其误判为“进步”或“一般预测”，而非医学上的“预后”。",
+      "sentence": "After reviewing the MRI scans, the oncologist told the patient that the **prognosis** for her cancer was more positive than initially expected.",
+      "options": {
+        "option": [
+          {
+            "definition": "（疾病的）预后；预后情况",
+            "iscorrect": true
+          },
+          {
+            "definition": "进步；进展",
+            "iscorrect": false
+          },
+          {
+            "definition": "一般的预测；预知",
+            "iscorrect": false
+          },
+          {
+            "definition": "诊断；判断",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

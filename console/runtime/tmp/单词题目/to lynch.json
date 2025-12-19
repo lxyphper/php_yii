@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to lynch",
+      "error_analysis": "学生易因形近词“launch”（发射、发起）混淆，或误将“lynch”与“link”（连接）联系导致理解错误",
+      "sentence": "In the old days, some mobs would **lynch** people they accused of crimes without a fair trial.",
+      "options": {
+        "option": [
+          {
+            "definition": "未经法律审判私刑处死（尤指绞死）",
+            "iscorrect": true
+          },
+          {
+            "definition": "发射；发起（计划、活动等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "连接；联系",
+            "iscorrect": false
+          },
+          {
+            "definition": "延迟；拖延",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

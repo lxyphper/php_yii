@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "extended play",
+      "error_analysis": "将\"extended play\"字面理解为\"延长的播放\"或\"扩展的戏剧\"，忽略其作为音乐术语的特定含义（迷你专辑）",
+      "sentence": "The new artist released an **extended play** featuring five tracks, which is shorter than a full album but longer than a single.",
+      "options": {
+        "option": [
+          {
+            "definition": "（音乐）迷你专辑",
+            "iscorrect": true
+          },
+          {
+            "definition": "延长的播放时间",
+            "iscorrect": false
+          },
+          {
+            "definition": "扩展的戏剧表演",
+            "iscorrect": false
+          },
+          {
+            "definition": "增强的游戏功能",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

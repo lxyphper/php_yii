@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "crude",
+      "error_analysis": "学生易因形近词“rude”（粗鲁的）将“crude”误理解为“粗鲁的”，或因词根“生的”误联想为“原始的”。",
+      "sentence": "The factory turns **crude** oil into gasoline and other useful products.",
+      "options": {
+        "option": [
+          {
+            "definition": "未加工的；粗糙的",
+            "iscorrect": true
+          },
+          {
+            "definition": "粗鲁的；无礼的",
+            "iscorrect": false
+          },
+          {
+            "definition": "原始的；古老的",
+            "iscorrect": false
+          },
+          {
+            "definition": "粗俗的；低级的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

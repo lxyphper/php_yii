@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "salvage",
+      "error_analysis": "形近词\"savage\"（野蛮的）导致误解，或词根猜测错误（如误以为是\"保存\"而非\"从灾难中拯救\"）",
+      "sentence": "After the shipwreck, the crew tried to **salvage** as much cargo as possible before the storm hit again.",
+      "options": {
+        "option": [
+          {
+            "definition": "抢救；打捞",
+            "iscorrect": true
+          },
+          {
+            "definition": "野蛮的；残暴的",
+            "iscorrect": false
+          },
+          {
+            "definition": "保存；保留",
+            "iscorrect": false
+          },
+          {
+            "definition": "支付（工资）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

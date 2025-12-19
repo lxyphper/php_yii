@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unknown",
+      "error_analysis": "学生可能因“known”的“著名的”义项将“unknown”误解为“不著名的”（词根误导），或因形近词“unusual”干扰误解为“不寻常的”（形近干扰）",
+      "sentence": "The exact date of the ancient temple's construction remains **unknown** to historians.",
+      "options": {
+        "option": [
+          {
+            "definition": "不寻常的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不著名的",
+            "iscorrect": false
+          },
+          {
+            "definition": "未解决的",
+            "iscorrect": false
+          },
+          {
+            "definition": "未知的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

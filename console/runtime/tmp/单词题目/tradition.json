@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tradition",
+      "error_analysis": "学生易因形近词“trade”（贸易）产生联想，或因词根“trad-”（传递）过度推导而误解词义。",
+      "sentence": "The village has kept a 200-year-old **tradition** of dancing around the bonfire on Christmas Eve.",
+      "options": {
+        "option": [
+          {
+            "definition": "传统（长期保留的习俗或信仰）",
+            "iscorrect": true
+          },
+          {
+            "definition": "贸易（商品交换的活动）",
+            "iscorrect": false
+          },
+          {
+            "definition": "传输（信息或物品的传递过程）",
+            "iscorrect": false
+          },
+          {
+            "definition": "习惯（个人经常重复的行为）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

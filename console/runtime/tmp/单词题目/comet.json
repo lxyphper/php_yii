@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "comet",
+      "error_analysis": "学生易因形近词\"comment\"（评论）混淆，或因拼写含\"come\"猜测为\"到来的事物\"",
+      "sentence": "Scientists observed a bright **comet** with a long tail passing near Earth last month.",
+      "options": {
+        "option": [
+          {
+            "definition": "彗星",
+            "iscorrect": true
+          },
+          {
+            "definition": "评论",
+            "iscorrect": false
+          },
+          {
+            "definition": "到来的事物",
+            "iscorrect": false
+          },
+          {
+            "definition": "流星",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

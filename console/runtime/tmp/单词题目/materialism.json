@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "materialism",
+      "error_analysis": "学生易因形近词\"material\"（材料）误解为\"材料学\"，或因词根\"material\"（物质的）+\"-ism\"（主义）误判为\"物质的状态\"。",
+      "sentence": "Many people criticize modern society for its excessive **materialism**, where success is often measured by the amount of wealth and possessions one has.",
+      "options": {
+        "option": [
+          {
+            "definition": "物质主义（追求物质财富为核心的价值观）",
+            "iscorrect": true
+          },
+          {
+            "definition": "材料学（研究材料性质与应用的学科）",
+            "iscorrect": false
+          },
+          {
+            "definition": "物质的状态或属性（如固体、液体等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "材料的使用与管理（如建筑材料的调配）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

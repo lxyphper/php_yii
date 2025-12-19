@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "office",
+      "error_analysis": "易因形近词\"officer\"误判为\"官员\"，或因\"ice\"字面拆分误联想为\"冰块\"",
+      "sentence": "She works in an **office** downtown, where she handles customer emails every day.",
+      "options": {
+        "option": [
+          {
+            "definition": "办公室",
+            "iscorrect": true
+          },
+          {
+            "definition": "官员",
+            "iscorrect": false
+          },
+          {
+            "definition": "冰块",
+            "iscorrect": false
+          },
+          {
+            "definition": "职务",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

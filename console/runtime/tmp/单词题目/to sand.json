@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to sand",
+      "error_analysis": "学生易将动词“to sand”误解为“撒沙子”（名词“sand”的动化错误）或“用沙子覆盖”（字面误导），而非“用砂纸打磨”。",
+      "sentence": "The carpenter told me to **sand** the shelf carefully to make it smooth before staining.",
+      "options": {
+        "option": [
+          {
+            "definition": "撒沙子在（表面）",
+            "iscorrect": false
+          },
+          {
+            "definition": "用砂纸打磨（使光滑）",
+            "iscorrect": true
+          },
+          {
+            "definition": "用沙子覆盖（某物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "发送沙子给（某人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

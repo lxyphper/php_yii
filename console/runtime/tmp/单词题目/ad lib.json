@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ad lib",
+      "error_analysis": "学生易将\"ad lib\"拆分为\"ad\"（广告）和\"lib\"（自由/图书馆），误解为\"广告自由\"或\"添加图书馆\"，忽略其\"即兴表演/说话\"的核心义。",
+      "sentence": "During the comedy show, the actor decided to **ad lib** a few lines when he forgot his script.",
+      "options": {
+        "option": [
+          {
+            "definition": "即兴地（表演或说话）",
+            "iscorrect": true
+          },
+          {
+            "definition": "广告自由",
+            "iscorrect": false
+          },
+          {
+            "definition": "添加图书馆",
+            "iscorrect": false
+          },
+          {
+            "definition": "自由发表",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

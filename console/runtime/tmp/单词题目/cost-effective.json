@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cost-effective",
+      "error_analysis": "学生易因字面直译将\"cost-effective\"误解为\"成本有效的\"（生硬），或混淆\"cost\"的负面联想（如\"昂贵的\"）。",
+      "sentence": "Buying a reusable water bottle is more **cost-effective** than buying single-use plastic ones every week.",
+      "options": {
+        "option": [
+          {
+            "definition": "划算的；性价比高的",
+            "iscorrect": true
+          },
+          {
+            "definition": "昂贵的；代价高的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有效果的；有效的",
+            "iscorrect": false
+          },
+          {
+            "definition": "节省时间的；高效的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

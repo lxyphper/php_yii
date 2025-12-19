@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "proactive",
+      "error_analysis": "学生易因形近词\"productive\"（多产的）混淆，或因\"pro-\"前缀+ \"active\"过度直译为\"提前活跃\"，忽略\"主动解决问题\"的核心义。",
+      "sentence": "Instead of waiting for customer complaints, the restaurant took a **proactive** measure to train staff on better service.",
+      "options": {
+        "option": [
+          {
+            "definition": "主动的；积极采取行动解决问题的",
+            "iscorrect": true
+          },
+          {
+            "definition": "多产的；有生产力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "提前活跃的；更活跃的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有反应的；被动的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,1214 @@
+{
+  "oncoming": {
+    "wordcardheader": {
+      "word": "oncoming",
+      "ukipa": "/ˈɒnkʌmɪŋ/",
+      "usipa": "/ˈɑːnkʌmɪŋ/",
+      "pronunciationpal": "ON-kum-ing (重音在第一个音节“ON”上，想象它迎面扑来！)",
+      "register": "通用 (General)",
+      "ieltsscene": "交通描述、未来趋势、事件预警"
+    },
+    "coremeanings": {
+      "isieltscommon": true,
+      "pos": "adj.",
+      "englishdefinition": "approaching or moving towards one; coming into view.",
+      "chinesetranslation": "即将来临的；迎面而来的；(车流等) 对面来的"
+    },
+    "aimemo": {
+      "onesentencememo": "想象你走在路上，突然看到一个“ON”键正在“coming”过来，那不就是 **oncoming** (昂卡oming) 吗？感觉有大事要发生！"
+    },
+    "contextualapplication": {
+      "basicsentence": {
+        "sentence": "Be careful when crossing the road, always check for **oncoming** traffic.",
+        "translation": "过马路时要小心，务必留意**迎面而来**的车辆。",
+        "options": [
+          {
+            "optionletter": "A",
+            "word": "outgoing",
+            "pos": "adj.",
+            "definition": "外向的；离开的"
+          },
+          {
+            "optionletter": "B",
+            "word": "oncoming",
+            "pos": "adj.",
+            "definition": "即将来临的；迎面而来的"
+          },
+          {
+            "optionletter": "C",
+            "word": "overcoming",
+            "pos": "v.",
+            "definition": "克服"
+          },
+          {
+            "optionletter": "D",
+            "word": "outcome",
+            "pos": "n.",
+            "definition": "结果"
+          }
+        ],
+        "correctanswer": "B"
+      },
+      "scenariodialogue": {
+        "speakera": "Did you hear about the new economic policy?",
+        "speakerb": "Yes, I'm a bit worried about the **oncoming** challenges it might bring.",
+        "translation": {
+          "speakera": "你听说新的经济政策了吗？",
+          "speakerb": "听说了，我有点担心它可能带来的**即将来临的**挑战。"
+        }
+      }
+    },
+    "quickquiz": {
+      "multiplechoice": [
+        {
+          "questionsentence": "Drivers must be alert for oncoming vehicles, especially on narrow roads.",
+          "sentencetranslation": "司机必须警惕迎面而来的车辆，尤其是在狭窄的道路上。",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "outgoing",
+              "pos": "adj.",
+              "definition": "外向的"
+            },
+            {
+              "optionletter": "B",
+              "word": "oncoming",
+              "pos": "adj.",
+              "definition": "迎面而来的"
+            },
+            {
+              "optionletter": "C",
+              "word": "overcoming",
+              "pos": "v.",
+              "definition": "克服"
+            },
+            {
+              "optionletter": "D",
+              "word": "offcoming",
+              "pos": "adj.",
+              "definition": "（非标准词）"
+            }
+          ],
+          "correctanswer": "B"
+        },
+        {
+          "questionsentence": "The weather forecast predicts an oncoming storm by the end of the week.",
+          "sentencetranslation": "天气预报预测本周末将有暴风雨即将来临。",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "outgoing",
+              "pos": "adj.",
+              "definition": "离开的"
+            },
+            {
+              "optionletter": "B",
+              "word": "oncoming",
+              "pos": "adj.",
+              "definition": "即将来临的"
+            },
+            {
+              "optionletter": "C",
+              "word": "overcoming",
+              "pos": "v.",
+              "definition": "战胜"
+            },
+            {
+              "optionletter": "D",
+              "word": "ongoing",
+              "pos": "adj.",
+              "definition": "正在进行的"
+            }
+          ],
+          "correctanswer": "B"
+        },
+        {
+          "questionsentence": "She quickly swerved to avoid an oncoming car.",
+          "sentencetranslation": "她迅速转向以避开一辆迎面而来的汽车。",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "oncoming",
+              "pos": "adj.",
+              "definition": "迎面而来的"
+            },
+            {
+              "optionletter": "B",
+              "word": "departing",
+              "pos": "adj.",
+              "definition": "出发的"
+            },
+            {
+              "optionletter": "C",
+              "word": "stationary",
+              "pos": "adj.",
+              "definition": "静止的"
+            },
+            {
+              "optionletter": "D",
+              "word": "parallel",
+              "pos": "adj.",
+              "definition": "平行的"
+            }
+          ],
+          "correctanswer": "A"
+        },
+        {
+          "questionsentence": "The company is bracing itself for the oncoming economic downturn.",
+          "sentencetranslation": "公司正在为即将来临的经济衰退做准备。",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "retreating",
+              "pos": "adj.",
+              "definition": "后退的"
+            },
+            {
+              "optionletter": "B",
+              "word": "past",
+              "pos": "adj.",
+              "definition": "过去的"
+            },
+            {
+              "optionletter": "C",
+              "word": "oncoming",
+              "pos": "adj.",
+              "definition": "即将来临的"
+            },
+            {
+              "optionletter": "D",
+              "word": "completed",
+              "pos": "adj.",
+              "definition": "已完成的"
+            }
+          ],
+          "correctanswer": "C"
+        },
+        {
+          "questionsentence": "Pedestrians should always yield to oncoming traffic at intersections.",
+          "sentencetranslation": "行人在交叉路口应始终让行迎面而来的车辆。",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "outgoing",
+              "pos": "adj.",
+              "definition": "驶离的"
+            },
+            {
+              "optionletter": "B",
+              "word": "oncoming",
+              "pos": "adj.",
+              "definition": "迎面而来的"
+            },
+            {
+              "optionletter": "C",
+              "word": "stopped",
+              "pos": "adj.",
+              "definition": "停下的"
+            },
+            {
+              "optionletter": "D",
+              "word": "receding",
+              "pos": "adj.",
+              "definition": "后退的"
+            }
+          ],
+          "correctanswer": "B"
+        }
+      ],
+      "fillintheblank": [
+        {
+          "questionsentence": "Drivers should always be alert for ______ vehicles.",
+          "sentencetranslation": "司机应始终警惕迎面而来的车辆。",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "outgoing",
+              "pos": "adj.",
+              "definition": "驶离的"
+            },
+            {
+              "optionletter": "B",
+              "word": "oncoming",
+              "pos": "adj.",
+              "definition": "迎面而来的"
+            },
+            {
+              "optionletter": "C",
+              "word": "overcoming",
+              "pos": "v.",
+              "definition": "克服"
+            }
+          ],
+          "correctanswer": "B"
+        },
+        {
+          "questionsentence": "We need to prepare for the ______ winter, which is predicted to be very cold.",
+          "sentencetranslation": "我们需要为即将来临的冬天做准备，据预测会非常寒冷。",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "oncoming",
+              "pos": "adj.",
+              "definition": "即将来临的"
+            },
+            {
+              "optionletter": "B",
+              "word": "past",
+              "pos": "adj.",
+              "definition": "过去的"
+            },
+            {
+              "optionletter": "C",
+              "word": "present",
+              "pos": "adj.",
+              "definition": "现在的"
+            }
+          ],
+          "correctanswer": "A"
+        },
+        {
+          "questionsentence": "The cyclist had to stop quickly to avoid an ______ bus.",
+          "sentencetranslation": "骑自行车的人不得不迅速停下来，以避开一辆迎面而来的公共汽车。",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "ongoing",
+              "pos": "adj.",
+              "definition": "正在进行的"
+            },
+            {
+              "optionletter": "B",
+              "word": "oncoming",
+              "pos": "adj.",
+              "definition": "迎面而来的"
+            },
+            {
+              "optionletter": "C",
+              "word": "outgoing",
+              "pos": "adj.",
+              "definition": "驶离的"
+            }
+          ],
+          "correctanswer": "B"
+        },
+        {
+          "questionsentence": "The city is preparing for an ______ surge in tourism.",
+          "sentencetranslation": "这座城市正在为即将到来的旅游业激增做准备。",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "oncoming",
+              "pos": "adj.",
+              "definition": "即将来临的"
+            },
+            {
+              "optionletter": "B",
+              "word": "departing",
+              "pos": "adj.",
+              "definition": "离开的"
+            },
+            {
+              "optionletter": "C",
+              "word": "receding",
+              "pos": "adj.",
+              "definition": "后退的"
+            }
+          ],
+          "correctanswer": "A"
+        },
+        {
+          "questionsentence": "She looked up to see the ______ headlights in the distance.",
+          "sentencetranslation": "她抬头看到了远处迎面而来的车灯。",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "past",
+              "pos": "adj.",
+              "definition": "过去的"
+            },
+            {
+              "optionletter": "B",
+              "word": "oncoming",
+              "pos": "adj.",
+              "definition": "迎面而来的"
+            },
+            {
+              "optionletter": "C",
+              "word": "stationary",
+              "pos": "adj.",
+              "definition": "静止的"
+            }
+          ],
+          "correctanswer": "B"
+        }
+      ],
+      "listenandchoose": [
+        {
+          "audioprompt": "Watch out for oncoming traffic!",
+          "sentencetranslation": "小心迎面而来的车辆！",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "outgoing",
+              "pos": "adj.",
+              "definition": "离开的"
+            },
+            {
+              "optionletter": "B",
+              "word": "oncoming",
+              "pos": "adj.",
+              "definition": "迎面而来的"
+            },
+            {
+              "optionletter": "C",
+              "word": "overcoming",
+              "pos": "v.",
+              "definition": "克服"
+            },
+            {
+              "optionletter": "D",
+              "word": "ongoing",
+              "pos": "adj.",
+              "definition": "正在进行的"
+            }
+          ],
+          "correctanswer": "B"
+        },
+        {
+          "audioprompt": "The region is preparing for an oncoming cold front.",
+          "sentencetranslation": "该地区正在为即将来临的冷锋做准备。",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "outgoing",
+              "pos": "adj.",
+              "definition": "离开的"
+            },
+            {
+              "optionletter": "B",
+              "word": "oncoming",
+              "pos": "adj.",
+              "definition": "即将来临的"
+            },
+            {
+              "optionletter": "C",
+              "word": "overcoming",
+              "pos": "v.",
+              "definition": "战胜"
+            },
+            {
+              "optionletter": "D",
+              "word": "ongoing",
+              "pos": "adj.",
+              "definition": "正在进行的"
+            }
+          ],
+          "correctanswer": "B"
+        },
+        {
+          "audioprompt": "He had to quickly brake to avoid an oncoming bicycle.",
+          "sentencetranslation": "他不得不迅速刹车以避开一辆迎面而来的自行车。",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "departing",
+              "pos": "adj.",
+              "definition": "离开的"
+            },
+            {
+              "optionletter": "B",
+              "word": "oncoming",
+              "pos": "adj.",
+              "definition": "迎面而来的"
+            },
+            {
+              "optionletter": "C",
+              "word": "stationary",
+              "pos": "adj.",
+              "definition": "静止的"
+            },
+            {
+              "optionletter": "D",
+              "word": "parallel",
+              "pos": "adj.",
+              "definition": "平行的"
+            }
+          ],
+          "correctanswer": "B"
+        },
+        {
+          "audioprompt": "The government is preparing for the oncoming election.",
+          "sentencetranslation": "政府正在为即将到来的选举做准备。",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "retreating",
+              "pos": "adj.",
+              "definition": "后退的"
+            },
+            {
+              "optionletter": "B",
+              "word": "past",
+              "pos": "adj.",
+              "definition": "过去的"
+            },
+            {
+              "optionletter": "C",
+              "word": "oncoming",
+              "pos": "adj.",
+              "definition": "即将来临的"
+            },
+            {
+              "optionletter": "D",
+              "word": "completed",
+              "pos": "adj.",
+              "definition": "已完成的"
+            }
+          ],
+          "correctanswer": "C"
+        },
+        {
+          "audioprompt": "We need to be ready for the oncoming changes in the market.",
+          "sentencetranslation": "我们需要为市场即将到来的变化做好准备。",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "outgoing",
+              "pos": "adj.",
+              "definition": "驶离的"
+            },
+            {
+              "optionletter": "B",
+              "word": "oncoming",
+              "pos": "adj.",
+              "definition": "即将来临的"
+            },
+            {
+              "optionletter": "C",
+              "word": "stopped",
+              "pos": "adj.",
+              "definition": "停下的"
+            },
+            {
+              "optionletter": "D",
+              "word": "receding",
+              "pos": "adj.",
+              "definition": "后退的"
+            }
+          ],
+          "correctanswer": "B"
+        }
+      ],
+      "dictation": [
+        {
+          "audioprompt": "There was heavy oncoming traffic.",
+          "prompttranslation": "有大量迎面而来的车辆。",
+          "correctanswer": "There was heavy oncoming traffic."
+        },
+        {
+          "audioprompt": "Be aware of oncoming trains.",
+          "prompttranslation": "注意即将来临的火车。",
+          "correctanswer": "Be aware of oncoming trains."
+        },
+        {
+          "audioprompt": "The runner quickly dodged the oncoming ball.",
+          "prompttranslation": "跑者迅速躲开了迎面而来的球。",
+          "correctanswer": "The runner quickly dodged the oncoming ball."
+        },
+        {
+          "audioprompt": "The new system will handle the oncoming data efficiently.",
+          "prompttranslation": "新系统将有效地处理即将来临的数据。",
+          "correctanswer": "The new system will handle the oncoming data efficiently."
+        },
+        {
+          "audioprompt": "They are preparing for the oncoming tourist season.",
+          "prompttranslation": "他们正在为即将到来的旅游季做准备。",
+          "correctanswer": "They are preparing for the oncoming tourist season."
+        }
+      ]
+    },
+    "funetymology": {
+      "story": "这个词超直接，就是“on” (在…上面/朝向) 加上 “coming” (到来)。想想一辆车开过来，它是不是“在”你的方向“过来”？所以就是“迎面而来的”！是不是很形象？"
+    },
+    "spellingaid": {
+      "breakdown": "on-com-ing",
+      "mnemonic": "(联想法) 想象一个“On”开关，它一开，什么东西就“Coming”了。一个东西“ON”了并且“COMING”，那不就是**迎面而来**、**即将来临**吗？"
+    },
+    "imageassociation": {
+      "description": "一张图片，主视觉是高速公路上的车流。在图片的中央，一条车道上的汽车正朝着观察者方向驶来，车灯明亮，营造出“迎面而来”的感觉。背景是模糊的远处景物，突出前景的动态。"
+    },
+    "deeplinks": {
+      "wordforms": {
+        "form": "动词 (v.)",
+        "word": "come",
+        "translation": "来"
+      },
+      "collocations": [
+        {
+          "phrase": "oncoming traffic",
+          "translation": "迎面而来的车流"
+        },
+        {
+          "phrase": "oncoming storm",
+          "translation": "即将来临的暴风雨"
+        },
+        {
+          "phrase": "oncoming challenges",
+          "translation": "即将来临的挑战"
+        }
+      ],
+      "synonymanalysis": [
+        {
+          "word": "approaching",
+          "analysis": "与 `oncoming` 意思相近，都表示“正在靠近的”。`Oncoming` 通常特指从正面或前方迎面而来的，尤其用于车辆、交通；`approaching` 更通用，可指从任何方向靠近的，常用于时间、事件等，如 `approaching deadline` (即将到来的截止日期)。"
+        },
+        {
+          "word": "forthcoming",
+          "analysis": "指“即将发生的；现有的”。`Forthcoming` 强调的是在未来某个时间会发生或出现，通常是计划中的或可预见的，比 `oncoming` 更侧重“未来的可预期性”。例如：`forthcoming elections` (即将举行的选举)。"
+        }
+      ],
+      "confusablewordsanalysis": {
+        "word": "ongoing (正在进行的)",
+        "analysis": "`Oncoming` 指“即将来临的”，动作尚未开始或刚刚开始并向你靠近；`ongoing` 指“正在进行的”，动作已经开始并且仍在持续。别搞混啦！“Oncoming car”是车正向你开来，“ongoing project”是项目正在进行中。"
+      },
+      "wordrootfamily": {
+        "root": "come - 来 (to move toward)",
+        "familymembers": [
+          "income",
+          "outcome",
+          "overcome",
+          "welcome"
+        ]
+      }
+    },
+    "commonpitfalls": {
+      "explanation": "`Oncoming` 主要用作形容词，修饰名词，表示“迎面而来的”或“即将来临的”。不要把它和副词混淆，也不要单独使用作名词。",
+      "dontsay": "The storm is **oncoming** soon. (直接作副词)",
+      "dosay": "The **oncoming** storm will arrive soon. (修饰名词)"
+    },
+    "cicitips": [
+      {
+        "type": "口语妙用🗣️",
+        "content": "在雅思口语描述交通或未来规划时，用 `oncoming` 会让你的表达更地道。比如，谈论交通安全可以说 \"Always check for oncoming vehicles before crossing.\"；谈论未来可以说 \"We need to prepare for the oncoming challenges.\""
+      },
+      {
+        "type": "写作加分✍️",
+        "content": "在描述趋势或预测时，除了 `upcoming` 或 `approaching`，`oncoming` 也是一个很好的选择。尤其在谈论即将发生的负面事件或挑战时，它能营造一种更紧迫的语境，比如 `the oncoming crisis`。"
+      },
+      {
+        "type": "生活联想💡",
+        "content": "下次看到路上的交通标志，或者听到天气预报说有坏天气要来，就可以在心里默念一下 `oncoming`，加深印象！让学习融入生活，CiCi觉得超酷的！"
+      }
+    ]
+  },
+  "aristocracy": {
+    "wordcardheader": {
+      "word": "aristocracy",
+      "ukipa": "/ˌærɪˈstɒkrəsi/",
+      "usipa": "/ˌærɪˈstɑːkrəsi/",
+      "pronunciationpal": "a-ri-STOK-ra-see (重音在第三个音节，想象一群贵族在傲娇地托着下巴！)",
+      "register": "正式/历史 (Formal/Historical)",
+      "ieltsscene": "社会历史类话题、政府与政治类话题、文化与社会结构讨论"
+    },
+    "coremeanings": {
+      "isieltscommon": true,
+      "pos": "n.",
+      "englishdefinition": "a class of people holding exceptional rank and privileges, especially the hereditary nobility.",
+      "chinesetranslation": "贵族；贵族阶级；贵族统治"
+    },
+    "aimemo": {
+      "onesentencememo": "**Aristocracy** (哎！瑞丝！脱裤？瑞丝西？) 想想看，一群贵族小姐们为了显示她们的\"瑞丝\"（rich）和地位，连穿裤子都要脱了，穿裙子，那才是上流社会的象征！是不是很“贵族”？"
+    },
+    "contextualapplication": {
+      "basicsentence": {
+        "sentence": "The French Revolution saw the downfall of the old **aristocracy**.",
+        "translation": "法国大革命见证了旧**贵族阶级**的没落。",
+        "options": [
+          {
+            "optionletter": "A",
+            "word": "democracy",
+            "pos": "n.",
+            "definition": "民主政体"
+          },
+          {
+            "optionletter": "B",
+            "word": "monarchy",
+            "pos": "n.",
+            "definition": "君主制"
+          },
+          {
+            "optionletter": "C",
+            "word": "aristocracy",
+            "pos": "n.",
+            "definition": "贵族阶级"
+          },
+          {
+            "optionletter": "D",
+            "word": "theocracy",
+            "pos": "n.",
+            "definition": "神权政体"
+          }
+        ],
+        "correctanswer": "C"
+      },
+      "scenariodialogue": {
+        "speakera": "Do you think modern society still has an **aristocracy**?",
+        "speakerb": "Perhaps not in the traditional sense of inherited titles, but certainly a powerful elite with inherited wealth and influence.",
+        "translation": {
+          "speakera": "你觉得现代社会还有**贵族阶级**吗？",
+          "speakerb": "或许不是传统意义上继承头衔的贵族，但肯定有拥有继承财富和影响力的强大精英阶层。"
+        }
+      }
+    },
+    "quickquiz": {
+      "multiplechoice": [
+        {
+          "questionsentence": "In many historical periods, power was concentrated in the hands of the aristocracy.",
+          "sentencetranslation": "在许多历史时期，权力都集中在贵族手中。",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "proletariat",
+              "pos": "n.",
+              "definition": "无产阶级"
+            },
+            {
+              "optionletter": "B",
+              "word": "aristocracy",
+              "pos": "n.",
+              "definition": "贵族阶级"
+            },
+            {
+              "optionletter": "C",
+              "word": "commoners",
+              "pos": "n.",
+              "definition": "平民"
+            },
+            {
+              "optionletter": "D",
+              "word": "bourgeoisie",
+              "pos": "n.",
+              "definition": "资产阶级"
+            }
+          ],
+          "correctanswer": "B"
+        },
+        {
+          "questionsentence": "Jane Austen's novels often depict the lives and manners of the English aristocracy.",
+          "sentencetranslation": "简·奥斯汀的小说常常描绘英国贵族的生活和习俗。",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "peasantry",
+              "pos": "n.",
+              "definition": "农民阶级"
+            },
+            {
+              "optionletter": "B",
+              "word": "working class",
+              "pos": "n.",
+              "definition": null
+            },
+            {
+              "optionletter": "C",
+              "word": "aristocracy",
+              "pos": "n.",
+              "definition": "贵族阶级"
+            },
+            {
+              "optionletter": "D",
+              "word": "middle class",
+              "pos": "n.",
+              "definition": null
+            }
+          ],
+          "correctanswer": "C"
+        },
+        {
+          "questionsentence": "The country was formerly ruled by an aristocracy.",
+          "sentencetranslation": "这个国家以前是由贵族统治的。",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "dictatorship",
+              "pos": "n.",
+              "definition": "独裁统治"
+            },
+            {
+              "optionletter": "B",
+              "word": "republic",
+              "pos": "n.",
+              "definition": "共和国"
+            },
+            {
+              "optionletter": "C",
+              "word": "aristocracy",
+              "pos": "n.",
+              "definition": "贵族统治"
+            },
+            {
+              "optionletter": "D",
+              "word": "democracy",
+              "pos": "n.",
+              "definition": "民主制"
+            }
+          ],
+          "correctanswer": "C"
+        },
+        {
+          "questionsentence": "Despite the revolution, traces of the old aristocracy's influence can still be seen.",
+          "sentencetranslation": "尽管发生了革命，旧贵族的影响力痕迹仍然可见。",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "military",
+              "pos": "n.",
+              "definition": "军队"
+            },
+            {
+              "optionletter": "B",
+              "word": "aristocracy",
+              "pos": "n.",
+              "definition": "贵族"
+            },
+            {
+              "optionletter": "C",
+              "word": "clergy",
+              "pos": "n.",
+              "definition": "神职人员"
+            },
+            {
+              "optionletter": "D",
+              "word": "peasantry",
+              "pos": "n.",
+              "definition": null
+            }
+          ],
+          "correctanswer": "B"
+        },
+        {
+          "questionsentence": "The young woman from the aristocracy was expected to marry someone of equal social standing.",
+          "sentencetranslation": "这位出身贵族的年轻女子被期望嫁给社会地位相当的人。",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "proletariat",
+              "pos": "n.",
+              "definition": null
+            },
+            {
+              "optionletter": "B",
+              "word": "aristocracy",
+              "pos": "n.",
+              "definition": "贵族"
+            },
+            {
+              "optionletter": "C",
+              "word": "common folk",
+              "pos": "n.",
+              "definition": "普通民众"
+            },
+            {
+              "optionletter": "D",
+              "word": "lower class",
+              "pos": "n.",
+              "definition": null
+            }
+          ],
+          "correctanswer": "B"
+        }
+      ],
+      "fillintheblank": [
+        {
+          "questionsentence": "Historically, the land was owned predominantly by the ______.",
+          "sentencetranslation": "历史上，土地主要由贵族阶级所有。",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "aristocrat",
+              "pos": "n.",
+              "definition": "贵族（指个人）"
+            },
+            {
+              "optionletter": "B",
+              "word": "aristocratic",
+              "pos": "adj.",
+              "definition": "贵族的"
+            },
+            {
+              "optionletter": "C",
+              "word": "aristocracy",
+              "pos": "n.",
+              "definition": "贵族阶级"
+            }
+          ],
+          "correctanswer": "C"
+        },
+        {
+          "questionsentence": "The ______ lifestyle was characterized by lavish balls and grand estates.",
+          "sentencetranslation": "贵族的生活方式以奢华的舞会和宏伟的庄园为特征。",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "aristocracy",
+              "pos": "n.",
+              "definition": "贵族阶级"
+            },
+            {
+              "optionletter": "B",
+              "word": "aristocratic",
+              "pos": "adj.",
+              "definition": "贵族的"
+            },
+            {
+              "optionletter": "C",
+              "word": "aristocratically",
+              "pos": "adv.",
+              "definition": "贵族式地"
+            }
+          ],
+          "correctanswer": "B"
+        },
+        {
+          "questionsentence": "He carried himself with an air of ______ elegance.",
+          "sentencetranslation": "他举止优雅，带着贵族气息。",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "aristocracy",
+              "pos": "n.",
+              "definition": "贵族阶级"
+            },
+            {
+              "optionletter": "B",
+              "word": "aristocrat",
+              "pos": "n.",
+              "definition": "贵族"
+            },
+            {
+              "optionletter": "C",
+              "word": "aristocratic",
+              "pos": "adj.",
+              "definition": "贵族的"
+            }
+          ],
+          "correctanswer": "C"
+        },
+        {
+          "questionsentence": "The novel satirizes the excesses of the landowning ______.",
+          "sentencetranslation": "这部小说讽刺了土地所有贵族的奢靡行为。",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "aristocratic",
+              "pos": "adj.",
+              "definition": "贵族的"
+            },
+            {
+              "optionletter": "B",
+              "word": "aristocracy",
+              "pos": "n.",
+              "definition": "贵族阶级"
+            },
+            {
+              "optionletter": "C",
+              "word": "aristocrat",
+              "pos": "n.",
+              "definition": "贵族"
+            }
+          ],
+          "correctanswer": "B"
+        },
+        {
+          "questionsentence": "The young prince belonged to the highest ______ of society.",
+          "sentencetranslation": "这位年轻的王子属于社会上层贵族。",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "aristocratic",
+              "pos": "adj.",
+              "definition": "贵族的"
+            },
+            {
+              "optionletter": "B",
+              "word": "aristocracy",
+              "pos": "n.",
+              "definition": "贵族阶级"
+            },
+            {
+              "optionletter": "C",
+              "word": "aristocrat",
+              "pos": "n.",
+              "definition": "贵族"
+            }
+          ],
+          "correctanswer": "B"
+        }
+      ],
+      "listenandchoose": [
+        {
+          "audioprompt": "The aristocracy held significant power in medieval Europe.",
+          "sentencetranslation": "贵族阶级在中世纪欧洲拥有重要的权力。",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "democracy",
+              "pos": "n.",
+              "definition": "民主"
+            },
+            {
+              "optionletter": "B",
+              "word": "aristocracy",
+              "pos": "n.",
+              "definition": "贵族阶级"
+            },
+            {
+              "optionletter": "C",
+              "word": "bureaucracy",
+              "pos": "n.",
+              "definition": "官僚政治"
+            },
+            {
+              "optionletter": "D",
+              "word": "plutocracy",
+              "pos": "n.",
+              "definition": "财阀统治"
+            }
+          ],
+          "correctanswer": "B"
+        },
+        {
+          "audioprompt": "Many members of the old aristocracy lost their lands during the revolution.",
+          "sentencetranslation": "许多旧贵族的成员在革命中失去了他们的土地。",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "autocracy",
+              "pos": "n.",
+              "definition": "专制"
+            },
+            {
+              "optionletter": "B",
+              "word": "aristocracy",
+              "pos": "n.",
+              "definition": "贵族阶级"
+            },
+            {
+              "optionletter": "C",
+              "word": "meritocracy",
+              "pos": "n.",
+              "definition": "精英领导"
+            },
+            {
+              "optionletter": "D",
+              "word": "theocracy",
+              "pos": "n.",
+              "definition": null
+            }
+          ],
+          "correctanswer": "B"
+        },
+        {
+          "audioprompt": "She married into the French aristocracy.",
+          "sentencetranslation": "她嫁入了法国贵族阶层。",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "aristocracy",
+              "pos": "n.",
+              "definition": "贵族阶级"
+            },
+            {
+              "optionletter": "B",
+              "word": "democracy",
+              "pos": "n.",
+              "definition": null
+            },
+            {
+              "optionletter": "C",
+              "word": "monarchy",
+              "pos": "n.",
+              "definition": null
+            },
+            {
+              "optionletter": "D",
+              "word": "anarchy",
+              "pos": "n.",
+              "definition": null
+            }
+          ],
+          "correctanswer": "A"
+        },
+        {
+          "audioprompt": "The new laws curtailed the power of the aristocracy.",
+          "sentencetranslation": "新法律削弱了贵族阶级的权力。",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "autocracy",
+              "pos": "n.",
+              "definition": null
+            },
+            {
+              "optionletter": "B",
+              "word": "aristocracy",
+              "pos": "n.",
+              "definition": "贵族阶级"
+            },
+            {
+              "optionletter": "C",
+              "word": "technocracy",
+              "pos": "n.",
+              "definition": null
+            },
+            {
+              "optionletter": "D",
+              "word": "gerontocracy",
+              "pos": "n.",
+              "definition": null
+            }
+          ],
+          "correctanswer": "B"
+        },
+        {
+          "audioprompt": "Membership in the aristocracy was traditionally inherited.",
+          "sentencetranslation": "贵族身份传统上是世袭的。",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "aristocracy",
+              "pos": "n.",
+              "definition": "贵族阶级"
+            },
+            {
+              "optionletter": "B",
+              "word": "plutocracy",
+              "pos": "n.",
+              "definition": null
+            },
+            {
+              "optionletter": "C",
+              "word": "democracy",
+              "pos": "n.",
+              "definition": null
+            },
+            {
+              "optionletter": "D",
+              "word": "bureaucracy",
+              "pos": "n.",
+              "definition": null
+            }
+          ],
+          "correctanswer": "A"
+        }
+      ],
+      "dictation": [
+        {
+          "audioprompt": "The old aristocracy maintained their traditions.",
+          "prompttranslation": "旧贵族们保持着他们的传统。",
+          "correctanswer": "The old aristocracy maintained their traditions."
+        },
+        {
+          "audioprompt": "Her family belonged to the landed aristocracy.",
+          "prompttranslation": "她的家族属于拥有土地的贵族。",
+          "correctanswer": "Her family belonged to the landed aristocracy."
+        },
+        {
+          "audioprompt": "The book explores the decline of the aristocracy.",
+          "prompttranslation": "这本书探讨了贵族阶级的衰落。",
+          "correctanswer": "The book explores the decline of the aristocracy."
+        },
+        {
+          "audioprompt": "The country was ruled by an aristocracy for centuries.",
+          "prompttranslation": "这个国家由贵族统治了几个世纪。",
+          "correctanswer": "The country was ruled by an aristocracy for centuries."
+        },
+        {
+          "audioprompt": "The film portrays the lives of the French aristocracy.",
+          "prompttranslation": "这部电影描绘了法国贵族的生活。",
+          "correctanswer": "The film portrays the lives of the French aristocracy."
+        }
+      ]
+    },
+    "funetymology": {
+      "story": "`Aristocracy` 这个词来源于古希腊语，`aristos` 意为“最好的、最高贵的”，`kratos` 意为“力量、统治”。所以 `aristocracy` 字面意思就是“由最好的人统治”或者“最优秀的统治”。古希腊人真是太自信了，觉得自己就是最棒的统治者！"
+    },
+    "spellingaid": {
+      "breakdown": "a-ris-toc-ra-cy",
+      "mnemonic": "(谐音法) **A-RIS** (啊，瑞斯！) - 瑞斯这个名字听起来就很高级，很“贵族”！ **TOC-RA-CY** (托克拉西) - 想象贵族们在“托”着“克拉”钻戒，彰显身份。记住，这个词很长，就像贵族头衔一样长！"
+    },
+    "imageassociation": {
+      "description": "想象一幅欧洲古典油画，画中是穿着华丽礼服、佩戴珠宝的男男女女，他们举止优雅，在宽敞的宴会厅里翩翩起舞或低声交谈。画面整体呈现出奢华、高贵的氛围。"
+    },
+    "deeplinks": {
+      "wordforms": [
+        {
+          "form": "形容词 (adj.)",
+          "word": "aristocratic",
+          "translation": "贵族的；贵族化的"
+        },
+        {
+          "form": "名词 (n.)",
+          "word": "aristocrat",
+          "translation": "贵族（指个人）"
+        }
+      ],
+      "collocations": [
+        {
+          "phrase": "landed aristocracy",
+          "translation": "拥有土地的贵族"
+        },
+        {
+          "phrase": "old aristocracy",
+          "translation": "旧贵族"
+        },
+        {
+          "phrase": "the decline of the aristocracy",
+          "translation": "贵族阶级的衰落"
+        }
+      ],
+      "synonymanalysis": [
+        {
+          "word": "nobility",
+          "analysis": "与 `aristocracy` 类似，指贵族阶层，尤指世袭的贵族。`Nobility` 更侧重指“高贵”的品质，而 `aristocracy` 更强调“统治阶级”的身份。"
+        },
+        {
+          "word": "elite",
+          "analysis": "指某一领域中最优秀或最具影响力的人群，不一定有世袭的身份，但有相似的社会地位。"
+        },
+        {
+          "word": "upper class",
+          "analysis": "指社会阶级中的最高层，通常由财富和地位决定，可以包含贵族但不限于此。"
+        }
+      ],
+      "confusablewordsanalysis": {
+        "word": "democracy (民主)",
+        "analysis": "`Democracy` 指人民统治，与 `aristocracy` (贵族统治) 形成鲜明对比。一个词根是 `kratos` (统治)，另一个是 `demos` (人民)。"
+      },
+      "wordrootfamily": {
+        "root": "-cracy (统治)",
+        "familymembers": "democracy (民主), bureaucracy (官僚统治), autocracy (专制), plutocracy (财阀统治), meritocracy (精英统治)"
+      }
+    },
+    "commonpitfalls": {
+      "explanation": "注意 `aristocracy` 是一个集体名词，通常指整个贵族阶级，所以动词一般用单数。如果指具体的贵族个体，则用 `aristocrat`。",
+      "dontsay": "The aristocracies gathered for the ball. (除非你指多个贵族阶层)",
+      "dosay": "The aristocracy gathered for the ball. (贵族阶级作为一个整体)"
+    },
+    "cicitips": [
+      {
+        "type": "雅思写作加分✍️",
+        "content": "在谈论历史、社会结构或政府形式时，使用 `aristocracy` 能够展现你更深层次的词汇储备。比如在讨论法国大革命时，用 `the fall of the aristocracy` 比 `the fall of the rich people` 更学术、更精准！"
+      },
+      {
+        "type": "联想记忆小妙招🧠",
+        "content": "每次看到 `aristocracy`，就想象那些贵族们在他们的豪华庄园里，喝着红酒，听着古典乐，那种“高人一等”的感觉，是不是就牢牢记住了它的意思啦？"
+      },
+      {
+        "type": "文化小知识🌐",
+        "content": "很多英国文学作品，比如《傲慢与偏见》、《唐顿庄园》等，都是描写英国 `aristocracy` 的生活。读读这些作品，能帮你更好地理解这个词的语境和文化内涵哦！"
+      }
+    ]
+  }
+}

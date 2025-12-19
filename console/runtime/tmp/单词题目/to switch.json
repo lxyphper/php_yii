@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to switch",
+      "error_analysis": "学生易因形近词（如swap/swipe）混淆为“交换/刷”，或因名词“开关”误判为“打开/关闭”。",
+      "sentence": "When watching TV, I often **switch** between news and sports channels to keep up with both.",
+      "options": {
+        "option": [
+          {
+            "definition": "转换；切换",
+            "iscorrect": true
+          },
+          {
+            "definition": "交换",
+            "iscorrect": false
+          },
+          {
+            "definition": "打开/关闭",
+            "iscorrect": false
+          },
+          {
+            "definition": "刷；滑动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

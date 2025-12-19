@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fierce",
+      "error_analysis": "中国学生易因形近词\"force\"（力量）误判为\"有力的\"，或因词根联想\"fire\"（火）误判为\"火热的\"",
+      "sentence": "The **fierce** storm caused widespread damage to the village.",
+      "options": {
+        "option": [
+          {
+            "definition": "有力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "火热的",
+            "iscorrect": false
+          },
+          {
+            "definition": "猛烈的；凶猛的",
+            "iscorrect": true
+          },
+          {
+            "definition": "快速的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

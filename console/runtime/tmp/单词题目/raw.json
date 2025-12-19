@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "raw",
+      "error_analysis": "学生易因形近词“row”（排、行）混淆，或误将“raw”理解为“排列的”而非其核心义“生的、未加工的”。",
+      "sentence": "The chef refused to use cooked carrots in the salad, preferring **raw** ones to keep the flavor fresh.",
+      "options": {
+        "option": [
+          {
+            "definition": "排；行（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "生的；未加工的",
+            "iscorrect": true
+          },
+          {
+            "definition": "粗糙的；不光滑的",
+            "iscorrect": false
+          },
+          {
+            "definition": "划船（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

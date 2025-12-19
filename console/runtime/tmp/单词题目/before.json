@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "before",
+      "error_analysis": "学生易因形近词“behind”的干扰，将“before”误理解为“在...后面”",
+      "sentence": "Please arrive at the office **before** 9:00 a.m. tomorrow.",
+      "options": {
+        "option": [
+          {
+            "definition": "在...之前（时间上）",
+            "iscorrect": true
+          },
+          {
+            "definition": "在...后面",
+            "iscorrect": false
+          },
+          {
+            "definition": "在...前面（空间上）",
+            "iscorrect": false
+          },
+          {
+            "definition": "在...期间",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

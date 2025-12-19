@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to abduct",
+      "error_analysis": "易混淆形近词“adopt”（收养），或因词根“duct”（引导）错误联想为“引导离开”而非“绑架”",
+      "sentence": "The police are investigating a case where a young child was **abducted** from the park yesterday.",
+      "options": {
+        "option": [
+          {
+            "definition": "收养",
+            "iscorrect": false
+          },
+          {
+            "definition": "绑架，劫持",
+            "iscorrect": true
+          },
+          {
+            "definition": "引导离开（如带领某人去某地）",
+            "iscorrect": false
+          },
+          {
+            "definition": "放弃，遗弃",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

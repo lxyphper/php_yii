@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "imprecisely",
+      "error_analysis": "学生易因形近将\"imprecisely\"与\"impressively\"（令人印象深刻地）混淆，或因\"precise\"与\"precious\"形近误判为\"不珍贵地\"",
+      "sentence": "The witness described the suspect's height **imprecisely**, saying he was \"about six feet tall\" but couldn't give an exact measurement.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人印象深刻地",
+            "iscorrect": false
+          },
+          {
+            "definition": "不珍贵地",
+            "iscorrect": false
+          },
+          {
+            "definition": "不仔细地",
+            "iscorrect": false
+          },
+          {
+            "definition": "不精确地，不准确地",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

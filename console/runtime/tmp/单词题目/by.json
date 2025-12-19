@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "by",
+      "error_analysis": "因形近词“buy”（买）而错误理解“by”的含义",
+      "sentence": "The cake was eaten **by** a cat.",
+      "options": {
+        "option": [
+          {
+            "definition": "被；由",
+            "iscorrect": true
+          },
+          {
+            "definition": "买",
+            "iscorrect": false
+          },
+          {
+            "definition": "在…旁边",
+            "iscorrect": false
+          },
+          {
+            "definition": "经过",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

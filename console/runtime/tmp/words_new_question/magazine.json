@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "magazine",
+      "error_analysis": "易因形近词\"magnet\"(磁铁)或词根\"mag\"联想到\"魔法\"而误判核心词义",
+      "sentence": "She likes to read a **magazine** about fashion every month to get the latest trends.",
+      "options": {
+        "option": [
+          {
+            "definition": "杂志",
+            "iscorrect": true
+          },
+          {
+            "definition": "磁铁",
+            "iscorrect": false
+          },
+          {
+            "definition": "魔法书",
+            "iscorrect": false
+          },
+          {
+            "definition": "机器",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

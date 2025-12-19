@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to endeavor",
+      "error_analysis": "学生易因“endeavor”含“end”前缀误解为“结束”，或因形近“endure”（忍受）混淆词义",
+      "sentence": "Despite the challenges, she continued to **endeavor** to finish her thesis on time.",
+      "options": {
+        "option": [
+          {
+            "definition": "努力；尽力",
+            "iscorrect": true
+          },
+          {
+            "definition": "结束；终止",
+            "iscorrect": false
+          },
+          {
+            "definition": "忍受；忍耐",
+            "iscorrect": false
+          },
+          {
+            "definition": "递送；交付",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

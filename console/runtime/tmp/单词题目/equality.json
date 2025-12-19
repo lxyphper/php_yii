@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "equality",
+      "error_analysis": "学生易因形近词\"quantity\"（数量）混淆，或因词根\"equ-\"过度推导为\"等价\"而非\"平等\"",
+      "sentence": "The government is working to promote **equality** in education, ensuring every child has the same chance to learn.",
+      "options": {
+        "option": [
+          {
+            "definition": "数量",
+            "iscorrect": false
+          },
+          {
+            "definition": "等价",
+            "iscorrect": false
+          },
+          {
+            "definition": "平衡",
+            "iscorrect": false
+          },
+          {
+            "definition": "平等",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

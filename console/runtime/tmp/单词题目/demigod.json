@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "demigod",
+      "error_analysis": "中国学生可能因\"demi-\"与\"demo-\"（人民）形近或误作否定前缀\"de-\"，将\"demigod\"误解为\"人民的神\"或\"凡人\"",
+      "sentence": "In Greek mythology, Hercules is a **demigod**—his father is Zeus (the king of gods) and his mother is a mortal princess.",
+      "options": {
+        "option": [
+          {
+            "definition": "半神",
+            "iscorrect": true
+          },
+          {
+            "definition": "人民的神",
+            "iscorrect": false
+          },
+          {
+            "definition": "凡人",
+            "iscorrect": false
+          },
+          {
+            "definition": "小神",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

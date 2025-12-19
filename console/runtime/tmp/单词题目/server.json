@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "server",
+      "error_analysis": "学生易因形近词“servant”（仆人）及词根“serve”（服务）误导，将“server”误理解为“仆人”或“泛化的服务者”",
+      "sentence": "The IT team is fixing the **server** because the website keeps crashing.",
+      "options": {
+        "option": [
+          {
+            "definition": "仆人",
+            "iscorrect": false
+          },
+          {
+            "definition": "服务器",
+            "iscorrect": true
+          },
+          {
+            "definition": "服务者",
+            "iscorrect": false
+          },
+          {
+            "definition": "发球者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

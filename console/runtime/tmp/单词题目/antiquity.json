@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "antiquity",
+      "error_analysis": "学生易因形近词\"antique\"(古董)干扰，将\"antiquity\"误判为\"古董\"（其单数更常用义为\"古代时期\"）",
+      "sentence": "The museum's new exhibit explores the daily lives of people in **antiquity**, featuring tools and pottery from ancient Mesopotamia.",
+      "options": {
+        "option": [
+          {
+            "definition": "古代；远古时期",
+            "iscorrect": true
+          },
+          {
+            "definition": "古董；古物",
+            "iscorrect": false
+          },
+          {
+            "definition": "反对的态度；对抗的立场",
+            "iscorrect": false
+          },
+          {
+            "definition": "陈旧的品质；过时的状态",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

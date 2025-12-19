@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "really",
+      "error_analysis": "学生易将'really'（副词，表程度/强调）误判为'real'的形容词义（真实的），或通过词根'real'推导为'现实地'等错误含义。",
+      "sentence": "The cake tastes **really** delicious—I want another piece.",
+      "options": {
+        "option": [
+          {
+            "definition": "非常",
+            "iscorrect": true
+          },
+          {
+            "definition": "真实的",
+            "iscorrect": false
+          },
+          {
+            "definition": "现实地",
+            "iscorrect": false
+          },
+          {
+            "definition": "实际上",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

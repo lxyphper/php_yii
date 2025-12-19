@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tributary",
+      "error_analysis": "学生易因形近词'tribute'(贡品/致敬)或词根'tribut-'(贡献)误将'tributary'理解为'贡品'或'贡献者'，而非核心词义'支流'。",
+      "sentence": "The Mississippi River is fed by many **tributaries**, such as the Missouri and Ohio Rivers.",
+      "options": {
+        "option": [
+          {
+            "definition": "支流",
+            "iscorrect": true
+          },
+          {
+            "definition": "贡品；致敬",
+            "iscorrect": false
+          },
+          {
+            "definition": "贡献者；捐赠者",
+            "iscorrect": false
+          },
+          {
+            "definition": "琐碎的事情",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

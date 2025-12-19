@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "understanding",
+      "error_analysis": "因包含\"stand\"（站立/立场）而误将\"understanding\"（名词）理解为\"支撑\"\"立场\"或动名词\"正在理解\"",
+      "sentence": "The two countries have an **understanding** to cooperate on environmental issues.",
+      "options": {
+        "option": [
+          {
+            "definition": "理解；共识",
+            "iscorrect": true
+          },
+          {
+            "definition": "支撑；支持",
+            "iscorrect": false
+          },
+          {
+            "definition": "立场；观点",
+            "iscorrect": false
+          },
+          {
+            "definition": "正在理解的动作",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

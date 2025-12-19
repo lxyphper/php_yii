@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "detention center",
+      "error_analysis": "学生易因'detention'与'attention'形近误判为'注意力中心'，或因不熟悉'detain'词根猜测为'教育中心'",
+      "sentence": "After the police arrested the suspect for robbery, they transported him to the **detention center** for further investigation.",
+      "options": {
+        "option": [
+          {
+            "definition": "拘留所；看守所",
+            "iscorrect": true
+          },
+          {
+            "definition": "注意力中心；关注中心",
+            "iscorrect": false
+          },
+          {
+            "definition": "教育中心；培训中心",
+            "iscorrect": false
+          },
+          {
+            "definition": "活动中心；社交中心",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

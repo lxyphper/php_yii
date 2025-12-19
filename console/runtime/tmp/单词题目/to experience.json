@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to experience",
+      "error_analysis": "易混淆形近词experiment（实验），或误将动词理解为“获得经验”（名词经验的动词化误导）",
+      "sentence": "The children were excited to **experience** their first snowfall in the mountains.",
+      "options": {
+        "option": [
+          {
+            "definition": "经历；体验",
+            "iscorrect": true
+          },
+          {
+            "definition": "做实验",
+            "iscorrect": false
+          },
+          {
+            "definition": "获得经验",
+            "iscorrect": false
+          },
+          {
+            "definition": "熟练操作",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "uptown",
+      "error_analysis": "学生易因“up+town”字面误导认为是“城镇的高地部分”，或混淆其与“downtown”（市中心）、“upstairs”（楼上的区域）的含义。",
+      "sentence": "We live **uptown**, so we need to leave early to get to the downtown office on time.",
+      "options": {
+        "option": [
+          {
+            "definition": "（城市中）远离市中心的城区",
+            "iscorrect": true
+          },
+          {
+            "definition": "市中心",
+            "iscorrect": false
+          },
+          {
+            "definition": "城镇的高地部分",
+            "iscorrect": false
+          },
+          {
+            "definition": "楼上的区域",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

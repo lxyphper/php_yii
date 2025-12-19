@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "evidence",
+      "error_analysis": "学生易因形近词“evident”（明显的）或词根“evid-”（明显）将“evidence”误解为“明显的事物”而非“证据”。",
+      "sentence": "The police found some **evidence** that linked the suspect to the crime.",
+      "options": {
+        "option": [
+          {
+            "definition": "证据",
+            "iscorrect": true
+          },
+          {
+            "definition": "明显的事物",
+            "iscorrect": false
+          },
+          {
+            "definition": "明显性",
+            "iscorrect": false
+          },
+          {
+            "definition": "显示的东西",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

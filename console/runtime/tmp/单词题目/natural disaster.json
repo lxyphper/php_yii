@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "natural disaster",
+      "error_analysis": "学生易因“disaster”与“discovery”形近或“natural”的“天生的”义项混淆而误解“natural disaster”。",
+      "sentence": "The 2008 Sichuan earthquake was a devastating **natural disaster** that destroyed thousands of homes and claimed many lives.",
+      "options": {
+        "option": [
+          {
+            "definition": "自然灾害",
+            "iscorrect": true
+          },
+          {
+            "definition": "自然的发现",
+            "iscorrect": false
+          },
+          {
+            "definition": "天生的灾难",
+            "iscorrect": false
+          },
+          {
+            "definition": "人为的灾难",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

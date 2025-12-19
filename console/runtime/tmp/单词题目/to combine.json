@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to combine",
+      "error_analysis": "易因形近词“comb”（梳子）误解为“梳理”，或与“bind”（绑）混淆误以为“捆绑”",
+      "sentence": "The chef decided to **combine** the sweet and savory flavors to make a unique dish.",
+      "options": {
+        "option": [
+          {
+            "definition": "结合；合并",
+            "iscorrect": true
+          },
+          {
+            "definition": "梳理；用梳子整理",
+            "iscorrect": false
+          },
+          {
+            "definition": "捆绑；束缚",
+            "iscorrect": false
+          },
+          {
+            "definition": "来；到达",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

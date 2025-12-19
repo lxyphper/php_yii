@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to tail off",
+      "error_analysis": "学生易因“tail”与“take”形近（拼写、发音相近）将“tail off”混淆为“take off”（起飞；突然离开），或因“tail”的“尾巴”/“跟踪”含义误解为“拖着尾巴走”或“停止跟踪”",
+      "sentence": "The noise from the construction site **tailed off** as the workers finished their shift.",
+      "options": {
+        "option": [
+          {
+            "definition": "逐渐减少；减弱",
+            "iscorrect": true
+          },
+          {
+            "definition": "起飞；突然离开",
+            "iscorrect": false
+          },
+          {
+            "definition": "拖着尾巴走；缓慢移动",
+            "iscorrect": false
+          },
+          {
+            "definition": "停止跟踪；尾随离开",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

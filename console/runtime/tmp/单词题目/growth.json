@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "growth",
+      "error_analysis": "学生易因形近词“gross”（总的、毛的）混淆，或因“grow”的“种植”义过度推导，将“growth”误解为“总量”或“种植行为”。",
+      "sentence": "Regular fertilization promotes healthy **growth** in young trees.",
+      "options": {
+        "option": [
+          {
+            "definition": "生长；增长",
+            "iscorrect": true
+          },
+          {
+            "definition": "总量；毛的事物",
+            "iscorrect": false
+          },
+          {
+            "definition": "种植行为",
+            "iscorrect": false
+          },
+          {
+            "definition": "凹槽；沟槽",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

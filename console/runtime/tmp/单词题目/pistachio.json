@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pistachio",
+      "error_analysis": "学生易因形近词“pistol”（手枪）混淆，或误用词根“pist”（信任）猜测词义。",
+      "sentence": "She likes to snack on **pistachios** while watching movies because they're crunchy and slightly salty.",
+      "options": {
+        "option": [
+          {
+            "definition": "开心果",
+            "iscorrect": true
+          },
+          {
+            "definition": "手枪",
+            "iscorrect": false
+          },
+          {
+            "definition": "信任证书",
+            "iscorrect": false
+          },
+          {
+            "definition": "糕点",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

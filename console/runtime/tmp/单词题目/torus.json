@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "torus",
+      "error_analysis": "学生易因形近词\"torso\"(躯干)混淆，或因词根\"tor-\"误联\"扭转/扭矩\"。",
+      "sentence": "In geometry, a **torus** is a surface formed by rotating a circle around an axis in its plane that doesn't intersect the circle.",
+      "options": {
+        "option": [
+          {
+            "definition": "环面；环状结构",
+            "iscorrect": true
+          },
+          {
+            "definition": "躯干；身体的主干部分",
+            "iscorrect": false
+          },
+          {
+            "definition": "扭矩；扭转力",
+            "iscorrect": false
+          },
+          {
+            "definition": "洪流；急流",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

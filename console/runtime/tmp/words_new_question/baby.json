@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "baby",
+      "error_analysis": "中国学生易因形近词“bake”（烤）的形状相似，或因“baby”常修饰小物件而误将其理解为“烤的食物”或“小玩具”。",
+      "sentence": "The young mother is gently rocking the **baby** to sleep in her arms.",
+      "options": {
+        "option": [
+          {
+            "definition": "婴儿",
+            "iscorrect": true
+          },
+          {
+            "definition": "烤的食物",
+            "iscorrect": false
+          },
+          {
+            "definition": "小玩具",
+            "iscorrect": false
+          },
+          {
+            "definition": "珍贵的物品",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

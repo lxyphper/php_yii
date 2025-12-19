@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "olive",
+      "error_analysis": "学生易因形近词\"live\"（生活）或\"olive oil\"搭配误将\"olive\"理解为\"生活\"或\"油\"",
+      "sentence": "She added some sliced **olives** to the salad for extra flavor.",
+      "options": {
+        "option": [
+          {
+            "definition": "橄榄（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "生活（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "油（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "有活力的（形容词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

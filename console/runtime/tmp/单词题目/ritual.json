@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ritual",
+      "error_analysis": "中国学生易因形近词“rival”（对手）或“rural”（乡村的）混淆“ritual”，或误将其等同于“routine”（常规）而忽略仪式性。",
+      "sentence": "Every morning, the old man goes through the **ritual** of making tea exactly the same way his father taught him.",
+      "options": {
+        "option": [
+          {
+            "definition": "对手",
+            "iscorrect": false
+          },
+          {
+            "definition": "乡村的",
+            "iscorrect": false
+          },
+          {
+            "definition": "常规",
+            "iscorrect": false
+          },
+          {
+            "definition": "仪式；惯例（尤指有仪式性的）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

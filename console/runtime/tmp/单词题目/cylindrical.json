@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cylindrical",
+      "error_analysis": "学生易将\"cylindrical\"（圆柱形的）误判为\"圆形的\"（circular）或\"环形的\"（ring-shaped），因两者均涉及圆且拼写/维度易混淆。",
+      "sentence": "The soda can has a **cylindrical** shape that fits easily in your hand.",
+      "options": {
+        "option": [
+          {
+            "definition": "圆形的",
+            "iscorrect": false
+          },
+          {
+            "definition": "圆柱形的",
+            "iscorrect": true
+          },
+          {
+            "definition": "圆锥形的",
+            "iscorrect": false
+          },
+          {
+            "definition": "环形的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

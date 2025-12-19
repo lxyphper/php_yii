@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bacteria",
+      "error_analysis": "学生易因形近词（如bakery、battery）混淆词义，或因“-ia”结尾误判为传染病",
+      "sentence": "Washing your hands regularly helps kill the **bacteria** that cause food poisoning.",
+      "options": {
+        "option": [
+          {
+            "definition": "细菌",
+            "iscorrect": true
+          },
+          {
+            "definition": "面包店",
+            "iscorrect": false
+          },
+          {
+            "definition": "电池",
+            "iscorrect": false
+          },
+          {
+            "definition": "传染病",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

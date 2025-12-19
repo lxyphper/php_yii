@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "widespread",
+      "error_analysis": "学生易因“wide”（宽的）和“spread”（传播）的字面拆分，将“widespread”误解为“宽范围传播的”，忽略其“广泛的、普遍的”核心含义。",
+      "sentence": "**Widespread** use of renewable energy has helped reduce carbon emissions in many countries.",
+      "options": {
+        "option": [
+          {
+            "definition": "广泛的；普遍的",
+            "iscorrect": true
+          },
+          {
+            "definition": "宽范围传播的",
+            "iscorrect": false
+          },
+          {
+            "definition": "宽的；宽阔的",
+            "iscorrect": false
+          },
+          {
+            "definition": "野生的；未被驯服的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

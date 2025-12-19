@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to perjure",
+      "error_analysis": "学生易因形近词“peruse”（细读）混淆，或因词根“jure”（法律）错误联想为“遵守法律”，而非“作伪证”。",
+      "sentence": "The witness was arrested for attempting to **perjure** himself during the trial by giving false testimony about the accident.",
+      "options": {
+        "option": [
+          {
+            "definition": "作伪证；发假誓",
+            "iscorrect": true
+          },
+          {
+            "definition": "细读；研读",
+            "iscorrect": false
+          },
+          {
+            "definition": "完全遵守法律",
+            "iscorrect": false
+          },
+          {
+            "definition": "损害；伤害",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

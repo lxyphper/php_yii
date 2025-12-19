@@ -1,0 +1,26 @@
+[
+  {
+    "common_misspellings": [
+      "closes store",
+      "cloths store",
+      "clohtes store",
+      "clothes stroe",
+      "clothes stor"
+    ],
+    "correct_chunks": [
+      "cl",
+      "othes",
+      "st",
+      "ore"
+    ],
+    "distractor_chunks": [
+      "clos",
+      "cloh",
+      "oe",
+      "stor",
+      "es",
+      "tes"
+    ]
+  },
+  0
+]

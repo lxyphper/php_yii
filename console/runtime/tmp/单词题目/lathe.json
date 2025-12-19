@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lathe",
+      "error_analysis": "学生易因形近词“late”（晚的）或“lather”（肥皂泡）误解“lathe”为与时间或清洁相关的词，而非工具类名词。",
+      "sentence": "The worker used a **lathe** to shape the metal rod into a smooth cylinder.",
+      "options": {
+        "option": [
+          {
+            "definition": "晚的；迟到的",
+            "iscorrect": false
+          },
+          {
+            "definition": "肥皂泡；泡沫",
+            "iscorrect": false
+          },
+          {
+            "definition": "车床（一种用于加工金属/木材的机床）",
+            "iscorrect": true
+          },
+          {
+            "definition": "纬度；范围",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

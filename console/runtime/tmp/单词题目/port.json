@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "port",
+      "error_analysis": "学生易混淆形近词\"part\"(部分)，或因词根\"port\"(携带)误导理解为\"携带/运输\"（动词义）",
+      "sentence": "The fishermen returned to the **port** after a day of fishing.",
+      "options": {
+        "option": [
+          {
+            "definition": "部分",
+            "iscorrect": false
+          },
+          {
+            "definition": "携带；运输",
+            "iscorrect": false
+          },
+          {
+            "definition": "港口",
+            "iscorrect": true
+          },
+          {
+            "definition": "护照",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

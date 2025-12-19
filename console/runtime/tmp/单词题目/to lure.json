@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to lure",
+      "error_analysis": "学生易因形近词\"cure\"（治愈）或字面联想\"诱饵\"误判为\"治愈\"或\"放置诱饵\"",
+      "sentence": "The shop used a big discount to **lure** customers into buying more products.",
+      "options": {
+        "option": [
+          {
+            "definition": "治愈",
+            "iscorrect": false
+          },
+          {
+            "definition": "放置诱饵",
+            "iscorrect": false
+          },
+          {
+            "definition": "潜伏",
+            "iscorrect": false
+          },
+          {
+            "definition": "引诱，诱惑",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

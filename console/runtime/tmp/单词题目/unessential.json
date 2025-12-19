@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unessential",
+      "error_analysis": "学生易因形近词（如unethical）误判为“不道德的”，或因essential的“本质的”义项误将unessential理解为“非本质的”",
+      "sentence": "When packing for the trip, she removed all **unessential** items like extra shoes and decorative pillows to save space.",
+      "options": {
+        "option": [
+          {
+            "definition": "非必要的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不道德的",
+            "iscorrect": false
+          },
+          {
+            "definition": "非本质的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不重要的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to dissuade",
+      "error_analysis": "学生易因“dissuade”与“dissolve”（溶解）形近误联想为“溶解”，或因“dis-”否定前缀+未知“suade”（说服）词根误猜为“放弃”而非“劝阻”。",
+      "sentence": "My friends tried to **dissuade** me from buying that expensive phone, saying it wasn't worth the money.",
+      "options": {
+        "option": [
+          {
+            "definition": "劝阻，劝止",
+            "iscorrect": true
+          },
+          {
+            "definition": "溶解，使消散",
+            "iscorrect": false
+          },
+          {
+            "definition": "放弃，停止",
+            "iscorrect": false
+          },
+          {
+            "definition": "说服，劝服",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

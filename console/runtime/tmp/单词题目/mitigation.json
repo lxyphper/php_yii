@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mitigation",
+      "error_analysis": "易与形近词migration（移民）、mediation（调解）混淆，或因词根误判为“任务”",
+      "sentence": "To address climate change, governments are implementing policies focused on the **mitigation** of greenhouse gas emissions.",
+      "options": {
+        "option": [
+          {
+            "definition": "减轻；缓解",
+            "iscorrect": true
+          },
+          {
+            "definition": "移民；迁徙",
+            "iscorrect": false
+          },
+          {
+            "definition": "调解；仲裁",
+            "iscorrect": false
+          },
+          {
+            "definition": "任务；使命",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

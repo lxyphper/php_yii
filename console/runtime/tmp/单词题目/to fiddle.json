@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to fiddle",
+      "error_analysis": "学生易因形近词（如fill）或名词“小提琴”的引申义，将动词“to fiddle”误解为“填满”或“拉小提琴”",
+      "sentence": "The little girl was **fiddling** with her doll's hair instead of listening to the story.",
+      "options": {
+        "option": [
+          {
+            "definition": "摆弄",
+            "iscorrect": true
+          },
+          {
+            "definition": "拉小提琴",
+            "iscorrect": false
+          },
+          {
+            "definition": "填满",
+            "iscorrect": false
+          },
+          {
+            "definition": "欺骗",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

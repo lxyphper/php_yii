@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "solitary confinement",
+      "error_analysis": "易将'solitary confinement'直译为“孤独的限制”或误解为“自愿独居”，忽略其“单独监禁”的核心法律含义。",
+      "sentence": "After violating prison regulations, he was sentenced to **solitary confinement** for a month as punishment.",
+      "options": {
+        "option": [
+          {
+            "definition": "单独监禁（法律上对囚犯的单独关押）",
+            "iscorrect": true
+          },
+          {
+            "definition": "固体的限制（如物体的固定状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "孤独的限制（仅强调孤独感的约束）",
+            "iscorrect": false
+          },
+          {
+            "definition": "自愿的独居生活（如主动选择的孤独状态）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

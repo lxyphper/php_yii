@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Egypt",
+      "error_analysis": "学生可能因\"Egypt\"与\"egg\"（鸡蛋）的形近拼写（均以\"Eg\"开头）而错误联想，或因混淆\"Egypt\"（国家名）与\"Egyptian\"（埃及人）而误判词义",
+      "sentence": "The Great Pyramid of Giza is located in **Egypt**, a country in North Africa.",
+      "options": {
+        "option": [
+          {
+            "definition": "鸡蛋",
+            "iscorrect": false
+          },
+          {
+            "definition": "埃及人",
+            "iscorrect": false
+          },
+          {
+            "definition": "欧洲",
+            "iscorrect": false
+          },
+          {
+            "definition": "埃及",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

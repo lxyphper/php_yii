@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "solution",
+      "error_analysis": "中国学生易将\"solution\"与形近词\"resolution\"（决议）混淆，或因词根\"solve\"误以为其只有\"溶液\"的含义（当语境为解决办法时）",
+      "sentence": "The company’s new **solution** to reduce energy consumption has been very effective.",
+      "options": {
+        "option": [
+          {
+            "definition": "决议",
+            "iscorrect": false
+          },
+          {
+            "definition": "溶液",
+            "iscorrect": false
+          },
+          {
+            "definition": "溶解过程",
+            "iscorrect": false
+          },
+          {
+            "definition": "解决办法",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

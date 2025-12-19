@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to treat",
+      "error_analysis": "中国学生易因形近词“trade”（交易）的拼写干扰，或误将“treat”理解为“处理”（词根误导）而忽略“对待”的核心义。",
+      "sentence": "The teacher always **treats** her students with kindness and respect.",
+      "options": {
+        "option": [
+          {
+            "definition": "交易",
+            "iscorrect": false
+          },
+          {
+            "definition": "对待",
+            "iscorrect": true
+          },
+          {
+            "definition": "处理",
+            "iscorrect": false
+          },
+          {
+            "definition": "威胁",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

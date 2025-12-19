@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rapidly",
+      "error_analysis": "中国学生易因形近词“recently”（最近地）混淆“rapidly”的核心词义“快速地”",
+      "sentence": "The technology is developing **rapidly**, so we need to keep learning new skills to keep up.",
+      "options": {
+        "option": [
+          {
+            "definition": "快速地",
+            "iscorrect": true
+          },
+          {
+            "definition": "最近地",
+            "iscorrect": false
+          },
+          {
+            "definition": "彻底地",
+            "iscorrect": false
+          },
+          {
+            "definition": "容易地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

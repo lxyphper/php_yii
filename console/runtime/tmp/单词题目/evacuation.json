@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "evacuation",
+      "error_analysis": "易混淆形近词evaluation（评价），或因词根vac（空）误判为“清空物体”而非“人员撤离”。",
+      "sentence": "Due to the approaching hurricane, the local government ordered the **evacuation** of all residents in the coastal area.",
+      "options": {
+        "option": [
+          {
+            "definition": "疏散；撤离（人员）",
+            "iscorrect": true
+          },
+          {
+            "definition": "评价；评估",
+            "iscorrect": false
+          },
+          {
+            "definition": "清空（物体）；腾空",
+            "iscorrect": false
+          },
+          {
+            "definition": "集合；聚集",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

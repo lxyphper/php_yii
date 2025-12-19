@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sweater",
+      "error_analysis": "学生易因形近词\"sweat\"(汗水)或词根\"sweat\"+\"-er\"误判为\"汗衫\"或\"出汗的人\"",
+      "sentence": "She put on a warm **sweater** before going out to play in the snow.",
+      "options": {
+        "option": [
+          {
+            "definition": "毛衣；针织衫",
+            "iscorrect": true
+          },
+          {
+            "definition": "汗衫；运动衫",
+            "iscorrect": false
+          },
+          {
+            "definition": "出汗的人；易出汗的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "衬衫；衬衣",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

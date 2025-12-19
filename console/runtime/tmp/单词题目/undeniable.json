@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "undeniable",
+      "error_analysis": "易因形近词（如unbearable）干扰，或因deny的“拒绝”义项误解为“不可拒绝的”",
+      "sentence": "The evidence of her talent is **undeniable**—she got the first prize in the national competition.",
+      "options": {
+        "option": [
+          {
+            "definition": "不可否认的",
+            "iscorrect": true
+          },
+          {
+            "definition": "难以忍受的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不可拒绝的",
+            "iscorrect": false
+          },
+          {
+            "definition": "难以置信的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

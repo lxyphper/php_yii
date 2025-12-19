@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "electric",
+      "error_analysis": "学生易因形近词\"elegant\"（优雅的）产生视觉混淆，或因词根\"elect\"（选举）误导将\"electric\"理解为\"选举的\"",
+      "sentence": "She decided to buy an **electric** toothbrush for better oral hygiene.",
+      "options": {
+        "option": [
+          {
+            "definition": "电动的；电的",
+            "iscorrect": true
+          },
+          {
+            "definition": "优雅的",
+            "iscorrect": false
+          },
+          {
+            "definition": "选举的",
+            "iscorrect": false
+          },
+          {
+            "definition": "电子的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

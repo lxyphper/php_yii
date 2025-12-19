@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to listen",
+      "error_analysis": "易因形近词list（列表）或lesson（课）的干扰，将listen误理解为“列清单”或“上课”",
+      "sentence": "Please **listen** to the teacher's explanation and take notes carefully.",
+      "options": {
+        "option": [
+          {
+            "definition": "听；倾听",
+            "iscorrect": true
+          },
+          {
+            "definition": "列清单；列举",
+            "iscorrect": false
+          },
+          {
+            "definition": "上课；课程",
+            "iscorrect": false
+          },
+          {
+            "definition": "等待；等候",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "layer",
+      "error_analysis": "易受形近词\"player\"(玩家)干扰，或因词根\"lay\"(放置)误判为\"放置者/铺设者\"",
+      "sentence": "The cake has a thick **layer** of chocolate on top.",
+      "options": {
+        "option": [
+          {
+            "definition": "层",
+            "iscorrect": true
+          },
+          {
+            "definition": "玩家",
+            "iscorrect": false
+          },
+          {
+            "definition": "放置者/铺设者",
+            "iscorrect": false
+          },
+          {
+            "definition": "领导者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

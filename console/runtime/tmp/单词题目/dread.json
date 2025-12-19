@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dread",
+      "error_analysis": "学生易因形近词\"read\"(读)或\"dead\"(死)的联想，将\"dread\"错误理解为\"阅读\"或\"死亡\"",
+      "sentence": "She has a deep **dread** of spiders; they make her heart race whenever she sees one.",
+      "options": {
+        "option": [
+          {
+            "definition": "恐惧；害怕（名词/动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "阅读；朗读（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "死亡；死亡的（名词/形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "梦想；幻想（名词/动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

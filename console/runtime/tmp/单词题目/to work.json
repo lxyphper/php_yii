@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to work",
+      "error_analysis": "学生易因形近词“walk”（走）的干扰，或对“运转”引申义直译为“工作”而产生错误理解。",
+      "sentence": "The old clock my grandpa gave me still **works** perfectly.",
+      "options": {
+        "option": [
+          {
+            "definition": "运转",
+            "iscorrect": true
+          },
+          {
+            "definition": "走",
+            "iscorrect": false
+          },
+          {
+            "definition": "工作",
+            "iscorrect": false
+          },
+          {
+            "definition": "醒来",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "money",
+      "error_analysis": "中国学生易因形近词“monkey”（猴子）的干扰，将“money”误理解为“猴子”",
+      "sentence": "I need to save some **money** to buy a new book for my sister.",
+      "options": {
+        "option": [
+          {
+            "definition": "钱；货币",
+            "iscorrect": true
+          },
+          {
+            "definition": "猴子",
+            "iscorrect": false
+          },
+          {
+            "definition": "月份",
+            "iscorrect": false
+          },
+          {
+            "definition": "蜂蜜",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

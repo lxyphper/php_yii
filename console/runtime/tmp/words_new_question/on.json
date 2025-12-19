@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "on",
+      "error_analysis": "学生易将“on”的“关于”义误解为“在...上面”（字面义干扰），或混淆与“in”的空间介词用法",
+      "sentence": "The teacher asked us to write a short story **on** our favorite holiday.",
+      "options": {
+        "option": [
+          {
+            "definition": "在...上面",
+            "iscorrect": false
+          },
+          {
+            "definition": "在...里面",
+            "iscorrect": false
+          },
+          {
+            "definition": "关于",
+            "iscorrect": true
+          },
+          {
+            "definition": "对于",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "patrol",
+      "error_analysis": "学生易因形近词\"petrol\"(汽油)混淆，或拆分\"pat\"(轻拍)+\"rol\"(滚动)误判为\"轻拍滚动\"",
+      "sentence": "The police officers will **patrol** the streets tonight to make sure everyone is safe.",
+      "options": {
+        "option": [
+          {
+            "definition": "巡逻（动词，指为安全而定期检查某地）",
+            "iscorrect": true
+          },
+          {
+            "definition": "汽油（机动车使用的燃料）",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻拍并滚动（用手轻拍某物使其滚动）",
+            "iscorrect": false
+          },
+          {
+            "definition": "赞助人（支持或资助他人的人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

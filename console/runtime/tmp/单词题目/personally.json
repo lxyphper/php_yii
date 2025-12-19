@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "personally",
+      "error_analysis": "学生易将“personally”误理解为“私人地”（来自“personal”的字面推导）或“关于人的方式”（词根误导），忽略其“就我个人而言”的核心义。",
+      "sentence": "I **personally** think we should give the new plan a try—what do you say?",
+      "options": {
+        "option": [
+          {
+            "definition": "私人地",
+            "iscorrect": false
+          },
+          {
+            "definition": "关于人的方式",
+            "iscorrect": false
+          },
+          {
+            "definition": "个人的",
+            "iscorrect": false
+          },
+          {
+            "definition": "就我个人而言",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

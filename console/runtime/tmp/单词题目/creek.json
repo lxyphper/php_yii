@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "creek",
+      "error_analysis": "中国学生易因形近词\"cream\"(奶油)或\"crack\"(裂缝)混淆\"creek\"的核心词义(小溪)",
+      "sentence": "We found a quiet spot by the **creek** to set up our picnic and listen to the gentle water flow.",
+      "options": {
+        "option": [
+          {
+            "definition": "小溪",
+            "iscorrect": true
+          },
+          {
+            "definition": "奶油",
+            "iscorrect": false
+          },
+          {
+            "definition": "裂缝",
+            "iscorrect": false
+          },
+          {
+            "definition": "板球",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

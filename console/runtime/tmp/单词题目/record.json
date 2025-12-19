@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "record",
+      "error_analysis": "中国学生易因“record”与“recite”（背诵）形近或“cord”（绳子）字面联想而误判",
+      "sentence": "The teacher asked me to keep a **record** of all the books I read this semester.",
+      "options": {
+        "option": [
+          {
+            "definition": "背诵",
+            "iscorrect": false
+          },
+          {
+            "definition": "绳子",
+            "iscorrect": false
+          },
+          {
+            "definition": "恢复",
+            "iscorrect": false
+          },
+          {
+            "definition": "记录",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

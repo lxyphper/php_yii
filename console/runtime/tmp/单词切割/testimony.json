@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "testmony",
+      "testimoney",
+      "testimoni",
+      "testemonie"
+    ],
+    "correct_chunks": [
+      "test",
+      "i",
+      "mo",
+      "ny"
+    ],
+    "distractor_chunks": [
+      "testm",
+      "ney",
+      "ni",
+      "nie"
+    ]
+  },
+  0
+]

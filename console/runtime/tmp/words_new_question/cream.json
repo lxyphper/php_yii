@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cream",
+      "error_analysis": "学生易因形近词“dream”（梦想）的拼写相似而误将“cream”理解为“梦想”",
+      "sentence": "Would you like some **cream** in your coffee? It makes it taste sweeter.",
+      "options": {
+        "option": [
+          {
+            "definition": "梦想",
+            "iscorrect": false
+          },
+          {
+            "definition": "奶油",
+            "iscorrect": true
+          },
+          {
+            "definition": "核心",
+            "iscorrect": false
+          },
+          {
+            "definition": "清洁物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

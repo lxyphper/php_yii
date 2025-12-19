@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pretty",
+      "error_analysis": "学生易因形近词\"petty\"（琐碎的）混淆，或误将\"pretty\"理解为古英语原义\"狡猾的\"。",
+      "sentence": "The **pretty** flower in the vase makes the room look brighter.",
+      "options": {
+        "option": [
+          {
+            "definition": "漂亮的；可爱的",
+            "iscorrect": true
+          },
+          {
+            "definition": "琐碎的；不重要的",
+            "iscorrect": false
+          },
+          {
+            "definition": "狡猾的；诡计多端的",
+            "iscorrect": false
+          },
+          {
+            "definition": "非常；极其",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

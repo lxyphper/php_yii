@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to nourish",
+      "error_analysis": "学生易因形近词“nurse”误判为“护理”，或因词根混淆误与“培育”“营养（名词）”关联。",
+      "sentence": "Mother's milk is the best way to **nourish** a newborn baby.",
+      "options": {
+        "option": [
+          {
+            "definition": "护理；照顾",
+            "iscorrect": false
+          },
+          {
+            "definition": "培育；培养",
+            "iscorrect": false
+          },
+          {
+            "definition": "滋养；养育",
+            "iscorrect": true
+          },
+          {
+            "definition": "营养；养分",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

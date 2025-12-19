@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "empowering",
+      "error_analysis": "易因形近词\"powering\"（驱动的）或词根\"power\"直译为\"强大的\"而误解其\"赋能/鼓舞\"的核心含义",
+      "sentence": "The workshop on financial literacy was really **empowering** for young entrepreneurs, helping them take control of their businesses.",
+      "options": {
+        "option": [
+          {
+            "definition": "使有力量的；赋能的；鼓舞人心的",
+            "iscorrect": true
+          },
+          {
+            "definition": "驱动的；给…供电的",
+            "iscorrect": false
+          },
+          {
+            "definition": "强大的；有力量的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有权力的；权威的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

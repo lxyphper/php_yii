@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dreary",
+      "error_analysis": "学生易因“dreary”与常见词“dreamy”（梦幻的）形近而混淆，误将其理解为“梦幻的、迷人的”。",
+      "sentence": "She found the lecture so **dreary** that she almost fell asleep.",
+      "options": {
+        "option": [
+          {
+            "definition": "沉闷的；枯燥的",
+            "iscorrect": true
+          },
+          {
+            "definition": "梦幻的；迷人的",
+            "iscorrect": false
+          },
+          {
+            "definition": "干燥的；缺水的",
+            "iscorrect": false
+          },
+          {
+            "definition": "亲爱的；昂贵的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to scale up",
+      "error_analysis": "学生易因“scale”的“攀登”或“测量”义，将“to scale up”误解为“爬上去”或“测量上升”。",
+      "sentence": "The company decided to **scale up** its operations in Asia to meet the growing demand for its products.",
+      "options": {
+        "option": [
+          {
+            "definition": "扩大规模；增加数量",
+            "iscorrect": true
+          },
+          {
+            "definition": "爬上去；攀登到高处",
+            "iscorrect": false
+          },
+          {
+            "definition": "测量并记录上升情况",
+            "iscorrect": false
+          },
+          {
+            "definition": "刮去（鱼等的）鳞片",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": true,
+      "error_analysis": "学生易因形近词“tree”（树）的拼写相似而误将“true”理解为与“树”相关的含义。",
+      "sentence": "Is the story you told me **true**? I can't believe such a thing happened.",
+      "options": {
+        "option": [
+          {
+            "definition": "真实的；正确的",
+            "iscorrect": true
+          },
+          {
+            "definition": "树",
+            "iscorrect": false
+          },
+          {
+            "definition": "尝试",
+            "iscorrect": false
+          },
+          {
+            "definition": "信任",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "submicroscopic",
+      "error_analysis": "学生易将“sub-”误解为“在...下面”或“次要”，从而把“submicroscopic”错误理解为“在显微镜下的”或“次要的显微镜相关的”",
+      "sentence": "The structure of atoms is **submicroscopic**, meaning they cannot be seen with a regular light microscope.",
+      "options": {
+        "option": [
+          {
+            "definition": "亚微观的（比普通显微镜能观察到的更小的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "在显微镜下可见的",
+            "iscorrect": false
+          },
+          {
+            "definition": "次要的显微镜设备",
+            "iscorrect": false
+          },
+          {
+            "definition": "用显微镜放大的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

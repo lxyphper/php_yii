@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "grandpa",
+      "error_analysis": "易混淆形近词\"grandma\"(奶奶)的性别，或因\"grand-\"（宏大的）+ \"pa\"（爸爸）误判为\"伟大的爸爸\"",
+      "sentence": "Every Sunday morning, my **grandpa** takes me to the park to fly kites and buy ice cream.",
+      "options": {
+        "option": [
+          {
+            "definition": "爷爷；外公",
+            "iscorrect": true
+          },
+          {
+            "definition": "奶奶；外婆",
+            "iscorrect": false
+          },
+          {
+            "definition": "伟大的爸爸",
+            "iscorrect": false
+          },
+          {
+            "definition": "叔叔；舅舅",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

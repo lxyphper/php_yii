@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "blackmail",
+      "error_analysis": "学生易将\"black\"与\"mail\"字面意思结合，误以为是\"黑色邮件\"或\"恶意信件\"，而非正确的\"敲诈、勒索\"。",
+      "sentence": "The man was arrested for trying to **blackmail** his boss by threatening to expose the company's illegal activities.",
+      "options": {
+        "option": [
+          {
+            "definition": "敲诈；勒索",
+            "iscorrect": true
+          },
+          {
+            "definition": "黑色邮件（恶意或威胁性的电子邮件）",
+            "iscorrect": false
+          },
+          {
+            "definition": "恶意的信件（带有威胁内容的信件）",
+            "iscorrect": false
+          },
+          {
+            "definition": "黑名单（记录不受欢迎的人的名单）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

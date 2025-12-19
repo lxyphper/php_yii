@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "winter",
+      "error_analysis": "中国学生易因形近词\"winner\"（赢家）的拼写混淆，将\"winter\"错误联想为\"赢家\"。",
+      "sentence": "In **winter**, people often wear thick coats and gloves to stay warm outdoors.",
+      "options": {
+        "option": [
+          {
+            "definition": "赢家",
+            "iscorrect": false
+          },
+          {
+            "definition": "天气",
+            "iscorrect": false
+          },
+          {
+            "definition": "冬季",
+            "iscorrect": true
+          },
+          {
+            "definition": "漫步",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

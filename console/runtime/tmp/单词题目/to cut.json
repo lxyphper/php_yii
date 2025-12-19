@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to cut",
+      "error_analysis": "中国学生易因“cut”与不规则动词“cost”（花费）拼写/形式相近，或与“put”（放）发音/拼写相似而混淆词义。",
+      "sentence": "Please **cut** the apple into small pieces for the salad.",
+      "options": {
+        "option": [
+          {
+            "definition": "切，割",
+            "iscorrect": true
+          },
+          {
+            "definition": "花费",
+            "iscorrect": false
+          },
+          {
+            "definition": "放",
+            "iscorrect": false
+          },
+          {
+            "definition": "可爱的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

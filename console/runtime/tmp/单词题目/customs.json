@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "customs",
+      "error_analysis": "将\"customs\"误解为\"习俗\"的复数（因\"custom\"意为\"习俗\"，复数形式相同但含义不同）",
+      "sentence": "When we arrived in Tokyo, we had to wait in line at **customs** to declare our souvenirs.",
+      "options": {
+        "option": [
+          {
+            "definition": "海关",
+            "iscorrect": true
+          },
+          {
+            "definition": "习俗（复数）",
+            "iscorrect": false
+          },
+          {
+            "definition": "服装",
+            "iscorrect": false
+          },
+          {
+            "definition": "顾客",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

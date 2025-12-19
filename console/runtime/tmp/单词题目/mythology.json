@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mythology",
+      "error_analysis": "学生易混淆mythology（神话学/神话体系）与myth（神话故事），误将其理解为具体神话内容而非系统的神话研究或体系。",
+      "sentence": "The course on **Greek mythology** explores the origins and cultural meanings of gods like Zeus and heroes like Hercules.",
+      "options": {
+        "option": [
+          {
+            "definition": "神话学；神话体系",
+            "iscorrect": true
+          },
+          {
+            "definition": "神话故事；传说",
+            "iscorrect": false
+          },
+          {
+            "definition": "生物学；生命科学",
+            "iscorrect": false
+          },
+          {
+            "definition": "方法论；研究方法",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

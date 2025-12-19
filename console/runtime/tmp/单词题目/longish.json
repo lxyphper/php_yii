@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "longish",
+      "error_analysis": "学生易误将“longish”理解为“很长的”（因“-ish”后缀的误用）或等同于“long”（未区分程度）",
+      "sentence": "The meeting was **longish**, but not unbearable.",
+      "options": {
+        "option": [
+          {
+            "definition": "很长的",
+            "iscorrect": false
+          },
+          {
+            "definition": "长的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有点长的；稍长的",
+            "iscorrect": true
+          },
+          {
+            "definition": "更长的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

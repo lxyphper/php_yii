@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bicycle",
+      "error_analysis": "中国学生易因形近词\"recycle\"（回收）的\"cycle\"部分混淆，或误将\"bi-\"（双）与\"cycle\"（周期）组合理解为\"双周期\"。",
+      "sentence": "She rides her **bicycle** to school every morning to avoid traffic jams.",
+      "options": {
+        "option": [
+          {
+            "definition": "自行车",
+            "iscorrect": true
+          },
+          {
+            "definition": "回收",
+            "iscorrect": false
+          },
+          {
+            "definition": "双周期",
+            "iscorrect": false
+          },
+          {
+            "definition": "摩托车",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

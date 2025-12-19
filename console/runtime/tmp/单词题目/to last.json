@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to last",
+      "error_analysis": "学生易因形容词“last”的字面误导将动词“to last”误解为“成为最后一个”。",
+      "sentence": "The concert **lasted** from 7 pm to 10 pm, so we didn’t get home until midnight.",
+      "options": {
+        "option": [
+          {
+            "definition": "持续；维持（一段时间）",
+            "iscorrect": true
+          },
+          {
+            "definition": "成为最后一个",
+            "iscorrect": false
+          },
+          {
+            "definition": "结束",
+            "iscorrect": false
+          },
+          {
+            "definition": "丢失",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

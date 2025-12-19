@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "maladministration",
+      "error_analysis": "核心易错点为忽略前缀“mal-”（坏的）将词误判为“管理”，或误将“mal-”联想为“male”（男性）导致理解为“男性管理”",
+      "sentence": "The public protested against the **maladministration** of the local government, which led to severe water shortages in the city.",
+      "options": {
+        "option": [
+          {
+            "definition": "管理不善；行政失当",
+            "iscorrect": true
+          },
+          {
+            "definition": "管理；行政",
+            "iscorrect": false
+          },
+          {
+            "definition": "男性主导的管理",
+            "iscorrect": false
+          },
+          {
+            "definition": "过度管理",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

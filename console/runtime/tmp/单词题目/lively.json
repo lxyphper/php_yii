@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lively",
+      "error_analysis": "易混淆形近词\"live\"（活的/直播的）及对\"ly\"后缀的错误理解（误作副词或直接关联\"活的\"）",
+      "sentence": "The classroom was filled with **lively** discussions as students shared their ideas enthusiastically.",
+      "options": {
+        "option": [
+          {
+            "definition": "活泼的；热闹的",
+            "iscorrect": true
+          },
+          {
+            "definition": "活的；有生命的",
+            "iscorrect": false
+          },
+          {
+            "definition": "生动地（副词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "直播的；现场的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

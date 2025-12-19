@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mystifying",
+      "error_analysis": "学生易将\"mystifying\"误当作\"mysterious\"（神秘的）或因\"modify\"形近误判为\"修改过的\"",
+      "sentence": "The instructions for assembling the furniture were so **mystifying** that even my dad, who's good at DIY, gave up after an hour.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人困惑的",
+            "iscorrect": true
+          },
+          {
+            "definition": "神秘的",
+            "iscorrect": false
+          },
+          {
+            "definition": "修改过的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人着迷的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

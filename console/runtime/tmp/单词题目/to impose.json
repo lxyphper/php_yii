@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to impose",
+      "error_analysis": "中国学生常因形近词\"impress\"（留下印象）或\"expose\"（暴露）而误判\"impose\"的核心含义。",
+      "sentence": "The city council plans to **impose** a ban on single-use plastics next year to reduce pollution.",
+      "options": {
+        "option": [
+          {
+            "definition": "强加；实施（禁令/罚款等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "留下印象；使铭记",
+            "iscorrect": false
+          },
+          {
+            "definition": "暴露；揭露",
+            "iscorrect": false
+          },
+          {
+            "definition": "提议；建议",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

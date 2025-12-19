@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "superfluous",
+      "error_analysis": "易因\"super-\"开头的形近词（如superb/极好的）误判为正面含义，或因\"flu-\"词根（如fluent/流利的）误猜为\"超级流利的\"",
+      "sentence": "The manager asked us to remove any **superfluous** details from the report to make it more concise.",
+      "options": {
+        "option": [
+          {
+            "definition": "多余的，不必要的",
+            "iscorrect": true
+          },
+          {
+            "definition": "极好的，卓越的",
+            "iscorrect": false
+          },
+          {
+            "definition": "超级流利的",
+            "iscorrect": false
+          },
+          {
+            "definition": "表面的，肤浅的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

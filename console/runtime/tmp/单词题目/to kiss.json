@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to kiss",
+      "error_analysis": "因形近词\"miss\"（想念；错过）的干扰，易将\"kiss\"错误理解为\"想念\"或\"错过\"",
+      "sentence": "They hugged and **kissed** each other goodbye at the airport.",
+      "options": {
+        "option": [
+          {
+            "definition": "亲吻",
+            "iscorrect": true
+          },
+          {
+            "definition": "想念；错过",
+            "iscorrect": false
+          },
+          {
+            "definition": "嘶嘶声（如蛇叫）",
+            "iscorrect": false
+          },
+          {
+            "definition": "钥匙",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

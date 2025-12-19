@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sometimes",
+      "error_analysis": "混淆形近词（如sometime/some time）或字面直译，误将其理解为“某个时候”“一段时间”或“一些次数”",
+      "sentence": "I **sometimes** go for a walk in the park after dinner, but not every day.",
+      "options": {
+        "option": [
+          {
+            "definition": "偶尔；有时（表示动作发生的频率，不是每天）",
+            "iscorrect": true
+          },
+          {
+            "definition": "某个时候（指未来或过去的某一不确定时间）",
+            "iscorrect": false
+          },
+          {
+            "definition": "一段时间（指持续的时长）",
+            "iscorrect": false
+          },
+          {
+            "definition": "一些次数（指动作发生的次数）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

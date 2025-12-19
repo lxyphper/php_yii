@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to sit",
+      "error_analysis": "中国学生易因形近词“to set”（设置、放置）或“site”（地点）的干扰，将“to sit”误理解为非“坐”的核心含义",
+      "sentence": "She likes to **sit** by the window and read a book every evening.",
+      "options": {
+        "option": [
+          {
+            "definition": "坐；就座",
+            "iscorrect": true
+          },
+          {
+            "definition": "设置；放置",
+            "iscorrect": false
+          },
+          {
+            "definition": "地点；场所",
+            "iscorrect": false
+          },
+          {
+            "definition": "使就座（及物动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

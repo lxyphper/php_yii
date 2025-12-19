@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "manipulative",
+      "error_analysis": "学生易因词根\"man-\"（手）误导为\"手动的\"，或因形近词\"manageable\"（易管理的）混淆词义",
+      "sentence": "The politician used **manipulative** tactics to gain support from unsuspecting voters.",
+      "options": {
+        "option": [
+          {
+            "definition": "操纵性的，控制他人的",
+            "iscorrect": true
+          },
+          {
+            "definition": "手动的，用手操作的",
+            "iscorrect": false
+          },
+          {
+            "definition": "易管理的，可处理的",
+            "iscorrect": false
+          },
+          {
+            "definition": "合作的，配合的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

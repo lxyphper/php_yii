@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "incidental",
+      "error_analysis": "学生易因形近词\"incident\"(事件)或词根直译，将\"incidental\"误理解为\"与事件相关的\"或\"事件的\"。",
+      "sentence": "The main goal of the project is to improve public health, and any increase in tourism is **incidental**.",
+      "options": {
+        "option": [
+          {
+            "definition": "附带的；非主要的",
+            "iscorrect": true
+          },
+          {
+            "definition": "与事件相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "事件的",
+            "iscorrect": false
+          },
+          {
+            "definition": "重要的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

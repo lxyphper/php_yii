@@ -1,0 +1,26 @@
+[
+  {
+    "common_misspellings": [
+      "few and far betwen",
+      "few and far bewteen",
+      "few and for between",
+      "few an far between",
+      "few and far beetwen"
+    ],
+    "correct_chunks": [
+      "few",
+      "and",
+      "far",
+      "be",
+      "tween"
+    ],
+    "distractor_chunks": [
+      "betwen",
+      "bewteen",
+      "for",
+      "an",
+      "beetwen"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "swamp",
+      "error_analysis": "学生易因形近词\"swim\"（游泳）联想错误，将\"swamp\"误判为\"泳池\"或\"游泳区\"；或因\"水\"的直觉猜测误判为\"洪水\"。",
+      "sentence": "After the heavy rain, the low-lying field turned into a **swamp**, making it impossible to walk through without getting stuck.",
+      "options": {
+        "option": [
+          {
+            "definition": "泳池（swimming pool）",
+            "iscorrect": false
+          },
+          {
+            "definition": "沼泽（wet, muddy area）",
+            "iscorrect": true
+          },
+          {
+            "definition": "洪水（flood）",
+            "iscorrect": false
+          },
+          {
+            "definition": "营地（camp）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

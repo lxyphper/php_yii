@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "game",
+      "error_analysis": "中国学生易因“game”与“gain”（获得）、“gem”（宝石）形近或联想“gambler”误判为“获得”“宝石”或“赌博”。",
+      "sentence": "Let's play a **game** of chess after dinner—my brother always beats me!",
+      "options": {
+        "option": [
+          {
+            "definition": "获得",
+            "iscorrect": false
+          },
+          {
+            "definition": "宝石",
+            "iscorrect": false
+          },
+          {
+            "definition": "游戏；比赛",
+            "iscorrect": true
+          },
+          {
+            "definition": "赌博",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

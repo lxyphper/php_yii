@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "possible",
+      "error_analysis": "学生易因形近词“pose”（摆姿势）或词根“pos-”（放置）的字面误导，将“possible”误理解为“可摆姿势的”或“可放置的”。",
+      "sentence": "She believes it's **possible** to master basic cooking skills in a month.",
+      "options": {
+        "option": [
+          {
+            "definition": "可能的",
+            "iscorrect": true
+          },
+          {
+            "definition": "可摆姿势的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可放置的",
+            "iscorrect": false
+          },
+          {
+            "definition": "很可能的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

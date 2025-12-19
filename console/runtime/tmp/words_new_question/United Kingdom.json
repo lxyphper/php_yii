@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "United Kingdom",
+      "error_analysis": "学生易混淆“United Kingdom”（英国正式国名）与“Great Britain”（大不列颠），或字面直译忽略其具体国家所指。",
+      "sentence": "The **United Kingdom** is a sovereign state in Europe, composed of England, Scotland, Wales, and Northern Ireland.",
+      "options": {
+        "option": [
+          {
+            "definition": "英国（正式国名，由英格兰、苏格兰、威尔士和北爱尔兰组成）",
+            "iscorrect": true
+          },
+          {
+            "definition": "大不列颠（英格兰、苏格兰、威尔士的地理合称）",
+            "iscorrect": false
+          },
+          {
+            "definition": "联合的王国（仅字面翻译，未指明具体国家）",
+            "iscorrect": false
+          },
+          {
+            "definition": "英格兰（英国的一个构成国，常被误代指整个英国）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

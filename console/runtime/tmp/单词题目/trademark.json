@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "trademark",
+      "error_analysis": "学生易将\"trade\"与\"mark\"字面相加，错误理解为\"贸易标记\"，而非其核心词义\"商标\"",
+      "sentence": "The company successfully registered its new **trademark** for the logo, which features a red apple with a bite taken out of it.",
+      "options": {
+        "option": [
+          {
+            "definition": "贸易标记",
+            "iscorrect": false
+          },
+          {
+            "definition": "品牌名称",
+            "iscorrect": false
+          },
+          {
+            "definition": "商标",
+            "iscorrect": true
+          },
+          {
+            "definition": "商业分数",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

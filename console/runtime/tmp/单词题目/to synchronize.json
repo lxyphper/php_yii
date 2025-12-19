@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to synchronize",
+      "error_analysis": "学生易因形近词\"sympathize\"（同情）产生错误联想，或因词根\"chron-\"（时间）误判为\"记录时间\"",
+      "sentence": "Before the meeting, please **synchronize** your phone clock with the office server to avoid being late.",
+      "options": {
+        "option": [
+          {
+            "definition": "使（时间、动作等）同步",
+            "iscorrect": true
+          },
+          {
+            "definition": "同情；怜悯",
+            "iscorrect": false
+          },
+          {
+            "definition": "记录时间；编写编年史",
+            "iscorrect": false
+          },
+          {
+            "definition": "协调；安排（会议等）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "handtomouth",
+      "hand-too-mouth",
+      "hand-two-mouth",
+      "handto-mouth",
+      "hand-to-mout"
+    ],
+    "correct_chunks": [
+      "hand",
+      "-to-",
+      "mouth"
+    ],
+    "distractor_chunks": [
+      "handto",
+      "-too-",
+      "-two-",
+      "mout",
+      "mouths"
+    ]
+  },
+  0
+]

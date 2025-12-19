@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "immense",
+      "error_analysis": "学生易因形近词“immerse”（沉浸）混淆词义，或因词根“im-”+“measure”过度推导为“无法衡量的”。",
+      "sentence": "The museum has an **immense** collection of ancient artifacts, covering three floors of the building.",
+      "options": {
+        "option": [
+          {
+            "definition": "极大的；巨大的",
+            "iscorrect": true
+          },
+          {
+            "definition": "沉浸的；专注的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无法衡量的；难以评估的",
+            "iscorrect": false
+          },
+          {
+            "definition": "强烈的；激烈的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "symbol",
+      "error_analysis": "易因形近词\"simple\"混淆为\"简单的\"，或因词根\"sym-\"错误推导为\"相同的物体\"",
+      "sentence": "The dove is a widely recognized **symbol** of peace around the world.",
+      "options": {
+        "option": [
+          {
+            "definition": "象征；符号",
+            "iscorrect": true
+          },
+          {
+            "definition": "简单的；容易的",
+            "iscorrect": false
+          },
+          {
+            "definition": "相同的物体",
+            "iscorrect": false
+          },
+          {
+            "definition": "信号；暗号",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

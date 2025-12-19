@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "movietheater",
+      "moive",
+      "theiter",
+      "sater",
+      "theter"
+    ],
+    "correct_chunks": [
+      "mov",
+      "ie",
+      "thea",
+      "ter"
+    ],
+    "distractor_chunks": [
+      "moiv",
+      "thei",
+      "moviet",
+      "sat",
+      "thet"
+    ]
+  },
+  0
+]

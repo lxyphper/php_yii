@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "beef",
+      "error_analysis": "学生易因形近词\"beer\"（啤酒）或对\"bee\"（蜜蜂）的联想而误判\"beef\"的核心词义。",
+      "sentence": "We had roast **beef** and potatoes for dinner last night.",
+      "options": {
+        "option": [
+          {
+            "definition": "牛肉",
+            "iscorrect": true
+          },
+          {
+            "definition": "啤酒",
+            "iscorrect": false
+          },
+          {
+            "definition": "蜜蜂",
+            "iscorrect": false
+          },
+          {
+            "definition": "抱怨（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

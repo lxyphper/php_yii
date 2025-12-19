@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fare",
+      "error_analysis": "学生易因形近词“fair”（公平的；集市）或“far”（远的）的干扰，将“fare”误判为“公平”“集市”或“远的距离”",
+      "sentence": "The bus **fare** to the city center is five dollars per person.",
+      "options": {
+        "option": [
+          {
+            "definition": "公平的；集市",
+            "iscorrect": false
+          },
+          {
+            "definition": "远的距离",
+            "iscorrect": false
+          },
+          {
+            "definition": "车费；船费",
+            "iscorrect": true
+          },
+          {
+            "definition": "害怕；恐惧",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

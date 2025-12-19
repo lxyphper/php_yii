@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "toxin",
+      "error_analysis": "中国学生易因形近词“token”（代币）或“ton”（吨）混淆，或因“toxic”关联误判为“有毒的气体”。",
+      "sentence": "The mushroom contains a **toxin** that can cause liver damage if eaten.",
+      "options": {
+        "option": [
+          {
+            "definition": "毒素（由生物产生的有毒物质）",
+            "iscorrect": true
+          },
+          {
+            "definition": "代币；符号",
+            "iscorrect": false
+          },
+          {
+            "definition": "吨；重量单位",
+            "iscorrect": false
+          },
+          {
+            "definition": "有毒的气体",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

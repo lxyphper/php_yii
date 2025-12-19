@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "of",
+      "error_analysis": "中国学生易将“of”与形近词“off”混淆，误理解为“离开；关闭”。",
+      "sentence": "This is a photo **of** my grandparents taken in 1980.",
+      "options": {
+        "option": [
+          {
+            "definition": "（表示所属、数量或特征等）……的",
+            "iscorrect": true
+          },
+          {
+            "definition": "离开；关闭",
+            "iscorrect": false
+          },
+          {
+            "definition": "从……来；出自",
+            "iscorrect": false
+          },
+          {
+            "definition": "对于；为了",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

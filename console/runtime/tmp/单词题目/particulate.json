@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "particulate",
+      "error_analysis": "易因形近词“participate”(参与)误解为“参与的”，或因词根误拆“part+late”理解为“部分迟到的”",
+      "sentence": "The city has launched a campaign to monitor **particulate** levels in the air, as high concentrations can cause respiratory problems.",
+      "options": {
+        "option": [
+          {
+            "definition": "参与的",
+            "iscorrect": false
+          },
+          {
+            "definition": "微粒的；颗粒的",
+            "iscorrect": true
+          },
+          {
+            "definition": "部分迟到的",
+            "iscorrect": false
+          },
+          {
+            "definition": "详细划分的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

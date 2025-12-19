@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to graze",
+      "error_analysis": "学生易因形近词“gaze”（凝视）混淆，或误将“graze”理解为与“草”相关的“割草”而非“吃草”。",
+      "sentence": "The sheep were left to **graze** in the meadow all afternoon.",
+      "options": {
+        "option": [
+          {
+            "definition": "（动物）吃草；放牧",
+            "iscorrect": true
+          },
+          {
+            "definition": "凝视；注视",
+            "iscorrect": false
+          },
+          {
+            "definition": "割草；修剪草坪",
+            "iscorrect": false
+          },
+          {
+            "definition": "抓住；夺取",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

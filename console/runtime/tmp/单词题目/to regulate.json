@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to regulate",
+      "error_analysis": "易因形近词\"regular\"(常规的)误判为\"使常规化\"，或词根\"reg-\"(统治)误导为\"统治/控制\"",
+      "sentence": "The thermostat is designed to **regulate** the temperature in the room automatically.",
+      "options": {
+        "option": [
+          {
+            "definition": "调节；管理；规范",
+            "iscorrect": true
+          },
+          {
+            "definition": "使成为常规；使定期",
+            "iscorrect": false
+          },
+          {
+            "definition": "统治；控制",
+            "iscorrect": false
+          },
+          {
+            "definition": "修复；恢复",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

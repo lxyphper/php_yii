@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "eerie",
+      "error_analysis": "学生易将“eerie”与形近词“early”（早的）混淆，或误猜为中性的“奇怪的”（忽略其“阴森恐怖”的核心语义）",
+      "sentence": "As we explored the old, dusty attic at midnight, we suddenly heard a soft, **eerie** laugh that made our hair stand on end.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人毛骨悚然的",
+            "iscorrect": true
+          },
+          {
+            "definition": "早的",
+            "iscorrect": false
+          },
+          {
+            "definition": "渴望的",
+            "iscorrect": false
+          },
+          {
+            "definition": "奇怪的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

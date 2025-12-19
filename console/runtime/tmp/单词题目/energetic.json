@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "energetic",
+      "error_analysis": "学生易将\"energetic\"与形近词\"economic\"（经济的）混淆，或通过词根\"energy\"过度直译为\"有能量的\"而忽略常用义\"精力充沛的\"。",
+      "sentence": "The little boy is so **energetic** that he never stops running around the playground.",
+      "options": {
+        "option": [
+          {
+            "definition": "精力充沛的",
+            "iscorrect": true
+          },
+          {
+            "definition": "经济的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有能量的",
+            "iscorrect": false
+          },
+          {
+            "definition": "热情的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

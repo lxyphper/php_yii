@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "putrid",
+      "error_analysis": "学生易因形近词“pure”（纯的）产生联想，或误将“put”（放）与“rid”（摆脱）组合猜测词义",
+      "sentence": "After leaving the meat in the fridge for two weeks, it developed a **putrid** smell that made everyone in the house gag.",
+      "options": {
+        "option": [
+          {
+            "definition": "腐烂的；发臭的",
+            "iscorrect": true
+          },
+          {
+            "definition": "纯的；洁净的",
+            "iscorrect": false
+          },
+          {
+            "definition": "放置的；存放的",
+            "iscorrect": false
+          },
+          {
+            "definition": "新鲜的；刚采摘的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

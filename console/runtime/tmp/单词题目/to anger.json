@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to anger",
+      "error_analysis": "中国学生易将动词“to anger”误判为名词“愤怒”（词根误导）或形近词“angle”（调整角度）",
+      "sentence": "His rude comments about her work **angered** her more than he realized.",
+      "options": {
+        "option": [
+          {
+            "definition": "使生气",
+            "iscorrect": true
+          },
+          {
+            "definition": "愤怒（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "调整角度",
+            "iscorrect": false
+          },
+          {
+            "definition": "生气的（形容词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

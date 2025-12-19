@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to rub",
+      "error_analysis": "中国学生易混淆形近词“rob”（抢劫）或因“rubber”（橡胶）联想误判“to rub”的动词义。",
+      "sentence": "She **rubbed** her temples gently to ease the headache.",
+      "options": {
+        "option": [
+          {
+            "definition": "摩擦；揉",
+            "iscorrect": true
+          },
+          {
+            "definition": "抢劫；抢夺",
+            "iscorrect": false
+          },
+          {
+            "definition": "橡胶；橡皮",
+            "iscorrect": false
+          },
+          {
+            "definition": "刷洗；擦洗",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ramp",
+      "error_analysis": "中国学生易因形近词“lamp”（灯）混淆，或因“ram”（公羊）词根猜测与动物相关含义，误判其核心义。",
+      "sentence": "The store built a wheelchair-accessible **ramp** at the entrance to help customers with mobility issues.",
+      "options": {
+        "option": [
+          {
+            "definition": "斜坡；坡道",
+            "iscorrect": true
+          },
+          {
+            "definition": "灯",
+            "iscorrect": false
+          },
+          {
+            "definition": "公羊的角",
+            "iscorrect": false
+          },
+          {
+            "definition": "营地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

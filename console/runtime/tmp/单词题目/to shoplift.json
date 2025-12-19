@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to shoplift",
+      "error_analysis": "学生易将\"shoplift\"拆分为\"shop\"+\"lift\"，误理解为“在商店里举东西”或“乘电梯去商店”，忽略其“商店行窃”的核心词义",
+      "sentence": "The security guard caught the teenager trying to **shoplift** a pair of sneakers from the mall.",
+      "options": {
+        "option": [
+          {
+            "definition": "商店行窃",
+            "iscorrect": true
+          },
+          {
+            "definition": "在商店里举东西",
+            "iscorrect": false
+          },
+          {
+            "definition": "制定购物清单",
+            "iscorrect": false
+          },
+          {
+            "definition": "乘坐电梯去商店",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

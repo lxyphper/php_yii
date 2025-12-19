@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "upsurge",
+      "error_analysis": "学生易因形近词\"upset\"误判为\"不安\"，或因\"up+surge\"词根误解为\"上升的波动\"",
+      "sentence": "There has been a recent **upsurge** in demand for electric vehicles due to rising fuel prices.",
+      "options": {
+        "option": [
+          {
+            "definition": "激增；猛增",
+            "iscorrect": true
+          },
+          {
+            "definition": "不安；混乱",
+            "iscorrect": false
+          },
+          {
+            "definition": "上升的浪；波动",
+            "iscorrect": false
+          },
+          {
+            "definition": "突然的停止；中断",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

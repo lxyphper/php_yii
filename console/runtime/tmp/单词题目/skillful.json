@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "skillful",
+      "error_analysis": "学生易因“skill”+“-ful”过度直译误为“有很多技能的”，或因与“successful”形近直觉联想为“成功的”",
+      "sentence": "The **skillful** carpenter built the cabinet in just one day, showing his ability to handle tools with precision.",
+      "options": {
+        "option": [
+          {
+            "definition": "熟练的；有技巧的",
+            "iscorrect": true
+          },
+          {
+            "definition": "成功的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有很多技能的",
+            "iscorrect": false
+          },
+          {
+            "definition": "聪明的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

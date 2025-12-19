@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fairy tale",
+      "error_analysis": "易混淆形近词\"fairy tail\"(仙女的尾巴)，或因\"fairy\"(仙女)和\"tale\"(故事)的字面组合误判为\"仙女的故事\"。",
+      "sentence": "Children love listening to **fairy tales** like *Cinderella* before going to bed.",
+      "options": {
+        "option": [
+          {
+            "definition": "童话",
+            "iscorrect": true
+          },
+          {
+            "definition": "仙女的尾巴",
+            "iscorrect": false
+          },
+          {
+            "definition": "仙女的故事",
+            "iscorrect": false
+          },
+          {
+            "definition": "魔法的传说",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

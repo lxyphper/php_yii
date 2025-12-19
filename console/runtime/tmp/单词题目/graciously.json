@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "graciously",
+      "error_analysis": "学生易因形近词\"gratefully\"(感激地)混淆，或因词根\"grace\"(优雅)误判为\"优雅地\"(gracefully)。",
+      "sentence": "When we arrived late, the host **graciously** offered us a seat and apologized for the wait.",
+      "options": {
+        "option": [
+          {
+            "definition": "感激地",
+            "iscorrect": false
+          },
+          {
+            "definition": "亲切地；有礼貌地",
+            "iscorrect": true
+          },
+          {
+            "definition": "优雅地",
+            "iscorrect": false
+          },
+          {
+            "definition": "极大地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "briny",
+      "error_analysis": "学生易因形近词“brainy”（聪明的）产生干扰，或因对“brine”（盐水）词根不熟悉而误判为“苦涩的”等味道。",
+      "sentence": "After splashing in the ocean for hours, her lips had a strong **briny** taste from the seawater.",
+      "options": {
+        "option": [
+          {
+            "definition": "聪明的",
+            "iscorrect": false
+          },
+          {
+            "definition": "咸的；含盐的",
+            "iscorrect": true
+          },
+          {
+            "definition": "苦涩的",
+            "iscorrect": false
+          },
+          {
+            "definition": "浑浊的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "page",
+      "error_analysis": "学生易因形近词“phase”（阶段）或“pace”（步伐）产生错误联想，将“page”误判为“阶段”或“步伐”。",
+      "sentence": "Please turn to the third **page** of your textbook to find the exercise.",
+      "options": {
+        "option": [
+          {
+            "definition": "页（书/杂志等的单张）",
+            "iscorrect": true
+          },
+          {
+            "definition": "阶段（事物发展的某个时期）",
+            "iscorrect": false
+          },
+          {
+            "definition": "步伐（行走或跑步的速度）",
+            "iscorrect": false
+          },
+          {
+            "definition": "鸽子（一种常见的鸟类）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

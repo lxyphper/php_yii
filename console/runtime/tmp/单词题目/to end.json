@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to end",
+      "error_analysis": "学生易因“end”与基础词汇“and”形近产生视觉混淆，或过度依赖“end”的名词义（结尾）而忽略其动词“结束”的核心义",
+      "sentence": "The teacher decided to **end** the class 10 minutes early because of the rain.",
+      "options": {
+        "option": [
+          {
+            "definition": "结束（动词，使某事物停止或终止）",
+            "iscorrect": true
+          },
+          {
+            "definition": "和（连词，连接并列成分）",
+            "iscorrect": false
+          },
+          {
+            "definition": "结尾（名词，事物的最后部分）",
+            "iscorrect": false
+          },
+          {
+            "definition": "开始（动词，使某事物开始）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

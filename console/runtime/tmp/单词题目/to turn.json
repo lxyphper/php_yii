@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to turn",
+      "error_analysis": "中国学生易因形近词“tune”（调整）的干扰将“turn”误理解为“调整”，或因词根字面误导将其过度引申为“扭曲”。",
+      "sentence": "**Turn** right at the next corner, and you'll see the library.",
+      "options": {
+        "option": [
+          {
+            "definition": "转向",
+            "iscorrect": true
+          },
+          {
+            "definition": "调整",
+            "iscorrect": false
+          },
+          {
+            "definition": "扭曲",
+            "iscorrect": false
+          },
+          {
+            "definition": "返回",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

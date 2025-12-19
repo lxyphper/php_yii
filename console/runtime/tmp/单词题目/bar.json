@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bar",
+      "error_analysis": "学生易因形近词\"bare\"(光秃的)或直觉联想\"酒吧\"而忽略\"条/棒\"的常见义",
+      "sentence": "Please pass me that **bar** of soap on the sink.",
+      "options": {
+        "option": [
+          {
+            "definition": "条/棒",
+            "iscorrect": true
+          },
+          {
+            "definition": "酒吧",
+            "iscorrect": false
+          },
+          {
+            "definition": "光秃的",
+            "iscorrect": false
+          },
+          {
+            "definition": "障碍",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "critical",
+      "error_analysis": "学生易因形近词\"criticize\"（批评）联想误判为\"批评的\"，或因词根\"kritis\"（判断者）过度推导为\"判断的\"，忽略其核心含义\"关键的\"。",
+      "sentence": "The final exam is a **critical** part of the course, as it accounts for 50% of the total grade.",
+      "options": {
+        "option": [
+          {
+            "definition": "关键的；极其重要的",
+            "iscorrect": true
+          },
+          {
+            "definition": "批评的；指责的",
+            "iscorrect": false
+          },
+          {
+            "definition": "判断的；评价的",
+            "iscorrect": false
+          },
+          {
+            "definition": "危急的；严重的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rock music",
+      "error_analysis": "学生易将\"rock\"的\"岩石\"字面义代入，误解\"rock music\"为与岩石相关的音乐",
+      "sentence": "Many teenagers in the 1960s fell in love with **rock music**, a genre known for its loud guitars and fast, catchy rhythms.",
+      "options": {
+        "option": [
+          {
+            "definition": "摇滚音乐（一种以电吉他、鼓为核心，节奏强烈的流行音乐类型）",
+            "iscorrect": true
+          },
+          {
+            "definition": "关于岩石、山脉等地质主题的音乐",
+            "iscorrect": false
+          },
+          {
+            "definition": "用岩石材质的乐器演奏的传统音乐",
+            "iscorrect": false
+          },
+          {
+            "definition": "节奏缓慢、旋律柔和的古典音乐分支",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

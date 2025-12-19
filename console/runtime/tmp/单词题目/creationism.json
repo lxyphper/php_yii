@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "creationism",
+      "error_analysis": "学生易因词根“creation”+“-ism”猜测为“创造主义/论”（忽略“神”的关键信息），混淆其与“creation”的词义边界。",
+      "sentence": "Many debates in science classes involve **creationism** and evolution, with some arguing that both should be taught.",
+      "options": {
+        "option": [
+          {
+            "definition": "神创论（认为宇宙和生物由神创造而非进化的理论）",
+            "iscorrect": true
+          },
+          {
+            "definition": "创造主义（强调创造在宇宙或生物起源中重要性的理论）",
+            "iscorrect": false
+          },
+          {
+            "definition": "创造论（关于宇宙或生物如何被创造的一般性理论）",
+            "iscorrect": false
+          },
+          {
+            "definition": "进化论（生物通过自然选择逐渐进化的理论）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

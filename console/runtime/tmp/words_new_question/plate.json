@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "plate",
+      "error_analysis": "中国学生易因形近词“plant”（植物）或“平板”词根误导，将“plate”误判为“植物”或“木板”。",
+      "sentence": "Please pass me the **plate** with the cake on it.",
+      "options": {
+        "option": [
+          {
+            "definition": "盘子",
+            "iscorrect": true
+          },
+          {
+            "definition": "植物",
+            "iscorrect": false
+          },
+          {
+            "definition": "木板",
+            "iscorrect": false
+          },
+          {
+            "definition": "金属镀层",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

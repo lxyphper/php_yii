@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "enigmatic",
+      "error_analysis": "中国学生易因形近词\"energetic\"(精力充沛的)混淆，或因结尾\"-matic\"联想到\"academic\"(学术的)而误判词义。",
+      "sentence": "The old man next door always gives **enigmatic** smiles and never talks about his past, making everyone curious about his life.",
+      "options": {
+        "option": [
+          {
+            "definition": "神秘的；难以理解的",
+            "iscorrect": true
+          },
+          {
+            "definition": "精力充沛的",
+            "iscorrect": false
+          },
+          {
+            "definition": "学术的",
+            "iscorrect": false
+          },
+          {
+            "definition": "系统的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

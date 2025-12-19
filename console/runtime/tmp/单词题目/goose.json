@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "goose",
+      "error_analysis": "中国学生易因形近词“guess”（猜测）混淆“goose”词义，误判为“猜测”或“猜想”。",
+      "sentence": "The farmer feeds the **goose** every morning before milking the cows.",
+      "options": {
+        "option": [
+          {
+            "definition": "鹅",
+            "iscorrect": true
+          },
+          {
+            "definition": "猜测",
+            "iscorrect": false
+          },
+          {
+            "definition": "走的动物",
+            "iscorrect": false
+          },
+          {
+            "definition": "鸭子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

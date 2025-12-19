@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "balloon",
+      "error_analysis": "因形近词\"ball\"(球)产生错误联想，易误判为\"球\"或\"大球\"等与\"球\"相关的含义",
+      "sentence": "The child was holding a colorful **balloon** that floated up into the sky when he accidentally let go.",
+      "options": {
+        "option": [
+          {
+            "definition": "气球；氢气球",
+            "iscorrect": true
+          },
+          {
+            "definition": "球；球类物品",
+            "iscorrect": false
+          },
+          {
+            "definition": "大球；巨型球体",
+            "iscorrect": false
+          },
+          {
+            "definition": "芭蕾舞鞋；足尖鞋",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

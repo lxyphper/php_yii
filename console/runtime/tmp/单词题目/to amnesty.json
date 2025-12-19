@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to amnesty",
+      "error_analysis": "形近词\"amnesia\"(健忘症)的拼写干扰，及词根\"amnes-\"(忘记)导致的\"使忘记\"错误推导",
+      "sentence": "The government decided to **amnesty** all political prisoners as part of the peace agreement.",
+      "options": {
+        "option": [
+          {
+            "definition": "赦免（罪行）",
+            "iscorrect": true
+          },
+          {
+            "definition": "使患健忘症",
+            "iscorrect": false
+          },
+          {
+            "definition": "使忘记（某事）",
+            "iscorrect": false
+          },
+          {
+            "definition": "批准（官方申请）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

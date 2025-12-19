@@ -1,0 +1,21 @@
+[
+  {
+    "common_misspellings": [
+      "moustache",
+      "mustash",
+      "mustach",
+      "musache"
+    ],
+    "correct_chunks": [
+      "mu",
+      "stache"
+    ],
+    "distractor_chunks": [
+      "mo",
+      "stash",
+      "stach",
+      "sache"
+    ]
+  },
+  0
+]

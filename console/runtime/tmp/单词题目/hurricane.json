@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hurricane",
+      "error_analysis": "学生易因\"hurricane\"与\"hurry\"（匆忙）形近或\"cane\"（藤条）的字面联想，错误将其理解为与\"快速事件\"或\"藤条相关灾害\"有关。",
+      "sentence": "The **hurricane** caused massive flooding and destroyed hundreds of homes along the coastal regions.",
+      "options": {
+        "option": [
+          {
+            "definition": "飓风（一种强烈的热带风暴，伴有狂风暴雨）",
+            "iscorrect": true
+          },
+          {
+            "definition": "匆忙发生的紧急事件",
+            "iscorrect": false
+          },
+          {
+            "definition": "藤条引发的自然灾害",
+            "iscorrect": false
+          },
+          {
+            "definition": "寒冷地区的暴风雪",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

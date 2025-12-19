@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "roof",
+      "error_analysis": "学生易因形近词“root”（根）的干扰，将“roof”误判为“根”",
+      "sentence": "The cat climbed up to the **roof** of the house to catch the bird.",
+      "options": {
+        "option": [
+          {
+            "definition": "根",
+            "iscorrect": false
+          },
+          {
+            "definition": "屋顶",
+            "iscorrect": true
+          },
+          {
+            "definition": "证据",
+            "iscorrect": false
+          },
+          {
+            "definition": "地板",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

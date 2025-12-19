@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to cancel",
+      "error_analysis": "中国学生易因形近词“cancer”（癌症）混淆“cancel”词义，或因“can”（能）的词根联想误猜为“允许”",
+      "sentence": "I need to **cancel** my flight because of a family emergency.",
+      "options": {
+        "option": [
+          {
+            "definition": "取消",
+            "iscorrect": true
+          },
+          {
+            "definition": "癌症",
+            "iscorrect": false
+          },
+          {
+            "definition": "允许",
+            "iscorrect": false
+          },
+          {
+            "definition": "检查",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

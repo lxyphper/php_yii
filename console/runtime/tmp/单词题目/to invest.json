@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to invest",
+      "error_analysis": "学生易因形近词\"invite\"(邀请)或词根\"vest\"(衣服)误导，将\"invest\"误解为\"邀请\"或\"穿上\"",
+      "sentence": "Many young people choose to **invest** their savings in real estate to build long-term wealth.",
+      "options": {
+        "option": [
+          {
+            "definition": "投资；投入（时间/精力等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "邀请；恳请",
+            "iscorrect": false
+          },
+          {
+            "definition": "穿上；佩戴（衣物/饰品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "安装；设置（设备）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fluffy",
+      "error_analysis": "易与形近词“flurry”（慌乱）混淆，或误将“fluffy”理解为“多毛的”而非“柔软蓬松的”",
+      "sentence": "The little girl hugged her **fluffy** teddy bear tightly, enjoying its softness against her cheek.",
+      "options": {
+        "option": [
+          {
+            "definition": "柔软蓬松的（如毛绒玩具或云朵）",
+            "iscorrect": true
+          },
+          {
+            "definition": "慌乱的（如一阵阵雨或混乱的场面）",
+            "iscorrect": false
+          },
+          {
+            "definition": "多毛的（如动物身上浓密的毛发）",
+            "iscorrect": false
+          },
+          {
+            "definition": "肥胖的（如肌肉松弛的身体部位）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

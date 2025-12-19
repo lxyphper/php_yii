@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "courageous",
+      "error_analysis": "学生易将“courageous”与形近词“courteous”（礼貌的）混淆，或误通过词根猜测为“关于勇气的”。",
+      "sentence": "The firefighter’s **courageous** act of rescuing the child from the burning building was praised by everyone.",
+      "options": {
+        "option": [
+          {
+            "definition": "勇敢的",
+            "iscorrect": true
+          },
+          {
+            "definition": "礼貌的",
+            "iscorrect": false
+          },
+          {
+            "definition": "好奇的",
+            "iscorrect": false
+          },
+          {
+            "definition": "关于勇气的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

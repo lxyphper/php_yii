@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hasty",
+      "error_analysis": "易因形近词\"tasty\"(美味的)或与\"haze\"(模糊)混淆而误解词义",
+      "sentence": "She made a **hasty** decision to quit her job without finding a new one, and now she regrets it.",
+      "options": {
+        "option": [
+          {
+            "definition": "匆忙的；草率的",
+            "iscorrect": true
+          },
+          {
+            "definition": "美味的",
+            "iscorrect": false
+          },
+          {
+            "definition": "模糊的",
+            "iscorrect": false
+          },
+          {
+            "definition": "忙碌的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

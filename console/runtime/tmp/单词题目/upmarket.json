@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "upmarket",
+      "error_analysis": "学生易将\"upmarket\"拆分为\"up\"+\"market\"误理解为\"上升的市场\"，或因\"market\"联想到\"超市\"（supermarket）而产生错误认知。",
+      "sentence": "The newly opened café in the financial district is quite **upmarket**—it serves organic coffee and has a minimalist, elegant design.",
+      "options": {
+        "option": [
+          {
+            "definition": "高端的，高档的",
+            "iscorrect": true
+          },
+          {
+            "definition": "上升的市场",
+            "iscorrect": false
+          },
+          {
+            "definition": "超市",
+            "iscorrect": false
+          },
+          {
+            "definition": "在市场上销售",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Wi-Fi",
+      "error_analysis": "学生可能因“Wi-Fi”与“wire”（电线）形近，误将其理解为“有线网络”或“电线相关的连接”",
+      "sentence": "Before you start the video call, make sure your phone is connected to the **Wi-Fi** so you don’t use up your mobile data.",
+      "options": {
+        "option": [
+          {
+            "definition": "有线网络连接（通过电线传输数据的网络服务）",
+            "iscorrect": false
+          },
+          {
+            "definition": "无线局域网（一种无需电线即可联网的无线技术）",
+            "iscorrect": true
+          },
+          {
+            "definition": "宽频文件传输（用于发送大文件的高速数据服务）",
+            "iscorrect": false
+          },
+          {
+            "definition": "移动数据服务（如4G/5G的蜂窝网络通信）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

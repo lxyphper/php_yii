@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "song",
+      "error_analysis": "学生易因形近词\"sing\"（唱）的干扰，将\"song\"误理解为\"演唱\"（动作）而非\"歌曲\"（具体事物）",
+      "sentence": "The little girl hummed a happy **song** while she played with her dolls.",
+      "options": {
+        "option": [
+          {
+            "definition": "歌曲（具体的歌）",
+            "iscorrect": true
+          },
+          {
+            "definition": "演唱（唱歌的动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "儿子（男性后代，与\"son\"混淆）",
+            "iscorrect": false
+          },
+          {
+            "definition": "声音（可听见的声响，与\"sound\"混淆）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

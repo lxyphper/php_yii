@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "militarism",
+      "error_analysis": "易混淆形近词“materialism”（唯物主义）的含义，或因词根“military”过度直译为“军事作风”而非“军国主义”",
+      "sentence": "The country's shift towards **militarism** in the 1930s led to widespread fear among its neighbors.",
+      "options": {
+        "option": [
+          {
+            "definition": "军国主义",
+            "iscorrect": true
+          },
+          {
+            "definition": "唯物主义",
+            "iscorrect": false
+          },
+          {
+            "definition": "军事作风",
+            "iscorrect": false
+          },
+          {
+            "definition": "军事训练",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

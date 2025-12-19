@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gig",
+      "error_analysis": "中国学生易因“gig”与“big”拼写接近或“gigantic”词根联想，错误理解为“大的”或“巨大的”",
+      "sentence": "The local band is excited about their first **gig** at the new music venue this weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "（尤指音乐家的）演出",
+            "iscorrect": true
+          },
+          {
+            "definition": "大的",
+            "iscorrect": false
+          },
+          {
+            "definition": "巨大的",
+            "iscorrect": false
+          },
+          {
+            "definition": "礼物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

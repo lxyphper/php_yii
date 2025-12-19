@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to spell",
+      "error_analysis": "易混淆形近词\"speak\"（说），导致将\"to spell\"误解为\"说；讲话\"",
+      "sentence": "Can you **spell** your English name for me? I need to write it down.",
+      "options": {
+        "option": [
+          {
+            "definition": "拼写；拼出（单词等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "说；讲话",
+            "iscorrect": false
+          },
+          {
+            "definition": "洒；溢出",
+            "iscorrect": false
+          },
+          {
+            "definition": "施咒语；用魔法",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

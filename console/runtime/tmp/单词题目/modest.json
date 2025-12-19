@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "modest",
+      "error_analysis": "易因形近词\"model\"联想为\"模特的；模范的\"，或因词根\"mode\"（模式）猜测为\"模式化的；时尚的\"",
+      "sentence": "Despite winning the competition, she remained **modest** and refused to take all the credit.",
+      "options": {
+        "option": [
+          {
+            "definition": "谦虚的；不炫耀的",
+            "iscorrect": true
+          },
+          {
+            "definition": "模特的；模范的",
+            "iscorrect": false
+          },
+          {
+            "definition": "模式化的；时尚的",
+            "iscorrect": false
+          },
+          {
+            "definition": "现代的；时髦的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

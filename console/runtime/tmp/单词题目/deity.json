@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "deity",
+      "error_analysis": "中国学生易因形近词\"diet\"（饮食）的拼写及发音接近而混淆，或因不熟悉词根\"deus\"（神）导致无法正确识别词义",
+      "sentence": "In ancient Greek mythology, Zeus was considered the supreme **deity** who ruled over all other gods and humans.",
+      "options": {
+        "option": [
+          {
+            "definition": "神；神灵",
+            "iscorrect": true
+          },
+          {
+            "definition": "饮食；节食",
+            "iscorrect": false
+          },
+          {
+            "definition": "魔鬼；恶魔",
+            "iscorrect": false
+          },
+          {
+            "definition": "责任；义务",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

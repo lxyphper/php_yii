@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to hack",
+      "error_analysis": "学生易因词根/字面误导将“to hack”误解为“砍、劈”（原义），或因形近词“hike”（徒步旅行）产生错误联想",
+      "sentence": "The company discovered that someone had **hacked** into their customer database and stolen personal information.",
+      "options": {
+        "option": [
+          {
+            "definition": "非法侵入（计算机系统）",
+            "iscorrect": true
+          },
+          {
+            "definition": "砍、劈（木头等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "徒步旅行",
+            "iscorrect": false
+          },
+          {
+            "definition": "咳嗽（如咳出痰）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

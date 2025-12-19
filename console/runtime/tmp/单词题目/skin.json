@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "skin",
+      "error_analysis": "学生易因形近词\"skip\"(跳过)或词根拆分\"kin\"(亲属)误解\"skin\"的核心义",
+      "sentence": "The baby’s **skin** feels smooth and soft after the bath.",
+      "options": {
+        "option": [
+          {
+            "definition": "皮肤",
+            "iscorrect": true
+          },
+          {
+            "definition": "跳过",
+            "iscorrect": false
+          },
+          {
+            "definition": "亲属",
+            "iscorrect": false
+          },
+          {
+            "definition": "下沉",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

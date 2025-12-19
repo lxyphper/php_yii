@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to rejoice",
+      "error_analysis": "中国学生易因形近词\"reject\"(拒绝)或\"release\"(释放)混淆，或因\"joice\"与\"join\"联想误判为\"重新加入\"",
+      "sentence": "When they heard the good news of their team's victory, the fans began to **rejoice** loudly in the stadium.",
+      "options": {
+        "option": [
+          {
+            "definition": "感到高兴；欣喜",
+            "iscorrect": true
+          },
+          {
+            "definition": "拒绝；反对",
+            "iscorrect": false
+          },
+          {
+            "definition": "重新加入；参与",
+            "iscorrect": false
+          },
+          {
+            "definition": "释放；解放",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to collect",
+      "error_analysis": "学生易因形近词（如connect/correct）或词根“lect”（选）误将“collect”理解为“连接”或“挑选”",
+      "sentence": "She likes to **collect** stamps from different countries as a hobby.",
+      "options": {
+        "option": [
+          {
+            "definition": "收集",
+            "iscorrect": true
+          },
+          {
+            "definition": "连接",
+            "iscorrect": false
+          },
+          {
+            "definition": "挑选",
+            "iscorrect": false
+          },
+          {
+            "definition": "纠正",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

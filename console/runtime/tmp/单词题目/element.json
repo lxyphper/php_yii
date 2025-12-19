@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "element",
+      "error_analysis": "中国学生易因“element”与“elevator”（电梯）拼写接近或“ele-”词根联想（如electric），误将其理解为“电梯”或“电器”。",
+      "sentence": "Scientists have discovered a new **element** in the lab, which has never been found before.",
+      "options": {
+        "option": [
+          {
+            "definition": "电梯",
+            "iscorrect": false
+          },
+          {
+            "definition": "电器",
+            "iscorrect": false
+          },
+          {
+            "definition": "大象",
+            "iscorrect": false
+          },
+          {
+            "definition": "元素",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

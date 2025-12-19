@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stunning",
+      "error_analysis": "学生易因形近词\"standing\"（站立的）或对词根\"stun\"的错误联想（如\"令人害怕的\"）而误解其核心含义\"非常漂亮的；令人惊叹的\"。",
+      "sentence": "The view from the mountain top was so **stunning** that everyone stopped to take photos.",
+      "options": {
+        "option": [
+          {
+            "definition": "站立的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人困惑的",
+            "iscorrect": false
+          },
+          {
+            "definition": "非常漂亮的",
+            "iscorrect": true
+          },
+          {
+            "definition": "令人害怕的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

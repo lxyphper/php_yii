@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "magic",
+      "error_analysis": "学生易因形近词“magnet”（磁铁）或词根“magn-”（如“magnify”的“大”）将“magic”错误理解为“磁铁”或“强大的”",
+      "sentence": "The children clapped wildly as the magician pulled a rabbit out of his hat using **magic**.",
+      "options": {
+        "option": [
+          {
+            "definition": "魔术；魔力",
+            "iscorrect": true
+          },
+          {
+            "definition": "磁铁",
+            "iscorrect": false
+          },
+          {
+            "definition": "强大的",
+            "iscorrect": false
+          },
+          {
+            "definition": "邮件",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

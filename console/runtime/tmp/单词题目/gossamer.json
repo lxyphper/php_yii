@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gossamer",
+      "error_analysis": "学生易因形近词\"gossip\"（流言）或词源拆分错误（鹅的羽毛）产生误解",
+      "sentence": "The bride wore a **gossamer** veil that floated gently in the breeze, adding a touch of elegance to her wedding dress.",
+      "options": {
+        "option": [
+          {
+            "definition": "薄纱；蛛丝",
+            "iscorrect": true
+          },
+          {
+            "definition": "流言；闲话",
+            "iscorrect": false
+          },
+          {
+            "definition": "鹅的羽毛",
+            "iscorrect": false
+          },
+          {
+            "definition": "沉重的织物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

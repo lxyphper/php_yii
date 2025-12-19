@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dead",
+      "error_analysis": "学生易将“dead”与形近词“deaf”（聋的）或“dear”（亲爱的）混淆，或误判为“垂死的”（dying）。",
+      "sentence": "The cat was found **dead** in the garden this morning; it didn’t respond to any touch.",
+      "options": {
+        "option": [
+          {
+            "definition": "聋的",
+            "iscorrect": false
+          },
+          {
+            "definition": "垂死的",
+            "iscorrect": false
+          },
+          {
+            "definition": "死亡的；无生命的",
+            "iscorrect": true
+          },
+          {
+            "definition": "亲爱的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

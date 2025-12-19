@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to recommend",
+      "error_analysis": "混淆形近词commend（表扬）及词根re-+commend的错误推导（再次委托）",
+      "sentence": "My friend **recommended** this restaurant to me because of its delicious food.",
+      "options": {
+        "option": [
+          {
+            "definition": "推荐",
+            "iscorrect": true
+          },
+          {
+            "definition": "表扬",
+            "iscorrect": false
+          },
+          {
+            "definition": "再次委托",
+            "iscorrect": false
+          },
+          {
+            "definition": "提醒",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

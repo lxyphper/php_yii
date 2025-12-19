@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "booming",
+      "error_analysis": "中国学生易混淆形近词\"blooming\"(盛开的)，或因词根\"boom\"的\"响声\"义误判为\"吵闹的\"",
+      "sentence": "The tech industry in this city has been **booming** for the past five years, attracting thousands of young professionals.",
+      "options": {
+        "option": [
+          {
+            "definition": "繁荣的；蓬勃发展的",
+            "iscorrect": true
+          },
+          {
+            "definition": "盛开的；绽放的",
+            "iscorrect": false
+          },
+          {
+            "definition": "吵闹的；发出巨响的",
+            "iscorrect": false
+          },
+          {
+            "definition": "逐渐减少的；衰退的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

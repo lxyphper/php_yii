@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to grimace",
+      "error_analysis": "学生易因形近词\"grim\"（可怕的）误解为\"露出可怕的表情\"，或与\"grace\"（优雅）形近混淆",
+      "sentence": "When she bit into the sour lemon, she couldn’t help but **grimace** and spit it out.",
+      "options": {
+        "option": [
+          {
+            "definition": "露出可怕的表情",
+            "iscorrect": false
+          },
+          {
+            "definition": "表现得优雅",
+            "iscorrect": false
+          },
+          {
+            "definition": "做鬼脸；皱眉头（因痛苦、厌恶等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "咬紧牙关",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

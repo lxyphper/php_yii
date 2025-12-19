@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "assignment",
+      "error_analysis": "混淆形近词appointment（预约）与assignment的核心义“任务/作业”，或误将其理解为“任命”（词根assign的次要义）",
+      "sentence": "The teacher gave us a math **assignment** to complete over the weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "任务；作业",
+            "iscorrect": true
+          },
+          {
+            "definition": "预约；约会",
+            "iscorrect": false
+          },
+          {
+            "definition": "任命；委派",
+            "iscorrect": false
+          },
+          {
+            "definition": "分配；分发",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

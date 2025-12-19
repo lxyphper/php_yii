@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "decorum",
+      "error_analysis": "因形近词\"decorate\"（装饰）误导，易误理解为\"装饰\"；或因词根不熟悉混淆为\"尊严\"等义。",
+      "sentence": "At the state dinner, all guests are expected to maintain **decorum** to respect the host and the formal occasion.",
+      "options": {
+        "option": [
+          {
+            "definition": "装饰；装饰品",
+            "iscorrect": false
+          },
+          {
+            "definition": "得体的行为；端庄",
+            "iscorrect": true
+          },
+          {
+            "definition": "尊严；尊贵",
+            "iscorrect": false
+          },
+          {
+            "definition": "效率；成效",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

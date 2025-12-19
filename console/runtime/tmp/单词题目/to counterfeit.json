@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to counterfeit",
+      "error_analysis": "学生易因\"counter-\"（柜台/相反）的形近或词根联想，误将\"to counterfeit\"理解为\"在柜台处理\"或\"抵消\"，而非核心义\"伪造\"。",
+      "sentence": "The police arrested the man who tried to **counterfeit** 100-dollar bills in his basement.",
+      "options": {
+        "option": [
+          {
+            "definition": "伪造（货币、文件等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "在柜台接待（顾客）",
+            "iscorrect": false
+          },
+          {
+            "definition": "抵消；对抗",
+            "iscorrect": false
+          },
+          {
+            "definition": "统计；清点",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

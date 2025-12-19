@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "collective",
+      "error_analysis": "将“collective”误理解为“收集的（与收集相关的）”，而非正确的“集体的；共同的”。",
+      "sentence": "The team's success was a **collective** effort—everyone contributed to it.",
+      "options": {
+        "option": [
+          {
+            "definition": "集体的；共同的",
+            "iscorrect": true
+          },
+          {
+            "definition": "收集的；与收集相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "收藏的；属于收藏家的",
+            "iscorrect": false
+          },
+          {
+            "definition": "连接的；起连接作用的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

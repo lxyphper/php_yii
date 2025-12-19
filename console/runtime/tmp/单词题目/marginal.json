@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "marginal",
+      "error_analysis": "学生易因形近词'marital'(婚姻的)或词根'margin'(边缘)误将'marginal'理解为'婚姻的'或'边缘的'",
+      "sentence": "The new policy had a **marginal** impact on the economy, as most people didn’t even notice the changes.",
+      "options": {
+        "option": [
+          {
+            "definition": "微小的；不重要的",
+            "iscorrect": true
+          },
+          {
+            "definition": "婚姻的",
+            "iscorrect": false
+          },
+          {
+            "definition": "边缘的",
+            "iscorrect": false
+          },
+          {
+            "definition": "奇妙的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

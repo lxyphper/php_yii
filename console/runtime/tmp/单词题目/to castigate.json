@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to castigate",
+      "error_analysis": "学生易因形近词\"celebrate\"（庆祝）或词根\"cast\"（投掷）的联想，误将\"castigate\"理解为\"庆祝\"或\"投掷\"。",
+      "sentence": "After the team lost the game due to careless mistakes, the coach publicly **castigated** the players for their lack of effort.",
+      "options": {
+        "option": [
+          {
+            "definition": "严厉批评；谴责",
+            "iscorrect": true
+          },
+          {
+            "definition": "庆祝；庆贺",
+            "iscorrect": false
+          },
+          {
+            "definition": "投掷；发射",
+            "iscorrect": false
+          },
+          {
+            "definition": "安慰；安抚",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

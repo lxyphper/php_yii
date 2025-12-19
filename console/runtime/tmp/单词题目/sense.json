@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sense",
+      "error_analysis": "学生易将‘sense’与形近词‘cents’（分）或‘sent’（发送）混淆，或误将‘make no sense’中的‘sense’理解为‘感觉’。",
+      "sentence": "It makes no **sense** to go out in the rain without an umbrella.",
+      "options": {
+        "option": [
+          {
+            "definition": "意义；合理性",
+            "iscorrect": true
+          },
+          {
+            "definition": "（货币的）分",
+            "iscorrect": false
+          },
+          {
+            "definition": "发送（send的过去式）",
+            "iscorrect": false
+          },
+          {
+            "definition": "感觉",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

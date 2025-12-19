@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "politics",
+      "error_analysis": "学生易因形近词\"polite\"（礼貌的）误联想为\"礼貌相关事物\"，或因词根\"polis\"（城市）错误推导为\"城市管理\"",
+      "sentence": "Many students are interested in **politics** because they want to understand how governments make decisions.",
+      "options": {
+        "option": [
+          {
+            "definition": "政治；政治学",
+            "iscorrect": true
+          },
+          {
+            "definition": "礼貌的行为或习惯",
+            "iscorrect": false
+          },
+          {
+            "definition": "城市的管理或规划",
+            "iscorrect": false
+          },
+          {
+            "definition": "政策的具体内容或条款",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

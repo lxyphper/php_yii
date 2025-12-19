@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "vest-pocket",
+      "error_analysis": "学生易因字面意思将复合词误解为“背心口袋”（名词），忽略其核心形容词义“小型的；袖珍的”",
+      "sentence": "She always carries a **vest-pocket** notebook to jot down ideas wherever she goes.",
+      "options": {
+        "option": [
+          {
+            "definition": "小型的；袖珍的（形容词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "背心的口袋（名词短语）",
+            "iscorrect": false
+          },
+          {
+            "definition": "用于背心的口袋（形容词，修饰“口袋”）",
+            "iscorrect": false
+          },
+          {
+            "definition": "背心和口袋（并列名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

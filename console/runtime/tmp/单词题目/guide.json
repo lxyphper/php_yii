@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "guide",
+      "error_analysis": "容易混淆形近词“guard”（守卫）的含义，或误将动词“guide”理解为“书写”（因“指南”的字面联想）",
+      "sentence": "The tour guide will **guide** us through the ancient temple and point out its hidden details.",
+      "options": {
+        "option": [
+          {
+            "definition": "引导；带领",
+            "iscorrect": true
+          },
+          {
+            "definition": "守卫；保卫",
+            "iscorrect": false
+          },
+          {
+            "definition": "书写；记录",
+            "iscorrect": false
+          },
+          {
+            "definition": "等待；停留",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "female",
+      "error_analysis": "中国学生易因形近词“feline”（猫的）的视觉混淆，或混淆“female”（生物性别女性）与“feminine”（女性化的）的含义而错误理解",
+      "sentence": "The zookeeper pointed out the **female** lion in the enclosure, which had a smaller mane than the male.",
+      "options": {
+        "option": [
+          {
+            "definition": "女性（的）；雌性（的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "猫科的",
+            "iscorrect": false
+          },
+          {
+            "definition": "女性化的；有女人味的",
+            "iscorrect": false
+          },
+          {
+            "definition": "强壮的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

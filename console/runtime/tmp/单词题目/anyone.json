@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "anyone",
+      "error_analysis": "混淆\"anyone\"(指人)与\"any one\"(指物/强调个体)的用法，或因字面直译将其误理解为\"任何一个(东西)\"",
+      "sentence": "Is there **anyone** here who can help me with this math problem?",
+      "options": {
+        "option": [
+          {
+            "definition": "任何人",
+            "iscorrect": true
+          },
+          {
+            "definition": "任何一个东西",
+            "iscorrect": false
+          },
+          {
+            "definition": "某个人",
+            "iscorrect": false
+          },
+          {
+            "definition": "任何一个人或物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

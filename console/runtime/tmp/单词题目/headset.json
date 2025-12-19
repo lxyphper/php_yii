@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "headset",
+      "error_analysis": "学生易将\"head+set\"字面拆分为\"头套\"或\"头饰\"，忽略其\"带麦克风的耳机\"的核心词义",
+      "sentence": "She put on her **headset** to join the online meeting and started speaking into the microphone.",
+      "options": {
+        "option": [
+          {
+            "definition": "耳机（带麦克风的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "头套；头饰",
+            "iscorrect": false
+          },
+          {
+            "definition": "头枕；靠头装置",
+            "iscorrect": false
+          },
+          {
+            "definition": "帽子；便帽",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

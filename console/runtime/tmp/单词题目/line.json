@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "line",
+      "error_analysis": "学生易将\"line\"与形近词\"lion\"（狮子）混淆，或因\"线\"的字面义误解语境中的\"队伍\"义",
+      "sentence": "Please wait in a **line** outside the classroom; the teacher will let you in one by one.",
+      "options": {
+        "option": [
+          {
+            "definition": "狮子",
+            "iscorrect": false
+          },
+          {
+            "definition": "队伍；队列",
+            "iscorrect": true
+          },
+          {
+            "definition": "线；线条",
+            "iscorrect": false
+          },
+          {
+            "definition": "车道；小巷",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

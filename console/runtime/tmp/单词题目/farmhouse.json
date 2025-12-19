@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "farmhouse",
+      "error_analysis": "中国学生易因形近词“farmhand”（农场工人）干扰，或词根拆分过度直译误以为是“农场的仓库”，而误判“farmhouse”词义。",
+      "sentence": "We spent the weekend at a cozy **farmhouse** surrounded by fields of wheat.",
+      "options": {
+        "option": [
+          {
+            "definition": "农舍（农场主或农民居住的房子）",
+            "iscorrect": true
+          },
+          {
+            "definition": "农场工人",
+            "iscorrect": false
+          },
+          {
+            "definition": "农场的仓库",
+            "iscorrect": false
+          },
+          {
+            "definition": "农场的院子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "adviser",
+      "error_analysis": "学生易将adviser与形近词advertiser（广告商）混淆，或误判为“建议”（名词）。",
+      "sentence": "The company hired an experienced **adviser** to help with their marketing strategy.",
+      "options": {
+        "option": [
+          {
+            "definition": "顾问；指导者",
+            "iscorrect": true
+          },
+          {
+            "definition": "广告商",
+            "iscorrect": false
+          },
+          {
+            "definition": "建议（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "参与者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

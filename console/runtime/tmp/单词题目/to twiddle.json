@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to twiddle",
+      "error_analysis": "学生易因形近词\"twist\"（扭转）混淆，误将\"twiddle\"理解为用力扭转，而非轻轻摆弄小物件。",
+      "sentence": "As the teacher was talking, the boy couldn't help but **twiddle** the pen cap in his hand.",
+      "options": {
+        "option": [
+          {
+            "definition": "轻轻转动；摆弄（小物件）",
+            "iscorrect": true
+          },
+          {
+            "definition": "扭转；拧（如毛巾或瓶盖）",
+            "iscorrect": false
+          },
+          {
+            "definition": "处理；应对（困难或任务）",
+            "iscorrect": false
+          },
+          {
+            "definition": "扔；抛（如球或垃圾）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "thriving",
+      "error_analysis": "学生易因形近词混淆，将\"thriving\"误判为\"riving\"（裂开）或\"throwing\"（扔）的现在分词，导致理解偏差",
+      "sentence": "With proper care, the once weak sapling is now **thriving** in the garden.",
+      "options": {
+        "option": [
+          {
+            "definition": "茁壮成长的",
+            "iscorrect": true
+          },
+          {
+            "definition": "正在裂开的",
+            "iscorrect": false
+          },
+          {
+            "definition": "正在扔的",
+            "iscorrect": false
+          },
+          {
+            "definition": "正在驾驶的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

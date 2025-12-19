@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to revere",
+      "error_analysis": "中国学生易因形近词“reverse”（反转）或“reserve”（保留）的干扰，或词根“re-”加“ver”（真实）的误导，将“to revere”误判为“反转”“保留”或“验证”。",
+      "sentence": "Many people **revere** Mother Teresa for her selfless work with the poor.",
+      "options": {
+        "option": [
+          {
+            "definition": "反转；颠倒",
+            "iscorrect": false
+          },
+          {
+            "definition": "保留；预订",
+            "iscorrect": false
+          },
+          {
+            "definition": "验证；证实",
+            "iscorrect": false
+          },
+          {
+            "definition": "尊敬；崇敬",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

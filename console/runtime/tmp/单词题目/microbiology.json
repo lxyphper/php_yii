@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "microbiology",
+      "error_analysis": "学生易因形近词microscopy（显微镜学）或词根误导（将学科误判为“微小生物”）产生错误理解",
+      "sentence": "Her research in **microbiology** focuses on how bacteria develop resistance to antibiotics.",
+      "options": {
+        "option": [
+          {
+            "definition": "微生物学",
+            "iscorrect": true
+          },
+          {
+            "definition": "显微镜学",
+            "iscorrect": false
+          },
+          {
+            "definition": "微小生物",
+            "iscorrect": false
+          },
+          {
+            "definition": "宏观生物学",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

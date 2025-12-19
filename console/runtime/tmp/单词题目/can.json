@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "can",
+      "error_analysis": "学生易将动词“can”（解雇）误理解为名词“罐头”的动词形式（装罐头），或混淆其情态动词含义（能）",
+      "sentence": "He was **canned** by his boss after missing three important meetings.",
+      "options": {
+        "option": [
+          {
+            "definition": "能的（情态动词含义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "装罐头的（名词“罐头”的动词延伸）",
+            "iscorrect": false
+          },
+          {
+            "definition": "解雇（动词僻义）",
+            "iscorrect": true
+          },
+          {
+            "definition": "拐杖（形近词“cane”干扰）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

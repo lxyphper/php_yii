@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "montage",
+      "error_analysis": "学生易因形近词\"monument\"(纪念碑)或词根\"mont\"(山)误导，错将\"montage\"理解为与山、纪念碑相关的词。",
+      "sentence": "The director used a **montage** of childhood photos to show the character's growth in just two minutes.",
+      "options": {
+        "option": [
+          {
+            "definition": "（电影、照片等的）蒙太奇；剪辑组合",
+            "iscorrect": true
+          },
+          {
+            "definition": "纪念碑；纪念物",
+            "iscorrect": false
+          },
+          {
+            "definition": "山的景观；山地风光",
+            "iscorrect": false
+          },
+          {
+            "definition": "月份表；月历",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

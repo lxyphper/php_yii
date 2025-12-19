@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "powdery",
+      "error_analysis": "学生易因形近词\"power\"（力量）的干扰，将\"powdery\"误理解为\"有力量的；强大的\"",
+      "sentence": "The snow on the mountain was so **powdery** that it flew up like smoke when we stepped on it.",
+      "options": {
+        "option": [
+          {
+            "definition": "粉末状的；粉状的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有力量的；强大的",
+            "iscorrect": false
+          },
+          {
+            "definition": "多尘的；布满灰尘的",
+            "iscorrect": false
+          },
+          {
+            "definition": "潮湿的；湿润的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

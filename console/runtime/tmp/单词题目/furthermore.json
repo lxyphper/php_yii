@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "furthermore",
+      "error_analysis": "学生易将\"furthermore\"误理解为形容词（如\"更远的\"\"更深入的\"），或混淆其副词的递进含义与\"further/more\"的字面组合义（如\"更多地进一步\"）",
+      "sentence": "She is an excellent student who always gets top grades; **furthermore**, she volunteers at the local animal shelter every weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "此外；而且（用于连接两个递进的观点，副词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "更远的；更进一步的（形容词，修饰名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "更多地；更大量地（副词，表数量或程度的增加）",
+            "iscorrect": false
+          },
+          {
+            "definition": "更深入的；更详细的（形容词，表内容的深度）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

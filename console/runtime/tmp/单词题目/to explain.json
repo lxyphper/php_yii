@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to explain",
+      "error_analysis": "中国学生易因形近词“complain”（抱怨）混淆词义，或因“plain”（简单的）词根误导理解为“使简单”。",
+      "sentence": "The teacher asked Tom to **explain** why he was late for class.",
+      "options": {
+        "option": [
+          {
+            "definition": "解释",
+            "iscorrect": true
+          },
+          {
+            "definition": "抱怨",
+            "iscorrect": false
+          },
+          {
+            "definition": "使简单",
+            "iscorrect": false
+          },
+          {
+            "definition": "惊叫",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

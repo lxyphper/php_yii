@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "intranet",
+      "error_analysis": "混淆形近词\"internet\"（互联网）与\"intranet\"（企业内部网），或因词根\"intra-\"（内部）与\"inter-\"（国际）的混淆而误判。",
+      "sentence": "The company's employees use the **intranet** to access internal documents and communicate with colleagues.",
+      "options": {
+        "option": [
+          {
+            "definition": "互联网",
+            "iscorrect": false
+          },
+          {
+            "definition": "企业内部网",
+            "iscorrect": true
+          },
+          {
+            "definition": "国际网络",
+            "iscorrect": false
+          },
+          {
+            "definition": "外部通讯网络",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

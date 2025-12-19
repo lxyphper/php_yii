@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to commit",
+      "error_analysis": "易混淆形近词combat（战斗）及词根误导的“提交（文件）”义",
+      "sentence": "The police found evidence that he had **committed** theft last month.",
+      "options": {
+        "option": [
+          {
+            "definition": "犯（罪/错误）",
+            "iscorrect": true
+          },
+          {
+            "definition": "战斗（combat的混淆）",
+            "iscorrect": false
+          },
+          {
+            "definition": "提交（文件等）（词根误导）",
+            "iscorrect": false
+          },
+          {
+            "definition": "完成（无关义干扰）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

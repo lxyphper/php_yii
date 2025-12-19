@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to dismiss",
+      "error_analysis": "学生易因“miss”的常见义（错过/想念）猜测“dismiss”为“错过”，或因形近词“dismay”混淆为“使沮丧”",
+      "sentence": "The company decided to **dismiss** the employee who often arrived late.",
+      "options": {
+        "option": [
+          {
+            "definition": "使沮丧",
+            "iscorrect": false
+          },
+          {
+            "definition": "错过",
+            "iscorrect": false
+          },
+          {
+            "definition": "解雇；解散",
+            "iscorrect": true
+          },
+          {
+            "definition": "想念",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

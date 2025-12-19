@@ -1,0 +1,21 @@
+[
+  {
+    "common_misspellings": [
+      "sitoskeleton",
+      "cytoskeliton",
+      "cytskeleton"
+    ],
+    "correct_chunks": [
+      "cyto",
+      "skel",
+      "eton"
+    ],
+    "distractor_chunks": [
+      "sito",
+      "skeli",
+      "cyt",
+      "iton"
+    ]
+  },
+  0
+]

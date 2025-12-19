@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "softly",
+      "error_analysis": "学生易因形近词\"slowly\"混淆或词根\"soft\"过度直译，将\"softly\"误理解为\"慢慢地\"或\"柔软地\"。",
+      "sentence": "Mom leaned over and whispered **softly** in my ear, “Happy birthday!”",
+      "options": {
+        "option": [
+          {
+            "definition": "轻声地；温和地",
+            "iscorrect": true
+          },
+          {
+            "definition": "慢慢地",
+            "iscorrect": false
+          },
+          {
+            "definition": "柔软地",
+            "iscorrect": false
+          },
+          {
+            "definition": "软弱地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

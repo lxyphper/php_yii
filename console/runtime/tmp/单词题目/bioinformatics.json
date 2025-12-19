@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bioinformatics",
+      "error_analysis": "将词根“informatics”误判为“information”，导致把“bioinformatics”理解为“生物信息”而非“生物信息学”",
+      "sentence": "Scientists use **bioinformatics** to analyze genetic data and predict the 3D structures of proteins.",
+      "options": {
+        "option": [
+          {
+            "definition": "生物信息学",
+            "iscorrect": true
+          },
+          {
+            "definition": "生物信息",
+            "iscorrect": false
+          },
+          {
+            "definition": "生物统计学",
+            "iscorrect": false
+          },
+          {
+            "definition": "生物技术",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to delve",
+      "error_analysis": "学生易因形近词\"dive\"(潜水)混淆为\"跳入/潜水\"，或因词根\"dig\"(挖)误导为\"挖掘(具体物体)\"。",
+      "sentence": "The journalist decided to **delve** into the company's financial records to uncover the truth.",
+      "options": {
+        "option": [
+          {
+            "definition": "深入研究；探究",
+            "iscorrect": true
+          },
+          {
+            "definition": "潜水；跳入",
+            "iscorrect": false
+          },
+          {
+            "definition": "挖掘（泥土或洞穴）",
+            "iscorrect": false
+          },
+          {
+            "definition": "交付；运送",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

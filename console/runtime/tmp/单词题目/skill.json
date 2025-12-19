@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "skill",
+      "error_analysis": "中国学生易因“skill”包含“kill”（杀死）的拼写部分而错误联想为“杀死的技巧”，或因形近词“scale”（规模）产生误判",
+      "sentence": "Her painting **skill** has improved a lot after years of practice.",
+      "options": {
+        "option": [
+          {
+            "definition": "技能；能力",
+            "iscorrect": true
+          },
+          {
+            "definition": "杀死的技巧",
+            "iscorrect": false
+          },
+          {
+            "definition": "规模；天平",
+            "iscorrect": false
+          },
+          {
+            "definition": "头骨",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "noisy",
+      "error_analysis": "学生易因拆分“no”+“noise”+“-y”错误理解为“安静的”，或因形近词“nosy”混淆为“爱管闲事的”",
+      "sentence": "The classroom was so **noisy** that the teacher had to raise her voice to be heard.",
+      "options": {
+        "option": [
+          {
+            "definition": "吵闹的",
+            "iscorrect": true
+          },
+          {
+            "definition": "安静的",
+            "iscorrect": false
+          },
+          {
+            "definition": "爱管闲事的",
+            "iscorrect": false
+          },
+          {
+            "definition": "讨厌的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "scale",
+      "error_analysis": "学生易因形近词‘sale’（销售）的干扰，或对‘scale’多义（如‘鳞片’‘刻度’）的混淆，误判其‘规模’义。",
+      "sentence": "The company plans to expand its business on a larger **scale** next year.",
+      "options": {
+        "option": [
+          {
+            "definition": "规模",
+            "iscorrect": true
+          },
+          {
+            "definition": "销售",
+            "iscorrect": false
+          },
+          {
+            "definition": "鳞片",
+            "iscorrect": false
+          },
+          {
+            "definition": "刻度",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

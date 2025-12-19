@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wool",
+      "error_analysis": "学生易因形近词\"wood\"（木头）混淆，或误判为植物纤维等无关含义",
+      "sentence": "The sweater is made of **wool**, so it feels warm and soft in winter.",
+      "options": {
+        "option": [
+          {
+            "definition": "羊毛；毛织品",
+            "iscorrect": true
+          },
+          {
+            "definition": "木头",
+            "iscorrect": false
+          },
+          {
+            "definition": "植物纤维",
+            "iscorrect": false
+          },
+          {
+            "definition": "工具",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

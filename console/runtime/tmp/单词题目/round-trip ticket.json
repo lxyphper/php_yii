@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "round-trip ticket",
+      "error_analysis": "学生易因\"round\"的\"圆的\"字面义，将\"round-trip ticket\"误理解为\"圆形旅行票\"或\"绕圈旅行的票\"。",
+      "sentence": "I bought a **round-trip ticket** to Shanghai so I don’t have to worry about booking a return flight later.",
+      "options": {
+        "option": [
+          {
+            "definition": "往返票",
+            "iscorrect": true
+          },
+          {
+            "definition": "圆形旅行票",
+            "iscorrect": false
+          },
+          {
+            "definition": "绕圈旅行的票",
+            "iscorrect": false
+          },
+          {
+            "definition": "单程旅行票",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

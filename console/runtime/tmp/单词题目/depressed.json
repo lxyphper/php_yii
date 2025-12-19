@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "depressed",
+      "error_analysis": "易与形近词impressed（印象深刻的）混淆，或因词根depress（压）误判为“被压制的”",
+      "sentence": "After failing the exam again, Sarah felt **depressed** and didn’t want to talk to anyone.",
+      "options": {
+        "option": [
+          {
+            "definition": "印象深刻的",
+            "iscorrect": false
+          },
+          {
+            "definition": "沮丧的；抑郁的",
+            "iscorrect": true
+          },
+          {
+            "definition": "被压制的；被迫使的",
+            "iscorrect": false
+          },
+          {
+            "definition": "疲惫的；累的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

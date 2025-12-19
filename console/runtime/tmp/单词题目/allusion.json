@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "allusion",
+      "error_analysis": "学生易混淆形近词\"illusion\"(幻觉)及误猜\"lusion\"后缀表\"结论\",导致将\"allusion\"误解为\"幻觉\"或\"结论\"",
+      "sentence": "The author’s **allusion** to Shakespeare in the novel was so subtle that many readers missed it.",
+      "options": {
+        "option": [
+          {
+            "definition": "幻觉；错觉",
+            "iscorrect": false
+          },
+          {
+            "definition": "结论；推论",
+            "iscorrect": false
+          },
+          {
+            "definition": "暗示；间接提及",
+            "iscorrect": true
+          },
+          {
+            "definition": "参考；引用",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

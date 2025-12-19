@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "minimal",
+      "error_analysis": "学生易因形近词“minimum”（最小值）或词根“min-”（小）误将“minimal”理解为“最小的（名词）”或“迷你的”，而非其核心义“极少的、最小程度的”。",
+      "sentence": "The company decided to make only **minimal** changes to the product to keep costs low.",
+      "options": {
+        "option": [
+          {
+            "definition": "极少的；最小程度的",
+            "iscorrect": true
+          },
+          {
+            "definition": "最小值（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "迷你的；小巧的",
+            "iscorrect": false
+          },
+          {
+            "definition": "次要的；不重要的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

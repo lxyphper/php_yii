@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "vibrant",
+      "error_analysis": "学生易因形近词“vibrate”（振动）或词根“vibr-”（振动）将“vibrant”误理解为“振动的”，忽略其“充满活力的；鲜艳的”核心义。",
+      "sentence": "The painting uses **vibrant** colors to depict a lively countryside scene.",
+      "options": {
+        "option": [
+          {
+            "definition": "充满活力的；鲜艳的",
+            "iscorrect": true
+          },
+          {
+            "definition": "振动的；摇晃的",
+            "iscorrect": false
+          },
+          {
+            "definition": "暴力的；激烈的",
+            "iscorrect": false
+          },
+          {
+            "definition": "明亮的；杰出的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

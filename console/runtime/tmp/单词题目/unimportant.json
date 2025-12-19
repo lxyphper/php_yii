@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unimportant",
+      "error_analysis": "学生易混淆“unimportant”与形近的“unimpressed”（无动于衷的），或因混淆“important”与“urgent”而误判为“不紧急的”",
+      "sentence": "She told me to focus on the main tasks and ignore the **unimportant** details.",
+      "options": {
+        "option": [
+          {
+            "definition": "不重要的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不必要的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无动于衷的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不紧急的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

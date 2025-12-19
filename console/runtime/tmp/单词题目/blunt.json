@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "blunt",
+      "error_analysis": "中国学生易因形近词\"blend\"(混合)或\"blur\"(模糊)混淆，或因发音联想误判为\"笨的\"",
+      "sentence": "The old knife is too **blunt** to cut the vegetables easily.",
+      "options": {
+        "option": [
+          {
+            "definition": "混合的",
+            "iscorrect": false
+          },
+          {
+            "definition": "模糊的",
+            "iscorrect": false
+          },
+          {
+            "definition": "笨的",
+            "iscorrect": false
+          },
+          {
+            "definition": "钝的（指工具不锋利）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

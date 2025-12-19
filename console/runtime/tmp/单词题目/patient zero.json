@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "patient zero",
+      "error_analysis": "学生易混淆“patient”的词性，将“patient zero”误理解为“没有耐心的人”（把“patient”当形容词），或字面直译忽略其“传染病首例感染者”的核心含义",
+      "sentence": "Scientists traced the outbreak of the new virus back to **patient zero**, a tourist who had visited the market where the first cases were reported.",
+      "options": {
+        "option": [
+          {
+            "definition": "（传染病的）零号病人（第一个已知感染者）",
+            "iscorrect": true
+          },
+          {
+            "definition": "没有耐心的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "编号为零的普通住院病人",
+            "iscorrect": false
+          },
+          {
+            "definition": "对病毒无免疫力的人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

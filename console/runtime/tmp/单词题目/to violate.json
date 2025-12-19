@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to violate",
+      "error_analysis": "学生易因形近词“validate”（验证）混淆词义，或因词根“viol-”（与“暴力”相关）猜测为“实施暴力”。",
+      "sentence": "The company was fined because it **violated** the environmental regulations.",
+      "options": {
+        "option": [
+          {
+            "definition": "违反（规则、法律等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "验证（使有效）",
+            "iscorrect": false
+          },
+          {
+            "definition": "实施暴力",
+            "iscorrect": false
+          },
+          {
+            "definition": "忽视（忽略）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

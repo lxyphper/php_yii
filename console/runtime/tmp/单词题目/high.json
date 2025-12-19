@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "high",
+      "error_analysis": "学生易因形近词“height”（高度，名词）混淆“high”的形容词/副词词义（高的/高地），或因发音接近“hi”（嗨）误联想为“打招呼”。",
+      "sentence": "The eagle soared **high** above the mountains, watching for prey.",
+      "options": {
+        "option": [
+          {
+            "definition": "高地（副词，指位置处于较高的地方）",
+            "iscorrect": true
+          },
+          {
+            "definition": "高度（名词，指物体从底部到顶部的垂直距离）",
+            "iscorrect": false
+          },
+          {
+            "definition": "嗨（感叹词，用于打招呼或引起注意）",
+            "iscorrect": false
+          },
+          {
+            "definition": "兴奋的（形容词，指因某种刺激而情绪亢奋）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

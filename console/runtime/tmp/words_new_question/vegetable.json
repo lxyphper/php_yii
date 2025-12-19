@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "vegetable",
+      "error_analysis": "形近词“vehicle”（车辆）的干扰及词根“veget-”导致的“植物总称”或“素食者”误判",
+      "sentence": "For dinner, we had roasted chicken with a side of fresh **vegetable** salad.",
+      "options": {
+        "option": [
+          {
+            "definition": "蔬菜",
+            "iscorrect": true
+          },
+          {
+            "definition": "车辆",
+            "iscorrect": false
+          },
+          {
+            "definition": "素食者",
+            "iscorrect": false
+          },
+          {
+            "definition": "植物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "altarpiece",
+      "error_analysis": "学生易因词根字面误导将altarpiece误理解为“祭坛的部件或碎片”，而非“祭坛上的装饰画/雕刻品”",
+      "sentence": "The cathedral's new **altarpiece**, a stunning painting of the Madonna and Child, drew crowds of visitors to admire its intricate details.",
+      "options": {
+        "option": [
+          {
+            "definition": "祭坛上的装饰画（或雕刻品）",
+            "iscorrect": true
+          },
+          {
+            "definition": "祭坛的部件或碎片",
+            "iscorrect": false
+          },
+          {
+            "definition": "教堂的壁画",
+            "iscorrect": false
+          },
+          {
+            "definition": "宗教仪式的道具",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

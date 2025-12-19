@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pilgrim",
+      "error_analysis": "学生易因形近词\"pilot\"(飞行员)或词根\"grim\"(可怕的)误导，将\"pilgrim\"错误理解为\"飞行员\"或\"可怕的人\"。",
+      "sentence": "Every year, thousands of **pilgrims** travel to Mecca to perform the Hajj, a sacred journey in Islam.",
+      "options": {
+        "option": [
+          {
+            "definition": "朝圣者；香客",
+            "iscorrect": true
+          },
+          {
+            "definition": "飞行员；驾驶员",
+            "iscorrect": false
+          },
+          {
+            "definition": "可怕的人；凶徒",
+            "iscorrect": false
+          },
+          {
+            "definition": "药片；药丸",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

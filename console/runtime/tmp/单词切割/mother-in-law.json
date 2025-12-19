@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "motherinlaw",
+      "mother-on-law",
+      "mother-in-low",
+      "motherin-law"
+    ],
+    "correct_chunks": [
+      "mother",
+      "-in-",
+      "law"
+    ],
+    "distractor_chunks": [
+      "motherin",
+      "-on-",
+      "-low",
+      "motheron"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tangelo",
+      "error_analysis": "学生易因形近词\"tangerine\"(橘子)误判为橘子类水果，或因拆分\"tan\"+\"gelo\"联想到凝胶/晒黑等无关义",
+      "sentence": "For breakfast, she enjoyed a slice of **tangelo** with yogurt, noting its sweet-tart flavor that combined the best of oranges and grapefruits.",
+      "options": {
+        "option": [
+          {
+            "definition": "一种橘子和柚子的杂交水果（橘柚）",
+            "iscorrect": true
+          },
+          {
+            "definition": "一种小橘子（类似蜜橘）",
+            "iscorrect": false
+          },
+          {
+            "definition": "一种用于制作果酱的水果凝胶",
+            "iscorrect": false
+          },
+          {
+            "definition": "一种晒干的热带水果干",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

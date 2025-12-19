@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "half",
+      "error_analysis": "学生易将“half”（一半）与形近词“hall”（大厅）混淆，或误选“大厅”。",
+      "sentence": "She ate **half** of the cake and saved the rest for later.",
+      "options": {
+        "option": [
+          {
+            "definition": "一半；一半的",
+            "iscorrect": true
+          },
+          {
+            "definition": "大厅",
+            "iscorrect": false
+          },
+          {
+            "definition": "中途",
+            "iscorrect": false
+          },
+          {
+            "definition": "拥有",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

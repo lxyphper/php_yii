@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "darts",
+      "error_analysis": "学生易混淆形近词“dates”（日期）或误将动词“dart”（猛冲）的名词复数当作“darts”的核心含义（正确为“飞镖/飞镖运动”）",
+      "sentence": "He often spends Friday evenings playing **darts** with his colleagues at the local club.",
+      "options": {
+        "option": [
+          {
+            "definition": "飞镖（运动）",
+            "iscorrect": true
+          },
+          {
+            "definition": "日期（复数）",
+            "iscorrect": false
+          },
+          {
+            "definition": "猛冲（复数）",
+            "iscorrect": false
+          },
+          {
+            "definition": "箭头（复数）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

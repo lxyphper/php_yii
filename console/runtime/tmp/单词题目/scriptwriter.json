@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "scriptwriter",
+      "error_analysis": "学生易因形近词\"scribe\"(抄写员)或词根\"script\"(手稿)误将\"scriptwriter\"理解为\"抄写员\"或\"手稿作者\"",
+      "sentence": "The **scriptwriter** of the popular TV series spent six months drafting the plot for the new season.",
+      "options": {
+        "option": [
+          {
+            "definition": "抄写员",
+            "iscorrect": false
+          },
+          {
+            "definition": "编剧；剧本作者",
+            "iscorrect": true
+          },
+          {
+            "definition": "手稿作者",
+            "iscorrect": false
+          },
+          {
+            "definition": "脚本程序员",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

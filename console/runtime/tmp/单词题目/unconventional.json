@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unconventional",
+      "error_analysis": "学生易混淆形近词unconditional（无条件的）或误将conven联想为“方便”，从而把unconventional理解为“无条件的”或“不方便的”",
+      "sentence": "Her **unconventional** approach to parenting, which includes letting her kids choose their own school subjects, surprised many of her friends.",
+      "options": {
+        "option": [
+          {
+            "definition": "非传统的；不按惯例的",
+            "iscorrect": true
+          },
+          {
+            "definition": "无条件的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不方便的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不连贯的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

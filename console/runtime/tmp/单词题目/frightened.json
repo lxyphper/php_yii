@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "frightened",
+      "error_analysis": "核心易错点为形近词“fought”（战斗）的误导，或误将“frightened”理解为“使恐惧的”（词根“-ened”的主动义误解）",
+      "sentence": "The little girl was **frightened** by the loud thunder and hid under the bed.",
+      "options": {
+        "option": [
+          {
+            "definition": "害怕的；受惊的",
+            "iscorrect": true
+          },
+          {
+            "definition": "战斗过的；好斗的",
+            "iscorrect": false
+          },
+          {
+            "definition": "使恐惧的；引起恐惧的",
+            "iscorrect": false
+          },
+          {
+            "definition": "明亮的；变亮的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

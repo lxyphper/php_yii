@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "celeberity",
+      "celebrty",
+      "selibrity",
+      "celevrity",
+      "cellbrity"
+    ],
+    "correct_chunks": [
+      "cel",
+      "ebr",
+      "ity"
+    ],
+    "distractor_chunks": [
+      "eber",
+      "ty",
+      "sel",
+      "evr",
+      "cell"
+    ]
+  },
+  0
+]

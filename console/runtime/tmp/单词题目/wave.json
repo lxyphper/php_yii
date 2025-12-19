@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wave",
+      "error_analysis": "因形近词“wake”（醒来）干扰，易将动词“wave”（挥手）误理解为“醒来”。",
+      "sentence": "As the bus pulled away, Sarah **waved** goodbye to her friends standing on the sidewalk.",
+      "options": {
+        "option": [
+          {
+            "definition": "醒来",
+            "iscorrect": false
+          },
+          {
+            "definition": "称重",
+            "iscorrect": false
+          },
+          {
+            "definition": "挥手（打招呼或告别）",
+            "iscorrect": true
+          },
+          {
+            "definition": "犹豫",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

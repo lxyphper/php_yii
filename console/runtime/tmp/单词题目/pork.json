@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pork",
+      "error_analysis": "中国学生易因形近词\"fork\"（叉子）或\"pore\"（毛孔）混淆\"pork\"的词义，或误猜为其他肉类。",
+      "sentence": "My mom bought a kilo of **pork** to make spicy stir-fry for dinner.",
+      "options": {
+        "option": [
+          {
+            "definition": "猪肉",
+            "iscorrect": true
+          },
+          {
+            "definition": "叉子",
+            "iscorrect": false
+          },
+          {
+            "definition": "毛孔",
+            "iscorrect": false
+          },
+          {
+            "definition": "牛肉",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

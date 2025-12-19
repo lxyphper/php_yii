@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "inhibition",
+      "error_analysis": "中国学生易因形近词“exhibition”（展览）或词根“hibit”的错误推导，将“inhibition”误解为“展览”或“持有”",
+      "sentence": "The child’s **inhibition** around strangers made it hard for her to approach the new toy.",
+      "options": {
+        "option": [
+          {
+            "definition": "抑制；拘谨",
+            "iscorrect": true
+          },
+          {
+            "definition": "展览；展出",
+            "iscorrect": false
+          },
+          {
+            "definition": "持有；保存",
+            "iscorrect": false
+          },
+          {
+            "definition": "禁止；禁令",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

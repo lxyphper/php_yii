@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "middle age",
+      "error_analysis": "学生易混淆\"middle age\"(单数,中年)与\"Middle Ages\"(复数,中世纪),因\"age\"的\"时代\"含义或单复数差异错误理解为\"中世纪\"",
+      "sentence": "Many people start to reassess their career and family priorities during **middle age**, a phase when they often feel more aware of their life's trajectory.",
+      "options": {
+        "option": [
+          {
+            "definition": "中年（指40-65岁左右的人生阶段）",
+            "iscorrect": true
+          },
+          {
+            "definition": "中世纪（指欧洲5至15世纪的历史时期）",
+            "iscorrect": false
+          },
+          {
+            "definition": "中间年龄（指某个年龄段的中间节点，如25岁是20-30岁的中间）",
+            "iscorrect": false
+          },
+          {
+            "definition": "青年晚期（指30-40岁的过渡阶段）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

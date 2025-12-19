@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "elastic",
+      "error_analysis": "中国学生易因形近词\"plastic\"（塑料）误解为\"塑料的\"，或因词根\"last\"（持久）误解为\"持久的\"",
+      "sentence": "The **elastic** band snapped back into shape after I stretched it.",
+      "options": {
+        "option": [
+          {
+            "definition": "塑料的",
+            "iscorrect": false
+          },
+          {
+            "definition": "持久的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有弹性的；可拉伸的",
+            "iscorrect": true
+          },
+          {
+            "definition": "电的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

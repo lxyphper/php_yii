@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to format",
+      "error_analysis": "易受形近词\"form\"（形式、表格）干扰，误将\"format\"理解为\"形成\"或\"填写表格\"，忽略其\"排版/格式化\"的核心动词义。",
+      "sentence": "Before submitting the essay, please format it according to the professor’s guidelines—use 12-point font and double spacing.",
+      "options": {
+        "option": [
+          {
+            "definition": "排版；格式化（文档、磁盘等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "形成；构成",
+            "iscorrect": false
+          },
+          {
+            "definition": "填写表格",
+            "iscorrect": false
+          },
+          {
+            "definition": "形式；样子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

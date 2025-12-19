@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pickle",
+      "error_analysis": "学生易因形近词\"pick\"（捡起）误将\"pickle\"理解为与\"捡起\"相关的物品（如\"小碎片\"），或因字面拆分（pick+le）猜测为\"挑选者\"等。",
+      "sentence": "My grandma always makes homemade **pickle** with cucumbers and vinegar in summer.",
+      "options": {
+        "option": [
+          {
+            "definition": "腌菜；泡菜（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "捡起的东西；小碎片",
+            "iscorrect": false
+          },
+          {
+            "definition": "挑选者；采摘工具",
+            "iscorrect": false
+          },
+          {
+            "definition": "腌制的动作（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

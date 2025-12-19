@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "subject",
+      "error_analysis": "学生易混淆形近词object（宾语）与subject（主语），或通过sub-（下）和ject（扔）误判为“下面的物体”。",
+      "sentence": "In the sentence \"The cat chased the mouse,\" \"the cat\" is the **subject** that performs the action.",
+      "options": {
+        "option": [
+          {
+            "definition": "主语（句子中执行动作的成分）",
+            "iscorrect": true
+          },
+          {
+            "definition": "宾语（句子中接受动作的成分）",
+            "iscorrect": false
+          },
+          {
+            "definition": "下面的物体（由sub-和ject推导的错误含义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "学科（知识的分支，非本句语境义）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

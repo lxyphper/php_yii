@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "incapable",
+      "error_analysis": "学生易混淆“incapable”（无能力的）与形近词“capable”（有能力的）的含义，或因词根“cap”的否定前缀“in-”理解错误",
+      "sentence": "Despite his efforts, Tom was **incapable** of finishing the task on time because he lacked the necessary skills.",
+      "options": {
+        "option": [
+          {
+            "definition": "有能力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "没有容量的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无能力的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不允许的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

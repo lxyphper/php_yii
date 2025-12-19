@@ -1,0 +1,26 @@
+[
+  {
+    "common_misspellings": [
+      "boderline personality disorder",
+      "borderline persenality disorder",
+      "borderline personality dysorder",
+      "bordeline personality disorder",
+      "borderline personnality disorder"
+    ],
+    "correct_chunks": [
+      "border",
+      "line",
+      "person",
+      "ality",
+      "disorder"
+    ],
+    "distractor_chunks": [
+      "boder",
+      "bord",
+      "persen",
+      "personn",
+      "dys"
+    ]
+  },
+  0
+]

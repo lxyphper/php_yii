@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "toy",
+      "error_analysis": "学生易因形近词混淆，将'toy'误判为'try'（尝试）或'toe'（脚趾）",
+      "sentence": "The little girl is playing with her favorite **toy** in the yard.",
+      "options": {
+        "option": [
+          {
+            "definition": "玩具（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "尝试（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "脚趾（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "工具（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

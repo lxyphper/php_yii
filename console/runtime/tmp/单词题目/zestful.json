@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "zestful",
+      "error_analysis": "学生易将\"zestful\"与形近词\"stressful\"（有压力的）混淆，或因\"zest\"的字面义（果皮屑）误判为\"有调料的\"",
+      "sentence": "She gave a **zestful** performance at the party, dancing and laughing all night long.",
+      "options": {
+        "option": [
+          {
+            "definition": "充满热情的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有压力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有调料的",
+            "iscorrect": false
+          },
+          {
+            "definition": "宁静的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

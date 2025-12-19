@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to stifle",
+      "error_analysis": "学生易因形近词“stiff”（僵硬的）或词根“stif-”（窒息）误解“to stifle”为“使僵硬”或“使窒息”",
+      "sentence": "She tried to **stifle** her excitement when she heard the good news.",
+      "options": {
+        "option": [
+          {
+            "definition": "抑制；忍住",
+            "iscorrect": true
+          },
+          {
+            "definition": "使僵硬；变生硬",
+            "iscorrect": false
+          },
+          {
+            "definition": "使窒息；闷死",
+            "iscorrect": false
+          },
+          {
+            "definition": "风格化；使具有风格",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

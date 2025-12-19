@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "faculty",
+      "error_analysis": "学生易因形近词“factory”（工厂）误判“faculty”为“工厂”，或因词根“fac-”（做）过度推导为“制造能力”。",
+      "sentence": "The **faculty** of the English Department will hold a meeting to discuss the new curriculum.",
+      "options": {
+        "option": [
+          {
+            "definition": "（大学的）全体教员；系",
+            "iscorrect": true
+          },
+          {
+            "definition": "工厂",
+            "iscorrect": false
+          },
+          {
+            "definition": "制造能力",
+            "iscorrect": false
+          },
+          {
+            "definition": "感官；官能",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

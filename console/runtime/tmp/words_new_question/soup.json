@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "soup",
+      "error_analysis": "学生易因形近词混淆'soup'（汤）与'soap'（肥皂），或因'sup'（啜饮）的联想误猜为'啜饮的液体'。",
+      "sentence": "My mom made delicious chicken **soup** for dinner to warm us up on the cold day.",
+      "options": {
+        "option": [
+          {
+            "definition": "汤",
+            "iscorrect": true
+          },
+          {
+            "definition": "肥皂",
+            "iscorrect": false
+          },
+          {
+            "definition": "啜饮的液体",
+            "iscorrect": false
+          },
+          {
+            "definition": "饮料",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

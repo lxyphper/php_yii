@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dazzling",
+      "error_analysis": "中国学生易因形近词“dizzying”（令人头晕的）或词根引申义误将“dazzling”理解为“令人困惑的”",
+      "sentence": "The actress wore a **dazzling** diamond necklace that caught everyone's attention as she walked onto the stage.",
+      "options": {
+        "option": [
+          {
+            "definition": "耀眼的；令人印象深刻的",
+            "iscorrect": true
+          },
+          {
+            "definition": "令人头晕的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人困惑的",
+            "iscorrect": false
+          },
+          {
+            "definition": "单调的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

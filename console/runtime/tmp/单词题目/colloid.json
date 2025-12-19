@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "colloid",
+      "error_analysis": "学生易因形近词\"collide\"（碰撞）误判为\"碰撞的行为\"，或因词根\"col-\"（共同）和\"-loid\"（像...的）误猜为\"相同形状的物体\"",
+      "sentence": "The scientist explained that mayonnaise is a **colloid**, with tiny oil droplets evenly dispersed in vinegar without dissolving.",
+      "options": {
+        "option": [
+          {
+            "definition": "胶体（一种分散体系，其中微小颗粒均匀分散在另一种物质中但未完全溶解）",
+            "iscorrect": true
+          },
+          {
+            "definition": "碰撞的行为或结果",
+            "iscorrect": false
+          },
+          {
+            "definition": "由相同形状的部分组成的物体",
+            "iscorrect": false
+          },
+          {
+            "definition": "坚硬的固体物质",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

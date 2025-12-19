@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "immoderate",
+      "error_analysis": "学生易因形近词\"immediate\"（立即的）混淆词义，或因词根\"moderate\"加\"im-\"前缀误判为\"适度的\"反义词而非\"过度的\"",
+      "sentence": "The doctor warned him against **immoderate** consumption of fatty foods, as it could worsen his condition.",
+      "options": {
+        "option": [
+          {
+            "definition": "立即的",
+            "iscorrect": false
+          },
+          {
+            "definition": "适度的",
+            "iscorrect": false
+          },
+          {
+            "definition": "过度的；无节制的",
+            "iscorrect": true
+          },
+          {
+            "definition": "中等的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

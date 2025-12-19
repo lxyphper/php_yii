@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "intolerant",
+      "error_analysis": "学生易因形近词intimate（亲密的）混淆词义，或误将intolerant（指人不宽容）与intolerable（指事物无法容忍）等同。",
+      "sentence": "She is **intolerant** of people who have different religious beliefs and often refuses to listen to their opinions.",
+      "options": {
+        "option": [
+          {
+            "definition": "不宽容的（指对他人的不同意见或行为无法容忍）",
+            "iscorrect": true
+          },
+          {
+            "definition": "亲密的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无法容忍的（形容事物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "不友好的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

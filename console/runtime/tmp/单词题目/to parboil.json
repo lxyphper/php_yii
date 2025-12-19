@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to parboil",
+      "error_analysis": "学生易因形近词“boil”（完全煮熟）混淆，或因“par”前缀猜测为“用少量水煮熟”而误判",
+      "sentence": "Before roasting the potatoes, it's best to **parboil** them for 10 minutes to ensure they cook evenly.",
+      "options": {
+        "option": [
+          {
+            "definition": "完全煮熟（食物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "用少量水将（食物）煮至全熟",
+            "iscorrect": false
+          },
+          {
+            "definition": "把（食物）用沸水轻煮至半熟",
+            "iscorrect": true
+          },
+          {
+            "definition": "将（食物）放在烤箱中烤",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

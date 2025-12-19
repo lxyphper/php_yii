@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "outstretched",
+      "error_analysis": "学生易因形近词“outstanding”（杰出的）误解“outstretched”为“杰出的”，或因“out-”前缀字面误导为“过度拉伸的”。",
+      "sentence": "The little girl ran towards her mother with **outstretched** arms, eager to be hugged.",
+      "options": {
+        "option": [
+          {
+            "definition": "伸展的；张开的",
+            "iscorrect": true
+          },
+          {
+            "definition": "杰出的；优秀的",
+            "iscorrect": false
+          },
+          {
+            "definition": "过度拉伸的；紧绷的",
+            "iscorrect": false
+          },
+          {
+            "definition": "过时的；陈旧的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

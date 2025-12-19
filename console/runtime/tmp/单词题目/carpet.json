@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "carpet",
+      "error_analysis": "中国学生易因形近词\"carrot\"(胡萝卜)及词根拆分(\"car\"+\"pet\"联想到汽车相关事物)误判\"carpet\"词义",
+      "sentence": "She spilled coffee on the **carpet** in the living room, so she had to grab a towel to clean it up quickly.",
+      "options": {
+        "option": [
+          {
+            "definition": "地毯",
+            "iscorrect": true
+          },
+          {
+            "definition": "胡萝卜",
+            "iscorrect": false
+          },
+          {
+            "definition": "汽车坐垫",
+            "iscorrect": false
+          },
+          {
+            "definition": "宠物玩具",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "letter",
+      "error_analysis": "中国学生易因形近混淆‘letter’（信/字母）与‘latter’（后者），或误将‘信’义理解为‘字母’。",
+      "sentence": "I received a warm **letter** from my best friend who lives abroad.",
+      "options": {
+        "option": [
+          {
+            "definition": "信",
+            "iscorrect": true
+          },
+          {
+            "definition": "后者",
+            "iscorrect": false
+          },
+          {
+            "definition": "字母",
+            "iscorrect": false
+          },
+          {
+            "definition": "让",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

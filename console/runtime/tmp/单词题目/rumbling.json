@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rumbling",
+      "error_analysis": "学生易因形近词“rambling”（漫谈）或“rumor”（谣言），将“rumbling”误解为“漫谈内容”或“谣言传播”",
+      "sentence": "My stomach started **rumbling** loudly during the meeting, making me feel embarrassed.",
+      "options": {
+        "option": [
+          {
+            "definition": "（肚子、雷声等发出的）低沉隆隆声",
+            "iscorrect": true
+          },
+          {
+            "definition": "漫谈的内容",
+            "iscorrect": false
+          },
+          {
+            "definition": "谣言的传播",
+            "iscorrect": false
+          },
+          {
+            "definition": "滚动的动作",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "metal",
+      "error_analysis": "学生易因形近词\"mental\"（精神的）和\"medal\"（奖牌）的干扰，将\"metal\"误判为\"精神的\"或\"奖牌\"。",
+      "sentence": "The new bike lock is made of **metal**, so it's hard to break.",
+      "options": {
+        "option": [
+          {
+            "definition": "金属",
+            "iscorrect": true
+          },
+          {
+            "definition": "精神的；心理的",
+            "iscorrect": false
+          },
+          {
+            "definition": "奖牌；勋章",
+            "iscorrect": false
+          },
+          {
+            "definition": "方法；方式",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

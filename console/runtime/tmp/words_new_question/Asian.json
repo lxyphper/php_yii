@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Asian",
+      "error_analysis": "中国学生易因形近词\"Ashen\"（灰色的）混淆\"Asian\"词义，或误将其与其他大洲形容词（如\"非洲的\"）关联。",
+      "sentence": "Many **Asian** countries celebrate the Lunar New Year with family gatherings and traditional meals.",
+      "options": {
+        "option": [
+          {
+            "definition": "亚洲的；亚洲人的",
+            "iscorrect": true
+          },
+          {
+            "definition": "灰色的；苍白的",
+            "iscorrect": false
+          },
+          {
+            "definition": "非洲的",
+            "iscorrect": false
+          },
+          {
+            "definition": "澳大利亚的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

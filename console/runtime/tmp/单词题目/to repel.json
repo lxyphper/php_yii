@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to repel",
+      "error_analysis": "学生易因形近词\"repeat\"(重复)误判，或因词根\"re-+pel\"(推回)混淆\"推进\"与\"排斥\"",
+      "sentence": "The two north poles of the magnets will **repel** each other when they are brought close.",
+      "options": {
+        "option": [
+          {
+            "definition": "排斥；使互相远离",
+            "iscorrect": true
+          },
+          {
+            "definition": "重复；重说",
+            "iscorrect": false
+          },
+          {
+            "definition": "推进；促进",
+            "iscorrect": false
+          },
+          {
+            "definition": "吸引；使靠近",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sky",
+      "error_analysis": "中国学生易因形近词“ski”（滑雪）或误将“sky”与合成词“skyline”（天际线）拆分，导致理解偏差。",
+      "sentence": "The moon and stars were glowing brightly in the dark **sky** last night.",
+      "options": {
+        "option": [
+          {
+            "definition": "天空",
+            "iscorrect": true
+          },
+          {
+            "definition": "滑雪运动",
+            "iscorrect": false
+          },
+          {
+            "definition": "天际线",
+            "iscorrect": false
+          },
+          {
+            "definition": "间谍",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

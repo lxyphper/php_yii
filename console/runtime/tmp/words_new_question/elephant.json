@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "elephant",
+      "error_analysis": "易与形近词\"elegant\"(优雅的)混淆，或因\"-phant\"联想到\"phantom\"(幽灵)而误判词义",
+      "sentence": "The zookeeper fed fresh bananas to the **elephant** in the large enclosure at the zoo.",
+      "options": {
+        "option": [
+          {
+            "definition": "大象",
+            "iscorrect": true
+          },
+          {
+            "definition": "优雅的",
+            "iscorrect": false
+          },
+          {
+            "definition": "幽灵",
+            "iscorrect": false
+          },
+          {
+            "definition": "老虎",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

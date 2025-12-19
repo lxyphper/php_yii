@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fortification",
+      "error_analysis": "学生可能因词根\"fort\"(强)误判为\"强化物\"，或因形近词\"fortitude\"(坚韧)混淆词义",
+      "sentence": "The ancient city’s **fortification**, including high walls and deep moats, prevented enemy armies from attacking easily.",
+      "options": {
+        "option": [
+          {
+            "definition": "防御工事（如城墙、壕沟等用于防御的结构）",
+            "iscorrect": true
+          },
+          {
+            "definition": "强化物（使某物更坚固的物质或东西）",
+            "iscorrect": false
+          },
+          {
+            "definition": "坚韧（思想或性格上的坚强品质）",
+            "iscorrect": false
+          },
+          {
+            "definition": "要塞（用于防御的坚固建筑物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

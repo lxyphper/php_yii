@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dubbing",
+      "error_analysis": "学生易因形近词\"dubious\"（可疑的）产生联想，或误将词根\"dub\"（授予称号）推导为\"命名\"，忽略其核心词义\"配音\"。",
+      "sentence": "The movie’s **dubbing** for the Chinese market was so well done that audiences didn’t notice the original language was English.",
+      "options": {
+        "option": [
+          {
+            "definition": "配音（给电影、电视节目等添加声音或对话）",
+            "iscorrect": true
+          },
+          {
+            "definition": "可疑的；不确定的",
+            "iscorrect": false
+          },
+          {
+            "definition": "授予称号或头衔",
+            "iscorrect": false
+          },
+          {
+            "definition": "剪辑（视频或音频片段）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

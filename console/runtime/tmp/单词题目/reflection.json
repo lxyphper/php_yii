@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "reflection",
+      "error_analysis": "中国学生易因形近词“reflex”（本能反应）或词根“reflect”（反射）而误将“reflection”（思考）理解为“本能反应”或“物理反射”。",
+      "sentence": "Before making a decision, she always takes a moment of **reflection** to weigh the pros and cons.",
+      "options": {
+        "option": [
+          {
+            "definition": "思考；沉思",
+            "iscorrect": true
+          },
+          {
+            "definition": "本能反应；反射动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "物理反射（如光的反射）",
+            "iscorrect": false
+          },
+          {
+            "definition": "折射（如光的弯曲）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

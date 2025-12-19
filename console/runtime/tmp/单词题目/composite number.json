@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "composite number",
+      "error_analysis": "学生易因“composite”的“复合/组合”词根，错误联想“composite number”为“组合数”或混淆为“复数”等非合数概念",
+      "sentence": "In mathematics, 4 is a **composite number** because it can be divided evenly by 1, 2, and 4.",
+      "options": {
+        "option": [
+          {
+            "definition": "合数（大于1的非质数，能被1和自身以外的数整除的数）",
+            "iscorrect": true
+          },
+          {
+            "definition": "组合数（由多个数字组合而成的数）",
+            "iscorrect": false
+          },
+          {
+            "definition": "复数（形如a+bi的数，a、b为实数）",
+            "iscorrect": false
+          },
+          {
+            "definition": "质数（只能被1和自身整除的数）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "southwest",
+      "error_analysis": "学生易因形近词‘southward’（向南）、‘southwester’（西南风）的干扰，或因合成词结构误将‘southwest’理解为‘向西南’（副词）而非‘西南部地区’（名词）。",
+      "sentence": "Many people enjoy traveling to the **southwest** of China for its beautiful mountain landscapes and ethnic cultures.",
+      "options": {
+        "option": [
+          {
+            "definition": "西南方向；西南部地区",
+            "iscorrect": true
+          },
+          {
+            "definition": "向南（方向）",
+            "iscorrect": false
+          },
+          {
+            "definition": "西南风（气象名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "向西南（副词，表方向）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

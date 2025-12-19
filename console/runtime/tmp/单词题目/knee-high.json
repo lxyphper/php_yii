@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "knee-high",
+      "error_analysis": "学生易因字面拆分(knee+high)误将其理解为“膝盖的高度”(名词短语)，而非描述某物高度到膝盖的形容词(如“齐膝高的”)。",
+      "sentence": "The grass in the field was so tall that it reached **knee-high** by the end of summer.",
+      "options": {
+        "option": [
+          {
+            "definition": "齐膝高的（形容词，用于描述某物的高度达到膝盖）",
+            "iscorrect": true
+          },
+          {
+            "definition": "膝盖的高度（名词短语）",
+            "iscorrect": false
+          },
+          {
+            "definition": "高抬腿的（用于描述动作或姿势）",
+            "iscorrect": false
+          },
+          {
+            "definition": "膝盖上方的（用于描述位置在膝盖以上）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

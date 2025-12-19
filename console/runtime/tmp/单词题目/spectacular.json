@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "spectacular",
+      "error_analysis": "中国学生易因形近词`special`（特别的）或词根`spect-`（看）误导，将`spectacular`误判为“特别的”或“视觉的”",
+      "sentence": "The opening ceremony of the Olympics featured **spectacular** fireworks that lit up the entire sky.",
+      "options": {
+        "option": [
+          {
+            "definition": "特别的",
+            "iscorrect": false
+          },
+          {
+            "definition": "视觉的",
+            "iscorrect": false
+          },
+          {
+            "definition": "壮观的；惊人的",
+            "iscorrect": true
+          },
+          {
+            "definition": "推测的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

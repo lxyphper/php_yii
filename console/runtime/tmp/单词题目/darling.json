@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "darling",
+      "error_analysis": "中国学生易因形近词“daring”（勇敢的）混淆词义，或因字面拆分“dar+ling”误判为与“黑暗”相关的含义。",
+      "sentence": "My grandma always calls me her little **darling** when I visit her.",
+      "options": {
+        "option": [
+          {
+            "definition": "亲爱的人；宝贝",
+            "iscorrect": true
+          },
+          {
+            "definition": "勇敢的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "小黑暗的东西",
+            "iscorrect": false
+          },
+          {
+            "definition": "约会对象",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

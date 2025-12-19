@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cd burner",
+      "error_analysis": "学生易因“burner”的字面意思“燃烧器”将“cd burner”误理解为“CD燃烧器”",
+      "sentence": "I need to buy a new **cd burner** because my old one can't write data to CDs anymore.",
+      "options": {
+        "option": [
+          {
+            "definition": "CD刻录机",
+            "iscorrect": true
+          },
+          {
+            "definition": "CD燃烧器",
+            "iscorrect": false
+          },
+          {
+            "definition": "CD播放器",
+            "iscorrect": false
+          },
+          {
+            "definition": "CD阅读器",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "uncomfortable",
+      "error_analysis": "学生易因形近词“uncommon”（不常见的）混淆，或因“comfort”动词义（安慰）误判为“不安慰的”",
+      "sentence": "Sitting on that hard wooden chair for hours made her feel **uncomfortable**.",
+      "options": {
+        "option": [
+          {
+            "definition": "不舒适的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不常见的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不安慰的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不容易的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

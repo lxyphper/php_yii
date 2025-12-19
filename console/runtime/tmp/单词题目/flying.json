@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "flying",
+      "error_analysis": "中国学生易混淆形近词“frying”（油炸的），或因“fly”的名词义“苍蝇”误判为“苍蝇的”。",
+      "sentence": "The **flying** bird disappeared into the clouds quickly.",
+      "options": {
+        "option": [
+          {
+            "definition": "油炸的",
+            "iscorrect": false
+          },
+          {
+            "definition": "苍蝇的；像苍蝇的",
+            "iscorrect": false
+          },
+          {
+            "definition": "飞行的；正在飞行的",
+            "iscorrect": true
+          },
+          {
+            "definition": "漂浮的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

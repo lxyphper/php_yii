@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "formidable",
+      "error_analysis": "学生易因\"form\"词根联想到\"形式、正式\"，或因形近词\"formal\"（正式的）、\"formula\"（公式），误将\"formidable\"理解为\"正式的\"或\"公式化的\"。",
+      "sentence": "The mountain climber knew the storm ahead was a **formidable** challenge that could put his life at risk.",
+      "options": {
+        "option": [
+          {
+            "definition": "难以对付的；可怕的",
+            "iscorrect": true
+          },
+          {
+            "definition": "正式的",
+            "iscorrect": false
+          },
+          {
+            "definition": "公式化的",
+            "iscorrect": false
+          },
+          {
+            "definition": "能形成的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

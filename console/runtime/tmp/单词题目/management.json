@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "management",
+      "error_analysis": "易因形近词\"measurement\"(测量)混淆词义，或因词根\"man-\"(人/手动)错误联想为\"手动操作\"。",
+      "sentence": "The company's **management** has decided to expand into the Asian market next year.",
+      "options": {
+        "option": [
+          {
+            "definition": "管理；管理层",
+            "iscorrect": true
+          },
+          {
+            "definition": "测量；度量",
+            "iscorrect": false
+          },
+          {
+            "definition": "手动操作；人工处理",
+            "iscorrect": false
+          },
+          {
+            "definition": "安排；布置",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

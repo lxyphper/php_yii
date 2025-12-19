@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "whether",
+      "error_analysis": "最核心易错点是与形近词\"weather\"（天气）混淆，其次是对其引导宾语从句的功能理解不清。",
+      "sentence": "I wonder **whether** she will come to the party tonight—she mentioned being busy earlier.",
+      "options": {
+        "option": [
+          {
+            "definition": "是否（引导宾语从句，表示对某事的疑问）",
+            "iscorrect": true
+          },
+          {
+            "definition": "天气（指气温、降水等大气状况）",
+            "iscorrect": false
+          },
+          {
+            "definition": "哪一个（用于从多个选项中选择特定对象）",
+            "iscorrect": false
+          },
+          {
+            "definition": "无论（表示在任何情况下都不改变）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

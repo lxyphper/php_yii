@@ -1,0 +1,32 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fly",
+      "error_analysis": "学生易混淆形近词\"fry\"(油炸)的含义，或忽略\"fly\"作为名词\"苍蝇\"的常用义而误选动词\"飞\"。",
+      "sentence": {
+        "b": "fly"
+      },
+      "options": {
+        "option": [
+          {
+            "definition": "苍蝇（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "飞（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "油炸（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "拉链（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

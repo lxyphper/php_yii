@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "souvenir",
+      "error_analysis": "学生易因形近词“survey”（调查）或词根“sou-+venir”（误拆为“下+来”）推导错误，将“souvenir”误解为“调查”或“附属品”",
+      "sentence": "When I visited London, I picked up a tiny Big Ben keychain as a **souvenir** to remind me of the fun trip.",
+      "options": {
+        "option": [
+          {
+            "definition": "调查",
+            "iscorrect": false
+          },
+          {
+            "definition": "附属品",
+            "iscorrect": false
+          },
+          {
+            "definition": "纪念品",
+            "iscorrect": true
+          },
+          {
+            "definition": "仆人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

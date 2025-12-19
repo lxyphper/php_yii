@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Persian",
+      "error_analysis": "学生易因形近词\"person\"（人）将\"Persian\"误判为\"人的；个人的\"。",
+      "sentence": "The **Persian** carpet in the museum is renowned for its elaborate floral designs and rich colors.",
+      "options": {
+        "option": [
+          {
+            "definition": "波斯的；波斯人的；波斯语的",
+            "iscorrect": true
+          },
+          {
+            "definition": "人的；个人的",
+            "iscorrect": false
+          },
+          {
+            "definition": "永久的；持久的",
+            "iscorrect": false
+          },
+          {
+            "definition": "猫的；猫科动物的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

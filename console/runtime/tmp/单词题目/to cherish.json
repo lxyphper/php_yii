@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to cherish",
+      "error_analysis": "学生易因形近词\"cherry\"(樱桃)误联想为\"喜欢/食用樱桃\"，或因直觉猜测为\"持有/保存\"（如与\"keep\"混淆）。",
+      "sentence": "She always **cherishes** the memories of her childhood spent with her grandparents.",
+      "options": {
+        "option": [
+          {
+            "definition": "珍视；珍惜（感情、记忆等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "食用/喜欢樱桃",
+            "iscorrect": false
+          },
+          {
+            "definition": "持有/保存（物品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "欢呼/使快乐",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

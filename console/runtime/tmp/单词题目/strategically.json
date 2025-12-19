@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "strategically",
+      "error_analysis": "易与形近词\"statistically\"(统计上)混淆，或过度直译词根\"strategy\"为\"有策略地\"而忽略其\"战略性、关键地\"的核心义",
+      "sentence": "The company decided to place its new retail store **strategically** in the city center to attract more high-income customers.",
+      "options": {
+        "option": [
+          {
+            "definition": "统计上",
+            "iscorrect": false
+          },
+          {
+            "definition": "战略性地；关键地",
+            "iscorrect": true
+          },
+          {
+            "definition": "有策略地（强调具体操作步骤）",
+            "iscorrect": false
+          },
+          {
+            "definition": "系统地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

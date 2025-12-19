@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to scoff",
+      "error_analysis": "学生易因形近词\"cough\"（咳嗽）的拼写/发音联想，或误将\"scoff\"与\"scoop\"（舀取）混淆而误解其含义",
+      "sentence": "When Tom suggested we could finish the project in one day, his colleagues **scoffed** and said it was impossible.",
+      "options": {
+        "option": [
+          {
+            "definition": "嘲笑；嘲弄",
+            "iscorrect": true
+          },
+          {
+            "definition": "咳嗽",
+            "iscorrect": false
+          },
+          {
+            "definition": "舀取；挖掘",
+            "iscorrect": false
+          },
+          {
+            "definition": "同意；赞成",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

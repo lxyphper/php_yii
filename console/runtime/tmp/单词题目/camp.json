@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "camp",
+      "error_analysis": "学生易将\"camp\"与形近词\"campus\"（校园）混淆，或误判为\"帐篷\"等具体物品而非\"营地\"这一场所",
+      "sentence": "The scouts set up their **camp** in the forest and spent three days hiking and fishing.",
+      "options": {
+        "option": [
+          {
+            "definition": "营地；露营地",
+            "iscorrect": true
+          },
+          {
+            "definition": "校园",
+            "iscorrect": false
+          },
+          {
+            "definition": "帐篷",
+            "iscorrect": false
+          },
+          {
+            "definition": "旅馆",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "agriculture",
+      "error_analysis": "学生易因形近词\"culture\"（文化）的干扰，将\"agriculture\"误解为\"文化\"或\"农业文化\"。",
+      "sentence": "The government has introduced new policies to support **agriculture**, aiming to increase crop yields and improve farmers' incomes.",
+      "options": {
+        "option": [
+          {
+            "definition": "农业",
+            "iscorrect": true
+          },
+          {
+            "definition": "文化",
+            "iscorrect": false
+          },
+          {
+            "definition": "农业文化",
+            "iscorrect": false
+          },
+          {
+            "definition": "农村生活",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

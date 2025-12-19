@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "biofuel",
+      "error_analysis": "学生易因词根“bio-”（生物）误导将“biofuel”误解为“可生物降解的燃料”，或混淆其与同类词“沼气”的区别。",
+      "sentence": "Many countries are promoting the use of **biofuel** made from plant waste to combat climate change.",
+      "options": {
+        "option": [
+          {
+            "definition": "生物燃料",
+            "iscorrect": true
+          },
+          {
+            "definition": "可生物降解的燃料",
+            "iscorrect": false
+          },
+          {
+            "definition": "沼气",
+            "iscorrect": false
+          },
+          {
+            "definition": "化石燃料",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

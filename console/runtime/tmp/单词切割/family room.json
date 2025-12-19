@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "famly room",
+      "famely room",
+      "family rom",
+      "familly room",
+      "family ruom"
+    ],
+    "correct_chunks": [
+      "fam",
+      "i",
+      "ly",
+      "room"
+    ],
+    "distractor_chunks": [
+      "famly",
+      "me",
+      "rom",
+      "lly",
+      "ru"
+    ]
+  },
+  0
+]

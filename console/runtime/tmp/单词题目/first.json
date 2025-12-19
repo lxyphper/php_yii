@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "first",
+      "error_analysis": "学生易因形近词“fist”（拳头）的干扰，将“first”误理解为“拳头”。",
+      "sentence": "He came **first** in the race.",
+      "options": {
+        "option": [
+          {
+            "definition": "第一（名）",
+            "iscorrect": true
+          },
+          {
+            "definition": "拳头",
+            "iscorrect": false
+          },
+          {
+            "definition": "快的",
+            "iscorrect": false
+          },
+          {
+            "definition": "前面的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

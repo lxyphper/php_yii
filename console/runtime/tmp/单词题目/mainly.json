@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mainly",
+      "error_analysis": "易混淆形近词“manly”（男子气概的）或误将副词理解为形容词“主要的”",
+      "sentence": "The festival is **mainly** celebrated in the northern part of the country.",
+      "options": {
+        "option": [
+          {
+            "definition": "主要地",
+            "iscorrect": true
+          },
+          {
+            "definition": "男子气概的",
+            "iscorrect": false
+          },
+          {
+            "definition": "主要的",
+            "iscorrect": false
+          },
+          {
+            "definition": "每天地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

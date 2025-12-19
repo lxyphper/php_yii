@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fatigue",
+      "error_analysis": "学生易因形近词“fat”（胖的）错误联想“fatigue”为与脂肪或肥胖相关的含义。",
+      "sentence": "After working 12 hours straight, Maria experienced extreme **fatigue** and needed to rest immediately.",
+      "options": {
+        "option": [
+          {
+            "definition": "疲劳；疲倦",
+            "iscorrect": true
+          },
+          {
+            "definition": "脂肪堆积；肥胖",
+            "iscorrect": false
+          },
+          {
+            "definition": "无聊；厌倦",
+            "iscorrect": false
+          },
+          {
+            "definition": "脆弱；易碎",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

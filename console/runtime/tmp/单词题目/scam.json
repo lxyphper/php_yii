@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "scam",
+      "error_analysis": "学生易因形近词“scan”（扫描）或“scar”（伤疤）混淆，或误联想“scheme”（计划）而误解“scam”的核心词义。",
+      "sentence": "The old man fell for a phone **scam** and lost all his savings.",
+      "options": {
+        "option": [
+          {
+            "definition": "骗局；诈骗",
+            "iscorrect": true
+          },
+          {
+            "definition": "扫描；浏览",
+            "iscorrect": false
+          },
+          {
+            "definition": "计划；阴谋",
+            "iscorrect": false
+          },
+          {
+            "definition": "伤疤；痕迹",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "suggestion",
+      "error_analysis": "学生易将`suggestion`与形近词`subscription`（订阅）混淆，或误将其核心词义从“建议”偏离为“暗示”。",
+      "sentence": "My teacher gave me a useful **suggestion** about how to improve my writing.",
+      "options": {
+        "option": [
+          {
+            "definition": "建议",
+            "iscorrect": true
+          },
+          {
+            "definition": "订阅",
+            "iscorrect": false
+          },
+          {
+            "definition": "暗示",
+            "iscorrect": false
+          },
+          {
+            "definition": "选择",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

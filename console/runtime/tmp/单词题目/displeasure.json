@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "displeasure",
+      "error_analysis": "学生易通过词根“dis-+pleasure”字面推导，将“displeasure”错误理解为“不快乐；悲伤”，而非其核心词义“不满；不悦”。",
+      "sentence": "The manager expressed his **displeasure** with the team's lack of progress in the project.",
+      "options": {
+        "option": [
+          {
+            "definition": "不满；不悦",
+            "iscorrect": true
+          },
+          {
+            "definition": "不快乐；悲伤",
+            "iscorrect": false
+          },
+          {
+            "definition": "使某人不悦的行为",
+            "iscorrect": false
+          },
+          {
+            "definition": "失望；沮丧",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

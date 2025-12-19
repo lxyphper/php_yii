@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "significantly",
+      "error_analysis": "学生易因词根“sign”（符号、标志）误导，将“significantly”误解为“象征性地”，或混淆“显著地”与“重要地”",
+      "sentence": "The new policy has **significantly** reduced air pollution in the city.",
+      "options": {
+        "option": [
+          {
+            "definition": "显著地；明显地",
+            "iscorrect": true
+          },
+          {
+            "definition": "象征性地；有标志地",
+            "iscorrect": false
+          },
+          {
+            "definition": "重要地；关键地",
+            "iscorrect": false
+          },
+          {
+            "definition": "稍微地；轻微地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

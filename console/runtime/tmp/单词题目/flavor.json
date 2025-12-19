@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "flavor",
+      "error_analysis": "学生易因形近词“favor”（偏爱）混淆，或因词根“vor”（吃）误判为“食物”。",
+      "sentence": "The soup has a rich tomato **flavor** that reminds me of my grandmother's cooking.",
+      "options": {
+        "option": [
+          {
+            "definition": "味道；风味",
+            "iscorrect": true
+          },
+          {
+            "definition": "偏爱；支持",
+            "iscorrect": false
+          },
+          {
+            "definition": "食物；菜肴",
+            "iscorrect": false
+          },
+          {
+            "definition": "气味；香气",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

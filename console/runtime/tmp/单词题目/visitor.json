@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "visitor",
+      "error_analysis": "学生易因形近词“victor”（胜利者）产生混淆，或误将“visitor”字面理解为“看的人”（来自“vis”词根的过度推导）。",
+      "sentence": "The museum offers free guided tours for **visitors** every weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "参观者；访客",
+            "iscorrect": true
+          },
+          {
+            "definition": "胜利者",
+            "iscorrect": false
+          },
+          {
+            "definition": "看的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "视察者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

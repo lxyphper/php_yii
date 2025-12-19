@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "police",
+      "error_analysis": "因形近词‘policy’（政策）干扰或误将‘police’与‘政治’关联而产生误判。",
+      "sentence": "The **police** arrived at the scene to investigate the car accident.",
+      "options": {
+        "option": [
+          {
+            "definition": "政策",
+            "iscorrect": false
+          },
+          {
+            "definition": "警察（部门）",
+            "iscorrect": true
+          },
+          {
+            "definition": "政治",
+            "iscorrect": false
+          },
+          {
+            "definition": "保安",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

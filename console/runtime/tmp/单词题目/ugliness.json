@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ugliness",
+      "error_analysis": "学生易将“ugly”的“暴力的、令人不愉快的”意思延伸，把“ugliness”误解为“暴力”或“不愉快”。",
+      "sentence": "The documentary exposed the **ugliness** of the human trafficking ring, showing how innocent people were exploited.",
+      "options": {
+        "option": [
+          {
+            "definition": "暴力；激烈",
+            "iscorrect": false
+          },
+          {
+            "definition": "不愉快；令人讨厌的事",
+            "iscorrect": false
+          },
+          {
+            "definition": "丑陋；丑恶",
+            "iscorrect": true
+          },
+          {
+            "definition": "丑陋的人或物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

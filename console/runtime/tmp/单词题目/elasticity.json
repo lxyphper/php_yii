@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "elasticity",
+      "error_analysis": "因形近词“electricity”（电）干扰或词根“elastic”过度联想，易误判为“电的性质”或“弹性的物体”。",
+      "sentence": "The **elasticity** of the rubber band allows it to stretch and return to its original shape easily.",
+      "options": {
+        "option": [
+          {
+            "definition": "弹性；灵活性",
+            "iscorrect": true
+          },
+          {
+            "definition": "电的性质",
+            "iscorrect": false
+          },
+          {
+            "definition": "弹性的物体",
+            "iscorrect": false
+          },
+          {
+            "definition": "可塑性",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

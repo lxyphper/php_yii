@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "acid",
+      "error_analysis": "学生易因形近将“acid”与“aside”（旁边）混淆，或因词根“ac-”（尖）误猜为“尖锐的”（非核心含义）",
+      "sentence": "Lemon juice is a natural **acid** that makes foods taste sour.",
+      "options": {
+        "option": [
+          {
+            "definition": "旁边的",
+            "iscorrect": false
+          },
+          {
+            "definition": "尖锐的",
+            "iscorrect": false
+          },
+          {
+            "definition": "行动的",
+            "iscorrect": false
+          },
+          {
+            "definition": "酸；酸性物质",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

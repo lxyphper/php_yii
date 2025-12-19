@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bay",
+      "error_analysis": "学生易因形近（如与\"day\"结构相似）或发音混淆（如与\"buy\"发音接近），误将\"bay\"理解为\"天\"或\"购买\"。",
+      "sentence": "We spent the weekend at a small cottage by the **bay**, watching the ships sail into the distance.",
+      "options": {
+        "option": [
+          {
+            "definition": "天",
+            "iscorrect": false
+          },
+          {
+            "definition": "购买",
+            "iscorrect": false
+          },
+          {
+            "definition": "海湾",
+            "iscorrect": true
+          },
+          {
+            "definition": "男孩",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

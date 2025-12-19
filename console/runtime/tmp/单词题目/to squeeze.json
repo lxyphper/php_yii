@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to squeeze",
+      "error_analysis": "学生易因形近词'squash'(压扁)或字面联想将'squeeze'误理解为'压扁'或'紧握'",
+      "sentence": "She had to **squeeze** the tube hard to get the last bit of toothpaste out.",
+      "options": {
+        "option": [
+          {
+            "definition": "挤压；捏",
+            "iscorrect": true
+          },
+          {
+            "definition": "压扁；压碎",
+            "iscorrect": false
+          },
+          {
+            "definition": "紧握；抓住",
+            "iscorrect": false
+          },
+          {
+            "definition": "进入；加入",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

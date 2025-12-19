@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to roll",
+      "error_analysis": "中国学生易因形近词“role”（角色）混淆“to roll”的含义，或因“卷”的字面义误解其“滚动”的核心义。",
+      "sentence": "The little boy likes to **roll** his toy car across the living room floor.",
+      "options": {
+        "option": [
+          {
+            "definition": "滚动；滚",
+            "iscorrect": true
+          },
+          {
+            "definition": "扮演角色",
+            "iscorrect": false
+          },
+          {
+            "definition": "卷起来",
+            "iscorrect": false
+          },
+          {
+            "definition": "掷（骰子）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

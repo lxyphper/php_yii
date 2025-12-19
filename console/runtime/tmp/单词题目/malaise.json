@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "malaise",
+      "error_analysis": "学生易因形近词\"malice\"(恶意)或词根\"mal-\"(坏的)误猜为\"恶意\"或\"严重疾病\"",
+      "sentence": "After weeks of stress at work, she began to feel a persistent **malaise** that no amount of sleep could cure.",
+      "options": {
+        "option": [
+          {
+            "definition": "（身体或情绪上的）不适；普遍的倦怠感",
+            "iscorrect": true
+          },
+          {
+            "definition": "恶意",
+            "iscorrect": false
+          },
+          {
+            "definition": "严重疾病",
+            "iscorrect": false
+          },
+          {
+            "definition": "混乱状态",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

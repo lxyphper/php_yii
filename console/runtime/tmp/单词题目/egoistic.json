@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "egoistic",
+      "error_analysis": "易因与“ecstatic”（狂喜的）拼写相似或“ego”（自我）词根误导，将“egoistic”误判为“狂喜的”或“自信的”。",
+      "sentence": "His **egoistic** behavior—always putting his own needs before others'—made him unpopular among his teammates.",
+      "options": {
+        "option": [
+          {
+            "definition": "自私的",
+            "iscorrect": true
+          },
+          {
+            "definition": "狂喜的",
+            "iscorrect": false
+          },
+          {
+            "definition": "自信的",
+            "iscorrect": false
+          },
+          {
+            "definition": "开朗的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

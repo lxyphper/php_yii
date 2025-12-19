@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "epoch",
+      "error_analysis": "学生易因形近词“epic”（史诗）混淆，或误猜为“事件”等错误含义",
+      "sentence": "The invention of the internet marked a new **epoch** in human history.",
+      "options": {
+        "option": [
+          {
+            "definition": "时代；纪元",
+            "iscorrect": true
+          },
+          {
+            "definition": "史诗；壮丽的事迹",
+            "iscorrect": false
+          },
+          {
+            "definition": "插曲；片段",
+            "iscorrect": false
+          },
+          {
+            "definition": "事件；大事",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

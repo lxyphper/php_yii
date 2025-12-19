@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to elect",
+      "error_analysis": "易因形近词\"select\"(选择)干扰，或词根\"eligere\"(挑选)过度直译，将\"elect\"误作一般\"选择\"而非\"选举\"。",
+      "sentence": "The club members will **elect** a new chairman at the monthly meeting tomorrow.",
+      "options": {
+        "option": [
+          {
+            "definition": "选举；推选",
+            "iscorrect": true
+          },
+          {
+            "definition": "选择；挑选",
+            "iscorrect": false
+          },
+          {
+            "definition": "弹出；逐出",
+            "iscorrect": false
+          },
+          {
+            "definition": "优雅的；精美的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

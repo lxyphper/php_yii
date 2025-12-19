@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to like",
+      "error_analysis": "中国学生易因形近词\"lick\"(舔)或混淆\"like\"动词(喜欢)与介词(像)的含义而误解\"to like\"。",
+      "sentence": "My little sister **likes** eating ice cream every day.",
+      "options": {
+        "option": [
+          {
+            "definition": "喜欢",
+            "iscorrect": true
+          },
+          {
+            "definition": "舔",
+            "iscorrect": false
+          },
+          {
+            "definition": "像",
+            "iscorrect": false
+          },
+          {
+            "definition": "需要",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "chiseled",
+      "error_analysis": "学生易将“chiseled”（轮廓分明的）误判为“用凿子雕刻的”（字面词根误导）",
+      "sentence": "The model's **chiseled** facial features and toned physique stood out in the fashion show.",
+      "options": {
+        "option": [
+          {
+            "definition": "轮廓分明的（尤指面部或身体）",
+            "iscorrect": true
+          },
+          {
+            "definition": "用凿子雕刻的",
+            "iscorrect": false
+          },
+          {
+            "definition": "寒冷的",
+            "iscorrect": false
+          },
+          {
+            "definition": "破碎的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

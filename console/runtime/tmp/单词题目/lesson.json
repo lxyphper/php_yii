@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lesson",
+      "error_analysis": "学生易因形近词“lessen”（减少）的干扰，将“lesson”误理解为“减少”，或误作“讲座”而非“课”。",
+      "sentence": "The teacher asked us to finish the third **lesson** in the textbook before next class.",
+      "options": {
+        "option": [
+          {
+            "definition": "减少",
+            "iscorrect": false
+          },
+          {
+            "definition": "讲座",
+            "iscorrect": false
+          },
+          {
+            "definition": "课；（教材中的）一课",
+            "iscorrect": true
+          },
+          {
+            "definition": "教训",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

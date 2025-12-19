@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lackadaisical",
+      "error_analysis": "学生易因\"lack\"（缺乏）误猜为\"缺乏某种事物\"，或因\"daisy\"（雏菊）联想为\"柔弱的\"，忽略其\"懒散、敷衍\"的核心义。",
+      "sentence": "She gave a **lackadaisical** response to the teacher's question, not even looking up from her phone.",
+      "options": {
+        "option": [
+          {
+            "definition": "懒散的；敷衍的",
+            "iscorrect": true
+          },
+          {
+            "definition": "缺乏活力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "柔弱的；娇美的",
+            "iscorrect": false
+          },
+          {
+            "definition": "遗憾的；惋惜的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

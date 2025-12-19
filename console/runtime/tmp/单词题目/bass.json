@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bass",
+      "error_analysis": "学生易因形近词“base”（基础）混淆“bass”的含义，或误选其“鲈鱼”的次要含义",
+      "sentence": "The **bass** line in this song is so strong that it makes the floor vibrate.",
+      "options": {
+        "option": [
+          {
+            "definition": "基础；基地",
+            "iscorrect": false
+          },
+          {
+            "definition": "低音（声音或乐器）",
+            "iscorrect": true
+          },
+          {
+            "definition": "鲈鱼",
+            "iscorrect": false
+          },
+          {
+            "definition": "通过；经过",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

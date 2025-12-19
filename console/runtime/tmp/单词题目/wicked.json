@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wicked",
+      "error_analysis": "学生易因形近词\"wicker\"(藤编的)或词根\"wick\"(烛芯)误判\"wicked\"为\"藤编的\"或\"有烛芯的\"",
+      "sentence": "The villain in the movie came up with a **wicked** scheme to steal all the town's money.",
+      "options": {
+        "option": [
+          {
+            "definition": "藤编的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有烛芯的",
+            "iscorrect": false
+          },
+          {
+            "definition": "虚弱的",
+            "iscorrect": false
+          },
+          {
+            "definition": "邪恶的；恶劣的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

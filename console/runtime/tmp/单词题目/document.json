@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "document",
+      "error_analysis": "易混淆形近词documentary（纪录片），或误将词根doc（教导）过度推导为“教导材料”",
+      "sentence": "Please send me the **document** with all the meeting notes by Friday.",
+      "options": {
+        "option": [
+          {
+            "definition": "文件；文档",
+            "iscorrect": true
+          },
+          {
+            "definition": "纪录片",
+            "iscorrect": false
+          },
+          {
+            "definition": "教导材料",
+            "iscorrect": false
+          },
+          {
+            "definition": "记录行为",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

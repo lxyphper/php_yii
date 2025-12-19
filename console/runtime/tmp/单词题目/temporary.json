@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "temporary",
+      "error_analysis": "中国学生因“temporary”与“temper”（脾气）、“temperature”（温度）共享“temp”前缀，易误联想为“脾气的”或“温度的”",
+      "sentence": "Due to the construction, the shop has set up a **temporary** entrance at the back.",
+      "options": {
+        "option": [
+          {
+            "definition": "暂时的；临时的",
+            "iscorrect": true
+          },
+          {
+            "definition": "脾气的；易怒的",
+            "iscorrect": false
+          },
+          {
+            "definition": "温度的；热的",
+            "iscorrect": false
+          },
+          {
+            "definition": "诱惑的；吸引人的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

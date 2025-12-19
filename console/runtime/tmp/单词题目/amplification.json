@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "amplification",
+      "error_analysis": "学生易因形近词“application”（应用）或词根“ample”（充足的）误判“amplification”为“应用”或“充足化”。",
+      "sentence": "The **amplification** of the sound system made the music so loud that it could be heard across the entire park.",
+      "options": {
+        "option": [
+          {
+            "definition": "放大；增强",
+            "iscorrect": true
+          },
+          {
+            "definition": "应用；使用",
+            "iscorrect": false
+          },
+          {
+            "definition": "充足化；丰富化",
+            "iscorrect": false
+          },
+          {
+            "definition": "解释；说明",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

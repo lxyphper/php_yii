@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "incumbent",
+      "error_analysis": "中国学生易因形近词“incident”误解为“事件相关的”，或因词根“cum”误判为“累积的”。",
+      "sentence": "As the **incumbent** CEO, she has overseen the company's growth for the past five years.",
+      "options": {
+        "option": [
+          {
+            "definition": "现任的（指职位）",
+            "iscorrect": true
+          },
+          {
+            "definition": "事件的；与事件相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "累积的；逐渐增加的",
+            "iscorrect": false
+          },
+          {
+            "definition": "即将上任的；新来的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

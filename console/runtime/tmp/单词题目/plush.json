@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "plush",
+      "error_analysis": "学生易因形近词\"plus\"（加；额外的）误解\"plush\"为\"额外的\"或\"附加的\"",
+      "sentence": "The hotel room had a **plush** carpet that felt soft underfoot and matched the elegant furniture.",
+      "options": {
+        "option": [
+          {
+            "definition": "额外的；附加的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有力的；推动的",
+            "iscorrect": false
+          },
+          {
+            "definition": "豪华的；柔软的",
+            "iscorrect": true
+          },
+          {
+            "definition": "脉搏跳动的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

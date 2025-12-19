@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "quiz",
+      "error_analysis": "易混淆形近词“quit”（放弃），或误将“quiz”理解为“大型考试”而非“简短小测验”",
+      "sentence": "Our teacher said we'll have a **quiz** on Chapter 3 tomorrow, so I need to review my notes tonight.",
+      "options": {
+        "option": [
+          {
+            "definition": "小测验；简短的测试（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "放弃（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "考试（指大型考试，如期末考试）",
+            "iscorrect": false
+          },
+          {
+            "definition": "问题（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Greece",
+      "error_analysis": "中国学生易因形近词“grease”（油脂）混淆词义，或误将国家名“Greece”与形容词“Greek”（希腊的）等同。",
+      "sentence": "Many travelers visit **Greece** every year to explore its ancient ruins, sunny Aegean beaches, and iconic white-washed villages.",
+      "options": {
+        "option": [
+          {
+            "definition": "希腊（欧洲东南部的国家，首都为雅典，以古文明、爱琴海和奥林匹克运动起源地闻名）",
+            "iscorrect": true
+          },
+          {
+            "definition": "油脂（由动物或植物产生的油腻物质，常用于润滑、烹饪或护肤）",
+            "iscorrect": false
+          },
+          {
+            "definition": "希腊的（用于描述与希腊相关的人、文化或事物的形容词，如“Greek food”意为“希腊食物”）",
+            "iscorrect": false
+          },
+          {
+            "definition": "贪婪（对财富、权力或享乐的强烈欲望，含贬义）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

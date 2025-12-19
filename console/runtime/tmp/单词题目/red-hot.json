@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "red-hot",
+      "error_analysis": "学生易将\"red-hot\"字面理解为\"红热的（温度高）\"，忽略其比喻义\"非常热门的/火爆的\"",
+      "sentence": "The new K-pop group's debut album has been **red-hot** this summer, topping the charts for four consecutive weeks.",
+      "options": {
+        "option": [
+          {
+            "definition": "非常热门的；火爆的",
+            "iscorrect": true
+          },
+          {
+            "definition": "红热的（温度极高的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "鲜艳的红色的",
+            "iscorrect": false
+          },
+          {
+            "definition": "热情洋溢的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

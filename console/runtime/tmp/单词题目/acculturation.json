@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "acculturation",
+      "error_analysis": "学生易因形近词（如acceleration/accumulation）混淆，或因词根“culture”误判为“文化积累”而非“适应新文化”。",
+      "sentence": "After moving to the US, Maria experienced a long process of **acculturation**, which involved learning to adapt to the new language, food, and social norms.",
+      "options": {
+        "option": [
+          {
+            "definition": "（个体或群体）适应新文化的过程",
+            "iscorrect": true
+          },
+          {
+            "definition": "加速或加快的过程",
+            "iscorrect": false
+          },
+          {
+            "definition": "文化的积累或聚集",
+            "iscorrect": false
+          },
+          {
+            "definition": "反文化运动或行为",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

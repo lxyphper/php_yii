@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "parking lot",
+      "error_analysis": "学生易因‘lot’的‘许多’义误解‘parking lot’为‘大量停车’，或因‘park’的‘公园’义误判为‘公园区域’",
+      "sentence": "We need to find a **parking lot** near the mall because our car can't stay on the street for too long.",
+      "options": {
+        "option": [
+          {
+            "definition": "大量停车（状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "公园区域",
+            "iscorrect": false
+          },
+          {
+            "definition": "停车位",
+            "iscorrect": false
+          },
+          {
+            "definition": "停车场",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "threatening",
+      "error_analysis": "中国学生易因形近词“threading”（穿线的）或“treating”（对待的）的拼写干扰，误判“threatening”的含义",
+      "sentence": "The man with a knife gave her a **threatening** look, making her feel scared.",
+      "options": {
+        "option": [
+          {
+            "definition": "威胁的；恐吓的",
+            "iscorrect": true
+          },
+          {
+            "definition": "穿线的；绕线的",
+            "iscorrect": false
+          },
+          {
+            "definition": "对待的；处理的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人兴奋的；刺激的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

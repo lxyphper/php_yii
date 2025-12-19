@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "assurance",
+      "error_analysis": "中国学生易因形近词assistance（援助）混淆，或误将assurance理解为保险（insurance）或确认。",
+      "sentence": "The manager gave me his **assurance** that the problem would be fixed by tomorrow.",
+      "options": {
+        "option": [
+          {
+            "definition": "保证；确信",
+            "iscorrect": true
+          },
+          {
+            "definition": "援助；帮助",
+            "iscorrect": false
+          },
+          {
+            "definition": "保险；保障",
+            "iscorrect": false
+          },
+          {
+            "definition": "确认；证实",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

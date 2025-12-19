@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "profound",
+      "error_analysis": "学生易因\"pro-\"（向前）与\"found\"（发现/建立）的词根或形近联想，误将\"profound\"理解为\"提前发现的\"或\"建立在前的\"。",
+      "sentence": "The book had a **profound** impact on her view of the world.",
+      "options": {
+        "option": [
+          {
+            "definition": "深刻的；深远的",
+            "iscorrect": true
+          },
+          {
+            "definition": "提前发现的；深入找到的",
+            "iscorrect": false
+          },
+          {
+            "definition": "建立在前的；超前的",
+            "iscorrect": false
+          },
+          {
+            "definition": "丰富的；大量的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

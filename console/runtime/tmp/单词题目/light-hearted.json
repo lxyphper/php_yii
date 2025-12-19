@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "light-hearted",
+      "error_analysis": "学生易将\"light\"（轻）和\"hearted\"（心）直译为\"粗心的/不认真的\"，忽略其\"轻松愉快\"的核心含义",
+      "sentence": "We had a **light-hearted** conversation over coffee, laughing at old memories and forgetting our worries for a while.",
+      "options": {
+        "option": [
+          {
+            "definition": "轻松愉快的",
+            "iscorrect": true
+          },
+          {
+            "definition": "粗心的，不认真的",
+            "iscorrect": false
+          },
+          {
+            "definition": "头晕的，眩晕的",
+            "iscorrect": false
+          },
+          {
+            "definition": "铁石心肠的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

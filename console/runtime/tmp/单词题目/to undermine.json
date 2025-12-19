@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to undermine",
+      "error_analysis": "学生易将\"under+mine\"字面理解为\"挖掘地下\"，或混淆形近词\"underline\"的\"强调\"含义",
+      "sentence": "Constant criticism from her boss began to **undermine** her confidence in her work.",
+      "options": {
+        "option": [
+          {
+            "definition": "削弱；损害（信心、地位等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "在下面开采；挖掘地下",
+            "iscorrect": false
+          },
+          {
+            "definition": "强调；在...下面划线",
+            "iscorrect": false
+          },
+          {
+            "definition": "支持；加强",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

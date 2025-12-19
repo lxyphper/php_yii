@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "arson",
+      "error_analysis": "学生易因拼写接近\"art\"(艺术)而猜测为\"艺术作品\"，或因同根词混淆误将\"arson\"(纵火罪)理解为\"纵火犯\"(arsonist)。",
+      "sentence": "The police are investigating whether the fire at the factory was caused by **arson** or a electrical fault.",
+      "options": {
+        "option": [
+          {
+            "definition": "艺术作品",
+            "iscorrect": false
+          },
+          {
+            "definition": "纵火犯",
+            "iscorrect": false
+          },
+          {
+            "definition": "纵火；纵火罪",
+            "iscorrect": true
+          },
+          {
+            "definition": "箭头",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

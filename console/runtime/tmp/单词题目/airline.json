@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "airline",
+      "error_analysis": "学生易因“air+line”的字面义误将“airline”理解为“航线”，或混淆形近词“airport”（机场）。",
+      "sentence": "I booked a flight to Shanghai with a popular **airline** last week.",
+      "options": {
+        "option": [
+          {
+            "definition": "航空公司",
+            "iscorrect": true
+          },
+          {
+            "definition": "航线",
+            "iscorrect": false
+          },
+          {
+            "definition": "机场",
+            "iscorrect": false
+          },
+          {
+            "definition": "客机",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

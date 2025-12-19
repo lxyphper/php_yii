@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "sun-in-law",
+      "soninlaw",
+      "son-on-law",
+      "son-in-low"
+    ],
+    "correct_chunks": [
+      "son",
+      "-in-",
+      "law"
+    ],
+    "distractor_chunks": [
+      "sun",
+      "sonin",
+      "-on-",
+      "low"
+    ]
+  },
+  0
+]

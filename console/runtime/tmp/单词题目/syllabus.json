@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "syllabus",
+      "error_analysis": "中国学生易因形近词`syllable`（音节）的拼写相似性，将`syllabus`误判为“音节”或“音节划分”。",
+      "sentence": "The teacher handed out the **syllabus** on the first day of class, outlining the topics we would cover this semester.",
+      "options": {
+        "option": [
+          {
+            "definition": "音节",
+            "iscorrect": false
+          },
+          {
+            "definition": "课程大纲",
+            "iscorrect": true
+          },
+          {
+            "definition": "课本",
+            "iscorrect": false
+          },
+          {
+            "definition": "音节划分",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

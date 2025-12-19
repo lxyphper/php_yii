@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "refugee",
+      "error_analysis": "因形近词\"refuse\"（拒绝）产生误解，或对词根\"refuge\"（避难）不熟悉导致错误联想",
+      "sentence": "After the war broke out, many people became **refugees** and had to leave their homes to seek safety in neighboring countries.",
+      "options": {
+        "option": [
+          {
+            "definition": "难民；避难者",
+            "iscorrect": true
+          },
+          {
+            "definition": "拒绝者",
+            "iscorrect": false
+          },
+          {
+            "definition": "重新逃跑的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "避难所管理员",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

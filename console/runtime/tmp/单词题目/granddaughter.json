@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "granddaughter",
+      "error_analysis": "学生易将grand-误解为“大的”而错解为“大女儿”，或因形近词混淆将其误判为“孙子”",
+      "sentence": "My grandmother loves baking cookies for her **granddaughter**, who always shares them with her friends at school.",
+      "options": {
+        "option": [
+          {
+            "definition": "孙女；外孙女",
+            "iscorrect": true
+          },
+          {
+            "definition": "大女儿",
+            "iscorrect": false
+          },
+          {
+            "definition": "孙子",
+            "iscorrect": false
+          },
+          {
+            "definition": "曾孙女",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

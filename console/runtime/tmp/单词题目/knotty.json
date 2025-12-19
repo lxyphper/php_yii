@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "knotty",
+      "error_analysis": "学生易因词根“knot”（结）直译为“有结的”，或混淆形近词“naughty”（调皮的）而误解其“复杂的”核心义。",
+      "sentence": "The math problem is so **knotty** that even the teacher spent an hour explaining it.",
+      "options": {
+        "option": [
+          {
+            "definition": "复杂的，难解的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有结的（形容木材或绳子等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "调皮的，淘气的",
+            "iscorrect": false
+          },
+          {
+            "definition": "坚硬的，结实的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

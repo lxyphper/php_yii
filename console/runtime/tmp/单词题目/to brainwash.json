@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to brainwash",
+      "error_analysis": "学生易将“brainwash”拆分为“brain（大脑）+wash（洗）”误理解为“清洗大脑”，或与形近词“brainstorm（头脑风暴）”混淆。",
+      "sentence": "The cult used repetitive slogans to **brainwash** new members into obeying their leader without question.",
+      "options": {
+        "option": [
+          {
+            "definition": "清洗大脑（物理上清洁头部）",
+            "iscorrect": false
+          },
+          {
+            "definition": "进行头脑风暴（集思广益）",
+            "iscorrect": false
+          },
+          {
+            "definition": "增强大脑功能（如通过训练）",
+            "iscorrect": false
+          },
+          {
+            "definition": "洗脑（通过强制或重复手段改变思想）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

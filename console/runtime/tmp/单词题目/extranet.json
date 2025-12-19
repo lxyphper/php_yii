@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "extranet",
+      "error_analysis": "学生易因形近词\"internet\"误判为\"互联网\"，或因\"extra-\"词根误猜为\"外部网络\"。",
+      "sentence": "Many companies use an **extranet** to share confidential data with their suppliers and partners securely.",
+      "options": {
+        "option": [
+          {
+            "definition": "互联网（全球范围内的公共计算机网络）",
+            "iscorrect": false
+          },
+          {
+            "definition": "（企业等与外部合作伙伴共用的）外联网",
+            "iscorrect": true
+          },
+          {
+            "definition": "外部网络（指连接到外部的任意网络）",
+            "iscorrect": false
+          },
+          {
+            "definition": "额外的网络服务（如增值电信服务）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

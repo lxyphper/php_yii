@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to dance",
+      "error_analysis": "学生易因形近词'dense'（密集的）、'daunt'（使气馁）或'dandle'（摇晃）混淆'to dance'的核心词义",
+      "sentence": "They decided to **dance** together at the wedding reception.",
+      "options": {
+        "option": [
+          {
+            "definition": "跳舞",
+            "iscorrect": true
+          },
+          {
+            "definition": "密集的",
+            "iscorrect": false
+          },
+          {
+            "definition": "使气馁",
+            "iscorrect": false
+          },
+          {
+            "definition": "摇晃，逗弄",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

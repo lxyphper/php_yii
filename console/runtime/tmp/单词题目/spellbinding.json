@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "spellbinding",
+      "error_analysis": "学生易将\"spell\"（咒语/拼写）与\"binding\"（束缚/装订）字面组合，错误理解为\"被咒语束缚的\"或\"与拼写/装订相关的\"",
+      "sentence": "The magician's performance was so **spellbinding** that the entire audience sat in silence, unable to look away.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人着迷的；引人入胜的",
+            "iscorrect": true
+          },
+          {
+            "definition": "被咒语束缚的",
+            "iscorrect": false
+          },
+          {
+            "definition": "与拼写或装订相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "难以拼写的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

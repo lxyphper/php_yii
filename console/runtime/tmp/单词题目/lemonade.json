@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lemonade",
+      "error_analysis": "学生易因形近词\"lemon\"（柠檬）误判为\"柠檬\"本身，或因不熟悉\"ade\"后缀表饮料而猜成\"柠檬酱\"等非饮料含义。",
+      "sentence": "On a hot summer day, Sarah likes to make **lemonade** with fresh lemons, sugar, and water to quench her thirst.",
+      "options": {
+        "option": [
+          {
+            "definition": "柠檬水",
+            "iscorrect": true
+          },
+          {
+            "definition": "柠檬",
+            "iscorrect": false
+          },
+          {
+            "definition": "柠檬酱",
+            "iscorrect": false
+          },
+          {
+            "definition": "柠檬派",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

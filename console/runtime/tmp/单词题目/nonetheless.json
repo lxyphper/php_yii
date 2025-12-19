@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nonetheless",
+      "error_analysis": "学生易因词根拆分（non-+the+less）错误理解为“没有减少”，而非正确的“然而；尽管如此”",
+      "sentence": "She was tired after a long day at work; **nonetheless**, she helped her neighbor carry groceries.",
+      "options": {
+        "option": [
+          {
+            "definition": "然而；尽管如此",
+            "iscorrect": true
+          },
+          {
+            "definition": "没有减少；并未变少",
+            "iscorrect": false
+          },
+          {
+            "definition": "因此；所以",
+            "iscorrect": false
+          },
+          {
+            "definition": "此外；而且",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

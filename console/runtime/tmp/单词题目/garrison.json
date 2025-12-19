@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "garrison",
+      "error_analysis": "学生易因形近词\"prison\"（监狱）后半部分\"rison\"拼写相似，或\"gar\"与\"garage\"（车库）开头相似，误判\"garrison\"为\"监狱\"或\"车库\"。",
+      "sentence": "The army deployed a **garrison** to protect the coastal fortress from enemy attacks.",
+      "options": {
+        "option": [
+          {
+            "definition": "驻军；卫戍部队",
+            "iscorrect": true
+          },
+          {
+            "definition": "监狱",
+            "iscorrect": false
+          },
+          {
+            "definition": "车库",
+            "iscorrect": false
+          },
+          {
+            "definition": "守卫（指个体）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

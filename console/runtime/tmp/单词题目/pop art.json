@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pop art",
+      "error_analysis": "学生易将\"pop\"（popular缩写）误联想为\"流行音乐\"（如pop music），从而把\"pop art\"误解为\"流行音乐\"；或因\"pop\"的\"弹出\"义误判为\"弹出式艺术\"。",
+      "sentence": "Andy Warhol, a leading figure in modern art, gained fame for his **pop art** creations, which included repeated images of Coca-Cola bottles and movie stars.",
+      "options": {
+        "option": [
+          {
+            "definition": "波普艺术（一种以流行文化符号为主题的现代艺术流派）",
+            "iscorrect": true
+          },
+          {
+            "definition": "流行音乐（如流行歌曲或流行乐队的音乐）",
+            "iscorrect": false
+          },
+          {
+            "definition": "弹出式艺术（如弹出式书籍或装置艺术中的\"弹出\"设计）",
+            "iscorrect": false
+          },
+          {
+            "definition": "街头艺术（如涂鸦或壁画等公共场所的艺术形式）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

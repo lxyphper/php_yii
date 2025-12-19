@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to run",
+      "error_analysis": "学生易因形近词“fun”（乐趣）的视觉干扰，或因“跑”的字面意思误导而误解“to run”的核心词义。",
+      "sentence": "The little boy likes to **run** in the park every morning.",
+      "options": {
+        "option": [
+          {
+            "definition": "跑；奔跑",
+            "iscorrect": true
+          },
+          {
+            "definition": "乐趣",
+            "iscorrect": false
+          },
+          {
+            "definition": "经营",
+            "iscorrect": false
+          },
+          {
+            "definition": "太阳",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

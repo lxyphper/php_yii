@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "panicked",
+      "error_analysis": "学生易因形近混淆“panicked”与“painted”（油漆的）或“pained”（痛苦的），或因“pan”（平底锅）字面误导认为与厨具相关",
+      "sentence": "When the fire alarm went off, everyone in the building looked **panicked** and rushed to the exits.",
+      "options": {
+        "option": [
+          {
+            "definition": "油漆的",
+            "iscorrect": false
+          },
+          {
+            "definition": "痛苦的",
+            "iscorrect": false
+          },
+          {
+            "definition": "与平底锅有关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "恐慌的；惊慌失措的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

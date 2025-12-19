@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "membrane",
+      "error_analysis": "学生易因形近词“member”（成员）或词根“mem-”（记忆）误导，将“membrane”错误联想为“成员”或“记忆装置”。",
+      "sentence": "The thin **membrane** inside the eggshell keeps the egg white and yolk separate from the shell.",
+      "options": {
+        "option": [
+          {
+            "definition": "薄膜；膜状物",
+            "iscorrect": true
+          },
+          {
+            "definition": "成员；会员",
+            "iscorrect": false
+          },
+          {
+            "definition": "记忆装置；记录介质",
+            "iscorrect": false
+          },
+          {
+            "definition": "药物；药剂",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

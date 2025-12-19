@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to flavor",
+      "error_analysis": "中国学生易因形近词“favor”（支持；偏爱）或“fill”（填充；装满）的联想，误解“to flavor”的含义。",
+      "sentence": "The chef likes to **flavor** the soup with fresh basil and garlic.",
+      "options": {
+        "option": [
+          {
+            "definition": "给……加味道；调味",
+            "iscorrect": true
+          },
+          {
+            "definition": "支持；偏爱",
+            "iscorrect": false
+          },
+          {
+            "definition": "填充；装满",
+            "iscorrect": false
+          },
+          {
+            "definition": "感觉；体验",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

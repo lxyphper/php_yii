@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rural",
+      "error_analysis": "易因形近词“racial”（种族的）干扰或发音联想“royal”（皇家的）导致对“rural”词义的错误理解",
+      "sentence": "Many young people are moving from **rural** areas to cities in search of better job opportunities.",
+      "options": {
+        "option": [
+          {
+            "definition": "乡村的；农村的",
+            "iscorrect": true
+          },
+          {
+            "definition": "种族的；人种的",
+            "iscorrect": false
+          },
+          {
+            "definition": "皇家的；王室的",
+            "iscorrect": false
+          },
+          {
+            "definition": "规则的；统治的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

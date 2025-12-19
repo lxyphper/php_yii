@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fake",
+      "error_analysis": "学生易因形近词“flake”（薄片）混淆“fake”词义，或误将其与“make”（制作）关联产生错误理解。",
+      "sentence": "The watch he bought online turned out to be a **fake**; it stopped working after just one week.",
+      "options": {
+        "option": [
+          {
+            "definition": "薄片；碎片",
+            "iscorrect": false
+          },
+          {
+            "definition": "制作；制造",
+            "iscorrect": false
+          },
+          {
+            "definition": "假货；伪造品",
+            "iscorrect": true
+          },
+          {
+            "definition": "褪色；逐渐消失",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "burn",
+      "error_analysis": "学生易因形近词“born”（出生）混淆“burn”的核心词义（燃烧/烧伤）",
+      "sentence": "The fire started to **burn** the wooden table, and soon it was completely destroyed.",
+      "options": {
+        "option": [
+          {
+            "definition": "燃烧；烧伤",
+            "iscorrect": true
+          },
+          {
+            "definition": "出生",
+            "iscorrect": false
+          },
+          {
+            "definition": "爆发",
+            "iscorrect": false
+          },
+          {
+            "definition": "谷仓",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

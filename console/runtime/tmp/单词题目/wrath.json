@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wrath",
+      "error_analysis": "学生易因形近词“wreath”（花圈）混淆，或因“wr-”词根猜测为“缠绕”",
+      "sentence": "She incurred her father's **wrath** by skipping school again.",
+      "options": {
+        "option": [
+          {
+            "definition": "愤怒；暴怒",
+            "iscorrect": true
+          },
+          {
+            "definition": "花圈；花环",
+            "iscorrect": false
+          },
+          {
+            "definition": "缠绕；绞拧",
+            "iscorrect": false
+          },
+          {
+            "definition": "错误；过失",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "oil well",
+      "error_analysis": "学生易将well的熟义“好的”代入，误把oil well理解为“优质油”而非“油井”",
+      "sentence": "The workers are drilling an **oil well** in the desert to extract crude oil.",
+      "options": {
+        "option": [
+          {
+            "definition": "油井",
+            "iscorrect": true
+          },
+          {
+            "definition": "优质油",
+            "iscorrect": false
+          },
+          {
+            "definition": "加油泵",
+            "iscorrect": false
+          },
+          {
+            "definition": "油桶",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mudslide",
+      "error_analysis": "学生易将\"mud+slide\"字面直译为\"泥滑梯\"或\"泥滑动的地面\"，忽略其作为自然灾害的核心义\"泥石流\"",
+      "sentence": "After the heavy rain, a **mudslide** destroyed several houses at the foot of the mountain.",
+      "options": {
+        "option": [
+          {
+            "definition": "泥石流",
+            "iscorrect": true
+          },
+          {
+            "definition": "泥做的滑梯",
+            "iscorrect": false
+          },
+          {
+            "definition": "泥泞的滑动地面",
+            "iscorrect": false
+          },
+          {
+            "definition": "泥的流动状态",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

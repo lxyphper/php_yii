@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "grating",
+      "error_analysis": "学生易因形近词\"grate\"(磨碎)或词根联想错误，将\"grating\"误解为\"磨碎的\"，忽略其核心形容词义\"令人烦躁的\"。",
+      "sentence": "The **grating** sound of the chalk scraping the blackboard made everyone in the classroom wince.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人烦躁的；刺耳的",
+            "iscorrect": true
+          },
+          {
+            "definition": "磨碎的；碾碎的",
+            "iscorrect": false
+          },
+          {
+            "definition": "伟大的；杰出的",
+            "iscorrect": false
+          },
+          {
+            "definition": "格栅状的；格子的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

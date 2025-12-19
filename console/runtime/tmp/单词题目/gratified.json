@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gratified",
+      "error_analysis": "易混淆形近词“grateful”（感激的），或误将词根“grat”联想为“great”（伟大的）导致理解错误",
+      "sentence": "After receiving the positive feedback on her project, Sarah felt **gratified** that all her hard work had paid off.",
+      "options": {
+        "option": [
+          {
+            "definition": "满意的；满足的",
+            "iscorrect": true
+          },
+          {
+            "definition": "感激的；感谢的",
+            "iscorrect": false
+          },
+          {
+            "definition": "伟大的；杰出的",
+            "iscorrect": false
+          },
+          {
+            "definition": "疲劳的；疲惫的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

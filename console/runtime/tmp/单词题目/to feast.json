@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to feast",
+      "error_analysis": "中国学生易因形近词（如feed）将其误解为“喂养”，或因与fast拼写接近误以为“快速做某事”",
+      "sentence": "After the long hike, the hikers **feasted** on a delicious picnic with sandwiches, fruits, and cake.",
+      "options": {
+        "option": [
+          {
+            "definition": "尽情享用（美食）；设宴款待",
+            "iscorrect": true
+          },
+          {
+            "definition": "喂养；供给食物",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速做某事；加速",
+            "iscorrect": false
+          },
+          {
+            "definition": "庆祝；举行仪式",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

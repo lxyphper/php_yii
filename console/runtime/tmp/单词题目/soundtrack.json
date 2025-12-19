@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "soundtrack",
+      "error_analysis": "学生易因“sound+track”的词根字面义误导为“声音轨道”，或与形近词“soundwave”混淆为“声波”。",
+      "sentence": "The **soundtrack** of the movie \"La La Land\" won an Academy Award for Best Original Score.",
+      "options": {
+        "option": [
+          {
+            "definition": "声音轨道/轨迹",
+            "iscorrect": false
+          },
+          {
+            "definition": "声波",
+            "iscorrect": false
+          },
+          {
+            "definition": "电影/电视的原声（带）",
+            "iscorrect": true
+          },
+          {
+            "definition": "简短声音片段",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

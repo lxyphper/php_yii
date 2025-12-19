@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "everywhere",
+      "error_analysis": "将“everywhere”字面拆分为“每个地方”（强调个体地点），忽略其“到处、处处”（强调整体覆盖）的核心含义",
+      "sentence": "When I entered the room, I saw flowers **everywhere**—on the table, on the shelf, and even on the windowsill.",
+      "options": {
+        "option": [
+          {
+            "definition": "到处；处处",
+            "iscorrect": true
+          },
+          {
+            "definition": "每个地方（强调个体地点）",
+            "iscorrect": false
+          },
+          {
+            "definition": "任何地方（用于否定句/疑问句）",
+            "iscorrect": false
+          },
+          {
+            "definition": "没有地方",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

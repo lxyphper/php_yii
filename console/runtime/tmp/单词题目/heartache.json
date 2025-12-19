@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "heartache",
+      "error_analysis": "学生易将\"heartache\"字面理解为生理上的心脏疼痛，而非情感上的痛苦。",
+      "sentence": "She felt a sharp **heartache** when she heard her childhood friend had moved away forever.",
+      "options": {
+        "option": [
+          {
+            "definition": "情感上的痛苦；伤心",
+            "iscorrect": true
+          },
+          {
+            "definition": "生理上的心脏疼痛（如心绞痛）",
+            "iscorrect": false
+          },
+          {
+            "definition": "头痛",
+            "iscorrect": false
+          },
+          {
+            "definition": "肌肉酸痛",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

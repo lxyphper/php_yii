@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to trust",
+      "error_analysis": "学生易因形近词“truth”（真相）误将“to trust”理解为“真相”或“事实”",
+      "sentence": "My parents **trust** me to make good decisions about my studies.",
+      "options": {
+        "option": [
+          {
+            "definition": "相信；信任",
+            "iscorrect": true
+          },
+          {
+            "definition": "真相；事实",
+            "iscorrect": false
+          },
+          {
+            "definition": "托付；交托",
+            "iscorrect": false
+          },
+          {
+            "definition": "真理；真实",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

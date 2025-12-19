@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "briefly",
+      "error_analysis": "学生易因形近词\"brightly\"(明亮地)产生混淆，或误将\"brief\"理解为\"快的\"而错解为\"快速地\"",
+      "sentence": "When asked about his vacation, he **briefly** mentioned going to the beach before changing the subject.",
+      "options": {
+        "option": [
+          {
+            "definition": "简要地；短暂地",
+            "iscorrect": true
+          },
+          {
+            "definition": "明亮地",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速地",
+            "iscorrect": false
+          },
+          {
+            "definition": "仔细地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

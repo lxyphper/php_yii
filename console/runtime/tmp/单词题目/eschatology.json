@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "eschatology",
+      "error_analysis": "易因形近词\"ecology\"(生态学)混淆，或因\"chat\"(聊天)的字面联想误判为与聊天相关的学科",
+      "sentence": "Many religious scholars study **eschatology** to analyze how various traditions describe the end of the world and the fate of humanity.",
+      "options": {
+        "option": [
+          {
+            "definition": "生态学（研究生物与环境相互关系的学科）",
+            "iscorrect": false
+          },
+          {
+            "definition": "聊天行为学（研究人类日常聊天模式的学科）",
+            "iscorrect": false
+          },
+          {
+            "definition": "末世论（研究世界末日或宇宙最终结局的学科）",
+            "iscorrect": true
+          },
+          {
+            "definition": "古代铭文研究（关于古代刻字或碑文的学科）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

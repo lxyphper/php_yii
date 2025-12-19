@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to control",
+      "error_analysis": "学生易因形近词“contain”（包含）或“contract”（收缩）的干扰，误将“to control”理解为“包含”或“收缩”。",
+      "sentence": "She uses a remote to **control** the TV.",
+      "options": {
+        "option": [
+          {
+            "definition": "控制（使机器、设备按意愿工作）",
+            "iscorrect": true
+          },
+          {
+            "definition": "包含（有某物在内部）",
+            "iscorrect": false
+          },
+          {
+            "definition": "收缩（变小或缩短）",
+            "iscorrect": false
+          },
+          {
+            "definition": "推动（使某物向前移动）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

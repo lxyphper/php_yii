@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to matter",
+      "error_analysis": "将动词to matter误理解为“是物质/事情”（形近词/词根误导）",
+      "sentence": "Whether you choose the red or blue dress doesn’t **matter**—I like both.",
+      "options": {
+        "option": [
+          {
+            "definition": "重要；有关系",
+            "iscorrect": true
+          },
+          {
+            "definition": "是物质；由物质构成",
+            "iscorrect": false
+          },
+          {
+            "definition": "是事情；处理事情",
+            "iscorrect": false
+          },
+          {
+            "definition": "和...有关联；涉及",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

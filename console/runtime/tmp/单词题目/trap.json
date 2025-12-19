@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "trap",
+      "error_analysis": "学生易因形近词\"trip\"(旅行；绊倒)或\"tap\"(水龙头；轻敲)的拼写相似而错误理解\"trap\"的含义",
+      "sentence": "The police set a **trap** to catch the thief who had been stealing bikes from the neighborhood.",
+      "options": {
+        "option": [
+          {
+            "definition": "陷阱；圈套",
+            "iscorrect": true
+          },
+          {
+            "definition": "旅行；绊倒",
+            "iscorrect": false
+          },
+          {
+            "definition": "水龙头；轻敲",
+            "iscorrect": false
+          },
+          {
+            "definition": "托盘；盘子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

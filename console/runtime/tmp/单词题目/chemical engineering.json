@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "chemical engineering",
+      "error_analysis": "学生易将“chemical engineering”误判为形近的“chemistry”（化学）、语义相关的“chemical industry”（化学工业）或字面误导的“化学相关工程项目”，混淆学科与基础学科、行业或具体工程。",
+      "sentence": "My brother is studying **chemical engineering** at university, focusing on designing processes to produce pharmaceuticals efficiently.",
+      "options": {
+        "option": [
+          {
+            "definition": "化学工程（研究化学工业生产过程的工程学科）",
+            "iscorrect": true
+          },
+          {
+            "definition": "化学（研究物质组成、结构及变化规律的学科）",
+            "iscorrect": false
+          },
+          {
+            "definition": "化学工业（从事化学产品生产的行业）",
+            "iscorrect": false
+          },
+          {
+            "definition": "化学相关的工程项目（如化工厂建设等具体工程）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

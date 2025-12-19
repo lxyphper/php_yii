@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "flock",
+      "error_analysis": "学生易因形近词\"folk\"（人们）或\"block\"（街区）混淆，或因\"fl-\"联想\"飞\"而误判为\"飞鸟\"",
+      "sentence": "We saw a large **flock** of geese flying south for the winter.",
+      "options": {
+        "option": [
+          {
+            "definition": "群（指鸟、羊等的群体）",
+            "iscorrect": true
+          },
+          {
+            "definition": "人们",
+            "iscorrect": false
+          },
+          {
+            "definition": "飞鸟",
+            "iscorrect": false
+          },
+          {
+            "definition": "街区",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

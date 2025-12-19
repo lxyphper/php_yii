@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "awesome",
+      "error_analysis": "学生易混淆形近词“awful”（可怕的），或通过词根“awe”过度直译为“令人敬畏的”，忽略其“极好的”常用义",
+      "sentence": "My sister made an **awesome** cake for my birthday—it tasted like heaven and looked like a work of art!",
+      "options": {
+        "option": [
+          {
+            "definition": "极好的；太棒的",
+            "iscorrect": true
+          },
+          {
+            "definition": "可怕的；糟糕的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人敬畏的；威严的",
+            "iscorrect": false
+          },
+          {
+            "definition": "普通的；平常的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

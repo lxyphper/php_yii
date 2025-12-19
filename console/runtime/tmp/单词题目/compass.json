@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "compass",
+      "error_analysis": "学生易混淆形近词campus（校园）或通过词根com-+pass错误推导为“通行证”",
+      "sentence": "The explorer relied on his **compass** to navigate through the uncharted jungle.",
+      "options": {
+        "option": [
+          {
+            "definition": "指南针；罗盘",
+            "iscorrect": true
+          },
+          {
+            "definition": "校园",
+            "iscorrect": false
+          },
+          {
+            "definition": "通行证",
+            "iscorrect": false
+          },
+          {
+            "definition": "范围",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

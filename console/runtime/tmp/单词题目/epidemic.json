@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "epidemic",
+      "error_analysis": "学生易混淆形近词\"episode\"（一集）或误由词根\"epi-（在...上）+ dem-（人民）\"推导为\"上层阶级\"",
+      "sentence": "The government implemented strict lockdowns to prevent the **epidemic** from sweeping through more cities.",
+      "options": {
+        "option": [
+          {
+            "definition": "流行病；疫情",
+            "iscorrect": true
+          },
+          {
+            "definition": "（电视、电影等的）一集",
+            "iscorrect": false
+          },
+          {
+            "definition": "上层阶级",
+            "iscorrect": false
+          },
+          {
+            "definition": "流行的音乐风格",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

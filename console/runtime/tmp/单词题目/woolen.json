@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "woolen",
+      "error_analysis": "学生易因形近词\"wooden\"(木制的)的拼写及发音联想，将\"woolen\"误判为\"木制的\"",
+      "sentence": "She put on a **woolen** hat and gloves before going out into the snow.",
+      "options": {
+        "option": [
+          {
+            "definition": "木制的",
+            "iscorrect": false
+          },
+          {
+            "definition": "羊毛制的",
+            "iscorrect": true
+          },
+          {
+            "definition": "毛线的",
+            "iscorrect": false
+          },
+          {
+            "definition": "温暖的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

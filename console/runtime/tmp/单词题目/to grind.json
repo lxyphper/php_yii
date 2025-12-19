@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to grind",
+      "error_analysis": "学生易将\"grind\"与形近词\"ground\"（地面）混淆，误以为是\"使接地\"，或与\"find\"（找到）联想导致词义误判。",
+      "sentence": "She always **grinds** fresh coffee beans every morning to make a cup of aromatic coffee.",
+      "options": {
+        "option": [
+          {
+            "definition": "研磨；碾碎",
+            "iscorrect": true
+          },
+          {
+            "definition": "使接地；铺地面",
+            "iscorrect": false
+          },
+          {
+            "definition": "找到；发现",
+            "iscorrect": false
+          },
+          {
+            "definition": "生长；培育",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

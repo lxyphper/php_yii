@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ill",
+      "error_analysis": "中国学生易因形近词“hill”（山）、“will”（将要）的干扰，或混淆“ill”的核心含义“生病的”与次要含义“坏的”",
+      "sentence": "She didn't go to school today because she is **ill**.",
+      "options": {
+        "option": [
+          {
+            "definition": "生病的",
+            "iscorrect": true
+          },
+          {
+            "definition": "山",
+            "iscorrect": false
+          },
+          {
+            "definition": "坏的",
+            "iscorrect": false
+          },
+          {
+            "definition": "将要",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

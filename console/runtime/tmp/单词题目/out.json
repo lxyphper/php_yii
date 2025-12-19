@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "out",
+      "error_analysis": "学生易将“out”在“put out”等短语中的“熄灭”义误判为字面的“外面”（位置）或形近词“our”（我们的）。",
+      "sentence": "Please put the candle **out** before you leave the room.",
+      "options": {
+        "option": [
+          {
+            "definition": "熄灭",
+            "iscorrect": true
+          },
+          {
+            "definition": "我们的",
+            "iscorrect": false
+          },
+          {
+            "definition": "外面",
+            "iscorrect": false
+          },
+          {
+            "definition": "出去",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

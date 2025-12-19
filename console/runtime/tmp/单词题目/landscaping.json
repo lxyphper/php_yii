@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "landscaping",
+      "error_analysis": "学生易因“land”（土地）+“scape”（景色）的字面联想将“landscaping”误解为“土地自然景色”，或因形近词混淆为“着陆”（landing），忽略其“园林设计”的核心义。",
+      "sentence": "The new residential community hired a company to do the **landscaping** around the buildings, including planting trees and setting up flower beds.",
+      "options": {
+        "option": [
+          {
+            "definition": "园林设计；景观美化工作",
+            "iscorrect": true
+          },
+          {
+            "definition": "土地的自然景色",
+            "iscorrect": false
+          },
+          {
+            "definition": "着陆；降落",
+            "iscorrect": false
+          },
+          {
+            "definition": "土地开垦；农业种植",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

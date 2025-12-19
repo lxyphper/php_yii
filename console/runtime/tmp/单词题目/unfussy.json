@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unfussy",
+      "error_analysis": "学生易因形近词unfocused误判为“不专注的”，或因fussy误记为“烦躁的”而理解为“平静的”",
+      "sentence": "He’s an **unfussy** eater—he’ll eat almost anything you put in front of him.",
+      "options": {
+        "option": [
+          {
+            "definition": "不挑剔的；简洁的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不专注的",
+            "iscorrect": false
+          },
+          {
+            "definition": "平静的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不时尚的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

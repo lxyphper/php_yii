@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "melodramatic",
+      "error_analysis": "学生易因形近词\"melody\"（旋律）误解为\"音乐的\"，或因词根拆分错误（melody+drama）理解为\"与旋律相关的戏剧的\"。",
+      "sentence": "Her reaction to the small mistake was so **melodramatic**—she threw her bag on the floor and started sobbing loudly.",
+      "options": {
+        "option": [
+          {
+            "definition": "夸张的，过分戏剧化的",
+            "iscorrect": true
+          },
+          {
+            "definition": "音乐的，与旋律相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "戏剧的，有戏剧性的",
+            "iscorrect": false
+          },
+          {
+            "definition": "旋律优美的，悦耳的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "routine",
+      "error_analysis": "易因形近词“route”（路线）联想错误，或误将“routine”理解为“路线”而非“日常惯例”",
+      "sentence": "She follows the same **routine** every morning: wake up at 7, drink coffee, and go for a run.",
+      "options": {
+        "option": [
+          {
+            "definition": "日常惯例；常规（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "路线；路径",
+            "iscorrect": false
+          },
+          {
+            "definition": "溃败；大败",
+            "iscorrect": false
+          },
+          {
+            "definition": "常规的；例行的（形容词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

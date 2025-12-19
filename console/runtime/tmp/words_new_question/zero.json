@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "zero",
+      "error_analysis": "学生易因“zero”与形近词“hero”（英雄）、“zone”（区域）形状相似而误判，或因字面联想将其理解为“起点”（而非核心词义“零”）",
+      "sentence": "The temperature dropped to **zero** degrees Celsius last night, so the lake froze completely.",
+      "options": {
+        "option": [
+          {
+            "definition": "零（数量上的没有）",
+            "iscorrect": true
+          },
+          {
+            "definition": "英雄",
+            "iscorrect": false
+          },
+          {
+            "definition": "起点",
+            "iscorrect": false
+          },
+          {
+            "definition": "区域",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

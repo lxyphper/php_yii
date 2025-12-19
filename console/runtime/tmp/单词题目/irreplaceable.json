@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "irreplaceable",
+      "error_analysis": "学生易因形近词“irreparable”（无法修复的）产生混淆，或因词根“replace”的字面推导误判为“不能替换的”",
+      "sentence": "Her contribution to the team was **irreplaceable**; no one else could do what she did.",
+      "options": {
+        "option": [
+          {
+            "definition": "不可替代的",
+            "iscorrect": true
+          },
+          {
+            "definition": "无法修复的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不能替换的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不重要的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

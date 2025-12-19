@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unquestionable",
+      "error_analysis": "学生易因词根\"question\"的\"问题/询问\"义直译为\"没有问题的\"或\"未被询问的\"，忽略其\"毫无疑问\"的核心含义",
+      "sentence": "Her talent in music is **unquestionable**—she won first prize in the national competition last year.",
+      "options": {
+        "option": [
+          {
+            "definition": "毫无疑问的；不容置疑的",
+            "iscorrect": true
+          },
+          {
+            "definition": "没有问题的",
+            "iscorrect": false
+          },
+          {
+            "definition": "未被询问的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无法回答的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

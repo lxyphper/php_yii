@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lasting",
+      "error_analysis": "将“lasting”误理解为“最后的”（形近词“last”的形容词义干扰）或“即将结束的”（基于“last”动词义的错误推导）",
+      "sentence": "The **lasting** impact of their collaboration changed the industry forever.",
+      "options": {
+        "option": [
+          {
+            "definition": "持续的；持久的",
+            "iscorrect": true
+          },
+          {
+            "definition": "最后的；末尾的",
+            "iscorrect": false
+          },
+          {
+            "definition": "即将结束的",
+            "iscorrect": false
+          },
+          {
+            "definition": "长的；冗长的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "filled",
+      "error_analysis": "学生易因形近词\"field\"(田野;领域)或\"filed\"(归档;提交)混淆拼写,或误将其与\"full\"(满足的)词义关联",
+      "sentence": "The box was **filled** with old books, so it was too heavy to carry.",
+      "options": {
+        "option": [
+          {
+            "definition": "填满的；充满的",
+            "iscorrect": true
+          },
+          {
+            "definition": "田野的；领域的",
+            "iscorrect": false
+          },
+          {
+            "definition": "归档的；提交的",
+            "iscorrect": false
+          },
+          {
+            "definition": "感到满足的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

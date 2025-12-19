@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "angular",
+      "error_analysis": "学生易因形近词\"angle\"（角度）猜测为\"有角度的\"，或因词根\"ang-\"（角度）过度推导为\"与角度相关的\"，忽略其\"棱角分明的（形容形状或人消瘦）\"的核心含义。",
+      "sentence": "Her **angular** face, with its sharp jawline and high cheekbones, made her look striking.",
+      "options": {
+        "option": [
+          {
+            "definition": "棱角分明的（形容形状或人消瘦的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "有角度的",
+            "iscorrect": false
+          },
+          {
+            "definition": "与角度相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "生气的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

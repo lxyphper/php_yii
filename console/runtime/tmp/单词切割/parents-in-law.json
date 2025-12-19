@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "parents-in-laws",
+      "parants-in-law",
+      "parentsinlaw",
+      "parent-in-law",
+      "parents-in-low"
+    ],
+    "correct_chunks": [
+      "parents",
+      "-in-",
+      "law"
+    ],
+    "distractor_chunks": [
+      "-laws",
+      "parants",
+      "low",
+      "parentsin",
+      "parent"
+    ]
+  },
+  0
+]

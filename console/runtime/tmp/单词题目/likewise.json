@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "likewise",
+      "error_analysis": "学生易因\"like\"(像)和\"wise\"(方式)的字面组合，将\"likewise\"误解为\"以相似的方式\"(词根误导)，或混淆\"like\"的介词用法与\"likewise\"的副词用法(形近词干扰)。",
+      "sentence": "Mary decided to take the bus to school, and I **likewise** chose not to drive.",
+      "options": {
+        "option": [
+          {
+            "definition": "像...一样（介词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "以相似的方式",
+            "iscorrect": false
+          },
+          {
+            "definition": "明智地",
+            "iscorrect": false
+          },
+          {
+            "definition": "也；同样地",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "trash",
+      "error_analysis": "学生易因形近词（如truck/卡车）或词根拆分（tr-+ash/灰烬）误判词义",
+      "sentence": "Please take the **trash** out to the bin before you leave.",
+      "options": {
+        "option": [
+          {
+            "definition": "垃圾",
+            "iscorrect": true
+          },
+          {
+            "definition": "卡车",
+            "iscorrect": false
+          },
+          {
+            "definition": "灰烬",
+            "iscorrect": false
+          },
+          {
+            "definition": "轨道",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

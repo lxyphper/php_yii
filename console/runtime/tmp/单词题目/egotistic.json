@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "egotistic",
+      "error_analysis": "易混淆形近词ecstatic（狂喜的），或误将词根ego推导为中性的“自我意识”而非贬义的“自我中心”",
+      "sentence": "His **egotistic** behavior at the party—talking only about his promotions and ignoring others' stories—made most guests leave early.",
+      "options": {
+        "option": [
+          {
+            "definition": "自我中心的；利己主义的",
+            "iscorrect": true
+          },
+          {
+            "definition": "狂喜的；极度兴奋的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有自我意识的；自知的",
+            "iscorrect": false
+          },
+          {
+            "definition": "自信的；有自尊心的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unilateralism",
+      "error_analysis": "学生易因形近词“universalism”（普遍主义）的干扰，或词根“uni-”（单一）与“lateral”（侧面）的字面推导，将“unilateralism”误判为“普遍主义”或“单一侧面的主义”。",
+      "sentence": "Critics argue that the president's **unilateralism** in foreign policy has isolated the country from its allies.",
+      "options": {
+        "option": [
+          {
+            "definition": "普遍主义",
+            "iscorrect": false
+          },
+          {
+            "definition": "单一侧面的主义",
+            "iscorrect": false
+          },
+          {
+            "definition": "个人主义",
+            "iscorrect": false
+          },
+          {
+            "definition": "单边主义",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Saint",
+      "error_analysis": "中国学生易因形近词（如paint/taint）误判为“油漆”“污染”，或因词根“san”（健康）误导为“健康的人”。",
+      "sentence": "Many people consider Mother Teresa a **saint** because of her selfless work helping the poor.",
+      "options": {
+        "option": [
+          {
+            "definition": "圣人；圣徒",
+            "iscorrect": true
+          },
+          {
+            "definition": "油漆；涂料",
+            "iscorrect": false
+          },
+          {
+            "definition": "健康的人；卫生工作者",
+            "iscorrect": false
+          },
+          {
+            "definition": "污染；弄脏",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

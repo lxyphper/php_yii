@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "legume",
+      "error_analysis": "学生易因形近词“leg”（腿）或“league”（联盟）产生错误联想，将“legume”误判为腿部相关事物或联盟成员。",
+      "sentence": "Many vegetarians rely on **legumes** like beans and lentils as a primary source of protein.",
+      "options": {
+        "option": [
+          {
+            "definition": "豆科植物；豆类",
+            "iscorrect": true
+          },
+          {
+            "definition": "腿部肌肉",
+            "iscorrect": false
+          },
+          {
+            "definition": "腿形工具",
+            "iscorrect": false
+          },
+          {
+            "definition": "联盟成员",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

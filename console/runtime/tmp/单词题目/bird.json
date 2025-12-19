@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bird",
+      "error_analysis": "易混淆形近词“birth”（出生）或误将“bird”理解为“羽毛”等非动物类含义",
+      "sentence": "The little girl pointed at the sky and exclaimed, \"Wow! That **bird** with red feathers is flying so high!\"",
+      "options": {
+        "option": [
+          {
+            "definition": "鸟",
+            "iscorrect": true
+          },
+          {
+            "definition": "出生",
+            "iscorrect": false
+          },
+          {
+            "definition": "羽毛",
+            "iscorrect": false
+          },
+          {
+            "definition": "投标",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

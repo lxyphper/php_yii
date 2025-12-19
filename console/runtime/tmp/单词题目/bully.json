@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bully",
+      "error_analysis": "学生易因形近词\"bull\"(公牛)或词根联想，误将\"bully\"理解为\"强壮的人\"或\"公牛般的人\"，忽略其\"欺负者\"的核心含义",
+      "sentence": "The boy who always pushes smaller kids and takes their lunch money is known as a **bully** in the playground.",
+      "options": {
+        "option": [
+          {
+            "definition": "公牛",
+            "iscorrect": false
+          },
+          {
+            "definition": "强壮的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "欺负者；霸凌者",
+            "iscorrect": true
+          },
+          {
+            "definition": "受害者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

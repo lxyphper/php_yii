@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "counterpoint",
+      "error_analysis": "学生易因词根拆分（counter+point）误理解为“反驳观点”，或因形近词“counterpart”误判为“对应物”",
+      "sentence": "The vibrant colors of the painting serve as a **counterpoint** to the dark, somber background.",
+      "options": {
+        "option": [
+          {
+            "definition": "对比物；对照物",
+            "iscorrect": true
+          },
+          {
+            "definition": "反驳观点；反对意见",
+            "iscorrect": false
+          },
+          {
+            "definition": "对应物；对等的人或物",
+            "iscorrect": false
+          },
+          {
+            "definition": "音乐中的主调旋律",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

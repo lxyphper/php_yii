@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hardly ever",
+      "error_analysis": "学生易因“hard”（努力）和“ever”（曾经）的字面联想，将“hardly ever”误解为“努力过”或“几乎曾经”。",
+      "sentence": "Tom hardly ever plays video games because he spends most of his time reading.",
+      "options": {
+        "option": [
+          {
+            "definition": "几乎不，很少",
+            "iscorrect": true
+          },
+          {
+            "definition": "努力过",
+            "iscorrect": false
+          },
+          {
+            "definition": "几乎总是",
+            "iscorrect": false
+          },
+          {
+            "definition": "曾经艰难",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

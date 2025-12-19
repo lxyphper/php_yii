@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "medium",
+      "error_analysis": "学生易因形近词\"mediate\"(调解)联想或词根\"medius\"(中间)过度直译，将\"medium\"误理解为\"调解者\"或\"中间的位置\"",
+      "sentence": "Social media is a popular **medium** for sharing news and updates.",
+      "options": {
+        "option": [
+          {
+            "definition": "调解者",
+            "iscorrect": false
+          },
+          {
+            "definition": "中间的位置",
+            "iscorrect": false
+          },
+          {
+            "definition": "中等大小",
+            "iscorrect": false
+          },
+          {
+            "definition": "媒介；方法",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

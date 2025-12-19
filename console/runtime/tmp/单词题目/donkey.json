@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "donkey",
+      "error_analysis": "中国学生易因形近词\"monkey\"（猴子）产生错误联想，或误将\"donkey\"拆分为\"don+key\"推导为与捐赠相关的含义。",
+      "sentence": "The farmer asked his son to lead the **donkey** to the field to pull the plow.",
+      "options": {
+        "option": [
+          {
+            "definition": "驴",
+            "iscorrect": true
+          },
+          {
+            "definition": "猴子",
+            "iscorrect": false
+          },
+          {
+            "definition": "捐赠的物品",
+            "iscorrect": false
+          },
+          {
+            "definition": "甜甜圈",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

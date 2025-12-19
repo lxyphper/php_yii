@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gathering",
+      "error_analysis": "易混淆形近词“greeting”（问候）或误将词根“gather”（收集）引申为“收集物”，而非“聚会”的常用义",
+      "sentence": "We're having a family **gathering** this weekend to celebrate Grandma's 80th birthday.",
+      "options": {
+        "option": [
+          {
+            "definition": "聚会；集会",
+            "iscorrect": true
+          },
+          {
+            "definition": "问候；打招呼",
+            "iscorrect": false
+          },
+          {
+            "definition": "收集物；收藏品",
+            "iscorrect": false
+          },
+          {
+            "definition": "增长；发展",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "in favor",
+      "error_analysis": "易因形近词“favorite”误解为“最喜欢的”，或因字面“in+favor”误导为“受恩惠的”",
+      "sentence": "Most students are **in favor** of extending the library hours to 10 PM.",
+      "options": {
+        "option": [
+          {
+            "definition": "最喜欢的",
+            "iscorrect": false
+          },
+          {
+            "definition": "支持；赞成",
+            "iscorrect": true
+          },
+          {
+            "definition": "受恩惠的",
+            "iscorrect": false
+          },
+          {
+            "definition": "对...有利的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

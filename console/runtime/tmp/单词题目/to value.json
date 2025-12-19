@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to value",
+      "error_analysis": "学生易将动词to value误理解为“给...定价”（词根/字面误导，从名词“价值”推导）或因形近词“vary”误判为“变化”（拼写相似干扰）",
+      "sentence": "The school **values** creativity and encourages students to think independently.",
+      "options": {
+        "option": [
+          {
+            "definition": "重视；珍视",
+            "iscorrect": true
+          },
+          {
+            "definition": "给...定价；估价",
+            "iscorrect": false
+          },
+          {
+            "definition": "变化；改变",
+            "iscorrect": false
+          },
+          {
+            "definition": "山谷；溪谷",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

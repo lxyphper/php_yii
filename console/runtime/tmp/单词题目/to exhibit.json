@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to exhibit",
+      "error_analysis": "学生易因形近词“exist”（存在）或“excite”（使兴奋）的干扰，误将“to exhibit”理解为“存在”或“使兴奋”。",
+      "sentence": "The art gallery will **exhibit** new works by local artists next week.",
+      "options": {
+        "option": [
+          {
+            "definition": "展示；展出",
+            "iscorrect": true
+          },
+          {
+            "definition": "存在",
+            "iscorrect": false
+          },
+          {
+            "definition": "使兴奋",
+            "iscorrect": false
+          },
+          {
+            "definition": "离开；退出",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

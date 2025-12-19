@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "comisioner",
+      "commissionor",
+      "conmissioner",
+      "cumissioner",
+      "missioner"
+    ],
+    "correct_chunks": [
+      "com",
+      "mission",
+      "er"
+    ],
+    "distractor_chunks": [
+      "con",
+      "cum",
+      "mision",
+      "or"
+    ]
+  },
+  0
+]

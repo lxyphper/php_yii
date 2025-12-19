@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "broken",
+      "error_analysis": "学生易将“broken”与形近词“broke”（破产的）或“brook”（小溪）混淆，或误判为“打破”的过去式而非形容词“破损的”核心含义。",
+      "sentence": "My glasses fell on the floor and the lens is **broken**.",
+      "options": {
+        "option": [
+          {
+            "definition": "破损的；断裂的",
+            "iscorrect": true
+          },
+          {
+            "definition": "破产的",
+            "iscorrect": false
+          },
+          {
+            "definition": "小溪的",
+            "iscorrect": false
+          },
+          {
+            "definition": "打破的（动词过去式）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

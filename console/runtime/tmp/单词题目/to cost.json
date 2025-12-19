@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to cost",
+      "error_analysis": "学生易将“to cost”与形近词“to coast”（滑行；海岸）混淆，或误理解为“失去”（引申义的过度联想）",
+      "sentence": "The new smartphone **costs** around $800, which is too expensive for me.",
+      "options": {
+        "option": [
+          {
+            "definition": "(某物)花费(金钱/时间等)",
+            "iscorrect": true
+          },
+          {
+            "definition": "滑行；沿着海岸前进",
+            "iscorrect": false
+          },
+          {
+            "definition": "失去；丧失",
+            "iscorrect": false
+          },
+          {
+            "definition": "计数；计算",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

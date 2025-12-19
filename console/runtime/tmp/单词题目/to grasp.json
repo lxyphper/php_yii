@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to grasp",
+      "error_analysis": "学生易因形近词“grass”（草）或“gasp”（喘气）产生错误联想，或误将抽象语境中的“grasp”理解为物理意义的“抓住”",
+      "sentence": "After reading the explanation twice, she finally managed to **grasp** how the machine works.",
+      "options": {
+        "option": [
+          {
+            "definition": "草",
+            "iscorrect": false
+          },
+          {
+            "definition": "喘气",
+            "iscorrect": false
+          },
+          {
+            "definition": "抓住（用手握住）",
+            "iscorrect": false
+          },
+          {
+            "definition": "理解（抽象概念）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

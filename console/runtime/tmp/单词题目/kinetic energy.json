@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "kinetic energy",
+      "error_analysis": "将“kinetic”误联想为“kin（亲属）”，导致误解“kinetic energy”为“亲属能量”",
+      "sentence": "When a ball rolls down a hill, it gains **kinetic energy** as it moves faster.",
+      "options": {
+        "option": [
+          {
+            "definition": "动能（物体由于运动而具有的能量）",
+            "iscorrect": true
+          },
+          {
+            "definition": "亲属的能量",
+            "iscorrect": false
+          },
+          {
+            "definition": "静态的能量",
+            "iscorrect": false
+          },
+          {
+            "definition": "潜在的能量",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

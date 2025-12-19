@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "coarse",
+      "error_analysis": "学生易将\"coarse\"与形近词\"course\"（课程/过程）混淆，或因\"co-\"词根误猜为\"共同的\"。",
+      "sentence": "The new towel felt **coarse** against my face, so I returned it to the store.",
+      "options": {
+        "option": [
+          {
+            "definition": "粗糙的（指质地或材质）",
+            "iscorrect": true
+          },
+          {
+            "definition": "课程；过程",
+            "iscorrect": false
+          },
+          {
+            "definition": "共同的；合作的",
+            "iscorrect": false
+          },
+          {
+            "definition": "柔软的；光滑的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

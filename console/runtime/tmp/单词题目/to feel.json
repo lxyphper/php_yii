@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to feel",
+      "error_analysis": "中国学生易因形近词“fell”（摔倒）混淆“to feel”的核心词义（感觉/摸）",
+      "sentence": "Please **feel** the fabric to see if it's soft enough for your new dress.",
+      "options": {
+        "option": [
+          {
+            "definition": "感觉；摸",
+            "iscorrect": true
+          },
+          {
+            "definition": "摔倒",
+            "iscorrect": false
+          },
+          {
+            "definition": "填充",
+            "iscorrect": false
+          },
+          {
+            "definition": "寻找",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

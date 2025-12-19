@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to mismanage",
+      "error_analysis": "学生易通过词根“mis-”（错误）和“manage”（管理）字面推导为“错误地管理”，或混淆形近词“misplace”（放错地方）、“misunderstand”（误解）",
+      "sentence": "The company went bankrupt because the CEO **mismanaged** the funds.",
+      "options": {
+        "option": [
+          {
+            "definition": "错误地理解",
+            "iscorrect": false
+          },
+          {
+            "definition": "放错地方",
+            "iscorrect": false
+          },
+          {
+            "definition": "管理不善；经营不当",
+            "iscorrect": true
+          },
+          {
+            "definition": "不匹配",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

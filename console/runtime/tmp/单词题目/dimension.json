@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dimension",
+      "error_analysis": "学生易因形近词\"dim\"(昏暗)误解为\"昏暗的程度\"，或因词根\"di-\"(二)和\"mens\"(测量)推导为\"两次测量\"",
+      "sentence": "The book explores the cultural **dimension** of the conflict, which most people had ignored.",
+      "options": {
+        "option": [
+          {
+            "definition": "方面；维度",
+            "iscorrect": true
+          },
+          {
+            "definition": "昏暗的程度",
+            "iscorrect": false
+          },
+          {
+            "definition": "两次测量",
+            "iscorrect": false
+          },
+          {
+            "definition": "尺寸；大小",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

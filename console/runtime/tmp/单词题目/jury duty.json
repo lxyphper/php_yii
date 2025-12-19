@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "jury duty",
+      "error_analysis": "学生易因“duty”的“职责”义或“jury”的“评审团”义，将“jury duty”误解为“陪审团的职责”或“评审团的义务”，忽略其“被传唤担任陪审员的法律义务”这一核心。",
+      "sentence": "When John received a summons from the court, he realized he had to fulfill his **jury duty** even though it would take time away from work.",
+      "options": {
+        "option": [
+          {
+            "definition": "被传唤担任陪审员的法律义务",
+            "iscorrect": true
+          },
+          {
+            "definition": "陪审团的职责",
+            "iscorrect": false
+          },
+          {
+            "definition": "评审团的义务",
+            "iscorrect": false
+          },
+          {
+            "definition": "陪审团的值班",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

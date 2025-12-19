@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to regenerate",
+      "error_analysis": "学生易因形近词“generate”（生成）忽略“re-”的恢复义，误判为“产生；生成”，或因词根“re-+generate”过度直译为“再次生成”。",
+      "sentence": "The doctor said the cut on my hand would **regenerate** completely in about ten days.",
+      "options": {
+        "option": [
+          {
+            "definition": "(使)再生；(使)恢复",
+            "iscorrect": true
+          },
+          {
+            "definition": "产生；生成",
+            "iscorrect": false
+          },
+          {
+            "definition": "再次生成",
+            "iscorrect": false
+          },
+          {
+            "definition": "退化；恶化",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

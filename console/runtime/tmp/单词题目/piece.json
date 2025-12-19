@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "piece",
+      "error_analysis": "学生易将\"piece\"与形近词\"peace\"（和平）混淆，因两者拼写高度相似，是最核心的错误来源。",
+      "sentence": "Can you pass me a **piece** of bread? I’m really hungry.",
+      "options": {
+        "option": [
+          {
+            "definition": "块；片；件",
+            "iscorrect": true
+          },
+          {
+            "definition": "和平",
+            "iscorrect": false
+          },
+          {
+            "definition": "价格",
+            "iscorrect": false
+          },
+          {
+            "definition": "作品（如音乐作品）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

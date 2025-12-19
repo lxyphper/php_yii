@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "now and again",
+      "error_analysis": "学生易根据“now”（现在）和“again”（再次）的字面意思推测为“频繁地”或“反复地”",
+      "sentence": "My grandma likes to tell stories about her childhood **now and again** when we have dinner together.",
+      "options": {
+        "option": [
+          {
+            "definition": "偶尔，有时",
+            "iscorrect": true
+          },
+          {
+            "definition": "频繁地，反复地",
+            "iscorrect": false
+          },
+          {
+            "definition": "立刻，马上",
+            "iscorrect": false
+          },
+          {
+            "definition": "再次，又一次",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

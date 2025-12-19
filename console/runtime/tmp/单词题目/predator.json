@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "predator",
+      "error_analysis": "学生易因形近词\"predict\"（预测）将\"predator\"误判为\"预测者\"，或因词根\"pred-\"（掠夺）不熟悉而猜测无关含义。",
+      "sentence": "The eagle, a fierce **predator**, swooped down to catch a rabbit.",
+      "options": {
+        "option": [
+          {
+            "definition": "捕食者；食肉动物",
+            "iscorrect": true
+          },
+          {
+            "definition": "预测者；预言家",
+            "iscorrect": false
+          },
+          {
+            "definition": "捐赠者；赠送者",
+            "iscorrect": false
+          },
+          {
+            "definition": "编辑者；校订者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

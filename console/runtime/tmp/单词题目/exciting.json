@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "exciting",
+      "error_analysis": "易因形近词'exiting'（退出的）产生混淆，或误通过词根'ex-'（向外）+ 'cite'（引用）推导为‘向外引用的’。",
+      "sentence": "The children were jumping up and down, looking forward to the **exciting** adventure at the new water park.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人兴奋的",
+            "iscorrect": true
+          },
+          {
+            "definition": "退出的",
+            "iscorrect": false
+          },
+          {
+            "definition": "向外引用的",
+            "iscorrect": false
+          },
+          {
+            "definition": "感到兴奋的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

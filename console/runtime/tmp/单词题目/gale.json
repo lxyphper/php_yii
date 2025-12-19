@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gale",
+      "error_analysis": "易因形近词\"gall\"(胆汁/怨恨)或发音联想\"gay\"(快乐)误判词义",
+      "sentence": "The **gale** blew down several trees in the park last night.",
+      "options": {
+        "option": [
+          {
+            "definition": "大风；暴风",
+            "iscorrect": true
+          },
+          {
+            "definition": "胆汁；怨恨",
+            "iscorrect": false
+          },
+          {
+            "definition": "快乐；愉悦",
+            "iscorrect": false
+          },
+          {
+            "definition": "凝视；注视",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

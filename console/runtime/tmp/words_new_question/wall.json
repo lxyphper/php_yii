@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wall",
+      "error_analysis": "学生易因形近词\"walk\"(走)或\"war\"(战争)的拼写干扰，将\"wall\"误判为\"走\"或\"战争\"",
+      "sentence": "The cat is sitting on the **wall** in the garden.",
+      "options": {
+        "option": [
+          {
+            "definition": "墙（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "走（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "战争（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "井（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

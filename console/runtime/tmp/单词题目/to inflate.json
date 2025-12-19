@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to inflate",
+      "error_analysis": "学生易因形近词（如inflict/inform）误判为“造成”或“通知”，或因“flat”词根误导认为是“弄平”。",
+      "sentence": "The kids were excited to **inflate** the new soccer ball with the pump they got as a gift.",
+      "options": {
+        "option": [
+          {
+            "definition": "造成（痛苦等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "使变平",
+            "iscorrect": false
+          },
+          {
+            "definition": "充气；膨胀",
+            "iscorrect": true
+          },
+          {
+            "definition": "通知",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

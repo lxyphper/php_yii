@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "housing",
+      "error_analysis": "学生易因形近混淆“housing”（住房）与“hosing”（软管），或误将其等同于“house”（房子）。",
+      "sentence": "The government is planning to invest more money in public **housing** to solve the problem of homelessness.",
+      "options": {
+        "option": [
+          {
+            "definition": "住房（总称或设施）",
+            "iscorrect": true
+          },
+          {
+            "definition": "软管",
+            "iscorrect": false
+          },
+          {
+            "definition": "房子",
+            "iscorrect": false
+          },
+          {
+            "definition": "居住（动作）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

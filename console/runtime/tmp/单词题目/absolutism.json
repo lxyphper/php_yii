@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "absolutism",
+      "error_analysis": "学生易通过词根“absolute”（绝对的）和后缀“-ism”（主义）过度直译，将“absolutism”误解为“绝对真理”或混淆其政治专制主义的特定含义。",
+      "sentence": "The king's strict adherence to **absolutism** meant he would not allow any limits on his power, claiming it was granted by God alone.",
+      "options": {
+        "option": [
+          {
+            "definition": "绝对主义；专制主义（政治上主张绝对权威的理论）",
+            "iscorrect": true
+          },
+          {
+            "definition": "绝对真理；完全正确的观点",
+            "iscorrect": false
+          },
+          {
+            "definition": "极端主义；激进的主张",
+            "iscorrect": false
+          },
+          {
+            "definition": "赦免；免除罪责",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "peak",
+      "error_analysis": "中国学生易因形近词\"peek\"(偷看)或\"pear\"(梨)混淆\"peak\"的核心词义(山峰/顶点)",
+      "sentence": "The hikers finally reached the **peak** of the mountain after a long climb.",
+      "options": {
+        "option": [
+          {
+            "definition": "山峰；山顶",
+            "iscorrect": true
+          },
+          {
+            "definition": "偷看；窥视",
+            "iscorrect": false
+          },
+          {
+            "definition": "梨（水果）",
+            "iscorrect": false
+          },
+          {
+            "definition": "尖的铅笔",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

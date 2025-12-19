@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "recruitment",
+      "error_analysis": "易与形近词recognition（识别）混淆，或因re-前缀错误推导为“恢复”。",
+      "sentence": "The company is expanding its team, so they have started a new **recruitment** drive to hire 50 new employees.",
+      "options": {
+        "option": [
+          {
+            "definition": "招聘；招募",
+            "iscorrect": true
+          },
+          {
+            "definition": "识别；认可",
+            "iscorrect": false
+          },
+          {
+            "definition": "恢复；重新获得",
+            "iscorrect": false
+          },
+          {
+            "definition": "推荐；介绍",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

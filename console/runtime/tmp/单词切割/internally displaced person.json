@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "internly displaced person",
+      "internaly displaced person",
+      "internally displased person",
+      "internally unplaced person",
+      "internally displaced persen"
+    ],
+    "correct_chunks": [
+      "internally",
+      "displaced",
+      "person"
+    ],
+    "distractor_chunks": [
+      "internly",
+      "internaly",
+      "displased",
+      "unplaced",
+      "persen"
+    ]
+  },
+  0
+]

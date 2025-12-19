@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unfaithfully",
+      "error_analysis": "学生可能因形近词\"unfortunately\"混淆为\"不幸地\"，或因词根\"faith\"（信仰）过度直译为\"不信仰地\"，忽略其\"对人不忠诚\"的核心义。",
+      "sentence": "Despite promising to stay loyal, he acted **unfaithfully** towards his wife during his business trip.",
+      "options": {
+        "option": [
+          {
+            "definition": "不忠诚地（尤指对伴侣）",
+            "iscorrect": true
+          },
+          {
+            "definition": "不幸地",
+            "iscorrect": false
+          },
+          {
+            "definition": "不信仰地",
+            "iscorrect": false
+          },
+          {
+            "definition": "无结果地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

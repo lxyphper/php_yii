@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pseudoscience",
+      "error_analysis": "学生易因不熟悉前缀“pseudo-”（假的）而将“pseudoscience”误判为“真正的科学”，或因形近“science”忽略前缀含义。",
+      "sentence": "Many people fall for **pseudoscience** like astrology, believing it has a scientific basis even though it doesn’t.",
+      "options": {
+        "option": [
+          {
+            "definition": "真正的科学理论（经过验证的科学知识）",
+            "iscorrect": false
+          },
+          {
+            "definition": "伪科学（没有科学依据的虚假理论或体系）",
+            "iscorrect": true
+          },
+          {
+            "definition": "与心理学相关的学科（研究心理和行为的科学）",
+            "iscorrect": false
+          },
+          {
+            "definition": "应用于实践的科学（用于解决实际问题的科学）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "exuberant",
+      "error_analysis": "学生易因形近词\"excellent\"（优秀的）或词根\"uber\"（误判为\"超级\"）而错解为\"优秀的\"或\"超级活跃的\"",
+      "sentence": "The children's **exuberant** laughter filled the park as they chased each other around the playground.",
+      "options": {
+        "option": [
+          {
+            "definition": "优秀的",
+            "iscorrect": false
+          },
+          {
+            "definition": "热情洋溢的；精力充沛的",
+            "iscorrect": true
+          },
+          {
+            "definition": "过度夸张的",
+            "iscorrect": false
+          },
+          {
+            "definition": "奢侈浪费的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to thrash",
+      "error_analysis": "学生易因形近词“trash”（垃圾）将“thrash”误解为“丢弃”，或因字面联想误判为“碰撞”（如crash）。",
+      "sentence": "The football team **thrashed** their rivals 6-1 in the highly anticipated derby match.",
+      "options": {
+        "option": [
+          {
+            "definition": "彻底击败；猛烈击打",
+            "iscorrect": true
+          },
+          {
+            "definition": "丢弃；当作垃圾处理",
+            "iscorrect": false
+          },
+          {
+            "definition": "碰撞；坠毁",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速移动；飞奔",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

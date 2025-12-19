@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "run-of-the-mill",
+      "error_analysis": "学生易将短语字面拆解为\"跑过磨坊的\"，错误联想为\"与磨坊相关\"或\"忙碌的\"",
+      "sentence": "The coffee shop serves **run-of-the-mill** lattes—nothing fancy, but they get the job done.",
+      "options": {
+        "option": [
+          {
+            "definition": "普通的；平凡的",
+            "iscorrect": true
+          },
+          {
+            "definition": "与磨坊有关的；来自磨坊的",
+            "iscorrect": false
+          },
+          {
+            "definition": "忙碌的；奔波的",
+            "iscorrect": false
+          },
+          {
+            "definition": "精致的；高级的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

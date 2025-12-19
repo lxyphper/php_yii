@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "infected",
+      "error_analysis": "易混淆形近词\"affected\"（影响的），或因词根误解为\"注入的\"。",
+      "sentence": "After being bitten by a mosquito, she developed an **infected** rash that spread to her arm.",
+      "options": {
+        "option": [
+          {
+            "definition": "感染的（被病毒/细菌感染的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "影响的（受外界因素作用的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "注入的（被注射进液体的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "侵扰的（被害虫或生物侵扰的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

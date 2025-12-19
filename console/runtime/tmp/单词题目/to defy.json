@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to defy",
+      "error_analysis": "中国学生易混淆形近词deny（否认）或deify（神化），或因词根误解为“否认”或“神化”",
+      "sentence": "The activists decided to **defy** the government's ban and march through the streets.",
+      "options": {
+        "option": [
+          {
+            "definition": "反抗；挑战",
+            "iscorrect": true
+          },
+          {
+            "definition": "否认",
+            "iscorrect": false
+          },
+          {
+            "definition": "神化",
+            "iscorrect": false
+          },
+          {
+            "definition": "服从",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to change",
+      "error_analysis": "学生易因形近词\"chance\"（机会）或词根联想混淆\"exchange\"（交换）而误解\"to change\"的核心词义。",
+      "sentence": "I need to **change** my shoes because they are too small.",
+      "options": {
+        "option": [
+          {
+            "definition": "改变；更换",
+            "iscorrect": true
+          },
+          {
+            "definition": "机会",
+            "iscorrect": false
+          },
+          {
+            "definition": "交换",
+            "iscorrect": false
+          },
+          {
+            "definition": "收费",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

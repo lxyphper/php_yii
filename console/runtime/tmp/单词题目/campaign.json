@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "campaign",
+      "error_analysis": "易受形近词\"camp\"（营地）干扰，或因词根\"campus\"（战场）误判为\"战场\"。",
+      "sentence": "The company launched a new marketing **campaign** to promote its eco-friendly products.",
+      "options": {
+        "option": [
+          {
+            "definition": "（政治、商业等的）运动；活动",
+            "iscorrect": true
+          },
+          {
+            "definition": "露营地；帐篷",
+            "iscorrect": false
+          },
+          {
+            "definition": "战场；战役",
+            "iscorrect": false
+          },
+          {
+            "definition": "（体育的）比赛；竞赛",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

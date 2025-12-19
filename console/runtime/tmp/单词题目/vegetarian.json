@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "vegetarian",
+      "error_analysis": "因形近词“vegetable”（蔬菜）及词根“veget-”（植物）的误导，易将“vegetarian”错误理解为“蔬菜”或“卖蔬菜的人”。",
+      "sentence": "My sister has been a **vegetarian** for five years, so she never eats beef, chicken, or fish.",
+      "options": {
+        "option": [
+          {
+            "definition": "蔬菜",
+            "iscorrect": false
+          },
+          {
+            "definition": "植物学家",
+            "iscorrect": false
+          },
+          {
+            "definition": "素食者（不吃肉等动物产品的人）",
+            "iscorrect": true
+          },
+          {
+            "definition": "卖蔬菜的人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

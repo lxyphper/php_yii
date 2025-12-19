@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Poland",
+      "error_analysis": "中国学生易因形近将“Poland”误认为“polish”（擦亮）的名词形式（如“抛光剂”），或因“Pol-”联想“pole”（极点）而误解为“极点之地”。",
+      "sentence": "My friend Maria was born in **Poland**, so she often shares stories about celebrating Christmas in Warsaw with her family.",
+      "options": {
+        "option": [
+          {
+            "definition": "波兰（欧洲中部国家）",
+            "iscorrect": true
+          },
+          {
+            "definition": "抛光剂；擦亮技巧（polish的名词形式）",
+            "iscorrect": false
+          },
+          {
+            "definition": "极点；磁极（pole的延伸义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "熊猫（哺乳动物，panda的误写）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

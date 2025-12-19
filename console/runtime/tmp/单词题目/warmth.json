@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "warmth",
+      "error_analysis": "学生易因\"-th\"后缀联想到具体度量（如length）而误解为\"长度\"，或因词根\"warm\"过度直译为\"温暖的东西\"而非抽象状态。",
+      "sentence": "Her smile filled the room with **warmth**, making everyone feel happy and at ease.",
+      "options": {
+        "option": [
+          {
+            "definition": "温暖；热情（状态或情感）",
+            "iscorrect": true
+          },
+          {
+            "definition": "长度（具体度量）",
+            "iscorrect": false
+          },
+          {
+            "definition": "温暖的东西（具体物品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "财富（大量金钱或财产）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

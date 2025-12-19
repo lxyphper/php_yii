@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "muscle",
+      "error_analysis": "中国学生易因形近词“mussel”（贻贝）混淆“muscle”词义，或误通过“mus-”词根猜测其与“音乐”相关。",
+      "sentence": "Regular exercise helps to build and strengthen your **muscles** over time.",
+      "options": {
+        "option": [
+          {
+            "definition": "肌肉（身体组织）",
+            "iscorrect": true
+          },
+          {
+            "definition": "贻贝（一种贝类）",
+            "iscorrect": false
+          },
+          {
+            "definition": "音乐片段（如旋律片段）",
+            "iscorrect": false
+          },
+          {
+            "definition": "必须完成的任务（如义务）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

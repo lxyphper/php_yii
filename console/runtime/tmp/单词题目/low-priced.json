@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "low-priced",
+      "error_analysis": "学生易将\"low-priced\"与形近词\"low-grade\"（低质量的）混淆，或因\"priced\"与\"precious\"拼写接近而误解为\"不珍贵的\"",
+      "sentence": "The supermarket offers a wide range of **low-priced** groceries, making it popular among budget-conscious shoppers.",
+      "options": {
+        "option": [
+          {
+            "definition": "低价的；价廉的",
+            "iscorrect": true
+          },
+          {
+            "definition": "低质量的；劣质的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不珍贵的；普通的",
+            "iscorrect": false
+          },
+          {
+            "definition": "打折的；促销的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "envious",
+      "error_analysis": "学生易因形近词\"enviable\"（令人羡慕的）混淆，误将\"envious\"理解为\"令人羡慕的\"（实际为\"（人）羡慕的/嫉妒的\"）",
+      "sentence": "When Lisa saw her friend's new phone, she felt **envious** and wished she had one too.",
+      "options": {
+        "option": [
+          {
+            "definition": "（人）羡慕的；嫉妒的",
+            "iscorrect": true
+          },
+          {
+            "definition": "令人羡慕的",
+            "iscorrect": false
+          },
+          {
+            "definition": "与环境相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "焦虑的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

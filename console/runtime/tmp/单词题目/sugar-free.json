@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sugar-free",
+      "error_analysis": "学生易将`sugar-free`字面拆分为“糖+免费”，误解为“免费提供糖的”或“含免费糖的”。",
+      "sentence": "I prefer drinking **sugar-free** tea every morning since I don’t want extra calories from sugar.",
+      "options": {
+        "option": [
+          {
+            "definition": "不含糖的",
+            "iscorrect": true
+          },
+          {
+            "definition": "免费提供糖的",
+            "iscorrect": false
+          },
+          {
+            "definition": "含糖量极高的",
+            "iscorrect": false
+          },
+          {
+            "definition": "用糖代替其他成分的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "passion",
+      "error_analysis": "中国学生易因形近词“pass”（通过）或“patient”（耐心）猜测，将“passion”误理解为“通过；通行证”或“耐心；容忍”",
+      "sentence": "His **passion** for football makes him practice for hours every day.",
+      "options": {
+        "option": [
+          {
+            "definition": "热情；激情",
+            "iscorrect": true
+          },
+          {
+            "definition": "通过；通行证",
+            "iscorrect": false
+          },
+          {
+            "definition": "痛苦；苦难",
+            "iscorrect": false
+          },
+          {
+            "definition": "耐心；容忍",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

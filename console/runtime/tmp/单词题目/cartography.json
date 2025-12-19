@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cartography",
+      "error_analysis": "学生易将\"cart\"误理解为\"购物车/马车\"，结合\"graphy\"错误联想为\"运输日志\"或\"购物车制图\"，忽略其词根\"charta\"(纸)的含义",
+      "sentence": "The museum’s exhibit on **cartography** showcases ancient maps from Egyptian, Greek, and Chinese civilizations.",
+      "options": {
+        "option": [
+          {
+            "definition": "制图学；地图绘制术",
+            "iscorrect": true
+          },
+          {
+            "definition": "购物车设计；运输工具制图",
+            "iscorrect": false
+          },
+          {
+            "definition": "马车路线记录；运输日志",
+            "iscorrect": false
+          },
+          {
+            "definition": "地理数据统计；地形分析",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

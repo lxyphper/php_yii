@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gravity",
+      "error_analysis": "学生易因词根“grav-”（重）将“gravity”误判为“重量”（weight），或因形近词“grave”（严重的/坟墓）误判为“严重的事物”或“坟墓”。",
+      "sentence": "The earth's **gravity** keeps us from floating away into space.",
+      "options": {
+        "option": [
+          {
+            "definition": "重力（地心引力）",
+            "iscorrect": true
+          },
+          {
+            "definition": "重量（weight）",
+            "iscorrect": false
+          },
+          {
+            "definition": "严重的事物（something grave）",
+            "iscorrect": false
+          },
+          {
+            "definition": "坟墓（grave）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to appropriate",
+      "error_analysis": "混淆形容词“适当的”与动词“挪用”的含义，或因形近词“approximate”（近似的）产生误解",
+      "sentence": "The manager was fired after it was discovered he had **appropriated** the team's bonus money to buy a new car.",
+      "options": {
+        "option": [
+          {
+            "definition": "挪用；占用（尤指非法使用）",
+            "iscorrect": true
+          },
+          {
+            "definition": "适当的；合适的",
+            "iscorrect": false
+          },
+          {
+            "definition": "近似；接近",
+            "iscorrect": false
+          },
+          {
+            "definition": "提议；建议",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

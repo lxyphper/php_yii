@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Iranian",
+      "error_analysis": "因形近词\"Indian\"（印度的）干扰，易将\"Iranian\"误判为\"印度的\"",
+      "sentence": "Many **Iranian** families gather to celebrate Nowruz, the traditional Persian New Year, with special meals and decorations.",
+      "options": {
+        "option": [
+          {
+            "definition": "伊朗的；伊朗人的",
+            "iscorrect": true
+          },
+          {
+            "definition": "印度的；印度人的",
+            "iscorrect": false
+          },
+          {
+            "definition": "伊拉克的；伊拉克人的",
+            "iscorrect": false
+          },
+          {
+            "definition": "爱尔兰的；爱尔兰人的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

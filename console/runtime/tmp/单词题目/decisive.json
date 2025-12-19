@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "decisive",
+      "error_analysis": "学生易因形近词“decide”（决定）将“decisive”误理解为“决定的（动作）”，而非“决定性的/果断的（特征）”",
+      "sentence": "The coach’s **decisive** call to substitute the striker turned the game around.",
+      "options": {
+        "option": [
+          {
+            "definition": "决定的（指做出决定的动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "切割的；分割的",
+            "iscorrect": false
+          },
+          {
+            "definition": "决定性的；果断的",
+            "iscorrect": true
+          },
+          {
+            "definition": "快速的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nice",
+      "error_analysis": "中国学生易因“nice”与形近词“niece”（侄女）拼写接近混淆词义，或过度延伸为“昂贵的”。",
+      "sentence": "Let's go to the park—what a **nice** day for flying kites!",
+      "options": {
+        "option": [
+          {
+            "definition": "好的；愉快的",
+            "iscorrect": true
+          },
+          {
+            "definition": "侄女",
+            "iscorrect": false
+          },
+          {
+            "definition": "昂贵的",
+            "iscorrect": false
+          },
+          {
+            "definition": "挑剔的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

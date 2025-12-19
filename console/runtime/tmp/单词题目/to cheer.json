@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to cheer",
+      "error_analysis": "中国学生易因形近词“cheese”（奶酪）或“chair”（主持/椅子）的干扰，将“to cheer”误理解为与食物或主持相关的动作。",
+      "sentence": "The crowd began to **cheer** loudly when their favorite team scored a goal.",
+      "options": {
+        "option": [
+          {
+            "definition": "欢呼；为...加油",
+            "iscorrect": true
+          },
+          {
+            "definition": "吃奶酪",
+            "iscorrect": false
+          },
+          {
+            "definition": "主持（会议等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "购买椅子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

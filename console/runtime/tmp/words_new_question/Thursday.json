@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Thursday",
+      "error_analysis": "学生易因“Thursday”与“Tuesday”（星期二）或“Wednesday”（星期三）拼写相近而混淆，将其误判为其他星期几",
+      "sentence": "Our team has a meeting every **Thursday** to discuss weekly progress.",
+      "options": {
+        "option": [
+          {
+            "definition": "星期二",
+            "iscorrect": false
+          },
+          {
+            "definition": "星期三",
+            "iscorrect": false
+          },
+          {
+            "definition": "星期四",
+            "iscorrect": true
+          },
+          {
+            "definition": "口渴的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

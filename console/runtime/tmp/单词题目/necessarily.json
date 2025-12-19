@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "necessarily",
+      "error_analysis": "学生易将其误判为\"必要地\"（形近词\"necessary\"的副词联想），忽略其\"必然地\"的核心含义",
+      "sentence": "Just because she’s quiet, it doesn’t **necessarily** mean she’s unhappy.",
+      "options": {
+        "option": [
+          {
+            "definition": "必要地",
+            "iscorrect": false
+          },
+          {
+            "definition": "必然地；必定",
+            "iscorrect": true
+          },
+          {
+            "definition": "经常地",
+            "iscorrect": false
+          },
+          {
+            "definition": "特意地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

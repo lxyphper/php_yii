@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rudely",
+      "error_analysis": "中国学生易将\"rudely\"混淆为形近词\"roughly\"（粗略地）或词根\"rude\"的\"粗糙的\"引申义（如\"原始地\"），导致误判。",
+      "sentence": "When she asked for help, the man **rudely** turned his back and walked away.",
+      "options": {
+        "option": [
+          {
+            "definition": "粗鲁地；无礼地",
+            "iscorrect": true
+          },
+          {
+            "definition": "粗略地；大致地",
+            "iscorrect": false
+          },
+          {
+            "definition": "原始地；粗制滥造地",
+            "iscorrect": false
+          },
+          {
+            "definition": "乐意地；轻易地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "experiment",
+      "error_analysis": "中国学生易混淆形近词'experience'（经验/经历），或因词根'experi-'（尝试）误导将'experiment'误理解为'尝试'而非'实验'。",
+      "sentence": "The students will conduct a small **experiment** to test whether plants grow better with tap water or rainwater.",
+      "options": {
+        "option": [
+          {
+            "definition": "实验",
+            "iscorrect": true
+          },
+          {
+            "definition": "经验",
+            "iscorrect": false
+          },
+          {
+            "definition": "尝试",
+            "iscorrect": false
+          },
+          {
+            "definition": "经历",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "without",
+      "error_analysis": "学生易因形近词“within”（在...里面）的干扰或“with+out”的字面推导，将“without”误理解为“在...里面”或“和...一起出去”。",
+      "sentence": "She managed to finish the project **without** any help from her teammates.",
+      "options": {
+        "option": [
+          {
+            "definition": "没有；不带有",
+            "iscorrect": true
+          },
+          {
+            "definition": "在...里面",
+            "iscorrect": false
+          },
+          {
+            "definition": "和...一起出去",
+            "iscorrect": false
+          },
+          {
+            "definition": "离开；脱离",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

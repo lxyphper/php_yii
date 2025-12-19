@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "unatisfactory",
+      "unsatifactory",
+      "unsatisfactary",
+      "unsatisfactry",
+      "insatisfactory"
+    ],
+    "correct_chunks": [
+      "un-",
+      "satis-",
+      "factory"
+    ],
+    "distractor_chunks": [
+      "atis-",
+      "sati-",
+      "facta-",
+      "factr-",
+      "in-"
+    ]
+  },
+  0
+]

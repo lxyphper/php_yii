@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "thorny",
+      "error_analysis": "学生易因形近混淆\"thirsty\"(口渴的)，或因词根\"thorn\"误选\"有刺的\"而忽略常用比喻义\"棘手的\"",
+      "sentence": "The team faced a **thorny** issue when trying to decide on the new project timeline.",
+      "options": {
+        "option": [
+          {
+            "definition": "口渴的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有刺的",
+            "iscorrect": false
+          },
+          {
+            "definition": "棘手的；困难的",
+            "iscorrect": true
+          },
+          {
+            "definition": "多毛的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

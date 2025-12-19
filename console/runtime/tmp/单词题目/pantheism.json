@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pantheism",
+      "error_analysis": "易因形近词\"atheism\"(无神论)混淆，或误将词根\"pan-\"(全)理解为\"反\"，导致把\"泛神论\"错当\"无神论\"",
+      "sentence": "Many indigenous cultures practice **pantheism**, believing that every tree, river, and mountain has a spiritual essence.",
+      "options": {
+        "option": [
+          {
+            "definition": "泛神论（认为神或精神存在于万物之中的信仰）",
+            "iscorrect": true
+          },
+          {
+            "definition": "无神论（不相信任何神存在的信仰）",
+            "iscorrect": false
+          },
+          {
+            "definition": "对豹子的崇拜或信仰（源于形近词\"panther\"）",
+            "iscorrect": false
+          },
+          {
+            "definition": "所有宗教的综合体系（误将\"pan-\"理解为\"全部宗教\"）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

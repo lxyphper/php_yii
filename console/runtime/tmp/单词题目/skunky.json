@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "skunky",
+      "error_analysis": "学生易因形近词\"skanky\"(卑鄙的)或词根\"skunk\"(臭鼬)误解为性格相关，而非\"有臭鼬味的\"核心词义。",
+      "sentence": "The beer tasted **skunky** after being left in the sun for hours.",
+      "options": {
+        "option": [
+          {
+            "definition": "有臭鼬味的；（啤酒等）变味的",
+            "iscorrect": true
+          },
+          {
+            "definition": "卑鄙的；下流的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不足的；吝啬的",
+            "iscorrect": false
+          },
+          {
+            "definition": "像臭鼬一样狡猾的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to worsen",
+      "error_analysis": "学生易因形近词“widen”（变宽）的拼写干扰或对“worse”动词形式的误判（如误当“改善”）而误解“to worsen”的含义",
+      "sentence": "The heavy rain caused the flood to **worsen**, making it impossible for people to leave their homes.",
+      "options": {
+        "option": [
+          {
+            "definition": "变得更糟；恶化",
+            "iscorrect": true
+          },
+          {
+            "definition": "变宽；加宽",
+            "iscorrect": false
+          },
+          {
+            "definition": "改善；提高",
+            "iscorrect": false
+          },
+          {
+            "definition": "保持；维持",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

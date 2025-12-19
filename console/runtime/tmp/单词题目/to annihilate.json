@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to annihilate",
+      "error_analysis": "易因形近词“announce”（宣布）或“annoy”（使烦恼）误判词义，或因词根“nihil”（无）过度推导为“消除”（未意识到“彻底消灭”的程度）",
+      "sentence": "The enemy army was completely **annihilated** in the battle, leaving no survivors.",
+      "options": {
+        "option": [
+          {
+            "definition": "宣布；宣告",
+            "iscorrect": false
+          },
+          {
+            "definition": "消除；清除",
+            "iscorrect": false
+          },
+          {
+            "definition": "使烦恼；打扰",
+            "iscorrect": false
+          },
+          {
+            "definition": "彻底消灭；摧毁",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

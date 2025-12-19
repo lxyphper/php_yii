@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to invigilate",
+      "error_analysis": "学生易因形近词\"investigate\"（调查）产生错误联想，或因不熟悉词根\"vigil\"（守夜/警惕）而误判词义",
+      "sentence": "The headmaster asked Mrs. Smith to **invigilate** the math competition to prevent any rule-breaking.",
+      "options": {
+        "option": [
+          {
+            "definition": "调查（某事）",
+            "iscorrect": false
+          },
+          {
+            "definition": "监考；监督（考试/竞赛）",
+            "iscorrect": true
+          },
+          {
+            "definition": "邀请（某人）参加",
+            "iscorrect": false
+          },
+          {
+            "definition": "保持活力；精力充沛",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

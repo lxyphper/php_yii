@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "morphology",
+      "error_analysis": "学生易因词根“morph”（变形）和后缀“-ology”（学科）猜测为“变形学”，或因拼写相似误与“morality”（道德）混淆。",
+      "sentence": "In linguistics class, we learned that **morphology** focuses on how words are built from smaller units like roots and affixes.",
+      "options": {
+        "option": [
+          {
+            "definition": "（语言学中的）形态学（研究词的结构和形式的学科）",
+            "iscorrect": true
+          },
+          {
+            "definition": "变形学（研究事物变形过程的学科）",
+            "iscorrect": false
+          },
+          {
+            "definition": "道德学（研究道德原则的学科）",
+            "iscorrect": false
+          },
+          {
+            "definition": "音系学（研究语言声音系统的学科）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

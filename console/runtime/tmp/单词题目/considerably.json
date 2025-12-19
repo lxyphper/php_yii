@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "considerably",
+      "error_analysis": "将形近词\"consider\"（考虑）的含义错误迁移，认为\"considerably\"表示\"仔细地\"或\"考虑地\"",
+      "sentence": "The price of the house has risen **considerably** since last year.",
+      "options": {
+        "option": [
+          {
+            "definition": "仔细地；认真地",
+            "iscorrect": false
+          },
+          {
+            "definition": "值得考虑地",
+            "iscorrect": false
+          },
+          {
+            "definition": "偶尔地；有时",
+            "iscorrect": false
+          },
+          {
+            "definition": "相当大地；非常",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

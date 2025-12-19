@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nerve-racking",
+      "error_analysis": "学生易因“racking”与“rocking”形近误判为“令人摇晃的”，或因“nerve”（神经/勇气）的词根误导理解为“与神经相关的”或“需要勇气的”",
+      "sentence": "Waiting for the exam results was a **nerve-racking** experience for her.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人极度紧张的",
+            "iscorrect": true
+          },
+          {
+            "definition": "令人摇晃的",
+            "iscorrect": false
+          },
+          {
+            "definition": "与神经相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "需要勇气的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

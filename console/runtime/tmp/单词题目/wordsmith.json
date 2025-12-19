@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wordsmith",
+      "error_analysis": "学生易因“smith”（工匠）词根误导将“wordsmith”误判为“词汇研究者”，或因形近联想为人名“史密斯”",
+      "sentence": "The famous novelist is known as a brilliant **wordsmith**, crafting stories that touch readers' hearts.",
+      "options": {
+        "option": [
+          {
+            "definition": "擅长文字的人；作家",
+            "iscorrect": true
+          },
+          {
+            "definition": "名为史密斯的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "词汇研究者",
+            "iscorrect": false
+          },
+          {
+            "definition": "文字游戏爱好者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

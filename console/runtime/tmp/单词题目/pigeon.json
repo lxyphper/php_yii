@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pigeon",
+      "error_analysis": "学生易因形近词“pig”（猪）的联想，将“pigeon”误判为与猪相关的事物（如猪、小猪肉）。",
+      "sentence": "The old man feeds the **pigeon** every morning in the park.",
+      "options": {
+        "option": [
+          {
+            "definition": "鸽子",
+            "iscorrect": true
+          },
+          {
+            "definition": "猪",
+            "iscorrect": false
+          },
+          {
+            "definition": "小猪肉",
+            "iscorrect": false
+          },
+          {
+            "definition": "鸡",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

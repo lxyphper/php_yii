@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "abundant",
+      "error_analysis": "因拼写与\"abandon\"(放弃)相近而混淆，或因\"ab-\"(离开)和\"und\"(波浪)错误推导为\"减少的\"",
+      "sentence": "The rainforest is home to an **abundant** variety of plants and animals, many of which are found nowhere else.",
+      "options": {
+        "option": [
+          {
+            "definition": "丰富的；充足的",
+            "iscorrect": true
+          },
+          {
+            "definition": "放弃的；遗弃的",
+            "iscorrect": false
+          },
+          {
+            "definition": "减少的；缺乏的",
+            "iscorrect": false
+          },
+          {
+            "definition": "突然的；意外的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

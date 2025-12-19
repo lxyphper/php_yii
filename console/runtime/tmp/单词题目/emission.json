@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "emission",
+      "error_analysis": "易因形近词\"mission\"(任务)或词根\"miss\"(错过)误导，误将\"emission\"理解为\"任务\"或\"错过\"",
+      "sentence": "The government has introduced new regulations to reduce vehicle **emissions** and improve air quality.",
+      "options": {
+        "option": [
+          {
+            "definition": "任务；使命",
+            "iscorrect": false
+          },
+          {
+            "definition": "错过；遗漏",
+            "iscorrect": false
+          },
+          {
+            "definition": "排放；释放",
+            "iscorrect": true
+          },
+          {
+            "definition": "允许；许可",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

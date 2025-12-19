@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "magma",
+      "error_analysis": "学生易因“magma”与“magic”（魔法）、“magnet”（磁铁）形近联想到无关义，或因“mag-”词根（如magn-大）猜测为“巨大的物体”",
+      "sentence": "The volcano’s eruption was triggered by the upward flow of **magma** from deep within the Earth.",
+      "options": {
+        "option": [
+          {
+            "definition": "磁铁",
+            "iscorrect": false
+          },
+          {
+            "definition": "巨大的物体",
+            "iscorrect": false
+          },
+          {
+            "definition": "（地壳下的）岩浆",
+            "iscorrect": true
+          },
+          {
+            "definition": "魔法物质",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

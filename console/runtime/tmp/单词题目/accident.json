@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "accident",
+      "error_analysis": "混淆形近词\"incident\"(事件)与\"accident\"(意外事故)，忽略\"意外\"这一核心特征",
+      "sentence": "The car crash on the highway was a terrible **accident**—no one expected it to happen.",
+      "options": {
+        "option": [
+          {
+            "definition": "意外事故",
+            "iscorrect": true
+          },
+          {
+            "definition": "事件/事变",
+            "iscorrect": false
+          },
+          {
+            "definition": "故意发生的事",
+            "iscorrect": false
+          },
+          {
+            "definition": "计划中的活动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

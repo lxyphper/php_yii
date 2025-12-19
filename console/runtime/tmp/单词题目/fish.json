@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fish",
+      "error_analysis": "中国学生易混淆形近词“fist”（拳头），或误将名词“鱼”与动词“钓鱼”的词义混淆",
+      "sentence": "My dad caught a big **fish** in the lake yesterday.",
+      "options": {
+        "option": [
+          {
+            "definition": "鱼（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "拳头",
+            "iscorrect": false
+          },
+          {
+            "definition": "钓鱼（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "盘子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

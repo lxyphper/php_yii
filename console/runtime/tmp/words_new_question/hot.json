@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hot",
+      "error_analysis": "中国学生易混淆形近词\"hat\"（帽子），或误将\"hot\"的\"热的\"与\"辣的\"\"热门的\"混淆。",
+      "sentence": "The soup is too **hot** to eat right now.",
+      "options": {
+        "option": [
+          {
+            "definition": "热的",
+            "iscorrect": true
+          },
+          {
+            "definition": "帽子",
+            "iscorrect": false
+          },
+          {
+            "definition": "辣的",
+            "iscorrect": false
+          },
+          {
+            "definition": "热门的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fanatical",
+      "error_analysis": "学生易因形近词“fantastic”（极好的）产生混淆，或误将“fanatical”理解为“粉丝的”（词根过度推导）。",
+      "sentence": "The **fanatical** football fans painted their faces and shouted for hours to support their team.",
+      "options": {
+        "option": [
+          {
+            "definition": "极好的，奇妙的",
+            "iscorrect": false
+          },
+          {
+            "definition": "狂热的，入迷的",
+            "iscorrect": true
+          },
+          {
+            "definition": "粉丝的，支持者的",
+            "iscorrect": false
+          },
+          {
+            "definition": "疯狂的，精神错乱的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

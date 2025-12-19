@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "book review",
+      "error_analysis": "混淆'review'与形近词'revise'(修改)导致误判为\"书的修改\"，或因'review'的\"复习\"义(词根re-+view)误判为\"书的复习\"",
+      "sentence": "After reading the novel, she decided to write a **book review** for the school newspaper to share her opinions on the story and characters.",
+      "options": {
+        "option": [
+          {
+            "definition": "书评（对书籍的评论或评价文章）",
+            "iscorrect": true
+          },
+          {
+            "definition": "书的修改（对书籍内容的修订或校正）",
+            "iscorrect": false
+          },
+          {
+            "definition": "书的复习（重新阅读书籍以巩固知识）",
+            "iscorrect": false
+          },
+          {
+            "definition": "书的观点（书籍中表达的主要看法或见解）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "considerable",
+      "error_analysis": "易因词根“consider”（考虑）和后缀“-able”误判为“可考虑的”，或混淆形近词“considerate”（体贴的）的含义",
+      "sentence": "The project required **considerable** time and effort to complete.",
+      "options": {
+        "option": [
+          {
+            "definition": "相当大的；相当多的",
+            "iscorrect": true
+          },
+          {
+            "definition": "可考虑的；值得考虑的",
+            "iscorrect": false
+          },
+          {
+            "definition": "体贴的；考虑周到的",
+            "iscorrect": false
+          },
+          {
+            "definition": "重要的；值得重视的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pest",
+      "error_analysis": "学生易因形近词\"past\"(过去)和\"pet\"(宠物)的干扰，误将\"pest\"理解为\"过去\"或\"宠物\"",
+      "sentence": "The ants in the kitchen are a real **pest**—they keep getting into the sugar and ruining our food.",
+      "options": {
+        "option": [
+          {
+            "definition": "害虫；讨厌的人/物",
+            "iscorrect": true
+          },
+          {
+            "definition": "过去（的时间）",
+            "iscorrect": false
+          },
+          {
+            "definition": "宠物",
+            "iscorrect": false
+          },
+          {
+            "definition": "测试；考查",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

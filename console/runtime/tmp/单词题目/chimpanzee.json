@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "chimpanzee",
+      "error_analysis": "学生易因形近词（如chameleon）或直觉猜测将\"chimpanzee\"误判为其他动物（如变色龙、花栗鼠）",
+      "sentence": "In the zoo, the **chimpanzee** climbed the tree and played with its friends happily.",
+      "options": {
+        "option": [
+          {
+            "definition": "黑猩猩",
+            "iscorrect": true
+          },
+          {
+            "definition": "变色龙",
+            "iscorrect": false
+          },
+          {
+            "definition": "花栗鼠",
+            "iscorrect": false
+          },
+          {
+            "definition": "穿山甲",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

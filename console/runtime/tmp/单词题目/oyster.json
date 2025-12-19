@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "oyster",
+      "error_analysis": "学生易因“ster”结尾（形近词youngster）猜测为“年轻人”，或直觉认为是“蔬菜”等无关事物。",
+      "sentence": "She ordered a plate of grilled **oysters** with lemon for appetizer.",
+      "options": {
+        "option": [
+          {
+            "definition": "年轻人",
+            "iscorrect": false
+          },
+          {
+            "definition": "蔬菜",
+            "iscorrect": false
+          },
+          {
+            "definition": "牡蛎；蚝",
+            "iscorrect": true
+          },
+          {
+            "definition": "工具",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

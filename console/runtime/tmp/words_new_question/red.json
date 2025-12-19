@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "red",
+      "error_analysis": "学生易因形近词\"read\"（读）的拼写相似，将\"red\"误理解为\"读（过去式）\"。",
+      "sentence": "She wore a **red** dress to the party.",
+      "options": {
+        "option": [
+          {
+            "definition": "红色的（形容词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "读（过去式）",
+            "iscorrect": false
+          },
+          {
+            "definition": "变红（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "杆（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

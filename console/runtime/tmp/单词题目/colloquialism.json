@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "colloquialism",
+      "error_analysis": "中国学生易因形近词\"colleague\"（同事）联想到\"同事互动\"，或因词根\"col-\"（如\"colony\"殖民地）误判为\"殖民地传统\"",
+      "sentence": "The phrase \"gonna\" is a common **colloquialism** used in informal conversations instead of \"going to\".",
+      "options": {
+        "option": [
+          {
+            "definition": "口语表达",
+            "iscorrect": true
+          },
+          {
+            "definition": "同事之间的互动",
+            "iscorrect": false
+          },
+          {
+            "definition": "殖民地的传统",
+            "iscorrect": false
+          },
+          {
+            "definition": "正式的文学风格",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

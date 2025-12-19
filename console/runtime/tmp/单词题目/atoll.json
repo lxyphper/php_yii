@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "atoll",
+      "error_analysis": "学生易因形近词\"toll\"(费用、钟声)或字面拆分(a-+toll)误将\"atoll\"理解为与\"费用\"或\"声音\"相关的概念",
+      "sentence": "The Maldives is famous for its stunning **atolls**, where circular coral reefs enclose calm lagoons perfect for snorkeling.",
+      "options": {
+        "option": [
+          {
+            "definition": "环礁（由珊瑚礁环绕泻湖形成的环状岛屿）",
+            "iscorrect": true
+          },
+          {
+            "definition": "一种道路通行费",
+            "iscorrect": false
+          },
+          {
+            "definition": "一声低沉的钟声",
+            "iscorrect": false
+          },
+          {
+            "definition": "阁楼或屋顶的储物空间",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

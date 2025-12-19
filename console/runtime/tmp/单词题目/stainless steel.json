@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stainless steel",
+      "error_analysis": "学生可能通过词根拆分\"stainless\"(stain+less)字面理解为\"无污渍的钢\"，或混淆形近词\"stained\"(染色的)而误判为\"未染色钢\"。",
+      "sentence": "The kitchen sink is made of **stainless steel**, so it doesn’t rust easily.",
+      "options": {
+        "option": [
+          {
+            "definition": "不锈钢",
+            "iscorrect": true
+          },
+          {
+            "definition": "无污渍钢",
+            "iscorrect": false
+          },
+          {
+            "definition": "未染色钢",
+            "iscorrect": false
+          },
+          {
+            "definition": "防锈钢",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

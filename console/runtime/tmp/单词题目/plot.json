@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "plot",
+      "error_analysis": "学生易因形近词\"pot\"(锅)或\"小块土地\"这一不熟悉义项，混淆\"plot\"的\"（小说、电影等的）情节\"核心义",
+      "sentence": "The detective novel’s **plot** is full of twists and turns that surprise the readers.",
+      "options": {
+        "option": [
+          {
+            "definition": "（小说、电影等的）情节",
+            "iscorrect": true
+          },
+          {
+            "definition": "锅",
+            "iscorrect": false
+          },
+          {
+            "definition": "小块土地",
+            "iscorrect": false
+          },
+          {
+            "definition": "点",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

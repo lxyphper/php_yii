@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to ratify",
+      "error_analysis": "易因形近词\"rate\"(评价)或词根\"rat\"(老鼠;告密)误解为\"评价\"或\"揭发\"",
+      "sentence": "The parliament will vote next week to **ratify** the new trade agreement between the two countries.",
+      "options": {
+        "option": [
+          {
+            "definition": "批准；认可",
+            "iscorrect": true
+          },
+          {
+            "definition": "评价；评级",
+            "iscorrect": false
+          },
+          {
+            "definition": "揭发；告密",
+            "iscorrect": false
+          },
+          {
+            "definition": "修改；调整",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

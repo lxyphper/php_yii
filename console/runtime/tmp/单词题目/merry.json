@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "merry",
+      "error_analysis": "学生易因形近词\"marry\"（结婚）误判为\"结婚的\"，或因\"mere\"（仅仅）误判为\"仅仅的\"",
+      "sentence": "We spent a **merry** weekend at the beach, playing volleyball and building sandcastles with our friends.",
+      "options": {
+        "option": [
+          {
+            "definition": "愉快的；欢乐的",
+            "iscorrect": true
+          },
+          {
+            "definition": "结婚的；婚姻的",
+            "iscorrect": false
+          },
+          {
+            "definition": "仅仅的；只不过的",
+            "iscorrect": false
+          },
+          {
+            "definition": "脏乱的；混乱的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

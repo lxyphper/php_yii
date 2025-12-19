@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to replace",
+      "error_analysis": "易因形近词\"reply\"(回复)及词根\"re-+place\"误判为\"重新放置\"",
+      "sentence": "The old computer is too slow, so we need to **replace** it with a new one.",
+      "options": {
+        "option": [
+          {
+            "definition": "替换；取代",
+            "iscorrect": true
+          },
+          {
+            "definition": "回复；答复",
+            "iscorrect": false
+          },
+          {
+            "definition": "重新放置；摆放",
+            "iscorrect": false
+          },
+          {
+            "definition": "修理；修复",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

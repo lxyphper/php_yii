@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "resentful",
+      "error_analysis": "易因形近词\"recent\"(最近的)或\"respectful\"(尊敬的)干扰，误将\"resentful\"理解为\"最近的\"或\"尊敬的\"",
+      "sentence": "After being passed over for the promotion she deserved, Maria felt **resentful** towards her coworker who got it instead.",
+      "options": {
+        "option": [
+          {
+            "definition": "感到怨恨的",
+            "iscorrect": true
+          },
+          {
+            "definition": "最近的",
+            "iscorrect": false
+          },
+          {
+            "definition": "尊敬的",
+            "iscorrect": false
+          },
+          {
+            "definition": "宁静的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

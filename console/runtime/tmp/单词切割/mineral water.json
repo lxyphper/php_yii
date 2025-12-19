@@ -1,0 +1,28 @@
+[
+  {
+    "common_misspellings": [
+      "minral water",
+      "minaral water",
+      "minerl water",
+      "mineralwater",
+      "mineral watter",
+      "mineral wator",
+      "mineral wetter"
+    ],
+    "correct_chunks": [
+      "miner",
+      "al",
+      "wa",
+      "ter"
+    ],
+    "distractor_chunks": [
+      "minr",
+      "minar",
+      "minrl",
+      "wart",
+      "wat",
+      "wet"
+    ]
+  },
+  0
+]

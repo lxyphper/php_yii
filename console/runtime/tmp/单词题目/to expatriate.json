@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to expatriate",
+      "error_analysis": "易与形近词“expatiate”（详述）混淆，或误将词根“patri”（祖国）理解为“父亲”导致误解为“离开父亲”。",
+      "sentence": "The government decided to **expatriate** the foreign spies found operating in the country.",
+      "options": {
+        "option": [
+          {
+            "definition": "详述，畅所欲言",
+            "iscorrect": false
+          },
+          {
+            "definition": "离开父亲；逐出父亲",
+            "iscorrect": false
+          },
+          {
+            "definition": "把…逐出本国；使移居国外",
+            "iscorrect": true
+          },
+          {
+            "definition": "出口（商品）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "charismatic",
+      "error_analysis": "易因形近词\"character\"(性格)误解为\"有性格的\"或\"个性鲜明的\"",
+      "sentence": "The new leader's **charismatic** speech inspired thousands of people to join the movement.",
+      "options": {
+        "option": [
+          {
+            "definition": "有魅力的；有号召力的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有性格的；个性鲜明的",
+            "iscorrect": false
+          },
+          {
+            "definition": "慈善的；慷慨的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有才华的；能力强的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

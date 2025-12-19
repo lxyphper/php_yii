@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "drink",
+      "error_analysis": "学生易因形近词\"drive\"（驾驶）、\"drug\"（药物）或\"ink\"（墨水）的干扰，误将\"drink\"理解为\"驾驶\"、\"药物\"或\"墨水\"",
+      "sentence": "She likes to **drink** a cup of warm milk before going to bed.",
+      "options": {
+        "option": [
+          {
+            "definition": "喝（动词，指摄入液体）",
+            "iscorrect": true
+          },
+          {
+            "definition": "驾驶（操作车辆移动）",
+            "iscorrect": false
+          },
+          {
+            "definition": "药物（用于治疗的物品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "墨水（书写用的液体）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

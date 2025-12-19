@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to stall",
+      "error_analysis": "学生易将动词to stall误判为“设置摊位”（形近名词stall的动词化）或“站立”（与stand形近的词根误导）。",
+      "sentence": "The car **stalled** suddenly on the highway, causing a small traffic jam.",
+      "options": {
+        "option": [
+          {
+            "definition": "（发动机）熄火；突然停止工作",
+            "iscorrect": true
+          },
+          {
+            "definition": "设置摊位；摆摊",
+            "iscorrect": false
+          },
+          {
+            "definition": "站立；停留不动",
+            "iscorrect": false
+          },
+          {
+            "definition": "加速；加快速度",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to stop",
+      "error_analysis": "中国学生易因形近词\"shop\"(商店)或\"step\"(步骤)的干扰，将\"to stop\"误理解为\"购物\"或\"走/步骤\"。",
+      "sentence": "When the traffic light turns red, you must **to stop** your car immediately.",
+      "options": {
+        "option": [
+          {
+            "definition": "停止",
+            "iscorrect": true
+          },
+          {
+            "definition": "商店",
+            "iscorrect": false
+          },
+          {
+            "definition": "步骤",
+            "iscorrect": false
+          },
+          {
+            "definition": "邮票",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

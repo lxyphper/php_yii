@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "catch",
+      "error_analysis": "中国学生易因形近词“watch”（观看）混淆“catch”的含义，或因“catch up”（赶上）的联想错误理解其核心义“抓住”。",
+      "sentence": "Can you help me **catch** the ball before it falls into the river?",
+      "options": {
+        "option": [
+          {
+            "definition": "抓住；接住",
+            "iscorrect": true
+          },
+          {
+            "definition": "观看",
+            "iscorrect": false
+          },
+          {
+            "definition": "赶上",
+            "iscorrect": false
+          },
+          {
+            "definition": "携带",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

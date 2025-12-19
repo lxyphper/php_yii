@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to conceive",
+      "error_analysis": "中国学生易因形近词\"receive\"（收到）或词根\"con-+ceive\"过度推导为\"一起拿\"，导致对\"构思/设想\"核心义的错误理解。",
+      "sentence": "To solve the problem, we need to **conceive** a way to reduce waste without increasing costs.",
+      "options": {
+        "option": [
+          {
+            "definition": "构思；设想",
+            "iscorrect": true
+          },
+          {
+            "definition": "收到；接受",
+            "iscorrect": false
+          },
+          {
+            "definition": "一起拿；收集",
+            "iscorrect": false
+          },
+          {
+            "definition": "欺骗；误导",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

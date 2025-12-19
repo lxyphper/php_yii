@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "drumlin",
+      "error_analysis": "学生易因形近词“drum”（鼓）将drumlin误判为与“鼓”相关的物品（如小型鼓乐器）",
+      "sentence": "The geologist pointed out the smooth, oval hill in the field, explaining that it was a **drumlin** formed by glacial deposits during the last ice age.",
+      "options": {
+        "option": [
+          {
+            "definition": "一种小型鼓乐器",
+            "iscorrect": false
+          },
+          {
+            "definition": "亚麻布制成的鼓状容器",
+            "iscorrect": false
+          },
+          {
+            "definition": "鼓丘（由冰川沉积形成的椭圆形小丘）",
+            "iscorrect": true
+          },
+          {
+            "definition": "冰川表面的裂缝",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

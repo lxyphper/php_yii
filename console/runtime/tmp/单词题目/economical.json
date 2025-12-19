@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "economical",
+      "error_analysis": "混淆形近词\"economic\"（经济的，与经济相关的）或通过词根\"economy\"错误理解为\"与经济相关的\"而非\"节俭的\"",
+      "sentence": "Buying a second-hand fridge is more **economical** than buying a new one if you only need it for a short time.",
+      "options": {
+        "option": [
+          {
+            "definition": "经济的（与经济相关的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "节俭的；省钱的",
+            "iscorrect": true
+          },
+          {
+            "definition": "富裕的；有钱的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有效的；高效的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

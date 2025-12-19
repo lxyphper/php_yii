@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to calm",
+      "error_analysis": "学生易因“calm”与形近词“call”（打电话）、“clean”（清洁）发音/拼写接近而误判动词含义",
+      "sentence": "When the baby started crying, Mom used a lullaby to **calm** her down.",
+      "options": {
+        "option": [
+          {
+            "definition": "使平静；使镇定",
+            "iscorrect": true
+          },
+          {
+            "definition": "打电话给；呼叫",
+            "iscorrect": false
+          },
+          {
+            "definition": "清洁；打扫",
+            "iscorrect": false
+          },
+          {
+            "definition": "收集；聚集",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

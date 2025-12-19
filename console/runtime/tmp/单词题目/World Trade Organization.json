@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "World Trade Organization",
+      "error_analysis": "学生易将\"Trade\"误译为\"交易\"而非\"贸易\"，或混淆该组织与其他国际组织（如世界旅游组织）的全称。",
+      "sentence": "China has been a member of the **World Trade Organization** since 2001, and this membership has significantly boosted its international trade.",
+      "options": {
+        "option": [
+          {
+            "definition": "世界贸易组织",
+            "iscorrect": true
+          },
+          {
+            "definition": "世界交易组织",
+            "iscorrect": false
+          },
+          {
+            "definition": "世界旅游组织",
+            "iscorrect": false
+          },
+          {
+            "definition": "世界经济组织",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

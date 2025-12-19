@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "chronology",
+      "error_analysis": "学生易因形近词\"chronicle\"（编年史）干扰，或词根\"chron-（时间）+ -logy（学科）\"过度推导为\"时间学\"，忽略其核心义\"事件的时间顺序\"。",
+      "sentence": "The archaeologist spent months reconstructing the **chronology** of the ancient city's decline, using pottery shards and carbon dating to order the events.",
+      "options": {
+        "option": [
+          {
+            "definition": "事件的时间顺序",
+            "iscorrect": true
+          },
+          {
+            "definition": "编年史（记录历史事件的文献）",
+            "iscorrect": false
+          },
+          {
+            "definition": "时间学（研究时间的学科）",
+            "iscorrect": false
+          },
+          {
+            "definition": "时间测量工具（如计时器）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

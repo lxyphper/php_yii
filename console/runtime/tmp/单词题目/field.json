@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "field",
+      "error_analysis": "学生易因形近词（如yield“产量”、file“文件”）混淆词义，或因字面误导将“field”的“领域”义误解为“农田”。",
+      "sentence": "She has made significant contributions to the agricultural **field** through her research on crop improvement.",
+      "options": {
+        "option": [
+          {
+            "definition": "领域；范围",
+            "iscorrect": true
+          },
+          {
+            "definition": "产量",
+            "iscorrect": false
+          },
+          {
+            "definition": "农田",
+            "iscorrect": false
+          },
+          {
+            "definition": "文件",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

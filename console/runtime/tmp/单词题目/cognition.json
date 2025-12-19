@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cognition",
+      "error_analysis": "将“cognition”（认知过程）误判为“知识”（knowledge，词根“cogn-”的过度直译）或“识别”（recognition，形近词干扰）",
+      "sentence": "Recent studies have shown that sleep plays a crucial role in enhancing **cognition**, which includes skills like problem-solving and decision-making.",
+      "options": {
+        "option": [
+          {
+            "definition": "认知（能力或过程）",
+            "iscorrect": true
+          },
+          {
+            "definition": "知识（通过学习获得的信息）",
+            "iscorrect": false
+          },
+          {
+            "definition": "识别（认出或确认的能力）",
+            "iscorrect": false
+          },
+          {
+            "definition": "记忆（对过去事物的回忆）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

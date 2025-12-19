@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to aggravate",
+      "error_analysis": "中国学生易因形近词“aggregate”（集合）或词根“grav”（重）误将“to aggravate”理解为“集合”或“使生气”。",
+      "sentence": "The doctor warned that skipping medication would **aggravate** her chronic pain.",
+      "options": {
+        "option": [
+          {
+            "definition": "使（问题、痛苦等）加重；加剧",
+            "iscorrect": true
+          },
+          {
+            "definition": "集合；聚集",
+            "iscorrect": false
+          },
+          {
+            "definition": "使生气；激怒",
+            "iscorrect": false
+          },
+          {
+            "definition": "使减轻；缓解",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

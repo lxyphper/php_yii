@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to apologize",
+      "error_analysis": "易因形近词applaud（鼓掌）及词根apologia（辩护）的误导，将\"to apologize\"误判为\"鼓掌\"或\"辩护\"",
+      "sentence": "After breaking his neighbor's window, Tom knew he had to **apologize** to avoid getting in trouble.",
+      "options": {
+        "option": [
+          {
+            "definition": "道歉",
+            "iscorrect": true
+          },
+          {
+            "definition": "鼓掌",
+            "iscorrect": false
+          },
+          {
+            "definition": "辩护",
+            "iscorrect": false
+          },
+          {
+            "definition": "感谢",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

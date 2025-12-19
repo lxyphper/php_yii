@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to witness",
+      "error_analysis": "学生易将动词“to witness”误理解为“作证”（名词“证人”的不当延伸）、因“wit”（智慧）联想而误解为“智慧地参与”，或因形近词“wait”（等待）而误解为“等待”",
+      "sentence": "Thousands of spectators gathered along the river to **witness** the annual dragon boat race.",
+      "options": {
+        "option": [
+          {
+            "definition": "目睹；见证",
+            "iscorrect": true
+          },
+          {
+            "definition": "作证；证明",
+            "iscorrect": false
+          },
+          {
+            "definition": "有智慧地观看",
+            "iscorrect": false
+          },
+          {
+            "definition": "等待；等候",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

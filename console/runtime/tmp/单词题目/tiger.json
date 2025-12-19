@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tiger",
+      "error_analysis": "学生易因“tiger”与“tier”（层）、“tire”（轮胎）等形近词混淆，误将其理解为非动物类词义",
+      "sentence": "The **tiger** is a powerful predator famous for its orange fur with black stripes and fierce roar.",
+      "options": {
+        "option": [
+          {
+            "definition": "老虎",
+            "iscorrect": true
+          },
+          {
+            "definition": "层（如阶梯的层级、社会阶层）",
+            "iscorrect": false
+          },
+          {
+            "definition": "轮胎（汽车或自行车的橡胶轮部件）",
+            "iscorrect": false
+          },
+          {
+            "definition": "跳跳虎（卡通角色Tigger的中文译名）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

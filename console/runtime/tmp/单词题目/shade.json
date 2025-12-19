@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "shade",
+      "error_analysis": "学生易混淆形近词“shape”（形状）或误将“shade”直译为“影子”（shadow）而非“阴凉处/遮光物”。",
+      "sentence": "On a hot day, people often look for a tree to sit in the **shade** and avoid the sun.",
+      "options": {
+        "option": [
+          {
+            "definition": "形状",
+            "iscorrect": false
+          },
+          {
+            "definition": "影子",
+            "iscorrect": false
+          },
+          {
+            "definition": "阴凉处；遮光物",
+            "iscorrect": true
+          },
+          {
+            "definition": "分享",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

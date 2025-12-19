@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "creature",
+      "error_analysis": "中国学生易因形近词“create”/“creative”误将“creature”解为“创造物/创造力”，或混淆“生物”核心义与“人”的引申义",
+      "sentence": "The old man found a strange **creature** in his garden, with a long tail and shiny scales.",
+      "options": {
+        "option": [
+          {
+            "definition": "生物；动物",
+            "iscorrect": true
+          },
+          {
+            "definition": "创造力；创造性",
+            "iscorrect": false
+          },
+          {
+            "definition": "创造物；作品",
+            "iscorrect": false
+          },
+          {
+            "definition": "人；人类",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

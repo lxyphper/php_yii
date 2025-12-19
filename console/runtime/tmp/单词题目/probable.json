@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "probable",
+      "error_analysis": "中国学生易因形近词\"problem\"将\"probable\"误解为\"有问题的\"，或因词根\"prob-\"（证明）误导为\"可证明的\"。",
+      "sentence": "Given the dark clouds and strong winds, it's **probable** that it will rain this afternoon.",
+      "options": {
+        "option": [
+          {
+            "definition": "很可能的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有问题的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可证明的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不重要的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

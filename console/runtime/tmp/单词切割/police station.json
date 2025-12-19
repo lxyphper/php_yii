@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "palice station",
+      "police stetion",
+      "police stashion",
+      "police stacion",
+      "police staton"
+    ],
+    "correct_chunks": [
+      "pol",
+      "ice",
+      "sta",
+      "tion"
+    ],
+    "distractor_chunks": [
+      "pal",
+      "ste",
+      "shion",
+      "cion"
+    ]
+  },
+  0
+]

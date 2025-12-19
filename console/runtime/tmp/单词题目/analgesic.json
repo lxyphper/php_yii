@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "analgesic",
+      "error_analysis": "易因形近词\"analysis\"(分析)误解为\"分析工具\"，或因\"anal-\"(肛门的)词根误导为\"肛门相关药物\"",
+      "sentence": "After the surgery, the doctor prescribed an **analgesic** to relieve her post-operative pain.",
+      "options": {
+        "option": [
+          {
+            "definition": "分析工具",
+            "iscorrect": false
+          },
+          {
+            "definition": "肛门栓剂",
+            "iscorrect": false
+          },
+          {
+            "definition": "止痛药；镇痛剂",
+            "iscorrect": true
+          },
+          {
+            "definition": "遗传测试",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

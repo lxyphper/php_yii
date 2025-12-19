@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "triumphant",
+      "error_analysis": "学生易因形近词'tremendous'(巨大的)混淆，或误将'triumphant'理解为'庆祝的'。",
+      "sentence": "The **triumphant** soccer team received a hero's welcome when they returned home after winning the championship.",
+      "options": {
+        "option": [
+          {
+            "definition": "巨大的",
+            "iscorrect": false
+          },
+          {
+            "definition": "庆祝的",
+            "iscorrect": false
+          },
+          {
+            "definition": "胜利的；成功的",
+            "iscorrect": true
+          },
+          {
+            "definition": "自豪的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

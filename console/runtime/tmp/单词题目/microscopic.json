@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "microscopic",
+      "error_analysis": "学生易因形近词“microphone”（麦克风）误将“microscopic”联想为“与声音相关的”，或因词根“micro-”（小）和“-scopic”（观察）误理解为“观察小物体的工具”。",
+      "sentence": "The **microscopic** organisms in the soil play a key role in breaking down organic matter.",
+      "options": {
+        "option": [
+          {
+            "definition": "与声音放大相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "极小的；显微镜下的",
+            "iscorrect": true
+          },
+          {
+            "definition": "微小的声音",
+            "iscorrect": false
+          },
+          {
+            "definition": "用于观察的小型设备",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

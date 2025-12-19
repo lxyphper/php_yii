@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to enforce",
+      "error_analysis": "将“enforce”误理解为“强迫”（形近词“force”影响）或“加强力量”（词根“en-+force”错误推导）",
+      "sentence": "The government plans to **enforce** stricter regulations on air pollution next year.",
+      "options": {
+        "option": [
+          {
+            "definition": "强迫",
+            "iscorrect": false
+          },
+          {
+            "definition": "执行（法律、规则等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "加强力量",
+            "iscorrect": false
+          },
+          {
+            "definition": "提高（质量、水平等）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

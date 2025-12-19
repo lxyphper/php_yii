@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "towel",
+      "error_analysis": "中国学生易因形近词\"tower\"(塔)混淆，或因\"tow\"(拖)字面误导猜为\"拖布\"等含义",
+      "sentence": "After taking a shower, I used a **towel** to dry myself.",
+      "options": {
+        "option": [
+          {
+            "definition": "毛巾",
+            "iscorrect": true
+          },
+          {
+            "definition": "塔",
+            "iscorrect": false
+          },
+          {
+            "definition": "拖布",
+            "iscorrect": false
+          },
+          {
+            "definition": "工具",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to warn",
+      "error_analysis": "因形近词“warm”（温暖的）、“wait”（等待）或“wear”（穿）干扰，中国学生易将“to warn”误理解为“使温暖”“等待”或“穿”。",
+      "sentence": "The teacher warned us not to be late for class.",
+      "options": {
+        "option": [
+          {
+            "definition": "警告；提醒",
+            "iscorrect": true
+          },
+          {
+            "definition": "使温暖；变暖和",
+            "iscorrect": false
+          },
+          {
+            "definition": "等待；等候",
+            "iscorrect": false
+          },
+          {
+            "definition": "穿；戴",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

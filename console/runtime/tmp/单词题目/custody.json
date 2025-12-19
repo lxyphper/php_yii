@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "custody",
+      "error_analysis": "易因形近词\"custom\"(习俗)产生联想，或因词根\"cust-\"(守护)过度推导为\"一般照顾\"，而非法律层面的\"监护权/拘留\"。",
+      "sentence": "After the divorce, the court granted the mother full **custody** of the children.",
+      "options": {
+        "option": [
+          {
+            "definition": "习俗；习惯",
+            "iscorrect": false
+          },
+          {
+            "definition": "监护权；拘留",
+            "iscorrect": true
+          },
+          {
+            "definition": "照顾；照料",
+            "iscorrect": false
+          },
+          {
+            "definition": "顾客；客户",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

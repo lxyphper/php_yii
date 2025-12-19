@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "central processing unit",
+      "error_analysis": "学生易因词根字面误导将计算机术语误译为一般意义的\"中央加工单位\"，或因\"processing\"与\"procession\"形近而误解为\"中央队伍单元\"",
+      "sentence": "The speed of a computer largely depends on the performance of its **central processing unit**, which executes most of the instructions from programs.",
+      "options": {
+        "option": [
+          {
+            "definition": "中央处理器（计算机的核心计算部件）",
+            "iscorrect": true
+          },
+          {
+            "definition": "中央加工单位（如工厂的核心加工部门）",
+            "iscorrect": false
+          },
+          {
+            "definition": "中央队伍单元（如游行的核心队伍部分）",
+            "iscorrect": false
+          },
+          {
+            "definition": "中央存储单元（如计算机的核心存储部件）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

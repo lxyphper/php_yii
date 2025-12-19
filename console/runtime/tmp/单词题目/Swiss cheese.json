@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Swiss cheese",
+      "error_analysis": "学生易将\"Swiss cheese\"字面理解为\"瑞士产的任何奶酪\"，忽略其\"有大孔的特定硬质奶酪\"的核心特征。",
+      "sentence": "I love the **Swiss cheese** in my burger—it has big holes and tastes nutty.",
+      "options": {
+        "option": [
+          {
+            "definition": "一种有大孔的瑞士硬质奶酪",
+            "iscorrect": true
+          },
+          {
+            "definition": "瑞士产的任何奶酪",
+            "iscorrect": false
+          },
+          {
+            "definition": "瑞士奶酪蛋糕",
+            "iscorrect": false
+          },
+          {
+            "definition": "瑞士的选择",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

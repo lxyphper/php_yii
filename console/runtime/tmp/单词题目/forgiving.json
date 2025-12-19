@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "forgiving",
+      "error_analysis": "易混淆形近词\"forgetting\"(忘记的)及词根误解为\"给予的\"",
+      "sentence": "Despite his mistake, his mother remained **forgiving** and gave him another chance.",
+      "options": {
+        "option": [
+          {
+            "definition": "宽容的；原谅的",
+            "iscorrect": true
+          },
+          {
+            "definition": "忘记的；遗忘的",
+            "iscorrect": false
+          },
+          {
+            "definition": "给予的；赠送的",
+            "iscorrect": false
+          },
+          {
+            "definition": "正式的；拘谨的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

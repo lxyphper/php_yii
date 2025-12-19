@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "giddy",
+      "error_analysis": "学生易因形近词\"glad\"（高兴的）或发音联想误将\"giddy\"理解为\"高兴的\"，或因词根误导认为是\"兴奋的\"",
+      "sentence": "After spinning in circles for a minute, the little girl felt **giddy** and had to sit down.",
+      "options": {
+        "option": [
+          {
+            "definition": "高兴的",
+            "iscorrect": false
+          },
+          {
+            "definition": "头晕的",
+            "iscorrect": true
+          },
+          {
+            "definition": "兴奋的",
+            "iscorrect": false
+          },
+          {
+            "definition": "巨大的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

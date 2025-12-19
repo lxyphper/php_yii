@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "choclate milk",
+      "chocolatemilk",
+      "chokolate milk",
+      "chocolate melk",
+      "choclate milik"
+    ],
+    "correct_chunks": [
+      "choco",
+      "late ",
+      "milk"
+    ],
+    "distractor_chunks": [
+      "choc",
+      "late",
+      "chok",
+      "melk",
+      "milik"
+    ]
+  },
+  0
+]

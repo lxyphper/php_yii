@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lenient",
+      "error_analysis": "学生易因形近词\"lean\"（倾斜/瘦的）或词根误猜为\"长的\"，或混淆为\"耐心的\"（patient）。",
+      "sentence": "The teacher was **lenient** with the students who forgot their homework, giving them an extra day to submit it.",
+      "options": {
+        "option": [
+          {
+            "definition": "倾斜的；瘦的",
+            "iscorrect": false
+          },
+          {
+            "definition": "耐心的；容忍的",
+            "iscorrect": false
+          },
+          {
+            "definition": "宽大的；仁慈的",
+            "iscorrect": true
+          },
+          {
+            "definition": "长久的；漫长的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

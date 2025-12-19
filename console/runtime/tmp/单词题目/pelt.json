@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pelt",
+      "error_analysis": "因形近词“pellet”（弹丸）产生错误联想，误将“pelt”理解为“发射弹丸”",
+      "sentence": "The kids began to **pelt** each other with snowballs as soon as the first snow fell.",
+      "options": {
+        "option": [
+          {
+            "definition": "猛投；用...砸",
+            "iscorrect": true
+          },
+          {
+            "definition": "发射弹丸",
+            "iscorrect": false
+          },
+          {
+            "definition": "（动物的）皮肤/毛皮",
+            "iscorrect": false
+          },
+          {
+            "definition": "腰带",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

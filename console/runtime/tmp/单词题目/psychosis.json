@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "psychosis",
+      "error_analysis": "学生易因形近词“psycho”（精神病人）混淆，或词根“psych-”（心理）+“-osis”（病症）过度猜测为非医学术语的“心理问题”。",
+      "sentence": "The patient was diagnosed with **psychosis** after showing symptoms like hallucinations and delusions.",
+      "options": {
+        "option": [
+          {
+            "definition": "精神病（严重的精神障碍，如精神分裂症等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "精神病人（口语中指行为异常的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "心理研究（对心理过程的科学探究）",
+            "iscorrect": false
+          },
+          {
+            "definition": "情绪波动（暂时的心情变化）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

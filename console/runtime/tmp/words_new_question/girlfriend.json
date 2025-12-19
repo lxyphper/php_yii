@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "girlfriend",
+      "error_analysis": "学生易将\"girlfriend\"拆分为\"girl\"和\"friend\"直译为\"女性朋友\"（普通朋友），忽略其\"女朋友（恋人关系）\"的核心含义",
+      "sentence": "Tom was nervous when he introduced his **girlfriend** to his parents for the first time.",
+      "options": {
+        "option": [
+          {
+            "definition": "女朋友（恋人关系）",
+            "iscorrect": true
+          },
+          {
+            "definition": "女性朋友（普通朋友）",
+            "iscorrect": false
+          },
+          {
+            "definition": "少女时代",
+            "iscorrect": false
+          },
+          {
+            "definition": "女孩的朋友",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

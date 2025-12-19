@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "frostbite",
+      "error_analysis": "学生易因词根“frost”（霜）和“bite”（咬）直译为“霜咬”，或因形近词“frosting”（糖霜）产生错误联想。",
+      "sentence": "After hiking in the snow without proper gloves, he developed **frostbite** on his fingers, requiring immediate medical attention.",
+      "options": {
+        "option": [
+          {
+            "definition": "冻伤（因长时间暴露在极低温度下导致的身体组织损伤）",
+            "iscorrect": true
+          },
+          {
+            "definition": "霜的叮咬（指被霜“咬”导致的轻微皮肤刺痛或红肿）",
+            "iscorrect": false
+          },
+          {
+            "definition": "糖霜（蛋糕或甜点表面的甜腻装饰层，形近词“frosting”的误联想）",
+            "iscorrect": false
+          },
+          {
+            "definition": "晒伤（因阳光强烈照射导致的皮肤发红或疼痛，混淆天气相关伤害）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

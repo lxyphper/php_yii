@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "persistently",
+      "error_analysis": "易与形近词“persuasively”（有说服力地）混淆，或误判为词根/字面联想的“一致地”（consistently）",
+      "sentence": "Despite facing many setbacks, she **persistently** worked on her project until it was completed.",
+      "options": {
+        "option": [
+          {
+            "definition": "持续地；坚持地",
+            "iscorrect": true
+          },
+          {
+            "definition": "有说服力地",
+            "iscorrect": false
+          },
+          {
+            "definition": "一致地",
+            "iscorrect": false
+          },
+          {
+            "definition": "永久地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

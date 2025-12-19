@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "backpack",
+      "error_analysis": "学生易因形近词“backyard”（后院）混淆，或因“back”（返回）与“pack”（包裹）的字面组合误判为“返回的包裹”。",
+      "sentence": "She put her laptop and books into the **backpack** before heading to school.",
+      "options": {
+        "option": [
+          {
+            "definition": "背包",
+            "iscorrect": true
+          },
+          {
+            "definition": "后院",
+            "iscorrect": false
+          },
+          {
+            "definition": "返回的包裹",
+            "iscorrect": false
+          },
+          {
+            "definition": "手提包",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

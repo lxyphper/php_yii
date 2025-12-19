@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ethical",
+      "error_analysis": "学生易混淆形近词\"ethnic\"(种族的)与\"ethical\"(道德的)，或误通过词根\"eth-\"联想为\"精神的\"而非\"道德的\"",
+      "sentence": "The company's decision to dump toxic waste in the river raised serious **ethical** concerns among the local community.",
+      "options": {
+        "option": [
+          {
+            "definition": "道德的",
+            "iscorrect": true
+          },
+          {
+            "definition": "种族的",
+            "iscorrect": false
+          },
+          {
+            "definition": "精神的",
+            "iscorrect": false
+          },
+          {
+            "definition": "经济的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

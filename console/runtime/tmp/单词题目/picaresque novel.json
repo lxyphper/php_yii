@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "picaresque novel",
+      "error_analysis": "学生易因形近词“picturesque”（风景如画的）混淆，或词根拆分错误，误将其理解为“写景小说”。",
+      "sentence": "Mark Twain's *Adventures of Huckleberry Finn* is a classic **picaresque novel** that traces a poor orphan's journey down the Mississippi River, where he meets colorful characters and exposes the hypocrisy of 19th-century American society.",
+      "options": {
+        "option": [
+          {
+            "definition": "写景小说（注重场景描写、画面感强的文学作品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "冒险小说（以主角经历危险事件为核心的小说）",
+            "iscorrect": false
+          },
+          {
+            "definition": "流浪汉小说（以下层人物为主角、多冒险经历的讽刺小说）",
+            "iscorrect": true
+          },
+          {
+            "definition": "传记小说（记录真实人物生平的纪实文学作品）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

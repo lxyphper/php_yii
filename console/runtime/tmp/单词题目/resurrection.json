@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "resurrection",
+      "error_analysis": "学生易因形近词“surge”（激增）猜测为“再次激增”，或因词根“rect”（正确）误解为“再次纠正”",
+      "sentence": "The story of Jesus' **resurrection** on Easter Sunday is a central belief in Christianity.",
+      "options": {
+        "option": [
+          {
+            "definition": "复活；死而复生",
+            "iscorrect": true
+          },
+          {
+            "definition": "再次激增；恢复增长",
+            "iscorrect": false
+          },
+          {
+            "definition": "再次纠正；恢复正确",
+            "iscorrect": false
+          },
+          {
+            "definition": "恢复原状；修复",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

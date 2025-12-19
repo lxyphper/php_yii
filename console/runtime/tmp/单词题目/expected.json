@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "expected",
+      "error_analysis": "易与形近词“excepted”（被除外的）混淆，或误将其仅理解为“期待的”（忽略客观“预计”的核心含义）",
+      "sentence": "The **expected** number of participants for the meeting is 50, so we need to prepare enough chairs.",
+      "options": {
+        "option": [
+          {
+            "definition": "预期的；预计的",
+            "iscorrect": true
+          },
+          {
+            "definition": "被除外的",
+            "iscorrect": false
+          },
+          {
+            "definition": "期待的；盼望的",
+            "iscorrect": false
+          },
+          {
+            "definition": "接受的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "scene",
+      "error_analysis": "混淆“scene”（场景、场面）与形近词“scenery”（风景、景色）或“seen”（看见的事物）的错误联想",
+      "sentence": "The police are still examining the **scene** of the robbery.",
+      "options": {
+        "option": [
+          {
+            "definition": "场景；场面",
+            "iscorrect": true
+          },
+          {
+            "definition": "风景；景色",
+            "iscorrect": false
+          },
+          {
+            "definition": "看见的事物",
+            "iscorrect": false
+          },
+          {
+            "definition": "舞台；戏台",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

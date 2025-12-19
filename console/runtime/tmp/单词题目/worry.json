@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "worry",
+      "error_analysis": "中国学生易因形近词（如sorry“抱歉”、hurry“匆忙”）的词形联想，将worry误判为“抱歉”或“匆忙”。",
+      "sentence": "She started to **worry** when her son didn't come home by 9 PM.",
+      "options": {
+        "option": [
+          {
+            "definition": "抱歉；对不起",
+            "iscorrect": false
+          },
+          {
+            "definition": "匆忙；急忙",
+            "iscorrect": false
+          },
+          {
+            "definition": "携带；搬运",
+            "iscorrect": false
+          },
+          {
+            "definition": "担心；担忧",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

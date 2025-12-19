@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to con",
+      "error_analysis": "学生易因形近词“connect”（连接）或“con”前缀的“共同”含义，误解“to con”为“连接”或“合作”。",
+      "sentence": "The old man was **conned** into lending money to a stranger who said he needed it for an emergency.",
+      "options": {
+        "option": [
+          {
+            "definition": "连接",
+            "iscorrect": false
+          },
+          {
+            "definition": "合作",
+            "iscorrect": false
+          },
+          {
+            "definition": "继续",
+            "iscorrect": false
+          },
+          {
+            "definition": "欺骗，诈骗",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "scientific",
+      "error_analysis": "学生易因形近词\"specific\"（具体的）或\"significant\"（重要的）混淆，或因词根\"science\"误导为\"与科学家相关的\"。",
+      "sentence": "The team used a **scientific** approach to test their hypothesis about plant growth.",
+      "options": {
+        "option": [
+          {
+            "definition": "科学的（与科学相关的；用科学方法的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "具体的（明确的，不笼统的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "重要的（有重大意义的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "与科学家相关的（涉及科学家的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

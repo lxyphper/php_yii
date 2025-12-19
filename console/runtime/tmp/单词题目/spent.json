@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "spent",
+      "error_analysis": "混淆形近词'sent'(发送)或误判为'spin'(旋转)的过去式",
+      "sentence": "She **spent** three hours practicing the piano yesterday.",
+      "options": {
+        "option": [
+          {
+            "definition": "花费（spend的过去式）；耗尽",
+            "iscorrect": true
+          },
+          {
+            "definition": "发送（send的过去式）",
+            "iscorrect": false
+          },
+          {
+            "definition": "旋转（spin的过去式）",
+            "iscorrect": false
+          },
+          {
+            "definition": "吐痰（spit的过去式）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

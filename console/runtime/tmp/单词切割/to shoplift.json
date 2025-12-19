@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "too shoplift",
+      "toshoplift",
+      "to shoplif",
+      "to shopleft",
+      "to soplift"
+    ],
+    "correct_chunks": [
+      "to",
+      "shop",
+      "lift"
+    ],
+    "distractor_chunks": [
+      "too",
+      "toshop",
+      "shopp",
+      "left",
+      "sop",
+      "lit"
+    ]
+  },
+  0
+]

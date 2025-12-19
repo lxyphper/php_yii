@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to negotiate",
+      "error_analysis": "形近词“neglect”（忽视）的干扰及词根“neg”（否定）的误导，易误判为“忽视”或“否定”",
+      "sentence": "The two companies will **negotiate** the price of the new product next week to reach a mutually beneficial agreement.",
+      "options": {
+        "option": [
+          {
+            "definition": "忽视；忽略",
+            "iscorrect": false
+          },
+          {
+            "definition": "否定；拒绝",
+            "iscorrect": false
+          },
+          {
+            "definition": "谈判；协商",
+            "iscorrect": true
+          },
+          {
+            "definition": "提名；推荐",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

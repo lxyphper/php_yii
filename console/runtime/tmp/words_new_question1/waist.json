@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "waist",
+      "error_analysis": "中国学生易将“waist”与形近词“waste”（浪费；废物）混淆，或误联想为“腰带”等相关物品",
+      "sentence": "She tied a scarf around her **waist** to keep warm on the cold walk.",
+      "options": {
+        "option": [
+          {
+            "definition": "腰，腰部",
+            "iscorrect": true
+          },
+          {
+            "definition": "浪费；废物",
+            "iscorrect": false
+          },
+          {
+            "definition": "腰带；皮带",
+            "iscorrect": false
+          },
+          {
+            "definition": "腕部；手腕",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "May",
+      "error_analysis": "学生易将“May”（五月）误判为“may”（情态动词“可能”），因二者拼写一致仅首字母大小写不同",
+      "sentence": "We usually plan a family trip in **May** because the flowers are in full bloom then.",
+      "options": {
+        "option": [
+          {
+            "definition": "五月（一年中的第五个月份）",
+            "iscorrect": true
+          },
+          {
+            "definition": "可能（表示推测的情态动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "梅（常见女子英文名）",
+            "iscorrect": false
+          },
+          {
+            "definition": "可以（表示许可的情态动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

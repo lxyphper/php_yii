@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to build",
+      "error_analysis": "中国学生易因形近词\"bully\"(欺负)或\"body build\"(体型)的名词义误导，误将动词\"to build\"理解为\"欺负\"或\"体型\"。",
+      "sentence": "The government plans to **build** a new community center for elderly people next year.",
+      "options": {
+        "option": [
+          {
+            "definition": "建造；建立",
+            "iscorrect": true
+          },
+          {
+            "definition": "欺负；恐吓",
+            "iscorrect": false
+          },
+          {
+            "definition": "体型；体格",
+            "iscorrect": false
+          },
+          {
+            "definition": "账单；清单",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

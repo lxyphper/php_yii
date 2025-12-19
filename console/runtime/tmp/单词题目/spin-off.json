@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "spin-off",
+      "error_analysis": "学生易根据\"spin\"(旋转)和\"off\"(离开)的字面意思，错误理解为\"旋转脱离\"或\"脱落\"，忽略其\"衍生产品/副产品\"的核心义。",
+      "sentence": "The hit movie led to a successful **spin-off** , a cartoon series featuring the film's most popular side character.",
+      "options": {
+        "option": [
+          {
+            "definition": "衍生产品；副产品",
+            "iscorrect": true
+          },
+          {
+            "definition": "旋转脱离；脱落",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速旋转；急转",
+            "iscorrect": false
+          },
+          {
+            "definition": "（时间）延长；拖延",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to study",
+      "error_analysis": "中国学生易因形近词“sturdy”（结实的）、“studio”（工作室）混淆“study”词义，或误理解为“调查”。",
+      "sentence": "She decided to **study** medicine at university to become a doctor.",
+      "options": {
+        "option": [
+          {
+            "definition": "学习；研究",
+            "iscorrect": true
+          },
+          {
+            "definition": "结实的",
+            "iscorrect": false
+          },
+          {
+            "definition": "调查",
+            "iscorrect": false
+          },
+          {
+            "definition": "工作室",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

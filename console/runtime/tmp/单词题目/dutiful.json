@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dutiful",
+      "error_analysis": "中国学生易因“duty”（责任）+“ful”词根误导，将“dutiful”错误理解为“有责任的”（responsible），或混淆其与“勤奋的”（diligent）的含义",
+      "sentence": "The **dutiful** nurse stayed late to care for the patient even after her shift ended.",
+      "options": {
+        "option": [
+          {
+            "definition": "有责任的",
+            "iscorrect": false
+          },
+          {
+            "definition": "尽职的；守本分的",
+            "iscorrect": true
+          },
+          {
+            "definition": "勤奋的",
+            "iscorrect": false
+          },
+          {
+            "definition": "义务性的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

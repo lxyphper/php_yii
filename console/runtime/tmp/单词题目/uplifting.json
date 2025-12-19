@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "uplifting",
+      "error_analysis": "易混淆形近词uprising（起义）及词根直译的“向上提升的”（物理意义），忽略其比喻义“令人振奋的”",
+      "sentence": "After a long week of hard work, listening to her favorite music felt really **uplifting** and made her smile again.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人振奋的；鼓舞人心的",
+            "iscorrect": true
+          },
+          {
+            "definition": "起义的；暴动的",
+            "iscorrect": false
+          },
+          {
+            "definition": "向上提升的（物理意义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人沮丧的；压抑的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

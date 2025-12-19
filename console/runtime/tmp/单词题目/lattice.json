@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lattice",
+      "error_analysis": "学生易因形近词“latitude”（纬度）产生混淆，或因词根猜测忽视其“格子结构”的核心义。",
+      "sentence": "The garden was enclosed by a wooden **lattice**, allowing climbing roses to weave through its gaps.",
+      "options": {
+        "option": [
+          {
+            "definition": "纬度（地球表面南北方向的距离度量）",
+            "iscorrect": false
+          },
+          {
+            "definition": "格子结构（如篱笆、框架等的网格状结构）",
+            "iscorrect": true
+          },
+          {
+            "definition": "放置物（用于存放物品的容器或支架）",
+            "iscorrect": false
+          },
+          {
+            "definition": "梯子（用于攀爬的阶梯状工具）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

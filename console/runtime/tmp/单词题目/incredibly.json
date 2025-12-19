@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "incredibly",
+      "error_analysis": "学生易因词根\"cred\"(相信)和否定前缀\"in-\"，错误理解为\"不可信地\"，或混淆形近词\"credibly\"(可信地)。",
+      "sentence": "The view from the top of the mountain was **incredibly** beautiful; everyone stopped to take photos.",
+      "options": {
+        "option": [
+          {
+            "definition": "极其，非常",
+            "iscorrect": true
+          },
+          {
+            "definition": "不可信地",
+            "iscorrect": false
+          },
+          {
+            "definition": "可信地",
+            "iscorrect": false
+          },
+          {
+            "definition": "惊讶地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

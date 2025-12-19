@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "histogram",
+      "error_analysis": "学生可能因词根“histo-”（组织）或形近词“history”（历史），错误将“histogram”理解为“生物组织图表”或“历史记录图”。",
+      "sentence": "The teacher showed us a **histogram** to illustrate how many students scored in each grade range on the math test.",
+      "options": {
+        "option": [
+          {
+            "definition": "生物组织切片观察图",
+            "iscorrect": false
+          },
+          {
+            "definition": "直方图（统计中用矩形表示数据分布的图表）",
+            "iscorrect": true
+          },
+          {
+            "definition": "历史事件时间线图表",
+            "iscorrect": false
+          },
+          {
+            "definition": "测量空气湿度的仪器",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

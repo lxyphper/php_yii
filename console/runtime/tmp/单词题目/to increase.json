@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to increase",
+      "error_analysis": "易与形近词\"decrease\"（减少）混淆，或误将数量/程度增加理解为质量\"改善\"（improve）",
+      "sentence": "The company plans to **increase** the number of employees by 20% next year to meet growing demand.",
+      "options": {
+        "option": [
+          {
+            "definition": "增加；提高（数量/程度）",
+            "iscorrect": true
+          },
+          {
+            "definition": "减少；降低（数量/程度）",
+            "iscorrect": false
+          },
+          {
+            "definition": "改善；改进（质量/状况）",
+            "iscorrect": false
+          },
+          {
+            "definition": "保持；维持（状态/水平）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

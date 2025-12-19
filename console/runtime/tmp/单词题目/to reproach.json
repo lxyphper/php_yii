@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to reproach",
+      "error_analysis": "学生易因形近词\"approach\"（接近）混淆词义，或通过词根\"re-\"+\"proach\"猜测为\"再次接近\"或\"反驳\"。",
+      "sentence": "She lowered her head when her mother **reproached** her for forgetting her grandmother's birthday.",
+      "options": {
+        "option": [
+          {
+            "definition": "责备，指责",
+            "iscorrect": true
+          },
+          {
+            "definition": "接近，靠近",
+            "iscorrect": false
+          },
+          {
+            "definition": "反驳，回嘴",
+            "iscorrect": false
+          },
+          {
+            "definition": "表扬，称赞",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

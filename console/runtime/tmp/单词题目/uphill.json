@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "uphill",
+      "error_analysis": "学生易因“up+hill”字面直译误以为是“山上的”，或与形近词“uphold”（支持）混淆，忽略其“艰难的”核心比喻义。",
+      "sentence": "Getting used to the new job has been an **uphill** struggle for her since she knows nothing about the industry.",
+      "options": {
+        "option": [
+          {
+            "definition": "（任务或斗争）艰难的；（路）上坡的",
+            "iscorrect": true
+          },
+          {
+            "definition": "支持；维持",
+            "iscorrect": false
+          },
+          {
+            "definition": "山上的；在山上的",
+            "iscorrect": false
+          },
+          {
+            "definition": "向下的；容易的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

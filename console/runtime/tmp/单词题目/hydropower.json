@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hydropower",
+      "error_analysis": "学生易将“hydro-”错误理解为“氢”而认为“hydropower”是“氢动力”，或与“液压动力”（hydraulic power）混淆。",
+      "sentence": "Many countries in Southeast Asia rely on **hydropower** from rivers like the Mekong to meet their electricity needs.",
+      "options": {
+        "option": [
+          {
+            "definition": "氢动力",
+            "iscorrect": false
+          },
+          {
+            "definition": "液压动力",
+            "iscorrect": false
+          },
+          {
+            "definition": "潮汐能",
+            "iscorrect": false
+          },
+          {
+            "definition": "水力发电（能）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

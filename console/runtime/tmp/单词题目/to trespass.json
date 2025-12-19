@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to trespass",
+      "error_analysis": "中国学生易因形近词“tread”（踩、踏）或词根“pass”（通过）的误导，将“trespass”错解为“踩、踏”或“通过”，忽略其“擅自进入他人土地”的核心义。",
+      "sentence": "The sign on the fence warned people not to **trespass** on the farmer's land, as he had set up cameras to catch intruders.",
+      "options": {
+        "option": [
+          {
+            "definition": "擅自进入（他人土地或财产）",
+            "iscorrect": true
+          },
+          {
+            "definition": "踩、踏（地面）",
+            "iscorrect": false
+          },
+          {
+            "definition": "通过、经过（某处）",
+            "iscorrect": false
+          },
+          {
+            "definition": "违反（法律或规则）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

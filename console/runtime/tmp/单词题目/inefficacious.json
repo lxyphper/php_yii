@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "inefficacious",
+      "error_analysis": "学生易将\"inefficacious\"与形近词\"inefficient\"（效率低的）混淆，或通过词根误判为\"无能力的\"。",
+      "sentence": "The new drug was found to be **inefficacious** in treating the disease, as most patients showed no improvement after a month of use.",
+      "options": {
+        "option": [
+          {
+            "definition": "效率低的（not working in a way that saves time or energy）",
+            "iscorrect": false
+          },
+          {
+            "definition": "无能力的（lacking the ability to do something）",
+            "iscorrect": false
+          },
+          {
+            "definition": "不持久的（not lasting for a long time）",
+            "iscorrect": false
+          },
+          {
+            "definition": "无效的（not producing the desired effect）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

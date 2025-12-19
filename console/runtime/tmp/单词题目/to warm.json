@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to warm",
+      "error_analysis": "因拼写与基础词\"warn\"（警告）仅差一字，学生易将\"to warm\"（使变暖）混淆为\"警告\"。",
+      "sentence": "Please **warm** the soup before serving it to the guests.",
+      "options": {
+        "option": [
+          {
+            "definition": "使变暖；加热",
+            "iscorrect": true
+          },
+          {
+            "definition": "警告；提醒",
+            "iscorrect": false
+          },
+          {
+            "definition": "变得温暖；升温",
+            "iscorrect": false
+          },
+          {
+            "definition": "喜欢上；对…产生好感",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

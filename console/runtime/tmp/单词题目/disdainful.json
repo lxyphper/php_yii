@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "disdainful",
+      "error_analysis": "学生易因形近词`dainty`（精致的）及词根`dis-`（否定），误将`disdainful`理解为“不精致的”或“不关心的”。",
+      "sentence": "She gave a **disdainful** look at the cheap gift and put it aside without saying a word.",
+      "options": {
+        "option": [
+          {
+            "definition": "鄙视的；轻蔑的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不精致的；粗糙的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不关心的；冷漠的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人厌恶的；恶心的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

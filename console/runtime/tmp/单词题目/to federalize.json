@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to federalize",
+      "error_analysis": "学生易混淆形近词“fertilize”（使肥沃），或因词根“federal”过度直译误判为“使联邦政府加强权力”",
+      "sentence": "After the civil war, the government decided to **federalize** the previously autonomous provinces to maintain national unity.",
+      "options": {
+        "option": [
+          {
+            "definition": "使肥沃；给...施肥",
+            "iscorrect": false
+          },
+          {
+            "definition": "使联邦政府加强权力",
+            "iscorrect": false
+          },
+          {
+            "definition": "使联邦化；将...纳入联邦体制",
+            "iscorrect": true
+          },
+          {
+            "definition": "分裂成独立的州",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

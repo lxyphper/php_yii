@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "shingle",
+      "error_analysis": "学生易因形近词\"single\"（单一的）误将\"shingle\"理解为\"单一的\"或相关含义",
+      "sentence": "The old cottage had a roof covered with weathered **shingles** that clattered in the wind.",
+      "options": {
+        "option": [
+          {
+            "definition": "木瓦；屋顶板",
+            "iscorrect": true
+          },
+          {
+            "definition": "单一的；单独的",
+            "iscorrect": false
+          },
+          {
+            "definition": "洗发水",
+            "iscorrect": false
+          },
+          {
+            "definition": "小腿",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

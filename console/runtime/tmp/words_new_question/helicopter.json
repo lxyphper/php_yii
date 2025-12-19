@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "helicopter",
+      "error_analysis": "学生易因词根“heli-”（太阳）和拆分“cop”（警察）错误联想，将“helicopter”误解为与太阳或警察相关的设备。",
+      "sentence": "The rescue team used a **helicopter** to lift the injured hiker from the steep mountain.",
+      "options": {
+        "option": [
+          {
+            "definition": "直升机",
+            "iscorrect": true
+          },
+          {
+            "definition": "太阳能发电站",
+            "iscorrect": false
+          },
+          {
+            "definition": "警察巡逻车",
+            "iscorrect": false
+          },
+          {
+            "definition": "手工艺品",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

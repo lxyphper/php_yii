@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to reform",
+      "error_analysis": "易混淆形近词\"perform\"(表演/执行)，或因词根\"form\"误判为\"重新形成/变形\"",
+      "sentence": "The government plans to **reform** the healthcare system to make it more accessible to everyone.",
+      "options": {
+        "option": [
+          {
+            "definition": "改革；改良",
+            "iscorrect": true
+          },
+          {
+            "definition": "表演；执行",
+            "iscorrect": false
+          },
+          {
+            "definition": "重新形成；变形",
+            "iscorrect": false
+          },
+          {
+            "definition": "恢复；修复",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

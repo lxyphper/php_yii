@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rashly",
+      "error_analysis": "学生易将“rashly”与形近词“rush”（匆忙）混淆，或误将“rash”（皮疹）的名词义延伸为“皮疹相关地”。",
+      "sentence": "He invested all his savings in that risky project **rashly**, without checking any details.",
+      "options": {
+        "option": [
+          {
+            "definition": "鲁莽地；轻率地",
+            "iscorrect": true
+          },
+          {
+            "definition": "匆忙地",
+            "iscorrect": false
+          },
+          {
+            "definition": "皮疹相关地",
+            "iscorrect": false
+          },
+          {
+            "definition": "糟糕地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

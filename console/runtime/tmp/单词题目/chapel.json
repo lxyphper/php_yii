@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "chapel",
+      "error_analysis": "学生易因形近词\"chapter\"（章节）混淆，或误猜为与\"cap\"（帽子）相关的场所",
+      "sentence": "The wedding ceremony will be held in the small **chapel** near the village.",
+      "options": {
+        "option": [
+          {
+            "definition": "小教堂；礼拜堂",
+            "iscorrect": true
+          },
+          {
+            "definition": "章节；篇章",
+            "iscorrect": false
+          },
+          {
+            "definition": "帽子店；制帽厂",
+            "iscorrect": false
+          },
+          {
+            "definition": "咖啡馆；小餐馆",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

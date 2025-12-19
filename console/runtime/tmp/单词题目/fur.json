@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fur",
+      "error_analysis": "学生易因形近词“far”（远的）的拼写与发音混淆，将“fur”错误理解为距离相关含义",
+      "sentence": "She wore a warm coat made of **fur** to keep out the cold.",
+      "options": {
+        "option": [
+          {
+            "definition": "远的",
+            "iscorrect": false
+          },
+          {
+            "definition": "头发",
+            "iscorrect": false
+          },
+          {
+            "definition": "羽毛",
+            "iscorrect": false
+          },
+          {
+            "definition": "毛皮；动物的毛",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

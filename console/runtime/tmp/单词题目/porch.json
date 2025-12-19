@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "porch",
+      "error_analysis": "将\"porch\"误判为形近词\"pork\"(猪肉)，或因词根联想错误猜测为\"港口\"(port)相关含义。",
+      "sentence": "The family often gathers on the **porch** to enjoy morning tea and watch the sunrise over the garden.",
+      "options": {
+        "option": [
+          {
+            "definition": "猪肉",
+            "iscorrect": false
+          },
+          {
+            "definition": "港口",
+            "iscorrect": false
+          },
+          {
+            "definition": "门廊；走廊",
+            "iscorrect": true
+          },
+          {
+            "definition": "鲈鱼",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

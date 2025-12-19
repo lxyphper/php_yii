@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "brick",
+      "error_analysis": "中国学生易将“brick”与形近词“break”（打破）或音近词“click”（点击）混淆，误判词义。",
+      "sentence": "The workers used a **brick** to build the wall of the new house.",
+      "options": {
+        "option": [
+          {
+            "definition": "砖；砖块（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "打破；破裂（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "点击；咔嗒声（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "诡计；花招（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

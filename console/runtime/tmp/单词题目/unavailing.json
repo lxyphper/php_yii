@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unavailing",
+      "error_analysis": "学生易因形近词“unavailable”（不可用的）或词根“avail”（有用）的误导，将“unavailing”误判为“不可用的”或“无价值的”。",
+      "sentence": "Despite their repeated requests, the team's attempts to change the decision proved **unavailing**.",
+      "options": {
+        "option": [
+          {
+            "definition": "不可用的；无法获得的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无价值的；没用的",
+            "iscorrect": false
+          },
+          {
+            "definition": "徒劳的；无效的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不可避免的；必然的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "affable",
+      "error_analysis": "学生易因形近词\"fable\"（寓言）误解为\"虚构的\"，或因词根\"af-\"（affect）误判为\"有影响的\"",
+      "sentence": "The new neighbor was so **affable** that he invited everyone on the street to his housewarming party.",
+      "options": {
+        "option": [
+          {
+            "definition": "和蔼可亲的；友好的",
+            "iscorrect": true
+          },
+          {
+            "definition": "寓言的；虚构的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有影响的；感人的",
+            "iscorrect": false
+          },
+          {
+            "definition": "健谈的；爱说话的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

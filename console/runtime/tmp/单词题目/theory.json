@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "theory",
+      "error_analysis": "学生易混淆形近词“therapy”（治疗）或误将“theory”等同于“假设”，忽略其“系统学说”的核心义。",
+      "sentence": "Scientists use the **theory** of evolution to explain how species change over time.",
+      "options": {
+        "option": [
+          {
+            "definition": "理论；学说",
+            "iscorrect": true
+          },
+          {
+            "definition": "治疗；疗法",
+            "iscorrect": false
+          },
+          {
+            "definition": "假设；假说",
+            "iscorrect": false
+          },
+          {
+            "definition": "事实；真相",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

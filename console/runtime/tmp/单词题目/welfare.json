@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "welfare",
+      "error_analysis": "中国学生易因形近词“warfare”（战争）或词根拆分“well”（好）+“fare”（费用）误将“welfare”理解为“战争”或“健康费用”",
+      "sentence": "The government has launched a new program to improve the **welfare** of low-income families.",
+      "options": {
+        "option": [
+          {
+            "definition": "福利；福祉（指个人或群体的幸福、健康等状况）",
+            "iscorrect": true
+          },
+          {
+            "definition": "战争（如军事冲突）",
+            "iscorrect": false
+          },
+          {
+            "definition": "健康费用（如医疗或健身开支）",
+            "iscorrect": false
+          },
+          {
+            "definition": "日常饮食（如每日的食物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

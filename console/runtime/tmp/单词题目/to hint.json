@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to hint",
+      "error_analysis": "学生易将\"to hint\"与形近词\"to hit\"（击打）或\"to hunt\"（寻找）混淆，错误理解为\"击打\"或\"寻找\"。",
+      "sentence": "She didn’t say she was tired directly, but she **hinted** at it by yawning repeatedly.",
+      "options": {
+        "option": [
+          {
+            "definition": "暗示；示意",
+            "iscorrect": true
+          },
+          {
+            "definition": "击打；撞击",
+            "iscorrect": false
+          },
+          {
+            "definition": "寻找；搜寻",
+            "iscorrect": false
+          },
+          {
+            "definition": "指向；指出",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

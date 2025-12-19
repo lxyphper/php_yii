@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stalagmite",
+      "error_analysis": "中国学生易将\"stalagmite\"与形近词\"stalactite\"（钟乳石）混淆，误判为\"从洞穴顶部垂下的结构\"",
+      "sentence": "In the cave, we saw a tall **stalagmite** rising from the floor, its pointed top almost touching the stalactite hanging from the ceiling.",
+      "options": {
+        "option": [
+          {
+            "definition": "石笋（从洞穴底部向上生长的碳酸钙沉积物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "钟乳石（从洞穴顶部向下垂的碳酸钙沉积物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "站立的小型生物（如螨虫）",
+            "iscorrect": false
+          },
+          {
+            "definition": "洞穴中的水平岩石层",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

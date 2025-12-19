@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to notice",
+      "error_analysis": "学生易因形近词\"notify\"(通知)或词根\"note\"(笔记)干扰，将\"to notice\"误理解为\"通知\"或\"记录\"。",
+      "sentence": "When I walked into the room, I immediately **noticed** a strange smell coming from the corner.",
+      "options": {
+        "option": [
+          {
+            "definition": "注意到；察觉到",
+            "iscorrect": true
+          },
+          {
+            "definition": "通知（某人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "记录；做笔记",
+            "iscorrect": false
+          },
+          {
+            "definition": "记住；牢记",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

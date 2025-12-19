@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "heat",
+      "error_analysis": "易因形近词\"hear\"(听)或发音接近的\"hit\"(打)、\"eat\"(吃)产生错误理解",
+      "sentence": "The sun gives off a lot of **heat**, which makes the earth warm and suitable for life.",
+      "options": {
+        "option": [
+          {
+            "definition": "热；热量",
+            "iscorrect": true
+          },
+          {
+            "definition": "听；听见",
+            "iscorrect": false
+          },
+          {
+            "definition": "打；击中",
+            "iscorrect": false
+          },
+          {
+            "definition": "吃；进食",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

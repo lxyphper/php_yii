@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to misunderstand",
+      "error_analysis": "学生易将“mis-”前缀误理解为“不”，从而把“misunderstand”错解为“不理解”，或忽略“mis-”直接当成“理解”。",
+      "sentence": "I think you **misunderstood** my point—I wasn’t criticizing you, just giving advice.",
+      "options": {
+        "option": [
+          {
+            "definition": "理解",
+            "iscorrect": false
+          },
+          {
+            "definition": "不理解",
+            "iscorrect": false
+          },
+          {
+            "definition": "误解",
+            "iscorrect": true
+          },
+          {
+            "definition": "误导",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

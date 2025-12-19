@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to trample",
+      "error_analysis": "中国学生易因形近词“temple”（寺庙）的拼写相似或词根“-ample”（充足的）的误导而误判词义",
+      "sentence": "The crowd accidentally **trampled** the flowers while rushing to the stage.",
+      "options": {
+        "option": [
+          {
+            "definition": "寺庙；神殿",
+            "iscorrect": false
+          },
+          {
+            "definition": "充足的；大量的",
+            "iscorrect": false
+          },
+          {
+            "definition": "流浪；漂泊",
+            "iscorrect": false
+          },
+          {
+            "definition": "践踏；踩坏",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

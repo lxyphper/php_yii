@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to copy",
+      "error_analysis": "易混淆形近词\"cope\"(处理)的含义，或误从\"copy\"的字面联想为\"覆盖\"(如\"cover\"的形近误导)",
+      "sentence": "The teacher asked the students to **copy** the new words into their notebooks.",
+      "options": {
+        "option": [
+          {
+            "definition": "复制；模仿",
+            "iscorrect": true
+          },
+          {
+            "definition": "处理；应对",
+            "iscorrect": false
+          },
+          {
+            "definition": "覆盖；遮盖",
+            "iscorrect": false
+          },
+          {
+            "definition": "创造；发明",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

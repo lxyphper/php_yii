@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "glacial",
+      "error_analysis": "学生易将\"glacial\"与形近词\"glance\"（一瞥）或\"facial\"（面部的）混淆，或因词根\"glac-\"（冰）仅理解为\"冰川的\"而忽略比喻义\"冰冷的\"。",
+      "sentence": "Her **glacial** stare made everyone in the room feel uncomfortable.",
+      "options": {
+        "option": [
+          {
+            "definition": "冰冷的（态度或气氛）",
+            "iscorrect": true
+          },
+          {
+            "definition": "一瞥的；快速的",
+            "iscorrect": false
+          },
+          {
+            "definition": "冰川的（自然冰川的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "面部的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

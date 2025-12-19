@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to depreciate",
+      "error_analysis": "易混淆形近词appreciate（升值）的反义，或误将depreciate理解为deprecate（反对）的含义",
+      "sentence": "The company's assets began to **depreciate** rapidly after the market crash.",
+      "options": {
+        "option": [
+          {
+            "definition": "（货币、资产等）贬值；价值下降",
+            "iscorrect": true
+          },
+          {
+            "definition": "（货币、资产等）升值",
+            "iscorrect": false
+          },
+          {
+            "definition": "反对；不赞成",
+            "iscorrect": false
+          },
+          {
+            "definition": "贬低某人的贡献",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

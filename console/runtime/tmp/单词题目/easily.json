@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "easily",
+      "error_analysis": "学生易因形近词“early”（早地）的拼写相似或词根“easy”过度联想为“简单地”而误判“easily”的含义。",
+      "sentence": "She finished the math problem **easily** without any help.",
+      "options": {
+        "option": [
+          {
+            "definition": "容易地；轻易地",
+            "iscorrect": true
+          },
+          {
+            "definition": "早地；提早地",
+            "iscorrect": false
+          },
+          {
+            "definition": "简单地；仅仅",
+            "iscorrect": false
+          },
+          {
+            "definition": "急切地；渴望地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

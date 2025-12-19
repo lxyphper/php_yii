@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "proud",
+      "error_analysis": "学生易因形近词‘prove’（证明）或‘loud’（大声的）产生联想，或误将‘proud’与名词‘pride’（骄傲）的词义混淆。",
+      "sentence": "She felt **proud** of her son for winning the school's math competition.",
+      "options": {
+        "option": [
+          {
+            "definition": "证明的",
+            "iscorrect": false
+          },
+          {
+            "definition": "自豪的",
+            "iscorrect": true
+          },
+          {
+            "definition": "大声的",
+            "iscorrect": false
+          },
+          {
+            "definition": "骄傲（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to interrogate",
+      "error_analysis": "学生易因形近词\"interview\"(面试)混淆，或因词根\"rog\"(问)误判为\"一般询问\"而非\"审问\"",
+      "sentence": "The police decided to **interrogate** the suspect for six hours to get to the truth.",
+      "options": {
+        "option": [
+          {
+            "definition": "审问，讯问",
+            "iscorrect": true
+          },
+          {
+            "definition": "面试，访谈",
+            "iscorrect": false
+          },
+          {
+            "definition": "询问，打听",
+            "iscorrect": false
+          },
+          {
+            "definition": "整合，合并",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

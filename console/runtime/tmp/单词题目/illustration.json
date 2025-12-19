@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "illustration",
+      "error_analysis": "学生易因形近词\"illusion\"(幻觉)产生混淆，或因\"ill-\"前缀误导认为与\"坏的\"相关，从而错误理解词义。",
+      "sentence": "The children's book is full of **illustrations** that make the stories more engaging.",
+      "options": {
+        "option": [
+          {
+            "definition": "插图；用例子/图画说明",
+            "iscorrect": true
+          },
+          {
+            "definition": "幻觉；错觉",
+            "iscorrect": false
+          },
+          {
+            "definition": "坏的说明；错误的解释",
+            "iscorrect": false
+          },
+          {
+            "definition": "详细的解释；全面的说明",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dainty",
+      "error_analysis": "学生易因形近词“daily”（日常的）误将“dainty”理解为“日常的”，或因字面猜测误认为其表示“危险的”",
+      "sentence": "She bought a **dainty** necklace with a tiny pearl for her daughter’s birthday.",
+      "options": {
+        "option": [
+          {
+            "definition": "日常的",
+            "iscorrect": false
+          },
+          {
+            "definition": "危险的",
+            "iscorrect": false
+          },
+          {
+            "definition": "粗糙的",
+            "iscorrect": false
+          },
+          {
+            "definition": "精致的；小巧可爱的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

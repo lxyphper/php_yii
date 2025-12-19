@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tail",
+      "error_analysis": "学生易因同音形近词“tale”（故事）或形近词“tall”（高的）混淆，误判“tail”的词义",
+      "sentence": "The cat waved its **tail** happily when it saw the fish.",
+      "options": {
+        "option": [
+          {
+            "definition": "尾巴",
+            "iscorrect": true
+          },
+          {
+            "definition": "故事",
+            "iscorrect": false
+          },
+          {
+            "definition": "高的",
+            "iscorrect": false
+          },
+          {
+            "definition": "瓷砖",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "location",
+      "error_analysis": "学生易因形近词“local”（本地的）将“location”误解为“本地情况”，或因词根“loc-”错误推导为“定位的动作”",
+      "sentence": "The app uses GPS to find the exact **location** of your lost phone.",
+      "options": {
+        "option": [
+          {
+            "definition": "位置（the place where something is）",
+            "iscorrect": true
+          },
+          {
+            "definition": "本地情况（the state of being local or native）",
+            "iscorrect": false
+          },
+          {
+            "definition": "定位的动作（the act of finding the position of something）",
+            "iscorrect": false
+          },
+          {
+            "definition": "方向（the way in which something moves or points）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "impatient",
+      "error_analysis": "学生易因形近词“important”（重要的）混淆，或因“patient”作“病人”的名词义误解为“没有病人的”。",
+      "sentence": "She became **impatient** waiting for the bus and decided to walk instead.",
+      "options": {
+        "option": [
+          {
+            "definition": "重要的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不耐烦的；急躁的",
+            "iscorrect": true
+          },
+          {
+            "definition": "没有病人的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不礼貌的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

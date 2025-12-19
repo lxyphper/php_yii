@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "design",
+      "error_analysis": "学生易因形近词\"desire\"（欲望）混淆，或因词根\"sign\"（符号）误判为\"签署\"。",
+      "sentence": "The architect spent months working to **design** a new library that combines modern style with historical elements.",
+      "options": {
+        "option": [
+          {
+            "definition": "设计；构思",
+            "iscorrect": true
+          },
+          {
+            "definition": "欲望；渴望",
+            "iscorrect": false
+          },
+          {
+            "definition": "签署；签名",
+            "iscorrect": false
+          },
+          {
+            "definition": "描述；描绘",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

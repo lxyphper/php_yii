@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "strangely",
+      "error_analysis": "中国学生易因形近词混淆将'strangely'误判为'strongly'（强烈地），或误释为'陌生地'（字面关联'stranger'）。",
+      "sentence": "She looked at me **strangely** when I told her I'd never eaten pizza before.",
+      "options": {
+        "option": [
+          {
+            "definition": "强烈地",
+            "iscorrect": false
+          },
+          {
+            "definition": "陌生地",
+            "iscorrect": false
+          },
+          {
+            "definition": "奇怪地",
+            "iscorrect": true
+          },
+          {
+            "definition": "严肃地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

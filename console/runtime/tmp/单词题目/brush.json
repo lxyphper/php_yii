@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "brush",
+      "error_analysis": "学生易混淆形近词‘bush’（灌木）及误将‘brush’联想为‘复习’（来自短语‘brush up’）",
+      "sentence": "She took a small **brush** to apply makeup on her face.",
+      "options": {
+        "option": [
+          {
+            "definition": "刷子",
+            "iscorrect": true
+          },
+          {
+            "definition": "灌木",
+            "iscorrect": false
+          },
+          {
+            "definition": "复习",
+            "iscorrect": false
+          },
+          {
+            "definition": "打击",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

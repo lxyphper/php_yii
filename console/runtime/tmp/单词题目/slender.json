@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "slender",
+      "error_analysis": "中国学生易因形近词'tender'(温柔的)、'sender'(发送者)或词根拆分猜测为'贷款人'(lender)而误解'slender'的核心义。",
+      "sentence": "She has a **slender** figure that makes her look elegant in that dress.",
+      "options": {
+        "option": [
+          {
+            "definition": "苗条的；纤细的",
+            "iscorrect": true
+          },
+          {
+            "definition": "温柔的",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻微的",
+            "iscorrect": false
+          },
+          {
+            "definition": "贷款人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

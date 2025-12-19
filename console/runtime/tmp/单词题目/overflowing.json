@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "overflowing",
+      "error_analysis": "易混淆形近词overlooking（忽视）或词根直译“过度流动”，忽略其“充满的”核心义",
+      "sentence": "The café was **overflowing** with customers on the weekend, so we had to wait for a table.",
+      "options": {
+        "option": [
+          {
+            "definition": "充满的；溢出的",
+            "iscorrect": true
+          },
+          {
+            "definition": "忽视的；俯瞰的",
+            "iscorrect": false
+          },
+          {
+            "definition": "过度流动的；泛滥的",
+            "iscorrect": false
+          },
+          {
+            "definition": "压倒性的；难以应对的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

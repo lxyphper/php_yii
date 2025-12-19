@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "politician",
+      "error_analysis": "中国学生易将politician与形近词physician（医生）混淆，或因词根polit-误判为“政策专家”。",
+      "sentence": "The local **politician** promised to improve public transportation during his campaign speech.",
+      "options": {
+        "option": [
+          {
+            "definition": "医生",
+            "iscorrect": false
+          },
+          {
+            "definition": "政策专家",
+            "iscorrect": false
+          },
+          {
+            "definition": "政客；政治家",
+            "iscorrect": true
+          },
+          {
+            "definition": "音乐家",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "bionformatics",
+      "bioinfomatics",
+      "byoinformatics",
+      "bioinfromatics",
+      "bioinformatiks"
+    ],
+    "correct_chunks": [
+      "bio",
+      "info",
+      "rmatics"
+    ],
+    "distractor_chunks": [
+      "bion",
+      "infro",
+      "byo",
+      "infomat",
+      "rmatiks"
+    ]
+  },
+  0
+]

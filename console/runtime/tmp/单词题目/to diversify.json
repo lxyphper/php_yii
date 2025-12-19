@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to diversify",
+      "error_analysis": "中国学生易因形近词“divert”（转移）或词根误导（与“divide”混淆）将“to diversify”误理解为“转移”或“分开”。",
+      "sentence": "To reduce risk, the company decided to **diversify** its product line by adding eco-friendly items.",
+      "options": {
+        "option": [
+          {
+            "definition": "使多样化",
+            "iscorrect": true
+          },
+          {
+            "definition": "转移（注意力、方向）",
+            "iscorrect": false
+          },
+          {
+            "definition": "分开；分裂",
+            "iscorrect": false
+          },
+          {
+            "definition": "验证；证实",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

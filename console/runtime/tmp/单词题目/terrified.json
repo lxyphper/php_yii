@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "terrified",
+      "error_analysis": "中国学生易将\"terrified\"（人感到极度恐惧的）误判为\"可怕的\"（形容事物，形近词\"terrible\"干扰）或\"引起恐惧的\"（词根\"terr-\"的主动义混淆）。",
+      "sentence": "When the thunderstorm struck suddenly, the little girl looked **terrified** and tightly held her mother's hand.",
+      "options": {
+        "option": [
+          {
+            "definition": "感到极度害怕的",
+            "iscorrect": true
+          },
+          {
+            "definition": "可怕的",
+            "iscorrect": false
+          },
+          {
+            "definition": "引起恐惧的",
+            "iscorrect": false
+          },
+          {
+            "definition": "困惑的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

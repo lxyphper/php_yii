@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "goal-oriented",
+      "error_analysis": "学生易因词根字面误导将\"goal-oriented\"误解为\"有很多目标的\"，或因\"oriented\"与\"originated\"形近误判为\"起源于目标的\"",
+      "sentence": "As a **goal-oriented** manager, she always prioritizes tasks that directly contribute to meeting the team's quarterly targets.",
+      "options": {
+        "option": [
+          {
+            "definition": "以目标为导向的；注重实现目标的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有很多目标的",
+            "iscorrect": false
+          },
+          {
+            "definition": "起源于目标的",
+            "iscorrect": false
+          },
+          {
+            "definition": "与目标本身相关的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

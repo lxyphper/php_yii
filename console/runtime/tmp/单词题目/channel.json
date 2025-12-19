@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "channel",
+      "error_analysis": "学生易因形近词\"challenge\"(挑战)的拼写相似，或与\"chance\"(机会)的拼写相近而误判\"channel\"的含义",
+      "sentence": "We usually watch the news on the local TV **channel** every evening.",
+      "options": {
+        "option": [
+          {
+            "definition": "挑战",
+            "iscorrect": false
+          },
+          {
+            "definition": "机会",
+            "iscorrect": false
+          },
+          {
+            "definition": "频道",
+            "iscorrect": true
+          },
+          {
+            "definition": "房间",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

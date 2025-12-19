@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to desire",
+      "error_analysis": "学生易因形近词“deserve”（应得）或“desert”（动词，抛弃）的拼写相似，将“to desire”误判为“应得”或“抛弃”。",
+      "sentence": "The little girl **desires** a new doll for her birthday.",
+      "options": {
+        "option": [
+          {
+            "definition": "渴望；想要",
+            "iscorrect": true
+          },
+          {
+            "definition": "应得",
+            "iscorrect": false
+          },
+          {
+            "definition": "抛弃",
+            "iscorrect": false
+          },
+          {
+            "definition": "绝望",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

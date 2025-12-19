@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to wriggle",
+      "error_analysis": "学生易因“wr”形近“write”（写作）或联想“wrap”（缠绕）而误解“wriggle”为“写作”或“缠绕”",
+      "sentence": "The little boy **wriggled** in his seat because he couldn’t sit still.",
+      "options": {
+        "option": [
+          {
+            "definition": "写作",
+            "iscorrect": false
+          },
+          {
+            "definition": "蠕动，扭动",
+            "iscorrect": true
+          },
+          {
+            "definition": "缠绕",
+            "iscorrect": false
+          },
+          {
+            "definition": "笑",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

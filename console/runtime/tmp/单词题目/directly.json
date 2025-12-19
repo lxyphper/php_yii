@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "directly",
+      "error_analysis": "学生易因形近词“direct”（形容词“直接的”）干扰，误选形容词义项；或因词根过度直译，将“directly”误理解为“正确地”。",
+      "sentence": "She told me **directly** that she didn't like the gift.",
+      "options": {
+        "option": [
+          {
+            "definition": "直接地（副词，修饰动作方式）",
+            "iscorrect": true
+          },
+          {
+            "definition": "直接的（形容词，修饰名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "正确地（表示动作的准确性）",
+            "iscorrect": false
+          },
+          {
+            "definition": "立即（表示时间的紧迫性）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

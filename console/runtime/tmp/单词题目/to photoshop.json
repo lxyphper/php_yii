@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to photoshop",
+      "error_analysis": "学生易因\"photo\"（照片）和\"shop\"（商店）的字面组合，将\"to photoshop\"误解为\"在照片店买照片\"，或因形近词\"photo\"混淆为\"拍摄照片\"。",
+      "sentence": "She plans to **photoshop** her vacation photo to crop out the stranger in the background.",
+      "options": {
+        "option": [
+          {
+            "definition": "用Photoshop软件编辑（修图）",
+            "iscorrect": true
+          },
+          {
+            "definition": "拍摄照片",
+            "iscorrect": false
+          },
+          {
+            "definition": "在照片店购买照片",
+            "iscorrect": false
+          },
+          {
+            "definition": "整理照片文件夹",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

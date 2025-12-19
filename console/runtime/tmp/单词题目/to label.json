@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to label",
+      "error_analysis": "学生易因形近词“table”（桌子）将“to label”误理解为“把…放在桌子上”，或因名词“label”（标签）的字面含义误理解为“写标签”。",
+      "sentence": "Before sending the package, please **label** it with the recipient's name and address.",
+      "options": {
+        "option": [
+          {
+            "definition": "贴标签于；标明",
+            "iscorrect": true
+          },
+          {
+            "definition": "把…放在桌子上",
+            "iscorrect": false
+          },
+          {
+            "definition": "写一张标签",
+            "iscorrect": false
+          },
+          {
+            "definition": "为…劳动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

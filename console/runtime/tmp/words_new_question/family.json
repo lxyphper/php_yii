@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "family",
+      "error_analysis": "中国学生易因形近词\"familiar\"（熟悉的）干扰，将\"family\"误理解为\"熟悉的\"。",
+      "sentence": "She spends every Sunday afternoon with her **family** at the park.",
+      "options": {
+        "option": [
+          {
+            "definition": "家庭；家人",
+            "iscorrect": true
+          },
+          {
+            "definition": "熟悉的",
+            "iscorrect": false
+          },
+          {
+            "definition": "农场",
+            "iscorrect": false
+          },
+          {
+            "definition": "家庭的（形容词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "periodically",
+      "error_analysis": "学生易因词根“period”（时期）误将“periodically”理解为“暂时地”，或因形近混淆“permanently”（永久地）。",
+      "sentence": "The library updates its book collection **periodically** to ensure readers have access to the latest publications.",
+      "options": {
+        "option": [
+          {
+            "definition": "周期性地；定期地",
+            "iscorrect": true
+          },
+          {
+            "definition": "永久地；持久地",
+            "iscorrect": false
+          },
+          {
+            "definition": "暂时地；临时地",
+            "iscorrect": false
+          },
+          {
+            "definition": "偶尔地；间或地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

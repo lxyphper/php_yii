@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rainfall",
+      "error_analysis": "学生易因\"fall\"的多义性（秋天/落下），将\"rainfall\"误理解为\"秋雨\"或\"雨落的动作\"，而非抽象的\"降雨量\"。",
+      "sentence": "The average **rainfall** in this city is 1200 millimeters per year, making it one of the wettest places in the country.",
+      "options": {
+        "option": [
+          {
+            "definition": "降雨量；（某一地区一定时间内的）降雨总量",
+            "iscorrect": true
+          },
+          {
+            "definition": "秋雨（autumn rain）",
+            "iscorrect": false
+          },
+          {
+            "definition": "雨从天空落下的动作或过程",
+            "iscorrect": false
+          },
+          {
+            "definition": "多雨的天气（rainy weather）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

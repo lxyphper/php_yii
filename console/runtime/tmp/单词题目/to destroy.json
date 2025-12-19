@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to destroy",
+      "error_analysis": "学生易因形近词（如disturb“打扰”）或词根字面联想（de-+story）错误理解为“打扰”或“破坏故事”",
+      "sentence": "The earthquake **destroyed** the entire village, leaving nothing but ruins.",
+      "options": {
+        "option": [
+          {
+            "definition": "摧毁；毁灭",
+            "iscorrect": true
+          },
+          {
+            "definition": "打扰；干扰",
+            "iscorrect": false
+          },
+          {
+            "definition": "破坏故事；取消故事",
+            "iscorrect": false
+          },
+          {
+            "definition": "渴望；想要",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

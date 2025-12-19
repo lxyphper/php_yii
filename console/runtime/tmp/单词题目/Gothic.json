@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Gothic",
+      "error_analysis": "学生易因形近词\"ghost\"（鬼魂）将\"Gothic\"误解为\"鬼魂的\"，或因词根\"Goth\"（哥特人）误判为\"哥特人的\"",
+      "sentence": "The cathedral is famous for its **Gothic** arches and stained glass windows.",
+      "options": {
+        "option": [
+          {
+            "definition": "哥特式的（建筑、文学等）；哥特风格的（神秘、恐怖、黑暗）",
+            "iscorrect": true
+          },
+          {
+            "definition": "鬼魂的；幽灵般的",
+            "iscorrect": false
+          },
+          {
+            "definition": "哥特人的；属于哥特民族的",
+            "iscorrect": false
+          },
+          {
+            "definition": "华丽的；绚丽的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

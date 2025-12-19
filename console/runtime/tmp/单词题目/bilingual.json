@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bilingual",
+      "error_analysis": "中国学生易因形近词‘bilateral’（双边的）或词根过度推导将‘bilingual’误判为‘两种文化的’。",
+      "sentence": "The **bilingual** menu at the restaurant includes both Chinese and English translations for each dish.",
+      "options": {
+        "option": [
+          {
+            "definition": "双语的（包含或使用两种语言的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "双边的（涉及双方的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "两种文化的（涉及两种文化的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "二进制的（基于两个选项的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

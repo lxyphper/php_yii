@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "chocolate milk",
+      "error_analysis": "学生易混淆\"chocolate milk\"（巧克力牛奶，饮料）与词序颠倒的\"milk chocolate\"（牛奶巧克力，固体），或因字面拆分误认为是\"巧克力和牛奶\"（两种分开的食物）",
+      "sentence": "I always buy a carton of **chocolate milk** from the supermarket for my kids to drink after school.",
+      "options": {
+        "option": [
+          {
+            "definition": "巧克力牛奶（一种混合了巧克力的牛奶饮料）",
+            "iscorrect": true
+          },
+          {
+            "definition": "牛奶巧克力（固体巧克力制品，由巧克力和牛奶制成）",
+            "iscorrect": false
+          },
+          {
+            "definition": "巧克力和牛奶（两种分开的食物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "巧克力酱（浓稠的巧克力味酱料）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

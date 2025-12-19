@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "portmanteau word",
+      "error_analysis": "学生易因\"port\"（港口/携带）和\"manteau\"（大衣）的字面意思，误解为与港口、衣服或携带物品相关的单词，而非混合词。",
+      "sentence": "The word \"brunch\" (a meal combining breakfast and lunch) is often cited as a typical **portmanteau word** in English.",
+      "options": {
+        "option": [
+          {
+            "definition": "混合词（由两个单词的部分字母组合而成的词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "与港口运输相关的专业术语",
+            "iscorrect": false
+          },
+          {
+            "definition": "描述大衣款式的形容词",
+            "iscorrect": false
+          },
+          {
+            "definition": "表示便携物品的名词",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

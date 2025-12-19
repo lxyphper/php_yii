@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to compile",
+      "error_analysis": "易与形近词complain（抱怨）混淆，或词根误解为“完成”“组合”",
+      "sentence": "She plans to **compile** all her travel photos into a book to share with friends.",
+      "options": {
+        "option": [
+          {
+            "definition": "收集并整理（资料、信息等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "抱怨；诉苦",
+            "iscorrect": false
+          },
+          {
+            "definition": "完成；结束",
+            "iscorrect": false
+          },
+          {
+            "definition": "组合；混合",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

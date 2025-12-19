@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to steal",
+      "error_analysis": "学生易因形近词“steel”（钢铁）的干扰，将“to steal”误理解为“钢铁”。",
+      "sentence": "Someone broke into the house last night and **stole** all the expensive jewelry.",
+      "options": {
+        "option": [
+          {
+            "definition": "偷窃；盗窃",
+            "iscorrect": true
+          },
+          {
+            "definition": "钢铁",
+            "iscorrect": false
+          },
+          {
+            "definition": "引导；驾驶",
+            "iscorrect": false
+          },
+          {
+            "definition": "密封",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

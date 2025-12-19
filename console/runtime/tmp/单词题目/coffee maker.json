@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "coffee maker",
+      "error_analysis": "学生易将\"coffee maker\"字面拆分为\"咖啡+制造者\"，误理解为\"咖啡制造者（指人）\"而非\"咖啡机（器具）\"",
+      "sentence": "My mom received a new **coffee maker** as a gift, so she can make her favorite latte at home now.",
+      "options": {
+        "option": [
+          {
+            "definition": "咖啡机",
+            "iscorrect": true
+          },
+          {
+            "definition": "咖啡制造者（指制作咖啡的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "咖啡市场",
+            "iscorrect": false
+          },
+          {
+            "definition": "咖啡杯",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

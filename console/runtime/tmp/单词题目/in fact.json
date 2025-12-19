@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "in fact",
+      "error_analysis": "学生易因\"in\"+\"fact\"字面直译为\"在事实中\"，或因形近词\"factor\"(因素)、\"factory\"(工厂)误理解为\"在因素中\"\"在工厂里\"。",
+      "sentence": "Many people think he is a doctor, but **in fact** he is a teacher.",
+      "options": {
+        "option": [
+          {
+            "definition": "在因素中",
+            "iscorrect": false
+          },
+          {
+            "definition": "在工厂里",
+            "iscorrect": false
+          },
+          {
+            "definition": "在事实中",
+            "iscorrect": false
+          },
+          {
+            "definition": "事实上",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

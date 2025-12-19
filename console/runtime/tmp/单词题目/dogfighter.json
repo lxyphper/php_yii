@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dogfighter",
+      "error_analysis": "学生易因“dog”（狗）与“fighter”（战士）的字面组合，误理解为“斗狗的人”或“用狗作战的人”",
+      "sentence": "As a young **dogfighter**, he shot down five enemy planes in a single mission during the war.",
+      "options": {
+        "option": [
+          {
+            "definition": "空中格斗机；进行空中格斗的飞行员",
+            "iscorrect": true
+          },
+          {
+            "definition": "斗狗的人（参与狗之间争斗的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "用狗作战的人（使用狗进行战斗的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "驯狗的军人（训练狗的士兵）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

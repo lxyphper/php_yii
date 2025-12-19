@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "garden",
+      "error_analysis": "学生易因形近词“guard”（守卫）混淆“garden”的词义，或误将其泛化为无明确种植功能的“院子”。",
+      "sentence": "My grandma spends every morning watering the flowers in her **garden**.",
+      "options": {
+        "option": [
+          {
+            "definition": "花园（种植花草、蔬菜等的地方）",
+            "iscorrect": true
+          },
+          {
+            "definition": "守卫；警卫",
+            "iscorrect": false
+          },
+          {
+            "definition": "院子（无明确种植功能的户外区域）",
+            "iscorrect": false
+          },
+          {
+            "definition": "车库（停放车辆的地方）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

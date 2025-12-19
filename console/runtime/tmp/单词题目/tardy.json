@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tardy",
+      "error_analysis": "中国学生易因形近词\"tired\"（疲劳的）混淆，或因\"tar\"（焦油）字面联想产生错误理解。",
+      "sentence": "Because of the heavy rain, Tom was **tardy** for the morning meeting and missed the opening speech.",
+      "options": {
+        "option": [
+          {
+            "definition": "迟到的；拖延的",
+            "iscorrect": true
+          },
+          {
+            "definition": "疲劳的；疲倦的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有焦油的；含沥青的",
+            "iscorrect": false
+          },
+          {
+            "definition": "强壮的；坚韧的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

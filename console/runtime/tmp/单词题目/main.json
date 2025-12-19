@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "main",
+      "error_analysis": "中国学生易因形近词“mail”（邮件）、“man”（男人）或词根联想误将“main”理解为“邮件”“男人的”或“维持的”",
+      "sentence": "The **main** reason for his success is hard work.",
+      "options": {
+        "option": [
+          {
+            "definition": "主要的",
+            "iscorrect": true
+          },
+          {
+            "definition": "邮件",
+            "iscorrect": false
+          },
+          {
+            "definition": "男人的",
+            "iscorrect": false
+          },
+          {
+            "definition": "维持的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

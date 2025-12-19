@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "golf",
+      "error_analysis": "学生易因形近词\"gold\"（黄金）或\"wolf\"（狼）产生错误联想",
+      "sentence": "He often plays **golf** with his friends on weekends.",
+      "options": {
+        "option": [
+          {
+            "definition": "黄金",
+            "iscorrect": false
+          },
+          {
+            "definition": "狼",
+            "iscorrect": false
+          },
+          {
+            "definition": "高尔夫球（运动）",
+            "iscorrect": true
+          },
+          {
+            "definition": "手套",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

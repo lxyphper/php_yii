@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "verb",
+      "error_analysis": "学生易因形近词\"very\"（非常）的干扰，误将\"verb\"理解为\"非常\"。",
+      "sentence": "In English grammar, a **verb** is a word that expresses an action, such as \"run\" or \"eat\".",
+      "options": {
+        "option": [
+          {
+            "definition": "动词",
+            "iscorrect": true
+          },
+          {
+            "definition": "非常",
+            "iscorrect": false
+          },
+          {
+            "definition": "口头的",
+            "iscorrect": false
+          },
+          {
+            "definition": "名词",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

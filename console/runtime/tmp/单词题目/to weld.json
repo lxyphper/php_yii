@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to weld",
+      "error_analysis": "易因形近词“wield”（挥舞）产生混淆，或误将“well”（好）的字面意思延伸为“使变好”。",
+      "sentence": "The workers will **weld** the steel beams together to build the bridge.",
+      "options": {
+        "option": [
+          {
+            "definition": "焊接（金属）",
+            "iscorrect": true
+          },
+          {
+            "definition": "挥舞（工具、权力等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "使变好；改善",
+            "iscorrect": false
+          },
+          {
+            "definition": "挖井",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

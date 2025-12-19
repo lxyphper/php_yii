@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "committal",
+      "error_analysis": "学生易因形近词“committee”（委员会）混淆，或误将其当作“commitment”（承诺）的同义词。",
+      "sentence": "The **committal** of the crime was clearly captured on the security camera.",
+      "options": {
+        "option": [
+          {
+            "definition": "委员会",
+            "iscorrect": false
+          },
+          {
+            "definition": "承诺；保证",
+            "iscorrect": false
+          },
+          {
+            "definition": "（犯罪等的）实施；收押",
+            "iscorrect": true
+          },
+          {
+            "definition": "委托；托付",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

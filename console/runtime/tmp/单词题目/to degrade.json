@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to degrade",
+      "error_analysis": "混淆形近词\"degree\"（程度）及词根\"grade\"（等级）的过度直译，误将\"degrade\"理解为\"（使）达到程度\"或\"（使）降级\"。",
+      "sentence": "The pollution from the factory has started to **degrade** the quality of the nearby lake water.",
+      "options": {
+        "option": [
+          {
+            "definition": "恶化；贬低；使退化",
+            "iscorrect": true
+          },
+          {
+            "definition": "（使）达到某种程度",
+            "iscorrect": false
+          },
+          {
+            "definition": "（使）降级（职位或等级）",
+            "iscorrect": false
+          },
+          {
+            "definition": "（使）升级；提高质量",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

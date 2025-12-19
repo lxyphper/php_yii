@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "supermarket",
+      "error_analysis": "学生易因“super”与形近词“superior”（优越的）、“superb”（极好的）联想，或因“super+market”字面推导，将“supermarket”误判为“优越的市场”“极好的市场”或“超级大的市场”",
+      "sentence": "I usually buy fruits, vegetables, and milk at the **supermarket** near my house.",
+      "options": {
+        "option": [
+          {
+            "definition": "超市（卖食品和日用品的自助商店）",
+            "iscorrect": true
+          },
+          {
+            "definition": "优越的市场",
+            "iscorrect": false
+          },
+          {
+            "definition": "极好的市场",
+            "iscorrect": false
+          },
+          {
+            "definition": "超级大的市场",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

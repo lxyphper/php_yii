@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to encode",
+      "error_analysis": "学生易因形近词“enclose”（包围、装入）或词根“code”的误解，将“encode”误判为“写代码”或“包围”",
+      "sentence": "The software will **encode** the audio file into a format compatible with most devices.",
+      "options": {
+        "option": [
+          {
+            "definition": "将...编码（把信息转换为代码或符号形式以便存储或传输）",
+            "iscorrect": true
+          },
+          {
+            "definition": "包围；装入（如装入信封或容器中）",
+            "iscorrect": false
+          },
+          {
+            "definition": "写代码（如为计算机程序编写指令）",
+            "iscorrect": false
+          },
+          {
+            "definition": "解码（将代码转换为原始信息）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

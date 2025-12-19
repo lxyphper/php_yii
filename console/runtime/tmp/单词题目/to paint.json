@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to paint",
+      "error_analysis": "学生易因形近词\"point\"（指）或\"pant\"（喘气）混淆，误将\"to paint\"理解为\"指；指向\"或\"喘气\"。",
+      "sentence": "She loves to **paint** flowers in her free time.",
+      "options": {
+        "option": [
+          {
+            "definition": "用颜料画；涂",
+            "iscorrect": true
+          },
+          {
+            "definition": "指；指向",
+            "iscorrect": false
+          },
+          {
+            "definition": "喘气；喘息",
+            "iscorrect": false
+          },
+          {
+            "definition": "使痛苦；使疼痛",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

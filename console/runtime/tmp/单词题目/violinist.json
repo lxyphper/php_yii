@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "violinist",
+      "error_analysis": "易因忽略“ist”后缀误判为“小提琴”（形近词干扰），或因“violin”与“viola”形近误判为“中提琴家”（词根误导）",
+      "sentence": "At the concert, the **violinist** played a beautiful sonata that moved the audience to tears.",
+      "options": {
+        "option": [
+          {
+            "definition": "小提琴",
+            "iscorrect": false
+          },
+          {
+            "definition": "中提琴家",
+            "iscorrect": false
+          },
+          {
+            "definition": "钢琴家",
+            "iscorrect": false
+          },
+          {
+            "definition": "小提琴家",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

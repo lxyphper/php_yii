@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to translate",
+      "error_analysis": "学生易因\"trans-\"前缀的形近词（如transcribe/transplant）或\"late\"词根的字面误导（误为\"迟的\"），而错误理解\"to translate\"为\"转录\"或\"移植\"。",
+      "sentence": "She spent hours trying to **translate** the ancient Chinese poem into modern English for her literature assignment.",
+      "options": {
+        "option": [
+          {
+            "definition": "翻译（将一种语言的内容转换为另一种语言）",
+            "iscorrect": true
+          },
+          {
+            "definition": "转录（将声音或手写内容转换为文字形式）",
+            "iscorrect": false
+          },
+          {
+            "definition": "移植（将器官或植物从一处移至另一处）",
+            "iscorrect": false
+          },
+          {
+            "definition": "转移（将某物从一个地方搬运至另一个地方）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

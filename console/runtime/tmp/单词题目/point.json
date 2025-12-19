@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "point",
+      "error_analysis": "混淆形近词\"paint\"(油漆)及对\"point\"字面义\"小圆点\"的过度依赖",
+      "sentence": "She tried to make a **point** about the importance of recycling during the meeting.",
+      "options": {
+        "option": [
+          {
+            "definition": "观点；要点",
+            "iscorrect": true
+          },
+          {
+            "definition": "油漆",
+            "iscorrect": false
+          },
+          {
+            "definition": "小圆点",
+            "iscorrect": false
+          },
+          {
+            "definition": "指针",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

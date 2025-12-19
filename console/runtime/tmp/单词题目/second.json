@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "second",
+      "error_analysis": "学生容易将“second”（秒，时间单位）误判为其最常见的序数词含义“第二”，或因形近词“send”（发送）产生直觉混淆",
+      "sentence": "The microwave will heat your coffee in 20 **seconds**.",
+      "options": {
+        "option": [
+          {
+            "definition": "秒（时间单位）",
+            "iscorrect": true
+          },
+          {
+            "definition": "第二（序数词，如the second floor）",
+            "iscorrect": false
+          },
+          {
+            "definition": "发送（如send an email）",
+            "iscorrect": false
+          },
+          {
+            "definition": "支持（如second a proposal）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "eco-friendly",
+      "error_analysis": "学生易将\"eco\"误判为\"经济\"（economy的词根），从而将\"eco-friendly\"理解为\"经济友好的\"而非\"环保的\"。",
+      "sentence": "Many people choose to buy **eco-friendly** products to reduce their impact on the planet.",
+      "options": {
+        "option": [
+          {
+            "definition": "环保的；对生态友好的",
+            "iscorrect": true
+          },
+          {
+            "definition": "经济友好的",
+            "iscorrect": false
+          },
+          {
+            "definition": "回声友好的",
+            "iscorrect": false
+          },
+          {
+            "definition": "电子友好的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

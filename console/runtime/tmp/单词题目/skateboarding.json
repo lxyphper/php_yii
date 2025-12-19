@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "skateboarding",
+      "error_analysis": "学生易因形近词（如skiing）或词根拆分（skate+board）误将skateboarding理解为滑雪运动或滑板部件，而非滑板运动本身。",
+      "sentence": "Many teenagers enjoy **skateboarding** in the park on weekends, showing off tricks like ollies and kickflips.",
+      "options": {
+        "option": [
+          {
+            "definition": "一种滑雪运动",
+            "iscorrect": false
+          },
+          {
+            "definition": "滑板的木板部件",
+            "iscorrect": false
+          },
+          {
+            "definition": "一种用滑板进行的休闲或竞技运动",
+            "iscorrect": true
+          },
+          {
+            "definition": "滑冰运动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "jovial",
+      "error_analysis": "学生易将“jovial”与形近词“juvenile”（青少年的）、“novel”（新颖的）混淆，或因包含“vial”（小瓶）而误猜为与瓶装相关的含义",
+      "sentence": "The old man at the café was always **jovial**, telling jokes to everyone and making them laugh.",
+      "options": {
+        "option": [
+          {
+            "definition": "友好开朗的",
+            "iscorrect": true
+          },
+          {
+            "definition": "青少年的",
+            "iscorrect": false
+          },
+          {
+            "definition": "新颖的",
+            "iscorrect": false
+          },
+          {
+            "definition": "瓶装的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

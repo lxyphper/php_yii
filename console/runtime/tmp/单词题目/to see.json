@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to see",
+      "error_analysis": "学生易因形近词\"sea\"（大海）或\"seek\"（寻找）的拼写相似性，将\"to see\"误理解为\"大海\"或\"寻找\"",
+      "sentence": "I can **see** a red balloon floating in the park.",
+      "options": {
+        "option": [
+          {
+            "definition": "看见；看到",
+            "iscorrect": true
+          },
+          {
+            "definition": "大海",
+            "iscorrect": false
+          },
+          {
+            "definition": "寻找",
+            "iscorrect": false
+          },
+          {
+            "definition": "坐",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

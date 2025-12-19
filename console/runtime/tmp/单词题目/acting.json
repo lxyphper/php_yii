@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "acting",
+      "error_analysis": "将“acting”（表演；演技）误判为“行动”（形近词action联想）或“行为”（act的字面引申）",
+      "sentence": "The director praised her **acting** in the new play—she made the character come alive.",
+      "options": {
+        "option": [
+          {
+            "definition": "行动",
+            "iscorrect": false
+          },
+          {
+            "definition": "表演；演技",
+            "iscorrect": true
+          },
+          {
+            "definition": "行为；举动",
+            "iscorrect": false
+          },
+          {
+            "definition": "活跃性",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

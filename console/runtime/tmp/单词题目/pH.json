@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pH",
+      "error_analysis": "中国学生易将pH误认为是“公共卫生”（Public Health）的缩写，或拆分为“氢的百分比浓度”（字面误导）。",
+      "sentence": "The scientist tested the **pH** of the river water and found it was too acidic for fish to survive.",
+      "options": {
+        "option": [
+          {
+            "definition": "表示溶液酸碱度的化学指标（范围0-14，7为中性）",
+            "iscorrect": true
+          },
+          {
+            "definition": "公共卫生（Public Health的常用缩写）",
+            "iscorrect": false
+          },
+          {
+            "definition": "氢元素的百分比浓度（字面拆分“p”=percent、“H”=氢）",
+            "iscorrect": false
+          },
+          {
+            "definition": "页面高度（Page Height的缩写，用于文档排版）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

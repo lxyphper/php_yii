@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hyperbole",
+      "error_analysis": "学生易因形近词“hypocrisy”（虚伪）或词根“hyper-”（过度）误导，误将“hyperbole”理解为“虚伪”或“过度活跃”。",
+      "sentence": "The coach’s statement that our team is “the best in the universe” is pure **hyperbole**—we haven’t even won a game yet!",
+      "options": {
+        "option": [
+          {
+            "definition": "虚伪；伪善",
+            "iscorrect": false
+          },
+          {
+            "definition": "过度活跃的状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "夸张（修辞性的夸大说法）",
+            "iscorrect": true
+          },
+          {
+            "definition": "逻辑假设",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

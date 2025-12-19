@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "deluge",
+      "error_analysis": "学生易因形近词delete（删除）或词根del-（向下）的误导，将deluge误判为“删除”或“下降”",
+      "sentence": "When the online store announced a big sale, it was **deluged** with orders within just one hour.",
+      "options": {
+        "option": [
+          {
+            "definition": "大量涌入；淹没（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "删除；清除",
+            "iscorrect": false
+          },
+          {
+            "definition": "下降；衰落",
+            "iscorrect": false
+          },
+          {
+            "definition": "代表；委派",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

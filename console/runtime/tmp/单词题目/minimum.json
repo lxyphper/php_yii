@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "minimum",
+      "error_analysis": "易因形近词\"minor\"(次要的)或词根\"min\"(小)误导，将\"minimum\"误解为\"次要的\"或\"微型的\"，而非\"最小值/最低限度\"",
+      "sentence": "The company set a **minimum** requirement for job applicants: at least two years of work experience.",
+      "options": {
+        "option": [
+          {
+            "definition": "最小值；最低限度",
+            "iscorrect": true
+          },
+          {
+            "definition": "次要的；较小的",
+            "iscorrect": false
+          },
+          {
+            "definition": "微型的；迷你的",
+            "iscorrect": false
+          },
+          {
+            "definition": "最大值；最高限度",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

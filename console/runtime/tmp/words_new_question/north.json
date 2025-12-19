@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "north",
+      "error_analysis": "易混淆形近词\"mouth\"（嘴），或误联想\"nor\"（也不）导致理解错误",
+      "sentence": "The sun rises in the east and sets in the west, so the shadow of the tree points to the **north** in the afternoon.",
+      "options": {
+        "option": [
+          {
+            "definition": "北；北方",
+            "iscorrect": true
+          },
+          {
+            "definition": "嘴",
+            "iscorrect": false
+          },
+          {
+            "definition": "也不",
+            "iscorrect": false
+          },
+          {
+            "definition": "南方",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

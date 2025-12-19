@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Super Bowl",
+      "error_analysis": "学生易将\"Super Bowl\"字面理解为\"超级碗\"（一种容器），而非美国橄榄球联盟年度冠军赛这一专有名词",
+      "sentence": "Millions of Americans gather around TVs every February to watch the **Super Bowl**, where the top two NFL teams compete for the championship.",
+      "options": {
+        "option": [
+          {
+            "definition": "美国国家橄榄球联盟（NFL）的年度冠军赛（俗称\"超级碗\"）",
+            "iscorrect": true
+          },
+          {
+            "definition": "一种超大号的碗（用于盛放汤或沙拉等食物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "超级英雄主题的碗状玩具（如蝙蝠侠标志的碗）",
+            "iscorrect": false
+          },
+          {
+            "definition": "国际足球联合会（FIFA）的顶级赛事（如世界杯）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

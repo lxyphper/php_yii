@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "straightforward",
+      "error_analysis": "学生易将'straight'(直的)与'forward'(向前)字面组合，误解为'笔直向前的'，忽略其核心义'简单易懂的'",
+      "sentence": "The instructions for assembling the furniture were so **straightforward** that even a child could follow them.",
+      "options": {
+        "option": [
+          {
+            "definition": "简单易懂的",
+            "iscorrect": true
+          },
+          {
+            "definition": "笔直向前的",
+            "iscorrect": false
+          },
+          {
+            "definition": "严格的",
+            "iscorrect": false
+          },
+          {
+            "definition": "直率的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

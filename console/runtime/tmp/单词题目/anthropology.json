@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "anthropology",
+      "error_analysis": "易因形近词“apology”（道歉）的干扰或词根“anthropo-”（人类）与“-logy”（学）的过度推导，将“anthropology”误判为“道歉学”或“人类生物学”。",
+      "sentence": "She decided to major in **anthropology** to learn more about how different cultures shape human behavior.",
+      "options": {
+        "option": [
+          {
+            "definition": "人类学",
+            "iscorrect": true
+          },
+          {
+            "definition": "道歉学",
+            "iscorrect": false
+          },
+          {
+            "definition": "人类生物学",
+            "iscorrect": false
+          },
+          {
+            "definition": "人类心理学",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

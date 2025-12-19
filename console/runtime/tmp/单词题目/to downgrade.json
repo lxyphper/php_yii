@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to downgrade",
+      "error_analysis": "学生易因形近词“download”（下载）或词根“grade”（年级）的字面误导，将“downgrade”错误理解为“下载”或“降年级”。",
+      "sentence": "After the scandal, the credit rating agency decided to **downgrade** the company's bond rating from AA to BBB.",
+      "options": {
+        "option": [
+          {
+            "definition": "降低...的等级/地位",
+            "iscorrect": true
+          },
+          {
+            "definition": "下载（文件或数据）",
+            "iscorrect": false
+          },
+          {
+            "definition": "使...降年级（如学生留级）",
+            "iscorrect": false
+          },
+          {
+            "definition": "淡化...的重要性",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

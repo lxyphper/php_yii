@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "festivity",
+      "error_analysis": "易混淆形近词\"festival\"(节日)，或因词根\"fest-\"(节日)+\"-ivity\"(性质)过度直译为\"节日的性质\"",
+      "sentence": "The streets were filled with music, laughter, and all kinds of **festivity** as the town celebrated its 100th anniversary.",
+      "options": {
+        "option": [
+          {
+            "definition": "节日",
+            "iscorrect": false
+          },
+          {
+            "definition": "庆祝活动；喜庆气氛",
+            "iscorrect": true
+          },
+          {
+            "definition": "节日的性质",
+            "iscorrect": false
+          },
+          {
+            "definition": "节日礼物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

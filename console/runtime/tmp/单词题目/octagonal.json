@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "octagonal",
+      "error_analysis": "学生易因形近词\"octopus\"(章鱼)误联想为\"章鱼的\"，或因词根\"octa-\"与\"octogenarian\"(八旬老人)混淆误判为\"八十岁的\"",
+      "sentence": "The table in the center of the room has an **octagonal** top, with eight equal sides and angles.",
+      "options": {
+        "option": [
+          {
+            "definition": "八边形的；八角形的",
+            "iscorrect": true
+          },
+          {
+            "definition": "章鱼的；八爪鱼的",
+            "iscorrect": false
+          },
+          {
+            "definition": "八十岁的；八旬的",
+            "iscorrect": false
+          },
+          {
+            "definition": "八度的；八度音阶的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

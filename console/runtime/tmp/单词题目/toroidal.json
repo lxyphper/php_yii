@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "toroidal",
+      "error_analysis": "学生易因形近词\"tortoise\"（乌龟）误以为是\"乌龟状的\"，或因词根\"tor-\"（如torque扭矩）猜测为\"扭转的\"",
+      "sentence": "The new stadium features a **toroidal** roof that wraps around the entire seating area.",
+      "options": {
+        "option": [
+          {
+            "definition": "环形的；环面的",
+            "iscorrect": true
+          },
+          {
+            "definition": "乌龟状的",
+            "iscorrect": false
+          },
+          {
+            "definition": "扭转的",
+            "iscorrect": false
+          },
+          {
+            "definition": "圆柱形的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

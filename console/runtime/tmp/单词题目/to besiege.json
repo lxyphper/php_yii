@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to besiege",
+      "error_analysis": "学生易因形近词\"beside\"（在旁边）的干扰，或误将\"besiege\"与\"beset\"（困扰）混淆，导致对\"围攻\"词义的误判。",
+      "sentence": "After winning the Nobel Prize, the scientist was **besieged** by journalists waiting outside her lab for comments.",
+      "options": {
+        "option": [
+          {
+            "definition": "在旁边；陪伴",
+            "iscorrect": false
+          },
+          {
+            "definition": "困扰；使苦恼",
+            "iscorrect": false
+          },
+          {
+            "definition": "围攻；包围（军事/比喻义）",
+            "iscorrect": true
+          },
+          {
+            "definition": "搜索；寻找",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

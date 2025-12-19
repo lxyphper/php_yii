@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mortar",
+      "error_analysis": "学生易将'mortar'与形近词'motor'（发动机）混淆，或通过词根'mort-'（死亡）误猜为致命武器",
+      "sentence": "The masons used a trowel to apply **mortar** between the bricks of the new house.",
+      "options": {
+        "option": [
+          {
+            "definition": "发动机",
+            "iscorrect": false
+          },
+          {
+            "definition": "砂浆（建筑用的灰浆）",
+            "iscorrect": true
+          },
+          {
+            "definition": "致命的武器",
+            "iscorrect": false
+          },
+          {
+            "definition": "迫击炮",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "disengaged",
+      "error_analysis": "中国学生易因形近词\"disappointed\"（失望的）或词根\"engage\"（订婚/忙碌）误导，将\"disengaged\"误解为\"失望的\"或\"未订婚的\"。",
+      "sentence": "The students looked **disengaged** during the boring lecture, staring out the window instead of taking notes.",
+      "options": {
+        "option": [
+          {
+            "definition": "不参与的；冷漠的",
+            "iscorrect": true
+          },
+          {
+            "definition": "失望的",
+            "iscorrect": false
+          },
+          {
+            "definition": "未订婚的",
+            "iscorrect": false
+          },
+          {
+            "definition": "忙碌的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

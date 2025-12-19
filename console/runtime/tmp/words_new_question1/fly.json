@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fly",
+      "error_analysis": "中国学生易因形近词\"fry\"（油炸）混淆，或误将名词\"苍蝇\"用于动词语境",
+      "sentence": "The little bird learned to **fly** from the nest this morning.",
+      "options": {
+        "option": [
+          {
+            "definition": "飞（动词，通过翅膀在空中移动）",
+            "iscorrect": true
+          },
+          {
+            "definition": "油炸（将食物放入热油中烹饪）",
+            "iscorrect": false
+          },
+          {
+            "definition": "苍蝇（一种有翅膀的小昆虫）",
+            "iscorrect": false
+          },
+          {
+            "definition": "跳跃（用脚蹬地使身体离开地面）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

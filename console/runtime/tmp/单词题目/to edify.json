@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to edify",
+      "error_analysis": "易受形近词\"edit\"(编辑)干扰，或因词根误猜为\"建造\"",
+      "sentence": "The teacher used classic fables to **edify** her students, guiding them to reflect on kindness and honesty.",
+      "options": {
+        "option": [
+          {
+            "definition": "编辑；修改",
+            "iscorrect": false
+          },
+          {
+            "definition": "建造；构建",
+            "iscorrect": false
+          },
+          {
+            "definition": "启发；陶冶（道德或智力上的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "娱乐；使愉快",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

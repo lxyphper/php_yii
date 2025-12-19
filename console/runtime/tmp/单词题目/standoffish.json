@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "standoffish",
+      "error_analysis": "学生易因形近词\"standoff\"(僵局)联想为\"僵持的\"，或词根\"stand+off+ish\"直译为\"站在远处的\"，忽略其\"冷淡、不友好\"的核心义。",
+      "sentence": "Despite being invited to join the conversation, Sarah remained **standoffish**, barely saying a word to anyone.",
+      "options": {
+        "option": [
+          {
+            "definition": "冷淡的；不友好的",
+            "iscorrect": true
+          },
+          {
+            "definition": "僵持的；对立的",
+            "iscorrect": false
+          },
+          {
+            "definition": "站在远处的；远离的",
+            "iscorrect": false
+          },
+          {
+            "definition": "突出的；显眼的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

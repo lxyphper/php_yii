@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "aged",
+      "error_analysis": "学生易将\"aged\"字面理解为\"年龄的\"（词根\"age\"误导），或混淆其作为形容词\"年老的\"与动词\"age\"的过去式（如\"使变老\"）。",
+      "sentence": "The **aged** woman often sits on the bench to watch children play.",
+      "options": {
+        "option": [
+          {
+            "definition": "年老的",
+            "iscorrect": true
+          },
+          {
+            "definition": "使变老（动词过去式）",
+            "iscorrect": false
+          },
+          {
+            "definition": "年龄的",
+            "iscorrect": false
+          },
+          {
+            "definition": "……岁的（如\"a boy aged 10\"）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

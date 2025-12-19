@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to slacken",
+      "error_analysis": "学生易因“slack”的“懒散”义及词根推导误为“变得懒散”，或因形近“sicken”误理解为“感到恶心”",
+      "sentence": "After running for ten minutes, she had to **slacken** her pace to catch her breath.",
+      "options": {
+        "option": [
+          {
+            "definition": "变得懒散",
+            "iscorrect": false
+          },
+          {
+            "definition": "感到恶心",
+            "iscorrect": false
+          },
+          {
+            "definition": "加快",
+            "iscorrect": false
+          },
+          {
+            "definition": "放慢",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

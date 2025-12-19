@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bombardment",
+      "error_analysis": "误将“bombardment”（炮击/轰炸过程）理解为“炮弹”（形近词“bomb”误导）或“炮弹制造过程”（词根推导错误）",
+      "sentence": "The town suffered heavy damage from a prolonged **bombardment** by enemy artillery.",
+      "options": {
+        "option": [
+          {
+            "definition": "敌人炮兵的大量炮弹",
+            "iscorrect": false
+          },
+          {
+            "definition": "持续的炮兵炮击",
+            "iscorrect": true
+          },
+          {
+            "definition": "敌人炮兵的撤退",
+            "iscorrect": false
+          },
+          {
+            "definition": "炮弹的制造过程",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

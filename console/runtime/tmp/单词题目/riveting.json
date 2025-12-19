@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "riveting",
+      "error_analysis": "学生易因\"rivet\"(铆钉)的名词义，将\"riveting\"误解为\"铆钉固定的\"或\"坚硬的\"，而非其核心义\"引人入胜的\"。",
+      "sentence": "The documentary about deep-sea life was so **riveting** that I forgot to eat my dinner while watching it.",
+      "options": {
+        "option": [
+          {
+            "definition": "非常吸引人的；引人入胜的",
+            "iscorrect": true
+          },
+          {
+            "definition": "用铆钉固定的；铆钉相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "坚硬的；不易损坏的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无聊的；令人厌倦的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "remedy",
+      "error_analysis": "易因形近词'memory'混淆为'记忆'，或词根'medy'误导为'药物'而非核心的'解决办法'",
+      "sentence": "The best **remedy** for a bad mood is spending time with friends.",
+      "options": {
+        "option": [
+          {
+            "definition": "解决办法；补救措施",
+            "iscorrect": true
+          },
+          {
+            "definition": "记忆；回忆",
+            "iscorrect": false
+          },
+          {
+            "definition": "药物；药品",
+            "iscorrect": false
+          },
+          {
+            "definition": "修理；修复",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

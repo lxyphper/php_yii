@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "interlude",
+      "error_analysis": "学生易因形近词\"interview\"(面试)混淆，或拆分为\"inter\"(之间)+\"lude\"(误判为\"玩\")猜测为\"中间的游戏\"。",
+      "sentence": "After the intense debate, there was a 10-minute **interlude** for coffee and snacks before the next session started.",
+      "options": {
+        "option": [
+          {
+            "definition": "面试",
+            "iscorrect": false
+          },
+          {
+            "definition": "中间的游戏",
+            "iscorrect": false
+          },
+          {
+            "definition": "（活动之间的）间隔；插曲",
+            "iscorrect": true
+          },
+          {
+            "definition": "互相玩耍",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

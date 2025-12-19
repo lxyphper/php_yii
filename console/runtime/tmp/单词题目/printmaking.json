@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "printmaking",
+      "error_analysis": "学生易因\"print+making\"的字面组合误导，将其理解为\"打印品制作\"，或混淆于形近词\"printing\"的\"印刷（术）\"，忽略其\"版画制作\"的特定艺术含义",
+      "sentence": "The artist has been studying **printmaking** for years, creating intricate woodcuts and linocuts to display in local galleries.",
+      "options": {
+        "option": [
+          {
+            "definition": "版画制作（艺术）",
+            "iscorrect": true
+          },
+          {
+            "definition": "印刷（术）",
+            "iscorrect": false
+          },
+          {
+            "definition": "打印品制作",
+            "iscorrect": false
+          },
+          {
+            "definition": "绘画创作",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

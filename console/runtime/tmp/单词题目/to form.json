@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to form",
+      "error_analysis": "易因形近词\"from\"误解为\"来自\"，或因词根\"形式\"过度直译为\"使有形式\"",
+      "sentence": "We need to **form** a study group to prepare for the upcoming exam.",
+      "options": {
+        "option": [
+          {
+            "definition": "来自",
+            "iscorrect": false
+          },
+          {
+            "definition": "使有形式",
+            "iscorrect": false
+          },
+          {
+            "definition": "填写表格",
+            "iscorrect": false
+          },
+          {
+            "definition": "组建；形成",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

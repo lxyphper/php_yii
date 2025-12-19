@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "touch",
+      "error_analysis": "中国学生易因形近词“tough”（困难的）或“torch”（火炬）干扰，误将“touch”理解为“困难的”或“火炬”。",
+      "sentence": "Please don’t **touch** the wet paint—it might stain your clothes.",
+      "options": {
+        "option": [
+          {
+            "definition": "触摸；接触（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "困难的；坚韧的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "火炬；火把（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "教；教导（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

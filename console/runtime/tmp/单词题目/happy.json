@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "happy",
+      "error_analysis": "中国学生易因形近词混淆“happy”（快乐的）与“heavy”（重的），或误将“hap”关联“运气”而理解为“幸运的”。",
+      "sentence": "The children looked **happy** as they played with their new toys in the park.",
+      "options": {
+        "option": [
+          {
+            "definition": "快乐的；幸福的",
+            "iscorrect": true
+          },
+          {
+            "definition": "重的；沉重的",
+            "iscorrect": false
+          },
+          {
+            "definition": "幸运的；好运的",
+            "iscorrect": false
+          },
+          {
+            "definition": "匆忙的；急躁的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pneumonia",
+      "error_analysis": "易因形近词\"mania\"(狂躁症)的\"nia\"结尾及词根\"pneum-\"(空气)误导，将\"pneumonia\"错解为狂躁症或空气传播的疾病。",
+      "sentence": "After catching a bad cold, Tom developed **pneumonia** and had to stay in the hospital for a week.",
+      "options": {
+        "option": [
+          {
+            "definition": "肺炎",
+            "iscorrect": true
+          },
+          {
+            "definition": "狂躁症",
+            "iscorrect": false
+          },
+          {
+            "definition": "空气传播的疾病",
+            "iscorrect": false
+          },
+          {
+            "definition": "咽喉炎",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

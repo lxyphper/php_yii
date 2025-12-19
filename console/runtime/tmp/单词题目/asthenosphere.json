@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "asthenosphere",
+      "error_analysis": "学生易因词根`asthen-`（虚弱）误解为“虚弱层”，或因形近词`ashen`（灰色的）误解为“灰色层”",
+      "sentence": "The movement of tectonic plates is driven by the slow flow of the **asthenosphere**, a plastic layer in the upper mantle that allows the rigid lithosphere to slide over it.",
+      "options": {
+        "option": [
+          {
+            "definition": "软流层（地幔上部可塑性强的层）",
+            "iscorrect": true
+          },
+          {
+            "definition": "虚弱层（由软弱物质构成的地层）",
+            "iscorrect": false
+          },
+          {
+            "definition": "灰色层（呈灰色的地球表层）",
+            "iscorrect": false
+          },
+          {
+            "definition": "岩石圈（地球表层由岩石构成的刚性层）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

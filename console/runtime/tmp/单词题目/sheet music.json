@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sheet music",
+      "error_analysis": "学生易将'sheet'理解为'纸张'或'床单'，从而错误拆分短语为'音乐纸张'或'床单音乐'",
+      "sentence": "He forgot to bring his **sheet music** to the concert, so he had to play from memory.",
+      "options": {
+        "option": [
+          {
+            "definition": "乐谱",
+            "iscorrect": true
+          },
+          {
+            "definition": "音乐纸张",
+            "iscorrect": false
+          },
+          {
+            "definition": "床单音乐",
+            "iscorrect": false
+          },
+          {
+            "definition": "单页音乐",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

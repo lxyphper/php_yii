@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rare",
+      "error_analysis": "混淆形近词“bare”（光秃秃的），误将“rare”理解为“裸露的”或“光秃秃的”",
+      "sentence": "This kind of bird is so **rare** that it can only be found in remote rainforests.",
+      "options": {
+        "option": [
+          {
+            "definition": "稀有的；罕见的",
+            "iscorrect": true
+          },
+          {
+            "definition": "光秃秃的；裸露的",
+            "iscorrect": false
+          },
+          {
+            "definition": "很少的；不多的（修饰不可数名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "珍贵的；贵重的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

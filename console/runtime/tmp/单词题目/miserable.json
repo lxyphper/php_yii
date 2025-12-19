@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "miserable",
+      "error_analysis": "学生易因形近词“measurable”（可测量的）混淆，或因“mis-”前缀误导理解为“错误的”。",
+      "sentence": "After losing his job and his dog in the same week, Tom felt **miserable** and didn’t want to talk to anyone.",
+      "options": {
+        "option": [
+          {
+            "definition": "可测量的",
+            "iscorrect": false
+          },
+          {
+            "definition": "错误的；有问题的",
+            "iscorrect": false
+          },
+          {
+            "definition": "吝啬的",
+            "iscorrect": false
+          },
+          {
+            "definition": "痛苦的；悲惨的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

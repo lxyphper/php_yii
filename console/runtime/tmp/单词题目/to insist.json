@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to insist",
+      "error_analysis": "易混淆形近词\"exist\"(存在)或词根误推为\"站在里面\"",
+      "sentence": "She **insisted** on going to the party alone despite her parents' strong warnings.",
+      "options": {
+        "option": [
+          {
+            "definition": "坚持（做某事）",
+            "iscorrect": true
+          },
+          {
+            "definition": "存在",
+            "iscorrect": false
+          },
+          {
+            "definition": "站在里面",
+            "iscorrect": false
+          },
+          {
+            "definition": "插入",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

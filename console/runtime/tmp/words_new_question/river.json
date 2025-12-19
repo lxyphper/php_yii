@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "river",
+      "error_analysis": "中国学生易因形近词“rival”（对手）的拼写混淆，或误将“river”与“rive”（撕裂）联系导致词义判断错误。",
+      "sentence": "The **river** flows through the center of the city and provides water for the residents.",
+      "options": {
+        "option": [
+          {
+            "definition": "河流",
+            "iscorrect": true
+          },
+          {
+            "definition": "对手",
+            "iscorrect": false
+          },
+          {
+            "definition": "撕裂",
+            "iscorrect": false
+          },
+          {
+            "definition": "肝脏",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

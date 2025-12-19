@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "firefighter",
+      "error_analysis": "学生可能因“firefighter”与“firefly”（萤火虫）等形近词混淆，或因词根拆分（fire+fight+er）错误理解为“与火斗殴的人”",
+      "sentence": "When the building caught fire, a **firefighter** quickly arrived to put out the flames.",
+      "options": {
+        "option": [
+          {
+            "definition": "消防队员",
+            "iscorrect": true
+          },
+          {
+            "definition": "萤火虫",
+            "iscorrect": false
+          },
+          {
+            "definition": "与火斗殴的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "烟花",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

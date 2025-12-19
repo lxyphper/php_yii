@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "anxious",
+      "error_analysis": "中国学生易因形近词\"ancient\"(古老的)或音近词\"angry\"(愤怒的)混淆，将\"anxious\"误判为\"古老的\"或\"愤怒的\"",
+      "sentence": "She was **anxious** about her exam results and couldn’t sleep last night.",
+      "options": {
+        "option": [
+          {
+            "definition": "古老的",
+            "iscorrect": false
+          },
+          {
+            "definition": "愤怒的",
+            "iscorrect": false
+          },
+          {
+            "definition": "焦虑的；担忧的",
+            "iscorrect": true
+          },
+          {
+            "definition": "兴奋的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

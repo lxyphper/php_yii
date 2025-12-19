@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to produce",
+      "error_analysis": "易因形近词\"reduce\"（减少）或词根\"pro-+duce\"（向前引导）误判为\"减少\"或\"推进\"",
+      "sentence": "The factory will **produce** 10,000 cars next year.",
+      "options": {
+        "option": [
+          {
+            "definition": "生产；制造",
+            "iscorrect": true
+          },
+          {
+            "definition": "减少；降低",
+            "iscorrect": false
+          },
+          {
+            "definition": "推进；促进",
+            "iscorrect": false
+          },
+          {
+            "definition": "介绍；引见",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

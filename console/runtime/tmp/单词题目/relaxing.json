@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "relaxing",
+      "error_analysis": "易混淆形近词relating（有关联的），或误将-ing理解为动词进行时（正在放松）而非形容词（令人放松的）",
+      "sentence": "Listening to soft music after a long day is a **relaxing** way to calm down.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人放松的（形容事物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "有关联的",
+            "iscorrect": false
+          },
+          {
+            "definition": "正在放松的（动词进行时）",
+            "iscorrect": false
+          },
+          {
+            "definition": "放松的（形容人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

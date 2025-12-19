@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "generator",
+      "error_analysis": "中国学生易因形近词\"generous\"(慷慨的)混淆\"generator\"含义，或因词根\"generate\"过度直译为\"创造者\"而忽略其最常用的\"发电机\"义。",
+      "sentence": "The power outage in the neighborhood was caused by a malfunction in the **generator** that provides electricity to all the houses.",
+      "options": {
+        "option": [
+          {
+            "definition": "发电机；发生器",
+            "iscorrect": true
+          },
+          {
+            "definition": "慷慨的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "创造者；产生者",
+            "iscorrect": false
+          },
+          {
+            "definition": "信号发射器",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

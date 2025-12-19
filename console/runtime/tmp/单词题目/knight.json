@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "knight",
+      "error_analysis": "因形近词\"night\"（夜晚）产生的错误联想是核心易错点",
+      "sentence": "In medieval Europe, a **knight** would ride a horse and fight bravely for his lord.",
+      "options": {
+        "option": [
+          {
+            "definition": "骑士（中世纪受过军事训练的贵族战士）",
+            "iscorrect": true
+          },
+          {
+            "definition": "夜晚（一天中的黑暗时段）",
+            "iscorrect": false
+          },
+          {
+            "definition": "小刀（有锋利刃口的工具）",
+            "iscorrect": false
+          },
+          {
+            "definition": "侍从（贵族家的年轻仆人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

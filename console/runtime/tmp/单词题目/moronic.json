@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "moronic",
+      "error_analysis": "学生易因形近词\"morose\"（忧郁的）或词根\"mor\"（与\"moral\"（道德的）关联）误判为\"忧郁的\"或\"不道德的\"",
+      "sentence": "His decision to quit his job without any backup plan was so **moronic** that even his best friend couldn’t believe it.",
+      "options": {
+        "option": [
+          {
+            "definition": "极其愚蠢的；白痴的",
+            "iscorrect": true
+          },
+          {
+            "definition": "忧郁的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不道德的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无聊的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

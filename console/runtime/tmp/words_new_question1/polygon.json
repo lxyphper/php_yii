@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "polygon",
+      "error_analysis": "学生易因\"poly-\"（多）前缀加对\"gon\"（角）的陌生，将\"polygon\"错误联想为\"多面体\"或\"聚合物\"等含\"poly-\"的词",
+      "sentence": "The teacher drew a triangle, a square, and a pentagon on the board, explaining that each is a type of **polygon**.",
+      "options": {
+        "option": [
+          {
+            "definition": "多边形",
+            "iscorrect": true
+          },
+          {
+            "definition": "多面体",
+            "iscorrect": false
+          },
+          {
+            "definition": "聚合物",
+            "iscorrect": false
+          },
+          {
+            "definition": "多语言的人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "panic",
+      "error_analysis": "学生易因“panic”与基础词“pan”（平底锅）形近，或误将词根“pan”（泛）过度推导，将其理解为“平底锅的”或“广泛的”。",
+      "sentence": "When the fire alarm went off, a sudden **panic** spread through the crowd, making everyone rush to the exit.",
+      "options": {
+        "option": [
+          {
+            "definition": "恐慌（名词/动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "平底锅的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "广泛的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "痛苦（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Christmas",
+      "error_analysis": "易因形近词\"Christ\"（基督）或词根拆分（将\"Christmas\"误拆为\"Christ+mas\"并猜测为\"基督的弥撒\"）产生错误理解",
+      "sentence": "We usually put up a Christmas tree and exchange gifts with family on **Christmas**.",
+      "options": {
+        "option": [
+          {
+            "definition": "基督",
+            "iscorrect": false
+          },
+          {
+            "definition": "基督的弥撒",
+            "iscorrect": false
+          },
+          {
+            "definition": "圣诞节",
+            "iscorrect": true
+          },
+          {
+            "definition": "复活节",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "peninsula",
+      "error_analysis": "学生可能因“pen”（钢笔）的形近联想或词根“insula”（岛）的误导，错误理解“peninsula”为与钢笔相关或孤立岛屿。",
+      "sentence": "The Iberian Peninsula, which includes Spain and Portugal, extends into the Atlantic Ocean.",
+      "options": {
+        "option": [
+          {
+            "definition": "半岛",
+            "iscorrect": true
+          },
+          {
+            "definition": "钢笔形状的陆地",
+            "iscorrect": false
+          },
+          {
+            "definition": "孤立的岛屿",
+            "iscorrect": false
+          },
+          {
+            "definition": "海边的陡峭悬崖",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

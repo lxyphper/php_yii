@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "delightfulness",
+      "error_analysis": "易混淆形近词\"deliciousness\"(美味)，或误将词根\"delight\"+\"-fulness\"直译为\"快乐满员\"而非\"令人愉快的性质\"",
+      "sentence": "The **delightfulness** of the small town, with its cobblestone streets and friendly locals, made our vacation unforgettable.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人愉快的性质；可爱之处",
+            "iscorrect": true
+          },
+          {
+            "definition": "美味；可口",
+            "iscorrect": false
+          },
+          {
+            "definition": "快乐满员；极度快乐",
+            "iscorrect": false
+          },
+          {
+            "definition": "快乐的行为；娱乐活动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "trouble",
+      "error_analysis": "中国学生易因形近词\"double\"（双倍）将\"trouble\"误理解为\"双倍\"，或因拼写相似混淆\"travel\"（旅行）的含义。",
+      "sentence": "If you forget your homework again, you will get into **trouble** with your teacher.",
+      "options": {
+        "option": [
+          {
+            "definition": "双倍",
+            "iscorrect": false
+          },
+          {
+            "definition": "旅行",
+            "iscorrect": false
+          },
+          {
+            "definition": "麻烦；问题",
+            "iscorrect": true
+          },
+          {
+            "definition": "诡计",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

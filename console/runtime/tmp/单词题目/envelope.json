@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "envelope",
+      "error_analysis": "学生易因形近词“develop”（发展）的干扰，将“envelope”误判为“发展”或“开发”的相关名词。",
+      "sentence": "She put the letter into the **envelope** and sealed it before dropping it in the mailbox.",
+      "options": {
+        "option": [
+          {
+            "definition": "信封",
+            "iscorrect": true
+          },
+          {
+            "definition": "发展；开发",
+            "iscorrect": false
+          },
+          {
+            "definition": "卷入；涉及",
+            "iscorrect": false
+          },
+          {
+            "definition": "覆盖物；外壳",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "wulnerable",
+      "valnerable",
+      "vulerable",
+      "vulnerible"
+    ],
+    "correct_chunks": [
+      "vul",
+      "ner",
+      "able"
+    ],
+    "distractor_chunks": [
+      "wul",
+      "val",
+      "er",
+      "ible"
+    ]
+  },
+  0
+]

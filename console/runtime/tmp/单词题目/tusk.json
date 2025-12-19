@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tusk",
+      "error_analysis": "学生易因形近词\"task\"（任务）的干扰而误解\"tusk\"的核心词义",
+      "sentence": "The elephant used its **tusk** to dig for water in the dry riverbed.",
+      "options": {
+        "option": [
+          {
+            "definition": "（象、猪等的）长牙",
+            "iscorrect": true
+          },
+          {
+            "definition": "任务；工作",
+            "iscorrect": false
+          },
+          {
+            "definition": "（动物的）鼻子",
+            "iscorrect": false
+          },
+          {
+            "definition": "爪子；脚爪",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

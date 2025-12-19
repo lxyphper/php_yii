@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "karma",
+      "error_analysis": "学生易因形近词\"camera\"(相机)或\"car\"(汽车)的拼写/词根联想，或对\"karma\"梵语词根的陌生而误判为常见事物。",
+      "sentence": "Many people believe that if you do good things, good **karma** will come back to you sooner or later.",
+      "options": {
+        "option": [
+          {
+            "definition": "因果报应（佛教/印度教中的羯磨）",
+            "iscorrect": true
+          },
+          {
+            "definition": "相机（camera）",
+            "iscorrect": false
+          },
+          {
+            "definition": "汽车（car）",
+            "iscorrect": false
+          },
+          {
+            "definition": "空手道（karate）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

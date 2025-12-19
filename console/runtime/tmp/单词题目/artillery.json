@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "artillery",
+      "error_analysis": "学生因\"art\"（艺术）的词根联想，误将\"artillery\"理解为与艺术相关的概念（如\"艺术品\"\"艺术家\"）。",
+      "sentence": "The general ordered the **artillery** to open fire on the enemy's fortifications.",
+      "options": {
+        "option": [
+          {
+            "definition": "艺术品；美术作品",
+            "iscorrect": false
+          },
+          {
+            "definition": "艺术家；美术家",
+            "iscorrect": false
+          },
+          {
+            "definition": "火炮；炮兵（部队）",
+            "iscorrect": true
+          },
+          {
+            "definition": "人工制品；手工艺品",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

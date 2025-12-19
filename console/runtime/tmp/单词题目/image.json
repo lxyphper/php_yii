@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "image",
+      "error_analysis": "学生易因形近词\"imagine\"干扰，将\"image\"误理解为\"想象\"。",
+      "sentence": "The company is trying to improve its public **image** by launching a new environmental campaign.",
+      "options": {
+        "option": [
+          {
+            "definition": "想象",
+            "iscorrect": false
+          },
+          {
+            "definition": "形象；图像",
+            "iscorrect": true
+          },
+          {
+            "definition": "镜像",
+            "iscorrect": false
+          },
+          {
+            "definition": "印象",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

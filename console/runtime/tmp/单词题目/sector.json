@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sector",
+      "error_analysis": "中国学生易因形近词'section'（部分）混淆，或因词根'sect-'（切割）误判为'切割的片段'，忽略其'行业/领域'的核心义。",
+      "sentence": "The tech **sector** has seen significant growth in recent years due to advancements in artificial intelligence.",
+      "options": {
+        "option": [
+          {
+            "definition": "部分；章节",
+            "iscorrect": false
+          },
+          {
+            "definition": "切割的片段",
+            "iscorrect": false
+          },
+          {
+            "definition": "（经济或社会活动的）领域，行业",
+            "iscorrect": true
+          },
+          {
+            "definition": "扇形区域",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

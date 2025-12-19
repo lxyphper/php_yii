@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "kemical engineering",
+      "chemcal engineering",
+      "chemical engeneering",
+      "chemical enginearing"
+    ],
+    "correct_chunks": [
+      "chem",
+      "ical",
+      "engineer",
+      "ing"
+    ],
+    "distractor_chunks": [
+      "kem",
+      "cal",
+      "engeneer",
+      "enginear"
+    ]
+  },
+  0
+]

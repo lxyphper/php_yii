@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to put on",
+      "error_analysis": "学生易因“put”（放）和“on”（在…上）的字面意思，将“to put on”误译为“放在…上面”。",
+      "sentence": "Before going out, she always **puts on** her favorite scarf to keep warm.",
+      "options": {
+        "option": [
+          {
+            "definition": "穿上/戴上（衣服、配饰等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "放在…上面",
+            "iscorrect": false
+          },
+          {
+            "definition": "打开（电器、设备等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "推迟（某事）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

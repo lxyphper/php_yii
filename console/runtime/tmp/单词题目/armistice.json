@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "armistice",
+      "error_analysis": "学生易将\"armistice\"拆分为\"arm（手臂）+ ice（冰）\"，误猜为\"手臂结冰\"或\"武器冻结\"。",
+      "sentence": "After months of fighting, the two countries finally signed an **armistice** to end the war temporarily.",
+      "options": {
+        "option": [
+          {
+            "definition": "手臂结冰",
+            "iscorrect": false
+          },
+          {
+            "definition": "武器冻结",
+            "iscorrect": false
+          },
+          {
+            "definition": "停战协定",
+            "iscorrect": true
+          },
+          {
+            "definition": "军事诡计",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

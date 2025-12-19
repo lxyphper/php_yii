@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "grandchild",
+      "error_analysis": "学生易因“grand”的“大”义直译误认为是“大孩子”，或因形近词混淆将其当作“孙子”/“祖父母”。",
+      "sentence": "The elderly couple was thrilled to receive a letter from their **grandchild** living abroad.",
+      "options": {
+        "option": [
+          {
+            "definition": "孙子女（祖父母的孙子或孙女）",
+            "iscorrect": true
+          },
+          {
+            "definition": "大孩子（年龄较大的孩子）",
+            "iscorrect": false
+          },
+          {
+            "definition": "孙子（儿子的儿子）",
+            "iscorrect": false
+          },
+          {
+            "definition": "祖父母（爷爷或奶奶）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

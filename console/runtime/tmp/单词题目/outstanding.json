@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "outstanding",
+      "error_analysis": "学生容易因“out+standing”的字面拆分误判为“站在外面的”，或因形近词“outstretched”误解为“伸展的”",
+      "sentence": "As an **outstanding** student, she was awarded a full scholarship to the university.",
+      "options": {
+        "option": [
+          {
+            "definition": "站在外面的",
+            "iscorrect": false
+          },
+          {
+            "definition": "伸展的",
+            "iscorrect": false
+          },
+          {
+            "definition": "杰出的；优秀的",
+            "iscorrect": true
+          },
+          {
+            "definition": "未解决的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "crop",
+      "error_analysis": "因形近词\"drop\"(掉落)或\"cop\"(警察)误将\"crop\"理解为\"掉落\"或\"警察\"",
+      "sentence": "The farmers are busy harvesting the **crop** in the golden field.",
+      "options": {
+        "option": [
+          {
+            "definition": "作物；庄稼",
+            "iscorrect": true
+          },
+          {
+            "definition": "掉落；下降",
+            "iscorrect": false
+          },
+          {
+            "definition": "警察；巡警",
+            "iscorrect": false
+          },
+          {
+            "definition": "修剪；裁剪",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

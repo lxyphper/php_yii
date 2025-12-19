@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "breadth",
+      "error_analysis": "学生易因形近词“bread”（面包）的干扰，误将“breadth”理解为与食物相关的意思，或因词根不熟悉而猜测错误",
+      "sentence": "The **breadth** of the river is about 50 meters, so we need a boat to cross it.",
+      "options": {
+        "option": [
+          {
+            "definition": "宽度；广度",
+            "iscorrect": true
+          },
+          {
+            "definition": "面包；糕点",
+            "iscorrect": false
+          },
+          {
+            "definition": "长度；时长",
+            "iscorrect": false
+          },
+          {
+            "definition": "厚度；浓度",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

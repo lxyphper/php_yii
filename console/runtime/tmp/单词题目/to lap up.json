@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to lap up",
+      "error_analysis": "学生易因“lap”（大腿）的形近义误解为“放在腿上”，或因字面义“舔食”忽略其比喻义“欣然接受”。",
+      "sentence": "The audience **lapped up** every word of the speaker's inspiring story.",
+      "options": {
+        "option": [
+          {
+            "definition": "欣然接受",
+            "iscorrect": true
+          },
+          {
+            "definition": "把...放在腿上",
+            "iscorrect": false
+          },
+          {
+            "definition": "舔食",
+            "iscorrect": false
+          },
+          {
+            "definition": "拒绝",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

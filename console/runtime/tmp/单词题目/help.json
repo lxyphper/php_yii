@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "help",
+      "error_analysis": "学生易因形近词“held”（持有）、“hell”（地狱）或“heap”（堆）的干扰，将“help”误理解为上述词义",
+      "sentence": "Could you **help** me carry this heavy bag to the car?",
+      "options": {
+        "option": [
+          {
+            "definition": "帮助",
+            "iscorrect": true
+          },
+          {
+            "definition": "持有",
+            "iscorrect": false
+          },
+          {
+            "definition": "地狱",
+            "iscorrect": false
+          },
+          {
+            "definition": "堆",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

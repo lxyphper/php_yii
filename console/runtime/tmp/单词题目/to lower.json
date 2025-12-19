@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to lower",
+      "error_analysis": "学生可能因形近词“lover”（爱人）将动词“to lower”误理解为与“爱人”相关的动作（如“爱上”）",
+      "sentence": "The manager asked us to **lower** the volume of the music because some guests were complaining.",
+      "options": {
+        "option": [
+          {
+            "definition": "爱上；成为爱人",
+            "iscorrect": false
+          },
+          {
+            "definition": "更低的；较矮的",
+            "iscorrect": false
+          },
+          {
+            "definition": "降低；使下降",
+            "iscorrect": true
+          },
+          {
+            "definition": "诱惑；吸引",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

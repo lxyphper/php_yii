@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pillow",
+      "error_analysis": "学生易因形近词\"pill\"（药片）的干扰，将\"pillow\"误解为\"药片\"或其衍生义",
+      "sentence": "She likes to hug her soft **pillow** while sleeping.",
+      "options": {
+        "option": [
+          {
+            "definition": "枕头",
+            "iscorrect": true
+          },
+          {
+            "definition": "药片",
+            "iscorrect": false
+          },
+          {
+            "definition": "枕套",
+            "iscorrect": false
+          },
+          {
+            "definition": "柳树",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

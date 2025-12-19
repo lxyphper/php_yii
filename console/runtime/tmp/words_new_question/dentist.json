@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dentist",
+      "error_analysis": "学生易因形近词“dent”（凹痕）及词根“-ist”（人）的错误联想，将“dentist”误判为“处理物体凹痕的工匠”。",
+      "sentence": "I need to book an appointment with the **dentist** because my front tooth is cracked and painful.",
+      "options": {
+        "option": [
+          {
+            "definition": "牙医",
+            "iscorrect": true
+          },
+          {
+            "definition": "处理物体表面凹痕的工匠",
+            "iscorrect": false
+          },
+          {
+            "definition": "研究物质密度的科学家",
+            "iscorrect": false
+          },
+          {
+            "definition": "修复家具划痕的师傅",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

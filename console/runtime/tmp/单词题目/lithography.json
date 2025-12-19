@@ -1,0 +1,32 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lithography",
+      "error_analysis": "学生易因\"litho\"前缀联想到\"lithium\"(锂)，误将\"lithography\"理解为与锂相关的记录方法，忽略其\"石版印刷术\"的核心含义。",
+      "sentence": {
+        "b": "lithography"
+      },
+      "options": {
+        "option": [
+          {
+            "definition": "石版印刷术",
+            "iscorrect": true
+          },
+          {
+            "definition": "与锂元素相关的记录方法",
+            "iscorrect": false
+          },
+          {
+            "definition": "用石头进行书写的艺术",
+            "iscorrect": false
+          },
+          {
+            "definition": "光化学摄影技术",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

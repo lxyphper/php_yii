@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "perceptive",
+      "error_analysis": "易因形近词\"perspective\"(视角)误判为\"有观点的\"，或因词根\"cept\"(抓)误推为\"能抓住的\"",
+      "sentence": "The art critic's **perceptive** review highlighted details in the painting that most people missed.",
+      "options": {
+        "option": [
+          {
+            "definition": "有洞察力的，敏锐的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有观点的，有视角的",
+            "iscorrect": false
+          },
+          {
+            "definition": "能抓住的，易接受的",
+            "iscorrect": false
+          },
+          {
+            "definition": "感知的，察觉的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

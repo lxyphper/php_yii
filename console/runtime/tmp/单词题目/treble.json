@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "treble",
+      "error_analysis": "学生易因形近词\"trouble\"误判为\"麻烦的\"，或因词根\"tri-\"（三）误理解为\"三个的\"而非\"三倍的\"",
+      "sentence": "The company plans to **treble** its sales by expanding into new markets next year.",
+      "options": {
+        "option": [
+          {
+            "definition": "三倍的；使增加到三倍",
+            "iscorrect": true
+          },
+          {
+            "definition": "麻烦的；困难的",
+            "iscorrect": false
+          },
+          {
+            "definition": "三个的；三方的",
+            "iscorrect": false
+          },
+          {
+            "definition": "高音的；尖锐的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

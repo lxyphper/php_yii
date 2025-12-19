@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hall",
+      "error_analysis": "中国学生易因形近词“hill”（山）或与“hallway”（走廊）混淆，误将“hall”理解为“山”或“走廊”。",
+      "sentence": "We gathered in the **hall** to listen to the principal's speech.",
+      "options": {
+        "option": [
+          {
+            "definition": "山",
+            "iscorrect": false
+          },
+          {
+            "definition": "走廊",
+            "iscorrect": false
+          },
+          {
+            "definition": "大厅",
+            "iscorrect": true
+          },
+          {
+            "definition": "墙",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

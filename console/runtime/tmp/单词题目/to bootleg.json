@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to bootleg",
+      "error_analysis": "学生易根据“boot”（靴子）和“leg”（腿）的字面组合，误判为与靴子或腿部动作相关的含义",
+      "sentence": "During the Prohibition era, many people tried to **bootleg** alcohol to make money.",
+      "options": {
+        "option": [
+          {
+            "definition": "把东西藏在靴子里",
+            "iscorrect": false
+          },
+          {
+            "definition": "用腿踢某物",
+            "iscorrect": false
+          },
+          {
+            "definition": "非法制造或销售（酒、音像制品等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "走私货物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "squishy",
+      "error_analysis": "学生易将`squishy`与形近词`squash`（压扁）或词根`squish`（挤压）混淆，误判为“（被）压扁的”或“挤压发出声音的”。",
+      "sentence": "The freshly baked bread has a **squishy** center that melts in your mouth.",
+      "options": {
+        "option": [
+          {
+            "definition": "柔软易压扁的",
+            "iscorrect": true
+          },
+          {
+            "definition": "（被）压扁的",
+            "iscorrect": false
+          },
+          {
+            "definition": "挤压发出声音的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可疑的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

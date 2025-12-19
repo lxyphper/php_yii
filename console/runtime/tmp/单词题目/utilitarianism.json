@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "utilitarianism",
+      "error_analysis": "学生易因形近词\"utopianism\"(乌托邦主义)混淆，或词根\"util-\"(有用)过度猜测为\"单纯的利用主义\"。",
+      "sentence": "The philosopher Jeremy Bentham is best known for developing **utilitarianism**, a theory that judges actions by their ability to produce the greatest happiness for the greatest number of people.",
+      "options": {
+        "option": [
+          {
+            "definition": "功利主义（一种以行为产生的效用或最大幸福为判断标准的道德哲学）",
+            "iscorrect": true
+          },
+          {
+            "definition": "乌托邦主义（一种追求理想完美社会的政治理念）",
+            "iscorrect": false
+          },
+          {
+            "definition": "利己主义（以个人利益为中心的行为准则）",
+            "iscorrect": false
+          },
+          {
+            "definition": "理想主义（强调精神价值高于物质的思想体系）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ordinary",
+      "error_analysis": "中国学生易因形近词“orderly”（有序的）或词根“ord”（顺序）误将“ordinary”理解为“有顺序的”或“整齐的”。",
+      "sentence": "Despite being a famous actor, he prefers to live an **ordinary** life in a small town.",
+      "options": {
+        "option": [
+          {
+            "definition": "普通的；平常的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有序的；整齐的",
+            "iscorrect": false
+          },
+          {
+            "definition": "原始的；起源的",
+            "iscorrect": false
+          },
+          {
+            "definition": "重要的；显著的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

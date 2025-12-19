@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "part-time",
+      "error_analysis": "学生易因“part（部分）+time（时间）”直译为“部分时间的”，或混淆形近词“pass-time”（消遣）而误判",
+      "sentence": "She works a **part-time** job at the library to earn extra money.",
+      "options": {
+        "option": [
+          {
+            "definition": "兼职的（形容词）；兼职工作（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "部分时间的",
+            "iscorrect": false
+          },
+          {
+            "definition": "消遣的",
+            "iscorrect": false
+          },
+          {
+            "definition": "全职的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

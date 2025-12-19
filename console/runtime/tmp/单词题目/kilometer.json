@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "kilometer",
+      "error_analysis": "易与形近词kilogram（千克）混淆，或因词根kilo-+meter错误联想为千分尺",
+      "sentence": "The marathon race is about 42 **kilometer**s long, so runners need to prepare well for the distance.",
+      "options": {
+        "option": [
+          {
+            "definition": "千克（公斤）",
+            "iscorrect": false
+          },
+          {
+            "definition": "千米（公里）",
+            "iscorrect": true
+          },
+          {
+            "definition": "千分尺",
+            "iscorrect": false
+          },
+          {
+            "definition": "米",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

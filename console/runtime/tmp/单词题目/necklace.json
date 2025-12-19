@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "necklace",
+      "error_analysis": "学生易将\"necklace\"拆分为\"neck\"（脖子）和\"lace\"（蕾丝），错误理解为\"颈上的蕾丝装饰带\"而非正确的\"项链\"。",
+      "sentence": "She received a beautiful **necklace** with a small pearl pendant from her mother as a graduation gift.",
+      "options": {
+        "option": [
+          {
+            "definition": "项链",
+            "iscorrect": true
+          },
+          {
+            "definition": "颈上的蕾丝装饰带",
+            "iscorrect": false
+          },
+          {
+            "definition": "领口（衣服的颈部边缘）",
+            "iscorrect": false
+          },
+          {
+            "definition": "手镯（戴在手腕上的饰品）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "typical",
+      "error_analysis": "学生易因形近词\"type\"(类型)将\"typical\"误解为\"类型的\"，或通过词根\"type\"+\"-ical\"推导为\"属于种类的\"，忽略其核心义\"典型的\"。",
+      "sentence": "Her morning routine is **typical** of many office workers—she drinks coffee, reads the news, and then heads to work.",
+      "options": {
+        "option": [
+          {
+            "definition": "典型的",
+            "iscorrect": true
+          },
+          {
+            "definition": "类型的",
+            "iscorrect": false
+          },
+          {
+            "definition": "属于种类的",
+            "iscorrect": false
+          },
+          {
+            "definition": "通常的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

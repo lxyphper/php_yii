@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ballad",
+      "error_analysis": "学生易因形近词\"ball\"(球)或\"ballet\"(芭蕾)误判为与球或舞蹈相关的事物",
+      "sentence": "The old man played a traditional **ballad** on his guitar, telling the story of a farmer's struggle during the drought.",
+      "options": {
+        "option": [
+          {
+            "definition": "球类运动",
+            "iscorrect": false
+          },
+          {
+            "definition": "芭蕾舞剧",
+            "iscorrect": false
+          },
+          {
+            "definition": "民谣；叙事诗",
+            "iscorrect": true
+          },
+          {
+            "definition": "跳舞的动作",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

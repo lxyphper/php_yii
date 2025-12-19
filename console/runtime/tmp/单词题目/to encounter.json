@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to encounter",
+      "error_analysis": "学生易因形近词“counter”（反驳/对抗）及词根“counter”（对抗）的误导，将“encounter”误解为“反驳”或“对抗”。",
+      "sentence": "While hiking in the mountains, we **encountered** a group of wild deer crossing the path.",
+      "options": {
+        "option": [
+          {
+            "definition": "遇到；遭遇",
+            "iscorrect": true
+          },
+          {
+            "definition": "反驳；对抗",
+            "iscorrect": false
+          },
+          {
+            "definition": "计算；计数",
+            "iscorrect": false
+          },
+          {
+            "definition": "鼓励；支持",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

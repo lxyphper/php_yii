@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mommy",
+      "error_analysis": "中国学生易因形近词\"money\"(钱)或\"mummy\"(木乃伊)混淆，或误将\"mommy\"视为形容词\"妈妈的\"",
+      "sentence": "When the little girl fell down, she cried out for **mommy** to hold her.",
+      "options": {
+        "option": [
+          {
+            "definition": "钱",
+            "iscorrect": false
+          },
+          {
+            "definition": "木乃伊",
+            "iscorrect": false
+          },
+          {
+            "definition": "妈妈（口语）",
+            "iscorrect": true
+          },
+          {
+            "definition": "妈妈的（形容词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

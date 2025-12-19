@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "medicine",
+      "error_analysis": "中国学生易因形近词\"medium\"(媒介、中等)或词根\"med\"(中间)的误导，将\"medicine\"错误理解为\"媒介\"或\"中间的事物\"",
+      "sentence": "My mom told me to take the **medicine** three times a day until I feel better.",
+      "options": {
+        "option": [
+          {
+            "definition": "药；药物",
+            "iscorrect": true
+          },
+          {
+            "definition": "媒介；中等的事物",
+            "iscorrect": false
+          },
+          {
+            "definition": "中间的状态；调解",
+            "iscorrect": false
+          },
+          {
+            "definition": "奖牌；勋章",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

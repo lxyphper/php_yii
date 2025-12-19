@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to complete",
+      "error_analysis": "中国学生易因形近词\"compete\"（竞争）或词根\"plet\"（满）误导，将\"to complete\"误理解为\"竞争\"或\"充满\"。",
+      "sentence": "She needs to **complete** her homework before dinner if she wants to watch the movie.",
+      "options": {
+        "option": [
+          {
+            "definition": "完成",
+            "iscorrect": true
+          },
+          {
+            "definition": "竞争",
+            "iscorrect": false
+          },
+          {
+            "definition": "充满",
+            "iscorrect": false
+          },
+          {
+            "definition": "补充",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

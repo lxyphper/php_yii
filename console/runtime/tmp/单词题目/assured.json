@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "assured",
+      "error_analysis": "学生易将assured与形近词assumed（假设的）混淆，或因词根sure过度直译为“被保证的”而非“确信的/有把握的”。",
+      "sentence": "Despite the tough competition, she remained **assured** of winning the prize.",
+      "options": {
+        "option": [
+          {
+            "definition": "假设的",
+            "iscorrect": false
+          },
+          {
+            "definition": "被保证的",
+            "iscorrect": false
+          },
+          {
+            "definition": "确信的；有把握的",
+            "iscorrect": true
+          },
+          {
+            "definition": "保险的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

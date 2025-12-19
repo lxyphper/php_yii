@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "welding",
+      "error_analysis": "易因形近词\"wedding\"(婚礼)、\"welling\"(涌出)或词根\"well\"(井)误导，将\"welding\"错误理解为非焊接含义",
+      "sentence": "The mechanic used a torch for **welding** the broken parts of the car frame together.",
+      "options": {
+        "option": [
+          {
+            "definition": "焊接（工艺）",
+            "iscorrect": true
+          },
+          {
+            "definition": "婚礼",
+            "iscorrect": false
+          },
+          {
+            "definition": "（液体的）涌出",
+            "iscorrect": false
+          },
+          {
+            "definition": "挖井（动作）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

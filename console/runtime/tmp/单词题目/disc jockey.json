@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "disc jockey",
+      "error_analysis": "学生易因\"disc\"(唱片)和\"jockey\"(骑师)的字面意思，误以为\"disc jockey\"是\"唱片骑师\"或\"磁盘操作员\"。",
+      "sentence": "The **disc jockey** at the local radio station played a mix of pop and rock songs to keep the audience entertained during the evening show.",
+      "options": {
+        "option": [
+          {
+            "definition": "（电台、电视台或俱乐部的）音乐节目主持人（DJ）",
+            "iscorrect": true
+          },
+          {
+            "definition": "唱片骑师（驾驭唱片的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "磁盘驱动器操作员",
+            "iscorrect": false
+          },
+          {
+            "definition": "办公室职员（Desk Jockey 的误写）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

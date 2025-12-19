@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to get along",
+      "error_analysis": "学生易因“along”的“沿着”字面义将“to get along”误解为“沿着...移动”，或因“get+along”直译误解为“获得陪伴”。",
+      "sentence": "Lisa and her colleague **get along** so well that they often hang out after work.",
+      "options": {
+        "option": [
+          {
+            "definition": "与某人相处融洽",
+            "iscorrect": true
+          },
+          {
+            "definition": "沿着...移动",
+            "iscorrect": false
+          },
+          {
+            "definition": "获得某人的陪伴",
+            "iscorrect": false
+          },
+          {
+            "definition": "继续进行某事",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

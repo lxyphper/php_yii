@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "trustful",
+      "error_analysis": "学生易混淆\"trustful\"(信任他人的)与形近词\"trustworthy\"(值得信任的)，或误将\"-ful\"后缀理解为\"值得...的\"而非\"容易...的\"",
+      "sentence": "Despite being warned about online scams, the young girl remained **trustful** and shared her personal information with the stranger.",
+      "options": {
+        "option": [
+          {
+            "definition": "信任他人的；轻信的",
+            "iscorrect": true
+          },
+          {
+            "definition": "值得信任的；可靠的",
+            "iscorrect": false
+          },
+          {
+            "definition": "诚实的；说真话的",
+            "iscorrect": false
+          },
+          {
+            "definition": "怀疑的；不信任的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

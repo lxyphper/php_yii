@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "figure",
+      "error_analysis": "中国学生易因形近词\"finger\"（手指）混淆，或误将\"figure\"在\"知名人物\"语境中理解为\"数字\"或\"图形\"。",
+      "sentence": "As a key **figure** in the environmental movement, she has inspired thousands of young people to take action.",
+      "options": {
+        "option": [
+          {
+            "definition": "（重要）人物",
+            "iscorrect": true
+          },
+          {
+            "definition": "手指",
+            "iscorrect": false
+          },
+          {
+            "definition": "数字",
+            "iscorrect": false
+          },
+          {
+            "definition": "图形",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

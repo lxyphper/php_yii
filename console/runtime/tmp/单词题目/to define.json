@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to define",
+      "error_analysis": "中国学生易混淆形近词\"defend\"(防御)，或用\"fine\"(好的)字面猜测为\"使...变好\"",
+      "sentence": "Before starting the project, you need to **define** your main objectives to avoid confusion.",
+      "options": {
+        "option": [
+          {
+            "definition": "定义；阐明",
+            "iscorrect": true
+          },
+          {
+            "definition": "防御；保护",
+            "iscorrect": false
+          },
+          {
+            "definition": "使...变好；改进",
+            "iscorrect": false
+          },
+          {
+            "definition": "确定；决定",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pumpkin",
+      "error_analysis": "学生易将\"pumpkin\"拆分为\"pump\"(泵)和\"kin\"(亲属)，错误联想为\"泵相关物品\"或\"亲属的泵\"",
+      "sentence": "We carved a face into the **pumpkin** for Halloween and put a candle inside.",
+      "options": {
+        "option": [
+          {
+            "definition": "南瓜",
+            "iscorrect": true
+          },
+          {
+            "definition": "小型水泵",
+            "iscorrect": false
+          },
+          {
+            "definition": "亲属的泵",
+            "iscorrect": false
+          },
+          {
+            "definition": "一种朋克风格的服饰",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

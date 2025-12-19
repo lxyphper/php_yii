@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "antebiotic",
+      "antibaotic",
+      "antibiatic",
+      "entibiotic",
+      "antibotic"
+    ],
+    "correct_chunks": [
+      "an",
+      "ti",
+      "bi",
+      "ot",
+      "ic"
+    ],
+    "distractor_chunks": [
+      "te",
+      "ba",
+      "at",
+      "en"
+    ]
+  },
+  0
+]

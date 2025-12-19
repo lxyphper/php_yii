@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "supersonic",
+      "error_analysis": "学生易因“super-”+“sonic”字面组合误判为“极其响亮的”，或因形近词“supersize”联想为“超大的”。",
+      "sentence": "The experimental aircraft achieved **supersonic** velocity, causing a sonic boom that could be heard for miles.",
+      "options": {
+        "option": [
+          {
+            "definition": "比音速快的",
+            "iscorrect": true
+          },
+          {
+            "definition": "极其响亮的",
+            "iscorrect": false
+          },
+          {
+            "definition": "超大号的",
+            "iscorrect": false
+          },
+          {
+            "definition": "声音相关的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

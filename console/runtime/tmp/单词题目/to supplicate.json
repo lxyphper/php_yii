@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to supplicate",
+      "error_analysis": "学生易因形近词\"supplement\"（补充）产生混淆，或对词根\"plic-\"（非\"折叠\"义）错误推导，误判为\"补充\"或\"使复杂\"。",
+      "sentence": "After losing his job, he had to **supplicate** his landlord for more time to pay the rent.",
+      "options": {
+        "option": [
+          {
+            "definition": "恳求，哀求",
+            "iscorrect": true
+          },
+          {
+            "definition": "补充，增补",
+            "iscorrect": false
+          },
+          {
+            "definition": "压制，抑制",
+            "iscorrect": false
+          },
+          {
+            "definition": "折叠；使复杂化",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

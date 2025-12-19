@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "disheartening",
+      "error_analysis": "学生易因词根“dis-+heart+-ening”字面推导为“伤心的/心碎的”，或混淆其与“heartening”（令人鼓舞的）的反义关系，忽略其“令人沮丧/泄气”的核心含义。",
+      "sentence": "After working hard for months, it was **disheartening** to see that our project had been rejected without any explanation.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人沮丧的；令人泄气的",
+            "iscorrect": true
+          },
+          {
+            "definition": "伤心的；心碎的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人鼓舞的；令人振奋的",
+            "iscorrect": false
+          },
+          {
+            "definition": "失望的；不如意的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

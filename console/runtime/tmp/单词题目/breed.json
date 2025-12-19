@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "breed",
+      "error_analysis": "中国学生易因形近词“bread”（面包）或与“breathe”（呼吸）拼写/发音混淆而误判词义",
+      "sentence": "The Siberian Husky is a **breed** of dog known for its thick fur and endurance.",
+      "options": {
+        "option": [
+          {
+            "definition": "面包",
+            "iscorrect": false
+          },
+          {
+            "definition": "呼吸",
+            "iscorrect": false
+          },
+          {
+            "definition": "繁殖",
+            "iscorrect": false
+          },
+          {
+            "definition": "品种",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

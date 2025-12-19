@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "invitation",
+      "error_analysis": "学生易因形近词\"invention\"（发明）混淆，或因词根\"in-\"错误推导为\"引入\"。",
+      "sentence": "She received a formal **invitation** to the company's annual dinner party yesterday.",
+      "options": {
+        "option": [
+          {
+            "definition": "邀请；邀请函",
+            "iscorrect": true
+          },
+          {
+            "definition": "发明；创造",
+            "iscorrect": false
+          },
+          {
+            "definition": "引入；投入",
+            "iscorrect": false
+          },
+          {
+            "definition": "介绍；引见",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

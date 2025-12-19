@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to peel",
+      "error_analysis": "学生易混淆形近词“peer”（凝视）或“pill”（药片），或因发音接近“pull”（拉扯）误判其含义。",
+      "sentence": "Before giving the banana to the baby, she needs to **peel** it to remove the skin and avoid choking.",
+      "options": {
+        "option": [
+          {
+            "definition": "剥皮；去皮",
+            "iscorrect": true
+          },
+          {
+            "definition": "凝视；盯着看",
+            "iscorrect": false
+          },
+          {
+            "definition": "服药；吃药片",
+            "iscorrect": false
+          },
+          {
+            "definition": "拉扯；拉动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

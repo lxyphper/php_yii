@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to reach out",
+      "error_analysis": "学生易将\"reach out\"字面直译为\"到达外面\"或误理解为\"伸出（手）\"，忽略其\"主动联系\"的核心比喻义",
+      "sentence": "When she felt lonely in the new school, she decided to **reach out** to her former classmates for advice.",
+      "options": {
+        "option": [
+          {
+            "definition": "主动联系（某人）",
+            "iscorrect": true
+          },
+          {
+            "definition": "到达外面",
+            "iscorrect": false
+          },
+          {
+            "definition": "伸出（手或手臂）",
+            "iscorrect": false
+          },
+          {
+            "definition": "走远；离开",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

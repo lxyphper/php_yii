@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to shuffle",
+      "error_analysis": "易因形近词“shuttle”（穿梭）或字面猜测误解为“颤抖”“填满”等义",
+      "sentence": "Before dealing the cards, please **shuffle** them well so that no one can predict the order.",
+      "options": {
+        "option": [
+          {
+            "definition": "洗牌；打乱顺序",
+            "iscorrect": true
+          },
+          {
+            "definition": "穿梭；往返运输",
+            "iscorrect": false
+          },
+          {
+            "definition": "颤抖；发抖",
+            "iscorrect": false
+          },
+          {
+            "definition": "填满；塞进",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

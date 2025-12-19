@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "biography",
+      "error_analysis": "易因形近词\"biology\"（生物学）混淆，或因词根\"bio-\"(生命)+\"graphy\"(写)过度推导为\"生命记录\"而非\"传记\"。",
+      "sentence": "She spent five years working on a **biography** of the Nobel Prize-winning scientist, interviewing his family and studying his personal papers.",
+      "options": {
+        "option": [
+          {
+            "definition": "传记（关于某人一生的详细描述或书籍）",
+            "iscorrect": true
+          },
+          {
+            "definition": "生物学（研究生命现象的科学）",
+            "iscorrect": false
+          },
+          {
+            "definition": "生命图表（记录生命数据的可视化表格）",
+            "iscorrect": false
+          },
+          {
+            "definition": "个人日记（某人每天记录生活的文字）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

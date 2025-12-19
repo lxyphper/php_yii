@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "diagnosis",
+      "error_analysis": "易因形近词\"dialogue\"(对话)混淆，或词根\"dia-\"(穿过)与\"gnosis\"(知识)的组合被误判为\"知识传递\"等义。",
+      "sentence": "After running the tests, the doctor gave a **diagnosis** of type 2 diabetes.",
+      "options": {
+        "option": [
+          {
+            "definition": "诊断（疾病或问题的判断结果）",
+            "iscorrect": true
+          },
+          {
+            "definition": "对话（两人之间的交谈）",
+            "iscorrect": false
+          },
+          {
+            "definition": "知识传递（信息的交流过程）",
+            "iscorrect": false
+          },
+          {
+            "definition": "治疗方案（针对疾病的解决办法）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

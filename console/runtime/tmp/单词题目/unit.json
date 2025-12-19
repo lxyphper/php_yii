@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unit",
+      "error_analysis": "易混淆形近词\"unity\"(团结)或词根\"uni-\"误导为\"个体\",忽略其\"单元/单位\"的核心义",
+      "sentence": "The textbook is divided into 12 **units**, each focusing on a specific grammar point.",
+      "options": {
+        "option": [
+          {
+            "definition": "单元；单位（如课本章节、测量单位）",
+            "iscorrect": true
+          },
+          {
+            "definition": "团结；统一（如国家的统一）",
+            "iscorrect": false
+          },
+          {
+            "definition": "个体；单独的事物（如一个人或物体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "联盟；联合会（如工会或国际组织）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to deliver",
+      "error_analysis": "中国学生易因形近词“delete”（删除）混淆“deliver”词义，或因“de-”的否定含义与“liver”的错误联想（如“不给予”）产生误导。",
+      "sentence": "The shop will **deliver** your order within 24 hours.",
+      "options": {
+        "option": [
+          {
+            "definition": "递送；交付",
+            "iscorrect": true
+          },
+          {
+            "definition": "删除；删去",
+            "iscorrect": false
+          },
+          {
+            "definition": "不给予；拒绝",
+            "iscorrect": false
+          },
+          {
+            "definition": "携带；运送",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Africa",
+      "error_analysis": "学生易因形近词\"America\"（美洲）混淆，或因发音近似\"afraid\"（害怕）误解\"Africa\"的词义。",
+      "sentence": "Many wild animals like lions and elephants live in **Africa**.",
+      "options": {
+        "option": [
+          {
+            "definition": "非洲（世界第二大洲）",
+            "iscorrect": true
+          },
+          {
+            "definition": "美洲（包括北美和南美）",
+            "iscorrect": false
+          },
+          {
+            "definition": "害怕（情绪状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "亚洲（世界第一大洲）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

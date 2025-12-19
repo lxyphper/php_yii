@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "shepherd",
+      "error_analysis": "学生易因形近词\"shear\"（剪羊毛）混淆，或因\"sheep\"（羊）的字面联想误判为\"羊\"或\"剪羊毛的人\"。",
+      "sentence": "The old man has been working as a **shepherd** for over 40 years, taking care of his flock on the hills every day.",
+      "options": {
+        "option": [
+          {
+            "definition": "牧羊人",
+            "iscorrect": true
+          },
+          {
+            "definition": "羊",
+            "iscorrect": false
+          },
+          {
+            "definition": "剪羊毛的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "牧场",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

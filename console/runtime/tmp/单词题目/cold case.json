@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cold case",
+      "error_analysis": "学生易因字面直译将其误解为“冷的箱子”，或因“cold”（感冒）与“case”（病例）的联想误判为“感冒病例”。",
+      "sentence": "The detective decided to revisit the **cold case** of the 1998 murder to see if new evidence could be found.",
+      "options": {
+        "option": [
+          {
+            "definition": "未破获的刑事案件（冷案）",
+            "iscorrect": true
+          },
+          {
+            "definition": "冷的箱子",
+            "iscorrect": false
+          },
+          {
+            "definition": "感冒病例",
+            "iscorrect": false
+          },
+          {
+            "definition": "冷淡的情况",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

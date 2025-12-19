@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "party",
+      "error_analysis": "中国学生易因形近词\"part\"（部分）或\"parrot\"（鹦鹉）的干扰，将\"party\"误理解为\"部分\"或\"鹦鹉\"。",
+      "sentence": "We're having a **party** at our house this weekend—would you like to come?",
+      "options": {
+        "option": [
+          {
+            "definition": "聚会",
+            "iscorrect": true
+          },
+          {
+            "definition": "部分",
+            "iscorrect": false
+          },
+          {
+            "definition": "政党",
+            "iscorrect": false
+          },
+          {
+            "definition": "鹦鹉",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

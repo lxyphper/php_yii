@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "judge",
+      "error_analysis": "学生易混淆“judge”作为动词（判断）与名词（法官）的含义，或因形近词“jug”（罐子）产生无关联想",
+      "sentence": "You shouldn’t **judge** a person by their clothes alone.",
+      "options": {
+        "option": [
+          {
+            "definition": "判断（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "法官（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "罐子",
+            "iscorrect": false
+          },
+          {
+            "definition": "司法的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

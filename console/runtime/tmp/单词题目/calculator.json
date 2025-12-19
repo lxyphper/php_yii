@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "calculator",
+      "error_analysis": "易混淆形近词calendar（日历）及词根calculate+-or导致的“计算者”（人）误解",
+      "sentence": "I need a **calculator** to solve this math problem because doing it by hand would take too long.",
+      "options": {
+        "option": [
+          {
+            "definition": "计算器（工具）",
+            "iscorrect": true
+          },
+          {
+            "definition": "日历",
+            "iscorrect": false
+          },
+          {
+            "definition": "计算者（从事计算的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "计算表（记录计算结果的表格）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "heel",
+      "error_analysis": "中国学生易因形近词混淆，将“heel”误判为“hell”（地狱）或“heal”（治愈）",
+      "sentence": "She had to take off her new boots because they were rubbing against her **heel** and causing a blister.",
+      "options": {
+        "option": [
+          {
+            "definition": "脚后跟",
+            "iscorrect": true
+          },
+          {
+            "definition": "地狱",
+            "iscorrect": false
+          },
+          {
+            "definition": "治愈",
+            "iscorrect": false
+          },
+          {
+            "definition": "小山",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

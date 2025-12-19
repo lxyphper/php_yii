@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ninety",
+      "error_analysis": "学生易将“ninety”与形近词“nineteen”（十九）混淆，或误判为“九”的简单叠加",
+      "sentence": "Her grandmother is **ninety** years old and still enjoys gardening every morning.",
+      "options": {
+        "option": [
+          {
+            "definition": "十九",
+            "iscorrect": false
+          },
+          {
+            "definition": "九",
+            "iscorrect": false
+          },
+          {
+            "definition": "九十",
+            "iscorrect": true
+          },
+          {
+            "definition": "九十九",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "IP address",
+      "error_analysis": "学生易将\"IP\"误联想为\"知识产权\"(Intellectual Property)的缩写，或把\"address\"的日常\"家庭地址\"含义直接套用，导致误解为\"知识产权地址\"或\"个人家庭地址\"。",
+      "sentence": "When troubleshooting your internet connection, the technician might ask for your device's **IP address** to check if it's properly connected to the network.",
+      "options": {
+        "option": [
+          {
+            "definition": "互联网协议地址（网络设备在网络中的唯一标识）",
+            "iscorrect": true
+          },
+          {
+            "definition": "知识产权地址（用于标识知识产权归属的地址）",
+            "iscorrect": false
+          },
+          {
+            "definition": "个人家庭地址（如居住的具体地点）",
+            "iscorrect": false
+          },
+          {
+            "definition": "电子邮件地址（用于发送和接收邮件的地址）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

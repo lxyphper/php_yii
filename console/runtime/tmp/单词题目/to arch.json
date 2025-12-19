@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to arch",
+      "error_analysis": "学生易因形近词\"march\"（行军）混淆，或因词根\"arch-\"（主要的）误导，将\"to arch\"误判为\"行军\"或\"使成为主要的\"。",
+      "sentence": "The cat **arched** its back and hissed at the stranger approaching.",
+      "options": {
+        "option": [
+          {
+            "definition": "使成弓形；拱起",
+            "iscorrect": true
+          },
+          {
+            "definition": "行军；前进",
+            "iscorrect": false
+          },
+          {
+            "definition": "使成为主要的；主导",
+            "iscorrect": false
+          },
+          {
+            "definition": "绘画；创作艺术",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

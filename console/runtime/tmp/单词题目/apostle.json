@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "apostle",
+      "error_analysis": "学生易因“apostle”含“post”（形近）误以为与“邮政/岗位”相关，或词根猜测为“岗位人员”",
+      "sentence": "As an **apostle** of environmental protection, she has dedicated her life to saving endangered species.",
+      "options": {
+        "option": [
+          {
+            "definition": "使徒；倡导者",
+            "iscorrect": true
+          },
+          {
+            "definition": "邮递员",
+            "iscorrect": false
+          },
+          {
+            "definition": "岗位职员",
+            "iscorrect": false
+          },
+          {
+            "definition": "道歉者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

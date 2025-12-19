@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to slander",
+      "error_analysis": "因形近词\"slender\"(苗条的)产生错误联想，或误将其与\"land\"(土地)相关动作混淆",
+      "sentence": "The politician accused his opponent of trying to **slander** him by spreading false rumors about his past.",
+      "options": {
+        "option": [
+          {
+            "definition": "（使）苗条；纤细",
+            "iscorrect": false
+          },
+          {
+            "definition": "登陆；占领土地",
+            "iscorrect": false
+          },
+          {
+            "definition": "责骂；训斥",
+            "iscorrect": false
+          },
+          {
+            "definition": "诽谤；诋毁",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

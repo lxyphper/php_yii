@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "litigation",
+      "error_analysis": "学生易因形近词\"literature\"（文学）或词根\"lit-\"（光）误导，将\"litigation\"错误理解为\"文学\"或\"照明\"",
+      "sentence": "The company decided to settle the dispute out of court to avoid **litigation**.",
+      "options": {
+        "option": [
+          {
+            "definition": "文学",
+            "iscorrect": false
+          },
+          {
+            "definition": "立法",
+            "iscorrect": false
+          },
+          {
+            "definition": "诉讼",
+            "iscorrect": true
+          },
+          {
+            "definition": "照明",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

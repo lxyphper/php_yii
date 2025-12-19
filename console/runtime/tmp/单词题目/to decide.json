@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to decide",
+      "error_analysis": "中国学生易因形近词“declare”（宣布）或“descend”（下降）的拼写干扰，或词根“cid”（切断）的字面误导，误判“to decide”的词义。",
+      "sentence": "After thinking for a long time, she finally **decided** to study abroad.",
+      "options": {
+        "option": [
+          {
+            "definition": "决定",
+            "iscorrect": true
+          },
+          {
+            "definition": "宣布",
+            "iscorrect": false
+          },
+          {
+            "definition": "切断",
+            "iscorrect": false
+          },
+          {
+            "definition": "下降",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

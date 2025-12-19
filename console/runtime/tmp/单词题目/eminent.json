@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "eminent",
+      "error_analysis": "中国学生易混淆形近词“imminent”（即将发生的），或因词根“em-”（出）误理解为物理上“高耸的”。",
+      "sentence": "The university invited an **eminent** scientist to give the commencement speech.",
+      "options": {
+        "option": [
+          {
+            "definition": "著名的；杰出的",
+            "iscorrect": true
+          },
+          {
+            "definition": "即将发生的",
+            "iscorrect": false
+          },
+          {
+            "definition": "新兴的",
+            "iscorrect": false
+          },
+          {
+            "definition": "高耸的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

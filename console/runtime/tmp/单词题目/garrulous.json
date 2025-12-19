@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "garrulous",
+      "error_analysis": "学生易因形近词\"generous\"(慷慨的)或\"gorgeous\"(华丽的)混淆，错误理解\"garrulous\"的含义",
+      "sentence": "My aunt is so **garrulous** that she even struck up a 20-minute conversation with the barista about her cat while picking up a coffee.",
+      "options": {
+        "option": [
+          {
+            "definition": "慷慨的",
+            "iscorrect": false
+          },
+          {
+            "definition": "华丽的",
+            "iscorrect": false
+          },
+          {
+            "definition": "安静的",
+            "iscorrect": false
+          },
+          {
+            "definition": "喋喋不休的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

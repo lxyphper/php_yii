@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Vietnam",
+      "error_analysis": "易因形近词\"Vitamin\"(维生素)干扰或字面拆分\"Vie\"(竞争)+\"nam\"(名字)导致误解为非国家名含义",
+      "sentence": "Many tourists visit **Vietnam** every year to explore its beautiful beaches and rich culture.",
+      "options": {
+        "option": [
+          {
+            "definition": "越南（东南亚国家名）",
+            "iscorrect": true
+          },
+          {
+            "definition": "维生素（维持生命的营养物质）",
+            "iscorrect": false
+          },
+          {
+            "definition": "竞争的名字（比喻激烈争夺的称号）",
+            "iscorrect": false
+          },
+          {
+            "definition": "威尼斯的（与意大利威尼斯相关的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

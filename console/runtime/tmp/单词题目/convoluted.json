@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "convoluted",
+      "error_analysis": "学生易因形近词\"convincing\"(有说服力的)产生误解，或因词根\"volute\"(螺旋)过度直译为\"旋转的\"，忽略其引申义\"复杂难懂的\"",
+      "sentence": "The legal document was so **convoluted** that even the experienced lawyer had to read it three times to understand its terms.",
+      "options": {
+        "option": [
+          {
+            "definition": "复杂难懂的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有说服力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "旋转的；缠绕的",
+            "iscorrect": false
+          },
+          {
+            "definition": "困惑的（指人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

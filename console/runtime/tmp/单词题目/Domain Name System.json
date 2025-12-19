@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Domain Name System",
+      "error_analysis": "学生可能将“Domain”的普通含义“领域”代入，错误理解为“领域名称系统”，忽略其互联网专业含义“域名”",
+      "sentence": "The **Domain Name System** translates human-readable domain names like \"example.com\" into IP addresses that computers can understand.",
+      "options": {
+        "option": [
+          {
+            "definition": "域名系统",
+            "iscorrect": true
+          },
+          {
+            "definition": "领域名称系统",
+            "iscorrect": false
+          },
+          {
+            "definition": "域名服务器",
+            "iscorrect": false
+          },
+          {
+            "definition": "域名命名系统",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

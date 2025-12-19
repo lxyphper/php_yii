@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to introduce",
+      "error_analysis": "易与形近词produce（生产）混淆，或因词根intro-（进入）+duce（引导）过度直译为“插入”",
+      "sentence": "At the party, Sarah will **introduce** her new colleague to us.",
+      "options": {
+        "option": [
+          {
+            "definition": "生产",
+            "iscorrect": false
+          },
+          {
+            "definition": "插入",
+            "iscorrect": false
+          },
+          {
+            "definition": "介绍（人或事物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "减少",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

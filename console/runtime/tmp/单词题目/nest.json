@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nest",
+      "error_analysis": "学生易混淆形近词\"net\"（网），或误将\"nest\"理解为更通用的\"洞穴\"。",
+      "sentence": "The mother bird flew back to her **nest** with a worm for her babies.",
+      "options": {
+        "option": [
+          {
+            "definition": "巢穴（鸟或其他动物的窝）",
+            "iscorrect": true
+          },
+          {
+            "definition": "网（用来捕捉或防护的工具）",
+            "iscorrect": false
+          },
+          {
+            "definition": "洞穴（地下的天然居住场所）",
+            "iscorrect": false
+          },
+          {
+            "definition": "篮子（用藤或竹编的容器）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

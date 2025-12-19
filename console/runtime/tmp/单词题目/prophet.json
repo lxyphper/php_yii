@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "prophet",
+      "error_analysis": "学生易因形近词“profit”（利润）产生混淆，或误将“pro-”词根理解为“支持”而错判为“支持者”。",
+      "sentence": "Many people regarded Nostradamus as a great **prophet** because he allegedly predicted several major historical events.",
+      "options": {
+        "option": [
+          {
+            "definition": "利润",
+            "iscorrect": false
+          },
+          {
+            "definition": "预言家；先知",
+            "iscorrect": true
+          },
+          {
+            "definition": "支持者",
+            "iscorrect": false
+          },
+          {
+            "definition": "摄影师",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

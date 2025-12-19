@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "exactly",
+      "error_analysis": "学生易将exactly（副词，正好/精确地）误理解为其同根形容词exact（精确的）或混淆为“完全地”（completely）",
+      "sentence": "The cake needs **exactly** two cups of flour—no more, no less.",
+      "options": {
+        "option": [
+          {
+            "definition": "正好；精确地",
+            "iscorrect": true
+          },
+          {
+            "definition": "精确的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "做出；行动出来",
+            "iscorrect": false
+          },
+          {
+            "definition": "完全地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sunny",
+      "error_analysis": "学生易因形近词“funny”（有趣的）产生混淆，或因“sun”（太阳）字面直译误判为“太阳的”而非“晴朗的”",
+      "sentence": "The beach looks beautiful on a **sunny** day with no clouds in the sky.",
+      "options": {
+        "option": [
+          {
+            "definition": "有趣的",
+            "iscorrect": false
+          },
+          {
+            "definition": "太阳的",
+            "iscorrect": false
+          },
+          {
+            "definition": "晴朗的",
+            "iscorrect": true
+          },
+          {
+            "definition": "温暖的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

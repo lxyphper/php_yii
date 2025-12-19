@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ecliptic",
+      "error_analysis": "学生易因形近词“eclipse”（日食）误将“ecliptic”理解为“与日食相关的”，或因词根不熟悉猜测为“偏离的”。",
+      "sentence": "Astronomers use the **ecliptic** to determine where planets will appear in the sky relative to the Sun throughout the year.",
+      "options": {
+        "option": [
+          {
+            "definition": "黄道（太阳在天空中运行的视路径）",
+            "iscorrect": true
+          },
+          {
+            "definition": "日食或月食的（与日食/月食相关的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "偏离的（从正常路径偏离的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "宇宙飞船的轨道（人造航天器的运行轨迹）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

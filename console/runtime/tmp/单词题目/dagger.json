@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dagger",
+      "error_analysis": "学生易因形近词“dragon”（龙）的干扰而误判“dagger”的词义",
+      "sentence": "The thief hid a **dagger** in his coat pocket to threaten the shopkeeper.",
+      "options": {
+        "option": [
+          {
+            "definition": "匕首",
+            "iscorrect": true
+          },
+          {
+            "definition": "龙",
+            "iscorrect": false
+          },
+          {
+            "definition": "装袋工",
+            "iscorrect": false
+          },
+          {
+            "definition": "标签工",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

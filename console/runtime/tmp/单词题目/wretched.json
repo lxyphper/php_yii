@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wretched",
+      "error_analysis": "将'wretched'误判为'损坏的、失事的'（形近词'wrecked'干扰），或根据'wreck'词根猜测为'残破的'",
+      "sentence": "After losing his job and his home, John felt **wretched** and didn't know how to go on.",
+      "options": {
+        "option": [
+          {
+            "definition": "不幸的；悲惨的",
+            "iscorrect": true
+          },
+          {
+            "definition": "损坏的；失事的",
+            "iscorrect": false
+          },
+          {
+            "definition": "残破的；破败的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人作呕的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

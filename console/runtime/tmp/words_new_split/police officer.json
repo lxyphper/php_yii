@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "policeofficer",
+      "police oficer",
+      "polise officer",
+      "police offocer",
+      "police officor"
+    ],
+    "correct_chunks": [
+      "pol",
+      "ice ",
+      "off",
+      "icer"
+    ],
+    "distractor_chunks": [
+      "of",
+      "ise",
+      "offo",
+      "cor",
+      "policeo"
+    ]
+  },
+  0
+]

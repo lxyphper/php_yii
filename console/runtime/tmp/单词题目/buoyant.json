@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "buoyant",
+      "error_analysis": "学生易因词根“buoy”（浮）误将“buoyant”仅理解为“有浮力的”，或与形近词“bouncy”（有弹性的）混淆，忽略其“乐观的”核心情绪含义。",
+      "sentence": "Despite the bad news, his **buoyant** mood lifted everyone’s spirits in the room.",
+      "options": {
+        "option": [
+          {
+            "definition": "乐观的；情绪高涨的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有浮力的；能浮起的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有弹性的；活泼跳跃的",
+            "iscorrect": false
+          },
+          {
+            "definition": "繁忙的；忙碌不停的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

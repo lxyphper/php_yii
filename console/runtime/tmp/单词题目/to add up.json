@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to add up",
+      "error_analysis": "学生易将\"to add up\"直译为\"加起来（计算总和）\"，忽略其常用引申义\"合理，讲得通\"",
+      "sentence": "Her excuse for being late doesn’t **add up**—she said she was sick, but I saw her playing basketball yesterday.",
+      "options": {
+        "option": [
+          {
+            "definition": "合理，讲得通",
+            "iscorrect": true
+          },
+          {
+            "definition": "加起来（计算总和）",
+            "iscorrect": false
+          },
+          {
+            "definition": "增加到",
+            "iscorrect": false
+          },
+          {
+            "definition": "补充",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

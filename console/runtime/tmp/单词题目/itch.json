@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "itch",
+      "error_analysis": "中国学生易因形近词“inch”（英寸）混淆，或误将“itch”当作形容词“痒的”（实际为名词/动词“痒”）",
+      "sentence": "After sitting on the grass for an hour, he developed an **itch** on his back and couldn’t stop scratching.",
+      "options": {
+        "option": [
+          {
+            "definition": "英寸（长度单位）",
+            "iscorrect": false
+          },
+          {
+            "definition": "痒的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "痒（名词，发痒的感觉）",
+            "iscorrect": true
+          },
+          {
+            "definition": "抓（动词，挠）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

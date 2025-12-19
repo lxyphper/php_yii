@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stressed",
+      "error_analysis": "中国学生易因形近词\"stretch\"（伸展）误判为\"伸展的\"，或因\"stress\"的\"强调\"义误理解为\"被强调的\"",
+      "sentence": "After working 12 hours straight, Sarah felt so **stressed** that she couldn't fall asleep.",
+      "options": {
+        "option": [
+          {
+            "definition": "伸展的",
+            "iscorrect": false
+          },
+          {
+            "definition": "被强调的",
+            "iscorrect": false
+          },
+          {
+            "definition": "疲惫的",
+            "iscorrect": false
+          },
+          {
+            "definition": "感到压力大的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

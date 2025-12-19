@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "faucet",
+      "error_analysis": "中国学生易因\"faucet\"与基础词\"facility\"（设施）拼写相近（均以\"fac\"开头）而误解为\"设施\"。",
+      "sentence": "Please turn off the **faucet** after washing your hands to save water.",
+      "options": {
+        "option": [
+          {
+            "definition": "设施",
+            "iscorrect": false
+          },
+          {
+            "definition": "力量",
+            "iscorrect": false
+          },
+          {
+            "definition": "事实",
+            "iscorrect": false
+          },
+          {
+            "definition": "水龙头",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

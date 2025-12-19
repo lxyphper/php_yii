@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cotton",
+      "error_analysis": "学生易因形近词\"carton\"(纸箱)或拼写/发音接近词\"count\"(计数)混淆\"cotton\"的含义",
+      "sentence": "This T-shirt is made of **cotton**, so it feels soft and comfortable.",
+      "options": {
+        "option": [
+          {
+            "definition": "棉花",
+            "iscorrect": true
+          },
+          {
+            "definition": "纸箱",
+            "iscorrect": false
+          },
+          {
+            "definition": "计数",
+            "iscorrect": false
+          },
+          {
+            "definition": "糖果",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

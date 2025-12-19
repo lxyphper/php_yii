@@ -1,0 +1,27 @@
+[
+  {
+    "common_misspellings": [
+      "antartic circle",
+      "anarctic circle",
+      "antarctik circle",
+      "antarctic cirle",
+      "antarctic circel",
+      "antarctic cercle"
+    ],
+    "correct_chunks": [
+      "ant",
+      "arctic",
+      "cir",
+      "cle"
+    ],
+    "distractor_chunks": [
+      "an",
+      "artic",
+      "ctik",
+      "le",
+      "cel",
+      "cer"
+    ]
+  },
+  0
+]

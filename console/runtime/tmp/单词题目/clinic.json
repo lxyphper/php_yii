@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "clinic",
+      "error_analysis": "中国学生易因形近词“cinema”（电影院）误判，或因“clin-”词根猜测为“躺的地方”（如“卧室”）。",
+      "sentence": "My grandma goes to the **clinic** down the street every month to get her blood pressure checked.",
+      "options": {
+        "option": [
+          {
+            "definition": "电影院",
+            "iscorrect": false
+          },
+          {
+            "definition": "卧室",
+            "iscorrect": false
+          },
+          {
+            "definition": "诊所",
+            "iscorrect": true
+          },
+          {
+            "definition": "食堂",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

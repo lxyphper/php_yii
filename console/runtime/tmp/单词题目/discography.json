@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "discography",
+      "error_analysis": "学生易因形近词\"biography\"（传记）干扰，或词根\"graphy\"（记录）误导，将\"discography\"误判为\"艺术家传记\"或\"唱片文字评论\"。",
+      "sentence": "Taylor Swift's **discography** includes 12 studio albums, 5 EPs, and over 20 singles released throughout her career.",
+      "options": {
+        "option": [
+          {
+            "definition": "艺术家的传记",
+            "iscorrect": false
+          },
+          {
+            "definition": "（艺术家的）唱片目录；所有发行作品的合集",
+            "iscorrect": true
+          },
+          {
+            "definition": "唱片的文字评论或介绍",
+            "iscorrect": false
+          },
+          {
+            "definition": "唱片的制作流程",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

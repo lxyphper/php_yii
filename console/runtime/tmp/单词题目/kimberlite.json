@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "kimberlite",
+      "error_analysis": "学生易因形近词\"kimono\"(和服)联想为\"服装材料\"，或因\"lite\"后缀误判为\"轻的物质\"",
+      "sentence": "Geologists found a large deposit of **kimberlite** in the area, which is known for containing diamonds and forming from ancient volcanic activity.",
+      "options": {
+        "option": [
+          {
+            "definition": "金伯利岩（一种含钻石的火山岩）",
+            "iscorrect": true
+          },
+          {
+            "definition": "和服所用的轻质丝绸面料",
+            "iscorrect": false
+          },
+          {
+            "definition": "用于建筑的轻量级隔热材料",
+            "iscorrect": false
+          },
+          {
+            "definition": "含高纯度铜的金属矿石",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

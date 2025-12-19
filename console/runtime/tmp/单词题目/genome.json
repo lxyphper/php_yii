@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "genome",
+      "error_analysis": "中国学生易因形近词\"gene\"（基因）干扰或词根\"gen-\"误导，将\"genome\"误判为\"基因\"或\"基因片段\"。",
+      "sentence": "Scientists have sequenced the entire **genome** of the panda, revealing its unique genetic traits.",
+      "options": {
+        "option": [
+          {
+            "definition": "基因",
+            "iscorrect": false
+          },
+          {
+            "definition": "基因片段",
+            "iscorrect": false
+          },
+          {
+            "definition": "遗传密码",
+            "iscorrect": false
+          },
+          {
+            "definition": "（生物的）基因组",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

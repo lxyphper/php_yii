@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "possession",
+      "error_analysis": "中国学生易因形近词“position”（位置）混淆，或拆分“session”部分误以为是“会议”。",
+      "sentence": "Her most cherished **possession** is a handwritten letter from her grandmother.",
+      "options": {
+        "option": [
+          {
+            "definition": "财产；所有物",
+            "iscorrect": true
+          },
+          {
+            "definition": "位置",
+            "iscorrect": false
+          },
+          {
+            "definition": "拥有的动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "会议",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

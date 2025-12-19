@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unnoticeable",
+      "error_analysis": "学生易将“unnoticeable”误理解为“未被注意到的”（形近词“unnoticed”混淆）或“人主动不注意的”，忽略其“不易被察觉”的核心义。",
+      "sentence": "The new logo's changes are so subtle that they're almost **unnoticeable** to most customers.",
+      "options": {
+        "option": [
+          {
+            "definition": "不明显的；不易察觉的",
+            "iscorrect": true
+          },
+          {
+            "definition": "未被注意到的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不注意的（指人主动不关注）",
+            "iscorrect": false
+          },
+          {
+            "definition": "不值得注意的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

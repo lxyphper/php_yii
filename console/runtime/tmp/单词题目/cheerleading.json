@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cheerleading",
+      "error_analysis": "学生易根据\"cheer\"(欢呼)和\"leading\"(引导)的字面意思，错误理解为\"引导欢呼的行为\"，忽略其\"啦啦队活动\"的特定含义",
+      "sentence": "The school’s **cheerleading** team will perform a colorful routine during halftime of the basketball game.",
+      "options": {
+        "option": [
+          {
+            "definition": "啦啦队活动（为体育团队加油的表演或活动）",
+            "iscorrect": true
+          },
+          {
+            "definition": "引导他人欢呼的行为",
+            "iscorrect": false
+          },
+          {
+            "definition": "快乐的领导方式",
+            "iscorrect": false
+          },
+          {
+            "definition": "欢呼的人群",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "caldera",
+      "error_analysis": "学生易因形近词\"calendar\"（日历）混淆，或误将\"cal\"联想为\"热\"而猜成热泉等含义。",
+      "sentence": "After the massive volcanic eruption, a large **caldera** formed when the magma chamber beneath the mountain collapsed, later filling with water to create a tranquil lake.",
+      "options": {
+        "option": [
+          {
+            "definition": "火山口；破火山口",
+            "iscorrect": true
+          },
+          {
+            "definition": "日历；月历",
+            "iscorrect": false
+          },
+          {
+            "definition": "热泉；温泉",
+            "iscorrect": false
+          },
+          {
+            "definition": "峡谷；深谷",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

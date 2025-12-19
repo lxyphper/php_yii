@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "divestment",
+      "error_analysis": "因形近词investment（投资）的干扰，学生易将divestment误判为“投资”",
+      "sentence": "The company announced a **divestment** of its non-core businesses to focus on its main products.",
+      "options": {
+        "option": [
+          {
+            "definition": "撤资；剥离资产",
+            "iscorrect": true
+          },
+          {
+            "definition": "投资",
+            "iscorrect": false
+          },
+          {
+            "definition": "服装采购（来自词根vest“衣服”的误导）",
+            "iscorrect": false
+          },
+          {
+            "definition": "资金积累",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

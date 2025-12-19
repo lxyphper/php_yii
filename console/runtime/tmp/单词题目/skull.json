@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "skull",
+      "error_analysis": "中国学生最易将“skull”与形近词“skill”（技能）混淆，或误猜为“壳”（如shell的联想）。",
+      "sentence": "The archaeologist found a well-preserved **skull** of an ancient human in the ruins.",
+      "options": {
+        "option": [
+          {
+            "definition": "技能",
+            "iscorrect": false
+          },
+          {
+            "definition": "壳",
+            "iscorrect": false
+          },
+          {
+            "definition": "颅骨；头骨",
+            "iscorrect": true
+          },
+          {
+            "definition": "船桨",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

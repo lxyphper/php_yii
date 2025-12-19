@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "printer",
+      "error_analysis": "学生易混淆形近词“painter”（画家）或误将“printer”理解为“打印者（人）”而非“打印机（设备）”",
+      "sentence": "Please make sure the **printer** is turned on before you send the document to print.",
+      "options": {
+        "option": [
+          {
+            "definition": "打印机（设备）",
+            "iscorrect": true
+          },
+          {
+            "definition": "画家",
+            "iscorrect": false
+          },
+          {
+            "definition": "打印者（操作打印设备的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "印刷机",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

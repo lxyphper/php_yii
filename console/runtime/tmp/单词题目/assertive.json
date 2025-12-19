@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "assertive",
+      "error_analysis": "易混淆形近词aggressive（攻击性的），或因词根assert（断言）过度直译而误解为贬义的“爱断言的”",
+      "sentence": "During the meeting, Lisa was **assertive** when she clearly stated her ideas without being rude to others.",
+      "options": {
+        "option": [
+          {
+            "definition": "自信果断的",
+            "iscorrect": true
+          },
+          {
+            "definition": "攻击性的",
+            "iscorrect": false
+          },
+          {
+            "definition": "爱断言的",
+            "iscorrect": false
+          },
+          {
+            "definition": "辅助的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

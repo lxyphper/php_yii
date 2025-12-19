@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "priceless",
+      "error_analysis": "易混淆形近词\"pricey\"(认为是\"昂贵的\")，或因词根\"price+less\"直译为\"无价值的\"而忽略其引申义\"无价的\"",
+      "sentence": "The old photo album from my grandmother is **priceless** to me—it holds all our family's happiest memories.",
+      "options": {
+        "option": [
+          {
+            "definition": "无价的；极珍贵的",
+            "iscorrect": true
+          },
+          {
+            "definition": "昂贵的；高价的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无价值的；不值钱的",
+            "iscorrect": false
+          },
+          {
+            "definition": "难以定价的；价格模糊的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

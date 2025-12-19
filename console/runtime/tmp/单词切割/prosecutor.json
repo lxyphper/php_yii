@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "prosekutor",
+      "prosecuter",
+      "proseutor",
+      "prosacutor",
+      "prasecutor"
+    ],
+    "correct_chunks": [
+      "pro",
+      "sec",
+      "cu",
+      "tor"
+    ],
+    "distractor_chunks": [
+      "ku",
+      "ter",
+      "se",
+      "sac",
+      "pra"
+    ]
+  },
+  0
+]

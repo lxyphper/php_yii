@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "scandalous",
+      "error_analysis": "学生易因形近词“standard”（标准的）混淆，或因“scandal”（丑闻）字面义误判为“著名的”。",
+      "sentence": "The politician's **scandalous** behavior of accepting bribes from businessmen was widely reported in the news.",
+      "options": {
+        "option": [
+          {
+            "definition": "标准的",
+            "iscorrect": false
+          },
+          {
+            "definition": "著名的",
+            "iscorrect": false
+          },
+          {
+            "definition": "引起丑闻的；可耻的；不道德的",
+            "iscorrect": true
+          },
+          {
+            "definition": "令人震惊的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

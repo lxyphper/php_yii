@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to perform",
+      "error_analysis": "学生易因词根“form”（形式）误导认为是“形成/构成”，或因形近词“prepare”（准备）混淆为“准备/筹备”",
+      "sentence": "The band will **perform** their new song at the concert tonight.",
+      "options": {
+        "option": [
+          {
+            "definition": "执行；表演；完成",
+            "iscorrect": true
+          },
+          {
+            "definition": "形成；构成",
+            "iscorrect": false
+          },
+          {
+            "definition": "准备；筹备",
+            "iscorrect": false
+          },
+          {
+            "definition": "允许；许可",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

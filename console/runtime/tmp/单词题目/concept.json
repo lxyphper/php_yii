@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "concept",
+      "error_analysis": "易因形近词“concert”（音乐会）混淆，或因词根“cept”（抓）误判为具体的“抓住的动作”",
+      "sentence": "The teacher explained the **concept** of gravity using a simple experiment with a ball and a ramp.",
+      "options": {
+        "option": [
+          {
+            "definition": "概念；观念",
+            "iscorrect": true
+          },
+          {
+            "definition": "音乐会",
+            "iscorrect": false
+          },
+          {
+            "definition": "抓住的动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "内容",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

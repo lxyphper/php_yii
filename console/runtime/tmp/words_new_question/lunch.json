@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lunch",
+      "error_analysis": "学生易因形近词\"launch\"（发射；启动）混淆，将\"lunch\"误理解为\"发射\"或\"启动\"。",
+      "sentence": "We usually have **lunch** at 12:30 in the company cafeteria.",
+      "options": {
+        "option": [
+          {
+            "definition": "午餐",
+            "iscorrect": true
+          },
+          {
+            "definition": "发射；启动",
+            "iscorrect": false
+          },
+          {
+            "definition": "休息室",
+            "iscorrect": false
+          },
+          {
+            "definition": "预感",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

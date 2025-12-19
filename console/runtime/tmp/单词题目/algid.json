@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "algid",
+      "error_analysis": "学生易因形近词\"acid\"(酸的)或词根\"alg-\"(疼痛)误判为\"酸的\"或\"疼痛的\"",
+      "sentence": "The hikers shivered as they stepped into the **algid** cave, their breath turning to mist in the air.",
+      "options": {
+        "option": [
+          {
+            "definition": "酸的",
+            "iscorrect": false
+          },
+          {
+            "definition": "疼痛的",
+            "iscorrect": false
+          },
+          {
+            "definition": "寒冷的",
+            "iscorrect": true
+          },
+          {
+            "definition": "干燥的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "opthalmology",
+      "ophthamology",
+      "ophthalmolgy",
+      "opsalmology",
+      "ophthalmlogy"
+    ],
+    "correct_chunks": [
+      "ophth",
+      "alm",
+      "ol",
+      "ogy"
+    ],
+    "distractor_chunks": [
+      "opth",
+      "am",
+      "l",
+      "ops",
+      "al"
+    ]
+  },
+  0
+]

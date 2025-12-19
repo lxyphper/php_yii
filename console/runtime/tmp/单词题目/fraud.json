@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fraud",
+      "error_analysis": "学生易因形近词“fragrant”（芳香的）或“frail”（虚弱的）产生错误联想，或误猜为“错误”。",
+      "sentence": "The company was accused of committing **fraud** by selling fake products to customers.",
+      "options": {
+        "option": [
+          {
+            "definition": "欺骗；欺诈（行为）",
+            "iscorrect": true
+          },
+          {
+            "definition": "芳香的",
+            "iscorrect": false
+          },
+          {
+            "definition": "虚弱的",
+            "iscorrect": false
+          },
+          {
+            "definition": "错误；过失",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

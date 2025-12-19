@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "enlivening",
+      "error_analysis": "易与形近词\"enlightening\"（有启发的）混淆，或因\"en-+live\"字面推导为\"有生命力的\"",
+      "sentence": "The band's energetic performance was **enlivening**, turning the quiet party into a lively celebration.",
+      "options": {
+        "option": [
+          {
+            "definition": "有启发的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人愉快的；使活跃的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有生命力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "持久的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

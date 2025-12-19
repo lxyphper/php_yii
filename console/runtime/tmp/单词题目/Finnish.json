@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Finnish",
+      "error_analysis": "学生易将\"Finnish\"与形近词\"finish\"（完成）混淆，误判为\"完成的\"或\"结束的\"",
+      "sentence": "She is learning **Finnish** to communicate with her relatives in Helsinki.",
+      "options": {
+        "option": [
+          {
+            "definition": "芬兰的；芬兰语",
+            "iscorrect": true
+          },
+          {
+            "definition": "完成的；结束的",
+            "iscorrect": false
+          },
+          {
+            "definition": "芬兰人的复数形式",
+            "iscorrect": false
+          },
+          {
+            "definition": "精细的；精致的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "stetoscope",
+      "stethascope",
+      "stethoskop",
+      "stthoscope",
+      "stescope"
+    ],
+    "correct_chunks": [
+      "steth",
+      "o",
+      "scope"
+    ],
+    "distractor_chunks": [
+      "stet",
+      "stes",
+      "ascop",
+      "oskop",
+      "stth"
+    ]
+  },
+  0
+]

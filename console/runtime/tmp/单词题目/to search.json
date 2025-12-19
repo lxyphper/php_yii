@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to search",
+      "error_analysis": "学生易因形近词“research”（研究）干扰，将“to search”误理解为“研究”；或因“search the room”等搭配误作“检查”。",
+      "sentence": "The police decided to **search** the forest for the missing hiker.",
+      "options": {
+        "option": [
+          {
+            "definition": "寻找；搜索",
+            "iscorrect": true
+          },
+          {
+            "definition": "研究",
+            "iscorrect": false
+          },
+          {
+            "definition": "检查",
+            "iscorrect": false
+          },
+          {
+            "definition": "发现",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

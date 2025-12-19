@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "theUnited States",
+      "the Untied States",
+      "the Unitd States",
+      "the United Sates",
+      "the United Stetes"
+    ],
+    "correct_chunks": [
+      "the ",
+      "Unit",
+      "ed ",
+      "States"
+    ],
+    "distractor_chunks": [
+      "the",
+      "Unti",
+      "Unitd ",
+      "Sates",
+      "Stetes"
+    ]
+  },
+  0
+]

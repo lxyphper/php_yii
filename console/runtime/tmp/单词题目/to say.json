@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to say",
+      "error_analysis": "中国学生易将“to say”与形近词“sway”（摇摆）混淆，或误将其与“tell”（告诉）的用法等同",
+      "sentence": "Could you **say** your name again? I didn’t catch it.",
+      "options": {
+        "option": [
+          {
+            "definition": "说；讲",
+            "iscorrect": true
+          },
+          {
+            "definition": "摇摆",
+            "iscorrect": false
+          },
+          {
+            "definition": "告诉",
+            "iscorrect": false
+          },
+          {
+            "definition": "躺",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

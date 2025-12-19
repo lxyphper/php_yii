@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to drive",
+      "error_analysis": "中国学生易混淆形近词\"dive\"(潜水)，或误将\"drive\"的核心义\"驾驶\"与引申义\"推动\"混淆",
+      "sentence": "She learned to **drive** a car when she was 18, just before starting college.",
+      "options": {
+        "option": [
+          {
+            "definition": "驾驶（汽车、卡车等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "潜水（进入水中）",
+            "iscorrect": false
+          },
+          {
+            "definition": "推动（使移动或前进）",
+            "iscorrect": false
+          },
+          {
+            "definition": "骑（自行车、马等）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wishy-washy",
+      "error_analysis": "学生易因“wish”（愿望）和“wash”（洗）的形近联想，误将“wishy-washy”理解为与“渴望”或“清洗”相关的含义。",
+      "sentence": "The manager gave a **wishy-washy** response when asked about the company's future plans.",
+      "options": {
+        "option": [
+          {
+            "definition": "渴望的；有愿望的",
+            "iscorrect": false
+          },
+          {
+            "definition": "清洗过的；洁净的",
+            "iscorrect": false
+          },
+          {
+            "definition": "含糊其辞的；优柔寡断的",
+            "iscorrect": true
+          },
+          {
+            "definition": "强壮的；有力的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

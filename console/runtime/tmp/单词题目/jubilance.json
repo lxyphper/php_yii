@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "jubilance",
+      "error_analysis": "学生易因形近词\"balance\"（平衡）的拼写干扰，或对\"jubil-\"词根的陌生而误判词义",
+      "sentence": "The whole town was immersed in **jubilance** after their local team won the national title.",
+      "options": {
+        "option": [
+          {
+            "definition": "喜悦；欢欣",
+            "iscorrect": true
+          },
+          {
+            "definition": "平衡",
+            "iscorrect": false
+          },
+          {
+            "definition": "跳跃",
+            "iscorrect": false
+          },
+          {
+            "definition": "庆祝活动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

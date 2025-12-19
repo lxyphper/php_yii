@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "orchid",
+      "error_analysis": "学生易因形近词\"orchard\"（果园）的干扰，将\"orchid\"误判为\"果园\"",
+      "sentence": "The **orchid** on the windowsill blooms every spring, filling the room with a delicate fragrance.",
+      "options": {
+        "option": [
+          {
+            "definition": "兰花",
+            "iscorrect": true
+          },
+          {
+            "definition": "果园",
+            "iscorrect": false
+          },
+          {
+            "definition": "管弦乐器",
+            "iscorrect": false
+          },
+          {
+            "definition": "轨道",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

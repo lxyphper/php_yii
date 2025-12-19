@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "region",
+      "error_analysis": "中国学生易因形近词“religion”（宗教）或“reign”（统治）拼写相似混淆，或因词根“reg-”（统治）误导认为“region”与“统治”相关。",
+      "sentence": "The company plans to expand its business into the Asian **region** next year.",
+      "options": {
+        "option": [
+          {
+            "definition": "区域；地区",
+            "iscorrect": true
+          },
+          {
+            "definition": "宗教",
+            "iscorrect": false
+          },
+          {
+            "definition": "统治；政权",
+            "iscorrect": false
+          },
+          {
+            "definition": "规则；条例",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

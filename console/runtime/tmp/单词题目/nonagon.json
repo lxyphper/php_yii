@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nonagon",
+      "error_analysis": "学生易因形近词\"nonagenarian\"(九十岁的人)或词根\"non-\"+\"agon\"误解为\"九十岁的人\"或\"无痛苦的状态\"",
+      "sentence": "The playground has a new **nonagon**-shaped fountain, which stands out among the circular and rectangular structures.",
+      "options": {
+        "option": [
+          {
+            "definition": "九边形；九角形",
+            "iscorrect": true
+          },
+          {
+            "definition": "九十岁的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "无痛苦的状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "八角形；八角体",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "light-year",
+      "error_analysis": "学生易因\"year\"（年）的时间属性，将\"light-year\"误判为时间单位",
+      "sentence": "The nearest star to Earth, Proxima Centauri, is about 4.2 **light-years** away.",
+      "options": {
+        "option": [
+          {
+            "definition": "距离单位（光在真空中一年所传播的距离）",
+            "iscorrect": true
+          },
+          {
+            "definition": "时间单位（光持续照射一年的时间）",
+            "iscorrect": false
+          },
+          {
+            "definition": "光的速度单位（表示光每秒传播的距离）",
+            "iscorrect": false
+          },
+          {
+            "definition": "恒星的年龄单位（衡量恒星存在时间的单位）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

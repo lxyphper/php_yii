@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "penny-pinching",
+      "error_analysis": "学生可能根据“penny（便士）+ pinching（捏）”的字面意思，错误理解为“节省零钱”（中性/褒义），而未意识到其贬义的“吝啬、小气”",
+      "sentence": "Sarah called her boss **penny-pinching** because he wouldn’t even pay for our team lunch.",
+      "options": {
+        "option": [
+          {
+            "definition": "节省的；节俭的",
+            "iscorrect": false
+          },
+          {
+            "definition": "缺钱的；贫困的",
+            "iscorrect": false
+          },
+          {
+            "definition": "收集便士的",
+            "iscorrect": false
+          },
+          {
+            "definition": "吝啬的；小气的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

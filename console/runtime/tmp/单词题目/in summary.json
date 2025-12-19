@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "in summary",
+      "error_analysis": "易因\"summary\"与\"summer\"形近误判为\"在夏天\"，或因字面直译误为\"在摘要里\"",
+      "sentence": "After analyzing the pros and cons of the project, **in summary**, the team agreed to start it next quarter.",
+      "options": {
+        "option": [
+          {
+            "definition": "总之，概括来说",
+            "iscorrect": true
+          },
+          {
+            "definition": "在夏天",
+            "iscorrect": false
+          },
+          {
+            "definition": "在摘要里",
+            "iscorrect": false
+          },
+          {
+            "definition": "在总和里",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

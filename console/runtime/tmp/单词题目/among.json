@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "among",
+      "error_analysis": "学生易因形近词“along”（沿着）的干扰，或错误拆分“among”为“在...旁边”而产生理解偏差。",
+      "sentence": "The little girl was playing **among** the flowers in the garden.",
+      "options": {
+        "option": [
+          {
+            "definition": "在...之中（三者或以上）",
+            "iscorrect": true
+          },
+          {
+            "definition": "沿着",
+            "iscorrect": false
+          },
+          {
+            "definition": "在...旁边",
+            "iscorrect": false
+          },
+          {
+            "definition": "在两者之间",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

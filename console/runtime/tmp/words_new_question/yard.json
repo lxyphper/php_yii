@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "yard",
+      "error_analysis": "学生易因形近词“year”（年）混淆，或误将“yard”理解为长度单位“码”而非常用的“院子”。",
+      "sentence": "The kids are playing football in the **yard** behind their house.",
+      "options": {
+        "option": [
+          {
+            "definition": "院子",
+            "iscorrect": true
+          },
+          {
+            "definition": "年",
+            "iscorrect": false
+          },
+          {
+            "definition": "码（长度单位）",
+            "iscorrect": false
+          },
+          {
+            "definition": "硬的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

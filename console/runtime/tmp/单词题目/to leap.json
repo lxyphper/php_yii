@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to leap",
+      "error_analysis": "中国学生易因形近词“lead”（领导）的干扰，将“leap”误理解为“领导”。",
+      "sentence": "The cat was so excited to see its owner that it started to **leap** onto the sofa immediately.",
+      "options": {
+        "option": [
+          {
+            "definition": "跳跃",
+            "iscorrect": true
+          },
+          {
+            "definition": "领导",
+            "iscorrect": false
+          },
+          {
+            "definition": "离开",
+            "iscorrect": false
+          },
+          {
+            "definition": "倾斜",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "excitement",
+      "error_analysis": "学生可能因词根“cite”（引用）误解“excitement”为“引用的内容”，或因“exc-”与“excellent”（优秀的）联想而误解为“优秀的品质”",
+      "sentence": "The children were jumping up and down with **excitement** when they saw the birthday cake.",
+      "options": {
+        "option": [
+          {
+            "definition": "兴奋的状态",
+            "iscorrect": true
+          },
+          {
+            "definition": "引用的内容",
+            "iscorrect": false
+          },
+          {
+            "definition": "优秀的品质",
+            "iscorrect": false
+          },
+          {
+            "definition": "兴奋的动作",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

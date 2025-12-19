@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hey",
+      "error_analysis": "学生易因形近词\"hay\"（干草）的形状与发音相似而误判\"hey\"的含义",
+      "sentence": "**Hey**, can you pass me the salt? I can't reach it.",
+      "options": {
+        "option": [
+          {
+            "definition": "嘿；喂（用于引起注意）",
+            "iscorrect": true
+          },
+          {
+            "definition": "干草（晒干的草本植物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "他（人称代词主格）",
+            "iscorrect": false
+          },
+          {
+            "definition": "是的（表示同意或肯定）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cookbook",
+      "error_analysis": "学生易将\"cookbook\"字面拆分为\"cook\"(厨师)+\"book\"(书)，错误理解为\"关于厨师的书籍\"，而非其核心词义\"食谱书\"。",
+      "sentence": "My mom always uses her favorite **cookbook** to make chocolate cake for my birthday.",
+      "options": {
+        "option": [
+          {
+            "definition": "食谱书（包含烹饪方法和配方的书籍）",
+            "iscorrect": true
+          },
+          {
+            "definition": "关于厨师的传记或故事书",
+            "iscorrect": false
+          },
+          {
+            "definition": "炊具（如锅、铲等烹饪工具）",
+            "iscorrect": false
+          },
+          {
+            "definition": "烹饪课程的理论教材",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

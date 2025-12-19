@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to condone",
+      "error_analysis": "学生易因形近词\"condom\"(避孕套)或词根拆分(con+done)误判为\"使用避孕套\"或\"一起完成\"",
+      "sentence": "The school will not **condone** any form of bullying among students.",
+      "options": {
+        "option": [
+          {
+            "definition": "宽恕；纵容",
+            "iscorrect": true
+          },
+          {
+            "definition": "使用避孕套",
+            "iscorrect": false
+          },
+          {
+            "definition": "一起完成；共同做",
+            "iscorrect": false
+          },
+          {
+            "definition": "浓缩；精简",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "on cloud nine",
+      "error_analysis": "学生易因字面直译\"九霄云外\"或混淆\"in the clouds\"（心不在焉）而误解为\"思绪飘离、不专注\"。",
+      "sentence": "After winning the championship, the team members were **on cloud nine** and celebrated all night with their fans.",
+      "options": {
+        "option": [
+          {
+            "definition": "非常开心，狂喜",
+            "iscorrect": true
+          },
+          {
+            "definition": "心不在焉，思绪飘到九霄云外",
+            "iscorrect": false
+          },
+          {
+            "definition": "处于幻想或不切实际的状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "感到焦虑或对未来不安",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

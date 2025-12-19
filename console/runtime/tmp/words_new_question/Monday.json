@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Monday",
+      "error_analysis": "学生易因形近词\"Monkey\"(猴子)或\"Month\"(月份)的拼写相似,或对\"Mon\"词根的错误联想(如\"单一的一天\")而混淆其核心词义。",
+      "sentence": "We have a math test on **Monday** next week, so I need to study this weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "星期一",
+            "iscorrect": true
+          },
+          {
+            "definition": "猴子",
+            "iscorrect": false
+          },
+          {
+            "definition": "月份",
+            "iscorrect": false
+          },
+          {
+            "definition": "单一的一天",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "replete",
+      "error_analysis": "易受形近词\"complete\"(完全的)干扰，或因词根\"re-\"误判为\"重复的\"",
+      "sentence": "The old library is **replete** with rare books and ancient manuscripts, attracting scholars from all over the world.",
+      "options": {
+        "option": [
+          {
+            "definition": "充满的；装满的",
+            "iscorrect": true
+          },
+          {
+            "definition": "完全的；彻底的",
+            "iscorrect": false
+          },
+          {
+            "definition": "重复的；反复的",
+            "iscorrect": false
+          },
+          {
+            "definition": "补充的；填满的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

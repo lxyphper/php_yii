@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to play",
+      "error_analysis": "中国学生易将“play”与形近词“pray”（祈祷）混淆，或误将其在“演奏乐器”语境中的含义直译为“玩”。",
+      "sentence": "She likes to **play** the guitar every evening to relax.",
+      "options": {
+        "option": [
+          {
+            "definition": "演奏（乐器）",
+            "iscorrect": true
+          },
+          {
+            "definition": "祈祷",
+            "iscorrect": false
+          },
+          {
+            "definition": "玩（玩具）",
+            "iscorrect": false
+          },
+          {
+            "definition": "放置",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

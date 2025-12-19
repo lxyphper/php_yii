@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "motel",
+      "error_analysis": "学生易因形近词\"hotel\"（酒店）混淆词义，或因\"mot\"联想到\"move\"（移动）误判为\"移动酒店\"",
+      "sentence": "After driving for six hours, we decided to stop at a **motel** near the highway for the night.",
+      "options": {
+        "option": [
+          {
+            "definition": "汽车旅馆",
+            "iscorrect": true
+          },
+          {
+            "definition": "酒店",
+            "iscorrect": false
+          },
+          {
+            "definition": "移动酒店",
+            "iscorrect": false
+          },
+          {
+            "definition": "摩托车专卖店",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

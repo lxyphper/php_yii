@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "heroine",
+      "error_analysis": "学生易混淆形近词\"heroin\"(海洛因)，或误将\"-ine\"后缀推导为\"英雄的配偶/助手\"。",
+      "sentence": "In the movie, the **heroine** bravely saved the village from the flood and became a symbol of courage for everyone.",
+      "options": {
+        "option": [
+          {
+            "definition": "女英雄；（书、电影等的）女主角",
+            "iscorrect": true
+          },
+          {
+            "definition": "海洛因（一种毒品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "英雄的配偶或伴侣",
+            "iscorrect": false
+          },
+          {
+            "definition": "英雄身边的助手或伙伴",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

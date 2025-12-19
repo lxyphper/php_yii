@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "liberalism",
+      "error_analysis": "学生易将“liberalism”与形近词“liberty”（自由）混淆，或因“liberal”的“慷慨”义误判为“慷慨主义”。",
+      "sentence": "Many politicians argue that **liberalism** promotes individual freedom and free-market economics.",
+      "options": {
+        "option": [
+          {
+            "definition": "自由主义（一种政治或经济学说，强调个人自由与市场经济）",
+            "iscorrect": true
+          },
+          {
+            "definition": "自由（指个人不受约束的状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "慷慨主义（强调大方或施舍的理念）",
+            "iscorrect": false
+          },
+          {
+            "definition": "字面主义（拘泥于文字表面意思的倾向）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

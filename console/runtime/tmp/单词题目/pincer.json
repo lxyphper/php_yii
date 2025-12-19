@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pincer",
+      "error_analysis": "易因形近词\"prince\"（王子）误认，或因词根\"pin\"（针）误导为\"针状物\"",
+      "sentence": "The crab used its **pincers** to crack open the shell of the snail.",
+      "options": {
+        "option": [
+          {
+            "definition": "钳子；螯",
+            "iscorrect": true
+          },
+          {
+            "definition": "王子",
+            "iscorrect": false
+          },
+          {
+            "definition": "针状物；别针",
+            "iscorrect": false
+          },
+          {
+            "definition": "公主",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

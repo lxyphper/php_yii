@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to despoil",
+      "error_analysis": "易因形近词\"destroy\"（破坏）及词根\"spoils\"（战利品）误判为\"破坏\"或\"收集战利品\"",
+      "sentence": "The ancient temple was **despoiled** of its valuable artifacts by thieves.",
+      "options": {
+        "option": [
+          {
+            "definition": "掠夺；抢劫",
+            "iscorrect": true
+          },
+          {
+            "definition": "破坏；摧毁",
+            "iscorrect": false
+          },
+          {
+            "definition": "收集；积累（战利品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "描述；描绘",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

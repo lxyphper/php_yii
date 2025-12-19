@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gallant",
+      "error_analysis": "学生易因形近词\"gentle\"（温和的）误解\"gallant\"为\"温和的\"，或因词根\"gall\"（胆汁）误解为\"易怒的\"",
+      "sentence": "The firefighter made a **gallant** effort to rescue the family trapped in the burning building.",
+      "options": {
+        "option": [
+          {
+            "definition": "勇敢的；英勇的",
+            "iscorrect": true
+          },
+          {
+            "definition": "温和的",
+            "iscorrect": false
+          },
+          {
+            "definition": "易怒的",
+            "iscorrect": false
+          },
+          {
+            "definition": "慷慨的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

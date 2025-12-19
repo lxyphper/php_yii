@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "euro",
+      "error_analysis": "学生易因形近词\"Europe\"（欧洲）的联想，将\"euro\"误判为\"欧洲\"而非其核心词义\"欧元\"。",
+      "sentence": "She exchanged 100 dollars for **euros** at the bank before her trip to Paris.",
+      "options": {
+        "option": [
+          {
+            "definition": "欧洲（大陆名称）",
+            "iscorrect": false
+          },
+          {
+            "definition": "欧元（欧洲的官方货币单位）",
+            "iscorrect": true
+          },
+          {
+            "definition": "欧洲人（欧洲的本地人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "欧洲的（描述欧洲的形容词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

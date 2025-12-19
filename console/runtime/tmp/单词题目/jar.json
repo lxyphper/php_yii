@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "jar",
+      "error_analysis": "学生易因形近词\"car\"（汽车）或与\"jam\"（果酱）的关联而误将\"jar\"理解为\"汽车\"或\"果酱\"",
+      "sentence": "She stored the homemade pickles in a glass **jar** to keep them fresh.",
+      "options": {
+        "option": [
+          {
+            "definition": "罐子（玻璃或陶瓷容器）",
+            "iscorrect": true
+          },
+          {
+            "definition": "汽车",
+            "iscorrect": false
+          },
+          {
+            "definition": "果酱",
+            "iscorrect": false
+          },
+          {
+            "definition": "酒吧",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "alkali",
+      "error_analysis": "学生易因拼写近似“alcohol”（酒精）而误将“alkali”理解为“酒精”或相关含义",
+      "sentence": "Many cleaning products contain **alkali**, which helps break down grease and dirt effectively.",
+      "options": {
+        "option": [
+          {
+            "definition": "碱；强碱",
+            "iscorrect": true
+          },
+          {
+            "definition": "酒精；乙醇",
+            "iscorrect": false
+          },
+          {
+            "definition": "全部杀死；致命物质",
+            "iscorrect": false
+          },
+          {
+            "definition": "外星人；外来者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "water park",
+      "error_analysis": "学生易将\"park\"误作\"停车场\"导致\"水上停车场\"的错误，或混淆为\"水族馆\"等同类场所",
+      "sentence": "We spent the whole day at the **water park**, riding the roller coasters and sliding down the water slides.",
+      "options": {
+        "option": [
+          {
+            "definition": "水上乐园",
+            "iscorrect": true
+          },
+          {
+            "definition": "水上停车场",
+            "iscorrect": false
+          },
+          {
+            "definition": "水族馆",
+            "iscorrect": false
+          },
+          {
+            "definition": "游泳池",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

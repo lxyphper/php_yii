@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "extended",
+      "error_analysis": "易混淆形近词extensive（广泛的），或因词根extend过度推导为“延伸的”而误解其“延长的；长期的”核心义",
+      "sentence": "Due to the bad weather, the school announced an **extended** winter break for all students.",
+      "options": {
+        "option": [
+          {
+            "definition": "延长的；长期的",
+            "iscorrect": true
+          },
+          {
+            "definition": "广泛的；大量的",
+            "iscorrect": false
+          },
+          {
+            "definition": "延伸的；伸出的",
+            "iscorrect": false
+          },
+          {
+            "definition": "扩大的；膨胀的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

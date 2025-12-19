@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "overbearing",
+      "error_analysis": "学生易因词根“over-”（过度）与“bearing”（举止）的字面组合，错误理解为“过度举止”，或混淆形近词“overwhelming”（压倒性的）而误判。",
+      "sentence": "The new manager’s **overbearing** attitude made everyone feel uncomfortable—he refused to listen to others’ ideas and always demanded his own way.",
+      "options": {
+        "option": [
+          {
+            "definition": "过度举止的；行为夸张的",
+            "iscorrect": false
+          },
+          {
+            "definition": "压倒性的；无法抗拒的",
+            "iscorrect": false
+          },
+          {
+            "definition": "专横的；傲慢的",
+            "iscorrect": true
+          },
+          {
+            "definition": "无法忍受的；难以承受的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

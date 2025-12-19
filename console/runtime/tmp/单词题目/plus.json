@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "plus",
+      "error_analysis": "学生易因形近词“push”（推）或词根误导将“plus”（连词，而且）误解为“加（动词）”。",
+      "sentence": "He's a great team player, **plus** he's always on time.",
+      "options": {
+        "option": [
+          {
+            "definition": "推",
+            "iscorrect": false
+          },
+          {
+            "definition": "加（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "玩",
+            "iscorrect": false
+          },
+          {
+            "definition": "而且",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

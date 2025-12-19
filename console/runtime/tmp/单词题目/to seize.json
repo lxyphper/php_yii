@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to seize",
+      "error_analysis": "学生易因形近词“size”（尺寸）误将“seize”理解为与“尺寸”相关的含义，或因词根不熟悉进行错误联想",
+      "sentence": "The police managed to **seize** the thief before he could run away.",
+      "options": {
+        "option": [
+          {
+            "definition": "抓住；夺取",
+            "iscorrect": true
+          },
+          {
+            "definition": "测量尺寸",
+            "iscorrect": false
+          },
+          {
+            "definition": "看见；观察",
+            "iscorrect": false
+          },
+          {
+            "definition": "停止；终止",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

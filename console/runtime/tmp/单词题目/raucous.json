@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "raucous",
+      "error_analysis": "学生易将“raucous”与形近词“rough”（粗糙的）混淆，或误猜为“贪婪的”（ravenous）等义",
+      "sentence": "The **raucous** cheers of the fans could be heard from blocks away as the team won the championship.",
+      "options": {
+        "option": [
+          {
+            "definition": "（声音）喧闹且刺耳的",
+            "iscorrect": true
+          },
+          {
+            "definition": "粗糙的",
+            "iscorrect": false
+          },
+          {
+            "definition": "贪婪的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人振奋的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

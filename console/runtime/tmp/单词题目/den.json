@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "den",
+      "error_analysis": "学生易因形近词\"dent\"(凹痕)混淆，或因\"deny\"联想猜测为\"否认\"，忽略其\"兽穴/小房间\"的核心义。",
+      "sentence": "The fox returned to its **den** after hunting for food.",
+      "options": {
+        "option": [
+          {
+            "definition": "凹痕",
+            "iscorrect": false
+          },
+          {
+            "definition": "否认",
+            "iscorrect": false
+          },
+          {
+            "definition": "院长",
+            "iscorrect": false
+          },
+          {
+            "definition": "兽穴；（人的）小房间",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

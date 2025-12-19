@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to speculate",
+      "error_analysis": "学生易因形近词'spectate'(观看)或'specify'(明确说明)混淆，或词根'spec-'(看)误导为'仔细检查'，而非核心义'推测'。",
+      "sentence": "The researchers **speculated** about the possible effects of the new drug, but more tests were needed to confirm their ideas.",
+      "options": {
+        "option": [
+          {
+            "definition": "推测；猜测",
+            "iscorrect": true
+          },
+          {
+            "definition": "观看（比赛或事件）",
+            "iscorrect": false
+          },
+          {
+            "definition": "仔细检查",
+            "iscorrect": false
+          },
+          {
+            "definition": "明确说明",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

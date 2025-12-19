@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "check",
+      "error_analysis": "学生易将动词\"check\"（检查）与形近词\"chest\"（胸部）或名词\"check\"（支票）混淆",
+      "sentence": "Before leaving, please **check** that you have all your belongings.",
+      "options": {
+        "option": [
+          {
+            "definition": "检查；核对（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "胸部（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "支票（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "小鸡（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

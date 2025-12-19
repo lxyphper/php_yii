@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Golgi apparatus",
+      "error_analysis": "学生易因形近词\"gold\"(黄金)或\"golf\"(高尔夫)联想，或因\"Golgi\"为人名而误判为实验室设备，而非细胞细胞器",
+      "sentence": "In both plant and animal cells, the **Golgi apparatus** modifies proteins and sends them to where they are needed within the cell.",
+      "options": {
+        "option": [
+          {
+            "definition": "细胞中负责蛋白质加工和运输的细胞器（高尔基体）",
+            "iscorrect": true
+          },
+          {
+            "definition": "黄金制成的装饰性装置",
+            "iscorrect": false
+          },
+          {
+            "definition": "以科学家高尔基命名的实验室设备",
+            "iscorrect": false
+          },
+          {
+            "definition": "高尔夫球运动中使用的辅助设备",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

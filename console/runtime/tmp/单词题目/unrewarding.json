@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unrewarding",
+      "error_analysis": "中国学生易因形近词（如unremarkable）混淆为“不显著的”，或因词根直译误判为“没有奖励的”。",
+      "sentence": "After spending hours on that tedious project, she found it **unrewarding** because it didn’t help her career at all.",
+      "options": {
+        "option": [
+          {
+            "definition": "无回报的；不令人满意的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不显著的；平凡的",
+            "iscorrect": false
+          },
+          {
+            "definition": "没有奖励的；未获奖的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不现实的；不切实际的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

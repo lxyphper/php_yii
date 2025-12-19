@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "capacitor",
+      "error_analysis": "学生易因词根\"cap-\"（容量）误导认为是\"容量测量仪\"，或因形近词\"captor\"（捕获者）、\"capacitate\"（使有能力）联想为\"捕获者\"或\"使有能力的人\"。",
+      "sentence": "The technician replaced the faulty **capacitor** in the circuit to get the old radio working again.",
+      "options": {
+        "option": [
+          {
+            "definition": "电容器（电子元件，用于在电路中存储电荷）",
+            "iscorrect": true
+          },
+          {
+            "definition": "捕获者（捕捉或逮捕他人的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "使有能力的人（赋予他人能力或资格的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "容量测量仪（用于测量物体容纳量的仪器）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

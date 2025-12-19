@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "century",
+      "error_analysis": "学生易因“century”与“central”形近误判为“中心”，或因“cent-”词根猜测为“分币”“一百米”等义。",
+      "sentence": "The Eiffel Tower was built in the late 19th **century** and remains a symbol of France today.",
+      "options": {
+        "option": [
+          {
+            "definition": "世纪；一百年",
+            "iscorrect": true
+          },
+          {
+            "definition": "中心；中央",
+            "iscorrect": false
+          },
+          {
+            "definition": "一百米；百米",
+            "iscorrect": false
+          },
+          {
+            "definition": "分币；零钱",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

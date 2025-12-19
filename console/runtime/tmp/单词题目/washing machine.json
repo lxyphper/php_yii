@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "washing machine",
+      "error_analysis": "学生易因\"washing\"与\"watching\"形近误解为\"观看设备\"，或拆词字面理解为\"洗机器的工具\"",
+      "sentence": "My mom asked me to put the dirty clothes into the **washing machine** before going to school.",
+      "options": {
+        "option": [
+          {
+            "definition": "洗衣机",
+            "iscorrect": true
+          },
+          {
+            "definition": "观看设备（如电视）",
+            "iscorrect": false
+          },
+          {
+            "definition": "洗机器的工具",
+            "iscorrect": false
+          },
+          {
+            "definition": "烘干设备（如烘干机）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "diminishment",
+      "error_analysis": "学生易因形近词（如determination）或词根“min”（小）误导，将“diminishment”误解为“决心”或“最小值”。",
+      "sentence": "The continuous use of pesticides has led to a significant **diminishment** of bee populations in the area.",
+      "options": {
+        "option": [
+          {
+            "definition": "减少；减弱",
+            "iscorrect": true
+          },
+          {
+            "definition": "决心；决定",
+            "iscorrect": false
+          },
+          {
+            "definition": "最小值；最低限度",
+            "iscorrect": false
+          },
+          {
+            "definition": "管理；经营",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

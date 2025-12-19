@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to agree",
+      "error_analysis": "核心易错点为形近词“argue”（争论）的干扰，导致误将“agree”理解为“反对/争论”。",
+      "sentence": "After a long discussion, they finally **agreed** to start the project next week.",
+      "options": {
+        "option": [
+          {
+            "definition": "同意；赞成",
+            "iscorrect": true
+          },
+          {
+            "definition": "争论；争辩",
+            "iscorrect": false
+          },
+          {
+            "definition": "分歧；不一致",
+            "iscorrect": false
+          },
+          {
+            "definition": "反对；反抗",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

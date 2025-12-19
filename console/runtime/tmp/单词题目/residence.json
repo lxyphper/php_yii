@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "residence",
+      "error_analysis": "学生易因形近词\"resident\"（居民）混淆，或误将其理解为\"居住\"（动作）而非\"住所\"（地点）。",
+      "sentence": "The president's official **residence** is open to the public during national holidays.",
+      "options": {
+        "option": [
+          {
+            "definition": "居民",
+            "iscorrect": false
+          },
+          {
+            "definition": "居住（动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "住所；住宅",
+            "iscorrect": true
+          },
+          {
+            "definition": "抵抗",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

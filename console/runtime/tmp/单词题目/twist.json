@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "twist",
+      "error_analysis": "学生易因形近词\"twig\"(小树枝)产生混淆，或因词根\"tw-\"（转）过度直译将\"twist\"误判为\"旋转\"。",
+      "sentence": "The mystery novel ended with a shocking **twist** that no one saw coming.",
+      "options": {
+        "option": [
+          {
+            "definition": "（故事、情节等的）转折",
+            "iscorrect": true
+          },
+          {
+            "definition": "小树枝",
+            "iscorrect": false
+          },
+          {
+            "definition": "旋转",
+            "iscorrect": false
+          },
+          {
+            "definition": "拧（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

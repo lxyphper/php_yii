@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sizable",
+      "error_analysis": "学生可能因词根`size`（尺寸）误将`sizable`理解为“可测量尺寸的”，或因形近词`visible`（可见的）混淆为“可见的”。",
+      "sentence": "The company made a **sizable** profit last year, allowing it to expand its business.",
+      "options": {
+        "option": [
+          {
+            "definition": "相当大的；可观的",
+            "iscorrect": true
+          },
+          {
+            "definition": "可测量尺寸的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可见的",
+            "iscorrect": false
+          },
+          {
+            "definition": "稳定的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

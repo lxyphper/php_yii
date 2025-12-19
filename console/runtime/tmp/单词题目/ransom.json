@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ransom",
+      "error_analysis": "因形近词“random”（随机的）或拼写相似词“rent”（租金）产生错误联想",
+      "sentence": "The kidnappers demanded a $1 million **ransom** for the safe release of the child.",
+      "options": {
+        "option": [
+          {
+            "definition": "赎金",
+            "iscorrect": true
+          },
+          {
+            "definition": "随机的",
+            "iscorrect": false
+          },
+          {
+            "definition": "租金",
+            "iscorrect": false
+          },
+          {
+            "definition": "救援",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

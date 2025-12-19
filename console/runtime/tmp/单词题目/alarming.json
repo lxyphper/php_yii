@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "alarming",
+      "error_analysis": "中国学生易因形近词“alerting”（提醒的）或词根“alarm”（警报）直译，将“alarming”误判为“提醒的”或“警报的”。",
+      "sentence": "The rate of deforestation in the Amazon has increased at an **alarming** pace over the past decade.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人担忧的",
+            "iscorrect": true
+          },
+          {
+            "definition": "提醒的",
+            "iscorrect": false
+          },
+          {
+            "definition": "警报的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人惊恐的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

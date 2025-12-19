@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "aquarium",
+      "error_analysis": "学生易因形近词\"aquatic\"(水生的)联想错误，或词根\"aqua-\"(水)+\"arium\"(场所)误猜为\"水池\"或\"水生植物馆\"。",
+      "sentence": "During our visit to the city, we spent hours watching the colorful fish and sea turtles in the **aquarium**.",
+      "options": {
+        "option": [
+          {
+            "definition": "水生植物",
+            "iscorrect": false
+          },
+          {
+            "definition": "水族馆",
+            "iscorrect": true
+          },
+          {
+            "definition": "游泳池",
+            "iscorrect": false
+          },
+          {
+            "definition": "水疗中心",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

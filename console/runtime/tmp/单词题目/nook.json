@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nook",
+      "error_analysis": "学生易因形近词\"book\"（书）产生联想，误将\"nook\"理解为与\"书\"相关的事物",
+      "sentence": "She found a quiet **nook** in the library where she could read without being disturbed.",
+      "options": {
+        "option": [
+          {
+            "definition": "小而隐蔽的角落",
+            "iscorrect": true
+          },
+          {
+            "definition": "一本书",
+            "iscorrect": false
+          },
+          {
+            "definition": "宽敞的空间",
+            "iscorrect": false
+          },
+          {
+            "definition": "门口",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "screening",
+      "error_analysis": "中国学生易因形近词“screen”（屏幕）误将“screening”理解为“屏幕相关事物”，或因词根过度直译为“遮挡物”。",
+      "sentence": "The local health clinic provides free diabetes **screening** for residents aged 40 and above.",
+      "options": {
+        "option": [
+          {
+            "definition": "（医学或健康的）筛查；检查",
+            "iscorrect": true
+          },
+          {
+            "definition": "屏幕（复数）；屏幕材料",
+            "iscorrect": false
+          },
+          {
+            "definition": "遮挡物；屏蔽装置",
+            "iscorrect": false
+          },
+          {
+            "definition": "屏幕操作；显示步骤",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "read-through",
+      "error_analysis": "学生易根据\"read\"+\"through\"的字面意思，错误理解为\"仔细阅读\"或\"读穿\"，忽略其\"通读（尤指文稿的第一次通读）\"的核心含义。",
+      "sentence": "Before the final edit, the author asked her team to do a **read-through** of the manuscript to catch any flow issues.",
+      "options": {
+        "option": [
+          {
+            "definition": "通读；（尤指文稿、剧本等的）预读",
+            "iscorrect": true
+          },
+          {
+            "definition": "仔细阅读（强调细致检查）",
+            "iscorrect": false
+          },
+          {
+            "definition": "读穿；穿透阅读",
+            "iscorrect": false
+          },
+          {
+            "definition": "宣读；公布",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

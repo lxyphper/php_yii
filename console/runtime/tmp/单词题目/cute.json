@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cute",
+      "error_analysis": "学生易因形近词“cut”（切）产生错误联想，将“cute”误理解为“切割的”或“锋利的”",
+      "sentence": "The puppy with big, shiny eyes is so **cute** that everyone in the park stopped to pet it.",
+      "options": {
+        "option": [
+          {
+            "definition": "可爱的；迷人的",
+            "iscorrect": true
+          },
+          {
+            "definition": "切割的；锋利的",
+            "iscorrect": false
+          },
+          {
+            "definition": "尖锐的；敏锐的",
+            "iscorrect": false
+          },
+          {
+            "definition": "立方体的；方形的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

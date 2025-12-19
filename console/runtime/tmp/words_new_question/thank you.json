@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "thank you",
+      "error_analysis": "学生可能因“thank”与“think”形近，将“thank you”误理解为“想你”（对应“think you”的错误联想）",
+      "sentence": "When someone gives you a birthday present, it's polite to say **thank you** with a smile.",
+      "options": {
+        "option": [
+          {
+            "definition": "谢谢你（表示感谢的常用口语表达）",
+            "iscorrect": true
+          },
+          {
+            "definition": "想你（\"think you\"的字面翻译）",
+            "iscorrect": false
+          },
+          {
+            "definition": "你感谢（\"you thank\"的语序颠倒直译）",
+            "iscorrect": false
+          },
+          {
+            "definition": "为你思考（\"think for you\"的错误联想）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

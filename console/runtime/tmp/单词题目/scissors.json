@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "scissors",
+      "error_analysis": "中国学生易因“scissors”与熟悉词“sisters”（姐妹）形近（仅差一个字母）而误判其义",
+      "sentence": "Please pass me the **scissors**; I need to cut this paper into pieces.",
+      "options": {
+        "option": [
+          {
+            "definition": "剪刀",
+            "iscorrect": true
+          },
+          {
+            "definition": "姐妹",
+            "iscorrect": false
+          },
+          {
+            "definition": "切割工人",
+            "iscorrect": false
+          },
+          {
+            "definition": "天平",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

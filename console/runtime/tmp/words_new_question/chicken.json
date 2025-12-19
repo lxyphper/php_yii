@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "chicken",
+      "error_analysis": "学生易因\"chicken\"与形近词\"kitchen\"（厨房）拼写结构相似而混淆，或误将其拆分为\"chick\"（小鸡）+\"en\"理解为\"小鸡们（复数）\"。",
+      "sentence": "My grandma always adds some **chicken** to the vegetable soup to make it more flavorful.",
+      "options": {
+        "option": [
+          {
+            "definition": "鸡；鸡肉",
+            "iscorrect": true
+          },
+          {
+            "definition": "厨房",
+            "iscorrect": false
+          },
+          {
+            "definition": "小鸡们（复数）",
+            "iscorrect": false
+          },
+          {
+            "definition": "检查；核对",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

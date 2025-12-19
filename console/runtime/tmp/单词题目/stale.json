@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stale",
+      "error_analysis": "中国学生易因形近词“stable”（稳定的）、“sale”（销售）或“stay”（停留）产生错误联想，误判“stale”的含义。",
+      "sentence": "The bread tasted **stale** because it had been left out for two days.",
+      "options": {
+        "option": [
+          {
+            "definition": "不新鲜的；陈的（指食物等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "稳定的",
+            "iscorrect": false
+          },
+          {
+            "definition": "销售的",
+            "iscorrect": false
+          },
+          {
+            "definition": "持续的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Bouffon",
+      "error_analysis": "学生易因形近词“bouquet”（花束）或词根“bouff-”（与吃/膨胀相关）误判为“花束”“美食爱好者”等。",
+      "sentence": "The **bouffon** in the mime show made the children laugh with his over-the-top movements and silly facial expressions.",
+      "options": {
+        "option": [
+          {
+            "definition": "丑角；滑稽演员（尤指法国传统哑剧中的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "花束",
+            "iscorrect": false
+          },
+          {
+            "definition": "美食爱好者",
+            "iscorrect": false
+          },
+          {
+            "definition": "蓬松的发型",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

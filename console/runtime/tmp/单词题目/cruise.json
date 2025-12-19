@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cruise",
+      "error_analysis": "学生易因形近词“crush”（挤压）、“cross”（穿过）或“crew”（船员）混淆，误判“cruise”“巡航/漫游”的核心义。",
+      "sentence": "We decided to **cruise** along the Mediterranean coast for our summer vacation.",
+      "options": {
+        "option": [
+          {
+            "definition": "（乘船、车等）巡航；漫游",
+            "iscorrect": true
+          },
+          {
+            "definition": "挤压；压碎",
+            "iscorrect": false
+          },
+          {
+            "definition": "船员；全体船员",
+            "iscorrect": false
+          },
+          {
+            "definition": "穿过；交叉",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

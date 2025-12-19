@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "inappreciable",
+      "error_analysis": "学生易将\"in-\"与\"appreciate(欣赏)\"结合，误理解为\"不欣赏的\"（词根误导），或混淆形近词\"inappropriate(不合适的)\"",
+      "sentence": "The difference in temperature between the two rooms was **inappreciable**, so we didn't need to adjust the heater.",
+      "options": {
+        "option": [
+          {
+            "definition": "微不足道的；难以察觉的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不欣赏的；不感激的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不合适的；不恰当的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无法评价的；难以估量的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

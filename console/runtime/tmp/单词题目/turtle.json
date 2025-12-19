@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "turtle",
+      "error_analysis": "中国学生易因“turtle”与基础词汇“turkey”（火鸡）形近、发音接近，或与“tunnel”（隧道）拼写相似而产生错误理解。",
+      "sentence": "The little girl saw a **turtle** swimming slowly in the pond and reached out to touch its shell.",
+      "options": {
+        "option": [
+          {
+            "definition": "海龟；水龟",
+            "iscorrect": true
+          },
+          {
+            "definition": "火鸡",
+            "iscorrect": false
+          },
+          {
+            "definition": "隧道",
+            "iscorrect": false
+          },
+          {
+            "definition": "松鼠",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

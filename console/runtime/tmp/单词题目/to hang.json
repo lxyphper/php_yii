@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to hang",
+      "error_analysis": "中国学生易因形近词“hand”（手）将“to hang”误理解为“传递/手持”，或因词根过度推导误判为“用手挂”。",
+      "sentence": "Please **hang** the coat on the hook by the door.",
+      "options": {
+        "option": [
+          {
+            "definition": "悬挂",
+            "iscorrect": true
+          },
+          {
+            "definition": "传递/手持",
+            "iscorrect": false
+          },
+          {
+            "definition": "用手挂",
+            "iscorrect": false
+          },
+          {
+            "definition": "闲逛",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

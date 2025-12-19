@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "west",
+      "error_analysis": "学生易因形近词（如rest、best）产生错误联想，将west误判为“休息”或“最好的”",
+      "sentence": "The sun sets in the **west** every evening, painting the sky orange.",
+      "options": {
+        "option": [
+          {
+            "definition": "休息",
+            "iscorrect": false
+          },
+          {
+            "definition": "最好的",
+            "iscorrect": false
+          },
+          {
+            "definition": "湿的",
+            "iscorrect": false
+          },
+          {
+            "definition": "西；西方",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

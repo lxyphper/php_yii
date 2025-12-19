@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "muggy",
+      "error_analysis": "学生易因形近词“muddy”（泥泞的）或“mug”（杯子）词根误解“muggy”为“泥泞的”或“与杯子有关的”",
+      "sentence": "After the rain stopped, the air felt **muggy**, and everyone wanted to stay inside with a fan.",
+      "options": {
+        "option": [
+          {
+            "definition": "（天气或空气）闷热潮湿的",
+            "iscorrect": true
+          },
+          {
+            "definition": "泥泞的",
+            "iscorrect": false
+          },
+          {
+            "definition": "与杯子有关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "木乃伊似的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

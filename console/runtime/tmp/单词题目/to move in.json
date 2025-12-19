@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to move in",
+      "error_analysis": "将“to move in”字面理解为“向里移动”（物理位置的移动），而非“搬进新住所”",
+      "sentence": "They just bought a new apartment and plan to **move in** next weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "搬进（新住所）",
+            "iscorrect": true
+          },
+          {
+            "definition": "向里移动（物理位置的移动）",
+            "iscorrect": false
+          },
+          {
+            "definition": "加入某个团体或活动",
+            "iscorrect": false
+          },
+          {
+            "definition": "把东西移到里面（如容器中）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

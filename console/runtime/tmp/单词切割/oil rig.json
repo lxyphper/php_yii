@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "ol rig",
+      "oil lig",
+      "oil rij",
+      "iol rig",
+      "oil rrig"
+    ],
+    "correct_chunks": [
+      "oi",
+      "l",
+      "r",
+      "ig"
+    ],
+    "distractor_chunks": [
+      "ol",
+      "lig",
+      "rij",
+      "iol",
+      "rrig"
+    ]
+  },
+  0
+]

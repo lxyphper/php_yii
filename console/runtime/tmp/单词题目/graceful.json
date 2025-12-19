@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "graceful",
+      "error_analysis": "易与形近词grateful（感激的）混淆，或误将词根grace理解为“恩典”而推导为“有恩典的”",
+      "sentence": "She walked into the room with a **graceful** posture, immediately drawing everyone's eyes to her.",
+      "options": {
+        "option": [
+          {
+            "definition": "感激的",
+            "iscorrect": false
+          },
+          {
+            "definition": "优雅的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有恩典的",
+            "iscorrect": false
+          },
+          {
+            "definition": "强壮的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

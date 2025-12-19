@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tune",
+      "error_analysis": "学生易将\"tune\"与形近词\"tone\"（语气；音调）混淆，或误通过词根联想为\"转动\"（如与\"turn\"混淆）",
+      "sentence": "She hummed a familiar **tune** while waiting for the bus.",
+      "options": {
+        "option": [
+          {
+            "definition": "曲调；曲子",
+            "iscorrect": true
+          },
+          {
+            "definition": "语气；音调",
+            "iscorrect": false
+          },
+          {
+            "definition": "转动；旋转",
+            "iscorrect": false
+          },
+          {
+            "definition": "金枪鱼",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

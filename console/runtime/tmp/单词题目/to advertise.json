@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to advertise",
+      "error_analysis": "易与形近词\"advise\"(建议)混淆，或因词根\"vert\"(转)误判为\"转向\"",
+      "sentence": "Many companies **advertise** their new smartphones on TikTok to reach teenage users.",
+      "options": {
+        "option": [
+          {
+            "definition": "做广告；宣传",
+            "iscorrect": true
+          },
+          {
+            "definition": "建议；劝告",
+            "iscorrect": false
+          },
+          {
+            "definition": "转向；转移",
+            "iscorrect": false
+          },
+          {
+            "definition": "增加；添加",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

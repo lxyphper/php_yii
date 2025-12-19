@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to order",
+      "error_analysis": "学生易因“order”的“命令”/“顺序”含义或形近词“border”（边界）而误判“to order”的核心词义（订购）",
+      "sentence": "I called the pizza shop to **order** a pepperoni pizza for dinner.",
+      "options": {
+        "option": [
+          {
+            "definition": "订购；点餐",
+            "iscorrect": true
+          },
+          {
+            "definition": "命令某人做某事",
+            "iscorrect": false
+          },
+          {
+            "definition": "排列；整理（顺序）",
+            "iscorrect": false
+          },
+          {
+            "definition": "与…接壤",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

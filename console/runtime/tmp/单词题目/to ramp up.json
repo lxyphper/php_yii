@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to ramp up",
+      "error_analysis": "学生易因“ramp”的名词义“斜坡”或与“rank”形近，误解为物理上升或提升排名，而非数量/活动的增加",
+      "sentence": "The factory plans to **ramp up** production of electric cars to meet the growing demand.",
+      "options": {
+        "option": [
+          {
+            "definition": "增加，扩大（数量或活动）",
+            "iscorrect": true
+          },
+          {
+            "definition": "爬斜坡；沿斜坡上行",
+            "iscorrect": false
+          },
+          {
+            "definition": "提升排名；升级",
+            "iscorrect": false
+          },
+          {
+            "definition": "用斜坡抬起；使倾斜",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

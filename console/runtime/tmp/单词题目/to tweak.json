@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to tweak",
+      "error_analysis": "中国学生易因形近将“to tweak”误联想为“twist”（扭曲），或因缺乏语境误判为“大力改变”而非“微调”。",
+      "sentence": "The designer decided to **tweak** the color scheme of the logo to make it more appealing to young audiences.",
+      "options": {
+        "option": [
+          {
+            "definition": "扭曲；拧",
+            "iscorrect": false
+          },
+          {
+            "definition": "微调；调整（尤指小的改变）",
+            "iscorrect": true
+          },
+          {
+            "definition": "大力改变；修改",
+            "iscorrect": false
+          },
+          {
+            "definition": "撕裂；扯破",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

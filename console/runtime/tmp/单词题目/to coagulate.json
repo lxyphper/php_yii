@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to coagulate",
+      "error_analysis": "学生易因形近词“congratulate”（祝贺）或词根误解（将“co-+agulate”误判为“聚集”）错解词义",
+      "sentence": "When you add lemon juice to milk, it will gradually **coagulate** into curds and whey.",
+      "options": {
+        "option": [
+          {
+            "definition": "（液体）凝结，凝固",
+            "iscorrect": true
+          },
+          {
+            "definition": "祝贺",
+            "iscorrect": false
+          },
+          {
+            "definition": "聚集，集合",
+            "iscorrect": false
+          },
+          {
+            "definition": "合作",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

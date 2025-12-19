@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to cajole",
+      "error_analysis": "学生易因形近词\"console\"(安慰)混淆，或因\"cajole\"含\"joy\"部分猜测为\"使快乐\"",
+      "sentence": "Mary spent 20 minutes trying to **cajole** her friend into joining the hiking trip by talking about the beautiful scenery and free snacks.",
+      "options": {
+        "option": [
+          {
+            "definition": "哄骗；劝诱（用温和/奉承的方式）",
+            "iscorrect": true
+          },
+          {
+            "definition": "安慰；抚慰",
+            "iscorrect": false
+          },
+          {
+            "definition": "使快乐；给予乐趣",
+            "iscorrect": false
+          },
+          {
+            "definition": "强迫；迫使",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

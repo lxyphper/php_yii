@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "board",
+      "error_analysis": "中国学生易混淆形近词“broad”（宽的）或“bored”（无聊的），或误将“board”字面理解为“木板”而忽略其“上（车/船等）”的常见义",
+      "sentence": "Passengers are requested to **board** the train at Platform 3 in 10 minutes.",
+      "options": {
+        "option": [
+          {
+            "definition": "宽的",
+            "iscorrect": false
+          },
+          {
+            "definition": "木板",
+            "iscorrect": false
+          },
+          {
+            "definition": "上（车/船等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "无聊的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

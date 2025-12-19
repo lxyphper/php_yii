@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cheeseburger",
+      "error_analysis": "中国学生最易因形近词\"cheesecake\"(芝士蛋糕)干扰或拆分词根时将\"burger\"误判为\"bread\"(面包)而理解为\"芝士面包\"",
+      "sentence": "I wanted a savory meal, so I ordered a **cheeseburger** and a drink at the diner.",
+      "options": {
+        "option": [
+          {
+            "definition": "奶酪汉堡",
+            "iscorrect": true
+          },
+          {
+            "definition": "芝士蛋糕",
+            "iscorrect": false
+          },
+          {
+            "definition": "芝士面包",
+            "iscorrect": false
+          },
+          {
+            "definition": "牛肉汉堡",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

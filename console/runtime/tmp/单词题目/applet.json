@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "applet",
+      "error_analysis": "学生易因形近词“apple”（苹果）和后缀“-let”（小的）误将“applet”理解为“小苹果”，忽略其计算机术语义“小程序”。",
+      "sentence": "The website uses a Java **applet** to let users edit photos directly in their browser.",
+      "options": {
+        "option": [
+          {
+            "definition": "小程序（计算机中的小型应用程序）",
+            "iscorrect": true
+          },
+          {
+            "definition": "小苹果",
+            "iscorrect": false
+          },
+          {
+            "definition": "苹果味的小甜点",
+            "iscorrect": false
+          },
+          {
+            "definition": "应用程序的更新版本",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

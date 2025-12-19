@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "centenarian",
+      "error_analysis": "学生易因形近词\"centimeter\"（厘米）的干扰或词根\"cent-\"（百）与\"-arian\"（人）的错误联想，将\"centenarian\"误判为长度单位或百年纪念物而非\"百岁老人\"。",
+      "sentence": "The 102-year-old **centenarian** shared her secrets to a long life in a local newspaper interview.",
+      "options": {
+        "option": [
+          {
+            "definition": "厘米",
+            "iscorrect": false
+          },
+          {
+            "definition": "百年纪念物",
+            "iscorrect": false
+          },
+          {
+            "definition": "年长的志愿者",
+            "iscorrect": false
+          },
+          {
+            "definition": "百岁老人",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

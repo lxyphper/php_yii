@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "personality",
+      "error_analysis": "学生易因形近词“personnel”（人事）混淆，或词根“person”（人）误推为“个人身份”，而非“性格/个性”。",
+      "sentence": "Her outgoing **personality** makes her popular among her classmates.",
+      "options": {
+        "option": [
+          {
+            "definition": "性格；个性",
+            "iscorrect": true
+          },
+          {
+            "definition": "人事；员工",
+            "iscorrect": false
+          },
+          {
+            "definition": "个人身份；本人",
+            "iscorrect": false
+          },
+          {
+            "definition": "个人的隐私",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

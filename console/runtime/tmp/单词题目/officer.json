@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "officer",
+      "error_analysis": "混淆形近词“office”（办公室）导致误判为“办公室职员”，或词根过度推导为“处理办公事务的人”",
+      "sentence": "The police **officer** asked for my ID when I parked my car incorrectly.",
+      "options": {
+        "option": [
+          {
+            "definition": "官员；军官；警察",
+            "iscorrect": true
+          },
+          {
+            "definition": "办公室职员",
+            "iscorrect": false
+          },
+          {
+            "definition": "处理办公事务的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "机器操作员",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

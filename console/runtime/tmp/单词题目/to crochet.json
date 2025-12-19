@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to crochet",
+      "error_analysis": "学生易因形近词\"cook\"（做饭）或词根联想\"cross\"（交叉）错误理解为\"做饭\"或\"用十字绣缝制\"",
+      "sentence": "My grandma loves to **crochet** warm scarves for each of us before winter comes.",
+      "options": {
+        "option": [
+          {
+            "definition": "用钩针编织",
+            "iscorrect": true
+          },
+          {
+            "definition": "做饭；烹饪",
+            "iscorrect": false
+          },
+          {
+            "definition": "用十字绣缝制",
+            "iscorrect": false
+          },
+          {
+            "definition": "抓住；捕获",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

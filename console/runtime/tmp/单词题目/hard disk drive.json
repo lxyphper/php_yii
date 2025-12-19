@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hard disk drive",
+      "error_analysis": "学生易因“disk”形近“dish”误判为厨房用具相关的“硬盘子驱动”，或因“hard”的“困难的”义项误解为“困难的磁盘驱动操作”。",
+      "sentence": "Before installing the new software, make sure your **hard disk drive** has enough storage space for all the files.",
+      "options": {
+        "option": [
+          {
+            "definition": "硬盘驱动器（计算机中的主要存储设备）",
+            "iscorrect": true
+          },
+          {
+            "definition": "硬盘子驱动装置（如厨房中带动硬餐盘转动的部件）",
+            "iscorrect": false
+          },
+          {
+            "definition": "困难的磁盘驱动操作（如需要复杂技巧的磁盘驾驶流程）",
+            "iscorrect": false
+          },
+          {
+            "definition": "硬质地的磁盘推动力（如使金属磁盘运转的机械力量）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

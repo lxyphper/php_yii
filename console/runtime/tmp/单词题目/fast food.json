@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fast food",
+      "error_analysis": "学生可能因“fast”的“禁食”义或形近词“fat”（脂肪）而将“fast food”误解为“禁食的食物”或“高脂肪食物”。",
+      "sentence": "After a long day at work, Sarah decided to grab some **fast food** from the burger joint instead of cooking at home.",
+      "options": {
+        "option": [
+          {
+            "definition": "快餐",
+            "iscorrect": true
+          },
+          {
+            "definition": "高脂肪食物",
+            "iscorrect": false
+          },
+          {
+            "definition": "禁食的食物",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速烹饪的食物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

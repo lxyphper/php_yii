@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "value",
+      "error_analysis": "中国学生易因形近词“valley”（山谷）、“valve”（阀门）等干扰，将“value”误解为“山谷”或“阀门”。",
+      "sentence": "Many people realize the **value** of preserving traditional cultures in modern society.",
+      "options": {
+        "option": [
+          {
+            "definition": "价值；重要性",
+            "iscorrect": true
+          },
+          {
+            "definition": "山谷",
+            "iscorrect": false
+          },
+          {
+            "definition": "阀门",
+            "iscorrect": false
+          },
+          {
+            "definition": "数量；体积",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to rave",
+      "error_analysis": "学生易因形近词\"rate\"(评价)或音近词\"rage\"(发怒)误解\"to rave\"，或对\"rave about\"搭配不熟悉导致误判为中性\"疯狂谈论\"。",
+      "sentence": "After trying the new restaurant, my friend wouldn’t stop **raving** about how delicious the food was.",
+      "options": {
+        "option": [
+          {
+            "definition": "热情洋溢地赞扬（常与about/over搭配）",
+            "iscorrect": true
+          },
+          {
+            "definition": "评价（如对事物的好坏给出意见）",
+            "iscorrect": false
+          },
+          {
+            "definition": "发怒（因愤怒而大声喊叫）",
+            "iscorrect": false
+          },
+          {
+            "definition": "疯狂地谈论（无明确情感倾向）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

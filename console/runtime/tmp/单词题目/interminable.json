@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "interminable",
+      "error_analysis": "学生易因形近词（如intermediate，中间的）或词根误导（inter-+termin错误推导为“即将结束的”）误解词义",
+      "sentence": "The meeting seemed **interminable**; it lasted for over three hours and covered nothing new.",
+      "options": {
+        "option": [
+          {
+            "definition": "中间的",
+            "iscorrect": false
+          },
+          {
+            "definition": "即将结束的",
+            "iscorrect": false
+          },
+          {
+            "definition": "冗长的；没完没了的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有关术语的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

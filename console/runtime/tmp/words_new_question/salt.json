@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "salt",
+      "error_analysis": "中国学生易因形近词\"sail\"（航行；帆）的拼写相似而误判\"salt\"的核心词义",
+      "sentence": "Could you pass me the **salt**? The soup tastes too bland without it.",
+      "options": {
+        "option": [
+          {
+            "definition": "盐（名词，食用调料）",
+            "iscorrect": true
+          },
+          {
+            "definition": "航行；帆（名词/动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "丝绸（名词，纺织品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "沙拉（名词，蔬菜冷盘）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

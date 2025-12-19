@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "English",
+      "error_analysis": "学生易将“English”（英语）与形近词“England”（英格兰）或“Engineer”（工程师）混淆，导致误选地理名词或职业名词",
+      "sentence": "She learns **English** every day to talk to her pen pal from the US.",
+      "options": {
+        "option": [
+          {
+            "definition": "英语；英国的（语言或人的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "英格兰（英国的主要地区）",
+            "iscorrect": false
+          },
+          {
+            "definition": "工程师（设计或建造工程的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "欧洲的（属于欧洲大陆的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

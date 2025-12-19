@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to gorge",
+      "error_analysis": "学生易因形近词\"gorgeous\"(华丽的)误解为\"变得漂亮\"，或因名词\"gorge\"(峡谷)误判为\"形成峡谷\"。",
+      "sentence": "After skipping breakfast and lunch, she couldn’t resist and **gorged** on the entire pizza by herself.",
+      "options": {
+        "option": [
+          {
+            "definition": "狼吞虎咽；暴食",
+            "iscorrect": true
+          },
+          {
+            "definition": "华丽的；漂亮的",
+            "iscorrect": false
+          },
+          {
+            "definition": "形成峡谷；深陷",
+            "iscorrect": false
+          },
+          {
+            "definition": "缓慢行走；踱步",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

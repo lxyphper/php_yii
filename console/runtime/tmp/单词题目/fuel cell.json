@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fuel cell",
+      "error_analysis": "学生容易将“cell”误理解为“细胞”或“容器”，从而把“fuel cell”错译为“燃料细胞”或“燃料罐”。",
+      "sentence": "The new hydrogen-powered bus uses **fuel cells** to produce electricity without emitting harmful gases.",
+      "options": {
+        "option": [
+          {
+            "definition": "燃料电池",
+            "iscorrect": true
+          },
+          {
+            "definition": "燃料细胞",
+            "iscorrect": false
+          },
+          {
+            "definition": "燃料罐",
+            "iscorrect": false
+          },
+          {
+            "definition": "加油电话",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

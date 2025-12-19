@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "diarrhea",
+      "error_analysis": "中国学生易因形近词\"diary\"（日记）误猜为与日记相关内容，或因词根\"rrhea\"（流动）混淆为呕吐等其他液体排出症状",
+      "sentence": "After eating the spoiled seafood, she developed bad **diarrhea** and couldn't leave the bathroom for hours.",
+      "options": {
+        "option": [
+          {
+            "definition": "腹泻",
+            "iscorrect": true
+          },
+          {
+            "definition": "日记条目",
+            "iscorrect": false
+          },
+          {
+            "definition": "严重的呕吐",
+            "iscorrect": false
+          },
+          {
+            "definition": "持续的咳嗽",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

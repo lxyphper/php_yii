@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "baggy",
+      "error_analysis": "学生易将\"baggy\"误理解为与\"bag（包）\"相关的\"有包的\"或\"包状的\"，而非其核心义\"宽松的\"",
+      "sentence": "She prefers wearing **baggy** jeans because they’re more comfortable than tight ones.",
+      "options": {
+        "option": [
+          {
+            "definition": "宽松的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有包的",
+            "iscorrect": false
+          },
+          {
+            "definition": "包状的",
+            "iscorrect": false
+          },
+          {
+            "definition": "紧绷的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

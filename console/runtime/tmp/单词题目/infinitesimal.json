@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "infinitesimal",
+      "error_analysis": "学生易因形近词“infinite”（无限的）或词根误拆（in-+finite）将“infinitesimal”理解为“无限的”或“没有限制的”",
+      "sentence": "The biologist studied the **infinitesimal** organisms living in the pond water, which required a high-powered microscope to see.",
+      "options": {
+        "option": [
+          {
+            "definition": "极小的，微小的",
+            "iscorrect": true
+          },
+          {
+            "definition": "无限的，极大的",
+            "iscorrect": false
+          },
+          {
+            "definition": "没有限制的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无法测量的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

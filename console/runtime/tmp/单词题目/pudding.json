@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pudding",
+      "error_analysis": "学生易因形近词“puddle”（水洼）、“puzzle”（拼图）或发音接近的“putting”（放置）而误判“pudding”的含义",
+      "sentence": "The kids love eating chocolate **pudding** after dinner.",
+      "options": {
+        "option": [
+          {
+            "definition": "布丁（一种甜点）",
+            "iscorrect": true
+          },
+          {
+            "definition": "水洼（地面的积水坑）",
+            "iscorrect": false
+          },
+          {
+            "definition": "拼图/难题（需要解决的问题或游戏）",
+            "iscorrect": false
+          },
+          {
+            "definition": "放置（put的动名词形式）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

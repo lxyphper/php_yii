@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "meaningful",
+      "error_analysis": "学生易混淆形近词\"meaningless\"(无意义的)的反义，或因词根\"meaning\"(意思)+\"ful\"(充满…的)错误理解为\"有很多意思的\"",
+      "sentence": "The talk she gave at the conference was so **meaningful** that many attendees said it changed their approach to work.",
+      "options": {
+        "option": [
+          {
+            "definition": "有意义的；重要的",
+            "iscorrect": true
+          },
+          {
+            "definition": "无意义的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有很多意思的",
+            "iscorrect": false
+          },
+          {
+            "definition": "吝啬的；刻薄的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

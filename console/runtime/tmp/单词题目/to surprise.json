@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to surprise",
+      "error_analysis": "容易混淆形近词“supervise”（监督）的词义，或误从“sur-”词根推断为“超过；超越”。",
+      "sentence": "The news that she won the competition **surprised** everyone in the classroom.",
+      "options": {
+        "option": [
+          {
+            "definition": "使惊讶；使吃惊",
+            "iscorrect": true
+          },
+          {
+            "definition": "监督；管理",
+            "iscorrect": false
+          },
+          {
+            "definition": "超过；超越",
+            "iscorrect": false
+          },
+          {
+            "definition": "抓住；捕获",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

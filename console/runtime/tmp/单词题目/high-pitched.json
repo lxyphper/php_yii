@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "high-pitched",
+      "error_analysis": "学生易因形近词\"high-priced\"（高价的）或词根字面误解\"pitch\"（倾斜/投掷）而错判",
+      "sentence": "The **high-pitched** alarm clock woke me up abruptly.",
+      "options": {
+        "option": [
+          {
+            "definition": "高价的",
+            "iscorrect": false
+          },
+          {
+            "definition": "高倾斜的",
+            "iscorrect": false
+          },
+          {
+            "definition": "（声音）高音调的，尖锐的",
+            "iscorrect": true
+          },
+          {
+            "definition": "高投掷的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

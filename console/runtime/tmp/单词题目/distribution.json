@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "distribution",
+      "error_analysis": "易因形近词\"contribution\"(贡献)混淆，或词根\"tribute\"(贡品)误导理解为\"贡品分发\"。",
+      "sentence": "The **distribution** of food and water to the disaster-stricken area was handled by local charities.",
+      "options": {
+        "option": [
+          {
+            "definition": "分配；分发",
+            "iscorrect": true
+          },
+          {
+            "definition": "贡献；捐赠",
+            "iscorrect": false
+          },
+          {
+            "definition": "贡品；致敬",
+            "iscorrect": false
+          },
+          {
+            "definition": "布置；排列",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

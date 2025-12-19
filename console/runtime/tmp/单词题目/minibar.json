@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "minibar",
+      "error_analysis": "学生易因词根直译将'minibar'误解为'迷你棒'(bar=棒)或忽略场景误判为'小型酒吧'。",
+      "sentence": "When I checked into the hotel room, I noticed a **minibar** stocked with sodas, chips, and wine on the desk—all items you have to pay for separately.",
+      "options": {
+        "option": [
+          {
+            "definition": "酒店房间内的迷你吧（提供收费饮料和零食的小柜子）",
+            "iscorrect": true
+          },
+          {
+            "definition": "迷你棒（如小巧克力棒或能量棒）",
+            "iscorrect": false
+          },
+          {
+            "definition": "小型露天酒吧（如路边的小酒馆）",
+            "iscorrect": false
+          },
+          {
+            "definition": "最小的酒吧（指规模极小的营业性酒吧）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

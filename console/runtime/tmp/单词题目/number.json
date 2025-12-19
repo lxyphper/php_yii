@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "number",
+      "error_analysis": "学生易因形近词“numb”（麻木）或与“numerous”（许多）的词根联想而误将“number”理解为“麻木”或“许多”",
+      "sentence": "Please write down your phone **number** on the form.",
+      "options": {
+        "option": [
+          {
+            "definition": "数字；编号",
+            "iscorrect": true
+          },
+          {
+            "definition": "麻木",
+            "iscorrect": false
+          },
+          {
+            "definition": "许多",
+            "iscorrect": false
+          },
+          {
+            "definition": "编号的动作",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to confiscate",
+      "error_analysis": "学生易因形近词“confuse”（混淆）的拼写相似而误判，或因“con-”前缀的常见含义（如“确认”）而猜测错误",
+      "sentence": "The customs officers decided to **confiscate** the illegal drugs found in the traveler's luggage.",
+      "options": {
+        "option": [
+          {
+            "definition": "没收（尤指官方因某人犯错而收缴）",
+            "iscorrect": true
+          },
+          {
+            "definition": "混淆；使困惑",
+            "iscorrect": false
+          },
+          {
+            "definition": "确认；证实",
+            "iscorrect": false
+          },
+          {
+            "definition": "巩固；加强",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

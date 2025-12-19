@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "asylum",
+      "error_analysis": "学生易因形近词\"symptom\"(症状)混淆,或因词根误解将\"asylum\"误判为\"无痛苦/沉默的地方\"。",
+      "sentence": "After fleeing political persecution in his home country, he sought **asylum** in a neighboring nation to avoid arrest.",
+      "options": {
+        "option": [
+          {
+            "definition": "症状（如疾病的表现）",
+            "iscorrect": false
+          },
+          {
+            "definition": "庇护（政治或宗教避难）",
+            "iscorrect": true
+          },
+          {
+            "definition": "沉默的场所（如图书馆）",
+            "iscorrect": false
+          },
+          {
+            "definition": "无痛苦的地方（如疗养院）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "team",
+      "error_analysis": "容易与形近词“tear”（撕裂/眼泪）混淆，或因包含“tea”（茶）的部分字母而错误联想为“茶”相关含义",
+      "sentence": "Our **team** won the basketball game yesterday because everyone played well together.",
+      "options": {
+        "option": [
+          {
+            "definition": "团队（名词，指一起工作或比赛的群体）",
+            "iscorrect": true
+          },
+          {
+            "definition": "撕裂（动词，使物体分开或破裂）",
+            "iscorrect": false
+          },
+          {
+            "definition": "茶（名词，用茶叶泡的饮料）",
+            "iscorrect": false
+          },
+          {
+            "definition": "学期（名词，学校教学的一个阶段）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

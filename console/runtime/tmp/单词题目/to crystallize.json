@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to crystallize",
+      "error_analysis": "学生易因词根“crystal”（水晶）误判为“变成水晶/结晶（物理过程）”，忽略其比喻义“使明确/具体化”。",
+      "sentence": "After weeks of discussion, their plan finally began to **crystallize** into a clear strategy.",
+      "options": {
+        "option": [
+          {
+            "definition": "使明确；使具体化",
+            "iscorrect": true
+          },
+          {
+            "definition": "变成水晶；结晶（物理或化学过程）",
+            "iscorrect": false
+          },
+          {
+            "definition": "使澄清；使说明",
+            "iscorrect": false
+          },
+          {
+            "definition": "使变硬；使固化",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

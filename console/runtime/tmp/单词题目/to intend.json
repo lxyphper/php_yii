@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to intend",
+      "error_analysis": "易因形近词\"attend\"(参加)及词根\"tend\"(倾向)误导，将\"intend\"错解为\"参加\"或\"倾向\"。",
+      "sentence": "She told me she **intended** to start her own business after graduating from college.",
+      "options": {
+        "option": [
+          {
+            "definition": "打算；想要",
+            "iscorrect": true
+          },
+          {
+            "definition": "参加；出席",
+            "iscorrect": false
+          },
+          {
+            "definition": "倾向；趋向",
+            "iscorrect": false
+          },
+          {
+            "definition": "等待；等候",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

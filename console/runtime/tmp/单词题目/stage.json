@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stage",
+      "error_analysis": "易混淆形近词state（状态；国家），或误将句子中“阶段”义项联想为“舞台”",
+      "sentence": "After finishing the initial planning, the team is ready to enter the next **stage** of the product development.",
+      "options": {
+        "option": [
+          {
+            "definition": "阶段",
+            "iscorrect": true
+          },
+          {
+            "definition": "状态；国家",
+            "iscorrect": false
+          },
+          {
+            "definition": "舞台",
+            "iscorrect": false
+          },
+          {
+            "definition": "步骤",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

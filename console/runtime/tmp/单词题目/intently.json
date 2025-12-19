@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "intently",
+      "error_analysis": "学生易因形近词“intense”（强烈的）或词根关联“intent”（意图）误将“intently”理解为“强烈地”或“有意图地”",
+      "sentence": "During the lecture, Sarah listened **intently** to every word the professor said, taking notes as she went.",
+      "options": {
+        "option": [
+          {
+            "definition": "专注地",
+            "iscorrect": true
+          },
+          {
+            "definition": "强烈地",
+            "iscorrect": false
+          },
+          {
+            "definition": "有意图地",
+            "iscorrect": false
+          },
+          {
+            "definition": "聪明地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

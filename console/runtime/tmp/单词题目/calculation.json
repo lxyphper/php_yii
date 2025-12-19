@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "calculation",
+      "error_analysis": "学生易因形近词（如calendar）或词根过度推导将calculation误判为“日历”或“计划”",
+      "sentence": "The engineer used a complex **calculation** to determine the load capacity of the bridge.",
+      "options": {
+        "option": [
+          {
+            "definition": "计算；运算",
+            "iscorrect": true
+          },
+          {
+            "definition": "日历；月历",
+            "iscorrect": false
+          },
+          {
+            "definition": "计划；安排",
+            "iscorrect": false
+          },
+          {
+            "definition": "庆祝；庆典",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

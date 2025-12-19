@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "colossal",
+      "error_analysis": "学生易因形近词“colonial”（殖民的）或词根猜测（如与“颜色”“集体”相关）误判“colossal”的含义",
+      "sentence": "The ancient pyramid stands as a **colossal** testament to the engineering skills of its builders.",
+      "options": {
+        "option": [
+          {
+            "definition": "殖民的",
+            "iscorrect": false
+          },
+          {
+            "definition": "颜色鲜艳的",
+            "iscorrect": false
+          },
+          {
+            "definition": "巨大的；庞大的",
+            "iscorrect": true
+          },
+          {
+            "definition": "集体的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

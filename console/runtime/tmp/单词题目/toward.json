@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "toward",
+      "error_analysis": "学生易受形近词“tow”（拖）干扰，将“toward”误解为“拖向”，或因词根“ward”产生“保卫”的错误联想",
+      "sentence": "She took a step **toward** the window to get a better view.",
+      "options": {
+        "option": [
+          {
+            "definition": "朝向；对于",
+            "iscorrect": true
+          },
+          {
+            "definition": "拖向；拉向",
+            "iscorrect": false
+          },
+          {
+            "definition": "保卫；守护",
+            "iscorrect": false
+          },
+          {
+            "definition": "离开；远离",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

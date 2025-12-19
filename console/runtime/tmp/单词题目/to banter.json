@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to banter",
+      "error_analysis": "学生易因形近词\"barter\"(以物易物)或词根\"ban\"(禁止)将\"banter\"误解为与\"交换\"或\"禁止\"相关的动作",
+      "sentence": "Sarah and Tom always **banter** with each other about their favorite sports teams during lunch—they never take the arguments seriously.",
+      "options": {
+        "option": [
+          {
+            "definition": "轻松开玩笑；打趣",
+            "iscorrect": true
+          },
+          {
+            "definition": "以物易物；交换",
+            "iscorrect": false
+          },
+          {
+            "definition": "禁止；取缔",
+            "iscorrect": false
+          },
+          {
+            "definition": "击打；猛击",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

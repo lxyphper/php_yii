@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "subpoena",
+      "error_analysis": "中国学生易因“subpoena”与“subway”（地铁）形近或词根“poena”（惩罚）误导，误判为“地铁”或“惩罚”。",
+      "sentence": "The lawyer decided to **subpoena** the witness to testify in court, as their testimony was crucial to the case.",
+      "options": {
+        "option": [
+          {
+            "definition": "地铁",
+            "iscorrect": false
+          },
+          {
+            "definition": "惩罚",
+            "iscorrect": false
+          },
+          {
+            "definition": "（法律上的）传唤；传票",
+            "iscorrect": true
+          },
+          {
+            "definition": "诗歌片段",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

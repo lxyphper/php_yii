@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to write",
+      "error_analysis": "学生易因形近词“white”（白色）或“right”（正确）的拼写相似而误解“to write”的含义",
+      "sentence": "She likes to **write** letters to her grandparents every weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "写；书写",
+            "iscorrect": true
+          },
+          {
+            "definition": "白色的",
+            "iscorrect": false
+          },
+          {
+            "definition": "正确的；右边的",
+            "iscorrect": false
+          },
+          {
+            "definition": "骑；乘坐",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nightclub",
+      "error_analysis": "中国学生易拆分\"nightclub\"为\"night+club\"，误将\"club\"理解为\"棍棒\"导致误解为\"夜间的棍棒\"，或混淆\"club\"的\"社区俱乐部\"义与\"夜总会\"的特定义。",
+      "sentence": "They decided to go to the **nightclub** downtown to dance and listen to live music.",
+      "options": {
+        "option": [
+          {
+            "definition": "夜总会（提供舞蹈、音乐等娱乐的夜间场所）",
+            "iscorrect": true
+          },
+          {
+            "definition": "夜间的棍棒（用于夜间的工具）",
+            "iscorrect": false
+          },
+          {
+            "definition": "夜生活（夜间的娱乐活动总称）",
+            "iscorrect": false
+          },
+          {
+            "definition": "夜间的社区俱乐部（居民夜间活动的场所）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

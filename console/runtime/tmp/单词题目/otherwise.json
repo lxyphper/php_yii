@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "otherwise",
+      "error_analysis": "学生易将\"otherwise\"拆分为\"other\"+\"wise\"，误解为\"其他明智的（方式）\"或\"另外的智慧\"",
+      "sentence": "You should hurry up, **otherwise** you'll miss the last bus.",
+      "options": {
+        "option": [
+          {
+            "definition": "否则；不然",
+            "iscorrect": true
+          },
+          {
+            "definition": "其他明智的（方式）",
+            "iscorrect": false
+          },
+          {
+            "definition": "另外的智慧",
+            "iscorrect": false
+          },
+          {
+            "definition": "其他的东西",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cave",
+      "error_analysis": "学生易因形近词“save”（拯救）的拼写相似，将“cave”误判为“拯救”",
+      "sentence": "The explorers found a dark **cave** hidden behind the waterfall.",
+      "options": {
+        "option": [
+          {
+            "definition": "洞穴",
+            "iscorrect": true
+          },
+          {
+            "definition": "拯救",
+            "iscorrect": false
+          },
+          {
+            "definition": "波浪",
+            "iscorrect": false
+          },
+          {
+            "definition": "给",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

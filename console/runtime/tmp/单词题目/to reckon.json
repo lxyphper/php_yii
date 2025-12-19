@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to reckon",
+      "error_analysis": "中国学生易因形近词（如recognize）混淆为“认出”，或因词根误导过度强调“计算”而忽略“认为”的核心义。",
+      "sentence": "I **reckon** we should leave early to avoid traffic.",
+      "options": {
+        "option": [
+          {
+            "definition": "认为，以为",
+            "iscorrect": true
+          },
+          {
+            "definition": "认出，识别",
+            "iscorrect": false
+          },
+          {
+            "definition": "计算，估算",
+            "iscorrect": false
+          },
+          {
+            "definition": "回忆，回想",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

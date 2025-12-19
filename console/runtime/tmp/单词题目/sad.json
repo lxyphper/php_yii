@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sad",
+      "error_analysis": "中国学生易因形近词“bad”（坏的）或“said”（说的过去式）混淆，误将“sad”理解为“坏的”或“说的”。",
+      "sentence": "She looked **sad** after hearing the bad news from her friend.",
+      "options": {
+        "option": [
+          {
+            "definition": "悲伤的；难过的",
+            "iscorrect": true
+          },
+          {
+            "definition": "坏的",
+            "iscorrect": false
+          },
+          {
+            "definition": "说的（过去式）",
+            "iscorrect": false
+          },
+          {
+            "definition": "生病的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

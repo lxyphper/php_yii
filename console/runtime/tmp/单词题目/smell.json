@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "smell",
+      "error_analysis": "因形近词“smile”（微笑）拼写高度相似，易将“smell”误判为“微笑”",
+      "sentence": "The cake from the oven has a warm, sweet **smell** that fills the whole room.",
+      "options": {
+        "option": [
+          {
+            "definition": "气味；闻起来",
+            "iscorrect": true
+          },
+          {
+            "definition": "微笑",
+            "iscorrect": false
+          },
+          {
+            "definition": "打碎",
+            "iscorrect": false
+          },
+          {
+            "definition": "小的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

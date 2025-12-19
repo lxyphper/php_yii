@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ill-fated",
+      "error_analysis": "学生易将\"ill\"误解为\"生病的\"，从而把\"ill-fated\"错误理解为\"患有重病的\"，或因直译\"坏命运的\"而选\"命运多舛的\"",
+      "sentence": "The **ill-fated** expedition to the North Pole ended in disaster when a sudden storm destroyed their camp.",
+      "options": {
+        "option": [
+          {
+            "definition": "患有重病的",
+            "iscorrect": false
+          },
+          {
+            "definition": "注定不幸的；倒霉的",
+            "iscorrect": true
+          },
+          {
+            "definition": "命运多舛的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不合适的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to elucidate",
+      "error_analysis": "中国学生易因形近词\"elude\"（逃避）产生混淆，或因词根\"lucid\"（清晰）+前缀\"e-\"（out）过度直译为\"使发光\"。",
+      "sentence": "The professor used simple diagrams to **elucidate** the confusing math problem, helping students grasp the solution quickly.",
+      "options": {
+        "option": [
+          {
+            "definition": "阐明，解释清楚",
+            "iscorrect": true
+          },
+          {
+            "definition": "逃避，避开",
+            "iscorrect": false
+          },
+          {
+            "definition": "使发光，使发亮",
+            "iscorrect": false
+          },
+          {
+            "definition": "总结，概括",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

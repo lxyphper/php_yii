@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "abominable",
+      "error_analysis": "学生易将\"abominable\"与形近词\"adorable\"（可爱的）混淆，或因词根\"omin\"（预兆）误判为\"不祥的\"而非\"令人厌恶的\"",
+      "sentence": "The smell from the rotten food in the fridge was absolutely **abominable**; it made everyone in the room gag.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人厌恶的；极坏的",
+            "iscorrect": true
+          },
+          {
+            "definition": "可爱的；讨人喜欢的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不祥的；有坏预兆的",
+            "iscorrect": false
+          },
+          {
+            "definition": "丰富的；充足的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

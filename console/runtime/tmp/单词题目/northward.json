@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "northward",
+      "error_analysis": "学生易因不熟悉\"-ward\"后缀（表方向）而误将\"northward\"理解为名词（如\"北方地区\"）或混淆\"ward\"的\"病房\"义（如\"北方的病房\"）",
+      "sentence": "As spring arrived, the geese started migrating **northward** to their breeding grounds.",
+      "options": {
+        "option": [
+          {
+            "definition": "向北（的/地）",
+            "iscorrect": true
+          },
+          {
+            "definition": "北方的病房",
+            "iscorrect": false
+          },
+          {
+            "definition": "北方地区",
+            "iscorrect": false
+          },
+          {
+            "definition": "西北方向",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

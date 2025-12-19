@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fissure",
+      "error_analysis": "学生易因形近词\"fisher\"(渔夫)或结尾\"-sure\"与\"pressure\"(压力)混淆，误判词义",
+      "sentence": "The earthquake caused a deep **fissure** in the road, making it impossible for cars to pass.",
+      "options": {
+        "option": [
+          {
+            "definition": "裂缝；裂隙",
+            "iscorrect": true
+          },
+          {
+            "definition": "渔夫",
+            "iscorrect": false
+          },
+          {
+            "definition": "压力",
+            "iscorrect": false
+          },
+          {
+            "definition": "特征",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

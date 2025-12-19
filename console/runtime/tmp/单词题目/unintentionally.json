@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unintentionally",
+      "error_analysis": "学生易因形近词“unintelligibly”（难以理解地）产生混淆，或误将词根推导为“不专心地”",
+      "sentence": "She knocked over the vase **unintentionally** while reaching for her phone.",
+      "options": {
+        "option": [
+          {
+            "definition": "无意中；非故意地",
+            "iscorrect": true
+          },
+          {
+            "definition": "难以理解地",
+            "iscorrect": false
+          },
+          {
+            "definition": "不专心地",
+            "iscorrect": false
+          },
+          {
+            "definition": "意外地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

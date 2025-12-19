@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "consistently",
+      "error_analysis": "学生易因词根“consist”（由…组成）误判“consistently”为“由…组成地”，或混淆形近词“constantly”（不断地）。",
+      "sentence": "Sarah has **consistently** scored top marks in math since she started the course.",
+      "options": {
+        "option": [
+          {
+            "definition": "由…组成地",
+            "iscorrect": false
+          },
+          {
+            "definition": "一致地；始终如一地",
+            "iscorrect": true
+          },
+          {
+            "definition": "不断地；频繁地",
+            "iscorrect": false
+          },
+          {
+            "definition": "坚持地；执着地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

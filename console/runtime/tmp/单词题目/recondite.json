@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "recondite",
+      "error_analysis": "学生易因形近词“redundant”（冗余的）产生混淆，或因词根拆分误判为“秘密的”",
+      "sentence": "The professor's lecture on quantum physics was so **recondite** that most students could barely follow along.",
+      "options": {
+        "option": [
+          {
+            "definition": "冗余的，多余的",
+            "iscorrect": false
+          },
+          {
+            "definition": "秘密的，隐蔽的",
+            "iscorrect": false
+          },
+          {
+            "definition": "深奥的，晦涩难懂的",
+            "iscorrect": true
+          },
+          {
+            "definition": "常见的，普遍的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

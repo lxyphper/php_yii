@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "presumable",
+      "error_analysis": "学生易混淆形近词presumptuous（专横的）的含义，或误将presumable理解为“专横的”而非“可假定的”",
+      "sentence": "It is **presumable** that she will arrive by 6 pm, as she mentioned leaving early.",
+      "options": {
+        "option": [
+          {
+            "definition": "可假定的；可能的",
+            "iscorrect": true
+          },
+          {
+            "definition": "专横的；放肆的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可恢复的；可继续的",
+            "iscorrect": false
+          },
+          {
+            "definition": "能被证明的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

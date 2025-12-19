@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "climatology",
+      "error_analysis": "易混淆形近学科词（如meteorology气象学）或忽略ology后缀误判为气候相关现象（如climate change气候变化）",
+      "sentence": "Scientists specializing in **climatology** study historical climate patterns to predict how global warming will affect future ecosystems.",
+      "options": {
+        "option": [
+          {
+            "definition": "气候学（研究气候的科学分支）",
+            "iscorrect": true
+          },
+          {
+            "definition": "气象学（研究短期天气的科学）",
+            "iscorrect": false
+          },
+          {
+            "definition": "气候变化（全球气候的长期改变）",
+            "iscorrect": false
+          },
+          {
+            "definition": "气候预测（对未来气候的推测）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

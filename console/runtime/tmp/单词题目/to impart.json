@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to impart",
+      "error_analysis": "学生易因形近词\"impact\"（影响）混淆词义，或因词根\"part\"（部分）误判为\"分割/参与\"",
+      "sentence": "The teacher tried to **impart** her love of poetry to the students during the engaging lecture.",
+      "options": {
+        "option": [
+          {
+            "definition": "传授；给予（信息、知识等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "影响；冲击",
+            "iscorrect": false
+          },
+          {
+            "definition": "分割；分成部分",
+            "iscorrect": false
+          },
+          {
+            "definition": "进口；引入",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

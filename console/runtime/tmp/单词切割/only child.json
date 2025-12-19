@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "olny child",
+      "only chid",
+      "only shild",
+      "onley child",
+      "olny chid"
+    ],
+    "correct_chunks": [
+      "onl",
+      "y",
+      "ch",
+      "ild"
+    ],
+    "distractor_chunks": [
+      "oln",
+      "chid",
+      "sh",
+      "ley",
+      "che"
+    ]
+  },
+  0
+]

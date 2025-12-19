@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to endure",
+      "error_analysis": "中国学生易因形近词“ensure”（确保）的拼写混淆，或因“end”（结束）的字面联想，将“to endure”误判为“确保”或“结束”。",
+      "sentence": "She couldn't **endure** the rude comments from her colleagues any longer.",
+      "options": {
+        "option": [
+          {
+            "definition": "确保",
+            "iscorrect": false
+          },
+          {
+            "definition": "结束",
+            "iscorrect": false
+          },
+          {
+            "definition": "忍受（痛苦或困难）",
+            "iscorrect": true
+          },
+          {
+            "definition": "享受",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

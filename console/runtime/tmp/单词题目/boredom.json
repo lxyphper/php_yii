@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "boredom",
+      "error_analysis": "学生易因形近词“board”（板）或词根“bore”（钻孔）错误联想，将“boredom”误解为“木板”或“钻孔动作”",
+      "sentence": "After sitting in the waiting room for two hours, she felt a deep sense of **boredom** creeping in.",
+      "options": {
+        "option": [
+          {
+            "definition": "无聊；厌倦",
+            "iscorrect": true
+          },
+          {
+            "definition": "木板；甲板",
+            "iscorrect": false
+          },
+          {
+            "definition": "钻孔动作；钻孔机",
+            "iscorrect": false
+          },
+          {
+            "definition": "边界；边境",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

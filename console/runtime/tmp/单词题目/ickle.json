@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ickle",
+      "error_analysis": "学生易因“ick”的词根联想误判为“讨厌的”，或因形近“pickle”误判为“泡菜”",
+      "sentence": "Look at that **ickle** kitten curled up in the corner—isn’t it adorable?",
+      "options": {
+        "option": [
+          {
+            "definition": "小的，可爱的（非正式用法）",
+            "iscorrect": true
+          },
+          {
+            "definition": "讨厌的，令人厌恶的",
+            "iscorrect": false
+          },
+          {
+            "definition": "泡菜（腌制蔬菜）",
+            "iscorrect": false
+          },
+          {
+            "definition": "自行车（两轮交通工具）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

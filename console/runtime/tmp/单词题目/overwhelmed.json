@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "overwhelmed",
+      "error_analysis": "学生易因\"over-\"（过度）和\"whelm\"（淹没）直译为\"被淹没\"，或混淆形近词\"overworked\"（过度工作的），忽略其\"不知所措/压力大\"的核心引申义",
+      "sentence": "After receiving three project deadlines in one day, Sarah felt **overwhelmed** and didn’t know where to start.",
+      "options": {
+        "option": [
+          {
+            "definition": "不知所措的；压力大的",
+            "iscorrect": true
+          },
+          {
+            "definition": "被淹没的",
+            "iscorrect": false
+          },
+          {
+            "definition": "过度工作的",
+            "iscorrect": false
+          },
+          {
+            "definition": "过度兴奋的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

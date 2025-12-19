@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "comprehensible",
+      "error_analysis": "中国学生易混淆形近词\"comprehensive\"（全面的），或因词根\"prehend\"（抓住）错误推导为\"能被抓住的\"",
+      "sentence": "The teacher explained the concept in simple terms to make it **comprehensible** for all students.",
+      "options": {
+        "option": [
+          {
+            "definition": "可理解的",
+            "iscorrect": true
+          },
+          {
+            "definition": "全面的",
+            "iscorrect": false
+          },
+          {
+            "definition": "能被抓住的",
+            "iscorrect": false
+          },
+          {
+            "definition": "值得理解的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

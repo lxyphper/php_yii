@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sour",
+      "error_analysis": "中国学生易因形近词'soul'（灵魂）的拼写及发音相似而误解'sour'的词义",
+      "sentence": "The lemon tastes **sour**, so I added some sugar to make it sweeter.",
+      "options": {
+        "option": [
+          {
+            "definition": "酸的（味道或气味）",
+            "iscorrect": true
+          },
+          {
+            "definition": "灵魂",
+            "iscorrect": false
+          },
+          {
+            "definition": "来源",
+            "iscorrect": false
+          },
+          {
+            "definition": "南方",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

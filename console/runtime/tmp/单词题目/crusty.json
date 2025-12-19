@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "crusty",
+      "error_analysis": "中国学生易因形近词\"rusty\"(生锈的)混淆，或因词根\"crust\"(外壳)猜测为\"有厚硬外壳的\"，忽略\"酥脆\"核心特征。",
+      "sentence": "The freshly baked **crusty** baguette had a golden-brown outer layer that cracked satisfyingly when I took a bite.",
+      "options": {
+        "option": [
+          {
+            "definition": "（面包等）外皮酥脆的",
+            "iscorrect": true
+          },
+          {
+            "definition": "生锈的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有厚硬外壳的",
+            "iscorrect": false
+          },
+          {
+            "definition": "（食物）柔软多汁的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

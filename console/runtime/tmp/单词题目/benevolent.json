@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "benevolent",
+      "error_analysis": "学生易因形近词\"violent\"（暴力的）产生错误联想，或因词根\"bene-\"（好）过度推导为\"有好处的\"而非\"仁慈的\"",
+      "sentence": "The elderly lady was known for her **benevolent** acts, like giving food to homeless people every weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "仁慈的；善意的",
+            "iscorrect": true
+          },
+          {
+            "definition": "暴力的；凶暴的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有好处的；有益的",
+            "iscorrect": false
+          },
+          {
+            "definition": "勤奋的；努力的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

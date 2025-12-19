@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "inventive",
+      "error_analysis": "学生易因形近词\"intensive\"（密集的）产生混淆，或因词根\"invent\"（发明）过度推导为\"与发明相关的\"而非\"有创造力的\"",
+      "sentence": "The **inventive** chef created a unique dish by combining traditional Chinese spices with Western cooking techniques.",
+      "options": {
+        "option": [
+          {
+            "definition": "有创造力的；有发明才能的",
+            "iscorrect": true
+          },
+          {
+            "definition": "密集的；集中的",
+            "iscorrect": false
+          },
+          {
+            "definition": "与发明相关的；属于发明的",
+            "iscorrect": false
+          },
+          {
+            "definition": "已发明的；被发明的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

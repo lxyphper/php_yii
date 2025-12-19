@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to wilt",
+      "error_analysis": "因形近词“wild”（野生的）“weld”（焊接）误解为“变野生”“焊接”，或因字面误导猜成“弯曲”等无关含义。",
+      "sentence": "After a long period of dry weather, the grass in the park began to **wilt** and turn brown.",
+      "options": {
+        "option": [
+          {
+            "definition": "（植物）枯萎；凋谢",
+            "iscorrect": true
+          },
+          {
+            "definition": "变成野生的；发狂",
+            "iscorrect": false
+          },
+          {
+            "definition": "焊接；连接",
+            "iscorrect": false
+          },
+          {
+            "definition": "弯曲；折叠",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

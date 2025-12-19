@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "limp",
+      "error_analysis": "学生易因形近词“limb”（肢体）误联想为“移动肢体”，或忽略“膝盖受伤”的语境直觉猜测为“正常走”，而非“跛行”。",
+      "sentence": "Because of his injured knee, Jack could only **limp** up the stairs.",
+      "options": {
+        "option": [
+          {
+            "definition": "（动词）一瘸一拐地走；跛行",
+            "iscorrect": true
+          },
+          {
+            "definition": "（动词）移动肢体；摆动肢体",
+            "iscorrect": false
+          },
+          {
+            "definition": "（动词）正常走；步行",
+            "iscorrect": false
+          },
+          {
+            "definition": "（动词）拖；拉",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

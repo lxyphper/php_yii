@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to bewail",
+      "error_analysis": "学生易因形近词“beware”（小心）产生混淆，或因“wail”（哭号）词根误解为“尖叫”",
+      "sentence": "The villagers gathered to **bewail** the destruction of their ancient temple by the storm.",
+      "options": {
+        "option": [
+          {
+            "definition": "哀悼；悲叹",
+            "iscorrect": true
+          },
+          {
+            "definition": "小心；提防",
+            "iscorrect": false
+          },
+          {
+            "definition": "尖叫；号叫",
+            "iscorrect": false
+          },
+          {
+            "definition": "抱怨；发牢骚",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

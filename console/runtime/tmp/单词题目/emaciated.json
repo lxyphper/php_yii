@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "emaciated",
+      "error_analysis": "学生易因形近词'embarrassed'（尴尬的）或'emancipated'（解放的）混淆词义，或因词根不熟悉误猜为'精力充沛的'。",
+      "sentence": "After weeks of illness, the old man looked **emaciated**, with sunken cheeks and bony limbs.",
+      "options": {
+        "option": [
+          {
+            "definition": "消瘦的，憔悴的",
+            "iscorrect": true
+          },
+          {
+            "definition": "尴尬的",
+            "iscorrect": false
+          },
+          {
+            "definition": "解放的",
+            "iscorrect": false
+          },
+          {
+            "definition": "精力充沛的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

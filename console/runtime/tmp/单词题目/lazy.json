@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lazy",
+      "error_analysis": "中国学生易因形近词“lacy”（有花边的）或词源误导将“lazy”误理解为“疲倦的”",
+      "sentence": "She never helps with housework—she’s so **lazy**!",
+      "options": {
+        "option": [
+          {
+            "definition": "懒惰的（形容词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "有花边的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "疲倦的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "忙碌的（形容词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

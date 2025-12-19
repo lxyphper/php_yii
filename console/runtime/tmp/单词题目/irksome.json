@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "irksome",
+      "error_analysis": "学生易将“irksome”与形近词“awesome”（令人敬畏的）混淆，或因不熟悉“irk”词根而误猜为褒义（如“令人愉快的”）",
+      "sentence": "The constant noise from the construction site next door became increasingly **irksome** as I tried to study.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人厌烦的",
+            "iscorrect": true
+          },
+          {
+            "definition": "令人敬畏的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人愉快的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人惊讶的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

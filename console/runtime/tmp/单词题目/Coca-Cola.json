@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Coca-Cola",
+      "error_analysis": "学生易因形近词“cocoa”（可可）联想误判为“可可饮料”，或因拆分“coca”（古柯）和“cola”（可乐）误理解为“古柯可乐”。",
+      "sentence": "When I go to the supermarket, I always buy a bottle of **Coca-Cola** because it's my favorite soft drink.",
+      "options": {
+        "option": [
+          {
+            "definition": "可口可乐（一种全球知名的碳酸饮料品牌）",
+            "iscorrect": true
+          },
+          {
+            "definition": "可可饮料（由可可豆研磨制成的热饮）",
+            "iscorrect": false
+          },
+          {
+            "definition": "古柯可乐（以古柯植物为原料的刺激性饮料）",
+            "iscorrect": false
+          },
+          {
+            "definition": "百事可乐（另一种流行的碳酸饮料品牌）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

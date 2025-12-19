@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "calm",
+      "error_analysis": "学生易因形近词“clam”（蛤蜊）或词根“calma”（平静的海）的干扰，将“calm”误理解为“蛤蜊的”或“海的”。",
+      "sentence": "After the storm, the sea became **calm** again.",
+      "options": {
+        "option": [
+          {
+            "definition": "平静的；镇静的",
+            "iscorrect": true
+          },
+          {
+            "definition": "蛤蜊的；与蛤蜊相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "海的；与海相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "喧闹的；嘈杂的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

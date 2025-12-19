@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sophisticated",
+      "error_analysis": "学生易因词根`soph-`（智慧）误导认为其指“有智慧的”，或与`complicated`（复杂难懂）混淆，忽略“精密/高级”的核心义。",
+      "sentence": "This **sophisticated** coffee machine uses AI to adjust brew strength and temperature for each user.",
+      "options": {
+        "option": [
+          {
+            "definition": "精密的；高级的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有智慧的",
+            "iscorrect": false
+          },
+          {
+            "definition": "复杂难懂的",
+            "iscorrect": false
+          },
+          {
+            "definition": "简单的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

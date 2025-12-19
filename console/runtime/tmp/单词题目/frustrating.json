@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "frustrating",
+      "error_analysis": "中国学生易因形近词（如fascinating/迷人的、frightening/令人害怕的）或语义混淆（误将“挫败”理解为“困惑”）而误解frustrating的含义",
+      "sentence": "It’s **frustrating** when you study hard for a test but still get a low score.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人害怕的",
+            "iscorrect": false
+          },
+          {
+            "definition": "迷人的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人挫败的",
+            "iscorrect": true
+          },
+          {
+            "definition": "令人困惑的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

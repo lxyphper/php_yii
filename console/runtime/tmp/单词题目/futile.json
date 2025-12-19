@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "futile",
+      "error_analysis": "学生易因形近词“future”（未来的）或“fertile”（肥沃的）产生错误联想，混淆为“未来的”或“肥沃的”。",
+      "sentence": "Trying to fix the broken vase with glue was **futile**; it had already shattered into too many pieces.",
+      "options": {
+        "option": [
+          {
+            "definition": "无用的；徒劳的",
+            "iscorrect": true
+          },
+          {
+            "definition": "未来的；将来的",
+            "iscorrect": false
+          },
+          {
+            "definition": "肥沃的；富饶的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有效的；起作用的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "feathery",
+      "error_analysis": "学生易因词根“feather”（羽毛）误判为“有羽毛的”（强调存在），或因形近词“feisty”（好斗的）产生混淆。",
+      "sentence": "Her hair had a **feathery** texture that felt soft and light against my cheek.",
+      "options": {
+        "option": [
+          {
+            "definition": "有羽毛的",
+            "iscorrect": false
+          },
+          {
+            "definition": "好斗的",
+            "iscorrect": false
+          },
+          {
+            "definition": "发烧的",
+            "iscorrect": false
+          },
+          {
+            "definition": "像羽毛的；轻盈柔软的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

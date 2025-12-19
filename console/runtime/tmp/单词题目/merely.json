@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "merely",
+      "error_analysis": "学生易因形近词\"mercy\"(仁慈)或\"merry\"(愉快的)联想，误将\"merely\"理解为\"仁慈地\"或\"愉快地\"",
+      "sentence": "She didn’t mean to hurt you—she **merely** forgot to reply to your message.",
+      "options": {
+        "option": [
+          {
+            "definition": "仅仅；只不过",
+            "iscorrect": true
+          },
+          {
+            "definition": "仁慈地；宽容地",
+            "iscorrect": false
+          },
+          {
+            "definition": "愉快地；高兴地",
+            "iscorrect": false
+          },
+          {
+            "definition": "纯粹地；完全地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

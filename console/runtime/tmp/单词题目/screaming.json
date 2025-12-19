@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "screaming",
+      "error_analysis": "易混淆形近词streaming（流的）或仅理解为词根字面义“尖叫的”，忽略“刺眼的/非常鲜艳的”非正式含义",
+      "sentence": "She wore a **screaming** blue dress to the party, which made her the center of attention.",
+      "options": {
+        "option": [
+          {
+            "definition": "流的；流媒体的",
+            "iscorrect": false
+          },
+          {
+            "definition": "尖叫的",
+            "iscorrect": false
+          },
+          {
+            "definition": "刺眼的；非常鲜艳的",
+            "iscorrect": true
+          },
+          {
+            "definition": "筛选的；放映的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

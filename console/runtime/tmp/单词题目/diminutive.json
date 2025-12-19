@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "diminutive",
+      "error_analysis": "中国学生易因词根“dimin-”（关联“减少”）将“diminutive”误理解为“减少的”，或因形近词“dim”（昏暗）误判为“昏暗的”。",
+      "sentence": "The old bookstore had a **diminutive** cat that curled up on the windowsill, barely taking up any space.",
+      "options": {
+        "option": [
+          {
+            "definition": "小巧的；微型的",
+            "iscorrect": true
+          },
+          {
+            "definition": "减少的；递减的",
+            "iscorrect": false
+          },
+          {
+            "definition": "昏暗的；模糊的",
+            "iscorrect": false
+          },
+          {
+            "definition": "本土的；原产的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

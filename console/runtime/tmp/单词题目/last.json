@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "last",
+      "error_analysis": "中国学生易因形近词“lost”（丢失）的拼写干扰，或对“last”作为动词“持续”的含义不熟悉而误判",
+      "sentence": "The movie **lasted** for two hours, so we missed the last bus home.",
+      "options": {
+        "option": [
+          {
+            "definition": "持续（动词，指时间延续）",
+            "iscorrect": true
+          },
+          {
+            "definition": "丢失（动词，失去）",
+            "iscorrect": false
+          },
+          {
+            "definition": "迟到（形容词，晚的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "保持（动词，维持状态）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

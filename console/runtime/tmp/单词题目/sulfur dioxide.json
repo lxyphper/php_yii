@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sulfur dioxide",
+      "error_analysis": "学生易因“dioxide”与“dioxin”形近误判为“硫二噁英”，或因“sulfur”与“sugar”形近误猜为“二氧化糖”。",
+      "sentence": "Burning coal in power plants releases **sulfur dioxide**, which contributes to acid rain and respiratory problems.",
+      "options": {
+        "option": [
+          {
+            "definition": "二氧化硫",
+            "iscorrect": true
+          },
+          {
+            "definition": "硫二噁英",
+            "iscorrect": false
+          },
+          {
+            "definition": "硫化物",
+            "iscorrect": false
+          },
+          {
+            "definition": "二氧化糖",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

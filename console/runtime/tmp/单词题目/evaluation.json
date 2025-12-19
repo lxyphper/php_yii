@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "evaluation",
+      "error_analysis": "易因形近词“evaporation”（蒸发）产生错误联想，或因词根“val”（价值）过度直译为“价值评估”而忽略其“评价、评估”的广泛含义",
+      "sentence": "The teacher will give each student a detailed **evaluation** of their performance in the project.",
+      "options": {
+        "option": [
+          {
+            "definition": "评价；评估",
+            "iscorrect": true
+          },
+          {
+            "definition": "蒸发；挥发",
+            "iscorrect": false
+          },
+          {
+            "definition": "价值评估；估价",
+            "iscorrect": false
+          },
+          {
+            "definition": "考试；检查",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mathematics",
+      "error_analysis": "中国学生易因“mathematics”与“medicine”（医学）拼写相似或误认为与“matter”（物质）有关而产生错误理解。",
+      "sentence": "She plans to take **mathematics** as her major because she loves solving problems with numbers and formulas.",
+      "options": {
+        "option": [
+          {
+            "definition": "数学",
+            "iscorrect": true
+          },
+          {
+            "definition": "医学",
+            "iscorrect": false
+          },
+          {
+            "definition": "物质学",
+            "iscorrect": false
+          },
+          {
+            "definition": "力学",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

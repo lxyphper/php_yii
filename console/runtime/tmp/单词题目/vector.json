@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "vector",
+      "error_analysis": "学生易因形近词\"vendor\"(小贩)或词根\"-tor\"(施动者)误将\"vector\"理解为\"小贩\"或\"搬运工\"",
+      "sentence": "The tick is a common **vector** for Lyme disease, passing the bacteria from deer to humans.",
+      "options": {
+        "option": [
+          {
+            "definition": "小贩",
+            "iscorrect": false
+          },
+          {
+            "definition": "搬运工",
+            "iscorrect": false
+          },
+          {
+            "definition": "载体（传播疾病的昆虫或动物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "车辆",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

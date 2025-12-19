@@ -1,0 +1,21 @@
+[
+  {
+    "common_misspellings": [
+      "suject",
+      "sabject",
+      "subgect",
+      "sudject"
+    ],
+    "correct_chunks": [
+      "sub",
+      "ject"
+    ],
+    "distractor_chunks": [
+      "su",
+      "sab",
+      "sud",
+      "gect"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pantheon",
+      "error_analysis": "学生易因形近词\"panorama\"（全景）误解为\"全景图\"，或因词根\"pan-\"（全部）误判为\"全体成员\"。",
+      "sentence": "Many consider Albert Einstein to be in the **pantheon** of 20th-century physicists.",
+      "options": {
+        "option": [
+          {
+            "definition": "（某领域的）杰出人物群体；巨匠群体",
+            "iscorrect": true
+          },
+          {
+            "definition": "全景图；全景视野",
+            "iscorrect": false
+          },
+          {
+            "definition": "全体成员；全员",
+            "iscorrect": false
+          },
+          {
+            "definition": "喘气的动作；喘息",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

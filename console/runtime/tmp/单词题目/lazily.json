@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lazily",
+      "error_analysis": "学生易因形近词“lately”（最近地）产生混淆，或误将“lazily”字面理解为“缓慢地”。",
+      "sentence": "The cat stretched **lazily** in the sun, curled up on the warm windowsill and refused to chase the butterfly.",
+      "options": {
+        "option": [
+          {
+            "definition": "最近地",
+            "iscorrect": false
+          },
+          {
+            "definition": "懒惰地",
+            "iscorrect": true
+          },
+          {
+            "definition": "缓慢地",
+            "iscorrect": false
+          },
+          {
+            "definition": "容易地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

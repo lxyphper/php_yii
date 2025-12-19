@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "into",
+      "error_analysis": "混淆“into”（介词，表进入/变成）与“in to”（in+to，表方向）的用法，或误将其拆解为in加to而忽略整体含义",
+      "sentence": "She walked **into** the bookstore and picked up a novel.",
+      "options": {
+        "option": [
+          {
+            "definition": "在...里面（in的基本含义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "到...里面（to的方向含义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "in加to的组合（表示“进去做某事”的方向）",
+            "iscorrect": false
+          },
+          {
+            "definition": "进入...内部；变成（介词的核心含义）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

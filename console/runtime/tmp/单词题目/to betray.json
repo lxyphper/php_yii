@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to betray",
+      "error_analysis": "学生易因形近词“bet”（打赌）混淆词义，或因“tray”（托盘）字面猜测为“展示”而非“背叛”",
+      "sentence": "He promised to keep the secret, but he **betrayed** me by telling everyone.",
+      "options": {
+        "option": [
+          {
+            "definition": "背叛；出卖",
+            "iscorrect": true
+          },
+          {
+            "definition": "打赌；下赌注",
+            "iscorrect": false
+          },
+          {
+            "definition": "展示；把…放在托盘上",
+            "iscorrect": false
+          },
+          {
+            "definition": "相信；信任",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "flat out",
+      "error_analysis": "中国学生易因“flat”（平的）和“out”（展开/出去）的字面意思，将“flat out”误判为“平摊；平铺”或“直接离开”。",
+      "sentence": "After working **flat out** for a month, she finally finished the project before the deadline.",
+      "options": {
+        "option": [
+          {
+            "definition": "竭尽全力地",
+            "iscorrect": true
+          },
+          {
+            "definition": "平摊；平铺",
+            "iscorrect": false
+          },
+          {
+            "definition": "直率地；坦诚地",
+            "iscorrect": false
+          },
+          {
+            "definition": "突然离开；直接出去",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

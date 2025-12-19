@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "thrill",
+      "error_analysis": "中国学生易因形近词“drill”（训练；钻孔）混淆，或因词根原始意思误判为“刺穿；疼痛”。",
+      "sentence": "Watching her favorite singer perform live gave her a huge **thrill** that lasted for days.",
+      "options": {
+        "option": [
+          {
+            "definition": "兴奋；激动",
+            "iscorrect": true
+          },
+          {
+            "definition": "训练；钻孔",
+            "iscorrect": false
+          },
+          {
+            "definition": "刺穿；疼痛",
+            "iscorrect": false
+          },
+          {
+            "definition": "威胁；危险",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

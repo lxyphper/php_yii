@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to poison",
+      "error_analysis": "学生易混淆形近词\"prison\"(监狱)，将\"to poison\"错解为\"关进监狱\"；或误将名词\"毒药\"直接套用于动词，理解为\"使有毒\"。",
+      "sentence": "The criminal tried to **poison** the king's wine, but the guard stopped him in time.",
+      "options": {
+        "option": [
+          {
+            "definition": "下毒；使中毒",
+            "iscorrect": true
+          },
+          {
+            "definition": "关进监狱",
+            "iscorrect": false
+          },
+          {
+            "definition": "使有毒",
+            "iscorrect": false
+          },
+          {
+            "definition": "惩罚",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

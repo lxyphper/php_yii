@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to decrease",
+      "error_analysis": "学生易因形近词“increase”（增加）的干扰，将“to decrease”误判为“增加”",
+      "sentence": "The number of students in the class began to **decrease** after the winter holiday due to some families moving away.",
+      "options": {
+        "option": [
+          {
+            "definition": "减少；降低",
+            "iscorrect": true
+          },
+          {
+            "definition": "增加；提高",
+            "iscorrect": false
+          },
+          {
+            "definition": "折叠；弯曲",
+            "iscorrect": false
+          },
+          {
+            "definition": "完全停止；终止",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

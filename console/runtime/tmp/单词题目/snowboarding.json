@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "snowboarding",
+      "error_analysis": "易因形近词`snowballing`（滚雪球）或词根拆分`snow`+`boarding`（雪+寄宿）误判为“滚雪球”或“雪天寄宿”",
+      "sentence": "She fell in love with **snowboarding** after trying it once on a trip to the mountains.",
+      "options": {
+        "option": [
+          {
+            "definition": "滚雪球（效应）",
+            "iscorrect": false
+          },
+          {
+            "definition": "雪天寄宿",
+            "iscorrect": false
+          },
+          {
+            "definition": "雪地行走",
+            "iscorrect": false
+          },
+          {
+            "definition": "单板滑雪（运动）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

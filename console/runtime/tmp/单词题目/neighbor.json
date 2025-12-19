@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "neighbor",
+      "error_analysis": "学生易因形近词“nephew”（侄子）混淆词义，或因“neigh”（马嘶）的词根联想误判为“马夫”等与马相关的含义。",
+      "sentence": "My **neighbor** often brings me homemade cookies when I'm sick.",
+      "options": {
+        "option": [
+          {
+            "definition": "侄子",
+            "iscorrect": false
+          },
+          {
+            "definition": "马夫",
+            "iscorrect": false
+          },
+          {
+            "definition": "邻居",
+            "iscorrect": true
+          },
+          {
+            "definition": "亲戚",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

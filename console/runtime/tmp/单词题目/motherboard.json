@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "motherboard",
+      "error_analysis": "学生易因\"mother\"(母亲)和\"board\"(板)的字面组合，错误理解为\"母亲使用的日常板子\"(如切菜板)，而非计算机的主板。",
+      "sentence": "Before installing the graphics card, make sure the **motherboard** is properly fixed in the computer case.",
+      "options": {
+        "option": [
+          {
+            "definition": "（计算机的）主板",
+            "iscorrect": true
+          },
+          {
+            "definition": "母亲使用的切菜板",
+            "iscorrect": false
+          },
+          {
+            "definition": "表示母性的装饰板",
+            "iscorrect": false
+          },
+          {
+            "definition": "学校教室的黑板",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

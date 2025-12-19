@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "grape",
+      "error_analysis": "中国学生易因形近词“grade”（年级）干扰，或字面拆分“ape”（猿）产生错误联想。",
+      "sentence": "She bought a bunch of **grapes** from the supermarket to make fresh juice.",
+      "options": {
+        "option": [
+          {
+            "definition": "年级",
+            "iscorrect": false
+          },
+          {
+            "definition": "猿",
+            "iscorrect": false
+          },
+          {
+            "definition": "葡萄",
+            "iscorrect": true
+          },
+          {
+            "definition": "草",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

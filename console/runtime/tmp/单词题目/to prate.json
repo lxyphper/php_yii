@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to prate",
+      "error_analysis": "学生易因形近词\"pray\"（祈祷）的干扰，将\"to prate\"误判为\"祈祷\"",
+      "sentence": "She would often **prate** about her new shoes, even though no one was listening.",
+      "options": {
+        "option": [
+          {
+            "definition": "祈祷",
+            "iscorrect": false
+          },
+          {
+            "definition": "表扬",
+            "iscorrect": false
+          },
+          {
+            "definition": "喋喋不休；唠叨",
+            "iscorrect": true
+          },
+          {
+            "definition": "评价",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

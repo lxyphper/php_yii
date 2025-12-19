@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "approval",
+      "error_analysis": "易混淆形近词appraisal（评估）及词根prove误导的“证明”含义",
+      "sentence": "The project can only start after getting the manager's **approval**.",
+      "options": {
+        "option": [
+          {
+            "definition": "批准；认可",
+            "iscorrect": true
+          },
+          {
+            "definition": "评估；评价",
+            "iscorrect": false
+          },
+          {
+            "definition": "证明；证据",
+            "iscorrect": false
+          },
+          {
+            "definition": "改进；改善",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to rent",
+      "error_analysis": "中国学生易因形近词“rest”（休息）混淆词义，或因名词“rent”（租金）误判动词为“支付租金”。",
+      "sentence": "We decided to **rent** a car for our weekend trip to the mountains.",
+      "options": {
+        "option": [
+          {
+            "definition": "休息",
+            "iscorrect": false
+          },
+          {
+            "definition": "支付租金",
+            "iscorrect": false
+          },
+          {
+            "definition": "租赁（租用/出租）",
+            "iscorrect": true
+          },
+          {
+            "definition": "出售",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

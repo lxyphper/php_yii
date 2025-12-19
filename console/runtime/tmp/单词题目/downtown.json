@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "downtown",
+      "error_analysis": "学生易将\"down+town\"字面理解为\"城镇的下方\"，或与形近词\"downtime\"（停机时间）混淆",
+      "sentence": "Let's meet **downtown** at the coffee shop near the main square—we can walk to the theater afterward.",
+      "options": {
+        "option": [
+          {
+            "definition": "市中心",
+            "iscorrect": true
+          },
+          {
+            "definition": "城镇的下方区域",
+            "iscorrect": false
+          },
+          {
+            "definition": "（机器的）停机时间",
+            "iscorrect": false
+          },
+          {
+            "definition": "郊区的住宅区",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

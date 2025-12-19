@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "chagrined",
+      "error_analysis": "学生易因形近词\"changed\"（改变的）误解词义，或拆分\"grin\"（笑）而猜成与\"笑\"相关的意思",
+      "sentence": "Tom was **chagrined** when he realized he had accidentally deleted all his vacation photos.",
+      "options": {
+        "option": [
+          {
+            "definition": "改变的；变化的",
+            "iscorrect": false
+          },
+          {
+            "definition": "笑的；咧嘴笑的",
+            "iscorrect": false
+          },
+          {
+            "definition": "懊恼的；沮丧的",
+            "iscorrect": true
+          },
+          {
+            "definition": "愤怒的；生气的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

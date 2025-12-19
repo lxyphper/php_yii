@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cottage",
+      "error_analysis": "学生易因形近词\"cot\"(婴儿床)误解为\"婴儿房\"，或因与\"cotton\"(棉花)形近误判为\"棉花相关场所\"",
+      "sentence": "We spent the weekend in a cozy **cottage** by the lake, enjoying the fresh air and quiet surroundings.",
+      "options": {
+        "option": [
+          {
+            "definition": "村舍；小别墅",
+            "iscorrect": true
+          },
+          {
+            "definition": "婴儿房",
+            "iscorrect": false
+          },
+          {
+            "definition": "棉花仓库",
+            "iscorrect": false
+          },
+          {
+            "definition": "公寓",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

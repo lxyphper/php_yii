@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "if",
+      "error_analysis": "学生易因形近词（如is/of/it）干扰，将if误判为其他词类（如be动词、介词或代词），导致句子逻辑理解错误",
+      "sentence": "I will buy you an ice cream **if** you finish your homework on time.",
+      "options": {
+        "option": [
+          {
+            "definition": "如果（引导条件状语从句）",
+            "iscorrect": true
+          },
+          {
+            "definition": "是（be动词，第三人称单数）",
+            "iscorrect": false
+          },
+          {
+            "definition": "……的（介词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "它（代词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

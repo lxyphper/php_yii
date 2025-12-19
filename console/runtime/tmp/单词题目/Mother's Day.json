@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Mother's Day",
+      "error_analysis": "学生可能因“Day”的字面义（日子/白天）将“Mother's Day”错误理解为“母亲的一天”，而非正确的“母亲节”",
+      "sentence": "Many children make handmade cards for their moms to express love on **Mother's Day**.",
+      "options": {
+        "option": [
+          {
+            "definition": "母亲节",
+            "iscorrect": true
+          },
+          {
+            "definition": "母亲的一天",
+            "iscorrect": false
+          },
+          {
+            "definition": "父亲的节日",
+            "iscorrect": false
+          },
+          {
+            "definition": "母亲的生日",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

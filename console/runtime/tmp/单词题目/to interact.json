@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to interact",
+      "error_analysis": "易混淆形近词\"interrupt\"(打断)及词根\"inter-\"+\"act\"的字面误导(如\"互相行动\")",
+      "sentence": "Children learn best when they **interact** with their peers during playtime.",
+      "options": {
+        "option": [
+          {
+            "definition": "互动；交流（与他人沟通或一起做事情）",
+            "iscorrect": true
+          },
+          {
+            "definition": "打断；中断（使某事停止或中断）",
+            "iscorrect": false
+          },
+          {
+            "definition": "互相行动；在之间行动（字面理解词根组合）",
+            "iscorrect": false
+          },
+          {
+            "definition": "产生兴趣；引起关注（混淆形近词\"interest\"）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

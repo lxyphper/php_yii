@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "thermodynamics",
+      "error_analysis": "学生易因形近词\"thermometer\"(温度计)误以为与\"温度计相关\"，或因词根\"thermo-\"(热)+\"dynamics\"(动力学)过度直译为\"热运动的动态\"而非正确的\"热力学\"。",
+      "sentence": "The engineer applied principles of **thermodynamics** to improve the fuel efficiency of the new car engine.",
+      "options": {
+        "option": [
+          {
+            "definition": "温度计的工作原理",
+            "iscorrect": false
+          },
+          {
+            "definition": "热运动的动态分析",
+            "iscorrect": false
+          },
+          {
+            "definition": "热力学（研究热与能量转换的学科）",
+            "iscorrect": true
+          },
+          {
+            "definition": "大气动力学的分支领域",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

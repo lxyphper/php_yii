@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "calmly",
+      "error_analysis": "学生易因形近词（如camel）干扰或对“calm”的副词化理解偏差，将calmly误释为“骆驼般地”或“慢慢地”。",
+      "sentence": "When the fire alarm went off, the teacher **calmly** instructed the students to leave the classroom in order.",
+      "options": {
+        "option": [
+          {
+            "definition": "平静地",
+            "iscorrect": true
+          },
+          {
+            "definition": "骆驼般地",
+            "iscorrect": false
+          },
+          {
+            "definition": "慢慢地",
+            "iscorrect": false
+          },
+          {
+            "definition": "兴奋地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

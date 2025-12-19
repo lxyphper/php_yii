@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "currency",
+      "error_analysis": "易因形近词current（当前的）误判为“当前趋势”，或因词根curr（跑）误猜为“流动的物体”",
+      "sentence": "When traveling to Japan, you should convert your Chinese yuan into Japanese **currency** at a bank or exchange office.",
+      "options": {
+        "option": [
+          {
+            "definition": "货币；通货",
+            "iscorrect": true
+          },
+          {
+            "definition": "当前的趋势；潮流",
+            "iscorrect": false
+          },
+          {
+            "definition": "流动的物体；水流",
+            "iscorrect": false
+          },
+          {
+            "definition": "通用的；普遍的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

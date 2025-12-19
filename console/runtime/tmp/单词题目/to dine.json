@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to dine",
+      "error_analysis": "中国学生易因形近词“dime”（一角硬币）误解“dine”为“支付”，或因“dinner”（晚餐）关联误解为“做晚餐”。",
+      "sentence": "We plan to **dine** at the fancy French restaurant tonight to celebrate our promotion.",
+      "options": {
+        "option": [
+          {
+            "definition": "to cook a meal for the evening",
+            "iscorrect": false
+          },
+          {
+            "definition": "to pay for something using a small coin",
+            "iscorrect": false
+          },
+          {
+            "definition": "to have dinner, especially in a formal setting",
+            "iscorrect": true
+          },
+          {
+            "definition": "to drink alcohol with friends",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "syphilology",
+      "error_analysis": "学生易将\"syphilology\"与形近词\"philology\"（语言学）混淆，或误通过词根\"philo-\"（爱）推测为\"关于爱的研究\"。",
+      "sentence": "Researchers in **syphilology** are working to develop better tests for detecting the disease in its early stages.",
+      "options": {
+        "option": [
+          {
+            "definition": "梅毒学（研究梅毒的医学分支）",
+            "iscorrect": true
+          },
+          {
+            "definition": "语言学（研究语言的学科）",
+            "iscorrect": false
+          },
+          {
+            "definition": "关于爱的研究（如情感或博爱）",
+            "iscorrect": false
+          },
+          {
+            "definition": "皮肤病学（研究皮肤疾病的学科）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

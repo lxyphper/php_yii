@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to slim down",
+      "error_analysis": "易因字面误导（将'slim down'直译为'使苗条向下'）或形近词混淆（与'slow down'混淆）而误解为'压瘦'或'放慢速度'。",
+      "sentence": "After changing her diet and working out regularly, Maria was able to **slim down** and feel more confident in her clothes.",
+      "options": {
+        "option": [
+          {
+            "definition": "减轻体重；变瘦",
+            "iscorrect": true
+          },
+          {
+            "definition": "放慢速度",
+            "iscorrect": false
+          },
+          {
+            "definition": "使...向下倾斜",
+            "iscorrect": false
+          },
+          {
+            "definition": "增加肌肉量",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

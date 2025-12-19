@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "spacecraft",
+      "error_analysis": "学生易将\"spacecraft\"拆分为\"space\"(太空)+\"craft\"(工艺)误解为\"太空工艺\"，或混淆形近词\"spaceman\"(太空人)导致错误",
+      "sentence": "The Mars rover Perseverance is a **spacecraft** designed to explore the surface of the Red Planet.",
+      "options": {
+        "option": [
+          {
+            "definition": "太空工艺",
+            "iscorrect": false
+          },
+          {
+            "definition": "太空人",
+            "iscorrect": false
+          },
+          {
+            "definition": "太空船",
+            "iscorrect": false
+          },
+          {
+            "definition": "航天器",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

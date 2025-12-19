@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to flit",
+      "error_analysis": "学生易因形近词\"float\"(漂浮)或对\"flight\"(飞行)的联想，将\"flit\"误解为\"漂浮\"或\"高飞\"",
+      "sentence": "The hummingbird **flitted** from one flower to another in the sunny garden.",
+      "options": {
+        "option": [
+          {
+            "definition": "快速轻快地移动（从一处到另一处）",
+            "iscorrect": true
+          },
+          {
+            "definition": "漂浮在水面或空气中",
+            "iscorrect": false
+          },
+          {
+            "definition": "（鸟）向高空飞翔",
+            "iscorrect": false
+          },
+          {
+            "definition": "长时间停留不动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

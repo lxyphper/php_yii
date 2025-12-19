@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "blissful",
+      "error_analysis": "中国学生易因形近于“bless”（祝福）而误将“blissful”理解为“祝福的”，或因不熟悉“bliss”（幸福）词根而无法正确关联“幸福的”。",
+      "sentence": "The newlyweds spent a **blissful** weekend at the beach, laughing and walking hand in hand as the sun set.",
+      "options": {
+        "option": [
+          {
+            "definition": "幸福的；极乐的",
+            "iscorrect": true
+          },
+          {
+            "definition": "祝福的；神圣的",
+            "iscorrect": false
+          },
+          {
+            "definition": "充满祝福的；被保佑的",
+            "iscorrect": false
+          },
+          {
+            "definition": "痛苦的；煎熬的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

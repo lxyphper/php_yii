@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to recognize",
+      "error_analysis": "中国学生易因形近词“recommend”（推荐）及词根“re-+cognize”过度直译而误解为“推荐”或“重新认知”。",
+      "sentence": "When I saw her at the high school reunion, I immediately **recognized** my childhood friend Lisa.",
+      "options": {
+        "option": [
+          {
+            "definition": "认出；识别",
+            "iscorrect": true
+          },
+          {
+            "definition": "推荐；建议",
+            "iscorrect": false
+          },
+          {
+            "definition": "重新认知；再认识",
+            "iscorrect": false
+          },
+          {
+            "definition": "意识到；明白",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

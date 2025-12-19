@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "greeting",
+      "error_analysis": "学生易因形近词\"meeting\"(会议)、\"-ing\"动名词误解(正在问候)或词根\"great\"(伟大的)联想而错误理解\"greeting\"。",
+      "sentence": "She waved and said \"hello\" as a **greeting** when she passed by my desk.",
+      "options": {
+        "option": [
+          {
+            "definition": "问候；问候语",
+            "iscorrect": true
+          },
+          {
+            "definition": "会议",
+            "iscorrect": false
+          },
+          {
+            "definition": "正在问候",
+            "iscorrect": false
+          },
+          {
+            "definition": "伟大的事物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

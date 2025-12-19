@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bullying",
+      "error_analysis": "学生易因形近词\"building\"（建筑）混淆，或因词根\"bull\"（公牛）误联想为\"公牛的行为\"",
+      "sentence": "The school has a strict policy against **bullying** to protect students from being hurt by their peers.",
+      "options": {
+        "option": [
+          {
+            "definition": "建筑（物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "公牛的攻击行为",
+            "iscorrect": false
+          },
+          {
+            "definition": "欺负；霸凌（行为）",
+            "iscorrect": true
+          },
+          {
+            "definition": "友好的互动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

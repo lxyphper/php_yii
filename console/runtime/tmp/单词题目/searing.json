@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "searing",
+      "error_analysis": "学生易因形近词\"searching\"（寻找的）或词根\"sear\"（烤焦）的过度直译，将\"searing\"误判为\"寻找的\"或\"烤焦的\"",
+      "sentence": "The **searing** pain in her knee forced her to stop running immediately.",
+      "options": {
+        "option": [
+          {
+            "definition": "剧烈的；令人痛苦的",
+            "iscorrect": true
+          },
+          {
+            "definition": "寻找的；探索的",
+            "iscorrect": false
+          },
+          {
+            "definition": "烤焦的；烧灼的",
+            "iscorrect": false
+          },
+          {
+            "definition": "严肃的；认真的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

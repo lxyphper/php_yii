@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "biodiversity",
+      "error_analysis": "学生易因“bio-”词根误导（如误作“生物学”）或形近词（如“biography”）干扰，将“biodiversity”误解为“生物学多样性”或“个人传记多样性”。",
+      "sentence": "The government has launched a new program to protect the **biodiversity** of the rainforest, which is home to thousands of unique species.",
+      "options": {
+        "option": [
+          {
+            "definition": "生物多样性",
+            "iscorrect": true
+          },
+          {
+            "definition": "生物学多样性",
+            "iscorrect": false
+          },
+          {
+            "definition": "个人传记多样性",
+            "iscorrect": false
+          },
+          {
+            "definition": "生命多样性",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

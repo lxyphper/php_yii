@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stalactite",
+      "error_analysis": "学生易因形近词“statue”（雕像）误判，或因词根联想误以为是“硬石头”",
+      "sentence": "When we explored the cave, we saw a long, pointed **stalactite** hanging from the ceiling, slowly dripping water onto the ground below.",
+      "options": {
+        "option": [
+          {
+            "definition": "钟乳石（从洞穴顶部向下生长的碳酸钙沉积物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "雕像（用石头或金属制成的人物或动物形象）",
+            "iscorrect": false
+          },
+          {
+            "definition": "硬石头（质地坚硬、不易破碎的岩石）",
+            "iscorrect": false
+          },
+          {
+            "definition": "石笋（从洞穴底部向上生长的碳酸钙沉积物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

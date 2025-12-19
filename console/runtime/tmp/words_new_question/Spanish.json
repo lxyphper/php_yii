@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Spanish",
+      "error_analysis": "中国学生易因形近词“spinach”（菠菜）混淆为“菠菜（的）”，或因词根“span”+“ish”误判为“有跨度的；延伸的”。",
+      "sentence": "She is learning **Spanish** to communicate with her friends from Madrid.",
+      "options": {
+        "option": [
+          {
+            "definition": "西班牙的；西班牙语的；西班牙人的",
+            "iscorrect": true
+          },
+          {
+            "definition": "菠菜（的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "有跨度的；延伸的",
+            "iscorrect": false
+          },
+          {
+            "definition": "辛辣的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

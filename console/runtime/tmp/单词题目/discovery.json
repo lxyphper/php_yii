@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "discovery",
+      "error_analysis": "学生易因形近词\"recovery\"（恢复）混淆，或误拆词根\"dis-\"+\"covery\"导致理解偏差",
+      "sentence": "The scientist's **discovery** of a new planet made headlines around the world.",
+      "options": {
+        "option": [
+          {
+            "definition": "发现；发觉",
+            "iscorrect": true
+          },
+          {
+            "definition": "恢复；复原",
+            "iscorrect": false
+          },
+          {
+            "definition": "移除；拿走",
+            "iscorrect": false
+          },
+          {
+            "definition": "发明；创造",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

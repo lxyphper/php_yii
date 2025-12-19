@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "exclusively",
+      "error_analysis": "学生易将\"exclusively\"与形近词\"excessively\"（过度地）或\"extensively\"（广泛地）混淆，误理解为\"过度地\"或\"广泛地\"。",
+      "sentence": "This restaurant serves **exclusively** vegan food, so you won’t find any meat or dairy here.",
+      "options": {
+        "option": [
+          {
+            "definition": "专门地；排他地",
+            "iscorrect": true
+          },
+          {
+            "definition": "过度地；过分地",
+            "iscorrect": false
+          },
+          {
+            "definition": "广泛地；全面地",
+            "iscorrect": false
+          },
+          {
+            "definition": "特别地；非常地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

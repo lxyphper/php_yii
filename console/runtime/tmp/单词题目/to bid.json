@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to bid",
+      "error_analysis": "学生易因形近词\"bit\"（咬的过去式）混淆而误解为\"去咬\"，或因词根古义\"命令\"误导为\"去命令\"。",
+      "sentence": "At the auction, many collectors will **bid** for the rare vase to add it to their collections.",
+      "options": {
+        "option": [
+          {
+            "definition": "出价；投标",
+            "iscorrect": true
+          },
+          {
+            "definition": "去咬",
+            "iscorrect": false
+          },
+          {
+            "definition": "去命令",
+            "iscorrect": false
+          },
+          {
+            "definition": "去请求",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

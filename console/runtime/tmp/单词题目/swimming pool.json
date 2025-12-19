@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "swimming pool",
+      "error_analysis": "易因'swimming'与'swinging'形近误判为“摇摆池”，或因'pool'字面义误理解为“游泳的池塘”（忽略人工泳池的核心功能）",
+      "sentence": "Let's meet at the **swimming pool** next to the gym after school—we can practice our strokes there.",
+      "options": {
+        "option": [
+          {
+            "definition": "游泳池",
+            "iscorrect": true
+          },
+          {
+            "definition": "摇摆池",
+            "iscorrect": false
+          },
+          {
+            "definition": "游泳的池塘",
+            "iscorrect": false
+          },
+          {
+            "definition": "钓鱼池",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

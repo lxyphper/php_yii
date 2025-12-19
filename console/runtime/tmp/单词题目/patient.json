@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "patient",
+      "error_analysis": "中国学生易因形近词“patent”（专利）干扰，或混淆“patient”的“耐心的”（形）与“病人”（名）词义而误判",
+      "sentence": "The doctor told the **patient** to take the medicine three times a day.",
+      "options": {
+        "option": [
+          {
+            "definition": "专利",
+            "iscorrect": false
+          },
+          {
+            "definition": "父母",
+            "iscorrect": false
+          },
+          {
+            "definition": "病人",
+            "iscorrect": true
+          },
+          {
+            "definition": "耐心的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

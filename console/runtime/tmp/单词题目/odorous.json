@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "odorous",
+      "error_analysis": "易混淆形近词odious（可憎的），或误将词根odor（气味）过度联想为“难闻的”而非中性的“有气味的”",
+      "sentence": "The **odorous** fumes from the chemical plant made the nearby residents complain to the authorities.",
+      "options": {
+        "option": [
+          {
+            "definition": "有气味的（尤指强烈的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "可憎的；讨厌的",
+            "iscorrect": false
+          },
+          {
+            "definition": "难闻的；恶臭的",
+            "iscorrect": false
+          },
+          {
+            "definition": "奇怪的；异常的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

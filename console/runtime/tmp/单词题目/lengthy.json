@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lengthy",
+      "error_analysis": "因形近词“length”（长度）干扰，易误判为“与长度相关的”，忽略其引申义“冗长的”",
+      "sentence": "The meeting was so **lengthy** that many people started to check their phones out of boredom.",
+      "options": {
+        "option": [
+          {
+            "definition": "有长度的；关于长度的",
+            "iscorrect": false
+          },
+          {
+            "definition": "强壮的；有力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "冗长的；漫长的",
+            "iscorrect": true
+          },
+          {
+            "definition": "快速的；短暂的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rancid",
+      "error_analysis": "学生易因形近词\"random\"（随机的）混淆，或误将\"rancid\"联想为\"酸的\"（因与\"acid\"形近）。",
+      "sentence": "The butter had been left out of the fridge for a week, and it smelled **rancid**.",
+      "options": {
+        "option": [
+          {
+            "definition": "随机的",
+            "iscorrect": false
+          },
+          {
+            "definition": "酸的",
+            "iscorrect": false
+          },
+          {
+            "definition": "（食物或脂肪）腐臭的，变质的",
+            "iscorrect": true
+          },
+          {
+            "definition": "粗糙的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

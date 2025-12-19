@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to turn up",
+      "error_analysis": "学生易将'turn up'字面理解为'向上转'，或混淆为'调大（音量）'，忽略其'出现；到场'的核心含义",
+      "sentence": "I waited for an hour, but my sister still didn't **turn up** at the restaurant.",
+      "options": {
+        "option": [
+          {
+            "definition": "出现；到场",
+            "iscorrect": true
+          },
+          {
+            "definition": "向上转",
+            "iscorrect": false
+          },
+          {
+            "definition": "调大（音量/热度）",
+            "iscorrect": false
+          },
+          {
+            "definition": "转身",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

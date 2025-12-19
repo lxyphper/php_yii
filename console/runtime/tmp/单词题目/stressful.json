@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stressful",
+      "error_analysis": "学生易因形近词\"successful\"（成功的）或词根\"stress\"的\"强调\"义，误将\"stressful\"理解为\"成功的\"或\"强调的\"",
+      "sentence": "Preparing for the college entrance exam can be very **stressful** for many students.",
+      "options": {
+        "option": [
+          {
+            "definition": "有压力的，紧张的",
+            "iscorrect": true
+          },
+          {
+            "definition": "成功的",
+            "iscorrect": false
+          },
+          {
+            "definition": "强调的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无聊的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

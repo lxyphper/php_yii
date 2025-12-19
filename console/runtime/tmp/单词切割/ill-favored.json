@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "ill-favoured",
+      "il-favored",
+      "ill-favered",
+      "ill-favor",
+      "illfavored"
+    ],
+    "correct_chunks": [
+      "ill-",
+      "fav",
+      "ored"
+    ],
+    "distractor_chunks": [
+      "favoured",
+      "favered",
+      "il-",
+      "favor"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "burglary",
+      "error_analysis": "易混淆形近词\"burial\"(葬礼)及词根误导(误将\"盗窃行为\"当作\"窃贼\"指人)",
+      "sentence": "The police are investigating a **burglary** at the local jewelry store last night.",
+      "options": {
+        "option": [
+          {
+            "definition": "葬礼",
+            "iscorrect": false
+          },
+          {
+            "definition": "窃贼（指人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "洞穴挖掘",
+            "iscorrect": false
+          },
+          {
+            "definition": "入室盗窃（行为）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

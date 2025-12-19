@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "delicate",
+      "error_analysis": "学生易将\"delicate\"与形近词\"delicious\"（美味的）混淆，或因词根\"licere\"（吸引）错误理解为\"迷人的\"",
+      "sentence": "The artist spent hours painting the **delicate** details of the flower on the canvas.",
+      "options": {
+        "option": [
+          {
+            "definition": "美味的",
+            "iscorrect": false
+          },
+          {
+            "definition": "迷人的",
+            "iscorrect": false
+          },
+          {
+            "definition": "强壮的",
+            "iscorrect": false
+          },
+          {
+            "definition": "精致的；脆弱的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

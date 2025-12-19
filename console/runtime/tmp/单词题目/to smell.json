@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to smell",
+      "error_analysis": "学生易因形近词\"small\"（小的）混淆，将\"to smell\"误理解为\"变小\"或\"小的\"",
+      "sentence": "The cake in the oven **smells** delicious. I can't wait to eat it.",
+      "options": {
+        "option": [
+          {
+            "definition": "闻；嗅",
+            "iscorrect": true
+          },
+          {
+            "definition": "小的；微小的",
+            "iscorrect": false
+          },
+          {
+            "definition": "尝；品尝",
+            "iscorrect": false
+          },
+          {
+            "definition": "微笑；笑",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

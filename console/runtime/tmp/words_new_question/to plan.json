@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to plan",
+      "error_analysis": "中国学生易因形近词“plant”（种植）或“plane”（飞机）干扰，误理解“to plan”的含义。",
+      "sentence": "We need to **plan** our trip to the beach carefully to avoid any problems.",
+      "options": {
+        "option": [
+          {
+            "definition": "计划；打算",
+            "iscorrect": true
+          },
+          {
+            "definition": "种植；栽培",
+            "iscorrect": false
+          },
+          {
+            "definition": "飞机；平面",
+            "iscorrect": false
+          },
+          {
+            "definition": "平原；简单的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

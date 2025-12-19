@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "museum",
+      "error_analysis": "学生易因形近词\"music\"（音乐）的联想，误将\"museum\"理解为与音乐相关的场所（如音乐厅）。",
+      "sentence": "We spent the afternoon visiting the **museum** to see the ancient Egyptian mummies and stone carvings.",
+      "options": {
+        "option": [
+          {
+            "definition": "博物馆",
+            "iscorrect": true
+          },
+          {
+            "definition": "音乐厅",
+            "iscorrect": false
+          },
+          {
+            "definition": "乐器专卖店",
+            "iscorrect": false
+          },
+          {
+            "definition": "音乐培训中心",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

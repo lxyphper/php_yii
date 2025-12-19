@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to designate",
+      "error_analysis": "易因形近词\"design\"（设计）或词根\"sign\"（标记）误将\"designate\"理解为\"设计\"或\"做标记\"",
+      "sentence": "The committee will **designate** a new chairperson at next week's meeting.",
+      "options": {
+        "option": [
+          {
+            "definition": "指定；指派",
+            "iscorrect": true
+          },
+          {
+            "definition": "设计；构思",
+            "iscorrect": false
+          },
+          {
+            "definition": "做标记；签署",
+            "iscorrect": false
+          },
+          {
+            "definition": "描述；描绘",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Afghanistan",
+      "error_analysis": "学生易因词根拆分（Afghan+istan）误以为是形容词“阿富汗的”，或因形近混淆国家名（如巴基斯坦）",
+      "sentence": "Many refugees from **Afghanistan** have sought shelter in neighboring countries like Iran and Pakistan.",
+      "options": {
+        "option": [
+          {
+            "definition": "阿富汗（亚洲国家名）",
+            "iscorrect": true
+          },
+          {
+            "definition": "阿富汗的（形容词，用于描述与阿富汗相关的事物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "巴基斯坦（亚洲国家名，与阿富汗相邻）",
+            "iscorrect": false
+          },
+          {
+            "definition": "阿富汗人（指来自阿富汗的人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

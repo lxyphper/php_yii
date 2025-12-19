@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "actor",
+      "error_analysis": "学生易因形近词\"active\"（活跃的）产生混淆，或因词根\"act\"（动作）+\"-or\"（人）过度推导为\"行动者\"（非演员核心义）。",
+      "sentence": "Tom Hanks is a famous **actor** who has starred in many Hollywood films like *Forrest Gump* and *Toy Story*.",
+      "options": {
+        "option": [
+          {
+            "definition": "演员（男演员或统称）",
+            "iscorrect": true
+          },
+          {
+            "definition": "活跃的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "行动者（如参与社会活动的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "女演员",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

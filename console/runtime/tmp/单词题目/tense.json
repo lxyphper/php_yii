@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tense",
+      "error_analysis": "学生易因形近词\"tent\"(帐篷)误判为\"帐篷的\"，或因词根\"ten\"(十)误判为\"十个的\"",
+      "sentence": "The atmosphere in the room grew **tense** as the argument continued.",
+      "options": {
+        "option": [
+          {
+            "definition": "紧张的",
+            "iscorrect": true
+          },
+          {
+            "definition": "帐篷的",
+            "iscorrect": false
+          },
+          {
+            "definition": "十个的",
+            "iscorrect": false
+          },
+          {
+            "definition": "倾向的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bread",
+      "error_analysis": "学生易因形近词“break”（打破）的干扰，将“bread”错误理解为动作类含义（如“打破”）",
+      "sentence": "She bought a loaf of **bread** from the bakery for her morning toast.",
+      "options": {
+        "option": [
+          {
+            "definition": "面包",
+            "iscorrect": true
+          },
+          {
+            "definition": "打破；中断",
+            "iscorrect": false
+          },
+          {
+            "definition": "宽的；广阔的",
+            "iscorrect": false
+          },
+          {
+            "definition": "繁殖；养育",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

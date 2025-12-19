@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "better",
+      "error_analysis": "中国学生易因形近词“bitter”（苦的）混淆“better”的词义，或因“bet”（打赌）的词根联想产生错误理解",
+      "sentence": "This cake tastes much **better** than the one we had yesterday.",
+      "options": {
+        "option": [
+          {
+            "definition": "更好的",
+            "iscorrect": true
+          },
+          {
+            "definition": "苦的",
+            "iscorrect": false
+          },
+          {
+            "definition": "打赌的",
+            "iscorrect": false
+          },
+          {
+            "definition": "黄油的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to stretch out",
+      "error_analysis": "学生可能因形近短语（如stride out/stick out）或out的字面含义，将to stretch out误理解为“大步前进”或“突出”而非“伸展身体”。",
+      "sentence": "After a long walk, Sarah **stretched out** on the grass to enjoy the warm sun.",
+      "options": {
+        "option": [
+          {
+            "definition": "伸展，展开（身体或物体）",
+            "iscorrect": true
+          },
+          {
+            "definition": "大步前进",
+            "iscorrect": false
+          },
+          {
+            "definition": "突出，伸出",
+            "iscorrect": false
+          },
+          {
+            "definition": "拉伸出去（强调方向）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

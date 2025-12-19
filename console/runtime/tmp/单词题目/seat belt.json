@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "seat belt",
+      "error_analysis": "学生易将\"seat belt\"字面拆分为\"座位\"+\"皮带\"，错误理解为\"座位皮带\"而非正确的\"安全带\"",
+      "sentence": "Before starting the car, make sure everyone fastens their **seat belt** for safety.",
+      "options": {
+        "option": [
+          {
+            "definition": "安全带",
+            "iscorrect": true
+          },
+          {
+            "definition": "座位皮带",
+            "iscorrect": false
+          },
+          {
+            "definition": "座椅腰带",
+            "iscorrect": false
+          },
+          {
+            "definition": "安全皮带",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

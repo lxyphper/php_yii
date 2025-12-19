@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "clean",
+      "error_analysis": "学生易因形近词“clear”（清楚的）或“lean”（瘦的）干扰，误将“clean”理解为“清楚的”或“瘦的”。",
+      "sentence": "The teacher praised the student for keeping his desk **clean** every day.",
+      "options": {
+        "option": [
+          {
+            "definition": "干净的",
+            "iscorrect": true
+          },
+          {
+            "definition": "清楚的",
+            "iscorrect": false
+          },
+          {
+            "definition": "瘦的",
+            "iscorrect": false
+          },
+          {
+            "definition": "忙碌的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

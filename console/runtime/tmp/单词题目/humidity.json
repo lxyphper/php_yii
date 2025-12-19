@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "humidity",
+      "error_analysis": "易因形近词\"humanity\"(人性)及词根\"hum\"(如\"humble\"谦逊)的错误联想，将\"humidity\"误判为\"人性\"或\"谦逊\"。",
+      "sentence": "The high **humidity** in the rainforest makes everything feel sticky and damp.",
+      "options": {
+        "option": [
+          {
+            "definition": "湿度；潮湿",
+            "iscorrect": true
+          },
+          {
+            "definition": "人性；人道",
+            "iscorrect": false
+          },
+          {
+            "definition": "谦逊；谦卑",
+            "iscorrect": false
+          },
+          {
+            "definition": "嗡嗡声；嘈杂声",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

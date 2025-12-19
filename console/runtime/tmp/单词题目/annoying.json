@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "annoying",
+      "error_analysis": "学生易因形近词`announce`（宣布）或`annual`（每年的）将`annoying`误判为“宣布的”或“每年的”，或因词根不熟悉乱猜词义。",
+      "sentence": "The constant beeping of the alarm clock is really **annoying**—it woke me up three times last night.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人烦恼的",
+            "iscorrect": true
+          },
+          {
+            "definition": "宣布的",
+            "iscorrect": false
+          },
+          {
+            "definition": "每年的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人兴奋的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

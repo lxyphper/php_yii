@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "apartmant building",
+      "aprtment building",
+      "apartment bilding"
+    ],
+    "correct_chunks": [
+      "ap",
+      "art",
+      "ment",
+      "build",
+      "ing"
+    ],
+    "distractor_chunks": [
+      "mant",
+      "prt",
+      "bild"
+    ]
+  },
+  0
+]

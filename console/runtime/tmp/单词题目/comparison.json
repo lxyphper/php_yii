@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "comparison",
+      "error_analysis": "学生易因形近词“compassion”（同情）的拼写干扰将“comparison”误理解为“同情”，或因词根“par”（平等）的字面误导认为与“平等”相关。",
+      "sentence": "In her essay, she made a detailed **comparison** between traditional and modern art forms to highlight their unique characteristics.",
+      "options": {
+        "option": [
+          {
+            "definition": "比较；对比",
+            "iscorrect": true
+          },
+          {
+            "definition": "同情；怜悯",
+            "iscorrect": false
+          },
+          {
+            "definition": "平等；均等",
+            "iscorrect": false
+          },
+          {
+            "definition": "竞争；比赛",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

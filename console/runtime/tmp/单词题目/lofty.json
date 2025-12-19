@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lofty",
+      "error_analysis": "学生易因词根“loft”（阁楼）误导将“lofty”联想为“小的”，或因形近词“loyal”（忠诚的）混淆为“忠诚的”。",
+      "sentence": "Her **lofty** aspirations to help the poor drove her to study hard.",
+      "options": {
+        "option": [
+          {
+            "definition": "忠诚的",
+            "iscorrect": false
+          },
+          {
+            "definition": "小的",
+            "iscorrect": false
+          },
+          {
+            "definition": "傲慢的",
+            "iscorrect": false
+          },
+          {
+            "definition": "崇高的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

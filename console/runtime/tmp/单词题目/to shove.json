@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to shove",
+      "error_analysis": "学生易因形近词\"shave\"(刮)或\"show\"(展示)的联想，将\"shove\"错误理解为\"刮\"或\"展示\"。",
+      "sentence": "The crowd was so tight that I had to **shove** my way through to get to the stage.",
+      "options": {
+        "option": [
+          {
+            "definition": "推；猛推",
+            "iscorrect": true
+          },
+          {
+            "definition": "刮（胡子/毛发）",
+            "iscorrect": false
+          },
+          {
+            "definition": "展示；显示",
+            "iscorrect": false
+          },
+          {
+            "definition": "拉；拖",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

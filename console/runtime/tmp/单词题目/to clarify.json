@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to clarify",
+      "error_analysis": "易因形近词\"classify\"(分类)混淆，或词根\"clar\"误导认为是\"使...干净\"",
+      "sentence": "The teacher asked the student to **clarify** his answer because it was too vague.",
+      "options": {
+        "option": [
+          {
+            "definition": "澄清；阐明",
+            "iscorrect": true
+          },
+          {
+            "definition": "分类；归类",
+            "iscorrect": false
+          },
+          {
+            "definition": "清洁；净化",
+            "iscorrect": false
+          },
+          {
+            "definition": "宣布；声明",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

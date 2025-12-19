@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "art histroy",
+      "art histery",
+      "art histry",
+      "art hstory"
+    ],
+    "correct_chunks": [
+      "art",
+      "his",
+      "tory"
+    ],
+    "distractor_chunks": [
+      "troy",
+      "tery",
+      "hist",
+      "ry"
+    ]
+  },
+  0
+]

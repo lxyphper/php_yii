@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bandwidth",
+      "error_analysis": "学生易因形近词\"band\"(乐队/带子)和\"width\"(宽度)的组合，误将\"bandwidth\"理解为\"乐队宽度\"或\"带子的宽度\"",
+      "sentence": "Our new router has a higher **bandwidth**, so streaming videos won’t buffer anymore.",
+      "options": {
+        "option": [
+          {
+            "definition": "带宽（指网络或通信线路的传输能力）",
+            "iscorrect": true
+          },
+          {
+            "definition": "乐队的宽度",
+            "iscorrect": false
+          },
+          {
+            "definition": "带子的宽度",
+            "iscorrect": false
+          },
+          {
+            "definition": "波段的宽度",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "storyboarding",
+      "error_analysis": "学生易将“storyboarding”与形近词“storytelling”混淆（误作“讲故事”），或因“board”直译忽略其“分镜创作”的动作含义",
+      "sentence": "Before starting the animation, the team spent weeks on **storyboarding** to map out each scene's sequence and visuals.",
+      "options": {
+        "option": [
+          {
+            "definition": "分镜脚本制作；故事板创作",
+            "iscorrect": true
+          },
+          {
+            "definition": "讲故事；叙事",
+            "iscorrect": false
+          },
+          {
+            "definition": "故事板（单纯的板状物品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "寄宿故事",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

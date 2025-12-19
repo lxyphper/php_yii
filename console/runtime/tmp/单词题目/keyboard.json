@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "keyboard",
+      "error_analysis": "学生易将\"keyboard\"拆分为\"key\"（钥匙）和\"board\"（板），错误理解为\"钥匙板\"。",
+      "sentence": "She typed her essay on the **keyboard** of her laptop.",
+      "options": {
+        "option": [
+          {
+            "definition": "键盘",
+            "iscorrect": true
+          },
+          {
+            "definition": "钥匙板",
+            "iscorrect": false
+          },
+          {
+            "definition": "橱柜",
+            "iscorrect": false
+          },
+          {
+            "definition": "黑板",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "inaugural",
+      "error_analysis": "易混淆形近词\"initial\"（误判为\"最初的\"）或词根\"augur\"（误推为\"预言的\"）",
+      "sentence": "The president delivered his **inaugural** address to a crowd of thousands on the day he took office.",
+      "options": {
+        "option": [
+          {
+            "definition": "最初的；开始的",
+            "iscorrect": false
+          },
+          {
+            "definition": "预言的；预兆的",
+            "iscorrect": false
+          },
+          {
+            "definition": "创新的；革新的",
+            "iscorrect": false
+          },
+          {
+            "definition": "就职的；首次的（正式场合）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

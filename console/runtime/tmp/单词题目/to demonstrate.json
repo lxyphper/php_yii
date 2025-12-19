@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to demonstrate",
+      "error_analysis": "中国学生易因形近词“demolish”（拆除）或词根“monstr-”关联“怪物”而误解“to demonstrate”的含义。",
+      "sentence": "The science teacher will **demonstrate** how to make a volcano model using baking soda and vinegar in class.",
+      "options": {
+        "option": [
+          {
+            "definition": "展示；证明",
+            "iscorrect": true
+          },
+          {
+            "definition": "拆除",
+            "iscorrect": false
+          },
+          {
+            "definition": "与怪物有关的行为",
+            "iscorrect": false
+          },
+          {
+            "definition": "解释",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

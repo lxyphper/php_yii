@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "underage",
+      "error_analysis": "学生易因“under-”（不足）与“age”（年龄）的字面组合，误将“underage”理解为“年龄小”而非“未成年的（未达法定年龄）”。",
+      "sentence": "The bar refused to serve the **underage** girl because she didn’t have a valid ID to prove she was 18.",
+      "options": {
+        "option": [
+          {
+            "definition": "未成年的（未达法定年龄的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "年龄小的",
+            "iscorrect": false
+          },
+          {
+            "definition": "内衣的",
+            "iscorrect": false
+          },
+          {
+            "definition": "年龄之下的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

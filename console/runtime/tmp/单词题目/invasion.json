@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "invasion",
+      "error_analysis": "中国学生易因形近词“invitation”（邀请）混淆，或因词根“invadere”（进入+走）错误推导为“进入”而非“入侵”。",
+      "sentence": "The country was forced to defend itself against the sudden **invasion** from its northern neighbor.",
+      "options": {
+        "option": [
+          {
+            "definition": "入侵（军事或武力进入他国）",
+            "iscorrect": true
+          },
+          {
+            "definition": "邀请（请人前来的请求）",
+            "iscorrect": false
+          },
+          {
+            "definition": "进入（一般意义上的进入某个地方）",
+            "iscorrect": false
+          },
+          {
+            "definition": "发明（创造出新的事物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

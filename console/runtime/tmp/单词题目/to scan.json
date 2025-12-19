@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to scan",
+      "error_analysis": "学生易将阅读语境中的‘to scan’误解为‘略读（了解大意）’（形近词‘skim’干扰）或‘用机器扫描’（字面义误导）",
+      "sentence": "Before the exam, she decided to **scan** the textbook chapters to find all the key terms she had missed.",
+      "options": {
+        "option": [
+          {
+            "definition": "快速浏览（以寻找特定信息）",
+            "iscorrect": true
+          },
+          {
+            "definition": "略读（以了解大意）",
+            "iscorrect": false
+          },
+          {
+            "definition": "用机器扫描（如文档或图片）",
+            "iscorrect": false
+          },
+          {
+            "definition": "仔细阅读（以理解细节）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "racism",
+      "error_analysis": "中国学生易因词根“race”（种族）或形近词“racist”（种族主义者）的误导，将“racism”误理解为“种族”或“种族主义者”。",
+      "sentence": "The government has launched a new campaign to combat **racism** and promote equality among all ethnic groups.",
+      "options": {
+        "option": [
+          {
+            "definition": "种族",
+            "iscorrect": false
+          },
+          {
+            "definition": "种族主义者",
+            "iscorrect": false
+          },
+          {
+            "definition": "种族主义",
+            "iscorrect": true
+          },
+          {
+            "definition": "种族歧视",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

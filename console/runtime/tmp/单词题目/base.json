@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "base",
+      "error_analysis": "中国学生易将“base”与形近词“basement”（地下室）或“basis”（基本原理）混淆，误判其核心含义。",
+      "sentence": "The company built its success on a **base** of loyal customers.",
+      "options": {
+        "option": [
+          {
+            "definition": "基础（抽象或具体的根基）",
+            "iscorrect": true
+          },
+          {
+            "definition": "地下室",
+            "iscorrect": false
+          },
+          {
+            "definition": "基本原理",
+            "iscorrect": false
+          },
+          {
+            "definition": "垒（棒球中的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

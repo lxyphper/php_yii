@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "radioactivity",
+      "error_analysis": "学生易将\"radioactivity\"拆分为熟词\"radio\"（收音机/无线电）和\"activity\"（活动），误解为\"无线电活动\"或\"广播相关活动\"",
+      "sentence": "Scientists detected dangerous levels of **radioactivity** in the soil after the nuclear test, so the area was closed to the public.",
+      "options": {
+        "option": [
+          {
+            "definition": "放射性；放射现象",
+            "iscorrect": true
+          },
+          {
+            "definition": "无线电活动；广播信号传输",
+            "iscorrect": false
+          },
+          {
+            "definition": "收音机的日常使用；无线电设备操作",
+            "iscorrect": false
+          },
+          {
+            "definition": "广播节目制作；电台内容策划",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

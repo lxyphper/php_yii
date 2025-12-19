@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "reflex angle",
+      "error_analysis": "学生易将\"reflex\"误联想为\"reflection\"（反射），从而把\"reflex angle\"误解为\"反射角\"（形近词干扰+词根误导）",
+      "sentence": "When you open a door almost fully but not quite closed, the angle between the door and the frame is a **reflex angle**.",
+      "options": {
+        "option": [
+          {
+            "definition": "优角（大于180度小于360度的角）",
+            "iscorrect": true
+          },
+          {
+            "definition": "反射角（光线反射时形成的角）",
+            "iscorrect": false
+          },
+          {
+            "definition": "钝角（大于90度小于180度的角）",
+            "iscorrect": false
+          },
+          {
+            "definition": "平角（等于180度的角）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "elliptical",
+      "error_analysis": "学生易因形近词（如electric/elastic）将elliptical误判为“电的”或“有弹性的”，或因不熟悉词根ellipse（椭圆）而猜测为“圆形的”等形状。",
+      "sentence": "The Moon's path around the Earth is an **elliptical** shape, not a perfect circle.",
+      "options": {
+        "option": [
+          {
+            "definition": "椭圆的",
+            "iscorrect": true
+          },
+          {
+            "definition": "电的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有弹性的",
+            "iscorrect": false
+          },
+          {
+            "definition": "圆形的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

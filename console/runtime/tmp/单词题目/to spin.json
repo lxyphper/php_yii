@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to spin",
+      "error_analysis": "中国学生易因形近词“spit”（吐痰）或“split”（分裂）混淆“spin”的核心义“旋转”",
+      "sentence": "When you ride a bike, the wheels **spin** fast to keep you moving forward.",
+      "options": {
+        "option": [
+          {
+            "definition": "旋转（快速反复转动）",
+            "iscorrect": true
+          },
+          {
+            "definition": "吐痰（用力咳出液体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "分裂（分成两部分或更多）",
+            "iscorrect": false
+          },
+          {
+            "definition": "花费（使用时间/金钱等）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

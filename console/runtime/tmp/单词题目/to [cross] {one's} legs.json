@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to [cross] {one's} legs",
+      "error_analysis": "中国学生易因\"cross\"的\"穿过\"义产生字面误导，将\"to cross one's legs\"误解为\"穿过某人的腿\"，或因形近词联想错误理解为\"关闭某人的腿\"。",
+      "sentence": "When she sat down on the sofa, she automatically **crossed her legs** and picked up a book.",
+      "options": {
+        "option": [
+          {
+            "definition": "交叉（自己的）双腿（坐时的动作）",
+            "iscorrect": true
+          },
+          {
+            "definition": "穿过某人的腿",
+            "iscorrect": false
+          },
+          {
+            "definition": "关闭某人的腿",
+            "iscorrect": false
+          },
+          {
+            "definition": "在腿上划十字",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

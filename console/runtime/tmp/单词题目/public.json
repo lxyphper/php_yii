@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "public",
+      "error_analysis": "学生易因形近词“publish”（出版）混淆，或因“pub”（酒吧）的联想错误理解为“出版的”或“酒吧相关的”",
+      "sentence": "Smoking is prohibited in **public** areas such as airports and shopping malls.",
+      "options": {
+        "option": [
+          {
+            "definition": "公共的；公众的（形容词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "出版的；与出版有关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "酒吧的；与酒吧相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "私人的；个人的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

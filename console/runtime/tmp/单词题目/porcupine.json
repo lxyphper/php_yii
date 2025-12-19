@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "porcupine",
+      "error_analysis": "学生易因形近词“porc”（与“猪”相关，如pork）联想，误将“porcupine”判为“小猪”或“野猪”",
+      "sentence": "When threatened, a **porcupine** will stick out its long, sharp spines to protect itself from predators.",
+      "options": {
+        "option": [
+          {
+            "definition": "豪猪（一种身体覆盖长尖刺的大型啮齿动物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "小猪（年幼的猪）",
+            "iscorrect": false
+          },
+          {
+            "definition": "刺猬（遇到危险会蜷成球的小型带刺哺乳动物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "海豚（有圆身体和喙状嘴的海洋动物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

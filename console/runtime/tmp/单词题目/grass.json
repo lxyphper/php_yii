@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "grass",
+      "error_analysis": "易与形近词\"glass\"(玻璃)混淆，或因拼写相似误判词义",
+      "sentence": "The children are running barefoot on the **grass** in the backyard.",
+      "options": {
+        "option": [
+          {
+            "definition": "草（生长在地面的绿色植物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "玻璃（透明的硬质材料）",
+            "iscorrect": false
+          },
+          {
+            "definition": "抓住（用手紧紧握住）",
+            "iscorrect": false
+          },
+          {
+            "definition": "蝗虫（一种吃植物的昆虫）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

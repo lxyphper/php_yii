@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "insecure",
+      "error_analysis": "学生常因\"secure\"的\"安全\"义将\"insecure\"误理解为物理上的\"不安全的\"，或因形近词\"insincere\"误判为\"不真诚的\"",
+      "sentence": "She felt **insecure** about her ability to give a speech in front of the whole class.",
+      "options": {
+        "option": [
+          {
+            "definition": "缺乏自信的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不安全的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不真诚的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不可靠的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

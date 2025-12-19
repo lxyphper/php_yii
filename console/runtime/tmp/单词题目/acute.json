@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "acute",
+      "error_analysis": "易因形近词“cute”误判为“可爱的”，或因词根“尖锐”误判为物理上的“尖锐”",
+      "sentence": "The patient complained of **acute** abdominal pain, which required immediate medical attention.",
+      "options": {
+        "option": [
+          {
+            "definition": "可爱的",
+            "iscorrect": false
+          },
+          {
+            "definition": "（物理上）尖锐的",
+            "iscorrect": false
+          },
+          {
+            "definition": "严重的（剧烈的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "慢性的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

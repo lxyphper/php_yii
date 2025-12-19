@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unhealthy",
+      "error_analysis": "学生易因形近词\"unwealthy\"(不富有的)混淆词义，或误将\"un-+healthy\"推导为\"不卫生的\"。",
+      "sentence": "Eating too much fast food every day is **unhealthy** for your body.",
+      "options": {
+        "option": [
+          {
+            "definition": "不健康的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不富有的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不卫生的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不开心的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

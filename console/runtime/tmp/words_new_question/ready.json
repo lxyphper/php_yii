@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ready",
+      "error_analysis": "将“ready”误联想为形近词“read”（读）的衍生义，如“可读的”或“正在阅读的”",
+      "sentence": "Are you **ready** to start the meeting?",
+      "options": {
+        "option": [
+          {
+            "definition": "准备好的",
+            "iscorrect": true
+          },
+          {
+            "definition": "可读的",
+            "iscorrect": false
+          },
+          {
+            "definition": "再次阅读的",
+            "iscorrect": false
+          },
+          {
+            "definition": "红色的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

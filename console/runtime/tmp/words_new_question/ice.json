@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ice",
+      "error_analysis": "学生易因形近词\"rice\"（米饭）或\"nice\"（好的）的干扰，将\"ice\"误判为食物或形容词。",
+      "sentence": "She put some **ice** in her lemonade to make it cold on the hot day.",
+      "options": {
+        "option": [
+          {
+            "definition": "冰",
+            "iscorrect": true
+          },
+          {
+            "definition": "米饭",
+            "iscorrect": false
+          },
+          {
+            "definition": "好的",
+            "iscorrect": false
+          },
+          {
+            "definition": "骰子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

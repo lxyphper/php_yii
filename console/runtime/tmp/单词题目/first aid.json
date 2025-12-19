@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "first aid",
+      "error_analysis": "学生易因字面直译\"第一+帮助\"错误理解为\"首次帮助\"或\"首要援助\"，而非正确的\"急救\"。",
+      "sentence": "When someone gets hurt in a car accident, it's crucial to provide **first aid** immediately before professional medical help arrives.",
+      "options": {
+        "option": [
+          {
+            "definition": "急救",
+            "iscorrect": true
+          },
+          {
+            "definition": "首次帮助",
+            "iscorrect": false
+          },
+          {
+            "definition": "首要援助",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速帮助",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

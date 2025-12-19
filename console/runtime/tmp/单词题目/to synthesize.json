@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to synthesize",
+      "error_analysis": "易因词根“syn-（一起）+ thesis（放置）”误导为“收集/总结信息”，或与形近词“systemize（使系统化）”混淆。",
+      "sentence": "To write a comprehensive report, you need to **synthesize** information from various sources and create a new analysis.",
+      "options": {
+        "option": [
+          {
+            "definition": "综合（不同来源的信息、观点等形成新的整体）",
+            "iscorrect": true
+          },
+          {
+            "definition": "使系统化",
+            "iscorrect": false
+          },
+          {
+            "definition": "总结",
+            "iscorrect": false
+          },
+          {
+            "definition": "收集",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "potato chip",
+      "error_analysis": "学生易将“chip”误理解为“芯片”（形近词干扰）或“碎片”（字面直译），从而把“potato chip”错译为“土豆芯片”或“土豆碎片”。",
+      "sentence": "I bought a bag of **potato chips** to eat while watching the movie last night.",
+      "options": {
+        "option": [
+          {
+            "definition": "薯片（一种以土豆为原料的油炸或烘烤食品）",
+            "iscorrect": true
+          },
+          {
+            "definition": "土豆芯片（用土豆制作的电子元件）",
+            "iscorrect": false
+          },
+          {
+            "definition": "土豆碎片（土豆切成的小块）",
+            "iscorrect": false
+          },
+          {
+            "definition": "土豆酱（土豆制成的糊状食品）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

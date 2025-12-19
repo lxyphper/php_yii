@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "client",
+      "error_analysis": "形近词“clinic”（诊所）及词根“cli-”（如“climb”）易导致学生将“client”误判为“诊所”或“爬行者”",
+      "sentence": "The lawyer met with her new **client** to discuss the legal case.",
+      "options": {
+        "option": [
+          {
+            "definition": "客户；委托人",
+            "iscorrect": true
+          },
+          {
+            "definition": "诊所；门诊部",
+            "iscorrect": false
+          },
+          {
+            "definition": "爬行者；攀登者",
+            "iscorrect": false
+          },
+          {
+            "definition": "气候；环境",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

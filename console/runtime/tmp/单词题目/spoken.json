@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "spoken",
+      "error_analysis": "学生易将spoken仅理解为“被说的”（动词过去分词的字面义），而忽略其作为形容词“口头的”的核心常用义。",
+      "sentence": "The agreement was reached through **spoken** communication, not written contracts.",
+      "options": {
+        "option": [
+          {
+            "definition": "口头的",
+            "iscorrect": true
+          },
+          {
+            "definition": "轮辐的（车轮的辐条）",
+            "iscorrect": false
+          },
+          {
+            "definition": "被说的（动词过去分词的被动义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "演讲的（与演讲相关的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

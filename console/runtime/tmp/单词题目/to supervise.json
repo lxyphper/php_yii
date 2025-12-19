@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to supervise",
+      "error_analysis": "学生易因形近词“advise”（建议）的联想或词根“super-+vis-”的字面误导，将“supervise”误理解为“建议”或“仔细看/超过”。",
+      "sentence": "The project manager was asked to **supervise** the team's work and ensure it was completed on time.",
+      "options": {
+        "option": [
+          {
+            "definition": "建议；劝告",
+            "iscorrect": false
+          },
+          {
+            "definition": "监督；管理",
+            "iscorrect": true
+          },
+          {
+            "definition": "仔细看；检查",
+            "iscorrect": false
+          },
+          {
+            "definition": "优越于；超过",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

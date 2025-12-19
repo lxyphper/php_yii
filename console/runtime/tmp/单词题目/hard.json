@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hard",
+      "error_analysis": "学生易将“hard”与形近词“hand”（手）混淆，或误将其派生词“hardly”的含义（几乎不）归为“hard”本身",
+      "sentence": "The ice on the lake is **hard** enough to skate on.",
+      "options": {
+        "option": [
+          {
+            "definition": "硬的；坚固的",
+            "iscorrect": true
+          },
+          {
+            "definition": "手",
+            "iscorrect": false
+          },
+          {
+            "definition": "几乎不",
+            "iscorrect": false
+          },
+          {
+            "definition": "柔软的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

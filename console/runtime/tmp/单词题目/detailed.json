@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "detailed",
+      "error_analysis": "学生易因形近词“delicate”（精致的）混淆，或因词根“tail”（尾巴）字面误导而误解“detailed”的核心义“详细的”。",
+      "sentence": "The manager asked for a **detailed** report on the project’s progress.",
+      "options": {
+        "option": [
+          {
+            "definition": "详细的",
+            "iscorrect": true
+          },
+          {
+            "definition": "精致的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有尾巴的",
+            "iscorrect": false
+          },
+          {
+            "definition": "复杂的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

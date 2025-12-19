@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "desk clerk",
+      "error_analysis": "因字面直译“desk（桌子）+clerk（职员）”，误理解为“处理桌子的职员”，忽略其“酒店前台接待员”的固定含义",
+      "sentence": "When we arrived at the hotel, the **desk clerk** smiled and asked, \"Do you have a reservation with us today?\"",
+      "options": {
+        "option": [
+          {
+            "definition": "酒店前台接待员",
+            "iscorrect": true
+          },
+          {
+            "definition": "处理桌子的职员",
+            "iscorrect": false
+          },
+          {
+            "definition": "办公室行政职员",
+            "iscorrect": false
+          },
+          {
+            "definition": "客房清洁服务员",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

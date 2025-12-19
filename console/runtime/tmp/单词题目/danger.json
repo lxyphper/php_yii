@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "danger",
+      "error_analysis": "易因形近词\"anger\"(愤怒)的拼写混淆，或因发音谐音\"胆\"而误解为\"胆量\"",
+      "sentence": "The hikers realized they were in **danger** when they saw the bear approaching.",
+      "options": {
+        "option": [
+          {
+            "definition": "危险",
+            "iscorrect": true
+          },
+          {
+            "definition": "愤怒",
+            "iscorrect": false
+          },
+          {
+            "definition": "损害",
+            "iscorrect": false
+          },
+          {
+            "definition": "胆量",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

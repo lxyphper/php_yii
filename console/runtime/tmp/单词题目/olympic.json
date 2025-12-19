@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "olympic",
+      "error_analysis": "易受形近词\"Olympus\"(奥林匹斯山)干扰，或因\"olive\"(橄榄)拼写接近产生词根联想错误",
+      "sentence": "The 2024 **olympic** Games will feature new sports like breakdancing and skateboarding.",
+      "options": {
+        "option": [
+          {
+            "definition": "奥林匹克的（与奥运会相关的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "奥林匹斯山的（与希腊神话中的奥林匹斯山相关的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "橄榄的（与橄榄树或橄榄果实相关的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "奥林匹克运动员的（指参加奥运会的运动员的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

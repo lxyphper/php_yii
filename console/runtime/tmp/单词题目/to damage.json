@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to damage",
+      "error_analysis": "中国学生易因形近词'danger'（危险）、'damp'（潮湿）混淆词义，或因词根'dam'（堤坝）误联想为'筑堤坝'，而非泛指'损害'。",
+      "sentence": "The heavy rain will **damage** the crops if we don’t protect them soon.",
+      "options": {
+        "option": [
+          {
+            "definition": "危险",
+            "iscorrect": false
+          },
+          {
+            "definition": "筑堤坝",
+            "iscorrect": false
+          },
+          {
+            "definition": "使潮湿",
+            "iscorrect": false
+          },
+          {
+            "definition": "损害；毁坏",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

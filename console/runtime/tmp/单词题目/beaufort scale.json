@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "beaufort scale",
+      "error_analysis": "学生易因“scale”的常见义（如“鳞片”“比例”）或“beaufort”与“beautiful”的形近，将其误判为与“美丽装饰”或“物体大小评估”相关的概念。",
+      "sentence": "The meteorologist warned that the storm would bring winds of Force 9 on the **beaufort scale**, which could uproot trees and damage buildings.",
+      "options": {
+        "option": [
+          {
+            "definition": "测量风速的等级标准（蒲福风级）",
+            "iscorrect": true
+          },
+          {
+            "definition": "美丽的鳞片或装饰性刻度",
+            "iscorrect": false
+          },
+          {
+            "definition": "评估物体大小的比例系统",
+            "iscorrect": false
+          },
+          {
+            "definition": "用于称量的精密天平",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

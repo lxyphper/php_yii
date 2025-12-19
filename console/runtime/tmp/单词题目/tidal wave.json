@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tidal wave",
+      "error_analysis": "学生易因“tidal（潮汐的）”和“wave（波浪）”的字面意思，错误认为“tidal wave”是普通潮汐波浪，而非海啸。",
+      "sentence": "The coastal village was destroyed by a massive **tidal wave** triggered by an undersea earthquake.",
+      "options": {
+        "option": [
+          {
+            "definition": "海啸（由地震、火山爆发等引起的巨大破坏性海浪）",
+            "iscorrect": true
+          },
+          {
+            "definition": "普通的潮汐波浪（由潮汐变化引起的海边小海浪）",
+            "iscorrect": false
+          },
+          {
+            "definition": "由强风引起的巨大海浪",
+            "iscorrect": false
+          },
+          {
+            "definition": "潮汐的涨落现象",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

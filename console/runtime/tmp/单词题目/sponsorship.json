@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sponsorship",
+      "error_analysis": "学生易因形近词\"scholarship\"（奖学金）混淆，或因\"sponsor\"（赞助者）字面误导，将\"sponsorship\"误判为\"奖学金\"或\"赞助者身份\"。",
+      "sentence": "The local football team relies on **sponsorship** from local businesses to cover their travel costs.",
+      "options": {
+        "option": [
+          {
+            "definition": "奖学金",
+            "iscorrect": false
+          },
+          {
+            "definition": "赞助者身份",
+            "iscorrect": false
+          },
+          {
+            "definition": "支持（泛泛的帮助）",
+            "iscorrect": false
+          },
+          {
+            "definition": "赞助（指赞助行为或赞助资金）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

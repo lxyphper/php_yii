@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "chloroplast",
+      "error_analysis": "学生易将\"chloro-\"（氯）与\"plast\"（塑料/成形体）错误联想，误判为\"含氯塑料\"或\"氯基结构体\"。",
+      "sentence": "The **chloroplast** contains chlorophyll, which absorbs sunlight to convert carbon dioxide and water into glucose during photosynthesis.",
+      "options": {
+        "option": [
+          {
+            "definition": "叶绿体（植物细胞中进行光合作用的细胞器）",
+            "iscorrect": true
+          },
+          {
+            "definition": "含氯塑料（一种添加氯元素的化学材料）",
+            "iscorrect": false
+          },
+          {
+            "definition": "氯成形体（化学中由氯原子构成的结构体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "塑料容器（用于储存化学物质的塑料器皿）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

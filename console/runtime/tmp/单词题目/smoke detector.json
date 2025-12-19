@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "smoke detector",
+      "error_analysis": "易因'detector'与'collector'形近误判为'集烟器'，或直译为'吸烟检测器'而忽略其火灾烟雾探测功能。",
+      "sentence": "When a fire starts, the **smoke detector** in the kitchen will sound an alarm to warn us to get out quickly.",
+      "options": {
+        "option": [
+          {
+            "definition": "烟雾探测器",
+            "iscorrect": true
+          },
+          {
+            "definition": "集烟器",
+            "iscorrect": false
+          },
+          {
+            "definition": "吸烟行为检测器",
+            "iscorrect": false
+          },
+          {
+            "definition": "烟味识别仪器",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

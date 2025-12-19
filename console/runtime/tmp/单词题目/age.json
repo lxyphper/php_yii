@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "age",
+      "error_analysis": "易混淆形近词“ago”（以前），或误将名词“age”与后缀“-age”（状态/集合）关联导致理解偏差",
+      "sentence": "Her **age** is a secret, but she looks much younger than she is.",
+      "options": {
+        "option": [
+          {
+            "definition": "以前（时间副词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "（表示状态的）后缀",
+            "iscorrect": false
+          },
+          {
+            "definition": "世纪",
+            "iscorrect": false
+          },
+          {
+            "definition": "年龄（名词）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

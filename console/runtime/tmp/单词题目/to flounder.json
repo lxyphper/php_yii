@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to flounder",
+      "error_analysis": "易混淆形近词\"founder\"(沉没/彻底失败)，或误联想\"flourish\"(繁荣)的反义",
+      "sentence": "The new startup **floundered** in its first year due to poor management and lack of funding.",
+      "options": {
+        "option": [
+          {
+            "definition": "沉没（如船）或彻底失败",
+            "iscorrect": false
+          },
+          {
+            "definition": "繁荣或茁壮成长",
+            "iscorrect": false
+          },
+          {
+            "definition": "挣扎（在困难或不利条件中）",
+            "iscorrect": true
+          },
+          {
+            "definition": "笨拙地寻找或处理",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wonderment",
+      "error_analysis": "学生易因\"wonder\"的\"想知道\"或\"奇迹\"义，将\"wonderment\"误理解为\"疑问\"或\"奇迹\"",
+      "sentence": "The child gazed at the snowflake under the microscope with **wonderment**, marveling at its intricate pattern.",
+      "options": {
+        "option": [
+          {
+            "definition": "惊叹；惊奇",
+            "iscorrect": true
+          },
+          {
+            "definition": "疑问；困惑",
+            "iscorrect": false
+          },
+          {
+            "definition": "奇迹；奇观",
+            "iscorrect": false
+          },
+          {
+            "definition": "赞美；称赞",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

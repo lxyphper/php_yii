@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dairy",
+      "error_analysis": "学生易因形近词“diary”（日记）的干扰，将“dairy”误判为“日记”",
+      "sentence": "She bought some milk and cheese from the **dairy** around the corner.",
+      "options": {
+        "option": [
+          {
+            "definition": "日记",
+            "iscorrect": false
+          },
+          {
+            "definition": "日常的；每日的",
+            "iscorrect": false
+          },
+          {
+            "definition": "乳制品；乳制品店",
+            "iscorrect": true
+          },
+          {
+            "definition": "排水系统",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

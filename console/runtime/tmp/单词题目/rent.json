@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rent",
+      "error_analysis": "中国学生易将“rent”（租金/租用）与形近词“rest”（休息）混淆，或误理解为“撕裂”（rend的过去式）。",
+      "sentence": "The family had to save money because the **rent** for their flat increased this month.",
+      "options": {
+        "option": [
+          {
+            "definition": "租金（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "休息（名词/动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "撕裂（动词过去式）",
+            "iscorrect": false
+          },
+          {
+            "definition": "修理（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

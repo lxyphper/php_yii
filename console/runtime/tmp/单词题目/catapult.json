@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "catapult",
+      "error_analysis": "学生易因形近词“cat”（猫）和词根拆分错误，将“catapult”误解为“猫的玩具”或“向下推的工具”",
+      "sentence": "The boy used a **catapult** to launch small rocks at the tree.",
+      "options": {
+        "option": [
+          {
+            "definition": "弹弓；弹射器",
+            "iscorrect": true
+          },
+          {
+            "definition": "猫的玩具",
+            "iscorrect": false
+          },
+          {
+            "definition": "向下推的工具",
+            "iscorrect": false
+          },
+          {
+            "definition": "测量距离的仪器",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

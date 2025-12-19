@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cheek",
+      "error_analysis": "学生易将\"cheek\"与形近词\"check\"（检查）或\"chest\"（胸部）混淆，导致错误理解",
+      "sentence": "She kissed her baby on the **cheek** before leaving for work.",
+      "options": {
+        "option": [
+          {
+            "definition": "脸颊",
+            "iscorrect": true
+          },
+          {
+            "definition": "检查",
+            "iscorrect": false
+          },
+          {
+            "definition": "胸部",
+            "iscorrect": false
+          },
+          {
+            "definition": "小鸡",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

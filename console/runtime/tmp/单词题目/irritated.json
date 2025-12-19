@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "irritated",
+      "error_analysis": "易混淆形近词“irrigated”（灌溉的），或因“ir-”前缀误解为“不相关的”等含义",
+      "sentence": "She was **irritated** because the bus was late for the third time that week.",
+      "options": {
+        "option": [
+          {
+            "definition": "恼怒的；烦躁的",
+            "iscorrect": true
+          },
+          {
+            "definition": "灌溉的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "兴奋的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

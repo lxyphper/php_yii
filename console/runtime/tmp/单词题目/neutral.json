@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "neutral",
+      "error_analysis": "学生易将形近词“natural”（自然的）的含义误用到“neutral”上",
+      "sentence": "In the debate, she remained **neutral** and didn’t take sides with either team.",
+      "options": {
+        "option": [
+          {
+            "definition": "自然的",
+            "iscorrect": false
+          },
+          {
+            "definition": "中立的；不偏不倚的",
+            "iscorrect": true
+          },
+          {
+            "definition": "神经的",
+            "iscorrect": false
+          },
+          {
+            "definition": "中和的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

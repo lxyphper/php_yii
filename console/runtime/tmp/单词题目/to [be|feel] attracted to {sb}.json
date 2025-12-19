@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to [be|feel] attracted to {sb}",
+      "error_analysis": "易混淆形近词\"attacked\"(攻击)及词根\"tract\"(拉)导致的\"物理上被拉向\"错误理解",
+      "sentence": "When she first met him at the party, she couldn’t explain why she suddenly **felt attracted to** him—his smile just made her heart race.",
+      "options": {
+        "option": [
+          {
+            "definition": "被某人攻击",
+            "iscorrect": false
+          },
+          {
+            "definition": "被某人吸引（情感上）",
+            "iscorrect": true
+          },
+          {
+            "definition": "被某人拉向（物理上）",
+            "iscorrect": false
+          },
+          {
+            "definition": "依恋某人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

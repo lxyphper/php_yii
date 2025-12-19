@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "thinking",
+      "error_analysis": "学生易混淆形近词“thanking”（感谢）与“thinking”，或误将其理解为“东西”（thing）或“想的人”",
+      "sentence": "Her **thinking** on how to solve the problem was both creative and practical.",
+      "options": {
+        "option": [
+          {
+            "definition": "感谢",
+            "iscorrect": false
+          },
+          {
+            "definition": "东西",
+            "iscorrect": false
+          },
+          {
+            "definition": "思考",
+            "iscorrect": true
+          },
+          {
+            "definition": "想的人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

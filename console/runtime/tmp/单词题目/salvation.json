@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "salvation",
+      "error_analysis": "学生易因词根“salv-”（与“save”相关）将“salvation”误解为“保存”，或因语义关联混淆为“解决办法”。",
+      "sentence": "The timely arrival of the ambulance was the hiker's **salvation** after he got lost in the mountains.",
+      "options": {
+        "option": [
+          {
+            "definition": "解决办法",
+            "iscorrect": false
+          },
+          {
+            "definition": "保存；保护",
+            "iscorrect": false
+          },
+          {
+            "definition": "打捞；抢救",
+            "iscorrect": false
+          },
+          {
+            "definition": "拯救；救星",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

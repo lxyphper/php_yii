@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "T-shirt",
+      "error_analysis": "学生易将'T'误联想为'tea'（茶）导致错选'茶衬衫'，或直译'T'为'T型'而选'T型衬衫'。",
+      "sentence": "He wore a plain white **T-shirt** and jeans to the party.",
+      "options": {
+        "option": [
+          {
+            "definition": "茶衬衫",
+            "iscorrect": false
+          },
+          {
+            "definition": "T型衬衫",
+            "iscorrect": false
+          },
+          {
+            "definition": "T恤衫",
+            "iscorrect": true
+          },
+          {
+            "definition": "运动衬衫",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

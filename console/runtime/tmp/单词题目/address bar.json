@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "address bar",
+      "error_analysis": "学生易将\"bar\"误理解为\"酒吧\"或\"条\"，从而把\"address bar\"错译为\"地址酒吧\"或\"地址条\"（字面直译/形近词干扰）",
+      "sentence": "To visit the website, simply type the URL into the **address bar** at the top of your browser.",
+      "options": {
+        "option": [
+          {
+            "definition": "地址酒吧",
+            "iscorrect": false
+          },
+          {
+            "definition": "（浏览器等界面中的）地址栏",
+            "iscorrect": true
+          },
+          {
+            "definition": "地址条",
+            "iscorrect": false
+          },
+          {
+            "definition": "地址列表",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

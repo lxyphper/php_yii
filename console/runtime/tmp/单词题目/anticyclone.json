@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "anticyclone",
+      "error_analysis": "中国学生易因将\"cyclone\"误判为\"循环\"（与\"cycle\"混淆）或\"旋风\"，将\"anticyclone\"误解为\"反循环系统\"或\"反旋风装置\"。",
+      "sentence": "The **anticyclone** over the Pacific is bringing clear skies and stable weather to the region.",
+      "options": {
+        "option": [
+          {
+            "definition": "反气旋（气象学中的高压系统）",
+            "iscorrect": true
+          },
+          {
+            "definition": "反循环（系统）",
+            "iscorrect": false
+          },
+          {
+            "definition": "反旋风装置",
+            "iscorrect": false
+          },
+          {
+            "definition": "防止气旋的措施",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

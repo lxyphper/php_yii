@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "missile",
+      "error_analysis": "学生易因\"miss\"（想念/错过）的字面义误导将\"missile\"误判为\"想念的事物\"，或因形近词\"message\"（信息）混淆为\"信息\"。",
+      "sentence": "The military launched a **missile** from the coastal base to test its range.",
+      "options": {
+        "option": [
+          {
+            "definition": "信息；消息",
+            "iscorrect": false
+          },
+          {
+            "definition": "想念的事物；怀念的东西",
+            "iscorrect": false
+          },
+          {
+            "definition": "导弹；飞弹",
+            "iscorrect": true
+          },
+          {
+            "definition": "移动设备；可移动的物品",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

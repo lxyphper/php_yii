@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "neuron",
+      "error_analysis": "学生易因形近词\"neutron\"（中子）混淆，或因对\"neur-\"（神经）词根不熟悉而误判为其他细胞类型（如细胞核）",
+      "sentence": "The **neuron** transmits electrical signals between the brain and other parts of the body to coordinate movement and sensation.",
+      "options": {
+        "option": [
+          {
+            "definition": "神经元（神经细胞，负责传递神经信号）",
+            "iscorrect": true
+          },
+          {
+            "definition": "中子（一种不带电的亚原子粒子）",
+            "iscorrect": false
+          },
+          {
+            "definition": "细胞核（细胞内控制遗传信息的结构）",
+            "iscorrect": false
+          },
+          {
+            "definition": "肌肉细胞（构成肌肉组织的收缩细胞）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

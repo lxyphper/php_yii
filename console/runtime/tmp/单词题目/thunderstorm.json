@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "thunderstorm",
+      "error_analysis": "学生易混淆thunderstorm（雷暴）与rainstorm（暴雨）（同类词干扰），或通过词根拆分误以为仅指“雷声的风暴”（忽略雷电核心特征）",
+      "sentence": "We had to cancel the picnic because a severe **thunderstorm** with lightning and heavy rain hit the area.",
+      "options": {
+        "option": [
+          {
+            "definition": "伴有雷电的强风暴（雷暴）",
+            "iscorrect": true
+          },
+          {
+            "definition": "暴雨（rainstorm）",
+            "iscorrect": false
+          },
+          {
+            "definition": "仅指雷声很大的风暴",
+            "iscorrect": false
+          },
+          {
+            "definition": "暴风雪（blizzard）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

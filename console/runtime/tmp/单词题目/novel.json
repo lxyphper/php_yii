@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "novel",
+      "error_analysis": "学生易因形近词“novice”（新手）混淆，或因词根“nov”（新）误判为“新的”（形容词）而非核心词义“小说”（名词）。",
+      "sentence": "She spent the whole weekend reading a **novel** by her favorite author.",
+      "options": {
+        "option": [
+          {
+            "definition": "新手",
+            "iscorrect": false
+          },
+          {
+            "definition": "小说",
+            "iscorrect": true
+          },
+          {
+            "definition": "新的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "新奇的事物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

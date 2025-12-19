@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hastily",
+      "error_analysis": "中国学生易因形近词\"hostilely\"误判为\"敌对地\"，或因词根\"hast-\"与\"hasten\"混淆选\"催促地\"",
+      "sentence": "She packed her bag **hastily** and ran out the door when she realized she was late for the train.",
+      "options": {
+        "option": [
+          {
+            "definition": "匆忙地",
+            "iscorrect": true
+          },
+          {
+            "definition": "敌对地",
+            "iscorrect": false
+          },
+          {
+            "definition": "催促地",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

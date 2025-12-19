@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "creatively",
+      "error_analysis": "学生易因形近词“cautiously”（谨慎地）混淆，或因词根“creat-”过度直译误选“创造地”。",
+      "sentence": "She solved the problem **creatively** by using a paper clip as a tool.",
+      "options": {
+        "option": [
+          {
+            "definition": "有创造力地",
+            "iscorrect": true
+          },
+          {
+            "definition": "谨慎地",
+            "iscorrect": false
+          },
+          {
+            "definition": "创造地",
+            "iscorrect": false
+          },
+          {
+            "definition": "创造性的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

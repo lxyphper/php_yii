@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "horror",
+      "error_analysis": "中国学生易混淆形近词\"honor\"（荣誉），将\"horror\"误判为\"荣誉\"。",
+      "sentence": "She couldn’t watch the **horror** movie alone because it made her feel a strong sense of fear.",
+      "options": {
+        "option": [
+          {
+            "definition": "恐惧；恐怖",
+            "iscorrect": true
+          },
+          {
+            "definition": "荣誉；荣耀",
+            "iscorrect": false
+          },
+          {
+            "definition": "小时；时间",
+            "iscorrect": false
+          },
+          {
+            "definition": "兴奋；激动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

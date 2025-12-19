@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hotspot",
+      "error_analysis": "易因“hot”+“spot”字面组合误解为“温度高的地方”，或与形近词“hotseat”混淆为“尴尬的处境”",
+      "sentence": "The newly opened art district has quickly become a **hotspot** for local artists and tourists.",
+      "options": {
+        "option": [
+          {
+            "definition": "热门活动或文化聚集的地点（如艺术家或游客常去的地方）",
+            "iscorrect": true
+          },
+          {
+            "definition": "温度高的区域（如夏季的沙漠或火炉旁）",
+            "iscorrect": false
+          },
+          {
+            "definition": "尴尬的处境（如被众人关注的紧张状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "热的斑点或印记（如烫伤留下的痕迹）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "vandalism",
+      "error_analysis": "学生易因形近词\"vanilla\"(香草)误判词义，或因\"-ism\"后缀推断为\"极端主义\"等\"某种主义\"",
+      "sentence": "The local park suffered extensive damage last night due to **vandalism**—someone spray-painted graffiti on the benches and broke the playground equipment.",
+      "options": {
+        "option": [
+          {
+            "definition": "故意破坏公共财产的行为",
+            "iscorrect": true
+          },
+          {
+            "definition": "香草味的食品",
+            "iscorrect": false
+          },
+          {
+            "definition": "极端主义",
+            "iscorrect": false
+          },
+          {
+            "definition": "盗窃行为",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

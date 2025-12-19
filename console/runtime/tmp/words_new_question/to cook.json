@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to cook",
+      "error_analysis": "中国学生易因形近词“cool”（使凉爽）混淆“to cook”的核心词义（烹饪）",
+      "sentence": "I learned how **to cook** pasta for my family last Sunday.",
+      "options": {
+        "option": [
+          {
+            "definition": "烹饪；做饭",
+            "iscorrect": true
+          },
+          {
+            "definition": "使凉爽；变凉",
+            "iscorrect": false
+          },
+          {
+            "definition": "看；观看",
+            "iscorrect": false
+          },
+          {
+            "definition": "预订；预约",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

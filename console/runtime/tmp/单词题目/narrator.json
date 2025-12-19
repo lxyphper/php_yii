@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "narrator",
+      "error_analysis": "易混淆形近词\"navigator\"(导航员)，或误将\"-ator\"理解为工具（如\"叙述设备\"）而非叙述的人",
+      "sentence": "In the novel, the **narrator** shares personal memories of growing up in a small town, making readers connect deeply with the characters' experiences.",
+      "options": {
+        "option": [
+          {
+            "definition": "（故事、电影等的）叙述者；讲述者",
+            "iscorrect": true
+          },
+          {
+            "definition": "导航员",
+            "iscorrect": false
+          },
+          {
+            "definition": "叙述工具（如录音机）",
+            "iscorrect": false
+          },
+          {
+            "definition": "编辑",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

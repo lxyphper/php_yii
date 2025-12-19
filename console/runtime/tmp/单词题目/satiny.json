@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "satiny",
+      "error_analysis": "学生易因形近词\"tiny\"（小的）或词根\"sat\"（坐）误判，或混淆\"satin\"（缎子）的名词与形容词义。",
+      "sentence": "The new silk scarf has a **satiny** texture that feels luxurious against the skin.",
+      "options": {
+        "option": [
+          {
+            "definition": "小的",
+            "iscorrect": false
+          },
+          {
+            "definition": "坐着的",
+            "iscorrect": false
+          },
+          {
+            "definition": "光滑柔软的（像缎子一样的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "缎子（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

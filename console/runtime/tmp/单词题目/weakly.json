@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "weakly",
+      "error_analysis": "学生易因形近词\"weekly\"(每周地)混淆，或误将其当作形容词\"虚弱的\"理解",
+      "sentence": "She smiled **weakly** at me after staying up all night to finish her essay.",
+      "options": {
+        "option": [
+          {
+            "definition": "虚弱地；无力地",
+            "iscorrect": true
+          },
+          {
+            "definition": "每周地",
+            "iscorrect": false
+          },
+          {
+            "definition": "有点弱的",
+            "iscorrect": false
+          },
+          {
+            "definition": "虚弱的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

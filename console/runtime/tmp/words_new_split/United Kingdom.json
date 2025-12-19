@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "UnitedKingdom",
+      "Unitd Kingdom",
+      "United Kengdom",
+      "United Kingdon",
+      "Unided Kingdom"
+    ],
+    "correct_chunks": [
+      "Unit",
+      "ed ",
+      "King",
+      "dom"
+    ],
+    "distractor_chunks": [
+      "Unitd",
+      "Keng",
+      "Kingdon",
+      "UnitedKing"
+    ]
+  },
+  0
+]

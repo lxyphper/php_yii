@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "supersized",
+      "error_analysis": "学生易因形近词“supervised”（监督）产生误判，或因词根“super+size”过度直译为“超级大的（泛化）”而忽略其“超大份（食物）”的常用语境",
+      "sentence": "When I ordered a burger at the fast food joint, they gave me a **supersized** portion that was too big to finish.",
+      "options": {
+        "option": [
+          {
+            "definition": "（食物或饮料的）超大份的",
+            "iscorrect": true
+          },
+          {
+            "definition": "监督的",
+            "iscorrect": false
+          },
+          {
+            "definition": "超级大的（如建筑物、树木等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "优越的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

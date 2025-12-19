@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "excessively",
+      "error_analysis": "易因形近词\"exclusively\"（专门地）混淆，或因\"excess\"（额外）的字面义误导为\"额外地\"，而非核心含义\"过度地\"。",
+      "sentence": "She worries **excessively** about her grades, which makes her stressed out.",
+      "options": {
+        "option": [
+          {
+            "definition": "过度地；过分地",
+            "iscorrect": true
+          },
+          {
+            "definition": "专门地；排他地",
+            "iscorrect": false
+          },
+          {
+            "definition": "额外地；附加地",
+            "iscorrect": false
+          },
+          {
+            "definition": "表达地；有表现力地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

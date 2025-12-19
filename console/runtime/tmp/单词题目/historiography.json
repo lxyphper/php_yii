@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "historiography",
+      "error_analysis": "学生易因形近词\"geography\"（地理）误以为是\"历史地理\"，或因词根\"-graphy\"（书写）误判为\"历史文献\"。",
+      "sentence": "Modern **historiography** emphasizes how historians' perspectives and sources shape the narratives we call \"history.\"",
+      "options": {
+        "option": [
+          {
+            "definition": "历史地理学（研究历史时期地理环境变化的学科）",
+            "iscorrect": false
+          },
+          {
+            "definition": "历史编纂学（研究历史书写方法与视角的学科）",
+            "iscorrect": true
+          },
+          {
+            "definition": "历史文献集（古代历史记录的合集）",
+            "iscorrect": false
+          },
+          {
+            "definition": "历史事件年表（按时间排列的重大历史事件列表）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

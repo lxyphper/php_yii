@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to give up",
+      "error_analysis": "学生易因“give”（给）和“up”（向上）的字面含义误导将“to give up”理解为“赠送/提交”，或与形近短语“give in”（屈服）混淆。",
+      "sentence": "After trying for months, she finally decided to **give up** her dream of becoming a pianist.",
+      "options": {
+        "option": [
+          {
+            "definition": "屈服",
+            "iscorrect": false
+          },
+          {
+            "definition": "赠送",
+            "iscorrect": false
+          },
+          {
+            "definition": "放弃",
+            "iscorrect": true
+          },
+          {
+            "definition": "用尽",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

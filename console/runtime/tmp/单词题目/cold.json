@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cold",
+      "error_analysis": "学生易因形近词“old”（老的）将“cold”误判为与“年老”相关的含义",
+      "sentence": "It's **cold** outside, so you should wear a thick jacket.",
+      "options": {
+        "option": [
+          {
+            "definition": "老的",
+            "iscorrect": false
+          },
+          {
+            "definition": "酷的",
+            "iscorrect": false
+          },
+          {
+            "definition": "冷的",
+            "iscorrect": true
+          },
+          {
+            "definition": "金的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

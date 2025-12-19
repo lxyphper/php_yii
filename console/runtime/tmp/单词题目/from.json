@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "from",
+      "error_analysis": "易与形近词“form”（形式）混淆，导致误选“形式；形状”的释义",
+      "sentence": "She received a letter **from** her friend in London yesterday.",
+      "options": {
+        "option": [
+          {
+            "definition": "来自；从...起",
+            "iscorrect": true
+          },
+          {
+            "definition": "形式；形状",
+            "iscorrect": false
+          },
+          {
+            "definition": "为了；给",
+            "iscorrect": false
+          },
+          {
+            "definition": "到；向",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

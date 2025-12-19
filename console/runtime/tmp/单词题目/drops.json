@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "drops",
+      "error_analysis": "学生易因形近词\"dresses\"（裙子）误解为\"裙子\"，或因\"drop\"动词含义（降低/落下）将名词\"drops\"误解为动词相关动作",
+      "sentence": "Please take two **drops** of the cough syrup before going to bed.",
+      "options": {
+        "option": [
+          {
+            "definition": "滴；滴剂（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "裙子（复数）",
+            "iscorrect": false
+          },
+          {
+            "definition": "降低（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "落下的动作（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lickety-split",
+      "error_analysis": "学生易根据“lick”（舔）和“split”（分裂）的字面组合，误将其理解为与“舔”或“分裂”相关的动作。",
+      "sentence": "When the bell rang, the kids ran out of the classroom **lickety-split** to catch the ice cream truck.",
+      "options": {
+        "option": [
+          {
+            "definition": "非常快地；迅速地",
+            "iscorrect": true
+          },
+          {
+            "definition": "快速地舔",
+            "iscorrect": false
+          },
+          {
+            "definition": "分裂成碎片",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻轻地分开",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

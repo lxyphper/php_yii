@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "diameter",
+      "error_analysis": "学生易因形近词“diamond”（钻石）误判，或因几何概念混淆将其错解为“周长”或“半径”。",
+      "sentence": "The circular table has a **diameter** of 1.2 meters, so it can fit six people comfortably.",
+      "options": {
+        "option": [
+          {
+            "definition": "直径",
+            "iscorrect": true
+          },
+          {
+            "definition": "钻石",
+            "iscorrect": false
+          },
+          {
+            "definition": "周长",
+            "iscorrect": false
+          },
+          {
+            "definition": "半径",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

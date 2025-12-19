@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sweatshirt",
+      "error_analysis": "学生易将`sweatshirt`误拆为“吸汗衬衫”（字面误导），或与形近词`sweater`（毛衣）混淆",
+      "sentence": "I put on my favorite **sweatshirt** before heading to the gym—it keeps me warm during workouts.",
+      "options": {
+        "option": [
+          {
+            "definition": "运动衫；套头衫",
+            "iscorrect": true
+          },
+          {
+            "definition": "毛衣",
+            "iscorrect": false
+          },
+          {
+            "definition": "吸汗衬衫",
+            "iscorrect": false
+          },
+          {
+            "definition": "连衣裙",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

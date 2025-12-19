@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "serenity",
+      "error_analysis": "学生易因形近词\"sergeant\"(中士)或与\"serious\"(严肃)的词根混淆，误判\"serenity\"为\"职位\"或\"严肃\"",
+      "sentence": "The early morning lake, with its glassy surface and the sound of birds chirping, exuded a sense of **serenity** that made everyone feel relaxed.",
+      "options": {
+        "option": [
+          {
+            "definition": "平静；宁静",
+            "iscorrect": true
+          },
+          {
+            "definition": "中士；警官",
+            "iscorrect": false
+          },
+          {
+            "definition": "严肃；严重性",
+            "iscorrect": false
+          },
+          {
+            "definition": "真诚；真挚",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

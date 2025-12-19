@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "person",
+      "error_analysis": "易与形近词“percent”（百分比）混淆，或误将“person”理解为“人们”（复数）或“个人的”（形容词）",
+      "sentence": "The new policy will affect every **person** in the country.",
+      "options": {
+        "option": [
+          {
+            "definition": "人",
+            "iscorrect": true
+          },
+          {
+            "definition": "百分比",
+            "iscorrect": false
+          },
+          {
+            "definition": "人们",
+            "iscorrect": false
+          },
+          {
+            "definition": "个人的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

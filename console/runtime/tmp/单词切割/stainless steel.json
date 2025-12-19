@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "stainles steel",
+      "stainless steal",
+      "steinless steel",
+      "stainless stel"
+    ],
+    "correct_chunks": [
+      "stain",
+      "less",
+      "steel"
+    ],
+    "distractor_chunks": [
+      "les",
+      "steal",
+      "stein",
+      "stel"
+    ]
+  },
+  0
+]

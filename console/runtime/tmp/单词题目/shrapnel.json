@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "shrapnel",
+      "error_analysis": "学生易因形近词\"scrap\"（普通碎片）或联想\"sharp\"（锋利的），误将\"shrapnel\"理解为普通碎片或锋利物体",
+      "sentence": "The soldier was injured by **shrapnel** from a roadside bomb during the mission.",
+      "options": {
+        "option": [
+          {
+            "definition": "普通碎片/废料",
+            "iscorrect": false
+          },
+          {
+            "definition": "锋利的物体",
+            "iscorrect": false
+          },
+          {
+            "definition": "爆炸产生的金属碎片",
+            "iscorrect": true
+          },
+          {
+            "definition": "破碎的玻璃",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

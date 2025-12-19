@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "brush",
+      "error_analysis": "学生易将“brush”（刷子）与形近词“bush”（灌木）混淆，导致误选",
+      "sentence": "The cleaner took a **brush** to scrub the bathtub.",
+      "options": {
+        "option": [
+          {
+            "definition": "刷子",
+            "iscorrect": true
+          },
+          {
+            "definition": "灌木",
+            "iscorrect": false
+          },
+          {
+            "definition": "海绵",
+            "iscorrect": false
+          },
+          {
+            "definition": "手套",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

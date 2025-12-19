@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to approve",
+      "error_analysis": "学生易因形近词\"improve\"误解为\"改进\"，或因词根\"prove\"字面联想为\"证明\"",
+      "sentence": "The school principal will **approve** the students' field trip proposal next week.",
+      "options": {
+        "option": [
+          {
+            "definition": "批准；同意",
+            "iscorrect": true
+          },
+          {
+            "definition": "改进；改善",
+            "iscorrect": false
+          },
+          {
+            "definition": "证明；证实",
+            "iscorrect": false
+          },
+          {
+            "definition": "安排；筹备",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

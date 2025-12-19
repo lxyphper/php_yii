@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "heart",
+      "error_analysis": "学生易将\"heart\"与形近词\"hear\"（听）混淆，误选\"听力\"或\"听\"的含义。",
+      "sentence": "When she saw the spider, her **heart** started beating very fast.",
+      "options": {
+        "option": [
+          {
+            "definition": "心脏（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "听力（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "热（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "头（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

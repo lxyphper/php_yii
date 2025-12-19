@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "brief",
+      "error_analysis": "学生易因形近词“belief”将动词“brief”误理解为“相信”，或因“briefcase”误判为“公文包”",
+      "sentence": "The coach will **brief** the team on the new strategy before the game.",
+      "options": {
+        "option": [
+          {
+            "definition": "简要介绍（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "相信（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "公文包（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "简单的（形容词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

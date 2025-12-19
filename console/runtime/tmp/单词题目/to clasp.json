@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to clasp",
+      "error_analysis": "学生易因形近词“clap”（拍手）混淆，或误将动词“to clasp”理解为名词“扣子”的动作（扣扣子）。",
+      "sentence": "She **clasped** her mother's hand tightly as they crossed the busy street.",
+      "options": {
+        "option": [
+          {
+            "definition": "紧握；紧抱",
+            "iscorrect": true
+          },
+          {
+            "definition": "拍手；鼓掌",
+            "iscorrect": false
+          },
+          {
+            "definition": "扣上（扣子）；系紧",
+            "iscorrect": false
+          },
+          {
+            "definition": "冲突；碰撞",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

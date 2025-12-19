@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "view",
+      "error_analysis": "学生易因词根“vis-”（看）误导将“view”仅理解为“看”的动作，或因形近词“vine”（葡萄藤）混淆，忽略其“观点”的核心含义。",
+      "sentence": "What's your **view** on the new school rules? Many students think they're too strict.",
+      "options": {
+        "option": [
+          {
+            "definition": "观点",
+            "iscorrect": true
+          },
+          {
+            "definition": "观看",
+            "iscorrect": false
+          },
+          {
+            "definition": "复习",
+            "iscorrect": false
+          },
+          {
+            "definition": "葡萄藤",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

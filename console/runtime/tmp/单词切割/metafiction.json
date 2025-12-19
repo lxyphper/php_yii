@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "metafictio",
+      "meatafiction",
+      "metaficction",
+      "mitafiction",
+      "metaficition"
+    ],
+    "correct_chunks": [
+      "meta",
+      "fic",
+      "tion"
+    ],
+    "distractor_chunks": [
+      "meata",
+      "mita",
+      "ficc",
+      "tio",
+      "ficiti"
+    ]
+  },
+  0
+]

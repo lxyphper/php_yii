@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "colored",
+      "error_analysis": "将\"colored\"误理解为\"色彩丰富的\"（形近词\"colorful\"的干扰）",
+      "sentence": "She bought a **colored** notebook instead of a plain white one.",
+      "options": {
+        "option": [
+          {
+            "definition": "有颜色的；染色的",
+            "iscorrect": true
+          },
+          {
+            "definition": "色彩丰富的",
+            "iscorrect": false
+          },
+          {
+            "definition": "正在涂色的",
+            "iscorrect": false
+          },
+          {
+            "definition": "单色的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

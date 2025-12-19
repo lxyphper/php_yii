@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to close",
+      "error_analysis": "学生易将动词to close（关闭）与形近词clothes（衣服）混淆，或误从形容词“近的”推导为“靠近”的动词义",
+      "sentence": "Please **close** the window before you leave the classroom.",
+      "options": {
+        "option": [
+          {
+            "definition": "关闭（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "衣服（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "靠近（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "打开（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

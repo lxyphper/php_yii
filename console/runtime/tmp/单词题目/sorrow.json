@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sorrow",
+      "error_analysis": "将形近词`sorry`（抱歉）的含义误迁移至`sorrow`，或混淆`sore`（疼痛）的词根联想",
+      "sentence": "After her beloved dog passed away, she was drowned in **sorrow** for weeks.",
+      "options": {
+        "option": [
+          {
+            "definition": "悲伤；悲痛",
+            "iscorrect": true
+          },
+          {
+            "definition": "抱歉；歉意",
+            "iscorrect": false
+          },
+          {
+            "definition": "疼痛；酸痛",
+            "iscorrect": false
+          },
+          {
+            "definition": "后悔；遗憾",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to flirt",
+      "error_analysis": "因形近词“flight”（飞行）或“float”（漂浮）产生错误联想，误将“to flirt”理解为与“移动”相关的动作",
+      "sentence": "At the party, Sarah would **flirt** with every guy who bought her a drink, making them think she was interested.",
+      "options": {
+        "option": [
+          {
+            "definition": "飞行（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "漂浮",
+            "iscorrect": false
+          },
+          {
+            "definition": "调情；打情骂俏",
+            "iscorrect": true
+          },
+          {
+            "definition": "奉承",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

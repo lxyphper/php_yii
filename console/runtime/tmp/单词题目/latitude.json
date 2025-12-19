@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "latitude",
+      "error_analysis": "学生易因形近词altitude（海拔）或词根lat-与late（晚）的联想，误判为“海拔”或“延迟”。",
+      "sentence": "The city of Miami is located at a low **latitude**, which is why it has a tropical climate year-round.",
+      "options": {
+        "option": [
+          {
+            "definition": "地理上的纬度",
+            "iscorrect": true
+          },
+          {
+            "definition": "海拔（高度）",
+            "iscorrect": false
+          },
+          {
+            "definition": "延迟；迟到",
+            "iscorrect": false
+          },
+          {
+            "definition": "地理上的经度",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

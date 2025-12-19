@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "flatware",
+      "error_analysis": "学生易因“flat”（平的）和“ware”（器皿）的字面组合，将“flatware”误判为“扁平的器皿”（如盘子），而非其核心义“餐具（刀叉勺等）”。",
+      "sentence": "Before setting the table for dinner, she took out the plates, glasses, and **flatware** from the kitchen cabinet.",
+      "options": {
+        "option": [
+          {
+            "definition": "餐具（刀叉勺等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "扁平的厨房器皿（如盘子、托盘）",
+            "iscorrect": false
+          },
+          {
+            "definition": "用于平整表面的工具（如熨斗）",
+            "iscorrect": false
+          },
+          {
+            "definition": "软件或硬件的辅助设备",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

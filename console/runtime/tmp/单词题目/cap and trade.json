@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cap and trade",
+      "error_analysis": "将“cap and trade”字面直译为“帽子交易”或误解为与日常物品交易相关的活动，而非环保政策中的总量控制与交易制度",
+      "sentence": "To address climate change, the government implemented a **cap and trade** program that sets a strict limit on total carbon emissions and allows companies to buy or sell pollution permits.",
+      "options": {
+        "option": [
+          {
+            "definition": "总量控制与交易（一种环保政策，设置污染物排放上限并允许企业买卖排放配额）",
+            "iscorrect": true
+          },
+          {
+            "definition": "帽子交易（买卖帽子的商业活动）",
+            "iscorrect": false
+          },
+          {
+            "definition": "限制贸易（对国际贸易活动设置数量上限的政策）",
+            "iscorrect": false
+          },
+          {
+            "definition": "资本交易（涉及资金或资产买卖的金融活动）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

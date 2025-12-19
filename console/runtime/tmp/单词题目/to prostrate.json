@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to prostrate",
+      "error_analysis": "学生易因形近词\"protest\"(抗议)混淆，或因\"pro-\"前缀误导为\"促进\"或\"展示\"",
+      "sentence": "In some traditional ceremonies, people **prostrate** themselves before the altar to show deep respect.",
+      "options": {
+        "option": [
+          {
+            "definition": "拜倒；使俯卧",
+            "iscorrect": true
+          },
+          {
+            "definition": "抗议；反对",
+            "iscorrect": false
+          },
+          {
+            "definition": "促进；推动",
+            "iscorrect": false
+          },
+          {
+            "definition": "展示；呈现",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

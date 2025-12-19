@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cactus",
+      "error_analysis": "学生易因形近词\"canteen\"（食堂）干扰将\"cactus\"误判为\"食堂\"，或因词根\"cac-\"（坏的）误导以为是\"有害的植物\"。",
+      "sentence": "The desert is home to many plants that can survive without much water, such as the **cactus** with its thick, spiny stems.",
+      "options": {
+        "option": [
+          {
+            "definition": "食堂",
+            "iscorrect": false
+          },
+          {
+            "definition": "有害的植物",
+            "iscorrect": false
+          },
+          {
+            "definition": "帆布",
+            "iscorrect": false
+          },
+          {
+            "definition": "仙人掌",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

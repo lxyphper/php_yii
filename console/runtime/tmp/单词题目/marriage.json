@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "marriage",
+      "error_analysis": "学生易因形近词\"manage\"（管理）产生混淆，或因\"age\"后缀字面误导认为与\"结婚年龄\"相关。",
+      "sentence": "Their **marriage** has lasted for over 50 years, and they still share a deep love for each other.",
+      "options": {
+        "option": [
+          {
+            "definition": "管理（对事物或人的支配、控制）",
+            "iscorrect": false
+          },
+          {
+            "definition": "结婚年龄（达到可以结婚的岁数）",
+            "iscorrect": false
+          },
+          {
+            "definition": "婚姻（男女结为夫妻的法律或社会关系）",
+            "iscorrect": true
+          },
+          {
+            "definition": "合并（如公司、事物的结合或融合）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

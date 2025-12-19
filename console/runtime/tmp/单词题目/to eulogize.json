@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to eulogize",
+      "error_analysis": "学生易因形近词“apologize”（道歉）产生错误联想，或因“eu-”（好）和“-logize”（说）的词根组合过度推导为“说好话”但忽略其“正式颂扬（尤指死者）”的特定语境",
+      "sentence": "At the funeral, the mayor will **eulogize** the late professor for his lifelong contribution to education.",
+      "options": {
+        "option": [
+          {
+            "definition": "颂扬，赞美（尤指对死者的正式赞美）",
+            "iscorrect": true
+          },
+          {
+            "definition": "道歉",
+            "iscorrect": false
+          },
+          {
+            "definition": "奉承，讨好",
+            "iscorrect": false
+          },
+          {
+            "definition": "解释，说明",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

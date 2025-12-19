@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "predestination",
+      "error_analysis": "易因形近词“destination”（目的地）误判为“预先的旅行目的地”，或通过词根“pre-”+“destin-”错误推导为“预先设定的目标”（而非“宿命论”）。",
+      "sentence": "In some religious beliefs, **predestination** is the idea that God has already decided everything that will happen to a person in their life.",
+      "options": {
+        "option": [
+          {
+            "definition": "宿命论；预定论（宗教或哲学中认为一切由神预先决定的观点）",
+            "iscorrect": true
+          },
+          {
+            "definition": "预先确定的旅行目的地",
+            "iscorrect": false
+          },
+          {
+            "definition": "预先设定的目标或计划",
+            "iscorrect": false
+          },
+          {
+            "definition": "提前预订的服务（如酒店或机票）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

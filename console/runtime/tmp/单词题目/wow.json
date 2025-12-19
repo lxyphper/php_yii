@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wow",
+      "error_analysis": "中国学生易因“wow”与基础词“cow（牛）、how（如何）、now（现在）”形近而误判其词义",
+      "sentence": "When she saw the beautiful sunset, she exclaimed, ‘**Wow**! That’s amazing!’",
+      "options": {
+        "option": [
+          {
+            "definition": "牛",
+            "iscorrect": false
+          },
+          {
+            "definition": "如何",
+            "iscorrect": false
+          },
+          {
+            "definition": "现在",
+            "iscorrect": false
+          },
+          {
+            "definition": "哇哦（表示惊讶、赞叹的感叹词）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "accounting",
+      "error_analysis": "学生易因形近词\"counting\"（计数）或词根\"account\"的\"说明\"义，将\"accounting\"误判为\"计数工作\"或\"叙述过程\"。",
+      "sentence": "She decided to study **accounting** at university because she wants to become a certified public accountant (CPA).",
+      "options": {
+        "option": [
+          {
+            "definition": "会计；会计学",
+            "iscorrect": true
+          },
+          {
+            "definition": "计数；计算工作",
+            "iscorrect": false
+          },
+          {
+            "definition": "叙述；说明过程",
+            "iscorrect": false
+          },
+          {
+            "definition": "账户列表；账户汇总",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tetrahedral",
+      "error_analysis": "学生易因不熟悉希腊词根“tetra”（四），将“tetrahedral”误猜为“三面的”（混淆“tetra”与“tri”）或“十面的”（误将“tetra”联想为“ten”）",
+      "sentence": "Methane molecules have a **tetrahedral** structure, with the carbon atom at the center and four hydrogen atoms at the vertices.",
+      "options": {
+        "option": [
+          {
+            "definition": "四面体的；有四个面的",
+            "iscorrect": true
+          },
+          {
+            "definition": "三面的；有三个面的",
+            "iscorrect": false
+          },
+          {
+            "definition": "十面的；有十个面的",
+            "iscorrect": false
+          },
+          {
+            "definition": "热带的；属于热带气候的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

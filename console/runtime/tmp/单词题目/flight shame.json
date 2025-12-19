@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "flight shame",
+      "error_analysis": "学生易因\"flight\"（航班/逃跑）和\"shame\"（羞耻）的字面含义，误将其理解为\"航班延误的羞耻\"或\"逃跑的愧疚\"，忽略环境关联的核心义。",
+      "sentence": "With the rise of climate consciousness, more travelers are feeling **flight shame** and opting for eco-friendly transport like trains instead of planes.",
+      "options": {
+        "option": [
+          {
+            "definition": "因乘坐飞机对环境造成影响而产生的羞愧感",
+            "iscorrect": true
+          },
+          {
+            "definition": "因航班延误或取消而感到的羞耻",
+            "iscorrect": false
+          },
+          {
+            "definition": "因在飞机上做出尴尬行为而产生的羞耻",
+            "iscorrect": false
+          },
+          {
+            "definition": "因逃避责任或问题而产生的愧疚",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

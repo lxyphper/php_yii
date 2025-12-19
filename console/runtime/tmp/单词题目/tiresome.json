@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tiresome",
+      "error_analysis": "中国学生易因形近词\"tire\"(轮胎)误以为\"轮胎相关的\"，或因词根\"tire\"(疲劳)误判为\"疲劳的\"(形容人)。",
+      "sentence": "Listening to his endless complaints about work became really **tiresome** after a while.",
+      "options": {
+        "option": [
+          {
+            "definition": "轮胎相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "疲劳的（形容人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人厌烦的；讨厌的",
+            "iscorrect": true
+          },
+          {
+            "definition": "巨大的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

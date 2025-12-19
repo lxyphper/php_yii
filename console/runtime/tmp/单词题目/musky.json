@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "musky",
+      "error_analysis": "学生易因形近词\"muscle\"（肌肉）误将\"musky\"理解为\"肌肉的\"，或因词根不熟悉猜为\"音乐的\"。",
+      "sentence": "The candle emitted a warm, **musky** scent that reminded her of the forest after rain.",
+      "options": {
+        "option": [
+          {
+            "definition": "有麝香气味的",
+            "iscorrect": true
+          },
+          {
+            "definition": "肌肉的",
+            "iscorrect": false
+          },
+          {
+            "definition": "音乐的",
+            "iscorrect": false
+          },
+          {
+            "definition": "糊状的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

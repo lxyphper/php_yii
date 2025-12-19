@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "home",
+      "error_analysis": "学生易因形近词\"hope\"（希望）或\"honey\"（蜂蜜）的干扰，将\"home\"误理解为非\"家\"的含义",
+      "sentence": "After a long day at school, I can't wait to go **home** and hug my mom.",
+      "options": {
+        "option": [
+          {
+            "definition": "家",
+            "iscorrect": true
+          },
+          {
+            "definition": "希望",
+            "iscorrect": false
+          },
+          {
+            "definition": "蜂蜜",
+            "iscorrect": false
+          },
+          {
+            "definition": "洞",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

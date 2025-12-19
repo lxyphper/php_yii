@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "thewy",
+      "error_analysis": "学生易因形近词“theory”（理论）或误将“thew”词根理解为“纹理”，导致对“thewy”词义判断错误",
+      "sentence": "The wrestler’s **thewy** arms showed his years of rigorous training.",
+      "options": {
+        "option": [
+          {
+            "definition": "理论的；学术的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有纹理的；粗糙的",
+            "iscorrect": false
+          },
+          {
+            "definition": "肌肉发达的；强壮的",
+            "iscorrect": true
+          },
+          {
+            "definition": "多毛的；绒毛的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

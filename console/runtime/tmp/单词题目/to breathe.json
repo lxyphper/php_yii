@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to breathe",
+      "error_analysis": "因形近词\"breed\"(繁殖)和\"bathe\"(洗澡)的干扰，易将\"to breathe\"错误理解为\"繁殖\"或\"洗澡\"",
+      "sentence": "After swimming for a while, the child came up to the surface to **breathe**.",
+      "options": {
+        "option": [
+          {
+            "definition": "繁殖",
+            "iscorrect": false
+          },
+          {
+            "definition": "洗澡",
+            "iscorrect": false
+          },
+          {
+            "definition": "微风",
+            "iscorrect": false
+          },
+          {
+            "definition": "呼吸（动词）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

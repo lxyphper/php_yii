@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "campfire",
+      "error_analysis": "中国学生易因形近词\"campus\"(校园)将\"campfire\"误解为\"校园火灾\"，或因\"fire\"的\"火灾\"义误解为\"营地火灾\"",
+      "sentence": "We roasted marshmallows over the **campfire** during the camping trip.",
+      "options": {
+        "option": [
+          {
+            "definition": "校园火灾",
+            "iscorrect": false
+          },
+          {
+            "definition": "营火；篝火",
+            "iscorrect": true
+          },
+          {
+            "definition": "营地火灾",
+            "iscorrect": false
+          },
+          {
+            "definition": "露营帐篷",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

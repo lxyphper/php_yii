@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to disagree",
+      "error_analysis": "学生易因形近词“disappear”（消失）的干扰，或词根过度推导将“to disagree”误理解为“消失”或“不喜欢”。",
+      "sentence": "Although they are good friends, they often **disagree** about which movie to watch.",
+      "options": {
+        "option": [
+          {
+            "definition": "不同意；有分歧",
+            "iscorrect": true
+          },
+          {
+            "definition": "消失",
+            "iscorrect": false
+          },
+          {
+            "definition": "不喜欢",
+            "iscorrect": false
+          },
+          {
+            "definition": "不赞成",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

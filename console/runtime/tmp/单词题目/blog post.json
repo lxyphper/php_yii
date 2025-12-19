@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "blog post",
+      "error_analysis": "学生易将“post”误解为“岗位”或“邮政”，从而把“blog post”错误理解为“博客岗位”或“博客邮政”",
+      "sentence": "She just published a new **blog post** about her travel experiences in Japan.",
+      "options": {
+        "option": [
+          {
+            "definition": "博客岗位",
+            "iscorrect": false
+          },
+          {
+            "definition": "博客邮政",
+            "iscorrect": false
+          },
+          {
+            "definition": "博客文章",
+            "iscorrect": true
+          },
+          {
+            "definition": "博客发布",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

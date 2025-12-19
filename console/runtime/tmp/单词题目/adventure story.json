@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "adventure story",
+      "error_analysis": "易因“adventure”与形近词“advantage”（优势）混淆，或误将“ad”联想为“广告”（advertisement），导致错解为“优势故事”或“广告故事”",
+      "sentence": "My little brother loves reading **adventure stories** about pirates searching for hidden treasure on a remote island before bedtime.",
+      "options": {
+        "option": [
+          {
+            "definition": "冒险故事",
+            "iscorrect": true
+          },
+          {
+            "definition": "优势故事",
+            "iscorrect": false
+          },
+          {
+            "definition": "广告故事",
+            "iscorrect": false
+          },
+          {
+            "definition": "探索故事",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

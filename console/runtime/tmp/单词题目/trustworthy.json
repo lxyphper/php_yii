@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "trustworthy",
+      "error_analysis": "易因形近词“trustful”（轻信的）或词根“worthy”（有价值的）误导，误判为“轻信的”或“有信任价值的”。",
+      "sentence": "My colleague is very **trustworthy**—she always finishes her work on time and never shares private information with others.",
+      "options": {
+        "option": [
+          {
+            "definition": "值得信赖的；可靠的",
+            "iscorrect": true
+          },
+          {
+            "definition": "轻信的；容易信任他人的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有信任价值的；有可信度的",
+            "iscorrect": false
+          },
+          {
+            "definition": "充满信任的；深信不疑的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

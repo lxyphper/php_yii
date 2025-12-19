@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gangly",
+      "error_analysis": "学生易因形近词\"gang\"（帮派）误将\"gangly\"理解为与\"帮派、暴力\"相关的含义",
+      "sentence": "The **gangly** teenager tripped over his own feet while walking into the classroom.",
+      "options": {
+        "option": [
+          {
+            "definition": "（人或动物）高瘦且笨拙的",
+            "iscorrect": true
+          },
+          {
+            "definition": "与帮派或团伙有关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "强壮且好斗的",
+            "iscorrect": false
+          },
+          {
+            "definition": "小巧玲珑的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

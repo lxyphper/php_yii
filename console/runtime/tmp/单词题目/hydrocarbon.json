@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hydrocarbon",
+      "error_analysis": "学生易因词根hydro-（误判为“水”）或与形近词carbohydrate（碳水化合物）混淆，将hydrocarbon误解为“水碳化合物”或“碳水化合物”。",
+      "sentence": "Gasoline, which is used to power cars, is a mixture of various **hydrocarbons** derived from crude oil.",
+      "options": {
+        "option": [
+          {
+            "definition": "碳水化合物",
+            "iscorrect": false
+          },
+          {
+            "definition": "水和碳的化合物",
+            "iscorrect": false
+          },
+          {
+            "definition": "碳氢化合物（烃）",
+            "iscorrect": true
+          },
+          {
+            "definition": "氢氧化物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

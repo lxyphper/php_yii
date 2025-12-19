@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "canvas",
+      "error_analysis": "易因形近词\"candy\"(糖果)误判，或因\"can\"(罐头)词根猜测为\"罐头容器\"",
+      "sentence": "The artist placed her unfinished painting on the **canvas** and stepped back to admire it.",
+      "options": {
+        "option": [
+          {
+            "definition": "画布",
+            "iscorrect": true
+          },
+          {
+            "definition": "糖果",
+            "iscorrect": false
+          },
+          {
+            "definition": "罐头容器",
+            "iscorrect": false
+          },
+          {
+            "definition": "窗帘",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to eschew",
+      "error_analysis": "因形近词“chew”（咀嚼）导致对“eschew”的错误联想，如认为其与“咀嚼”“反复思考”或“吐出”相关。",
+      "sentence": "Many health experts advise people to **eschew** processed foods to maintain a balanced diet.",
+      "options": {
+        "option": [
+          {
+            "definition": "避免；避开",
+            "iscorrect": true
+          },
+          {
+            "definition": "咀嚼；啃",
+            "iscorrect": false
+          },
+          {
+            "definition": "反复思考；仔细考虑",
+            "iscorrect": false
+          },
+          {
+            "definition": "吐出；呕出",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

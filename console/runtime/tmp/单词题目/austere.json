@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "austere",
+      "error_analysis": "学生易因形近词\"auspicious\"（吉祥的）混淆，或因词根误导将\"austere\"错误理解为\"吉祥的\"或\"丰富的\"",
+      "sentence": "The monk lived an **austere** life in the mountain temple, with only a bed and a table in his room.",
+      "options": {
+        "option": [
+          {
+            "definition": "简朴的；朴素的",
+            "iscorrect": true
+          },
+          {
+            "definition": "吉祥的；有利的",
+            "iscorrect": false
+          },
+          {
+            "definition": "丰富的；充裕的",
+            "iscorrect": false
+          },
+          {
+            "definition": "热情的；友好的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

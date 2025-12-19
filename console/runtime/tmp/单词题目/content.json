@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "content",
+      "error_analysis": "中国学生易因形近词“context”（上下文）干扰而误将“content”理解为“上下文”，或因词根联想误作“包含”。",
+      "sentence": "The **content** of the email was about the upcoming team meeting.",
+      "options": {
+        "option": [
+          {
+            "definition": "内容",
+            "iscorrect": true
+          },
+          {
+            "definition": "上下文",
+            "iscorrect": false
+          },
+          {
+            "definition": "包含",
+            "iscorrect": false
+          },
+          {
+            "definition": "满足",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

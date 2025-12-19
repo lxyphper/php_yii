@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bee",
+      "error_analysis": "学生易因形近词\"be\"（是）或\"see\"（看见）的联想，错误理解\"bee\"的含义",
+      "sentence": "The little girl was scared when a **bee** flew near her ice cream.",
+      "options": {
+        "option": [
+          {
+            "definition": "是（be的第三人称单数形式）",
+            "iscorrect": false
+          },
+          {
+            "definition": "看见（see的过去式）",
+            "iscorrect": false
+          },
+          {
+            "definition": "蜜蜂（会飞的昆虫，能酿蜜）",
+            "iscorrect": true
+          },
+          {
+            "definition": "啤酒（一种含酒精的饮料）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

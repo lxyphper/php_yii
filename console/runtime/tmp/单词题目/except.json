@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "except",
+      "error_analysis": "混淆形近词\"expect\"(期待)与词根\"ex-\"(出)+\"cept\"(拿)误导的\"取出\",忽略\"除了\"的核心义",
+      "sentence": "All the students went to the park yesterday **except** Lily, who had to stay home and study.",
+      "options": {
+        "option": [
+          {
+            "definition": "除了",
+            "iscorrect": true
+          },
+          {
+            "definition": "期待",
+            "iscorrect": false
+          },
+          {
+            "definition": "取出",
+            "iscorrect": false
+          },
+          {
+            "definition": "接受",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

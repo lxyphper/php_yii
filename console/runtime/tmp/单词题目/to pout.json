@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to pout",
+      "error_analysis": "学生易因形近词“pour”（倾倒）混淆，或因含“out”词根误判为“伸出”（忽略情绪性撅嘴义）",
+      "sentence": "When her mom refused to buy the toy, the little girl crossed her arms and **pouted** all the way home.",
+      "options": {
+        "option": [
+          {
+            "definition": "倾倒",
+            "iscorrect": false
+          },
+          {
+            "definition": "伸出",
+            "iscorrect": false
+          },
+          {
+            "definition": "撅嘴（表示不高兴）",
+            "iscorrect": true
+          },
+          {
+            "definition": "皱眉",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

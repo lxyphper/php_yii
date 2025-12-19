@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "redemption",
+      "error_analysis": "中国学生易因形近词“reduction”（减少）误判，或因词根“re-”+“emption”（购买）过度推导为“重新购买”而非核心义“救赎/赎罪”。",
+      "sentence": "The criminal hoped his good deeds would lead to **redemption** and a second chance at life.",
+      "options": {
+        "option": [
+          {
+            "definition": "减少",
+            "iscorrect": false
+          },
+          {
+            "definition": "重新购买",
+            "iscorrect": false
+          },
+          {
+            "definition": "救赎；赎罪",
+            "iscorrect": true
+          },
+          {
+            "definition": "恢复",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

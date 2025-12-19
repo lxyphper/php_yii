@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "closed-minded",
+      "error_analysis": "学生易因“closed”（关闭的）和“minded”（有...思想的）的字面含义，将“closed-minded”误判为“思想封闭的”（强调状态），而忽略其“不愿接受新思想或不同意见”的核心动作倾向。",
+      "sentence": "Despite hearing many new ideas about renewable energy, my uncle remains **closed-minded** and refuses to consider changing his old habits.",
+      "options": {
+        "option": [
+          {
+            "definition": "不愿接受新思想或不同意见的",
+            "iscorrect": true
+          },
+          {
+            "definition": "思想封闭的（强调状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "心胸狭窄的",
+            "iscorrect": false
+          },
+          {
+            "definition": "头脑简单的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

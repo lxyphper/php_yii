@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "orchestra",
+      "error_analysis": "学生易因拼写接近误将'orchestra'联想为'兰花'(orchid)或'果园'(orchard)。",
+      "sentence": "The **orchestra** played a beautiful melody at the wedding, making the atmosphere even more romantic.",
+      "options": {
+        "option": [
+          {
+            "definition": "管弦乐队",
+            "iscorrect": true
+          },
+          {
+            "definition": "兰花",
+            "iscorrect": false
+          },
+          {
+            "definition": "果园",
+            "iscorrect": false
+          },
+          {
+            "definition": "策划者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

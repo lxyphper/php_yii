@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "usually",
+      "error_analysis": "易混淆形近词“usual”（形容词，通常的）导致误判“usually”为形容词，或误将其频率理解为“总是”。",
+      "sentence": "She **usually** goes to school by bus, but today she took a taxi because of the rain.",
+      "options": {
+        "option": [
+          {
+            "definition": "通常的（形容词，描述常见的人或事物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "通常地（副词，表示习惯性、常规性的频率）",
+            "iscorrect": true
+          },
+          {
+            "definition": "总是（副词，表示毫无例外的绝对频率）",
+            "iscorrect": false
+          },
+          {
+            "definition": "偶尔（副词，表示不常发生的低频率）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "unexpectly",
+      "unexcepctedly",
+      "unexpectidly",
+      "unexpectedley"
+    ],
+    "correct_chunks": [
+      "un",
+      "expect",
+      "ed",
+      "ly"
+    ],
+    "distractor_chunks": [
+      "unexpect",
+      "excep",
+      "id",
+      "ley"
+    ]
+  },
+  0
+]

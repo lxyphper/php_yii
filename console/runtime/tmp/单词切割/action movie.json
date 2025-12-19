@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "akction movie",
+      "action moive",
+      "action movi",
+      "akction moive"
+    ],
+    "correct_chunks": [
+      "ac",
+      "tion",
+      "mov",
+      "ie"
+    ],
+    "distractor_chunks": [
+      "ak",
+      "sion",
+      "moiv",
+      "ei"
+    ]
+  },
+  0
+]

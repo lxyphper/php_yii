@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to catch",
+      "error_analysis": "学生易因形近词“cache”（缓存）混淆“catch”的含义，或误将其与“cat”（猫）关联导致理解偏差。",
+      "sentence": "Can you help me **catch** the ball before it hits the ground?",
+      "options": {
+        "option": [
+          {
+            "definition": "抓住；接住",
+            "iscorrect": true
+          },
+          {
+            "definition": "缓存（计算机中的临时存储）",
+            "iscorrect": false
+          },
+          {
+            "definition": "属于猫的",
+            "iscorrect": false
+          },
+          {
+            "definition": "比赛；匹配",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

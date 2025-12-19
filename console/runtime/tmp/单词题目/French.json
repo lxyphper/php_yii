@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "French",
+      "error_analysis": "学生易因形近词“fresh”（新鲜的）产生错误联想，或误将“French”理解为动词义“切成条的”（如french fries的派生）。",
+      "sentence": "The **French** chef prepared a traditional boeuf bourguignon for the dinner party.",
+      "options": {
+        "option": [
+          {
+            "definition": "法国的；法语的",
+            "iscorrect": true
+          },
+          {
+            "definition": "新鲜的",
+            "iscorrect": false
+          },
+          {
+            "definition": "切成条的",
+            "iscorrect": false
+          },
+          {
+            "definition": "炸薯条的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

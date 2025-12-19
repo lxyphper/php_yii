@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "determined",
+      "error_analysis": "学生易因形近词（determine的被动式）或词根推导，将“determined”误解为“被决定的”或“确定的”，而非核心义“有决心的”。",
+      "sentence": "Despite facing many challenges, she remained **determined** to finish her degree.",
+      "options": {
+        "option": [
+          {
+            "definition": "有决心的",
+            "iscorrect": true
+          },
+          {
+            "definition": "被决定的",
+            "iscorrect": false
+          },
+          {
+            "definition": "确定的",
+            "iscorrect": false
+          },
+          {
+            "definition": "详细的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pineapple",
+      "error_analysis": "学生易将\"pineapple\"拆为\"pine\"(松树)和\"apple\"(苹果)的组合，误推测为与松树或苹果相关的事物（如松果、苹果派变体）",
+      "sentence": "She added fresh **pineapple** chunks to the fruit salad to give it a sweet and tangy flavor.",
+      "options": {
+        "option": [
+          {
+            "definition": "菠萝",
+            "iscorrect": true
+          },
+          {
+            "definition": "松果",
+            "iscorrect": false
+          },
+          {
+            "definition": "苹果派",
+            "iscorrect": false
+          },
+          {
+            "definition": "松树的果实",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

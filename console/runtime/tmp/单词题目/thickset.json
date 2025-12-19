@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "thickset",
+      "error_analysis": "学生易因\"thick(厚的)+set(设置)\"字面推导误理解为\"厚的装置\"，或因形近词\"thicket(灌木丛)\"误联想为植物相关义",
+      "sentence": "The former wrestler had a **thickset** build, which helped him dominate in the ring.",
+      "options": {
+        "option": [
+          {
+            "definition": "矮壮的，结实的（形容体型）",
+            "iscorrect": true
+          },
+          {
+            "definition": "厚的装置（如厚重的设备）",
+            "iscorrect": false
+          },
+          {
+            "definition": "灌木丛（密集的植物丛）",
+            "iscorrect": false
+          },
+          {
+            "definition": "浓密的头发（如厚密的发丝）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

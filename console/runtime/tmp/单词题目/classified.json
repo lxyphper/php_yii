@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "classified",
+      "error_analysis": "易因形近词“classical”（经典的）混淆，或词根“class”（班级）误导为“班级的”",
+      "sentence": "The government marked the report as **classified** to prevent it from being leaked to the public.",
+      "options": {
+        "option": [
+          {
+            "definition": "经典的",
+            "iscorrect": false
+          },
+          {
+            "definition": "班级的",
+            "iscorrect": false
+          },
+          {
+            "definition": "分类的",
+            "iscorrect": false
+          },
+          {
+            "definition": "机密的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

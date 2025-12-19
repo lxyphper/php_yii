@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "goods",
+      "error_analysis": "学生易将\"goods\"误判为\"good\"的复数（如\"优点；好处\"），或因\"good\"的形容词义猜测为\"好的东西\"，忽略其\"商品\"的核心词义",
+      "sentence": "The supermarket offers a variety of **goods**, including fresh produce and kitchen appliances.",
+      "options": {
+        "option": [
+          {
+            "definition": "商品；货物",
+            "iscorrect": true
+          },
+          {
+            "definition": "优点；好处",
+            "iscorrect": false
+          },
+          {
+            "definition": "好人；善人",
+            "iscorrect": false
+          },
+          {
+            "definition": "善行；美德",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

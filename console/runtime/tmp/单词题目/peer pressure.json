@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "peer pressure",
+      "error_analysis": "学生易因\"peer\"的生僻义（贵族）或动词义（凝视）误判短语含义，或过度直译\"pressure\"为\"压迫\"。",
+      "sentence": "Many teenagers feel stressed because they want to avoid **peer pressure** to do things they don’t like just to fit in with their group.",
+      "options": {
+        "option": [
+          {
+            "definition": "同辈压力（同龄人之间要求符合群体规范的影响压力）",
+            "iscorrect": true
+          },
+          {
+            "definition": "贵族的压迫（来自贵族阶层的强制压力）",
+            "iscorrect": false
+          },
+          {
+            "definition": "凝视的压力（因被他人长时间注视而产生的压力）",
+            "iscorrect": false
+          },
+          {
+            "definition": "朋友的压力（来自亲密朋友的要求或期待压力）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

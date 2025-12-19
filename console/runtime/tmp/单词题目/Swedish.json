@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Swedish",
+      "error_analysis": "学生易因形近词\"Swiss\"（瑞士的）混淆，将\"Swedish\"误判为\"瑞士的\"",
+      "sentence": "The **Swedish** bakery downtown sells the best cinnamon buns I've ever tasted—just like the ones I had in Stockholm.",
+      "options": {
+        "option": [
+          {
+            "definition": "瑞典的；瑞典人的；瑞典语的",
+            "iscorrect": true
+          },
+          {
+            "definition": "瑞士的；瑞士人的；瑞士语的",
+            "iscorrect": false
+          },
+          {
+            "definition": "西班牙的；西班牙人的；西班牙语的",
+            "iscorrect": false
+          },
+          {
+            "definition": "芬兰的；芬兰人的；芬兰语的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "peasant",
+      "error_analysis": "因形近词\"pleasant\"(令人愉快的)及词根拆分\"pea\"(豌豆)+\"sant\"导致误解为\"令人愉快的\"或\"卖豌豆的人\"",
+      "sentence": "The **peasant** spent most of his life cultivating the land owned by the landlord.",
+      "options": {
+        "option": [
+          {
+            "definition": "农民；佃农",
+            "iscorrect": true
+          },
+          {
+            "definition": "令人愉快的",
+            "iscorrect": false
+          },
+          {
+            "definition": "卖豌豆的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "圣人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

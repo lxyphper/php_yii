@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "inflexible",
+      "error_analysis": "学生易因形近词`influential`（有影响力的）混淆，或因词根`flex`（弯曲）直译“不能弯曲的”而忽略语境引申义。",
+      "sentence": "The teacher was **inflexible** about the homework rules—she wouldn’t accept any late submissions, no matter the reason.",
+      "options": {
+        "option": [
+          {
+            "definition": "有影响力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "固执的；不变通的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不能弯曲的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不灵活的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

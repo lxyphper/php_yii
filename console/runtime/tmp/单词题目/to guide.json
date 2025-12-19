@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to guide",
+      "error_analysis": "中国学生易因形近词“guard”（守卫）的干扰，将“to guide”误解为“守卫；保护”",
+      "sentence": "The experienced hiker agreed to **guide** the group safely through the forest.",
+      "options": {
+        "option": [
+          {
+            "definition": "引导；指导",
+            "iscorrect": true
+          },
+          {
+            "definition": "守卫；保护",
+            "iscorrect": false
+          },
+          {
+            "definition": "带领（某人）旅游；当导游",
+            "iscorrect": false
+          },
+          {
+            "definition": "领导；率领",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

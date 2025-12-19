@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "kindness",
+      "error_analysis": "学生易因词根“kind”（种类）误导将“kindness”理解为“种类性”，或因形近词“kindling”“kindred”误判为“点燃行为”或“亲属关系”。",
+      "sentence": "Her **kindness** in helping the old man carry his bags made everyone smile.",
+      "options": {
+        "option": [
+          {
+            "definition": "善良；好意",
+            "iscorrect": true
+          },
+          {
+            "definition": "种类性；分类特征",
+            "iscorrect": false
+          },
+          {
+            "definition": "引火物；点燃的行为",
+            "iscorrect": false
+          },
+          {
+            "definition": "亲属关系；血缘联系",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

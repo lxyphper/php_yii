@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "socket",
+      "error_analysis": "学生易因形近词`sock`（袜子）的联想，将`socket`误判为“袜口”或“小袜子”等与袜子相关的含义。",
+      "sentence": "Please plug the charger into the **socket** on the wall to charge your phone.",
+      "options": {
+        "option": [
+          {
+            "definition": "插座；插孔",
+            "iscorrect": true
+          },
+          {
+            "definition": "袜口；袜子的边缘",
+            "iscorrect": false
+          },
+          {
+            "definition": "小袜子（如儿童袜）",
+            "iscorrect": false
+          },
+          {
+            "definition": "火箭推进器",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

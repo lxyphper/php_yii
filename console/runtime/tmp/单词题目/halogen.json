@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "halogen",
+      "error_analysis": "学生易因形近词“halo”（光环）联想到“发光体”，或因词根“halo-”（盐）误解为“盐类物质”。",
+      "sentence": "Chlorine and fluorine are common **halogens** used in disinfectants and toothpastes.",
+      "options": {
+        "option": [
+          {
+            "definition": "卤素（如氟、氯等化学元素）",
+            "iscorrect": true
+          },
+          {
+            "definition": "光环；发光体",
+            "iscorrect": false
+          },
+          {
+            "definition": "盐类化合物",
+            "iscorrect": false
+          },
+          {
+            "definition": "天然宝石",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

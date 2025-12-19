@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "impulsive",
+      "error_analysis": "学生易因形近词\"impressive\"（令人印象深刻的）混淆词义，或因词根\"pulse\"（脉搏）错误联想为\"有脉搏的/跳动的\"",
+      "sentence": "She bought the expensive dress on a(n) **impulsive** decision, without thinking about the cost.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人印象深刻的",
+            "iscorrect": false
+          },
+          {
+            "definition": "冲动的；凭冲动行事的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有脉搏的；跳动的",
+            "iscorrect": false
+          },
+          {
+            "definition": "重要的；关键的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

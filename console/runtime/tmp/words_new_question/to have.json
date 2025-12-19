@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to have",
+      "error_analysis": "中国学生易因形近将“to have”误联想为“讨厌”（hate），或因“have to”混淆误理解为“必须”。",
+      "sentence": "They plan to **have** a picnic in the park this weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "讨厌",
+            "iscorrect": false
+          },
+          {
+            "definition": "必须",
+            "iscorrect": false
+          },
+          {
+            "definition": "举办；进行（某事）",
+            "iscorrect": true
+          },
+          {
+            "definition": "抓住",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

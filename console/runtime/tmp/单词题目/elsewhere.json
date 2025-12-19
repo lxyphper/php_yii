@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "elsewhere",
+      "error_analysis": "中国学生易因“elsewhere”与“everywhere”形近误判为“到处”，或因拆分“else+where”过度直译。",
+      "sentence": "If you can't find the book here, try looking **elsewhere** in the library.",
+      "options": {
+        "option": [
+          {
+            "definition": "别处；其他地方",
+            "iscorrect": true
+          },
+          {
+            "definition": "到处；各处",
+            "iscorrect": false
+          },
+          {
+            "definition": "别的什么；其他东西",
+            "iscorrect": false
+          },
+          {
+            "definition": "别的时间；其他时候",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

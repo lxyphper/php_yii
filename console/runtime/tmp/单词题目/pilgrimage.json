@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pilgrimage",
+      "error_analysis": "中国学生易因形近词“pilgrim”（朝圣者）混淆“pilgrimage”的词义，或拆分“pil”+“grim”+“age”误以为是“可怕的药片”。",
+      "sentence": "Every year, thousands of Muslims make a **pilgrimage** to Mecca as part of their religious duties.",
+      "options": {
+        "option": [
+          {
+            "definition": "朝圣之旅（指宗教或精神上的神圣旅行）",
+            "iscorrect": true
+          },
+          {
+            "definition": "朝圣者（指进行朝圣的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "可怕的药片（指令人恐惧的药物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "飞行员的图像（指与飞行员相关的画面）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

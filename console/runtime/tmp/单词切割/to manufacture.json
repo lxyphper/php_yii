@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "manufacure",
+      "manufecture",
+      "mannufacture",
+      "manufaccure"
+    ],
+    "correct_chunks": [
+      "manu",
+      "fact",
+      "ure"
+    ],
+    "distractor_chunks": [
+      "fac",
+      "fec",
+      "mannu",
+      "facc"
+    ]
+  },
+  0
+]

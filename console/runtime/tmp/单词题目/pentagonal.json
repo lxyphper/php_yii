@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pentagonal",
+      "error_analysis": "学生易因形近词“pent-up”（压抑的）或词根“pent-”（五）的误导，误将“pentagonal”理解为“压抑的”或“五个的”。",
+      "sentence": "The new park features a **pentagonal** fountain with five sides, each decorated with flowers.",
+      "options": {
+        "option": [
+          {
+            "definition": "五边形的",
+            "iscorrect": true
+          },
+          {
+            "definition": "压抑的",
+            "iscorrect": false
+          },
+          {
+            "definition": "五个的",
+            "iscorrect": false
+          },
+          {
+            "definition": "五角星的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

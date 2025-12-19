@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "to fistbump",
+      "to feist-bump",
+      "to fist-bomp",
+      "too fist-bump"
+    ],
+    "correct_chunks": [
+      "to",
+      "fist-",
+      "bump"
+    ],
+    "distractor_chunks": [
+      "too",
+      "feist-",
+      "bomp",
+      "fistbump"
+    ]
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "charter",
+      "error_analysis": "中国学生易因形近词“character”（性格）、“chapter”（章节）及词根“chart”（图表）的联想误判“charter”的含义",
+      "sentence": "The city council voted to adopt a new **charter** to guide urban development for the next decade.",
+      "options": {
+        "option": [
+          {
+            "definition": "性格；角色",
+            "iscorrect": false
+          },
+          {
+            "definition": "宪章；章程",
+            "iscorrect": true
+          },
+          {
+            "definition": "图表；曲线图",
+            "iscorrect": false
+          },
+          {
+            "definition": "章节；段落",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

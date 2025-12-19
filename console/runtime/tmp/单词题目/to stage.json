@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to stage",
+      "error_analysis": "学生易将动词“to stage”误解为名词“stage”（舞台）的衍生义（如“站在舞台上”）或“stage”（阶段）的字面义（如“进入某个阶段”）",
+      "sentence": "The school will **stage** a talent show next month to celebrate its 50th anniversary.",
+      "options": {
+        "option": [
+          {
+            "definition": "举办；组织（活动、演出等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "站在舞台上",
+            "iscorrect": false
+          },
+          {
+            "definition": "进入某个阶段",
+            "iscorrect": false
+          },
+          {
+            "definition": "搭建舞台",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

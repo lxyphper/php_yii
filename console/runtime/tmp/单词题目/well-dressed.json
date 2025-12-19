@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "well-dressed",
+      "error_analysis": "学生易因\"well-\"+\"dressed\"的字面组合误将其理解为\"穿得好的\"（未准确传达\"得体\"含义），或与形近的\"well-pressed\"（熨烫平整的）混淆。",
+      "sentence": "At the formal dinner, all guests admired the **well-dressed** lady in an elegant evening gown and matching jewelry.",
+      "options": {
+        "option": [
+          {
+            "definition": "穿得好的",
+            "iscorrect": false
+          },
+          {
+            "definition": "熨烫平整的",
+            "iscorrect": false
+          },
+          {
+            "definition": "穿着得体的",
+            "iscorrect": true
+          },
+          {
+            "definition": "准备充分的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

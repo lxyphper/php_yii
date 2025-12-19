@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "self-disciplined",
+      "error_analysis": "学生易忽略\"self-\"前缀，将\"self-disciplined\"混淆为\"disciplined\"（守纪律的），或因\"discipline\"的\"惩罚\"义误判为\"自我惩罚的\"",
+      "sentence": "To achieve his fitness goals, John follows a **self-disciplined** routine of waking up at 6 a.m. and working out daily.",
+      "options": {
+        "option": [
+          {
+            "definition": "自律的",
+            "iscorrect": true
+          },
+          {
+            "definition": "守纪律的",
+            "iscorrect": false
+          },
+          {
+            "definition": "自我惩罚的",
+            "iscorrect": false
+          },
+          {
+            "definition": "自主的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "junk mail",
+      "error_analysis": "学生易因“junk”的字面义“旧物”误导将“junk mail”理解为“旧邮件”，或因“junk”与“junior”形近误判为“初级邮件”。",
+      "sentence": "I always delete **junk mail** immediately because it’s full of ads I don’t need.",
+      "options": {
+        "option": [
+          {
+            "definition": "垃圾邮件（不需要的广告或促销邮件）",
+            "iscorrect": true
+          },
+          {
+            "definition": "旧邮件（存放时间较长的邮件）",
+            "iscorrect": false
+          },
+          {
+            "definition": "初级邮件（针对新手的简单邮件）",
+            "iscorrect": false
+          },
+          {
+            "definition": "紧急邮件（需要立即处理的重要邮件）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

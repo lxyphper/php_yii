@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "March",
+      "error_analysis": "学生易因形近词“marsh”（沼泽）混淆“March”（三月），或误将其理解为动词“行军”（march的小写义）",
+      "sentence": "The cherry blossoms in Tokyo usually bloom in **March**, attracting thousands of visitors.",
+      "options": {
+        "option": [
+          {
+            "definition": "三月",
+            "iscorrect": true
+          },
+          {
+            "definition": "沼泽",
+            "iscorrect": false
+          },
+          {
+            "definition": "行军",
+            "iscorrect": false
+          },
+          {
+            "definition": "比赛",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

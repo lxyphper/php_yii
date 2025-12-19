@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "insruction",
+      "enstruction",
+      "instroction",
+      "imstruction"
+    ],
+    "correct_chunks": [
+      "in",
+      "struct",
+      "ion"
+    ],
+    "distractor_chunks": [
+      "en",
+      "im",
+      "sruct",
+      "stroct",
+      "sion"
+    ]
+  },
+  0
+]

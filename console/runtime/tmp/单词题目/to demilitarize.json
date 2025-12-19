@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to demilitarize",
+      "error_analysis": "学生易因形近词\"demolish\"(拆除)的干扰，或误将\"demilitarize\"直译为\"遣散军队\"(而非\"非军事化\")而犯错。",
+      "sentence": "After the war, the international community demanded that the disputed island be **demilitarized** to prevent further conflicts.",
+      "options": {
+        "option": [
+          {
+            "definition": "使非军事化；解除武装",
+            "iscorrect": true
+          },
+          {
+            "definition": "拆除；摧毁",
+            "iscorrect": false
+          },
+          {
+            "definition": "遣散军队；使复员",
+            "iscorrect": false
+          },
+          {
+            "definition": "加强军事力量；军事化",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

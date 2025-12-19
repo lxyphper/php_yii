@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unattained",
+      "error_analysis": "学生易混淆形近词\"unattended\"(无人照料的)，或误将\"unattained\"理解为\"未完成的\"",
+      "sentence": "After years of hard work, her lifelong goal of becoming an astronaut still remained **unattained**.",
+      "options": {
+        "option": [
+          {
+            "definition": "未实现的；未达到的",
+            "iscorrect": true
+          },
+          {
+            "definition": "无人照料的；未被照顾的",
+            "iscorrect": false
+          },
+          {
+            "definition": "未完成的；未结束的",
+            "iscorrect": false
+          },
+          {
+            "definition": "未获得的；未得到的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

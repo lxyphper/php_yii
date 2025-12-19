@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to distend",
+      "error_analysis": "易因形近词\"extend\"(延伸)或词根\"dis-\"+\"tend\"(伸展)误判为\"延伸\"或\"收缩\"",
+      "sentence": "After eating a huge meal, his stomach began to **distend** uncomfortably.",
+      "options": {
+        "option": [
+          {
+            "definition": "（使）延伸；扩展",
+            "iscorrect": false
+          },
+          {
+            "definition": "（使）膨胀；（使）扩张",
+            "iscorrect": true
+          },
+          {
+            "definition": "（使）扭曲；变形",
+            "iscorrect": false
+          },
+          {
+            "definition": "（使）收缩；缩小",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

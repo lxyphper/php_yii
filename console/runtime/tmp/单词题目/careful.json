@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "careful",
+      "error_analysis": "中国学生易因形近词“carful”（一车的量）的干扰，或对“care+ful”词根过度直译导致“关心的”误判。",
+      "sentence": "Please be **careful** with the glass; it's easy to break.",
+      "options": {
+        "option": [
+          {
+            "definition": "小心的；仔细的",
+            "iscorrect": true
+          },
+          {
+            "definition": "一车的量",
+            "iscorrect": false
+          },
+          {
+            "definition": "关心的",
+            "iscorrect": false
+          },
+          {
+            "definition": "粗心的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sandstorm",
+      "error_analysis": "学生易因形近词`sandstone`（砂岩）的拼写相似或`dust`与`sand`的词根混淆而误判`sandstorm`的词义",
+      "sentence": "When a **sandstorm** swept through the desert, the travelers had to wrap their faces with scarves to avoid breathing in too much sand.",
+      "options": {
+        "option": [
+          {
+            "definition": "砂岩",
+            "iscorrect": false
+          },
+          {
+            "definition": "尘暴",
+            "iscorrect": false
+          },
+          {
+            "definition": "三明治",
+            "iscorrect": false
+          },
+          {
+            "definition": "沙尘暴",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

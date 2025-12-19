@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to reply",
+      "error_analysis": "学生易因形近词（如apply“申请”）或词根误解（将re-+ply误判为“重复使用”）混淆词义",
+      "sentence": "She forgot to **reply** to her friend's message yesterday, so she felt sorry today.",
+      "options": {
+        "option": [
+          {
+            "definition": "回答；回复",
+            "iscorrect": true
+          },
+          {
+            "definition": "申请；应用",
+            "iscorrect": false
+          },
+          {
+            "definition": "供应；提供",
+            "iscorrect": false
+          },
+          {
+            "definition": "重复使用；再次利用",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

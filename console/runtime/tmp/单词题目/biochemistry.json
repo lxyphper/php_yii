@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "biochemistry",
+      "error_analysis": "中国学生易将\"biochemistry\"拆分为\"bio-\"（生物）和\"chemistry\"（化学），误理解为\"生物与化学（学科组合）\"或\"生物体内的化学物质\"，而非\"研究生物体内化学过程的学科\"。",
+      "sentence": "Her research in **biochemistry** focuses on how enzymes catalyze reactions in living cells.",
+      "options": {
+        "option": [
+          {
+            "definition": "生物化学（研究生物体内化学过程的学科）",
+            "iscorrect": true
+          },
+          {
+            "definition": "生物与化学两门学科的组合",
+            "iscorrect": false
+          },
+          {
+            "definition": "生物体内存在的化学物质（如酶、激素等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "生态系统中生物与环境的化学相互作用",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

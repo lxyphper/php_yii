@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tutor",
+      "error_analysis": "学生易因形近词“turtle”（乌龟）或词根“tu”联想到“two”（二）而错误理解“tutor”的含义",
+      "sentence": "My sister got a part-time job as a **tutor** to help high school students with math.",
+      "options": {
+        "option": [
+          {
+            "definition": "导师；家庭教师",
+            "iscorrect": true
+          },
+          {
+            "definition": "乌龟",
+            "iscorrect": false
+          },
+          {
+            "definition": "两个的；双重的",
+            "iscorrect": false
+          },
+          {
+            "definition": "演员；表演者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

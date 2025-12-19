@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to nurture",
+      "error_analysis": "学生易因形近词\"nature\"（自然）误联想为\"自然生长\"，或因词根关联\"nutrient\"（营养）误判为\"提供营养\"，忽略其\"培育情感/能力\"的核心义。",
+      "sentence": "Parents often try to **nurture** a love for reading in their children from a young age.",
+      "options": {
+        "option": [
+          {
+            "definition": "培育；培养（情感、能力等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "自然生长；源于自然",
+            "iscorrect": false
+          },
+          {
+            "definition": "提供营养；喂养",
+            "iscorrect": false
+          },
+          {
+            "definition": "保护；守护",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

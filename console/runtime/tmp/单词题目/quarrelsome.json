@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "quarrelsome",
+      "error_analysis": "学生易因对\"-some\"后缀的错误理解（如认为是\"一些\"）或对\"quarrel\"的字面关联，将\"quarrelsome\"误判为\"有一些争吵的\"或\"与争吵有关的\"。",
+      "sentence": "His **quarrelsome** attitude often led to fights with his classmates.",
+      "options": {
+        "option": [
+          {
+            "definition": "有一些争吵的",
+            "iscorrect": false
+          },
+          {
+            "definition": "与争吵有关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "好争吵的；爱吵架的",
+            "iscorrect": true
+          },
+          {
+            "definition": "容易被争吵影响的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

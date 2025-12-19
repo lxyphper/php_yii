@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to stone",
+      "error_analysis": "学生易因形近词\"stone\"(石头)误判为\"用石头制作/雕刻\"，或因词根字面义猜测为\"扔石头玩\"，忽略\"作为惩罚砸\"的核心义。",
+      "sentence": "In some ancient cultures, people would **stone** those accused of witchcraft as a cruel form of punishment.",
+      "options": {
+        "option": [
+          {
+            "definition": "用石头砸（作为惩罚）",
+            "iscorrect": true
+          },
+          {
+            "definition": "用石头制作（如雕刻物品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "扔石头玩",
+            "iscorrect": false
+          },
+          {
+            "definition": "把…变成石头",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

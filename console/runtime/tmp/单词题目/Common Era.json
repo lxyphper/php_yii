@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Common Era",
+      "error_analysis": "学生易将\"Common Era\"字面直译为\"普通时代\"或\"共同纪元\"，忽略其作为\"公元\"的标准史学含义",
+      "sentence": "The construction of the Great Wall of China began as early as the 7th century BCE, but most of the existing structure was built during the Ming Dynasty (1368–1644 **Common Era**).",
+      "options": {
+        "option": [
+          {
+            "definition": "公元（基督教纪元，通常缩写为CE，对应公元前BCE）",
+            "iscorrect": true
+          },
+          {
+            "definition": "普通时代（常见的、没有特殊意义的时代）",
+            "iscorrect": false
+          },
+          {
+            "definition": "共同纪元（全人类共同使用的纪元体系）",
+            "iscorrect": false
+          },
+          {
+            "definition": "常见错误（经常出现的历史性错误）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

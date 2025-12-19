@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to rest",
+      "error_analysis": "学生易因形近词“test”（测试）的视觉干扰，或误将动词“to rest”理解为名词“剩余”而犯错",
+      "sentence": "After a long day of work, she decided to **rest** for an hour before cooking dinner.",
+      "options": {
+        "option": [
+          {
+            "definition": "休息",
+            "iscorrect": true
+          },
+          {
+            "definition": "测试",
+            "iscorrect": false
+          },
+          {
+            "definition": "剩余",
+            "iscorrect": false
+          },
+          {
+            "definition": "放置",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

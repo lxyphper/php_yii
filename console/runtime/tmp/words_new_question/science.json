@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "science",
+      "error_analysis": "易受形近词\"sense\"(感觉;意义)干扰,或因词根\"sci-\"(知道)过度联想为\"知识;认知\"而非\"科学\"",
+      "sentence": "Many students are interested in **science** because it helps them understand how the world works.",
+      "options": {
+        "option": [
+          {
+            "definition": "科学",
+            "iscorrect": true
+          },
+          {
+            "definition": "感觉；意义",
+            "iscorrect": false
+          },
+          {
+            "definition": "知识；认知",
+            "iscorrect": false
+          },
+          {
+            "definition": "技能；技巧",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

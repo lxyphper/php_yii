@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to comb",
+      "error_analysis": "中国学生易因“comb”与基础词“come”（来）形近，或误将名词“梳子”的动词形式理解为“拿/用梳子”而非“梳理”。",
+      "sentence": "She always **combs** her hair carefully before going to school.",
+      "options": {
+        "option": [
+          {
+            "definition": "梳（头发）",
+            "iscorrect": true
+          },
+          {
+            "definition": "来",
+            "iscorrect": false
+          },
+          {
+            "definition": "拿/使用梳子",
+            "iscorrect": false
+          },
+          {
+            "definition": "清洗（头发）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "common_misspellings": [
+      "termal polution",
+      "sermal polution",
+      "thermal polution",
+      "thermal polluteion",
+      "thermal pollusion"
+    ],
+    "correct_chunks": [
+      "ther",
+      "mal",
+      "poll",
+      "ut",
+      "ion"
+    ],
+    "distractor_chunks": [
+      "ter",
+      "ser",
+      "pol",
+      "pollute",
+      "sion"
+    ]
+  },
+  0
+]

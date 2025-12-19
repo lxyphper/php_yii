@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "aloof",
+      "error_analysis": "学生易因形近词\"aloft\"(在高处)误解为\"在高处的\"，或因与\"alone\"(独自)联想误认为\"独自的\"",
+      "sentence": "Despite being surrounded by friends, Tom remained **aloof**, not smiling or engaging in any small talk.",
+      "options": {
+        "option": [
+          {
+            "definition": "冷漠的；疏远的",
+            "iscorrect": true
+          },
+          {
+            "definition": "在高处的；高耸的",
+            "iscorrect": false
+          },
+          {
+            "definition": "独自的；单独的",
+            "iscorrect": false
+          },
+          {
+            "definition": "友好的；热情的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

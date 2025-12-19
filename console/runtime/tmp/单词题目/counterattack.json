@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "counterattack",
+      "error_analysis": "学生易因词根`counter-`的误解或形近词`counteract`（抵消）的干扰，将`counterattack`误判为“防御/抵消攻击”而非“反击”。",
+      "sentence": "After being pushed back by the enemy's initial assault, the army launched a fierce **counterattack** to regain lost territory.",
+      "options": {
+        "option": [
+          {
+            "definition": "反击（名词/动词，指对敌人攻击的回应性攻击）",
+            "iscorrect": true
+          },
+          {
+            "definition": "防御（抵御对方攻击的行为）",
+            "iscorrect": false
+          },
+          {
+            "definition": "抵消攻击（使攻击效果无效的行动）",
+            "iscorrect": false
+          },
+          {
+            "definition": "联合攻击（多个力量共同进行的攻击）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

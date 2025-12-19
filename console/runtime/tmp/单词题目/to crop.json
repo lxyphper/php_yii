@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to crop",
+      "error_analysis": "学生易因形近词“drop”误判为“掉落”，或因名词“作物”的字面义误判为“种植/收获作物”",
+      "sentence": "The gardener will **crop** the tall hedges next week to make them look neater.",
+      "options": {
+        "option": [
+          {
+            "definition": "修剪；裁剪",
+            "iscorrect": true
+          },
+          {
+            "definition": "掉落；下降",
+            "iscorrect": false
+          },
+          {
+            "definition": "种植作物；收获作物",
+            "iscorrect": false
+          },
+          {
+            "definition": "切碎；剁碎",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

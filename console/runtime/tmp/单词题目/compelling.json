@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "compelling",
+      "error_analysis": "混淆形近词competing（竞争的）及词根compel（强迫）带来的“强迫的”错误理解",
+      "sentence": "The documentary presents a **compelling** case for protecting endangered species, using real stories and scientific data.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人信服的；引人入胜的",
+            "iscorrect": true
+          },
+          {
+            "definition": "竞争的；互相竞争的",
+            "iscorrect": false
+          },
+          {
+            "definition": "强迫的；被迫的",
+            "iscorrect": false
+          },
+          {
+            "definition": "复杂的；难懂的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

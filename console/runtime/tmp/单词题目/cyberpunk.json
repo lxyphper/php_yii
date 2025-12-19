@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cyberpunk",
+      "error_analysis": "学生易因词根\"cyber\"(网络)+\"punk\"(朋克)直译为\"网络朋克(青年亚文化)\"，或混淆\"cyber\"与\"cycle\"误解为\"自行车朋克\"，忽略其作为科幻流派的核心含义",
+      "sentence": "The movie *Blade Runner 2049* is a classic example of **cyberpunk**, featuring a dystopian future with advanced AI and neon-lit cityscapes.",
+      "options": {
+        "option": [
+          {
+            "definition": "网络朋克（指沉迷于网络的朋克青年亚文化）",
+            "iscorrect": false
+          },
+          {
+            "definition": "自行车朋克（喜欢骑自行车的朋克青年）",
+            "iscorrect": false
+          },
+          {
+            "definition": "网络黑客（擅长电脑技术的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "（科幻作品中的）赛博朋克（一种结合高科技与反乌托邦元素的科幻流派）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

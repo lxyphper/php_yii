@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bankruptcy",
+      "error_analysis": "学生易因\"bank\"（银行）形近词（如\"banker\"）或\"rupt\"（破裂）词根误导，将\"bankruptcy\"错误理解为\"银行家\"或\"银行破裂\"。",
+      "sentence": "After years of poor management, the small company finally filed for **bankruptcy** and had to close all its stores.",
+      "options": {
+        "option": [
+          {
+            "definition": "银行家（从事银行业的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "破产（个人或公司无法偿还债务的法律状态）",
+            "iscorrect": true
+          },
+          {
+            "definition": "银行破裂（银行物理结构的损坏）",
+            "iscorrect": false
+          },
+          {
+            "definition": "银行业（银行的业务或行业）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "brittle",
+      "error_analysis": "中国学生易因形近词“bitter”（苦的）或“little”（小的）误将“brittle”理解为“苦的”或“小的”",
+      "sentence": "The old cookie had been left out for days, so it became **brittle** and broke into pieces when I touched it.",
+      "options": {
+        "option": [
+          {
+            "definition": "易碎的；脆的",
+            "iscorrect": true
+          },
+          {
+            "definition": "苦的",
+            "iscorrect": false
+          },
+          {
+            "definition": "小的",
+            "iscorrect": false
+          },
+          {
+            "definition": "杰出的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

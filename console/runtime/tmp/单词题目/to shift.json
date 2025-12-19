@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to shift",
+      "error_analysis": "中国学生易因形近词\"shirt\"（衬衫）产生误解，或误将\"shift\"核心含义\"转换；转变\"简化为泛义的\"移动\"。",
+      "sentence": "To adapt to the changing market, the company decided to **shift** its focus from offline sales to online platforms.",
+      "options": {
+        "option": [
+          {
+            "definition": "转换；转变（位置、方向或重点的改变）",
+            "iscorrect": true
+          },
+          {
+            "definition": "衬衫（衣物名称）",
+            "iscorrect": false
+          },
+          {
+            "definition": "移动（从一处到另一处的位置变化）",
+            "iscorrect": false
+          },
+          {
+            "definition": "射击（用枪或箭等发射）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

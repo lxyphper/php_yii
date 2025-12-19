@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "exhausted",
+      "error_analysis": "学生易混淆形近词‘excited’（兴奋的），或因‘exhaust’词根错误联想为‘耗尽的’而非‘疲惫的’",
+      "sentence": "After running a marathon, Sarah felt so **exhausted** that she could barely stand.",
+      "options": {
+        "option": [
+          {
+            "definition": "疲惫的",
+            "iscorrect": true
+          },
+          {
+            "definition": "兴奋的",
+            "iscorrect": false
+          },
+          {
+            "definition": "耗尽的",
+            "iscorrect": false
+          },
+          {
+            "definition": "夸张的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

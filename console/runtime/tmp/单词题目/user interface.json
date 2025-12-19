@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "user interface",
+      "error_analysis": "学生易混淆形近词\"interference\"(干扰)，或误将\"interface\"拆分为\"inter+face\"理解为\"中间的脸\"或\"用户互动\"",
+      "sentence": "Before downloading the app, she checked if its **user interface** was easy to navigate for beginners.",
+      "options": {
+        "option": [
+          {
+            "definition": "（软件或设备的）用户界面",
+            "iscorrect": true
+          },
+          {
+            "definition": "用户之间的干扰",
+            "iscorrect": false
+          },
+          {
+            "definition": "用户互动过程",
+            "iscorrect": false
+          },
+          {
+            "definition": "用户面部识别",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

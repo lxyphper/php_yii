@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "in other words",
+      "error_analysis": "学生易将其字面直译为“用其他单词”，忽略其“换句话说”的引申义",
+      "sentence": "She said she was tired; **in other words**, she didn’t want to go out.",
+      "options": {
+        "option": [
+          {
+            "definition": "换句话说",
+            "iscorrect": true
+          },
+          {
+            "definition": "用其他单词",
+            "iscorrect": false
+          },
+          {
+            "definition": "总之",
+            "iscorrect": false
+          },
+          {
+            "definition": "在其他情况下",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

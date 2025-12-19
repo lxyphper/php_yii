@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Sisyphean",
+      "error_analysis": "学生易因形近词\"sis\"（姐妹）猜测为\"亲密的\"，或因词根联想\"sys-\"（系统）误判为\"系统的\"",
+      "sentence": "After months of trying to fix the old computer, he realized the task was **Sisyphean**—every time he got it working, a new problem arose.",
+      "options": {
+        "option": [
+          {
+            "definition": "姐妹般的；亲密的",
+            "iscorrect": false
+          },
+          {
+            "definition": "系统的；有条理的",
+            "iscorrect": false
+          },
+          {
+            "definition": "徒劳无功的；永无止境的苦役",
+            "iscorrect": true
+          },
+          {
+            "definition": "困难的；具有挑战性的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

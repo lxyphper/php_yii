@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unpretty",
+      "error_analysis": "学生易因形近词（如unhappy）或近义词（如unpleasant）干扰，将“unpretty”误理解为“不开心的”或“令人不快的”",
+      "sentence": "The old house had peeling paint and broken windows, making it look quite **unpretty**.",
+      "options": {
+        "option": [
+          {
+            "definition": "不开心的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人不快的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不整洁的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不漂亮的；难看的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

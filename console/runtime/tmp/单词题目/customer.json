@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "customer",
+      "error_analysis": "学生易因形近词“custom”（习俗）及词根“custom”的字面误导，将“customer”误解为“遵循习俗的人”或“有习惯的人”。",
+      "sentence": "The shopkeeper always greets every **customer** with a smile to make them feel welcome in his small store.",
+      "options": {
+        "option": [
+          {
+            "definition": "顾客",
+            "iscorrect": true
+          },
+          {
+            "definition": "遵循习俗的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "有固定习惯的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "海关官员",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

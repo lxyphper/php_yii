@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "open-minded",
+      "error_analysis": "学生易因形近词\"open-hearted\"混淆为\"真诚的\"，或因词根直译误解为\"打开思想的\"",
+      "sentence": "Sarah is very **open-minded**; she always listens to other people's opinions even if they are different from hers.",
+      "options": {
+        "option": [
+          {
+            "definition": "真诚的，热心的",
+            "iscorrect": false
+          },
+          {
+            "definition": "打开思想的",
+            "iscorrect": false
+          },
+          {
+            "definition": "思想开放的，愿意接受新观点的",
+            "iscorrect": true
+          },
+          {
+            "definition": "心胸开阔的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

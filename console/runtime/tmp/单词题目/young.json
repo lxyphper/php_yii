@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "young",
+      "error_analysis": "学生易因形近词“youth”（青年，名词）或“youths”（青年们，名词复数）将“young”误理解为名词“青年”或“青年们”，或因拼写相似“your”（你的，代词）误理解为“你的”",
+      "sentence": "My **young** sister likes to play with dolls every afternoon.",
+      "options": {
+        "option": [
+          {
+            "definition": "年轻的（形容词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "青年（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "你的（代词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "青年们（名词复数）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

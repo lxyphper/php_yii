@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "kitchen hood",
+      "error_analysis": "学生易将“hood”的常见义“风帽”代入，误以为“kitchen hood”是“厨房用的帽子”，忽略其“排油烟机”的核心义。",
+      "sentence": "After cooking fried chicken, she turned on the **kitchen hood** to get rid of the smoke.",
+      "options": {
+        "option": [
+          {
+            "definition": "厨房排油烟机（用于排出烹饪烟雾的设备）",
+            "iscorrect": true
+          },
+          {
+            "definition": "厨房用的帽子（如厨师戴的防风帽）",
+            "iscorrect": false
+          },
+          {
+            "definition": "厨房的装饰罩（如橱柜上方的遮尘罩）",
+            "iscorrect": false
+          },
+          {
+            "definition": "厨房的连帽衫（带帽子的厨房工作外套）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

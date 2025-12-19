@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "statute",
+      "error_analysis": "易混淆形近词\"statue\"(雕像)及词根\"stat-\"误导的\"站立物体\"理解",
+      "sentence": "The new **statute** passed by the parliament will enforce stricter rules on air pollution from next month.",
+      "options": {
+        "option": [
+          {
+            "definition": "法令；法规",
+            "iscorrect": true
+          },
+          {
+            "definition": "雕像；塑像",
+            "iscorrect": false
+          },
+          {
+            "definition": "状态；状况",
+            "iscorrect": false
+          },
+          {
+            "definition": "统计数据；统计资料",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

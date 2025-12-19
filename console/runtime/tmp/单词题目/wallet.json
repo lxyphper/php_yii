@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wallet",
+      "error_analysis": "中国学生易因形近词“warrant”（许可证）的拼写干扰，或误将“wallet”与“wall”（墙）关联而误解词义",
+      "sentence": "He reached into his pocket and pulled out a **wallet** to pay for the coffee.",
+      "options": {
+        "option": [
+          {
+            "definition": "钱包（男士常用的装钱和卡片的小袋子）",
+            "iscorrect": true
+          },
+          {
+            "definition": "许可证；授权令",
+            "iscorrect": false
+          },
+          {
+            "definition": "墙的小部件；墙面装饰",
+            "iscorrect": false
+          },
+          {
+            "definition": "女士手提包（通常指女士用的钱包）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

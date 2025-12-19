@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "resistance",
+      "error_analysis": "易受形近词assistance（帮助）干扰，或因词根re-（再）+sist（站）过度推导为“坚持”",
+      "sentence": "The public’s **resistance** to the new tax law led the government to revise it.",
+      "options": {
+        "option": [
+          {
+            "definition": "抵抗；反对",
+            "iscorrect": true
+          },
+          {
+            "definition": "帮助；协助",
+            "iscorrect": false
+          },
+          {
+            "definition": "坚持；持续",
+            "iscorrect": false
+          },
+          {
+            "definition": "距离；间隔",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

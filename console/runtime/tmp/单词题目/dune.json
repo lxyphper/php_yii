@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dune",
+      "error_analysis": "学生易将'dune'与形近词'June'（六月）或'done'（完成）混淆，导致错误理解其含义",
+      "sentence": "The children enjoyed playing on the **dune** near the beach, building castles with sand.",
+      "options": {
+        "option": [
+          {
+            "definition": "沙丘",
+            "iscorrect": true
+          },
+          {
+            "definition": "六月",
+            "iscorrect": false
+          },
+          {
+            "definition": "完成（过去分词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "暗褐色的物体",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

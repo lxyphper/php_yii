@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "strong",
+      "error_analysis": "易混淆形近词\"strange\"(奇怪的)，或忽略\"浓的\"等引申义而误选\"强壮的\"",
+      "sentence": "I prefer **strong** coffee in the morning because it keeps me awake.",
+      "options": {
+        "option": [
+          {
+            "definition": "浓的",
+            "iscorrect": true
+          },
+          {
+            "definition": "奇怪的",
+            "iscorrect": false
+          },
+          {
+            "definition": "强壮的",
+            "iscorrect": false
+          },
+          {
+            "definition": "甜的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

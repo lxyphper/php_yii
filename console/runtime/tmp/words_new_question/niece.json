@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "niece",
+      "error_analysis": "易与形近词“nephew”（侄子/外甥）混淆，或因与“nice”形近误判为“美好的人”",
+      "sentence": "My sister just had a baby girl, so now I have a cute **niece** to play with every weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "侄子；外甥",
+            "iscorrect": false
+          },
+          {
+            "definition": "美好的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "表妹；表弟",
+            "iscorrect": false
+          },
+          {
+            "definition": "侄女；外甥女",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

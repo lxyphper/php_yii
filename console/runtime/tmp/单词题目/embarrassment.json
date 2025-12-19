@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "embarrassment",
+      "error_analysis": "学生易因形近词“embark”（开始）或词根“barrass”（联想为障碍）将“embarrassment”误判为“开始/启动”或“阻碍/障碍”",
+      "sentence": "After forgetting his lines in the middle of the speech, Tom couldn’t hide his **embarrassment** and blushed deeply.",
+      "options": {
+        "option": [
+          {
+            "definition": "尴尬；难堪",
+            "iscorrect": true
+          },
+          {
+            "definition": "开始；启动",
+            "iscorrect": false
+          },
+          {
+            "definition": "阻碍；障碍",
+            "iscorrect": false
+          },
+          {
+            "definition": "负担；麻烦",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "remote control",
+      "error_analysis": "学生易因\"remote\"与\"remove\"形近误解为\"移除控制\"，或因字面直译忽略\"遥控器\"这一最常用具体含义",
+      "sentence": "Can you pass me the **remote control**? I want to switch to the news channel.",
+      "options": {
+        "option": [
+          {
+            "definition": "遥控器",
+            "iscorrect": true
+          },
+          {
+            "definition": "移除控制器",
+            "iscorrect": false
+          },
+          {
+            "definition": "远程控制（抽象方式）",
+            "iscorrect": false
+          },
+          {
+            "definition": "遥远的控制中心",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

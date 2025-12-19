@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "vegan",
+      "error_analysis": "学生易将\"vegan\"误判为\"允许食用蛋奶的素食者\"（形近词\"vegetarian\"混淆）或\"蔬菜相关从业者\"（词根\"veg\"误导）",
+      "sentence": "My sister has been a **vegan** for five years, so she never eats eggs, milk, or any meat products.",
+      "options": {
+        "option": [
+          {
+            "definition": "素食者（允许食用蛋奶等动物产品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "蔬菜种植者或销售商",
+            "iscorrect": false
+          },
+          {
+            "definition": "纯素食者（不食用任何动物产品，如肉类、蛋奶等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "动物保护组织成员",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "victim",
+      "error_analysis": "学生易因形近词“victory”（胜利）的干扰，将“victim”误解为“胜利者”",
+      "sentence": "After the car accident, the **victim** was quickly taken to the hospital by ambulance.",
+      "options": {
+        "option": [
+          {
+            "definition": "受害者；牺牲品",
+            "iscorrect": true
+          },
+          {
+            "definition": "胜利者；获胜者",
+            "iscorrect": false
+          },
+          {
+            "definition": "征服者；占领者",
+            "iscorrect": false
+          },
+          {
+            "definition": "志愿者；自愿者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

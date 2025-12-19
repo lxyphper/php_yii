@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pickpocket",
+      "error_analysis": "学生易因“pick”（捡）和“pocket”（口袋）的字面组合，错误理解为“捡口袋的人”而非“扒手”",
+      "sentence": "While waiting for the bus, she felt someone’s hand in her bag and realized a **pickpocket** was trying to steal her wallet.",
+      "options": {
+        "option": [
+          {
+            "definition": "扒手",
+            "iscorrect": true
+          },
+          {
+            "definition": "捡口袋的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "皮卡货车司机",
+            "iscorrect": false
+          },
+          {
+            "definition": "口袋设计师",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

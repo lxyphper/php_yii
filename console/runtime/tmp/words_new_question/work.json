@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "work",
+      "error_analysis": "易混淆形近词\"word\"(单词)的发音与拼写，或误将动词\"work\"局限于\"工作\"的名词含义而忽略\"起作用\"的核心动词义",
+      "sentence": "The new medicine started to **work** within an hour, reducing her pain significantly.",
+      "options": {
+        "option": [
+          {
+            "definition": "起作用；有效（动词，指产生预期效果）",
+            "iscorrect": true
+          },
+          {
+            "definition": "单词（指语言中的基本表意单位）",
+            "iscorrect": false
+          },
+          {
+            "definition": "工作（名词，指职业或日常任务）",
+            "iscorrect": false
+          },
+          {
+            "definition": "著作；作品（指文学或艺术创作）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

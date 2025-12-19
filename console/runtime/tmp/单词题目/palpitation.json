@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "palpitation",
+      "error_analysis": "易因形近词“participation”（参与）或词根“palp-”与“palm”（手掌）的联想，误判为“参与”或“手掌动作”。",
+      "sentence": "After running a mile, she felt a sudden **palpitation** in her chest and had to stop to catch her breath.",
+      "options": {
+        "option": [
+          {
+            "definition": "心悸；心跳加速",
+            "iscorrect": true
+          },
+          {
+            "definition": "参与；参加",
+            "iscorrect": false
+          },
+          {
+            "definition": "手掌的触摸动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "呼吸急促",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

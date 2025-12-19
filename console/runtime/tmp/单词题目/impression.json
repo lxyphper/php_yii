@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "impression",
+      "error_analysis": "易因形近词expression（表达）混淆，或因词根press误判为“压力”",
+      "sentence": "The first time I met her, she gave me a very positive **impression** with her warm smile and kind words.",
+      "options": {
+        "option": [
+          {
+            "definition": "印象；感觉",
+            "iscorrect": true
+          },
+          {
+            "definition": "表达；表情",
+            "iscorrect": false
+          },
+          {
+            "definition": "压力；压迫",
+            "iscorrect": false
+          },
+          {
+            "definition": "改进；提高",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to sign",
+      "error_analysis": "易因形近词\"sing\"（唱歌）或\"sign\"名词义（标志）误导，误判为\"唱歌\"或\"做标志\"",
+      "sentence": "Please **sign** your name at the bottom of the contract before you leave.",
+      "options": {
+        "option": [
+          {
+            "definition": "唱歌",
+            "iscorrect": false
+          },
+          {
+            "definition": "签名；签署",
+            "iscorrect": true
+          },
+          {
+            "definition": "做标志；标记",
+            "iscorrect": false
+          },
+          {
+            "definition": "发信号",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

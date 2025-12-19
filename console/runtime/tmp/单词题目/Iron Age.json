@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Iron Age",
+      "error_analysis": "学生易因字面直译将‘Iron Age’误解为‘铁的年龄’（指铁制品的使用年限），或因形近词将‘Iron’与‘irony’混淆为‘讽刺时代’。",
+      "sentence": "Archaeologists found iron weapons and tools at the ruins, which are estimated to be from the **Iron Age**.",
+      "options": {
+        "option": [
+          {
+            "definition": "铁器时代（历史上以铁制工具使用为特征的时期）",
+            "iscorrect": true
+          },
+          {
+            "definition": "铁的年龄（指铁制品的使用年限）",
+            "iscorrect": false
+          },
+          {
+            "definition": "讽刺时代（因‘Iron’与‘irony’形近产生的误解）",
+            "iscorrect": false
+          },
+          {
+            "definition": "钢铁时代（将‘Iron’误当作‘steel’的错误联想）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

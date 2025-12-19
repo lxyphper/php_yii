@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "belt",
+      "error_analysis": "中国学生易因“belt”与“bolt”（螺栓）、“bell”（铃）的形近拼写混淆，或误将“腰带”的核心义项与“地带”的次要义项混淆",
+      "sentence": "Before starting the hike, he made sure his **belt** was securely fastened.",
+      "options": {
+        "option": [
+          {
+            "definition": "腰带",
+            "iscorrect": true
+          },
+          {
+            "definition": "螺栓",
+            "iscorrect": false
+          },
+          {
+            "definition": "铃",
+            "iscorrect": false
+          },
+          {
+            "definition": "地带",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "amusing",
+      "error_analysis": "学生易因形近词\"amazing\"（令人惊讶的）产生混淆，或误将\"amusing\"理解为\"被娱乐的\"（混淆主动与被动含义）",
+      "sentence": "The comedian told a(n) **amusing** story that made everyone in the audience laugh out loud.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人发笑的；有趣的",
+            "iscorrect": true
+          },
+          {
+            "definition": "令人惊讶的",
+            "iscorrect": false
+          },
+          {
+            "definition": "被娱乐的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人厌烦的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

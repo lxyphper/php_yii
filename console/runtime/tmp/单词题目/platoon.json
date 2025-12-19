@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "platoon",
+      "error_analysis": "易混淆形近词plenty（大量），或因词根猜测误判为与“平”相关的事物（如平板车）",
+      "sentence": "During the military drill, the **platoon** followed their sergeant in a formation through the muddy field.",
+      "options": {
+        "option": [
+          {
+            "definition": "（军队的）排；小队",
+            "iscorrect": true
+          },
+          {
+            "definition": "大量；充足",
+            "iscorrect": false
+          },
+          {
+            "definition": "平板车；拖车",
+            "iscorrect": false
+          },
+          {
+            "definition": "绘画；素描",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

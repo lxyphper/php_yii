@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "logical",
+      "error_analysis": "中国学生易因形近词“local”（当地的）或词根“log”（日志）误导，将“logical”错误理解为“当地的”或“与日志相关的”",
+      "sentence": "It's **logical** to start with the easiest problem before moving to the harder ones.",
+      "options": {
+        "option": [
+          {
+            "definition": "逻辑的；合理的",
+            "iscorrect": true
+          },
+          {
+            "definition": "当地的",
+            "iscorrect": false
+          },
+          {
+            "definition": "与日志相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "聪明的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

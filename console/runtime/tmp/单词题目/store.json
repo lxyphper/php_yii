@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "store",
+      "error_analysis": "学生易因形近词“story”（故事）的干扰，或误将“store”（商店）理解为“储存”（动词义）。",
+      "sentence": "I need to go to the **store** to buy some milk for breakfast.",
+      "options": {
+        "option": [
+          {
+            "definition": "故事",
+            "iscorrect": false
+          },
+          {
+            "definition": "商店",
+            "iscorrect": true
+          },
+          {
+            "definition": "储存",
+            "iscorrect": false
+          },
+          {
+            "definition": "风暴",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

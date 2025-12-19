@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "just",
+      "error_analysis": "学生易因形近词“justice”（正义）或词根“jus”（法律）的联想，将副词“just”（刚刚/正好）误理解为形容词“正义的”或动词“证明…正当”。",
+      "sentence": "He **just** caught the last bus to the airport.",
+      "options": {
+        "option": [
+          {
+            "definition": "正义的；公平的",
+            "iscorrect": false
+          },
+          {
+            "definition": "证明…正当",
+            "iscorrect": false
+          },
+          {
+            "definition": "仅仅；只是",
+            "iscorrect": false
+          },
+          {
+            "definition": "刚刚；正好",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

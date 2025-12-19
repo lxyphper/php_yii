@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "collaboration",
+      "error_analysis": "易混淆形近词“collocation”（搭配），或误将词根“labor”直译为“集体劳动”而非“合作”。",
+      "sentence": "The success of the project was due to the close **collaboration** between the two research teams.",
+      "options": {
+        "option": [
+          {
+            "definition": "合作",
+            "iscorrect": true
+          },
+          {
+            "definition": "搭配（如词的组合）",
+            "iscorrect": false
+          },
+          {
+            "definition": "集体劳动",
+            "iscorrect": false
+          },
+          {
+            "definition": "独立完成",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

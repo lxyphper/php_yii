@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "fonenumber",
+      "phonenumber",
+      "fone number",
+      "phone nember",
+      "phone numbre"
+    ],
+    "correct_chunks": [
+      "ph",
+      "one ",
+      "number"
+    ],
+    "distractor_chunks": [
+      "fone",
+      "nember",
+      "fonen",
+      "phonen"
+    ]
+  },
+  0
+]

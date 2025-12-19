@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "delighted",
+      "error_analysis": "学生易因形近词“delayed”（延迟的）或“delivered”（交付的）产生误解，将“delighted”错误理解为“延迟的”或“交付的”",
+      "sentence": "When she received the birthday gift from her friend, she was **delighted** and jumped up with joy.",
+      "options": {
+        "option": [
+          {
+            "definition": "高兴的；愉快的",
+            "iscorrect": true
+          },
+          {
+            "definition": "延迟的",
+            "iscorrect": false
+          },
+          {
+            "definition": "交付的",
+            "iscorrect": false
+          },
+          {
+            "definition": "脆弱的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

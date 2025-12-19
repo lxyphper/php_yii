@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tissue",
+      "error_analysis": "易与形近词“issue”（问题）混淆，或误将其等同于“发行物”（受“issue”发行义影响）",
+      "sentence": "After sneezing repeatedly, Sarah turned to her friend and said, \"Could you please pass me a **tissue**? My nose won't stop running.\"",
+      "options": {
+        "option": [
+          {
+            "definition": "纸巾；面巾纸",
+            "iscorrect": true
+          },
+          {
+            "definition": "问题；议题",
+            "iscorrect": false
+          },
+          {
+            "definition": "发行物；出版物",
+            "iscorrect": false
+          },
+          {
+            "definition": "薄织物；纱巾",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

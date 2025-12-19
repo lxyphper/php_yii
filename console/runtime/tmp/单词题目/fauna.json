@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fauna",
+      "error_analysis": "学生易因形近词“fawn”（小鹿）将“fauna”误判为动物个体，或混淆其与“flora”（植物群）的含义。",
+      "sentence": "The Amazon rainforest is home to a diverse **fauna**, including jaguars, monkeys, and countless bird species.",
+      "options": {
+        "option": [
+          {
+            "definition": "（某地区的）动物群",
+            "iscorrect": true
+          },
+          {
+            "definition": "小鹿",
+            "iscorrect": false
+          },
+          {
+            "definition": "（某地区的）植物群",
+            "iscorrect": false
+          },
+          {
+            "definition": "动物的栖息地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

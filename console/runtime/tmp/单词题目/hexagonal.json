@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hexagonal",
+      "error_analysis": "学生易因记错\"hexa-\"（六）的前缀含义，将\"hexagonal\"误判为\"五边形的\"或\"七边形的\"",
+      "sentence": "The table in the café has a **hexagonal** top, which fits perfectly in the corner.",
+      "options": {
+        "option": [
+          {
+            "definition": "五边形的",
+            "iscorrect": false
+          },
+          {
+            "definition": "六边形的",
+            "iscorrect": true
+          },
+          {
+            "definition": "七边形的",
+            "iscorrect": false
+          },
+          {
+            "definition": "圆形的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

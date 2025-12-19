@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "homicide",
+      "error_analysis": "学生可能因“homi-”与“home”（家）形近，或对“homi-”（人）词根不熟悉，将“homicide”误解为“家庭谋杀”或“自杀”。",
+      "sentence": "The court found him guilty of **homicide** for killing his neighbor.",
+      "options": {
+        "option": [
+          {
+            "definition": "家庭谋杀",
+            "iscorrect": false
+          },
+          {
+            "definition": "自杀",
+            "iscorrect": false
+          },
+          {
+            "definition": "杀人（行为）； homicide罪",
+            "iscorrect": true
+          },
+          {
+            "definition": "杀动物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

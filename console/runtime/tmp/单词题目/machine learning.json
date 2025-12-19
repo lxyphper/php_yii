@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "machine learning",
+      "error_analysis": "学生易将\"machine learning\"字面拆解为\"机器的学习\"，忽略其作为\"人工智能技术\"的核心定义",
+      "sentence": "Many companies use **machine learning** algorithms to analyze customer data and predict future buying trends.",
+      "options": {
+        "option": [
+          {
+            "definition": "机器学习（一种让计算机通过数据自主学习并改进性能的人工智能技术）",
+            "iscorrect": true
+          },
+          {
+            "definition": "机器的学习（指机器像人类一样主动获取知识和技能）",
+            "iscorrect": false
+          },
+          {
+            "definition": "机械学习（通过重复训练掌握操作机械的技能）",
+            "iscorrect": false
+          },
+          {
+            "definition": "设备调试（调整机器使其正常运行的过程）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to dissent",
+      "error_analysis": "中国学生易因形近词\"descent\"（下降）或\"decent\"（体面）的干扰，将\"dissent\"误判为\"下降\"或\"体面\"。",
+      "sentence": "When the committee voted on the new policy, three members **dissented**, stating their concerns about its impact on small businesses.",
+      "options": {
+        "option": [
+          {
+            "definition": "下降；血统",
+            "iscorrect": false
+          },
+          {
+            "definition": "体面的；合适的",
+            "iscorrect": false
+          },
+          {
+            "definition": "发送；派遣",
+            "iscorrect": false
+          },
+          {
+            "definition": "不同意；持异议",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

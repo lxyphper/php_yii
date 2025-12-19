@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "island",
+      "error_analysis": "学生易因形近词“isolate”（隔离）产生联想，或拆分“is+land”误理解为“陆地”。",
+      "sentence": "Hawaii is a famous **island** chain in the Pacific Ocean, known for its beautiful beaches and volcanoes.",
+      "options": {
+        "option": [
+          {
+            "definition": "岛屿",
+            "iscorrect": true
+          },
+          {
+            "definition": "隔离",
+            "iscorrect": false
+          },
+          {
+            "definition": "陆地",
+            "iscorrect": false
+          },
+          {
+            "definition": "洲",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

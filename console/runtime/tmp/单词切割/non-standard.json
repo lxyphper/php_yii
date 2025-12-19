@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "non-stanard",
+      "non-standerd",
+      "non-stendard",
+      "non-standart",
+      "un-standard"
+    ],
+    "correct_chunks": [
+      "non-",
+      "stan",
+      "dard"
+    ],
+    "distractor_chunks": [
+      "ard",
+      "derd",
+      "sten",
+      "dart",
+      "un-"
+    ]
+  },
+  0
+]

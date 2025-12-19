@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "blak hole",
+      "bleck hole",
+      "black hol",
+      "black holl",
+      "black houl"
+    ],
+    "correct_chunks": [
+      "bl",
+      "ack",
+      "h",
+      "ole"
+    ],
+    "distractor_chunks": [
+      "lak",
+      "leck",
+      "hol",
+      "oll",
+      "oul"
+    ]
+  },
+  0
+]

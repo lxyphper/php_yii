@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to rebuke",
+      "error_analysis": "学生易因形近词\"rebuild\"（重建）及\"re-\"前缀误导，误将\"to rebuke\"理解为\"重建\"或\"恢复\"。",
+      "sentence": "The teacher had to **rebuke** the student for talking loudly in class.",
+      "options": {
+        "option": [
+          {
+            "definition": "指责，训斥",
+            "iscorrect": true
+          },
+          {
+            "definition": "重建（建筑物等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "恢复（声誉或状态）",
+            "iscorrect": false
+          },
+          {
+            "definition": "回复（信件或问题）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

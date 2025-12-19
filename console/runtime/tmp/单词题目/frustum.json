@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "frustum",
+      "error_analysis": "学生易将形近词\"frustrate\"(使沮丧)的名词形式联想至\"frustum\"，误判为\"沮丧情绪\"或\"挫折感\"",
+      "sentence": "The architect explained how the pyramid’s top was removed to form a **frustum**, which now serves as the base for the monument’s spire.",
+      "options": {
+        "option": [
+          {
+            "definition": "（几何中的）截头体，平截头体",
+            "iscorrect": true
+          },
+          {
+            "definition": "沮丧情绪；挫折感",
+            "iscorrect": false
+          },
+          {
+            "definition": "碎片；碎块",
+            "iscorrect": false
+          },
+          {
+            "definition": "（植物的）花萼；花托",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

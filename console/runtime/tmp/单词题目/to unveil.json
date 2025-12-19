@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to unveil",
+      "error_analysis": "学生易因“un-”+“veil”（面纱）的词根字面联想误判为“揭开面纱”，或因形近词“avail”（利用）的干扰误记词义。",
+      "sentence": "The tech company will **unveil** its latest smartphone at the conference next week.",
+      "options": {
+        "option": [
+          {
+            "definition": "首次公开；展示（如新产品、计划等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "揭开（某物的）面纱",
+            "iscorrect": false
+          },
+          {
+            "definition": "利用；使有用",
+            "iscorrect": false
+          },
+          {
+            "definition": "隐藏；掩盖",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

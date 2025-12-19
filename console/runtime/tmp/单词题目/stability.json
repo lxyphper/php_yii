@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stability",
+      "error_analysis": "学生易因形近词\"ability\"（能力）误将\"stability\"理解为\"能力\"，或因词根\"st-\"（站立）过度推导为\"站立的状态\"。",
+      "sentence": "The government’s main goal is to maintain economic **stability** to prevent sudden changes in prices.",
+      "options": {
+        "option": [
+          {
+            "definition": "稳定性；稳固性",
+            "iscorrect": true
+          },
+          {
+            "definition": "能力；才能",
+            "iscorrect": false
+          },
+          {
+            "definition": "站立的状态；站姿",
+            "iscorrect": false
+          },
+          {
+            "definition": "灵活性；适应性",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

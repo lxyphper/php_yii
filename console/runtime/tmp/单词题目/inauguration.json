@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "inauguration",
+      "error_analysis": "学生易因词根\"aug\"（联想\"augment增加\"）或形近词（如\"introduction介绍\"）误将其理解为\"增加仪式\"或\"介绍典礼\"",
+      "sentence": "The president's **inauguration** will be held at the Capitol next month, with thousands of supporters gathering to witness the event.",
+      "options": {
+        "option": [
+          {
+            "definition": "就职典礼；开幕式",
+            "iscorrect": true
+          },
+          {
+            "definition": "介绍仪式；入门典礼",
+            "iscorrect": false
+          },
+          {
+            "definition": "增加/扩张的仪式",
+            "iscorrect": false
+          },
+          {
+            "definition": "年度总结会；汇报会议",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

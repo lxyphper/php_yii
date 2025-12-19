@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "folkways",
+      "error_analysis": "学生易将\"folkways\"拆分为\"folk(民间的)+ways(方式)\"，误译为\"民间的方法/途径\"，或与形近词\"highways(高速公路)\"混淆",
+      "sentence": "The village still preserves its ancient **folkways**, such as celebrating the harvest with a traditional dance.",
+      "options": {
+        "option": [
+          {
+            "definition": "民俗；民间习俗",
+            "iscorrect": true
+          },
+          {
+            "definition": "民间的方法或途径",
+            "iscorrect": false
+          },
+          {
+            "definition": "高速公路",
+            "iscorrect": false
+          },
+          {
+            "definition": "民间故事或传说",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

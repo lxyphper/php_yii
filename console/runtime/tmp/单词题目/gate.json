@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gate",
+      "error_analysis": "易与形近词game（游戏）、gave（给予）混淆，导致误选错误含义",
+      "sentence": "Please close the **gate** behind you when you leave the garden.",
+      "options": {
+        "option": [
+          {
+            "definition": "门",
+            "iscorrect": true
+          },
+          {
+            "definition": "游戏",
+            "iscorrect": false
+          },
+          {
+            "definition": "给予",
+            "iscorrect": false
+          },
+          {
+            "definition": "获取",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

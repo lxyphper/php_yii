@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "green manure",
+      "error_analysis": "学生易因\"green（绿色的）+ manure（肥料）\"字面误导，将其误解为\"绿色的化学肥料\"",
+      "sentence": "Farmers often plow under clover or alfalfa as **green manure** to improve soil fertility.",
+      "options": {
+        "option": [
+          {
+            "definition": "绿色的化学肥料",
+            "iscorrect": false
+          },
+          {
+            "definition": "新鲜的动物粪便肥料",
+            "iscorrect": false
+          },
+          {
+            "definition": "绿肥（用作肥料的绿色植物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "绿色农业的肥料技术",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

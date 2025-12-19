@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "deep",
+      "error_analysis": "中国学生易将“deep”与形近词“dip”（蘸）混淆，或误将其抽象语境中的“深厚”引申义直译为物理层面的“深”。",
+      "sentence": "The river is too **deep** for small children to wade across.",
+      "options": {
+        "option": [
+          {
+            "definition": "深的（指水位、洞穴等物理深度）",
+            "iscorrect": true
+          },
+          {
+            "definition": "蘸（将物体浸入液体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "亲爱的（用于称呼或表达喜爱）",
+            "iscorrect": false
+          },
+          {
+            "definition": "行为；事迹（指做过的事）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

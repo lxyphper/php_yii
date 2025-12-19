@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to owe",
+      "error_analysis": "学生易因形近词“own”（拥有）的干扰，将“owe”误理解为“拥有”",
+      "sentence": "After borrowing $20 from her friend, Sarah now **owes** her $20.",
+      "options": {
+        "option": [
+          {
+            "definition": "欠（钱、人情等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "拥有（某物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "给予（某物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "由于；归因于",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

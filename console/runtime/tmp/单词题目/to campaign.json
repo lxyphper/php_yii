@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to campaign",
+      "error_analysis": "学生易因形近词“camp”（营地）误将“to campaign”理解为“露营”，或因与“champion”（冠军）混淆认为是“夺冠”。",
+      "sentence": "During the election season, many politicians **campaign** across the country to gain support from voters.",
+      "options": {
+        "option": [
+          {
+            "definition": "发起（竞选/宣传）运动；参加竞选",
+            "iscorrect": true
+          },
+          {
+            "definition": "露营；扎营",
+            "iscorrect": false
+          },
+          {
+            "definition": "成为冠军；夺冠",
+            "iscorrect": false
+          },
+          {
+            "definition": "战斗；作战",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

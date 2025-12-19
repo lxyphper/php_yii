@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "grandiose",
+      "error_analysis": "学生易因形近词“grand”（宏大的）忽略“grandiose”的贬义（浮夸、不切实际），或因词根推导误判为单纯的“宏大”",
+      "sentence": "His plan to build a skyscraper in a small village with no funding was deemed **grandiose** by the local council.",
+      "options": {
+        "option": [
+          {
+            "definition": "宏大的；壮丽的",
+            "iscorrect": false
+          },
+          {
+            "definition": "浮夸的；不切实际的宏大的",
+            "iscorrect": true
+          },
+          {
+            "definition": "非常宏大的",
+            "iscorrect": false
+          },
+          {
+            "definition": "微小的；不起眼的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

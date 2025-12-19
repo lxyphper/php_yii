@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to blend",
+      "error_analysis": "学生易因形近词\"blind\"(失明)或\"bend\"(弯曲)的干扰，将\"blend\"误判为\"失明\"或\"弯曲\"",
+      "sentence": "To make the soup tastier, you should **blend** the vegetables with some broth.",
+      "options": {
+        "option": [
+          {
+            "definition": "混合",
+            "iscorrect": true
+          },
+          {
+            "definition": "失明",
+            "iscorrect": false
+          },
+          {
+            "definition": "弯曲",
+            "iscorrect": false
+          },
+          {
+            "definition": "借出",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

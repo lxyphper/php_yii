@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "watermelon",
+      "error_analysis": "将“watermelon”通过词根拆分直译为“水瓜”，而非正确的“西瓜”",
+      "sentence": "On a hot summer day, nothing tastes better than a slice of cold **watermelon** with a sprinkle of salt.",
+      "options": {
+        "option": [
+          {
+            "definition": "西瓜",
+            "iscorrect": true
+          },
+          {
+            "definition": "水瓜",
+            "iscorrect": false
+          },
+          {
+            "definition": "冬瓜",
+            "iscorrect": false
+          },
+          {
+            "definition": "水芹",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

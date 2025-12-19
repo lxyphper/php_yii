@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to nitpick",
+      "error_analysis": "学生易因“nit”（虱子卵）和“pick”（挑）的字面组合，误将“to nitpick”理解为“挑虱子卵”或“清理小虫子”",
+      "sentence": "My boss always **nitpicks** about the smallest details in my reports, like missing commas or minor typos.",
+      "options": {
+        "option": [
+          {
+            "definition": "吹毛求疵；挑剔细节",
+            "iscorrect": true
+          },
+          {
+            "definition": "挑虱子卵；清理小虫子",
+            "iscorrect": false
+          },
+          {
+            "definition": "挑选精品；选择优质物品",
+            "iscorrect": false
+          },
+          {
+            "definition": "欺负某人；找某人麻烦",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

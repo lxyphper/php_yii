@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "chief",
+      "error_analysis": "学生易因形近词“chef”（厨师）的干扰，将“chief”错误理解为“厨师”",
+      "sentence": "The **chief** reason for the team's victory was their strong teamwork.",
+      "options": {
+        "option": [
+          {
+            "definition": "厨师",
+            "iscorrect": false
+          },
+          {
+            "definition": "孩子",
+            "iscorrect": false
+          },
+          {
+            "definition": "主要地",
+            "iscorrect": false
+          },
+          {
+            "definition": "主要的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

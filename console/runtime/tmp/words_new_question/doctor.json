@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "doctor",
+      "error_analysis": "中国学生易因“doctor”与“actor”形近误选“演员”，或混淆其“医生”（核心义）与“博士”（次要义）",
+      "sentence": "My mom is a **doctor** who works in the emergency room of the city hospital.",
+      "options": {
+        "option": [
+          {
+            "definition": "医生",
+            "iscorrect": true
+          },
+          {
+            "definition": "演员",
+            "iscorrect": false
+          },
+          {
+            "definition": "博士",
+            "iscorrect": false
+          },
+          {
+            "definition": "教师",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

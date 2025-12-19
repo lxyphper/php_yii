@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "shrimpy",
+      "error_analysis": "学生易因词根\"shrimp\"(虾)误导，认为\"shrimpy\"与虾相关（如\"像虾的\"）。",
+      "sentence": "The new kid in class was so **shrimpy** that he could barely reach the top shelf of the locker.",
+      "options": {
+        "option": [
+          {
+            "definition": "身材矮小的；瘦弱的",
+            "iscorrect": true
+          },
+          {
+            "definition": "与虾有关的；像虾的",
+            "iscorrect": false
+          },
+          {
+            "definition": "闪亮的；有光泽的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不足的；吝啬的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pliable",
+      "error_analysis": "学生易因形近词（如liable/applicable）误判为“有责任的”“适用的”，或因词根“pli”（折叠）误判为“可折叠的”",
+      "sentence": "The new silicone rubber is **pliable** enough to be stretched into a thin wire without breaking.",
+      "options": {
+        "option": [
+          {
+            "definition": "易弯曲的；顺从的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有责任的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可折叠的",
+            "iscorrect": false
+          },
+          {
+            "definition": "适用的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

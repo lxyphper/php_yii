@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "salmon",
+      "error_analysis": "因形近词“salad”（沙拉）干扰易误以为是蔬菜凉拌菜，或词根“sal”（盐）误导猜测为含盐食物",
+      "sentence": "We enjoyed baked **salmon** with a side of roasted vegetables at the seafood restaurant.",
+      "options": {
+        "option": [
+          {
+            "definition": "三文鱼（一种生活在河流和海洋中的洄游鱼类）",
+            "iscorrect": true
+          },
+          {
+            "definition": "沙拉（一种由生蔬菜、水果等加调味汁拌成的凉拌菜）",
+            "iscorrect": false
+          },
+          {
+            "definition": "盐渍食品（用盐腌制保存的食物，如咸菜）",
+            "iscorrect": false
+          },
+          {
+            "definition": "水手（从事航海工作的人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

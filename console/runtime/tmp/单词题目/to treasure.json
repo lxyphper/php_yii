@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to treasure",
+      "error_analysis": "学生易将\"to treasure\"与形近词\"treat\"（对待）混淆，或根据名词\"treasure\"（宝藏）错误推断为\"寻找宝藏\"",
+      "sentence": "My grandmother **treasures** the necklace her mother gave her—it’s the most important thing she owns.",
+      "options": {
+        "option": [
+          {
+            "definition": "珍视，珍藏",
+            "iscorrect": true
+          },
+          {
+            "definition": "对待",
+            "iscorrect": false
+          },
+          {
+            "definition": "寻找宝藏",
+            "iscorrect": false
+          },
+          {
+            "definition": "测量",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

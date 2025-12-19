@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to pack",
+      "error_analysis": "学生易因形近词\"park\"混淆为\"停放（车辆）\"，或因词根字面误导误以为是\"打开（包裹）\"。",
+      "sentence": "Before leaving for the trip, she needs to **pack** her suitcase with clothes and toiletries.",
+      "options": {
+        "option": [
+          {
+            "definition": "打包；收拾（行李等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "停放（车辆）",
+            "iscorrect": false
+          },
+          {
+            "definition": "打开（包裹）",
+            "iscorrect": false
+          },
+          {
+            "definition": "种植（蔬菜）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

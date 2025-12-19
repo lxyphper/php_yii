@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "farm",
+      "error_analysis": "中国学生易因形近词\"form\"（形式）混淆，或误将\"farm\"与\"firm\"（公司）关联导致理解错误",
+      "sentence": "My grandparents live on a **farm** where they grow vegetables and raise chickens.",
+      "options": {
+        "option": [
+          {
+            "definition": "农场（名词，指种植作物或饲养动物的地方）",
+            "iscorrect": true
+          },
+          {
+            "definition": "形式（名词，指事物的形状或结构）",
+            "iscorrect": false
+          },
+          {
+            "definition": "公司（名词，指商业机构）",
+            "iscorrect": false
+          },
+          {
+            "definition": "种植（动词，指栽种植物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

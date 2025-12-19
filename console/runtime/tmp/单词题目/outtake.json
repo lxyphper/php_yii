@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "outtake",
+      "error_analysis": "学生易根据\"out+take\"的字面意思，错误理解为\"取出的东西\"，忽略其\"未被采用的影视/音乐片段\"的特定含义。",
+      "sentence": "The director decided to include a few funny **outtakes** from the filming in the DVD extras.",
+      "options": {
+        "option": [
+          {
+            "definition": "（电影、音乐等中）未被采用的片段/镜头",
+            "iscorrect": true
+          },
+          {
+            "definition": "取出的东西；输出物",
+            "iscorrect": false
+          },
+          {
+            "definition": "服装；全套装备",
+            "iscorrect": false
+          },
+          {
+            "definition": "户外拍摄的场景",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

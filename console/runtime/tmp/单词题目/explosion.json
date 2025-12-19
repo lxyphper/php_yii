@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "explosion",
+      "error_analysis": "中国学生易因形近词\"explore\"（探索）误将\"explosion\"理解为\"探索\"，或因词根\"ex-\"（出）误导为\"扩张\"",
+      "sentence": "The sudden **explosion** of the gas tank startled everyone in the neighborhood.",
+      "options": {
+        "option": [
+          {
+            "definition": "探索",
+            "iscorrect": false
+          },
+          {
+            "definition": "扩张",
+            "iscorrect": false
+          },
+          {
+            "definition": "爆炸",
+            "iscorrect": true
+          },
+          {
+            "definition": "爆炸物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

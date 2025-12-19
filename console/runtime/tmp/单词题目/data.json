@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "data",
+      "error_analysis": "学生易因形近词“date”（日期/约会）混淆“data”的意思，或误将其理解为更宽泛的“资料”而非具体的“数据”。",
+      "sentence": "The researchers used **data** from the survey to identify trends in consumer behavior.",
+      "options": {
+        "option": [
+          {
+            "definition": "日期",
+            "iscorrect": false
+          },
+          {
+            "definition": "数据",
+            "iscorrect": true
+          },
+          {
+            "definition": "资料",
+            "iscorrect": false
+          },
+          {
+            "definition": "约会",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

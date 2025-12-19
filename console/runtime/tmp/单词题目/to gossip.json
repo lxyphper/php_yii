@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to gossip",
+      "error_analysis": "学生易因形近词“gasp”（喘气）或词根拆分“go+sip”（去喝一口）误解“to gossip”的核心含义。",
+      "sentence": "The neighbors often gather in the yard to **gossip** about the new family moving in.",
+      "options": {
+        "option": [
+          {
+            "definition": "闲聊；说八卦",
+            "iscorrect": true
+          },
+          {
+            "definition": "喘气",
+            "iscorrect": false
+          },
+          {
+            "definition": "去喝一口",
+            "iscorrect": false
+          },
+          {
+            "definition": "猜测",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

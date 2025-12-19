@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to mince",
+      "error_analysis": "学生易因形近词\"mix\"(混合)、\"mint\"(铸造)及\"min\"前缀联想而误解\"to mince\"的核心词义",
+      "sentence": "The recipe says to **mince** the onions before adding them to the pan.",
+      "options": {
+        "option": [
+          {
+            "definition": "切碎（肉、蔬菜等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "混合",
+            "iscorrect": false
+          },
+          {
+            "definition": "铸造（硬币）",
+            "iscorrect": false
+          },
+          {
+            "definition": "使最小化",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

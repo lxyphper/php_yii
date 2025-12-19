@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "fosil feul",
+      "fossel fuil",
+      "fossil feul",
+      "fosil fuel"
+    ],
+    "correct_chunks": [
+      "foss",
+      "il",
+      "f",
+      "uel"
+    ],
+    "distractor_chunks": [
+      "fos",
+      "el",
+      "eul",
+      "uil"
+    ]
+  },
+  0
+]

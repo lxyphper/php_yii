@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "espresso",
+      "error_analysis": "学生易因形近词“express”（表达、快递）误判为“快速服务/表达方式”，或因“press”（压）词根误联想为“压缩食品”。",
+      "sentence": "When I feel tired in the morning, I always order an **espresso** to wake myself up quickly.",
+      "options": {
+        "option": [
+          {
+            "definition": "浓缩咖啡",
+            "iscorrect": true
+          },
+          {
+            "definition": "快递服务",
+            "iscorrect": false
+          },
+          {
+            "definition": "压缩食品",
+            "iscorrect": false
+          },
+          {
+            "definition": "表达方式",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

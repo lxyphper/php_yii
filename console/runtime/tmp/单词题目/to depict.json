@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to depict",
+      "error_analysis": "易混淆形近词\"deposit\"（存储）及词根\"pict\"误导的\"拍照\"理解",
+      "sentence": "The artist used watercolors to **depict** a beautiful sunset over the mountains.",
+      "options": {
+        "option": [
+          {
+            "definition": "存储；放置",
+            "iscorrect": false
+          },
+          {
+            "definition": "描绘；描述（用文字或图像表现）",
+            "iscorrect": true
+          },
+          {
+            "definition": "拍照；拍摄",
+            "iscorrect": false
+          },
+          {
+            "definition": "部署；安排",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

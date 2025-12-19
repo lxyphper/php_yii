@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cut-price",
+      "error_analysis": "学生易因词根字面误导将“cut-price”理解为“削减价格”（动词短语），或因形近词混淆为“成本价的”。",
+      "sentence": "The supermarket is selling **cut-price** electronics this weekend to attract more customers.",
+      "options": {
+        "option": [
+          {
+            "definition": "低价的；廉价的",
+            "iscorrect": true
+          },
+          {
+            "definition": "削减价格（动词短语）",
+            "iscorrect": false
+          },
+          {
+            "definition": "成本价的（cost-price混淆）",
+            "iscorrect": false
+          },
+          {
+            "definition": "高价的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

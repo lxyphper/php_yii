@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to craft",
+      "error_analysis": "易混淆形近词“draft”（起草）导致误判为“草拟”，或因名词“工艺”过度推导为“用工艺制作”而非“精心构思/制作”。",
+      "sentence": "She took hours to **craft** a perfect speech for her graduation ceremony.",
+      "options": {
+        "option": [
+          {
+            "definition": "精心构思；制作",
+            "iscorrect": true
+          },
+          {
+            "definition": "草拟；起草",
+            "iscorrect": false
+          },
+          {
+            "definition": "用工艺制作",
+            "iscorrect": false
+          },
+          {
+            "definition": "碰撞；坠毁",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

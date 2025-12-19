@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to chargrill",
+      "error_analysis": "学生易因形近词\"charge\"（充电）误解为\"给烤架充电\"，或因词根\"char\"（烧焦）误解为\"彻底烧焦食物\"",
+      "sentence": "For dinner, we decided to **chargrill** some steaks to get that smoky, grilled flavor everyone loves.",
+      "options": {
+        "option": [
+          {
+            "definition": "用烤架烤（食物，尤指肉类）",
+            "iscorrect": true
+          },
+          {
+            "definition": "给烤架充电",
+            "iscorrect": false
+          },
+          {
+            "definition": "将食物彻底烧焦",
+            "iscorrect": false
+          },
+          {
+            "definition": "用平底锅煎（食物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

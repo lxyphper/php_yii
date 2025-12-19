@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "catalytic converter",
+      "error_analysis": "学生易因“catalytic”（催化的）和“converter”（转换器）的字面组合，误以为是“转换催化剂的装置”，而非汽车尾气处理的特定部件。",
+      "sentence": "Most modern cars are fitted with a **catalytic converter** to reduce the emission of harmful gases from the exhaust.",
+      "options": {
+        "option": [
+          {
+            "definition": "汽车尾气催化转化器",
+            "iscorrect": true
+          },
+          {
+            "definition": "转换催化剂的装置",
+            "iscorrect": false
+          },
+          {
+            "definition": "汽车的敞篷转换装置",
+            "iscorrect": false
+          },
+          {
+            "definition": "催化反应的实验容器",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

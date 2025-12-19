@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "test bench",
+      "error_analysis": "学生易将\"test bench\"字面直译为\"测试长凳\"（日常家具），忽略其技术语境下\"测试台/试验台\"的核心含义",
+      "sentence": "The engineers connected the new circuit board to the **test bench** to check its performance.",
+      "options": {
+        "option": [
+          {
+            "definition": "测试台；试验台（用于电子或机械测试的设备）",
+            "iscorrect": true
+          },
+          {
+            "definition": "测试用的长凳（日常放置物品的家具）",
+            "iscorrect": false
+          },
+          {
+            "definition": "考试时考生使用的座椅（考场内的坐具）",
+            "iscorrect": false
+          },
+          {
+            "definition": "试题库（存储考试题目或测试题的集合）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

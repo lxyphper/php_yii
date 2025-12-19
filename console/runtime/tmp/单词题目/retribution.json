@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "retribution",
+      "error_analysis": "学生易因形近词（如distribution、contribution）误判为“分配”“贡献”，或因词根“retrib-”（回报）误解为“奖励”（正面回报）。",
+      "sentence": "After years of escaping justice, the criminal finally faced the **retribution** for his crimes.",
+      "options": {
+        "option": [
+          {
+            "definition": "惩罚；报应",
+            "iscorrect": true
+          },
+          {
+            "definition": "分配；分发",
+            "iscorrect": false
+          },
+          {
+            "definition": "奖励；回报",
+            "iscorrect": false
+          },
+          {
+            "definition": "贡献；捐助",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

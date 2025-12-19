@@ -1,0 +1,27 @@
+[
+  {
+    "common_misspellings": [
+      "dention center",
+      "dettenion center",
+      "detenshon center",
+      "detention centre",
+      "detention centor"
+    ],
+    "correct_chunks": [
+      "de",
+      "ten",
+      "tion",
+      "cen",
+      "ter"
+    ],
+    "distractor_chunks": [
+      "den",
+      "tten",
+      "shon",
+      "tre",
+      "tor",
+      "sen"
+    ]
+  },
+  0
+]

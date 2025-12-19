@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "post",
+      "error_analysis": "易因形近词“past”（过去）混淆，或因词根“post-”（后）误导，误解“post”的核心义（如职位、张贴）。",
+      "sentence": "She was offered a senior **post** in the company after her promotion.",
+      "options": {
+        "option": [
+          {
+            "definition": "职位",
+            "iscorrect": true
+          },
+          {
+            "definition": "过去",
+            "iscorrect": false
+          },
+          {
+            "definition": "后面的",
+            "iscorrect": false
+          },
+          {
+            "definition": "柱子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

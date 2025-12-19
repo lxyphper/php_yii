@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to help",
+      "error_analysis": "形近词“hope”（希望）及词根“hel”与“health”（健康）的混淆，导致学生误判“help”词义",
+      "sentence": "My mom always **helps** me with my math homework when I'm stuck.",
+      "options": {
+        "option": [
+          {
+            "definition": "帮助",
+            "iscorrect": true
+          },
+          {
+            "definition": "希望",
+            "iscorrect": false
+          },
+          {
+            "definition": "健康",
+            "iscorrect": false
+          },
+          {
+            "definition": "持有",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

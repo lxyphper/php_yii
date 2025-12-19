@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to uphold",
+      "error_analysis": "学生易因\"up-\"与\"hold\"的字面组合，将\"to uphold\"误解为物理上的\"举起/支撑\"，而非抽象的\"支持/维护\"。",
+      "sentence": "The court decided to **uphold** the original verdict despite new evidence being presented.",
+      "options": {
+        "option": [
+          {
+            "definition": "支持；维护（原则、法律等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "举起；支撑（物理上的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "提高；提升（地位或水平）",
+            "iscorrect": false
+          },
+          {
+            "definition": "持有；保存（某物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

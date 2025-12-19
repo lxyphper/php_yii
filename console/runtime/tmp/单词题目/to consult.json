@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to consult",
+      "error_analysis": "中国学生易因形近词（如consist、contact）混淆，将“consult”误理解为“由...组成”或“联系”。",
+      "sentence": "Before making a decision, she decided to **consult** her lawyer for professional advice.",
+      "options": {
+        "option": [
+          {
+            "definition": "咨询；请教",
+            "iscorrect": true
+          },
+          {
+            "definition": "由...组成；在于",
+            "iscorrect": false
+          },
+          {
+            "definition": "联系；接触",
+            "iscorrect": false
+          },
+          {
+            "definition": "建造；构造",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

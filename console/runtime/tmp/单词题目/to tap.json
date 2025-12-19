@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to tap",
+      "error_analysis": "学生易因形近词“tape”（磁带）误联想为“录音”，或因名词“水龙头”误推动词为“打开水龙头”。",
+      "sentence": "She **tapped** the window gently to let her mom know she was back.",
+      "options": {
+        "option": [
+          {
+            "definition": "轻敲；轻拍",
+            "iscorrect": true
+          },
+          {
+            "definition": "录音；用磁带录制",
+            "iscorrect": false
+          },
+          {
+            "definition": "打开水龙头；放水",
+            "iscorrect": false
+          },
+          {
+            "definition": "覆盖；包裹",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

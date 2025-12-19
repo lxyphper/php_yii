@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "spot",
+      "error_analysis": "学生易因形近词\"sport\"（运动）产生错误联想，或误将其字面义\"斑点\"套用于动词语境。",
+      "sentence": "The hiker was able to **spot** a rare flower in the forest.",
+      "options": {
+        "option": [
+          {
+            "definition": "发现",
+            "iscorrect": true
+          },
+          {
+            "definition": "运动",
+            "iscorrect": false
+          },
+          {
+            "definition": "斑点",
+            "iscorrect": false
+          },
+          {
+            "definition": "停止",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

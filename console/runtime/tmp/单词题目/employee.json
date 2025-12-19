@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "employee",
+      "error_analysis": "易与形近词employer（雇主）混淆，或因词根后缀-ee理解错误而误判为“雇佣者”",
+      "sentence": "The company announced a bonus for every **employee** who has worked here for more than a year.",
+      "options": {
+        "option": [
+          {
+            "definition": "雇员；员工",
+            "iscorrect": true
+          },
+          {
+            "definition": "雇主；雇佣者",
+            "iscorrect": false
+          },
+          {
+            "definition": "雇佣关系；职业",
+            "iscorrect": false
+          },
+          {
+            "definition": "求职者；应聘者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

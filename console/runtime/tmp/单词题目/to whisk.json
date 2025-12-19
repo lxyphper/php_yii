@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to whisk",
+      "error_analysis": "学生易因形近词“wish”（希望）混淆“whisk”的含义，或因“wh”组合联想“whisper”（低语）而误判。",
+      "sentence": "The mother **whisked** her crying child away from the busy street to a safer place.",
+      "options": {
+        "option": [
+          {
+            "definition": "希望；愿望",
+            "iscorrect": false
+          },
+          {
+            "definition": "低语；小声说",
+            "iscorrect": false
+          },
+          {
+            "definition": "鞭打；抽打",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速带走；迅速移动",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

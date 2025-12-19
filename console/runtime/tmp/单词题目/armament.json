@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "armament",
+      "error_analysis": "学生易因形近词\"armor\"(盔甲)或词根\"arm\"(手臂)的误导，将\"armament\"误判为具体的\"盔甲\"或\"手臂装备\"，而非\"武器装备总称\"。",
+      "sentence": "The country has increased its **armament** budget to modernize its military aircraft and missiles.",
+      "options": {
+        "option": [
+          {
+            "definition": "（国家或组织的）武器装备总称",
+            "iscorrect": true
+          },
+          {
+            "definition": "（士兵的）盔甲",
+            "iscorrect": false
+          },
+          {
+            "definition": "手臂的防护装备",
+            "iscorrect": false
+          },
+          {
+            "definition": "军队的训练计划",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

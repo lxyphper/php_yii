@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tough",
+      "error_analysis": "学生易因形近词“rough”（粗糙的）或“touch”（触摸）混淆“tough”的核心义，或误判为“强壮的”。",
+      "sentence": "I find it **tough** to learn how to ride a bike in just one day.",
+      "options": {
+        "option": [
+          {
+            "definition": "粗糙的",
+            "iscorrect": false
+          },
+          {
+            "definition": "触摸",
+            "iscorrect": false
+          },
+          {
+            "definition": "强壮的",
+            "iscorrect": false
+          },
+          {
+            "definition": "困难的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

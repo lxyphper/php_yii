@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "airport",
+      "error_analysis": "学生可能因“port”（港口）的词根影响，将“airport”误理解为“海港”或与“seaport”混淆",
+      "sentence": "We need to arrive at the **airport** two hours before our flight to check in.",
+      "options": {
+        "option": [
+          {
+            "definition": "机场",
+            "iscorrect": true
+          },
+          {
+            "definition": "海港",
+            "iscorrect": false
+          },
+          {
+            "definition": "航空港口",
+            "iscorrect": false
+          },
+          {
+            "definition": "航空公司",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

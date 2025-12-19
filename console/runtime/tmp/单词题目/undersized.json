@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "undersized",
+      "error_analysis": "学生可能因形近词\"understood\"(理解)或词根\"under-\"（误作\"未\"）而误解\"undersized\"为\"被理解的\"或\"未被测量的\"",
+      "sentence": "The shirt I bought online turned out to be **undersized**, so I had to return it.",
+      "options": {
+        "option": [
+          {
+            "definition": "被理解的",
+            "iscorrect": false
+          },
+          {
+            "definition": "未被测量尺寸的",
+            "iscorrect": false
+          },
+          {
+            "definition": "比正常尺寸小的；偏小的",
+            "iscorrect": true
+          },
+          {
+            "definition": "过大的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

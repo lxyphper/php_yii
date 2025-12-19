@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to lean",
+      "error_analysis": "易混淆形近词\"learn\"（学习）及形容词\"lean\"（变瘦）的动词词义联想",
+      "sentence": "She likes to **lean** against the window while waiting for her friend.",
+      "options": {
+        "option": [
+          {
+            "definition": "学习",
+            "iscorrect": false
+          },
+          {
+            "definition": "倾斜；倚靠",
+            "iscorrect": true
+          },
+          {
+            "definition": "变瘦",
+            "iscorrect": false
+          },
+          {
+            "definition": "倾听",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

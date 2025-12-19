@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ice skate",
+      "error_analysis": "学生易将\"ice skate\"误判为动词短语\"冰上滑行\"（字面误导）或形近词关联的\"冰滑板\"（形近干扰）",
+      "sentence": "She put on her **ice skate** and glided smoothly across the ice rink.",
+      "options": {
+        "option": [
+          {
+            "definition": "冰鞋（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "在冰上滑行（动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "冰滑板",
+            "iscorrect": false
+          },
+          {
+            "definition": "冰刀",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

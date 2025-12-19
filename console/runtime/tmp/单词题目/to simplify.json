@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to simplify",
+      "error_analysis": "学生易因形近词“simulate”（模拟）的拼写相似，或误将动词“to simplify”理解为形容词“简单的”而犯错。",
+      "sentence": "The teacher asked the students to **simplify** the complex math problem so that everyone could understand it.",
+      "options": {
+        "option": [
+          {
+            "definition": "简化",
+            "iscorrect": true
+          },
+          {
+            "definition": "模拟",
+            "iscorrect": false
+          },
+          {
+            "definition": "简单的",
+            "iscorrect": false
+          },
+          {
+            "definition": "使容易",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

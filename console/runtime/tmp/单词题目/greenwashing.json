@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "greenwashing",
+      "error_analysis": "学生易通过\"green\"+\"washing\"直译误认为是\"绿色洗涤\"（如环保洗衣方式），或混淆虚假与真实环保宣传。",
+      "sentence": "The company claimed its new product was 100% recyclable, but an investigation revealed it was just **greenwashing** to attract eco-conscious consumers.",
+      "options": {
+        "option": [
+          {
+            "definition": "企业通过虚假或夸大的环保宣传掩盖其不环保行为的做法（漂绿）",
+            "iscorrect": true
+          },
+          {
+            "definition": "使用环保洗涤剂进行的洗涤过程",
+            "iscorrect": false
+          },
+          {
+            "definition": "种植绿色植物以净化环境的行为",
+            "iscorrect": false
+          },
+          {
+            "definition": "推广真正环保产品的营销活动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to belong",
+      "error_analysis": "学生易因形近词“below”（在...下面）或词根“long”（渴望/长）的误导，误将“belong”与位置、长度或渴望关联。",
+      "sentence": "This key **belongs** to the front door.",
+      "options": {
+        "option": [
+          {
+            "definition": "属于（是…的财产或组成部分）",
+            "iscorrect": true
+          },
+          {
+            "definition": "在…下面（位置更低）",
+            "iscorrect": false
+          },
+          {
+            "definition": "渴望（强烈希望得到）",
+            "iscorrect": false
+          },
+          {
+            "definition": "变得更长（长度增加）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

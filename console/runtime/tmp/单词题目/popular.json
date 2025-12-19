@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "popular",
+      "error_analysis": "学生易因形近词“population”（人口）混淆，或因词根“populus”（人民）过度推导为“人民的”，而忽略核心义“受欢迎的”",
+      "sentence": "The new comic book is so **popular** among kids that the store sold out all copies in one day.",
+      "options": {
+        "option": [
+          {
+            "definition": "受欢迎的",
+            "iscorrect": true
+          },
+          {
+            "definition": "人口的；与人口相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "人民的；大众的",
+            "iscorrect": false
+          },
+          {
+            "definition": "普通的；平常的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

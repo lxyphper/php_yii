@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "zigzagged",
+      "error_analysis": "学生易将“zigzagged”（曲折前进）与形近词“zipped”（快速移动）混淆，或因词根拆分误以为是“反复跳跃”",
+      "sentence": "The hiker **zigzagged** up the steep mountain trail to avoid slipping on the loose rocks.",
+      "options": {
+        "option": [
+          {
+            "definition": "快速移动",
+            "iscorrect": false
+          },
+          {
+            "definition": "曲折前进",
+            "iscorrect": true
+          },
+          {
+            "definition": "反复跳跃",
+            "iscorrect": false
+          },
+          {
+            "definition": "直线前进",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

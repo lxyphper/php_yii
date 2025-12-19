@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "canon",
+      "error_analysis": "学生易因形近词“cannon”（大炮）的拼写及发音相似而误判“canon”的含义",
+      "sentence": "Shakespeare's plays are considered part of the literary **canon** and are still studied worldwide.",
+      "options": {
+        "option": [
+          {
+            "definition": "经典作品；典范",
+            "iscorrect": true
+          },
+          {
+            "definition": "大炮",
+            "iscorrect": false
+          },
+          {
+            "definition": "独木舟",
+            "iscorrect": false
+          },
+          {
+            "definition": "教规",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

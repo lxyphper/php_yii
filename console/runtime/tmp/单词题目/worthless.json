@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "worthless",
+      "error_analysis": "学生易将\"worthless\"与形近词\"worthwhile\"（值得的）混淆，或过度直译\"worth+less\"为\"不值得的\"，忽略其\"无价值\"的核心含义",
+      "sentence": "After checking the old watch, the repairman said it was **worthless** because all its parts were broken.",
+      "options": {
+        "option": [
+          {
+            "definition": "无价值的；没用的",
+            "iscorrect": true
+          },
+          {
+            "definition": "值得的；有意义的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不值得做的",
+            "iscorrect": false
+          },
+          {
+            "definition": "昂贵的；高价的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

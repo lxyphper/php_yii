@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "vaguely",
+      "error_analysis": "学生易因词根“vag-”（流浪）联想为“流浪地”，或与形近词“vigorously”（有力地）混淆",
+      "sentence": "She **vaguely** remembered meeting him at a party once, but couldn’t recall the exact details.",
+      "options": {
+        "option": [
+          {
+            "definition": "模糊地；隐约地",
+            "iscorrect": true
+          },
+          {
+            "definition": "流浪地；漂泊地",
+            "iscorrect": false
+          },
+          {
+            "definition": "有力地；精力充沛地",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻轻地；温柔地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

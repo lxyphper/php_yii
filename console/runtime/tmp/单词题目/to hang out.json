@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to hang out",
+      "error_analysis": "学生易因\"hang\"(悬挂)和\"out\"(出去)的字面意思误译为\"挂出去\"，或混淆形近短语\"hand out\"(分发)而理解为\"分发\"。",
+      "sentence": "My friends and I usually **hang out** at the coffee shop on weekends to chat and listen to music.",
+      "options": {
+        "option": [
+          {
+            "definition": "闲逛；聚会",
+            "iscorrect": true
+          },
+          {
+            "definition": "挂出去；悬挂在外",
+            "iscorrect": false
+          },
+          {
+            "definition": "分发；散发",
+            "iscorrect": false
+          },
+          {
+            "definition": "挂断（电话）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

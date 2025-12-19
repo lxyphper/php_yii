@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "magnetism",
+      "error_analysis": "学生易因形近词“magnet”（磁铁）误将“magnetism”理解为“磁铁”，或因词根“magnet”+“-ism”（主义）误判为“磁铁主义”。",
+      "sentence": "The experiment showed that **magnetism** can make a compass needle point north.",
+      "options": {
+        "option": [
+          {
+            "definition": "磁铁",
+            "iscorrect": false
+          },
+          {
+            "definition": "磁力；吸引力",
+            "iscorrect": true
+          },
+          {
+            "definition": "磁铁主义",
+            "iscorrect": false
+          },
+          {
+            "definition": "磁性材料",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

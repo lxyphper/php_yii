@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "crackling",
+      "error_analysis": "学生易因形近词\"cracking\"（出色的/破裂的）或词根\"crack\"（裂缝）加\"-ling\"后缀，猜测为\"出色的事物\"或\"小裂缝\"，而忽略其\"烤物脆皮\"的常见含义。",
+      "sentence": "The roast pork's **crackling** was so crispy that it crunched loudly when I bit into it.",
+      "options": {
+        "option": [
+          {
+            "definition": "（烤猪肉等的）脆皮",
+            "iscorrect": true
+          },
+          {
+            "definition": "出色的事物",
+            "iscorrect": false
+          },
+          {
+            "definition": "小裂缝",
+            "iscorrect": false
+          },
+          {
+            "definition": "噼啪声",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

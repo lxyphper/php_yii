@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "seriously",
+      "error_analysis": "学生容易将“seriously”（副词，严重地/认真地）误判为形近形容词“serious”（严肃的/严重的），忽略其副词词性及语境中的修饰作用",
+      "sentence": "His leg was **seriously** hurt in the accident, so he couldn’t walk for weeks.",
+      "options": {
+        "option": [
+          {
+            "definition": "严肃的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "严重地（副词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "严重的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "真诚地（副词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

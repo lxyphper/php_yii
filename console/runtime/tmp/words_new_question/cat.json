@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cat",
+      "error_analysis": "中国学生易因形近词（如cut、cap）混淆“cat”的核心词义（猫）",
+      "sentence": "My little sister likes to hug her **cat** before going to bed every night.",
+      "options": {
+        "option": [
+          {
+            "definition": "猫",
+            "iscorrect": true
+          },
+          {
+            "definition": "切（cut的含义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "帽子（cap的含义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "车（car的含义）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

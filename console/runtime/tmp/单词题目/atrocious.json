@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "atrocious",
+      "error_analysis": "学生易因形近混淆\"atrocious\"与\"audacious\"(大胆的)，或因词根\"atro-\"(拉丁语\"残酷的\")误判词义。",
+      "sentence": "The restaurant had **atrocious** service—we waited an hour for our food and the waiter was rude.",
+      "options": {
+        "option": [
+          {
+            "definition": "极其糟糕的；恶劣的",
+            "iscorrect": true
+          },
+          {
+            "definition": "大胆的；无畏的",
+            "iscorrect": false
+          },
+          {
+            "definition": "残酷的；残暴的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有吸引力的；迷人的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

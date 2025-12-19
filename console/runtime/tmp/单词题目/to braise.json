@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to braise",
+      "error_analysis": "学生易因形近词\"raise\"（提高、养育）混淆\"to braise\"的含义",
+      "sentence": "The chef likes to **braise** the lamb with carrots and onions in a slow cooker for two hours.",
+      "options": {
+        "option": [
+          {
+            "definition": "（烹饪时）先煎后慢炖",
+            "iscorrect": true
+          },
+          {
+            "definition": "提高；养育",
+            "iscorrect": false
+          },
+          {
+            "definition": "支撑；使稳固",
+            "iscorrect": false
+          },
+          {
+            "definition": "烤；烘焙",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

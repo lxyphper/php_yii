@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "beak",
+      "error_analysis": "学生易因拼写相似将“beak”误联想为“break”（打破）或“peak”（山峰）",
+      "sentence": "The little bird used its **beak** to crack open the sunflower seed.",
+      "options": {
+        "option": [
+          {
+            "definition": "鸟喙",
+            "iscorrect": true
+          },
+          {
+            "definition": "打破（break的含义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "山峰（peak的含义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "海滩（beach的含义）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

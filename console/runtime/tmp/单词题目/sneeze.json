@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sneeze",
+      "error_analysis": "学生易因形近词\"squeeze\"(挤压)或\"sneer\"(嘲笑)混淆词义，或因\"sn\"开头误猜为非打喷嚏动作",
+      "sentence": "She always carries a tissue because she tends to **sneeze** when exposed to pollen.",
+      "options": {
+        "option": [
+          {
+            "definition": "挤压；捏",
+            "iscorrect": false
+          },
+          {
+            "definition": "嘲笑；冷笑",
+            "iscorrect": false
+          },
+          {
+            "definition": "（蛇）爬行",
+            "iscorrect": false
+          },
+          {
+            "definition": "打喷嚏",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

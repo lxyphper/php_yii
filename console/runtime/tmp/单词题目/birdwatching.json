@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "birdwatching",
+      "error_analysis": "学生易因“watch”的名词义“手表”或词根拆分错误，将“birdwatching”误解为“鸟的手表”或“看守鸟类”，而非“观察鸟类的活动”（观鸟）。",
+      "sentence": "Many people enjoy **birdwatching** in the park early in the morning, bringing binoculars to get a closer look at the birds.",
+      "options": {
+        "option": [
+          {
+            "definition": "鸟的手表",
+            "iscorrect": false
+          },
+          {
+            "definition": "看守鸟类",
+            "iscorrect": false
+          },
+          {
+            "definition": "观察鸟类的活动（观鸟）",
+            "iscorrect": true
+          },
+          {
+            "definition": "喂鸟的行为",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

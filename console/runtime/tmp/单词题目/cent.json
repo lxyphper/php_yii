@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cent",
+      "error_analysis": "学生易因形近词\"center\"误将\"cent\"理解为\"中心\"，或因词根\"centum\"(百)误猜为\"一百\"",
+      "sentence": "The candy costs 50 **cents**, so you need two quarters to buy it.",
+      "options": {
+        "option": [
+          {
+            "definition": "中心",
+            "iscorrect": false
+          },
+          {
+            "definition": "分（货币单位，如美元的百分之一）",
+            "iscorrect": true
+          },
+          {
+            "definition": "一百",
+            "iscorrect": false
+          },
+          {
+            "definition": "世纪",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

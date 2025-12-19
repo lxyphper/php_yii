@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "blackberry",
+      "error_analysis": "学生易因形近词“blackboard”（黑板）的干扰，或误将“berry”拆分为“board”（木板）而把“blackberry”理解为“黑板”或“黑色的木板”。",
+      "sentence": "She picked some ripe **blackberries** from the bush and made a delicious pie.",
+      "options": {
+        "option": [
+          {
+            "definition": "黑板",
+            "iscorrect": false
+          },
+          {
+            "definition": "蓝莓",
+            "iscorrect": false
+          },
+          {
+            "definition": "黑莓（一种可食用的浆果）",
+            "iscorrect": true
+          },
+          {
+            "definition": "黑色的木板",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

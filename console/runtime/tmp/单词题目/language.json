@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "language",
+      "error_analysis": "学生易因形近词“languish”（枯萎）混淆“language”含义，或因词根“lingua”（舌头）误理解为“舌头”",
+      "sentence": "English is the most widely used **language** in international business.",
+      "options": {
+        "option": [
+          {
+            "definition": "语言",
+            "iscorrect": true
+          },
+          {
+            "definition": "枯萎",
+            "iscorrect": false
+          },
+          {
+            "definition": "舌头",
+            "iscorrect": false
+          },
+          {
+            "definition": "语言课",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "epigraph",
+      "error_analysis": "易因形近词“epigraphy”（碑铭学）或词根“epi-+graph”（写在上面）误解为“碑铭学”或“刻在碑石上的铭文”",
+      "sentence": "The novel opens with an **epigraph** from Shakespeare, which sets the tone for the tragic love story that follows.",
+      "options": {
+        "option": [
+          {
+            "definition": "书籍或文章开头的引语",
+            "iscorrect": true
+          },
+          {
+            "definition": "研究古代碑刻的学科",
+            "iscorrect": false
+          },
+          {
+            "definition": "刻在碑石上的铭文",
+            "iscorrect": false
+          },
+          {
+            "definition": "简短机智的警句",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wrong",
+      "error_analysis": "学生易因形近词“wring”（拧）或“strong”（强壮的）产生错误联想，误将其理解为动作或强壮相关含义。",
+      "sentence": "The teacher told her that her answer was **wrong**.",
+      "options": {
+        "option": [
+          {
+            "definition": "错误的；不对的",
+            "iscorrect": true
+          },
+          {
+            "definition": "拧；绞",
+            "iscorrect": false
+          },
+          {
+            "definition": "强壮的",
+            "iscorrect": false
+          },
+          {
+            "definition": "错误地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

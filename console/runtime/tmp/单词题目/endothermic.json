@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "endothermic",
+      "error_analysis": "学生易因词根“endo-（内）+ therm（热）”猜测为“内部发热的/恒温的”，或与形近词“endemic（地方性的）”混淆。",
+      "sentence": "During the **endothermic** reaction, the beaker felt cold to the touch because the process absorbed heat from the surroundings.",
+      "options": {
+        "option": [
+          {
+            "definition": "吸热的（指化学反应吸收热量）",
+            "iscorrect": true
+          },
+          {
+            "definition": "恒温的（指动物保持体温恒定）",
+            "iscorrect": false
+          },
+          {
+            "definition": "地方性的",
+            "iscorrect": false
+          },
+          {
+            "definition": "放热的（指化学反应释放热量）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

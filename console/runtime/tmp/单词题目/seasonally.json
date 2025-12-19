@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "seasonally",
+      "error_analysis": "学生易将\"seasonally\"与形近词\"seasonably\"(合时令地)混淆，或误理解为\"偶尔地\"(词根误导)",
+      "sentence": "The restaurant updates its menu **seasonally** to use fresh, local ingredients.",
+      "options": {
+        "option": [
+          {
+            "definition": "季节性地",
+            "iscorrect": true
+          },
+          {
+            "definition": "合时令地",
+            "iscorrect": false
+          },
+          {
+            "definition": "偶尔地",
+            "iscorrect": false
+          },
+          {
+            "definition": "每年一次地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

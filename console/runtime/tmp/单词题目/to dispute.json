@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to dispute",
+      "error_analysis": "学生易混淆形近词\"disrupt\"(打断、扰乱)，或因词根\"pute\"(认为)的否定前缀\"dis-\"误判为\"不放置\"等无关含义。",
+      "sentence": "The two scientists continued to **dispute** the validity of each other's research findings during the conference.",
+      "options": {
+        "option": [
+          {
+            "definition": "争论；质疑",
+            "iscorrect": true
+          },
+          {
+            "definition": "打断；扰乱",
+            "iscorrect": false
+          },
+          {
+            "definition": "不放置；移除",
+            "iscorrect": false
+          },
+          {
+            "definition": "讨论；商谈",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

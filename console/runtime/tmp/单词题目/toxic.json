@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "toxic",
+      "error_analysis": "学生易因形近词“topic”（话题）的干扰，将“toxic”误判为“话题的”",
+      "sentence": "The factory dumped **toxic** waste into the river, making the water unsafe for drinking.",
+      "options": {
+        "option": [
+          {
+            "definition": "有毒的",
+            "iscorrect": true
+          },
+          {
+            "definition": "话题的",
+            "iscorrect": false
+          },
+          {
+            "definition": "文本的",
+            "iscorrect": false
+          },
+          {
+            "definition": "费力的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

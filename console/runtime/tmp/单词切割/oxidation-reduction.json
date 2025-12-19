@@ -1,0 +1,21 @@
+[
+  {
+    "common_misspellings": [
+      "oxydation-reduction",
+      "oxidation-reducetion",
+      "oxidationreduction"
+    ],
+    "correct_chunks": [
+      "oxid",
+      "ation-",
+      "reduc",
+      "tion"
+    ],
+    "distractor_chunks": [
+      "oxyd",
+      "reducet",
+      "oxidationre"
+    ]
+  },
+  0
+]

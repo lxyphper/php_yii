@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "scope",
+      "error_analysis": "学生易因形近词“score”（分数）或“scoop”（勺子）误解“scope”的核心义“范围”，或因词根后缀“scope”表“镜”而混淆为“镜子”。",
+      "sentence": "The manager discussed the **scope** of the new project, which includes three main phases.",
+      "options": {
+        "option": [
+          {
+            "definition": "分数",
+            "iscorrect": false
+          },
+          {
+            "definition": "范围",
+            "iscorrect": true
+          },
+          {
+            "definition": "镜子",
+            "iscorrect": false
+          },
+          {
+            "definition": "勺子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

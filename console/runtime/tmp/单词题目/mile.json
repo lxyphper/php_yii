@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mile",
+      "error_analysis": "学生易因形近词\"mill\"（毫米/磨坊）混淆，将\"mile\"误判为小型长度单位或磨坊",
+      "sentence": "The nearest gas station is about a **mile** away, so we need to drive for a few more minutes.",
+      "options": {
+        "option": [
+          {
+            "definition": "英里（长度单位，约1.6公里）",
+            "iscorrect": true
+          },
+          {
+            "definition": "毫米（长度单位）",
+            "iscorrect": false
+          },
+          {
+            "definition": "磨坊（研磨谷物的地方）",
+            "iscorrect": false
+          },
+          {
+            "definition": "饭餐（一日的一餐）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "adulthood",
+      "error_analysis": "学生易将adulthood误解为“成年人”（adult的名词形式），或误由“-hood”推导为“群体”而非“时期”",
+      "sentence": "Many people face new challenges as they enter **adulthood**, such as finding a job or living independently.",
+      "options": {
+        "option": [
+          {
+            "definition": "成年期",
+            "iscorrect": true
+          },
+          {
+            "definition": "成年人",
+            "iscorrect": false
+          },
+          {
+            "definition": "成年人的群体",
+            "iscorrect": false
+          },
+          {
+            "definition": "成年的品质（如成熟）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

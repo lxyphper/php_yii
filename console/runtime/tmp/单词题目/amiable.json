@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "amiable",
+      "error_analysis": "学生易因形近词“amateur”（业余的）或与“aim”（目标）发音接近而误解“amiable”为“业余的”或“有目标的”。",
+      "sentence": "The old man next door is **amiable**—he always shares his homemade cookies with us and listens patiently to our stories.",
+      "options": {
+        "option": [
+          {
+            "definition": "友好的；和蔼可亲的",
+            "iscorrect": true
+          },
+          {
+            "definition": "业余的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有目标的",
+            "iscorrect": false
+          },
+          {
+            "definition": "令人惊讶的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

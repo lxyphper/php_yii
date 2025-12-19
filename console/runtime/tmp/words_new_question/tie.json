@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tie",
+      "error_analysis": "易与形近词“lie”（躺）或“die”（死）混淆，或误联想为“紧的”（如tight）",
+      "sentence": "Please help me **tie** this box with a rope so it doesn’t open during shipping.",
+      "options": {
+        "option": [
+          {
+            "definition": "躺",
+            "iscorrect": false
+          },
+          {
+            "definition": "死",
+            "iscorrect": false
+          },
+          {
+            "definition": "紧的",
+            "iscorrect": false
+          },
+          {
+            "definition": "系（用绳/带捆绑）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

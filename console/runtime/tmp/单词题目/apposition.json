@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "apposition",
+      "error_analysis": "学生易因形近词\"composition\"（组成/作文）混淆词义，或通过词根\"pos\"（放置）过度推导为\"位置/并列\"，而非语法术语\"同位语\"。",
+      "sentence": "In the sentence \"My sister Mary is a doctor,\" \"Mary\" is in **apposition** to \"my sister\" and clarifies who \"my sister\" is.",
+      "options": {
+        "option": [
+          {
+            "definition": "组成；作文（如文章的构成）",
+            "iscorrect": false
+          },
+          {
+            "definition": "同位语（语法中补充说明名词的结构）",
+            "iscorrect": true
+          },
+          {
+            "definition": "应用位置；使用场景（如软件的安装位置）",
+            "iscorrect": false
+          },
+          {
+            "definition": "反对；对立（如意见的冲突）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

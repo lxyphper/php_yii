@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "warehousing",
+      "error_analysis": "学生易因“ware”与“wear”音近形近误判为“穿着”，或因“ware（商品）+housing（住房）”的字面组合误理解为“商品住房”。",
+      "sentence": "The logistics company offers **warehousing** solutions for online retailers to store their products before shipment.",
+      "options": {
+        "option": [
+          {
+            "definition": "穿着（的动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "商品住房",
+            "iscorrect": false
+          },
+          {
+            "definition": "仓储（业）",
+            "iscorrect": true
+          },
+          {
+            "definition": "批发（业）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

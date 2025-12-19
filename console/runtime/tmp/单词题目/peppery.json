@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "peppery",
+      "error_analysis": "学生易因形近词\"papery\"（纸的）将\"peppery\"误判为\"纸一样的（薄/脆的）\"，或因对\"pepper\"的认知误解为\"热的（温度高的）\"",
+      "sentence": "The curry has a strong **peppery** taste that made my mouth burn.",
+      "options": {
+        "option": [
+          {
+            "definition": "辛辣的；胡椒味的",
+            "iscorrect": true
+          },
+          {
+            "definition": "纸一样的（薄/脆的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "热的（温度高的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "甜的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

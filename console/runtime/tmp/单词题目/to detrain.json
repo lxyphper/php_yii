@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to detrain",
+      "error_analysis": "中国学生易因形近词“detain”（拘留）混淆，或因“de-+train”词根误猜为“取消训练”",
+      "sentence": "After the long journey, the soldiers were ordered to **detrain** at the next station and march to the camp.",
+      "options": {
+        "option": [
+          {
+            "definition": "（使）下火车",
+            "iscorrect": true
+          },
+          {
+            "definition": "拘留；扣押",
+            "iscorrect": false
+          },
+          {
+            "definition": "取消训练；停止训练",
+            "iscorrect": false
+          },
+          {
+            "definition": "延误火车",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

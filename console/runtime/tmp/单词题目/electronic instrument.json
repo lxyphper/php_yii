@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "electronic instrument",
+      "error_analysis": "学生易因形近词\"instruction\"将其误理解为\"电子指令\"，或因\"instrument\"直译为\"工具\"而误解为\"电子工具\"",
+      "sentence": "The musician used a new **electronic instrument** to create unique sounds for the song.",
+      "options": {
+        "option": [
+          {
+            "definition": "电子指令",
+            "iscorrect": false
+          },
+          {
+            "definition": "电子工具",
+            "iscorrect": false
+          },
+          {
+            "definition": "电子乐器；电子仪器",
+            "iscorrect": true
+          },
+          {
+            "definition": "电子设备",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

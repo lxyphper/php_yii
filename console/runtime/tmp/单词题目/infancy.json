@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "infancy",
+      "error_analysis": "学生易因形近词instance（例子）或词根fan（狂热者）误导，将infancy误判为“例子”或“狂热期”",
+      "sentence": "The research focuses on the development of motor skills in **infancy**, when babies learn to roll over and crawl.",
+      "options": {
+        "option": [
+          {
+            "definition": "婴儿期",
+            "iscorrect": true
+          },
+          {
+            "definition": "例子",
+            "iscorrect": false
+          },
+          {
+            "definition": "狂热期",
+            "iscorrect": false
+          },
+          {
+            "definition": "婴儿",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

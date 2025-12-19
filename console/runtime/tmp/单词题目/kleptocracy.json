@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "kleptocracy",
+      "error_analysis": "学生易因\"kleptocracy\"与\"aristocracy\"（贵族统治）形近（均以\"-cracy\"结尾）或误将\"klepto-\"猜为\"暴力\"（如与\"killer\"联想）而混淆词义",
+      "sentence": "The country's economy collapsed under the **kleptocracy**, as top officials siphoned off billions of dollars from public funds into their personal accounts.",
+      "options": {
+        "option": [
+          {
+            "definition": "盗贼统治（指政府官员利用权力侵吞国家财富的政权）",
+            "iscorrect": true
+          },
+          {
+            "definition": "贵族统治（由贵族阶层掌握权力的政权）",
+            "iscorrect": false
+          },
+          {
+            "definition": "暴力统治（通过武力和压迫维持的政权）",
+            "iscorrect": false
+          },
+          {
+            "definition": "富豪统治（由富豪阶层控制国家的政权）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

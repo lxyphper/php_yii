@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fabulous",
+      "error_analysis": "学生易因形近词\"famous\"（著名的）或词根\"fable\"（寓言）误将\"fabulous\"理解为\"著名的\"或\"虚构的\"",
+      "sentence": "The concert last night was absolutely **fabulous**—the band played perfectly and the crowd went wild.",
+      "options": {
+        "option": [
+          {
+            "definition": "极好的；绝妙的",
+            "iscorrect": true
+          },
+          {
+            "definition": "著名的；有名的",
+            "iscorrect": false
+          },
+          {
+            "definition": "虚构的；编造的",
+            "iscorrect": false
+          },
+          {
+            "definition": "普通的；平常的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

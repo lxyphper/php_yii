@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "cemotherapy",
+      "chemoterapy",
+      "chemotheraphy",
+      "kemotherapy"
+    ],
+    "correct_chunks": [
+      "chem",
+      "o",
+      "ther",
+      "apy"
+    ],
+    "distractor_chunks": [
+      "cem",
+      "ter",
+      "aphy",
+      "kem"
+    ]
+  },
+  0
+]

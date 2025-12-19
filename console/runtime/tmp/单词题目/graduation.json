@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "graduation",
+      "error_analysis": "易因形近词\"grade\"(年级)或词根\"grad\"(步/级)误将\"graduation\"误判为\"年级\"\"逐渐的过程\"或\"升级\"",
+      "sentence": "She wore a white dress to her high school **graduation** and received her diploma on stage.",
+      "options": {
+        "option": [
+          {
+            "definition": "年级",
+            "iscorrect": false
+          },
+          {
+            "definition": "毕业（仪式/典礼）",
+            "iscorrect": true
+          },
+          {
+            "definition": "逐渐的过程",
+            "iscorrect": false
+          },
+          {
+            "definition": "升级",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

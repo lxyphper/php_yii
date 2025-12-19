@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to high-five",
+      "error_analysis": "学生易将\"high-five\"字面拆解为\"高的五\"或\"高举五指\"，而非正确的击掌动作",
+      "sentence": "After winning the game, the teammates ran towards each other to **high-five** and celebrate their victory.",
+      "options": {
+        "option": [
+          {
+            "definition": "（用手掌根部）互相击掌",
+            "iscorrect": true
+          },
+          {
+            "definition": "把五个手指举高",
+            "iscorrect": false
+          },
+          {
+            "definition": "击打对方五次",
+            "iscorrect": false
+          },
+          {
+            "definition": "跳得有五英尺高",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

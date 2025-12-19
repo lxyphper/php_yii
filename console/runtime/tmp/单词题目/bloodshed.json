@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bloodshed",
+      "error_analysis": "学生易将\"bloodshed\"字面理解为\"流血（动作）\"，忽略其\"暴力冲突导致的流血事件\"的核心名词含义",
+      "sentence": "The peace talks were held to prevent further **bloodshed** in the war-torn country.",
+      "options": {
+        "option": [
+          {
+            "definition": "（暴力冲突等造成的）流血事件；屠杀",
+            "iscorrect": true
+          },
+          {
+            "definition": "流血（动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "充血的（眼睛）",
+            "iscorrect": false
+          },
+          {
+            "definition": "血液捐赠",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "stalking",
+      "error_analysis": "学生易因形近词'talking'误以为是'交谈'，或因词根'stalk'（茎）误以为与'处理植物茎'相关。",
+      "sentence": "The actress reported that a stranger had been **stalking** her for weeks, showing up at her home and workplace uninvited.",
+      "options": {
+        "option": [
+          {
+            "definition": "交谈；闲聊",
+            "iscorrect": false
+          },
+          {
+            "definition": "修剪植物茎秆",
+            "iscorrect": false
+          },
+          {
+            "definition": "跟踪（尤指骚扰性地）",
+            "iscorrect": true
+          },
+          {
+            "definition": "等待；守候",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

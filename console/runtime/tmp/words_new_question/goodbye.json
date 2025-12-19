@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "goodbye",
+      "error_analysis": "中国学生易因“good”的字面义误导（误以为包含“好的”含义）或形近词“goodness”（善良）的干扰而错误理解“goodbye”的核心词义。",
+      "sentence": "As the train pulled away, Mary shouted **goodbye** to her parents on the platform.",
+      "options": {
+        "option": [
+          {
+            "definition": "再见",
+            "iscorrect": true
+          },
+          {
+            "definition": "好的",
+            "iscorrect": false
+          },
+          {
+            "definition": "善良",
+            "iscorrect": false
+          },
+          {
+            "definition": "美好的一天",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "failing",
+      "error_analysis": "学生易混淆形近词\"falling\"(下落的)，或误将\"failing\"理解为\"正在失败的行为\"(词根\"fail\"的过度推导)",
+      "sentence": "Despite his many talents, his biggest **failing** was his inability to take advice from others.",
+      "options": {
+        "option": [
+          {
+            "definition": "缺点，弱点",
+            "iscorrect": true
+          },
+          {
+            "definition": "下落的，下降的",
+            "iscorrect": false
+          },
+          {
+            "definition": "正在失败的行为",
+            "iscorrect": false
+          },
+          {
+            "definition": "成功的尝试",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

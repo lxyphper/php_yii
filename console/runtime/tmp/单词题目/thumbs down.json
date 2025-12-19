@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "thumbs down",
+      "error_analysis": "中国学生易将\"thumbs down\"字面理解为\"拇指向下的动作\"，或混淆形近词\"thumps down\"（重击向下），未掌握其\"反对\"的比喻义。",
+      "sentence": "When the manager proposed the new plan, most employees gave it a **thumbs down**.",
+      "options": {
+        "option": [
+          {
+            "definition": "反对；拒绝",
+            "iscorrect": true
+          },
+          {
+            "definition": "重击向下",
+            "iscorrect": false
+          },
+          {
+            "definition": "拇指向下的动作",
+            "iscorrect": false
+          },
+          {
+            "definition": "赞成的手势",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

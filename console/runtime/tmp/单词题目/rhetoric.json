@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rhetoric",
+      "error_analysis": "学生易将rhetoric误解为“演讲”（因与语言表达相关联想）或“节奏”（因拼写形近于rhythm）",
+      "sentence": "Many people were impressed by the politician's **rhetoric**, but few noticed the lack of concrete plans in his speech.",
+      "options": {
+        "option": [
+          {
+            "definition": "修辞；华丽的辞藻",
+            "iscorrect": true
+          },
+          {
+            "definition": "节奏",
+            "iscorrect": false
+          },
+          {
+            "definition": "演讲",
+            "iscorrect": false
+          },
+          {
+            "definition": "逻辑",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

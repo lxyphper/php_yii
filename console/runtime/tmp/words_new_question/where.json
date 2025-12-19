@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "where",
+      "error_analysis": "中国学生易因形近词“were”（是）或音近词“wear”（穿）混淆“where”的词义，误判为“是”或“穿”。",
+      "sentence": "Excuse me, do you know **where** the nearest subway station is?",
+      "options": {
+        "option": [
+          {
+            "definition": "哪里（疑问副词，询问地点）",
+            "iscorrect": true
+          },
+          {
+            "definition": "是（are的过去式）",
+            "iscorrect": false
+          },
+          {
+            "definition": "穿（衣服）",
+            "iscorrect": false
+          },
+          {
+            "definition": "什么时候（疑问副词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

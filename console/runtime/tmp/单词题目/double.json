@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "double",
+      "error_analysis": "因形近词'doubt'（怀疑）干扰或词根'du-'（二）过度直译，误将'double'理解为“怀疑”或“两个的”",
+      "sentence": "The price of coffee will **double** next month due to the supply shortage.",
+      "options": {
+        "option": [
+          {
+            "definition": "使加倍；翻倍",
+            "iscorrect": true
+          },
+          {
+            "definition": "怀疑；不确定",
+            "iscorrect": false
+          },
+          {
+            "definition": "两个的；一对的",
+            "iscorrect": false
+          },
+          {
+            "definition": "折叠；对折",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "aspirin",
+      "error_analysis": "学生易因形近词\"spirit\"（精神）误解\"aspirin\"为精神相关药物，或因\"spir\"词根错误联想为呼吸相关物品。",
+      "sentence": "After having a headache for hours, she took two **aspirin** and felt better soon.",
+      "options": {
+        "option": [
+          {
+            "definition": "阿司匹林（一种常用的止痛药和退烧药）",
+            "iscorrect": true
+          },
+          {
+            "definition": "精神兴奋剂（用于提升情绪或精力的药物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "呼吸辅助剂（帮助呼吸的药物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "维生素补充剂（补充维生素的片剂）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

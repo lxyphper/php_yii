@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "this",
+      "error_analysis": "学生易因形近词\"his\"（他的）或指示代词混淆将\"this\"误判为\"那个\"（that）",
+      "sentence": "Can you pass me **this** book on the table? It's the one with a red cover.",
+      "options": {
+        "option": [
+          {
+            "definition": "这个（指代近处的单数名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "他的（属于他的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "那个（指代远处的单数名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "这些（指代近处的复数名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "first-class",
+      "error_analysis": "学生易因“first”（第一）+“class”（阶级/班级）的字面组合，误将“first-class”理解为“第一阶级的”或“第一个班级的”，而非其核心义“一流的”。",
+      "sentence": "The new museum has received praise for its **first-class** exhibits and visitor experience.",
+      "options": {
+        "option": [
+          {
+            "definition": "一流的；顶级的",
+            "iscorrect": true
+          },
+          {
+            "definition": "第一阶级的",
+            "iscorrect": false
+          },
+          {
+            "definition": "第一个班级的",
+            "iscorrect": false
+          },
+          {
+            "definition": "头等舱的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

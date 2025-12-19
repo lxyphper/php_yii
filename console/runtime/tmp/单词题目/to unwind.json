@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to unwind",
+      "error_analysis": "学生易因“un-”（解开）和“wind”（缠绕）的字面义，将“to unwind”误解为“解开缠绕的东西”，或误判为“结束活动”。",
+      "sentence": "After a tiring day at work, Jack likes to **unwind** by playing video games with his friends.",
+      "options": {
+        "option": [
+          {
+            "definition": "放松（缓解压力或紧张）",
+            "iscorrect": true
+          },
+          {
+            "definition": "解开（如缠绕的绳子）",
+            "iscorrect": false
+          },
+          {
+            "definition": "结束（某项活动）",
+            "iscorrect": false
+          },
+          {
+            "definition": "忘记（烦恼的事情）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

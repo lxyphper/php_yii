@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fashion designer",
+      "error_analysis": "学生易因“designer”与“signer”形近误判为“时尚签名者”，或因将“designer”误作“design”而理解为“时尚设计（活动）”。",
+      "sentence": "The **fashion designer** presented her new collection of dresses at the Paris Fashion Week.",
+      "options": {
+        "option": [
+          {
+            "definition": "时尚设计师（从事时尚设计的专业人士）",
+            "iscorrect": true
+          },
+          {
+            "definition": "时尚设计（指设计时尚产品的活动或过程）",
+            "iscorrect": false
+          },
+          {
+            "definition": "时尚签名者（如为时尚品牌签名的明星）",
+            "iscorrect": false
+          },
+          {
+            "definition": "时尚秀的组织者（负责安排时尚秀的人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

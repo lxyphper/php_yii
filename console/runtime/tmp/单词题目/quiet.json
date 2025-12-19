@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "quiet",
+      "error_analysis": "容易与形近词\"quit\"(放弃)或\"quite\"(相当)混淆，误判为\"放弃的\"或\"相当的\"",
+      "sentence": "After a long day at work, she enjoyed sitting in the **quiet** garden, listening to the birds.",
+      "options": {
+        "option": [
+          {
+            "definition": "安静的；平静的",
+            "iscorrect": true
+          },
+          {
+            "definition": "放弃的；退出的",
+            "iscorrect": false
+          },
+          {
+            "definition": "相当的；非常的",
+            "iscorrect": false
+          },
+          {
+            "definition": "忙碌的；繁忙的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

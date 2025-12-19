@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to transform",
+      "error_analysis": "易与形近词“transfer”（转移）混淆，或因词根“form”过度直译为“改变形状”而忽略抽象的“彻底转变”义",
+      "sentence": "The invention of the internet has **transformed** the way people communicate and access information.",
+      "options": {
+        "option": [
+          {
+            "definition": "使彻底改变",
+            "iscorrect": true
+          },
+          {
+            "definition": "转移",
+            "iscorrect": false
+          },
+          {
+            "definition": "改变形状",
+            "iscorrect": false
+          },
+          {
+            "definition": "改革",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

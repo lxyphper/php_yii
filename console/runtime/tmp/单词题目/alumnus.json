@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "alumnus",
+      "error_analysis": "易因形近词“aluminum”（铝）混淆，或因词根“alere”（滋养）误判为“学习者”。",
+      "sentence": "John, an **alumnus** of Harvard, donated a large sum to his former university last year.",
+      "options": {
+        "option": [
+          {
+            "definition": "铝",
+            "iscorrect": false
+          },
+          {
+            "definition": "学习者",
+            "iscorrect": false
+          },
+          {
+            "definition": "毕业生",
+            "iscorrect": false
+          },
+          {
+            "definition": "（男）校友",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

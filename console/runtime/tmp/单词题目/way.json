@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "way",
+      "error_analysis": "学生易将‘way’的抽象含义‘方式、方法’误解为具体的‘道路、路线’，或因形近词‘war’（战争）产生错误联想。",
+      "sentence": "The **way** she organizes her study schedule impresses all her teachers.",
+      "options": {
+        "option": [
+          {
+            "definition": "方式、方法",
+            "iscorrect": true
+          },
+          {
+            "definition": "道路、路线",
+            "iscorrect": false
+          },
+          {
+            "definition": "战争",
+            "iscorrect": false
+          },
+          {
+            "definition": "等待",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

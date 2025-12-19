@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "art form",
+      "error_analysis": "学生易将\"form\"误理解为\"表格\"，从而把\"art form\"错误解释为\"艺术表格\"",
+      "sentence": "Painting, music, and dance are all examples of traditional **art forms** that have been cherished across different cultures.",
+      "options": {
+        "option": [
+          {
+            "definition": "艺术形式",
+            "iscorrect": true
+          },
+          {
+            "definition": "艺术表格",
+            "iscorrect": false
+          },
+          {
+            "definition": "艺术作品",
+            "iscorrect": false
+          },
+          {
+            "definition": "艺术课程",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

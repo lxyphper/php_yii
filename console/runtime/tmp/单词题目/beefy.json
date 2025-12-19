@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "beefy",
+      "error_analysis": "学生易将形容人的\"beefy\"错误理解为\"（食物）含有大量牛肉的\"（来自beef的形近及字面误导）",
+      "sentence": "The security guard at the door is a **beefy** man with broad shoulders.",
+      "options": {
+        "option": [
+          {
+            "definition": "（食物）含有大量牛肉的",
+            "iscorrect": false
+          },
+          {
+            "definition": "强壮的，肌肉发达的",
+            "iscorrect": true
+          },
+          {
+            "definition": "（味道）像牛肉的",
+            "iscorrect": false
+          },
+          {
+            "definition": "像牛肉一样硬的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

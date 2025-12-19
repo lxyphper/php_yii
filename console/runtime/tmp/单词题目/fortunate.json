@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fortunate",
+      "error_analysis": "易因形近词\"fortune\"（财富）误解为\"富有的\"，或因词根\"fortun-\"（命运）误解为\"命运的\"",
+      "sentence": "She felt **fortunate** to get the last ticket to the concert before it sold out.",
+      "options": {
+        "option": [
+          {
+            "definition": "幸运的",
+            "iscorrect": true
+          },
+          {
+            "definition": "富有的",
+            "iscorrect": false
+          },
+          {
+            "definition": "命运的",
+            "iscorrect": false
+          },
+          {
+            "definition": "努力的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

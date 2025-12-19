@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "docket",
+      "error_analysis": "学生易因形近词\"pocket\"误判为\"口袋\"，或因词根\"doc\"（文件）误推为\"文件袋\"",
+      "sentence": "The judge asked the clerk to check the **docket** to see when the next case would be heard.",
+      "options": {
+        "option": [
+          {
+            "definition": "口袋",
+            "iscorrect": false
+          },
+          {
+            "definition": "（法院的）案件目录；待办事项清单",
+            "iscorrect": true
+          },
+          {
+            "definition": "文件袋",
+            "iscorrect": false
+          },
+          {
+            "definition": "会议记录",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

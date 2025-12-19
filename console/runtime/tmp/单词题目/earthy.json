@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "earthy",
+      "error_analysis": "学生易将\"earthy\"直译为\"地球的\"或\"泥土的\"，忽略其\"朴实/接地气\"的核心引申义",
+      "sentence": "The chef's **earthy** recipes, using only local vegetables and simple spices, were a hit with the small-town community.",
+      "options": {
+        "option": [
+          {
+            "definition": "朴实的；接地气的",
+            "iscorrect": true
+          },
+          {
+            "definition": "地球的；与地球相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "泥土的；土质的",
+            "iscorrect": false
+          },
+          {
+            "definition": "耳朵的；听觉的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fracking",
+      "error_analysis": "学生易因形近词\"racking\"（折磨）误判为\"痛苦\"，或因词根\"fracture\"（断裂）泛化为\"破碎过程\"，而非具体的油气开采技术。",
+      "sentence": "The energy company employed **fracking** to access natural gas reserves trapped in deep shale rocks.",
+      "options": {
+        "option": [
+          {
+            "definition": "折磨；令人痛苦的状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "断裂；破碎的过程",
+            "iscorrect": false
+          },
+          {
+            "definition": "水力压裂法（开采石油或天然气的一种技术）",
+            "iscorrect": true
+          },
+          {
+            "definition": "货架；放置物品的支架",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

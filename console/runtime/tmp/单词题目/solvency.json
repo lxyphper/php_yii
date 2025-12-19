@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "solvency",
+      "error_analysis": "学生易因词根“solv-”（解决）误解为“解决问题的能力”，或因形近词“solvent”（溶剂）误解为“溶解性”。",
+      "sentence": "The company’s recent profit growth has greatly improved its **solvency**, allowing it to repay all outstanding debts ahead of schedule.",
+      "options": {
+        "option": [
+          {
+            "definition": "溶解性",
+            "iscorrect": false
+          },
+          {
+            "definition": "解决问题的能力",
+            "iscorrect": false
+          },
+          {
+            "definition": "偿债能力；支付能力",
+            "iscorrect": true
+          },
+          {
+            "definition": "孤独状态",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

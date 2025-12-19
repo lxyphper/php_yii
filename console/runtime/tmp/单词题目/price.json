@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "price",
+      "error_analysis": "学生易将“price”与形近词“prize”（奖品）混淆，误判为“奖品”",
+      "sentence": "The **price** of this book is 20 dollars, so I think it's affordable.",
+      "options": {
+        "option": [
+          {
+            "definition": "价格",
+            "iscorrect": true
+          },
+          {
+            "definition": "奖品",
+            "iscorrect": false
+          },
+          {
+            "definition": "练习",
+            "iscorrect": false
+          },
+          {
+            "definition": "骄傲",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to continue",
+      "error_analysis": "中国学生易因形近词“contain”（包含）的拼写相似性，将“to continue”误理解为“包含”。",
+      "sentence": "After a short break, the teacher asked the students to **continue** their group discussion.",
+      "options": {
+        "option": [
+          {
+            "definition": "继续",
+            "iscorrect": true
+          },
+          {
+            "definition": "包含",
+            "iscorrect": false
+          },
+          {
+            "definition": "保持",
+            "iscorrect": false
+          },
+          {
+            "definition": "连接",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

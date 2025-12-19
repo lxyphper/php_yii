@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "milligram",
+      "error_analysis": "学生易将前缀“mill-”误作“百万”（如million）而把milligram错解为“百万克”，或混淆形近词millimeter（毫米）的单位类型",
+      "sentence": "The recommended daily dose of this vitamin is 500 **milligrams** for adults.",
+      "options": {
+        "option": [
+          {
+            "definition": "毫克",
+            "iscorrect": true
+          },
+          {
+            "definition": "百万克",
+            "iscorrect": false
+          },
+          {
+            "definition": "毫米",
+            "iscorrect": false
+          },
+          {
+            "definition": "千克",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

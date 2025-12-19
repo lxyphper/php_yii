@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "league",
+      "error_analysis": "学生易因形近词\"leak\"（泄漏）混淆\"league\"的含义，或因字面含\"leg\"（腿）的联想误判为与肢体相关的事物",
+      "sentence": "The new football **league** will start next month with 12 teams competing for the championship.",
+      "options": {
+        "option": [
+          {
+            "definition": "联盟；联赛",
+            "iscorrect": true
+          },
+          {
+            "definition": "泄漏；漏洞",
+            "iscorrect": false
+          },
+          {
+            "definition": "腿；腿部",
+            "iscorrect": false
+          },
+          {
+            "definition": "团队；队伍",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

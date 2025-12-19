@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bathroom",
+      "error_analysis": "学生易因形近词\"bedroom\"(卧室)的干扰，或误将\"bath\"的\"浴缸\"义过度直译，把\"bathroom\"错认为\"卧室\"或\"浴缸\"",
+      "sentence": "She is taking a shower, so please wait outside the **bathroom**.",
+      "options": {
+        "option": [
+          {
+            "definition": "浴室",
+            "iscorrect": true
+          },
+          {
+            "definition": "卧室",
+            "iscorrect": false
+          },
+          {
+            "definition": "浴缸",
+            "iscorrect": false
+          },
+          {
+            "definition": "阳台",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

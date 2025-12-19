@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "book",
+      "error_analysis": "中国学生易因形近词\"look\"（看）的干扰，将\"book\"（书）误理解为\"看\"。",
+      "sentence": "I bought a new **book** to read during the weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "书",
+            "iscorrect": true
+          },
+          {
+            "definition": "看",
+            "iscorrect": false
+          },
+          {
+            "definition": "烹饪",
+            "iscorrect": false
+          },
+          {
+            "definition": "预订",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

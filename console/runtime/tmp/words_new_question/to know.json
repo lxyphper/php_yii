@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to know",
+      "error_analysis": "学生可能因“know”与形近词“no”（不）或“knot”（打结）拼写接近而产生错误词义联想",
+      "sentence": "Do you **know** how to solve this math problem?",
+      "options": {
+        "option": [
+          {
+            "definition": "不",
+            "iscorrect": false
+          },
+          {
+            "definition": "打结",
+            "iscorrect": false
+          },
+          {
+            "definition": "想",
+            "iscorrect": false
+          },
+          {
+            "definition": "知道",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

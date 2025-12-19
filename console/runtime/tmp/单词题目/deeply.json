@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "deeply",
+      "error_analysis": "学生易因词根“deep”（深的）误导，将“deeply”仅理解为具体的“深地”（如物理深度），忽略其抽象的“深深地（情感/程度）”的核心含义。",
+      "sentence": "The movie's message about friendship touched me **deeply**.",
+      "options": {
+        "option": [
+          {
+            "definition": "深地（物理上，如洞穴或水的深度）",
+            "iscorrect": false
+          },
+          {
+            "definition": "深深地（情感上或程度上）",
+            "iscorrect": true
+          },
+          {
+            "definition": "昂贵地（at a high price）",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速地（with speed）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

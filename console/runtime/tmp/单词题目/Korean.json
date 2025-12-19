@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Korean",
+      "error_analysis": "将“Korean”误理解为国家名称“韩国”（Korea），忽略其“韩国的/韩国人/韩语”的核心含义",
+      "sentence": "My new friend is **Korean** and she often teaches me how to say \"hello\" in her native language.",
+      "options": {
+        "option": [
+          {
+            "definition": "韩国的；韩国人；韩语",
+            "iscorrect": true
+          },
+          {
+            "definition": "韩国（国家）",
+            "iscorrect": false
+          },
+          {
+            "definition": "朝鲜人；朝鲜的",
+            "iscorrect": false
+          },
+          {
+            "definition": "日本的；日本人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

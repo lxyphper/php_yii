@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "positive",
+      "error_analysis": "中国学生易将“positive”与形近词“possible”（可能的）混淆，或因词根“pos”（放置）错误推导为“位置的”",
+      "sentence": "She has a **positive** attitude towards her studies, so she always gets good grades.",
+      "options": {
+        "option": [
+          {
+            "definition": "积极的",
+            "iscorrect": true
+          },
+          {
+            "definition": "可能的",
+            "iscorrect": false
+          },
+          {
+            "definition": "位置的",
+            "iscorrect": false
+          },
+          {
+            "definition": "肯定的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

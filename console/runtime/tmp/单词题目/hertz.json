@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hertz",
+      "error_analysis": "学生易因形近词“heart”（心脏）产生错误联想，或误将其视为人名而非频率单位",
+      "sentence": "The frequency of a sound wave is measured in **hertz**, representing the number of vibrations per second.",
+      "options": {
+        "option": [
+          {
+            "definition": "心脏（器官）",
+            "iscorrect": false
+          },
+          {
+            "definition": "伤害（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "赫兹（频率单位）",
+            "iscorrect": true
+          },
+          {
+            "definition": "赫茨（德国物理学家）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

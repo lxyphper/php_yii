@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "expressionism",
+      "error_analysis": "学生易根据词根\"expression\"（表达）和后缀\"-ism\"（主义），将其错误理解为\"表达情感或思想的一般方式\"，而非艺术领域的特定流派\"表现主义\"。",
+      "sentence": "Edvard Munch's *The Scream* is a famous example of **expressionism**, which emphasizes intense emotion and distorted forms over realistic representation.",
+      "options": {
+        "option": [
+          {
+            "definition": "（艺术或文学中的）表现主义",
+            "iscorrect": true
+          },
+          {
+            "definition": "表达情感或思想的一般方式",
+            "iscorrect": false
+          },
+          {
+            "definition": "印象主义（一种强调光与色的艺术流派）",
+            "iscorrect": false
+          },
+          {
+            "definition": "艺术创作中使用的表现手法",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

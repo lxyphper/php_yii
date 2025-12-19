@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nescient",
+      "error_analysis": "学生易因形近词\"ancient\"(古代的)干扰及词根\"sci\"(知道)的否定前缀\"ne-\"未被正确识别，将\"nescient\"误解为\"古代的\"或\"有知识的\"",
+      "sentence": "Despite his confident tone, John was actually **nescient** about the basic rules of the game.",
+      "options": {
+        "option": [
+          {
+            "definition": "无知的；缺乏知识的",
+            "iscorrect": true
+          },
+          {
+            "definition": "古代的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有科学知识的",
+            "iscorrect": false
+          },
+          {
+            "definition": "疏忽的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "heist",
+      "error_analysis": "学生易因形近词“height”（高度）的拼写/发音混淆，或因“-ist”后缀误判“heist”为表示人的名词（如“抢劫者”）。",
+      "sentence": "The police are investigating a major bank **heist** that happened last night, where thieves stole over a million dollars.",
+      "options": {
+        "option": [
+          {
+            "definition": "高度（n. 身高；高度）",
+            "iscorrect": false
+          },
+          {
+            "definition": "抢劫者（n. 实施抢劫的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "抢劫（n. 尤指有计划的重大盗窃行为）",
+            "iscorrect": true
+          },
+          {
+            "definition": "徒步旅行（n. 长途步行）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

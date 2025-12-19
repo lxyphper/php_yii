@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "downhearted",
+      "error_analysis": "中国学生易因\"down\"+\"hearted\"的字面拆分（词根误导）误以为是\"心向下的/软弱的\"，或因形近词（如\"hearty\"）混淆为\"热情的\"。",
+      "sentence": "After failing the exam for the third time, Sarah felt **downhearted** and didn’t want to talk to anyone.",
+      "options": {
+        "option": [
+          {
+            "definition": "沮丧的；情绪低落的",
+            "iscorrect": true
+          },
+          {
+            "definition": "心向下的；软弱的",
+            "iscorrect": false
+          },
+          {
+            "definition": "热情的；衷心的",
+            "iscorrect": false
+          },
+          {
+            "definition": "向下的；倾斜的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "homemade",
+      "error_analysis": "学生易因“home”+“made”的字面联想，将“homemade”错误理解为“家庭制造的”（如工厂生产），而非“家庭制作的”（如家里做的食物或手工品）。",
+      "sentence": "My mom brought a **homemade** apple pie to the party, and everyone loved its warm, familiar taste.",
+      "options": {
+        "option": [
+          {
+            "definition": "家庭制作的（如家里做的食物或手工品）",
+            "iscorrect": true
+          },
+          {
+            "definition": "本土生长的（如当地种植的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "家庭制造的（如工厂生产的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "手工制作的（如用手做的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

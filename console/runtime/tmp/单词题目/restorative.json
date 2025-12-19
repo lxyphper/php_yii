@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "restorative",
+      "error_analysis": "学生易因形近词“restrictive”（限制的）或词根误推为“恢复秩序的”而混淆其核心义“滋补的；恢复健康的”",
+      "sentence": "After a long hike, the hot soup felt incredibly **restorative** and helped ease her tired muscles.",
+      "options": {
+        "option": [
+          {
+            "definition": "限制的",
+            "iscorrect": false
+          },
+          {
+            "definition": "宁静的",
+            "iscorrect": false
+          },
+          {
+            "definition": "滋补的；恢复健康的",
+            "iscorrect": true
+          },
+          {
+            "definition": "恢复秩序的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

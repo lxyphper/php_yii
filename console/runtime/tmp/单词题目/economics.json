@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "economics",
+      "error_analysis": "学生易因“eco-”前缀与“ecology”（生态学）形近，或词根“eco-”（环境/家庭）误导，将“economics”误判为与生态或家庭管理相关的学科。",
+      "sentence": "My sister is studying **economics** at university because she wants to understand how governments make decisions about taxes and jobs.",
+      "options": {
+        "option": [
+          {
+            "definition": "经济学",
+            "iscorrect": true
+          },
+          {
+            "definition": "生态学",
+            "iscorrect": false
+          },
+          {
+            "definition": "环境管理学",
+            "iscorrect": false
+          },
+          {
+            "definition": "家庭管理学",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

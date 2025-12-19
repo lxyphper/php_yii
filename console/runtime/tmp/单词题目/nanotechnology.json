@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "nanotechnology",
+      "error_analysis": "学生易因不熟悉前缀\"nano-\"（纳米），误将\"nanotechnology\"猜为\"网络技术\"（形近\"network\"）或\"新型技术\"（\"nano\"与\"new\"发音混淆）。",
+      "sentence": "Scientists are using **nanotechnology** to develop tiny sensors that can detect diseases in the human body at an early stage.",
+      "options": {
+        "option": [
+          {
+            "definition": "纳米技术",
+            "iscorrect": true
+          },
+          {
+            "definition": "网络技术",
+            "iscorrect": false
+          },
+          {
+            "definition": "新型技术",
+            "iscorrect": false
+          },
+          {
+            "definition": "自然技术",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

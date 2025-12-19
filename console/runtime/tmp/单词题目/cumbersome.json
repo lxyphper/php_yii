@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cumbersome",
+      "error_analysis": "学生易因形近词“cumulative”（累积的）或词根误解（如猜测为“复杂的”）而误判词义",
+      "sentence": "Moving the **cumbersome** sofa through the narrow doorway took three people.",
+      "options": {
+        "option": [
+          {
+            "definition": "累积的；渐增的",
+            "iscorrect": false
+          },
+          {
+            "definition": "复杂的；难懂的",
+            "iscorrect": false
+          },
+          {
+            "definition": "笨重的；难以移动的",
+            "iscorrect": true
+          },
+          {
+            "definition": "舒适的；安逸的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

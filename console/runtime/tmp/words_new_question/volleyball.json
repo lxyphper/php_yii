@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "volleyball",
+      "error_analysis": "学生易因形近词“volunteer”（志愿者）混淆，或拆分“volley”猜测为“截击球”等错误含义",
+      "sentence": "We are going to play **volleyball** on the beach this weekend. Do you want to join us?",
+      "options": {
+        "option": [
+          {
+            "definition": "志愿者",
+            "iscorrect": false
+          },
+          {
+            "definition": "体积球",
+            "iscorrect": false
+          },
+          {
+            "definition": "排球",
+            "iscorrect": true
+          },
+          {
+            "definition": "截击球",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

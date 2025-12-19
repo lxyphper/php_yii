@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to request",
+      "error_analysis": "中国学生易因形近词\"require\"（需要）干扰，或词根\"quest\"（寻找）误导，将\"to request\"错误理解为\"需要\"或\"寻找\"。",
+      "sentence": "The customer called to **request** a refund for the damaged product.",
+      "options": {
+        "option": [
+          {
+            "definition": "请求；要求",
+            "iscorrect": true
+          },
+          {
+            "definition": "需要；要求",
+            "iscorrect": false
+          },
+          {
+            "definition": "寻找；探索",
+            "iscorrect": false
+          },
+          {
+            "definition": "回复；回应",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

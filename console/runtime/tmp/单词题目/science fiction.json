@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "science fiction",
+      "error_analysis": "学生易因“fiction”与形近词“friction”（摩擦）混淆，或误将“fiction”理解为“fact”（事实），导致把“science fiction”错解为“科学摩擦”或“科学事实”。",
+      "sentence": "Many kids love reading **science fiction** books about space adventures and robots from other planets.",
+      "options": {
+        "option": [
+          {
+            "definition": "科幻小说（或科幻作品）",
+            "iscorrect": true
+          },
+          {
+            "definition": "科学摩擦",
+            "iscorrect": false
+          },
+          {
+            "definition": "科学事实",
+            "iscorrect": false
+          },
+          {
+            "definition": "科学论文",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

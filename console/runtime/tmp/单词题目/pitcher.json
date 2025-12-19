@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pitcher",
+      "error_analysis": "中国学生易因形近词“picture”（图片）产生错误联想，或因词根“pitch”（投掷）猜测为“投手”，而忽略“pitcher”“水罐”的核心词义。",
+      "sentence": "She poured some lemonade from the **pitcher** into a glass and handed it to me.",
+      "options": {
+        "option": [
+          {
+            "definition": "图片",
+            "iscorrect": false
+          },
+          {
+            "definition": "投手；投掷者",
+            "iscorrect": false
+          },
+          {
+            "definition": "水罐；（装液体的）容器",
+            "iscorrect": true
+          },
+          {
+            "definition": "画家",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

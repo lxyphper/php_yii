@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to pile",
+      "error_analysis": "中国学生易因形近词\"pale\"(苍白的)误判\"to pile\"，或因字面误导将其理解为\"整齐排列\"而非\"堆积\"。",
+      "sentence": "Can you help me **pile** the clean clothes on the bed while I fold the towels?",
+      "options": {
+        "option": [
+          {
+            "definition": "堆积，堆放",
+            "iscorrect": true
+          },
+          {
+            "definition": "变得苍白",
+            "iscorrect": false
+          },
+          {
+            "definition": "整齐排列",
+            "iscorrect": false
+          },
+          {
+            "definition": "缝合，修补",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

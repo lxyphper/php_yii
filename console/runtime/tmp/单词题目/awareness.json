@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "awareness",
+      "error_analysis": "学生易将\"awareness\"与形近词\"awake\"（醒着的）混淆，误解为\"清醒状态\"；或因\"aware\"的\"知道\"义过度延伸为\"知识\"。",
+      "sentence": "The campaign aims to raise public **awareness** of the importance of recycling.",
+      "options": {
+        "option": [
+          {
+            "definition": "意识；觉察",
+            "iscorrect": true
+          },
+          {
+            "definition": "清醒状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "知识",
+            "iscorrect": false
+          },
+          {
+            "definition": "注意",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to freeze",
+      "error_analysis": "学生易因形近词\"free\"（自由）的干扰，将\"to freeze\"错误理解为\"使自由\"或\"释放\"",
+      "sentence": "If you leave the bottle of water outside in winter, it will **freeze** overnight.",
+      "options": {
+        "option": [
+          {
+            "definition": "（使）冻结；结冰",
+            "iscorrect": true
+          },
+          {
+            "definition": "使自由；释放",
+            "iscorrect": false
+          },
+          {
+            "definition": "逃跑；逃离",
+            "iscorrect": false
+          },
+          {
+            "definition": "使新鲜；保鲜",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

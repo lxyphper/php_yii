@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to enjoin",
+      "error_analysis": "学生易因形近混淆\"enjoin\"与\"enjoy\"（享受），或误通过词根\"join\"推导为\"使加入\"。",
+      "sentence": "The judge will **enjoin** the company from releasing the unsafe product until further investigation.",
+      "options": {
+        "option": [
+          {
+            "definition": "享受",
+            "iscorrect": false
+          },
+          {
+            "definition": "使加入；连接",
+            "iscorrect": false
+          },
+          {
+            "definition": "命令；责令",
+            "iscorrect": true
+          },
+          {
+            "definition": "鼓励",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "source",
+      "error_analysis": "学生易混淆形近词\"course\"(课程)，或误将\"source\"等同于\"resource\"(资源)。",
+      "sentence": "The journalist always verifies the **source** of the news before writing the report.",
+      "options": {
+        "option": [
+          {
+            "definition": "课程（如学校的课程）",
+            "iscorrect": false
+          },
+          {
+            "definition": "资源（如自然资源）",
+            "iscorrect": false
+          },
+          {
+            "definition": "来源（尤指信息、新闻的出处）",
+            "iscorrect": true
+          },
+          {
+            "definition": "源头（如河流的起点）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

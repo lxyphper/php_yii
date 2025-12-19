@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to oppose",
+      "error_analysis": "中国学生易因形近词\"propose\"（提议）的干扰，或词根\"op-\"（相反）与\"pro-\"（支持）的混淆而误判为\"提议\"或\"支持\"",
+      "sentence": "Many local residents **oppose** the city's plan to build a noisy airport near their quiet neighborhood.",
+      "options": {
+        "option": [
+          {
+            "definition": "反对",
+            "iscorrect": true
+          },
+          {
+            "definition": "提议",
+            "iscorrect": false
+          },
+          {
+            "definition": "支持",
+            "iscorrect": false
+          },
+          {
+            "definition": "放置",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

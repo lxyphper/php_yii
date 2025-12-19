@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "alcoholic",
+      "error_analysis": "学生易因词根\"alcohol\"(酒精)+\"-ic\"后缀误判为形容词\"酒精的\"，忽略其核心名词含义\"酗酒者\"",
+      "sentence": "After years of heavy drinking, Tom was diagnosed as an **alcoholic** and advised to seek professional help.",
+      "options": {
+        "option": [
+          {
+            "definition": "酗酒者；酒精成瘾者",
+            "iscorrect": true
+          },
+          {
+            "definition": "酒精的；含酒精的",
+            "iscorrect": false
+          },
+          {
+            "definition": "学术的；学者的",
+            "iscorrect": false
+          },
+          {
+            "definition": "酒精瓶；酒壶",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

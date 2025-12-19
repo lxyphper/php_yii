@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "steel",
+      "error_analysis": "易与形近词\"steal\"(偷)混淆，或误联想为\"steam\"(蒸汽)等形近词",
+      "sentence": "The bridge is built with **steel** to make it strong enough to hold heavy trucks.",
+      "options": {
+        "option": [
+          {
+            "definition": "偷；窃取",
+            "iscorrect": false
+          },
+          {
+            "definition": "钢；钢铁",
+            "iscorrect": true
+          },
+          {
+            "definition": "蒸汽；水蒸气",
+            "iscorrect": false
+          },
+          {
+            "definition": "陡峭的；险峻的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "URL",
+      "error_analysis": "学生易因不熟悉缩写含义，将URL误猜为“用户资源链接”（U=User）或“通用检索语言”（L=Language）。",
+      "sentence": "When you type a **URL** like \"https://www.example.com\" into your browser, it takes you to the specific web page you want.",
+      "options": {
+        "option": [
+          {
+            "definition": "统一资源定位符",
+            "iscorrect": true
+          },
+          {
+            "definition": "用户资源链接",
+            "iscorrect": false
+          },
+          {
+            "definition": "通用检索语言",
+            "iscorrect": false
+          },
+          {
+            "definition": "不明飞行物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

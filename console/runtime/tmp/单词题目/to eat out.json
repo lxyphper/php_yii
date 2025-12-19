@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to eat out",
+      "error_analysis": "学生易因“out”的字面含义误将“eat out”理解为“把食物从里面吃出来”，或混淆其与“take out”（外卖）的含义",
+      "sentence": "My family likes to **eat out** on special occasions, like birthdays or anniversaries.",
+      "options": {
+        "option": [
+          {
+            "definition": "外出就餐（在餐馆或其他地方吃，不在家）",
+            "iscorrect": true
+          },
+          {
+            "definition": "把食物从里面吃出来（比如从盒子或袋子里）",
+            "iscorrect": false
+          },
+          {
+            "definition": "把食物带走（外卖）",
+            "iscorrect": false
+          },
+          {
+            "definition": "吃完所有食物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

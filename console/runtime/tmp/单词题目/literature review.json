@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "literature review",
+      "error_analysis": "学生易将其误理解为“文学评论”（源于“literature”的“文学”义与“review”的“评论”义直译）或“文学复习”（源于“review”的“复习”义误导）",
+      "sentence": "Before starting his thesis, John spent months conducting a **literature review** to synthesize and evaluate existing research on his topic.",
+      "options": {
+        "option": [
+          {
+            "definition": "文献综述（学术研究中对相关文献的综合分析与评价）",
+            "iscorrect": true
+          },
+          {
+            "definition": "文学评论（对文学作品的分析与评价）",
+            "iscorrect": false
+          },
+          {
+            "definition": "文学复习（对文学知识的回顾与复习）",
+            "iscorrect": false
+          },
+          {
+            "definition": "文献摘要（对单篇文献内容的简要概括）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

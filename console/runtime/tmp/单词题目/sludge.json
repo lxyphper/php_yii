@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sludge",
+      "error_analysis": "学生易因形近词'smudge'(污迹)混淆，或因'sl-'词根联想错误认为与'滑动'相关。",
+      "sentence": "The factory had to treat the toxic **sludge** from its wastewater before discharging it into the river.",
+      "options": {
+        "option": [
+          {
+            "definition": "浓稠的淤泥；污泥",
+            "iscorrect": true
+          },
+          {
+            "definition": "污迹；污渍",
+            "iscorrect": false
+          },
+          {
+            "definition": "滑动的物体；滑梯",
+            "iscorrect": false
+          },
+          {
+            "definition": "雪泥；半融的雪",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

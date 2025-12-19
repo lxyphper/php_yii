@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "skeptical",
+      "error_analysis": "学生易因形近词“skeleton”（骨架）猜测为“与骨骼相关的”，或因“-ical”后缀联想到“critical”（批评的）而误判词义。",
+      "sentence": "Many people are **skeptical** about the new diet plan, saying it sounds too good to be true.",
+      "options": {
+        "option": [
+          {
+            "definition": "怀疑的，不信任的",
+            "iscorrect": true
+          },
+          {
+            "definition": "与骨骼相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "批评的",
+            "iscorrect": false
+          },
+          {
+            "definition": "实际的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

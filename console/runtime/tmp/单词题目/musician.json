@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "musician",
+      "error_analysis": "易因形近词\"magician\"(魔术师)的干扰或对\"-ian\"后缀的过度联想(如误判为\"音乐教师\")而错误理解词义",
+      "sentence": "The young **musician** played the piano so beautifully that the audience gave him a standing ovation.",
+      "options": {
+        "option": [
+          {
+            "definition": "音乐家",
+            "iscorrect": true
+          },
+          {
+            "definition": "魔术师",
+            "iscorrect": false
+          },
+          {
+            "definition": "音乐教师",
+            "iscorrect": false
+          },
+          {
+            "definition": "音乐爱好者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "poisonous",
+      "error_analysis": "学生易因形近词precious（珍贵的）或混淆poison与potion（药剂）而误判词义",
+      "sentence": "The mushrooms in the forest are **poisonous**, so you must not eat them.",
+      "options": {
+        "option": [
+          {
+            "definition": "有毒的",
+            "iscorrect": true
+          },
+          {
+            "definition": "珍贵的",
+            "iscorrect": false
+          },
+          {
+            "definition": "有药效的",
+            "iscorrect": false
+          },
+          {
+            "definition": "沉重的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

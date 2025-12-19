@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "thriller",
+      "error_analysis": "学生易因形近词“thrill”（兴奋）的联想或“iller”后缀（表“做某事的人/物”）的误导，误将“thriller”理解为“令人兴奋的事物”或“让人兴奋的人”。",
+      "sentence": "She couldn’t put down the **thriller** until she finished it—every chapter had a new twist that kept her on the edge of her seat.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人兴奋的活动",
+            "iscorrect": false
+          },
+          {
+            "definition": "让人兴奋的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "惊悚小说/电影",
+            "iscorrect": true
+          },
+          {
+            "definition": "恐怖电影",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

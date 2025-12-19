@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "here",
+      "error_analysis": "学生易因形近词“there”（那里）的拼写接近而混淆，将“here”误理解为“那里”",
+      "sentence": "Please come **here** and help me with this box.",
+      "options": {
+        "option": [
+          {
+            "definition": "这里",
+            "iscorrect": true
+          },
+          {
+            "definition": "那里",
+            "iscorrect": false
+          },
+          {
+            "definition": "她的",
+            "iscorrect": false
+          },
+          {
+            "definition": "听",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

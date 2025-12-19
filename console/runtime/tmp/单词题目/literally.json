@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "literally",
+      "error_analysis": "混淆形近词“literary”（文学的）或误按词根“liter-”（字母）直译为“字面上地”，忽略其“确实/简直”的核心义",
+      "sentence": "I was so hungry that I **literally** ate three burgers for lunch.",
+      "options": {
+        "option": [
+          {
+            "definition": "文学地",
+            "iscorrect": false
+          },
+          {
+            "definition": "字面上地",
+            "iscorrect": false
+          },
+          {
+            "definition": "确实；简直",
+            "iscorrect": true
+          },
+          {
+            "definition": "比喻地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

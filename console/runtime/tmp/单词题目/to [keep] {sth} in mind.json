@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to [keep] {sth} in mind",
+      "error_analysis": "中国学生易将“to keep sth in mind”与结构相似的“keep sth in check”（控制某事）混淆，或误理解为“思考某事”而非“记住某事”。",
+      "sentence": "When planning the party, please **keep the guests' dietary restrictions in mind** to avoid any problems.",
+      "options": {
+        "option": [
+          {
+            "definition": "控制某事",
+            "iscorrect": false
+          },
+          {
+            "definition": "记住某事",
+            "iscorrect": true
+          },
+          {
+            "definition": "思考某事",
+            "iscorrect": false
+          },
+          {
+            "definition": "介意某事",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

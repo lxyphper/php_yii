@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "briefcase",
+      "error_analysis": "学生易因“brief”（摘要/简短的）与“case”（箱子/夹）的字面组合，误将“briefcase”理解为“摘要夹”或“简短的箱子”。",
+      "sentence": "He picked up his **briefcase** from the desk and headed to the meeting, making sure all the important documents were inside.",
+      "options": {
+        "option": [
+          {
+            "definition": "公文包",
+            "iscorrect": true
+          },
+          {
+            "definition": "摘要夹",
+            "iscorrect": false
+          },
+          {
+            "definition": "行李箱",
+            "iscorrect": false
+          },
+          {
+            "definition": "手提包",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

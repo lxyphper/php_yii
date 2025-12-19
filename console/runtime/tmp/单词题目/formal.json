@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "formal",
+      "error_analysis": "易因形近词“former”（以前的）混淆，或词根“form”（形式）误判为“形式上的”，忽略“正式的”核心义。",
+      "sentence": "The company holds a **formal** meeting every month to discuss important issues.",
+      "options": {
+        "option": [
+          {
+            "definition": "正式的",
+            "iscorrect": true
+          },
+          {
+            "definition": "以前的",
+            "iscorrect": false
+          },
+          {
+            "definition": "形式上的",
+            "iscorrect": false
+          },
+          {
+            "definition": "正常的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "antipasto",
+      "error_analysis": "中国学生易因\"anti-\"（反）和\"pasto\"（误联\"pasta\"或\"paste\"）猜测\"反意大利面\"或\"浆糊状调料\"，忽略其为意大利餐冷盘前菜的含义。",
+      "sentence": "At the Italian bistro, we shared a **antipasto** plate with marinated artichokes, mozzarella balls, and thin slices of prosciutto.",
+      "options": {
+        "option": [
+          {
+            "definition": "意大利餐的冷盘前菜",
+            "iscorrect": true
+          },
+          {
+            "definition": "反意大利面的菜肴",
+            "iscorrect": false
+          },
+          {
+            "definition": "浆糊状的调味酱料",
+            "iscorrect": false
+          },
+          {
+            "definition": "餐后的甜点拼盘",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

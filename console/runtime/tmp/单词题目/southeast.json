@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "southeast",
+      "error_analysis": "学生易因`southeast`与形近词`southwest`（西南）混淆，或误将其理解为`southeaster`（东南风）而犯错。",
+      "sentence": "The city of Xiamen is located in the **southeast** of China.",
+      "options": {
+        "option": [
+          {
+            "definition": "西南",
+            "iscorrect": false
+          },
+          {
+            "definition": "东南风",
+            "iscorrect": false
+          },
+          {
+            "definition": "东南",
+            "iscorrect": true
+          },
+          {
+            "definition": "东北",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

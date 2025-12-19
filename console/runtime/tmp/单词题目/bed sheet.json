@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bed sheet",
+      "error_analysis": "将'sheet'误联想为形近词'seat'(座位)或字面理解为'纸张',导致误解'bed sheet'为床座位或床用纸张",
+      "sentence": "After taking a shower, she changed the **bed sheet** to make the bed feel fresh.",
+      "options": {
+        "option": [
+          {
+            "definition": "床单",
+            "iscorrect": true
+          },
+          {
+            "definition": "床座位",
+            "iscorrect": false
+          },
+          {
+            "definition": "床用纸张",
+            "iscorrect": false
+          },
+          {
+            "definition": "床罩",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

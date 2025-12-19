@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to get together",
+      "error_analysis": "学生易因“get”的“获得”义或与“get along”结构相似，错误理解为“一起获得某物”或“一起相处”",
+      "sentence": "My friends and I plan to **get together** at the café this Saturday to celebrate Lisa's birthday.",
+      "options": {
+        "option": [
+          {
+            "definition": "聚会；相聚",
+            "iscorrect": true
+          },
+          {
+            "definition": "一起获得某物",
+            "iscorrect": false
+          },
+          {
+            "definition": "一起相处",
+            "iscorrect": false
+          },
+          {
+            "definition": "把...放在一起",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

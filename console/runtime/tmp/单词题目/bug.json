@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bug",
+      "error_analysis": "学生易混淆形近词“bag”（包），或误将计算机语境中的“bug”理解为字面义“虫子”。",
+      "sentence": "The developer spent hours fixing the **bug** in the new app before its release.",
+      "options": {
+        "option": [
+          {
+            "definition": "（计算机程序中的）漏洞",
+            "iscorrect": true
+          },
+          {
+            "definition": "包",
+            "iscorrect": false
+          },
+          {
+            "definition": "虫子",
+            "iscorrect": false
+          },
+          {
+            "definition": "工具",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

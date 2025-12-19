@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ungracious",
+      "error_analysis": "学生易因形近词`ungrateful`（不感恩的）混淆，或因`gracious`的“优雅”义将`ungracious`误判为“不优雅的”。",
+      "sentence": "When Mary offered to help him carry his bags, he gave an **ungracious** reply and walked away without saying thank you.",
+      "options": {
+        "option": [
+          {
+            "definition": "无礼的；不亲切的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不感恩的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不优雅的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不耐烦的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

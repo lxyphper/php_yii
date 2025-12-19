@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "apart",
+      "error_analysis": "学生易因形近词\"apartment\"误判为\"公寓\"，或因词根\"part\"（部分）误导为\"一个部分\"，忽略其\"分开\"的核心义。",
+      "sentence": "The old clock was so broken that we had to take it **apart** to fix it.",
+      "options": {
+        "option": [
+          {
+            "definition": "分开；分离",
+            "iscorrect": true
+          },
+          {
+            "definition": "公寓（apartment的简写）",
+            "iscorrect": false
+          },
+          {
+            "definition": "部分（part的误判）",
+            "iscorrect": false
+          },
+          {
+            "definition": "除了（apart from的混淆）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

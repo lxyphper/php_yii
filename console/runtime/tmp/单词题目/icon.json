@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "icon",
+      "error_analysis": "中国学生易因形近词\"iron\"（铁）或拼写接近的\"icicle\"（冰柱）产生错误联想，混淆\"icon\"的核心词义。",
+      "sentence": "You can click the **icon** on the desktop to open your favorite app.",
+      "options": {
+        "option": [
+          {
+            "definition": "图标；桌面快捷方式",
+            "iscorrect": true
+          },
+          {
+            "definition": "铁（金属）",
+            "iscorrect": false
+          },
+          {
+            "definition": "冰柱（悬挂的冰锥）",
+            "iscorrect": false
+          },
+          {
+            "definition": "通知（提醒消息）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

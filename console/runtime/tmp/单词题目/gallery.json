@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gallery",
+      "error_analysis": "中国学生易因形近词\"garage\"(车库)或词根\"gall-\"(胆汁)误判\"gallery\"的含义",
+      "sentence": "We spent the afternoon at the **gallery** admiring the new painting exhibition.",
+      "options": {
+        "option": [
+          {
+            "definition": "画廊；美术馆",
+            "iscorrect": true
+          },
+          {
+            "definition": "车库；汽车修理厂",
+            "iscorrect": false
+          },
+          {
+            "definition": "胆汁；怨恨",
+            "iscorrect": false
+          },
+          {
+            "definition": "荣耀；光荣",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

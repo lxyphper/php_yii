@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "feather",
+      "error_analysis": "学生易因形近词\"feature\"（特征）混淆，或误将\"feather\"与词根\"feat\"（功绩）关联导致理解错误",
+      "sentence": "The little girl picked up a **feather** from the grass and tied it to her hair as a decoration.",
+      "options": {
+        "option": [
+          {
+            "definition": "特征",
+            "iscorrect": false
+          },
+          {
+            "definition": "功绩",
+            "iscorrect": false
+          },
+          {
+            "definition": "父亲",
+            "iscorrect": false
+          },
+          {
+            "definition": "羽毛",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

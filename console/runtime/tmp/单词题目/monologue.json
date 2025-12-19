@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "monologue",
+      "error_analysis": "中国学生易因形近词“dialogue”（对话）及词根“logue”被误判为“log”（日志），将“monologue”错解为“对话”或“个人日志”",
+      "sentence": "In the play, the main character delivers a powerful **monologue** about his regret, leaving the audience deeply moved.",
+      "options": {
+        "option": [
+          {
+            "definition": "独白",
+            "iscorrect": true
+          },
+          {
+            "definition": "对话",
+            "iscorrect": false
+          },
+          {
+            "definition": "个人日志",
+            "iscorrect": false
+          },
+          {
+            "definition": "长篇演讲",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

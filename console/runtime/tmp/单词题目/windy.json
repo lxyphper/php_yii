@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "windy",
+      "error_analysis": "中国学生易将'windy'与形近词'window'混淆为'有窗户的'，或与动词'wind'(缠绕)联系为'缠绕的'。",
+      "sentence": "The weather forecast says it will be **windy** tomorrow, so don’t forget to bring your jacket.",
+      "options": {
+        "option": [
+          {
+            "definition": "多风的",
+            "iscorrect": true
+          },
+          {
+            "definition": "有窗户的",
+            "iscorrect": false
+          },
+          {
+            "definition": "缠绕的",
+            "iscorrect": false
+          },
+          {
+            "definition": "潮湿的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

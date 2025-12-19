@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "land",
+      "error_analysis": "学生易因形近词“sand”（沙子）或“lend”（借出）混淆，或误将动词“land”（降落）理解为名词“陆地”",
+      "sentence": "The plane will **land** at Beijing Capital Airport in 30 minutes.",
+      "options": {
+        "option": [
+          {
+            "definition": "降落（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "沙子",
+            "iscorrect": false
+          },
+          {
+            "definition": "借出",
+            "iscorrect": false
+          },
+          {
+            "definition": "陆地（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

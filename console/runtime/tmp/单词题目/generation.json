@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "generation",
+      "error_analysis": "易将\"generation\"误理解为\"生成/产生（动作）\"或\"基因相关概念\"，而非其核心义\"一代（人）；世代\"。",
+      "sentence": "The new technology is popular among the younger **generation**, who grew up with smartphones.",
+      "options": {
+        "option": [
+          {
+            "definition": "一代（人）；世代",
+            "iscorrect": true
+          },
+          {
+            "definition": "生成；产生（动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "基因的组合",
+            "iscorrect": false
+          },
+          {
+            "definition": "慷慨的行为",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

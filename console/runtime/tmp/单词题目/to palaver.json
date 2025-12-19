@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to palaver",
+      "error_analysis": "学生易将\"palaver\"与形近词\"pal\"（朋友）联想，误判为\"朋友间的愉快交谈\"，忽略其\"冗长无意义\"的核心特征",
+      "sentence": "The team spent an hour **palavering** about the color of the new logo instead of focusing on the budget.",
+      "options": {
+        "option": [
+          {
+            "definition": "与朋友进行的愉快交谈",
+            "iscorrect": false
+          },
+          {
+            "definition": "冗长而无意义的交谈",
+            "iscorrect": true
+          },
+          {
+            "definition": "为获取好处而讨好他人",
+            "iscorrect": false
+          },
+          {
+            "definition": "因紧张而身体发抖",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

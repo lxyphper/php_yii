@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cove",
+      "error_analysis": "学生易因形近词\"cover\"（覆盖）和\"cave\"（洞穴）的干扰，将\"cove\"误判为\"覆盖物\"或\"小洞穴\"",
+      "sentence": "We found a quiet **cove** where we could anchor the boat and swim in the calm water.",
+      "options": {
+        "option": [
+          {
+            "definition": "小海湾；小港湾",
+            "iscorrect": true
+          },
+          {
+            "definition": "覆盖物；遮盖物",
+            "iscorrect": false
+          },
+          {
+            "definition": "小洞穴；岩洞",
+            "iscorrect": false
+          },
+          {
+            "definition": "角落；拐角",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "instinctively",
+      "error_analysis": "中国学生易因形近词（如distinctively）或词根/发音混淆（如instantly），将instinctively误理解为“独特地”或“立刻地”。",
+      "sentence": "When the dog spotted the cat, it **instinctively** ran after it without thinking.",
+      "options": {
+        "option": [
+          {
+            "definition": "本能地",
+            "iscorrect": true
+          },
+          {
+            "definition": "独特地",
+            "iscorrect": false
+          },
+          {
+            "definition": "立刻地",
+            "iscorrect": false
+          },
+          {
+            "definition": "故意地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

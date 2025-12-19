@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to take on",
+      "error_analysis": "学生易将'take on'字面拆分为'拿在上面'而误解为'带上'，或混淆形近结构'take over'（接管）而误判。",
+      "sentence": "After the manager resigned, Sarah had to **take on** the responsibility of leading the project.",
+      "options": {
+        "option": [
+          {
+            "definition": "承担（任务/责任）",
+            "iscorrect": true
+          },
+          {
+            "definition": "带上；把...拿在上面",
+            "iscorrect": false
+          },
+          {
+            "definition": "接管",
+            "iscorrect": false
+          },
+          {
+            "definition": "雇佣",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

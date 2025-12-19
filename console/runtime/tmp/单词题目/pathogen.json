@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pathogen",
+      "error_analysis": "学生易将\"path-\"误作\"路径\"（而非\"疾病\"词根），并将\"-gen\"联想为\"基因\"，从而误解为\"路径基因\"或\"致病基因\"。",
+      "sentence": "The doctor identified the **pathogen** responsible for the outbreak as a new strain of virus.",
+      "options": {
+        "option": [
+          {
+            "definition": "路径",
+            "iscorrect": false
+          },
+          {
+            "definition": "路径基因",
+            "iscorrect": false
+          },
+          {
+            "definition": "病原体（引起疾病的微生物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "致病基因",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

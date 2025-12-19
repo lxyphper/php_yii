@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "curvilinear",
+      "error_analysis": "学生易因\"linear\"（线性的）词根误导，将\"curvilinear\"错误理解为\"直线的\"或\"由直线组成的\"",
+      "sentence": "The designer chose **curvilinear** edges for the table to avoid sharp corners, making it safer for children.",
+      "options": {
+        "option": [
+          {
+            "definition": "曲线的；由曲线组成的",
+            "iscorrect": true
+          },
+          {
+            "definition": "直线的；由直线组成的",
+            "iscorrect": false
+          },
+          {
+            "definition": "共线的；同一直线上的",
+            "iscorrect": false
+          },
+          {
+            "definition": "由曲线和直线混合的；包含曲线与直线的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

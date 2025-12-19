@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "supervision",
+      "error_analysis": "学生易因词根\"super-\"（超级）和\"vision\"（视力）错误推导为\"超级视力\"，或混淆形近词\"superstition\"（迷信）",
+      "sentence": "Children under 12 must be under adult **supervision** at the swimming pool.",
+      "options": {
+        "option": [
+          {
+            "definition": "监督；管理",
+            "iscorrect": true
+          },
+          {
+            "definition": "超级视力；卓越的视觉",
+            "iscorrect": false
+          },
+          {
+            "definition": "迷信；盲目信仰",
+            "iscorrect": false
+          },
+          {
+            "definition": "监督者；管理者",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

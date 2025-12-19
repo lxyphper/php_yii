@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "frown",
+      "error_analysis": "学生易因形近词\"brown\"（棕色）产生\"棕色\"的错误联想，或因\"row\"（划船）的词根误导误判为\"划船\"",
+      "sentence": "When she heard the bad news, she couldn’t help but **frown** and look away.",
+      "options": {
+        "option": [
+          {
+            "definition": "皱眉（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "棕色（形容词/名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "划船（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "微笑（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

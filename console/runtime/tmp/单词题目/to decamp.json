@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to decamp",
+      "error_analysis": "学生易因\"camp\"(营地)和\"de-\"前缀，错误认为\"decamp\"是\"搭建营地\"或\"在营地露营\"，而正确含义为\"突然离开(某地)\"。",
+      "sentence": "Fearing the approaching storm, the group decided to **decamp** and seek refuge in the nearby village.",
+      "options": {
+        "option": [
+          {
+            "definition": "搭建营地",
+            "iscorrect": false
+          },
+          {
+            "definition": "突然离开(某地)",
+            "iscorrect": true
+          },
+          {
+            "definition": "在营地露营",
+            "iscorrect": false
+          },
+          {
+            "definition": "清理营地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

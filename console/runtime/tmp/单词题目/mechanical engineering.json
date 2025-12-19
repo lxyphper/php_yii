@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mechanical engineering",
+      "error_analysis": "易因形近词“medical”（医疗的）误判为“医疗工程”，或因“mechanical”字面联想误为“手动/维修工程”。",
+      "sentence": "My brother studies **mechanical engineering** at university and designs car engines as part of his final project.",
+      "options": {
+        "option": [
+          {
+            "definition": "机械工程",
+            "iscorrect": true
+          },
+          {
+            "definition": "医疗工程",
+            "iscorrect": false
+          },
+          {
+            "definition": "手动工程",
+            "iscorrect": false
+          },
+          {
+            "definition": "电子工程",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

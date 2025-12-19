@@ -1,0 +1,28 @@
+[
+  {
+    "common_misspellings": [
+      "atomik energy",
+      "atmic energy",
+      "atomic enery",
+      "atomic energe",
+      "etomic energy",
+      "atomic enirgy"
+    ],
+    "correct_chunks": [
+      "atom",
+      "ic",
+      "en",
+      "erg",
+      "y"
+    ],
+    "distractor_chunks": [
+      "ik",
+      "atm",
+      "er",
+      "ge",
+      "et",
+      "irg"
+    ]
+  },
+  0
+]

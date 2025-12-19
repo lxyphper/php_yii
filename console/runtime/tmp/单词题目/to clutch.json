@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to clutch",
+      "error_analysis": "学生易混淆“to clutch”与形近词“to catch”，误将其理解为“接住”（而非“紧抓”）。",
+      "sentence": "She **clutched** her bag tightly when she noticed a stranger following her.",
+      "options": {
+        "option": [
+          {
+            "definition": "紧抓，紧握",
+            "iscorrect": true
+          },
+          {
+            "definition": "接住",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻轻触摸",
+            "iscorrect": false
+          },
+          {
+            "definition": "拥抱",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

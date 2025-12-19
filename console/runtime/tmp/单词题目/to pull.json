@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to pull",
+      "error_analysis": "学生易因形近词\"push\"（推）的干扰，将\"pull\"错误理解为\"推\"。",
+      "sentence": "Please **pull** the door open; it doesn’t push.",
+      "options": {
+        "option": [
+          {
+            "definition": "拉；拖",
+            "iscorrect": true
+          },
+          {
+            "definition": "推",
+            "iscorrect": false
+          },
+          {
+            "definition": "举；抬",
+            "iscorrect": false
+          },
+          {
+            "definition": "扔；抛",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

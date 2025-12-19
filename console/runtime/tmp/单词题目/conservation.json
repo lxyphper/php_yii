@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "conservation",
+      "error_analysis": "易混淆形近词conversation（对话），或因词根serv（服务）误判为“共同服务”",
+      "sentence": "The government has launched a new program focused on the **conservation** of endangered species and their natural habitats.",
+      "options": {
+        "option": [
+          {
+            "definition": "对话；交谈",
+            "iscorrect": false
+          },
+          {
+            "definition": "保护；保存（自然资源）",
+            "iscorrect": true
+          },
+          {
+            "definition": "共同服务；协作",
+            "iscorrect": false
+          },
+          {
+            "definition": "保存（食物或物品）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

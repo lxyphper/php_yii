@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to transcend",
+      "error_analysis": "学生易因形近词“ascend”（上升）混淆，或因词根“trans-”（超越）+“scend”（爬）误判为“克服”或“爬过”。",
+      "sentence": "The novel’s themes of love and loss **transcend** time—readers from all generations find it relatable.",
+      "options": {
+        "option": [
+          {
+            "definition": "超越（界限、限制）",
+            "iscorrect": true
+          },
+          {
+            "definition": "上升；攀爬",
+            "iscorrect": false
+          },
+          {
+            "definition": "克服；战胜",
+            "iscorrect": false
+          },
+          {
+            "definition": "传输；传送",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "idea",
+      "error_analysis": "学生易将“idea”与形近词“ideal”（理想）混淆，或误通过“id”（身份）联想猜测词义",
+      "sentence": "She came up with a great **idea** for the party—we should decorate the room with fairy lights and play retro music.",
+      "options": {
+        "option": [
+          {
+            "definition": "想法；主意",
+            "iscorrect": true
+          },
+          {
+            "definition": "理想；完美的事物",
+            "iscorrect": false
+          },
+          {
+            "definition": "身份；身份证",
+            "iscorrect": false
+          },
+          {
+            "definition": "偶像；崇拜对象",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

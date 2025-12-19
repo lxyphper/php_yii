@@ -1,0 +1,639 @@
+{
+  "status": {
+    "wordcardheader": {
+      "word": "status",
+      "ukipa": "/ˈsteɪtəs/",
+      "usipa": "/ˈstætəs/",
+      "pronunciationpal": "STAY-tuhs (重音在第一个音节，小心别读成 stat-US 哦！)",
+      "register": "通用 (General)",
+      "ieltsscene": "社会类话题、人际关系、商业、科技发展"
+    },
+    "coremeanings": [
+      {
+        "isieltscommon": true,
+        "pos": "n.",
+        "englishdefinition": "the relative social, professional, or other standing of someone or something.",
+        "chinesetranslation": "地位；身份；社会等级"
+      },
+      {
+        "isieltscommon": true,
+        "pos": "n.",
+        "englishdefinition": "the current state of affairs; the current situation.",
+        "chinesetranslation": "情况；状况；状态"
+      }
+    ],
+    "aimemo": {
+      "onesentencememo": "你的学习**status** (死逮它死) 怎么样？千万别“死逮它”不放，把它学活了，好**状态**就来了！"
+    },
+    "contextualapplication": {
+      "basicsentence": {
+        "sentence": "What is the **status** of your application?",
+        "translation": "你的申请**状况**如何？",
+        "options": [
+          {
+            "optionletter": "A",
+            "word": "status",
+            "pos": "n.",
+            "definition": "状况；状态"
+          },
+          {
+            "optionletter": "B",
+            "word": "statue",
+            "pos": "n.",
+            "definition": "雕像"
+          },
+          {
+            "optionletter": "C",
+            "word": "statistic",
+            "pos": "n.",
+            "definition": "统计数据"
+          },
+          {
+            "optionletter": "D",
+            "word": "stature",
+            "pos": "n.",
+            "definition": "身高；声望"
+          }
+        ],
+        "correctanswer": "A"
+      },
+      "scenariodialogue": {
+        "speakera": "Wow, did you hear about John's promotion?",
+        "speakerb": "Yes! He's moved up in **status** very quickly in that company.",
+        "translation": {
+          "speakera": "哇，你听说了约翰升职的事吗？",
+          "speakerb": "听说了！他在这家公司**地位**升得非常快。"
+        }
+      }
+    },
+    "quickquiz": {
+      "multiplechoice": [
+        {
+          "questionsentence": "The social status of women has significantly improved in many countries.",
+          "sentencetranslation": "在许多国家，女性的社会地位已显著提高。",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "statue",
+              "pos": "n.",
+              "definition": "雕像"
+            },
+            {
+              "optionletter": "B",
+              "word": "status",
+              "pos": "n.",
+              "definition": "地位"
+            },
+            {
+              "optionletter": "C",
+              "word": "statute",
+              "pos": "n.",
+              "definition": "法规"
+            },
+            {
+              "optionletter": "D",
+              "word": "statistic",
+              "pos": "n.",
+              "definition": "统计数据"
+            }
+          ],
+          "correctanswer": "B"
+        },
+        {
+          "questionsentence": "Could you please check the status of my order?",
+          "sentencetranslation": "你能帮我查一下订单的状态吗？",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "state",
+              "pos": "n.",
+              "definition": "状态"
+            },
+            {
+              "optionletter": "B",
+              "word": "station",
+              "pos": "n.",
+              "definition": "车站"
+            },
+            {
+              "optionletter": "C",
+              "word": "status",
+              "pos": "n.",
+              "definition": "状态；情况"
+            },
+            {
+              "optionletter": "D",
+              "word": "statue",
+              "pos": "n.",
+              "definition": "雕像"
+            }
+          ],
+          "correctanswer": "C"
+        },
+        {
+          "questionsentence": "Having a high status car is important to some people.",
+          "sentencetranslation": "拥有一辆高档次的汽车对一些人来说很重要。",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "statistic",
+              "pos": "n.",
+              "definition": "统计数据"
+            },
+            {
+              "optionletter": "B",
+              "word": "stature",
+              "pos": "n.",
+              "definition": "身高；声望"
+            },
+            {
+              "optionletter": "C",
+              "word": "status",
+              "pos": "n.",
+              "definition": "地位；档次"
+            },
+            {
+              "optionletter": "D",
+              "word": "station",
+              "pos": "n.",
+              "definition": "车站"
+            }
+          ],
+          "correctanswer": "C"
+        },
+        {
+          "questionsentence": "What is the current status of the negotiations?",
+          "sentencetranslation": "谈判的当前状况如何？",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "situation",
+              "pos": "n.",
+              "definition": "情况"
+            },
+            {
+              "optionletter": "B",
+              "word": "statistics",
+              "pos": "n.",
+              "definition": "统计学"
+            },
+            {
+              "optionletter": "C",
+              "word": "status",
+              "pos": "n.",
+              "definition": "状况"
+            },
+            {
+              "optionletter": "D",
+              "word": "statues",
+              "pos": "n.",
+              "definition": "雕像（复数）"
+            }
+          ],
+          "correctanswer": "C"
+        },
+        {
+          "questionsentence": "His high academic status earned him respect from his peers.",
+          "sentencetranslation": "他崇高的学术地位为他赢得了同行的尊重。",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "status",
+              "pos": "n.",
+              "definition": "地位；身份"
+            },
+            {
+              "optionletter": "B",
+              "word": "stature",
+              "pos": "n.",
+              "definition": "声望"
+            },
+            {
+              "optionletter": "C",
+              "word": "statute",
+              "pos": "n.",
+              "definition": "法规"
+            },
+            {
+              "optionletter": "D",
+              "word": "station",
+              "pos": "n.",
+              "definition": "车站"
+            }
+          ],
+          "correctanswer": "A"
+        }
+      ],
+      "fillintheblank": [
+        {
+          "questionsentence": "Many people strive for a higher social ______.",
+          "sentencetranslation": "许多人努力争取更高的社会地位。",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "status",
+              "pos": "n.",
+              "definition": "地位"
+            },
+            {
+              "optionletter": "B",
+              "word": "statue",
+              "pos": "n.",
+              "definition": "雕像"
+            },
+            {
+              "optionletter": "C",
+              "word": "statistic",
+              "pos": "n.",
+              "definition": "统计数据"
+            }
+          ],
+          "correctanswer": "A"
+        },
+        {
+          "questionsentence": "The project's ______ is currently 'on hold'.",
+          "sentencetranslation": "该项目的状态目前是“暂停”。",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "stature",
+              "pos": "n.",
+              "definition": "声望"
+            },
+            {
+              "optionletter": "B",
+              "word": "status",
+              "pos": "n.",
+              "definition": "状态"
+            },
+            {
+              "optionletter": "C",
+              "word": "station",
+              "pos": "n.",
+              "definition": "车站"
+            }
+          ],
+          "correctanswer": "B"
+        },
+        {
+          "questionsentence": "Achieving professional ______ requires hard work and dedication.",
+          "sentencetranslation": "获得专业地位需要努力和奉献。",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "status",
+              "pos": "n.",
+              "definition": "地位"
+            },
+            {
+              "optionletter": "B",
+              "word": "states",
+              "pos": "n.",
+              "definition": "州；国家"
+            },
+            {
+              "optionletter": "C",
+              "word": "statements",
+              "pos": "n.",
+              "definition": "声明"
+            }
+          ],
+          "correctanswer": "A"
+        },
+        {
+          "questionsentence": "Please update me on the ______ of the ongoing research.",
+          "sentencetranslation": "请向我汇报正在进行的研究的最新状况。",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "static",
+              "pos": "adj.",
+              "definition": "静态的"
+            },
+            {
+              "optionletter": "B",
+              "word": "stats",
+              "pos": "n.",
+              "definition": "统计数据 (非正式)"
+            },
+            {
+              "optionletter": "C",
+              "word": "status",
+              "pos": "n.",
+              "definition": "状况"
+            }
+          ],
+          "correctanswer": "C"
+        },
+        {
+          "questionsentence": "The company's financial ______ is improving.",
+          "sentencetranslation": "公司的财务状况正在改善。",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "status",
+              "pos": "n.",
+              "definition": "状况"
+            },
+            {
+              "optionletter": "B",
+              "word": "strategy",
+              "pos": "n.",
+              "definition": "策略"
+            },
+            {
+              "optionletter": "C",
+              "word": "statement",
+              "pos": "n.",
+              "definition": "报表"
+            }
+          ],
+          "correctanswer": "A"
+        }
+      ],
+      "listenandchoose": [
+        {
+          "audioprompt": "What is the status of your visa application?",
+          "sentencetranslation": "你的签证申请状况如何？",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "statue",
+              "pos": "n.",
+              "definition": "雕像"
+            },
+            {
+              "optionletter": "B",
+              "word": "status",
+              "pos": "n.",
+              "definition": "状况"
+            },
+            {
+              "optionletter": "C",
+              "word": "statistic",
+              "pos": "n.",
+              "definition": "统计数据"
+            },
+            {
+              "optionletter": "D",
+              "word": "stature",
+              "pos": "n.",
+              "definition": "声望"
+            }
+          ],
+          "correctanswer": "B"
+        },
+        {
+          "audioprompt": "He's concerned about his social status.",
+          "sentencetranslation": "他担心自己的社会地位。",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "stadium",
+              "pos": "n.",
+              "definition": "体育场"
+            },
+            {
+              "optionletter": "B",
+              "word": "status",
+              "pos": "n.",
+              "definition": "地位"
+            },
+            {
+              "optionletter": "C",
+              "word": "station",
+              "pos": "n.",
+              "definition": "车站"
+            },
+            {
+              "optionletter": "D",
+              "word": "statute",
+              "pos": "n.",
+              "definition": "法规"
+            }
+          ],
+          "correctanswer": "B"
+        },
+        {
+          "audioprompt": "The meeting provided an update on the project status.",
+          "sentencetranslation": "会议提供了项目状态的最新信息。",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "statics",
+              "pos": "n.",
+              "definition": "静力学"
+            },
+            {
+              "optionletter": "B",
+              "word": "status",
+              "pos": "n.",
+              "definition": "状况"
+            },
+            {
+              "optionletter": "C",
+              "word": "statistics",
+              "pos": "n.",
+              "definition": "统计学"
+            },
+            {
+              "optionletter": "D",
+              "word": "statement",
+              "pos": "n.",
+              "definition": "声明"
+            }
+          ],
+          "correctanswer": "B"
+        },
+        {
+          "audioprompt": "Some luxury brands confer status on their owners.",
+          "sentencetranslation": "一些奢侈品牌会赋予其拥有者地位。",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "status",
+              "pos": "n.",
+              "definition": "地位"
+            },
+            {
+              "optionletter": "B",
+              "word": "states",
+              "pos": "n.",
+              "definition": "州"
+            },
+            {
+              "optionletter": "C",
+              "word": "stats",
+              "pos": "n.",
+              "definition": "统计数据"
+            },
+            {
+              "optionletter": "D",
+              "word": "statures",
+              "pos": "n.",
+              "definition": "声望（复数）"
+            }
+          ],
+          "correctanswer": "A"
+        },
+        {
+          "audioprompt": "What's the status of your internet connection?",
+          "sentencetranslation": "你的网络连接状况如何？",
+          "options": [
+            {
+              "optionletter": "A",
+              "word": "static",
+              "pos": "adj.",
+              "definition": "静态的"
+            },
+            {
+              "optionletter": "B",
+              "word": "status",
+              "pos": "n.",
+              "definition": "状况"
+            },
+            {
+              "optionletter": "C",
+              "word": "stats",
+              "pos": "n.",
+              "definition": "统计"
+            },
+            {
+              "optionletter": "D",
+              "word": "stations",
+              "pos": "n.",
+              "definition": "车站"
+            }
+          ],
+          "correctanswer": "B"
+        }
+      ],
+      "dictation": [
+        {
+          "audioprompt": "They are fighting for equal status in society.",
+          "prompttranslation": "他们正在为社会中的平等地位而奋斗。",
+          "correctanswer": "They are fighting for equal status in society."
+        },
+        {
+          "audioprompt": "The current status of the economy is worrying.",
+          "prompttranslation": "当前经济状况令人担忧。",
+          "correctanswer": "The current status of the economy is worrying."
+        },
+        {
+          "audioprompt": "What's the status on that report you were writing?",
+          "prompttranslation": "你正在写的那个报告的进展如何了？",
+          "correctanswer": "What's the status on that report you were writing?"
+        },
+        {
+          "audioprompt": "His job title gives him a certain status.",
+          "prompttranslation": "他的职称赋予了他一定的地位。",
+          "correctanswer": "His job title gives him a certain status."
+        },
+        {
+          "audioprompt": "Please check the delivery status of the package.",
+          "prompttranslation": "请查询包裹的派送状态。",
+          "correctanswer": "Please check the delivery status of the package."
+        }
+      ]
+    },
+    "funetymology": {
+      "story": "`status` 来自拉丁语 `status`，意思是“站立，位置，状况”。想象一下，一个人站立的位置决定了他的“地位”，而事物的“状况”也像是它此刻“站立”的样子。是不是有点哲学的意思呢？😜"
+    },
+    "spellingaid": {
+      "breakdown": "sta-tus",
+      "mnemonic": "(谐音) “死逮它死”——为了保持你的好**状态**和高**地位**，你得努力“死逮它”！"
+    },
+    "imageassociation": {
+      "description": "一张图片，左边是一个人穿着破旧衣服，脸上带着迷茫的表情，旁边显示“Low Status”；右边是一个人穿着整洁的西装，自信地站立，背景是摩天大楼，旁边显示“High Status”。同时，右下角有一个进度条，显示“Project Status: 85% Complete”。"
+    },
+    "deeplinks": {
+      "wordforms": [
+        {
+          "form": "形容词 (adj.)",
+          "word": "stately",
+          "translation": "庄严的；宏伟的"
+        },
+        {
+          "form": "动词 (v.)",
+          "word": "state",
+          "translation": "陈述；声明"
+        }
+      ],
+      "collocations": [
+        {
+          "phrase": "social status",
+          "translation": "社会地位"
+        },
+        {
+          "phrase": "current status",
+          "translation": "当前状况"
+        },
+        {
+          "phrase": "marital status",
+          "translation": "婚姻状况"
+        },
+        {
+          "phrase": "high status",
+          "translation": "高地位；高档次"
+        }
+      ],
+      "synonymanalysis": [
+        {
+          "word": "position",
+          "analysis": "与 `status` (地位) 含义相似，但 `position` 更侧重于“职位”或“物理位置”，而 `status` 更多指社会层面的“地位”或抽象的“情况”。"
+        },
+        {
+          "word": "condition",
+          "analysis": "与 `status` (状况) 含义相似，`condition` 更强调事物的内在状态或健康状况，而 `status` 更多指外部可见的进展或情况。"
+        }
+      ],
+      "confusablewordsanalysis": [
+        {
+          "word": "statue (雕像)",
+          "analysis": "发音和拼写都与 `status` 相似，但含义完全不同。`statue` 是指用石头或金属雕刻的人或动物形象，而 `status` 是指地位或状况。一个是有形的艺术品，一个是无形的社会或事物状态。"
+        },
+        {
+          "word": "statistic (统计数据)",
+          "analysis": "虽然都以“sta”开头，但 `statistic` 是指通过收集和分析数据得到的数字事实，而 `status` 则是指一个事物目前的状况或地位，两者用途大相径庭。"
+        },
+        {
+          "word": "stature (身高；声望)",
+          "analysis": "`stature` 可以指人的“身高”，也可以引申为“声望、名望”，与 `status` 的“地位”有重合之处。但 `stature` 更偏向个人成就或影响力带来的声望，而 `status` 更广泛，指社会、职业或其他方面的“相对位置”。"
+        }
+      ],
+      "wordrootfamily": {
+        "root": "sta-/sti-/sist- (站立, stand)",
+        "familymembers": [
+          "state",
+          "stable",
+          "assist",
+          "constant",
+          "institution"
+        ]
+      }
+    },
+    "commonpitfalls": {
+      "explanation": "发音误区：很多同学会把 `status` 的英式发音 /ˈsteɪtəs/ 读成美式发音 /ˈstætəs/，或者把美式发音读成英式。雅思听力中两种发音都会出现，所以两种都要熟悉哦！",
+      "dontsay": "I want to improve my social **statue**.",
+      "dosay": "I want to improve my social **status**."
+    },
+    "cicitips": [
+      {
+        "type": "雅思写作✍️",
+        "content": "在讨论社会问题时，`status` 是一个高频词汇。例如，你可以用 `the social status of women/minorities` 来探讨社会公平性问题，用 `economic status` 来描述经济状况。"
+      },
+      {
+        "type": "口语亮点🗣️",
+        "content": "当你向考官汇报某个事情的进展时，可以说：`The current status of my project is...` (我项目当前的状况是……)，显得专业又地道！"
+      },
+      {
+        "type": "生活联想💡",
+        "content": "玩游戏的时候，经常会看到“检查你的角色**status**”或“任务**status**更新”的提示，这其实就是这个词最常见的用法之一啦！"
+      },
+      {
+        "type": "词汇拓展🌐",
+        "content": "`Status quo` 是一个很常见的短语，意思是“现状”。在写作中用上它，立刻提升你的词汇水平！比如：`maintain the status quo` (维持现状)。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to felicitate",
+      "error_analysis": "学生易因形近词“facilitate”（促进）或词根“felic-”（幸福）误判为“促进”或“使幸福”",
+      "sentence": "The mayor will **felicitate** the award winners at the ceremony tomorrow.",
+      "options": {
+        "option": [
+          {
+            "definition": "促进",
+            "iscorrect": false
+          },
+          {
+            "definition": "祝贺（正式场合）",
+            "iscorrect": true
+          },
+          {
+            "definition": "使幸福",
+            "iscorrect": false
+          },
+          {
+            "definition": "表扬",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

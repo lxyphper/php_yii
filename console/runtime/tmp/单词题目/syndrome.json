@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "syndrome",
+      "error_analysis": "易与形近词\"symptom\"(症状)混淆，或因词根\"syn-\"(同)和\"drome\"(跑)错误推导为\"同步状态\"",
+      "sentence": "The patient was diagnosed with a **syndrome** that includes frequent headaches, dizziness, and tingling in the fingers.",
+      "options": {
+        "option": [
+          {
+            "definition": "综合征；综合症状",
+            "iscorrect": true
+          },
+          {
+            "definition": "（单个）症状",
+            "iscorrect": false
+          },
+          {
+            "definition": "同步运行的状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "合成物；综合体",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

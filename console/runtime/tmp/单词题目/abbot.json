@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "abbot",
+      "error_analysis": "学生易因形近词\"abbey\"（修道院）或\"about\"（关于）的混淆，将\"abbot\"误判为\"修道院\"或\"关于\"。",
+      "sentence": "The **abbot** of the Benedictine monastery welcomed the visitors and showed them around the ancient cloisters.",
+      "options": {
+        "option": [
+          {
+            "definition": "修道院院长",
+            "iscorrect": true
+          },
+          {
+            "definition": "修道院",
+            "iscorrect": false
+          },
+          {
+            "definition": "关于",
+            "iscorrect": false
+          },
+          {
+            "definition": "机器人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

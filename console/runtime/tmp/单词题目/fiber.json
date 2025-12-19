@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fiber",
+      "error_analysis": "学生易将\"fiber\"与形近词\"filter\"(过滤器)或\"file\"(文件)混淆，导致错误理解。",
+      "sentence": "Eating foods rich in **fiber** like whole grains and vegetables can help improve digestion.",
+      "options": {
+        "option": [
+          {
+            "definition": "过滤器（用于过滤的装置）",
+            "iscorrect": false
+          },
+          {
+            "definition": "纤维（食物或材料中的细纤维）",
+            "iscorrect": true
+          },
+          {
+            "definition": "文件（存储信息的载体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "发烧（体温升高的症状）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

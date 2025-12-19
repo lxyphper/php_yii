@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tape",
+      "error_analysis": "学生易因形近词'tale'（故事）、'tap'（水龙头）混淆而误判'tape'的核心词义",
+      "sentence": "She wrapped the birthday present with a roll of colorful **tape** to make it look more attractive.",
+      "options": {
+        "option": [
+          {
+            "definition": "胶带；磁带",
+            "iscorrect": true
+          },
+          {
+            "definition": "故事",
+            "iscorrect": false
+          },
+          {
+            "definition": "水龙头；轻敲",
+            "iscorrect": false
+          },
+          {
+            "definition": "类型；打字",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

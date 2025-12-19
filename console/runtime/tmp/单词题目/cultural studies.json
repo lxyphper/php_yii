@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cultural studies",
+      "error_analysis": "学生易因“studies”字面误导（误作“学习”）将“cultural studies”理解为“文化学习”，或因“cultural”与“cultured”形近混淆。",
+      "sentence": "She is pursuing a master's degree in **cultural studies** to explore how media influences societal norms.",
+      "options": {
+        "option": [
+          {
+            "definition": "文化研究",
+            "iscorrect": true
+          },
+          {
+            "definition": "文化学习",
+            "iscorrect": false
+          },
+          {
+            "definition": "文化课程",
+            "iscorrect": false
+          },
+          {
+            "definition": "有教养的研究",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

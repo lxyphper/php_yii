@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "knoll",
+      "error_analysis": "学生易因形近词混淆，将\"knoll\"误判为\"knob\"(旋钮)或\"roll\"(面包卷)。",
+      "sentence": "We spread our picnic blanket on the **knoll** to get a better view of the valley below.",
+      "options": {
+        "option": [
+          {
+            "definition": "旋钮；把手",
+            "iscorrect": false
+          },
+          {
+            "definition": "面包卷；滚动",
+            "iscorrect": false
+          },
+          {
+            "definition": "小丘；冈峦",
+            "iscorrect": true
+          },
+          {
+            "definition": "洞穴；坑洼",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

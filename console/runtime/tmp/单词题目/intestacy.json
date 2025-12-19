@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "intestacy",
+      "error_analysis": "学生易因形近词\"intestine\"（肠）将\"intestacy\"误解为与肠道相关的意思，或因不熟悉词根\"testament\"（遗嘱）而误判为\"内部测试\"等含义。",
+      "sentence": "The lawyer informed the family that because of the deceased’s **intestacy**, his estate would be divided according to state laws rather than his own wishes.",
+      "options": {
+        "option": [
+          {
+            "definition": "未立遗嘱的死亡状态",
+            "iscorrect": true
+          },
+          {
+            "definition": "肠道疾病",
+            "iscorrect": false
+          },
+          {
+            "definition": "内部测试的状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "强烈的情感强度",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to deduce",
+      "error_analysis": "易因形近词\"reduce\"（减少）混淆，或词根\"de-+duce\"（引导）错误联想为\"导出\"而非\"推断\"。",
+      "sentence": "From the footprints in the snow, the detective was able to **deduce** that the thief had worn size 10 shoes.",
+      "options": {
+        "option": [
+          {
+            "definition": "减少；降低",
+            "iscorrect": false
+          },
+          {
+            "definition": "推断；演绎",
+            "iscorrect": true
+          },
+          {
+            "definition": "导出；引出",
+            "iscorrect": false
+          },
+          {
+            "definition": "决定；确定",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

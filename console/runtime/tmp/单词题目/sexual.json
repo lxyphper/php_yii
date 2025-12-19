@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sexual",
+      "error_analysis": "学生易因形近词“section”（部分）混淆，或误将“sexual”理解为“性别（gender）的”。",
+      "sentence": "The new policy aims to provide accurate **sexual** health information to teenagers.",
+      "options": {
+        "option": [
+          {
+            "definition": "性的；与性有关的",
+            "iscorrect": true
+          },
+          {
+            "definition": "部分的；章节的",
+            "iscorrect": false
+          },
+          {
+            "definition": "性别的；关于性别的",
+            "iscorrect": false
+          },
+          {
+            "definition": "性感的；迷人的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to drink",
+      "error_analysis": "中国学生易因形近词\"drive\"（驾驶）或\"drip\"（滴下）的拼写干扰，或混淆\"drink\"与\"drunk\"（醉）的含义而误判核心词义。",
+      "sentence": "She likes to **drink** a cup of tea every morning before going to work.",
+      "options": {
+        "option": [
+          {
+            "definition": "喝（液体）",
+            "iscorrect": true
+          },
+          {
+            "definition": "驾驶（车辆）",
+            "iscorrect": false
+          },
+          {
+            "definition": "滴下（液体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "喝醉（酒）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

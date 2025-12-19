@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "afterlife",
+      "error_analysis": "学生易因\"after+life\"的词根字面推导，将\"afterlife\"误解为\"晚年\"或\"余生\"。",
+      "sentence": "Many people in that culture believe in an **afterlife** where souls are judged based on their actions in this life.",
+      "options": {
+        "option": [
+          {
+            "definition": "来世，来生",
+            "iscorrect": true
+          },
+          {
+            "definition": "晚年，余生",
+            "iscorrect": false
+          },
+          {
+            "definition": "下午的生活",
+            "iscorrect": false
+          },
+          {
+            "definition": "未来的生活",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

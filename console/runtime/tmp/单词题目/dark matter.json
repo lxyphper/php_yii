@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dark matter",
+      "error_analysis": "学生易将'dark matter'字面直译为\"黑暗的物质\"（非科学术语），或误将'matter'理解为\"事情\"而译为\"黑暗的事情\"",
+      "sentence": "Scientists believe that **dark matter** makes up about 85% of the universe's mass, even though it cannot be seen directly with telescopes.",
+      "options": {
+        "option": [
+          {
+            "definition": "暗物质（天文学中无法直接观测到的神秘物质，构成宇宙大部分质量）",
+            "iscorrect": true
+          },
+          {
+            "definition": "黑暗的物质（如夜晚中看不见的物体，如阴影里的石头）",
+            "iscorrect": false
+          },
+          {
+            "definition": "黑暗的事情（如令人不安的麻烦、秘密或不幸）",
+            "iscorrect": false
+          },
+          {
+            "definition": "深色的材料（如黑色的布料、木材或涂料）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to surmise",
+      "error_analysis": "学生易因形近词（如surprise/summarize）混淆，或因词根“sur-”（超过）和“mise”（放置）错误推导为“惊讶”“总结”或“放置”。",
+      "sentence": "From the empty plate and dirty fork, she **surmised** that her brother had already eaten the cake.",
+      "options": {
+        "option": [
+          {
+            "definition": "惊讶；吃惊",
+            "iscorrect": false
+          },
+          {
+            "definition": "总结；概括",
+            "iscorrect": false
+          },
+          {
+            "definition": "放置；安放",
+            "iscorrect": false
+          },
+          {
+            "definition": "推测；猜测",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

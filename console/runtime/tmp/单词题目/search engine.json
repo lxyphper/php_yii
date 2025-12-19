@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "search engine",
+      "error_analysis": "易因“engine”形近“engineer”（工程师）误判为“搜索工程师”，或因“engine”本义“发动机”误解为“搜索发动机”。",
+      "sentence": "I use a popular **search engine** like Google to find information for my history essay.",
+      "options": {
+        "option": [
+          {
+            "definition": "搜索引擎",
+            "iscorrect": true
+          },
+          {
+            "definition": "搜索工程师",
+            "iscorrect": false
+          },
+          {
+            "definition": "搜索发动机",
+            "iscorrect": false
+          },
+          {
+            "definition": "查找工具库",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

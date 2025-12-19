@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "drowsy",
+      "error_analysis": "学生易因形近词\"drown\"(淹死)误判为\"溺水的\"，或因词根误导以为是\"下降的\"",
+      "sentence": "After staying up late to finish his homework, Tom felt so **drowsy** that he could barely keep his eyes open in class.",
+      "options": {
+        "option": [
+          {
+            "definition": "溺水的",
+            "iscorrect": false
+          },
+          {
+            "definition": "困倦的",
+            "iscorrect": true
+          },
+          {
+            "definition": "下降的",
+            "iscorrect": false
+          },
+          {
+            "definition": "懒惰的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

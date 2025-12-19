@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hobby",
+      "error_analysis": "学生易因形近词'honey'（蜂蜜）或混淆'habit'（习惯）而误判'hobby'的核心含义",
+      "sentence": "My sister's favorite **hobby** is collecting stamps—she spends hours every week looking for new ones.",
+      "options": {
+        "option": [
+          {
+            "definition": "爱好",
+            "iscorrect": true
+          },
+          {
+            "definition": "蜂蜜",
+            "iscorrect": false
+          },
+          {
+            "definition": "习惯",
+            "iscorrect": false
+          },
+          {
+            "definition": "工作",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

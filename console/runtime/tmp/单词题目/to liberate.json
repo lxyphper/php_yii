@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to liberate",
+      "error_analysis": "中国学生易因形近词“deliberate”（故意的）混淆“liberate”词义，或因词根“liber”（自由）过度推导为“自由的（形容词）”而非“解放（动词）”。",
+      "sentence": "The army launched a mission to **liberate** the town from the invading forces.",
+      "options": {
+        "option": [
+          {
+            "definition": "解放；使获得自由（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "故意做某事",
+            "iscorrect": false
+          },
+          {
+            "definition": "自由的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "自由（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

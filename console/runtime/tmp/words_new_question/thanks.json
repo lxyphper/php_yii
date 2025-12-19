@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "thanks",
+      "error_analysis": "学生易因形近词“think”（想）的干扰，将“thanks”误理解为“想法”或“思考”",
+      "sentence": "After receiving the gift, she said “**thanks**” with a big smile.",
+      "options": {
+        "option": [
+          {
+            "definition": "感谢（名词，表达谢意的话语或态度）",
+            "iscorrect": true
+          },
+          {
+            "definition": "想法（因形近词“think”产生的错误联想）",
+            "iscorrect": false
+          },
+          {
+            "definition": "比（因“than”部分字面误导产生的比较义误解）",
+            "iscorrect": false
+          },
+          {
+            "definition": "思考（将“thanks”误作动词“think”的派生义）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

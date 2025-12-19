@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to get off",
+      "error_analysis": "将“get off”误解为“上车”（与“get on”形近短语混淆）或“开始”（与“get off to”混淆）",
+      "sentence": "When the bus stops at the station, please remember to **get off** quickly.",
+      "options": {
+        "option": [
+          {
+            "definition": "从公交车上下来",
+            "iscorrect": true
+          },
+          {
+            "definition": "上车（如公交车、火车等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "开始（旅程或活动）",
+            "iscorrect": false
+          },
+          {
+            "definition": "脱下（衣服、鞋子等）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

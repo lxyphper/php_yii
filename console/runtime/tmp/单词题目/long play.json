@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "long play",
+      "error_analysis": "学生易因\"long\"(长的)和\"play\"(播放/戏剧)的字面意思，将\"long play\"误解为\"长时间播放\"或\"长篇戏剧\"",
+      "sentence": "My grandpa still collects **long play** records and plays them on his old turntable every weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "密纹唱片（ vinyl唱片的一种，转速慢、播放时间长）",
+            "iscorrect": true
+          },
+          {
+            "definition": "长时间的播放（如电影或音乐的延长播放）",
+            "iscorrect": false
+          },
+          {
+            "definition": "长篇戏剧（如话剧或歌剧的长版本）",
+            "iscorrect": false
+          },
+          {
+            "definition": "长期的游戏（如需要长时间进行的电子游戏）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

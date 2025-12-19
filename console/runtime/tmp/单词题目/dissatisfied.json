@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dissatisfied",
+      "error_analysis": "学生易混淆'dissatisfied'与近义词'disappointed'(失望的)，或因词根误判为'不满足的'(unsatisfied)",
+      "sentence": "After waiting for two hours without any update, the customers became **dissatisfied** and demanded to see the manager.",
+      "options": {
+        "option": [
+          {
+            "definition": "不满意的（对某事不满）",
+            "iscorrect": true
+          },
+          {
+            "definition": "失望的（因期望落空）",
+            "iscorrect": false
+          },
+          {
+            "definition": "不满足的（需求未被满足）",
+            "iscorrect": false
+          },
+          {
+            "definition": "困惑的（无法理解）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

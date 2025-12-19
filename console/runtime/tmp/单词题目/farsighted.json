@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "farsighted",
+      "error_analysis": "学生易因\"far\"（远）和\"sight\"（视力）的词根联想，将\"farsighted\"误解为医学上的\"远视的\"或字面的\"能看到远处物体的\"，而忽略其比喻义\"有远见的\"。",
+      "sentence": "The CEO's **farsighted** investment in renewable energy ensured the company's success for decades.",
+      "options": {
+        "option": [
+          {
+            "definition": "有远见的（指计划或决策考虑长远）",
+            "iscorrect": true
+          },
+          {
+            "definition": "远视的（医学上无法看清近处物体的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "影响深远的",
+            "iscorrect": false
+          },
+          {
+            "definition": "能看到远处物体的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

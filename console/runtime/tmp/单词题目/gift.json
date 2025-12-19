@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gift",
+      "error_analysis": "中国学生易将“gift”在“have a gift for”结构中的“天赋”义误解为“礼物”，或因形近词“gist”（要点）“lift”（电梯）误判。",
+      "sentence": "She has a real **gift** for making people laugh even on bad days.",
+      "options": {
+        "option": [
+          {
+            "definition": "礼物",
+            "iscorrect": false
+          },
+          {
+            "definition": "天赋",
+            "iscorrect": true
+          },
+          {
+            "definition": "要点",
+            "iscorrect": false
+          },
+          {
+            "definition": "电梯",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

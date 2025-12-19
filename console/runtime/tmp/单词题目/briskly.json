@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "briskly",
+      "error_analysis": "学生易因形近词\"risk\"联想到\"危险地\"，或因字面猜测误判为\"猛烈地\"",
+      "sentence": "The old man **briskly** picked up the newspaper from the ground and continued his walk.",
+      "options": {
+        "option": [
+          {
+            "definition": "轻快地；敏捷地",
+            "iscorrect": true
+          },
+          {
+            "definition": "危险地",
+            "iscorrect": false
+          },
+          {
+            "definition": "猛烈地",
+            "iscorrect": false
+          },
+          {
+            "definition": "勇敢地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

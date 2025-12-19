@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "monthly",
+      "error_analysis": "学生易因词根“month”（月）过度推导为“关于月份的”，或因形近词“moth”（飞蛾）产生错误联想。",
+      "sentence": "Our team has a **monthly** meeting to discuss progress and plans.",
+      "options": {
+        "option": [
+          {
+            "definition": "每月的；每月一次的",
+            "iscorrect": true
+          },
+          {
+            "definition": "关于飞蛾的",
+            "iscorrect": false
+          },
+          {
+            "definition": "关于月份的",
+            "iscorrect": false
+          },
+          {
+            "definition": "每年的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

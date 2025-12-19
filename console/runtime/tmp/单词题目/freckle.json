@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "freckle",
+      "error_analysis": "学生易因形近词\"freight\"(货物)或词根误导(认为\"freck\"与\"free\"相关)猜测词义，或混淆\"freckle\"与\"wrinkle\"(皱纹)、\"mole\"(痣)等面部特征词。",
+      "sentence": "She has a few **freckles** on her cheeks from spending too much time in the sun.",
+      "options": {
+        "option": [
+          {
+            "definition": "货物",
+            "iscorrect": false
+          },
+          {
+            "definition": "皱纹",
+            "iscorrect": false
+          },
+          {
+            "definition": "雀斑",
+            "iscorrect": true
+          },
+          {
+            "definition": "痣",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

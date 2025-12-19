@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "banner ad",
+      "error_analysis": "学生易因\"banner\"的\"旗帜\"字面义将\"banner ad\"误判为\"旗帜广告\"，或因形近词\"barrier\"（障碍）误联想为\"障碍广告\"",
+      "sentence": "When I opened the online store, a flashy **banner ad** for summer clothes popped up at the top of the page.",
+      "options": {
+        "option": [
+          {
+            "definition": "旗帜广告（用旗帜展示的广告）",
+            "iscorrect": false
+          },
+          {
+            "definition": "障碍广告（阻碍用户操作的广告）",
+            "iscorrect": false
+          },
+          {
+            "definition": "玩笑广告（带有幽默性质的广告）",
+            "iscorrect": false
+          },
+          {
+            "definition": "横幅广告（网页或印刷品顶部的横向广告）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

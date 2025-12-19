@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "war zone",
+      "error_analysis": "学生易因“war”（战争）和“zone”（区域）的字面组合，将“war zone”错误理解为泛泛的“战争相关区域”，而非“正在发生军事冲突的地区”。",
+      "sentence": "Journalists were warned not to enter the **war zone** where fighting was still ongoing.",
+      "options": {
+        "option": [
+          {
+            "definition": "正在发生军事冲突的地区；战区",
+            "iscorrect": true
+          },
+          {
+            "definition": "战争状态；战事",
+            "iscorrect": false
+          },
+          {
+            "definition": "战争的范围；战争涉及的领域",
+            "iscorrect": false
+          },
+          {
+            "definition": "战士的营地；军人驻扎区",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

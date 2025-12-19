@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "manipulative",
+      "error_analysis": "学生易因形近词\"manual\"(手工的)或词根误导(误以为是\"操作的\")，将\"manipulative\"误判为\"手工的\"或\"机械操作的\"，而非\"操纵性的\"。",
+      "sentence": "The politician was accused of using **manipulative** tactics to win votes by spreading false information about his opponents.",
+      "options": {
+        "option": [
+          {
+            "definition": "操纵性的（指人或行为试图控制他人）",
+            "iscorrect": true
+          },
+          {
+            "definition": "手工的（与手的使用有关的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "操作的（指机械或工具的使用）",
+            "iscorrect": false
+          },
+          {
+            "definition": "管理的（涉及组织或领导工作的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

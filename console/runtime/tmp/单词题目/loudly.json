@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "loudly",
+      "error_analysis": "学生易因形近混淆\"loudly\"与\"proudly\"(骄傲地)或\"lovely\"(可爱的)，导致词义误判",
+      "sentence": "The children laughed **loudly** when they saw the funny clown.",
+      "options": {
+        "option": [
+          {
+            "definition": "大声地；吵闹地",
+            "iscorrect": true
+          },
+          {
+            "definition": "骄傲地",
+            "iscorrect": false
+          },
+          {
+            "definition": "可爱地",
+            "iscorrect": false
+          },
+          {
+            "definition": "多云地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hi",
+      "error_analysis": "学生易因形近词（如hit/his）或音近词（如high）混淆，将hi误理解为“打”“他的”或“高的”",
+      "sentence": "When you meet a friend on the street, you might say, \"**Hi**! Long time no see!\"",
+      "options": {
+        "option": [
+          {
+            "definition": "打；击打",
+            "iscorrect": false
+          },
+          {
+            "definition": "他的",
+            "iscorrect": false
+          },
+          {
+            "definition": "高的；高级的",
+            "iscorrect": false
+          },
+          {
+            "definition": "嗨；你好（问候语）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

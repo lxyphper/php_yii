@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "acrid",
+      "error_analysis": "学生易因形近词“acid”（酸的）将“acrid”误判为“酸性的”，或因词根不熟悉猜测为“尖锐的”",
+      "sentence": "After the fire, the room was filled with the **acrid** smell of burnt plastic.",
+      "options": {
+        "option": [
+          {
+            "definition": "刺鼻的；辛辣的（气味或味道）",
+            "iscorrect": true
+          },
+          {
+            "definition": "酸的；酸性的",
+            "iscorrect": false
+          },
+          {
+            "definition": "尖锐的；锋利的",
+            "iscorrect": false
+          },
+          {
+            "definition": "温和的；柔和的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

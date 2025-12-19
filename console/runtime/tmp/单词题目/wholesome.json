@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wholesome",
+      "error_analysis": "学生易因形近词\"whole\"（完整的）及词根\"whole+some\"的字面推导，误将\"wholesome\"理解为\"完整的\"或\"全面的\"，而非其核心义\"有益健康的\"。",
+      "sentence": "The grandma always prepares **wholesome** meals with fresh vegetables and whole grains for her grandchildren.",
+      "options": {
+        "option": [
+          {
+            "definition": "有益健康的；健康的",
+            "iscorrect": true
+          },
+          {
+            "definition": "完整的；全部的",
+            "iscorrect": false
+          },
+          {
+            "definition": "全面的；综合的",
+            "iscorrect": false
+          },
+          {
+            "definition": "美味的；可口的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

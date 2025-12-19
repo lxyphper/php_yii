@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to lend",
+      "error_analysis": "易因形近词\"lead\"(领导)或与\"borrow\"(借入)词义混淆而误判",
+      "sentence": "Could you **lend** me your umbrella? I forgot mine at home.",
+      "options": {
+        "option": [
+          {
+            "definition": "借出；借给",
+            "iscorrect": true
+          },
+          {
+            "definition": "领导；引导",
+            "iscorrect": false
+          },
+          {
+            "definition": "借入；借用",
+            "iscorrect": false
+          },
+          {
+            "definition": "土地；陆地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

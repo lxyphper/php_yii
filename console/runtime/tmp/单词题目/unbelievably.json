@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unbelievably",
+      "error_analysis": "学生易因形近词“unbearably”（难以忍受地）干扰或词根直译将“unbelievably”误解为“不相信地”。",
+      "sentence": "The cake she made for the party was **unbelievably** delicious—everyone asked for a second slice.",
+      "options": {
+        "option": [
+          {
+            "definition": "难以置信地",
+            "iscorrect": true
+          },
+          {
+            "definition": "难以忍受地",
+            "iscorrect": false
+          },
+          {
+            "definition": "不相信地（怀疑地）",
+            "iscorrect": false
+          },
+          {
+            "definition": "不可信地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to tutor",
+      "error_analysis": "中国学生易因“tutor”与形近词“turtle”（乌龟）拼写相似或发音接近“tour”（旅行）而误判词义。",
+      "sentence": "My mom asked me to **tutor** my little brother in math because he’s struggling with fractions.",
+      "options": {
+        "option": [
+          {
+            "definition": "辅导（学生学习）",
+            "iscorrect": true
+          },
+          {
+            "definition": "养乌龟",
+            "iscorrect": false
+          },
+          {
+            "definition": "去旅行",
+            "iscorrect": false
+          },
+          {
+            "definition": "监督（工作/行为）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

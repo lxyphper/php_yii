@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "waitress",
+      "error_analysis": "学生易混淆形近词\"waiter\"的性别（误将\"waitress\"当作男服务员），或因\"wait\"+\"ress\"字面误导忽略其\"女服务员\"的职业属性",
+      "sentence": "The **waitress** smiled and placed a glass of water in front of each guest at the table.",
+      "options": {
+        "option": [
+          {
+            "definition": "女服务员",
+            "iscorrect": true
+          },
+          {
+            "definition": "男服务员",
+            "iscorrect": false
+          },
+          {
+            "definition": "等待的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "收银员",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

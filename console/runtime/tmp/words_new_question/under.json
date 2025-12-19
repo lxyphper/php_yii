@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "under",
+      "error_analysis": "中国学生易因形近词“until”（直到）或词根联想“understood”（理解）将“under”误判为“直到”或“理解”",
+      "sentence": "The cat is sleeping **under** the sofa.",
+      "options": {
+        "option": [
+          {
+            "definition": "在...下面（垂直下方）",
+            "iscorrect": true
+          },
+          {
+            "definition": "直到（表示时间终点）",
+            "iscorrect": false
+          },
+          {
+            "definition": "理解（明白含义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "经历（遭受或承受）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

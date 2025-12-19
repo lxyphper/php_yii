@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "formula",
+      "error_analysis": "因形近词“form”（形式）干扰或词根“form”过度直译，易误判为“形式”“表格”等含义。",
+      "sentence": "The student struggled to remember the **formula** for finding the circumference of a circle.",
+      "options": {
+        "option": [
+          {
+            "definition": "公式；配方",
+            "iscorrect": true
+          },
+          {
+            "definition": "形式；表格",
+            "iscorrect": false
+          },
+          {
+            "definition": "小形式；碎片",
+            "iscorrect": false
+          },
+          {
+            "definition": "格式；布局",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wife",
+      "error_analysis": "中国学生易因形近词\"knife\"（刀）混淆，或因词根古意\"女人\"误判为\"女性\"（泛称）",
+      "sentence": "My uncle's **wife** is a teacher who loves cooking.",
+      "options": {
+        "option": [
+          {
+            "definition": "妻子",
+            "iscorrect": true
+          },
+          {
+            "definition": "刀",
+            "iscorrect": false
+          },
+          {
+            "definition": "女性",
+            "iscorrect": false
+          },
+          {
+            "definition": "聪明的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

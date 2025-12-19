@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "absent",
+      "error_analysis": "学生易因形近词\"absolute\"(绝对的)混淆，或因\"ab-\"(离开)+\"sent\"(send的过去分词)错误理解为\"发送出去的\"。",
+      "sentence": "Tom was **absent** from the party last night—everyone missed him.",
+      "options": {
+        "option": [
+          {
+            "definition": "绝对的",
+            "iscorrect": false
+          },
+          {
+            "definition": "发送出去的",
+            "iscorrect": false
+          },
+          {
+            "definition": "缺席的；不在场的",
+            "iscorrect": true
+          },
+          {
+            "definition": "缺乏的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

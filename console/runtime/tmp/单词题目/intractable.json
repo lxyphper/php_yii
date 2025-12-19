@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "intractable",
+      "error_analysis": "学生易因词根\"tract\"（拉/提取）误解为\"无法提取的\"，或因形近\"attractable\"误判为\"无吸引力的\"。",
+      "sentence": "The negotiations stuck because of the **intractable** differences between the two sides.",
+      "options": {
+        "option": [
+          {
+            "definition": "难处理的，难对付的",
+            "iscorrect": true
+          },
+          {
+            "definition": "无法提取的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无吸引力的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无法消化的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

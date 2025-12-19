@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "first responder",
+      "error_analysis": "学生易混淆形近词“first respondent”（第一受访者）或直译为“第一个回应的人”，忽略其“紧急情况中救援人员”的核心义。",
+      "sentence": "When a car accident occurred on the highway, the **first responders** arrived within five minutes to administer first aid and evacuate the injured.",
+      "options": {
+        "option": [
+          {
+            "definition": "第一受访者（接受调查的第一个人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "第一个回应问题的人",
+            "iscorrect": false
+          },
+          {
+            "definition": "急救人员（紧急情况中首先到达现场的救援人员，如警察、消防员）",
+            "iscorrect": true
+          },
+          {
+            "definition": "第一个提出建议的人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

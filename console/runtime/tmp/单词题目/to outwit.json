@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to outwit",
+      "error_analysis": "学生易因“out+wit”的字面结构误解为“比...更有智慧”，或与形近词“outfit”混淆导致理解偏差",
+      "sentence": "The thief tried to steal the diamond, but the security guard **outwitted** him by hiding it in a fake safe.",
+      "options": {
+        "option": [
+          {
+            "definition": "用计谋战胜；智胜",
+            "iscorrect": true
+          },
+          {
+            "definition": "比...更有智慧",
+            "iscorrect": false
+          },
+          {
+            "definition": "装备；配备",
+            "iscorrect": false
+          },
+          {
+            "definition": "比...跑得更快",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

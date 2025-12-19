@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to radicalize",
+      "error_analysis": "学生易因形近词\"rationalize\"(合理化)混淆，或因\"radical\"的\"根本的\"义项误判为\"使根本化\"",
+      "sentence": "Some extremist groups try to **radicalize** young people by spreading hate speech online.",
+      "options": {
+        "option": [
+          {
+            "definition": "使激进；使极端化",
+            "iscorrect": true
+          },
+          {
+            "definition": "合理化；为…找借口",
+            "iscorrect": false
+          },
+          {
+            "definition": "使根本化；使基础化",
+            "iscorrect": false
+          },
+          {
+            "definition": "使现实化；实现",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

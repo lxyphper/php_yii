@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "leftovers",
+      "error_analysis": "学生易因形近词\"left\"（左边）的影响将\"leftovers\"误解为\"左边的物品\"，或因\"left+over\"的字面组合错误理解为\"留下的超过部分\"",
+      "sentence": "After the dinner party, my mom put the **leftovers** into the fridge so we could have them for lunch the next day.",
+      "options": {
+        "option": [
+          {
+            "definition": "剩余食物；残羹剩饭",
+            "iscorrect": true
+          },
+          {
+            "definition": "左边的物品",
+            "iscorrect": false
+          },
+          {
+            "definition": "超过的部分",
+            "iscorrect": false
+          },
+          {
+            "definition": "过期的食物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

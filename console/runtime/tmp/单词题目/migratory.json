@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "migratory",
+      "error_analysis": "学生易因形近词'mitigate'(缓解)混淆，或误将词根'migrate'(迁移)引申为'移民的'(指人)而非'迁徙的'(指动物定期迁移)。",
+      "sentence": "Every year, **migratory** birds like geese fly south for the winter to find warmer climates and abundant food.",
+      "options": {
+        "option": [
+          {
+            "definition": "缓解的（减轻痛苦或问题的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "移民的（指人从一国移居到另一国的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "固定的（不移动或不变的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "迁徙的（指鸟类或动物定期迁移的）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

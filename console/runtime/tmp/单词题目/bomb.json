@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bomb",
+      "error_analysis": "中国学生易因形近词\"comb\"(梳子)混淆\"bomb\"词义，或误将其理解为\"爆炸声\"(boom)。",
+      "sentence": "The police found a **bomb** in the subway station and quickly evacuated all passengers.",
+      "options": {
+        "option": [
+          {
+            "definition": "梳子",
+            "iscorrect": false
+          },
+          {
+            "definition": "爆炸声",
+            "iscorrect": false
+          },
+          {
+            "definition": "炸弹",
+            "iscorrect": true
+          },
+          {
+            "definition": "坟墓",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

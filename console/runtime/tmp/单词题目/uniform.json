@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "uniform",
+      "error_analysis": "学生常将\"uniform\"中的\"uni-\"误判为否定前缀\"un-\"（不），或与形近词\"inform\"（通知）混淆，导致误解词义。",
+      "sentence": "All students are required to wear a **uniform** during school hours.",
+      "options": {
+        "option": [
+          {
+            "definition": "制服",
+            "iscorrect": true
+          },
+          {
+            "definition": "通知",
+            "iscorrect": false
+          },
+          {
+            "definition": "无固定形式",
+            "iscorrect": false
+          },
+          {
+            "definition": "形式",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

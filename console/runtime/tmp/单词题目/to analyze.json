@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to analyze",
+      "error_analysis": "学生易因形近词（如paralyze/瘫痪）或词根误判（如将ana-理解为“反”）而混淆“to analyze”的词义",
+      "sentence": "The scientist needs to **analyze** the data carefully to find out why the experiment failed.",
+      "options": {
+        "option": [
+          {
+            "definition": "分析",
+            "iscorrect": true
+          },
+          {
+            "definition": "瘫痪",
+            "iscorrect": false
+          },
+          {
+            "definition": "反对",
+            "iscorrect": false
+          },
+          {
+            "definition": "综合",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

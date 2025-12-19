@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "than",
+      "error_analysis": "学生易将形近词“then”（然后/当时）的含义误加于“than”，导致误解比较句逻辑。",
+      "sentence": "She runs faster **than** her brother does.",
+      "options": {
+        "option": [
+          {
+            "definition": "比（用于比较级，连接比较的对象）",
+            "iscorrect": true
+          },
+          {
+            "definition": "然后（表示时间顺序）",
+            "iscorrect": false
+          },
+          {
+            "definition": "当时（表示过去的时间点）",
+            "iscorrect": false
+          },
+          {
+            "definition": "那个（指代前文提到的事物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to adapt",
+      "error_analysis": "学生易因形近词\"adopt\"（采用；收养）的干扰，将\"adapt\"误理解为\"采用\"或\"收养\"。",
+      "sentence": "When moving to a new city, many people find it challenging to **adapt** to the fast-paced lifestyle there.",
+      "options": {
+        "option": [
+          {
+            "definition": "调整；使适应",
+            "iscorrect": true
+          },
+          {
+            "definition": "采用；收养",
+            "iscorrect": false
+          },
+          {
+            "definition": "接受；承认",
+            "iscorrect": false
+          },
+          {
+            "definition": "改编；改写",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

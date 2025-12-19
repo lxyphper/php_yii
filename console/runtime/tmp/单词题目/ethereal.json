@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ethereal",
+      "error_analysis": "最易因形近词“ethical”（道德的）产生混淆，或因“real”字面误导认为是“真实的”",
+      "sentence": "The singer's **ethereal** voice seemed to float above the crowd, leaving everyone spellbound.",
+      "options": {
+        "option": [
+          {
+            "definition": "道德的；伦理的",
+            "iscorrect": false
+          },
+          {
+            "definition": "轻盈缥缈的；超凡的",
+            "iscorrect": true
+          },
+          {
+            "definition": "真实的；实在的",
+            "iscorrect": false
+          },
+          {
+            "definition": "世俗的；尘世的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

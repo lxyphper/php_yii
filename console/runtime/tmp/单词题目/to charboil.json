@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to charboil",
+      "error_analysis": "学生易因形近词\"charcoal\"(木炭)联想为\"用木炭烤\"，或拆分\"char\"(烧焦)和\"boil\"(煮)误以为\"先烧焦再煮\"。",
+      "sentence": "She accidentally left the vegetables on the stove too long, causing them to **charboil** and stick to the pan.",
+      "options": {
+        "option": [
+          {
+            "definition": "用木炭烤制",
+            "iscorrect": false
+          },
+          {
+            "definition": "先将食物烧焦再煮",
+            "iscorrect": false
+          },
+          {
+            "definition": "把…煮得焦糊；煮至焦脆",
+            "iscorrect": true
+          },
+          {
+            "definition": "快速将食物煮沸",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

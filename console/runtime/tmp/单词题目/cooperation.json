@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cooperation",
+      "error_analysis": "易因形近词\"corporation\"（公司）或词根\"co-+operate\"过度直译（如\"共同操作\"）而误判",
+      "sentence": "The success of the project depends on the **cooperation** between the two teams.",
+      "options": {
+        "option": [
+          {
+            "definition": "合作",
+            "iscorrect": true
+          },
+          {
+            "definition": "公司",
+            "iscorrect": false
+          },
+          {
+            "definition": "共同操作",
+            "iscorrect": false
+          },
+          {
+            "definition": "运营",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

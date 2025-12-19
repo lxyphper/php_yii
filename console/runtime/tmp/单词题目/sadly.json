@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sadly",
+      "error_analysis": "学生易因形近词\"badly\"(糟糕地)或\"slowly\"(慢慢地)的干扰，误将\"sadly\"理解为非\"悲伤地\"的含义",
+      "sentence": "She looked at the broken vase **sadly** and said, \"I loved that gift.\"",
+      "options": {
+        "option": [
+          {
+            "definition": "悲伤地；遗憾地",
+            "iscorrect": true
+          },
+          {
+            "definition": "糟糕地",
+            "iscorrect": false
+          },
+          {
+            "definition": "慢慢地",
+            "iscorrect": false
+          },
+          {
+            "definition": "严肃地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

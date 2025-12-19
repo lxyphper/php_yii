@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "surprising",
+      "error_analysis": "学生易因形近词\"satisfying\"(令人满意的)或词根\"sur-\"联想到\"super\"(超级)而将\"surprising\"误解为\"令人满意的\"或\"极好的\"",
+      "sentence": "The **surprising** thing is that he passed the exam without studying at all.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人惊讶的",
+            "iscorrect": true
+          },
+          {
+            "definition": "令人满意的",
+            "iscorrect": false
+          },
+          {
+            "definition": "极好的",
+            "iscorrect": false
+          },
+          {
+            "definition": "突然的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

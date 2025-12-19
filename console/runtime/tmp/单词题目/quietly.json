@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "quietly",
+      "error_analysis": "中国学生易因形近词\"quickly\"(快速地)或\"quite\"(非常地)混淆，误判\"quietly\"的含义。",
+      "sentence": "She opened the door **quietly** so as not to wake the baby.",
+      "options": {
+        "option": [
+          {
+            "definition": "安静地；悄悄地",
+            "iscorrect": true
+          },
+          {
+            "definition": "快速地",
+            "iscorrect": false
+          },
+          {
+            "definition": "非常地",
+            "iscorrect": false
+          },
+          {
+            "definition": "慢慢地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

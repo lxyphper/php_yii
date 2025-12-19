@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "wiry",
+      "error_analysis": "学生易因形近词\"wire\"（电线）联想到\"像电线的\"，或因词根过度推导认为是\"柔软的纤细的\"，忽略其\"瘦而结实/粗硬\"的核心义。",
+      "sentence": "The old farmer had a **wiry** frame and hands calloused from decades of plowing fields.",
+      "options": {
+        "option": [
+          {
+            "definition": "像电线的；金属线制成的",
+            "iscorrect": false
+          },
+          {
+            "definition": "柔软的；纤细的",
+            "iscorrect": false
+          },
+          {
+            "definition": "瘦而结实的；粗硬的（形容毛发或身体）",
+            "iscorrect": true
+          },
+          {
+            "definition": "浓密的；茂密的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

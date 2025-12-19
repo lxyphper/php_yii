@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "monk",
+      "error_analysis": "学生易因形近词\"monkey\"（猴子）的干扰，将\"monk\"误判为\"猴子\"",
+      "sentence": "The old **monk** spends his days praying in the temple and helping the poor.",
+      "options": {
+        "option": [
+          {
+            "definition": "僧侣；修道士",
+            "iscorrect": true
+          },
+          {
+            "definition": "猴子",
+            "iscorrect": false
+          },
+          {
+            "definition": "月份",
+            "iscorrect": false
+          },
+          {
+            "definition": "水貂",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

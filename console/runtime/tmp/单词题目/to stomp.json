@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to stomp",
+      "error_analysis": "学生易因形近词\"stamp\"（盖章/邮票）混淆，或误将\"stomp\"理解为普通的\"踩\"而非\"重踩\"。",
+      "sentence": "When the little boy didn’t get his favorite toy, he **stomped** his foot and started crying.",
+      "options": {
+        "option": [
+          {
+            "definition": "重踩，跺脚",
+            "iscorrect": true
+          },
+          {
+            "definition": "盖章，盖印",
+            "iscorrect": false
+          },
+          {
+            "definition": "邮票，印花",
+            "iscorrect": false
+          },
+          {
+            "definition": "走，步行",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

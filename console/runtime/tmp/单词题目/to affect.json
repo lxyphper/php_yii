@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to affect",
+      "error_analysis": "混淆形近词“effect”（引起；使发生）与“affect”（影响）的词义",
+      "sentence": "The heavy rain will **affect** our plans to go hiking this weekend.",
+      "options": {
+        "option": [
+          {
+            "definition": "影响",
+            "iscorrect": true
+          },
+          {
+            "definition": "引起；使发生",
+            "iscorrect": false
+          },
+          {
+            "definition": "实现；完成",
+            "iscorrect": false
+          },
+          {
+            "definition": "假装；伪装",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

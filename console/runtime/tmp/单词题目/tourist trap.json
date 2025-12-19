@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "tourist trap",
+      "error_analysis": "学生易将\"tourist trap\"字面理解为\"游客遇到的危险陷阱（如抢劫等）\"，而非其引申义\"敲游客竹杠的商家或地点\"",
+      "sentence": "We wanted to eat at a local café, but the taxi driver took us to a **tourist trap** where a simple meal cost three times the normal price.",
+      "options": {
+        "option": [
+          {
+            "definition": "游客遇到的危险陷阱（如抢劫或危险区域）",
+            "iscorrect": false
+          },
+          {
+            "definition": "游客的旅行或行程",
+            "iscorrect": false
+          },
+          {
+            "definition": "（向游客出售高价商品或服务的）敲竹杠地点（如贵餐馆、纪念品店）",
+            "iscorrect": true
+          },
+          {
+            "definition": "吸引大量游客的热门旅游景点",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

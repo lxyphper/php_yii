@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to jaw",
+      "error_analysis": "学生易因\"jaw\"（下巴）的名词含义，误解\"to jaw\"为与下巴相关的动作（如咀嚼、推搡），而非口语化的\"唠叨\"。",
+      "sentence": "My grandma loves to **jaw** about her childhood stories for hours, even if no one is really listening.",
+      "options": {
+        "option": [
+          {
+            "definition": "to talk continuously in a boring or annoying way（连续说无聊或烦人的话）",
+            "iscorrect": true
+          },
+          {
+            "definition": "to chew food with the teeth（用牙齿咀嚼食物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "to push something using the jaw（用下巴推某物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "to yawn widely with the mouth open（张大嘴打哈欠）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

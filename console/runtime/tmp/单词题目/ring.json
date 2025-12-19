@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ring",
+      "error_analysis": "学生易因形近词“sing”（唱歌）混淆词义，或因名词“戒指”的字面义误导忽略动词“响铃”的核心义。",
+      "sentence": "The doorbell **rang** loudly, making me jump.",
+      "options": {
+        "option": [
+          {
+            "definition": "（动词）响铃",
+            "iscorrect": true
+          },
+          {
+            "definition": "（动词）唱歌",
+            "iscorrect": false
+          },
+          {
+            "definition": "（名词）戒指",
+            "iscorrect": false
+          },
+          {
+            "definition": "（名词）翅膀",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to open up",
+      "error_analysis": "学生易因\"open\"（打开）和\"up\"（向上）的字面意思，误将\"to open up\"理解为\"向上打开具体物品\"或\"打开具体容器\"，而非抽象的\"开始谈论情感/话题\"。",
+      "sentence": "After years of silence, Mary finally **opened up** to her friend about her childhood trauma.",
+      "options": {
+        "option": [
+          {
+            "definition": "开始谈论（情感、话题等）；变得开朗",
+            "iscorrect": true
+          },
+          {
+            "definition": "向上打开（具体物品，如窗户、门）",
+            "iscorrect": false
+          },
+          {
+            "definition": "打开（具体容器，如盒子、瓶子）",
+            "iscorrect": false
+          },
+          {
+            "definition": "展开（如地图、纸张）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

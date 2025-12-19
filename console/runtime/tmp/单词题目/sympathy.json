@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sympathy",
+      "error_analysis": "中国学生易因形近词“symptom”（症状）混淆词义，或因词根“sym-（共同）+ path-（感受）”过度直译为“同意”而非“同情”。",
+      "sentence": "When she heard about the loss of his pet, she felt deep **sympathy** for him and brought him a cup of tea.",
+      "options": {
+        "option": [
+          {
+            "definition": "同情；同情心",
+            "iscorrect": true
+          },
+          {
+            "definition": "症状；征兆",
+            "iscorrect": false
+          },
+          {
+            "definition": "同意；一致",
+            "iscorrect": false
+          },
+          {
+            "definition": "共鸣；共振",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

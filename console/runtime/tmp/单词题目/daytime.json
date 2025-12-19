@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "daytime",
+      "error_analysis": "学生易因“day”的“每天”义或与“daylight”（日光）的形近混淆，将“daytime”误解为“每天的时间”或“日光”。",
+      "sentence": "I usually finish my homework in the **daytime** and watch TV at night.",
+      "options": {
+        "option": [
+          {
+            "definition": "白天",
+            "iscorrect": true
+          },
+          {
+            "definition": "每天的时间",
+            "iscorrect": false
+          },
+          {
+            "definition": "日光",
+            "iscorrect": false
+          },
+          {
+            "definition": "白天的某个时间点",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

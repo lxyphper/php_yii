@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "redress",
+      "error_analysis": "学生易因形近词\"address\"（地址、处理）混淆，或因\"re-+dress\"词根错误推导为\"重新穿衣\"，忽略其\"纠正、赔偿\"的核心义。",
+      "sentence": "The government promised to **redress** the unfair treatment of the minority group by implementing new policies.",
+      "options": {
+        "option": [
+          {
+            "definition": "纠正；赔偿",
+            "iscorrect": true
+          },
+          {
+            "definition": "重新穿衣；整理仪容",
+            "iscorrect": false
+          },
+          {
+            "definition": "地址；演说",
+            "iscorrect": false
+          },
+          {
+            "definition": "处理；解决",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

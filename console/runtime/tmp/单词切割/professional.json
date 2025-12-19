@@ -1,0 +1,24 @@
+[
+  {
+    "common_misspellings": [
+      "profesional",
+      "prefessional",
+      "professionnal",
+      "profectional"
+    ],
+    "correct_chunks": [
+      "pro",
+      "fess",
+      "ion",
+      "al"
+    ],
+    "distractor_chunks": [
+      "pre",
+      "fes",
+      "on",
+      "fect",
+      "el"
+    ]
+  },
+  0
+]

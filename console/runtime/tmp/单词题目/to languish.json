@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to languish",
+      "error_analysis": "因形近词“language”（语言）干扰易误判为与语言相关；或因形近词“lounge”（闲逛）干扰误判为“放松”",
+      "sentence": "After the factory closed, many workers found their once-valued skills **languishing** as they struggled to find new jobs.",
+      "options": {
+        "option": [
+          {
+            "definition": "（因不用或缺乏关注而）衰退；荒废",
+            "iscorrect": true
+          },
+          {
+            "definition": "使用语言进行沟通",
+            "iscorrect": false
+          },
+          {
+            "definition": "放松地躺着休息",
+            "iscorrect": false
+          },
+          {
+            "definition": "努力提升专业能力",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

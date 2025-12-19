@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "otorhinolaryngology",
+      "error_analysis": "学生易因不认识词根\"oto-\"(耳)而漏掉\"耳\"的含义，或混淆\"oto-\"与\"ophthalmo-\"(眼)导致误判",
+      "sentence": "Dr. Lee specializes in **otorhinolaryngology**, so she often treats patients with earaches, sinusitis, and hoarse throats.",
+      "options": {
+        "option": [
+          {
+            "definition": "耳鼻咽喉科学",
+            "iscorrect": true
+          },
+          {
+            "definition": "眼鼻喉科学",
+            "iscorrect": false
+          },
+          {
+            "definition": "鼻喉科学",
+            "iscorrect": false
+          },
+          {
+            "definition": "耳科与鼻科合并学科",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

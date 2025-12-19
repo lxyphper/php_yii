@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "environment",
+      "error_analysis": "学生易因形近词“entertainment”（娱乐活动）混淆，或误将词根“environ”（环绕）过度直译，或与“surroundings”（周围的事物）混淆而非“环境”。",
+      "sentence": "We need to protect the **environment** from pollution to keep our planet healthy.",
+      "options": {
+        "option": [
+          {
+            "definition": "环境",
+            "iscorrect": true
+          },
+          {
+            "definition": "娱乐活动",
+            "iscorrect": false
+          },
+          {
+            "definition": "环绕的区域",
+            "iscorrect": false
+          },
+          {
+            "definition": "周围的事物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

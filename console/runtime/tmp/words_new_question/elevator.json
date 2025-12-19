@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "elevator",
+      "error_analysis": "学生易因词根“elevate”（提升）误判为“升降机”，或因形近词“elaborate”（详细的）误猜为“详细说明”",
+      "sentence": "Please take the **elevator** to the 5th floor; the stairs are under maintenance.",
+      "options": {
+        "option": [
+          {
+            "definition": "电梯",
+            "iscorrect": true
+          },
+          {
+            "definition": "升降机",
+            "iscorrect": false
+          },
+          {
+            "definition": "详细说明",
+            "iscorrect": false
+          },
+          {
+            "definition": "楼梯",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

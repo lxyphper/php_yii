@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "lip",
+      "error_analysis": "中国学生易将\"lip\"与形近词\"tip\"(尖端；小费)或\"hip\"(臀部)混淆，误判词义。",
+      "sentence": "She bit her **lip** nervously before answering the question.",
+      "options": {
+        "option": [
+          {
+            "definition": "嘴唇（名词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "尖端；小费（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "臀部（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "大腿（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

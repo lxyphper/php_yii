@@ -1,0 +1,25 @@
+[
+  {
+    "common_misspellings": [
+      "infastructure",
+      "infrastrocture",
+      "infrastrucure",
+      "infrstructure",
+      "infrastructur"
+    ],
+    "correct_chunks": [
+      "in",
+      "fra",
+      "struc",
+      "ture"
+    ],
+    "distractor_chunks": [
+      "fa",
+      "stroct",
+      "fr",
+      "ure",
+      "tur"
+    ]
+  },
+  0
+]

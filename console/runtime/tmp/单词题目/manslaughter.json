@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "manslaughter",
+      "error_analysis": "将'manslaughter'误理解为'故意杀人'（因形近词'slaughter'的联想及词根字面组合误导）",
+      "sentence": "The driver was charged with **manslaughter** after he accidentally hit a pedestrian while texting.",
+      "options": {
+        "option": [
+          {
+            "definition": "故意杀人（罪）",
+            "iscorrect": false
+          },
+          {
+            "definition": "过失杀人（罪）",
+            "iscorrect": true
+          },
+          {
+            "definition": "男性屠杀",
+            "iscorrect": false
+          },
+          {
+            "definition": "动物屠宰",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

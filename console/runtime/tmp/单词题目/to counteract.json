@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to counteract",
+      "error_analysis": "学生易因\"counter-\"+\"act\"的词根误导，将\"to counteract\"误理解为\"反对行动\"，而非其核心含义\"抵消\"。",
+      "sentence": "The doctor prescribed a new drug to **counteract** the side effects of the chemotherapy.",
+      "options": {
+        "option": [
+          {
+            "definition": "抵消，中和（某种不良影响）",
+            "iscorrect": true
+          },
+          {
+            "definition": "反对或抵制某种行动",
+            "iscorrect": false
+          },
+          {
+            "definition": "反击（如军事或口头攻击）",
+            "iscorrect": false
+          },
+          {
+            "definition": "支持或促进（某种进程）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

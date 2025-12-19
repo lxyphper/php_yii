@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bottle bank",
+      "error_analysis": "学生易将\"bank\"直译为\"银行\"，误解为\"存放瓶子的银行\"，忽略其\"回收容器\"的核心含义",
+      "sentence": "Don’t forget to take the empty soda bottles to the **bottle bank** near the supermarket when you go shopping.",
+      "options": {
+        "option": [
+          {
+            "definition": "瓶罐回收箱",
+            "iscorrect": true
+          },
+          {
+            "definition": "存放瓶子的银行",
+            "iscorrect": false
+          },
+          {
+            "definition": "河岸上的瓶子堆",
+            "iscorrect": false
+          },
+          {
+            "definition": "装瓶子的木箱",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

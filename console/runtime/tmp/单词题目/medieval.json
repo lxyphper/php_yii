@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "medieval",
+      "error_analysis": "学生易因形近词“medium”（中等的）或词根“medius（中间）+aevum（时代）”的字面误导，将“medieval”误判为“中等的”或“中间时代的”。",
+      "sentence": "The castle, with its thick stone walls and wooden drawbridge, is a classic example of **medieval** architecture in Europe.",
+      "options": {
+        "option": [
+          {
+            "definition": "中世纪的（指欧洲5-15世纪的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "中等的；中间的",
+            "iscorrect": false
+          },
+          {
+            "definition": "中间时代的（泛泛指历史中的过渡时期）",
+            "iscorrect": false
+          },
+          {
+            "definition": "古代的；远古的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

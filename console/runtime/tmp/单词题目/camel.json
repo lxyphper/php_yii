@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "camel",
+      "error_analysis": "学生易因形近词\"calm\"(平静)、\"came\"(来)或\"candle\"(蜡烛)产生错误联想",
+      "sentence": "In the desert, people often use a **camel** to carry goods because it can go days without drinking water.",
+      "options": {
+        "option": [
+          {
+            "definition": "骆驼",
+            "iscorrect": true
+          },
+          {
+            "definition": "平静的",
+            "iscorrect": false
+          },
+          {
+            "definition": "蜡烛",
+            "iscorrect": false
+          },
+          {
+            "definition": "来（过去式）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

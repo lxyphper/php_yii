@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "bandage",
+      "error_analysis": "将“bandage”误判为形近词“band”（乐队/带子）的延伸义，如“乐队”或“带子”",
+      "sentence": "After he fell off his bike, his mom took a **bandage** to wrap around his knee.",
+      "options": {
+        "option": [
+          {
+            "definition": "乐队",
+            "iscorrect": false
+          },
+          {
+            "definition": "带子",
+            "iscorrect": false
+          },
+          {
+            "definition": "绷带",
+            "iscorrect": true
+          },
+          {
+            "definition": "包裹",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

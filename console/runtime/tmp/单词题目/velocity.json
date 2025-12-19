@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "velocity",
+      "error_analysis": "学生易因形近词“volume”（体积）或“veracity”（真实性）混淆，或因“veloc-”（快）词根不熟悉而误猜为“胜利”（victory）",
+      "sentence": "The rocket reached a **velocity** of 10,000 kilometers per hour during the launch.",
+      "options": {
+        "option": [
+          {
+            "definition": "速度",
+            "iscorrect": true
+          },
+          {
+            "definition": "体积",
+            "iscorrect": false
+          },
+          {
+            "definition": "真实性",
+            "iscorrect": false
+          },
+          {
+            "definition": "胜利",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

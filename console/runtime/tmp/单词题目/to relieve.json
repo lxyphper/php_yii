@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to relieve",
+      "error_analysis": "中国学生易因形近词'release'（释放）或词根'levare'（举起）的字面误导，将'to relieve'误判为'释放'或'举起'",
+      "sentence": "Taking a hot bath can help **to relieve** the muscle pain after a long run.",
+      "options": {
+        "option": [
+          {
+            "definition": "缓解（痛苦、压力等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "释放（人或物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "举起；抬起",
+            "iscorrect": false
+          },
+          {
+            "definition": "放松（进入轻松状态）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

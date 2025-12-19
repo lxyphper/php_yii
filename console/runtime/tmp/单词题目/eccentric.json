@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "eccentric",
+      "error_analysis": "学生易因词根“ec-”（出）和“centric”（中心）误判为“偏离中心的”，或因形近词“exotic”“efficient”误猜为“异域的”“高效的”。",
+      "sentence": "My neighbor is an **eccentric** old man who wears a hat made of banana peels every day.",
+      "options": {
+        "option": [
+          {
+            "definition": "古怪的",
+            "iscorrect": true
+          },
+          {
+            "definition": "偏离中心的",
+            "iscorrect": false
+          },
+          {
+            "definition": "异域的",
+            "iscorrect": false
+          },
+          {
+            "definition": "高效的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

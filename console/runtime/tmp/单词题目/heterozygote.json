@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "heterozygote",
+      "error_analysis": "学生易因形近词\"heterogeneous\"（异质的）误判为\"异质群体\"，或因不熟悉\"zygote\"（合子）词根猜测为\"不同生殖细胞\"。",
+      "sentence": "In genetics, a **heterozygote** has two different alleles for a trait, while a homozygote has identical ones.",
+      "options": {
+        "option": [
+          {
+            "definition": "杂合子（具有某性状不同等位基因的个体）",
+            "iscorrect": true
+          },
+          {
+            "definition": "异质的群体（由不同类型成员组成的群体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "不同的生殖细胞（携带不同遗传物质的生殖细胞）",
+            "iscorrect": false
+          },
+          {
+            "definition": "异常的胚胎（发育异常的早期胚胎）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

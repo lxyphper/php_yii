@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to miss",
+      "error_analysis": "中国学生易因形近词\"mistake\"或词根\"mis-\"（错误）将\"to miss\"误解为\"犯错/弄错\"",
+      "sentence": "She ran as fast as she could but still **missed** the last bus home.",
+      "options": {
+        "option": [
+          {
+            "definition": "错过（未能赶上）",
+            "iscorrect": true
+          },
+          {
+            "definition": "犯错（做错误的事）",
+            "iscorrect": false
+          },
+          {
+            "definition": "弄错（误解某事）",
+            "iscorrect": false
+          },
+          {
+            "definition": "想念（思念某人/某物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

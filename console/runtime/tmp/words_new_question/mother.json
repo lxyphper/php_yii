@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mother",
+      "error_analysis": "学生易因'mother'与形近词'moth'（飞蛾）、'motor'（发动机）的拼写/发音接近而误判其含义",
+      "sentence": "My **mother** always prepares breakfast for me before I go to school.",
+      "options": {
+        "option": [
+          {
+            "definition": "母亲；妈妈",
+            "iscorrect": true
+          },
+          {
+            "definition": "飞蛾",
+            "iscorrect": false
+          },
+          {
+            "definition": "发动机；马达",
+            "iscorrect": false
+          },
+          {
+            "definition": "事情；问题",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

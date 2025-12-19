@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "read-only memery",
+      "read-only memry",
+      "read-only memmory",
+      "readed-only memory"
+    ],
+    "correct_chunks": [
+      "read-",
+      "only",
+      "mem",
+      "ory"
+    ],
+    "distractor_chunks": [
+      "ery",
+      "mry",
+      "mm",
+      "readed-"
+    ]
+  },
+  0
+]

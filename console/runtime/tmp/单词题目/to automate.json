@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to automate",
+      "error_analysis": "学生易因形近词“automatic”（自动的）混淆动词词义，误将“automate”理解为“自动的”（形容词）而非“使自动化”（动词）。",
+      "sentence": "The company plans to **automate** its warehouse operations to reduce labor costs.",
+      "options": {
+        "option": [
+          {
+            "definition": "使自动化（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "自动的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "自动伙伴",
+            "iscorrect": false
+          },
+          {
+            "definition": "加速",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

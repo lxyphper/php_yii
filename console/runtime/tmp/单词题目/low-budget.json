@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "low-budget",
+      "error_analysis": "学生易混淆“low-budget”（低成本的）与形近的“low-key”（低调的），或误将其直译为“低预算的”而忽略其“描述制作成本低”的核心语境",
+      "sentence": "The independent film was a **low-budget** production, but it still won several awards for its creativity.",
+      "options": {
+        "option": [
+          {
+            "definition": "低成本的（用于描述制作、项目等的成本低）",
+            "iscorrect": true
+          },
+          {
+            "definition": "低调的（不张扬的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "预算不足的（指可用预算数额少）",
+            "iscorrect": false
+          },
+          {
+            "definition": "便宜的（价格低廉的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

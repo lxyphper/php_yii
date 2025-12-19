@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "disgusted",
+      "error_analysis": "将disgusted与形近词disguised（伪装的）混淆，或通过词根dis-（不）+gust（误判为“阵风”）猜测为“无阵风的”。",
+      "sentence": "She looked at the rotten food in the fridge and felt **disgusted**.",
+      "options": {
+        "option": [
+          {
+            "definition": "厌恶的；反感的",
+            "iscorrect": true
+          },
+          {
+            "definition": "伪装的",
+            "iscorrect": false
+          },
+          {
+            "definition": "无阵风的",
+            "iscorrect": false
+          },
+          {
+            "definition": "没兴趣的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

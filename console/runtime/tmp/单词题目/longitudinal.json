@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "longitudinal",
+      "error_analysis": "学生易因形近词longitude（经度）误解为“经度的”，或因词根longi-（长的）误判为“很长的”",
+      "sentence": "The researchers conducted a **longitudinal** study tracking the health of 500 children from birth to adulthood.",
+      "options": {
+        "option": [
+          {
+            "definition": "经度的",
+            "iscorrect": false
+          },
+          {
+            "definition": "很长的",
+            "iscorrect": false
+          },
+          {
+            "definition": "纵向的；长期跟踪的",
+            "iscorrect": true
+          },
+          {
+            "definition": "横向的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

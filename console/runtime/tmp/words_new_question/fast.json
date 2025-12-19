@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "fast",
+      "error_analysis": "学生易因形近词（如last/past）或词根联想（如fasten的“系紧”）误将“fast”的核心词义“快的”错判为“最后（的）”或“系紧的”",
+      "sentence": "He ran **fast** to catch the bus before it left.",
+      "options": {
+        "option": [
+          {
+            "definition": "快的；迅速的",
+            "iscorrect": true
+          },
+          {
+            "definition": "最后（的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "系紧的；固定的",
+            "iscorrect": false
+          },
+          {
+            "definition": "过去的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

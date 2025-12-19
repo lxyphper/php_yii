@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sea",
+      "error_analysis": "中国学生易将“sea”与形近词“see”（看见）或“seat”（座位）混淆，导致误判其“海”的核心词义。",
+      "sentence": "We spent the weekend at the beach, playing in the **sea** and building sandcastles with our kids.",
+      "options": {
+        "option": [
+          {
+            "definition": "海",
+            "iscorrect": true
+          },
+          {
+            "definition": "看见",
+            "iscorrect": false
+          },
+          {
+            "definition": "座位",
+            "iscorrect": false
+          },
+          {
+            "definition": "季节",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

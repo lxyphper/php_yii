@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to forget",
+      "error_analysis": "学生易将“forget”与形近词“forgive”混淆（误理解为“原谅”），或通过“for+get”字面猜测为“获得”。",
+      "sentence": "I'm sorry I **forgot** your birthday— I was so busy with work this week.",
+      "options": {
+        "option": [
+          {
+            "definition": "忘记",
+            "iscorrect": true
+          },
+          {
+            "definition": "原谅",
+            "iscorrect": false
+          },
+          {
+            "definition": "获得",
+            "iscorrect": false
+          },
+          {
+            "definition": "记住",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

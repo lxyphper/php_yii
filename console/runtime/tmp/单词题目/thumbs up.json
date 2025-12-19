@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "thumbs up",
+      "error_analysis": "学生易将习语按字面直译为“拇指向上”（动作描述），而非其核心义“赞成、认可”。",
+      "sentence": "When I finished my presentation, my boss gave me a **thumbs up** and said, \"Great job!\"",
+      "options": {
+        "option": [
+          {
+            "definition": "赞成；认可",
+            "iscorrect": true
+          },
+          {
+            "definition": "拇指向上（描述手部动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速翻阅（如翻书）",
+            "iscorrect": false
+          },
+          {
+            "definition": "重击；捶打",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "angrily",
+      "error_analysis": "中国学生易混淆形近词“hungrily”（饥饿地）或误将副词“angrily”当作形容词“生气的”。",
+      "sentence": "She slammed the door **angrily** after arguing with her brother.",
+      "options": {
+        "option": [
+          {
+            "definition": "愤怒地；生气地",
+            "iscorrect": true
+          },
+          {
+            "definition": "饥饿地",
+            "iscorrect": false
+          },
+          {
+            "definition": "生气的",
+            "iscorrect": false
+          },
+          {
+            "definition": "焦虑地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to devalue",
+      "error_analysis": "核心易错点为混淆形近词“devote”（致力于）或通过词根“value”误推为“评估”（evaluate）",
+      "sentence": "The central bank’s decision to raise interest rates caused the national currency to **devalue** rapidly against the dollar.",
+      "options": {
+        "option": [
+          {
+            "definition": "使贬值；降低价值",
+            "iscorrect": true
+          },
+          {
+            "definition": "致力于；奉献",
+            "iscorrect": false
+          },
+          {
+            "definition": "评估；评价",
+            "iscorrect": false
+          },
+          {
+            "definition": "增加价值；升值",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

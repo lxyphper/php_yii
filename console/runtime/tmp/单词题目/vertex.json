@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "vertex",
+      "error_analysis": "学生易因形近词\"vector\"(向量)混淆，或因词根\"vert\"(转向)过度联想为\"转向点\"。",
+      "sentence": "In a triangle, each **vertex** is the point where two sides meet.",
+      "options": {
+        "option": [
+          {
+            "definition": "（几何中的）顶点",
+            "iscorrect": true
+          },
+          {
+            "definition": "向量；矢量",
+            "iscorrect": false
+          },
+          {
+            "definition": "转向点；转折点",
+            "iscorrect": false
+          },
+          {
+            "definition": "漩涡；涡流",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

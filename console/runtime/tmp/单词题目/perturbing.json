@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "perturbing",
+      "error_analysis": "学生易将“perturbing”与形近词“pertaining”（关于）或“pertinent”（相关的）混淆，误理解为“关于的”或“相关的”。",
+      "sentence": "The news about the sudden increase in pollution levels in the city was quite **perturbing** to the residents.",
+      "options": {
+        "option": [
+          {
+            "definition": "令人不安的",
+            "iscorrect": true
+          },
+          {
+            "definition": "关于的",
+            "iscorrect": false
+          },
+          {
+            "definition": "相关的",
+            "iscorrect": false
+          },
+          {
+            "definition": "持续的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

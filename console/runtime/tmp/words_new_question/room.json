@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "room",
+      "error_analysis": "学生易将“room”的“空间/余地”义误判为常见的“房间”，或因形近词“roam”（漫游）产生拼写与语义混淆。",
+      "sentence": "The bus is almost full, but there's still some **room** at the back for one more passenger.",
+      "options": {
+        "option": [
+          {
+            "definition": "空间；余地",
+            "iscorrect": true
+          },
+          {
+            "definition": "房间；室",
+            "iscorrect": false
+          },
+          {
+            "definition": "漫游；闲逛",
+            "iscorrect": false
+          },
+          {
+            "definition": "根；根源",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

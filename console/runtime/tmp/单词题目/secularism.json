@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "secularism",
+      "error_analysis": "中国学生易因形近词（如与“religiousism”混淆）或词根误导（将“世俗的”误推为“宗教主义”）而误解其核心义（社会与宗教分离的思想）。",
+      "sentence": "Many modern democracies embrace **secularism**, ensuring that no single religion influences government policies.",
+      "options": {
+        "option": [
+          {
+            "definition": "宗教主义（主张宗教主导社会的思想）",
+            "iscorrect": false
+          },
+          {
+            "definition": "世俗生活（日常的非宗教生活）",
+            "iscorrect": false
+          },
+          {
+            "definition": "世俗主义（主张社会或政治与宗教分离的思想）",
+            "iscorrect": true
+          },
+          {
+            "definition": "科学主义（主张科学主导一切的思想）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

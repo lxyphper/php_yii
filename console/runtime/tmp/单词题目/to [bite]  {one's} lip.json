@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to [bite]  {one's} lip",
+      "error_analysis": "学生易将“to bite one's lip”的比喻义（抑制情绪）误解为字面的物理咬嘴唇动作（如缓解疼痛）",
+      "sentence": "When he was told he didn't get the job, he **bit his lip** and nodded politely.",
+      "options": {
+        "option": [
+          {
+            "definition": "抑制情绪（如失望或愤怒）",
+            "iscorrect": true
+          },
+          {
+            "definition": "物理上咬自己的嘴唇（如因为受伤）",
+            "iscorrect": false
+          },
+          {
+            "definition": "吃掉自己的嘴唇",
+            "iscorrect": false
+          },
+          {
+            "definition": "嘲笑别人的嘴唇",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

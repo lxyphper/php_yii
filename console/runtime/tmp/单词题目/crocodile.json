@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "crocodile",
+      "error_analysis": "学生易因形近将“crocodile”与“crocus”（番红花）混淆，或因“croc-”词根错误联想“岩石相关”含义",
+      "sentence": "We saw a huge **crocodile** sunbathing on the bank of the river during our safari.",
+      "options": {
+        "option": [
+          {
+            "definition": "鳄鱼",
+            "iscorrect": true
+          },
+          {
+            "definition": "番红花",
+            "iscorrect": false
+          },
+          {
+            "definition": "岩石中的爬行动物",
+            "iscorrect": false
+          },
+          {
+            "definition": "会呱呱叫的两栖动物",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hailstorm",
+      "error_analysis": "学生易混淆\"hail\"的动词义（赞誉/欢呼）与形近词\"hale\"（健康的），将\"hailstorm\"误解为\"赞誉的风暴\"或\"健康的风暴\"",
+      "sentence": "The sudden **hailstorm** caused extensive damage to the cars parked outside.",
+      "options": {
+        "option": [
+          {
+            "definition": "冰雹风暴",
+            "iscorrect": true
+          },
+          {
+            "definition": "赞誉的风暴",
+            "iscorrect": false
+          },
+          {
+            "definition": "健康的风暴",
+            "iscorrect": false
+          },
+          {
+            "definition": "欢呼的风暴",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

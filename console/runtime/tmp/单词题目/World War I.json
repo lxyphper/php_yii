@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "World War I",
+      "error_analysis": "学生易因罗马数字‘I’的字面误导将‘World War I’直译为‘世界战争一’，或因‘War’与‘Ware’形近误判为‘世界商品一’",
+      "sentence": "The Treaty of Versailles, signed in 1919, officially ended **World War I** and imposed heavy penalties on Germany.",
+      "options": {
+        "option": [
+          {
+            "definition": "第一次世界大战",
+            "iscorrect": true
+          },
+          {
+            "definition": "世界战争一",
+            "iscorrect": false
+          },
+          {
+            "definition": "世界商品一",
+            "iscorrect": false
+          },
+          {
+            "definition": "世界一战",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

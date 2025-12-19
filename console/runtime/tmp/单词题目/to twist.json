@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to twist",
+      "error_analysis": "学生易因形近词“twin”（双胞胎）产生“成对/复制”的错误联想，或因词根“tw”（与“二”相关）推导为“双重/重复”。",
+      "sentence": "She had to **twist** the wet towel to get rid of the excess water before hanging it up.",
+      "options": {
+        "option": [
+          {
+            "definition": "扭转；拧",
+            "iscorrect": true
+          },
+          {
+            "definition": "成对；使成为双胞胎",
+            "iscorrect": false
+          },
+          {
+            "definition": "双重；重复",
+            "iscorrect": false
+          },
+          {
+            "definition": "旋转；转圈",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cup",
+      "error_analysis": "易与形近词cap（帽子）或cut（切口）混淆，导致错误理解",
+      "sentence": "She poured some tea into her **cup** and sat down to read.",
+      "options": {
+        "option": [
+          {
+            "definition": "杯子",
+            "iscorrect": true
+          },
+          {
+            "definition": "帽子",
+            "iscorrect": false
+          },
+          {
+            "definition": "切口",
+            "iscorrect": false
+          },
+          {
+            "definition": "盖子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

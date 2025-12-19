@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to view",
+      "error_analysis": "学生易因形近词\"review\"将\"to view\"误理解为\"复习\"，或因与\"video\"拼写接近误理解为\"录像\"",
+      "sentence": "Most people **view** the Internet as a useful tool for learning.",
+      "options": {
+        "option": [
+          {
+            "definition": "看待；视为",
+            "iscorrect": true
+          },
+          {
+            "definition": "复习",
+            "iscorrect": false
+          },
+          {
+            "definition": "录像",
+            "iscorrect": false
+          },
+          {
+            "definition": "参观",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

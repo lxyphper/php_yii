@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": false,
+      "error_analysis": "学生易因形近词\"fall\"/\"fail\"联想到\"落下的\"/\"失败的\"，或因词根误解将\"false\"误判为\"错误的\"（而非\"假的\"）。",
+      "sentence": "The email claimed to be from the bank, but it was later found to contain **false** information about my account.",
+      "options": {
+        "option": [
+          {
+            "definition": "落下的；跌倒的",
+            "iscorrect": false
+          },
+          {
+            "definition": "错误的；不正确的",
+            "iscorrect": false
+          },
+          {
+            "definition": "失败的；未成功的",
+            "iscorrect": false
+          },
+          {
+            "definition": "假的；不真实的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

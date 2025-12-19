@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "night",
+      "error_analysis": "中国学生易因形近词“light”（光）或“knight”（骑士）的干扰，将“night”误理解为“光”或“骑士”。",
+      "sentence": "The stars shine brightly in the **night** sky.",
+      "options": {
+        "option": [
+          {
+            "definition": "光",
+            "iscorrect": false
+          },
+          {
+            "definition": "骑士",
+            "iscorrect": false
+          },
+          {
+            "definition": "早晨",
+            "iscorrect": false
+          },
+          {
+            "definition": "夜晚",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "video game console",
+      "error_analysis": "学生可能因“console”与“control”形近误判为“电子游戏控制器”，或因“console”动词“安慰”含义产生误解",
+      "sentence": "My brother saved up for months to buy the latest **video game console**, which comes with a 4K Blu-ray player and supports online multiplayer.",
+      "options": {
+        "option": [
+          {
+            "definition": "电子游戏主机",
+            "iscorrect": true
+          },
+          {
+            "definition": "电子游戏控制器",
+            "iscorrect": false
+          },
+          {
+            "definition": "电子游戏安慰工具",
+            "iscorrect": false
+          },
+          {
+            "definition": "电子游戏软件",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

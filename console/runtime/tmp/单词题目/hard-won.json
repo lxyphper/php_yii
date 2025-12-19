@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hard-won",
+      "error_analysis": "学生易因字面拆解“hard”+“won”误判为“难赢的”，或混淆“hard”与“hardly”而误选“几乎赢的”",
+      "sentence": "After months of intense practice, she finally received her **hard-won** award.",
+      "options": {
+        "option": [
+          {
+            "definition": "来之不易的（形容词，指通过努力获得的）",
+            "iscorrect": true
+          },
+          {
+            "definition": "难赢的（指难以赢得的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "勤奋的（指工作努力的）",
+            "iscorrect": false
+          },
+          {
+            "definition": "几乎赢的（指差点没赢的）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

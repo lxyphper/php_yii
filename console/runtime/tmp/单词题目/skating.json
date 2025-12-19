@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "skating",
+      "error_analysis": "学生易因形近词“skiing”（滑雪）或词根“skate”（滑冰鞋）的干扰，误将“skating”理解为“滑雪”或“穿滑冰鞋”",
+      "sentence": "We went **skating** on the frozen lake every weekend last winter.",
+      "options": {
+        "option": [
+          {
+            "definition": "滑冰；溜冰（运动）",
+            "iscorrect": true
+          },
+          {
+            "definition": "滑雪（运动）",
+            "iscorrect": false
+          },
+          {
+            "definition": "穿滑冰鞋（动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "跳跃（动作）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

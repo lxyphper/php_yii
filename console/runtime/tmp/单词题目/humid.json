@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "humid",
+      "error_analysis": "学生易因形近词\"human\"(人类)或\"humor\"(幽默)产生错误联想，误判为\"人类的\"或\"幽默的\"",
+      "sentence": "The weather in Guangzhou is often **humid** during summer, making people feel sticky and uncomfortable.",
+      "options": {
+        "option": [
+          {
+            "definition": "人类的",
+            "iscorrect": false
+          },
+          {
+            "definition": "幽默的",
+            "iscorrect": false
+          },
+          {
+            "definition": "潮湿的",
+            "iscorrect": true
+          },
+          {
+            "definition": "谦卑的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

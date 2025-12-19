@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "senator",
+      "error_analysis": "因形近词\"senior\"（高级的/年长的）及词根\"sen-\"（老）的误导，易将\"senator\"误认为\"高级职员\"或\"年长者\"。",
+      "sentence": "The **senator** from Texas will attend a meeting with the president to discuss the new budget.",
+      "options": {
+        "option": [
+          {
+            "definition": "参议员",
+            "iscorrect": true
+          },
+          {
+            "definition": "高级职员",
+            "iscorrect": false
+          },
+          {
+            "definition": "年长者",
+            "iscorrect": false
+          },
+          {
+            "definition": "工程师",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

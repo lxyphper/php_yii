@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "month",
+      "error_analysis": "中国学生易因形近词“mouth”（嘴）混淆“month”的含义，或误将“mon-”词根与“月亮”关联。",
+      "sentence": "She was born in the third **month** of the year.",
+      "options": {
+        "option": [
+          {
+            "definition": "月份",
+            "iscorrect": true
+          },
+          {
+            "definition": "嘴",
+            "iscorrect": false
+          },
+          {
+            "definition": "月亮",
+            "iscorrect": false
+          },
+          {
+            "definition": "时刻",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

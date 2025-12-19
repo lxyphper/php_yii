@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "asymptote",
+      "error_analysis": "学生易因形近词\"symptom\"(症状)或词根\"a-\"(不)+\"sym-\"(一起)错误联想为\"症状\"或\"不对称\"，而非数学中的渐近线",
+      "sentence": "In calculus, a curve will approach but never intersect its **asymptote**, even as it extends infinitely in one direction.",
+      "options": {
+        "option": [
+          {
+            "definition": "（数学中的）渐近线",
+            "iscorrect": true
+          },
+          {
+            "definition": "症状；征候",
+            "iscorrect": false
+          },
+          {
+            "definition": "不对称性；不平衡",
+            "iscorrect": false
+          },
+          {
+            "definition": "方面；层面",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

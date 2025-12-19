@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "punishment",
+      "error_analysis": "学生易因形近词‘punctuation’（标点）或混淆‘punishment’（惩罚）与‘punisher’（惩罚者）的词义而误判。",
+      "sentence": "The teacher gave the student a severe **punishment** for cheating in the exam.",
+      "options": {
+        "option": [
+          {
+            "definition": "惩罚（指对错误行为的处罚）",
+            "iscorrect": true
+          },
+          {
+            "definition": "标点（如逗号、句号等符号）",
+            "iscorrect": false
+          },
+          {
+            "definition": "惩罚者（实施惩罚的人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "奖励（对好行为的回报）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

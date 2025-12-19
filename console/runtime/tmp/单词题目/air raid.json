@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "air raid",
+      "error_analysis": "学生易因“raid”与“aid”（援助）或“ride”（旅行）形近将“air raid”误判为“空中援助”或“空中旅行”，或因“air”（空气）字面误导猜为“空气流动”等无关义。",
+      "sentence": "During World War II, many cities in Europe suffered from frequent **air raids** that destroyed thousands of buildings.",
+      "options": {
+        "option": [
+          {
+            "definition": "空中援助",
+            "iscorrect": false
+          },
+          {
+            "definition": "空中旅行",
+            "iscorrect": false
+          },
+          {
+            "definition": "空气流动",
+            "iscorrect": false
+          },
+          {
+            "definition": "空袭",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to specify",
+      "error_analysis": "学生易因形近词\"special\"（特殊的）联想为\"使特殊\"，或因词根\"spec-\"（看）误判为\"检查/指出\"。",
+      "sentence": "When filling out the form, please **specify** your preferred delivery date and time.",
+      "options": {
+        "option": [
+          {
+            "definition": "明确说明；具体指定",
+            "iscorrect": true
+          },
+          {
+            "definition": "使特殊；使成为专用",
+            "iscorrect": false
+          },
+          {
+            "definition": "检查；仔细审视",
+            "iscorrect": false
+          },
+          {
+            "definition": "专攻；专门研究",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

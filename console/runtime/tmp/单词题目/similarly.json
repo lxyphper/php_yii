@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "similarly",
+      "error_analysis": "学生易因形近词\"simply\"（简单地）或词根联想\"simultaneously\"（同时地）误判\"similarly\"的词义。",
+      "sentence": "She likes reading novels; **similarly**, her sister enjoys poetry.",
+      "options": {
+        "option": [
+          {
+            "definition": "相似地；类似地",
+            "iscorrect": true
+          },
+          {
+            "definition": "简单地；仅仅",
+            "iscorrect": false
+          },
+          {
+            "definition": "同时地；同步地",
+            "iscorrect": false
+          },
+          {
+            "definition": "频繁地；经常地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

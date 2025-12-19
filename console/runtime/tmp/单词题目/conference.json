@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "conference",
+      "error_analysis": "易与形近词confidence（信心）混淆，或因词根confer（商议/授予）的字面推导偏差而误解为“授予仪式”等无关义",
+      "sentence": "The annual international **conference** on climate change will be held in Paris next month, attracting scientists from all over the world.",
+      "options": {
+        "option": [
+          {
+            "definition": "会议；研讨会",
+            "iscorrect": true
+          },
+          {
+            "definition": "信心；信任",
+            "iscorrect": false
+          },
+          {
+            "definition": "授予仪式；证书",
+            "iscorrect": false
+          },
+          {
+            "definition": "冲突；矛盾",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

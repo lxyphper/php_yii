@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "geothermal energy",
+      "error_analysis": "学生易因“geo-”（地理）的常见词根含义或忽略“geo-”（形近“thermal”）而误判“geothermal energy”为“地理能量”或“热能”",
+      "sentence": "Iceland uses a lot of **geothermal energy** to heat homes because it has many active volcanoes and hot springs.",
+      "options": {
+        "option": [
+          {
+            "definition": "地热能",
+            "iscorrect": true
+          },
+          {
+            "definition": "热能",
+            "iscorrect": false
+          },
+          {
+            "definition": "地理能量",
+            "iscorrect": false
+          },
+          {
+            "definition": "地质能量",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

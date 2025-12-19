@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "yacht",
+      "error_analysis": "中国学生易因形近词“yarn”（纱线）或直觉猜测“小船”而误判“yacht”的核心词义",
+      "sentence": "They spent the weekend sailing their new **yacht** around the island.",
+      "options": {
+        "option": [
+          {
+            "definition": "纱线",
+            "iscorrect": false
+          },
+          {
+            "definition": "小船",
+            "iscorrect": false
+          },
+          {
+            "definition": "夹克",
+            "iscorrect": false
+          },
+          {
+            "definition": "游艇",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

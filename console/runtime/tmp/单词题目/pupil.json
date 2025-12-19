@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pupil",
+      "error_analysis": "学生易因形近词puppy（小狗）将pupil误判为“小狗”",
+      "sentence": "The young **pupil** raised his hand eagerly to answer the teacher's math question.",
+      "options": {
+        "option": [
+          {
+            "definition": "学生（尤指小学生）",
+            "iscorrect": true
+          },
+          {
+            "definition": "小狗",
+            "iscorrect": false
+          },
+          {
+            "definition": "果肉",
+            "iscorrect": false
+          },
+          {
+            "definition": "瞳孔",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

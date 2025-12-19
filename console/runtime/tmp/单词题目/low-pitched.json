@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "low-pitched",
+      "error_analysis": "学生易因形近词\"low-priced\"误判为\"低价的\"，或因词根\"pitch\"（投掷/高度）误导为\"低投掷/低高度的\"",
+      "sentence": "The singer’s **low-pitched** voice gave the song a sense of melancholy.",
+      "options": {
+        "option": [
+          {
+            "definition": "（声音）低沉的；低音调的",
+            "iscorrect": true
+          },
+          {
+            "definition": "低价的；便宜的",
+            "iscorrect": false
+          },
+          {
+            "definition": "低投掷的；低高度的",
+            "iscorrect": false
+          },
+          {
+            "definition": "情绪低落的；沮丧的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

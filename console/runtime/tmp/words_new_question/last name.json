@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "last name",
+      "error_analysis": "学生易因“last”的“最后的”字面义，将“last name”误解为“最后一个名字”（如名字中的最后部分），而非其核心义“姓”。",
+      "sentence": "When filling out the form, please write your **last name** in the box marked \"Family Name\".",
+      "options": {
+        "option": [
+          {
+            "definition": "姓",
+            "iscorrect": true
+          },
+          {
+            "definition": "名（first name）",
+            "iscorrect": false
+          },
+          {
+            "definition": "最后一个名字（如名字中的最后部分）",
+            "iscorrect": false
+          },
+          {
+            "definition": "中间名（middle name）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "chord",
+      "error_analysis": "中国学生易因形近词\"cord\"（绳子）的干扰，将\"chord\"误判为\"绳子\"，或因词根不熟悉混淆其核心词义。",
+      "sentence": "She strummed a gentle **chord** on the ukulele, and the sweet sound filled the room.",
+      "options": {
+        "option": [
+          {
+            "definition": "（音乐中的）和弦；（乐器的）弦",
+            "iscorrect": true
+          },
+          {
+            "definition": "绳子；线缆",
+            "iscorrect": false
+          },
+          {
+            "definition": "家务；日常琐事",
+            "iscorrect": false
+          },
+          {
+            "definition": "一致；协议",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

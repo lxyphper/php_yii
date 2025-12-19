@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to dress",
+      "error_analysis": "中国学生易因形近词“press”（压、按）混淆词义，或因名词“dress”（连衣裙）字面误导将动词“to dress”误解为“穿连衣裙”。",
+      "sentence": "She always **dresses** her little brother before sending him to school.",
+      "options": {
+        "option": [
+          {
+            "definition": "压；按",
+            "iscorrect": false
+          },
+          {
+            "definition": "穿连衣裙",
+            "iscorrect": false
+          },
+          {
+            "definition": "脱衣服",
+            "iscorrect": false
+          },
+          {
+            "definition": "给...穿衣服；自己穿衣服（动作）",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

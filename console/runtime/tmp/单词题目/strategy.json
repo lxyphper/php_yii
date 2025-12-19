@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "strategy",
+      "error_analysis": "学生易因形近词\"strange\"（奇怪的）产生联想，或因词根\"strat-\"（层）误导，将\"strategy\"误解为\"奇怪的事物\"或\"层次结构\"。",
+      "sentence": "To win the game, the team developed a new **strategy** that focused on quick passes and strong defense.",
+      "options": {
+        "option": [
+          {
+            "definition": "奇怪的事物",
+            "iscorrect": false
+          },
+          {
+            "definition": "层次结构",
+            "iscorrect": false
+          },
+          {
+            "definition": "加强的方法",
+            "iscorrect": false
+          },
+          {
+            "definition": "策略；计谋",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

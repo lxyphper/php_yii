@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "elongated",
+      "error_analysis": "学生易因形近词\"elaborated\"（详细的）或词根\"long\"的时间义误导，将\"elongated\"误判为\"详细的\"或\"长久的\"",
+      "sentence": "The new smartphone has an **elongated** screen that makes watching videos more immersive.",
+      "options": {
+        "option": [
+          {
+            "definition": "拉长的；延长的",
+            "iscorrect": true
+          },
+          {
+            "definition": "详细的",
+            "iscorrect": false
+          },
+          {
+            "definition": "长久的",
+            "iscorrect": false
+          },
+          {
+            "definition": "优雅的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

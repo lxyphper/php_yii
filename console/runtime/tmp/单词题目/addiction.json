@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "addiction",
+      "error_analysis": "易因形近词addition（加法；增加）混淆，或因词根add（添加）错误联想为“添加的习惯”而非“成瘾”",
+      "sentence": "His **addiction** to video games has made him skip classes several times.",
+      "options": {
+        "option": [
+          {
+            "definition": "成瘾；瘾",
+            "iscorrect": true
+          },
+          {
+            "definition": "加法；增加",
+            "iscorrect": false
+          },
+          {
+            "definition": "添加物；附加品",
+            "iscorrect": false
+          },
+          {
+            "definition": "注意力；专注",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

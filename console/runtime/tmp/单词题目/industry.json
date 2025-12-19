@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "industry",
+      "error_analysis": "中国学生易因形近词\"industrial\"（工业的）混淆词性及词义，或因词中\"dust\"字面拆解误判为\"与灰尘相关的工作\"。",
+      "sentence": "The tech **industry** has grown rapidly in recent years, creating millions of jobs.",
+      "options": {
+        "option": [
+          {
+            "definition": "行业（如科技/汽车行业）",
+            "iscorrect": true
+          },
+          {
+            "definition": "工业的（形容词，如工业产品）",
+            "iscorrect": false
+          },
+          {
+            "definition": "与灰尘相关的工作（如清洁工）",
+            "iscorrect": false
+          },
+          {
+            "definition": "勤奋（如努力工作的品质）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

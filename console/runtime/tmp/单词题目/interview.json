@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "interview",
+      "error_analysis": "学生易因\"inter-\"+\"view\"的字面组合误判为\"互相观看\"，或混淆形近词\"review\"（复习）的含义",
+      "sentence": "She was nervous because she had an **interview** for the job of a teacher tomorrow.",
+      "options": {
+        "option": [
+          {
+            "definition": "面试；采访",
+            "iscorrect": true
+          },
+          {
+            "definition": "复习；回顾",
+            "iscorrect": false
+          },
+          {
+            "definition": "互相观看；对视",
+            "iscorrect": false
+          },
+          {
+            "definition": "调查；普查",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

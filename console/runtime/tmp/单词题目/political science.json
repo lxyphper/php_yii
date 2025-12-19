@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "political science",
+      "error_analysis": "学生易因形近词混淆（将“science”误看成“scene”）理解为“政治场景”，或因词根字面误导（将“science”直译为“科学”）误判为“政治科学”。",
+      "sentence": "She decided to study **political science** at university to learn more about how governments work and make decisions.",
+      "options": {
+        "option": [
+          {
+            "definition": "政治学",
+            "iscorrect": true
+          },
+          {
+            "definition": "政治场景",
+            "iscorrect": false
+          },
+          {
+            "definition": "政治科学",
+            "iscorrect": false
+          },
+          {
+            "definition": "政治策略",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

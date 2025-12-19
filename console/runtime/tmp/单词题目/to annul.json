@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to annul",
+      "error_analysis": "学生易因形近将“annul”误联想为“annual”（每年的）或“announce”（宣布），或因词根“nul”（无）过度推导为“使无效”而忽略其“废除法律/合同”的核心义",
+      "sentence": "The court decided to **annul** the unfair contract signed by the minor.",
+      "options": {
+        "option": [
+          {
+            "definition": "每年的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "宣布（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "废除（法律、合同等）（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "使无效（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

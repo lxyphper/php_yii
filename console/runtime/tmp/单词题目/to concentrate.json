@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to concentrate",
+      "error_analysis": "中国学生易因形近词“congratulate”（祝贺）混淆“to concentrate”，或因词根“centr-”（中心）错误推导为“浓缩（液体）”或“聚集（物品）”。",
+      "sentence": "It's hard to **concentrate** on studying when your phone keeps ringing.",
+      "options": {
+        "option": [
+          {
+            "definition": "集中（注意力、精力等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "祝贺",
+            "iscorrect": false
+          },
+          {
+            "definition": "浓缩（液体）",
+            "iscorrect": false
+          },
+          {
+            "definition": "聚集（人群/物品）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

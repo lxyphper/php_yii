@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "address",
+      "error_analysis": "学生易将动词“address”误判为“写地址”（名词义迁移）或因形近“dress”联想到“穿衣/打扮”。",
+      "sentence": "The government plans to **address** the traffic congestion in the city next year.",
+      "options": {
+        "option": [
+          {
+            "definition": "处理（问题/议题）",
+            "iscorrect": true
+          },
+          {
+            "definition": "写地址；寄给",
+            "iscorrect": false
+          },
+          {
+            "definition": "穿衣；打扮",
+            "iscorrect": false
+          },
+          {
+            "definition": "向...演讲",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

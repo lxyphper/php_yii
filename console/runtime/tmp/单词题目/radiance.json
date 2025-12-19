@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "radiance",
+      "error_analysis": "学生易因词根“radi-”（辐射）及形近词“radiator”（散热器）误将“radiance”理解为“辐射”或“散热器”。",
+      "sentence": "The morning sun filled the room with a warm **radiance**, making everything look bright and cheerful.",
+      "options": {
+        "option": [
+          {
+            "definition": "辐射；放射",
+            "iscorrect": false
+          },
+          {
+            "definition": "散热器",
+            "iscorrect": false
+          },
+          {
+            "definition": "光芒；光彩",
+            "iscorrect": true
+          },
+          {
+            "definition": "无线电信号",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

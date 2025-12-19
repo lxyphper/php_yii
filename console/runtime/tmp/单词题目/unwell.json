@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unwell",
+      "error_analysis": "学生易因“un-”+“well”（好的）词根误导，将“unwell”泛化为“不好的”（如情绪或事情不如意），而非具体的“身体不舒服”。",
+      "sentence": "Tom didn’t join the basketball game because he felt **unwell** after running a few laps.",
+      "options": {
+        "option": [
+          {
+            "definition": "身体不舒服的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不开心的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不顺利的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不明智的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to knock",
+      "error_analysis": "中国学生易因形近词\"lock\"(锁)或\"rock\"(摇晃)误判\"to knock\"的核心含义。",
+      "sentence": "Please **knock** at the door before entering the room.",
+      "options": {
+        "option": [
+          {
+            "definition": "敲；敲击",
+            "iscorrect": true
+          },
+          {
+            "definition": "锁（门/窗等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "摇晃（某物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "点头",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to flutter",
+      "error_analysis": "学生易因形近词\"falter\"(犹豫)混淆，或因\"fl-\"联想错误理解为\"飞翔\"而非\"快速小幅度振动\"",
+      "sentence": "The butterfly’s wings **fluttered** rapidly as it landed gently on the colorful flower.",
+      "options": {
+        "option": [
+          {
+            "definition": "快速小幅度振动（如翅膀、旗帜等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "犹豫；蹒跚（如脚步、说话）",
+            "iscorrect": false
+          },
+          {
+            "definition": "快速飞翔（如鸟类、昆虫）",
+            "iscorrect": false
+          },
+          {
+            "definition": "缓慢移动（如水流、云朵）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

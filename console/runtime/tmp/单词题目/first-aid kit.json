@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "first-aid kit",
+      "error_analysis": "学生易因“kit”与“kite”形近误判为“急救风筝”，或因“first-aid”直译为“初次帮助”而误解为“初次帮助工具”。",
+      "sentence": "When hiking, it's essential to carry a **first-aid kit** with bandages, antiseptic wipes, and pain relievers in case of minor injuries.",
+      "options": {
+        "option": [
+          {
+            "definition": "急救包",
+            "iscorrect": true
+          },
+          {
+            "definition": "急救风筝",
+            "iscorrect": false
+          },
+          {
+            "definition": "初次帮助工具",
+            "iscorrect": false
+          },
+          {
+            "definition": "高级医疗设备",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

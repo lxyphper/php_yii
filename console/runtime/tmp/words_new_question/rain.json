@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "rain",
+      "error_analysis": "学生易因形近词“reign”（统治）或“rein”（缰绳）的形状、发音相似而混淆“rain”的核心词义（雨/下雨）",
+      "sentence": "The weather forecast says it will **rain** all day tomorrow, so we have to cancel the picnic.",
+      "options": {
+        "option": [
+          {
+            "definition": "下雨（动词）",
+            "iscorrect": true
+          },
+          {
+            "definition": "统治（动词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "缰绳（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "疼痛（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

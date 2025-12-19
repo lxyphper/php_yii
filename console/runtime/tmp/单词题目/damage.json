@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "damage",
+      "error_analysis": "易因形近词\"manage\"误解为\"管理\"，或因词根\"dam\"(水坝)误导为\"建造水坝\"",
+      "sentence": "The heavy rain will **damage** the crops if we don’t protect them soon.",
+      "options": {
+        "option": [
+          {
+            "definition": "管理；处理",
+            "iscorrect": false
+          },
+          {
+            "definition": "建造水坝",
+            "iscorrect": false
+          },
+          {
+            "definition": "损害；毁坏",
+            "iscorrect": true
+          },
+          {
+            "definition": "拯救；救援",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

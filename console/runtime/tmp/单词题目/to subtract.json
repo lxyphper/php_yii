@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to subtract",
+      "error_analysis": "易因形近词'attract'（吸引）或词根'sub-'（下）+'tract'（拉）的错误推导而误解词义",
+      "sentence": "If you **subtract** 5 from 10, you get 5.",
+      "options": {
+        "option": [
+          {
+            "definition": "减去；扣除",
+            "iscorrect": true
+          },
+          {
+            "definition": "吸引；引起兴趣",
+            "iscorrect": false
+          },
+          {
+            "definition": "拉下；拖走",
+            "iscorrect": false
+          },
+          {
+            "definition": "增加；添加",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

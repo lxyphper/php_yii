@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "luxurious",
+      "error_analysis": "学生易因形近词\"luxuriant\"（茂盛的）混淆，或误将\"luxurious\"片面理解为\"昂贵的\"。",
+      "sentence": "The hotel room had **luxurious** amenities like a private Jacuzzi and a king-size bed with silk sheets.",
+      "options": {
+        "option": [
+          {
+            "definition": "豪华的；奢华的",
+            "iscorrect": true
+          },
+          {
+            "definition": "茂盛的；茂密的",
+            "iscorrect": false
+          },
+          {
+            "definition": "昂贵的；高价的",
+            "iscorrect": false
+          },
+          {
+            "definition": "发光的；明亮的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "inelegant",
+      "error_analysis": "学生易因形近词\"inefficient\"(低效的)混淆词义，或误将\"in-\"理解为\"内部\"而误解为\"内在优雅\"。",
+      "sentence": "Her dress was so **inelegant** that everyone noticed its loose threads and unflattering cut.",
+      "options": {
+        "option": [
+          {
+            "definition": "低效的",
+            "iscorrect": false
+          },
+          {
+            "definition": "内在优雅的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不礼貌的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不优雅的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

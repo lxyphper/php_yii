@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to transmute",
+      "error_analysis": "核心易错点：1. 形近词干扰（如将transmute误判为transmit“传输”）；2. 词根误导（因“mute”联想为“使沉默”）。",
+      "sentence": "Alchemists once believed they could **transmute** lead into gold using secret formulas.",
+      "options": {
+        "option": [
+          {
+            "definition": "（使）质变；（使）转化（尤指从一种物质变为另一种）",
+            "iscorrect": true
+          },
+          {
+            "definition": "传输；传送（信息、信号等）",
+            "iscorrect": false
+          },
+          {
+            "definition": "使沉默；使无声",
+            "iscorrect": false
+          },
+          {
+            "definition": "（使）形态改变；改造",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

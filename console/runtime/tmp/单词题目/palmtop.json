@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "palmtop",
+      "error_analysis": "学生易根据词根“palm”（手掌）和“top”（顶部）直译为“手掌顶部”，忽略其实际含义为“掌上电脑”。",
+      "sentence": "She pulled out her **palmtop** to check the schedule while waiting for the bus.",
+      "options": {
+        "option": [
+          {
+            "definition": "掌上电脑（一种小型便携式电子设备）",
+            "iscorrect": true
+          },
+          {
+            "definition": "手掌顶部；掌心",
+            "iscorrect": false
+          },
+          {
+            "definition": "棕榈树的顶端",
+            "iscorrect": false
+          },
+          {
+            "definition": "笔记本电脑",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

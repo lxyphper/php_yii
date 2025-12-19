@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "yes",
+      "error_analysis": "学生易因形近词\"year\"（年）的拼写相似，将\"yes\"误理解为\"年\"。",
+      "sentence": "When the teacher asked if she wanted to play the game, she smiled and said **yes**.",
+      "options": {
+        "option": [
+          {
+            "definition": "是的（表示同意或肯定）",
+            "iscorrect": true
+          },
+          {
+            "definition": "年（表示时间的单位）",
+            "iscorrect": false
+          },
+          {
+            "definition": "还；但是（表示转折或未完成）",
+            "iscorrect": false
+          },
+          {
+            "definition": "喊叫（发出大声的声音）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

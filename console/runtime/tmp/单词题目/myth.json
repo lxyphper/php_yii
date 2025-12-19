@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "myth",
+      "error_analysis": "中国学生易因形近词“math”（数学）的干扰，或字面拆分“my+th”而误将“myth”理解为与数学或个人物品相关的含义。",
+      "sentence": "Many ancient cultures used **myth** to explain natural phenomena like thunder and lightning.",
+      "options": {
+        "option": [
+          {
+            "definition": "数学；算术",
+            "iscorrect": false
+          },
+          {
+            "definition": "神话；虚构的传统故事",
+            "iscorrect": true
+          },
+          {
+            "definition": "我的东西；个人物品",
+            "iscorrect": false
+          },
+          {
+            "definition": "神秘事件；未解之谜",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

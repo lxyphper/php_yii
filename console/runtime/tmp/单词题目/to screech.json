@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to screech",
+      "error_analysis": "中国学生易因形近词“scrape”（刮擦）或“stretch”（伸展）的拼写干扰，或“scr-”开头联想“scare”（害怕）而误判词义",
+      "sentence": "The brakes of the bus **screeched** loudly when the driver hit them abruptly.",
+      "options": {
+        "option": [
+          {
+            "definition": "刮擦",
+            "iscorrect": false
+          },
+          {
+            "definition": "伸展",
+            "iscorrect": false
+          },
+          {
+            "definition": "发出尖锐刺耳的声音",
+            "iscorrect": true
+          },
+          {
+            "definition": "害怕地颤抖",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

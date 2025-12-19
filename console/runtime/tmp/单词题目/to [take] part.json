@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to [take] part",
+      "error_analysis": "混淆形近短语\"take apart\"(拆开)或直译\"拿部分\"，导致误解为\"拆解\"或\"占据部分\"",
+      "sentence": "All students are encouraged to **take part** in the school sports day next week.",
+      "options": {
+        "option": [
+          {
+            "definition": "参与；参加",
+            "iscorrect": true
+          },
+          {
+            "definition": "拆开；分解",
+            "iscorrect": false
+          },
+          {
+            "definition": "拿取部分；占据份额",
+            "iscorrect": false
+          },
+          {
+            "definition": "照顾；照料",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

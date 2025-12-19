@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to live",
+      "error_analysis": "中国学生易因形近词“leave”（离开）将“to live”误理解为“离开”。",
+      "sentence": "My aunt **lives** in a small apartment in Beijing.",
+      "options": {
+        "option": [
+          {
+            "definition": "居住；生活",
+            "iscorrect": true
+          },
+          {
+            "definition": "离开",
+            "iscorrect": false
+          },
+          {
+            "definition": "使...活",
+            "iscorrect": false
+          },
+          {
+            "definition": "停留",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

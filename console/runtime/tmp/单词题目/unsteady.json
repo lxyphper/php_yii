@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unsteady",
+      "error_analysis": "易因形近词unready（没准备好的）混淆，或误将steady的“坚定”义过度推导为“不坚定的”",
+      "sentence": "The old man's legs felt **unsteady** as he walked down the stairs.",
+      "options": {
+        "option": [
+          {
+            "definition": "不稳的；摇晃的",
+            "iscorrect": true
+          },
+          {
+            "definition": "没准备好的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不坚定的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不持续的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

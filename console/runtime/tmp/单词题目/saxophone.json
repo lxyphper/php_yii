@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "saxophone",
+      "error_analysis": "学生易因词根`phone`（熟悉义“电话”）或形近词`microphone`（都含`phone`）误将`saxophone`理解为通讯工具或麦克风设备。",
+      "sentence": "The jazz musician picked up his **saxophone** and began to play a smooth melody on the stage.",
+      "options": {
+        "option": [
+          {
+            "definition": "萨克斯风（一种木管乐器）",
+            "iscorrect": true
+          },
+          {
+            "definition": "一种通讯工具（如电话的延伸设备）",
+            "iscorrect": false
+          },
+          {
+            "definition": "一种麦克风设备（用于放大声音）",
+            "iscorrect": false
+          },
+          {
+            "definition": "一种弦乐器（如小提琴的同类）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

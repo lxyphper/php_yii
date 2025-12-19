@@ -1,0 +1,23 @@
+[
+  {
+    "common_misspellings": [
+      "gardenvariety",
+      "gardern-variety",
+      "garden-varity",
+      "garden-variaty"
+    ],
+    "correct_chunks": [
+      "gar",
+      "den",
+      "-var",
+      "iety"
+    ],
+    "distractor_chunks": [
+      "gardenv",
+      "dern",
+      "ity",
+      "aty"
+    ]
+  },
+  0
+]

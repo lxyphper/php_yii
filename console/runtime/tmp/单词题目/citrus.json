@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "citrus",
+      "error_analysis": "易因形近词\"citizen\"（公民）误判为\"公民的\"，或因\"citr-\"词根误解为\"酸的\"",
+      "sentence": "The farmer grows various **citrus** trees, such as oranges, grapefruits, and lemons, in his orchard.",
+      "options": {
+        "option": [
+          {
+            "definition": "柑橘类水果（如橙子、柠檬等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "公民；市民",
+            "iscorrect": false
+          },
+          {
+            "definition": "城市的；都市的",
+            "iscorrect": false
+          },
+          {
+            "definition": "酸的；酸性物质",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

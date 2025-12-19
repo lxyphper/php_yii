@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "expanded",
+      "error_analysis": "中国学生易因形近词“expended”（消耗的）混淆“expanded”的核心含义（扩展的）",
+      "sentence": "The company **expanded** its product line to include more sustainable options last year.",
+      "options": {
+        "option": [
+          {
+            "definition": "扩展的；扩大的",
+            "iscorrect": true
+          },
+          {
+            "definition": "消耗的；花费的",
+            "iscorrect": false
+          },
+          {
+            "definition": "爆炸的；爆发的",
+            "iscorrect": false
+          },
+          {
+            "definition": "出口的；输出的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

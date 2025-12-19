@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "brother",
+      "error_analysis": "易与形近词“bother”（打扰）混淆，或因“broth”（肉汤）的字面联想产生错误理解",
+      "sentence": "My **brother** and I used to play football every weekend when we were kids.",
+      "options": {
+        "option": [
+          {
+            "definition": "兄弟",
+            "iscorrect": true
+          },
+          {
+            "definition": "打扰",
+            "iscorrect": false
+          },
+          {
+            "definition": "肉汤",
+            "iscorrect": false
+          },
+          {
+            "definition": "朋友",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

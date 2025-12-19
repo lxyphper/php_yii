@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "outlandish",
+      "error_analysis": "学生易因形近词\"outstanding\"误判为\"杰出的\"，或因词根\"outland\"(偏远)误判为\"偏远地区的\"",
+      "sentence": "Her decision to wear a sequined dinosaur costume to the job interview looked **outlandish** to the hiring manager.",
+      "options": {
+        "option": [
+          {
+            "definition": "杰出的；优秀的",
+            "iscorrect": false
+          },
+          {
+            "definition": "古怪的；奇异的",
+            "iscorrect": true
+          },
+          {
+            "definition": "偏远地区的；乡下的",
+            "iscorrect": false
+          },
+          {
+            "definition": "过时的；陈旧的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

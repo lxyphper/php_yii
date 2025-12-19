@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hearty",
+      "error_analysis": "学生易因词根“heart”（心脏）误导认为与“心脏的”相关，或混淆形近词“hardy”（强壮的）而误判词义。",
+      "sentence": "After playing football for two hours, the boys sat down to a **hearty** meal of pasta and meatballs.",
+      "options": {
+        "option": [
+          {
+            "definition": "强壮的",
+            "iscorrect": false
+          },
+          {
+            "definition": "心脏的",
+            "iscorrect": false
+          },
+          {
+            "definition": "贴心的",
+            "iscorrect": false
+          },
+          {
+            "definition": "丰盛的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

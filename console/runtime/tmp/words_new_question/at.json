@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "at",
+      "error_analysis": "中国学生常混淆“at”与“in/on”在时间（具体点）或地点（小范围）的介词用法，误将“at”用于时间段或大地点。",
+      "sentence": "We usually have breakfast **at** 7:00 a.m. before going to school.",
+      "options": {
+        "option": [
+          {
+            "definition": "在（某具体时间点或小地点）",
+            "iscorrect": true
+          },
+          {
+            "definition": "在...里面（用于时间段或大地点）",
+            "iscorrect": false
+          },
+          {
+            "definition": "在...上面（用于具体日期或表面）",
+            "iscorrect": false
+          },
+          {
+            "definition": "到...去（表示方向或目的地）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

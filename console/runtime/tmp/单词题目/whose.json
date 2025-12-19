@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "whose",
+      "error_analysis": "学生易将“whose”（谁的）与形近词“who’s”（who is/has的缩写）混淆，误判为“谁是”或“谁有”。",
+      "sentence": "—Excuse me, **whose** umbrella is this? I found it by the door. —Oh, it’s mine. Thank you!",
+      "options": {
+        "option": [
+          {
+            "definition": "谁的（用于询问所属）",
+            "iscorrect": true
+          },
+          {
+            "definition": "谁是（who is的缩写）",
+            "iscorrect": false
+          },
+          {
+            "definition": "谁有（who has的缩写）",
+            "iscorrect": false
+          },
+          {
+            "definition": "哪个的（用于指代事物的所属）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

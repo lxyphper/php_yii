@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "minimisation",
+      "error_analysis": "学生易因形近词\"minimum\"(最小值)混淆动作与名词，或因词根\"mini-\"(小)误判为\"小型化\"而非\"最小化\"（减少到最低）。",
+      "sentence": "The company adopted strict cost **minimisation** measures to survive the economic downturn.",
+      "options": {
+        "option": [
+          {
+            "definition": "最小值（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "小型化（使某物变小的过程）",
+            "iscorrect": false
+          },
+          {
+            "definition": "最小化；将…减少到最低限度",
+            "iscorrect": true
+          },
+          {
+            "definition": "最大化（反义干扰）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "single parent",
+      "error_analysis": "中国学生易因形近词（将“single”误看成“simple”）或词根联想（直译为“单一的父母”、混淆为“独生子女的父母”）误解“single parent”。",
+      "sentence": "After the divorce, Mary became a **single parent** and had to balance work and taking care of her two kids alone.",
+      "options": {
+        "option": [
+          {
+            "definition": "单亲父母（独自抚养子女的父亲或母亲）",
+            "iscorrect": true
+          },
+          {
+            "definition": "简单的父母",
+            "iscorrect": false
+          },
+          {
+            "definition": "单一的父母",
+            "iscorrect": false
+          },
+          {
+            "definition": "独生子女的父母",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

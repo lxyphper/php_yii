@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "year-round",
+      "error_analysis": "易因字面将\"round\"理解为\"环绕\"而误判为\"全年环绕的\"，或与形近词\"yearly\"混淆为\"每年一次的\"",
+      "sentence": "The resort offers **year-round** activities, so you can enjoy skiing in winter and hiking in summer.",
+      "options": {
+        "option": [
+          {
+            "definition": "全年的；全年都有的",
+            "iscorrect": true
+          },
+          {
+            "definition": "每年一次的",
+            "iscorrect": false
+          },
+          {
+            "definition": "全年环绕的",
+            "iscorrect": false
+          },
+          {
+            "definition": "一年的长度",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

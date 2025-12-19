@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to overtake",
+      "error_analysis": "学生易因形近短语\"take over\"(接管)混淆，或因\"over-\"+\"take\"字面误导为\"拿超过的部分\"",
+      "sentence": "As the car in front slowed down, Tom decided to **overtake** it on the left.",
+      "options": {
+        "option": [
+          {
+            "definition": "接管，控制",
+            "iscorrect": false
+          },
+          {
+            "definition": "超过，追上",
+            "iscorrect": true
+          },
+          {
+            "definition": "拿取超过的量",
+            "iscorrect": false
+          },
+          {
+            "definition": "忽视，忽略",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

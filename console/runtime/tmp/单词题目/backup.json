@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "backup",
+      "error_analysis": "学生易因\"back\"（后面）和\"up\"（向上）的字面组合误判为\"后面的\"，或因与\"backpack\"（背包）形近误判为\"背包\"",
+      "sentence": "Before updating your phone, it’s important to create a **backup** of all your data.",
+      "options": {
+        "option": [
+          {
+            "definition": "备份（文件等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "背包",
+            "iscorrect": false
+          },
+          {
+            "definition": "后面的",
+            "iscorrect": false
+          },
+          {
+            "definition": "向上",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "hypnosis",
+      "error_analysis": "中国学生易因形近词“hypothesis”（假设）或词根“hypno-”（睡眠）将“hypnosis”误解为“假设”或“深度睡眠”。",
+      "sentence": "During the therapy session, the psychologist used **hypnosis** to help the patient recall repressed memories.",
+      "options": {
+        "option": [
+          {
+            "definition": "假设",
+            "iscorrect": false
+          },
+          {
+            "definition": "催眠状态；催眠术",
+            "iscorrect": true
+          },
+          {
+            "definition": "深度睡眠",
+            "iscorrect": false
+          },
+          {
+            "definition": "诊断",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

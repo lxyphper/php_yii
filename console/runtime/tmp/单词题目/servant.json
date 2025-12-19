@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "servant",
+      "error_analysis": "中国学生易因形近词“service”（服务）将“servant”误判为“服务”，或因混淆“server”（侍者）而误选“侍者”。",
+      "sentence": "The old man had a **servant** who helped him with cooking and cleaning every day.",
+      "options": {
+        "option": [
+          {
+            "definition": "服务（名词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "仆人；雇员",
+            "iscorrect": true
+          },
+          {
+            "definition": "侍者；服务员",
+            "iscorrect": false
+          },
+          {
+            "definition": "句子",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

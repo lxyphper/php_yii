@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gradient",
+      "error_analysis": "学生易因形近词“grade”（等级）或词根“grad-”（进步）误将“gradient”理解为“等级”或“进步”。",
+      "sentence": "The hiker struggled to climb the steep **gradient** of the mountain path, as each step required more effort.",
+      "options": {
+        "option": [
+          {
+            "definition": "梯度；坡度",
+            "iscorrect": true
+          },
+          {
+            "definition": "等级；分数",
+            "iscorrect": false
+          },
+          {
+            "definition": "进步；进展",
+            "iscorrect": false
+          },
+          {
+            "definition": "变化；转变",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

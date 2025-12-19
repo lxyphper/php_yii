@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dew",
+      "error_analysis": "学生易因形近词“due”（应得的）或“drew”（画的过去式）的干扰，将“dew”错误理解为“应得的”或“画”。",
+      "sentence": "In the early morning, the grass was covered with **dew**, making it slippery to walk on.",
+      "options": {
+        "option": [
+          {
+            "definition": "露水",
+            "iscorrect": true
+          },
+          {
+            "definition": "应得的",
+            "iscorrect": false
+          },
+          {
+            "definition": "画（过去式）",
+            "iscorrect": false
+          },
+          {
+            "definition": "丢失",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

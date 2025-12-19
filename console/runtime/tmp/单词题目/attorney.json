@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "attorney",
+      "error_analysis": "学生易因形近将'attorney'误判为'作者'(author)或'服务员'(attendant)，或因词根不熟悉猜测为'代理人'(agent)。",
+      "sentence": "If you're accused of a crime in the US, you have the right to hire an **attorney** to defend you in court.",
+      "options": {
+        "option": [
+          {
+            "definition": "作者",
+            "iscorrect": false
+          },
+          {
+            "definition": "律师",
+            "iscorrect": true
+          },
+          {
+            "definition": "服务员",
+            "iscorrect": false
+          },
+          {
+            "definition": "代理人",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "engineer",
+      "error_analysis": "易因形近词\"engine\"（发动机）误判为\"发动机\"，或因词根\"engine\"+\"-er\"错误联想为\"操作发动机的人\"",
+      "sentence": "Tom wants to be an **engineer** like his dad, who builds solar panels for homes.",
+      "options": {
+        "option": [
+          {
+            "definition": "工程师（设计、开发或维护技术系统的专业人员）",
+            "iscorrect": true
+          },
+          {
+            "definition": "发动机（机器的动力装置）",
+            "iscorrect": false
+          },
+          {
+            "definition": "机械操作员（操作机器设备的工人）",
+            "iscorrect": false
+          },
+          {
+            "definition": "汽车修理工（维修汽车的人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "too",
+      "error_analysis": "中国学生易混淆“too”与形近同音词“to”（向；到）或“two”（二）的含义",
+      "sentence": "She wants to go to the park **too**.",
+      "options": {
+        "option": [
+          {
+            "definition": "也（表示附加）",
+            "iscorrect": true
+          },
+          {
+            "definition": "向；到（表示方向或目标）",
+            "iscorrect": false
+          },
+          {
+            "definition": "二（数字）",
+            "iscorrect": false
+          },
+          {
+            "definition": "太；过于（表示程度超过限度）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

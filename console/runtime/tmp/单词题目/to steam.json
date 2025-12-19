@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to steam",
+      "error_analysis": "学生易因形近词“steal”（偷）混淆词义，或因“steam”（蒸汽）的字面义误以为是“使充满蒸汽”而非“用蒸汽烹饪（食物）”。",
+      "sentence": "I usually **steam** rice for dinner because it's healthier than fried rice.",
+      "options": {
+        "option": [
+          {
+            "definition": "用蒸汽烹饪（食物）",
+            "iscorrect": true
+          },
+          {
+            "definition": "偷（某物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "使...充满蒸汽",
+            "iscorrect": false
+          },
+          {
+            "definition": "加速前进",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

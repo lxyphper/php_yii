@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "babysitter",
+      "error_analysis": "学生可能因“baby+sitter”的字面拆分，错误理解为“婴儿的坐者”，而非“照顾婴儿的人”。",
+      "sentence": "My mom hired a **babysitter** to look after my little sister while she was at work.",
+      "options": {
+        "option": [
+          {
+            "definition": "照顾婴儿的人（临时保姆）",
+            "iscorrect": true
+          },
+          {
+            "definition": "婴儿的坐者",
+            "iscorrect": false
+          },
+          {
+            "definition": "婴儿的座位",
+            "iscorrect": false
+          },
+          {
+            "definition": "照顾婴儿的动作",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

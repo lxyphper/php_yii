@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "solomonic",
+      "error_analysis": "学生易因形近词\"solemn\"（严肃的）或对\"Solomon\"典故不熟悉而误解为\"严肃的\"或\"皇家的\"",
+      "sentence": "The judge's **solomonic** decision ended the long-standing dispute between the two families fairly.",
+      "options": {
+        "option": [
+          {
+            "definition": "明智而公正的（尤指解决争端时）",
+            "iscorrect": true
+          },
+          {
+            "definition": "严肃的，庄重的",
+            "iscorrect": false
+          },
+          {
+            "definition": "皇家的，属于国王的",
+            "iscorrect": false
+          },
+          {
+            "definition": "孤独的，独处的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

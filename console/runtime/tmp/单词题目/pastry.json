@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pastry",
+      "error_analysis": "易因形近词\"pasta\"(意大利面)混淆，或因\"ry\"后缀(如\"bakery\")误判为\"面包店\"",
+      "sentence": "She bought a box of **pastry** from the bakery to serve with afternoon tea.",
+      "options": {
+        "option": [
+          {
+            "definition": "意大利面",
+            "iscorrect": false
+          },
+          {
+            "definition": "糕点；酥皮点心",
+            "iscorrect": true
+          },
+          {
+            "definition": "面包店",
+            "iscorrect": false
+          },
+          {
+            "definition": "过去的经历",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

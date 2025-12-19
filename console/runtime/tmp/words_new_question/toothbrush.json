@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "toothbrush",
+      "error_analysis": "易混淆同结构形近词（如toothpaste牙膏、hairbrush发刷）或误将名词工具理解为刷牙动作",
+      "sentence": "Don’t forget to put your **toothbrush** and toothpaste in your travel bag before leaving.",
+      "options": {
+        "option": [
+          {
+            "definition": "牙膏",
+            "iscorrect": false
+          },
+          {
+            "definition": "牙刷",
+            "iscorrect": true
+          },
+          {
+            "definition": "发刷",
+            "iscorrect": false
+          },
+          {
+            "definition": "刷牙的动作",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

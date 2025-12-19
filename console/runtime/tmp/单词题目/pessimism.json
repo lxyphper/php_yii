@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "pessimism",
+      "error_analysis": "学生易因形近词“optimism”（乐观主义）的拼写及发音相似而混淆，或因“pessim-”词根过度推导为“绝望”等含义。",
+      "sentence": "Despite the recent improvements in the economy, many people still hold a strong sense of **pessimism** about their future job prospects.",
+      "options": {
+        "option": [
+          {
+            "definition": "悲观；悲观主义",
+            "iscorrect": true
+          },
+          {
+            "definition": "乐观主义",
+            "iscorrect": false
+          },
+          {
+            "definition": "实用主义",
+            "iscorrect": false
+          },
+          {
+            "definition": "绝望情绪",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

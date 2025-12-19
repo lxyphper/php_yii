@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "happiness",
+      "error_analysis": "中国学生易因形近词“happen”（发生）的联想将“happiness”误判为“发生的事”，或因与“hardship”（困难）拼写相似而产生混淆。",
+      "sentence": "Her face lit up with **happiness** when she received the gift from her parents.",
+      "options": {
+        "option": [
+          {
+            "definition": "发生的事",
+            "iscorrect": false
+          },
+          {
+            "definition": "困难；艰难",
+            "iscorrect": false
+          },
+          {
+            "definition": "幸福；快乐",
+            "iscorrect": true
+          },
+          {
+            "definition": "快乐的程度",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

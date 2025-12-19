@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "manageable",
+      "error_analysis": "学生易因词根“manage”（管理）过度推导为“能管理的”，或因形近词“mandatory”（强制的）“measurable”（可测量的）产生错误联想。",
+      "sentence": "The pile of homework looked overwhelming at first, but after prioritizing, it became **manageable**.",
+      "options": {
+        "option": [
+          {
+            "definition": "能管理的",
+            "iscorrect": false
+          },
+          {
+            "definition": "强制的",
+            "iscorrect": false
+          },
+          {
+            "definition": "可测量的",
+            "iscorrect": false
+          },
+          {
+            "definition": "易处理的；可应对的",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

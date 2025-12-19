@@ -1,0 +1,22 @@
+[
+  {
+    "common_misspellings": [
+      "uknown",
+      "unknow",
+      "unknowed",
+      "inknown"
+    ],
+    "correct_chunks": [
+      "un",
+      "know",
+      "n"
+    ],
+    "distractor_chunks": [
+      "u",
+      "know",
+      "knowed",
+      "in"
+    ]
+  },
+  0
+]

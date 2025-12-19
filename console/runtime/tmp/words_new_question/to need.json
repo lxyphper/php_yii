@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to need",
+      "error_analysis": "中国学生易因形近词“to nod”（点头）混淆“to need”的核心词义“需要”",
+      "sentence": "I **need** a warm coat since the weather is getting colder.",
+      "options": {
+        "option": [
+          {
+            "definition": "需要（动词，指对某物有必需的需求）",
+            "iscorrect": true
+          },
+          {
+            "definition": "点头（动词，头部上下移动表示同意或打招呼）",
+            "iscorrect": false
+          },
+          {
+            "definition": "喂（动词，给人或动物提供食物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "播种（动词，将种子埋入土壤使其生长）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

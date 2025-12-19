@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "sawmill",
+      "error_analysis": "学生易将`sawmill`拆分为`saw`（锯）+`mill`（磨坊）误判为“锯子的磨坊”，或混淆`saw`的“看见”义而误猜“看见磨坊”",
+      "sentence": "The logs were transported to the **sawmill** to be cut into planks for the new house.",
+      "options": {
+        "option": [
+          {
+            "definition": "锯木厂",
+            "iscorrect": true
+          },
+          {
+            "definition": "看见磨坊",
+            "iscorrect": false
+          },
+          {
+            "definition": "锯子的磨坊",
+            "iscorrect": false
+          },
+          {
+            "definition": "小型工厂",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

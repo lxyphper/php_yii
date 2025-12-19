@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "gargantuan",
+      "error_analysis": "学生易因形近词\"garbage\"（垃圾）将\"gargantuan\"误判为\"肮脏的\"，或因长单词直觉猜为\"复杂的\"",
+      "sentence": "The new shopping mall has a **gargantuan** food court that can accommodate over 1,000 people at once.",
+      "options": {
+        "option": [
+          {
+            "definition": "巨大的；庞大的",
+            "iscorrect": true
+          },
+          {
+            "definition": "肮脏的；污秽的",
+            "iscorrect": false
+          },
+          {
+            "definition": "复杂的；难懂的",
+            "iscorrect": false
+          },
+          {
+            "definition": "昂贵的；高价的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

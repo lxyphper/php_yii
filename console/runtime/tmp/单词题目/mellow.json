@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mellow",
+      "error_analysis": "中国学生易因形近词“yellow”误判为“黄色的”，或因词根“mel-”（蜂蜜）误判为“甜的”。",
+      "sentence": "After aging for ten years, the wine has a **mellow** flavor that pairs perfectly with grilled steak.",
+      "options": {
+        "option": [
+          {
+            "definition": "醇厚的；柔和的",
+            "iscorrect": true
+          },
+          {
+            "definition": "黄色的",
+            "iscorrect": false
+          },
+          {
+            "definition": "甜的",
+            "iscorrect": false
+          },
+          {
+            "definition": "融化的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

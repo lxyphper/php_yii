@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "solar cell",
+      "error_analysis": "学生易将\"cell\"误理解为\"细胞\"，导致把\"solar cell\"错误翻译为\"太阳能细胞\"而非正确的\"太阳能电池\"",
+      "sentence": "The new house is fitted with **solar cells** that convert sunlight into electricity for powering lights and TVs.",
+      "options": {
+        "option": [
+          {
+            "definition": "太阳能电池",
+            "iscorrect": true
+          },
+          {
+            "definition": "太阳能细胞",
+            "iscorrect": false
+          },
+          {
+            "definition": "太阳板",
+            "iscorrect": false
+          },
+          {
+            "definition": "太阳电话",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

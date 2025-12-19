@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "therapy",
+      "error_analysis": "因拼写与\"theory\"（理论）、\"theatre\"（剧院）相似，易被误判为\"理论\"或\"剧院\"",
+      "sentence": "After the accident, she started **therapy** to help with her back pain and emotional trauma.",
+      "options": {
+        "option": [
+          {
+            "definition": "治疗；疗法",
+            "iscorrect": true
+          },
+          {
+            "definition": "理论；学说",
+            "iscorrect": false
+          },
+          {
+            "definition": "剧院；剧场",
+            "iscorrect": false
+          },
+          {
+            "definition": "练习；训练",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

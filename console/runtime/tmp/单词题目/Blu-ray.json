@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "Blu-ray",
+      "error_analysis": "学生易因词根/字面误导，将\"Blu-ray\"直译为\"蓝色光线\"或\"蓝色射线\"，忽略其作为高容量存储介质的核心含义",
+      "sentence": "I bought a **Blu-ray** of the new movie to watch on my home theater system.",
+      "options": {
+        "option": [
+          {
+            "definition": "蓝色的光线（如阳光中的蓝光）",
+            "iscorrect": false
+          },
+          {
+            "definition": "蓝光光盘（一种高容量存储介质）",
+            "iscorrect": true
+          },
+          {
+            "definition": "蓝色的鳐鱼（一种海洋生物）",
+            "iscorrect": false
+          },
+          {
+            "definition": "蓝色的射线（如放射性射线）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "enthusiastically",
+      "error_analysis": "中国学生易因形近词“enthusiast”（爱好者）联想或词根“enthusi-”字面误导，将“enthusiastically”错误理解为“作为爱好者地”或“有能量地”。",
+      "sentence": "When I mentioned the plan to travel to Tibet, my friend talked about her experiences there **enthusiastically**.",
+      "options": {
+        "option": [
+          {
+            "definition": "热情地",
+            "iscorrect": true
+          },
+          {
+            "definition": "作为爱好者地",
+            "iscorrect": false
+          },
+          {
+            "definition": "有能量地",
+            "iscorrect": false
+          },
+          {
+            "definition": "急切地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

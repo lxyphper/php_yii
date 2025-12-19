@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to overwhelm",
+      "error_analysis": "学生易因形近词“overcome”（克服）混淆，或因“over-”前缀误判为“超过”。",
+      "sentence": "After receiving hundreds of messages in an hour, she felt completely **overwhelmed** and didn’t know where to start.",
+      "options": {
+        "option": [
+          {
+            "definition": "使不知所措；压倒",
+            "iscorrect": true
+          },
+          {
+            "definition": "克服；战胜",
+            "iscorrect": false
+          },
+          {
+            "definition": "超过；超越",
+            "iscorrect": false
+          },
+          {
+            "definition": "覆盖；遮盖",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

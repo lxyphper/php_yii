@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "unchallenging",
+      "error_analysis": "学生易将\"unchallenging\"混淆为形近词\"unchallenged\"（未被挑战的），或通过词根直译误解为\"不喜欢挑战的\"。",
+      "sentence": "The math homework was so **unchallenging** that I finished it in ten minutes.",
+      "options": {
+        "option": [
+          {
+            "definition": "不具挑战性的；容易的",
+            "iscorrect": true
+          },
+          {
+            "definition": "未被挑战的；未受质疑的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不喜欢挑战的；逃避挑战的",
+            "iscorrect": false
+          },
+          {
+            "definition": "难以挑战的；无法对抗的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

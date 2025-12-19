@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "aerosol",
+      "error_analysis": "学生易因\"aero-\"（空气/航空）和\"sol\"（溶液）的词根联想误判为\"空气溶液\"或\"航空设备\"，或因形近词\"aerobic\"（有氧的）误判为\"有氧物质\"",
+      "sentence": "Many households use **aerosol** cans to apply cleaning products efficiently.",
+      "options": {
+        "option": [
+          {
+            "definition": "空气溶液",
+            "iscorrect": false
+          },
+          {
+            "definition": "航空设备",
+            "iscorrect": false
+          },
+          {
+            "definition": "有氧物质",
+            "iscorrect": false
+          },
+          {
+            "definition": "气溶胶",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

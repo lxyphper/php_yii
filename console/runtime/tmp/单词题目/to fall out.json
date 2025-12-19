@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to fall out",
+      "error_analysis": "学生易将\"fall\"与\"out\"字面组合理解为\"掉出去\"或\"跌倒出去\"，忽略其\"（与某人）闹翻\"的核心含义",
+      "sentence": "After the big argument, Tom and his brother **fell out** and stopped talking to each other for weeks.",
+      "options": {
+        "option": [
+          {
+            "definition": "（与某人）闹翻；关系破裂",
+            "iscorrect": true
+          },
+          {
+            "definition": "从...上掉落；掉出去",
+            "iscorrect": false
+          },
+          {
+            "definition": "跌倒在地；摔出去",
+            "iscorrect": false
+          },
+          {
+            "definition": "退出（某项活动或比赛）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

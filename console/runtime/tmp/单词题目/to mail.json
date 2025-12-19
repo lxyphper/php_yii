@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to mail",
+      "error_analysis": "中国学生易因形近词“male”（男性）混淆“to mail”的词义，或误将其等同于“发送电子邮件”。",
+      "sentence": "Don’t forget to **mail** the package to your sister; it has her Christmas gift inside.",
+      "options": {
+        "option": [
+          {
+            "definition": "邮寄（信件、包裹等）",
+            "iscorrect": true
+          },
+          {
+            "definition": "使成为男性",
+            "iscorrect": false
+          },
+          {
+            "definition": "发送电子邮件",
+            "iscorrect": false
+          },
+          {
+            "definition": "整理邮件",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

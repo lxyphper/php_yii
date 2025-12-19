@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "plant-based",
+      "error_analysis": "学生易将\"plant-based\"字面拆分为\"植物的基础\"或混淆为\"基于种植的(planting-based)\"",
+      "sentence": "Many people are switching to **plant-based** diets to reduce their environmental impact.",
+      "options": {
+        "option": [
+          {
+            "definition": "植物基的（指食物或产品来自植物，非动物来源）",
+            "iscorrect": true
+          },
+          {
+            "definition": "植物的基础",
+            "iscorrect": false
+          },
+          {
+            "definition": "基于种植的",
+            "iscorrect": false
+          },
+          {
+            "definition": "植物生长的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

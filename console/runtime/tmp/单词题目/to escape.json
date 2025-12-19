@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to escape",
+      "error_analysis": "学生易因形近词\"escalate\"(升级)的拼写接近，将\"escape\"误判为\"升级/加剧\"。",
+      "sentence": "The prisoner tried to **escape** from the jail last night, but he was caught by the guards.",
+      "options": {
+        "option": [
+          {
+            "definition": "逃离；逃脱",
+            "iscorrect": true
+          },
+          {
+            "definition": "升级；加剧",
+            "iscorrect": false
+          },
+          {
+            "definition": "护送；陪同",
+            "iscorrect": false
+          },
+          {
+            "definition": "覆盖；包裹",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

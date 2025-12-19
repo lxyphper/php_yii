@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "surprised",
+      "error_analysis": "学生易因形近词“surround”（包围）或“sur-”前缀误导，将“surprised”错误理解为“包围的”或“超级的”",
+      "sentence": "When I opened the door, I was **surprised** to see my old friend standing there with a birthday cake.",
+      "options": {
+        "option": [
+          {
+            "definition": "惊讶的；吃惊的",
+            "iscorrect": true
+          },
+          {
+            "definition": "包围的；环绕的",
+            "iscorrect": false
+          },
+          {
+            "definition": "超级的；过度的",
+            "iscorrect": false
+          },
+          {
+            "definition": "兴奋的；激动的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

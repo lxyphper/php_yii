@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to swell",
+      "error_analysis": "中国学生易因形近词（如'smell'）将'to swell'误解为'闻；嗅'，或因词根联想误解为'涌出'",
+      "sentence": "My ankle swelled a lot after I twisted it during the game.",
+      "options": {
+        "option": [
+          {
+            "definition": "（使）肿胀；膨胀",
+            "iscorrect": true
+          },
+          {
+            "definition": "闻；嗅",
+            "iscorrect": false
+          },
+          {
+            "definition": "涌出；流出",
+            "iscorrect": false
+          },
+          {
+            "definition": "卖；销售",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

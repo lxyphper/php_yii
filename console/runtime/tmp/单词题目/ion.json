@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ion",
+      "error_analysis": "学生易因形近词“iron”（铁）混淆，或误将“ion”视为动作/状态名词（如后缀义）而非化学术语“离子”。",
+      "sentence": "Sodium chloride dissolves in water to form sodium **ions** and chloride ions.",
+      "options": {
+        "option": [
+          {
+            "definition": "铁",
+            "iscorrect": false
+          },
+          {
+            "definition": "动作；状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "离子（化学中的带电粒子）",
+            "iscorrect": true
+          },
+          {
+            "definition": "在...上面",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

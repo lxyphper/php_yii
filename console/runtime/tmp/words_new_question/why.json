@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "why",
+      "error_analysis": "中国学生易将“why”与形近的wh-疑问词（如when/where）混淆，或误理解为“way”（方法）的近义词。",
+      "sentence": "This is the reason **why** I decided to quit my job.",
+      "options": {
+        "option": [
+          {
+            "definition": "（定语从句中）……的原因",
+            "iscorrect": true
+          },
+          {
+            "definition": "什么时候（询问时间的疑问副词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "哪里（询问地点的疑问副词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "方法；道路（名词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

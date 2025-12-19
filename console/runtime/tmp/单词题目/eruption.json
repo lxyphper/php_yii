@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "eruption",
+      "error_analysis": "中国学生易因形近词“corruption”（腐败）或词根“rupt”（破）将“eruption”误判为“腐败”或“破裂”。",
+      "sentence": "The volcanic **eruption** last week caused widespread damage to the nearby villages.",
+      "options": {
+        "option": [
+          {
+            "definition": "腐败",
+            "iscorrect": false
+          },
+          {
+            "definition": "破裂",
+            "iscorrect": false
+          },
+          {
+            "definition": "（火山、情感等的）爆发",
+            "iscorrect": true
+          },
+          {
+            "definition": "爆炸",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

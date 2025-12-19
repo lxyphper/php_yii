@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to uncoil",
+      "error_analysis": "学生易因“coil”与“coin”形近误联“虚构”，或因“un-+coil”过度直译“不卷”而忽略“展开线圈状物体”的具体含义。",
+      "sentence": "As the hiker approached, the snake **uncoiled** from its resting position on the rock and slithered toward the stream.",
+      "options": {
+        "option": [
+          {
+            "definition": "展开（线圈状物体）",
+            "iscorrect": true
+          },
+          {
+            "definition": "虚构；不铸币",
+            "iscorrect": false
+          },
+          {
+            "definition": "不卷；保持卷曲状态",
+            "iscorrect": false
+          },
+          {
+            "definition": "卸载；卸下",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

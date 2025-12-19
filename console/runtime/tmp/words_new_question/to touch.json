@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to touch",
+      "error_analysis": "学生易因形近词“tough”（坚韧的）或“touchdown”（降落）的联想，误解“to touch”的核心义。",
+      "sentence": "She bent down to **touch** the warm sand with her toes.",
+      "options": {
+        "option": [
+          {
+            "definition": "触摸；接触",
+            "iscorrect": true
+          },
+          {
+            "definition": "使坚韧；变得困难",
+            "iscorrect": false
+          },
+          {
+            "definition": "降落；到达地面",
+            "iscorrect": false
+          },
+          {
+            "definition": "感动；触动",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

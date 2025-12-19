@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "dejected",
+      "error_analysis": "易混淆形近词rejected（被拒绝的），或通过词根de-（向下）+ject（扔）错误推导为“被丢弃的”",
+      "sentence": "After failing the exam for the third time, Tom walked home with a **dejected** look on his face.",
+      "options": {
+        "option": [
+          {
+            "definition": "被拒绝的",
+            "iscorrect": false
+          },
+          {
+            "definition": "沮丧的；情绪低落的",
+            "iscorrect": true
+          },
+          {
+            "definition": "被丢弃的；堕落的",
+            "iscorrect": false
+          },
+          {
+            "definition": "兴奋的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

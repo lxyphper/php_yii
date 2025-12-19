@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "on occasion",
+      "error_analysis": "学生易因形近词\"occupation\"(职业)混淆，或直译\"在场合上\"，误将\"on occasion\"理解为\"关于职业\"或\"在场合上\"",
+      "sentence": "She likes to bake cookies for her neighbors **on occasion** when she has free time.",
+      "options": {
+        "option": [
+          {
+            "definition": "偶尔，有时",
+            "iscorrect": true
+          },
+          {
+            "definition": "关于职业",
+            "iscorrect": false
+          },
+          {
+            "definition": "在场合上",
+            "iscorrect": false
+          },
+          {
+            "definition": "经常，频繁",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

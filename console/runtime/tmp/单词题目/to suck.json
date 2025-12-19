@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to suck",
+      "error_analysis": "学生易因形近词\"such\"（这样的）混淆词义，或因字面\"吸\"的意思忽略俚语\"糟糕\"的核心用法",
+      "sentence": "The movie we watched last night really **sucked**—I fell asleep halfway through.",
+      "options": {
+        "option": [
+          {
+            "definition": "糟糕；差劲（动词，俚语）",
+            "iscorrect": true
+          },
+          {
+            "definition": "这样的（形容词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "吸；吮（动词，字面意思）",
+            "iscorrect": false
+          },
+          {
+            "definition": "成功；做到（动词）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "always",
+      "error_analysis": "中国学生易将“always”与形近词“already”（已经）或“almost”（几乎）混淆，导致词义误判",
+      "sentence": "She **always** forgets her umbrella when it rains.",
+      "options": {
+        "option": [
+          {
+            "definition": "总是，一直",
+            "iscorrect": true
+          },
+          {
+            "definition": "已经",
+            "iscorrect": false
+          },
+          {
+            "definition": "几乎",
+            "iscorrect": false
+          },
+          {
+            "definition": "仍然",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

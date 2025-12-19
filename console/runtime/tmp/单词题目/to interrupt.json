@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to interrupt",
+      "error_analysis": "易因形近词（如interpret/解释）或词根（inter-+rupt=中间破裂）过度猜测，将“打断”误判为“解释”或“破坏”。",
+      "sentence": "When I was telling a story to my friend, a stranger suddenly **interrupted** me by asking for directions.",
+      "options": {
+        "option": [
+          {
+            "definition": "打断（说话或行动的连续性）",
+            "iscorrect": true
+          },
+          {
+            "definition": "解释（用语言说明某事物的含义）",
+            "iscorrect": false
+          },
+          {
+            "definition": "破坏（使某事物破裂或无法继续存在）",
+            "iscorrect": false
+          },
+          {
+            "definition": "互动（与他人交流或合作）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

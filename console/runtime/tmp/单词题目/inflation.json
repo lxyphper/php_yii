@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "inflation",
+      "error_analysis": "学生易因词根\"inflate\"(膨胀)将\"inflation\"误理解为\"(物体的)膨胀\"，或因形近词混淆为\"感染\"等无关含义",
+      "sentence": "The government is taking measures to control **inflation**, as prices of food and fuel have risen by 10% this year.",
+      "options": {
+        "option": [
+          {
+            "definition": "通货膨胀（经济中物价普遍持续上涨的现象）",
+            "iscorrect": true
+          },
+          {
+            "definition": "（物体的）膨胀；充气",
+            "iscorrect": false
+          },
+          {
+            "definition": "感染；传染",
+            "iscorrect": false
+          },
+          {
+            "definition": "（语言的）语调变化；词形变化",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

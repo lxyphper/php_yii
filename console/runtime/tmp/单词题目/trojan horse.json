@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "trojan horse",
+      "error_analysis": "学生易将其字面理解为“特洛伊战争中的木马来历”，忽略其“隐藏的危险/伪装渗透工具”的核心比喻义",
+      "sentence": "The cybersecurity expert warned that the new software update might be a **trojan horse** designed to steal users' personal information.",
+      "options": {
+        "option": [
+          {
+            "definition": "隐藏的危险；用来渗透的伪装工具",
+            "iscorrect": true
+          },
+          {
+            "definition": "特洛伊战争中希腊人用来攻破特洛伊城的木马来历",
+            "iscorrect": false
+          },
+          {
+            "definition": "比喻比赛中出乎意料的获胜者（黑马）",
+            "iscorrect": false
+          },
+          {
+            "definition": "指体型庞大、力量强劲的马种",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "intentionally",
+      "error_analysis": "学生易将intentionally与形近词intently（专注地）混淆，或因词根intent（专注）误解为“专注地”而非“故意地”",
+      "sentence": "She **intentionally** spilled coffee on his paper to ruin his work.",
+      "options": {
+        "option": [
+          {
+            "definition": "故意地",
+            "iscorrect": true
+          },
+          {
+            "definition": "专注地",
+            "iscorrect": false
+          },
+          {
+            "definition": "内部地",
+            "iscorrect": false
+          },
+          {
+            "definition": "偶然地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

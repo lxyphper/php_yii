@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "quite",
+      "error_analysis": "中国学生易将形近词\"quiet\"(安静的)的含义误套到\"quite\"上，或混淆其与\"quit\"(放弃)的词根联想。",
+      "sentence": "The movie was **quite** interesting, so we decided to watch it again.",
+      "options": {
+        "option": [
+          {
+            "definition": "相当，很",
+            "iscorrect": true
+          },
+          {
+            "definition": "安静的",
+            "iscorrect": false
+          },
+          {
+            "definition": "停止",
+            "iscorrect": false
+          },
+          {
+            "definition": "完全",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

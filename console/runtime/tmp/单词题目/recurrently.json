@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "recurrently",
+      "error_analysis": "学生易因形近词\"currently\"（现在地）或词根误推（将\"recur\"误解为\"当前\"）而混淆\"recurrently\"的含义。",
+      "sentence": "The issue of water shortages in the region has been **recurrently** raised in community forums since 2020.",
+      "options": {
+        "option": [
+          {
+            "definition": "现在地；当前地",
+            "iscorrect": false
+          },
+          {
+            "definition": "最近地；不久前",
+            "iscorrect": false
+          },
+          {
+            "definition": "反复地；经常发生地",
+            "iscorrect": true
+          },
+          {
+            "definition": "偶尔地；间或地",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "mountain range",
+      "error_analysis": "学生易将“range”的“范围”义代入，误把“mountain range”理解为“山的范围”，或混淆“range”与“ridge”（山脊）的拼写及含义。",
+      "sentence": "The Himalayas, the highest **mountain range** in the world, extends over 2,400 kilometers through five countries in Asia.",
+      "options": {
+        "option": [
+          {
+            "definition": "山脉",
+            "iscorrect": true
+          },
+          {
+            "definition": "山的范围",
+            "iscorrect": false
+          },
+          {
+            "definition": "山脊",
+            "iscorrect": false
+          },
+          {
+            "definition": "山岗",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

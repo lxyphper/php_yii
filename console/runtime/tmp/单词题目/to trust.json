@@ -1,0 +1,32 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to trust",
+      "error_analysis": "学生易因形近词\"truth\"（真理）将\"to trust\"误解为\"说出真理\"，或因\"true\"（真实的）字面误导认为其意为\"变得真实\"。",
+      "sentence": {
+        "b": "trust"
+      },
+      "options": {
+        "option": [
+          {
+            "definition": "信任；相信",
+            "iscorrect": true
+          },
+          {
+            "definition": "说出真理；证实真相",
+            "iscorrect": false
+          },
+          {
+            "definition": "变得真实；成为事实",
+            "iscorrect": false
+          },
+          {
+            "definition": "托付（财产或责任给某人）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

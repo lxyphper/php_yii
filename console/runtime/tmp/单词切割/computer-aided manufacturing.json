@@ -1,0 +1,26 @@
+[
+  {
+    "common_misspellings": [
+      "comuter-aided manufacturing",
+      "computor-aided manufacturing",
+      "computer-aidied manufacturing",
+      "computer-aided manufaturing",
+      "computer-aided manufacuring"
+    ],
+    "correct_chunks": [
+      "com-",
+      "put-",
+      "er-aided",
+      "manu-",
+      "facturing"
+    ],
+    "distractor_chunks": [
+      "ut-",
+      "or-aided",
+      "aidied",
+      "faturing",
+      "facuring"
+    ]
+  },
+  0
+]

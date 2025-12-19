@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to act",
+      "error_analysis": "易因形近词“art”（艺术）干扰误解为“从事艺术”，或因词根“做”过度推导误解为“行动”",
+      "sentence": "After watching her favorite actress on TV, Lily decided **to act** in the school's upcoming drama.",
+      "options": {
+        "option": [
+          {
+            "definition": "表演（在戏剧、电影等中扮演角色）",
+            "iscorrect": true
+          },
+          {
+            "definition": "从事艺术（创作或参与艺术活动）",
+            "iscorrect": false
+          },
+          {
+            "definition": "行动（移动或采取具体动作）",
+            "iscorrect": false
+          },
+          {
+            "definition": "添加（把某物加入另一物）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

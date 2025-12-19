@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to persuade",
+      "error_analysis": "易因形近词（如pursue“追求”）或词根误导（如suade“建议”）误判为非“说服”义",
+      "sentence": "She tried hard to **persuade** her parents to let her study abroad.",
+      "options": {
+        "option": [
+          {
+            "definition": "说服；劝服",
+            "iscorrect": true
+          },
+          {
+            "definition": "追求；追赶",
+            "iscorrect": false
+          },
+          {
+            "definition": "感知；察觉",
+            "iscorrect": false
+          },
+          {
+            "definition": "建议；提议",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

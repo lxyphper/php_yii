@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "cover",
+      "error_analysis": "学生易将“cover”的“报道”义项（如“cover an event”）误判为“覆盖”（字面义延伸），或因形近词“discover”反推为“发现”。",
+      "sentence": "The local newspaper will **cover** the opening ceremony of the new museum tomorrow.",
+      "options": {
+        "option": [
+          {
+            "definition": "报道",
+            "iscorrect": true
+          },
+          {
+            "definition": "发现",
+            "iscorrect": false
+          },
+          {
+            "definition": "覆盖",
+            "iscorrect": false
+          },
+          {
+            "definition": "包含",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

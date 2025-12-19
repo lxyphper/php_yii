@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "subordinate",
+      "error_analysis": "中国学生易因形近词\"coordinate\"(协调)混淆词义，或因\"sub-\"(下)+\"ordinate\"(顺序)词根拆分误判为\"下订单的\"或\"次普通的\"。",
+      "sentence": "The new policy makes environmental concerns **subordinate** to economic growth.",
+      "options": {
+        "option": [
+          {
+            "definition": "协调的",
+            "iscorrect": false
+          },
+          {
+            "definition": "从属的；次要的",
+            "iscorrect": true
+          },
+          {
+            "definition": "下订单的",
+            "iscorrect": false
+          },
+          {
+            "definition": "普通的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

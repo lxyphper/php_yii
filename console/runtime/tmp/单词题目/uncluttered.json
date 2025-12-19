@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "uncluttered",
+      "error_analysis": "中国学生易因形近词\"cluster\"（集群）将\"uncluttered\"误判为\"不集群的\"，或因混淆\"clatter\"（噪音）误判为\"安静的\"",
+      "sentence": "The **uncluttered** kitchen made it easy to find the ingredients she needed for baking.",
+      "options": {
+        "option": [
+          {
+            "definition": "整洁的，不杂乱的",
+            "iscorrect": true
+          },
+          {
+            "definition": "不集群的",
+            "iscorrect": false
+          },
+          {
+            "definition": "安静的",
+            "iscorrect": false
+          },
+          {
+            "definition": "不拥挤的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "ambition",
+      "error_analysis": "学生易因形近词“mission”（使命）将“ambition”误解为“使命”，或因词根“amb-”（如“ambiguous”的“模糊”）误判为“模糊的目标”。",
+      "sentence": "Her **ambition** to become a world-class pianist drove her to practice 8 hours a day.",
+      "options": {
+        "option": [
+          {
+            "definition": "雄心；野心",
+            "iscorrect": true
+          },
+          {
+            "definition": "使命；任务",
+            "iscorrect": false
+          },
+          {
+            "definition": "模糊的目标",
+            "iscorrect": false
+          },
+          {
+            "definition": "周围的环境",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

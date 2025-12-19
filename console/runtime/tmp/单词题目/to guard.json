@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to guard",
+      "error_analysis": "中国学生易混淆形近词“guide”（引导）与“guard”（看守），或误将“guard”理解为泛泛的“保护”而非具体的“看守动作”。",
+      "sentence": "The security guard was hired to **guard** the museum at night to prevent theft.",
+      "options": {
+        "option": [
+          {
+            "definition": "看守；警戒（保持警惕以防止危险或非法进入）",
+            "iscorrect": true
+          },
+          {
+            "definition": "引导；指导（带领或指示方向）",
+            "iscorrect": false
+          },
+          {
+            "definition": "保卫；防御（强调对抗攻击以保护）",
+            "iscorrect": false
+          },
+          {
+            "definition": "警告；提醒（提醒注意潜在危险）",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

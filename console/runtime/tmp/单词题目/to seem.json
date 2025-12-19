@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "to seem",
+      "error_analysis": "易与形近词\"seen\"(看见，过去分词)或\"seam\"(接缝)混淆，导致误将\"seem\"理解为与\"看见\"或\"接缝\"相关的词义",
+      "sentence": "She **seems** tired after a long day at work.",
+      "options": {
+        "option": [
+          {
+            "definition": "似乎；好像",
+            "iscorrect": true
+          },
+          {
+            "definition": "看见（过去分词）",
+            "iscorrect": false
+          },
+          {
+            "definition": "接缝",
+            "iscorrect": false
+          },
+          {
+            "definition": "相同的",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "portfolio",
+      "error_analysis": "中国学生易因形近词\"portable\"（便携式的）或词根\"port(搬运)+folio(文件夹)\"误导，将\"portfolio\"误解为\"便携式物品\"或\"搬运文件夹的工具\"",
+      "sentence": "The young designer showed her **portfolio** of sketches and prototypes to the interviewer.",
+      "options": {
+        "option": [
+          {
+            "definition": "便携式物品",
+            "iscorrect": false
+          },
+          {
+            "definition": "搬运文件夹的工具",
+            "iscorrect": false
+          },
+          {
+            "definition": "投资组合",
+            "iscorrect": false
+          },
+          {
+            "definition": "（设计师的）作品集",
+            "iscorrect": true
+          }
+        ]
+      }
+    }
+  },
+  0
+]

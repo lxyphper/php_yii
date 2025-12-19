@@ -1,0 +1,30 @@
+[
+  {
+    "quiz_item": {
+      "target_word": "private school",
+      "error_analysis": "学生易因“private”的“私人”字面义将“private school”误判为“家庭学校”，或因形近词“privilege”联想为“特权学校”",
+      "sentence": "Unlike public schools funded by the government, **private schools** rely on tuition fees and private donations to keep running.",
+      "options": {
+        "option": [
+          {
+            "definition": "私立学校",
+            "iscorrect": true
+          },
+          {
+            "definition": "家庭学校",
+            "iscorrect": false
+          },
+          {
+            "definition": "特权学校",
+            "iscorrect": false
+          },
+          {
+            "definition": "秘密学校",
+            "iscorrect": false
+          }
+        ]
+      }
+    }
+  },
+  0
+]
