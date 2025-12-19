@@ -190,18 +190,20 @@ class StudentController extends Controller
     {
         // 验证格式参数
         $format = strtolower($format);
-        if (!in_array($format, ['csv', 'xlsx'])) {
+        if (!in_array($format, ['csv', 'xlsx'], true)) {
             var_dump("格式错误，只支持 csv 或 xlsx");
             return '';
         }
 
-        if ($class_id == 0) {
+        if ($class_id === 0) {
             var_dump("class_id 不能为0");
+            return '';
         }
 
         $class_info = EduClass::find()->where(['id' => $class_id])->one();
-        if (empty($class_info)) {
+        if ($class_info === null) {
             var_dump("class_id 不存在");
+            return '';
         }
 
         $start_time = strtotime($start_date);
