@@ -620,7 +620,9 @@ class WordsController extends Controller
 
         $decoded = json_decode($quizQuestion, true);
         if (json_last_error() === JSON_ERROR_NONE && is_array($decoded)) {
-            $segments = array_map(static fn($segment) => (string)$segment, $decoded);
+            $segments = array_map(static function ($segment): string {
+                return (string)$segment;
+            }, $decoded);
             return [implode('', $segments), $segments, null];
         }
 
@@ -690,7 +692,9 @@ class WordsController extends Controller
                 continue;
             }
 
-            $segments = array_map(static fn($segment) => (string)$segment, $segments);
+            $segments = array_map(static function ($segment) {
+                return (string)$segment;
+            }, $segments);
             $fixedSegments = $this->rebuildSegmentsForWord($segments, $word);
             if ($fixedSegments === null || $fixedSegments === $segments) {
                 $skipped[] = $quizId;
@@ -774,11 +778,15 @@ class WordsController extends Controller
                 continue;
             }
 
-            $segments = array_map(static fn($segment) => (string)$segment, $segments);
+            $segments = array_map(static function ($segment) {
+                return (string)$segment;
+            }, $segments);
             if (!is_array($segmentsWithSpace) || empty($segmentsWithSpace)) {
                 $segmentsWithSpace = $this->buildSegmentsWithSpaces($segments, $word);
             } else {
-                $segmentsWithSpace = array_map(static fn($segment) => (string)$segment, $segmentsWithSpace);
+                $segmentsWithSpace = array_map(static function ($segment) {
+                    return (string)$segment;
+                }, $segmentsWithSpace);
             }
 
             $questionJson = json_encode($segments, JSON_UNESCAPED_UNICODE);
@@ -857,7 +865,9 @@ class WordsController extends Controller
                 continue;
             }
 
-            $segments = array_map(static fn($segment) => (string)$segment, $segments);
+            $segments = array_map(static function ($segment) {
+                return (string)$segment;
+            }, $segments);
             $joined = implode('', $segments);
 
             $needsUpdate = false;
@@ -942,7 +952,9 @@ class WordsController extends Controller
                 continue;
             }
 
-            $segments = array_map(static fn($segment) => (string)$segment, $segments);
+            $segments = array_map(static function ($segment) {
+                return (string)$segment;
+            }, $segments);
             $rebuilt = $this->rebuildSegmentsForWord($segments, $word);
             $finalSegments = $rebuilt ?? $segments;
 
@@ -1284,7 +1296,9 @@ class WordsController extends Controller
     private function removeFromSegmentLengths(array $lengths, int $start, int $length): array
     {
         if ($length <= 0) {
-            return array_values(array_filter($lengths, static fn($value) => $value > 0));
+            return array_values(array_filter($lengths, static function ($value) {
+                return $value > 0;
+            }));
         }
 
         $result = [];
@@ -1322,13 +1336,17 @@ class WordsController extends Controller
                         $result[] = $lengths[$j];
                     }
                 }
-                return array_values(array_filter($result, static fn($value) => $value > 0));
+                return array_values(array_filter($result, static function ($value) {
+                    return $value > 0;
+                }));
             }
 
             $remainingStart = 0;
         }
 
-        return array_values(array_filter($result, static fn($value) => $value > 0));
+        return array_values(array_filter($result, static function ($value) {
+            return $value > 0;
+        }));
     }
 
     /**
@@ -1338,7 +1356,9 @@ class WordsController extends Controller
     private function insertIntoSegmentLengths(array $lengths, int $position, int $insertLength): array
     {
         if ($insertLength <= 0) {
-            return array_values(array_filter($lengths, static fn($value) => $value > 0));
+            return array_values(array_filter($lengths, static function ($value) {
+                return $value > 0;
+            }));
         }
 
         $total = array_sum($lengths);
@@ -1348,12 +1368,16 @@ class WordsController extends Controller
 
         if ($position <= 0) {
             array_unshift($lengths, $insertLength);
-            return array_values(array_filter($lengths, static fn($value) => $value > 0));
+            return array_values(array_filter($lengths, static function ($value) {
+                return $value > 0;
+            }));
         }
 
         if ($position >= $total) {
             $lengths[] = $insertLength;
-            return array_values(array_filter($lengths, static fn($value) => $value > 0));
+            return array_values(array_filter($lengths, static function ($value) {
+                return $value > 0;
+            }));
         }
 
         $result = [];
@@ -1390,11 +1414,15 @@ class WordsController extends Controller
                 }
             }
 
-            return array_values(array_filter($result, static fn($value) => $value > 0));
+            return array_values(array_filter($result, static function ($value) {
+                return $value > 0;
+            }));
         }
 
         $result[] = $insertLength;
-        return array_values(array_filter($result, static fn($value) => $value > 0));
+        return array_values(array_filter($result, static function ($value) {
+            return $value > 0;
+        }));
     }
 
     /**
@@ -7009,7 +7037,9 @@ class WordsController extends Controller
             $batchNumber = 0;
             foreach ($batchQuery->batch($batchSize, $db) as $rows) {
                 $batchNumber++;
-                $ids = array_map(static fn(array $row): int => (int)$row['id'], $rows);
+                $ids = array_map(static function (array $row) {
+                    return (int)$row['id'];
+                }, $rows);
                 if (empty($ids)) {
                     continue;
                 }

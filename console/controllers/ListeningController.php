@@ -3769,7 +3769,9 @@ class ListeningController extends Controller
                 ->orderBy(['id' => SORT_ASC])
                 ->all();
 
-            $groupIds = array_map(static fn(ListeningExamQuestionGroup $group): int => $group->id, $groupList);
+            $groupIds = array_map(static function (ListeningExamQuestionGroup $group): int {
+                return $group->id;
+            }, $groupList);
             $questionOptionMap = $this->indexOptionsByBizId($questionIds, 1);
             $groupOptionMap = $this->indexOptionsByBizId($groupIds, 2);
 
@@ -4040,7 +4042,9 @@ class ListeningController extends Controller
 
     private function indexOptionsByBizId(array $bizIds, int $bizType): array
     {
-        $bizIds = array_values(array_unique(array_filter($bizIds, static fn($id): bool => $id !== null && $id !== '')));
+        $bizIds = array_values(array_unique(array_filter($bizIds, static function ($id): bool {
+            return $id !== null && $id !== '';
+        })));
         if (empty($bizIds)) {
             return [];
         }
