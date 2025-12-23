@@ -1,4 +1,82 @@
 <?php
+/**
+ * =====================================================================================
+ * StudentController 控制器脚本文档
+ * =====================================================================================
+ * 
+ * 本控制器包含以下可执行脚本命令:
+ * 
+ * -----------------------------------------------------------------------------------------
+ * 1. actionDealBeiWaiAccount - 处理北外账号
+ *    命令: php yii student/deal-bei-wai-account
+ *    参数: 无
+ *    用途: 批量创建北外学生账号，账号格式为 "bfsu-{学号}"，密码为学号后6位
+ * 
+ * -----------------------------------------------------------------------------------------
+ * 2. actionDealWithCourse - 处理课程数据
+ *    命令: php yii student/deal-with-course
+ *    参数: 无
+ *    用途: 从 JSON 文件导入课程数据，处理课程分类、单元和课程信息
+ * 
+ * -----------------------------------------------------------------------------------------
+ * 3. actionAddUser - 添加用户到班级
+ *    命令: php yii student/add-user
+ *    参数: 无
+ *    用途: 将预定义的学生列表添加到指定班级
+ * 
+ * -----------------------------------------------------------------------------------------
+ * 4. actionExportRecord - 导出单个班级学生练习记录
+ *    命令: php yii student/export-record {class_id} {start_date} {end_date} {format}
+ *    参数:
+ *      - class_id (int): 班级ID
+ *      - start_date (string): 开始日期，格式 Y-m-d，例如: 2025-05-12
+ *      - end_date (string): 结束日期，格式 Y-m-d，例如: 2025-08-04
+ *      - format (string): 导出格式，可选 csv 或 xlsx，默认 csv
+ *    用途: 导出指定班级在指定时间段内的学生练习记录统计
+ *    示例: php yii student/export-record 502 2025-10-12 2025-11-04 xlsx
+ * 
+ * -----------------------------------------------------------------------------------------
+ * 5. actionExportRecordMulti - 导出多个班级学生练习记录并汇总
+ *    命令: php yii student/export-record-multi "{class_ids}" {start_date} {end_date} {file_name} {format}
+ *    参数:
+ *      - class_ids (string): 逗号或空格分隔的班级ID列表
+ *      - start_date (string): 开始日期，格式 Y-m-d
+ *      - end_date (string): 结束日期，格式 Y-m-d
+ *      - file_name (string): 导出文件名（不包含扩展名）
+ *      - format (string): 导出格式，可选 csv 或 xlsx，默认 csv
+ *    用途: 导出多个班级的学生练习记录并生成汇总统计
+ *    示例: php yii student/export-record-multi "611" 2025-11-24 2025-12-18 汇总文件 xlsx
+ * 
+ * -----------------------------------------------------------------------------------------
+ * 6. actionCreateSpecifyAccount - 生成试用账号
+ *    命令: php yii student/create-specify-account
+ *    参数: 无
+ *    用途: 批量生成100个随机试用账号，有效期7天
+ * 
+ * -----------------------------------------------------------------------------------------
+ * 7. actionCreateStatisticsData - 生成统计数据
+ *    命令: php yii student/create-statistics-data
+ *    参数: 无
+ *    用途: 为测试学生ID生成模拟统计数据，包含总统计、听力、阅读、写作、口语和专项提升数据
+ * 
+ * =====================================================================================
+ * 辅助方法（非命令行脚本）:
+ * =====================================================================================
+ * - randomAccount(): 生成随机6位账号
+ * - formatExportDuration(): 将秒数转换为小时/分钟格式
+ * - buildExportRecordRowTemplate(): 初始化导出行数据模板
+ * - createTotal(): 生成总统计数据
+ * - createListening(): 生成听力统计数据
+ * - createReading(): 生成阅读统计数据
+ * - createWriting(): 生成写作统计数据
+ * - createSpeaking(): 生成口语统计数据
+ * - createSpecial(): 生成专项提升统计数据
+ * - getWritingTypes(): 获取写作题目类型
+ * - getListeningTypes(): 获取听力题目类型
+ * - getReadingTypes(): 获取阅读题目类型
+ * - getSpeakingTypes(): 获取口语题目类型
+ * =====================================================================================
+ */
 
 namespace console\controllers;
 
