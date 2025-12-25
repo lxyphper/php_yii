@@ -36,7 +36,7 @@ use OSS\Core\OssException;
  * Class ListeningController
  * @package console\controllers
  */
-class ListeningController extends Controller
+class ListeningController extends BaseController
 {
     public int $paperId = 0;
     public int $dryRun = 1;
@@ -3406,10 +3406,10 @@ class ListeningController extends Controller
             $len = count($all);
             if ($len > 2) {
                 for ($i = $len - 2; $i >= 0; $i -= 1) {
-                    $all[$i] = explode("/", str_replace("(", "", $all[$i]));
-                    var_dump($all[$i]);
+                    $parts = explode("/", str_replace("(", "", $all[$i]));
+                    $all[$i] = $parts;
                     $o_len = count($ret);
-                    foreach ($all[$i] as $value) {
+                    foreach ($parts as $value) {
                         for ($j = 0; $j < $o_len; $j++) {
                             $ret[] = trim($value) . ' ' . trim($ret[$j]);
                         }
@@ -3428,8 +3428,6 @@ class ListeningController extends Controller
                     trim($all[1])
                 ];
             }
-            var_dump("处理后数据：");
-            var_dump($ret);
         } else {
             $ret = explode("/", $str);
         }
@@ -3444,7 +3442,7 @@ class ListeningController extends Controller
     public function dealWithAnswer($arr): array
     {
         $ret = [];
-        if (count($arr) == 0) {
+        if (!is_array($arr) || count($arr) == 0) {
             return $ret;
         }
 

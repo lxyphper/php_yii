@@ -19,7 +19,7 @@ use yii\console\Controller;
 use yii\httpclient\Client;
 use yii\httpclient\Exception;
 
-class PaperDealWithController extends Controller
+class PaperDealWithController extends BaseController
 {
     public function actionListeningGroup()
     {

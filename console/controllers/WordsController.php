@@ -23,7 +23,7 @@ use Yii;
 use Throwable;
 
 //处理单词数据
-class WordsController extends Controller
+class WordsController extends BaseController
 {
     /*
      * 单词脚本列表（php yii words/<command>）：

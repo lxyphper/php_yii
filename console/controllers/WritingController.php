@@ -15,7 +15,7 @@ use app\models\WritingExaminingQuestion;
 use yii\console\Controller;
 use yii\log\Logger;
 
-class WritingController extends Controller
+class WritingController extends BaseController
 {
     public function actionInitEssay($url)
     {

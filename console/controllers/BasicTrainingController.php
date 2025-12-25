@@ -24,7 +24,7 @@ use PhpOffice\PhpSpreadsheet\Writer\Xlsx;
 use yii\console\Controller;
 use yii\log\Logger;
 
-class BasicTrainingController extends Controller
+class BasicTrainingController extends BaseController
 {
     public function actionInitWriting($url)
     {
@@ -543,7 +543,7 @@ class BasicTrainingController extends Controller
                 $question = BasicTrainingListeningQuestion::find()->where(['id' => $value->question_id])->one();
                 $answer = $question->answer;
                 $sub_answer = json_decode($value->sub_answer);
-                $value->total = count($answer);
+                $value->total = is_array($answer) ? count($answer) : 0;
                 $value->save(false);
                 var_dump("$id 更新完成");
                 continue;

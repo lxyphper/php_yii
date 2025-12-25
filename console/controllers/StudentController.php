@@ -121,7 +121,7 @@ use PhpOffice\PhpSpreadsheet\Spreadsheet;
 use PhpOffice\PhpSpreadsheet\Writer\Xlsx;
 use PhpOffice\PhpSpreadsheet\Writer\Csv;
 
-class StudentController extends Controller
+class StudentController extends BaseController
 {
     public function actionDealBeiWaiAccount()
     {

@@ -15,7 +15,7 @@ use Yii;
 /**
  * 控制台脚本：导出 LMS 课程下的章节/小节（仅视频类型）及资源信息。
  */
-class LmsController extends Controller
+class LmsController extends BaseController
 {
     private const VIDEO_SECTION_TYPE = 1;
 

@@ -31,7 +31,7 @@ use yii\log\Logger;
  * Class ReadingController
  * @package console\controllers
  */
-class ReadingController extends Controller
+class ReadingController extends BaseController
 {
     //数据初始化
     public function actionInitJyData($url): void

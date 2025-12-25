@@ -21,7 +21,7 @@ use GuzzleHttp\Client;
 
 //处理搜索数据到ES
 //1听力 2阅读 3写作 5作文 6词汇
-class DealWithSearchController extends Controller
+class DealWithSearchController extends BaseController
 {
 
     private function putData($id, $data)

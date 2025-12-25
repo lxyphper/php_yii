@@ -1,4 +1,5 @@
 <?php
+
 namespace console\controllers;
 
 use app\models\SimulateExamSpeakingReport;
@@ -7,7 +8,7 @@ use OSS\OssClient;
 use Yii;
 use yii\console\Controller;
 
-class CheckSpeakingReportController extends Controller
+class CheckSpeakingReportController extends BaseController
 {
     /**
      * 检查 simulate_exam_speaking_report 表中的数据是否正确

@@ -37,7 +37,7 @@ use OSS\OssClient;
 use OSS\Core\OssException;
 use Yii;
 
-class SpeakingController extends Controller
+class SpeakingController extends BaseController
 {
     public function actionInitDataPart()
     {
