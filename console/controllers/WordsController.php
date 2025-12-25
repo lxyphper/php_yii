@@ -70,6 +70,12 @@ class WordsController extends Controller
      * - normalize-core-meanings-pos [batchSize limit dryRun]：规范 core_meanings 中的词性展示
      * - normalize-collocations [batchSize limit dryRun]：规范 collocations 内容格式
      * - fix-collocation-usage-translations [batchSize limit dryRun]：修复搭配例句的翻译
+     * - export-vocabulary-with-to-phrase [outputFile]：导出 name 包含 'to ' 且 book_id >= 195 的单词
+     * - verify-vocabulary-translations [inputFile outputFile]：验证单词与翻译是否匹配
+     * - export-quiz-answer-mismatch [minBookId outputFile]：导出单词名称与 quiz_answer 不一致的记录
+     * - export-unbolded-meanings-in-examples [minBookId outputFile]：导出例句翻译中含有未加粗释义的数据
+     * - fix-unbolded-meanings-in-examples [minBookId dryRun]：自动修复例句翻译中未加粗的释义
+     * - fix-vocabulary-translations-from-json [inputFile dryRun]：根据 JSON 修复 vocabulary.translation
      */
     private const UNIPUS_ENDPOINT = 'https://open.unipus.cn/openapi/dict/v1/keyword';
     private const UNIPUS_LAN_ID = 1;
@@ -8113,5 +8119,997 @@ NAMES;
         }
 
         return $result;
+    }
+
+    /**
+     * 导出 name 中包含 'to ' 且 book_id >= 195 的单词 id、name 和 translation
+     *
+     * 用法: php yii words/export-vocabulary-with-to-phrase [outputFile]
+     *
+     * @param string $outputFile 输出文件路径，默认为 @console/runtime/tmp/vocabulary_with_to_phrase.json
+     * @return int
+     */
+    public function actionExportVocabularyWithToPhrase(string $outputFile = ''): int
+    {
+        $outputPath = $outputFile !== '' ? Yii::getAlias($outputFile) : Yii::getAlias('@console/runtime/tmp/vocabulary_with_to_phrase.json');
+
+        // 执行查询: select a.id, a.name, a.translation from vocabulary a 
+        // left join vocabulary_unit_relation b on a.id = b.vocabulary_id 
+        // where b.book_id >= 195 and a.name like '%to %'
+        $query = (new Query())
+            ->select(['a.id', 'a.name', 'a.translation'])
+            ->from(['a' => Vocabulary::tableName()])
+            ->leftJoin(['b' => VocabularyUnitRelation::tableName()], 'a.id = b.vocabulary_id')
+            ->where(['>=', 'b.book_id', 195])
+            ->andWhere(['like', 'a.name', 'to '])
+            ->distinct()
+            ->orderBy(['a.id' => SORT_ASC]);
+
+        $results = [];
+        foreach ($query->batch(500) as $rows) {
+            foreach ($rows as $row) {
+                $results[] = [
+                    'id' => (int)$row['id'],
+                    'name' => (string)$row['name'],
+                    'translation' => (string)($row['translation'] ?? ''),
+                ];
+            }
+        }
+
+        FileHelper::createDirectory(dirname($outputPath));
+        file_put_contents($outputPath, Json::encode($results, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
+        $this->stdout(sprintf("导出完成，共 %d 条记录。输出文件: %s\n", count($results), $outputPath));
+
+        return ExitCode::OK;
+    }
+
+    /**
+     * 读取导出的 JSON 文件，调用翻译接口验证单词与翻译是否匹配
+     *
+     * 用法: php yii words/verify-vocabulary-translations [inputFile] [outputFile]
+     *
+     * @param string $inputFile 输入 JSON 文件路径，默认为导出文件
+     * @param string $outputFile 输出文件路径，默认为 @console/runtime/tmp/vocabulary_translation_mismatch.json
+     * @return int
+     */
+    public function actionVerifyVocabularyTranslations(
+        string $inputFile = '@console/runtime/tmp/vocabulary_with_to_phrase.json',
+        string $outputFile = ''
+    ): int {
+        $inputPath = Yii::getAlias($inputFile);
+        $outputPath = $outputFile !== '' ? Yii::getAlias($outputFile) : Yii::getAlias('@console/runtime/tmp/vocabulary_translation_mismatch.json');
+
+        if (!is_file($inputPath)) {
+            $this->stderr("输入文件不存在: {$inputPath}\n");
+            return ExitCode::UNSPECIFIED_ERROR;
+        }
+
+        $raw = file_get_contents($inputPath);
+        if ($raw === false) {
+            $this->stderr("读取文件失败: {$inputPath}\n");
+            return ExitCode::UNSPECIFIED_ERROR;
+        }
+
+        $data = json_decode($raw, true);
+        if (!is_array($data)) {
+            $this->stderr("JSON 解析失败: " . json_last_error_msg() . "\n");
+            return ExitCode::UNSPECIFIED_ERROR;
+        }
+
+        $httpClient = new Client(['timeout' => 15]);
+        $translationCache = [];
+        $mismatches = [];
+        $matchCount = 0;
+        $total = count($data);
+
+        $this->stdout("开始验证 {$total} 条记录...\n");
+
+        foreach ($data as $index => $item) {
+            if (!is_array($item)) {
+                continue;
+            }
+
+            $id = (int)($item['id'] ?? 0);
+            $name = (string)($item['name'] ?? '');
+            $existingTranslation = (string)($item['translation'] ?? '');
+
+            if ($name === '') {
+                continue;
+            }
+
+            // 调用翻译接口，将英文单词翻译成中文
+            $translatedChinese = $this->translateEnglishToChineseWithCache($name, $translationCache, $httpClient);
+
+            // 打印翻译结果日志
+            $this->stdout(sprintf(
+                "[%d/%d] ID:%d 翻译: \"%s\" => \"%s\"\n",
+                $index + 1,
+                $total,
+                $id,
+                $name,
+                $translatedChinese ?? '(翻译失败)'
+            ));
+
+            // 比较翻译结果与数据库中的中文翻译是否匹配
+            $match = $this->compareChineseTranslations($existingTranslation, $translatedChinese);
+
+            // 打印对比结果日志
+            $matchStatus = $match ? '✓ 匹配' : '✗ 不匹配';
+            $this->stdout(sprintf(
+                "       对比: 数据库=\"%s\" vs 翻译=\"%s\" => %s\n",
+                $existingTranslation,
+                $translatedChinese ?? '',
+                $matchStatus
+            ));
+
+            if ($match) {
+                $matchCount++;
+            } else {
+                $mismatches[] = [
+                    'id' => $id,
+                    'name' => $name,
+                    'translation' => $existingTranslation,
+                    'translated_chinese' => $translatedChinese,
+                    'match' => false,
+                ];
+            }
+        }
+
+        FileHelper::createDirectory(dirname($outputPath));
+        file_put_contents($outputPath, Json::encode($mismatches, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
+
+        $this->stdout(sprintf(
+            "\n验证完成！共 %d 条记录，匹配 %d 条，不匹配 %d 条。\n不匹配记录已保存到: %s\n",
+            $total,
+            $matchCount,
+            count($mismatches),
+            $outputPath
+        ));
+
+        return ExitCode::OK;
+    }
+
+    /**
+     * 调用翻译接口将中文翻译成英文（带缓存）
+     *
+     * @param array<string,string|null> $cache
+     */
+    private function translateChineseToEnglishWithCache(string $chinese, array &$cache, Client $client): ?string
+    {
+        $key = trim($chinese);
+        if ($key === '') {
+            return null;
+        }
+
+        if (array_key_exists($key, $cache)) {
+            return $cache[$key];
+        }
+
+        $translation = $this->requestChineseToEnglishTranslation($chinese, $client);
+        $cache[$key] = $translation;
+
+        // 百度翻译免费版 QPS 限制，每次请求后等待 1 秒
+        usleep(1100000); // 1.1 秒
+
+        return $translation;
+    }
+
+    /**
+     * 请求百度翻译接口将中文翻译为英文
+     */
+    private function requestChineseToEnglishTranslation(string $chinese, Client $client): ?string
+    {
+        $trimmed = trim($chinese);
+        if ($trimmed === '') {
+            return null;
+        }
+
+        $appId = '20231219001915322';
+        $secretKey = 'Yv6pHkC1sxtUvOozzduQ';
+        $salt = (string)mt_rand(10000, 99999);
+        $sign = md5($appId . $trimmed . $salt . $secretKey);
+
+        try {
+            $response = $client->get('https://fanyi-api.baidu.com/api/trans/vip/translate', [
+                'query' => [
+                    'q' => $trimmed,
+                    'from' => 'zh',
+                    'to' => 'en',
+                    'appid' => $appId,
+                    'salt' => $salt,
+                    'sign' => $sign,
+                ],
+                'timeout' => 10,
+            ]);
+        } catch (GuzzleException $e) {
+            $this->stderr("百度翻译失败: {$e->getMessage()}\n");
+            return null;
+        }
+
+        $body = (string)$response->getBody();
+        $payload = json_decode($body, true);
+        if (!is_array($payload)) {
+            $this->stderr("百度翻译接口返回无法解析的数据\n");
+            return null;
+        }
+
+        // 检查错误码
+        if (isset($payload['error_code'])) {
+            $this->stderr("百度翻译错误: {$payload['error_code']} - {$payload['error_msg']}\n");
+            return null;
+        }
+
+        // 获取翻译结果
+        $transResult = $payload['trans_result'] ?? null;
+        if (!is_array($transResult) || empty($transResult)) {
+            $this->stderr("百度翻译接口响应缺少 trans_result 字段\n");
+            return null;
+        }
+
+        $translation = $transResult[0]['dst'] ?? null;
+        if (!is_string($translation)) {
+            $this->stderr("百度翻译接口响应缺少翻译结果\n");
+            return null;
+        }
+
+        $result = trim($translation);
+        return $result === '' ? null : $result;
+    }
+
+    /**
+     * 调用翻译接口将英文翻译成中文（带缓存）
+     *
+     * @param array<string,string|null> $cache
+     */
+    private function translateEnglishToChineseWithCache(string $english, array &$cache, Client $client): ?string
+    {
+        $key = trim($english);
+        if ($key === '') {
+            return null;
+        }
+
+        if (array_key_exists($key, $cache)) {
+            return $cache[$key];
+        }
+
+        $translation = $this->requestEnglishToChineseTranslation($english, $client);
+        $cache[$key] = $translation;
+
+        // 百度翻译免费版 QPS 限制，每次请求后等待 1 秒
+        usleep(1100000); // 1.1 秒
+
+        return $translation;
+    }
+
+    /**
+     * 请求百度翻译接口将英文翻译为中文
+     */
+    private function requestEnglishToChineseTranslation(string $english, Client $client): ?string
+    {
+        $trimmed = trim($english);
+        if ($trimmed === '') {
+            return null;
+        }
+
+        $appId = '20231219001915322';
+        $secretKey = 'Yv6pHkC1sxtUvOozzduQ';
+        $salt = (string)mt_rand(10000, 99999);
+        $sign = md5($appId . $trimmed . $salt . $secretKey);
+
+        try {
+            $response = $client->get('https://fanyi-api.baidu.com/api/trans/vip/translate', [
+                'query' => [
+                    'q' => $trimmed,
+                    'from' => 'en',
+                    'to' => 'zh',
+                    'appid' => $appId,
+                    'salt' => $salt,
+                    'sign' => $sign,
+                ],
+                'timeout' => 10,
+            ]);
+        } catch (GuzzleException $e) {
+            $this->stderr("百度翻译失败: {$e->getMessage()}\n");
+            return null;
+        }
+
+        $body = (string)$response->getBody();
+        $payload = json_decode($body, true);
+        if (!is_array($payload)) {
+            $this->stderr("百度翻译接口返回无法解析的数据\n");
+            return null;
+        }
+
+        // 检查错误码
+        if (isset($payload['error_code'])) {
+            $this->stderr("百度翻译错误: {$payload['error_code']} - {$payload['error_msg']}\n");
+            return null;
+        }
+
+        // 获取翻译结果
+        $transResult = $payload['trans_result'] ?? null;
+        if (!is_array($transResult) || empty($transResult)) {
+            $this->stderr("百度翻译接口响应缺少 trans_result 字段\n");
+            return null;
+        }
+
+        $translation = $transResult[0]['dst'] ?? null;
+        if (!is_string($translation)) {
+            $this->stderr("百度翻译接口响应缺少翻译结果\n");
+            return null;
+        }
+
+        $result = trim($translation);
+        return $result === '' ? null : $result;
+    }
+
+    /**
+     * 比较两个中文翻译是否匹配
+     */
+    private function compareChineseTranslations(string $dbTranslation, ?string $apiTranslation): bool
+    {
+        if ($apiTranslation === null || $apiTranslation === '') {
+            return false;
+        }
+
+        // 规范化后比较
+        $normalizedDb = $this->normalizeChineseForComparison($dbTranslation);
+        $normalizedApi = $this->normalizeChineseForComparison($apiTranslation);
+
+        if ($normalizedDb === '' || $normalizedApi === '') {
+            return false;
+        }
+
+        // 完全匹配
+        if ($normalizedDb === $normalizedApi) {
+            return true;
+        }
+
+        // 检查是否相互包含
+        if (str_contains($normalizedDb, $normalizedApi) || str_contains($normalizedApi, $normalizedDb)) {
+            return true;
+        }
+
+        return false;
+    }
+
+    /**
+     * 规范化中文字符串用于比较
+     */
+    private function normalizeChineseForComparison(string $text): string
+    {
+        // 去除多余空格
+        $result = preg_replace('/\s+/u', '', $text);
+        // 去除标点符号
+        $result = preg_replace('/[^\p{Han}\p{L}\p{N}]/u', '', $result ?? '');
+        return trim($result ?? '');
+    }
+
+    /**
+     * 比较单词与翻译结果是否匹配
+     */
+    private function compareWordWithTranslation(string $word, ?string $translatedEnglish): bool
+    {
+        if ($translatedEnglish === null || $translatedEnglish === '') {
+            return false;
+        }
+
+        // 规范化后比较
+        $normalizedWord = $this->normalizeForComparison($word);
+        $normalizedTranslation = $this->normalizeForComparison($translatedEnglish);
+
+        // 完全匹配
+        if ($normalizedWord === $normalizedTranslation) {
+            return true;
+        }
+
+        // 检查翻译是否包含原单词（考虑到翻译可能包含额外说明）
+        if (str_contains($normalizedTranslation, $normalizedWord)) {
+            return true;
+        }
+
+        // 检查原单词是否包含翻译结果
+        if (str_contains($normalizedWord, $normalizedTranslation)) {
+            return true;
+        }
+
+        return false;
+    }
+
+    /**
+     * 规范化字符串用于比较
+     */
+    private function normalizeForComparison(string $text): string
+    {
+        // 转小写
+        $result = mb_strtolower($text, 'UTF-8');
+        // 去除多余空格
+        $result = preg_replace('/\s+/u', ' ', $result);
+        // 去除首尾空格
+        $result = trim($result ?? '');
+        // 去除标点符号
+        $result = preg_replace('/[^\p{L}\p{N}\s]/u', '', $result);
+        return trim($result ?? '');
+    }
+
+    /**
+     * 导出单词名称与 quiz_answer 拼接不一致的记录
+     *
+     * 用法: php yii words/export-quiz-answer-mismatch [minBookId] [outputFile]
+     *
+     * @param int $minBookId 最小词书ID，默认 195
+     * @param string $outputFile 输出文件路径
+     * @return int
+     */
+    public function actionExportQuizAnswerMismatch(int $minBookId = 195, string $outputFile = ''): int
+    {
+        $outputPath = $outputFile !== '' ? Yii::getAlias($outputFile) : Yii::getAlias('@console/runtime/tmp/quiz_answer_mismatch.json');
+
+        // 查询 quiz_type=2 的题目，关联单词表
+        $query = VocabularyQuiz::find()
+            ->alias('quiz')
+            ->select([
+                'quiz.id AS quiz_id',
+                'quiz.vocabulary_id',
+                'quiz.quiz_answer',
+                'v.name AS word_name',
+            ])
+            ->leftJoin(['v' => Vocabulary::tableName()], 'v.id = quiz.vocabulary_id')
+            ->innerJoin(['vur' => VocabularyUnitRelation::tableName()], 'vur.vocabulary_id = quiz.vocabulary_id')
+            ->where(['quiz.quiz_type' => 2])
+            ->andWhere(['>=', 'vur.book_id', $minBookId])
+            ->distinct()
+            ->asArray();
+
+        $mismatches = [];
+        $total = 0;
+        $matchCount = 0;
+
+        foreach ($query->batch(500) as $rows) {
+            foreach ($rows as $row) {
+                $total++;
+                $quizId = (int)$row['quiz_id'];
+                $vocabularyId = (int)$row['vocabulary_id'];
+                $wordName = (string)($row['word_name'] ?? '');
+                $quizAnswerRaw = $row['quiz_answer'] ?? '';
+
+                // 解析 quiz_answer JSON 并拼接
+                $joinedAnswer = $this->joinQuizAnswer($quizAnswerRaw);
+
+                // 规范化后比较
+                $normalizedWord = $this->normalizeWordForQuizComparison($wordName);
+                $normalizedAnswer = $this->normalizeWordForQuizComparison($joinedAnswer);
+
+                if ($normalizedWord === $normalizedAnswer) {
+                    $matchCount++;
+                    continue;
+                }
+
+                $mismatches[] = [
+                    'quiz_id' => $quizId,
+                    'vocabulary_id' => $vocabularyId,
+                    'word_name' => $wordName,
+                    'quiz_answer_raw' => $quizAnswerRaw,
+                    'joined_answer' => $joinedAnswer,
+                    'normalized_word' => $normalizedWord,
+                    'normalized_answer' => $normalizedAnswer,
+                ];
+            }
+        }
+
+        FileHelper::createDirectory(dirname($outputPath));
+        file_put_contents($outputPath, Json::encode($mismatches, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
+
+        $this->stdout(sprintf(
+            "检测完成！共 %d 条记录，匹配 %d 条，不匹配 %d 条。\n不匹配记录已保存到: %s\n",
+            $total,
+            $matchCount,
+            count($mismatches),
+            $outputPath
+        ));
+
+        return ExitCode::OK;
+    }
+
+    /**
+     * 解析并拼接 quiz_answer JSON
+     */
+    private function joinQuizAnswer(?string $quizAnswer): string
+    {
+        if ($quizAnswer === null || trim($quizAnswer) === '') {
+            return '';
+        }
+
+        $decoded = json_decode($quizAnswer, true);
+        if (json_last_error() !== JSON_ERROR_NONE || !is_array($decoded)) {
+            // 不是 JSON，直接返回原值
+            return $quizAnswer;
+        }
+
+        // 拼接数组元素
+        return implode('', array_map('strval', $decoded));
+    }
+
+    /**
+     * 规范化单词用于 quiz 比较
+     */
+    private function normalizeWordForQuizComparison(string $word): string
+    {
+        // 去除空格
+        $result = preg_replace('/\s+/u', '', $word);
+        // 转小写
+        $result = mb_strtolower($result ?? '', 'UTF-8');
+        return $result;
+    }
+
+    /**
+     * 导出 core_meanings.chinese_meanings 在 example_sentences.translation 中包含但未加粗的数据
+     *
+     * 用法: php yii words/export-unbolded-meanings-in-examples [minBookId] [outputFile]
+     *
+     * @param int $minBookId 最小词书ID，默认 195
+     * @param string $outputFile 输出文件路径
+     * @return int
+     */
+    public function actionExportUnboldedMeaningsInExamples(int $minBookId = 195, string $outputFile = ''): int
+    {
+        $outputPath = $outputFile !== '' ? Yii::getAlias($outputFile) : Yii::getAlias('@console/runtime/tmp/unbolded_meanings_in_examples.json');
+
+        // 查询 vocabulary_ext 表，关联词书限制
+        $query = VocabularyExt::find()
+            ->alias('ext')
+            ->select(['ext.*', 'v.name AS word_name'])
+            ->leftJoin(['v' => Vocabulary::tableName()], 'v.id = ext.vocabulary_id')
+            ->innerJoin(['vur' => VocabularyUnitRelation::tableName()], 'vur.vocabulary_id = ext.vocabulary_id')
+            ->where(['>=', 'vur.book_id', $minBookId])
+            ->andWhere(['not', ['ext.core_meanings' => null]])
+            ->andWhere(['not', ['ext.example_sentences' => null]])
+            ->distinct();
+
+        $issues = [];
+        $total = 0;
+        $checkedCount = 0;
+
+        foreach ($query->batch(500) as $batch) {
+            /** @var VocabularyExt $vocabularyExt */
+            foreach ($batch as $vocabularyExt) {
+                $total++;
+
+                // 解析 core_meanings
+                $coreMeanings = $this->decodeJsonField($vocabularyExt->core_meanings);
+                if (!is_array($coreMeanings) || empty($coreMeanings)) {
+                    continue;
+                }
+
+                // 解析 example_sentences
+                $exampleSentences = $this->decodeJsonField($vocabularyExt->example_sentences);
+                if (!is_array($exampleSentences) || empty($exampleSentences)) {
+                    continue;
+                }
+
+                $checkedCount++;
+
+                // 提取所有 chinese_meanings
+                $chineseMeanings = $this->extractChineseMeanings($coreMeanings);
+                if (empty($chineseMeanings)) {
+                    continue;
+                }
+
+                // 检查每个例句：如果例句包含任何含义但没有加粗任何含义，则记录
+                $unboldedExamples = [];
+                foreach ($exampleSentences as $exampleIndex => $example) {
+                    $translation = $this->getExampleTranslation($example);
+                    if ($translation === '') {
+                        continue;
+                    }
+
+                    // 检查这个例句是否包含任何一个中文含义
+                    $containsMeaning = false;
+                    $containedMeanings = [];
+                    foreach ($chineseMeanings as $meaning) {
+                        if ($meaning !== '' && mb_strpos($translation, $meaning) !== false) {
+                            $containsMeaning = true;
+                            $containedMeanings[] = $meaning;
+                        }
+                    }
+
+                    if (!$containsMeaning) {
+                        continue;
+                    }
+
+                    // 检查这个例句是否加粗了任何一个中文含义
+                    $hasBoldedInThisExample = false;
+                    foreach ($chineseMeanings as $meaning) {
+                        if ($meaning === '') {
+                            continue;
+                        }
+                        $boldPattern = '/\*\*' . preg_quote($meaning, '/') . '\*\*/u';
+                        if (preg_match($boldPattern, $translation)) {
+                            $hasBoldedInThisExample = true;
+                            break;
+                        }
+                    }
+
+                    // 如果包含含义但没有加粗任何含义，记录这个例句
+                    if (!$hasBoldedInThisExample) {
+                        $unboldedExamples[] = [
+                            'example_index' => $exampleIndex,
+                            'translation' => $translation,
+                            'contained_meanings' => $containedMeanings,
+                        ];
+                    }
+                }
+
+                if (!empty($unboldedExamples)) {
+                    $issues[] = [
+                        'vocabulary_id' => $vocabularyExt->vocabulary_id,
+                        'word_name' => $vocabularyExt->word_name ?? '',
+                        'chinese_meanings' => $chineseMeanings,
+                        'unbolded_examples' => $unboldedExamples,
+                    ];
+                }
+            }
+        }
+
+        FileHelper::createDirectory(dirname($outputPath));
+        file_put_contents($outputPath, Json::encode($issues, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
+
+        $this->stdout(sprintf(
+            "检测完成！共 %d 条记录，检查 %d 条，发现 %d 条含有未加粗的含义。\n输出文件: %s\n",
+            $total,
+            $checkedCount,
+            count($issues),
+            $outputPath
+        ));
+
+        return ExitCode::OK;
+    }
+
+    /**
+     * 解析 JSON 字段
+     */
+    private function decodeJsonField($value): ?array
+    {
+        if ($value === null || $value === '') {
+            return null;
+        }
+
+        if (is_array($value)) {
+            return $value;
+        }
+
+        if (is_string($value)) {
+            $decoded = json_decode($value, true);
+            if (json_last_error() === JSON_ERROR_NONE && is_array($decoded)) {
+                return $decoded;
+            }
+        }
+
+        return null;
+    }
+
+    /**
+     * 从 core_meanings 中提取所有 chinese_meanings
+     */
+    private function extractChineseMeanings(array $coreMeanings): array
+    {
+        $meanings = [];
+        foreach ($coreMeanings as $item) {
+            if (!is_array($item)) {
+                continue;
+            }
+
+            // 尝试获取 chinese_meanings 字段
+            $chineseMeaning = $item['chinese_meanings'] ?? $item['chinese_meaning'] ?? null;
+            if (is_string($chineseMeaning) && trim($chineseMeaning) !== '') {
+                $meanings[] = trim($chineseMeaning);
+            } elseif (is_array($chineseMeaning)) {
+                foreach ($chineseMeaning as $m) {
+                    if (is_string($m) && trim($m) !== '') {
+                        $meanings[] = trim($m);
+                    }
+                }
+            }
+        }
+        return array_unique($meanings);
+    }
+
+    /**
+     * 获取例句的翻译
+     */
+    private function getExampleTranslation($example): string
+    {
+        if (!is_array($example)) {
+            return '';
+        }
+
+        $translation = $example['translation'] ?? $example['translated'] ?? null;
+        if (is_string($translation)) {
+            return trim($translation);
+        }
+
+        return '';
+    }
+
+    /**
+     * 自动修复未加粗的含义，在例句翻译中添加加粗符号并更新数据库
+     *
+     * 用法: php yii words/fix-unbolded-meanings-in-examples [minBookId] [dryRun]
+     *
+     * @param int $minBookId 最小词书ID，默认 195
+     * @param bool $dryRun 是否只预览不更新，默认 false
+     * @return int
+     */
+    public function actionFixUnboldedMeaningsInExamples(int $minBookId = 195, bool $dryRun = false): int
+    {
+        // 查询 vocabulary_ext 表，关联词书限制
+        $query = VocabularyExt::find()
+            ->alias('ext')
+            ->select(['ext.*', 'v.name AS word_name'])
+            ->leftJoin(['v' => Vocabulary::tableName()], 'v.id = ext.vocabulary_id')
+            ->innerJoin(['vur' => VocabularyUnitRelation::tableName()], 'vur.vocabulary_id = ext.vocabulary_id')
+            ->where(['>=', 'vur.book_id', $minBookId])
+            ->andWhere(['not', ['ext.core_meanings' => null]])
+            ->andWhere(['not', ['ext.example_sentences' => null]])
+            ->distinct();
+
+        $total = 0;
+        $fixedCount = 0;
+        $errorCount = 0;
+
+        foreach ($query->batch(500) as $batch) {
+            /** @var VocabularyExt $vocabularyExt */
+            foreach ($batch as $vocabularyExt) {
+                $total++;
+
+                // 解析 core_meanings
+                $coreMeanings = $this->decodeJsonField($vocabularyExt->core_meanings);
+                if (!is_array($coreMeanings) || empty($coreMeanings)) {
+                    continue;
+                }
+
+                // 解析 example_sentences
+                $exampleSentences = $this->decodeJsonField($vocabularyExt->example_sentences);
+                if (!is_array($exampleSentences) || empty($exampleSentences)) {
+                    continue;
+                }
+
+                // 提取所有 chinese_meanings
+                $chineseMeanings = $this->extractChineseMeanings($coreMeanings);
+                if (empty($chineseMeanings)) {
+                    continue;
+                }
+
+                // 按长度降序排序，优先匹配更长的含义（避免"人"被加粗后影响"人类"）
+                usort($chineseMeanings, function ($a, $b) {
+                    return mb_strlen($b) - mb_strlen($a);
+                });
+
+                $hasChanges = false;
+                $modifiedExamples = $exampleSentences;
+
+                foreach ($modifiedExamples as $exampleIndex => &$example) {
+                    if (!is_array($example)) {
+                        continue;
+                    }
+
+                    $translationKey = isset($example['translation']) ? 'translation' : (isset($example['translated']) ? 'translated' : null);
+                    if ($translationKey === null) {
+                        continue;
+                    }
+
+                    $translation = trim($example[$translationKey]);
+                    if ($translation === '') {
+                        continue;
+                    }
+
+                    // 先移除所有现有的加粗符号
+                    $cleanTranslation = preg_replace('/\*\*([^*]+)\*\*/u', '$1', $translation);
+
+                    // 检查清理后的文本是否包含任何一个含义
+                    $containsMeaning = false;
+                    foreach ($chineseMeanings as $meaning) {
+                        if ($meaning !== '' && mb_strlen($meaning) >= 2 && mb_strpos($cleanTranslation, $meaning) !== false) {
+                            $containsMeaning = true;
+                            break;
+                        }
+                    }
+
+                    if (!$containsMeaning) {
+                        continue;
+                    }
+
+                    // 尝试加粗第一个匹配的含义
+                    $originalTranslation = $translation;
+                    $newTranslation = $cleanTranslation;
+                    foreach ($chineseMeanings as $meaning) {
+                        if ($meaning === '' || mb_strlen($meaning) < 2) {
+                            continue;
+                        }
+
+                        // 检查是否包含该含义
+                        if (mb_strpos($cleanTranslation, $meaning) !== false) {
+                            // 添加加粗符号
+                            $newTranslation = $this->boldMeaningInTranslation($cleanTranslation, $meaning);
+                            break; // 只加粗第一个匹配的含义
+                        }
+                    }
+
+                    $translation = $newTranslation;
+
+                    if ($translation !== $originalTranslation) {
+                        $example[$translationKey] = $translation;
+                        $hasChanges = true;
+
+                        $this->stdout(sprintf(
+                            "[%s] vocabulary_id=%d: 例句%d 已修复\n  原文: %s\n  修复: %s\n",
+                            $dryRun ? 'dry-run' : 'fix',
+                            $vocabularyExt->vocabulary_id,
+                            $exampleIndex,
+                            $originalTranslation,
+                            $translation
+                        ));
+                    }
+                }
+                unset($example);
+
+                if ($hasChanges) {
+                    if (!$dryRun) {
+                        $vocabularyExt->example_sentences = $modifiedExamples;
+                        $vocabularyExt->update_time = time();
+                        if ($vocabularyExt->save(false)) {
+                            $fixedCount++;
+                        } else {
+                            $this->stderr("保存失败: vocabulary_id={$vocabularyExt->vocabulary_id}\n");
+                            $errorCount++;
+                        }
+                    } else {
+                        $fixedCount++;
+                    }
+                }
+            }
+        }
+
+        $this->stdout(sprintf(
+            "\n修复完成！共 %d 条记录，修复 %d 条，错误 %d 条。(dryRun=%s)\n",
+            $total,
+            $fixedCount,
+            $errorCount,
+            $dryRun ? 'true' : 'false'
+        ));
+
+        return ExitCode::OK;
+    }
+
+    /**
+     * 在翻译中加粗指定的含义
+     */
+    private function boldMeaningInTranslation(string $translation, string $meaning): string
+    {
+        // 简单替换：将第一个出现的含义加粗
+        $pos = mb_strpos($translation, $meaning);
+        if ($pos === false) {
+            return $translation;
+        }
+
+        $before = mb_substr($translation, 0, $pos);
+        $after = mb_substr($translation, $pos + mb_strlen($meaning));
+
+        return $before . '**' . $meaning . '**' . $after;
+    }
+
+    /**
+     * 根据 JSON 文件修复单词翻译字段
+     * 读取 llm_is_correct=false 的记录，使用 llm_better_translation 覆盖 vocabulary.translation
+     *
+     * 用法: php yii words/fix-vocabulary-translations-from-json [inputFile] [dryRun]
+     *
+     * @param string $inputFile 输入 JSON 文件路径
+     * @param bool $dryRun 是否只预览不更新，默认 false
+     * @return int
+     */
+    public function actionFixVocabularyTranslationsFromJson(
+        string $inputFile = '@console/runtime/tmp/vocabulary_translation_check_results.json',
+        bool $dryRun = false
+    ): int {
+        $inputPath = Yii::getAlias($inputFile);
+
+        if (!is_file($inputPath)) {
+            $this->stderr("输入文件不存在: {$inputPath}\n");
+            return ExitCode::UNSPECIFIED_ERROR;
+        }
+
+        $raw = file_get_contents($inputPath);
+        if ($raw === false) {
+            $this->stderr("读取文件失败: {$inputPath}\n");
+            return ExitCode::UNSPECIFIED_ERROR;
+        }
+
+        $data = json_decode($raw, true);
+        if (!is_array($data)) {
+            $this->stderr("JSON 解析失败: " . json_last_error_msg() . "\n");
+            return ExitCode::UNSPECIFIED_ERROR;
+        }
+
+        $total = count($data);
+        $fixedCount = 0;
+        $skippedCount = 0;
+        $errorCount = 0;
+
+        $this->stdout("开始处理 {$total} 条记录...\n\n");
+
+        foreach ($data as $index => $item) {
+            if (!is_array($item)) {
+                $skippedCount++;
+                continue;
+            }
+
+            // 只处理 llm_is_correct = false 的记录
+            $isCorrect = $item['llm_is_correct'] ?? true;
+            if ($isCorrect === true || $isCorrect === 'true') {
+                $skippedCount++;
+                continue;
+            }
+
+            $vocabularyId = (int)($item['id'] ?? 0);
+            $wordName = (string)($item['name'] ?? '');
+            $oldTranslation = (string)($item['translation'] ?? '');
+            $newTranslation = (string)($item['llm_better_translation'] ?? '');
+
+            if ($vocabularyId <= 0) {
+                $this->stderr("跳过: 无效的 vocabulary_id\n");
+                $skippedCount++;
+                continue;
+            }
+
+            if ($newTranslation === '') {
+                $this->stderr("跳过 ID:{$vocabularyId}: llm_better_translation 为空\n");
+                $skippedCount++;
+                continue;
+            }
+
+            // 显示修复信息
+            $this->stdout(sprintf(
+                "[%d/%d] ID:%d 单词: %s\n  原翻译: %s\n  新翻译: %s\n",
+                $index + 1,
+                $total,
+                $vocabularyId,
+                $wordName,
+                $oldTranslation,
+                $newTranslation
+            ));
+
+            if (!$dryRun) {
+                $affected = Vocabulary::updateAll(
+                    [
+                        'translation' => $newTranslation,
+                        'update_time' => time(),
+                    ],
+                    ['id' => $vocabularyId]
+                );
+
+                if ($affected > 0) {
+                    $this->stdout("  => 已更新\n\n");
+                    $fixedCount++;
+                } else {
+                    $this->stderr("  => 更新失败\n\n");
+                    $errorCount++;
+                }
+            } else {
+                $this->stdout("  => [dry-run] 将更新\n\n");
+                $fixedCount++;
+            }
+        }
+
+        $this->stdout(sprintf(
+            "\n处理完成！共 %d 条记录，修复 %d 条，跳过 %d 条，错误 %d 条。(dryRun=%s)\n",
+            $total,
+            $fixedCount,
+            $skippedCount,
+            $errorCount,
+            $dryRun ? 'true' : 'false'
+        ));
+
+        return ExitCode::OK;
     }
 }
