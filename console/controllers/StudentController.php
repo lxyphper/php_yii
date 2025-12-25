@@ -1,4 +1,5 @@
 <?php
+
 /**
  * =====================================================================================
  * StudentController 控制器脚本文档
@@ -45,7 +46,7 @@
  *      - file_name (string): 导出文件名（不包含扩展名）
  *      - format (string): 导出格式，可选 csv 或 xlsx，默认 csv
  *    用途: 导出多个班级的学生练习记录并生成汇总统计
- *    示例: php yii student/export-record-multi "611" 2025-11-24 2025-12-18 汇总文件 xlsx
+ *    示例: php yii student/export-record-multi "517" 2025-11-24 2025-12-26 汇总文件 xlsx
  * 
  * -----------------------------------------------------------------------------------------
  * 6. actionCreateSpecifyAccount - 生成试用账号
@@ -96,7 +97,10 @@ use app\models\ListeningExamQuestionType;
 use app\models\ListeningExamRecord;
 use app\models\ReadingExamQuestionType;
 use app\models\ReadingExamRecord;
+use app\models\SimulateExamListening;
+use app\models\SimulateExamReading;
 use app\models\SimulateExamRecord;
+use app\models\SimulateExamWriting;
 use app\models\SpeakingAdvanceRecord;
 use app\models\SpeakingExamDialogueLog;
 use app\models\SpeakingSpecialItemTopic;
@@ -632,13 +636,25 @@ class StudentController extends Controller
         //查询模考记录
         $mock_record = SimulateExamRecord::find()->where(['student_id' => $student_ids])->andWhere(['>=', 'update_time', $start_time])->andWhere(['<=', 'update_time', $end_time])->all();
         if (!empty($mock_record)) {
+            $mockRecordIds = [];
             foreach ($mock_record as $record) {
+                $mockRecordIds[] = (int)$record->id;
+            }
+            $listeningByRecordId = SimulateExamListening::find()->where(['record_id' => $mockRecordIds])->indexBy('record_id')->all();
+            $readingByRecordId = SimulateExamReading::find()->where(['record_id' => $mockRecordIds])->indexBy('record_id')->all();
+            $writingByRecordId = SimulateExamWriting::find()->where(['record_id' => $mockRecordIds])->indexBy('record_id')->all();
+            foreach ($mock_record as $record) {
+                $duration = $this->calculateMockDurationFromParts(
+                    $listeningByRecordId[$record->id] ?? null,
+                    $readingByRecordId[$record->id] ?? null,
+                    $writingByRecordId[$record->id] ?? null
+                );
                 foreach ($student_list as $student) {
                     if ($record->student_id == $student->student_id) {
                         $data[$record->student_id]['mock_num']++;
-                        $data[$record->student_id]['mock_time'] += $record->update_time - $record->create_time;
+                        $data[$record->student_id]['mock_time'] += $duration;
                         $data[$record->student_id]['total_num']++;
-                        $data[$record->student_id]['total_time'] += $record->update_time - $record->create_time;
+                        $data[$record->student_id]['total_time'] += $duration;
                     }
                 }
             }
@@ -1033,11 +1049,22 @@ class StudentController extends Controller
 
         $mock_record = SimulateExamRecord::find()->where(['student_id' => $userIds])->andWhere(['>=', 'update_time', $start_time])->andWhere(['<=', 'update_time', $end_time])->all();
         if (!empty($mock_record)) {
+            $mockRecordIds = [];
+            foreach ($mock_record as $record) {
+                $mockRecordIds[] = (int)$record->id;
+            }
+            $listeningByRecordId = SimulateExamListening::find()->where(['record_id' => $mockRecordIds])->indexBy('record_id')->all();
+            $readingByRecordId = SimulateExamReading::find()->where(['record_id' => $mockRecordIds])->indexBy('record_id')->all();
+            $writingByRecordId = SimulateExamWriting::find()->where(['record_id' => $mockRecordIds])->indexBy('record_id')->all();
             foreach ($mock_record as $record) {
                 if (!isset($data[$record->student_id])) {
                     continue;
                 }
-                $duration = max(0, $record->update_time - $record->create_time);
+                $duration = $this->calculateMockDurationFromParts(
+                    $listeningByRecordId[$record->id] ?? null,
+                    $readingByRecordId[$record->id] ?? null,
+                    $writingByRecordId[$record->id] ?? null
+                );
                 $data[$record->student_id]['mock_num']++;
                 $data[$record->student_id]['mock_time'] += $duration;
                 $data[$record->student_id]['total_num']++;
@@ -1282,6 +1309,34 @@ class StudentController extends Controller
         }
 
         return implode('', $parts);
+    }
+
+    private function calculateMockDurationFromParts(?SimulateExamListening $listening, ?SimulateExamReading $reading, ?SimulateExamWriting $writing): int
+    {
+        $duration = 0;
+        $duration += $this->calculateUsedSecondsFromSurplusTime($listening ? $listening->surplus_time : null, 1800);
+        $duration += $this->calculateUsedSecondsFromSurplusTime($reading ? $reading->surplus_time : null, 3600);
+        $duration += $this->calculateUsedSecondsFromSurplusTime($writing ? $writing->surplus_time : null, 3600);
+
+        return $duration;
+    }
+
+    private function calculateUsedSecondsFromSurplusTime($surplusTime, int $totalSeconds): int
+    {
+        if ($totalSeconds <= 0 || $surplusTime === null) {
+            return 0;
+        }
+
+        $surplusTime = (int)$surplusTime;
+        if ($surplusTime <= 0) {
+            return $totalSeconds;
+        }
+
+        if ($surplusTime >= $totalSeconds) {
+            return 0;
+        }
+
+        return $totalSeconds - $surplusTime;
     }
 
     /**
