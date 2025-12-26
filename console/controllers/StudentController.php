@@ -310,6 +310,7 @@ class StudentController extends BaseController
             "姓名",
             "学号",
             "手机号",
+            "是否是老师",
             "总次数",
             "总时长",
             "听力专项提升练习次数",
@@ -352,6 +353,7 @@ class StudentController extends BaseController
                 "name" => $student->student_name,
                 "account" => "",
                 "mobile" => "",
+                "is_teacher" => "否",
                 "total_num" => 0,
                 "total_time" => 0,
                 "listening_special_improve_num" => 0,
@@ -399,6 +401,7 @@ class StudentController extends BaseController
                 "name" => $teacher->name,
                 "account" => "",
                 "mobile" => "",
+                "is_teacher" => "是",
                 "total_num" => 0,
                 "total_time" => 0,
                 "listening_special_improve_num" => 0,
@@ -464,7 +467,6 @@ class StudentController extends BaseController
             if (empty($collection_list)) {
                 var_dump("题集列表为空");
             }
-            $course_arr = [];
             $writing_special = [];
             $reading_special = [];
             $listening_special = [];
@@ -786,6 +788,7 @@ class StudentController extends BaseController
             "姓名",
             "学号",
             "手机号",
+            "是否是老师",
             "总次数",
             "总时长",
             "听力专项提升练习次数",
@@ -845,6 +848,7 @@ class StudentController extends BaseController
             if (!isset($data[$teacher->user_id])) {
                 $data[$teacher->user_id] = $this->buildExportRecordRowTemplate($teacher->name);
             }
+            $data[$teacher->user_id]['is_teacher'] = '是';
         }
 
         $userIds = array_keys($data);
@@ -1348,6 +1352,7 @@ class StudentController extends BaseController
             "name" => $name,
             "account" => $account,
             "mobile" => $mobile,
+            "is_teacher" => "否",
             "total_num" => 0,
             "total_time" => 0,
             "listening_special_improve_num" => 0,

@@ -29,7 +29,7 @@ class BaseController extends Controller
     /**
      * 确保数据库连接可用，自动重试最多 3 次
      */
-    protected function ensureDbConnection(int $maxRetries = 3, int $retryDelay = 2): void
+    protected function ensureDbConnection(int $maxRetries = 5, int $retryDelay = 2): void
     {
         $db = Yii::$app->db;
 
