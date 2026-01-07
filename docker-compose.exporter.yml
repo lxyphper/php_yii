@@ -1,0 +1,15 @@
+services:
+  exporter:
+    build:
+      context: scripts/python-tools
+      dockerfile: Dockerfile
+    container_name: my-yii2-exporter
+    ports:
+      - "8000:8000"
+    environment:
+      DB_HOST: ${DB_HOST}
+      DB_NAME: ${DB_NAME}
+      DB_USER: ${DB_USER}
+      DB_PASSWORD: ${DB_PASSWORD}
+      EXPORTER_API_KEY: ${EXPORTER_API_KEY}
+    restart: unless-stopped

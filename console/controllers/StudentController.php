@@ -46,7 +46,7 @@
  *      - file_name (string): 导出文件名（不包含扩展名）
  *      - format (string): 导出格式，可选 csv 或 xlsx，默认 csv
  *    用途: 导出多个班级的学生练习记录并生成汇总统计
- *    示例: php yii student/export-record-multi "517" 2025-11-24 2025-12-26 汇总文件 xlsx
+ *    示例: php yii student/export-record-multi "414,415,416,417,418,419" 2025-09-15 2025-12-31 25秋季所有北外国商 xlsx
  * 
  * -----------------------------------------------------------------------------------------
  * 6. actionCreateSpecifyAccount - 生成试用账号
@@ -59,6 +59,17 @@
  *    命令: php yii student/create-statistics-data
  *    参数: 无
  *    用途: 为测试学生ID生成模拟统计数据，包含总统计、听力、阅读、写作、口语和专项提升数据
+ * 
+ * -----------------------------------------------------------------------------------------
+ * 8. actionHomeworkTaskReport - 导出指定班级作业完成情况明细
+ *    命令: php yii student/homework-task-report "{class_ids}" {task_file} {format} {split_sheet}
+ *    参数:
+ *      - class_ids (string): 逗号或空格分隔的班级ID
+ *      - task_file (string): 作业任务 JSON 文件路径（可选，默认 console/runtime/tmp/作业任务.json）
+ *      - format (string): 导出格式，可选 csv 或 xlsx，默认 csv
+ *      - split_sheet (int): 仅 xlsx 生效，1 表示每班级一个 sheet，默认 0
+ *    用途: 读取作业任务 JSON，根据 type/ids 查询班级学生完成情况（含时长、得分/正确率等）
+ *    示例: php yii student/homework-task-report "502,503" console/runtime/tmp/作业任务.json xlsx 1
  * 
  * =====================================================================================
  * 辅助方法（非命令行脚本）:
@@ -100,6 +111,7 @@ use app\models\ReadingExamRecord;
 use app\models\SimulateExamListening;
 use app\models\SimulateExamReading;
 use app\models\SimulateExamRecord;
+use app\models\SimulateExamSpeaking;
 use app\models\SimulateExamWriting;
 use app\models\SpeakingAdvanceRecord;
 use app\models\SpeakingExamDialogueLog;
@@ -116,6 +128,8 @@ use app\models\WritingBigEssayRecord;
 use app\models\WritingBigEssaySampleText;
 use app\models\WritingEssayRecord;
 use app\models\WritingPracticeRecord;
+use Yii;
+use yii\db\Query;
 use yii\console\Controller;
 use PhpOffice\PhpSpreadsheet\Spreadsheet;
 use PhpOffice\PhpSpreadsheet\Writer\Xlsx;
@@ -123,6 +137,463 @@ use PhpOffice\PhpSpreadsheet\Writer\Csv;
 
 class StudentController extends BaseController
 {
+    /**
+     * 导出指定班级（支持多个）作业完成情况明细
+     * exemple:
+     * php yii student/homework-task-report "473" console/runtime/tmp/作业任务.json csv
+     * php yii student/homework-task-report "462" console/runtime/tmp/大数据3班口语作业数据汇总.json xlsx 1
+     */
+    public function actionHomeworkTaskReport(string $class_ids, string $task_file = '', string $format = 'csv', int $split_sheet = 0): string
+    {
+        // PhpSpreadsheet / 大量数据导出时默认 128M 很容易 OOM；尽量提高到一个更合理的上限
+        //（如果 php.ini 禁止修改，这里不会生效，但也不会影响运行）
+        @ini_set('memory_limit', '512M');
+
+        $format = strtolower($format);
+        if (!in_array($format, ['csv', 'xlsx'], true)) {
+            var_dump("格式错误，只支持 csv 或 xlsx");
+            return '';
+        }
+
+        $classIds = $this->parseIdList($class_ids);
+        if (empty($classIds)) {
+            var_dump("class_ids 不能为空");
+            return '';
+        }
+
+        // 只查“昨天零点之前”的数据（不包含昨天当天）
+        $beforeTime = strtotime(date('Y-m-d', strtotime('-1 day')));
+        if ($beforeTime === false) {
+            $beforeTime = null;
+        }
+
+        $taskFilePath = $this->resolveHomeworkTaskFilePath($task_file);
+        if (!is_file($taskFilePath)) {
+            var_dump("作业任务文件不存在：$taskFilePath");
+            return '';
+        }
+
+        $taskItems = $this->loadHomeworkTaskItems($taskFilePath);
+        if (empty($taskItems)) {
+            var_dump("作业任务为空或解析失败：$taskFilePath");
+            return '';
+        }
+
+        $classInfoRows = (new Query())
+            ->from(EduClass::tableName())
+            ->select(['id', 'name'])
+            ->where(['id' => $classIds])
+            ->indexBy('id')
+            ->all();
+
+        $classMeta = [];
+        foreach ($classIds as $classId) {
+            $classMeta[$classId] = [
+                'class_id' => $classId,
+                'class_name' => $classInfoRows[$classId]['name'] ?? ('班级' . $classId),
+            ];
+        }
+
+        $title = [
+            '姓名',
+            '账号',
+            '手机号',
+            '任务类型',
+            '任务名称',
+            '题目ID',
+            '完成时间',
+            '用时(秒)',
+            '用时',
+            '得分',
+            '正确率',
+            '口语模考总分',
+            '口语模考流利度',
+            '口语模考词汇',
+            '口语模考语法',
+            '口语模考发音',
+            '记录ID',
+        ];
+
+        $local_path = dirname(__FILE__, 2);
+        $file_path = $local_path . '/runtime/tmp/';
+        if (!file_exists($file_path)) {
+            mkdir($file_path, 0777, true);
+        }
+
+        $classIdsText = implode('-', $classIds);
+        $fileBase = '作业完成情况_' . $classIdsText . '_' . date('Ymd_His');
+        $file_path = $file_path . $fileBase . '.' . $format;
+
+        if ($format === 'xlsx') {
+            $spreadsheet = new Spreadsheet();
+            $usedSheetTitles = [];
+
+            if ($split_sheet === 1 && count($classIds) > 1) {
+                $sheetIndex = 0;
+                foreach ($classIds as $classId) {
+                    $rawSheetTitle = $classMeta[$classId]['class_name'] . '(' . $classId . ')';
+                    if ($sheetIndex === 0) {
+                        $sheet = $spreadsheet->getActiveSheet();
+                    } else {
+                        $sheet = $spreadsheet->createSheet($sheetIndex);
+                    }
+                    $sheetTitle = $this->makeUniqueSpreadsheetSheetTitle($rawSheetTitle, $usedSheetTitles);
+                    $sheet->setTitle($sheetTitle);
+
+                    $sheet->fromArray($title, null, 'A1');
+                    $this->fillHomeworkTaskReportSheet($sheet, $classId, $taskItems, $beforeTime);
+                    foreach (range('A', $sheet->getHighestColumn()) as $col) {
+                        $sheet->getColumnDimension($col)->setAutoSize(true);
+                    }
+                    $sheetIndex++;
+                }
+            } else {
+                $sheet = $spreadsheet->getActiveSheet();
+                $sheet->setTitle($this->makeUniqueSpreadsheetSheetTitle('汇总', $usedSheetTitles));
+                $sheet->fromArray($title, null, 'A1');
+                $this->fillHomeworkTaskReportSheet($sheet, $classIds, $taskItems, $beforeTime);
+                foreach (range('A', $sheet->getHighestColumn()) as $col) {
+                    $sheet->getColumnDimension($col)->setAutoSize(true);
+                }
+            }
+
+            $writer = new Xlsx($spreadsheet);
+            $writer->setPreCalculateFormulas(false);
+            $writer->save($file_path);
+            $spreadsheet->disconnectWorksheets();
+        } else {
+            $fp = fopen($file_path, 'w');
+            fwrite($fp, "\xEF\xBB\xBF");
+            fputcsv($fp, $title);
+            $this->writeHomeworkTaskReportCsvRows($fp, $classIds, $taskItems, $beforeTime);
+            fclose($fp);
+        }
+
+        if (is_int($beforeTime)) {
+            var_dump("数据截止时间（<=）：" . date('Y-m-d H:i:s', $beforeTime));
+        }
+        var_dump("导出成功，文件路径：$file_path");
+        return $file_path;
+    }
+
+    private function writeHomeworkTaskReportCsvRows($fp, array $classIds, array $taskItems, ?int $beforeTime): void
+    {
+        foreach ($classIds as $classId) {
+            $this->writeHomeworkTaskReportCsvRowsForClass($fp, (int)$classId, $taskItems, $beforeTime);
+            if (function_exists('gc_collect_cycles')) {
+                gc_collect_cycles();
+            }
+        }
+    }
+
+    private function writeHomeworkTaskReportCsvRowsForClass($fp, int $classId, array $taskItems, ?int $beforeTime): void
+    {
+        $students = $this->getStudentsByClassId($classId);
+        if (empty($students)) {
+            return;
+        }
+        $studentIds = array_keys($students);
+
+        $recordsByKey = $this->loadHomeworkRecordsForStudents($taskItems, $studentIds, $beforeTime);
+
+        $bigEssayScoreByRecordId = [];
+        $smallEssayScoreByRecordId = [];
+        $bigEssayRecordIds = [];
+        $smallEssayRecordIds = [];
+        foreach ($recordsByKey as $key => $recordRow) {
+            if (!is_array($recordRow) || !isset($recordRow['id'])) {
+                continue;
+            }
+            if (strpos($key, '大作文:') === 0) {
+                $bigEssayRecordIds[] = (int)$recordRow['id'];
+            } elseif (strpos($key, '小作文:') === 0) {
+                $smallEssayRecordIds[] = (int)$recordRow['id'];
+            }
+        }
+        $bigEssayRecordIds = array_values(array_unique(array_filter($bigEssayRecordIds, static fn($id) => $id > 0)));
+        $smallEssayRecordIds = array_values(array_unique(array_filter($smallEssayRecordIds, static fn($id) => $id > 0)));
+        if (!empty($bigEssayRecordIds)) {
+            $bigEssayScoreByRecordId = $this->loadWritingScoringScoresByBizIds($bigEssayRecordIds, 1, $beforeTime);
+        }
+        if (!empty($smallEssayRecordIds)) {
+            $smallEssayScoreByRecordId = $this->loadWritingScoringScoresByBizIds($smallEssayRecordIds, 2, $beforeTime);
+        }
+
+        $mockSpeakingByStudentId = $this->loadLatestMockSpeakingByStudentIds($studentIds, $beforeTime);
+
+        foreach ($students as $studentId => $student) {
+            foreach ($taskItems as $item) {
+                $targetIds = $item['target_ids'] ?? [];
+                if (!is_array($targetIds) || empty($targetIds)) {
+                    continue;
+                }
+                foreach ($targetIds as $targetId) {
+                    $targetId = (int)$targetId;
+                    if ($targetId <= 0) {
+                        continue;
+                    }
+                    $key = $this->buildHomeworkRecordKey($item['sub_type'], $studentId, $targetId);
+                    $record = $recordsByKey[$key] ?? null;
+
+                    $metrics = $this->normalizeHomeworkRecord($item['sub_type'], $record);
+                    $score = $metrics['score'] ?? '';
+                    if ($item['sub_type'] === '大作文' || $item['sub_type'] === '小作文') {
+                        $recordId = (int)($metrics['record_id'] ?? 0);
+                        if ($recordId > 0) {
+                            if ($item['sub_type'] === '大作文' && isset($bigEssayScoreByRecordId[$recordId])) {
+                                $score = $bigEssayScoreByRecordId[$recordId];
+                            } elseif ($item['sub_type'] === '小作文' && isset($smallEssayScoreByRecordId[$recordId])) {
+                                $score = $smallEssayScoreByRecordId[$recordId];
+                            }
+                        }
+                    }
+                    $rate = $this->formatExportRate($metrics['rate'] ?? '');
+                    if ($rate !== '') {
+                        $score = '';
+                    }
+
+                    fputcsv($fp, [
+                        $student['student_name'],
+                        $student['account'],
+                        $student['mobile'],
+                        $item['sub_type'],
+                        $item['task_name'],
+                        $targetId,
+                        $this->formatExportDateTime($metrics['finished_time'] ?? null),
+                        $metrics['duration_seconds'] ?: 0,
+                        $this->formatExportDuration($metrics['duration_seconds'] ?: 0),
+                        $score,
+                        $rate,
+                        '',
+                        '',
+                        '',
+                        '',
+                        '',
+                        $metrics['record_id'] ?? '',
+                    ]);
+                }
+            }
+
+            $mock = $mockSpeakingByStudentId[$studentId] ?? null;
+            $mockFinishedTime = $mock['finished_time'] ?? null;
+            $mockDurationSeconds = $mock['duration_seconds'] ?? null;
+            $mockDurationSecondsExport = ($mockDurationSeconds !== null && (int)$mockDurationSeconds > 0) ? (int)$mockDurationSeconds : '';
+            $mockDurationText = ($mockDurationSeconds !== null && (int)$mockDurationSeconds > 0) ? $this->formatExportDuration((int)$mockDurationSeconds) : '';
+
+            fputcsv($fp, [
+                $student['student_name'],
+                $student['account'],
+                $student['mobile'],
+                '口语模考',
+                '口语模考',
+                '',
+                $this->formatExportDateTime($mockFinishedTime),
+                $mockDurationSecondsExport,
+                $mockDurationText,
+                '',
+                '',
+                $mock['total'] ?? '',
+                $mock['fluency'] ?? '',
+                $mock['vocabulary'] ?? '',
+                $mock['grammar'] ?? '',
+                $mock['pronunciation'] ?? '',
+                $mock['record_id'] ?? '',
+            ]);
+        }
+
+        unset($students, $studentIds, $recordsByKey, $bigEssayScoreByRecordId, $smallEssayScoreByRecordId, $bigEssayRecordIds, $smallEssayRecordIds, $mockSpeakingByStudentId);
+    }
+
+    /**
+     * @param int|int[] $classIdOrIds
+     */
+    private function fillHomeworkTaskReportSheet($sheet, $classIdOrIds, array $taskItems, ?int $beforeTime): void
+    {
+        $classIds = is_array($classIdOrIds) ? $classIdOrIds : [$classIdOrIds];
+
+        $rowIndex = 2;
+        $mergeCols = range(1, 5); // A-E: 学生/任务信息
+        $prevKey = null;
+        $groupStartRow = $rowIndex;
+
+        foreach ($classIds as $classId) {
+            $students = $this->getStudentsByClassId((int)$classId);
+            if (empty($students)) {
+                continue;
+            }
+            $studentIds = array_keys($students);
+
+            $recordsByKey = $this->loadHomeworkRecordsForStudents($taskItems, $studentIds, $beforeTime);
+
+            $bigEssayScoreByRecordId = [];
+            $smallEssayScoreByRecordId = [];
+            $bigEssayRecordIds = [];
+            $smallEssayRecordIds = [];
+            foreach ($recordsByKey as $key => $recordRow) {
+                if (!is_array($recordRow) || !isset($recordRow['id'])) {
+                    continue;
+                }
+                if (strpos($key, '大作文:') === 0) {
+                    $bigEssayRecordIds[] = (int)$recordRow['id'];
+                } elseif (strpos($key, '小作文:') === 0) {
+                    $smallEssayRecordIds[] = (int)$recordRow['id'];
+                }
+            }
+            $bigEssayRecordIds = array_values(array_unique(array_filter($bigEssayRecordIds, static fn($id) => $id > 0)));
+            $smallEssayRecordIds = array_values(array_unique(array_filter($smallEssayRecordIds, static fn($id) => $id > 0)));
+            if (!empty($bigEssayRecordIds)) {
+                $bigEssayScoreByRecordId = $this->loadWritingScoringScoresByBizIds($bigEssayRecordIds, 1, $beforeTime);
+            }
+            if (!empty($smallEssayRecordIds)) {
+                $smallEssayScoreByRecordId = $this->loadWritingScoringScoresByBizIds($smallEssayRecordIds, 2, $beforeTime);
+            }
+
+            $mockSpeakingByStudentId = $this->loadLatestMockSpeakingByStudentIds($studentIds, $beforeTime);
+
+            foreach ($students as $studentId => $student) {
+                foreach ($taskItems as $item) {
+                    $targetIds = $item['target_ids'] ?? [];
+                    if (!is_array($targetIds) || empty($targetIds)) {
+                        continue;
+                    }
+                    foreach ($targetIds as $targetId) {
+                        $targetId = (int)$targetId;
+                        if ($targetId <= 0) {
+                            continue;
+                        }
+                        $key = $this->buildHomeworkRecordKey($item['sub_type'], $studentId, $targetId);
+                        $record = $recordsByKey[$key] ?? null;
+
+                        $metrics = $this->normalizeHomeworkRecord($item['sub_type'], $record);
+                        $score = $metrics['score'] ?? '';
+                        if ($item['sub_type'] === '大作文' || $item['sub_type'] === '小作文') {
+                            $recordId = (int)($metrics['record_id'] ?? 0);
+                            if ($recordId > 0) {
+                                if ($item['sub_type'] === '大作文' && isset($bigEssayScoreByRecordId[$recordId])) {
+                                    $score = $bigEssayScoreByRecordId[$recordId];
+                                } elseif ($item['sub_type'] === '小作文' && isset($smallEssayScoreByRecordId[$recordId])) {
+                                    $score = $smallEssayScoreByRecordId[$recordId];
+                                }
+                            }
+                        }
+                        $rate = $this->formatExportRate($metrics['rate'] ?? '');
+                        if ($rate !== '') {
+                            $score = '';
+                        }
+
+                        $row = [
+                            $student['student_name'],
+                            $student['account'],
+                            $student['mobile'],
+                            $item['sub_type'],
+                            $item['task_name'],
+                            $targetId,
+                            $this->formatExportDateTime($metrics['finished_time'] ?? null),
+                            $metrics['duration_seconds'] ?: 0,
+                            $this->formatExportDuration($metrics['duration_seconds'] ?: 0),
+                            $score,
+                            $rate,
+                            '',
+                            '',
+                            '',
+                            '',
+                            '',
+                            $metrics['record_id'] ?? '',
+                        ];
+
+                        $sheet->fromArray([$row], null, 'A' . $rowIndex);
+
+                        $keyParts = array_slice($row, 0, 5);
+                        $currentKey = implode("\t", array_map(static function ($v) {
+                            return (string)$v;
+                        }, $keyParts));
+
+                        if ($prevKey === null) {
+                            $prevKey = $currentKey;
+                            $groupStartRow = $rowIndex;
+                        } elseif ($currentKey !== $prevKey) {
+                            $groupEndRow = $rowIndex - 1;
+                            if ($groupEndRow > $groupStartRow) {
+                                foreach ($mergeCols as $col) {
+                                    $sheet->mergeCellsByColumnAndRow($col, $groupStartRow, $col, $groupEndRow);
+                                }
+                            }
+                            $prevKey = $currentKey;
+                            $groupStartRow = $rowIndex;
+                        }
+
+                        $rowIndex++;
+                    }
+                }
+
+                $mock = $mockSpeakingByStudentId[$studentId] ?? null;
+                $mockFinishedTime = $mock['finished_time'] ?? null;
+                $mockDurationSeconds = $mock['duration_seconds'] ?? null;
+                $mockDurationSecondsExport = ($mockDurationSeconds !== null && (int)$mockDurationSeconds > 0) ? (int)$mockDurationSeconds : '';
+                $mockDurationText = ($mockDurationSeconds !== null && (int)$mockDurationSeconds > 0) ? $this->formatExportDuration((int)$mockDurationSeconds) : '';
+
+                $mockRow = [
+                    $student['student_name'],
+                    $student['account'],
+                    $student['mobile'],
+                    '口语模考',
+                    '口语模考',
+                    '',
+                    $this->formatExportDateTime($mockFinishedTime),
+                    $mockDurationSecondsExport,
+                    $mockDurationText,
+                    '',
+                    '',
+                    $mock['total'] ?? '',
+                    $mock['fluency'] ?? '',
+                    $mock['vocabulary'] ?? '',
+                    $mock['grammar'] ?? '',
+                    $mock['pronunciation'] ?? '',
+                    $mock['record_id'] ?? '',
+                ];
+
+                $sheet->fromArray([$mockRow], null, 'A' . $rowIndex);
+
+                $keyParts = array_slice($mockRow, 0, 5);
+                $currentKey = implode("\t", array_map(static function ($v) {
+                    return (string)$v;
+                }, $keyParts));
+
+                if ($prevKey === null) {
+                    $prevKey = $currentKey;
+                    $groupStartRow = $rowIndex;
+                } elseif ($currentKey !== $prevKey) {
+                    $groupEndRow = $rowIndex - 1;
+                    if ($groupEndRow > $groupStartRow) {
+                        foreach ($mergeCols as $col) {
+                            $sheet->mergeCellsByColumnAndRow($col, $groupStartRow, $col, $groupEndRow);
+                        }
+                    }
+                    $prevKey = $currentKey;
+                    $groupStartRow = $rowIndex;
+                }
+
+                $rowIndex++;
+            }
+
+            if ($prevKey !== null) {
+                $groupEndRow = $rowIndex - 1;
+                if ($groupEndRow > $groupStartRow) {
+                    foreach ($mergeCols as $col) {
+                        $sheet->mergeCellsByColumnAndRow($col, $groupStartRow, $col, $groupEndRow);
+                    }
+                }
+            }
+            $prevKey = null;
+            $groupStartRow = $rowIndex;
+
+            unset($students, $studentIds, $recordsByKey, $bigEssayScoreByRecordId, $smallEssayScoreByRecordId, $bigEssayRecordIds, $smallEssayRecordIds, $mockSpeakingByStudentId);
+            if (function_exists('gc_collect_cycles')) {
+                gc_collect_cycles();
+            }
+        }
+    }
+
     public function actionDealBeiWaiAccount()
     {
         $list = ["202420902470"];
@@ -733,6 +1204,7 @@ class StudentController extends BaseController
     /**
      * 导出多个班级的学生练习记录并汇总
      * exemple: php yii student/export-record-multi "611" 2025-11-24 2025-12-18 汇总文件 xlsx
+     * php yii student/export-record-multi "473,474,475,476,477,478,501,502,462,463,464,465,466,467" 2025-12-01 2026-01-01 华师12月份统计 xlsx
      * @param string $class_ids 逗号或空格分隔的班级ID
      * @param string $start_date 开始日期 格式: Y-m-d
      * @param string $end_date 结束日期 格式: Y-m-d
@@ -784,7 +1256,976 @@ class StudentController extends BaseController
             return '';
         }
 
-        $title = [
+        $exportResult = $this->buildExportRecordRowsForClassIds($classIds, $start_time, $end_time, true);
+        if (empty($exportResult['data'])) {
+            var_dump("没有需要导出的学生或老师");
+            return '';
+        }
+        $title = $exportResult['title'];
+        $rows = $exportResult['rows'];
+
+        $local_path = dirname(__FILE__, 2);
+        $file_path = $local_path . '/runtime/tmp/';
+        if (!file_exists($file_path)) {
+            mkdir($file_path, 0777, true);
+        }
+        $file_path = $file_path . $file_base_name . '.' . $format;
+
+        if ($format === 'xlsx') {
+            $spreadsheet = new Spreadsheet();
+            $sheet = $spreadsheet->getActiveSheet();
+            $sheet->fromArray($title, null, 'A1');
+            $rowIndex = 2;
+            foreach ($rows as $row) {
+                $sheet->fromArray($row, null, 'A' . $rowIndex);
+                $rowIndex++;
+            }
+            foreach (range('A', $sheet->getHighestColumn()) as $col) {
+                $sheet->getColumnDimension($col)->setAutoSize(true);
+            }
+            $writer = new Xlsx($spreadsheet);
+            $writer->save($file_path);
+        } else {
+            $fp = fopen($file_path, 'w');
+            fwrite($fp, "\xEF\xBB\xBF");
+            fputcsv($fp, $title);
+            foreach ($rows as $row) {
+                fputcsv($fp, $row);
+            }
+            fclose($fp);
+        }
+
+        var_dump("导出成功，文件路径：$file_path");
+        return $file_path;
+    }
+
+    /**
+     * 导出多个班级学生练习记录（每个班级一个 sheet，仅支持 xlsx）
+     * exemple: php yii student/export-record-multi-sheet "414,415,416,417,418,419" 2025-09-15 2025-12-31 25秋季所有北外国商 xlsx
+     * @param string $class_ids 逗号或空格分隔的班级ID
+     * @param string $start_date 开始日期 格式: Y-m-d
+     * @param string $end_date 结束日期 格式: Y-m-d
+     * @param string $file_name 导出文件名（不包含扩展名）
+     * @return string
+     */
+    public function actionExportRecordMultiSheet(string $class_ids, string $start_date, string $end_date, string $file_name): string
+    {
+        $classIds = array_filter(array_map('intval', preg_split('/[,\s]+/', $class_ids)));
+        $classIds = array_values(array_unique(array_filter($classIds, function ($id) {
+            return $id > 0;
+        })));
+        if (empty($classIds)) {
+            var_dump("class_ids 不能为空");
+            return '';
+        }
+
+        $file_name = trim($file_name);
+        $file_name = str_replace(['/', '\\'], '_', $file_name);
+        if ($file_name === '') {
+            var_dump("导出文件名称不能为空");
+            return '';
+        }
+        $file_base_name = pathinfo($file_name, PATHINFO_FILENAME);
+        if ($file_base_name === '' && $file_name !== '') {
+            $file_base_name = $file_name;
+        }
+        if ($file_base_name === '') {
+            $file_base_name = 'export_' . date('Ymd_His');
+        }
+
+        $start_time = strtotime($start_date);
+        $end_time = strtotime($end_date);
+        if ($start_time === false || $end_time === false) {
+            var_dump("日期格式错误，请使用 Y-m-d 格式，例如: 2025-05-12");
+            return '';
+        }
+        if ($start_time > $end_time) {
+            var_dump("开始日期不能大于结束日期");
+            return '';
+        }
+
+        $local_path = dirname(__FILE__, 2);
+        $file_path = $local_path . '/runtime/tmp/';
+        if (!file_exists($file_path)) {
+            mkdir($file_path, 0777, true);
+        }
+        $file_path = $file_path . $file_base_name . '.xlsx';
+
+        $spreadsheet = new Spreadsheet();
+        $usedSheetTitles = [];
+        $sheetIndex = 0;
+
+        foreach ($classIds as $classId) {
+            $classInfo = EduClass::find()->where(['id' => $classId])->one();
+            $rawSheetTitle = ($classInfo ? $classInfo->name : ('班级' . $classId)) . '(' . $classId . ')';
+
+            if ($sheetIndex === 0) {
+                $sheet = $spreadsheet->getActiveSheet();
+            } else {
+                $sheet = $spreadsheet->createSheet($sheetIndex);
+            }
+
+            $sheetTitle = $this->makeUniqueSpreadsheetSheetTitle($rawSheetTitle, $usedSheetTitles);
+            $sheet->setTitle($sheetTitle);
+
+            $exportResult = $this->buildExportRecordRowsForClassIds([$classId], $start_time, $end_time, true);
+            $title = $exportResult['title'];
+            $rows = $exportResult['rows'];
+
+            $sheet->fromArray($title, null, 'A1');
+            if (!empty($rows)) {
+                $sheet->fromArray($rows, null, 'A2');
+            }
+
+            foreach (range('A', $sheet->getHighestColumn()) as $col) {
+                $sheet->getColumnDimension($col)->setAutoSize(true);
+            }
+
+            $sheetIndex++;
+        }
+
+        $writer = new Xlsx($spreadsheet);
+        $writer->save($file_path);
+
+        var_dump("导出成功，文件路径：$file_path");
+        return $file_path;
+    }
+
+    private function parseIdList(string $ids): array
+    {
+        $classIds = array_filter(array_map('intval', preg_split('/[,\s]+/', trim($ids))));
+        $classIds = array_values(array_unique(array_filter($classIds, static function ($id) {
+            return $id > 0;
+        })));
+        sort($classIds);
+        return $classIds;
+    }
+
+    private function resolveHomeworkTaskFilePath(string $taskFile): string
+    {
+        $taskFile = trim($taskFile);
+        if ($taskFile === '') {
+            $local_path = dirname(__FILE__, 2);
+            return $local_path . '/runtime/tmp/作业任务.json';
+        }
+
+        if (is_file($taskFile)) {
+            return $taskFile;
+        }
+
+        $local_path = dirname(__FILE__, 3);
+        $candidate = $local_path . '/' . ltrim($taskFile, '/');
+        return $candidate;
+    }
+
+    private function loadHomeworkTaskItems(string $taskFilePath): array
+    {
+        $content = file_get_contents($taskFilePath);
+        if ($content === false || trim($content) === '') {
+            return [];
+        }
+
+        $decoded = json_decode($content, true);
+        if (!is_array($decoded)) {
+            return [];
+        }
+
+        $items = [];
+        $seq = 0;
+        foreach ($decoded as $task) {
+            if (!is_array($task)) {
+                continue;
+            }
+            $taskName = (string)($task['name'] ?? '');
+            $taskType = (string)($task['type'] ?? '');
+            $ids = $task['ids'] ?? [];
+            if ($taskName === '' || $taskType === '' || !is_array($ids) || empty($ids)) {
+                continue;
+            }
+
+            $ids = array_values(array_filter(array_map('intval', $ids), static function ($id) {
+                return $id > 0;
+            }));
+            if (empty($ids)) {
+                continue;
+            }
+
+            if ($taskType === '口语') {
+                if (count($ids) >= 2) {
+                    $seq++;
+                    $items[] = [
+                        'seq' => $seq,
+                        'task_type' => $taskType,
+                        'sub_type' => '口语-Part2',
+                        'task_name' => $taskName,
+                        'target_ids' => [$ids[0]],
+                    ];
+                    $seq++;
+                    $items[] = [
+                        'seq' => $seq,
+                        'task_type' => $taskType,
+                        'sub_type' => '口语-Part1/3',
+                        'task_name' => $taskName,
+                        'target_ids' => [$ids[1]],
+                    ];
+                    continue;
+                }
+
+                $seq++;
+                $items[] = [
+                    'seq' => $seq,
+                    'task_type' => $taskType,
+                    'sub_type' => '口语-Part1/3',
+                    'task_name' => $taskName,
+                    'target_ids' => [$ids[0]],
+                ];
+                continue;
+            }
+
+            $seq++;
+            $items[] = [
+                'seq' => $seq,
+                'task_type' => $taskType,
+                'sub_type' => $taskType,
+                'task_name' => $taskName,
+                'target_ids' => $ids,
+            ];
+        }
+
+        return $items;
+    }
+
+    private function getStudentsByClassId(int $classId): array
+    {
+        $rows = (new Query())
+            ->from(EduClassStudent::tableName() . ' ecs')
+            ->leftJoin(Student::tableName() . ' s', 's.id = ecs.student_id')
+            ->select([
+                'student_id' => 'ecs.student_id',
+                'student_name' => 'ecs.student_name',
+                'account' => 's.account',
+                'mobile' => 's.mobile',
+                'real_name' => 's.name',
+            ])
+            ->where(['ecs.class_id' => $classId])
+            ->all();
+
+        $result = [];
+        foreach ($rows as $row) {
+            $studentId = (int)($row['student_id'] ?? 0);
+            if ($studentId <= 0) {
+                continue;
+            }
+            $name = trim((string)($row['real_name'] ?? ''));
+            if ($name === '') {
+                $name = trim((string)($row['student_name'] ?? ''));
+            }
+            $result[$studentId] = [
+                'student_id' => $studentId,
+                'student_name' => $name,
+                'account' => (string)($row['account'] ?? ''),
+                'mobile' => (string)($row['mobile'] ?? ''),
+            ];
+        }
+
+        ksort($result);
+        return $result;
+    }
+
+    private function getHomeworkQueryConfig(string $subType): array
+    {
+        $configs = [
+            '小作文' => ['table' => 'writing_essay_record', 'status' => 3, 'target_col' => 'paper_id', 'time_col' => 'update_time'],
+            '大作文' => ['table' => 'writing_big_essay_record', 'status' => 3, 'target_col' => 'paper_id', 'time_col' => 'update_time'],
+            '专项练习' => ['table' => 'exam_collection_record', 'status' => 2, 'target_col' => 'collection_id', 'time_col' => 'end_time'],
+            '阅读' => ['table' => 'reading_exam_record', 'status' => 2, 'target_col' => 'paper_id', 'time_col' => 'finished_time'],
+            '听力' => ['table' => 'listening_exam_record', 'status' => 2, 'target_col' => 'paper_id', 'time_col' => 'finished_time'],
+            // 作业任务里的口语 ids 通常是“话题id”，对应记录表的 topic_id
+            '口语-Part1/3' => ['table' => 'speaking_advance_record', 'status' => 3, 'target_col' => 'topic_id', 'time_col' => 'update_time'],
+            '口语-Part2' => ['table' => 'speaking_advance_part2_record', 'status' => 2, 'target_col' => 'topic_id', 'time_col' => 'update_time'],
+            '口语专项' => ['table' => 'speaking_special_item_group_record', 'status' => 2, 'target_col' => null, 'time_col' => null],
+        ];
+
+        return $configs[$subType] ?? ['table' => null, 'status' => null, 'target_col' => null, 'time_col' => null];
+    }
+
+    private function loadHomeworkRecordsForStudents(array $taskItems, array $studentIds, ?int $beforeTime): array
+    {
+        $idsBySubType = [];
+        foreach ($taskItems as $item) {
+            $subType = (string)($item['sub_type'] ?? '');
+            $targetIds = $item['target_ids'] ?? [];
+            if ($subType === '' || !is_array($targetIds)) {
+                continue;
+            }
+            foreach ($targetIds as $targetId) {
+                $targetId = (int)$targetId;
+                if ($targetId <= 0) {
+                    continue;
+                }
+                $idsBySubType[$subType][] = $targetId;
+            }
+        }
+
+        $recordsByKey = [];
+        foreach ($idsBySubType as $subType => $targetIds) {
+            $config = $this->getHomeworkQueryConfig($subType);
+            if (empty($config['table'])) {
+                continue;
+            }
+
+            $targetIds = array_values(array_unique(array_filter(array_map('intval', $targetIds), static function ($id) {
+                return $id > 0;
+            })));
+            if (empty($targetIds)) {
+                continue;
+            }
+
+            $recordsByStudent = $this->fetchLatestRecordsByStudentAndTarget(
+                $config['table'],
+                $studentIds,
+                $targetIds,
+                $config['status'],
+                $config['target_col'],
+                $config['time_col'],
+                $beforeTime
+            );
+
+            foreach ($recordsByStudent as $record) {
+                $recordsByKey[$this->buildHomeworkRecordKey($subType, $record['student_id'], $record['target_id'])] = $record['row'];
+            }
+        }
+
+        return $recordsByKey;
+    }
+
+    private function buildHomeworkRecordKey(string $subType, int $studentId, int $targetId): string
+    {
+        return $subType . ':' . $studentId . ':' . $targetId;
+    }
+
+    private function fetchLatestRecordsByStudentAndTarget(
+        string $table,
+        array $studentIds,
+        array $targetIds,
+        ?int $statusWanted,
+        ?string $targetColumn,
+        ?string $timeColumn,
+        ?int $beforeTime
+    ): array {
+        $schema = Yii::$app->db->schema->getTableSchema($table);
+        if ($schema === null) {
+            return [];
+        }
+        $columns = $schema->columnNames;
+
+        $studentColumn = in_array('student_id', $columns, true) ? 'student_id' : null;
+        if ($studentColumn === null) {
+            return [];
+        }
+
+        if ($targetColumn === null || !in_array($targetColumn, $columns, true)) {
+            $targetColumn = $this->guessTargetIdColumn($columns);
+        }
+        if ($targetColumn === null) {
+            return [];
+        }
+
+        if ($timeColumn === null || !in_array($timeColumn, $columns, true)) {
+            $timeColumn = $this->guessTimeColumn($columns);
+        }
+
+        $wantedCols = [
+            'id',
+            $studentColumn,
+            $targetColumn,
+            'status',
+            $timeColumn,
+            // duration/time fields
+            'duration',
+            'used_time',
+            'cost_time',
+            'spend_time',
+            'start_time',
+            'end_time',
+            'update_time',
+            'create_time',
+            'finished_time',
+            'finish_time',
+            // score/rate fields
+            'correct',
+            'total',
+            'rate',
+            'score',
+            'score_file',
+            // speaking json fields
+            'radar_chart',
+            'report',
+        ];
+        $wantedCols = array_values(array_unique(array_filter($wantedCols, static function ($v) {
+            return is_string($v) && $v !== '';
+        })));
+        $selectCols = [];
+        foreach ($wantedCols as $col) {
+            if (in_array($col, $columns, true)) {
+                $selectCols[] = $col;
+            }
+        }
+        if (!in_array('id', $selectCols, true) && in_array('id', $columns, true)) {
+            $selectCols[] = 'id';
+        }
+        if (!in_array($studentColumn, $selectCols, true)) {
+            $selectCols[] = $studentColumn;
+        }
+        if (!in_array($targetColumn, $selectCols, true)) {
+            $selectCols[] = $targetColumn;
+        }
+
+        $query = (new Query())->from($table)->select($selectCols)->where([
+            $studentColumn => $studentIds,
+            $targetColumn => $targetIds,
+        ]);
+
+        if ($statusWanted !== null && in_array('status', $columns, true)) {
+            $query->andWhere(['status' => $statusWanted]);
+        }
+
+        if ($beforeTime !== null && $timeColumn !== null) {
+            $query->andWhere(['<=', $timeColumn, $beforeTime]);
+        }
+
+        if ($timeColumn !== null) {
+            $query->orderBy([$timeColumn => SORT_DESC, 'id' => SORT_DESC]);
+        } else {
+            $query->orderBy(['id' => SORT_DESC]);
+        }
+
+        $result = [];
+        $maxCombos = count($studentIds) * count($targetIds);
+        foreach ($query->each(1000) as $row) {
+            $studentId = (int)$row[$studentColumn];
+            $targetId = (int)$row[$targetColumn];
+            $key = $studentId . ':' . $targetId;
+            if (isset($result[$key])) {
+                continue;
+            }
+            $result[$key] = [
+                'student_id' => $studentId,
+                'target_id' => $targetId,
+                'row' => $row,
+            ];
+            if ($maxCombos > 0 && count($result) >= $maxCombos) {
+                break;
+            }
+        }
+
+        return $result;
+    }
+
+    private function mergeHomeworkTaskCellsInSheet($sheet, int $dataStartRow, array $rows): void
+    {
+        if (empty($rows)) {
+            return;
+        }
+
+        $mergeCols = range(1, 5); // A-E: 学生/任务信息
+        $prevKey = null;
+        $groupStartRow = $dataStartRow;
+        $rowCount = count($rows);
+
+        for ($i = 0; $i < $rowCount; $i++) {
+            $row = $rows[$i];
+            $keyParts = array_slice($row, 0, 5);
+            $key = implode("\t", array_map(static function ($v) {
+                return (string)$v;
+            }, $keyParts));
+
+            if ($prevKey === null) {
+                $prevKey = $key;
+                $groupStartRow = $dataStartRow + $i;
+                continue;
+            }
+
+            if ($key !== $prevKey) {
+                $groupEndRow = $dataStartRow + $i - 1;
+                if ($groupEndRow > $groupStartRow) {
+                    foreach ($mergeCols as $col) {
+                        $sheet->mergeCellsByColumnAndRow($col, $groupStartRow, $col, $groupEndRow);
+                    }
+                }
+                $prevKey = $key;
+                $groupStartRow = $dataStartRow + $i;
+            }
+        }
+
+        $groupEndRow = $dataStartRow + $rowCount - 1;
+        if ($groupEndRow > $groupStartRow) {
+            foreach ($mergeCols as $col) {
+                $sheet->mergeCellsByColumnAndRow($col, $groupStartRow, $col, $groupEndRow);
+            }
+        }
+    }
+
+    private function guessTargetIdColumn(array $columns): ?string
+    {
+        $candidates = [
+            'paper_id',
+            'collection_id',
+            'question_id',
+            'item_group_id',
+            'special_item_group_id',
+            'group_id',
+            'topic_id',
+            'item_id',
+            'target_id',
+        ];
+        foreach ($candidates as $candidate) {
+            if (in_array($candidate, $columns, true)) {
+                return $candidate;
+            }
+        }
+        return null;
+    }
+
+    private function guessTimeColumn(array $columns): ?string
+    {
+        $candidates = [
+            'finished_time',
+            'finish_time',
+            'end_time',
+            'update_time',
+            'create_time',
+        ];
+        foreach ($candidates as $candidate) {
+            if (in_array($candidate, $columns, true)) {
+                return $candidate;
+            }
+        }
+        return null;
+    }
+
+    private function normalizeHomeworkRecord(string $subType, ?array $record): array
+    {
+        if (empty($record)) {
+            return [
+                'completed' => false,
+                'finished_time' => null,
+                'duration_seconds' => 0,
+            ];
+        }
+
+        $targetId = null;
+        if (isset($record['__target_id'])) {
+            $targetId = (int)$record['__target_id'];
+        }
+
+        $durationSeconds = 0;
+        if (isset($record['duration'])) {
+            $durationSeconds = $this->normalizeHomeworkDurationToSeconds($subType, (int)$record['duration']);
+        } elseif (isset($record['used_time'])) {
+            $durationSeconds = $this->normalizeHomeworkDurationToSeconds($subType, (int)$record['used_time']);
+        } elseif (isset($record['cost_time'])) {
+            $durationSeconds = $this->normalizeHomeworkDurationToSeconds($subType, (int)$record['cost_time']);
+        } elseif (isset($record['spend_time'])) {
+            $durationSeconds = $this->normalizeHomeworkDurationToSeconds($subType, (int)$record['spend_time']);
+        } elseif (isset($record['end_time'], $record['start_time'])) {
+            $durationSeconds = max(0, (int)$record['end_time'] - (int)$record['start_time']);
+        } elseif (isset($record['update_time'], $record['create_time'])) {
+            $durationSeconds = max(0, (int)$record['update_time'] - (int)$record['create_time']);
+        }
+
+        $finishedTime = null;
+        foreach (['finished_time', 'finish_time', 'end_time', 'update_time', 'create_time'] as $timeKey) {
+            if (isset($record[$timeKey]) && (int)$record[$timeKey] > 0) {
+                $finishedTime = (int)$record[$timeKey];
+                break;
+            }
+        }
+
+        $correct = isset($record['correct']) ? (int)$record['correct'] : null;
+        $total = isset($record['total']) ? (int)$record['total'] : null;
+        $rate = null;
+        if (isset($record['rate']) && $record['rate'] !== '') {
+            $rate = $record['rate'];
+        } elseif ($correct !== null && $total !== null && $total > 0) {
+            $rate = round($correct / $total, 4);
+        }
+
+        $score = null;
+        if ($correct !== null) {
+            $score = $correct;
+        }
+        if ($subType === '口语-Part1/3' && isset($record['radar_chart'])) {
+            $proficientScore = $this->extractNumericFromJsonByKey((string)$record['radar_chart'], 'proficient_score');
+            if ($proficientScore !== null) {
+                $score = $proficientScore;
+            } else {
+                $scoreFromRadar = $this->extractNumericScoreFromJsonString((string)$record['radar_chart']);
+                if ($scoreFromRadar !== null) {
+                    $score = $scoreFromRadar;
+                }
+            }
+        }
+        if ($subType === '口语-Part2' && isset($record['report'])) {
+            $proficientScore = $this->extractNumericFromJsonByKey((string)$record['report'], 'proficient_score');
+            if ($proficientScore !== null) {
+                $score = $proficientScore;
+            } else {
+                $scoreFromReport = $this->extractNumericScoreFromJsonString((string)$record['report']);
+                if ($scoreFromReport !== null) {
+                    $score = $scoreFromReport;
+                }
+            }
+        }
+        if ($subType === '口语专项' && isset($record['score'])) {
+            $overallScore = $this->extractNumericFromJsonByKey((string)$record['score'], 'overall_score');
+            if ($overallScore !== null) {
+                $score = (int)round($overallScore * 10);
+            } else {
+                $suggestedScore = $this->extractNumericFromJsonByKey((string)$record['score'], 'SuggestedScore');
+                if ($suggestedScore !== null) {
+                    $score = (int)round($suggestedScore);
+                }
+            }
+        }
+        if (($subType === '小作文' || $subType === '大作文') && isset($record['score_file'])) {
+            $scoreFromScoreFile = $this->extractNumericScoreFromJsonString((string)$record['score_file']);
+            if ($scoreFromScoreFile !== null) {
+                $score = $scoreFromScoreFile;
+            }
+        }
+        if (isset($record['score']) && is_numeric($record['score'])) {
+            $score = $record['score'] + 0;
+        }
+
+        if (in_array($subType, ['口语-Part1/3', '口语-Part2'], true) && $score !== null && $score !== '' && is_numeric($score)) {
+            $score = (int)round((float)$score);
+        }
+
+        return [
+            'completed' => true,
+            'target_id' => $targetId,
+            'finished_time' => $finishedTime,
+            'duration_seconds' => $durationSeconds,
+            'score' => $score,
+            'correct' => $correct,
+            'total' => $total,
+            'rate' => $rate,
+            'record_id' => $record['id'] ?? null,
+        ];
+    }
+
+    private function normalizeHomeworkDurationToSeconds(string $subType, int $rawDuration): int
+    {
+        if ($rawDuration <= 0) {
+            return 0;
+        }
+
+        // 口语与口语专项用时为毫秒
+        if (in_array($subType, ['口语-Part1/3', '口语-Part2', '口语专项'], true)) {
+            return (int)round($rawDuration / 1000);
+        }
+
+        return $rawDuration;
+    }
+
+    private function extractNumericScoreFromJsonString(string $raw): ?float
+    {
+        $raw = trim($raw);
+        if ($raw === '') {
+            return null;
+        }
+
+        $decoded = json_decode($raw, true);
+        if (!is_array($decoded)) {
+            return null;
+        }
+
+        $candidates = [
+            'overall',
+            'overall_score',
+            'overallScore',
+            'total',
+            'total_score',
+            'totalScore',
+            'score',
+            'band',
+        ];
+
+        foreach ($candidates as $key) {
+            if (isset($decoded[$key]) && is_numeric($decoded[$key])) {
+                return (float)$decoded[$key];
+            }
+        }
+
+        $numbers = [];
+        $this->collectNumericValues($decoded, $numbers);
+        if (empty($numbers)) {
+            return null;
+        }
+
+        return round(array_sum($numbers) / count($numbers), 4);
+    }
+
+    private function extractNumericFromJsonByKey(string $raw, string $targetKey): ?float
+    {
+        $raw = trim($raw);
+        if ($raw === '') {
+            return null;
+        }
+        $decoded = json_decode($raw, true);
+        if (!is_array($decoded)) {
+            return null;
+        }
+
+        $targetKeyLower = strtolower($targetKey);
+        return $this->searchNumericInArrayByKey($decoded, $targetKeyLower);
+    }
+
+    private function searchNumericInArrayByKey($value, string $targetKeyLower): ?float
+    {
+        if (!is_array($value)) {
+            return null;
+        }
+
+        foreach ($value as $k => $v) {
+            if (is_string($k) && strtolower($k) === $targetKeyLower && is_numeric($v)) {
+                return (float)$v;
+            }
+            if (is_array($v)) {
+                $found = $this->searchNumericInArrayByKey($v, $targetKeyLower);
+                if ($found !== null) {
+                    return $found;
+                }
+            }
+        }
+
+        return null;
+    }
+
+    private function loadLatestMockSpeakingByStudentIds(array $studentIds, ?int $beforeTime): array
+    {
+        $studentIds = array_values(array_unique(array_filter(array_map('intval', $studentIds), static function ($id) {
+            return $id > 0;
+        })));
+        if (empty($studentIds)) {
+            return [];
+        }
+
+        $query = SimulateExamSpeaking::find()
+            ->where(['student_id' => $studentIds, 'status' => 6]);
+        if ($beforeTime !== null) {
+            $query->andWhere(['<=', 'update_time', $beforeTime]);
+        }
+        $records = $query->orderBy(['update_time' => SORT_DESC, 'id' => SORT_DESC])->all();
+        if (empty($records)) {
+            return [];
+        }
+
+        $result = [];
+        foreach ($records as $record) {
+            $studentId = (int)$record->student_id;
+            if ($studentId <= 0 || isset($result[$studentId])) {
+                continue;
+            }
+            $scores = $this->normalizeMockSpeakingReportScore((string)$record->report_score);
+            $result[$studentId] = array_merge($scores, [
+                'record_id' => (int)$record->id,
+                'finished_time' => (int)$record->update_time,
+                'duration_seconds' => $this->normalizeMockSpeakingDurationToSeconds((int)$record->duration),
+            ]);
+        }
+
+        return $result;
+    }
+
+    private function normalizeMockSpeakingDurationToSeconds(int $rawDuration): int
+    {
+        if ($rawDuration <= 0) {
+            return 0;
+        }
+
+        // 口语模考 duration 可能是秒，也可能是毫秒；用一个安全阈值做兼容
+        if ($rawDuration > 7200) {
+            return (int)round($rawDuration / 1000);
+        }
+
+        return $rawDuration;
+    }
+
+    private function normalizeMockSpeakingReportScore(string $reportScoreJson): array
+    {
+        $normalize = static function (?float $v): ?string {
+            if ($v === null) {
+                return null;
+            }
+            return number_format((float)$v, 1, '.', '');
+        };
+
+        // {"grammar":5,"vocabulary":5,"proficient_score":6,"pron_fluency":5,"pron_accuracy":9}
+        $total = $normalize($this->extractNumericFromJsonByKey($reportScoreJson, 'proficient_score'));
+        $fluency = $normalize($this->extractNumericFromJsonByKey($reportScoreJson, 'pron_fluency'));
+        $vocabulary = $normalize($this->extractNumericFromJsonByKey($reportScoreJson, 'vocabulary'));
+        $grammar = $normalize($this->extractNumericFromJsonByKey($reportScoreJson, 'grammar'));
+        $pronunciation = $normalize($this->extractNumericFromJsonByKey($reportScoreJson, 'pron_accuracy'));
+
+        return [
+            'total' => $total,
+            'fluency' => $fluency,
+            'vocabulary' => $vocabulary,
+            'grammar' => $grammar,
+            'pronunciation' => $pronunciation,
+        ];
+    }
+
+    private function collectNumericValues($value, array &$numbers): void
+    {
+        if (is_array($value)) {
+            foreach ($value as $v) {
+                $this->collectNumericValues($v, $numbers);
+            }
+            return;
+        }
+        if (is_numeric($value)) {
+            $numbers[] = (float)$value;
+        }
+    }
+
+    private function loadWritingScoringScoresByBizIds(array $bizIds, int $bizType, ?int $beforeTime): array
+    {
+        $schema = Yii::$app->db->schema->getTableSchema('writing_scoring_record');
+        if ($schema === null) {
+            return [];
+        }
+        $columns = $schema->columnNames;
+        if (!in_array('biz_id', $columns, true) || !in_array('biz_type', $columns, true)) {
+            return [];
+        }
+
+        $timeColumn = null;
+        foreach (['update_time', 'create_time', 'finished_time', 'finish_time'] as $candidate) {
+            if (in_array($candidate, $columns, true)) {
+                $timeColumn = $candidate;
+                break;
+            }
+        }
+
+        $query = (new Query())
+            ->from('writing_scoring_record')
+            ->where([
+                'biz_type' => $bizType,
+                'biz_id' => $bizIds,
+            ]);
+
+        if ($beforeTime !== null && $timeColumn !== null) {
+            $query->andWhere(['<=', $timeColumn, $beforeTime]);
+        }
+
+        if ($timeColumn !== null) {
+            $query->orderBy([$timeColumn => SORT_DESC, 'id' => SORT_DESC]);
+        } else {
+            $query->orderBy(['id' => SORT_DESC]);
+        }
+
+        $scoreCandidates = [
+            'overall',
+            'overall_score',
+            'overallScore',
+            'total',
+            'total_score',
+            'totalScore',
+            'final_score',
+            'finalScore',
+            'score',
+            'band',
+            'result',
+            'content',
+            'scoring_result',
+            'score_detail',
+            'score_file',
+        ];
+
+        $wantedCols = array_values(array_unique(array_filter(array_merge(
+            ['id', 'biz_id', 'biz_type', $timeColumn],
+            $scoreCandidates
+        ), static function ($v) {
+            return is_string($v) && $v !== '';
+        })));
+        $selectCols = [];
+        foreach ($wantedCols as $col) {
+            if (in_array($col, $columns, true)) {
+                $selectCols[] = $col;
+            }
+        }
+        if (!empty($selectCols)) {
+            $query->select($selectCols);
+        }
+
+        $result = [];
+        $needCount = count($bizIds);
+        foreach ($query->each(1000) as $row) {
+            $bizId = (int)($row['biz_id'] ?? 0);
+            if ($bizId <= 0 || isset($result[$bizId])) {
+                continue;
+            }
+            $score = $this->extractNumericScoreFromRowByCandidates($row, $scoreCandidates);
+            if ($score !== null) {
+                $result[$bizId] = $score;
+            }
+            if ($needCount > 0 && count($result) >= $needCount) {
+                break;
+            }
+        }
+
+        return $result;
+    }
+
+    private function extractNumericScoreFromRowByCandidates(array $row, array $candidates): ?float
+    {
+        foreach ($candidates as $key) {
+            if (!array_key_exists($key, $row)) {
+                continue;
+            }
+            $value = $row[$key];
+            if (is_numeric($value)) {
+                return (float)$value;
+            }
+            if (is_string($value)) {
+                $score = $this->extractNumericScoreFromJsonString($value);
+                if ($score !== null) {
+                    return $score;
+                }
+            }
+        }
+
+        foreach ($row as $key => $value) {
+            $keyLower = strtolower((string)$key);
+            if (
+                strpos($keyLower, 'score') === false
+                && strpos($keyLower, 'band') === false
+                && strpos($keyLower, 'overall') === false
+                && strpos($keyLower, 'total') === false
+            ) {
+                continue;
+            }
+
+            if (is_numeric($value)) {
+                return (float)$value;
+            }
+            if (is_string($value)) {
+                $score = $this->extractNumericScoreFromJsonString($value);
+                if ($score !== null) {
+                    return $score;
+                }
+            }
+        }
+
+        return null;
+    }
+
+    private function getExportRecordTitle(): array
+    {
+        return [
             "姓名",
             "学号",
             "手机号",
@@ -817,7 +2258,14 @@ class StudentController extends BaseController
             "模考次数",
             "模考时长"
         ];
+    }
 
+    /**
+     * @return array{title: array, rows: array, data: array, teacherUserIds: array}
+     */
+    private function buildExportRecordRowsForClassIds(array $classIds, int $start_time, int $end_time, bool $appendSummaryRows): array
+    {
+        $title = $this->getExportRecordTitle();
         $data = [];
 
         $student_list = EduClassStudent::find()->where(['class_id' => $classIds])->all();
@@ -853,8 +2301,12 @@ class StudentController extends BaseController
 
         $userIds = array_keys($data);
         if (empty($userIds)) {
-            var_dump("没有需要导出的学生或老师");
-            return '';
+            return [
+                'title' => $title,
+                'rows' => [],
+                'data' => [],
+                'teacherUserIds' => [],
+            ];
         }
 
         $user_list = Student::find()->where(['id' => $userIds])->all();
@@ -875,7 +2327,12 @@ class StudentController extends BaseController
         $listening_real = [];
         $reading_real = [];
 
-        $collection_record = ExamCollectionRecord::find()->where(['student_id' => $userIds, 'status' => 2])->andWhere(['>=', 'update_time', $start_time])->andWhere(['<=', 'update_time', $end_time])->all();
+        $collection_record = ExamCollectionRecord::find()
+            ->where(['student_id' => $userIds, 'status' => 2])
+            ->andWhere(['>=', 'update_time', $start_time])
+            ->andWhere(['<=', 'update_time', $end_time])
+            ->all();
+
         if (!empty($collection_record)) {
             $collection_ids = array_unique(array_column($collection_record, 'collection_id'));
             $collection_list = [];
@@ -935,7 +2392,11 @@ class StudentController extends BaseController
             $data[$key]['listening_special_improve_rate'] = round(array_sum($val) / count($val), 4);
         }
 
-        $listening_record = ListeningExamRecord::find()->where(['student_id' => $userIds, 'status' => 2])->andWhere(['>=', 'update_time', $start_time])->andWhere(['<=', 'update_time', $end_time])->all();
+        $listening_record = ListeningExamRecord::find()
+            ->where(['student_id' => $userIds, 'status' => 2])
+            ->andWhere(['>=', 'update_time', $start_time])
+            ->andWhere(['<=', 'update_time', $end_time])
+            ->all();
         if (!empty($listening_record)) {
             foreach ($listening_record as $record) {
                 if (!isset($data[$record->student_id])) {
@@ -957,7 +2418,11 @@ class StudentController extends BaseController
             $data[$key]['listening_real_rate'] = round(array_sum($val) / count($val), 4);
         }
 
-        $reading_record = ReadingExamRecord::find()->where(['student_id' => $userIds, 'status' => 2])->andWhere(['>=', 'finished_time', $start_time])->andWhere(['<=', 'finished_time', $end_time])->all();
+        $reading_record = ReadingExamRecord::find()
+            ->where(['student_id' => $userIds, 'status' => 2])
+            ->andWhere(['>=', 'finished_time', $start_time])
+            ->andWhere(['<=', 'finished_time', $end_time])
+            ->all();
         if (!empty($reading_record)) {
             foreach ($reading_record as $record) {
                 if (!isset($data[$record->student_id])) {
@@ -979,7 +2444,11 @@ class StudentController extends BaseController
             $data[$key]['reading_real_rate'] = round(array_sum($val) / count($val), 4);
         }
 
-        $big_essay_record = WritingBigEssayRecord::find()->where(['student_id' => $userIds, 'status' => 2])->andWhere(['>=', 'update_time', $start_time])->andWhere(['<=', 'update_time', $end_time])->all();
+        $big_essay_record = WritingBigEssayRecord::find()
+            ->where(['student_id' => $userIds, 'status' => 2])
+            ->andWhere(['>=', 'update_time', $start_time])
+            ->andWhere(['<=', 'update_time', $end_time])
+            ->all();
         if (!empty($big_essay_record)) {
             foreach ($big_essay_record as $record) {
                 if (!isset($data[$record->student_id])) {
@@ -990,7 +2459,11 @@ class StudentController extends BaseController
             }
         }
 
-        $small_essay_record = WritingEssayRecord::find()->where(['student_id' => $userIds, 'status' => 2])->andWhere(['>=', 'update_time', $start_time])->andWhere(['<=', 'update_time', $end_time])->all();
+        $small_essay_record = WritingEssayRecord::find()
+            ->where(['student_id' => $userIds, 'status' => 2])
+            ->andWhere(['>=', 'update_time', $start_time])
+            ->andWhere(['<=', 'update_time', $end_time])
+            ->all();
         if (!empty($small_essay_record)) {
             foreach ($small_essay_record as $record) {
                 if (!isset($data[$record->student_id])) {
@@ -1001,7 +2474,11 @@ class StudentController extends BaseController
             }
         }
 
-        $big_essay_model_record = WritingBigEssaySampleText::find()->where(['student_id' => $userIds, 'status' => 2])->andWhere(['>=', 'update_time', $start_time])->andWhere(['<=', 'update_time', $end_time])->all();
+        $big_essay_model_record = WritingBigEssaySampleText::find()
+            ->where(['student_id' => $userIds, 'status' => 2])
+            ->andWhere(['>=', 'update_time', $start_time])
+            ->andWhere(['<=', 'update_time', $end_time])
+            ->all();
         if (!empty($big_essay_model_record)) {
             foreach ($big_essay_model_record as $record) {
                 if (!isset($data[$record->student_id])) {
@@ -1012,7 +2489,11 @@ class StudentController extends BaseController
             }
         }
 
-        $big_essay_exam_record = WritingPracticeRecord::find()->where(['student_id' => $userIds])->andWhere(['>=', 'update_time', $start_time])->andWhere(['<=', 'update_time', $end_time])->all();
+        $big_essay_exam_record = WritingPracticeRecord::find()
+            ->where(['student_id' => $userIds])
+            ->andWhere(['>=', 'update_time', $start_time])
+            ->andWhere(['<=', 'update_time', $end_time])
+            ->all();
         if (!empty($big_essay_exam_record)) {
             foreach ($big_essay_exam_record as $record) {
                 if (!isset($data[$record->student_id])) {
@@ -1023,7 +2504,11 @@ class StudentController extends BaseController
             }
         }
 
-        $oral_record = SpeakingExamDialogueLog::find()->where(['student_id' => $userIds, 'role' => 1, 'type' => [1, 2]])->andWhere(['>=', 'update_time', $start_time])->andWhere(['<=', 'update_time', $end_time])->all();
+        $oral_record = SpeakingExamDialogueLog::find()
+            ->where(['student_id' => $userIds, 'role' => 1, 'type' => [1, 2]])
+            ->andWhere(['>=', 'update_time', $start_time])
+            ->andWhere(['<=', 'update_time', $end_time])
+            ->all();
         if (!empty($oral_record)) {
             foreach ($oral_record as $record) {
                 if (!isset($data[$record->student_id])) {
@@ -1037,7 +2522,11 @@ class StudentController extends BaseController
             }
         }
 
-        $oral_advanced_record = SpeakingAdvanceRecord::find()->where(['student_id' => $userIds])->andWhere(['>=', 'update_time', $start_time])->andWhere(['<=', 'update_time', $end_time])->all();
+        $oral_advanced_record = SpeakingAdvanceRecord::find()
+            ->where(['student_id' => $userIds])
+            ->andWhere(['>=', 'update_time', $start_time])
+            ->andWhere(['<=', 'update_time', $end_time])
+            ->all();
         if (!empty($oral_advanced_record)) {
             foreach ($oral_advanced_record as $record) {
                 if (!isset($data[$record->student_id])) {
@@ -1051,7 +2540,11 @@ class StudentController extends BaseController
             }
         }
 
-        $mock_record = SimulateExamRecord::find()->where(['student_id' => $userIds])->andWhere(['>=', 'update_time', $start_time])->andWhere(['<=', 'update_time', $end_time])->all();
+        $mock_record = SimulateExamRecord::find()
+            ->where(['student_id' => $userIds])
+            ->andWhere(['>=', 'update_time', $start_time])
+            ->andWhere(['<=', 'update_time', $end_time])
+            ->all();
         if (!empty($mock_record)) {
             $mockRecordIds = [];
             foreach ($mock_record as $record) {
@@ -1076,173 +2569,201 @@ class StudentController extends BaseController
             }
         }
 
-        $totalPracticeNum = 0;
-        $totalPracticeTime = 0;
-        $practicedStudentCount = 0;
-        $overallRatePool = [];
-
-        $countFields = [
-            'listening_special_improve_num',
-            'reading_special_improve_num',
-            'writing_special_improve_num',
-            'listening_real_num',
-            'reading_real_num',
-            'big_essay_num',
-            'small_essay_num',
-            'big_essay_model_num',
-            'big_essay_exam_num',
-            'oral_num',
-            'oral_advanced_num',
-            'mock_num'
-        ];
-        $timeFields = [
-            'listening_special_improve_time',
-            'reading_special_improve_time',
-            'writing_special_improve_time',
-            'listening_real_time',
-            'reading_real_time',
-            'oral_time',
-            'oral_advanced_time',
-            'mock_time'
-        ];
-        $rateFields = [
-            'listening_special_improve_rate' => 'listening_special_improve_num',
-            'reading_special_improve_rate' => 'reading_special_improve_num',
-            'writing_special_improve_rate' => 'writing_special_improve_num',
-            'listening_real_rate' => 'listening_real_num',
-            'reading_real_rate' => 'reading_real_num',
-        ];
-
-        $countSums = array_fill_keys($countFields, 0);
-        $timeSums = array_fill_keys($timeFields, 0);
-        $rateSums = [];
-        $rateCounts = [];
-
-        foreach ($data as $userId => $row) {
-            if (in_array($userId, $teacherUserIds, true)) {
-                continue;
-            }
-            $totalPracticeNum += $row['total_num'];
-            $totalPracticeTime += $row['total_time'];
-            if ($row['total_num'] > 0) {
-                $practicedStudentCount++;
-            }
-            foreach ($countFields as $field) {
-                $countSums[$field] += $row[$field];
-            }
-            foreach ($timeFields as $field) {
-                $timeSums[$field] += $row[$field];
-            }
-            foreach ($rateFields as $rateField => $countField) {
-                if ($row[$countField] > 0 && $row[$rateField] > 0) {
-                    if (!isset($rateSums[$rateField])) {
-                        $rateSums[$rateField] = 0;
-                        $rateCounts[$rateField] = 0;
-                    }
-                    $rateSums[$rateField] += $row[$rateField];
-                    $rateCounts[$rateField] += 1;
-                    $overallRatePool[] = $row[$rateField];
-                }
-            }
-        }
-
-        $avgPracticeDuration = $practicedStudentCount > 0 ? round($totalPracticeTime / $practicedStudentCount, 2) : 0;
-        $overallAvgAccuracy = !empty($overallRatePool) ? round(array_sum($overallRatePool) / count($overallRatePool), 4) : 0;
-        $rateAverages = [];
-        foreach ($rateFields as $rateField => $countField) {
-            $rateAverages[$rateField] = (isset($rateCounts[$rateField]) && $rateCounts[$rateField] > 0)
-                ? round($rateSums[$rateField] / $rateCounts[$rateField], 4)
-                : 0;
-        }
-
-        $summaryTitleRow = $this->buildExportRecordRowTemplate('标题');
-        $summaryTitleRow['account'] = '练习人数';
-        $summaryTitleRow['mobile'] = '练过的人的平均练习时长(秒)';
-        $summaryTitleRow['name'] = '练过的人的平均正确率';
-        $summaryTitleRow['total_num'] = '练习总次数';
-        $summaryTitleRow['total_time'] = '练习总时长(秒)';
-        $summaryTitleRow['listening_special_improve_num'] = '听力专项次数总数';
-        $summaryTitleRow['listening_special_improve_time'] = '听力专项时长总计(秒)';
-        $summaryTitleRow['listening_special_improve_rate'] = '听力专项平均正确率';
-        $summaryTitleRow['reading_special_improve_num'] = '阅读专项次数总数';
-        $summaryTitleRow['reading_special_improve_time'] = '阅读专项时长总计(秒)';
-        $summaryTitleRow['reading_special_improve_rate'] = '阅读专项平均正确率';
-        $summaryTitleRow['writing_special_improve_num'] = '写作专项次数总数';
-        $summaryTitleRow['writing_special_improve_time'] = '写作专项时长总计(秒)';
-        $summaryTitleRow['writing_special_improve_rate'] = '写作专项平均正确率';
-        $summaryTitleRow['listening_real_num'] = '听力真题次数总数';
-        $summaryTitleRow['listening_real_time'] = '听力真题时长总计(秒)';
-        $summaryTitleRow['listening_real_rate'] = '听力真题平均正确率';
-        $summaryTitleRow['reading_real_num'] = '阅读真题次数总数';
-        $summaryTitleRow['reading_real_time'] = '阅读真题时长总计(秒)';
-        $summaryTitleRow['reading_real_rate'] = '阅读真题平均正确率';
-        $summaryTitleRow['big_essay_num'] = '大作文写作次数总数';
-        $summaryTitleRow['small_essay_num'] = '小作文写作次数总数';
-        $summaryTitleRow['big_essay_model_num'] = '大作文范文次数总数';
-        $summaryTitleRow['big_essay_exam_num'] = '大作文练习次数总数';
-        $summaryTitleRow['oral_num'] = '口语机经练习次数总数';
-        $summaryTitleRow['oral_time'] = '口语机经练习时长总计(秒)';
-        $summaryTitleRow['oral_advanced_num'] = '口语进阶练习次数总数';
-        $summaryTitleRow['oral_advanced_time'] = '口语进阶练习时长总计(秒)';
-        $summaryTitleRow['mock_num'] = '模考次数总数';
-        $summaryTitleRow['mock_time'] = '模考时长总计(秒)';
-
-        $summaryValueRow = $this->buildExportRecordRowTemplate('统计');
-        $summaryValueRow['name'] = $overallAvgAccuracy;
-        $summaryValueRow['account'] = $practicedStudentCount;
-        $summaryValueRow['mobile'] = $avgPracticeDuration;
-        $summaryValueRow['total_num'] = $totalPracticeNum;
-        $summaryValueRow['total_time'] = $totalPracticeTime;
-        foreach ($countFields as $field) {
-            $summaryValueRow[$field] = $countSums[$field];
-        }
-        foreach ($timeFields as $field) {
-            $summaryValueRow[$field] = $timeSums[$field];
-        }
-        foreach ($rateFields as $rateField => $countField) {
-            $summaryValueRow[$rateField] = $rateAverages[$rateField] ?? 0;
-        }
-
         $rows = [];
         foreach ($data as $row) {
             $rows[] = array_values($row);
         }
-        $rows[] = array_values($summaryTitleRow);
-        $rows[] = array_values($summaryValueRow);
 
-        $local_path = dirname(__FILE__, 2);
-        $file_path = $local_path . '/runtime/tmp/';
-        if (!file_exists($file_path)) {
-            mkdir($file_path, 0777, true);
+        if ($appendSummaryRows) {
+            $totalPracticeNum = 0;
+            $totalPracticeTime = 0;
+            $practicedStudentCount = 0;
+            $overallRatePool = [];
+
+            $countFields = [
+                'listening_special_improve_num',
+                'reading_special_improve_num',
+                'writing_special_improve_num',
+                'listening_real_num',
+                'reading_real_num',
+                'big_essay_num',
+                'small_essay_num',
+                'big_essay_model_num',
+                'big_essay_exam_num',
+                'oral_num',
+                'oral_advanced_num',
+                'mock_num'
+            ];
+            $timeFields = [
+                'listening_special_improve_time',
+                'reading_special_improve_time',
+                'writing_special_improve_time',
+                'listening_real_time',
+                'reading_real_time',
+                'oral_time',
+                'oral_advanced_time',
+                'mock_time'
+            ];
+            $rateFields = [
+                'listening_special_improve_rate' => 'listening_special_improve_num',
+                'reading_special_improve_rate' => 'reading_special_improve_num',
+                'writing_special_improve_rate' => 'writing_special_improve_num',
+                'listening_real_rate' => 'listening_real_num',
+                'reading_real_rate' => 'reading_real_num',
+            ];
+
+            $countSums = array_fill_keys($countFields, 0);
+            $timeSums = array_fill_keys($timeFields, 0);
+            $rateSums = [];
+            $rateCounts = [];
+
+            foreach ($data as $userId => $row) {
+                if (in_array($userId, $teacherUserIds, true)) {
+                    continue;
+                }
+                $totalPracticeNum += $row['total_num'];
+                $totalPracticeTime += $row['total_time'];
+                if ($row['total_num'] > 0) {
+                    $practicedStudentCount++;
+                }
+                foreach ($countFields as $field) {
+                    $countSums[$field] += $row[$field];
+                }
+                foreach ($timeFields as $field) {
+                    $timeSums[$field] += $row[$field];
+                }
+                foreach ($rateFields as $rateField => $countField) {
+                    if ($row[$countField] > 0 && $row[$rateField] > 0) {
+                        if (!isset($rateSums[$rateField])) {
+                            $rateSums[$rateField] = 0;
+                            $rateCounts[$rateField] = 0;
+                        }
+                        $rateSums[$rateField] += $row[$rateField];
+                        $rateCounts[$rateField] += 1;
+                        $overallRatePool[] = $row[$rateField];
+                    }
+                }
+            }
+
+            $avgPracticeDuration = $practicedStudentCount > 0 ? round($totalPracticeTime / $practicedStudentCount, 2) : 0;
+            $overallAvgAccuracy = !empty($overallRatePool) ? round(array_sum($overallRatePool) / count($overallRatePool), 4) : 0;
+            $rateAverages = [];
+            foreach ($rateFields as $rateField => $countField) {
+                $rateAverages[$rateField] = (isset($rateCounts[$rateField]) && $rateCounts[$rateField] > 0)
+                    ? round($rateSums[$rateField] / $rateCounts[$rateField], 4)
+                    : 0;
+            }
+
+            $summaryTitleRow = $this->buildExportRecordRowTemplate('标题');
+            $summaryTitleRow['account'] = '练习人数';
+            $summaryTitleRow['mobile'] = '练过的人的平均练习时长(秒)';
+            $summaryTitleRow['name'] = '练过的人的平均正确率';
+            $summaryTitleRow['total_num'] = '练习总次数';
+            $summaryTitleRow['total_time'] = '练习总时长(秒)';
+            $summaryTitleRow['listening_special_improve_num'] = '听力专项次数总数';
+            $summaryTitleRow['listening_special_improve_time'] = '听力专项时长总计(秒)';
+            $summaryTitleRow['listening_special_improve_rate'] = '听力专项平均正确率';
+            $summaryTitleRow['reading_special_improve_num'] = '阅读专项次数总数';
+            $summaryTitleRow['reading_special_improve_time'] = '阅读专项时长总计(秒)';
+            $summaryTitleRow['reading_special_improve_rate'] = '阅读专项平均正确率';
+            $summaryTitleRow['writing_special_improve_num'] = '写作专项次数总数';
+            $summaryTitleRow['writing_special_improve_time'] = '写作专项时长总计(秒)';
+            $summaryTitleRow['writing_special_improve_rate'] = '写作专项平均正确率';
+            $summaryTitleRow['listening_real_num'] = '听力真题次数总数';
+            $summaryTitleRow['listening_real_time'] = '听力真题时长总计(秒)';
+            $summaryTitleRow['listening_real_rate'] = '听力真题平均正确率';
+            $summaryTitleRow['reading_real_num'] = '阅读真题次数总数';
+            $summaryTitleRow['reading_real_time'] = '阅读真题时长总计(秒)';
+            $summaryTitleRow['reading_real_rate'] = '阅读真题平均正确率';
+            $summaryTitleRow['big_essay_num'] = '大作文写作次数总数';
+            $summaryTitleRow['small_essay_num'] = '小作文写作次数总数';
+            $summaryTitleRow['big_essay_model_num'] = '大作文范文次数总数';
+            $summaryTitleRow['big_essay_exam_num'] = '大作文练习次数总数';
+            $summaryTitleRow['oral_num'] = '口语机经练习次数总数';
+            $summaryTitleRow['oral_time'] = '口语机经练习时长总计(秒)';
+            $summaryTitleRow['oral_advanced_num'] = '口语进阶练习次数总数';
+            $summaryTitleRow['oral_advanced_time'] = '口语进阶练习时长总计(秒)';
+            $summaryTitleRow['mock_num'] = '模考次数总数';
+            $summaryTitleRow['mock_time'] = '模考时长总计(秒)';
+
+            $summaryValueRow = $this->buildExportRecordRowTemplate('统计');
+            $summaryValueRow['name'] = $overallAvgAccuracy;
+            $summaryValueRow['account'] = $practicedStudentCount;
+            $summaryValueRow['mobile'] = $avgPracticeDuration;
+            $summaryValueRow['total_num'] = $totalPracticeNum;
+            $summaryValueRow['total_time'] = $totalPracticeTime;
+            foreach ($countFields as $field) {
+                $summaryValueRow[$field] = $countSums[$field];
+            }
+            foreach ($timeFields as $field) {
+                $summaryValueRow[$field] = $timeSums[$field];
+            }
+            foreach ($rateFields as $rateField => $countField) {
+                $summaryValueRow[$rateField] = $rateAverages[$rateField] ?? 0;
+            }
+
+            $rows[] = array_values($summaryTitleRow);
+            $rows[] = array_values($summaryValueRow);
         }
-        $file_path = $file_path . $file_base_name . '.' . $format;
 
-        if ($format === 'xlsx') {
-            $spreadsheet = new Spreadsheet();
-            $sheet = $spreadsheet->getActiveSheet();
-            $sheet->fromArray($title, null, 'A1');
-            $rowIndex = 2;
-            foreach ($rows as $row) {
-                $sheet->fromArray($row, null, 'A' . $rowIndex);
-                $rowIndex++;
-            }
-            foreach (range('A', $sheet->getHighestColumn()) as $col) {
-                $sheet->getColumnDimension($col)->setAutoSize(true);
-            }
-            $writer = new Xlsx($spreadsheet);
-            $writer->save($file_path);
-        } else {
-            $fp = fopen($file_path, 'w');
-            fwrite($fp, "\xEF\xBB\xBF");
-            fputcsv($fp, $title);
-            foreach ($rows as $row) {
-                fputcsv($fp, $row);
-            }
-            fclose($fp);
+        return [
+            'title' => $title,
+            'rows' => $rows,
+            'data' => $data,
+            'teacherUserIds' => $teacherUserIds,
+        ];
+    }
+
+    private function makeUniqueSpreadsheetSheetTitle(string $rawTitle, array &$usedSheetTitles): string
+    {
+        $title = trim($rawTitle);
+        $title = str_replace(['\\', '/', '?', '*', '[', ']', ':'], ' ', $title);
+        $title = preg_replace('/\s+/', ' ', $title);
+        $title = trim($title);
+        if ($title === '') {
+            $title = 'Sheet';
+        }
+        $title = $this->truncateSpreadsheetSheetTitle($title, 31);
+
+        $candidate = $title;
+        $suffixIndex = 2;
+        while (isset($usedSheetTitles[$candidate])) {
+            $suffix = '-' . $suffixIndex;
+            $allowedLength = 31 - $this->stringLength($suffix);
+            $candidate = $this->truncateSpreadsheetSheetTitle($title, $allowedLength) . $suffix;
+            $suffixIndex++;
         }
 
-        var_dump("导出成功，文件路径：$file_path");
-        return $file_path;
+        $usedSheetTitles[$candidate] = true;
+        return $candidate;
+    }
+
+    private function truncateSpreadsheetSheetTitle(string $title, int $maxLength): string
+    {
+        if ($maxLength <= 0) {
+            return '';
+        }
+
+        if (function_exists('mb_strlen') && function_exists('mb_substr')) {
+            if (mb_strlen($title, 'UTF-8') <= $maxLength) {
+                return $title;
+            }
+            return mb_substr($title, 0, $maxLength, 'UTF-8');
+        }
+
+        if (strlen($title) <= $maxLength) {
+            return $title;
+        }
+        return substr($title, 0, $maxLength);
+    }
+
+    private function stringLength(string $value): int
+    {
+        if (function_exists('mb_strlen')) {
+            return (int)mb_strlen($value, 'UTF-8');
+        }
+
+        return strlen($value);
     }
 
     /**
@@ -1313,6 +2834,43 @@ class StudentController extends BaseController
         }
 
         return implode('', $parts);
+    }
+
+    private function formatExportDateTime($timestamp): string
+    {
+        $timestamp = (int)$timestamp;
+        if ($timestamp <= 0) {
+            return '';
+        }
+        return date('Y-m-d H:i:s', $timestamp);
+    }
+
+    private function formatExportRate($rate): string
+    {
+        if ($rate === null) {
+            return '';
+        }
+        if (is_string($rate)) {
+            $rate = trim($rate);
+            if ($rate === '') {
+                return '';
+            }
+            if (str_ends_with($rate, '%')) {
+                $numeric = rtrim($rate, "% \t\n\r\0\x0B");
+                if (is_numeric($numeric)) {
+                    return number_format((float)$numeric, 2, '.', '') . '%';
+                }
+                return $rate;
+            }
+            if (is_numeric($rate)) {
+                return number_format((float)$rate, 2, '.', '');
+            }
+            return $rate;
+        }
+        if (is_numeric($rate)) {
+            return number_format((float)$rate, 2, '.', '');
+        }
+        return '';
     }
 
     private function calculateMockDurationFromParts(?SimulateExamListening $listening, ?SimulateExamReading $reading, ?SimulateExamWriting $writing): int
