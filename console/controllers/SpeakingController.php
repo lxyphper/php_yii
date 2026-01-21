@@ -239,7 +239,7 @@ class SpeakingController extends BaseController
     public function actionFixQuestion()
     {
         $local_path = dirname(__FILE__, 2);
-        $file = $local_path . '/runtime/tmp/口语进阶气泡内容_2026年1月7日.json';
+        $file = $local_path . '/runtime/tmp/口语进阶气泡内容_2026年1月19日.json';
         $question_content = file_get_contents($file);
         $content = json_decode($question_content);
         foreach ($content as $key => $value) {
@@ -342,7 +342,7 @@ class SpeakingController extends BaseController
     public function actionFixSubQuestion()
     {
         $local_path = dirname(__FILE__, 2);
-        $file = $local_path . '/runtime/tmp/part2_splited_question_2026年1月7日.json';
+        $file = $local_path . '/runtime/tmp/part2_splited_question_2026年1月19日.json';
         $question_content = file_get_contents($file);
         $content = json_decode($question_content);
         foreach ($content as $key => $value) {
@@ -360,7 +360,7 @@ class SpeakingController extends BaseController
     public function actionAddNewData()
     {
         $local_path = dirname(__FILE__, 2);
-        $filename = $local_path . '/runtime/tmp/雅思口语新题_2026年1月7日.csv';
+        $filename = $local_path . '/runtime/tmp/雅思口语新题_2026年1月19日.csv';
         $data = $this->getDataByCsv($filename);
         if (empty($data)) {
             var_dump("数据为空");

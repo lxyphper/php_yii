@@ -39,6 +39,7 @@ use OSS\Core\OssException;
 class ListeningController extends BaseController
 {
     public int $paperId = 0;
+    public string $file = '';
     public int $dryRun = 1;
     public int $batchSize = 200;
     public int $startId = 0;
@@ -56,6 +57,15 @@ class ListeningController extends BaseController
                 'batchSize',
                 'startId',
                 'endId',
+                'limit',
+                'operatorId',
+            ]);
+        }
+        if ($actionID === 'fix-question-time-from-json') {
+            $options = array_merge($options, [
+                'file',
+                'paperId',
+                'dryRun',
                 'limit',
                 'operatorId',
             ]);
@@ -4038,6 +4048,240 @@ class ListeningController extends BaseController
         ));
     }
 
+    /**
+     * 根据本地 JSON 文件提供的“分钟/秒”时间范围，修复 listening_exam_question.start_time/end_time
+     *
+     * 规则：
+     * - JSON 格式：[{paper_id, number, start, end}, ...]
+     * - start/end 为“分钟+秒”表示（如：5'05、2.48、3:12），需转换为毫秒用于匹配
+     * - start 或 end 为 null：跳过该条数据（不更新）
+     * - listening_exam_paper.content 为正文句子列表（含 start_time/end_time，毫秒）
+     * - 用 start/end 找到其落入的句子区间，更新题目为“第一句 start_time + 最后一句 end_time”
+     *
+     * 用法示例：
+     * - php yii listening/fix-question-time-from-json --dryRun=1
+     * - php yii listening/fix-question-time-from-json --paperId=161 --dryRun=0 --operatorId=123
+     * - php yii listening/fix-question-time-from-json --file=console/runtime/tmp/listening.json --dryRun=0
+     */
+    public function actionFixQuestionTimeFromJson(
+        string $file = '',
+        int $paperId = 0,
+        int $dryRun = 1,
+        int $limit = 0,
+        int $operatorId = 0
+    ): void {
+        if ($paperId === 0 && $this->paperId !== 0) {
+            $paperId = $this->paperId;
+        }
+        if ($dryRun === 1 && $this->dryRun !== 1) {
+            $dryRun = $this->dryRun;
+        }
+        if ($limit === 0 && $this->limit !== 0) {
+            $limit = $this->limit;
+        }
+        if ($operatorId === 0 && $this->operatorId !== 0) {
+            $operatorId = $this->operatorId;
+        }
+        if ($file === '' && $this->file !== '') {
+            $file = $this->file;
+        }
+
+        $dryRun = $dryRun ? 1 : 0;
+
+        if ($file === '') {
+            $consoleRoot = dirname(__FILE__, 2);
+            $file = $consoleRoot . '/runtime/tmp/listening.json';
+        }
+
+        if (!is_file($file)) {
+            throw new \RuntimeException('File not found: ' . $file);
+        }
+
+        $raw = file_get_contents($file);
+        if ($raw === false) {
+            throw new \RuntimeException('Read file failed: ' . $file);
+        }
+
+        $items = json_decode($raw, true);
+        if (!is_array($items) || json_last_error() !== JSON_ERROR_NONE) {
+            throw new \RuntimeException('JSON decode failed: ' . json_last_error_msg());
+        }
+
+        if ($paperId > 0) {
+            $items = array_values(array_filter($items, static function ($row) use ($paperId): bool {
+                return is_array($row) && (int)($row['paper_id'] ?? 0) === $paperId;
+            }));
+        }
+
+        if ($limit > 0) {
+            $items = array_slice($items, 0, $limit);
+        }
+
+        $now = time();
+        $scanned = 0;
+        $updated = 0;
+        $skippedNull = 0;
+        $skippedParse = 0;
+        $skippedNoQuestion = 0;
+        $skippedNoPaper = 0;
+        $skippedEmptyContent = 0;
+        $skippedNotFoundInContent = 0;
+
+        $paperSentencesByPaperId = [];
+        $db = Yii::$app->db;
+        $tx = $dryRun ? null : $db->beginTransaction();
+
+        try {
+            foreach ($items as $row) {
+                if (!is_array($row)) {
+                    continue;
+                }
+
+                $pid = (int)($row['paper_id'] ?? 0);
+                $number = (int)($row['number'] ?? 0);
+                if ($pid <= 0 || $number <= 0) {
+                    continue;
+                }
+
+                $scanned++;
+
+                $rawStart = $row['start'] ?? null;
+                $rawEnd = $row['end'] ?? null;
+                if ($rawStart === null || $rawEnd === null) {
+                    $skippedNull++;
+                    continue;
+                }
+
+                $startMs = $this->parseMinuteSecondToMs($rawStart);
+                $endMs = $this->parseMinuteSecondToMs($rawEnd);
+                if ($startMs === null || $endMs === null) {
+                    $skippedParse++;
+                    $this->stdout(sprintf(
+                        "PARSE_FAIL paper_id=%d number=%d start=%s end=%s\n",
+                        $pid,
+                        $number,
+                        json_encode($rawStart, JSON_UNESCAPED_UNICODE),
+                        json_encode($rawEnd, JSON_UNESCAPED_UNICODE)
+                    ));
+                    continue;
+                }
+                if ($startMs > $endMs) {
+                    [$startMs, $endMs] = [$endMs, $startMs];
+                }
+
+                $questions = ListeningExamQuestion::find()
+                    ->select(['id', 'paper_id', 'number', 'start_time', 'end_time'])
+                    ->where(['paper_id' => $pid, 'number' => $number])
+                    ->all();
+                if (empty($questions)) {
+                    $skippedNoQuestion++;
+                    $this->stdout(sprintf(
+                        "QUESTION_NOT_FOUND paper_id=%d number=%d\n",
+                        $pid,
+                        $number
+                    ));
+                    continue;
+                }
+
+                if (!array_key_exists($pid, $paperSentencesByPaperId)) {
+                    $paperRow = ListeningExamPaper::find()
+                        ->select(['id', 'content'])
+                        ->where(['id' => $pid])
+                        ->asArray()
+                        ->one();
+                    if (empty($paperRow)) {
+                        $paperSentencesByPaperId[$pid] = null;
+                    } else {
+                        $paperSentencesByPaperId[$pid] = $this->buildPaperSentencesByTime($paperRow['content'] ?? null);
+                    }
+                }
+
+                $sentences = $paperSentencesByPaperId[$pid] ?? null;
+                if ($sentences === null) {
+                    $skippedNoPaper++;
+                    $this->stdout(sprintf("PAPER_NOT_FOUND paper_id=%d\n", $pid));
+                    continue;
+                }
+                if (empty($sentences)) {
+                    $skippedEmptyContent++;
+                    $this->stdout(sprintf("PAPER_CONTENT_EMPTY paper_id=%d\n", $pid));
+                    continue;
+                }
+
+                $range = $this->computeTimeRangeByMsRange($sentences, $startMs, $endMs);
+                if ($range === null) {
+                    $skippedNotFoundInContent++;
+                    $this->stdout(sprintf(
+                        "CONTENT_NOT_FOUND paper_id=%d number=%d json_ms=[%d,%d]\n",
+                        $pid,
+                        $number,
+                        $startMs,
+                        $endMs
+                    ));
+                    continue;
+                }
+
+                $newStart = $range['start'];
+                $newEnd = $range['end'];
+
+                foreach ($questions as $question) {
+                    $currStart = (int)$question->start_time;
+                    $currEnd = (int)$question->end_time;
+                    if ($currStart === $newStart && $currEnd === $newEnd) {
+                        continue;
+                    }
+
+                    if ($dryRun) {
+                        $this->stdout(sprintf(
+                            "WOULD_UPDATE qid=%d paper_id=%d number=%d curr=[%d,%d] json_ms=[%d,%d] hit_order=[%d,%d] new=[%d,%d]\n",
+                            (int)$question->id,
+                            $pid,
+                            $number,
+                            $currStart,
+                            $currEnd,
+                            $startMs,
+                            $endMs,
+                            (int)$range['startOrder'],
+                            (int)$range['endOrder'],
+                            $newStart,
+                            $newEnd
+                        ));
+                        continue;
+                    }
+
+                    $question->updateAttributes([
+                        'start_time' => $newStart,
+                        'end_time' => $newEnd,
+                        'update_time' => $now,
+                    ]);
+                    $updated++;
+                }
+            }
+
+            if ($tx !== null) {
+                $tx->commit();
+            }
+        } catch (\Throwable $e) {
+            if ($tx !== null) {
+                $tx->rollBack();
+            }
+            throw $e;
+        }
+
+        $this->stdout(sprintf(
+            "Done. scanned=%d updated=%d dryRun=%d skipped_null=%d skipped_parse=%d skipped_no_question=%d skipped_no_paper=%d skipped_empty_content=%d skipped_not_found_in_content=%d\n",
+            $scanned,
+            $updated,
+            $dryRun ? 1 : 0,
+            $skippedNull,
+            $skippedParse,
+            $skippedNoQuestion,
+            $skippedNoPaper,
+            $skippedEmptyContent,
+            $skippedNotFoundInContent
+        ));
+    }
+
     private function indexOptionsByBizId(array $bizIds, int $bizType): array
     {
         $bizIds = array_values(array_unique(array_filter($bizIds, static function ($id): bool {
@@ -4096,6 +4340,31 @@ class ListeningController extends BaseController
         }
 
         return null;
+    }
+
+    private function parseMinuteSecondToMs($value): ?int
+    {
+        if ($value === null) {
+            return null;
+        }
+
+        if (is_int($value)) {
+            return $value;
+        }
+
+        $s = trim((string)$value);
+        if ($s === '') {
+            return null;
+        }
+
+        if (!preg_match('/^(\d+)\s*(?:\'|:|\.)\s*(\d{1,2})$/', $s, $m)) {
+            return null;
+        }
+
+        $minutes = (int)$m[1];
+        $seconds = (int)$m[2];
+
+        return (($minutes * 60) + $seconds) * 1000;
     }
 
     /**
@@ -4161,6 +4430,149 @@ class ListeningController extends BaseController
         }
 
         return [$minOrder, $maxOrder];
+    }
+
+    /**
+     * @param mixed $paperContent listening_exam_paper.content
+     * @return array<int, array{order:int,start:int,end:int}>
+     */
+    private function buildPaperSentencesByTime($paperContent): array
+    {
+        $content = $this->decodeJsonArray($paperContent);
+        if (empty($content) || !is_array($content)) {
+            return [];
+        }
+
+        $sentences = [];
+        foreach ($content as $item) {
+            if ($item instanceof \stdClass) {
+                $item = (array)$item;
+            }
+            if (!is_array($item)) {
+                continue;
+            }
+
+            if (!isset($item['start_time'], $item['end_time'])) {
+                continue;
+            }
+
+            $order = isset($item['order']) ? (int)$item['order'] : 0;
+            $start = (int)$item['start_time'];
+            $end = (int)$item['end_time'];
+            if ($start <= 0 || $end <= 0) {
+                continue;
+            }
+            if ($start > $end) {
+                [$start, $end] = [$end, $start];
+            }
+
+            $sentences[] = [
+                'order' => $order,
+                'start' => $start,
+                'end' => $end,
+            ];
+        }
+
+        usort($sentences, static function (array $a, array $b): int {
+            if ($a['start'] !== $b['start']) {
+                return $a['start'] <=> $b['start'];
+            }
+            if ($a['end'] !== $b['end']) {
+                return $a['end'] <=> $b['end'];
+            }
+            return $a['order'] <=> $b['order'];
+        });
+
+        return $sentences;
+    }
+
+    /**
+     * @param array<int, array{order:int,start:int,end:int}> $sentences
+     */
+    private function findSentenceIndexByTime(array $sentences, int $t, string $side): ?int
+    {
+        $picked = null;
+        foreach ($sentences as $i => $s) {
+            if ($t < $s['start'] || $t > $s['end']) {
+                continue;
+            }
+
+            if ($picked === null) {
+                $picked = $i;
+                continue;
+            }
+
+            $curr = $sentences[$picked];
+            if ($side === 'start') {
+                if ($s['start'] > $curr['start'] || ($s['start'] === $curr['start'] && $s['order'] > $curr['order'])) {
+                    $picked = $i;
+                }
+            } else {
+                if ($s['end'] < $curr['end'] || ($s['end'] === $curr['end'] && $s['order'] < $curr['order'])) {
+                    $picked = $i;
+                }
+            }
+        }
+
+        if ($picked !== null) {
+            return $picked;
+        }
+
+        $count = count($sentences);
+        if ($count === 0) {
+            return null;
+        }
+
+        if ($side === 'start') {
+            foreach ($sentences as $i => $s) {
+                if ($t <= $s['start']) {
+                    return $i;
+                }
+            }
+            return null;
+        }
+
+        for ($i = $count - 1; $i >= 0; $i--) {
+            if ($t >= $sentences[$i]['end']) {
+                return $i;
+            }
+        }
+
+        return $picked;
+    }
+
+    /**
+     * @param array<int, array{order:int,start:int,end:int}> $sentences
+     * @return array{start:int,end:int,startOrder:int,endOrder:int}|null
+     */
+    private function computeTimeRangeByMsRange(array $sentences, int $startMs, int $endMs): ?array
+    {
+        if ($startMs > $endMs) {
+            [$startMs, $endMs] = [$endMs, $startMs];
+        }
+
+        $startIndex = $this->findSentenceIndexByTime($sentences, $startMs, 'start');
+        $endIndex = $this->findSentenceIndexByTime($sentences, $endMs, 'end');
+        if ($startIndex === null || $endIndex === null) {
+            return null;
+        }
+
+        if ($startIndex > $endIndex) {
+            [$startIndex, $endIndex] = [$endIndex, $startIndex];
+        }
+
+        $start = (int)$sentences[$startIndex]['start'];
+        $end = (int)$sentences[$endIndex]['end'];
+        if ($start > $end) {
+            [$start, $end] = [$end, $start];
+        }
+
+        return [
+            'start' => $start,
+            'end' => $end,
+            'startOrder' => (int)$sentences[$startIndex]['order'],
+            'endOrder' => (int)$sentences[$endIndex]['order'],
+        ];
     }
 
     /**

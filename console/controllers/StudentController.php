@@ -62,14 +62,25 @@
  * 
  * -----------------------------------------------------------------------------------------
  * 8. actionHomeworkTaskReport - 导出指定班级作业完成情况明细
- *    命令: php yii student/homework-task-report "{class_ids}" {task_file} {format} {split_sheet}
+ *    命令: php yii student/homework-task-report "{class_ids}" {task_file} {format} {split_sheet} {only_mock}
  *    参数:
  *      - class_ids (string): 逗号或空格分隔的班级ID
  *      - task_file (string): 作业任务 JSON 文件路径（可选，默认 console/runtime/tmp/作业任务.json）
  *      - format (string): 导出格式，可选 csv 或 xlsx，默认 csv
  *      - split_sheet (int): 仅 xlsx 生效，1 表示每班级一个 sheet，默认 0
+ *      - only_mock (int): 1 仅导出口语模考数据，默认 0
  *    用途: 读取作业任务 JSON，根据 type/ids 查询班级学生完成情况（含时长、得分/正确率等）
  *    示例: php yii student/homework-task-report "502,503" console/runtime/tmp/作业任务.json xlsx 1
+ *
+ * -----------------------------------------------------------------------------------------
+ * 9. actionMockSpeakingReport - 仅导出口语模考数据（快捷命令）
+ *    命令: php yii student/mock-speaking-report "{class_ids}" {format} {split_sheet}
+ *    参数:
+ *      - class_ids (string): 逗号或空格分隔的班级ID
+ *      - format (string): 导出格式，可选 csv 或 xlsx，默认 csv
+ *      - split_sheet (int): 仅 xlsx 生效，1 表示每班级一个 sheet，默认 0
+ *    用途: 导出每个学生最后一次口语模考记录（status=6），并写入5个得分字段与时长
+ *    示例: php yii student/mock-speaking-report "473,474" xlsx 1
  * 
  * =====================================================================================
  * 辅助方法（非命令行脚本）:
@@ -138,12 +149,22 @@ use PhpOffice\PhpSpreadsheet\Writer\Csv;
 class StudentController extends BaseController
 {
     /**
+     * 仅导出口语模考数据（快捷命令）
+     * exemple:
+     * php yii student/mock-speaking-report "462" xlsx 1
+     */
+    public function actionMockSpeakingReport(string $class_ids, string $format = 'csv', int $split_sheet = 0): string
+    {
+        return $this->actionHomeworkTaskReport($class_ids, '', $format, $split_sheet, 1);
+    }
+
+    /**
      * 导出指定班级（支持多个）作业完成情况明细
      * exemple:
      * php yii student/homework-task-report "473" console/runtime/tmp/作业任务.json csv
      * php yii student/homework-task-report "462" console/runtime/tmp/大数据3班口语作业数据汇总.json xlsx 1
      */
-    public function actionHomeworkTaskReport(string $class_ids, string $task_file = '', string $format = 'csv', int $split_sheet = 0): string
+    public function actionHomeworkTaskReport(string $class_ids, string $task_file = '', string $format = 'csv', int $split_sheet = 0, int $only_mock = 0): string
     {
         // PhpSpreadsheet / 大量数据导出时默认 128M 很容易 OOM；尽量提高到一个更合理的上限
         //（如果 php.ini 禁止修改，这里不会生效，但也不会影响运行）
@@ -167,16 +188,21 @@ class StudentController extends BaseController
             $beforeTime = null;
         }
 
-        $taskFilePath = $this->resolveHomeworkTaskFilePath($task_file);
-        if (!is_file($taskFilePath)) {
-            var_dump("作业任务文件不存在：$taskFilePath");
-            return '';
-        }
+        $onlyMock = ($only_mock === 1);
 
-        $taskItems = $this->loadHomeworkTaskItems($taskFilePath);
-        if (empty($taskItems)) {
-            var_dump("作业任务为空或解析失败：$taskFilePath");
-            return '';
+        $taskItems = [];
+        if (!$onlyMock) {
+            $taskFilePath = $this->resolveHomeworkTaskFilePath($task_file);
+            if (!is_file($taskFilePath)) {
+                var_dump("作业任务文件不存在：$taskFilePath");
+                return '';
+            }
+
+            $taskItems = $this->loadHomeworkTaskItems($taskFilePath);
+            if (empty($taskItems)) {
+                var_dump("作业任务为空或解析失败：$taskFilePath");
+                return '';
+            }
         }
 
         $classInfoRows = (new Query())
@@ -241,7 +267,7 @@ class StudentController extends BaseController
                     $sheet->setTitle($sheetTitle);
 
                     $sheet->fromArray($title, null, 'A1');
-                    $this->fillHomeworkTaskReportSheet($sheet, $classId, $taskItems, $beforeTime);
+                    $this->fillHomeworkTaskReportSheet($sheet, $classId, $taskItems, $beforeTime, $onlyMock);
                     foreach (range('A', $sheet->getHighestColumn()) as $col) {
                         $sheet->getColumnDimension($col)->setAutoSize(true);
                     }
@@ -251,7 +277,7 @@ class StudentController extends BaseController
                 $sheet = $spreadsheet->getActiveSheet();
                 $sheet->setTitle($this->makeUniqueSpreadsheetSheetTitle('汇总', $usedSheetTitles));
                 $sheet->fromArray($title, null, 'A1');
-                $this->fillHomeworkTaskReportSheet($sheet, $classIds, $taskItems, $beforeTime);
+                $this->fillHomeworkTaskReportSheet($sheet, $classIds, $taskItems, $beforeTime, $onlyMock);
                 foreach (range('A', $sheet->getHighestColumn()) as $col) {
                     $sheet->getColumnDimension($col)->setAutoSize(true);
                 }
@@ -265,7 +291,7 @@ class StudentController extends BaseController
             $fp = fopen($file_path, 'w');
             fwrite($fp, "\xEF\xBB\xBF");
             fputcsv($fp, $title);
-            $this->writeHomeworkTaskReportCsvRows($fp, $classIds, $taskItems, $beforeTime);
+            $this->writeHomeworkTaskReportCsvRows($fp, $classIds, $taskItems, $beforeTime, $onlyMock);
             fclose($fp);
         }
 
@@ -276,17 +302,17 @@ class StudentController extends BaseController
         return $file_path;
     }
 
-    private function writeHomeworkTaskReportCsvRows($fp, array $classIds, array $taskItems, ?int $beforeTime): void
+    private function writeHomeworkTaskReportCsvRows($fp, array $classIds, array $taskItems, ?int $beforeTime, bool $onlyMock): void
     {
         foreach ($classIds as $classId) {
-            $this->writeHomeworkTaskReportCsvRowsForClass($fp, (int)$classId, $taskItems, $beforeTime);
+            $this->writeHomeworkTaskReportCsvRowsForClass($fp, (int)$classId, $taskItems, $beforeTime, $onlyMock);
             if (function_exists('gc_collect_cycles')) {
                 gc_collect_cycles();
             }
         }
     }
 
-    private function writeHomeworkTaskReportCsvRowsForClass($fp, int $classId, array $taskItems, ?int $beforeTime): void
+    private function writeHomeworkTaskReportCsvRowsForClass($fp, int $classId, array $taskItems, ?int $beforeTime, bool $onlyMock): void
     {
         $students = $this->getStudentsByClassId($classId);
         if (empty($students)) {
@@ -294,139 +320,14 @@ class StudentController extends BaseController
         }
         $studentIds = array_keys($students);
 
-        $recordsByKey = $this->loadHomeworkRecordsForStudents($taskItems, $studentIds, $beforeTime);
-
-        $bigEssayScoreByRecordId = [];
-        $smallEssayScoreByRecordId = [];
-        $bigEssayRecordIds = [];
-        $smallEssayRecordIds = [];
-        foreach ($recordsByKey as $key => $recordRow) {
-            if (!is_array($recordRow) || !isset($recordRow['id'])) {
-                continue;
-            }
-            if (strpos($key, '大作文:') === 0) {
-                $bigEssayRecordIds[] = (int)$recordRow['id'];
-            } elseif (strpos($key, '小作文:') === 0) {
-                $smallEssayRecordIds[] = (int)$recordRow['id'];
-            }
-        }
-        $bigEssayRecordIds = array_values(array_unique(array_filter($bigEssayRecordIds, static fn($id) => $id > 0)));
-        $smallEssayRecordIds = array_values(array_unique(array_filter($smallEssayRecordIds, static fn($id) => $id > 0)));
-        if (!empty($bigEssayRecordIds)) {
-            $bigEssayScoreByRecordId = $this->loadWritingScoringScoresByBizIds($bigEssayRecordIds, 1, $beforeTime);
-        }
-        if (!empty($smallEssayRecordIds)) {
-            $smallEssayScoreByRecordId = $this->loadWritingScoringScoresByBizIds($smallEssayRecordIds, 2, $beforeTime);
-        }
-
         $mockSpeakingByStudentId = $this->loadLatestMockSpeakingByStudentIds($studentIds, $beforeTime);
 
-        foreach ($students as $studentId => $student) {
-            foreach ($taskItems as $item) {
-                $targetIds = $item['target_ids'] ?? [];
-                if (!is_array($targetIds) || empty($targetIds)) {
-                    continue;
-                }
-                foreach ($targetIds as $targetId) {
-                    $targetId = (int)$targetId;
-                    if ($targetId <= 0) {
-                        continue;
-                    }
-                    $key = $this->buildHomeworkRecordKey($item['sub_type'], $studentId, $targetId);
-                    $record = $recordsByKey[$key] ?? null;
-
-                    $metrics = $this->normalizeHomeworkRecord($item['sub_type'], $record);
-                    $score = $metrics['score'] ?? '';
-                    if ($item['sub_type'] === '大作文' || $item['sub_type'] === '小作文') {
-                        $recordId = (int)($metrics['record_id'] ?? 0);
-                        if ($recordId > 0) {
-                            if ($item['sub_type'] === '大作文' && isset($bigEssayScoreByRecordId[$recordId])) {
-                                $score = $bigEssayScoreByRecordId[$recordId];
-                            } elseif ($item['sub_type'] === '小作文' && isset($smallEssayScoreByRecordId[$recordId])) {
-                                $score = $smallEssayScoreByRecordId[$recordId];
-                            }
-                        }
-                    }
-                    $rate = $this->formatExportRate($metrics['rate'] ?? '');
-                    if ($rate !== '') {
-                        $score = '';
-                    }
-
-                    fputcsv($fp, [
-                        $student['student_name'],
-                        $student['account'],
-                        $student['mobile'],
-                        $item['sub_type'],
-                        $item['task_name'],
-                        $targetId,
-                        $this->formatExportDateTime($metrics['finished_time'] ?? null),
-                        $metrics['duration_seconds'] ?: 0,
-                        $this->formatExportDuration($metrics['duration_seconds'] ?: 0),
-                        $score,
-                        $rate,
-                        '',
-                        '',
-                        '',
-                        '',
-                        '',
-                        $metrics['record_id'] ?? '',
-                    ]);
-                }
-            }
-
-            $mock = $mockSpeakingByStudentId[$studentId] ?? null;
-            $mockFinishedTime = $mock['finished_time'] ?? null;
-            $mockDurationSeconds = $mock['duration_seconds'] ?? null;
-            $mockDurationSecondsExport = ($mockDurationSeconds !== null && (int)$mockDurationSeconds > 0) ? (int)$mockDurationSeconds : '';
-            $mockDurationText = ($mockDurationSeconds !== null && (int)$mockDurationSeconds > 0) ? $this->formatExportDuration((int)$mockDurationSeconds) : '';
-
-            fputcsv($fp, [
-                $student['student_name'],
-                $student['account'],
-                $student['mobile'],
-                '口语模考',
-                '口语模考',
-                '',
-                $this->formatExportDateTime($mockFinishedTime),
-                $mockDurationSecondsExport,
-                $mockDurationText,
-                '',
-                '',
-                $mock['total'] ?? '',
-                $mock['fluency'] ?? '',
-                $mock['vocabulary'] ?? '',
-                $mock['grammar'] ?? '',
-                $mock['pronunciation'] ?? '',
-                $mock['record_id'] ?? '',
-            ]);
-        }
-
-        unset($students, $studentIds, $recordsByKey, $bigEssayScoreByRecordId, $smallEssayScoreByRecordId, $bigEssayRecordIds, $smallEssayRecordIds, $mockSpeakingByStudentId);
-    }
-
-    /**
-     * @param int|int[] $classIdOrIds
-     */
-    private function fillHomeworkTaskReportSheet($sheet, $classIdOrIds, array $taskItems, ?int $beforeTime): void
-    {
-        $classIds = is_array($classIdOrIds) ? $classIdOrIds : [$classIdOrIds];
-
-        $rowIndex = 2;
-        $mergeCols = range(1, 5); // A-E: 学生/任务信息
-        $prevKey = null;
-        $groupStartRow = $rowIndex;
-
-        foreach ($classIds as $classId) {
-            $students = $this->getStudentsByClassId((int)$classId);
-            if (empty($students)) {
-                continue;
-            }
-            $studentIds = array_keys($students);
-
+        $recordsByKey = [];
+        $bigEssayScoreByRecordId = [];
+        $smallEssayScoreByRecordId = [];
+        if (!$onlyMock) {
             $recordsByKey = $this->loadHomeworkRecordsForStudents($taskItems, $studentIds, $beforeTime);
 
-            $bigEssayScoreByRecordId = [];
-            $smallEssayScoreByRecordId = [];
             $bigEssayRecordIds = [];
             $smallEssayRecordIds = [];
             foreach ($recordsByKey as $key => $recordRow) {
@@ -447,10 +348,10 @@ class StudentController extends BaseController
             if (!empty($smallEssayRecordIds)) {
                 $smallEssayScoreByRecordId = $this->loadWritingScoringScoresByBizIds($smallEssayRecordIds, 2, $beforeTime);
             }
+        }
 
-            $mockSpeakingByStudentId = $this->loadLatestMockSpeakingByStudentIds($studentIds, $beforeTime);
-
-            foreach ($students as $studentId => $student) {
+        foreach ($students as $studentId => $student) {
+            if (!$onlyMock) {
                 foreach ($taskItems as $item) {
                     $targetIds = $item['target_ids'] ?? [];
                     if (!is_array($targetIds) || empty($targetIds)) {
@@ -481,7 +382,7 @@ class StudentController extends BaseController
                             $score = '';
                         }
 
-                        $row = [
+                        fputcsv($fp, [
                             $student['student_name'],
                             $student['account'],
                             $student['mobile'],
@@ -499,30 +400,165 @@ class StudentController extends BaseController
                             '',
                             '',
                             $metrics['record_id'] ?? '',
-                        ];
+                        ]);
+                    }
+                }
+            }
 
-                        $sheet->fromArray([$row], null, 'A' . $rowIndex);
+            $mock = $mockSpeakingByStudentId[$studentId] ?? null;
+            $mockFinishedTime = $mock['finished_time'] ?? null;
+            $mockDurationSeconds = $mock['duration_seconds'] ?? null;
+            $mockDurationSecondsExport = ($mockDurationSeconds !== null && (int)$mockDurationSeconds > 0) ? (int)$mockDurationSeconds : '';
+            $mockDurationText = ($mockDurationSeconds !== null && (int)$mockDurationSeconds > 0) ? $this->formatExportDuration((int)$mockDurationSeconds) : '';
 
-                        $keyParts = array_slice($row, 0, 5);
-                        $currentKey = implode("\t", array_map(static function ($v) {
-                            return (string)$v;
-                        }, $keyParts));
+            fputcsv($fp, [
+                $student['student_name'],
+                $student['account'],
+                $student['mobile'],
+                '口语模考',
+                '口语模考',
+                '',
+                $this->formatExportDateTime($mockFinishedTime),
+                $mockDurationSecondsExport,
+                $mockDurationText,
+                '',
+                '',
+                $mock['total'] ?? '',
+                $mock['fluency'] ?? '',
+                $mock['vocabulary'] ?? '',
+                $mock['grammar'] ?? '',
+                $mock['pronunciation'] ?? '',
+                $mock['record_id'] ?? '',
+            ]);
+        }
 
-                        if ($prevKey === null) {
-                            $prevKey = $currentKey;
-                            $groupStartRow = $rowIndex;
-                        } elseif ($currentKey !== $prevKey) {
-                            $groupEndRow = $rowIndex - 1;
-                            if ($groupEndRow > $groupStartRow) {
-                                foreach ($mergeCols as $col) {
-                                    $sheet->mergeCellsByColumnAndRow($col, $groupStartRow, $col, $groupEndRow);
+        unset($students, $studentIds, $mockSpeakingByStudentId, $recordsByKey, $bigEssayScoreByRecordId, $smallEssayScoreByRecordId);
+    }
+
+    /**
+     * @param int|int[] $classIdOrIds
+     */
+    private function fillHomeworkTaskReportSheet($sheet, $classIdOrIds, array $taskItems, ?int $beforeTime, bool $onlyMock): void
+    {
+        $classIds = is_array($classIdOrIds) ? $classIdOrIds : [$classIdOrIds];
+
+        $rowIndex = 2;
+        $mergeCols = range(1, 5); // A-E: 学生/任务信息
+        $prevKey = null;
+        $groupStartRow = $rowIndex;
+
+        foreach ($classIds as $classId) {
+            $students = $this->getStudentsByClassId((int)$classId);
+            if (empty($students)) {
+                continue;
+            }
+            $studentIds = array_keys($students);
+
+            $bigEssayScoreByRecordId = [];
+            $smallEssayScoreByRecordId = [];
+            $recordsByKey = [];
+            if (!$onlyMock) {
+                $recordsByKey = $this->loadHomeworkRecordsForStudents($taskItems, $studentIds, $beforeTime);
+
+                $bigEssayRecordIds = [];
+                $smallEssayRecordIds = [];
+                foreach ($recordsByKey as $key => $recordRow) {
+                    if (!is_array($recordRow) || !isset($recordRow['id'])) {
+                        continue;
+                    }
+                    if (strpos($key, '大作文:') === 0) {
+                        $bigEssayRecordIds[] = (int)$recordRow['id'];
+                    } elseif (strpos($key, '小作文:') === 0) {
+                        $smallEssayRecordIds[] = (int)$recordRow['id'];
+                    }
+                }
+                $bigEssayRecordIds = array_values(array_unique(array_filter($bigEssayRecordIds, static fn($id) => $id > 0)));
+                $smallEssayRecordIds = array_values(array_unique(array_filter($smallEssayRecordIds, static fn($id) => $id > 0)));
+                if (!empty($bigEssayRecordIds)) {
+                    $bigEssayScoreByRecordId = $this->loadWritingScoringScoresByBizIds($bigEssayRecordIds, 1, $beforeTime);
+                }
+                if (!empty($smallEssayRecordIds)) {
+                    $smallEssayScoreByRecordId = $this->loadWritingScoringScoresByBizIds($smallEssayRecordIds, 2, $beforeTime);
+                }
+            }
+
+            $mockSpeakingByStudentId = $this->loadLatestMockSpeakingByStudentIds($studentIds, $beforeTime);
+
+            foreach ($students as $studentId => $student) {
+                if (!$onlyMock) {
+                    foreach ($taskItems as $item) {
+                        $targetIds = $item['target_ids'] ?? [];
+                        if (!is_array($targetIds) || empty($targetIds)) {
+                            continue;
+                        }
+                        foreach ($targetIds as $targetId) {
+                            $targetId = (int)$targetId;
+                            if ($targetId <= 0) {
+                                continue;
+                            }
+                            $key = $this->buildHomeworkRecordKey($item['sub_type'], $studentId, $targetId);
+                            $record = $recordsByKey[$key] ?? null;
+
+                            $metrics = $this->normalizeHomeworkRecord($item['sub_type'], $record);
+                            $score = $metrics['score'] ?? '';
+                            if ($item['sub_type'] === '大作文' || $item['sub_type'] === '小作文') {
+                                $recordId = (int)($metrics['record_id'] ?? 0);
+                                if ($recordId > 0) {
+                                    if ($item['sub_type'] === '大作文' && isset($bigEssayScoreByRecordId[$recordId])) {
+                                        $score = $bigEssayScoreByRecordId[$recordId];
+                                    } elseif ($item['sub_type'] === '小作文' && isset($smallEssayScoreByRecordId[$recordId])) {
+                                        $score = $smallEssayScoreByRecordId[$recordId];
+                                    }
                                 }
                             }
-                            $prevKey = $currentKey;
-                            $groupStartRow = $rowIndex;
-                        }
+                            $rate = $this->formatExportRate($metrics['rate'] ?? '');
+                            if ($rate !== '') {
+                                $score = '';
+                            }
 
-                        $rowIndex++;
+                            $row = [
+                                $student['student_name'],
+                                $student['account'],
+                                $student['mobile'],
+                                $item['sub_type'],
+                                $item['task_name'],
+                                $targetId,
+                                $this->formatExportDateTime($metrics['finished_time'] ?? null),
+                                $metrics['duration_seconds'] ?: 0,
+                                $this->formatExportDuration($metrics['duration_seconds'] ?: 0),
+                                $score,
+                                $rate,
+                                '',
+                                '',
+                                '',
+                                '',
+                                '',
+                                $metrics['record_id'] ?? '',
+                            ];
+
+                            $sheet->fromArray([$row], null, 'A' . $rowIndex);
+
+                            $keyParts = array_slice($row, 0, 5);
+                            $currentKey = implode("\t", array_map(static function ($v) {
+                                return (string)$v;
+                            }, $keyParts));
+
+                            if ($prevKey === null) {
+                                $prevKey = $currentKey;
+                                $groupStartRow = $rowIndex;
+                            } elseif ($currentKey !== $prevKey) {
+                                $groupEndRow = $rowIndex - 1;
+                                if ($groupEndRow > $groupStartRow) {
+                                    foreach ($mergeCols as $col) {
+                                        $sheet->mergeCellsByColumnAndRow($col, $groupStartRow, $col, $groupEndRow);
+                                    }
+                                }
+                                $prevKey = $currentKey;
+                                $groupStartRow = $rowIndex;
+                            }
+
+                            $rowIndex++;
+                        }
                     }
                 }
 
@@ -1505,7 +1541,6 @@ class StudentController extends BaseController
                 'student_name' => 'ecs.student_name',
                 'account' => 's.account',
                 'mobile' => 's.mobile',
-                'real_name' => 's.name',
             ])
             ->where(['ecs.class_id' => $classId])
             ->all();
@@ -1516,10 +1551,7 @@ class StudentController extends BaseController
             if ($studentId <= 0) {
                 continue;
             }
-            $name = trim((string)($row['real_name'] ?? ''));
-            if ($name === '') {
-                $name = trim((string)($row['student_name'] ?? ''));
-            }
+            $name = trim((string)($row['student_name'] ?? ''));
             $result[$studentId] = [
                 'student_id' => $studentId,
                 'student_name' => $name,
