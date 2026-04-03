@@ -11,6 +11,8 @@ use app\models\VocabularyQuizOption;
 use app\models\VocabularyUnitRelation;
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\GuzzleException;
+use PhpOffice\PhpSpreadsheet\Spreadsheet;
+use PhpOffice\PhpSpreadsheet\Writer\Xlsx;
 use yii\console\Controller;
 use yii\console\ExitCode;
 use yii\db\Expression;
@@ -31,6 +33,8 @@ class WordsController extends BaseController
      * - sync-english-units-to-chinese [dryRun]：按照提供的中文列表批量更新英文单元名称
      * - compare-chinese-unit-translations [outputFile]：对比中英文单元翻译并输出差异
      * - export-quiz-type2-mismatch [outputFile]：导出拼写题(quiz_type=2) 的分段不匹配数据
+     * - check-quiz-type2-question-correctness [minBookId outputFile]：检测 quiz_type=2 的 quiz_question 拼接结果是否与单词名一致
+     * - fix-quiz-type2-question-correctness [inputFile dryRun]：按词名修复 quiz_type=2 的 quiz_question/quiz_answer
      * - export-quiz-type1-options [minBookId outputFile]：导出看词示意题(quiz_type=1) 的选项数据
      * - export-missing-quiz-words [minBookId outputFile]：导出题型 1/2 题目不足两个的单词名称
      * - fix-quiz-type2-segments [inputFile]：根据 JSON 修复数据库中拼写题的分段
@@ -76,6 +80,7 @@ class WordsController extends BaseController
      * - export-unbolded-meanings-in-examples [minBookId outputFile]：导出例句翻译中含有未加粗释义的数据
      * - fix-unbolded-meanings-in-examples [minBookId dryRun]：自动修复例句翻译中未加粗的释义
      * - fix-vocabulary-translations-from-json [inputFile dryRun]：根据 JSON 修复 vocabulary.translation
+     * - export-books-and-words [minBookId outputFile]：导出指定 id 及以上的词书和单词（词书名称、单词名称、汉语意思）
      */
     private const UNIPUS_ENDPOINT = 'https://open.unipus.cn/openapi/dict/v1/keyword';
     private const UNIPUS_LAN_ID = 1;
@@ -455,6 +460,296 @@ class WordsController extends BaseController
 
         echo sprintf("检测完成，共发现 %d 条不一致的数据，已输出到 %s\n", count($mismatches), $outputPath);
         return ExitCode::OK;
+    }
+
+    /**
+     * 检测 quiz_type=2 的 quiz_question / quiz_answer 是否符合词名规则
+     *
+     * 规则：
+     * - 非词组：quiz_question、quiz_answer 拼接后都应与单词一致
+     * - 词组：quiz_question 拼接后去空格比较，quiz_answer 拼接后保留空格比较
+     *
+     * 用法: php yii words/check-quiz-type2-question-correctness [minBookId] [outputFile]
+     */
+    public function actionCheckQuizType2QuestionCorrectness(int $minBookId = 195, string $outputFile = ''): int
+    {
+        $outputPath = $outputFile !== ''
+            ? Yii::getAlias($outputFile)
+            : Yii::getAlias('@console/runtime/tmp/quiz_type2_question_mismatch.json');
+
+        $query = VocabularyQuiz::find()
+            ->alias('quiz')
+            ->select([
+                'quiz_id' => 'quiz.id',
+                'quiz.vocabulary_id',
+                'quiz.quiz_question',
+                'quiz.quiz_answer',
+                'word_name' => 'v.name',
+                'book_ids' => new Expression("GROUP_CONCAT(DISTINCT vb.id ORDER BY vb.id SEPARATOR ',')"),
+                'book_names' => new Expression("GROUP_CONCAT(DISTINCT vb.name ORDER BY vb.id SEPARATOR ' | ')")
+            ])
+            ->innerJoin(['vur' => VocabularyUnitRelation::tableName()], 'vur.vocabulary_id = quiz.vocabulary_id')
+            ->innerJoin(['vb' => VocabularyBook::tableName()], 'vb.id = vur.book_id')
+            ->leftJoin(['v' => Vocabulary::tableName()], 'v.id = quiz.vocabulary_id')
+            ->where(['quiz.quiz_type' => 2])
+            ->andWhere(['>=', 'vb.id', $minBookId])
+            ->groupBy([
+                'quiz.id',
+                'quiz.vocabulary_id',
+                'quiz.quiz_question',
+                'quiz.quiz_answer',
+                'v.name',
+            ])
+            ->asArray();
+
+        $total = 0;
+        $matched = 0;
+        $mismatches = [];
+
+        foreach ($query->batch(500) as $rows) {
+            foreach ($rows as $row) {
+                $total++;
+
+                $wordName = (string)($row['word_name'] ?? '');
+                $isPhrase = count($this->splitWordParts($wordName)) > 1;
+                [$joinedQuestion, $segments, $parseError] = $this->buildQuizQuestionString($row['quiz_question'] ?? '');
+                $joinedAnswer = $this->joinQuizAnswer($row['quiz_answer'] ?? '');
+
+                $expectedQuestion = $this->normalizeWordWithoutSpaces($wordName);
+                $actualQuestion = $this->normalizeWordWithoutSpaces($joinedQuestion);
+                $questionMatches = $parseError === null && $expectedQuestion !== '' && $expectedQuestion === $actualQuestion;
+
+                if ($isPhrase) {
+                    $answerMatches = trim($joinedAnswer) === $wordName;
+                } else {
+                    $answerMatches = $this->normalizeWordWithoutSpaces($joinedAnswer) === $expectedQuestion;
+                }
+
+                if ($questionMatches && $answerMatches) {
+                    $matched++;
+                    continue;
+                }
+
+                $bookIds = array_values(array_filter(array_map('intval', explode(',', (string)($row['book_ids'] ?? '')))));
+                $bookNames = array_values(array_filter(explode(' | ', (string)($row['book_names'] ?? ''))));
+
+                $mismatches[] = [
+                    'quiz_id' => (int)($row['quiz_id'] ?? 0),
+                    'vocabulary_id' => (int)($row['vocabulary_id'] ?? 0),
+                    'book_ids' => $bookIds,
+                    'book_names' => $bookNames,
+                    'word_name' => $wordName,
+                    'is_phrase' => $isPhrase,
+                    'joined_question' => $joinedQuestion,
+                    'joined_answer' => $joinedAnswer,
+                    'segments' => $segments,
+                    'quiz_question_raw' => $row['quiz_question'],
+                    'quiz_answer_raw' => $row['quiz_answer'],
+                    'question_matches' => $questionMatches,
+                    'answer_matches' => $answerMatches,
+                    'parse_error' => $parseError,
+                ];
+            }
+        }
+
+        FileHelper::createDirectory(dirname($outputPath));
+        $encoded = Json::encode($mismatches, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
+        if ($encoded === false || file_put_contents($outputPath, $encoded) === false) {
+            $this->stderr("写入结果文件失败: {$outputPath}\n");
+            return ExitCode::UNSPECIFIED_ERROR;
+        }
+
+        $this->stdout(sprintf(
+            "检测完成：共 %d 条题目，正确 %d 条，错误 %d 条。错误结果已导出到 %s\n",
+            $total,
+            $matched,
+            count($mismatches),
+            $outputPath
+        ));
+
+        return ExitCode::OK;
+    }
+
+    /**
+     * 按词名修复 quiz_type=2 的 quiz_question / quiz_answer
+     *
+     * 规则：
+     * - 非词组：quiz_question 与 quiz_answer 都修复为不带空格的分段
+     * - 词组：quiz_question 保持不带空格，quiz_answer 按词名补回空格
+     *
+     * 用法: php yii words/fix-quiz-type2-question-correctness [inputFile] [dryRun]
+     */
+    public function actionFixQuizType2QuestionCorrectness(
+        string $inputFile = '@console/runtime/tmp/quiz_type2_question_mismatch.json',
+        int $dryRun = 1
+    ): int {
+        $filePath = Yii::getAlias($inputFile);
+        if (!is_file($filePath)) {
+            $this->stderr("未找到文件: {$filePath}\n");
+            return ExitCode::UNSPECIFIED_ERROR;
+        }
+
+        $raw = file_get_contents($filePath);
+        if ($raw === false) {
+            $this->stderr("读取文件失败: {$filePath}\n");
+            return ExitCode::UNSPECIFIED_ERROR;
+        }
+
+        $data = json_decode($raw, true);
+        if ($data === null && json_last_error() !== JSON_ERROR_NONE) {
+            $this->stderr('JSON 解析失败: ' . json_last_error_msg() . "\n");
+            return ExitCode::UNSPECIFIED_ERROR;
+        }
+
+        if (!is_array($data)) {
+            $this->stderr("JSON 内容不是数组，无法处理\n");
+            return ExitCode::UNSPECIFIED_ERROR;
+        }
+
+        $processed = 0;
+        $updated = 0;
+        $unchanged = 0;
+        $skipped = [];
+        $failed = [];
+
+        foreach ($data as $index => $row) {
+            if (!is_array($row)) {
+                $skipped[] = "row{$index}";
+                continue;
+            }
+
+            $quizId = (int)($row['quiz_id'] ?? 0);
+            $wordName = trim((string)($row['word_name'] ?? $row['word'] ?? ''));
+            if ($quizId <= 0 || $wordName === '') {
+                $skipped[] = $quizId > 0 ? (string)$quizId : "row{$index}";
+                continue;
+            }
+
+            /** @var VocabularyQuiz|null $quiz */
+            $quiz = VocabularyQuiz::findOne($quizId);
+            if ($quiz === null) {
+                $skipped[] = (string)$quizId;
+                continue;
+            }
+
+            $processed++;
+            $sourceSegments = [];
+            if (isset($row['segments']) && is_array($row['segments'])) {
+                foreach ($row['segments'] as $segment) {
+                    $segment = (string)$segment;
+                    if ($segment !== '') {
+                        $sourceSegments[] = $segment;
+                    }
+                }
+            }
+
+            if ($sourceSegments === []) {
+                $sourceSegments = $this->normalizeChunkStructure($quiz->quiz_question);
+                $sourceSegments = array_values(array_filter(array_map(static function ($segment): string {
+                    return (string)$segment;
+                }, $sourceSegments), static function (string $segment): bool {
+                    return trim($segment) !== '';
+                }));
+            }
+
+            $questionSegments = [];
+            if ($sourceSegments !== []) {
+                $questionSegments = $this->rebuildSegmentsForWord($sourceSegments, $wordName) ?? [];
+            }
+
+            if ($questionSegments === []) {
+                $wordParts = $this->splitWordParts($wordName);
+                if (count($wordParts) > 1) {
+                    $questionSegments = array_values(array_filter(array_map(static function (string $part): string {
+                        $normalized = preg_replace('/\s+/u', '', $part);
+                        return $normalized ?? '';
+                    }, $wordParts), static function (string $part): bool {
+                        return $part !== '';
+                    }));
+                } else {
+                    $normalizedWord = preg_replace('/\s+/u', '', $wordName);
+                    $normalizedWord = $normalizedWord ?? '';
+                    if ($normalizedWord !== '') {
+                        $questionSegments = [$normalizedWord];
+                    }
+                }
+            }
+
+            if ($questionSegments === []) {
+                $failed[] = "{$quizId}: 无法生成 quiz_question 分段";
+                continue;
+            }
+
+            $normalizedWord = $this->normalizeWordWithoutSpaces($wordName);
+            $normalizedQuestion = $this->normalizeWordWithoutSpaces(implode('', $questionSegments));
+            if ($normalizedWord === '' || $normalizedQuestion !== $normalizedWord) {
+                $failed[] = "{$quizId}: 分段重建后仍不匹配";
+                continue;
+            }
+
+            $isPhrase = count($this->splitWordParts($wordName)) > 1;
+            $answerSegments = $isPhrase
+                ? $this->buildSegmentsWithSpaces($questionSegments, $wordName)
+                : $questionSegments;
+
+            $questionJson = Json::encode($questionSegments, JSON_UNESCAPED_UNICODE);
+            $answerJson = Json::encode($answerSegments, JSON_UNESCAPED_UNICODE);
+            if ($questionJson === false || $answerJson === false) {
+                $failed[] = "{$quizId}: JSON 编码失败";
+                continue;
+            }
+
+            $shouldUpdate = $quiz->quiz_question !== $questionJson || $quiz->quiz_answer !== $answerJson;
+            if (!$shouldUpdate) {
+                $unchanged++;
+                continue;
+            }
+
+            if ($dryRun === 1) {
+                $updated++;
+                $this->stdout(sprintf(
+                    "[dryRun] quiz_id=%d word=%s question=%s answer=%s\n",
+                    $quizId,
+                    $wordName,
+                    $questionJson,
+                    $answerJson
+                ));
+                continue;
+            }
+
+            $quiz->quiz_question = $questionJson;
+            $quiz->quiz_answer = $answerJson;
+            $quiz->update_by = 0;
+            $quiz->update_time = time();
+
+            if (!$quiz->save(false, ['quiz_question', 'quiz_answer', 'update_by', 'update_time'])) {
+                $failed[] = "{$quizId}: 保存失败";
+                continue;
+            }
+
+            $updated++;
+            $this->stdout("已修复 quiz_id={$quizId} word={$wordName}\n");
+        }
+
+        $this->stdout(sprintf(
+            "处理完成：扫描 %d 条，%s %d 条，未变更 %d 条，跳过 %d 条，失败 %d 条\n",
+            $processed,
+            $dryRun === 1 ? '可修复' : '已修复',
+            $updated,
+            $unchanged,
+            count(array_unique($skipped)),
+            count($failed)
+        ));
+
+        if ($failed !== []) {
+            $this->stderr("失败明细:\n" . implode("\n", $failed) . "\n");
+        }
+
+        if ($skipped !== []) {
+            $this->stdout('跳过: ' . implode(', ', array_unique($skipped)) . "\n");
+        }
+
+        return $failed === [] ? ExitCode::OK : ExitCode::UNSPECIFIED_ERROR;
     }
 
     /**
@@ -9108,6 +9403,129 @@ NAMES;
             $skippedCount,
             $errorCount,
             $dryRun ? 'true' : 'false'
+        ));
+
+        return ExitCode::OK;
+    }
+
+    /**
+     * 导出指定 id 及以上的词书和单词信息（词书名称、单词名称、汉语意思）
+     * php yii words/export-books-and-words [minBookId] [outputFile] [format]
+     * format 支持 json, xlsx (默认 json)
+     */
+    public function actionExportBooksAndWords(int $minBookId = 195, string $outputFile = '', string $format = 'json'): int
+    {
+        $outputPath = $outputFile !== '' ? Yii::getAlias($outputFile) : Yii::getAlias('@console/runtime/tmp/books_and_words.json');
+        $format = strtolower($format);
+
+        // 如果 outputFile 带有扩展名，则优先根据扩展名设置格式
+        $ext = strtolower(pathinfo($outputPath, PATHINFO_EXTENSION));
+        if ($ext === 'xlsx') {
+            $format = 'xlsx';
+        } elseif ($ext === 'csv') {
+            $format = 'csv';
+        } elseif ($ext === 'json') {
+            $format = 'json';
+        }
+
+        if ($format === 'xlsx' && $ext !== 'xlsx') {
+            $outputPath = preg_replace('/\.[^.]*$/', '', $outputPath) . '.xlsx';
+        }
+        if ($format === 'csv' && $ext !== 'csv') {
+            $outputPath = preg_replace('/\.[^.]*$/', '', $outputPath) . '.csv';
+        }
+
+        // 获取指定 id 及以上的所有词书
+        $books = VocabularyBook::find()
+            ->where(['>=', 'id', $minBookId])
+            ->orderBy(['id' => SORT_ASC])
+            ->asArray()
+            ->all();
+
+        $result = [];
+        $totalWords = 0;
+
+        foreach ($books as $book) {
+// 获取该词书下的所有单词及所属单元，按照 vocabulary_unit_relation 的顺序
+            $words = (new Query())
+                ->select(['v.id', 'v.name', 'v.translation', 'GROUP_CONCAT(DISTINCT vbu.name SEPARATOR ", ") as unit_names', 'MIN(vur.order) as min_order'])
+                ->from('vocabulary v')
+                ->innerJoin('vocabulary_unit_relation vur', 'v.id = vur.vocabulary_id')
+                ->leftJoin('vocabulary_book_unit vbu', 'vur.unit_id = vbu.id')
+                ->where(['vur.book_id' => $book['id']])
+                ->groupBy(['v.id', 'v.name', 'v.translation'])
+                ->orderBy(['min_order' => SORT_ASC])
+                ->all();
+            
+            $wordsData = [];
+            foreach ($words as $word) {
+                $wordsData[] = [
+                    'name' => $word['name'],
+                    'translation' => $word['translation'] ?? '',
+                    'unit' => $word['unit_names'] ?? '',
+                ];
+                $totalWords++;
+            }
+
+            $result[] = [
+                'id' => $book['id'],
+                'name' => $book['name'],
+                'words_count' => count($wordsData),
+                'words' => $wordsData,
+            ];
+        }
+
+        // 先确保目录存在
+        FileHelper::createDirectory(dirname($outputPath));
+
+        if ($format === 'xlsx') {
+            $spreadsheet = new Spreadsheet();
+            $sheet = $spreadsheet->getActiveSheet();
+            $sheet->setTitle('词书单词清单');
+
+            // 标题行
+            $sheet->fromArray(['book_id', 'book_name', 'unit_name', 'word_name', 'translation'], null, 'A1');
+
+            $row = 2;
+            foreach ($result as $book) {
+                foreach ($book['words'] as $word) {
+                    $sheet->setCellValue('A' . $row, $book['id']);
+                    $sheet->setCellValue('B' . $row, $book['name']);
+                    $sheet->setCellValue('C' . $row, $word['unit']);
+                    $sheet->setCellValue('D' . $row, $word['name']);
+                    $sheet->setCellValue('E' . $row, $word['translation']);
+                    $row++;
+                }
+            }
+
+            foreach (range('A', 'D') as $col) {
+                $sheet->getColumnDimension($col)->setAutoSize(true);
+            }
+
+            $writer = new Xlsx($spreadsheet);
+            $writer->save($outputPath);
+            $spreadsheet->disconnectWorksheets();
+
+        } elseif ($format === 'csv') {
+            $fp = fopen($outputPath, 'w');
+            fwrite($fp, "\xEF\xBB\xBF");
+            fputcsv($fp, ['book_id', 'book_name', 'unit_name', 'word_name', 'translation']);
+            foreach ($result as $book) {
+                foreach ($book['words'] as $word) {
+                    fputcsv($fp, [$book['id'], $book['name'], $word['unit'], $word['name'], $word['translation']]);
+                }
+            }
+            fclose($fp);
+
+        } else {
+            file_put_contents($outputPath, Json::encode($result, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
+        }
+
+        $this->stdout(sprintf(
+            "成功导出 %d 个词书，共 %d 个单词。输出文件：%s\n",
+            count($result),
+            $totalWords,
+            $outputPath
         ));
 
         return ExitCode::OK;

@@ -149,6 +149,47 @@ use PhpOffice\PhpSpreadsheet\Writer\Csv;
 class StudentController extends BaseController
 {
     /**
+     * 检查学生表中缺失的账号（支持 account 或 mobile 字段，默认为 account）
+     * @param string $field 检测的字段名，默认为 'account'，可传 'mobile'
+     */
+    public function actionCheckMissingAccounts($field = 'account')
+    {
+        $filePath = dirname(__FILE__, 2) . '/runtime/tmp/accounts_to_check.txt';
+        if (!file_exists($filePath)) {
+            echo "File not found: $filePath\n";
+            return;
+        }
+
+        $content = file_get_contents($filePath);
+        $accounts = array_filter(array_map('trim', explode("\n", $content)));
+
+        $existingAccounts = \app\models\Student::find()
+            ->select($field)
+            ->where([$field => $accounts])
+            ->column();
+
+        // 获取去重后的总账号列表
+        $uniqueAccounts = array_unique($accounts);
+
+        $missingAccounts = array_diff($uniqueAccounts, $existingAccounts);
+
+        echo "Checking by field: {$field}\n";
+        echo "Total accounts in file (including duplicates): " . count($accounts) . "\n";
+        echo "Total unique accounts to check: " . count($uniqueAccounts) . "\n";
+        echo "Existing accounts: " . count(array_unique($existingAccounts)) . "\n";
+        echo "Missing accounts: " . count($missingAccounts) . "\n";
+        
+        if (!empty($missingAccounts)) {
+            echo "The following accounts are missing:\n";
+            foreach ($missingAccounts as $acc) {
+                echo $acc . "\n";
+            }
+        } else {
+            echo "All accounts exist.\n";
+        }
+    }
+
+    /**
      * 仅导出口语模考数据（快捷命令）
      * exemple:
      * php yii student/mock-speaking-report "462" xlsx 1
@@ -735,31 +776,66 @@ class StudentController extends BaseController
     public function actionAddUser()
     {
         $list_164 = [
-            "刘隽熙" => "18813199066",
-            "张冉" => "18518758599",
-            "郑羽珊" => "16636088688",
-            "李凌萱" => "18031257598",
-            "于冰洁" => "15154110733",
-            "李燕姝" => "15535510633",
-            "主梓妤" => "18299803301",
-            "姚耀" => "13041221565",
-            "车昕芳" => "17333601688",
-            "杨鹏程" => "18830832232",
-            "张喆毓" => "15238647876",
-            "姚金岐" => "18010419329",
+            "scnu-20233802081" => "彭琬婷",
+            "scnu-20233801079" => "张尚峰",
+            "scnu-20233803098" => "郭煜城",
+            "scnu-20233803028" => "朱家祺",
+            "scnu-20233802042" => "胡仪嘉",
+            "scnu-20233802049" => "李圆",
+            "scnu-20233801045" => "张雅婷",
+            "scnu-20233802035" => "陈睿阳",
+            "scnu-20233802067" => "刘官德",
+            "scnu-20233801001" => "吴昊霖",
+            "scnu-20223803088" => "林熠",
+            "scnu-20233801007" => "宋泰宁",
+            "scnu-20233803065" => "陈德鑫",
+            "scnu-20233801016" => "吴俊杰",
+            "scnu-20233801010" => "王小石",
+            "scnu-20233802001" => "戴冠洲",
+            "scnu-20253802061" => "马宝琳",
+            "scnu-20253801044" => "代欣然",
+            "scnu-20253803061" => "张至正",
+            "scnu-20253803011" => "陈可盈",
+            "scnu-20253803083" => "谭嘉仪",
+            "scnu-20253802008" => "詹智健",
+            "scnu-20253802086" => "黄涵",
+            "scnu-20253802022" => "朱宇曦",
+            "scnu-20253801048" => "郭婧媛",
+            "scnu-20253802079" => "潘灏成",
+            "scnu-20253803046" => "徐琨钦",
+            "scnu-20253801041" => "魏宣羽",
+            "scnu-20253801067" => "叶乐橙",
+            "scnu-20253803081" => "郑傅韬",
+            "scnu-20253803077" => "彭成",
+            "scnu-20253803034" => "何苒溪",
+            "scnu-20253803075" => "肖劲成",
+            "scnu-20253801059" => "伍梓淏",
+            "scnu-20253801058" => "万昕玥",
+            "scnu-20253801022" => "骆康睿",
+            "scnu-20253803078" => "林泳桐",
+            "scnu-20253801046" => "汤欣悦",
+            "scnu-20253803056" => "蒋雨涵",
+            "scnu-20253802043" => "邱睿轩",
+            "scnu-20253802031" => "刘梓清",
+            "scnu-20253801024" => "贾语墨",
+            "scnu-20253803018" => "舒玺悦",
+            "scnu-20253801085" => "盛源鸿",
+            "scnu-20253801034" => "岳泰恒",
+            "scnu-20253803089" => "杨承轩",
+            "scnu-20253803020" => "张梓健",
         ];
 
         foreach ($list_164 as $name => $phone) {
-            $data = Student::find()->where(['mobile' => $phone])->one();
+            $data = Student::find()->where(['account' => $name])->one();
             if (!empty($data)) {
                 $relation = new EduClassStudent();
-                $relation->class_id = 166;
+                $relation->class_id = 885;
                 $relation->student_id = $data->id;
-                $relation->student_name = $name;
+                $relation->student_name = $phone;
                 $relation->insert();
-                var_dump("$name 添加成功");
+                var_dump("$phone 添加成功");
             } else {
-                var_dump("$phone 不存在");
+                var_dump("$name 不存在");
             }
         }
     }
@@ -836,7 +912,9 @@ class StudentController extends BaseController
             "阅读真题练习时长",
             "阅读真题练习平均正确率",
             "大作文写作次数",
+            "大作文平均得分",
             "小作文写作次数",
+            "小作文平均得分",
             "大作文范文次数",
             "大作文练习次数",
             "口语机经练习次数",
@@ -1061,7 +1139,7 @@ class StudentController extends BaseController
         }
 
         //查询大作文写作记录
-        $big_essay_record = WritingBigEssayRecord::find()->where(['student_id' => $student_ids, 'status' => 2])->andWhere(['>=', 'update_time', $start_time])->andWhere(['<=', 'update_time', $end_time])->all();
+        $big_essay_record = WritingBigEssayRecord::find()->where(['student_id' => $student_ids])->andWhere(['status' => [2, 3]])->andWhere(['>=', 'update_time', $start_time])->andWhere(['<=', 'update_time', $end_time])->all();
         if (!empty($big_essay_record)) {
             foreach ($big_essay_record as $record) {
                 foreach ($student_list as $student) {
@@ -1074,7 +1152,7 @@ class StudentController extends BaseController
         }
 
         //查询小作文写作记录
-        $small_essay_record = WritingEssayRecord::find()->where(['student_id' => $student_ids, 'status' => 2])->andWhere(['>=', 'update_time', $start_time])->andWhere(['<=', 'update_time', $end_time])->all();
+        $small_essay_record = WritingEssayRecord::find()->where(['student_id' => $student_ids])->andWhere(['status' => [2, 3]])->andWhere(['>=', 'update_time', $start_time])->andWhere(['<=', 'update_time', $end_time])->all();
         if (!empty($small_essay_record)) {
             foreach ($small_essay_record as $record) {
                 foreach ($student_list as $student) {
@@ -1389,6 +1467,7 @@ class StudentController extends BaseController
 
         $spreadsheet = new Spreadsheet();
         $usedSheetTitles = [];
+        $classSummaries = [];
         $sheetIndex = 0;
 
         foreach ($classIds as $classId) {
@@ -1417,7 +1496,226 @@ class StudentController extends BaseController
                 $sheet->getColumnDimension($col)->setAutoSize(true);
             }
 
+            if (!empty($exportResult['classSummary'])) {
+                $summary = $exportResult['classSummary'];
+                $summary['className'] = $classInfo ? $classInfo->name : ('班级' . $classId);
+                $classSummaries[] = $summary;
+            }
+
             $sheetIndex++;
+        }
+
+        // 汇总 sheet
+        if (!empty($classSummaries)) {
+            $summarySheet = $spreadsheet->createSheet($sheetIndex);
+            $summarySheetTitle = $this->makeUniqueSpreadsheetSheetTitle('汇总', $usedSheetTitles);
+            $summarySheet->setTitle($summarySheetTitle);
+
+            $summaryHeader = [
+                '班名', '班级人数', '练习人数', '使用率',
+                '练过的人的平均练习时长(秒)', '练习总次数', '练习总时长(秒)',
+                '听力专项提升练习次数', '听力专项时长总计(秒)', '听力专项平均正确率',
+                '阅读专项次数总数', '阅读专项时长总计(秒)', '阅读专项平均正确率',
+                '写作专项次数总数', '写作专项时长总计(秒)', '写作专项平均正确率',
+                '听力真题次数总数', '听力真题时长总计(秒)', '听力真题平均正确率',
+                '阅读真题次数总数', '阅读真题时长总计(秒)', '阅读真题平均正确率',
+                '大作文写作次数总数', '大作文平均得分',
+                '小作文写作次数总数', '小作文平均得分',
+                '大作文范文次数总数', '大作文练习次数总数',
+                '口语机经练习次数总数', '口语机经练习时长总计(秒)',
+                '口语进阶练习次数总数', '口语进阶练习时长总计(秒)',
+                '模考次数总数', '模考时长总计(秒)',
+            ];
+            $summarySheet->fromArray($summaryHeader, null, 'A1');
+
+            $countFieldOrder = [
+                'listening_special_improve_num',
+                'reading_special_improve_num',
+                'writing_special_improve_num',
+                'listening_real_num',
+                'reading_real_num',
+                'big_essay_num',
+                'small_essay_num',
+                'big_essay_model_num',
+                'big_essay_exam_num',
+                'oral_num',
+                'oral_advanced_num',
+                'mock_num',
+            ];
+            $timeFieldOrder = [
+                'listening_special_improve_time',
+                'reading_special_improve_time',
+                'writing_special_improve_time',
+                'listening_real_time',
+                'reading_real_time',
+                'oral_time',
+                'oral_advanced_time',
+                'mock_time',
+            ];
+            $rateFieldOrder = [
+                'listening_special_improve_rate',
+                'reading_special_improve_rate',
+                'writing_special_improve_rate',
+                'listening_real_rate',
+                'reading_real_rate',
+            ];
+
+            $grandTotalStudents = 0;
+            $grandPracticed = 0;
+            $grandPracticeNum = 0;
+            $grandPracticeTime = 0;
+            $grandCountSums = array_fill_keys($countFieldOrder, 0);
+            $grandTimeSums = array_fill_keys($timeFieldOrder, 0);
+            $grandRateSums = [];
+            $grandRateCounts = [];
+            $grandBigEssayScores = [];
+            $grandSmallEssayScores = [];
+
+            $summaryRowIndex = 2;
+            foreach ($classSummaries as $s) {
+                $grandTotalStudents += $s['totalStudentCount'];
+                $grandPracticed += $s['practicedStudentCount'];
+                $grandPracticeNum += $s['totalPracticeNum'];
+                $grandPracticeTime += $s['totalPracticeTime'];
+                foreach ($countFieldOrder as $k) {
+                    $grandCountSums[$k] += ($s['countSums'][$k] ?? 0);
+                }
+                foreach ($timeFieldOrder as $k) {
+                    $grandTimeSums[$k] += ($s['timeSums'][$k] ?? 0);
+                }
+                foreach ($rateFieldOrder as $k) {
+                    $v = $s['rateAverages'][$k] ?? 0;
+                    if ($v > 0) {
+                        $grandRateSums[$k] = ($grandRateSums[$k] ?? 0) + $v;
+                        $grandRateCounts[$k] = ($grandRateCounts[$k] ?? 0) + 1;
+                    }
+                }
+                if ($s['bigEssayScoreAvg'] > 0) {
+                    $grandBigEssayScores[] = $s['bigEssayScoreAvg'];
+                }
+                if ($s['smallEssayScoreAvg'] > 0) {
+                    $grandSmallEssayScores[] = $s['smallEssayScoreAvg'];
+                }
+
+                $usageRateStr = $s['totalStudentCount'] > 0 ? round($s['usageRate'] * 100) . '%' : '';
+                $rowData = [
+                    $s['className'],
+                    $s['totalStudentCount'],
+                    $s['practicedStudentCount'],
+                    $usageRateStr,
+                    (int)round($s['avgPracticeDuration']),
+                    $s['totalPracticeNum'],
+                    (int)round($s['totalPracticeTime']),
+                ];
+                // 听力专项
+                $rowData[] = $s['countSums']['listening_special_improve_num'] ?? 0;
+                $rowData[] = (int)round($s['timeSums']['listening_special_improve_time'] ?? 0);
+                $rowData[] = ($s['rateAverages']['listening_special_improve_rate'] ?? 0) > 0 ? round(($s['rateAverages']['listening_special_improve_rate']) * 100) . '%' : '';
+                // 阅读专项
+                $rowData[] = $s['countSums']['reading_special_improve_num'] ?? 0;
+                $rowData[] = (int)round($s['timeSums']['reading_special_improve_time'] ?? 0);
+                $rowData[] = ($s['rateAverages']['reading_special_improve_rate'] ?? 0) > 0 ? round(($s['rateAverages']['reading_special_improve_rate']) * 100) . '%' : '';
+                // 写作专项
+                $rowData[] = $s['countSums']['writing_special_improve_num'] ?? 0;
+                $rowData[] = (int)round($s['timeSums']['writing_special_improve_time'] ?? 0);
+                $rowData[] = ($s['rateAverages']['writing_special_improve_rate'] ?? 0) > 0 ? round(($s['rateAverages']['writing_special_improve_rate']) * 100) . '%' : '';
+                // 听力真题
+                $rowData[] = $s['countSums']['listening_real_num'] ?? 0;
+                $rowData[] = (int)round($s['timeSums']['listening_real_time'] ?? 0);
+                $rowData[] = ($s['rateAverages']['listening_real_rate'] ?? 0) > 0 ? round(($s['rateAverages']['listening_real_rate']) * 100) . '%' : '';
+                // 阅读真题
+                $rowData[] = $s['countSums']['reading_real_num'] ?? 0;
+                $rowData[] = (int)round($s['timeSums']['reading_real_time'] ?? 0);
+                $rowData[] = ($s['rateAverages']['reading_real_rate'] ?? 0) > 0 ? round(($s['rateAverages']['reading_real_rate']) * 100) . '%' : '';
+                // 大作文
+                $rowData[] = $s['countSums']['big_essay_num'] ?? 0;
+                $rowData[] = $s['bigEssayScoreAvg'] > 0 ? $s['bigEssayScoreAvg'] : '';
+                // 小作文
+                $rowData[] = $s['countSums']['small_essay_num'] ?? 0;
+                $rowData[] = $s['smallEssayScoreAvg'] > 0 ? $s['smallEssayScoreAvg'] : '';
+                // 大作文范文 + 练习
+                $rowData[] = $s['countSums']['big_essay_model_num'] ?? 0;
+                $rowData[] = $s['countSums']['big_essay_exam_num'] ?? 0;
+                // 口语机经
+                $rowData[] = $s['countSums']['oral_num'] ?? 0;
+                $rowData[] = (int)round($s['timeSums']['oral_time'] ?? 0);
+                // 口语进阶
+                $rowData[] = $s['countSums']['oral_advanced_num'] ?? 0;
+                $rowData[] = (int)round($s['timeSums']['oral_advanced_time'] ?? 0);
+                // 模考
+                $rowData[] = $s['countSums']['mock_num'] ?? 0;
+                $rowData[] = (int)round($s['timeSums']['mock_time'] ?? 0);
+
+                $summarySheet->fromArray($rowData, null, 'A' . $summaryRowIndex);
+                $summaryRowIndex++;
+            }
+
+            // 合计 row
+            $grandAvgDuration = $grandPracticed > 0 ? (int)round($grandPracticeTime / $grandPracticed) : 0;
+            $grandUsageRate = $grandTotalStudents > 0 ? round($grandPracticed / $grandTotalStudents * 100) . '%' : '';
+            $grandRow = [
+                '合计',
+                $grandTotalStudents,
+                $grandPracticed,
+                $grandUsageRate,
+                $grandAvgDuration,
+                $grandPracticeNum,
+                (int)round($grandPracticeTime),
+            ];
+            // 听力专项
+            $grandRow[] = $grandCountSums['listening_special_improve_num'];
+            $grandRow[] = (int)round($grandTimeSums['listening_special_improve_time']);
+            $r = $grandRateSums['listening_special_improve_rate'] ?? 0;
+            $c = $grandRateCounts['listening_special_improve_rate'] ?? 0;
+            $grandRow[] = $c > 0 ? round($r / $c * 100) . '%' : '';
+            // 阅读专项
+            $grandRow[] = $grandCountSums['reading_special_improve_num'];
+            $grandRow[] = (int)round($grandTimeSums['reading_special_improve_time']);
+            $r = $grandRateSums['reading_special_improve_rate'] ?? 0;
+            $c = $grandRateCounts['reading_special_improve_rate'] ?? 0;
+            $grandRow[] = $c > 0 ? round($r / $c * 100) . '%' : '';
+            // 写作专项
+            $grandRow[] = $grandCountSums['writing_special_improve_num'];
+            $grandRow[] = (int)round($grandTimeSums['writing_special_improve_time']);
+            $r = $grandRateSums['writing_special_improve_rate'] ?? 0;
+            $c = $grandRateCounts['writing_special_improve_rate'] ?? 0;
+            $grandRow[] = $c > 0 ? round($r / $c * 100) . '%' : '';
+            // 听力真题
+            $grandRow[] = $grandCountSums['listening_real_num'];
+            $grandRow[] = (int)round($grandTimeSums['listening_real_time']);
+            $r = $grandRateSums['listening_real_rate'] ?? 0;
+            $c = $grandRateCounts['listening_real_rate'] ?? 0;
+            $grandRow[] = $c > 0 ? round($r / $c * 100) . '%' : '';
+            // 阅读真题
+            $grandRow[] = $grandCountSums['reading_real_num'];
+            $grandRow[] = (int)round($grandTimeSums['reading_real_time']);
+            $r = $grandRateSums['reading_real_rate'] ?? 0;
+            $c = $grandRateCounts['reading_real_rate'] ?? 0;
+            $grandRow[] = $c > 0 ? round($r / $c * 100) . '%' : '';
+            // 大作文
+            $grandRow[] = $grandCountSums['big_essay_num'];
+            $grandRow[] = !empty($grandBigEssayScores) ? round(array_sum($grandBigEssayScores) / count($grandBigEssayScores), 2) : '';
+            // 小作文
+            $grandRow[] = $grandCountSums['small_essay_num'];
+            $grandRow[] = !empty($grandSmallEssayScores) ? round(array_sum($grandSmallEssayScores) / count($grandSmallEssayScores), 2) : '';
+            // 大作文范文 + 练习
+            $grandRow[] = $grandCountSums['big_essay_model_num'];
+            $grandRow[] = $grandCountSums['big_essay_exam_num'];
+            // 口语机经
+            $grandRow[] = $grandCountSums['oral_num'];
+            $grandRow[] = (int)round($grandTimeSums['oral_time']);
+            // 口语进阶
+            $grandRow[] = $grandCountSums['oral_advanced_num'];
+            $grandRow[] = (int)round($grandTimeSums['oral_advanced_time']);
+            // 模考
+            $grandRow[] = $grandCountSums['mock_num'];
+            $grandRow[] = (int)round($grandTimeSums['mock_time']);
+
+            $summarySheet->fromArray($grandRow, null, 'A' . $summaryRowIndex);
+
+            foreach (range('A', $summarySheet->getHighestColumn()) as $col) {
+                $summarySheet->getColumnDimension($col)->setAutoSize(true);
+            }
         }
 
         $writer = new Xlsx($spreadsheet);
@@ -2280,7 +2578,9 @@ class StudentController extends BaseController
             "阅读真题练习时长",
             "阅读真题练习平均正确率",
             "大作文写作次数",
+            "大作文平均得分",
             "小作文写作次数",
+            "小作文平均得分",
             "大作文范文次数",
             "大作文练习次数",
             "口语机经练习次数",
@@ -2358,6 +2658,8 @@ class StudentController extends BaseController
         $listening_special = [];
         $listening_real = [];
         $reading_real = [];
+        $bigEssayScorePoolByStudent = [];
+        $smallEssayScorePoolByStudent = [];
 
         $collection_record = ExamCollectionRecord::find()
             ->where(['student_id' => $userIds, 'status' => 2])
@@ -2477,10 +2779,22 @@ class StudentController extends BaseController
         }
 
         $big_essay_record = WritingBigEssayRecord::find()
-            ->where(['student_id' => $userIds, 'status' => 2])
+            ->where(['student_id' => $userIds])
+            ->andWhere(['status' => [2, 3]])
             ->andWhere(['>=', 'update_time', $start_time])
             ->andWhere(['<=', 'update_time', $end_time])
             ->all();
+        $bigEssayScoreByRecordId = [];
+        if (!empty($big_essay_record)) {
+            $bigEssayRecordIds = array_values(array_unique(array_filter(array_map(static function ($record) {
+                return (int)($record->id ?? 0);
+            }, $big_essay_record), static function ($id) {
+                return $id > 0;
+            })));
+            if (!empty($bigEssayRecordIds)) {
+                $bigEssayScoreByRecordId = $this->loadWritingScoringScoresByBizIds($bigEssayRecordIds, 1, $end_time);
+            }
+        }
         if (!empty($big_essay_record)) {
             foreach ($big_essay_record as $record) {
                 if (!isset($data[$record->student_id])) {
@@ -2488,14 +2802,39 @@ class StudentController extends BaseController
                 }
                 $data[$record->student_id]['big_essay_num']++;
                 $data[$record->student_id]['total_num']++;
+                $score = $bigEssayScoreByRecordId[(int)$record->id] ?? null;
+                if ($score === null && isset($record->score_file)) {
+                    $score = $this->extractNumericScoreFromJsonString((string)$record->score_file);
+                }
+                if ($score !== null) {
+                    $bigEssayScorePoolByStudent[$record->student_id][] = $score;
+                }
             }
+        }
+        foreach ($bigEssayScorePoolByStudent as $studentId => $scores) {
+            if (!isset($data[$studentId]) || empty($scores)) {
+                continue;
+            }
+            $data[$studentId]['big_essay_score'] = round(array_sum($scores) / count($scores), 2);
         }
 
         $small_essay_record = WritingEssayRecord::find()
-            ->where(['student_id' => $userIds, 'status' => 2])
+            ->where(['student_id' => $userIds])
+            ->andWhere(['status' => [2, 3]])
             ->andWhere(['>=', 'update_time', $start_time])
             ->andWhere(['<=', 'update_time', $end_time])
             ->all();
+        $smallEssayScoreByRecordId = [];
+        if (!empty($small_essay_record)) {
+            $smallEssayRecordIds = array_values(array_unique(array_filter(array_map(static function ($record) {
+                return (int)($record->id ?? 0);
+            }, $small_essay_record), static function ($id) {
+                return $id > 0;
+            })));
+            if (!empty($smallEssayRecordIds)) {
+                $smallEssayScoreByRecordId = $this->loadWritingScoringScoresByBizIds($smallEssayRecordIds, 2, $end_time);
+            }
+        }
         if (!empty($small_essay_record)) {
             foreach ($small_essay_record as $record) {
                 if (!isset($data[$record->student_id])) {
@@ -2503,7 +2842,20 @@ class StudentController extends BaseController
                 }
                 $data[$record->student_id]['small_essay_num']++;
                 $data[$record->student_id]['total_num']++;
+                $score = $smallEssayScoreByRecordId[(int)$record->id] ?? null;
+                if ($score === null && isset($record->score_file)) {
+                    $score = $this->extractNumericScoreFromJsonString((string)$record->score_file);
+                }
+                if ($score !== null) {
+                    $smallEssayScorePoolByStudent[$record->student_id][] = $score;
+                }
             }
+        }
+        foreach ($smallEssayScorePoolByStudent as $studentId => $scores) {
+            if (!isset($data[$studentId]) || empty($scores)) {
+                continue;
+            }
+            $data[$studentId]['small_essay_score'] = round(array_sum($scores) / count($scores), 2);
         }
 
         $big_essay_model_record = WritingBigEssaySampleText::find()
@@ -2609,6 +2961,7 @@ class StudentController extends BaseController
         if ($appendSummaryRows) {
             $totalPracticeNum = 0;
             $totalPracticeTime = 0;
+            $totalStudentCount = 0;
             $practicedStudentCount = 0;
             $overallRatePool = [];
 
@@ -2643,6 +2996,22 @@ class StudentController extends BaseController
                 'listening_real_rate' => 'listening_real_num',
                 'reading_real_rate' => 'reading_real_num',
             ];
+            $scoreAverages = [
+                'big_essay_score' => [],
+                'small_essay_score' => [],
+            ];
+            foreach ($bigEssayScorePoolByStudent as $userId => $scores) {
+                if (in_array($userId, $teacherUserIds, true) || empty($scores)) {
+                    continue;
+                }
+                $scoreAverages['big_essay_score'][] = round(array_sum($scores) / count($scores), 2);
+            }
+            foreach ($smallEssayScorePoolByStudent as $userId => $scores) {
+                if (in_array($userId, $teacherUserIds, true) || empty($scores)) {
+                    continue;
+                }
+                $scoreAverages['small_essay_score'][] = round(array_sum($scores) / count($scores), 2);
+            }
 
             $countSums = array_fill_keys($countFields, 0);
             $timeSums = array_fill_keys($timeFields, 0);
@@ -2653,6 +3022,7 @@ class StudentController extends BaseController
                 if (in_array($userId, $teacherUserIds, true)) {
                     continue;
                 }
+                $totalStudentCount++;
                 $totalPracticeNum += $row['total_num'];
                 $totalPracticeTime += $row['total_time'];
                 if ($row['total_num'] > 0) {
@@ -2689,6 +3059,7 @@ class StudentController extends BaseController
             $summaryTitleRow = $this->buildExportRecordRowTemplate('标题');
             $summaryTitleRow['account'] = '练习人数';
             $summaryTitleRow['mobile'] = '练过的人的平均练习时长(秒)';
+            $summaryTitleRow['is_teacher'] = '班级总人数';
             $summaryTitleRow['name'] = '练过的人的平均正确率';
             $summaryTitleRow['total_num'] = '练习总次数';
             $summaryTitleRow['total_time'] = '练习总时长(秒)';
@@ -2708,7 +3079,9 @@ class StudentController extends BaseController
             $summaryTitleRow['reading_real_time'] = '阅读真题时长总计(秒)';
             $summaryTitleRow['reading_real_rate'] = '阅读真题平均正确率';
             $summaryTitleRow['big_essay_num'] = '大作文写作次数总数';
+            $summaryTitleRow['big_essay_score'] = '大作文平均得分';
             $summaryTitleRow['small_essay_num'] = '小作文写作次数总数';
+            $summaryTitleRow['small_essay_score'] = '小作文平均得分';
             $summaryTitleRow['big_essay_model_num'] = '大作文范文次数总数';
             $summaryTitleRow['big_essay_exam_num'] = '大作文练习次数总数';
             $summaryTitleRow['oral_num'] = '口语机经练习次数总数';
@@ -2722,6 +3095,7 @@ class StudentController extends BaseController
             $summaryValueRow['name'] = $overallAvgAccuracy;
             $summaryValueRow['account'] = $practicedStudentCount;
             $summaryValueRow['mobile'] = $avgPracticeDuration;
+            $summaryValueRow['is_teacher'] = $totalStudentCount;
             $summaryValueRow['total_num'] = $totalPracticeNum;
             $summaryValueRow['total_time'] = $totalPracticeTime;
             foreach ($countFields as $field) {
@@ -2733,6 +3107,12 @@ class StudentController extends BaseController
             foreach ($rateFields as $rateField => $countField) {
                 $summaryValueRow[$rateField] = $rateAverages[$rateField] ?? 0;
             }
+            $summaryValueRow['big_essay_score'] = !empty($scoreAverages['big_essay_score'])
+                ? round(array_sum($scoreAverages['big_essay_score']) / count($scoreAverages['big_essay_score']), 2)
+                : 0;
+            $summaryValueRow['small_essay_score'] = !empty($scoreAverages['small_essay_score'])
+                ? round(array_sum($scoreAverages['small_essay_score']) / count($scoreAverages['small_essay_score']), 2)
+                : 0;
 
             $rows[] = array_values($summaryTitleRow);
             $rows[] = array_values($summaryValueRow);
@@ -2743,6 +3123,23 @@ class StudentController extends BaseController
             'rows' => $rows,
             'data' => $data,
             'teacherUserIds' => $teacherUserIds,
+            'classSummary' => $appendSummaryRows ? [
+                'totalStudentCount' => $totalStudentCount,
+                'practicedStudentCount' => $practicedStudentCount,
+                'usageRate' => $totalStudentCount > 0 ? round($practicedStudentCount / $totalStudentCount, 4) : 0,
+                'avgPracticeDuration' => $avgPracticeDuration,
+                'totalPracticeNum' => $totalPracticeNum,
+                'totalPracticeTime' => $totalPracticeTime,
+                'countSums' => $countSums,
+                'timeSums' => $timeSums,
+                'rateAverages' => $rateAverages,
+                'bigEssayScoreAvg' => !empty($scoreAverages['big_essay_score'])
+                    ? round(array_sum($scoreAverages['big_essay_score']) / count($scoreAverages['big_essay_score']), 2)
+                    : 0,
+                'smallEssayScoreAvg' => !empty($scoreAverages['small_essay_score'])
+                    ? round(array_sum($scoreAverages['small_essay_score']) / count($scoreAverages['small_essay_score']), 2)
+                    : 0,
+            ] : null,
         ];
     }
 
@@ -2961,7 +3358,9 @@ class StudentController extends BaseController
             "reading_real_time" => 0,
             "reading_real_rate" => 0,
             "big_essay_num" => 0,
+            "big_essay_score" => 0,
             "small_essay_num" => 0,
+            "small_essay_score" => 0,
             "big_essay_model_num" => 0,
             "big_essay_exam_num" => 0,
             "oral_num" => 0,

@@ -11,6 +11,7 @@
 from __future__ import annotations
 
 import argparse
+import json
 import os
 import re
 import time
@@ -51,7 +52,9 @@ EXPORT_TITLE: List[str] = [
     "阅读真题练习时长",
     "阅读真题练习平均正确率",
     "大作文写作次数",
+    "大作文平均得分",
     "小作文写作次数",
+    "小作文平均得分",
     "大作文范文次数",
     "大作文练习次数",
     "口语机经练习次数",
@@ -85,7 +88,9 @@ FIELDS: List[str] = [
     "reading_real_time",
     "reading_real_rate",
     "big_essay_num",
+    "big_essay_score",
     "small_essay_num",
+    "small_essay_score",
     "big_essay_model_num",
     "big_essay_exam_num",
     "oral_num",
@@ -147,7 +152,9 @@ def build_row_template(name: str = "", account: str = "", mobile: str = "") -> D
         "reading_real_time": 0,
         "reading_real_rate": 0,
         "big_essay_num": 0,
+        "big_essay_score": 0,
         "small_essay_num": 0,
+        "small_essay_score": 0,
         "big_essay_model_num": 0,
         "big_essay_exam_num": 0,
         "oral_num": 0,
@@ -165,6 +172,110 @@ def to_row_values(row: Dict[str, Any]) -> List[Any]:
 
 def sql_in_placeholders(values: Sequence[Any]) -> str:
     return ",".join(["%s"] * len(values))
+
+
+def collect_numeric_values(value: Any, numbers: List[float]) -> None:
+    if isinstance(value, dict):
+        for item in value.values():
+            collect_numeric_values(item, numbers)
+        return
+    if isinstance(value, list):
+        for item in value:
+            collect_numeric_values(item, numbers)
+        return
+    if isinstance(value, (int, float)):
+        numbers.append(float(value))
+
+
+def extract_numeric_score_from_json_string(raw: Any) -> Optional[float]:
+    if not isinstance(raw, str):
+        return None
+    raw = raw.strip()
+    if not raw:
+        return None
+    try:
+        decoded = json.loads(raw)
+    except Exception:
+        return None
+    if not isinstance(decoded, (dict, list)):
+        return None
+
+    if isinstance(decoded, dict):
+        for key in [
+            "overall",
+            "overall_score",
+            "overallScore",
+            "total",
+            "total_score",
+            "totalScore",
+            "final_score",
+            "finalScore",
+            "score",
+            "band",
+            "result",
+        ]:
+            value = decoded.get(key)
+            if isinstance(value, (int, float)):
+                return float(value)
+
+    numbers: List[float] = []
+    collect_numeric_values(decoded, numbers)
+    if not numbers:
+        return None
+    return round(sum(numbers) / len(numbers), 4)
+
+
+def load_writing_scoring_scores_by_biz_ids(cursor, biz_ids: Sequence[int], biz_type: int, before_time: Optional[int]) -> Dict[int, float]:
+    biz_ids = [int(v) for v in biz_ids if int(v) > 0]
+    if not biz_ids:
+        return {}
+
+    placeholders = sql_in_placeholders(biz_ids)
+    sql = f"""
+        SELECT id, biz_id, overall, overall_score, total, total_score, final_score, score, band, result, content, scoring_result, score_detail, score_file
+        FROM writing_scoring_record
+        WHERE biz_type = %s
+          AND biz_id IN ({placeholders})
+    """
+    params: List[Any] = [biz_type, *biz_ids]
+    if before_time is not None:
+        sql += " AND update_time <= %s"
+        params.append(before_time)
+    sql += " ORDER BY update_time DESC, id DESC"
+
+    cursor.execute(sql, tuple(params))
+    result: Dict[int, float] = {}
+    for row in cursor.fetchall():
+        biz_id = int(row.get("biz_id") or 0)
+        if biz_id <= 0 or biz_id in result:
+            continue
+        score: Optional[float] = None
+        for key in [
+            "overall",
+            "overall_score",
+            "total",
+            "total_score",
+            "final_score",
+            "score",
+            "band",
+            "result",
+            "content",
+            "scoring_result",
+            "score_detail",
+            "score_file",
+        ]:
+            value = row.get(key)
+            if isinstance(value, (int, float)):
+                score = float(value)
+                break
+            parsed_score = extract_numeric_score_from_json_string(value)
+            if parsed_score is not None:
+                score = parsed_score
+                break
+        if score is not None:
+            result[biz_id] = score
+
+    return result
 
 
 def calculate_used_seconds_from_surplus_time(surplus_time: Optional[int], total_seconds: int) -> int:
@@ -222,11 +333,29 @@ def set_auto_width(sheet) -> None:
 
 
 @dataclass
+class ClassSummary:
+    """Per-class aggregated summary data for the 汇总 sheet."""
+    class_name: str
+    total_student_count: int
+    practiced_student_count: int
+    usage_rate: float
+    avg_practice_duration: float
+    total_practice_num: int
+    total_practice_time: int
+    count_sums: Dict[str, int]
+    time_sums: Dict[str, int]
+    rate_averages: Dict[str, float]
+    big_essay_score_avg: float
+    small_essay_score_avg: float
+
+
+@dataclass
 class ExportResult:
     title: List[str]
     rows: List[List[Any]]
     data: Dict[int, Dict[str, Any]]
     teacher_user_ids: List[int]
+    class_summary: Optional[ClassSummary] = None
 
 
 def build_export_record_rows_for_class_ids(
@@ -288,6 +417,8 @@ def build_export_record_rows_for_class_ids(
     listening_special: Dict[int, List[float]] = {}
     listening_real: Dict[int, List[float]] = {}
     reading_real: Dict[int, List[float]] = {}
+    big_essay_score_pool_by_student: Dict[int, List[float]] = {}
+    small_essay_score_pool_by_student: Dict[int, List[float]] = {}
 
     # 专项提升：exam_collection_record + exam_question_collection(type)
     try:
@@ -384,7 +515,7 @@ def build_export_record_rows_for_class_ids(
         SELECT student_id, duration, correct, total
         FROM listening_exam_record
         WHERE student_id IN ({user_placeholders})
-          AND status = 2
+          AND status IN (2, 3)
           AND update_time >= %s AND update_time <= %s
         """,
         tuple(user_ids) + (start_time, end_time),
@@ -413,7 +544,7 @@ def build_export_record_rows_for_class_ids(
         SELECT student_id, duration, correct, total
         FROM reading_exam_record
         WHERE student_id IN ({user_placeholders})
-          AND status = 2
+          AND status IN (2, 3)
           AND finished_time >= %s AND finished_time <= %s
         """,
         tuple(user_ids) + (start_time, end_time),
@@ -439,36 +570,66 @@ def build_export_record_rows_for_class_ids(
     # 大作文写作
     cursor.execute(
         f"""
-        SELECT student_id
+        SELECT id, student_id, score_file
         FROM writing_big_essay_record
         WHERE student_id IN ({user_placeholders})
-          AND status = 2
+          AND status IN (2, 3)
           AND update_time >= %s AND update_time <= %s
         """,
         tuple(user_ids) + (start_time, end_time),
     )
-    for record in cursor.fetchall():
+    big_essay_records = cursor.fetchall()
+    big_essay_score_by_record_id = load_writing_scoring_scores_by_biz_ids(
+        cursor,
+        [int(record.get("id") or 0) for record in big_essay_records],
+        1,
+        end_time,
+    )
+    for record in big_essay_records:
         sid = int(record["student_id"])
         if sid in data:
             data[sid]["big_essay_num"] += 1
             data[sid]["total_num"] += 1
+            score = big_essay_score_by_record_id.get(int(record.get("id") or 0))
+            if score is None:
+                score = extract_numeric_score_from_json_string(record.get("score_file"))
+            if score is not None:
+                big_essay_score_pool_by_student.setdefault(sid, []).append(score)
+    for sid, scores in big_essay_score_pool_by_student.items():
+        if scores and sid in data:
+            data[sid]["big_essay_score"] = round(sum(scores) / len(scores), 2)
 
     # 小作文写作
     cursor.execute(
         f"""
-        SELECT student_id
+        SELECT id, student_id, score_file
         FROM writing_essay_record
         WHERE student_id IN ({user_placeholders})
-          AND status = 2
+          AND status IN (2, 3)
           AND update_time >= %s AND update_time <= %s
         """,
         tuple(user_ids) + (start_time, end_time),
     )
-    for record in cursor.fetchall():
+    small_essay_records = cursor.fetchall()
+    small_essay_score_by_record_id = load_writing_scoring_scores_by_biz_ids(
+        cursor,
+        [int(record.get("id") or 0) for record in small_essay_records],
+        2,
+        end_time,
+    )
+    for record in small_essay_records:
         sid = int(record["student_id"])
         if sid in data:
             data[sid]["small_essay_num"] += 1
             data[sid]["total_num"] += 1
+            score = small_essay_score_by_record_id.get(int(record.get("id") or 0))
+            if score is None:
+                score = extract_numeric_score_from_json_string(record.get("score_file"))
+            if score is not None:
+                small_essay_score_pool_by_student.setdefault(sid, []).append(score)
+    for sid, scores in small_essay_score_pool_by_student.items():
+        if scores and sid in data:
+            data[sid]["small_essay_score"] = round(sum(scores) / len(scores), 2)
 
     # 大作文范文
     cursor.execute(
@@ -630,6 +791,10 @@ def build_export_record_rows_for_class_ids(
             "listening_real_rate": "listening_real_num",
             "reading_real_rate": "reading_real_num",
         }
+        score_averages = {
+            "big_essay_score": [],
+            "small_essay_score": [],
+        }
 
         count_sums = {k: 0 for k in count_fields}
         time_sums = {k: 0 for k in time_fields}
@@ -637,6 +802,7 @@ def build_export_record_rows_for_class_ids(
         rate_counts: Dict[str, int] = {}
 
         teacher_user_id_set = set(teacher_user_ids)
+        total_student_count = sum(1 for uid in data if uid not in teacher_user_id_set)
         for user_id, row in data.items():
             if user_id in teacher_user_id_set:
                 continue
@@ -653,6 +819,12 @@ def build_export_record_rows_for_class_ids(
                     rate_sums[rate_field] = rate_sums.get(rate_field, 0.0) + float(row[rate_field])
                     rate_counts[rate_field] = rate_counts.get(rate_field, 0) + 1
                     overall_rate_pool.append(float(row[rate_field]))
+        for user_id, scores in big_essay_score_pool_by_student.items():
+            if user_id not in teacher_user_id_set and scores:
+                score_averages["big_essay_score"].append(round(sum(scores) / len(scores), 2))
+        for user_id, scores in small_essay_score_pool_by_student.items():
+            if user_id not in teacher_user_id_set and scores:
+                score_averages["small_essay_score"].append(round(sum(scores) / len(scores), 2))
 
         avg_practice_duration = round(total_practice_time / practiced_student_count, 2) if practiced_student_count > 0 else 0
         overall_avg_accuracy = round(sum(overall_rate_pool) / len(overall_rate_pool), 4) if overall_rate_pool else 0
@@ -666,6 +838,7 @@ def build_export_record_rows_for_class_ids(
         summary_title_row = build_row_template("标题")
         summary_title_row["account"] = "练习人数"
         summary_title_row["mobile"] = "练过的人的平均练习时长(秒)"
+        summary_title_row["is_teacher"] = "班级总人数"
         summary_title_row["name"] = "练过的人的平均正确率"
         summary_title_row["total_num"] = "练习总次数"
         summary_title_row["total_time"] = "练习总时长(秒)"
@@ -685,7 +858,9 @@ def build_export_record_rows_for_class_ids(
         summary_title_row["reading_real_time"] = "阅读真题时长总计(秒)"
         summary_title_row["reading_real_rate"] = "阅读真题平均正确率"
         summary_title_row["big_essay_num"] = "大作文写作次数总数"
+        summary_title_row["big_essay_score"] = "大作文平均得分"
         summary_title_row["small_essay_num"] = "小作文写作次数总数"
+        summary_title_row["small_essay_score"] = "小作文平均得分"
         summary_title_row["big_essay_model_num"] = "大作文范文次数总数"
         summary_title_row["big_essay_exam_num"] = "大作文练习次数总数"
         summary_title_row["oral_num"] = "口语机经练习次数总数"
@@ -699,6 +874,7 @@ def build_export_record_rows_for_class_ids(
         summary_value_row["name"] = overall_avg_accuracy
         summary_value_row["account"] = practiced_student_count
         summary_value_row["mobile"] = avg_practice_duration
+        summary_value_row["is_teacher"] = total_student_count
         summary_value_row["total_num"] = total_practice_num
         summary_value_row["total_time"] = total_practice_time
         for field in count_fields:
@@ -707,11 +883,38 @@ def build_export_record_rows_for_class_ids(
             summary_value_row[field] = time_sums[field]
         for rate_field in rate_fields.keys():
             summary_value_row[rate_field] = rate_averages.get(rate_field, 0)
+        big_essay_score_final = (
+            round(sum(score_averages["big_essay_score"]) / len(score_averages["big_essay_score"]), 2)
+            if score_averages["big_essay_score"]
+            else 0
+        )
+        small_essay_score_final = (
+            round(sum(score_averages["small_essay_score"]) / len(score_averages["small_essay_score"]), 2)
+            if score_averages["small_essay_score"]
+            else 0
+        )
+        summary_value_row["big_essay_score"] = big_essay_score_final
+        summary_value_row["small_essay_score"] = small_essay_score_final
 
         rows.append(to_row_values(summary_title_row))
         rows.append(to_row_values(summary_value_row))
 
-    return ExportResult(title=title, rows=rows, data=data, teacher_user_ids=teacher_user_ids)
+        class_summary = ClassSummary(
+            class_name="",
+            total_student_count=total_student_count,
+            practiced_student_count=practiced_student_count,
+            usage_rate=round(practiced_student_count / total_student_count, 4) if total_student_count > 0 else 0,
+            avg_practice_duration=avg_practice_duration,
+            total_practice_num=total_practice_num,
+            total_practice_time=total_practice_time,
+            count_sums=dict(count_sums),
+            time_sums=dict(time_sums),
+            rate_averages=dict(rate_averages),
+            big_essay_score_avg=big_essay_score_final,
+            small_essay_score_avg=small_essay_score_final,
+        )
+
+    return ExportResult(title=title, rows=rows, data=data, teacher_user_ids=teacher_user_ids, class_summary=class_summary if append_summary_rows else None)
 
 
 def fetch_class_name_map(cursor, class_ids: List[int]) -> Dict[int, str]:
@@ -733,6 +936,7 @@ def export_multi_sheet(
 
     wb = Workbook()
     used_titles: Dict[str, bool] = {}
+    class_summaries: List[ClassSummary] = []
 
     conn = get_connection()
     try:
@@ -762,6 +966,211 @@ def export_multi_sheet(
                 for row in export_result.rows:
                     sheet.append(row)
                 set_auto_width(sheet)
+
+                if export_result.class_summary is not None:
+                    summary = export_result.class_summary
+                    summary.class_name = class_name
+                    class_summaries.append(summary)
+
+            # 汇总 sheet
+            if class_summaries:
+                summary_sheet = wb.create_sheet(index=len(class_ids))
+                summary_sheet.title = make_unique_sheet_title("汇总", used_titles)
+
+                summary_header = [
+                    "班名", "班级人数", "练习人数", "使用率",
+                    "练过的人的平均练习时长(秒)", "练习总次数", "练习总时长(秒)",
+                    "听力专项提升练习次数", "听力专项时长总计(秒)", "听力专项平均正确率",
+                    "阅读专项次数总数", "阅读专项时长总计(秒)", "阅读专项平均正确率",
+                    "写作专项次数总数", "写作专项时长总计(秒)", "写作专项平均正确率",
+                    "听力真题次数总数", "听力真题时长总计(秒)", "听力真题平均正确率",
+                    "阅读真题次数总数", "阅读真题时长总计(秒)", "阅读真题平均正确率",
+                    "大作文写作次数总数", "大作文平均得分",
+                    "小作文写作次数总数", "小作文平均得分",
+                    "大作文范文次数总数", "大作文练习次数总数",
+                    "口语机经练习次数总数", "口语机经练习时长总计(秒)",
+                    "口语进阶练习次数总数", "口语进阶练习时长总计(秒)",
+                    "模考次数总数", "模考时长总计(秒)",
+                ]
+                summary_sheet.append(summary_header)
+
+                count_field_order = [
+                    "listening_special_improve_num",
+                    "reading_special_improve_num",
+                    "writing_special_improve_num",
+                    "listening_real_num",
+                    "reading_real_num",
+                    "big_essay_num",
+                    "small_essay_num",
+                    "big_essay_model_num",
+                    "big_essay_exam_num",
+                    "oral_num",
+                    "oral_advanced_num",
+                    "mock_num",
+                ]
+                time_field_order = [
+                    "listening_special_improve_time",
+                    "reading_special_improve_time",
+                    "writing_special_improve_time",
+                    "listening_real_time",
+                    "reading_real_time",
+                    "oral_time",
+                    "oral_advanced_time",
+                    "mock_time",
+                ]
+                rate_field_order = [
+                    "listening_special_improve_rate",
+                    "reading_special_improve_rate",
+                    "writing_special_improve_rate",
+                    "listening_real_rate",
+                    "reading_real_rate",
+                ]
+
+                # Accumulate totals for 合计 row
+                grand_total_students = 0
+                grand_practiced = 0
+                grand_practice_num = 0
+                grand_practice_time = 0
+                grand_count_sums = {k: 0 for k in count_field_order}
+                grand_time_sums = {k: 0 for k in time_field_order}
+                grand_rate_sums: Dict[str, float] = {}
+                grand_rate_counts: Dict[str, int] = {}
+                grand_big_essay_scores: List[float] = []
+                grand_small_essay_scores: List[float] = []
+
+                for s in class_summaries:
+                    grand_total_students += s.total_student_count
+                    grand_practiced += s.practiced_student_count
+                    grand_practice_num += s.total_practice_num
+                    grand_practice_time += s.total_practice_time
+                    for k in count_field_order:
+                        grand_count_sums[k] += s.count_sums.get(k, 0)
+                    for k in time_field_order:
+                        grand_time_sums[k] += s.time_sums.get(k, 0)
+                    for k in rate_field_order:
+                        v = s.rate_averages.get(k, 0)
+                        if v > 0:
+                            grand_rate_sums[k] = grand_rate_sums.get(k, 0.0) + v
+                            grand_rate_counts[k] = grand_rate_counts.get(k, 0) + 1
+                    if s.big_essay_score_avg > 0:
+                        grand_big_essay_scores.append(s.big_essay_score_avg)
+                    if s.small_essay_score_avg > 0:
+                        grand_small_essay_scores.append(s.small_essay_score_avg)
+
+                    usage_rate_str = f"{round(s.usage_rate * 100)}%" if s.total_student_count > 0 else ""
+                    row_data = [
+                        s.class_name,
+                        s.total_student_count,
+                        s.practiced_student_count,
+                        usage_rate_str,
+                        int(round(s.avg_practice_duration)),
+                        s.total_practice_num,
+                        int(round(s.total_practice_time)),
+                    ]
+                    # 听力专项
+                    row_data.append(s.count_sums.get("listening_special_improve_num", 0))
+                    row_data.append(int(round(s.time_sums.get("listening_special_improve_time", 0))))
+                    row_data.append(f"{round(s.rate_averages.get('listening_special_improve_rate', 0) * 100)}%" if s.rate_averages.get("listening_special_improve_rate", 0) > 0 else "")
+                    # 阅读专项
+                    row_data.append(s.count_sums.get("reading_special_improve_num", 0))
+                    row_data.append(int(round(s.time_sums.get("reading_special_improve_time", 0))))
+                    row_data.append(f"{round(s.rate_averages.get('reading_special_improve_rate', 0) * 100)}%" if s.rate_averages.get("reading_special_improve_rate", 0) > 0 else "")
+                    # 写作专项
+                    row_data.append(s.count_sums.get("writing_special_improve_num", 0))
+                    row_data.append(int(round(s.time_sums.get("writing_special_improve_time", 0))))
+                    row_data.append(f"{round(s.rate_averages.get('writing_special_improve_rate', 0) * 100)}%" if s.rate_averages.get("writing_special_improve_rate", 0) > 0 else "")
+                    # 听力真题
+                    row_data.append(s.count_sums.get("listening_real_num", 0))
+                    row_data.append(int(round(s.time_sums.get("listening_real_time", 0))))
+                    row_data.append(f"{round(s.rate_averages.get('listening_real_rate', 0) * 100)}%" if s.rate_averages.get("listening_real_rate", 0) > 0 else "")
+                    # 阅读真题
+                    row_data.append(s.count_sums.get("reading_real_num", 0))
+                    row_data.append(int(round(s.time_sums.get("reading_real_time", 0))))
+                    row_data.append(f"{round(s.rate_averages.get('reading_real_rate', 0) * 100)}%" if s.rate_averages.get("reading_real_rate", 0) > 0 else "")
+                    # 大作文
+                    row_data.append(s.count_sums.get("big_essay_num", 0))
+                    row_data.append(s.big_essay_score_avg if s.big_essay_score_avg > 0 else "")
+                    # 小作文
+                    row_data.append(s.count_sums.get("small_essay_num", 0))
+                    row_data.append(s.small_essay_score_avg if s.small_essay_score_avg > 0 else "")
+                    # 大作文范文 + 练习
+                    row_data.append(s.count_sums.get("big_essay_model_num", 0))
+                    row_data.append(s.count_sums.get("big_essay_exam_num", 0))
+                    # 口语机经
+                    row_data.append(s.count_sums.get("oral_num", 0))
+                    row_data.append(int(round(s.time_sums.get("oral_time", 0))))
+                    # 口语进阶
+                    row_data.append(s.count_sums.get("oral_advanced_num", 0))
+                    row_data.append(int(round(s.time_sums.get("oral_advanced_time", 0))))
+                    # 模考
+                    row_data.append(s.count_sums.get("mock_num", 0))
+                    row_data.append(int(round(s.time_sums.get("mock_time", 0))))
+
+                    summary_sheet.append(row_data)
+
+                # 合计 row
+                grand_avg_duration = int(round(grand_practice_time / grand_practiced)) if grand_practiced > 0 else 0
+                grand_usage_rate = f"{round(grand_practiced / grand_total_students * 100)}%" if grand_total_students > 0 else ""
+                grand_row = [
+                    "合计",
+                    grand_total_students,
+                    grand_practiced,
+                    grand_usage_rate,
+                    grand_avg_duration,
+                    grand_practice_num,
+                    int(round(grand_practice_time)),
+                ]
+                # 听力专项
+                grand_row.append(grand_count_sums.get("listening_special_improve_num", 0))
+                grand_row.append(int(round(grand_time_sums.get("listening_special_improve_time", 0))))
+                r = grand_rate_sums.get("listening_special_improve_rate", 0)
+                c = grand_rate_counts.get("listening_special_improve_rate", 0)
+                grand_row.append(f"{round(r / c * 100)}%" if c > 0 else "")
+                # 阅读专项
+                grand_row.append(grand_count_sums.get("reading_special_improve_num", 0))
+                grand_row.append(int(round(grand_time_sums.get("reading_special_improve_time", 0))))
+                r = grand_rate_sums.get("reading_special_improve_rate", 0)
+                c = grand_rate_counts.get("reading_special_improve_rate", 0)
+                grand_row.append(f"{round(r / c * 100)}%" if c > 0 else "")
+                # 写作专项
+                grand_row.append(grand_count_sums.get("writing_special_improve_num", 0))
+                grand_row.append(int(round(grand_time_sums.get("writing_special_improve_time", 0))))
+                r = grand_rate_sums.get("writing_special_improve_rate", 0)
+                c = grand_rate_counts.get("writing_special_improve_rate", 0)
+                grand_row.append(f"{round(r / c * 100)}%" if c > 0 else "")
+                # 听力真题
+                grand_row.append(grand_count_sums.get("listening_real_num", 0))
+                grand_row.append(int(round(grand_time_sums.get("listening_real_time", 0))))
+                r = grand_rate_sums.get("listening_real_rate", 0)
+                c = grand_rate_counts.get("listening_real_rate", 0)
+                grand_row.append(f"{round(r / c * 100)}%" if c > 0 else "")
+                # 阅读真题
+                grand_row.append(grand_count_sums.get("reading_real_num", 0))
+                grand_row.append(int(round(grand_time_sums.get("reading_real_time", 0))))
+                r = grand_rate_sums.get("reading_real_rate", 0)
+                c = grand_rate_counts.get("reading_real_rate", 0)
+                grand_row.append(f"{round(r / c * 100)}%" if c > 0 else "")
+                # 大作文
+                grand_row.append(grand_count_sums.get("big_essay_num", 0))
+                grand_row.append(round(sum(grand_big_essay_scores) / len(grand_big_essay_scores), 2) if grand_big_essay_scores else "")
+                # 小作文
+                grand_row.append(grand_count_sums.get("small_essay_num", 0))
+                grand_row.append(round(sum(grand_small_essay_scores) / len(grand_small_essay_scores), 2) if grand_small_essay_scores else "")
+                # 大作文范文 + 练习
+                grand_row.append(grand_count_sums.get("big_essay_model_num", 0))
+                grand_row.append(grand_count_sums.get("big_essay_exam_num", 0))
+                # 口语机经
+                grand_row.append(grand_count_sums.get("oral_num", 0))
+                grand_row.append(int(round(grand_time_sums.get("oral_time", 0))))
+                # 口语进阶
+                grand_row.append(grand_count_sums.get("oral_advanced_num", 0))
+                grand_row.append(int(round(grand_time_sums.get("oral_advanced_time", 0))))
+                # 模考
+                grand_row.append(grand_count_sums.get("mock_num", 0))
+                grand_row.append(int(round(grand_time_sums.get("mock_time", 0))))
+
+                summary_sheet.append(grand_row)
+                set_auto_width(summary_sheet)
     finally:
         conn.close()
 
