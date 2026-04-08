@@ -792,6 +792,52 @@ class BasicTrainingController extends BaseController
         echo "导出成功，文件位置：{$outputPath}，共 {$exported} 条记录。\n";
     }
 
+    /**
+     * 导出 content 中包含数字 + 单位的听力题目为 JSON，并将单位转换为数字后的英文形式。
+     * 示例：php yii basic-training/export-listening-questions-audio-json "@runtime/tmp/listening_questions_audio.json"
+     */
+    public function actionExportListeningQuestionsAudioJson($output = '@runtime/tmp/listening_questions_audio.json')
+    {
+        $outputPath = \Yii::getAlias($output);
+        $directory = dirname($outputPath);
+        if (!is_dir($directory) && !mkdir($directory, 0777, true) && !is_dir($directory)) {
+            throw new \RuntimeException("无法创建导出目录：{$directory}");
+        }
+
+        $rows = [];
+        foreach (
+            BasicTrainingListeningQuestion::find()
+                ->select(['id', 'content', 'audio_url'])
+                ->andWhere(['is not', 'content', null])
+                ->andWhere(['<>', 'content', ''])
+                ->orderBy(['id' => SORT_ASC])
+                ->asArray()
+                ->each(200) as $question
+        ) {
+            $content = $this->normalizeContentForExport($question['content']);
+            if (!$this->containsNumberWithChineseUnit($content)) {
+                continue;
+            }
+
+            $rows[] = [
+                'id' => (int)$question['id'],
+                'content' => $this->convertChineseUnitsAfterNumbers($content),
+                'audio_url' => $question['audio_url'] ?? '',
+            ];
+        }
+
+        $json = json_encode($rows, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
+        if ($json === false) {
+            throw new \RuntimeException('导出 JSON 失败：' . json_last_error_msg());
+        }
+
+        if (file_put_contents($outputPath, $json) === false) {
+            throw new \RuntimeException("写入文件失败：{$outputPath}");
+        }
+
+        echo "导出成功，文件位置：{$outputPath}，共 " . count($rows) . " 条记录。\n";
+    }
+
     public function actionFixReadingScanning()
     {
         $title_num = 0;
@@ -1643,6 +1689,136 @@ class BasicTrainingController extends BaseController
         }
 
         return json_encode($content, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES);
+    }
+
+    protected function containsNumberWithChineseUnit(string $content): bool
+    {
+        if ($content === '') {
+            return false;
+        }
+
+        return preg_match($this->getNumberWithUnitPattern(), $content) === 1
+            || preg_match($this->getCurrencyPrefixPattern(), $content) === 1;
+    }
+
+    protected function convertChineseUnitsAfterNumbers(string $content): string
+    {
+        if ($content === '') {
+            return '';
+        }
+
+        $content = preg_replace_callback(
+            $this->getNumberWithUnitPattern(),
+            function (array $matches) {
+                $number = $matches['number'];
+                $unit = $matches['unit'];
+                $englishUnit = $this->getChineseUnitMap()[$unit] ?? $unit;
+
+                return $number . ' ' . $englishUnit;
+            },
+            $content
+        );
+
+        return preg_replace_callback(
+            $this->getCurrencyPrefixPattern(),
+            function (array $matches) {
+                $prefix = strtoupper($matches['prefix'] ?? '');
+                $symbol = $matches['symbol'];
+                $open = $matches['open'] ?? '';
+                $number = $matches['number'];
+                $close = $matches['close'] ?? '';
+                $currencyKey = $prefix . $symbol;
+                $englishUnit = $this->getCurrencySymbolMap()[$currencyKey]
+                    ?? $this->getCurrencySymbolMap()[$symbol]
+                    ?? $symbol;
+
+                return $open . $number . ' ' . $englishUnit . $close;
+            },
+            $content
+        );
+    }
+
+    protected function getNumberWithUnitPattern(): string
+    {
+        static $pattern;
+
+        if ($pattern !== null) {
+            return $pattern;
+        }
+
+        $units = array_keys($this->getChineseUnitMap());
+        usort($units, static function ($left, $right) {
+            return mb_strlen($right, 'UTF-8') <=> mb_strlen($left, 'UTF-8');
+        });
+
+        $escapedUnits = array_map(static function ($unit) {
+            return preg_quote($unit, '/');
+        }, $units);
+
+        $pattern = '/(?P<number>[0-9]+(?:\.[0-9]+)?)\s*(?P<unit>' . implode('|', $escapedUnits) . ')/u';
+
+        return $pattern;
+    }
+
+    protected function getCurrencyPrefixPattern(): string
+    {
+        return '/(?P<prefix>AU|US|HK|C)?(?P<symbol>[£$¥€])\s*(?P<open>\*{0,2})(?P<number>[0-9]{1,3}(?:,[0-9]{3})*(?:\.[0-9]+)?|[0-9]+(?:\.[0-9]+)?)(?P<close>\*{0,2})/iu';
+    }
+
+    protected function getChineseUnitMap(): array
+    {
+        return [
+            '千米' => 'kilometers',
+            '公里' => 'kilometers',
+            '公里/小时' => 'kilometers per hour',
+            '千米/小时' => 'kilometers per hour',
+            '米/秒' => 'meters per second',
+            '平方千米' => 'square kilometers',
+            '平方米' => 'square meters',
+            '立方米' => 'cubic meters',
+            '厘米' => 'centimeters',
+            '毫米' => 'millimeters',
+            '米' => 'meters',
+            '公斤' => 'kilograms',
+            '千克' => 'kilograms',
+            '克' => 'grams',
+            '毫克' => 'milligrams',
+            '斤' => 'jin',
+            '吨' => 'tons',
+            '升' => 'liters',
+            '毫升' => 'milliliters',
+            '分钟' => 'minutes',
+            '秒' => 'seconds',
+            '小时' => 'hours',
+            '天' => 'days',
+            '周' => 'weeks',
+            '星期' => 'weeks',
+            '个月' => 'months',
+            '月' => 'months',
+            '年' => 'years',
+            '岁' => 'years old',
+            '度' => 'degrees',
+            '元' => 'yuan',
+            '角' => 'jiao',
+            '分' => 'cents',
+            '次' => 'times',
+            '倍' => 'times',
+            '%' => 'percent',
+        ];
+    }
+
+    protected function getCurrencySymbolMap(): array
+    {
+        return [
+            'AU$' => 'Australian dollars',
+            'US$' => 'US dollars',
+            'HK$' => 'Hong Kong dollars',
+            'C$' => 'Canadian dollars',
+            '£' => 'pounds',
+            '$' => 'dollars',
+            '¥' => 'yuan',
+            '€' => 'euros',
+        ];
     }
 
     public function getPageList(): array
