@@ -81,6 +81,16 @@
  *      - split_sheet (int): 仅 xlsx 生效，1 表示每班级一个 sheet，默认 0
  *    用途: 导出每个学生最后一次口语模考记录（status=6），并写入5个得分字段与时长
  *    示例: php yii student/mock-speaking-report "473,474" xlsx 1
+ *
+ * -----------------------------------------------------------------------------------------
+ * 10. actionDownloadClassStudentAssets - 下载班级学生口语音频和作文 PDF
+ *    命令: php yii student/download-class-student-assets "{class_ids}" {output_dir} {start_date} {end_date} {overwrite}
+ *    参数:
+ *      - class_ids (string): 逗号或空格分隔的班级ID
+ *      - output_dir (string): 输出目录，可选，默认 console/runtime/tmp/class_student_assets_日期
+ *      - start_date/end_date (string): 可选，格式 Y-m-d，按 update_time 过滤
+ *      - overwrite (int): 1 覆盖已存在文件，默认 0 跳过
+ *    用途: 每个学生一个目录，下载口语真题/模考音频、写作模考/非模考 PDF
  * 
  * =====================================================================================
  * 辅助方法（非命令行脚本）:
@@ -145,6 +155,7 @@ use yii\console\Controller;
 use PhpOffice\PhpSpreadsheet\Spreadsheet;
 use PhpOffice\PhpSpreadsheet\Writer\Xlsx;
 use PhpOffice\PhpSpreadsheet\Writer\Csv;
+use OSS\OssClient;
 
 class StudentController extends BaseController
 {
@@ -197,6 +208,134 @@ class StudentController extends BaseController
     public function actionMockSpeakingReport(string $class_ids, string $format = 'csv', int $split_sheet = 0): string
     {
         return $this->actionHomeworkTaskReport($class_ids, '', $format, $split_sheet, 1);
+    }
+
+    /**
+     * 下载指定班级学生的口语音频和作文 PDF。
+     *
+     * 口语模考：
+     * - simulate_exam_speaking_question.audio_url
+     *
+     * 口语真题：
+     * - speaking_advance_sound_record.file_url
+     * - speaking_advance_part2_sound_record.audio_url
+     *
+     * 写作模考：
+     * - simulate_exam_writing.essay_pdf_url
+     * - simulate_exam_writing.big_essay_pdf_url
+     *
+     * 写作非模考：
+     * - writing_essay_record.score_file
+     * - writing_big_essay_record.score_file
+     *
+     * 示例：
+     * php yii student/download-class-student-assets "473"
+     * php yii student/download-class-student-assets "473,474" console/runtime/tmp/班级文件 2026-04-01 2026-04-13 0
+     */
+    public function actionDownloadClassStudentAssets(
+        string $class_ids,
+        string $output_dir = '',
+        string $start_date = '',
+        string $end_date = '',
+        int $overwrite = 0
+    ): string {
+        @ini_set('memory_limit', '1024M');
+
+        $classIds = $this->parseIdList($class_ids);
+        if (empty($classIds)) {
+            $this->stderr("class_ids 不能为空\n");
+            return '';
+        }
+
+        try {
+            [$startTime, $endTime] = $this->normalizeAssetDateRange($start_date, $end_date);
+        } catch (\InvalidArgumentException $e) {
+            $this->stderr($e->getMessage() . "\n");
+            return '';
+        }
+
+        $outputDir = $this->resolveAssetOutputDir($output_dir);
+        if (!$this->ensureAssetDirectory($outputDir)) {
+            $this->stderr("创建输出目录失败：{$outputDir}\n");
+            return '';
+        }
+
+        $classInfoRows = (new Query())
+            ->from(EduClass::tableName())
+            ->select(['id', 'name'])
+            ->where(['id' => $classIds])
+            ->indexBy('id')
+            ->all();
+
+        $oss = $this->getAssetOssClient();
+        $bucket = Yii::$app->params['oss']['bucket'];
+        $overwriteExisting = ($overwrite === 1);
+
+        $summary = [
+            'found' => 0,
+            'downloaded' => 0,
+            'skipped' => 0,
+            'failed' => 0,
+        ];
+
+        foreach ($classIds as $classId) {
+            $students = $this->getStudentsByClassId((int)$classId);
+            if (empty($students)) {
+                $this->stdout("班级 {$classId} 没有学生，跳过\n");
+                continue;
+            }
+
+            $className = (string)($classInfoRows[$classId]['name'] ?? ('班级' . $classId));
+            $classDir = $outputDir . DIRECTORY_SEPARATOR . $this->sanitizeAssetPathName('class_' . $classId . '_' . $className);
+            if (!$this->ensureAssetDirectory($classDir)) {
+                $this->stderr("创建班级目录失败：{$classDir}\n");
+                $summary['failed']++;
+                continue;
+            }
+
+            $studentIds = array_keys($students);
+            $assets = array_merge(
+                $this->loadMockSpeakingAudioAssets($studentIds, $startTime, $endTime),
+                $this->loadAdvanceSpeakingAudioAssets($studentIds, $startTime, $endTime),
+                $this->loadAdvancePart2SpeakingAudioAssets($studentIds, $startTime, $endTime),
+                $this->loadMockWritingPdfAssets($studentIds, $startTime, $endTime),
+                $this->loadWritingPdfAssets('writing_big_essay_record', $studentIds, $startTime, $endTime, 'writing/non_mock_big_essay', 'big_essay'),
+                $this->loadWritingPdfAssets('writing_essay_record', $studentIds, $startTime, $endTime, 'writing/non_mock_small_essay', 'small_essay')
+            );
+
+            $this->stdout("班级 {$classId}（{$className}）学生数：" . count($students) . "，待处理文件：" . count($assets) . "\n");
+
+            foreach ($assets as $asset) {
+                $studentId = (int)($asset['student_id'] ?? 0);
+                if ($studentId <= 0 || !isset($students[$studentId])) {
+                    continue;
+                }
+
+                $summary['found']++;
+                $studentDir = $classDir . DIRECTORY_SEPARATOR . $this->buildStudentAssetDirName($students[$studentId]);
+                $targetDir = $studentDir . DIRECTORY_SEPARATOR . str_replace('/', DIRECTORY_SEPARATOR, (string)$asset['sub_dir']);
+                $targetFile = $targetDir . DIRECTORY_SEPARATOR . $asset['filename'];
+
+                try {
+                    $result = $this->downloadOssObjectToLocal(
+                        $oss,
+                        $bucket,
+                        (string)$asset['url'],
+                        $targetFile,
+                        $overwriteExisting
+                    );
+                    $summary[$result]++;
+                } catch (\Throwable $e) {
+                    $summary['failed']++;
+                    $this->stderr("下载失败：student_id={$studentId}, url={$asset['url']}, err={$e->getMessage()}\n");
+                }
+            }
+        }
+
+        $this->stdout("处理完成，输出目录：{$outputDir}\n");
+        $this->stdout("发现文件：{$summary['found']}，下载：{$summary['downloaded']}，跳过：{$summary['skipped']}，失败：{$summary['failed']}\n");
+
+        return $outputDir;
     }
 
     /**
@@ -1343,18 +1482,9 @@ class StudentController extends BaseController
             return '';
         }
 
-        $file_name = trim($file_name);
-        $file_name = str_replace(['/', '\\'], '_', $file_name);
-        if ($file_name === '') {
-            var_dump("导出文件名称不能为空");
-            return '';
-        }
-        $file_base_name = pathinfo($file_name, PATHINFO_FILENAME);
-        if ($file_base_name === '' && $file_name !== '') {
-            $file_base_name = $file_name;
-        }
+        $file_base_name = $this->buildExportFileBaseName($file_name, 'student/export-record-multi');
         if ($file_base_name === '') {
-            $file_base_name = 'export_' . date('Ymd_His');
+            return '';
         }
 
         $start_time = strtotime($start_date);
@@ -1415,7 +1545,7 @@ class StudentController extends BaseController
 
     /**
      * 导出多个班级学生练习记录（每个班级一个 sheet，仅支持 xlsx）
-     * exemple: php yii student/export-record-multi-sheet "414,415,416,417,418,419" 2025-09-15 2025-12-31 25秋季所有北外国商 xlsx
+     * exemple: php yii student/export-record-multi-sheet "414,415,416,417,418,419" 2025-09-15 2025-12-31 25秋季所有北外国商
      * @param string $class_ids 逗号或空格分隔的班级ID
      * @param string $start_date 开始日期 格式: Y-m-d
      * @param string $end_date 结束日期 格式: Y-m-d
@@ -1433,18 +1563,9 @@ class StudentController extends BaseController
             return '';
         }
 
-        $file_name = trim($file_name);
-        $file_name = str_replace(['/', '\\'], '_', $file_name);
-        if ($file_name === '') {
-            var_dump("导出文件名称不能为空");
-            return '';
-        }
-        $file_base_name = pathinfo($file_name, PATHINFO_FILENAME);
-        if ($file_base_name === '' && $file_name !== '') {
-            $file_base_name = $file_name;
-        }
+        $file_base_name = $this->buildExportFileBaseName($file_name, 'student/export-record-multi-sheet');
         if ($file_base_name === '') {
-            $file_base_name = 'export_' . date('Ymd_His');
+            return '';
         }
 
         $start_time = strtotime($start_date);
@@ -1723,6 +1844,383 @@ class StudentController extends BaseController
 
         var_dump("导出成功，文件路径：$file_path");
         return $file_path;
+    }
+
+    private function loadMockSpeakingAudioAssets(array $studentIds, ?int $startTime, ?int $endTime): array
+    {
+        $query = (new Query())
+            ->from('simulate_exam_speaking_question q')
+            ->innerJoin('simulate_exam_speaking s', 's.id = q.record_id')
+            ->select([
+                'student_id' => 's.student_id',
+                'record_id' => 'q.record_id',
+                'asset_id' => 'q.id',
+                'part' => 'q.part',
+                'url' => 'q.audio_url',
+                'update_time' => 'q.update_time',
+            ])
+            ->where(['s.student_id' => $studentIds])
+            ->andWhere(['<>', 'q.audio_url', '']);
+
+        $this->applyAssetTimeRange($query, 'q.update_time', $startTime, $endTime);
+        $query->orderBy(['s.student_id' => SORT_ASC, 'q.record_id' => SORT_ASC, 'q.id' => SORT_ASC]);
+
+        $assets = [];
+        foreach ($query->each(1000) as $row) {
+            $url = trim((string)($row['url'] ?? ''));
+            if ($url === '') {
+                continue;
+            }
+            $assets[] = [
+                'student_id' => (int)$row['student_id'],
+                'url' => $url,
+                'sub_dir' => 'speaking/mock',
+                'filename' => $this->buildAssetFileName(
+                    'mock_record' . (int)$row['record_id'] . '_q' . (int)$row['asset_id'] . '_part' . (int)$row['part'],
+                    $url,
+                    'wav'
+                ),
+            ];
+        }
+
+        return $assets;
+    }
+
+    private function loadAdvanceSpeakingAudioAssets(array $studentIds, ?int $startTime, ?int $endTime): array
+    {
+        $query = (new Query())
+            ->from('speaking_advance_sound_record r')
+            ->innerJoin('speaking_advance_record ar', 'ar.id = r.record_id')
+            ->select([
+                'student_id' => 'ar.student_id',
+                'record_id' => 'r.record_id',
+                'asset_id' => 'r.id',
+                'question_id' => 'r.question_id',
+                'url' => 'r.file_url',
+                'update_time' => 'r.update_time',
+            ])
+            ->where(['ar.student_id' => $studentIds])
+            ->andWhere(['<>', 'r.file_url', '']);
+
+        $this->applyAssetTimeRange($query, 'r.update_time', $startTime, $endTime);
+        $query->orderBy(['ar.student_id' => SORT_ASC, 'r.record_id' => SORT_ASC, 'r.id' => SORT_ASC]);
+
+        $assets = [];
+        foreach ($query->each(1000) as $row) {
+            $url = trim((string)($row['url'] ?? ''));
+            if ($url === '') {
+                continue;
+            }
+            $assets[] = [
+                'student_id' => (int)$row['student_id'],
+                'url' => $url,
+                'sub_dir' => 'speaking/advance_part1_3',
+                'filename' => $this->buildAssetFileName(
+                    'advance_record' . (int)$row['record_id'] . '_sound' . (int)$row['asset_id'] . '_q' . (int)$row['question_id'],
+                    $url,
+                    'wav'
+                ),
+            ];
+        }
+
+        return $assets;
+    }
+
+    private function loadAdvancePart2SpeakingAudioAssets(array $studentIds, ?int $startTime, ?int $endTime): array
+    {
+        $query = (new Query())
+            ->from('speaking_advance_part2_sound_record r')
+            ->innerJoin('speaking_advance_record ar', 'ar.id = r.record_id')
+            ->select([
+                'student_id' => 'ar.student_id',
+                'record_id' => 'r.record_id',
+                'asset_id' => 'r.id',
+                'url' => 'r.audio_url',
+                'update_time' => 'r.update_time',
+            ])
+            ->where(['ar.student_id' => $studentIds])
+            ->andWhere(['<>', 'r.audio_url', '']);
+
+        $this->applyAssetTimeRange($query, 'r.update_time', $startTime, $endTime);
+        $query->orderBy(['ar.student_id' => SORT_ASC, 'r.record_id' => SORT_ASC, 'r.id' => SORT_ASC]);
+
+        $assets = [];
+        foreach ($query->each(1000) as $row) {
+            $url = trim((string)($row['url'] ?? ''));
+            if ($url === '') {
+                continue;
+            }
+            $assets[] = [
+                'student_id' => (int)$row['student_id'],
+                'url' => $url,
+                'sub_dir' => 'speaking/advance_part2',
+                'filename' => $this->buildAssetFileName(
+                    'advance_part2_record' . (int)$row['record_id'] . '_sound' . (int)$row['asset_id'],
+                    $url,
+                    'wav'
+                ),
+            ];
+        }
+
+        return $assets;
+    }
+
+    private function loadMockWritingPdfAssets(array $studentIds, ?int $startTime, ?int $endTime): array
+    {
+        $query = (new Query())
+            ->from('simulate_exam_writing w')
+            ->select([
+                'student_id',
+                'id',
+                'essay_pdf_url',
+                'big_essay_pdf_url',
+                'update_time',
+            ])
+            ->where(['student_id' => $studentIds])
+            ->andWhere([
+                'or',
+                ['<>', 'essay_pdf_url', ''],
+                ['<>', 'big_essay_pdf_url', ''],
+            ]);
+
+        $this->applyAssetTimeRange($query, 'update_time', $startTime, $endTime);
+        $query->orderBy(['student_id' => SORT_ASC, 'id' => SORT_ASC]);
+
+        $assets = [];
+        foreach ($query->each(1000) as $row) {
+            $smallEssayPdfUrl = trim((string)($row['essay_pdf_url'] ?? ''));
+            if ($smallEssayPdfUrl !== '') {
+                $assets[] = [
+                    'student_id' => (int)$row['student_id'],
+                    'url' => $smallEssayPdfUrl,
+                    'sub_dir' => 'writing/mock_small_essay',
+                    'filename' => $this->buildAssetFileName('mock_writing_record' . (int)$row['id'] . '_small_essay', $smallEssayPdfUrl, 'pdf'),
+                ];
+            }
+
+            $bigEssayPdfUrl = trim((string)($row['big_essay_pdf_url'] ?? ''));
+            if ($bigEssayPdfUrl !== '') {
+                $assets[] = [
+                    'student_id' => (int)$row['student_id'],
+                    'url' => $bigEssayPdfUrl,
+                    'sub_dir' => 'writing/mock_big_essay',
+                    'filename' => $this->buildAssetFileName('mock_writing_record' . (int)$row['id'] . '_big_essay', $bigEssayPdfUrl, 'pdf'),
+                ];
+            }
+        }
+
+        return $assets;
+    }
+
+    private function loadWritingPdfAssets(
+        string $table,
+        array $studentIds,
+        ?int $startTime,
+        ?int $endTime,
+        string $subDir,
+        string $filePrefix
+    ): array {
+        $query = (new Query())
+            ->from($table . ' w')
+            ->select([
+                'student_id' => 'w.student_id',
+                'record_id' => 'w.id',
+                'url' => 'w.score_file',
+                'update_time' => 'w.update_time',
+            ])
+            ->where(['w.student_id' => $studentIds])
+            ->andWhere(['<>', 'w.score_file', '']);
+
+        $this->applyAssetTimeRange($query, 'w.update_time', $startTime, $endTime);
+        $query->orderBy(['w.student_id' => SORT_ASC, 'w.id' => SORT_ASC]);
+
+        $assets = [];
+        foreach ($query->each(1000) as $row) {
+            $url = trim((string)($row['url'] ?? ''));
+            if ($url === '') {
+                continue;
+            }
+            $assets[] = [
+                'student_id' => (int)$row['student_id'],
+                'url' => $url,
+                'sub_dir' => $subDir,
+                'filename' => $this->buildAssetFileName($filePrefix . '_record' . (int)$row['record_id'], $url, 'pdf'),
+            ];
+        }
+
+        return $assets;
+    }
+
+    private function applyAssetTimeRange(Query $query, string $timeColumn, ?int $startTime, ?int $endTime): void
+    {
+        if ($startTime !== null) {
+            $query->andWhere(['>=', $timeColumn, $startTime]);
+        }
+        if ($endTime !== null) {
+            $query->andWhere(['<=', $timeColumn, $endTime]);
+        }
+    }
+
+    private function normalizeAssetDateRange(string $startDate, string $endDate): array
+    {
+        $startDate = trim($startDate);
+        $endDate = trim($endDate);
+
+        $startTime = null;
+        if ($startDate !== '') {
+            $startTime = strtotime($startDate . ' 00:00:00');
+            if ($startTime === false) {
+                throw new \InvalidArgumentException("start_date 格式错误：{$startDate}");
+            }
+        }
+
+        $endTime = null;
+        if ($endDate !== '') {
+            $endTime = strtotime($endDate . ' 23:59:59');
+            if ($endTime === false) {
+                throw new \InvalidArgumentException("end_date 格式错误：{$endDate}");
+            }
+        }
+
+        if ($startTime !== null && $endTime !== null && $startTime > $endTime) {
+            throw new \InvalidArgumentException("start_date 不能晚于 end_date");
+        }
+
+        return [$startTime, $endTime];
+    }
+
+    private function resolveAssetOutputDir(string $outputDir): string
+    {
+        $outputDir = trim($outputDir);
+        if ($outputDir === '') {
+            return dirname(__FILE__, 2) . '/runtime/tmp/class_student_assets_' . date('Ymd_His');
+        }
+
+        if (strpos($outputDir, '@') === 0) {
+            return Yii::getAlias($outputDir);
+        }
+
+        if ($this->isAbsolutePath($outputDir)) {
+            return rtrim($outputDir, DIRECTORY_SEPARATOR);
+        }
+
+        return dirname(__FILE__, 3) . '/' . ltrim($outputDir, '/');
+    }
+
+    private function isAbsolutePath(string $path): bool
+    {
+        return strpos($path, '/') === 0 || preg_match('/^[A-Za-z]:[\\\\\\/]/', $path) === 1;
+    }
+
+    private function ensureAssetDirectory(string $dir): bool
+    {
+        if (is_dir($dir)) {
+            return true;
+        }
+
+        return mkdir($dir, 0777, true) || is_dir($dir);
+    }
+
+    private function getAssetOssClient(): OssClient
+    {
+        $accessKeyId = Yii::$app->params['oss']['accessKeyId'];
+        $accessKeySecret = Yii::$app->params['oss']['accessKeySecret'];
+        $endpoint = Yii::$app->params['oss']['endPoint'];
+
+        return new OssClient($accessKeyId, $accessKeySecret, $endpoint);
+    }
+
+    private function downloadOssObjectToLocal(OssClient $oss, string $bucket, string $ossPath, string $localPath, bool $overwrite): string
+    {
+        if (!$overwrite && is_file($localPath) && filesize($localPath) > 0) {
+            return 'skipped';
+        }
+
+        $object = $this->normalizeOssObjectPath($ossPath);
+        if ($object === '') {
+            throw new \RuntimeException('OSS 路径为空');
+        }
+
+        $dir = dirname($localPath);
+        if (!$this->ensureAssetDirectory($dir)) {
+            throw new \RuntimeException('创建目录失败：' . $dir);
+        }
+
+        $lastError = null;
+        for ($attempt = 1; $attempt <= 2; $attempt++) {
+            try {
+                $content = $oss->getObject($bucket, $object);
+                if (file_put_contents($localPath, $content) === false) {
+                    throw new \RuntimeException('写入文件失败：' . $localPath);
+                }
+
+                return 'downloaded';
+            } catch (\Throwable $e) {
+                $lastError = $e;
+                if ($attempt < 2) {
+                    $this->stderr("下载失败，准备重试一次：{$ossPath}, err={$e->getMessage()}\n");
+                    sleep(1);
+                }
+            }
+        }
+
+        throw new \RuntimeException('重试后仍下载失败，已跳过：' . $ossPath . ', err=' . ($lastError ? $lastError->getMessage() : 'unknown'));
+    }
+
+    private function normalizeOssObjectPath(string $ossPath): string
+    {
+        $ossPath = trim($ossPath);
+        if ($ossPath === '') {
+            return '';
+        }
+
+        if (preg_match('#^https?://#i', $ossPath)) {
+            $urlPath = parse_url($ossPath, PHP_URL_PATH);
+            if (is_string($urlPath) && $urlPath !== '') {
+                $ossPath = $urlPath;
+            }
+        }
+
+        return ltrim(rawurldecode($ossPath), '/');
+    }
+
+    private function buildStudentAssetDirName(array $student): string
+    {
+        $parts = [
+            trim((string)($student['student_name'] ?? '')),
+            trim((string)($student['account'] ?? '')),
+            (string)(int)($student['student_id'] ?? 0),
+        ];
+        $parts = array_values(array_filter($parts, static function ($part) {
+            return $part !== '';
+        }));
+
+        return $this->sanitizeAssetPathName(implode('_', $parts));
+    }
+
+    private function buildAssetFileName(string $prefix, string $url, string $fallbackExtension): string
+    {
+        $path = (string)(parse_url($url, PHP_URL_PATH) ?: $url);
+        $baseName = basename($path);
+        if ($baseName === '' || $baseName === '.' || $baseName === '/') {
+            $baseName = 'file';
+        }
+
+        if (pathinfo($baseName, PATHINFO_EXTENSION) === '' && $fallbackExtension !== '') {
+            $baseName .= '.' . ltrim($fallbackExtension, '.');
+        }
+
+        return $this->sanitizeAssetPathName($prefix . '_' . $baseName);
+    }
+
+    private function sanitizeAssetPathName(string $name): string
+    {
+        $name = trim($name);
+        $name = preg_replace('/[\\\\\\/\\:\\*\\?\\"\\<\\>\\|]+/u', '_', $name);
+        $name = preg_replace('/\\s+/u', '_', (string)$name);
+        $name = trim((string)$name, "._ \t\n\r\0\x0B");
+
+        return $name === '' ? 'unknown' : $name;
     }
 
     private function parseIdList(string $ids): array
@@ -3184,6 +3682,64 @@ class StudentController extends BaseController
             return $title;
         }
         return substr($title, 0, $maxLength);
+    }
+
+    private function buildExportFileBaseName(string $fileName, string $commandId): string
+    {
+        $this->initUtf8CliLocale();
+
+        $rawFileName = $fileName;
+        $currentLocale = setlocale(LC_CTYPE, 0);
+        var_dump("[$commandId] 接收到的 file_name: {$rawFileName}");
+        var_dump("[$commandId] file_name(hex): " . bin2hex($rawFileName));
+        var_dump("[$commandId] LC_CTYPE: " . ($currentLocale === false ? 'unknown' : $currentLocale));
+
+        if (!$this->isValidUtf8String($rawFileName)) {
+            var_dump("[$commandId] 文件名参数不是有效 UTF-8。请在终端或容器中设置 LANG=C.UTF-8、LC_ALL=C.UTF-8，并用双引号包裹中文文件名。");
+            return '';
+        }
+
+        $normalizedFileName = trim($rawFileName);
+        $normalizedFileName = str_replace(['/', '\\'], '_', $normalizedFileName);
+        if ($normalizedFileName === '') {
+            var_dump("导出文件名称不能为空");
+            return '';
+        }
+
+        $fileBaseName = pathinfo($normalizedFileName, PATHINFO_FILENAME);
+        if ($fileBaseName === '' && $normalizedFileName !== '') {
+            $fileBaseName = $normalizedFileName;
+        }
+        if ($fileBaseName === '') {
+            $fileBaseName = 'export_' . date('Ymd_His');
+        }
+
+        var_dump("[$commandId] 最终导出文件名: {$fileBaseName}");
+        return $fileBaseName;
+    }
+
+    private function initUtf8CliLocale(): void
+    {
+        static $initialized = false;
+        if ($initialized) {
+            return;
+        }
+
+        @setlocale(LC_CTYPE, 'C.UTF-8', 'en_US.UTF-8', 'zh_CN.UTF-8', 'zh_CN.utf8', 'UTF-8');
+        $initialized = true;
+    }
+
+    private function isValidUtf8String(string $value): bool
+    {
+        if ($value === '') {
+            return true;
+        }
+
+        if (function_exists('mb_check_encoding')) {
+            return mb_check_encoding($value, 'UTF-8');
+        }
+
+        return preg_match('//u', $value) === 1;
     }
 
     private function stringLength(string $value): int
