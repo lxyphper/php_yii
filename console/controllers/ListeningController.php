@@ -70,6 +70,17 @@ class ListeningController extends BaseController
                 'operatorId',
             ]);
         }
+        if ($actionID === 'fix-jijing-answer-sentences-from-analyze-print') {
+            $options = array_merge($options, [
+                'paperId',
+                'dryRun',
+                'batchSize',
+                'startId',
+                'endId',
+                'limit',
+                'operatorId',
+            ]);
+        }
 
         return $options;
     }
@@ -4282,6 +4293,245 @@ class ListeningController extends BaseController
         ));
     }
 
+    /**
+     * 只修复机经题目的 answer_sentences/start_time/end_time：
+     * - 从 analyze_print 中提取 audio.location.start_time/end_time
+     * - 用 audio.location 覆盖题目 start_time/end_time 及 answer_sentences.start_time/end_time
+     * - 再根据该时间范围匹配 listening_exam_paper.content 中覆盖到的 order 区间，
+     *   用 [startOrder, endOrder] 覆盖 answer_sentences.lyc_index
+     *
+     * 用法示例：
+     * - php yii listening/fix-jijing-answer-sentences-from-analyze-print --dryRun=1
+     * - php yii listening/fix-jijing-answer-sentences-from-analyze-print --paperId=1258 --dryRun=0 --operatorId=123
+     */
+    public function actionFixJijingAnswerSentencesFromAnalyzePrint(
+        int $paperId = 0,
+        int $dryRun = 1,
+        int $batchSize = 200,
+        int $startId = 0,
+        int $endId = 0,
+        int $limit = 0,
+        int $operatorId = 0
+    ): void {
+        if ($paperId === 0 && $this->paperId !== 0) {
+            $paperId = $this->paperId;
+        }
+        if ($dryRun === 1 && $this->dryRun !== 1) {
+            $dryRun = $this->dryRun;
+        }
+        if ($batchSize === 200 && $this->batchSize !== 200) {
+            $batchSize = $this->batchSize;
+        }
+        if ($startId === 0 && $this->startId !== 0) {
+            $startId = $this->startId;
+        }
+        if ($endId === 0 && $this->endId !== 0) {
+            $endId = $this->endId;
+        }
+        if ($limit === 0 && $this->limit !== 0) {
+            $limit = $this->limit;
+        }
+        if ($operatorId === 0 && $this->operatorId !== 0) {
+            $operatorId = $this->operatorId;
+        }
+
+        $dryRun = $dryRun ? 1 : 0;
+        $batchSize = max(1, $batchSize);
+        $now = time();
+
+        $scanned = 0;
+        $updated = 0;
+        $skippedEmptyAnswer = 0;
+        $skippedEmptyAnalyze = 0;
+        $skippedAudioMissing = 0;
+        $skippedPaperMissing = 0;
+        $skippedContentNotFound = 0;
+
+        $db = Yii::$app->db;
+        $lastId = $startId > 0 ? ($startId - 1) : 0;
+        $remaining = $limit > 0 ? $limit : null;
+
+        while (true) {
+            $pageLimit = $remaining === null ? $batchSize : min($batchSize, $remaining);
+            if ($pageLimit <= 0) {
+                break;
+            }
+
+            $pageQuery = ListeningExamQuestion::find()
+                ->alias('q')
+                ->select([
+                    'q.id',
+                    'q.paper_id',
+                    'q.number',
+                    'q.answer_sentences',
+                    'q.analyze_print',
+                    'q.start_time',
+                    'q.end_time',
+                ])
+                ->innerJoin(['p' => ListeningExamPaper::tableName()], 'p.id = q.paper_id')
+                ->andWhere(['>', 'q.id', $lastId])
+                ->andWhere(['like', 'p.complete_title', '机经%', false])
+                ->orderBy(['q.id' => SORT_ASC]);
+
+            if ($paperId > 0) {
+                $pageQuery->andWhere(['q.paper_id' => $paperId]);
+            }
+            if ($endId > 0) {
+                $pageQuery->andWhere(['<=', 'q.id', $endId]);
+            }
+
+            $questions = $pageQuery->limit($pageLimit)->all();
+            if (empty($questions)) {
+                break;
+            }
+
+            $paperIds = [];
+            foreach ($questions as $question) {
+                $pid = (int)$question->paper_id;
+                if ($pid > 0) {
+                    $paperIds[$pid] = $pid;
+                }
+            }
+
+            $paperSentencesByPaperId = [];
+            if (!empty($paperIds)) {
+                $paperRows = ListeningExamPaper::find()
+                    ->select(['id', 'content'])
+                    ->where(['id' => array_values($paperIds)])
+                    ->indexBy('id')
+                    ->asArray()
+                    ->all();
+
+                foreach ($paperRows as $pid => $paperRow) {
+                    $paperSentencesByPaperId[(int)$pid] = $this->buildPaperSentencesByTime($paperRow['content'] ?? null);
+                }
+            }
+
+            $tx = $dryRun ? null : $db->beginTransaction();
+            try {
+                /** @var ListeningExamQuestion $question */
+                foreach ($questions as $question) {
+                    $scanned++;
+
+                    $answerSentences = $this->decodeJsonArray($question->answer_sentences);
+                    if (empty($answerSentences) || !is_array($answerSentences)) {
+                        $skippedEmptyAnswer++;
+                        continue;
+                    }
+
+                    $analyzePrint = $this->decodeJsonArray($question->analyze_print);
+                    if (empty($analyzePrint) || !is_array($analyzePrint)) {
+                        $skippedEmptyAnalyze++;
+                        continue;
+                    }
+
+                    $audioRange = $this->extractAudioLocationRange($analyzePrint);
+                    if ($audioRange === null) {
+                        $skippedAudioMissing++;
+                        continue;
+                    }
+
+                    [$audioStart, $audioEnd] = $audioRange;
+                    $paperIdForQuestion = (int)$question->paper_id;
+                    $paperSentences = $paperSentencesByPaperId[$paperIdForQuestion] ?? null;
+                    if ($paperIdForQuestion <= 0 || $paperSentences === null || empty($paperSentences)) {
+                        $skippedPaperMissing++;
+                        continue;
+                    }
+
+                    $matchedRange = $this->computeTimeRangeByMsRange($paperSentences, $audioStart, $audioEnd);
+                    if ($matchedRange === null) {
+                        $skippedContentNotFound++;
+                        continue;
+                    }
+
+                    $currAnswerStart = isset($answerSentences['start_time']) ? (int)$answerSentences['start_time'] : 0;
+                    $currAnswerEnd = isset($answerSentences['end_time']) ? (int)$answerSentences['end_time'] : 0;
+                    $currQuestionStart = (int)$question->start_time;
+                    $currQuestionEnd = (int)$question->end_time;
+                    $timeChanged = $currQuestionStart !== $audioStart
+                        || $currQuestionEnd !== $audioEnd
+                        || $currAnswerStart !== $audioStart
+                        || $currAnswerEnd !== $audioEnd;
+
+                    if (!$timeChanged) {
+                        continue;
+                    }
+
+                    $newLycIndex = [
+                        (int)$matchedRange['startOrder'],
+                        (int)$matchedRange['endOrder'],
+                    ];
+                    $currLycIndex = $this->normalizeLycIndexValue($answerSentences['lyc_index'] ?? null);
+                    $updatedAnswerSentences = $this->overwriteAnswerSentenceMeta(
+                        $answerSentences,
+                        $audioStart,
+                        $audioEnd,
+                        $newLycIndex
+                    );
+
+                    if ($dryRun) {
+                        $this->stdout(sprintf(
+                            "WOULD_UPDATE qid=%d paper_id=%d number=%s question=[%d,%d] answer=[%d,%d] lyc=%s audio=[%d,%d] new_lyc=%s\n",
+                            (int)$question->id,
+                            $paperIdForQuestion,
+                            (string)$question->number,
+                            $currQuestionStart,
+                            $currQuestionEnd,
+                            $currAnswerStart,
+                            $currAnswerEnd,
+                            json_encode($currLycIndex, JSON_UNESCAPED_UNICODE),
+                            $audioStart,
+                            $audioEnd,
+                            json_encode($newLycIndex, JSON_UNESCAPED_UNICODE)
+                        ));
+                        continue;
+                    }
+
+                    ListeningExamQuestion::updateAll([
+                        'answer_sentences' => new \yii\db\JsonExpression($updatedAnswerSentences),
+                        'start_time' => $audioStart,
+                        'end_time' => $audioEnd,
+                        'update_by' => $operatorId,
+                        'update_time' => $now,
+                    ], ['id' => (int)$question->id]);
+                    $updated++;
+                }
+
+                if ($tx !== null) {
+                    $tx->commit();
+                }
+            } catch (\Throwable $e) {
+                if ($tx !== null) {
+                    $tx->rollBack();
+                }
+                throw $e;
+            }
+
+            $lastId = (int)end($questions)->id;
+            if ($remaining !== null) {
+                $remaining -= count($questions);
+            }
+
+            unset($questions, $paperRows, $paperSentencesByPaperId);
+            if (function_exists('gc_collect_cycles')) {
+                gc_collect_cycles();
+            }
+        }
+
+        $this->stdout(sprintf(
+            "Done. scanned=%d updated=%d dryRun=%d skipped_empty_answer=%d skipped_empty_analyze=%d skipped_audio_missing=%d skipped_paper_missing=%d skipped_content_not_found=%d\n",
+            $scanned,
+            $updated,
+            $dryRun ? 1 : 0,
+            $skippedEmptyAnswer,
+            $skippedEmptyAnalyze,
+            $skippedAudioMissing,
+            $skippedPaperMissing,
+            $skippedContentNotFound
+        ));
+    }
+
     private function indexOptionsByBizId(array $bizIds, int $bizType): array
     {
         $bizIds = array_values(array_unique(array_filter($bizIds, static function ($id): bool {
@@ -4365,6 +4615,93 @@ class ListeningController extends BaseController
         $seconds = (int)$m[2];
 
         return (($minutes * 60) + $seconds) * 1000;
+    }
+
+    /**
+     * @param array<int|string, mixed> $analyzePrint
+     * @return array{0:int,1:int}|null
+     */
+    private function extractAudioLocationRange(array $analyzePrint): ?array
+    {
+        foreach ($analyzePrint as $item) {
+            if ($item instanceof \stdClass) {
+                $item = (array)$item;
+            }
+            if (!is_array($item) || ($item['type'] ?? '') !== 'audio') {
+                continue;
+            }
+
+            $location = $item['location'] ?? null;
+            if ($location instanceof \stdClass) {
+                $location = (array)$location;
+            }
+            if (!is_array($location) || !isset($location['start_time'], $location['end_time'])) {
+                continue;
+            }
+
+            $start = (int)$location['start_time'];
+            $end = (int)$location['end_time'];
+            if ($start <= 0 || $end <= 0) {
+                continue;
+            }
+            if ($start > $end) {
+                [$start, $end] = [$end, $start];
+            }
+
+            return [$start, $end];
+        }
+
+        return null;
+    }
+
+    /**
+     * @param array<string, mixed> $answerSentences
+     * @param array{0:int,1:int} $lycIndex
+     * @return array<string, mixed>
+     */
+    private function overwriteAnswerSentenceMeta(
+        array $answerSentences,
+        int $startTime,
+        int $endTime,
+        array $lycIndex
+    ): array {
+        $answerSentences['start_time'] = $startTime;
+        $answerSentences['end_time'] = $endTime;
+        $answerSentences['lyc_index'] = array_values($lycIndex);
+
+        return $answerSentences;
+    }
+
+    /**
+     * @param mixed $value
+     * @return array{0:int,1:int}|null
+     */
+    private function normalizeLycIndexValue($value): ?array
+    {
+        if ($value instanceof \stdClass) {
+            $value = (array)$value;
+        }
+
+        if (is_int($value)) {
+            return [$value, $value];
+        }
+
+        if (!is_array($value)) {
+            return null;
+        }
+
+        $values = array_values($value);
+        if (count($values) === 0) {
+            return null;
+        }
+
+        $start = (int)$values[0];
+        $end = count($values) > 1 ? (int)$values[1] : $start;
+        if ($start > $end) {
+            [$start, $end] = [$end, $start];
+        }
+
+        return [$start, $end];
     }
 
     /**

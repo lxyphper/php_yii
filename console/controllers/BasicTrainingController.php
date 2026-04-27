@@ -19,6 +19,9 @@ use app\models\ExamCollectionRecord;
 use app\models\ExamCollectionRelation;
 use app\models\ExamQuestionCollection;
 use app\models\ListeningExamQuestionType;
+use app\models\SpeakingSpecialItemGroup;
+use app\models\SpeakingSpecialItemQuestion;
+use app\models\SpeakingSpecialItemTopic;
 use PhpOffice\PhpSpreadsheet\Spreadsheet;
 use PhpOffice\PhpSpreadsheet\Writer\Xlsx;
 use yii\console\Controller;
@@ -838,6 +841,50 @@ class BasicTrainingController extends BaseController
         echo "导出成功，文件位置：{$outputPath}，共 " . count($rows) . " 条记录。\n";
     }
 
+    /**
+     * 导出基础练习题库到多个 Excel 文件（每个学科一个文件）。
+     * 示例：php yii basic-training/export-base-exercise-questions "@runtime/tmp/basic_training_exports"
+     */
+    public function actionExportBaseExerciseQuestions($outputDir = '@runtime/tmp/basic_training_exports'): void
+    {
+        ini_set('memory_limit', '512M');
+
+        $exportDir = \Yii::getAlias($outputDir);
+        $this->ensureExportDirectory($exportDir);
+
+        $exports = [
+            [
+                'label' => '听力',
+                'sheet' => '听力',
+                'file' => $exportDir . '/basic_training_listening.xlsx',
+                'rows' => $this->buildListeningQuestionExportRows(),
+            ],
+            [
+                'label' => '阅读',
+                'sheet' => '阅读',
+                'file' => $exportDir . '/basic_training_reading.xlsx',
+                'rows' => $this->buildReadingQuestionExportRows(),
+            ],
+            [
+                'label' => '写作',
+                'sheet' => '写作',
+                'file' => $exportDir . '/basic_training_writing.xlsx',
+                'rows' => $this->buildWritingQuestionExportRows(),
+            ],
+            [
+                'label' => '口语',
+                'sheet' => '口语',
+                'file' => $exportDir . '/speaking_special_item.xlsx',
+                'rows' => $this->buildSpeakingQuestionExportRows(),
+            ],
+        ];
+
+        foreach ($exports as $export) {
+            $this->writeQuestionExportFile($export['sheet'], $export['rows'], $export['file']);
+            echo "{$export['label']}导出成功：{$export['file']}，共 " . count($export['rows']) . " 条记录。\n";
+        }
+    }
+
     public function actionFixReadingScanning()
     {
         $title_num = 0;
@@ -1646,6 +1693,605 @@ class BasicTrainingController extends BaseController
             4 => '多轮对话',
             5 => '基础场景',
         ];
+    }
+
+    protected function getReadingExportTypeLabels(): array
+    {
+        return [
+            1 => '定位练习',
+            2 => '长难句理解',
+            3 => '句子精读',
+            5 => '扫读练习',
+            6 => '同义替换',
+        ];
+    }
+
+    protected function getReadingExportSubTypeLabels(): array
+    {
+        return [
+            1 => '识别关键词',
+            2 => '识别中心句',
+            3 => '识别同义替换',
+        ];
+    }
+
+    protected function getWritingExportTypeLabels(): array
+    {
+        return [
+            1 => '连词成句',
+            2 => '翻译练习',
+            3 => '语法纠错',
+            4 => '句子合并',
+            5 => '句子改写',
+            6 => '词汇搭配选择',
+        ];
+    }
+
+    protected function getSpeakingExportTypeLabels(): array
+    {
+        return [
+            1 => '句子跟读',
+            2 => '段落跟读',
+            3 => '句子汉译英',
+            4 => '段落汉译英',
+            5 => '合并简单句',
+        ];
+    }
+
+    protected function buildListeningQuestionExportRows(): array
+    {
+        $rows = [];
+        $typeLabels = $this->getListeningTypeLabels();
+
+        $query = BasicTrainingListeningQuestion::find()
+            ->alias('q')
+            ->select([
+                'q.id',
+                'q.type',
+                'q.grammar',
+                'q.question_type',
+                'q.title',
+                'q.content',
+                'q.answer',
+                'grammar_name' => 'g.name',
+            ])
+            ->leftJoin(BasicTrainingListeningGrammar::tableName() . ' g', 'g.id = q.grammar')
+            ->orderBy(['q.id' => SORT_ASC])
+            ->asArray();
+
+        foreach ($query->each(200) as $question) {
+            $typeLabel = $typeLabels[$question['type']] ?? (string)$question['type'];
+            $knowledge = $question['grammar_name'] ?? '';
+
+            if ((int)$question['question_type'] === 2) {
+                $contentItems = $this->decodeJsonField($question['content']);
+                $answers = $this->decodeJsonField($question['answer']);
+                foreach ($contentItems as $index => $item) {
+                    $options = $this->buildLabeledOptions($item['option'] ?? []);
+                    $rows[] = [
+                        $typeLabel,
+                        $knowledge,
+                        '',
+                        $item['title'] ?? ($question['title'] ?: '子题 ' . ($index + 1)),
+                        $this->formatOptionsForExport($options),
+                        $this->normalizeIndexedAnswer($answers[$index] ?? null, $options),
+                    ];
+                }
+                continue;
+            }
+
+            $rows[] = [
+                $typeLabel,
+                $knowledge,
+                '',
+                $this->concatenateArrayFragments($this->decodeJsonField($question['content']), "\n"),
+                '',
+                $this->normalizeExportAnswer($question['answer']),
+            ];
+        }
+
+        return $rows;
+    }
+
+    protected function buildReadingQuestionExportRows(): array
+    {
+        $rows = [];
+        $typeLabels = $this->getReadingExportTypeLabels();
+        $subTypeLabels = $this->getReadingExportSubTypeLabels();
+
+        $query = BasicTrainingReadingQuestion::find()
+            ->alias('q')
+            ->select([
+                'q.id',
+                'q.type',
+                'q.group_id',
+                'q.stem',
+                'q.content',
+                'q.answer',
+                'q.locating_words',
+                'group_type' => 'g.type',
+                'group_title' => 'g.title',
+                'grammar_name' => 'rg.name',
+            ])
+            ->leftJoin(BasicTrainingReadingGroup::tableName() . ' g', 'g.id = q.group_id')
+            ->leftJoin(BasicTrainingReadingGrammar::tableName() . ' rg', 'rg.id = g.grammar')
+            ->andWhere(['<>', 'g.type', 4])
+            ->orderBy(['q.id' => SORT_ASC])
+            ->asArray();
+
+        foreach ($query->each(200) as $question) {
+            $groupType = (int)($question['group_type'] ?? 0);
+            $questionType = (int)($question['type'] ?? 0);
+            $typeLabel = $typeLabels[$groupType] ?? (string)$groupType;
+            if ($groupType === 1 && isset($subTypeLabels[$questionType])) {
+                $typeLabel .= '-' . $subTypeLabels[$questionType];
+            }
+
+            $contentItems = $this->decodeJsonField($question['content']);
+            $options = [];
+            $optionsText = '';
+            if ($groupType === 1) {
+                $optionsText = $this->concatenateArrayFragments($contentItems, "\n");
+            } elseif ($groupType === 2) {
+                $options = $this->buildLabeledOptions($this->decodeJsonField($question['locating_words']));
+                $optionsText = $this->formatOptionsForExport($options);
+            } elseif ($groupType === 5) {
+                $optionsText = $this->concatenateArrayFragments($contentItems, "\n");
+            } elseif ($groupType === 6) {
+                $optionsText = $this->concatenateArrayFragments(array_column($contentItems, 'text'));
+            }
+
+            $rows[] = [
+                $typeLabel,
+                $question['grammar_name'] ?? '',
+                $question['group_title'] ?? '',
+                $question['stem'] ?? '',
+                $optionsText,
+                $this->normalizeReadingAnswer($question, $options, $contentItems),
+            ];
+        }
+
+        return $rows;
+    }
+
+    protected function buildWritingQuestionExportRows(): array
+    {
+        $rows = [];
+        $typeLabels = $this->getWritingExportTypeLabels();
+
+        $query = BasicTrainingWritingQuestion::find()
+            ->alias('q')
+            ->select([
+                'q.id',
+                'q.group_id',
+                'q.stem',
+                'q.content',
+                'q.answer',
+                'group_type' => 'g.type',
+                'group_title' => 'g.title',
+                'grammar_name' => 'wg.name',
+                'topic_name' => 'wt.name',
+            ])
+            ->leftJoin(BasicTrainingWritingGroup::tableName() . ' g', 'g.id = q.group_id')
+            ->leftJoin(BasicTrainingWritingGrammar::tableName() . ' wg', 'wg.id = g.grammar')
+            ->leftJoin(BasicTrainingWritingTopic::tableName() . ' wt', 'wt.id = g.topic')
+            ->orderBy(['q.id' => SORT_ASC])
+            ->asArray();
+
+        foreach ($query->each(200) as $question) {
+            $groupType = (int)($question['group_type'] ?? 0);
+            $options = [];
+            $optionsText = '';
+            if ($groupType === 1) {
+                $content = $this->decodeJsonField($question['content']);
+                $optionsText = $this->formatSimpleListForExport($content['question_stem'] ?? []);
+            } elseif ($groupType === 6) {
+                $options = $this->buildLabeledOptions($this->decodeJsonField($question['content']));
+                $optionsText = $this->formatOptionsForExport($options);
+            }
+
+            $rows[] = [
+                $typeLabels[$groupType] ?? (string)$groupType,
+                $question['grammar_name'] ?? '',
+                $question['topic_name'] ?? '',
+                $this->resolveWritingQuestionTitle($question),
+                $optionsText,
+                $groupType === 6
+                    ? $this->normalizeIndexedAnswer($question['answer'], $options)
+                    : $this->normalizeExportAnswer($question['answer']),
+            ];
+        }
+
+        return $rows;
+    }
+
+    protected function buildSpeakingQuestionExportRows(): array
+    {
+        $rows = [];
+        $typeLabels = $this->getSpeakingExportTypeLabels();
+
+        $query = SpeakingSpecialItemQuestion::find()
+            ->alias('q')
+            ->select([
+                'q.id',
+                'q.title',
+                'q.answer',
+                'q.group_id',
+                'group_title' => 'g.title',
+                'topic_name' => 't.name',
+                'topic_type' => 't.type',
+            ])
+            ->leftJoin(SpeakingSpecialItemGroup::tableName() . ' g', 'g.id = q.group_id')
+            ->leftJoin(SpeakingSpecialItemTopic::tableName() . ' t', 't.id = g.topic')
+            ->orderBy(['q.id' => SORT_ASC])
+            ->asArray();
+
+        foreach ($query->each(200) as $question) {
+            $topicType = (int)($question['topic_type'] ?? 0);
+            $rows[] = [
+                $typeLabels[$topicType] ?? (string)$topicType,
+                $question['topic_name'] ?? '',
+                $question['group_title'] ?? '',
+                $question['title'] ?? '',
+                '',
+                $this->normalizeExportAnswer($question['answer']),
+            ];
+        }
+
+        return $rows;
+    }
+
+    protected function writeQuestionExportFile(string $sheetTitle, array $rows, string $outputPath): void
+    {
+        $spreadsheet = new Spreadsheet();
+        $sheet = $spreadsheet->getActiveSheet();
+        $sheet->setTitle($sheetTitle);
+        $sheet->fromArray($this->getQuestionExportHeaders(), null, 'A1');
+
+        if (!empty($rows)) {
+            $sheet->fromArray($rows, null, 'A2');
+        }
+
+        foreach (range('A', 'F') as $column) {
+            $sheet->getColumnDimension($column)->setAutoSize(true);
+        }
+
+        $writer = new Xlsx($spreadsheet);
+        $writer->save($outputPath);
+        $spreadsheet->disconnectWorksheets();
+    }
+
+    protected function getQuestionExportHeaders(): array
+    {
+        return ['题型', '知识点', '话题', '题目标题', '选项', '答案'];
+    }
+
+    protected function ensureExportDirectory(string $directory): void
+    {
+        if (!is_dir($directory) && !mkdir($directory, 0777, true) && !is_dir($directory)) {
+            throw new \RuntimeException("无法创建导出目录：{$directory}");
+        }
+    }
+
+    protected function decodeJsonField($value): array
+    {
+        if (is_array($value)) {
+            return $value;
+        }
+
+        if ($value === null || $value === '') {
+            return [];
+        }
+
+        if (!is_string($value)) {
+            return [$value];
+        }
+
+        $decoded = json_decode($value, true);
+        if (json_last_error() === JSON_ERROR_NONE && is_array($decoded)) {
+            return $decoded;
+        }
+
+        return [];
+    }
+
+    protected function buildLabeledOptions(array $items): array
+    {
+        $options = [];
+        foreach (array_values($items) as $index => $item) {
+            if (is_scalar($item)) {
+                $options[] = [
+                    'label' => $this->buildDefaultOptionLabel($index),
+                    'text' => (string)$item,
+                ];
+                continue;
+            }
+
+            if (!is_array($item)) {
+                continue;
+            }
+
+            $options[] = [
+                'label' => $item['label'] ?? $item['name'] ?? $this->buildDefaultOptionLabel($index),
+                'text' => $this->extractOptionText($item),
+            ];
+        }
+
+        return $options;
+    }
+
+    protected function buildDefaultOptionLabel(int $index): string
+    {
+        return chr(65 + ($index % 26));
+    }
+
+    protected function extractOptionText(array $item): string
+    {
+        foreach (['value', 'content', 'text', 'title'] as $key) {
+            if (isset($item[$key]) && $item[$key] !== '') {
+                return is_scalar($item[$key])
+                    ? (string)$item[$key]
+                    : $this->normalizeContentForExport($item[$key]);
+            }
+        }
+
+        if (!empty($item['word']) || !empty($item['translation'])) {
+            return trim(($item['word'] ?? '') . ' - ' . ($item['translation'] ?? ''), ' -');
+        }
+
+        return $this->normalizeContentForExport($item);
+    }
+
+    protected function formatOptionsForExport(array $options): string
+    {
+        if (empty($options)) {
+            return '';
+        }
+
+        $lines = [];
+        foreach ($options as $option) {
+            $label = $option['label'] ?? '';
+            $text = $option['text'] ?? '';
+            $lines[] = $label !== '' ? $label . '. ' . $text : $text;
+        }
+
+        return implode("\n", $lines);
+    }
+
+    protected function normalizeIndexedAnswer($answer, array $options): string
+    {
+        $indices = $this->flattenAnswerValues($answer);
+        if (empty($indices)) {
+            return $this->normalizeExportAnswer($answer);
+        }
+
+        $answers = [];
+        foreach ($indices as $index) {
+            $optionIndex = is_numeric($index) ? (int)$index : null;
+            if ($optionIndex === null || !isset($options[$optionIndex])) {
+                $answers[] = (string)$index;
+                continue;
+            }
+
+            $answers[] = $options[$optionIndex]['text'] ?? '';
+        }
+
+        return implode("\n", array_filter($answers, static function ($item) {
+            return $item !== '';
+        }));
+    }
+
+    protected function normalizeIndexedFragmentsAnswer($answer, array $fragments): string
+    {
+        $indices = $this->flattenAnswerValues($answer);
+        if (empty($indices) || empty($fragments)) {
+            return $this->normalizeExportAnswer($answer);
+        }
+
+        $answers = [];
+        foreach ($indices as $index) {
+            if (!is_numeric($index)) {
+                $answers[] = (string)$index;
+                continue;
+            }
+
+            $fragmentIndex = (int)$index;
+            if (!array_key_exists($fragmentIndex, $fragments)) {
+                continue;
+            }
+
+            $answers[] = $fragments[$fragmentIndex];
+        }
+
+        return $this->concatenateArrayFragments($answers);
+    }
+
+    protected function flattenAnswerValues($answer): array
+    {
+        if (is_string($answer)) {
+            $decoded = json_decode($answer, true);
+            if (json_last_error() === JSON_ERROR_NONE) {
+                return $this->flattenAnswerValues($decoded);
+            }
+
+            return [$answer];
+        }
+
+        if (!is_array($answer)) {
+            return $answer === null || $answer === '' ? [] : [$answer];
+        }
+
+        $values = [];
+        foreach ($answer as $item) {
+            if (is_array($item)) {
+                foreach ($this->flattenAnswerValues($item) as $subItem) {
+                    $values[] = $subItem;
+                }
+                continue;
+            }
+
+            if ($item === null || $item === '') {
+                continue;
+            }
+
+            $values[] = $item;
+        }
+
+        return $values;
+    }
+
+    protected function normalizeReadingAnswer(array $question, array $options, array $contentItems): string
+    {
+        $groupType = (int)($question['group_type'] ?? 0);
+        if ($groupType === 1) {
+            return $this->normalizeIndexedFragmentsAnswer($question['answer'], $contentItems);
+        }
+
+        if (!empty($options)) {
+            return $this->normalizeIndexedAnswer($question['answer'], $options);
+        }
+
+        $questionType = (int)($question['type'] ?? 0);
+        if ($groupType === 1 && in_array($questionType, [1, 2, 3], true)) {
+            $answerOptions = $this->buildLabeledOptions($this->decodeJsonField($question['content']));
+            return $this->normalizeIndexedAnswer($question['answer'], $answerOptions);
+        }
+
+        return $this->normalizeExportAnswer($question['answer']);
+    }
+
+    protected function normalizeExportAnswer($answer): string
+    {
+        if ($answer === null || $answer === '') {
+            return '';
+        }
+
+        if (is_string($answer)) {
+            $decoded = json_decode($answer, true);
+            if (json_last_error() !== JSON_ERROR_NONE) {
+                return $answer;
+            }
+
+            return $this->normalizeExportAnswer($decoded);
+        }
+
+        if (!is_array($answer)) {
+            return (string)$answer;
+        }
+
+        $lines = [];
+        foreach ($answer as $item) {
+            if (is_array($item)) {
+                $values = array_values(array_filter(array_map('strval', $item), static function ($value) {
+                    return $value !== '';
+                }));
+                if (!empty($values)) {
+                    $lines[] = implode(' / ', $values);
+                }
+                continue;
+            }
+
+            if ($item === null || $item === '') {
+                continue;
+            }
+
+            $lines[] = (string)$item;
+        }
+
+        return implode("\n", $lines);
+    }
+
+    protected function resolveListeningQuestionTitle(array $question): string
+    {
+        if (!empty($question['title'])) {
+            return (string)$question['title'];
+        }
+
+        return $this->normalizeContentForExport($question['content']);
+    }
+
+    protected function resolveWritingQuestionTitle(array $question): string
+    {
+        if (!empty($question['stem'])) {
+            return (string)$question['stem'];
+        }
+
+        if (!empty($question['content']) && (int)($question['group_type'] ?? 0) !== 6) {
+            return $this->normalizeContentForExport($question['content']);
+        }
+
+        return $question['group_title'] ?? '';
+    }
+
+    protected function formatSimpleListForExport(array $items): string
+    {
+        $lines = [];
+        foreach ($items as $item) {
+            if ($item === null || $item === '') {
+                continue;
+            }
+
+            $lines[] = is_scalar($item) ? (string)$item : $this->normalizeContentForExport($item);
+        }
+
+        return implode("\n", $lines);
+    }
+
+    protected function concatenateArrayFragments(array $items, string $separator = ' '): string
+    {
+        if (empty($items)) {
+            return '';
+        }
+
+        $parts = [];
+        foreach ($items as $item) {
+            if ($item === null || $item === '') {
+                continue;
+            }
+
+            if (is_scalar($item)) {
+                $parts[] = (string)$item;
+                continue;
+            }
+
+            if (is_array($item) && array_key_exists('text', $item)) {
+                $parts[] = (string)$item['text'];
+                continue;
+            }
+
+            $parts[] = $this->normalizeContentForExport($item);
+        }
+
+        if (empty($parts)) {
+            return '';
+        }
+
+        if ($separator === '') {
+            $separator = ' ';
+        }
+
+        if ($separator === "\n") {
+            $lines = [];
+            foreach ($parts as $part) {
+                $part = trim((string)$part);
+                if ($part === '') {
+                    continue;
+                }
+                $lines[] = preg_replace('/\s+/', ' ', $part);
+            }
+
+            return implode("\n", $lines);
+        }
+
+        $result = implode($separator, array_map(static function ($part) {
+            return trim((string)$part);
+        }, $parts));
+        $result = preg_replace('/\s+([,.;:?!])/', '$1', $result);
+        $result = preg_replace('/([(\["])\s+/', '$1', $result);
+        $result = preg_replace('/\s+([)\]"])/', '$1', $result);
+        $result = preg_replace('/\s+/', ' ', $result);
+
+        return trim((string)$result);
     }
 
     protected function normalizeContentForExport($content): string
