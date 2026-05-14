@@ -3756,7 +3756,7 @@ class StudentController extends BaseController
      */
     public function actionCreateSpecifyAccount()
     {
-        for ($i = 0; $i < 100; $i++) {
+        for ($i = 0; $i < 200; $i++) {
             $account = $this->randomAccount();
             $data = new StudentSpecifyAccount();
             $data->name = $account;

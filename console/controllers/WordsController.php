@@ -12,6 +12,7 @@ use app\models\VocabularyUnitRelation;
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\GuzzleException;
 use PhpOffice\PhpSpreadsheet\Spreadsheet;
+use PhpOffice\PhpSpreadsheet\Settings;
 use PhpOffice\PhpSpreadsheet\Writer\Xlsx;
 use yii\console\Controller;
 use yii\console\ExitCode;
@@ -80,7 +81,7 @@ class WordsController extends BaseController
      * - export-unbolded-meanings-in-examples [minBookId outputFile]：导出例句翻译中含有未加粗释义的数据
      * - fix-unbolded-meanings-in-examples [minBookId dryRun]：自动修复例句翻译中未加粗的释义
      * - fix-vocabulary-translations-from-json [inputFile dryRun]：根据 JSON 修复 vocabulary.translation
-     * - export-books-and-words [minBookId outputFile]：导出指定 id 及以上的词书和单词（词书名称、单词名称、汉语意思）
+     * - export-books-and-words [minBookId outputFile]：导出指定 id 及以上的词书和单词（词书名称、单词名称、汉语意思、例句、词组）
      */
     private const UNIPUS_ENDPOINT = 'https://open.unipus.cn/openapi/dict/v1/keyword';
     private const UNIPUS_LAN_ID = 1;
@@ -9409,12 +9410,15 @@ NAMES;
     }
 
     /**
-     * 导出指定 id 及以上的词书和单词信息（词书名称、单词名称、汉语意思）
+     * 导出指定 id 及以上的词书和单词信息（词书名称、单词名称、汉语意思、例句、词组）
      * php yii words/export-books-and-words [minBookId] [outputFile] [format]
      * format 支持 json, xlsx (默认 json)
      */
     public function actionExportBooksAndWords(int $minBookId = 195, string $outputFile = '', string $format = 'json'): int
     {
+        @ini_set('memory_limit', '1024M');
+        set_time_limit(0);
+
         $outputPath = $outputFile !== '' ? Yii::getAlias($outputFile) : Yii::getAlias('@console/runtime/tmp/books_and_words.json');
         $format = strtolower($format);
 
@@ -9435,6 +9439,32 @@ NAMES;
             $outputPath = preg_replace('/\.[^.]*$/', '', $outputPath) . '.csv';
         }
 
+        // 先确保目录存在
+        FileHelper::createDirectory(dirname($outputPath));
+
+        $spreadsheet = null;
+        $sheet = null;
+        $csvFile = null;
+        $row = 2;
+
+        if ($format === 'xlsx') {
+            $this->configureSpreadsheetCellCache();
+
+            $spreadsheet = new Spreadsheet();
+            $sheet = $spreadsheet->getActiveSheet();
+            $sheet->setTitle('词书单词清单');
+            $sheet->fromArray(['book_id', 'book_name', 'unit_name', 'word_name', 'translation', 'example_sentences', 'collocations'], null, 'A1');
+        } elseif ($format === 'csv') {
+            $csvFile = fopen($outputPath, 'w');
+            if ($csvFile === false) {
+                $this->stderr("无法打开输出文件：{$outputPath}\n");
+                return ExitCode::UNSPECIFIED_ERROR;
+            }
+
+            fwrite($csvFile, "\xEF\xBB\xBF");
+            fputcsv($csvFile, ['book_id', 'book_name', 'unit_name', 'word_name', 'translation', 'example_sentences', 'collocations']);
+        }
+
         // 获取指定 id 及以上的所有词书
         $books = VocabularyBook::find()
             ->where(['>=', 'id', $minBookId])
@@ -9448,12 +9478,21 @@ NAMES;
         foreach ($books as $book) {
 // 获取该词书下的所有单词及所属单元，按照 vocabulary_unit_relation 的顺序
             $words = (new Query())
-                ->select(['v.id', 'v.name', 'v.translation', 'GROUP_CONCAT(DISTINCT vbu.name SEPARATOR ", ") as unit_names', 'MIN(vur.order) as min_order'])
+                ->select([
+                    'v.id',
+                    'v.name',
+                    'v.translation',
+                    'ext.example_sentences',
+                    'ext.collocations',
+                    'GROUP_CONCAT(DISTINCT vbu.name SEPARATOR ", ") as unit_names',
+                    'MIN(vur.order) as min_order',
+                ])
                 ->from('vocabulary v')
                 ->innerJoin('vocabulary_unit_relation vur', 'v.id = vur.vocabulary_id')
                 ->leftJoin('vocabulary_book_unit vbu', 'vur.unit_id = vbu.id')
+                ->leftJoin('vocabulary_ext ext', 'v.id = ext.vocabulary_id')
                 ->where(['vur.book_id' => $book['id']])
-                ->groupBy(['v.id', 'v.name', 'v.translation'])
+                ->groupBy(['v.id', 'v.name', 'v.translation', 'ext.example_sentences', 'ext.collocations'])
                 ->orderBy(['min_order' => SORT_ASC])
                 ->all();
             
@@ -9463,42 +9502,46 @@ NAMES;
                     'name' => $word['name'],
                     'translation' => $word['translation'] ?? '',
                     'unit' => $word['unit_names'] ?? '',
+                    'example_sentences' => $this->decodeJsonValue($word['example_sentences'] ?? null),
+                    'collocations' => $this->decodeJsonValue($word['collocations'] ?? null),
                 ];
+
+                if ($sheet !== null) {
+                    $sheet->setCellValue('A' . $row, $book['id']);
+                    $sheet->setCellValue('B' . $row, $book['name']);
+                    $sheet->setCellValue('C' . $row, $word['unit_names'] ?? '');
+                    $sheet->setCellValue('D' . $row, $word['name']);
+                    $sheet->setCellValue('E' . $row, $word['translation'] ?? '');
+                    $sheet->setCellValue('F' . $row, $this->formatValueForFlatExport($this->decodeJsonValue($word['example_sentences'] ?? null)));
+                    $sheet->setCellValue('G' . $row, $this->formatValueForFlatExport($this->decodeJsonValue($word['collocations'] ?? null)));
+                    $row++;
+                } elseif ($csvFile !== null) {
+                    fputcsv($csvFile, [
+                        $book['id'],
+                        $book['name'],
+                        $word['unit_names'] ?? '',
+                        $word['name'],
+                        $word['translation'] ?? '',
+                        $this->formatValueForFlatExport($this->decodeJsonValue($word['example_sentences'] ?? null)),
+                        $this->formatValueForFlatExport($this->decodeJsonValue($word['collocations'] ?? null)),
+                    ]);
+                }
+
                 $totalWords++;
             }
 
-            $result[] = [
-                'id' => $book['id'],
-                'name' => $book['name'],
-                'words_count' => count($wordsData),
-                'words' => $wordsData,
-            ];
+            if ($format === 'json') {
+                $result[] = [
+                    'id' => $book['id'],
+                    'name' => $book['name'],
+                    'words_count' => count($wordsData),
+                    'words' => $wordsData,
+                ];
+            }
         }
 
-        // 先确保目录存在
-        FileHelper::createDirectory(dirname($outputPath));
-
         if ($format === 'xlsx') {
-            $spreadsheet = new Spreadsheet();
-            $sheet = $spreadsheet->getActiveSheet();
-            $sheet->setTitle('词书单词清单');
-
-            // 标题行
-            $sheet->fromArray(['book_id', 'book_name', 'unit_name', 'word_name', 'translation'], null, 'A1');
-
-            $row = 2;
-            foreach ($result as $book) {
-                foreach ($book['words'] as $word) {
-                    $sheet->setCellValue('A' . $row, $book['id']);
-                    $sheet->setCellValue('B' . $row, $book['name']);
-                    $sheet->setCellValue('C' . $row, $word['unit']);
-                    $sheet->setCellValue('D' . $row, $word['name']);
-                    $sheet->setCellValue('E' . $row, $word['translation']);
-                    $row++;
-                }
-            }
-
-            foreach (range('A', 'D') as $col) {
+            foreach (range('A', 'G') as $col) {
                 $sheet->getColumnDimension($col)->setAutoSize(true);
             }
 
@@ -9507,15 +9550,7 @@ NAMES;
             $spreadsheet->disconnectWorksheets();
 
         } elseif ($format === 'csv') {
-            $fp = fopen($outputPath, 'w');
-            fwrite($fp, "\xEF\xBB\xBF");
-            fputcsv($fp, ['book_id', 'book_name', 'unit_name', 'word_name', 'translation']);
-            foreach ($result as $book) {
-                foreach ($book['words'] as $word) {
-                    fputcsv($fp, [$book['id'], $book['name'], $word['unit'], $word['name'], $word['translation']]);
-                }
-            }
-            fclose($fp);
+            fclose($csvFile);
 
         } else {
             file_put_contents($outputPath, Json::encode($result, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
@@ -9529,5 +9564,115 @@ NAMES;
         ));
 
         return ExitCode::OK;
+    }
+
+    private function configureSpreadsheetCellCache(): void
+    {
+        $cacheDir = Yii::getAlias('@runtime') . '/tmp/phpspreadsheet-cache';
+        FileHelper::createDirectory($cacheDir);
+
+        Settings::setCache(new class($cacheDir) implements \Psr\SimpleCache\CacheInterface {
+            private string $directory;
+
+            public function __construct(string $directory)
+            {
+                $this->directory = $directory;
+            }
+
+            public function get($key, $default = null)
+            {
+                $path = $this->path($key);
+                if (!is_file($path)) {
+                    return $default;
+                }
+
+                $content = file_get_contents($path);
+                if ($content === false) {
+                    return $default;
+                }
+
+                return unserialize($content);
+            }
+
+            public function set($key, $value, $ttl = null)
+            {
+                return file_put_contents($this->path($key), serialize($value)) !== false;
+            }
+
+            public function delete($key)
+            {
+                $path = $this->path($key);
+                if (is_file($path)) {
+                    unlink($path);
+                }
+
+                return true;
+            }
+
+            public function clear()
+            {
+                foreach (glob($this->directory . '/*.cache') ?: [] as $file) {
+                    if (is_file($file)) {
+                        unlink($file);
+                    }
+                }
+
+                return true;
+            }
+
+            public function getMultiple($keys, $default = null)
+            {
+                $values = [];
+                foreach ($keys as $key) {
+                    $values[$key] = $this->get($key, $default);
+                }
+
+                return $values;
+            }
+
+            public function setMultiple($values, $ttl = null)
+            {
+                foreach ($values as $key => $value) {
+                    $this->set($key, $value, $ttl);
+                }
+
+                return true;
+            }
+
+            public function deleteMultiple($keys)
+            {
+                foreach ($keys as $key) {
+                    $this->delete($key);
+                }
+
+                return true;
+            }
+
+            public function has($key)
+            {
+                return is_file($this->path($key));
+            }
+
+            private function path($key): string
+            {
+                return $this->directory . '/' . sha1((string)$key) . '.cache';
+            }
+        });
+    }
+
+    /**
+     * @param mixed $value
+     */
+    private function formatValueForFlatExport($value): string
+    {
+        if ($value === null) {
+            return '';
+        }
+
+        if (is_array($value) || is_object($value)) {
+            return Json::encode($value, JSON_UNESCAPED_UNICODE);
+        }
+
+        return (string)$value;
     }
 }
