@@ -2,26 +2,12 @@
 
 return [
     'components' => [
-        'db'     => [
-            'class'    => 'yii\db\Connection',
-            'dsn'      => 'mysql:host=rm-bp128pqf5i369y123oo.mysql.rds.aliyuncs.com;dbname=dauyan',
-            'username' => 'dauyan_user',
-            'password' => 'jPGWJJfAMf6jQ6Da',
-            'charset'  => 'utf8mb4',
-            // 连接超时和稳定性配置
-            'attributes' => [
-                PDO::ATTR_TIMEOUT => 30, // 连接超时 30 秒
-                PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION,
-            ],
-            'enableSchemaCache' => true, // 启用表结构缓存
-            'schemaCacheDuration' => 3600, // 缓存 1 小时
-        ],
-        // 'db' => [
-        //     'class' => 'yii\db\Connection',
-        //     'dsn' => 'mysql:host=rm-bp10uv3ty30e60qamuo.mysql.rds.aliyuncs.com;dbname=dauyan',
+        // 'db'     => [
+        //     'class'    => 'yii\db\Connection',
+        //     'dsn'      => 'mysql:host=rm-bp128pqf5i369y123oo.mysql.rds.aliyuncs.com;dbname=dauyan',
         //     'username' => 'dauyan_user',
-        //     'password' => 'PpCwwY7aS48Utckg',
-        //     'charset' => 'utf8mb4',
+        //     'password' => 'jPGWJJfAMf6jQ6Da',
+        //     'charset'  => 'utf8mb4',
         //     // 连接超时和稳定性配置
         //     'attributes' => [
         //         PDO::ATTR_TIMEOUT => 30, // 连接超时 30 秒
@@ -30,6 +16,20 @@ return [
         //     'enableSchemaCache' => true, // 启用表结构缓存
         //     'schemaCacheDuration' => 3600, // 缓存 1 小时
         // ],
+        'db' => [
+            'class' => 'yii\db\Connection',
+            'dsn' => 'mysql:host=rm-bp10uv3ty30e60qamuo.mysql.rds.aliyuncs.com;dbname=dauyan',
+            'username' => 'dauyan_user',
+            'password' => 'PpCwwY7aS48Utckg',
+            'charset' => 'utf8mb4',
+            // 连接超时和稳定性配置
+            'attributes' => [
+                PDO::ATTR_TIMEOUT => 30, // 连接超时 30 秒
+                PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION,
+            ],
+            'enableSchemaCache' => true, // 启用表结构缓存
+            'schemaCacheDuration' => 3600, // 缓存 1 小时
+        ],
         'mailer' => [
             'class'            => 'yii\swiftmailer\Mailer',
             'viewPath'         => '@common/mail',

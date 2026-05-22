@@ -1,0 +1,6673 @@
+{
+  "generated_at": "2026-04-28T10:28:56+00:00",
+  "criteria": "真题听力/阅读答案项本身匹配时间、日期、星期、年月日或 1900-2099 年份格式；优先使用 display_answer/parsed_answer，选择题用选项表将答案 ID 或选项字母映射为选项文本后再筛选。",
+  "total": 178,
+  "summary_by_subject": {
+    "听力": 177,
+    "阅读": 1
+  },
+  "items": [
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 12860,
+      "paper_id": 1303,
+      "paper_title": "Part 2",
+      "paper_complete_title": "机经 Test 112-Part 2",
+      "paper_part": 2,
+      "paper_status": 1,
+      "group_id": 2891,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 11,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"8:25 am\"]",
+      "display_answer": "8:25 am",
+      "parsed_answer": "",
+      "answer_values": [
+        "8:25 am",
+        "8.25 am",
+        "8:25 a.m.",
+        "8.25 a.m.",
+        "8:25 AM",
+        "8.25 AM",
+        "8:25 A.M.",
+        "8.25 A.M.",
+        "08:25 am",
+        "08.25 am",
+        "08:25 a.m.",
+        "08.25 a.m.",
+        "08:25 AM",
+        "08.25 AM",
+        "08:25 A.M.",
+        "08.25 A.M."
+      ],
+      "matched_answers": [
+        {
+          "value": "8:25 am",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 12892,
+      "paper_id": 1306,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 113-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 2898,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 3,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"9\", \"9 am\"]",
+      "display_answer": "9 / 9 am",
+      "parsed_answer": "",
+      "answer_values": [
+        "9 am",
+        "9 a.m.",
+        "9 AM",
+        "9 A.M.",
+        "9am",
+        "9a.m.",
+        "9AM",
+        "9A.M.",
+        "9.00 am",
+        "9.00 a.m.",
+        "9.00 AM",
+        "9.00 A.M.",
+        "9:00 am",
+        "9:00 a.m.",
+        "9:00 AM",
+        "9:00 A.M.",
+        "9 o'clock",
+        "nine am",
+        "nine a.m.",
+        "nine AM",
+        "nine A.M."
+      ],
+      "matched_answers": [
+        {
+          "value": "9 am",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 13017,
+      "paper_id": 1318,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 117-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 2927,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 8,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"5 p.m\", \"5:00 p.m\"]",
+      "display_answer": "5 p.m / 5:00 p.m",
+      "parsed_answer": "",
+      "answer_values": [
+        "5 p.m.",
+        "5 pm",
+        "5pm",
+        "5 p.m",
+        "5:00 p.m.",
+        "5:00 pm",
+        "5:00pm",
+        "5:00 p.m",
+        "5.00 p.m.",
+        "5.00 pm",
+        "5.00pm",
+        "5.00 p.m",
+        "5 o'clock in the afternoon",
+        "five p.m.",
+        "five pm",
+        "fivepm",
+        "five p.m",
+        "5:00 in the afternoon"
+      ],
+      "matched_answers": [
+        {
+          "value": "5 p.m",
+          "type": "time"
+        },
+        {
+          "value": "5:00 p.m",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 13046,
+      "paper_id": 1321,
+      "paper_title": "Part 4",
+      "paper_complete_title": "机经 Test 117-Part 4",
+      "paper_part": 4,
+      "paper_status": 1,
+      "group_id": 2934,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 37,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"17th March\"]",
+      "display_answer": "17th March",
+      "parsed_answer": "",
+      "answer_values": [
+        "17 March",
+        "17th March",
+        "March 17",
+        "March 17th"
+      ],
+      "matched_answers": [
+        {
+          "value": "17th March",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 13066,
+      "paper_id": 1323,
+      "paper_title": "Part 2",
+      "paper_complete_title": "机经 Test 119-Part 2",
+      "paper_part": 2,
+      "paper_status": 1,
+      "group_id": 2937,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 17,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"9am - 5pm\"]",
+      "display_answer": "9am - 5pm",
+      "parsed_answer": "",
+      "answer_values": [
+        "9am - 5pm",
+        "9 am - 5 pm",
+        "9a.m. - 5p.m.",
+        "9 a.m. - 5 p.m.",
+        "9:00am - 5:00pm",
+        "9:00 am - 5:00 pm",
+        "9:00a.m. - 5:00p.m.",
+        "9:00 a.m. - 5:00 p.m.",
+        "9am-5pm",
+        "9 am-5 pm",
+        "9a.m.-5p.m.",
+        "9 a.m.-5 p.m.",
+        "9:00am-5:00pm",
+        "9:00 am-5:00 pm",
+        "9:00a.m.-5:00p.m.",
+        "9:00 a.m.-5:00 p.m.",
+        "9AM - 5PM",
+        "9 AM - 5 PM",
+        "9:00AM - 5:00PM",
+        "9:00 AM - 5:00 PM"
+      ],
+      "matched_answers": [
+        {
+          "value": "9am - 5pm",
+          "type": "time_range"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 13098,
+      "paper_id": 1326,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 128-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 2947,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 9,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"6:00 am\", \"6:00\"]",
+      "display_answer": "6:00 am / 6:00",
+      "parsed_answer": "",
+      "answer_values": [
+        "6:00 am",
+        "6:00 a.m.",
+        "6.00 am",
+        "6.00 a.m.",
+        "6am",
+        "6 a.m.",
+        "6 am",
+        "6a.m.",
+        "6:00",
+        "6.00"
+      ],
+      "matched_answers": [
+        {
+          "value": "6:00 am",
+          "type": "time"
+        },
+        {
+          "value": "6:00",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 13111,
+      "paper_id": 1328,
+      "paper_title": "Part 3",
+      "paper_complete_title": "机经 Test 128-Part 3",
+      "paper_part": 3,
+      "paper_status": 1,
+      "group_id": 2950,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 22,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"14:00\", \"2:00 pm\", \"2pm\"]",
+      "display_answer": "14:00 / 2:00 pm / 2pm",
+      "parsed_answer": "",
+      "answer_values": [
+        "14:00 / 2:00 pm / 2pm",
+        "14:00",
+        "2:00 pm",
+        "2pm"
+      ],
+      "matched_answers": [
+        {
+          "value": "14:00",
+          "type": "time"
+        },
+        {
+          "value": "2:00 pm",
+          "type": "time"
+        },
+        {
+          "value": "2pm",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 13128,
+      "paper_id": 1329,
+      "paper_title": "Part 4",
+      "paper_complete_title": "机经 Test 128-Part 4",
+      "paper_part": 4,
+      "paper_status": 1,
+      "group_id": 2953,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 39,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"June 30\"]",
+      "display_answer": "June 30",
+      "parsed_answer": "",
+      "answer_values": [
+        "June 30",
+        "30 June",
+        "June 30th",
+        "30th June",
+        "the 30th of June",
+        "the thirtieth of June"
+      ],
+      "matched_answers": [
+        {
+          "value": "June 30",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 13130,
+      "paper_id": 1330,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 120-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 2954,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 1,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"15 September\", \"15th September\"]",
+      "display_answer": "15 September / 15th September",
+      "parsed_answer": "",
+      "answer_values": [
+        "15 September",
+        "15th September",
+        "September 15",
+        "September 15th"
+      ],
+      "matched_answers": [
+        {
+          "value": "15 September",
+          "type": "date"
+        },
+        {
+          "value": "15th September",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 13171,
+      "paper_id": 1334,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 121-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 2962,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 2,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"8 o'clock\", \"8 am\"]",
+      "display_answer": "8 o'clock / 8 am",
+      "parsed_answer": "",
+      "answer_values": [
+        "8 am",
+        "8 a.m.",
+        "8 AM",
+        "8 A.M.",
+        "8am",
+        "8a.m.",
+        "8 o'clock",
+        "8 oclock",
+        "eight o'clock",
+        "eight oclock"
+      ],
+      "matched_answers": [
+        {
+          "value": "8 o'clock",
+          "type": "time"
+        },
+        {
+          "value": "8 am",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 13219,
+      "paper_id": 1338,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 122-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 2977,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 10,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"6th of October\", \"October 6th\"]",
+      "display_answer": "6th of October / October 6th",
+      "parsed_answer": "",
+      "answer_values": [
+        "6 October",
+        "6th October",
+        "October 6",
+        "October 6th",
+        "the 6th of October",
+        "6 Oct",
+        "6th Oct",
+        "Oct 6",
+        "Oct 6th"
+      ],
+      "matched_answers": [
+        {
+          "value": "October 6th",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 13312,
+      "paper_id": 1348,
+      "paper_title": "Part 3",
+      "paper_complete_title": "机经 Test 124-Part 3",
+      "paper_part": 3,
+      "paper_status": 1,
+      "group_id": 2997,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 23,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"30th July\"]",
+      "display_answer": "30th July",
+      "parsed_answer": "",
+      "answer_values": [
+        "30 July",
+        "30th July",
+        "July 30",
+        "July 30th"
+      ],
+      "matched_answers": [
+        {
+          "value": "30th July",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 13337,
+      "paper_id": 1350,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 125-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3001,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 8,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"10th February\"]",
+      "display_answer": "10th February",
+      "parsed_answer": "",
+      "answer_values": [
+        "10th February",
+        "10 February",
+        "February 10th",
+        "February 10"
+      ],
+      "matched_answers": [
+        {
+          "value": "10th February",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 13430,
+      "paper_id": 1360,
+      "paper_title": "Part 3",
+      "paper_complete_title": "机经 Test 127-Part 3",
+      "paper_part": 3,
+      "paper_status": 1,
+      "group_id": 3022,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 21,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"March 25th\"]",
+      "display_answer": "March 25th",
+      "parsed_answer": "",
+      "answer_values": [
+        "March 25",
+        "March 25th",
+        "25 March",
+        "25th March"
+      ],
+      "matched_answers": [
+        {
+          "value": "March 25th",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 13492,
+      "paper_id": 1366,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 132-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3040,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 3,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"3rd February 1979\", \"February 3 1979\"]",
+      "display_answer": "3rd February 1979 / February 3 1979",
+      "parsed_answer": "",
+      "answer_values": [
+        "3 February 1979",
+        "3rd February 1979",
+        "February 3 1979",
+        "February 3rd 1979",
+        "February 3, 1979",
+        "February 3rd, 1979",
+        "3/2/1979",
+        "3-2-1979",
+        "3.2.1979",
+        "03/02/1979",
+        "03-02-1979",
+        "03.02.1979",
+        "2/3/1979",
+        "2-3-1979",
+        "2.3.1979",
+        "02/03/1979",
+        "02-03-1979",
+        "02.03.1979"
+      ],
+      "matched_answers": [
+        {
+          "value": "3rd February 1979",
+          "type": "date"
+        },
+        {
+          "value": "February 3 1979",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 13535,
+      "paper_id": 1370,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 133-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3051,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 6,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"June 24th\"]",
+      "display_answer": "June 24th",
+      "parsed_answer": "",
+      "answer_values": [
+        "June 24th",
+        "June 24",
+        "24 June",
+        "24th June",
+        "the 24th of June",
+        "the twenty-fourth of June"
+      ],
+      "matched_answers": [
+        {
+          "value": "June 24th",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 13578,
+      "paper_id": 1374,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 135-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3060,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 9,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"17th July\"]",
+      "display_answer": "17th July",
+      "parsed_answer": "",
+      "answer_values": [
+        "17 July",
+        "17th July",
+        "July 17",
+        "July 17th"
+      ],
+      "matched_answers": [
+        {
+          "value": "17th July",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 13579,
+      "paper_id": 1374,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 135-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3060,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 10,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"1st August\"]",
+      "display_answer": "1st August",
+      "parsed_answer": "",
+      "answer_values": [
+        "1 August",
+        "1st August",
+        "August 1",
+        "August 1st"
+      ],
+      "matched_answers": [
+        {
+          "value": "1st August",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 13612,
+      "paper_id": 1378,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 136-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3068,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 3,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"13th July 1980\"]",
+      "display_answer": "13th July 1980",
+      "parsed_answer": "",
+      "answer_values": [
+        "13th July 1980",
+        "13 July 1980",
+        "July 13th, 1980",
+        "July 13, 1980",
+        "13/07/1980",
+        "13-07-1980",
+        "13.07.1980"
+      ],
+      "matched_answers": [
+        {
+          "value": "13th July 1980",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 13630,
+      "paper_id": 1380,
+      "paper_title": "Part 3",
+      "paper_complete_title": "机经 Test 136-Part 3",
+      "paper_part": 3,
+      "paper_status": 1,
+      "group_id": 3074,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 21,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"Thursday\"]",
+      "display_answer": "Thursday",
+      "parsed_answer": "",
+      "answer_values": [
+        "Thursday",
+        "Thurs"
+      ],
+      "matched_answers": [
+        {
+          "value": "Thursday",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 13734,
+      "paper_id": 1391,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 129-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3098,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 5,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"1:45\"]",
+      "display_answer": "1:45",
+      "parsed_answer": "",
+      "answer_values": [
+        "1:45",
+        "1.45",
+        "1:45 am",
+        "1:45 a.m.",
+        "1.45 am",
+        "1.45 a.m.",
+        "1:45 AM",
+        "1:45 A.M.",
+        "1.45 AM",
+        "1.45 A.M.",
+        "quarter to two",
+        "a quarter to two"
+      ],
+      "matched_answers": [
+        {
+          "value": "1:45",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 13736,
+      "paper_id": 1391,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 129-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3098,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 7,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"6:15\"]",
+      "display_answer": "6:15",
+      "parsed_answer": "",
+      "answer_values": [
+        "6:15",
+        "6.15",
+        "06:15",
+        "06.15",
+        "6:15 am",
+        "6:15 a.m.",
+        "6:15am",
+        "6:15a.m.",
+        "6.15 am",
+        "6.15 a.m.",
+        "6.15am",
+        "6.15a.m.",
+        "06:15 am",
+        "06:15 a.m.",
+        "06:15am",
+        "06:15a.m.",
+        "06.15 am",
+        "06.15 a.m.",
+        "06.15am",
+        "06.15a.m.",
+        "6:15 pm",
+        "6:15 p.m.",
+        "6:15pm",
+        "6:15p.m.",
+        "6.15 pm",
+        "6.15 p.m.",
+        "6.15pm",
+        "6.15p.m.",
+        "06:15 pm",
+        "06:15 p.m.",
+        "06:15pm",
+        "06:15p.m.",
+        "06.15 pm",
+        "06.15 p.m.",
+        "06.15pm",
+        "06.15p.m."
+      ],
+      "matched_answers": [
+        {
+          "value": "6:15",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 13737,
+      "paper_id": 1391,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 129-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3098,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 8,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"10:25\"]",
+      "display_answer": "10:25",
+      "parsed_answer": "",
+      "answer_values": [
+        "10:25",
+        "10.25",
+        "1025",
+        "10:25 am",
+        "10:25 a.m.",
+        "10:25 AM",
+        "10:25 A.M.",
+        "10.25 am",
+        "10.25 a.m.",
+        "10.25 AM",
+        "10.25 A.M.",
+        "1025 am",
+        "1025 a.m.",
+        "1025 AM",
+        "1025 A.M."
+      ],
+      "matched_answers": [
+        {
+          "value": "10:25",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 13772,
+      "paper_id": 1395,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 130-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3109,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 3,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"25th May 1983\"]",
+      "display_answer": "25th May 1983",
+      "parsed_answer": "",
+      "answer_values": [
+        "25 May 1983",
+        "25th May 1983",
+        "May 25 1983",
+        "May 25, 1983",
+        "May 25th 1983",
+        "May 25th, 1983",
+        "25/05/1983",
+        "25-05-1983",
+        "25.05.1983",
+        "05/25/1983",
+        "05-25-1983",
+        "05.25.1983"
+      ],
+      "matched_answers": [
+        {
+          "value": "25th May 1983",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 13780,
+      "paper_id": 1396,
+      "paper_title": "Part 2",
+      "paper_complete_title": "机经 Test 130-Part 2",
+      "paper_part": 2,
+      "paper_status": 1,
+      "group_id": 3112,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 11,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"31st October\"]",
+      "display_answer": "31st October",
+      "parsed_answer": "",
+      "answer_values": [
+        "31 October",
+        "31st October",
+        "October 31",
+        "October 31st"
+      ],
+      "matched_answers": [
+        {
+          "value": "31st October",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 13822,
+      "paper_id": 1400,
+      "paper_title": "Part 2",
+      "paper_complete_title": "机经 Test 134-Part 2",
+      "paper_part": 2,
+      "paper_status": 1,
+      "group_id": 3122,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 13,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"1957\"]",
+      "display_answer": "1957",
+      "parsed_answer": "",
+      "answer_values": [
+        "1957"
+      ],
+      "matched_answers": [
+        {
+          "value": "1957",
+          "type": "year"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 13930,
+      "paper_id": 1411,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 141-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3141,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 1,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"15 September\", \"15th September\"]",
+      "display_answer": "15 September / 15th September",
+      "parsed_answer": "",
+      "answer_values": [
+        "15 September",
+        "15th September",
+        "September 15",
+        "September 15th",
+        "15/09",
+        "15-09",
+        "15.09"
+      ],
+      "matched_answers": [
+        {
+          "value": "15 September",
+          "type": "date"
+        },
+        {
+          "value": "15th September",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 13971,
+      "paper_id": 1415,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 142-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3149,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 2,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"8 o'clock\", \"8 am\"]",
+      "display_answer": "8 o'clock / 8 am",
+      "parsed_answer": "",
+      "answer_values": [
+        "8 am",
+        "8 a.m.",
+        "8 AM",
+        "8 A.M.",
+        "8am",
+        "8a.m.",
+        "8 o'clock",
+        "8 oclock",
+        "eight o'clock",
+        "eight oclock"
+      ],
+      "matched_answers": [
+        {
+          "value": "8 o'clock",
+          "type": "time"
+        },
+        {
+          "value": "8 am",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 13992,
+      "paper_id": 1417,
+      "paper_title": "Part 3",
+      "paper_complete_title": "机经 Test 142-Part 3",
+      "paper_part": 3,
+      "paper_status": 1,
+      "group_id": 3154,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 23,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"June 20\", \"June 20th\", \"June 25\", \"June 25th\"]",
+      "display_answer": "June 20 / June 20th / June 25 / June 25th",
+      "parsed_answer": "",
+      "answer_values": [
+        "June 20 / June 20th / June 25 / June 25th",
+        "June 20",
+        "June 20th",
+        "June 25",
+        "June 25th"
+      ],
+      "matched_answers": [
+        {
+          "value": "June 20",
+          "type": "date"
+        },
+        {
+          "value": "June 20th",
+          "type": "date"
+        },
+        {
+          "value": "June 25",
+          "type": "date"
+        },
+        {
+          "value": "June 25th",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 14050,
+      "paper_id": 1423,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 144-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3172,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 1,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"8:00 a.m.\", \"8:00 a.m\", \"8 a.m.\", \"8 a.m\"]",
+      "display_answer": "8:00 a.m. / 8:00 a.m / 8 a.m. / 8 a.m",
+      "parsed_answer": "",
+      "answer_values": [
+        "8:00 a.m. / 8:00 a.m / 8 a.m. / 8 a.m",
+        "8:00 a.m.",
+        "8:00 a.m",
+        "8 a.m.",
+        "8 a.m"
+      ],
+      "matched_answers": [
+        {
+          "value": "8:00 a.m.",
+          "type": "time"
+        },
+        {
+          "value": "8:00 a.m",
+          "type": "time"
+        },
+        {
+          "value": "8 a.m.",
+          "type": "time"
+        },
+        {
+          "value": "8 a.m",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 14099,
+      "paper_id": 1427,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 145-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3183,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 10,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"6th of October\", \"October 6th\"]",
+      "display_answer": "6th of October / October 6th",
+      "parsed_answer": "",
+      "answer_values": [
+        "6 October",
+        "6th October",
+        "October 6",
+        "October 6th",
+        "the 6th of October",
+        "6 Oct",
+        "6th Oct",
+        "Oct 6",
+        "Oct 6th"
+      ],
+      "matched_answers": [
+        {
+          "value": "October 6th",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 14139,
+      "paper_id": 1431,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 150-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3191,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 10,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"23rd March\", \"23rd of March\"]",
+      "display_answer": "23rd March / 23rd of March",
+      "parsed_answer": "",
+      "answer_values": [
+        "23 March",
+        "23rd March",
+        "23rd of March",
+        "March 23",
+        "March 23rd",
+        "23/03",
+        "23-03",
+        "23.03"
+      ],
+      "matched_answers": [
+        {
+          "value": "23rd March",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 14294,
+      "paper_id": 1447,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 162-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3227,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 5,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"6:30 pm\"]",
+      "display_answer": "6:30 pm",
+      "parsed_answer": "",
+      "answer_values": [
+        "6:30 pm",
+        "6.30 pm",
+        "6:30pm",
+        "6.30pm",
+        "6:30 p.m.",
+        "6.30 p.m.",
+        "6:30 p.m",
+        "6.30 p.m",
+        "6:30pm",
+        "6.30pm",
+        "18:30",
+        "18.30"
+      ],
+      "matched_answers": [
+        {
+          "value": "6:30 pm",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 14377,
+      "paper_id": 1455,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 167-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3246,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 8,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"27th August\"]",
+      "display_answer": "27th August",
+      "parsed_answer": "",
+      "answer_values": [
+        "27th August",
+        "27 August",
+        "August 27th",
+        "August 27"
+      ],
+      "matched_answers": [
+        {
+          "value": "27th August",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 14382,
+      "paper_id": 1456,
+      "paper_title": "Part 2",
+      "paper_complete_title": "机经 Test 167-Part 2",
+      "paper_part": 2,
+      "paper_status": 1,
+      "group_id": 3248,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 13,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"1956\"]",
+      "display_answer": "1956",
+      "parsed_answer": "",
+      "answer_values": [
+        "1956",
+        "'56"
+      ],
+      "matched_answers": [
+        {
+          "value": "1956",
+          "type": "year"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 14388,
+      "paper_id": 1456,
+      "paper_title": "Part 2",
+      "paper_complete_title": "机经 Test 167-Part 2",
+      "paper_part": 2,
+      "paper_status": 1,
+      "group_id": 3248,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 19,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"1970\"]",
+      "display_answer": "1970",
+      "parsed_answer": "",
+      "answer_values": [
+        "1970",
+        "nineteen seventy"
+      ],
+      "matched_answers": [
+        {
+          "value": "1970",
+          "type": "year"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 14418,
+      "paper_id": 1459,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 168-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3255,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 9,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"6:00 am\", \"6:00\"]",
+      "display_answer": "6:00 am / 6:00",
+      "parsed_answer": "",
+      "answer_values": [
+        "6:00 am",
+        "6.00 am",
+        "6:00 a.m.",
+        "6.00 a.m.",
+        "6:00 AM",
+        "6.00 AM",
+        "6:00 A.M.",
+        "6.00 A.M.",
+        "6am",
+        "6 a.m.",
+        "6 AM",
+        "6 A.M.",
+        "06:00",
+        "06.00"
+      ],
+      "matched_answers": [
+        {
+          "value": "6:00 am",
+          "type": "time"
+        },
+        {
+          "value": "6:00",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 14431,
+      "paper_id": 1461,
+      "paper_title": "Part 3",
+      "paper_complete_title": "机经 Test 168-Part 3",
+      "paper_part": 3,
+      "paper_status": 1,
+      "group_id": 3258,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 22,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"14:00\", \"2:00 pm\", \"2pm\"]",
+      "display_answer": "14:00 / 2:00 pm / 2pm",
+      "parsed_answer": "",
+      "answer_values": [
+        "14:00 / 2:00 pm / 2pm",
+        "14:00",
+        "2:00 pm",
+        "2pm"
+      ],
+      "matched_answers": [
+        {
+          "value": "14:00",
+          "type": "time"
+        },
+        {
+          "value": "2:00 pm",
+          "type": "time"
+        },
+        {
+          "value": "2pm",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 14448,
+      "paper_id": 1462,
+      "paper_title": "Part 4",
+      "paper_complete_title": "机经 Test 168-Part 4",
+      "paper_part": 4,
+      "paper_status": 1,
+      "group_id": 3261,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 39,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"June 30\"]",
+      "display_answer": "June 30",
+      "parsed_answer": "",
+      "answer_values": [
+        "June 30",
+        "30 June",
+        "June 30th",
+        "30th June",
+        "the 30th of June",
+        "the thirtieth of June"
+      ],
+      "matched_answers": [
+        {
+          "value": "June 30",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 14466,
+      "paper_id": 1464,
+      "paper_title": "Part 2",
+      "paper_complete_title": "机经 Test 169-Part 2",
+      "paper_part": 2,
+      "paper_status": 1,
+      "group_id": 3264,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 17,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"9am - 5pm\", \"9am-5pm\", \"9am -5pm\", \"9am- 5pm\", \"9AM - 5PM\", \"9AM-5PM\", \"9AM -5PM\", \"9AM- 5PM\"]",
+      "display_answer": "9am - 5pm",
+      "parsed_answer": "",
+      "answer_values": [
+        "9am - 5pm",
+        "9am-5pm",
+        "9am -5pm",
+        "9am- 5pm",
+        "9AM - 5PM",
+        "9AM-5PM",
+        "9AM -5PM",
+        "9AM- 5PM"
+      ],
+      "matched_answers": [
+        {
+          "value": "9am - 5pm",
+          "type": "time_range"
+        },
+        {
+          "value": "9am-5pm",
+          "type": "time_range"
+        },
+        {
+          "value": "9am -5pm",
+          "type": "time_range"
+        },
+        {
+          "value": "9am- 5pm",
+          "type": "time_range"
+        },
+        {
+          "value": "9AM - 5PM",
+          "type": "time_range"
+        },
+        {
+          "value": "9AM-5PM",
+          "type": "time_range"
+        },
+        {
+          "value": "9AM -5PM",
+          "type": "time_range"
+        },
+        {
+          "value": "9AM- 5PM",
+          "type": "time_range"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 14504,
+      "paper_id": 1468,
+      "paper_title": "Part 2",
+      "paper_complete_title": "机经 Test 92-Part 2",
+      "paper_part": 2,
+      "paper_status": 1,
+      "group_id": 3273,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 15,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"1951\"]",
+      "display_answer": "1951",
+      "parsed_answer": "",
+      "answer_values": [
+        "1951",
+        "nineteen fifty-one"
+      ],
+      "matched_answers": [
+        {
+          "value": "1951",
+          "type": "year"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 14506,
+      "paper_id": 1468,
+      "paper_title": "Part 2",
+      "paper_complete_title": "机经 Test 92-Part 2",
+      "paper_part": 2,
+      "paper_status": 1,
+      "group_id": 3273,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 17,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"6:30 p.m.\"]",
+      "display_answer": "6:30 p.m.",
+      "parsed_answer": "",
+      "answer_values": [
+        "6:30 p.m.",
+        "6.30 p.m.",
+        "6:30 pm",
+        "6.30 pm",
+        "6:30p.m.",
+        "6.30p.m.",
+        "6:30pm",
+        "6.30pm",
+        "6:30 P.M.",
+        "6.30 P.M.",
+        "6:30 PM",
+        "6.30 PM",
+        "6:30P.M.",
+        "6.30P.M.",
+        "6:30PM",
+        "6.30PM",
+        "18:30",
+        "18.30"
+      ],
+      "matched_answers": [
+        {
+          "value": "6:30 p.m.",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 14507,
+      "paper_id": 1468,
+      "paper_title": "Part 2",
+      "paper_complete_title": "机经 Test 92-Part 2",
+      "paper_part": 2,
+      "paper_status": 1,
+      "group_id": 3273,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 18,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"Wednesday\", \"Friday\"]",
+      "display_answer": "Wednesday / Friday",
+      "parsed_answer": "",
+      "answer_values": [
+        "Wednesday / Friday",
+        "Wednesday or Friday",
+        "Wed / Fri",
+        "Wed or Fri",
+        "Wednesday and Friday",
+        "Wed and Fri"
+      ],
+      "matched_answers": [
+        {
+          "value": "Wednesday",
+          "type": "date"
+        },
+        {
+          "value": "Friday",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 14536,
+      "paper_id": 1471,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 94-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3280,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 7,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"October 17th\"]",
+      "display_answer": "October 17th",
+      "parsed_answer": "",
+      "answer_values": [
+        "17 October",
+        "17th October",
+        "October 17",
+        "October 17th"
+      ],
+      "matched_answers": [
+        {
+          "value": "October 17th",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 14572,
+      "paper_id": 1475,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 96-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3288,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 3,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"21st of January\", \"21st January\"]",
+      "display_answer": "21st of January / 21st January",
+      "parsed_answer": "",
+      "answer_values": [
+        "21st January",
+        "21 January",
+        "January 21st",
+        "January 21",
+        "the 21st of January",
+        "21st of January"
+      ],
+      "matched_answers": [
+        {
+          "value": "21st January",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 14619,
+      "paper_id": 1479,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 102-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3297,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 10,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"23rd March\", \"23rd of March\"]",
+      "display_answer": "23rd March / 23rd of March",
+      "parsed_answer": "",
+      "answer_values": [
+        "23 March",
+        "23rd March",
+        "23rd of March",
+        "March 23",
+        "March 23rd",
+        "the 23rd of March"
+      ],
+      "matched_answers": [
+        {
+          "value": "23rd March",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 14816,
+      "paper_id": 1499,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 38-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3337,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 7,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"4:30\"]",
+      "display_answer": "4:30",
+      "parsed_answer": "",
+      "answer_values": [
+        "4:30",
+        "4.30",
+        "4:30 am",
+        "4:30 a.m.",
+        "4.30 am",
+        "4.30 a.m.",
+        "4:30 pm",
+        "4:30 p.m.",
+        "4.30 pm",
+        "4.30 p.m.",
+        "half past four",
+        "half past 4"
+      ],
+      "matched_answers": [
+        {
+          "value": "4:30",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 14826,
+      "paper_id": 1500,
+      "paper_title": "Part 2",
+      "paper_complete_title": "机经 Test 38-Part 2",
+      "paper_part": 2,
+      "paper_status": 1,
+      "group_id": 3340,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 17,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"October 19th\"]",
+      "display_answer": "October 19th",
+      "parsed_answer": "",
+      "answer_values": [
+        "19 October",
+        "19th October",
+        "October 19",
+        "October 19th"
+      ],
+      "matched_answers": [
+        {
+          "value": "October 19th",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 14892,
+      "paper_id": 1507,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 42-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3355,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 3,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"13 July 1980\"]",
+      "display_answer": "13 July 1980",
+      "parsed_answer": "",
+      "answer_values": [
+        "13 July 1980",
+        "13th July 1980",
+        "July 13, 1980",
+        "July 13th, 1980",
+        "13/07/1980",
+        "13-07-1980",
+        "13.07.1980",
+        "1980-07-13"
+      ],
+      "matched_answers": [
+        {
+          "value": "13 July 1980",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 15053,
+      "paper_id": 1523,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 50-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3392,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 4,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"17th July\", \"17th of July\"]",
+      "display_answer": "17th July / 17th of July",
+      "parsed_answer": "",
+      "answer_values": [
+        "17 July",
+        "17th July",
+        "July 17",
+        "July 17th",
+        "the 17th of July"
+      ],
+      "matched_answers": [
+        {
+          "value": "17th July",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 15093,
+      "paper_id": 1527,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 55-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3399,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 4,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"15 October\", \"15th October\", \"15th of October\", \"15 of October\"]",
+      "display_answer": "15 October / 15th October / 15th of October / 15 of October",
+      "parsed_answer": "",
+      "answer_values": [
+        "15 October / 15th October / 15th of October / 15 of October",
+        "15 October",
+        "15th October",
+        "15th of October",
+        "15 of October"
+      ],
+      "matched_answers": [
+        {
+          "value": "15 October",
+          "type": "date"
+        },
+        {
+          "value": "15th October",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 15176,
+      "paper_id": 1535,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 65-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3420,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 7,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"28 June\"]",
+      "display_answer": "28 June",
+      "parsed_answer": "",
+      "answer_values": [
+        "28 June",
+        "28th June",
+        "June 28",
+        "June 28th"
+      ],
+      "matched_answers": [
+        {
+          "value": "28 June",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 15178,
+      "paper_id": 1535,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 65-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3420,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 9,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"12.00 pm\", \"12.00\", \"noon\", \"mid-day\"]",
+      "display_answer": "12.00 pm / 12.00 / noon / mid-day",
+      "parsed_answer": "",
+      "answer_values": [
+        "12.00 pm / 12.00 / noon / mid-day",
+        "12.00 pm",
+        "12.00",
+        "noon",
+        "mid-day"
+      ],
+      "matched_answers": [
+        {
+          "value": "12.00 pm",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 15223,
+      "paper_id": 1540,
+      "paper_title": "Part 2",
+      "paper_complete_title": "机经 Test 70-Part 2",
+      "paper_part": 2,
+      "paper_status": 1,
+      "group_id": 3432,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 14,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"1983\", \"the 1980s\", \"1980s\"]",
+      "display_answer": "1983 / the 1980s / 1980s",
+      "parsed_answer": "",
+      "answer_values": [
+        "1983 / the 1980s / 1980s",
+        "1983",
+        "the 1980s",
+        "1980s"
+      ],
+      "matched_answers": [
+        {
+          "value": "1983",
+          "type": "year"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 15259,
+      "paper_id": 1543,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 74-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3440,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 10,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"5\", \"5 o'clock\"]",
+      "display_answer": "5 / 5 o'clock",
+      "parsed_answer": "",
+      "answer_values": [
+        "5 o'clock",
+        "5.00",
+        "5:00",
+        "five o'clock"
+      ],
+      "matched_answers": [
+        {
+          "value": "5 o'clock",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 15301,
+      "paper_id": 1548,
+      "paper_title": "Part 2",
+      "paper_complete_title": "机经 Test 80-Part 2",
+      "paper_part": 2,
+      "paper_status": 1,
+      "group_id": 3451,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 12,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"25 December\"]",
+      "display_answer": "25 December",
+      "parsed_answer": "",
+      "answer_values": [
+        "25 December",
+        "25th December",
+        "December 25",
+        "December 25th"
+      ],
+      "matched_answers": [
+        {
+          "value": "25 December",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 15332,
+      "paper_id": 1551,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 81-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3458,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 3,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"10.15 am\"]",
+      "display_answer": "10.15 am",
+      "parsed_answer": "",
+      "answer_values": [
+        "10.15 am",
+        "10.15 a.m.",
+        "10:15 am",
+        "10:15 a.m.",
+        "10.15am",
+        "10:15am",
+        "10.15a.m.",
+        "10:15a.m."
+      ],
+      "matched_answers": [
+        {
+          "value": "10.15 am",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 15335,
+      "paper_id": 1551,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 81-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3458,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 6,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"6.30 pm\"]",
+      "display_answer": "6.30 pm",
+      "parsed_answer": "",
+      "answer_values": [
+        "6.30 pm",
+        "6.30pm",
+        "6:30 pm",
+        "6:30pm",
+        "6.30 p.m.",
+        "6.30p.m.",
+        "6:30 p.m.",
+        "6:30p.m.",
+        "6.30 PM",
+        "6.30PM",
+        "6:30 PM",
+        "6:30PM",
+        "6.30 P.M.",
+        "6.30P.M.",
+        "6:30 P.M.",
+        "6:30P.M."
+      ],
+      "matched_answers": [
+        {
+          "value": "6.30 pm",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 15488,
+      "paper_id": 1566,
+      "paper_title": "Part 4",
+      "paper_complete_title": "机经 Test 86-Part 4",
+      "paper_part": 4,
+      "paper_status": 1,
+      "group_id": 3489,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 39,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"1986\"]",
+      "display_answer": "1986",
+      "parsed_answer": "",
+      "answer_values": [
+        "1986",
+        "'86"
+      ],
+      "matched_answers": [
+        {
+          "value": "1986",
+          "type": "year"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 15490,
+      "paper_id": 1567,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 87-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3490,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 1,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"10.25\", \"10.25 am\"]",
+      "display_answer": "10.25 / 10.25 am",
+      "parsed_answer": "",
+      "answer_values": [
+        "10.25 am",
+        "10.25 a.m.",
+        "10.25am",
+        "10.25a.m.",
+        "10:25 am",
+        "10:25 a.m.",
+        "10:25am",
+        "10:25a.m.",
+        "10.25 AM",
+        "10.25 A.M.",
+        "10.25AM",
+        "10.25A.M.",
+        "10:25 AM",
+        "10:25 A.M.",
+        "10:25AM",
+        "10:25A.M."
+      ],
+      "matched_answers": [
+        {
+          "value": "10.25 am",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 15621,
+      "paper_id": 1580,
+      "paper_title": "Part 2",
+      "paper_complete_title": "机经 Test 1-Part 2",
+      "paper_part": 2,
+      "paper_status": 1,
+      "group_id": 3517,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 12,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"7:30\", \"7.30\"]",
+      "display_answer": "7:30 / 7.30",
+      "parsed_answer": "",
+      "answer_values": [
+        "7:30",
+        "7.30",
+        "7:30 am",
+        "7.30 am",
+        "7:30 a.m.",
+        "7.30 a.m.",
+        "7:30 AM",
+        "7.30 AM",
+        "7:30 A.M.",
+        "7.30 A.M.",
+        "7:30 pm",
+        "7.30 pm",
+        "7:30 p.m.",
+        "7.30 p.m.",
+        "7:30 PM",
+        "7.30 PM",
+        "7:30 P.M.",
+        "7.30 P.M."
+      ],
+      "matched_answers": [
+        {
+          "value": "7:30",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 15661,
+      "paper_id": 1584,
+      "paper_title": "Part 2",
+      "paper_complete_title": "机经 Test 2-Part 2",
+      "paper_part": 2,
+      "paper_status": 1,
+      "group_id": 3525,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 12,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"1998\"]",
+      "display_answer": "1998",
+      "parsed_answer": "",
+      "answer_values": [
+        "1998",
+        "'98"
+      ],
+      "matched_answers": [
+        {
+          "value": "1998",
+          "type": "year"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 15780,
+      "paper_id": 1596,
+      "paper_title": "Part 2",
+      "paper_complete_title": "机经 Test 5-Part 2",
+      "paper_part": 2,
+      "paper_status": 1,
+      "group_id": 3552,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 11,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"June 6th\"]",
+      "display_answer": "June 6th",
+      "parsed_answer": "",
+      "answer_values": [
+        "June 6th",
+        "6th June",
+        "June 6",
+        "6 June"
+      ],
+      "matched_answers": [
+        {
+          "value": "June 6th",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 15932,
+      "paper_id": 1611,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 9-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3583,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 3,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"11th June\"]",
+      "display_answer": "11th June",
+      "parsed_answer": "",
+      "answer_values": [
+        "11th June",
+        "11 June",
+        "June 11th",
+        "June 11"
+      ],
+      "matched_answers": [
+        {
+          "value": "11th June",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 16019,
+      "paper_id": 1619,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 11-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3597,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 10,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"30th April\", \"April 30\", \"30/04\"]",
+      "display_answer": "30th April / April 30 / 30/04",
+      "parsed_answer": "",
+      "answer_values": [
+        "30th April / April 30 / 30/04",
+        "30th April",
+        "April 30",
+        "30/04"
+      ],
+      "matched_answers": [
+        {
+          "value": "30th April",
+          "type": "date"
+        },
+        {
+          "value": "April 30",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 16176,
+      "paper_id": 1635,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 15-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3631,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 7,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"29 February\", \"29th February\"]",
+      "display_answer": "29 February / 29th February",
+      "parsed_answer": "",
+      "answer_values": [
+        "29 February",
+        "29th February",
+        "February 29",
+        "February 29th"
+      ],
+      "matched_answers": [
+        {
+          "value": "29 February",
+          "type": "date"
+        },
+        {
+          "value": "29th February",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 16252,
+      "paper_id": 1643,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 17-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3646,
+      "group_type": "图片填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 3,
+      "sub_essay_code": "",
+      "title": "Event Details\nExample\nType of event: Dragon Boat Race\nRace details\nDay & date:   \nPlace: Brighton   \nRegistration time: \nSponsorship\n- aim to raise over    pounds (£) as a team and get a free t-shirt\n- free Prize Draw for trip to   \nTeam details\n- must have crew of 20 and elect a   \n- under 18s need to have    to enter\n- need to hire   \n- advised to bring extra   \n- must choose a    for the team",
+      "raw_answer": "[\"9.30\", \"9.30 am\", \"9:30\", \"9:30 am\"]",
+      "display_answer": "9.30 / 9.30 am / 9:30 / 9:30 am",
+      "parsed_answer": "",
+      "answer_values": [
+        "9.30 / 9.30 am / 9:30 / 9:30 am",
+        "9.30",
+        "9.30 am",
+        "9:30",
+        "9:30 am"
+      ],
+      "matched_answers": [
+        {
+          "value": "9.30 am",
+          "type": "time"
+        },
+        {
+          "value": "9:30",
+          "type": "time"
+        },
+        {
+          "value": "9:30 am",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 16302,
+      "paper_id": 1648,
+      "paper_title": "Part 2",
+      "paper_complete_title": "机经 Test 18-Part 2",
+      "paper_part": 2,
+      "paper_status": 1,
+      "group_id": 3660,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 13,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"10th Dec\", \"10th December\"]",
+      "display_answer": "10th Dec / 10th December",
+      "parsed_answer": "",
+      "answer_values": [
+        "10 Dec",
+        "10th Dec",
+        "10 December",
+        "10th December",
+        "Dec 10",
+        "Dec 10th",
+        "December 10",
+        "December 10th"
+      ],
+      "matched_answers": [
+        {
+          "value": "10th Dec",
+          "type": "date"
+        },
+        {
+          "value": "10th December",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 16333,
+      "paper_id": 1651,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 19-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3666,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 4,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"1976\"]",
+      "display_answer": "1976",
+      "parsed_answer": "",
+      "answer_values": [
+        "1976",
+        "'76"
+      ],
+      "matched_answers": [
+        {
+          "value": "1976",
+          "type": "year"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 16348,
+      "paper_id": 1652,
+      "paper_title": "Part 2",
+      "paper_complete_title": "机经 Test 19-Part 2",
+      "paper_part": 2,
+      "paper_status": 1,
+      "group_id": 3670,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 19,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"4.30pm\"]",
+      "display_answer": "4.30pm",
+      "parsed_answer": "",
+      "answer_values": [
+        "4.30pm",
+        "4.30 pm",
+        "4:30pm",
+        "4:30 pm",
+        "4.30p.m.",
+        "4.30 p.m.",
+        "4:30p.m.",
+        "4:30 p.m.",
+        "4.30PM",
+        "4.30 PM",
+        "4:30PM",
+        "4:30 PM",
+        "4.30P.M.",
+        "4.30 P.M.",
+        "4:30P.M.",
+        "4:30 P.M."
+      ],
+      "matched_answers": [
+        {
+          "value": "4.30pm",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 16360,
+      "paper_id": 1654,
+      "paper_title": "Part 4",
+      "paper_complete_title": "机经 Test 19-Part 4",
+      "paper_part": 4,
+      "paper_status": 1,
+      "group_id": 3673,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 31,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"1964\"]",
+      "display_answer": "1964",
+      "parsed_answer": "",
+      "answer_values": [
+        "1964",
+        "'64"
+      ],
+      "matched_answers": [
+        {
+          "value": "1964",
+          "type": "year"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 16498,
+      "paper_id": 1667,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 23-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3701,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 9,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"14th September\", \"September 14th\", \"September 14\", \"14 September\"]",
+      "display_answer": "14th September / September 14th / September 14 / 14 September",
+      "parsed_answer": "",
+      "answer_values": [
+        "14th September / September 14th / September 14 / 14 September",
+        "14th September",
+        "September 14th",
+        "September 14",
+        "14 September"
+      ],
+      "matched_answers": [
+        {
+          "value": "14th September",
+          "type": "date"
+        },
+        {
+          "value": "September 14th",
+          "type": "date"
+        },
+        {
+          "value": "September 14",
+          "type": "date"
+        },
+        {
+          "value": "14 September",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 16578,
+      "paper_id": 1675,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 25-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3716,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 9,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"6:00 am\", \"6 am\"]",
+      "display_answer": "6:00 am / 6 am",
+      "parsed_answer": "",
+      "answer_values": [
+        "6 am",
+        "6am",
+        "6 a.m.",
+        "6a.m.",
+        "6:00 am",
+        "6:00am",
+        "6:00 a.m.",
+        "6:00a.m.",
+        "6 AM",
+        "6AM",
+        "6 A.M.",
+        "6A.M.",
+        "6:00 AM",
+        "6:00AM",
+        "6:00 A.M.",
+        "6:00A.M."
+      ],
+      "matched_answers": [
+        {
+          "value": "6:00 am",
+          "type": "time"
+        },
+        {
+          "value": "6 am",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 16585,
+      "paper_id": 1676,
+      "paper_title": "Part 2",
+      "paper_complete_title": "机经 Test 25-Part 2",
+      "paper_part": 2,
+      "paper_status": 1,
+      "group_id": 3717,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 16,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"Saturday\"]",
+      "display_answer": "Saturday",
+      "parsed_answer": "",
+      "answer_values": [
+        "Saturday",
+        "Sat",
+        "sat"
+      ],
+      "matched_answers": [
+        {
+          "value": "Saturday",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 16591,
+      "paper_id": 1677,
+      "paper_title": "Part 3",
+      "paper_complete_title": "机经 Test 25-Part 3",
+      "paper_part": 3,
+      "paper_status": 1,
+      "group_id": 3719,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 22,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"2:00 p.m\", \"2:00 pm\", \"2 pm\", \"2 o'clock\"]",
+      "display_answer": "2:00 p.m / 2:00 pm / 2 pm / 2 o'clock",
+      "parsed_answer": "",
+      "answer_values": [
+        "2:00 p.m / 2:00 pm / 2 pm / 2 o'clock",
+        "2:00 p.m",
+        "2:00 pm",
+        "2 pm",
+        "2 o'clock"
+      ],
+      "matched_answers": [
+        {
+          "value": "2:00 p.m",
+          "type": "time"
+        },
+        {
+          "value": "2:00 pm",
+          "type": "time"
+        },
+        {
+          "value": "2 pm",
+          "type": "time"
+        },
+        {
+          "value": "2 o'clock",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 16608,
+      "paper_id": 1678,
+      "paper_title": "Part 4",
+      "paper_complete_title": "机经 Test 25-Part 4",
+      "paper_part": 4,
+      "paper_status": 1,
+      "group_id": 3722,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 39,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"June 30\", \"June 30th\"]",
+      "display_answer": "June 30 / June 30th",
+      "parsed_answer": "",
+      "answer_values": [
+        "June 30",
+        "June 30th",
+        "30 June",
+        "30th June"
+      ],
+      "matched_answers": [
+        {
+          "value": "June 30",
+          "type": "date"
+        },
+        {
+          "value": "June 30th",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 16611,
+      "paper_id": 1679,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 26-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3723,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 2,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"1 June\", \"1st June\"]",
+      "display_answer": "1 June / 1st June",
+      "parsed_answer": "",
+      "answer_values": [
+        "1 June",
+        "1st June",
+        "June 1",
+        "June 1st"
+      ],
+      "matched_answers": [
+        {
+          "value": "1 June",
+          "type": "date"
+        },
+        {
+          "value": "1st June",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 16691,
+      "paper_id": 1687,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 28-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3742,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 2,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"26th August\"]",
+      "display_answer": "26th August",
+      "parsed_answer": "",
+      "answer_values": [
+        "26 August",
+        "26th August",
+        "August 26",
+        "August 26th"
+      ],
+      "matched_answers": [
+        {
+          "value": "26th August",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 16738,
+      "paper_id": 1691,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 29-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3756,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 9,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"Thursday\"]",
+      "display_answer": "Thursday",
+      "parsed_answer": "",
+      "answer_values": [
+        "Thursday",
+        "Thurs"
+      ],
+      "matched_answers": [
+        {
+          "value": "Thursday",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 16869,
+      "paper_id": 1704,
+      "paper_title": "Part 2",
+      "paper_complete_title": "机经 Test 32-Part 2",
+      "paper_part": 2,
+      "paper_status": 1,
+      "group_id": 3780,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 20,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"11:30\", \"11.30\"]",
+      "display_answer": "11:30 / 11.30",
+      "parsed_answer": "",
+      "answer_values": [
+        "11:30",
+        "11.30",
+        "11:30 am",
+        "11.30 am",
+        "11:30 a.m.",
+        "11.30 a.m.",
+        "11:30 AM",
+        "11.30 AM",
+        "11:30 A.M.",
+        "11.30 A.M.",
+        "half past eleven"
+      ],
+      "matched_answers": [
+        {
+          "value": "11:30",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 16933,
+      "paper_id": 1711,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 36-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3794,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 4,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"Monday\"]",
+      "display_answer": "Monday",
+      "parsed_answer": "",
+      "answer_values": [
+        "Monday"
+      ],
+      "matched_answers": [
+        {
+          "value": "Monday",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 16934,
+      "paper_id": 1711,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 36-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3794,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 5,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"Thursday\"]",
+      "display_answer": "Thursday",
+      "parsed_answer": "",
+      "answer_values": [
+        "Thursday",
+        "Thurs"
+      ],
+      "matched_answers": [
+        {
+          "value": "Thursday",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 16944,
+      "paper_id": 1712,
+      "paper_title": "Part 2",
+      "paper_complete_title": "机经 Test 36-Part 2",
+      "paper_part": 2,
+      "paper_status": 1,
+      "group_id": 3796,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 15,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"3:10\"]",
+      "display_answer": "3:10",
+      "parsed_answer": "",
+      "answer_values": [
+        "3:10",
+        "3.10",
+        "03:10",
+        "03.10",
+        "3:10 am",
+        "3:10 a.m.",
+        "3:10 AM",
+        "3:10 A.M.",
+        "3.10 am",
+        "3.10 a.m.",
+        "3.10 AM",
+        "3.10 A.M.",
+        "03:10 am",
+        "03:10 a.m.",
+        "03:10 AM",
+        "03:10 A.M.",
+        "03.10 am",
+        "03.10 a.m.",
+        "03.10 AM",
+        "03.10 A.M."
+      ],
+      "matched_answers": [
+        {
+          "value": "3:10",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 17014,
+      "paper_id": 1719,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 41-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3812,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 10,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"March 5th\"]",
+      "display_answer": "March 5th",
+      "parsed_answer": "",
+      "answer_values": [
+        "March 5th",
+        "5th March",
+        "March 5",
+        "5 March",
+        "the 5th of March"
+      ],
+      "matched_answers": [
+        {
+          "value": "March 5th",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 17047,
+      "paper_id": 1723,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 45-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3819,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 3,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"10.15 am\"]",
+      "display_answer": "10.15 am",
+      "parsed_answer": "",
+      "answer_values": [
+        "10.15 am",
+        "10.15 a.m.",
+        "10.15am",
+        "10:15 am",
+        "10:15 a.m.",
+        "10:15am",
+        "10.15 AM",
+        "10.15 A.M.",
+        "10.15AM",
+        "10:15 AM",
+        "10:15 A.M.",
+        "10:15AM"
+      ],
+      "matched_answers": [
+        {
+          "value": "10.15 am",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 17050,
+      "paper_id": 1723,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 45-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3819,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 6,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"6.30 pm\"]",
+      "display_answer": "6.30 pm",
+      "parsed_answer": "",
+      "answer_values": [
+        "6.30 pm",
+        "6.30pm",
+        "6:30 pm",
+        "6:30pm",
+        "6.30 p.m.",
+        "6.30p.m.",
+        "6:30 p.m.",
+        "6:30p.m.",
+        "6.30 PM",
+        "6.30PM",
+        "6:30 PM",
+        "6:30PM",
+        "6.30 P.M.",
+        "6.30P.M.",
+        "6:30 P.M.",
+        "6:30P.M."
+      ],
+      "matched_answers": [
+        {
+          "value": "6.30 pm",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 17163,
+      "paper_id": 1734,
+      "paper_title": "Part 4",
+      "paper_complete_title": "机经 Test 54-Part 4",
+      "paper_part": 4,
+      "paper_status": 1,
+      "group_id": 3843,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 39,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"1986\"]",
+      "display_answer": "1986",
+      "parsed_answer": "",
+      "answer_values": [
+        "1986",
+        "'86"
+      ],
+      "matched_answers": [
+        {
+          "value": "1986",
+          "type": "year"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 17332,
+      "paper_id": 1751,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 60-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3873,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 8,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"23 April\", \"23rd April\"]",
+      "display_answer": "23 April / 23rd April",
+      "parsed_answer": "",
+      "answer_values": [
+        "23 April",
+        "23rd April",
+        "April 23",
+        "April 23rd"
+      ],
+      "matched_answers": [
+        {
+          "value": "23 April",
+          "type": "date"
+        },
+        {
+          "value": "23rd April",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 17333,
+      "paper_id": 1751,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 60-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3873,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 9,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"10.15 a.m.\"]",
+      "display_answer": "10.15 a.m.",
+      "parsed_answer": "",
+      "answer_values": [
+        "10.15 a.m.",
+        "10.15 am",
+        "10.15a.m.",
+        "10.15am",
+        "10:15 a.m.",
+        "10:15 am",
+        "10:15a.m.",
+        "10:15am",
+        "10.15 a.m",
+        "10.15 am",
+        "10:15 a.m",
+        "10:15 am",
+        "10.15 AM",
+        "10.15 A.M.",
+        "10:15 AM",
+        "10:15 A.M."
+      ],
+      "matched_answers": [
+        {
+          "value": "10.15 a.m.",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 17493,
+      "paper_id": 1767,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 69-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3905,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 9,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"6\", \"6 o'clock\"]",
+      "display_answer": "6 / 6 o'clock",
+      "parsed_answer": "",
+      "answer_values": [
+        "6 o'clock",
+        "6.00",
+        "6:00",
+        "six o'clock"
+      ],
+      "matched_answers": [
+        {
+          "value": "6 o'clock",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 17566,
+      "paper_id": 1775,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 73-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3921,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 2,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"15\", \"3\", \"1980\", \"15/03\", \"15/1980\", \"03/1980\", \"15/03/1980\"]",
+      "display_answer": "15 / 3 / 1980 / 15/03 / 15/1980 / 03/1980 / 15/03/1980",
+      "parsed_answer": "",
+      "answer_values": [
+        "15 / 3 / 1980 / 15/03 / 15/1980 / 03/1980 / 15/03/1980",
+        "15",
+        "3",
+        "1980",
+        "15/03",
+        "15/1980",
+        "03/1980",
+        "15/03/1980"
+      ],
+      "matched_answers": [
+        {
+          "value": "1980",
+          "type": "year"
+        },
+        {
+          "value": "15/03/1980",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 17612,
+      "paper_id": 1779,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 75-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3928,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 8,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"1 June\", \"June 1\", \"June 1st\"]",
+      "display_answer": "1 June / June 1 / June 1st",
+      "parsed_answer": "",
+      "answer_values": [
+        "1 June / June 1 / June 1st",
+        "1 June",
+        "June 1",
+        "June 1st"
+      ],
+      "matched_answers": [
+        {
+          "value": "1 June",
+          "type": "date"
+        },
+        {
+          "value": "June 1",
+          "type": "date"
+        },
+        {
+          "value": "June 1st",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 17632,
+      "paper_id": 1781,
+      "paper_title": "Part 3",
+      "paper_complete_title": "机经 Test 75-Part 3",
+      "paper_part": 3,
+      "paper_status": 1,
+      "group_id": 3932,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 28,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"5 November\", \"November 5\", \"November 5th\"]",
+      "display_answer": "5 November / November 5 / November 5th",
+      "parsed_answer": "",
+      "answer_values": [
+        "5 November / November 5 / November 5th",
+        "5 November",
+        "November 5",
+        "November 5th"
+      ],
+      "matched_answers": [
+        {
+          "value": "5 November",
+          "type": "date"
+        },
+        {
+          "value": "November 5",
+          "type": "date"
+        },
+        {
+          "value": "November 5th",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 17653,
+      "paper_id": 1783,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 76-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3934,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 9,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"1 August\", \"1 August 1\", \"1 August 1st\", \"August 1\", \"August 1st\"]",
+      "display_answer": "1 August / 1 August 1 / 1 August 1st / August 1 / August 1st",
+      "parsed_answer": "",
+      "answer_values": [
+        "1 August / 1 August 1 / 1 August 1st / August 1 / August 1st",
+        "1 August",
+        "1 August 1",
+        "1 August 1st",
+        "August 1",
+        "August 1st"
+      ],
+      "matched_answers": [
+        {
+          "value": "1 August",
+          "type": "date"
+        },
+        {
+          "value": "August 1",
+          "type": "date"
+        },
+        {
+          "value": "August 1st",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 17695,
+      "paper_id": 1788,
+      "paper_title": "Part 2",
+      "paper_complete_title": "机经 Test 77-Part 2",
+      "paper_part": 2,
+      "paper_status": 1,
+      "group_id": 3942,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 11,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"March 19th\", \"March 19\", \"19 March\"]",
+      "display_answer": "March 19th / March 19 / 19 March",
+      "parsed_answer": "",
+      "answer_values": [
+        "March 19th / March 19 / 19 March",
+        "March 19th",
+        "March 19",
+        "19 March"
+      ],
+      "matched_answers": [
+        {
+          "value": "March 19th",
+          "type": "date"
+        },
+        {
+          "value": "March 19",
+          "type": "date"
+        },
+        {
+          "value": "19 March",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 17698,
+      "paper_id": 1788,
+      "paper_title": "Part 2",
+      "paper_complete_title": "机经 Test 77-Part 2",
+      "paper_part": 2,
+      "paper_status": 1,
+      "group_id": 3942,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 14,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"this Sunday\", \"Sunday\"]",
+      "display_answer": "this Sunday / Sunday",
+      "parsed_answer": "",
+      "answer_values": [
+        "this Sunday",
+        "Sunday"
+      ],
+      "matched_answers": [
+        {
+          "value": "Sunday",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 17728,
+      "paper_id": 1791,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 79-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3949,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 4,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"5 p.m.\"]",
+      "display_answer": "5 p.m.",
+      "parsed_answer": "",
+      "answer_values": [
+        "5 p.m.",
+        "5 pm",
+        "5pm",
+        "5 p.m",
+        "5 pm.",
+        "5:00 p.m.",
+        "5:00 pm",
+        "5:00pm",
+        "5:00 p.m",
+        "5:00 pm.",
+        "17:00",
+        "17.00"
+      ],
+      "matched_answers": [
+        {
+          "value": "5 p.m.",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 17771,
+      "paper_id": 1795,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 83-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3961,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 7,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"2 p.m.\"]",
+      "display_answer": "2 p.m.",
+      "parsed_answer": "",
+      "answer_values": [
+        "2 p.m.",
+        "2 pm",
+        "2pm",
+        "2 p.m",
+        "2.00 p.m.",
+        "2.00 pm",
+        "2:00 p.m.",
+        "2:00 pm",
+        "2.00p.m.",
+        "2:00p.m.",
+        "2p.m.",
+        "2 P.M.",
+        "2 PM",
+        "2PM",
+        "2 P.M",
+        "2.00 P.M.",
+        "2.00 PM",
+        "2:00 P.M.",
+        "2:00 PM",
+        "2.00P.M.",
+        "2:00P.M.",
+        "2P.M."
+      ],
+      "matched_answers": [
+        {
+          "value": "2 p.m.",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 17778,
+      "paper_id": 1796,
+      "paper_title": "Part 2",
+      "paper_complete_title": "机经 Test 83-Part 2",
+      "paper_part": 2,
+      "paper_status": 1,
+      "group_id": 3964,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 14,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"9th September\"]",
+      "display_answer": "9th September",
+      "parsed_answer": "",
+      "answer_values": [
+        "9 September",
+        "9th September",
+        "September 9",
+        "September 9th"
+      ],
+      "matched_answers": [
+        {
+          "value": "9th September",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 17781,
+      "paper_id": 1796,
+      "paper_title": "Part 2",
+      "paper_complete_title": "机经 Test 83-Part 2",
+      "paper_part": 2,
+      "paper_status": 1,
+      "group_id": 3964,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 17,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"14th September\"]",
+      "display_answer": "14th September",
+      "parsed_answer": "",
+      "answer_values": [
+        "14 September",
+        "14th September",
+        "September 14",
+        "September 14th"
+      ],
+      "matched_answers": [
+        {
+          "value": "14th September",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 17851,
+      "paper_id": 1803,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 93-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3986,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 7,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"1 p.m. – 6 p.m\"]",
+      "display_answer": "1 p.m. – 6 p.m",
+      "parsed_answer": "",
+      "answer_values": [
+        "1 p.m. - 6 p.m.",
+        "1pm - 6pm",
+        "1 pm - 6 pm",
+        "1 p.m. – 6 p.m.",
+        "1pm–6pm",
+        "1 pm–6 pm",
+        "1:00 p.m. - 6:00 p.m.",
+        "1:00pm - 6:00pm",
+        "1:00 pm - 6:00 pm",
+        "13:00 - 18:00",
+        "13.00 - 18.00",
+        "1300 - 1800",
+        "1 p.m. to 6 p.m.",
+        "1pm to 6pm",
+        "1 pm to 6 pm",
+        "1:00 p.m. to 6:00 p.m.",
+        "13:00 to 18:00"
+      ],
+      "matched_answers": [
+        {
+          "value": "1 p.m. – 6 p.m",
+          "type": "time_range"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 17853,
+      "paper_id": 1803,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 93-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3986,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 9,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"Monday\", \"Mondays\"]",
+      "display_answer": "Monday / Mondays",
+      "parsed_answer": "",
+      "answer_values": [
+        "Monday",
+        "Mondays"
+      ],
+      "matched_answers": [
+        {
+          "value": "Monday",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 17885,
+      "paper_id": 1807,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 95-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 3994,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 1,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"ten o'clock\", \"10 o'clock\"]",
+      "display_answer": "ten o'clock / 10 o'clock",
+      "parsed_answer": "",
+      "answer_values": [
+        "10 o'clock",
+        "ten o'clock",
+        "10.00",
+        "10:00"
+      ],
+      "matched_answers": [
+        {
+          "value": "10 o'clock",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 17971,
+      "paper_id": 1815,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 146-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 4021,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 7,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"June 5th\"]",
+      "display_answer": "June 5th",
+      "parsed_answer": "",
+      "answer_values": [
+        "June 5th",
+        "5th June",
+        "June 5",
+        "5 June"
+      ],
+      "matched_answers": [
+        {
+          "value": "June 5th",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 18095,
+      "paper_id": 1828,
+      "paper_title": "Part 2",
+      "paper_complete_title": "机经 Test 149-Part 2",
+      "paper_part": 2,
+      "paper_status": 1,
+      "group_id": 4048,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 11,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"9:00 a.m.-12:00 a.m.\", \"9:00 a.m. to 12:00 a.m.\", \"9 a.m. to 12 a.m.\", \"9 a.m. -12 a.m.\", \"9:00 a.m.-12:00 a.m\", \"9:00 a.m. to 12:00 a.m\", \"9 a.m. to 12 a.m\", \"9 a.m. -12 a.m\"]",
+      "display_answer": "9:00 a.m.-12:00 a.m. / 9:00 a.m. to 12:00 a.m. / 9 a.m. to 12 a.m. / 9 a.m. -12 a.m. / 9:00 a.m.-12:00 a.m / 9:00 a.m. to 12:00 a.m / 9 a.m. to 12 a.m / 9 a.m. -12 a.m",
+      "parsed_answer": "",
+      "answer_values": [
+        "9:00 a.m.-12:00 a.m. / 9:00 a.m. to 12:00 a.m. / 9 a.m. to 12 a.m. / 9 a.m. -12 a.m. / 9:00 a.m.-12:00 a.m / 9:00 a.m. to 12:00 a.m / 9 a.m. to 12 a.m / 9 a.m. -12 a.m",
+        "9:00 a.m.-12:00 a.m.",
+        "9:00 a.m. to 12:00 a.m.",
+        "9 a.m. to 12 a.m.",
+        "9 a.m. -12 a.m.",
+        "9:00 a.m.-12:00 a.m",
+        "9:00 a.m. to 12:00 a.m",
+        "9 a.m. to 12 a.m",
+        "9 a.m. -12 a.m"
+      ],
+      "matched_answers": [
+        {
+          "value": "9:00 a.m.-12:00 a.m.",
+          "type": "time_range"
+        },
+        {
+          "value": "9:00 a.m. to 12:00 a.m.",
+          "type": "time_range"
+        },
+        {
+          "value": "9 a.m. to 12 a.m.",
+          "type": "time_range"
+        },
+        {
+          "value": "9 a.m. -12 a.m.",
+          "type": "time_range"
+        },
+        {
+          "value": "9:00 a.m.-12:00 a.m",
+          "type": "time_range"
+        },
+        {
+          "value": "9:00 a.m. to 12:00 a.m",
+          "type": "time_range"
+        },
+        {
+          "value": "9 a.m. to 12 a.m",
+          "type": "time_range"
+        },
+        {
+          "value": "9 a.m. -12 a.m",
+          "type": "time_range"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 18107,
+      "paper_id": 1829,
+      "paper_title": "Part 3",
+      "paper_complete_title": "机经 Test 149-Part 3",
+      "paper_part": 3,
+      "paper_status": 1,
+      "group_id": 4051,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 23,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"30th July\"]",
+      "display_answer": "30th July",
+      "parsed_answer": "",
+      "answer_values": [
+        "30 July",
+        "30th July",
+        "July 30",
+        "July 30th"
+      ],
+      "matched_answers": [
+        {
+          "value": "30th July",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 18109,
+      "paper_id": 1829,
+      "paper_title": "Part 3",
+      "paper_complete_title": "机经 Test 149-Part 3",
+      "paper_part": 3,
+      "paper_status": 1,
+      "group_id": 4051,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 25,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"2:00 p.m.-3:00 p.m\", \"2:00 p.m. to 3:00 p.m.\", \"2 p.m. to 3 p.m.\"]",
+      "display_answer": "2:00 p.m.-3:00 p.m / 2:00 p.m. to 3:00 p.m. / 2 p.m. to 3 p.m.",
+      "parsed_answer": "",
+      "answer_values": [
+        "2:00 p.m.-3:00 p.m / 2:00 p.m. to 3:00 p.m. / 2 p.m. to 3 p.m.",
+        "2:00 p.m.-3:00 p.m",
+        "2:00 p.m. to 3:00 p.m.",
+        "2 p.m. to 3 p.m."
+      ],
+      "matched_answers": [
+        {
+          "value": "2:00 p.m.-3:00 p.m",
+          "type": "time_range"
+        },
+        {
+          "value": "2:00 p.m. to 3:00 p.m.",
+          "type": "time_range"
+        },
+        {
+          "value": "2 p.m. to 3 p.m.",
+          "type": "time_range"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 18212,
+      "paper_id": 1839,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 156-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 4070,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 8,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"10th February\"]",
+      "display_answer": "10th February",
+      "parsed_answer": "",
+      "answer_values": [
+        "10 February",
+        "10th February",
+        "February 10",
+        "February 10th"
+      ],
+      "matched_answers": [
+        {
+          "value": "10th February",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 18252,
+      "paper_id": 1843,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 157-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 4081,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 8,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"5 p.m\", \"5:00 p.m\"]",
+      "display_answer": "5 p.m / 5:00 p.m",
+      "parsed_answer": "",
+      "answer_values": [
+        "5 p.m.",
+        "5 pm",
+        "5pm",
+        "5 p.m",
+        "5:00 p.m.",
+        "5:00 pm",
+        "5:00pm",
+        "5:00 p.m",
+        "5.00 p.m.",
+        "5.00 pm",
+        "5.00pm",
+        "5.00 p.m",
+        "5 o'clock in the afternoon",
+        "five p.m.",
+        "five pm",
+        "fivepm",
+        "five p.m",
+        "5:00 in the afternoon"
+      ],
+      "matched_answers": [
+        {
+          "value": "5 p.m",
+          "type": "time"
+        },
+        {
+          "value": "5:00 p.m",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 18255,
+      "paper_id": 1844,
+      "paper_title": "Part 2",
+      "paper_complete_title": "机经 Test 157-Part 2",
+      "paper_part": 2,
+      "paper_status": 1,
+      "group_id": 4082,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 11,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"1998\"]",
+      "display_answer": "1998",
+      "parsed_answer": "",
+      "answer_values": [
+        "1998",
+        "'98"
+      ],
+      "matched_answers": [
+        {
+          "value": "1998",
+          "type": "year"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 18263,
+      "paper_id": 1844,
+      "paper_title": "Part 2",
+      "paper_complete_title": "机经 Test 157-Part 2",
+      "paper_part": 2,
+      "paper_status": 1,
+      "group_id": 4084,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 19,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"10:00 a.m. - 8:00 p.m.\", \"10am - 8pm\", \"10:00 a.m. to 8:00 p.m.\", \"10am to 8pm\"]",
+      "display_answer": "10:00 a.m. - 8:00 p.m. / 10am - 8pm / 10:00 a.m. to 8:00 p.m. / 10am to 8pm",
+      "parsed_answer": "",
+      "answer_values": [
+        "10:00 a.m. - 8:00 p.m. / 10am - 8pm / 10:00 a.m. to 8:00 p.m. / 10am to 8pm",
+        "10:00 a.m. - 8:00 p.m.",
+        "10am - 8pm",
+        "10:00 a.m. to 8:00 p.m.",
+        "10am to 8pm"
+      ],
+      "matched_answers": [
+        {
+          "value": "10:00 a.m. - 8:00 p.m.",
+          "type": "time_range"
+        },
+        {
+          "value": "10am - 8pm",
+          "type": "time_range"
+        },
+        {
+          "value": "10:00 a.m. to 8:00 p.m.",
+          "type": "time_range"
+        },
+        {
+          "value": "10am to 8pm",
+          "type": "time_range"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 18281,
+      "paper_id": 1846,
+      "paper_title": "Part 4",
+      "paper_complete_title": "机经 Test 157-Part 4",
+      "paper_part": 4,
+      "paper_status": 1,
+      "group_id": 4088,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 37,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"17th March\"]",
+      "display_answer": "17th March",
+      "parsed_answer": "",
+      "answer_values": [
+        "17 March",
+        "17th March",
+        "March 17",
+        "March 17th"
+      ],
+      "matched_answers": [
+        {
+          "value": "17th March",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 18411,
+      "paper_id": 1859,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 161-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 4117,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 7,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"Sunday\"]",
+      "display_answer": "Sunday",
+      "parsed_answer": "",
+      "answer_values": [
+        "Sunday"
+      ],
+      "matched_answers": [
+        {
+          "value": "Sunday",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 18455,
+      "paper_id": 1864,
+      "paper_title": "Part 2",
+      "paper_complete_title": "机经 Test 163-Part 2",
+      "paper_part": 2,
+      "paper_status": 1,
+      "group_id": 4128,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 11,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"10 am to 5 pm\", \"10 am to 5\", \"10 to 5 pm\", \"10 to 5\"]",
+      "display_answer": "10 am to 5 pm / 10 am to 5 / 10 to 5 pm / 10 to 5",
+      "parsed_answer": "",
+      "answer_values": [
+        "10 am to 5 pm / 10 am to 5 / 10 to 5 pm / 10 to 5",
+        "10 am to 5 pm",
+        "10 am to 5",
+        "10 to 5 pm",
+        "10 to 5"
+      ],
+      "matched_answers": [
+        {
+          "value": "10 am to 5 pm",
+          "type": "time_range"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 18463,
+      "paper_id": 1864,
+      "paper_title": "Part 2",
+      "paper_complete_title": "机经 Test 163-Part 2",
+      "paper_part": 2,
+      "paper_status": 1,
+      "group_id": 4130,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 19,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"7:30 am\"]",
+      "display_answer": "7:30 am",
+      "parsed_answer": "",
+      "answer_values": [
+        "7:30 am",
+        "7.30 am",
+        "7:30 a.m.",
+        "7.30 a.m.",
+        "7:30 AM",
+        "7.30 AM",
+        "7:30 A.M.",
+        "7.30 A.M.",
+        "7:30am",
+        "7.30am",
+        "7:30a.m.",
+        "7.30a.m.",
+        "7:30AM",
+        "7.30AM",
+        "7:30A.M.",
+        "7.30A.M.",
+        "07:30 am",
+        "07.30 am",
+        "07:30 a.m.",
+        "07.30 a.m.",
+        "07:30 AM",
+        "07.30 AM",
+        "07:30 A.M.",
+        "07.30 A.M.",
+        "07:30am",
+        "07.30am",
+        "07:30a.m.",
+        "07.30a.m.",
+        "07:30AM",
+        "07.30AM",
+        "07:30A.M.",
+        "07.30A.M."
+      ],
+      "matched_answers": [
+        {
+          "value": "7:30 am",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 18545,
+      "paper_id": 1873,
+      "paper_title": "Part 3",
+      "paper_complete_title": "机经 Test 165-Part 3",
+      "paper_part": 3,
+      "paper_status": 1,
+      "group_id": 4149,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 21,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"March 25th\"]",
+      "display_answer": "March 25th",
+      "parsed_answer": "",
+      "answer_values": [
+        "March 25th",
+        "March 25",
+        "25 March",
+        "25th March",
+        "the 25th of March",
+        "the twenty-fifth of March"
+      ],
+      "matched_answers": [
+        {
+          "value": "March 25th",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 18570,
+      "paper_id": 1875,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 170-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 4154,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 6,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"11:46\"]",
+      "display_answer": "11:46",
+      "parsed_answer": "",
+      "answer_values": [
+        "11:46",
+        "11.46",
+        "1146",
+        "11:46 am",
+        "11:46 a.m.",
+        "11:46 AM",
+        "11:46 A.M.",
+        "11.46 am",
+        "11.46 a.m.",
+        "11.46 AM",
+        "11.46 A.M.",
+        "1146 am",
+        "1146 a.m.",
+        "1146 AM",
+        "1146 A.M."
+      ],
+      "matched_answers": [
+        {
+          "value": "11:46",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 18571,
+      "paper_id": 1875,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 170-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 4154,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 7,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"22:25\"]",
+      "display_answer": "22:25",
+      "parsed_answer": "",
+      "answer_values": [
+        "22:25",
+        "22.25",
+        "10:25 pm",
+        "10:25pm",
+        "10:25 p.m.",
+        "10:25p.m.",
+        "10.25 pm",
+        "10.25pm",
+        "10.25 p.m.",
+        "10.25p.m."
+      ],
+      "matched_answers": [
+        {
+          "value": "22:25",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 18610,
+      "paper_id": 1879,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 171-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 4160,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 6,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"7:45\"]",
+      "display_answer": "7:45",
+      "parsed_answer": "",
+      "answer_values": [
+        "7:45",
+        "7.45",
+        "07:45",
+        "07.45",
+        "7:45 am",
+        "7:45 a.m.",
+        "7:45am",
+        "7:45a.m.",
+        "7.45 am",
+        "7.45 a.m.",
+        "7.45am",
+        "7.45a.m.",
+        "07:45 am",
+        "07:45 a.m.",
+        "07:45am",
+        "07:45a.m.",
+        "07.45 am",
+        "07.45 a.m.",
+        "07.45am",
+        "07.45a.m.",
+        "7:45 pm",
+        "7:45 p.m.",
+        "7:45pm",
+        "7:45p.m.",
+        "7.45 pm",
+        "7.45 p.m.",
+        "7.45pm",
+        "7.45p.m.",
+        "07:45 pm",
+        "07:45 p.m.",
+        "07:45pm",
+        "07:45p.m.",
+        "07.45 pm",
+        "07.45 p.m.",
+        "07.45pm",
+        "07.45p.m.",
+        "quarter to eight",
+        "quarter to 8",
+        "a quarter to eight",
+        "a quarter to 8"
+      ],
+      "matched_answers": [
+        {
+          "value": "7:45",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 18653,
+      "paper_id": 1883,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 172-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 4166,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 9,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"21st February\", \"21 February\"]",
+      "display_answer": "21st February / 21 February",
+      "parsed_answer": "",
+      "answer_values": [
+        "21 February",
+        "21st February",
+        "February 21",
+        "February 21st"
+      ],
+      "matched_answers": [
+        {
+          "value": "21st February",
+          "type": "date"
+        },
+        {
+          "value": "21 February",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 18689,
+      "paper_id": 1887,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 173-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 4173,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 5,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"1:45\"]",
+      "display_answer": "1:45",
+      "parsed_answer": "",
+      "answer_values": [
+        "1:45",
+        "1.45",
+        "01:45",
+        "01.45",
+        "1.45 am",
+        "1:45 am",
+        "1.45 a.m.",
+        "1:45 a.m.",
+        "1.45 AM",
+        "1:45 AM",
+        "1.45 A.M.",
+        "1:45 A.M.",
+        "quarter to two",
+        "a quarter to two"
+      ],
+      "matched_answers": [
+        {
+          "value": "1:45",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 18691,
+      "paper_id": 1887,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 173-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 4173,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 7,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"6:15\"]",
+      "display_answer": "6:15",
+      "parsed_answer": "",
+      "answer_values": [
+        "6:15",
+        "6.15",
+        "06:15",
+        "06.15",
+        "6:15 am",
+        "6:15 a.m.",
+        "6:15 AM",
+        "6:15 A.M.",
+        "6.15 am",
+        "6.15 a.m.",
+        "6.15 AM",
+        "6.15 A.M.",
+        "06:15 am",
+        "06:15 a.m.",
+        "06:15 AM",
+        "06:15 A.M.",
+        "06.15 am",
+        "06.15 a.m.",
+        "06.15 AM",
+        "06.15 A.M.",
+        "quarter past six",
+        "a quarter past six"
+      ],
+      "matched_answers": [
+        {
+          "value": "6:15",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 18692,
+      "paper_id": 1887,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 173-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 4173,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 8,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"10:25\"]",
+      "display_answer": "10:25",
+      "parsed_answer": "",
+      "answer_values": [
+        "10:25",
+        "10.25",
+        "1025",
+        "10:25 am",
+        "10:25 a.m.",
+        "10:25 AM",
+        "10:25 A.M.",
+        "10.25 am",
+        "10.25 a.m.",
+        "10.25 AM",
+        "10.25 A.M.",
+        "1025 am",
+        "1025 a.m.",
+        "1025 AM",
+        "1025 A.M."
+      ],
+      "matched_answers": [
+        {
+          "value": "10:25",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 18807,
+      "paper_id": 1899,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 176-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 4198,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 3,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"25th May 1983\"]",
+      "display_answer": "25th May 1983",
+      "parsed_answer": "",
+      "answer_values": [
+        "25 May 1983",
+        "25th May 1983",
+        "May 25 1983",
+        "May 25, 1983",
+        "May 25th 1983",
+        "May 25th, 1983",
+        "25/05/1983",
+        "25-05-1983",
+        "25.05.1983",
+        "05/25/1983",
+        "05-25-1983",
+        "05.25.1983"
+      ],
+      "matched_answers": [
+        {
+          "value": "25th May 1983",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 18815,
+      "paper_id": 1900,
+      "paper_title": "Part 2",
+      "paper_complete_title": "机经 Test 176-Part 2",
+      "paper_part": 2,
+      "paper_status": 1,
+      "group_id": 4201,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 11,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"31st October\"]",
+      "display_answer": "31st October",
+      "parsed_answer": "",
+      "answer_values": [
+        "31st October",
+        "31 October",
+        "October 31st",
+        "October 31"
+      ],
+      "matched_answers": [
+        {
+          "value": "31st October",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 18865,
+      "paper_id": 1905,
+      "paper_title": "Part 3",
+      "paper_complete_title": "机经 Test 177-Part 3",
+      "paper_part": 3,
+      "paper_status": 1,
+      "group_id": 4213,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 21,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"28th May\"]",
+      "display_answer": "28th May",
+      "parsed_answer": "",
+      "answer_values": [
+        "28 May",
+        "28th May",
+        "May 28",
+        "May 28th"
+      ],
+      "matched_answers": [
+        {
+          "value": "28th May",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 18886,
+      "paper_id": 1907,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 33-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 4218,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 2,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"Sunday\"]",
+      "display_answer": "Sunday",
+      "parsed_answer": "",
+      "answer_values": [
+        "Sunday",
+        "Sun",
+        "sun"
+      ],
+      "matched_answers": [
+        {
+          "value": "Sunday",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 18894,
+      "paper_id": 1907,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 33-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 4219,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 10,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"Monday\"]",
+      "display_answer": "Monday",
+      "parsed_answer": "",
+      "answer_values": [
+        "Monday",
+        "Mon",
+        "monday",
+        "mon"
+      ],
+      "matched_answers": [
+        {
+          "value": "Monday",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 18930,
+      "paper_id": 1911,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 35-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 4228,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 6,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"4:30pm\"]",
+      "display_answer": "4:30pm",
+      "parsed_answer": "",
+      "answer_values": [
+        "4:30pm",
+        "4.30pm",
+        "4:30 pm",
+        "4.30 pm",
+        "4:30p.m.",
+        "4.30p.m.",
+        "4:30 p.m.",
+        "4.30 p.m.",
+        "16:30",
+        "16.30"
+      ],
+      "matched_answers": [
+        {
+          "value": "4:30pm",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 18933,
+      "paper_id": 1911,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 35-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 4228,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 9,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"2.00pm\"]",
+      "display_answer": "2.00pm",
+      "parsed_answer": "",
+      "answer_values": [
+        "2.00pm",
+        "2.00 pm",
+        "2:00pm",
+        "2:00 pm",
+        "2pm",
+        "2 pm",
+        "2 p.m.",
+        "2.00 p.m.",
+        "2:00 p.m."
+      ],
+      "matched_answers": [
+        {
+          "value": "2.00pm",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 18974,
+      "paper_id": 1916,
+      "paper_title": "Part 2",
+      "paper_complete_title": "机经 Test 39-Part 2",
+      "paper_part": 2,
+      "paper_status": 1,
+      "group_id": 4237,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 10,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"8.25AM\", \"8.25\"]",
+      "display_answer": "8.25AM / 8.25",
+      "parsed_answer": "",
+      "answer_values": [
+        "8.25AM",
+        "8.25 AM",
+        "8.25am",
+        "8.25 am",
+        "8:25AM",
+        "8:25 AM",
+        "8:25am",
+        "8:25 am",
+        "8.25a.m.",
+        "8.25 a.m.",
+        "8:25a.m.",
+        "8:25 a.m."
+      ],
+      "matched_answers": [
+        {
+          "value": "8.25AM",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 18977,
+      "paper_id": 1916,
+      "paper_title": "Part 2",
+      "paper_complete_title": "机经 Test 39-Part 2",
+      "paper_part": 2,
+      "paper_status": 1,
+      "group_id": 4237,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 13,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"Friday\"]",
+      "display_answer": "Friday",
+      "parsed_answer": "",
+      "answer_values": [
+        "Friday"
+      ],
+      "matched_answers": [
+        {
+          "value": "Friday",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 19014,
+      "paper_id": 1920,
+      "paper_title": "Part 2",
+      "paper_complete_title": "机经 Test 43-Part 2",
+      "paper_part": 2,
+      "paper_status": 1,
+      "group_id": 4245,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 10,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[11, \"11 pm\"]",
+      "display_answer": "11 / 11 pm",
+      "parsed_answer": "",
+      "answer_values": [
+        "11 pm",
+        "11pm",
+        "11 p.m.",
+        "11p.m.",
+        "11 PM",
+        "11PM",
+        "11 P.M.",
+        "11P.M.",
+        "11.00 pm",
+        "11.00pm",
+        "11.00 p.m.",
+        "11.00pm",
+        "11:00 pm",
+        "11:00pm",
+        "11:00 p.m.",
+        "11:00 P.M.",
+        "11.00 PM",
+        "11.00 P.M.",
+        "11:00 PM"
+      ],
+      "matched_answers": [
+        {
+          "value": "11 pm",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 19015,
+      "paper_id": 1920,
+      "paper_title": "Part 2",
+      "paper_complete_title": "机经 Test 43-Part 2",
+      "paper_part": 2,
+      "paper_status": 1,
+      "group_id": 4245,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 11,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"11.30 pm\", \"11.30\"]",
+      "display_answer": "11.30 pm / 11.30",
+      "parsed_answer": "",
+      "answer_values": [
+        "11.30 pm",
+        "11.30 p.m.",
+        "11:30 pm",
+        "11:30 p.m.",
+        "11.30pm",
+        "11:30pm",
+        "11.30p.m.",
+        "11:30p.m.",
+        "11.30 PM",
+        "11.30 P.M.",
+        "11:30 PM",
+        "11:30 P.M.",
+        "11.30PM",
+        "11:30PM",
+        "11.30P.M.",
+        "11:30P.M."
+      ],
+      "matched_answers": [
+        {
+          "value": "11.30 pm",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 19018,
+      "paper_id": 1920,
+      "paper_title": "Part 2",
+      "paper_complete_title": "机经 Test 43-Part 2",
+      "paper_part": 2,
+      "paper_status": 1,
+      "group_id": 4245,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 14,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"Thursday\"]",
+      "display_answer": "Thursday",
+      "parsed_answer": "",
+      "answer_values": [
+        "Thursday",
+        "Thurs"
+      ],
+      "matched_answers": [
+        {
+          "value": "Thursday",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 19047,
+      "paper_id": 1923,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 47-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 4250,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 3,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"7th June\", \"7.6\"]",
+      "display_answer": "7th June / 7.6",
+      "parsed_answer": "",
+      "answer_values": [
+        "7 June",
+        "7th June",
+        "June 7",
+        "June 7th",
+        "7/6",
+        "7.6",
+        "07/06",
+        "07.06"
+      ],
+      "matched_answers": [
+        {
+          "value": "7th June",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 19128,
+      "paper_id": 1931,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 51-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 4267,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 4,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"July 15\", \"July 15th\", \"15 July\", \"15th July\", \"15/7\"]",
+      "display_answer": "July 15 / July 15th / 15 July / 15th July / 15/7",
+      "parsed_answer": "",
+      "answer_values": [
+        "July 15 / July 15th / 15 July / 15th July / 15/7",
+        "July 15",
+        "July 15th",
+        "15 July",
+        "15th July",
+        "15/7"
+      ],
+      "matched_answers": [
+        {
+          "value": "July 15",
+          "type": "date"
+        },
+        {
+          "value": "July 15th",
+          "type": "date"
+        },
+        {
+          "value": "15 July",
+          "type": "date"
+        },
+        {
+          "value": "15th July",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 19130,
+      "paper_id": 1931,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 51-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 4267,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 6,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"May 31st\", \"May 31\", \"31st May\", \"31 May\", \"31/5\"]",
+      "display_answer": "May 31st / May 31 / 31st May / 31 May / 31/5",
+      "parsed_answer": "",
+      "answer_values": [
+        "May 31st / May 31 / 31st May / 31 May / 31/5",
+        "May 31st",
+        "May 31",
+        "31st May",
+        "31 May",
+        "31/5"
+      ],
+      "matched_answers": [
+        {
+          "value": "May 31st",
+          "type": "date"
+        },
+        {
+          "value": "May 31",
+          "type": "date"
+        },
+        {
+          "value": "31st May",
+          "type": "date"
+        },
+        {
+          "value": "31 May",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 19131,
+      "paper_id": 1931,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 51-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 4267,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 7,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"June 4\", \"June 4th\", \"4th June\", \"4 June\", \"4/6\"]",
+      "display_answer": "June 4 / June 4th / 4th June / 4 June / 4/6",
+      "parsed_answer": "",
+      "answer_values": [
+        "June 4 / June 4th / 4th June / 4 June / 4/6",
+        "June 4",
+        "June 4th",
+        "4th June",
+        "4 June",
+        "4/6"
+      ],
+      "matched_answers": [
+        {
+          "value": "June 4",
+          "type": "date"
+        },
+        {
+          "value": "June 4th",
+          "type": "date"
+        },
+        {
+          "value": "4th June",
+          "type": "date"
+        },
+        {
+          "value": "4 June",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 19151,
+      "paper_id": 1933,
+      "paper_title": "Part 3",
+      "paper_complete_title": "机经 Test 51-Part 3",
+      "paper_part": 3,
+      "paper_status": 1,
+      "group_id": 4271,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 27,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"6 pm\", \"6.00 pm\"]",
+      "display_answer": "6 pm / 6.00 pm",
+      "parsed_answer": "",
+      "answer_values": [
+        "6 pm",
+        "6pm",
+        "6 p.m.",
+        "6p.m.",
+        "6.00 pm",
+        "6.00pm",
+        "6.00 p.m.",
+        "6.00p.m.",
+        "6:00 pm",
+        "6:00pm",
+        "6:00 p.m.",
+        "6:00p.m.",
+        "18:00",
+        "18.00"
+      ],
+      "matched_answers": [
+        {
+          "value": "6 pm",
+          "type": "time"
+        },
+        {
+          "value": "6.00 pm",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 19153,
+      "paper_id": 1933,
+      "paper_title": "Part 3",
+      "paper_complete_title": "机经 Test 51-Part 3",
+      "paper_part": 3,
+      "paper_status": 1,
+      "group_id": 4271,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 29,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"August 10th\", \"August 10\", \"10th August\", \"10 August\", \"10/8\"]",
+      "display_answer": "August 10th / August 10 / 10th August / 10 August / 10/8",
+      "parsed_answer": "",
+      "answer_values": [
+        "August 10th / August 10 / 10th August / 10 August / 10/8",
+        "August 10th",
+        "August 10",
+        "10th August",
+        "10 August",
+        "10/8"
+      ],
+      "matched_answers": [
+        {
+          "value": "August 10th",
+          "type": "date"
+        },
+        {
+          "value": "August 10",
+          "type": "date"
+        },
+        {
+          "value": "10th August",
+          "type": "date"
+        },
+        {
+          "value": "10 August",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 19206,
+      "paper_id": 1939,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 61-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 4285,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 1,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"Wednesday, Friday\", \"Wednesday, and Friday\"]",
+      "display_answer": "Wednesday, Friday / Wednesday, and Friday",
+      "parsed_answer": "",
+      "answer_values": [
+        "Wednesday and Friday",
+        "Wednesday, Friday",
+        "Wednesdays and Fridays",
+        "Wednesdays, Fridays"
+      ],
+      "matched_answers": [
+        {
+          "value": "Wednesday",
+          "type": "date"
+        },
+        {
+          "value": "Friday",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 19229,
+      "paper_id": 1941,
+      "paper_title": "Part 3",
+      "paper_complete_title": "机经 Test 61-Part 3",
+      "paper_part": 3,
+      "paper_status": 1,
+      "group_id": 4290,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 24,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"8:30\"]",
+      "display_answer": "8:30",
+      "parsed_answer": "",
+      "answer_values": [
+        "8:30",
+        "8.30",
+        "08:30",
+        "08.30",
+        "8:30 am",
+        "8:30 a.m.",
+        "8:30 AM",
+        "8:30 A.M.",
+        "8.30 am",
+        "8.30 a.m.",
+        "8.30 AM",
+        "8.30 A.M.",
+        "08:30 am",
+        "08:30 a.m.",
+        "08:30 AM",
+        "08:30 A.M.",
+        "08.30 am",
+        "08.30 a.m.",
+        "08.30 AM",
+        "08.30 A.M.",
+        "half past eight",
+        "half past 8"
+      ],
+      "matched_answers": [
+        {
+          "value": "8:30",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 19380,
+      "paper_id": 1956,
+      "paper_title": "Part 2",
+      "paper_complete_title": "机经 Test 78-Part 2",
+      "paper_part": 2,
+      "paper_status": 1,
+      "group_id": 4321,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 15,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"Tuesday\"]",
+      "display_answer": "Tuesday",
+      "parsed_answer": "",
+      "answer_values": [
+        "Tuesday"
+      ],
+      "matched_answers": [
+        {
+          "value": "Tuesday",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 19385,
+      "paper_id": 1956,
+      "paper_title": "Part 2",
+      "paper_complete_title": "机经 Test 78-Part 2",
+      "paper_part": 2,
+      "paper_status": 1,
+      "group_id": 4321,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 20,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"8.00 am\", \"8am\"]",
+      "display_answer": "8.00 am / 8am",
+      "parsed_answer": "",
+      "answer_values": [
+        "8.00 am",
+        "8am",
+        "8.00am",
+        "8 am",
+        "8 a.m.",
+        "8.00 a.m.",
+        "8:00 am",
+        "8:00am",
+        "8:00 a.m.",
+        "8.00 AM",
+        "8AM",
+        "8.00AM",
+        "8 AM",
+        "8 A.M.",
+        "8.00 A.M.",
+        "8:00 AM",
+        "8:00AM",
+        "8:00 A.M."
+      ],
+      "matched_answers": [
+        {
+          "value": "8.00 am",
+          "type": "time"
+        },
+        {
+          "value": "8am",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 19454,
+      "paper_id": 1963,
+      "paper_title": "Part 1",
+      "paper_complete_title": "机经 Test 90-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 4334,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 9,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"1st February\"]",
+      "display_answer": "1st February",
+      "parsed_answer": "",
+      "answer_values": [
+        "1 February",
+        "1st February",
+        "February 1",
+        "February 1st"
+      ],
+      "matched_answers": [
+        {
+          "value": "1st February",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 20402,
+      "paper_id": 1986,
+      "paper_title": "机经V61104",
+      "paper_complete_title": "机经V61104",
+      "paper_part": 0,
+      "paper_status": 1,
+      "group_id": 4517,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 4,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"1986\"]",
+      "display_answer": "1986",
+      "parsed_answer": "",
+      "answer_values": [
+        "1986",
+        "'86"
+      ],
+      "matched_answers": [
+        {
+          "value": "1986",
+          "type": "year"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 20437,
+      "paper_id": 1990,
+      "paper_title": "机经V02203",
+      "paper_complete_title": "机经V02203",
+      "paper_part": 0,
+      "paper_status": 1,
+      "group_id": 4526,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 20,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"11.30 pm\", \"11:30 pm\", \"11.30 p.m.\", \"11:30 p.m.\"]",
+      "display_answer": "11.30 pm/11:30 pm/11.30 p.m./11:30 p.m.",
+      "parsed_answer": "",
+      "answer_values": [
+        "11.30 pm/11:30 pm/11.30 p.m./11:30 p.m.",
+        "11.30 pm",
+        "11:30 pm",
+        "11.30 p.m.",
+        "11:30 p.m."
+      ],
+      "matched_answers": [
+        {
+          "value": "11.30 pm",
+          "type": "time"
+        },
+        {
+          "value": "11:30 pm",
+          "type": "time"
+        },
+        {
+          "value": "11.30 p.m.",
+          "type": "time"
+        },
+        {
+          "value": "11:30 p.m.",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 20441,
+      "paper_id": 1991,
+      "paper_title": "机经V09323",
+      "paper_complete_title": "机经V09323",
+      "paper_part": 0,
+      "paper_status": 1,
+      "group_id": 4528,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 27,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"11 May\", \"11th May\", \"May 11\", \"May 11th\"]",
+      "display_answer": "11 May/11th May/May 11/May 11th",
+      "parsed_answer": "",
+      "answer_values": [
+        "11 May/11th May/May 11/May 11th",
+        "11 May",
+        "11th May",
+        "May 11",
+        "May 11th"
+      ],
+      "matched_answers": [
+        {
+          "value": "11 May",
+          "type": "date"
+        },
+        {
+          "value": "11th May",
+          "type": "date"
+        },
+        {
+          "value": "May 11",
+          "type": "date"
+        },
+        {
+          "value": "May 11th",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 20476,
+      "paper_id": 1996,
+      "paper_title": "机经V11170",
+      "paper_complete_title": "机经V11170",
+      "paper_part": 0,
+      "paper_status": 1,
+      "group_id": 4535,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 2,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"11 July\", \"11th July\", \"July 11\", \"July 11th\"]",
+      "display_answer": "11 July/11th July/July 11/July 11th",
+      "parsed_answer": "",
+      "answer_values": [
+        "11 July/11th July/July 11/July 11th",
+        "11 July",
+        "11th July",
+        "July 11",
+        "July 11th"
+      ],
+      "matched_answers": [
+        {
+          "value": "11 July",
+          "type": "date"
+        },
+        {
+          "value": "11th July",
+          "type": "date"
+        },
+        {
+          "value": "July 11",
+          "type": "date"
+        },
+        {
+          "value": "July 11th",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 20482,
+      "paper_id": 1996,
+      "paper_title": "机经V11170",
+      "paper_complete_title": "机经V11170",
+      "paper_part": 0,
+      "paper_status": 1,
+      "group_id": 4535,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 8,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"Thursday\"]",
+      "display_answer": "Thursday",
+      "parsed_answer": "",
+      "answer_values": [
+        "Thursday",
+        "Thurs"
+      ],
+      "matched_answers": [
+        {
+          "value": "Thursday",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 20488,
+      "paper_id": 1997,
+      "paper_title": "机经V11166",
+      "paper_complete_title": "机经V11166",
+      "paper_part": 0,
+      "paper_status": 1,
+      "group_id": 4536,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 4,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"Tuesday\"]",
+      "display_answer": "Tuesday",
+      "parsed_answer": "",
+      "answer_values": [
+        "Tuesday"
+      ],
+      "matched_answers": [
+        {
+          "value": "Tuesday",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 20889,
+      "paper_id": 2051,
+      "paper_title": "机经V01105",
+      "paper_complete_title": "机经V01105",
+      "paper_part": 0,
+      "paper_status": 1,
+      "group_id": 4637,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 4,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"31st July\", \"July 31st\", \"31 July\", \"July 31\"]",
+      "display_answer": "31st July/July 31st/31 July/July 31",
+      "parsed_answer": "",
+      "answer_values": [
+        "31st July/July 31st/31 July/July 31",
+        "31st July",
+        "July 31st",
+        "31 July",
+        "July 31"
+      ],
+      "matched_answers": [
+        {
+          "value": "31st July",
+          "type": "date"
+        },
+        {
+          "value": "July 31st",
+          "type": "date"
+        },
+        {
+          "value": "31 July",
+          "type": "date"
+        },
+        {
+          "value": "July 31",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 20896,
+      "paper_id": 2052,
+      "paper_title": "机经V07311",
+      "paper_complete_title": "机经V07311",
+      "paper_part": 0,
+      "paper_status": 1,
+      "group_id": 4638,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 21,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"15th October\", \"October 15th\", \"October 15\", \"15 October\"]",
+      "display_answer": "15th October/October 15th/October 15/15 October",
+      "parsed_answer": "",
+      "answer_values": [
+        "15th October/October 15th/October 15/15 October",
+        "15th October",
+        "October 15th",
+        "October 15",
+        "15 October"
+      ],
+      "matched_answers": [
+        {
+          "value": "15th October",
+          "type": "date"
+        },
+        {
+          "value": "October 15th",
+          "type": "date"
+        },
+        {
+          "value": "October 15",
+          "type": "date"
+        },
+        {
+          "value": "15 October",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 20947,
+      "paper_id": 2058,
+      "paper_title": "机经V51126",
+      "paper_complete_title": "机经V51126",
+      "paper_part": 0,
+      "paper_status": 1,
+      "group_id": 4649,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 5,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"Tuesday\"]",
+      "display_answer": "Tuesday",
+      "parsed_answer": "",
+      "answer_values": [
+        "Tuesday"
+      ],
+      "matched_answers": [
+        {
+          "value": "Tuesday",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 21013,
+      "paper_id": 2065,
+      "paper_title": "机经V32218",
+      "paper_complete_title": "机经V32218",
+      "paper_part": 0,
+      "paper_status": 1,
+      "group_id": 4659,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 18,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"9 am\"]",
+      "display_answer": "9 am",
+      "parsed_answer": "",
+      "answer_values": [
+        "9 am",
+        "9am",
+        "9 a.m.",
+        "9a.m.",
+        "9 AM",
+        "9AM",
+        "9 A.M.",
+        "9A.M.",
+        "09:00",
+        "09.00",
+        "9:00 am",
+        "9:00am",
+        "9:00 a.m.",
+        "9:00a.m.",
+        "9:00 AM",
+        "9:00AM",
+        "9:00 A.M.",
+        "9:00A.M."
+      ],
+      "matched_answers": [
+        {
+          "value": "9 am",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 21033,
+      "paper_id": 2068,
+      "paper_title": "机经V11167",
+      "paper_complete_title": "机经V11167",
+      "paper_part": 0,
+      "paper_status": 1,
+      "group_id": 4663,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 2,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"5th November\", \"November 5th\", \"5 November\", \"November 5\"]",
+      "display_answer": "5th November/November 5th/5 November/November 5",
+      "parsed_answer": "",
+      "answer_values": [
+        "5th November/November 5th/5 November/November 5",
+        "5th November",
+        "November 5th",
+        "5 November",
+        "November 5"
+      ],
+      "matched_answers": [
+        {
+          "value": "5th November",
+          "type": "date"
+        },
+        {
+          "value": "November 5th",
+          "type": "date"
+        },
+        {
+          "value": "5 November",
+          "type": "date"
+        },
+        {
+          "value": "November 5",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 21055,
+      "paper_id": 2070,
+      "paper_title": "机经V02116",
+      "paper_complete_title": "机经V02116",
+      "paper_part": 0,
+      "paper_status": 1,
+      "group_id": 4665,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 4,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"6.15\", \"6:15\"]",
+      "display_answer": "6.15/6:15",
+      "parsed_answer": "",
+      "answer_values": [
+        "6.15",
+        "6:15",
+        "6.15 am",
+        "6:15 am",
+        "6.15 a.m.",
+        "6:15 a.m.",
+        "6.15 AM",
+        "6:15 AM",
+        "6.15 A.M.",
+        "6:15 A.M.",
+        "6.15 pm",
+        "6:15 pm",
+        "6.15 p.m.",
+        "6:15 p.m.",
+        "6.15 PM",
+        "6:15 PM",
+        "6.15 P.M.",
+        "6:15 P.M."
+      ],
+      "matched_answers": [
+        {
+          "value": "6:15",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 21139,
+      "paper_id": 2082,
+      "paper_title": "机经V51116",
+      "paper_complete_title": "机经V51116",
+      "paper_part": 0,
+      "paper_status": 1,
+      "group_id": 4687,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 10,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"27th August\", \"27 August\", \"August 27th\", \"August 27\"]",
+      "display_answer": "27th August/27 August/August 27th/August 27",
+      "parsed_answer": "",
+      "answer_values": [
+        "27th August/27 August/August 27th/August 27",
+        "27th August",
+        "27 August",
+        "August 27th",
+        "August 27"
+      ],
+      "matched_answers": [
+        {
+          "value": "27th August",
+          "type": "date"
+        },
+        {
+          "value": "27 August",
+          "type": "date"
+        },
+        {
+          "value": "August 27th",
+          "type": "date"
+        },
+        {
+          "value": "August 27",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 21213,
+      "paper_id": 2091,
+      "paper_title": "机经V04133",
+      "paper_complete_title": "机经V04133",
+      "paper_part": 0,
+      "paper_status": 1,
+      "group_id": 4706,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 1,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"7.45 p.m.\", \"7:45 p.m.\", \"7.45 pm\", \"7:45 pm\"]",
+      "display_answer": "7.45 p.m./7:45 p.m./7.45 pm/7:45 pm",
+      "parsed_answer": "",
+      "answer_values": [
+        "7.45 p.m./7:45 p.m./7.45 pm/7:45 pm",
+        "7.45 p.m.",
+        "7:45 p.m.",
+        "7.45 pm",
+        "7:45 pm"
+      ],
+      "matched_answers": [
+        {
+          "value": "7.45 p.m.",
+          "type": "time"
+        },
+        {
+          "value": "7:45 p.m.",
+          "type": "time"
+        },
+        {
+          "value": "7.45 pm",
+          "type": "time"
+        },
+        {
+          "value": "7:45 pm",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 21243,
+      "paper_id": 2094,
+      "paper_title": "机经V11169",
+      "paper_complete_title": "机经V11169",
+      "paper_part": 0,
+      "paper_status": 1,
+      "group_id": 4711,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 6,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"5.30\", \"5:30\"]",
+      "display_answer": "5.30/5:30",
+      "parsed_answer": "",
+      "answer_values": [
+        "5.30",
+        "5:30",
+        "5.30 am",
+        "5:30 am",
+        "5.30 a.m.",
+        "5:30 a.m.",
+        "5.30 AM",
+        "5:30 AM",
+        "5.30 A.M.",
+        "5:30 A.M.",
+        "5.30 pm",
+        "5:30 pm",
+        "5.30 p.m.",
+        "5:30 p.m.",
+        "5.30 PM",
+        "5:30 PM",
+        "5.30 P.M.",
+        "5:30 P.M."
+      ],
+      "matched_answers": [
+        {
+          "value": "5:30",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 21275,
+      "paper_id": 2097,
+      "paper_title": "机经V11180",
+      "paper_complete_title": "机经V11180",
+      "paper_part": 0,
+      "paper_status": 1,
+      "group_id": 4714,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 8,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"22nd September\", \"22 September\", \"September 22\", \"September 22nd\"]",
+      "display_answer": "22nd September/22 September/September 22/September 22nd",
+      "parsed_answer": "",
+      "answer_values": [
+        "22nd September/22 September/September 22/September 22nd",
+        "22nd September",
+        "22 September",
+        "September 22",
+        "September 22nd"
+      ],
+      "matched_answers": [
+        {
+          "value": "22nd September",
+          "type": "date"
+        },
+        {
+          "value": "22 September",
+          "type": "date"
+        },
+        {
+          "value": "September 22",
+          "type": "date"
+        },
+        {
+          "value": "September 22nd",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 21377,
+      "paper_id": 2109,
+      "paper_title": "机经V18101",
+      "paper_complete_title": "机经V18101",
+      "paper_part": 0,
+      "paper_status": 1,
+      "group_id": 4735,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 6,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"31st October\", \"October 31st\", \"31 October\", \"October 31\"]",
+      "display_answer": "31st October/October 31st/31 October/October 31",
+      "parsed_answer": "",
+      "answer_values": [
+        "31st October/October 31st/31 October/October 31",
+        "31st October",
+        "October 31st",
+        "31 October",
+        "October 31"
+      ],
+      "matched_answers": [
+        {
+          "value": "31st October",
+          "type": "date"
+        },
+        {
+          "value": "October 31st",
+          "type": "date"
+        },
+        {
+          "value": "31 October",
+          "type": "date"
+        },
+        {
+          "value": "October 31",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 21390,
+      "paper_id": 2110,
+      "paper_title": "机经V04185",
+      "paper_complete_title": "机经V04185",
+      "paper_part": 0,
+      "paper_status": 1,
+      "group_id": 4738,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 9,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"5.30\", \"5:30\"]",
+      "display_answer": "5.30/5:30",
+      "parsed_answer": "",
+      "answer_values": [
+        "5.30",
+        "5:30",
+        "5.30 am",
+        "5:30 am",
+        "5.30 a.m.",
+        "5:30 a.m.",
+        "5.30 AM",
+        "5:30 AM",
+        "5.30 A.M.",
+        "5:30 A.M.",
+        "5.30 pm",
+        "5:30 pm",
+        "5.30 p.m.",
+        "5:30 p.m.",
+        "5.30 PM",
+        "5:30 PM",
+        "5.30 P.M.",
+        "5:30 P.M."
+      ],
+      "matched_answers": [
+        {
+          "value": "5:30",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 21396,
+      "paper_id": 2111,
+      "paper_title": "机经V04116",
+      "paper_complete_title": "机经V04116",
+      "paper_part": 0,
+      "paper_status": 1,
+      "group_id": 4739,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 5,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"Tuesday\"]",
+      "display_answer": "Tuesday",
+      "parsed_answer": "",
+      "answer_values": [
+        "Tuesday"
+      ],
+      "matched_answers": [
+        {
+          "value": "Tuesday",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 21411,
+      "paper_id": 2112,
+      "paper_title": "机经V04130",
+      "paper_complete_title": "机经V04130",
+      "paper_part": 0,
+      "paper_status": 1,
+      "group_id": 4741,
+      "group_type": "句子填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 10,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"1st April\", \"April 1st\", \"1 April\", \"April 1\"]",
+      "display_answer": "1st April/April 1st/1 April/April 1",
+      "parsed_answer": "",
+      "answer_values": [
+        "1st April/April 1st/1 April/April 1",
+        "1st April",
+        "April 1st",
+        "1 April",
+        "April 1"
+      ],
+      "matched_answers": [
+        {
+          "value": "1st April",
+          "type": "date"
+        },
+        {
+          "value": "April 1st",
+          "type": "date"
+        },
+        {
+          "value": "1 April",
+          "type": "date"
+        },
+        {
+          "value": "April 1",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 21796,
+      "paper_id": 2145,
+      "paper_title": "Part 1",
+      "paper_complete_title": "剑雅4 Test 1-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 4822,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 5,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"13 february\", \"13th February\"]",
+      "display_answer": "13 february / 13th February",
+      "parsed_answer": "",
+      "answer_values": [
+        "13 February",
+        "13th February",
+        "February 13",
+        "February 13th"
+      ],
+      "matched_answers": [
+        {
+          "value": "13 february",
+          "type": "date"
+        },
+        {
+          "value": "13th February",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 21861,
+      "paper_id": 2151,
+      "paper_title": "Part 3",
+      "paper_complete_title": "剑雅4 Test 2-Part 3",
+      "paper_part": 3,
+      "paper_status": 1,
+      "group_id": 4835,
+      "group_type": "表格填空题",
+      "group_title": "",
+      "group_question_title": "",
+      "number": 30,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"1988\"]",
+      "display_answer": "1988",
+      "parsed_answer": "",
+      "answer_values": [
+        "1988",
+        "nineteen eighty-eight"
+      ],
+      "matched_answers": [
+        {
+          "value": "1988",
+          "type": "year"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 21875,
+      "paper_id": 2153,
+      "paper_title": "Part 1",
+      "paper_complete_title": "剑雅4 Test 3-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 4839,
+      "group_type": "句子填空题",
+      "group_title": "ACCOMMODATION REQUEST FORM",
+      "group_question_title": "",
+      "number": 4,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"thursday\"]",
+      "display_answer": "thursday",
+      "parsed_answer": "",
+      "answer_values": [
+        "Thursday",
+        "thursday"
+      ],
+      "matched_answers": [
+        {
+          "value": "thursday",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 21915,
+      "paper_id": 2157,
+      "paper_title": "Part 1",
+      "paper_complete_title": "剑雅4 Test 4-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 4851,
+      "group_type": "句子填空题",
+      "group_title": "GOODBYE PARTY FOR JOHN",
+      "group_question_title": "",
+      "number": 4,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"10 december\", \"10 December\"]",
+      "display_answer": "10 december / 10 December",
+      "parsed_answer": "",
+      "answer_values": [
+        "10 December",
+        "10 december",
+        "December 10",
+        "december 10",
+        "10th December",
+        "10th december",
+        "December 10th",
+        "december 10th"
+      ],
+      "matched_answers": [
+        {
+          "value": "10 december",
+          "type": "date"
+        },
+        {
+          "value": "10 December",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 22079,
+      "paper_id": 2173,
+      "paper_title": "Part 1",
+      "paper_complete_title": "剑雅20 Test 4-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 4879,
+      "group_type": "句子填空题",
+      "group_title": "Advice on family visit",
+      "group_question_title": "",
+      "number": 5,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"tuesday\"]",
+      "display_answer": "Tuesday",
+      "parsed_answer": "",
+      "answer_values": [
+        "Tuesday",
+        "Tues"
+      ],
+      "matched_answers": [
+        {
+          "value": "Tuesday",
+          "type": "date"
+        },
+        {
+          "value": "tuesday",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "subject": "听力",
+      "table": "listening_exam_question",
+      "question_id": 22082,
+      "paper_id": 2173,
+      "paper_title": "Part 1",
+      "paper_complete_title": "剑雅20 Test 4-Part 1",
+      "paper_part": 1,
+      "paper_status": 1,
+      "group_id": 4879,
+      "group_type": "句子填空题",
+      "group_title": "Advice on family visit",
+      "group_question_title": "",
+      "number": 8,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"2.30\", \"2:30\", \"two thirty\", \"two-thirty\"]",
+      "display_answer": "2.30 / two thirty",
+      "parsed_answer": "",
+      "answer_values": [
+        "2.30 / two thirty",
+        "2.30",
+        "2:30",
+        "two thirty",
+        "two-thirty"
+      ],
+      "matched_answers": [
+        {
+          "value": "2:30",
+          "type": "time"
+        }
+      ]
+    },
+    {
+      "subject": "阅读",
+      "table": "reading_exam_question",
+      "question_id": 40027,
+      "paper_id": 3186,
+      "paper_title": "Passage 1",
+      "paper_complete_title": "剑雅20 Test 1-Passage 1",
+      "essay_title": "The kākāpō",
+      "paper_status": 1,
+      "group_id": 9329,
+      "group_type": "句子填空题",
+      "group_title": "New Zealand's kākāpō",
+      "number": 11,
+      "sub_essay_code": "",
+      "title": "",
+      "raw_answer": "[\"1980\", \"nineteen eighty\", \"nineteen-eighty\"]",
+      "display_answer": "1980",
+      "parsed_answer": "",
+      "answer_values": [
+        "1980"
+      ],
+      "matched_answers": [
+        {
+          "value": "1980",
+          "type": "year"
+        }
+      ]
+    }
+  ]
+}
