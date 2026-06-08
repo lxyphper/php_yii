@@ -37,6 +37,7 @@ class WordsController extends BaseController
      * - check-quiz-type2-question-correctness [minBookId outputFile]：检测 quiz_type=2 的 quiz_question 拼接结果是否与单词名一致
      * - fix-quiz-type2-question-correctness [inputFile dryRun]：按词名修复 quiz_type=2 的 quiz_question/quiz_answer
      * - export-quiz-type1-options [minBookId outputFile]：导出看词示意题(quiz_type=1) 的选项数据
+     * - export-quiz-type1-semantic-audit [minBookId outputFile limit]：导出有效词书下选择题语义审计数据
      * - export-missing-quiz-words [minBookId outputFile]：导出题型 1/2 题目不足两个的单词名称
      * - fix-quiz-type2-segments [inputFile]：根据 JSON 修复数据库中拼写题的分段
      * - apply-quiz-type2-json-fix [inputFile]：把 JSON 中的拼写题修复写回数据库
@@ -833,6 +834,258 @@ class WordsController extends BaseController
         $this->stdout(sprintf("Exported %d quizzes to %s\n", count($result), $outputPath));
 
         return ExitCode::OK;
+    }
+
+    /**
+     * 导出有效词书下 quiz_type=1 的选择题语义审计数据
+     *
+     * 用法: php yii words/export-quiz-type1-semantic-audit [minBookId] [outputFile] [limit]
+     */
+    public function actionExportQuizType1SemanticAudit(
+        int $minBookId = 195,
+        string $outputFile = '',
+        int $limit = 0
+    ): int {
+        ini_set('memory_limit', '1024M');
+        set_time_limit(0);
+
+        $outputPath = $outputFile !== ''
+            ? Yii::getAlias($outputFile)
+            : Yii::getAlias('@console/runtime/tmp/quiz_type1_semantic_audit.json');
+
+        $query = VocabularyQuiz::find()
+            ->alias('quiz')
+            ->select([
+                'quiz_id' => 'quiz.id',
+                'quiz.vocabulary_id',
+                'quiz.quiz_question',
+                'quiz.quiz_answer',
+                'quiz.quiz_translation',
+                'word_name' => 'v.name',
+                'word_translation' => 'v.translation',
+                'word_definition' => 'v.definition',
+                'core_meanings' => 'ext.core_meanings',
+                'example_sentences' => 'ext.example_sentences',
+                'book_ids' => new Expression("GROUP_CONCAT(DISTINCT vb.id ORDER BY vb.id SEPARATOR ',')"),
+                'book_names' => new Expression("GROUP_CONCAT(DISTINCT vb.name ORDER BY vb.id SEPARATOR ' | ')"),
+                'unit_ids' => new Expression("GROUP_CONCAT(DISTINCT vbu.id ORDER BY vbu.id SEPARATOR ',')"),
+                'unit_names' => new Expression("GROUP_CONCAT(DISTINCT vbu.name ORDER BY vbu.id SEPARATOR ' | ')"),
+            ])
+            ->innerJoin(['vur' => VocabularyUnitRelation::tableName()], 'vur.vocabulary_id = quiz.vocabulary_id')
+            ->innerJoin(['vb' => VocabularyBook::tableName()], 'vb.id = vur.book_id')
+            ->leftJoin(['vbu' => VocabularyBookUnit::tableName()], 'vbu.id = vur.unit_id')
+            ->innerJoin(['v' => Vocabulary::tableName()], 'v.id = quiz.vocabulary_id')
+            ->leftJoin(['ext' => VocabularyExt::tableName()], 'ext.vocabulary_id = v.id')
+            ->where([
+                'quiz.quiz_type' => 1,
+                'quiz.status' => 1,
+                'vur.status' => 1,
+                'vb.status' => 1,
+                'v.status' => 1,
+            ])
+            ->andWhere(['or', ['vbu.id' => null], ['vbu.status' => 1]])
+            ->groupBy([
+                'quiz.id',
+                'quiz.vocabulary_id',
+                'quiz.quiz_question',
+                'quiz.quiz_answer',
+                'quiz.quiz_translation',
+                'v.name',
+                'v.translation',
+                'v.definition',
+                'ext.core_meanings',
+                'ext.example_sentences',
+            ])
+            ->orderBy(['quiz.id' => SORT_ASC])
+            ->asArray();
+
+        if ($minBookId > 0) {
+            $query->andWhere(['>=', 'vb.id', $minBookId]);
+        }
+
+        if ($limit > 0) {
+            $query->limit($limit);
+        }
+
+        $quizzes = [];
+        foreach ($query->batch(500) as $rows) {
+            foreach ($rows as $row) {
+                $quizId = (int)($row['quiz_id'] ?? 0);
+                if ($quizId <= 0 || isset($quizzes[$quizId])) {
+                    continue;
+                }
+
+                $quizzes[$quizId] = [
+                    'quiz_id' => $quizId,
+                    'vocabulary_id' => (int)($row['vocabulary_id'] ?? 0),
+                    'books' => $this->buildIdNamePairs($row['book_ids'] ?? '', $row['book_names'] ?? ''),
+                    'units' => $this->buildIdNamePairs($row['unit_ids'] ?? '', $row['unit_names'] ?? ''),
+                    'word' => [
+                        'name' => (string)($row['word_name'] ?? ''),
+                        'translation' => (string)($row['word_translation'] ?? ''),
+                        'definition' => (string)($row['word_definition'] ?? ''),
+                        'core_meanings' => $this->decodeJsonLikeValue($row['core_meanings'] ?? null),
+                        'example_sentences' => $this->limitDecodedList(
+                            $this->decodeJsonLikeValue($row['example_sentences'] ?? null),
+                            3
+                        ),
+                    ],
+                    'question' => [
+                        'text' => (string)($row['quiz_question'] ?? ''),
+                        'translation_or_analysis' => (string)($row['quiz_translation'] ?? ''),
+                    ],
+                    'answer' => [
+                        'quiz_answer_raw' => (string)($row['quiz_answer'] ?? ''),
+                    ],
+                    'options' => [],
+                    'marked_correct_options' => [],
+                    'structural_flags' => [],
+                ];
+            }
+        }
+
+        $quizIds = array_keys($quizzes);
+        if ($quizIds !== []) {
+            $optionQuery = VocabularyQuizOption::find()
+                ->where(['quiz_id' => $quizIds])
+                ->orderBy(['quiz_id' => SORT_ASC, 'id' => SORT_ASC])
+                ->asArray();
+
+            foreach ($optionQuery->batch(500) as $optionRows) {
+                foreach ($optionRows as $option) {
+                    $quizId = (int)($option['quiz_id'] ?? 0);
+                    if (!isset($quizzes[$quizId])) {
+                        continue;
+                    }
+
+                    $optionPayload = [
+                        'id' => (int)($option['id'] ?? 0),
+                        'quiz_id' => $quizId,
+                        'definition' => (string)($option['definition'] ?? ''),
+                        'source_word' => (string)($option['source_word'] ?? ''),
+                        'pos' => (string)($option['pos'] ?? ''),
+                        'is_correct' => isset($option['is_correct']) ? (int)$option['is_correct'] : null,
+                    ];
+
+                    $quizzes[$quizId]['options'][] = $optionPayload;
+                    if ((int)($option['is_correct'] ?? 0) === 1) {
+                        $quizzes[$quizId]['marked_correct_options'][] = $optionPayload;
+                    }
+                }
+            }
+        }
+
+        foreach ($quizzes as $quizId => &$quiz) {
+            $answerRaw = (string)($quiz['answer']['quiz_answer_raw'] ?? '');
+            $answerOption = $this->findQuizAnswerOption($quiz['options'], $answerRaw);
+            $markedCorrectIds = array_map(static function (array $option): int {
+                return (int)$option['id'];
+            }, $quiz['marked_correct_options']);
+
+            $quiz['answer']['answer_option_id'] = $answerOption['id'] ?? null;
+            $quiz['answer']['answer_option'] = $answerOption;
+            $quiz['structural_flags'] = [
+                'option_count' => count($quiz['options']),
+                'marked_correct_count' => count($quiz['marked_correct_options']),
+                'quiz_answer_matches_marked_correct' => $answerOption !== null
+                    && in_array((int)$answerOption['id'], $markedCorrectIds, true),
+            ];
+        }
+        unset($quiz);
+
+        $result = array_values($quizzes);
+        FileHelper::createDirectory(dirname($outputPath));
+        $encoded = Json::encode($result, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
+        if ($encoded === false || file_put_contents($outputPath, $encoded) === false) {
+            $this->stderr("写入结果文件失败: {$outputPath}\n");
+            return ExitCode::UNSPECIFIED_ERROR;
+        }
+
+        $this->stdout(sprintf(
+            "导出完成：共 %d 道有效词书选择题。输出文件: %s\n",
+            count($result),
+            $outputPath
+        ));
+
+        return ExitCode::OK;
+    }
+
+    /**
+     * @return array<int,array{id:int,name:string}>
+     */
+    private function buildIdNamePairs($idsValue, $namesValue): array
+    {
+        $ids = array_values(array_filter(array_map('intval', explode(',', (string)$idsValue))));
+        $names = array_values(array_filter(explode(' | ', (string)$namesValue), static function (string $name): bool {
+            return $name !== '';
+        }));
+
+        $pairs = [];
+        foreach ($ids as $index => $id) {
+            $pairs[] = [
+                'id' => $id,
+                'name' => $names[$index] ?? '',
+            ];
+        }
+
+        return $pairs;
+    }
+
+    private function decodeJsonLikeValue($value)
+    {
+        if ($value === null || $value === '') {
+            return null;
+        }
+
+        if (is_array($value)) {
+            return $value;
+        }
+
+        if (!is_string($value)) {
+            return $value;
+        }
+
+        $decoded = json_decode($value, true);
+        if (json_last_error() === JSON_ERROR_NONE) {
+            return $decoded;
+        }
+
+        return $value;
+    }
+
+    private function limitDecodedList($value, int $limit)
+    {
+        if ($limit <= 0 || !is_array($value)) {
+            return $value;
+        }
+
+        return array_slice($value, 0, $limit);
+    }
+
+    /**
+     * @param array<int,array<string,mixed>> $options
+     * @return array<string,mixed>|null
+     */
+    private function findQuizAnswerOption(array $options, string $answerRaw): ?array
+    {
+        $answer = trim($answerRaw);
+        if ($answer === '') {
+            return null;
+        }
+
+        foreach ($options as $option) {
+            if ((string)($option['id'] ?? '') === $answer) {
+                return $option;
+            }
+        }
+
+        foreach ($options as $option) {
+            if (trim((string)($option['definition'] ?? '')) === $answer) {
+                return $option;
+            }
+        }
+
+        return null;
     }
 
     /**
