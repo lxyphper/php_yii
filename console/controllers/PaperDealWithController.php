@@ -376,7 +376,7 @@ class PaperDealWithController extends BaseController
         if (empty($str)) {
             return "";
         }
-        $url = "http://100.64.0.2:8085/translate-to-english/invoke";
+        $url = getenv('AI_TRANSLATE_ENDPOINT') ?: "http://127.0.0.1:8002/translate-to-english/invoke";
         //        $url = "http://100.64.0.6:8000/translate-to-english/invoke";
         //        $url = "http://172.16.80.182:8000/translate-to-english/invoke";
         $client = new Client();

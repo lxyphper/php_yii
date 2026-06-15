@@ -83,7 +83,15 @@
  *    示例: php yii student/mock-speaking-report "473,474" xlsx 1
  *
  * -----------------------------------------------------------------------------------------
- * 10. actionDownloadClassStudentAssets - 下载班级学生口语音频和作文 PDF
+ * 10. actionExportBfsuMockExamReport - 导出北外账号指定日期模考成绩
+ *    命令: php yii student/export-bfsu-mock-exam-report {start_date} {end_date} {output}
+ *    参数:
+ *      - start_date/end_date (string): 日期，默认 2026-05-20，支持 Y-m-d / Y.m.d / m.d
+ *      - output (string): 输出 xlsx 路径，可选
+ *    用途: 导出账号前缀 bfsu- 的学生在指定日期参与模考的明细，并汇总听力/阅读/写作三科都有成绩的数据与总时长
+ *
+ * -----------------------------------------------------------------------------------------
+ * 11. actionDownloadClassStudentAssets - 下载班级学生口语音频和作文 PDF
  *    命令: php yii student/download-class-student-assets "{class_ids}" {output_dir} {start_date} {end_date} {overwrite}
  *    参数:
  *      - class_ids (string): 逗号或空格分隔的班级ID
@@ -208,6 +216,304 @@ class StudentController extends BaseController
     public function actionMockSpeakingReport(string $class_ids, string $format = 'csv', int $split_sheet = 0): string
     {
         return $this->actionHomeworkTaskReport($class_ids, '', $format, $split_sheet, 1);
+    }
+
+    /**
+     * 导出账号前缀 bfsu- 的学生在指定日期的模考成绩。
+     *
+     * 示例：
+     * php yii student/export-bfsu-mock-exam-report 2026-05-20
+     * php yii student/export-bfsu-mock-exam-report 2026-05-20 2026-05-21
+     * php yii student/export-bfsu-mock-exam-report 5.20 5.21 console/runtime/tmp/bfsu_520_521_mock.xlsx
+     */
+    public function actionExportBfsuMockExamReport(string $start_date = '2026-05-20', string $end_date = '', string $output = ''): string
+    {
+        @ini_set('memory_limit', '512M');
+
+        if ($output === '' && $this->looksLikeBfsuMockExportOutputPath($end_date)) {
+            $output = $end_date;
+            $end_date = '';
+        }
+
+        try {
+            list($dateText, $startTime, $endTime) = $this->normalizeBfsuMockExportDateRange($start_date, $end_date);
+        } catch (\InvalidArgumentException $e) {
+            $this->stderr($e->getMessage() . "\n");
+            return '';
+        }
+
+        $records = SimulateExamRecord::find()
+            ->alias('r')
+            ->innerJoin(Student::tableName() . ' s', 's.id = r.student_id')
+            ->where('s.account LIKE :accountPrefix', [':accountPrefix' => 'bfsu-%'])
+            ->andWhere(['<>', 's.account', 'bfsu-123'])
+            ->andWhere([
+                'or',
+                ['between', 'r.create_time', $startTime, $endTime],
+                ['between', 'r.update_time', $startTime, $endTime],
+            ])
+            ->orderBy(['r.student_id' => SORT_ASC, 'r.create_time' => SORT_ASC, 'r.update_time' => SORT_ASC, 'r.id' => SORT_ASC])
+            ->all();
+
+        if (empty($records)) {
+            $this->stdout("未找到 {$dateText} 账号前缀 bfsu- 的模考记录。\n");
+            return '';
+        }
+
+        $studentIds = [];
+        $recordIds = [];
+        foreach ($records as $record) {
+            $studentIds[] = (int)$record->student_id;
+            $recordIds[] = (int)$record->id;
+        }
+        $studentIds = array_values(array_unique(array_filter($studentIds)));
+        $recordIds = array_values(array_unique(array_filter($recordIds)));
+
+        $students = Student::find()
+            ->where(['id' => $studentIds])
+            ->indexBy('id')
+            ->all();
+
+        $classNamesByStudentId = $this->loadClassNamesByStudentIds($studentIds);
+        $classStudentNamesByStudentId = $this->loadClassStudentNamesByStudentIds($studentIds);
+        $listeningByRecordId = SimulateExamListening::find()->where(['record_id' => $recordIds])->indexBy('record_id')->all();
+        $readingByRecordId = SimulateExamReading::find()->where(['record_id' => $recordIds])->indexBy('record_id')->all();
+        $writingByRecordId = SimulateExamWriting::find()->where(['record_id' => $recordIds])->indexBy('record_id')->all();
+        $records = array_values(array_filter($records, function ($record) use ($listeningByRecordId, $readingByRecordId, $writingByRecordId) {
+            return $this->isCompletedBfsuMockRecord(
+                $listeningByRecordId[$record->id] ?? null,
+                $readingByRecordId[$record->id] ?? null,
+                $writingByRecordId[$record->id] ?? null
+            );
+        }));
+        if (empty($records)) {
+            $this->stdout("未找到 {$dateText} 账号前缀 bfsu- 且已完成的模考记录。\n");
+            return '';
+        }
+
+        $writingScoringScorePartsByWritingId = $this->loadBfsuMockWritingScoreParts($writingByRecordId);
+
+        $examCountByStudentId = [];
+        foreach ($records as $record) {
+            $studentId = (int)$record->student_id;
+            $examCountByStudentId[$studentId] = ($examCountByStudentId[$studentId] ?? 0) + 1;
+        }
+
+        $detailRows = [];
+        $summaryByStudentId = [];
+        $attemptSummaryByStudentId = [];
+        $examSeqByStudentId = [];
+        foreach ($records as $record) {
+            $studentId = (int)$record->student_id;
+            $student = $students[$studentId] ?? null;
+            if ($student === null) {
+                continue;
+            }
+
+            $examSeqByStudentId[$studentId] = ($examSeqByStudentId[$studentId] ?? 0) + 1;
+            $examSeq = $examSeqByStudentId[$studentId];
+            $listening = $listeningByRecordId[$record->id] ?? null;
+            $reading = $readingByRecordId[$record->id] ?? null;
+            $writing = $writingByRecordId[$record->id] ?? null;
+            $listeningDurationSeconds = $this->getMockListeningDurationSeconds($listening);
+            $readingDurationSeconds = $this->getMockReadingDurationSeconds($reading);
+            $writingDurationParts = $this->getMockWritingDurationParts($writing);
+            $durationSeconds = $this->calculateMockDurationFromParts($listening, $reading, $writing);
+
+            $listeningScore = $this->getMockPartScore($listening);
+            $readingScore = $this->getMockPartScore($reading);
+            $writingScoreParts = $writing ? ($writingScoringScorePartsByWritingId[(int)$writing->id] ?? []) : [];
+            $smallEssayScore = $writingScoreParts['small_score'] ?? null;
+            $bigEssayScore = $writingScoreParts['big_score'] ?? null;
+            $writingScore = $writingScoreParts['writing_score'] ?? ($writing ? $this->getMockPartScore($writing) : null);
+            $hasAnyScore = $this->hasAnyBfsuMockScore($listeningScore, $readingScore, $writingScore);
+            $hasThreeScores = $this->hasBfsuMockThreeScores($listeningScore, $readingScore, $writingScore);
+            $scoreTotal = $hasThreeScores ? round((float)$listeningScore + (float)$readingScore + (float)$writingScore, 2) : '';
+            $scoreSummary = $this->formatMockThreeSubjectScores($listeningScore, $readingScore, $writingScore);
+            $writingScoreDetail = $this->formatMockWritingScoreParts($smallEssayScore, $bigEssayScore);
+            $examTime = (int)$record->create_time > 0 ? (int)$record->create_time : (int)$record->update_time;
+            $finishedTime = (int)$record->update_time > 0 ? (int)$record->update_time : (int)$record->create_time;
+            $studentName = $classStudentNamesByStudentId[$studentId] ?? (string)$student->name;
+            $account = (string)$student->account;
+            $classText = implode('、', $classNamesByStudentId[$studentId] ?? []);
+
+            $base = [
+                $studentName,
+                $account,
+                $classText,
+                $this->formatExportDateTime($examTime),
+                $this->formatExportDateTime($finishedTime),
+                $examCountByStudentId[$studentId] ?? 0,
+                $examSeq,
+                (int)$record->id,
+                (int)$record->type,
+                $this->formatNullableMockScore($listeningScore),
+                $this->formatNullableMockScore($readingScore),
+                $this->formatNullableMockScore($writingScore),
+                $this->formatNullableMockScore($smallEssayScore),
+                $this->formatNullableMockScore($bigEssayScore),
+                $scoreSummary,
+                $scoreTotal,
+                $hasThreeScores ? '是' : '否',
+                $hasAnyScore ? '是' : '否',
+                $durationSeconds,
+                $this->formatExportDuration($durationSeconds),
+                $listeningDurationSeconds,
+                $this->formatExportDuration($listeningDurationSeconds),
+                $readingDurationSeconds,
+                $this->formatExportDuration($readingDurationSeconds),
+                $writingDurationParts['small_seconds'],
+                $this->formatExportDuration($writingDurationParts['small_seconds']),
+                $writingDurationParts['big_seconds'],
+                $this->formatExportDuration($writingDurationParts['big_seconds']),
+            ];
+            $detailRows[] = $base;
+
+            if ($hasThreeScores) {
+                if (!isset($summaryByStudentId[$studentId])) {
+                    $summaryByStudentId[$studentId] = [
+                        'name' => $studentName,
+                        'account' => $account,
+                        'classes' => $classText,
+                        'exam_count' => $examCountByStudentId[$studentId] ?? 0,
+                        'complete_count' => 0,
+                        'duration_seconds' => 0,
+                        'listening_duration_seconds' => 0,
+                        'reading_duration_seconds' => 0,
+                        'small_essay_duration_seconds' => 0,
+                        'big_essay_duration_seconds' => 0,
+                        'listening_scores' => [],
+                        'reading_scores' => [],
+                        'writing_scores' => [],
+                        'small_essay_scores' => [],
+                        'big_essay_scores' => [],
+                        'total_scores' => [],
+                        'score_details' => [],
+                    ];
+                }
+
+                $summaryByStudentId[$studentId]['complete_count']++;
+                $summaryByStudentId[$studentId]['duration_seconds'] += $durationSeconds;
+                $summaryByStudentId[$studentId]['listening_duration_seconds'] += $listeningDurationSeconds;
+                $summaryByStudentId[$studentId]['reading_duration_seconds'] += $readingDurationSeconds;
+                $summaryByStudentId[$studentId]['small_essay_duration_seconds'] += $writingDurationParts['small_seconds'];
+                $summaryByStudentId[$studentId]['big_essay_duration_seconds'] += $writingDurationParts['big_seconds'];
+                $summaryByStudentId[$studentId]['listening_scores'][] = (float)$listeningScore;
+                $summaryByStudentId[$studentId]['reading_scores'][] = (float)$readingScore;
+                $summaryByStudentId[$studentId]['writing_scores'][] = (float)$writingScore;
+                if ($this->isMockScorePresent($smallEssayScore)) {
+                    $summaryByStudentId[$studentId]['small_essay_scores'][] = (float)$smallEssayScore;
+                }
+                if ($this->isMockScorePresent($bigEssayScore)) {
+                    $summaryByStudentId[$studentId]['big_essay_scores'][] = (float)$bigEssayScore;
+                }
+                $summaryByStudentId[$studentId]['total_scores'][] = (float)$scoreTotal;
+                $summaryByStudentId[$studentId]['score_details'][] = sprintf(
+                    '第%d次 %s %s；%s',
+                    $examSeq,
+                    $this->formatExportDateTime($examTime),
+                    $scoreSummary,
+                    $writingScoreDetail
+                );
+            }
+
+            if ($hasAnyScore) {
+                if (!isset($attemptSummaryByStudentId[$studentId])) {
+                    $attemptSummaryByStudentId[$studentId] = [
+                        'name' => $studentName,
+                        'account' => $account,
+                        'classes' => $classText,
+                        'exam_count' => $examCountByStudentId[$studentId] ?? 0,
+                        'scored_count' => 0,
+                        'duration_seconds' => 0,
+                        'listening_duration_seconds' => 0,
+                        'reading_duration_seconds' => 0,
+                        'small_essay_duration_seconds' => 0,
+                        'big_essay_duration_seconds' => 0,
+                        'score_details' => [],
+                    ];
+                }
+
+                $attemptSummaryByStudentId[$studentId]['scored_count']++;
+                $attemptSummaryByStudentId[$studentId]['duration_seconds'] += $durationSeconds;
+                $attemptSummaryByStudentId[$studentId]['listening_duration_seconds'] += $listeningDurationSeconds;
+                $attemptSummaryByStudentId[$studentId]['reading_duration_seconds'] += $readingDurationSeconds;
+                $attemptSummaryByStudentId[$studentId]['small_essay_duration_seconds'] += $writingDurationParts['small_seconds'];
+                $attemptSummaryByStudentId[$studentId]['big_essay_duration_seconds'] += $writingDurationParts['big_seconds'];
+                $attemptSummaryByStudentId[$studentId]['score_details'][] = sprintf(
+                    '第%d次 %s %s；%s',
+                    $examSeq,
+                    $this->formatExportDateTime($examTime),
+                    $scoreSummary,
+                    $writingScoreDetail
+                );
+            }
+        }
+
+        $summaryRows = [];
+        foreach ($summaryByStudentId as $summary) {
+            $summaryRows[] = [
+                $summary['name'],
+                $summary['account'],
+                $summary['classes'],
+                $summary['exam_count'],
+                $summary['complete_count'],
+                $summary['duration_seconds'],
+                $this->formatExportDuration($summary['duration_seconds']),
+                $summary['listening_duration_seconds'],
+                $this->formatExportDuration($summary['listening_duration_seconds']),
+                $summary['reading_duration_seconds'],
+                $this->formatExportDuration($summary['reading_duration_seconds']),
+                $summary['small_essay_duration_seconds'],
+                $this->formatExportDuration($summary['small_essay_duration_seconds']),
+                $summary['big_essay_duration_seconds'],
+                $this->formatExportDuration($summary['big_essay_duration_seconds']),
+                $this->averageMockScores($summary['listening_scores']),
+                $this->averageMockScores($summary['reading_scores']),
+                $this->averageMockScores($summary['writing_scores']),
+                $this->averageMockScores($summary['small_essay_scores']),
+                $this->averageMockScores($summary['big_essay_scores']),
+                $this->formatMockThreeSubjectScores(
+                    $this->averageMockScores($summary['listening_scores']),
+                    $this->averageMockScores($summary['reading_scores']),
+                    $this->averageMockScores($summary['writing_scores'])
+                ),
+                $this->averageMockScores($summary['total_scores']),
+                implode("\n", $summary['score_details']),
+            ];
+        }
+
+        $threeScoredAttemptRows = [];
+        foreach ($attemptSummaryByStudentId as $summary) {
+            if ((int)$summary['scored_count'] < 3) {
+                continue;
+            }
+            $threeScoredAttemptRows[] = [
+                $summary['name'],
+                $summary['account'],
+                $summary['classes'],
+                $summary['exam_count'],
+                $summary['scored_count'],
+                $summary['duration_seconds'],
+                $this->formatExportDuration($summary['duration_seconds']),
+                $summary['listening_duration_seconds'],
+                $this->formatExportDuration($summary['listening_duration_seconds']),
+                $summary['reading_duration_seconds'],
+                $this->formatExportDuration($summary['reading_duration_seconds']),
+                $summary['small_essay_duration_seconds'],
+                $this->formatExportDuration($summary['small_essay_duration_seconds']),
+                $summary['big_essay_duration_seconds'],
+                $this->formatExportDuration($summary['big_essay_duration_seconds']),
+                implode("\n", $summary['score_details']),
+            ];
+        }
+
+        $filePath = $this->resolveBfsuMockExportOutputPath($output, $dateText);
+        $this->writeBfsuMockExamWorkbook($filePath, $dateText, $detailRows, $summaryRows, $threeScoredAttemptRows);
+
+        $this->stdout("导出成功，文件路径：{$filePath}\n");
+        $this->stdout("模考明细：" . count($detailRows) . " 条；三科完整汇总：" . count($summaryRows) . " 人；三次有成绩汇总：" . count($threeScoredAttemptRows) . " 人。\n");
+        return $filePath;
     }
 
     /**
@@ -807,6 +1113,456 @@ class StudentController extends BaseController
             if (function_exists('gc_collect_cycles')) {
                 gc_collect_cycles();
             }
+        }
+    }
+
+    private function normalizeBfsuMockExportDate(string $date): array
+    {
+        $date = trim($date);
+        if ($date === '') {
+            $date = '2026-05-20';
+        }
+
+        if (preg_match('/^(\d{4})[-\.](\d{1,2})[-\.](\d{1,2})$/', $date, $m)) {
+            $year = (int)$m[1];
+            $month = (int)$m[2];
+            $day = (int)$m[3];
+        } elseif (preg_match('/^(\d{1,2})[-\.](\d{1,2})$/', $date, $m)) {
+            $year = (int)date('Y');
+            $month = (int)$m[1];
+            $day = (int)$m[2];
+        } else {
+            $time = strtotime($date);
+            if ($time === false) {
+                throw new \InvalidArgumentException('日期格式错误，请使用 Y-m-d、Y.m.d 或 m.d，例如 2026-05-20 / 2026.5.20 / 5.20');
+            }
+            $year = (int)date('Y', $time);
+            $month = (int)date('m', $time);
+            $day = (int)date('d', $time);
+        }
+
+        if (!checkdate($month, $day, $year)) {
+            throw new \InvalidArgumentException('日期不存在：' . $date);
+        }
+
+        $dateText = sprintf('%04d-%02d-%02d', $year, $month, $day);
+        $startTime = strtotime($dateText . ' 00:00:00');
+        $endTime = strtotime($dateText . ' 23:59:59');
+        if ($startTime === false || $endTime === false) {
+            throw new \InvalidArgumentException('日期转换失败：' . $dateText);
+        }
+
+        return [$dateText, $startTime, $endTime];
+    }
+
+    private function normalizeBfsuMockExportDateRange(string $startDate, string $endDate): array
+    {
+        list($startDateText, $startTime) = $this->normalizeBfsuMockExportDate($startDate);
+        if (trim($endDate) === '') {
+            $endDateText = $startDateText;
+            $endTime = strtotime($endDateText . ' 23:59:59');
+        } else {
+            list($endDateText, , $endTime) = $this->normalizeBfsuMockExportDate($endDate);
+        }
+
+        if ($endTime === false) {
+            throw new \InvalidArgumentException('日期转换失败：' . $endDateText);
+        }
+        if ($startTime > $endTime) {
+            throw new \InvalidArgumentException('开始日期不能大于结束日期');
+        }
+
+        $dateText = $startDateText === $endDateText ? $startDateText : $startDateText . '_' . $endDateText;
+        return [$dateText, $startTime, $endTime];
+    }
+
+    private function looksLikeBfsuMockExportOutputPath(string $value): bool
+    {
+        $value = trim($value);
+        if ($value === '') {
+            return false;
+        }
+
+        return stripos($value, '.xlsx') !== false
+            || strpos($value, '/') !== false
+            || strpos($value, '\\') !== false
+            || strpos($value, '@') === 0;
+    }
+
+    private function loadClassNamesByStudentIds(array $studentIds): array
+    {
+        $studentIds = array_values(array_unique(array_filter(array_map('intval', $studentIds), static function ($id) {
+            return $id > 0;
+        })));
+        if (empty($studentIds)) {
+            return [];
+        }
+
+        $rows = (new Query())
+            ->from(['ecs' => EduClassStudent::tableName()])
+            ->leftJoin(['c' => EduClass::tableName()], 'c.id = ecs.class_id')
+            ->select([
+                'student_id' => 'ecs.student_id',
+                'class_id' => 'ecs.class_id',
+                'class_name' => 'c.name',
+                'create_time' => 'ecs.create_time',
+                'update_time' => 'ecs.update_time',
+            ])
+            ->where(['ecs.student_id' => $studentIds])
+            ->orderBy(['ecs.student_id' => SORT_ASC, 'ecs.class_id' => SORT_ASC])
+            ->all();
+
+        $classRowsByStudentId = [];
+        foreach ($rows as $row) {
+            $studentId = (int)$row['student_id'];
+            if ($studentId <= 0) {
+                continue;
+            }
+            $classRowsByStudentId[$studentId][] = $row;
+        }
+
+        $result = [];
+        foreach ($classRowsByStudentId as $studentId => $classRows) {
+            $hasDatedClass = false;
+            foreach ($classRows as $row) {
+                if ((int)($row['create_time'] ?? 0) > 0 || (int)($row['update_time'] ?? 0) > 0) {
+                    $hasDatedClass = true;
+                    break;
+                }
+            }
+
+            foreach ($classRows as $row) {
+                if (
+                    $hasDatedClass
+                    && (int)($row['create_time'] ?? 0) <= 0
+                    && (int)($row['update_time'] ?? 0) <= 0
+                ) {
+                    continue;
+                }
+
+                $classId = (int)$row['class_id'];
+                $className = trim((string)($row['class_name'] ?? ''));
+                if ($className === '') {
+                    $className = '班级' . $classId;
+                }
+                $result[$studentId][$classId] = $className;
+            }
+
+            if (isset($result[$studentId])) {
+                $result[$studentId] = array_values($result[$studentId]);
+            }
+        }
+
+        return $result;
+    }
+
+    private function loadClassStudentNamesByStudentIds(array $studentIds): array
+    {
+        $studentIds = array_values(array_unique(array_filter(array_map('intval', $studentIds), static function ($id) {
+            return $id > 0;
+        })));
+        if (empty($studentIds)) {
+            return [];
+        }
+
+        $rows = (new Query())
+            ->from(EduClassStudent::tableName())
+            ->select(['id', 'student_id', 'student_name', 'class_id', 'create_time', 'update_time'])
+            ->where(['student_id' => $studentIds])
+            ->orderBy([
+                'student_id' => SORT_ASC,
+                'update_time' => SORT_DESC,
+                'create_time' => SORT_DESC,
+                'id' => SORT_DESC,
+            ])
+            ->all();
+
+        $result = [];
+        foreach ($rows as $row) {
+            $studentId = (int)$row['student_id'];
+            $studentName = trim((string)($row['student_name'] ?? ''));
+            if ($studentId <= 0 || $studentName === '' || isset($result[$studentId])) {
+                continue;
+            }
+            $result[$studentId] = $studentName;
+        }
+
+        return $result;
+    }
+
+    private function extractBfsuStudentNo(string $account): string
+    {
+        return stripos($account, 'bfsu-') === 0 ? substr($account, 5) : $account;
+    }
+
+    private function hasBfsuMockThreeScores($listeningScore, $readingScore, $writingScore): bool
+    {
+        return $this->isMockScorePresent($listeningScore)
+            && $this->isMockScorePresent($readingScore)
+            && $this->isMockScorePresent($writingScore);
+    }
+
+    private function hasAnyBfsuMockScore($listeningScore, $readingScore, $writingScore): bool
+    {
+        return $this->isMockScorePresent($listeningScore)
+            || $this->isMockScorePresent($readingScore)
+            || $this->isMockScorePresent($writingScore);
+    }
+
+    private function getMockPartScore($record)
+    {
+        if ($record === null || !$record->hasAttribute('score')) {
+            return null;
+        }
+        if ($record->hasAttribute('status') && (int)$record->getAttribute('status') < 3) {
+            return null;
+        }
+
+        return $record->getAttribute('score');
+    }
+
+    private function loadBfsuMockWritingScoreParts(array $writingByRecordId): array
+    {
+        $writingIds = [];
+        foreach ($writingByRecordId as $writing) {
+            if ($writing !== null && isset($writing->id)) {
+                $writingIds[] = (int)$writing->id;
+            }
+        }
+        $writingIds = array_values(array_unique(array_filter($writingIds, static function ($id) {
+            return $id > 0;
+        })));
+        if (empty($writingIds)) {
+            return [];
+        }
+
+        $bigEssayScores = $this->loadWritingScoringScoresByBizIds($writingIds, 3, null);
+        $smallEssayScores = $this->loadWritingScoringScoresByBizIds($writingIds, 4, null);
+        $scoreParts = [];
+        foreach ($writingIds as $writingId) {
+            $bigEssayScore = $bigEssayScores[$writingId] ?? null;
+            $smallEssayScore = $smallEssayScores[$writingId] ?? null;
+            if (!$this->isMockScorePresent($bigEssayScore) && !$this->isMockScorePresent($smallEssayScore)) {
+                continue;
+            }
+
+            $scoreParts[$writingId] = [
+                'small_score' => $smallEssayScore,
+                'big_score' => $bigEssayScore,
+                'writing_score' => $this->calculateBfsuMockWritingWeightedScore($smallEssayScore, $bigEssayScore),
+            ];
+        }
+
+        return $scoreParts;
+    }
+
+    private function loadBfsuMockWritingScores(array $writingByRecordId): array
+    {
+        $scores = [];
+        foreach ($this->loadBfsuMockWritingScoreParts($writingByRecordId) as $writingId => $scoreParts) {
+            if (isset($scoreParts['writing_score']) && $this->isMockScorePresent($scoreParts['writing_score'])) {
+                $scores[$writingId] = $scoreParts['writing_score'];
+            }
+        }
+
+        return $scores;
+    }
+
+    private function calculateBfsuMockWritingWeightedScore($smallEssayScore, $bigEssayScore)
+    {
+        if (!$this->isMockScorePresent($smallEssayScore) || !$this->isMockScorePresent($bigEssayScore)) {
+            return null;
+        }
+
+        return round((float)$bigEssayScore * 0.66 + (float)$smallEssayScore * 0.33, 2);
+    }
+
+    private function isMockScorePresent($score): bool
+    {
+        return $score !== null && $score !== '' && is_numeric($score);
+    }
+
+    private function formatNullableMockScore($score)
+    {
+        if (!$this->isMockScorePresent($score)) {
+            return '';
+        }
+
+        return round((float)$score, 2);
+    }
+
+    private function formatMockThreeSubjectScores($listeningScore, $readingScore, $writingScore): string
+    {
+        return '听力：' . $this->formatMockScoreForSummary($listeningScore)
+            . '；阅读：' . $this->formatMockScoreForSummary($readingScore)
+            . '；写作：' . $this->formatMockScoreForSummary($writingScore);
+    }
+
+    private function formatMockWritingScoreParts($smallEssayScore, $bigEssayScore): string
+    {
+        return '小作文：' . $this->formatMockScoreForSummary($smallEssayScore)
+            . '；大作文：' . $this->formatMockScoreForSummary($bigEssayScore);
+    }
+
+    private function formatMockScoreForSummary($score): string
+    {
+        $score = $this->formatNullableMockScore($score);
+        return $score === '' ? '-' : (string)$score;
+    }
+
+    private function averageMockScores(array $scores)
+    {
+        $scores = array_values(array_filter($scores, static function ($score) {
+            return is_numeric($score);
+        }));
+        if (empty($scores)) {
+            return '';
+        }
+
+        return round(array_sum($scores) / count($scores), 2);
+    }
+
+    private function resolveBfsuMockExportOutputPath(string $output, string $dateText): string
+    {
+        $output = trim($output);
+        if ($output === '') {
+            $output = dirname(__FILE__, 2) . '/runtime/tmp/bfsu_mock_exam_' . str_replace('-', '', $dateText) . '.xlsx';
+        } elseif (strpos($output, '@') === 0) {
+            $output = Yii::getAlias($output);
+        }
+
+        if (strtolower(pathinfo($output, PATHINFO_EXTENSION)) !== 'xlsx') {
+            $output .= '.xlsx';
+        }
+
+        $dir = dirname($output);
+        if (!is_dir($dir)) {
+            mkdir($dir, 0777, true);
+        }
+
+        return $output;
+    }
+
+    private function writeBfsuMockExamWorkbook(string $filePath, string $dateText, array $detailRows, array $summaryRows, array $threeScoredAttemptRows): void
+    {
+        $spreadsheet = new Spreadsheet();
+
+        $detailHeader = [
+            '姓名',
+            '账号',
+            '班级',
+            '考试时间',
+            '完成/更新时间',
+            '考试次数',
+            '考试序号',
+            '模考记录ID',
+            '模考类型',
+            '听力成绩',
+            '阅读成绩',
+            '写作成绩',
+            '小作文成绩',
+            '大作文成绩',
+            '三科成绩',
+            '三科成绩合计',
+            '三科都有成绩',
+            '本次有成绩',
+            '总时长(秒)',
+            '总时长',
+            '听力时长(秒)',
+            '听力时长',
+            '阅读时长(秒)',
+            '阅读时长',
+            '小作文时长(秒)',
+            '小作文时长',
+            '大作文时长(秒)',
+            '大作文时长',
+        ];
+
+        $detailSheet = $spreadsheet->getActiveSheet();
+        $detailSheet->setTitle('模考明细');
+        $detailSheet->fromArray($detailHeader, null, 'A1', true);
+        if (!empty($detailRows)) {
+            $detailSheet->fromArray($detailRows, null, 'A2', true);
+        }
+        $this->autoSizeSpreadsheetColumns($detailSheet, count($detailHeader));
+
+        $summaryHeader = [
+            '姓名',
+            '账号',
+            '班级',
+            '当天考试次数',
+            '三科完整次数',
+            '三科完整总时长(秒)',
+            '三科完整总时长',
+            '听力总时长(秒)',
+            '听力总时长',
+            '阅读总时长(秒)',
+            '阅读总时长',
+            '小作文总时长(秒)',
+            '小作文总时长',
+            '大作文总时长(秒)',
+            '大作文总时长',
+            '听力平均成绩',
+            '阅读平均成绩',
+            '写作平均成绩',
+            '小作文平均成绩',
+            '大作文平均成绩',
+            '三科平均成绩',
+            '三科合计平均',
+            '每次完整成绩',
+        ];
+
+        $summarySheet = $spreadsheet->createSheet(1);
+        $summarySheet->setTitle('三科完整汇总');
+        $summarySheet->fromArray($summaryHeader, null, 'A1', true);
+        if (!empty($summaryRows)) {
+            $summarySheet->fromArray($summaryRows, null, 'A2', true);
+            $summarySheet->getStyle('W2:W' . (count($summaryRows) + 1))->getAlignment()->setWrapText(true);
+        }
+        $this->autoSizeSpreadsheetColumns($summarySheet, count($summaryHeader));
+
+        $threeAttemptHeader = [
+            '姓名',
+            '账号',
+            '班级',
+            '当天考试次数',
+            '有成绩考试次数',
+            '有成绩考试总时长(秒)',
+            '有成绩考试总时长',
+            '听力总时长(秒)',
+            '听力总时长',
+            '阅读总时长(秒)',
+            '阅读总时长',
+            '小作文总时长(秒)',
+            '小作文总时长',
+            '大作文总时长(秒)',
+            '大作文总时长',
+            '每次三科成绩',
+        ];
+
+        $threeAttemptSheet = $spreadsheet->createSheet(2);
+        $threeAttemptSheet->setTitle('三次有成绩汇总');
+        $threeAttemptSheet->fromArray($threeAttemptHeader, null, 'A1', true);
+        if (!empty($threeScoredAttemptRows)) {
+            $threeAttemptSheet->fromArray($threeScoredAttemptRows, null, 'A2', true);
+            $threeAttemptSheet->getStyle('P2:P' . (count($threeScoredAttemptRows) + 1))->getAlignment()->setWrapText(true);
+        }
+        $this->autoSizeSpreadsheetColumns($threeAttemptSheet, count($threeAttemptHeader));
+
+        $spreadsheet->getProperties()
+            ->setTitle('北外账号模考成绩导出')
+            ->setSubject($dateText . ' bfsu- mock exam report');
+
+        $writer = new Xlsx($spreadsheet);
+        $writer->setPreCalculateFormulas(false);
+        $writer->save($filePath);
+        $spreadsheet->disconnectWorksheets();
+    }
+
+    private function autoSizeSpreadsheetColumns($sheet, int $columnCount): void
+    {
+        for ($col = 1; $col <= $columnCount; $col++) {
+            $sheet->getColumnDimensionByColumn($col)->setAutoSize(true);
         }
     }
 
@@ -3861,11 +4617,79 @@ class StudentController extends BaseController
     private function calculateMockDurationFromParts(?SimulateExamListening $listening, ?SimulateExamReading $reading, ?SimulateExamWriting $writing): int
     {
         $duration = 0;
-        $duration += $this->calculateUsedSecondsFromSurplusTime($listening ? $listening->surplus_time : null, 1800);
-        $duration += $this->calculateUsedSecondsFromSurplusTime($reading ? $reading->surplus_time : null, 3600);
-        $duration += $this->calculateUsedSecondsFromSurplusTime($writing ? $writing->surplus_time : null, 3600);
+        $duration += $this->getMockListeningDurationSeconds($listening);
+        $duration += $this->getMockReadingDurationSeconds($reading);
+        $writingDurationParts = $this->getMockWritingDurationParts($writing);
+        $duration += $writingDurationParts['total_seconds'];
 
         return $duration;
+    }
+
+    private function getMockListeningDurationSeconds(?SimulateExamListening $listening): int
+    {
+        return $this->calculateUsedSecondsFromSurplusTime($listening ? $listening->surplus_time : null, 1800);
+    }
+
+    private function getMockReadingDurationSeconds(?SimulateExamReading $reading): int
+    {
+        return $this->calculateUsedSecondsFromSurplusTime($reading ? $reading->surplus_time : null, 3600);
+    }
+
+    private function isCompletedBfsuMockRecord(?SimulateExamListening $listening, ?SimulateExamReading $reading, ?SimulateExamWriting $writing): bool
+    {
+        return $this->isCompletedBfsuMockPart($listening)
+            && $this->isCompletedBfsuMockPart($reading)
+            && $this->isCompletedBfsuMockPart($writing);
+    }
+
+    private function isCompletedBfsuMockPart($part): bool
+    {
+        return $part !== null
+            && $part->hasAttribute('status')
+            && (int)$part->getAttribute('status') >= 3;
+    }
+
+    private function getMockWritingDurationParts(?SimulateExamWriting $writing): array
+    {
+        if ($writing === null) {
+            return [
+                'small_seconds' => 0,
+                'big_seconds' => 0,
+                'total_seconds' => 0,
+            ];
+        }
+
+        $smallSeconds = $this->getMockWritingDurationAttributeSeconds($writing, 'task1_duration');
+        $bigSeconds = $this->getMockWritingDurationAttributeSeconds($writing, 'task2_duration');
+        $taskDurationSeconds = $smallSeconds + $bigSeconds;
+
+        if ($taskDurationSeconds <= 0) {
+            $taskDurationSeconds = $this->calculateUsedSecondsFromSurplusTime(
+                $writing->hasAttribute('surplus_time') ? $writing->getAttribute('surplus_time') : null,
+                3600
+            );
+        }
+
+        return [
+            'small_seconds' => $smallSeconds,
+            'big_seconds' => $bigSeconds,
+            'total_seconds' => $taskDurationSeconds,
+        ];
+    }
+
+    private function getMockWritingDurationAttributeSeconds(SimulateExamWriting $writing, string $attribute): int
+    {
+        if (!$writing->hasAttribute($attribute)) {
+            return 0;
+        }
+
+        $value = $writing->getAttribute($attribute);
+        if ($value === null || $value === '' || !is_numeric($value)) {
+            return 0;
+        }
+
+        $seconds = (int)round((float)$value);
+        return max(0, $seconds);
     }
 
     private function calculateUsedSecondsFromSurplusTime($surplusTime, int $totalSeconds): int

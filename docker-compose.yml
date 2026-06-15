@@ -4,6 +4,8 @@ services:
 
   frontend:
     build: frontend
+    environment:
+      AI_TRANSLATE_ENDPOINT: http://host.docker.internal:8002/translate-to-english/invoke
     ports:
       - 20080:80
     volumes:
@@ -14,6 +16,8 @@ services:
 
   backend:
     build: backend
+    environment:
+      AI_TRANSLATE_ENDPOINT: http://host.docker.internal:8002/translate-to-english/invoke
     ports:
       - 21080:80
     volumes:
